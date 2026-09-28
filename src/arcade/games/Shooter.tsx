@@ -194,7 +194,7 @@ function drawRock(ctx: CanvasRenderingContext2D, e: Enemy, x: number, y: number)
   ctx.restore()
 }
 
-export function Shooter({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const typingMode = mode as TypingMode
   const { canvasRef, stage } = useStage()
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
@@ -288,7 +288,7 @@ export function Shooter({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       ch: makeChallenge(word, deck.lang, typingMode),
       x,
       y: 0.1,
-      speed: 1 / Math.max(8, 17 - g.level * 0.9),
+      speed: pace / Math.max(8, 17 - g.level * 0.9),
       radius: rand(18, 24),
       rot: Math.random() * Math.PI,
       spin: rand(-1, 1),
@@ -344,7 +344,7 @@ export function Shooter({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       if (g.enemies.length === 0) g.spawnIn = Math.min(g.spawnIn, 0.5)
       if (g.spawnIn <= 0 && g.enemies.length < Math.min(6, 2 + g.level)) {
         spawn()
-        g.spawnIn = Math.max(1.2, 3.2 - g.level * 0.25)
+        g.spawnIn = Math.max(1.2, 3.2 - g.level * 0.25) / pace
       }
     }
     for (const e of g.enemies) {

@@ -52,7 +52,7 @@ function createState() {
   }
 }
 
-export function Rain({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Rain({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const set = SCRIPT_SETS[deck.lang].find((s) => s.id === mode) ?? SCRIPT_SETS[deck.lang][0]
   const glyphSize = deck.lang === 'en' ? 40 : 34
   const { canvasRef, stage } = useStage()
@@ -119,7 +119,7 @@ export function Rain({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       item,
       x,
       y: 1.08,
-      speed: 1 / Math.max(5.5, 12 - g.level * 0.7),
+      speed: pace / Math.max(5.5, 12 - g.level * 0.7),
       color: pick(COLORS),
       phase: Math.random() * Math.PI * 2,
       locked: false,
@@ -139,7 +139,7 @@ export function Rain({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       if (g.balloons.length === 0) g.spawnIn = Math.min(g.spawnIn, 0.3)
       if (g.spawnIn <= 0 && g.balloons.length < Math.min(8, 2 + g.level)) {
         spawn()
-        g.spawnIn = Math.max(0.7, 2 - g.level * 0.15)
+        g.spawnIn = Math.max(0.7, 2 - g.level * 0.15) / pace
       }
     }
     for (const b of g.balloons) b.y -= b.speed * dt

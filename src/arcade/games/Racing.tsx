@@ -84,7 +84,7 @@ function createState() {
 
 const NO_CHOICES: Choice[] = Array.from({ length: LANES }, () => ({ label: '…', correct: false }))
 
-export function Racing({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const choiceMode = mode === 'choice'
   const typingMode = (choiceMode ? 'meaning' : mode) as TypingMode
   const { canvasRef, stage } = useStage()
@@ -204,7 +204,7 @@ export function Racing({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     const roadX = (w - roadW) / 2
     const laneW = roadW / LANES
     const laneX = (i: number) => roadX + laneW * (i + 0.5)
-    const base = (choiceMode ? 0.15 : 0.1) + Math.min(0.1, g.time * 0.0018)
+    const base = ((choiceMode ? 0.15 : 0.1) + Math.min(0.1, g.time * 0.0018)) * pace
     const v = g.endIn !== null ? 0 : base * (g.boostT > 0 ? 1.4 : 1)
     g.time += dt
 

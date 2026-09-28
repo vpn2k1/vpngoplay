@@ -124,7 +124,7 @@ function drawBird(
   ctx.restore()
 }
 
-export function Flappy({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Flappy({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const reverse = mode === 'reverse'
   const { canvasRef, stage } = useStage()
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
@@ -215,7 +215,7 @@ export function Flappy({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     const colW = clamp(w * 0.12, 54, 90)
     const r = clamp(h * 0.035, 12, 20)
     const birdX = BIRD_X * w
-    const v = g.started && g.endIn === null ? 0.15 + Math.min(0.08, g.time * 0.0012) : 0
+    const v = g.started && g.endIn === null ? (0.15 + Math.min(0.08, g.time * 0.0012)) * pace : 0
 
     // --- update
     if (g.started && g.endIn === null) {

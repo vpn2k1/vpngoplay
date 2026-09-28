@@ -26,6 +26,8 @@ export interface ArcadeGame {
   trackSrs?: boolean
   /** false when the game has its own content (Mưa chữ uses each language's alphabet, not a deck) */
   usesDeck?: boolean
+  /** false when nothing moves on its own (the speed setting does not apply) */
+  paced?: boolean
 }
 
 export const ARCADE_GAMES = {
@@ -115,6 +117,7 @@ export const ARCADE_GAMES = {
   },
   memory: {
     id: 'memory',
+    paced: false,
     title: 'Lật hình',
     icon: '🧠',
     color: 'from-pink-500 to-rose-600',
@@ -148,6 +151,7 @@ export const ARCADE_GAMES = {
   },
   truefalse: {
     id: 'truefalse',
+    paced: false,
     title: 'Đúng hay sai',
     icon: '✅',
     color: 'from-teal-400 to-cyan-600',
@@ -163,3 +167,11 @@ export const ARCADE_GAMES = {
 } satisfies Record<string, ArcadeGame>
 
 export type ArcadeGameId = keyof typeof ARCADE_GAMES
+
+/** A random word game (not an alphabet game), different from `current` when possible. */
+export function randomGameId(current?: string): ArcadeGameId {
+  const ids = (Object.keys(ARCADE_GAMES) as ArcadeGameId[]).filter(
+    (id) => (ARCADE_GAMES[id] as ArcadeGame).usesDeck !== false && id !== current,
+  )
+  return ids[Math.floor(Math.random() * ids.length)]
+}

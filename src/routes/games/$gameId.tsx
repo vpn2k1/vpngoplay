@@ -1,20 +1,34 @@
 import { useSuspenseQueries, useSuspenseQuery } from '@tanstack/react-query'
 import { Link, createFileRoute, notFound } from '@tanstack/react-router'
-import { useCallback } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { z } from 'zod'
 import { ArcadeShell } from '../../arcade/ArcadeShell'
 import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
-import { ARCADE_GAMES, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
+import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
+import { Bookmark, Dices, GraduationCap } from 'lucide-react'
 import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, TRACK_ICON } from '../../components/icons'
 import { cx } from '../../components/ui'
-import { catalogQuery, courseQuery, coursesQuery, deckQuery } from '../../lib/api'
+import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery } from '../../lib/api'
+import {
+  MIN_REVIEW_WORDS,
+  REVIEW_LEARNED,
+  REVIEW_SAVED,
+  isReviewSource,
+  learnedDeck,
+  learnedDeckIds,
+  learnedKeysOf,
+  savedDeck,
+  savedWordsOf,
+  type ReviewSource,
+} from '../../lib/review'
 import { useProgress } from '../../lib/store'
 import { COURSE_LABEL, LANGS, TRACKS, type Deck, type Lang } from '../../lib/types'
 
 export const Route = createFileRoute('/games/$gameId')({
   validateSearch: z.object({
     lang: z.enum(['en', 'ja', 'zh']).optional(),
-    /** a topic deck id, a course id (all its words), or "all" for every topic deck of the language */
+    /** a topic deck id, a course id (all its words), "all" for every topic deck of the language,
+     *  or a review set: "saved" (word book) / "learned" (every studied word) */
     deck: z.string().optional(),
   }),
   beforeLoad: ({ params }) => {
@@ -24,6 +38,11 @@ export const Route = createFileRoute('/games/$gameId')({
     Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
   component: GamePage,
 })
+
+const REVIEW_SOURCES = [
+  { id: REVIEW_SAVED, label: 'Sổ từ của tôi', Icon: Bookmark, empty: 'bấm 🔖 để lưu từ' },
+  { id: REVIEW_LEARNED, label: 'Tất cả từ đã học', Icon: GraduationCap, empty: 'học thêm vài bài' },
+] as const
 
 const chip = (active: boolean) =>
   cx(
@@ -44,8 +63,19 @@ function GamePage() {
   const { data: courses } = useSuspenseQuery(coursesQuery)
   const langDecks = catalog.filter((d) => d.lang === lang)
   const langCourses = courses.filter((c) => c.lang === lang)
+  const allSaved = useProgress((s) => s.saved)
+  const saved = useMemo(() => savedWordsOf(allSaved, lang), [allSaved, lang])
+  // Studied words as of opening the page: games schedule reviews when they end, and
+  // reloading the word set right then would throw away the results screen.
+  const [srs] = useState(() => useProgress.getState().srs)
+  const learnedKeys = useMemo(() => learnedKeysOf(srs, lang), [srs, lang])
+  const reviewCount: Record<ReviewSource, number> = { saved: saved.length, learned: learnedKeys.length }
+
   const fallback = langDecks.find((d) => d.track === profile?.track) ?? langDecks[0]
-  const valid = search.deck === ALL_WORDS || [...langDecks, ...langCourses].some((d) => d.id === search.deck)
+  const valid =
+    search.deck === ALL_WORDS ||
+    (isReviewSource(search.deck) && reviewCount[search.deck] >= MIN_REVIEW_WORDS) ||
+    [...langDecks, ...langCourses].some((d) => d.id === search.deck)
   const choice = valid ? (search.deck as string) : fallback.id
   const isCourse = langCourses.some((c) => c.id === choice)
   // TanStack Query memoises the combined deck while `combine` and the results are unchanged.
@@ -57,15 +87,40 @@ function GamePage() {
     [choice, lang],
   )
   // A course is a Deck with an extra lesson list; games only need the Deck part.
-  const queries = isCourse
-    ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
-    : (choice === ALL_WORDS ? langDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
-  const deck = useSuspenseQueries({ queries, combine })
+  const queries = isReviewSource(choice)
+    ? []
+    : isCourse
+      ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
+      : (choice === ALL_WORDS ? langDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
+  const loaded = useSuspenseQueries({ queries, combine })
+  const { data: learnedDecks } = useSuspenseQuery(
+    decksQuery(choice === REVIEW_LEARNED ? learnedDeckIds(learnedKeys) : []),
+  )
+  const deck = useMemo(
+    () =>
+      choice === REVIEW_SAVED
+        ? savedDeck(lang, saved)
+        : choice === REVIEW_LEARNED
+          ? learnedDeck(lang, learnedDecks, learnedKeys)
+          : loaded,
+    [choice, lang, saved, learnedDecks, learnedKeys, loaded],
+  )
   const totalWords = langDecks.reduce((n, d) => n + d.wordCount, 0)
   const usesDeck = game.usesDeck !== false
+  const nextGame = useMemo(() => randomGameId(gameId), [gameId])
 
   const setup = (
     <div className="space-y-4">
+      {isReviewSource(choice) && (
+        <Link
+          to="/games/$gameId"
+          params={{ gameId: nextGame }}
+          search={{ lang, deck: choice }}
+          className="flex items-center justify-center gap-2 rounded-2xl bg-amber-100 px-4 py-2.5 text-sm font-bold text-amber-800 transition hover:bg-amber-200 dark:bg-amber-950 dark:text-amber-200"
+        >
+          <Dices className="size-5" /> Đổi sang trò ngẫu nhiên khác
+        </Link>
+      )}
       <fieldset>
         <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Ngôn ngữ</legend>
         <div className="grid grid-cols-3 gap-2">
@@ -90,6 +145,37 @@ function GamePage() {
         <fieldset>
           <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Bộ từ</legend>
           <div className="grid gap-2 sm:grid-cols-2">
+            {REVIEW_SOURCES.map(({ id, label, Icon, empty }) => {
+              const count = reviewCount[id]
+              const ready = count >= MIN_REVIEW_WORDS
+              const body = (
+                <>
+                  <Icon className="size-6 shrink-0 text-amber-500" />
+                  <span className="min-w-0">
+                    <span className="block truncate">{label}</span>
+                    <span className="block text-xs font-medium text-slate-500">
+                      {ready ? `Ôn tập · ${count} từ` : `${count}/${MIN_REVIEW_WORDS} từ — ${empty}`}
+                    </span>
+                  </span>
+                </>
+              )
+              return ready ? (
+                <Link
+                  key={id}
+                  to="/games/$gameId"
+                  params={{ gameId }}
+                  search={{ lang, deck: id }}
+                  replace
+                  className={chip(choice === id)}
+                >
+                  {body}
+                </Link>
+              ) : (
+                <div key={id} className={cx(chip(false), 'cursor-not-allowed opacity-50')} aria-disabled>
+                  {body}
+                </div>
+              )
+            })}
             {langCourses.map((c) => {
               const Icon = COURSE_ICON[c.level]
               return (
@@ -150,6 +236,18 @@ function GamePage() {
     </div>
   )
 
+  if (deck.words.length < MIN_REVIEW_WORDS)
+    return (
+      <div className="py-16 text-center">
+        <p className="text-lg font-bold">
+          Chưa đủ từ để chơi ({deck.words.length}/{MIN_REVIEW_WORDS}).
+        </p>
+        <Link to="/review" search={{ lang }} className="mt-3 inline-block text-indigo-600 hover:underline">
+          Về trang Ôn tập
+        </Link>
+      </div>
+    )
+
   return (
     <ArcadeShell
       key={`${game.id}:${deck.id}`}
@@ -162,6 +260,7 @@ function GamePage() {
       modes={game.modes(lang)}
       Game={game.Game}
       trackSrs={game.trackSrs ?? true}
+      paced={game.paced ?? true}
       setup={setup}
     />
   )

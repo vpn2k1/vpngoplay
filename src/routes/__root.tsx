@@ -2,7 +2,7 @@ import type { QueryClient } from '@tanstack/react-query'
 import { Link, Outlet, createRootRouteWithContext, useRouterState } from '@tanstack/react-router'
 import { Settings } from 'lucide-react'
 import { motion } from 'motion/react'
-import { Books, Compass, Fire, GlowingStar, Joystick } from '../components/icons'
+import { BookmarkTabs, Books, Compass, Fire, GlowingStar, Joystick } from '../components/icons'
 import { cx } from '../components/ui'
 import { useProgress, useStreak } from '../lib/store'
 
@@ -22,10 +22,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 /** Learning and games are separate sections; games work across every language. */
 function SectionTabs() {
   const pathname = useRouterState({ select: (s) => s.location.pathname })
-  const section = pathname.startsWith('/games') ? 'games' : pathname.startsWith('/settings') ? null : 'learn'
+  const saved = useProgress((s) => Object.keys(s.saved).length)
+  const section = pathname.startsWith('/games')
+    ? 'games'
+    : pathname.startsWith('/review')
+      ? 'review'
+      : pathname.startsWith('/settings')
+        ? null
+        : 'learn'
   const tabs = [
     { id: 'learn', to: '/', Icon: Books, label: 'Học tập' },
     { id: 'games', to: '/games', Icon: Joystick, label: 'Trò chơi' },
+    { id: 'review', to: '/review', Icon: BookmarkTabs, label: 'Ôn tập' },
   ] as const
 
   return (
@@ -51,7 +59,12 @@ function SectionTabs() {
             />
           )}
           <span className="relative inline-flex items-center gap-1.5">
-            <tab.Icon className="size-5" /> <span className="hidden min-[380px]:inline">{tab.label}</span>
+            <tab.Icon className="size-5" /> <span className="hidden min-[460px]:inline">{tab.label}</span>
+            {tab.id === 'review' && saved > 0 && (
+              <span className="rounded-full bg-amber-400 px-1.5 text-[10px] leading-4 font-black text-amber-950">
+                {saved}
+              </span>
+            )}
           </span>
         </Link>
       ))}

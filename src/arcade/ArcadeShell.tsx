@@ -1,12 +1,24 @@
 import { Link } from '@tanstack/react-router'
 import { AnimatePresence, motion } from 'motion/react'
 import { useEffect, useRef, useState, type ComponentType, type ReactNode, type Ref } from 'react'
-import { Pause, Play, SlidersHorizontal, X } from 'lucide-react'
-import { FLAG, Fire, ModeIcon, Pushpin, RedHeart, Trophy, WhiteHeart, type IconType } from '../components/icons'
+import { Bookmark, Pause, Play, SlidersHorizontal, X } from 'lucide-react'
+import {
+  FLAG,
+  Fire,
+  ModeIcon,
+  Pushpin,
+  RedHeart,
+  SPEED_ICON,
+  Trophy,
+  WhiteHeart,
+  type IconType,
+} from '../components/icons'
+import { SaveWordButton } from '../components/SaveWordButton'
 import { BackLabel, Button, ResultCard, SpeakButton, cx } from '../components/ui'
+import { toSaved } from '../lib/review'
 import { wordCardKey } from '../lib/srs'
 import { useProgress } from '../lib/store'
-import { LANGS, type Deck, type Word } from '../lib/types'
+import { GAME_SPEEDS, LANGS, type Deck, type GameSpeed, type Word } from '../lib/types'
 import type { ModeOption } from './challenge'
 
 export interface GameOverResult {
@@ -21,6 +33,8 @@ export interface GameOverResult {
 export interface ArcadeGameProps {
   deck: Deck
   mode: string
+  /** Speed multiplier from the player's speed setting (1 = original speed) */
+  pace: number
   paused: boolean
   onGameOver: (result: GameOverResult) => void
 }
@@ -36,6 +50,8 @@ interface ArcadeShellProps {
   Game: ComponentType<ArcadeGameProps>
   /** Record missed words into the flashcard schedule (off for non-deck content) */
   trackSrs?: boolean
+  /** Show the speed picker (games where things move on their own) */
+  paced?: boolean
   /** Extra settings shown in the menu (language / word-set pickers) */
   setup?: ReactNode
 }
@@ -60,12 +76,16 @@ export function ArcadeShell({
   modes,
   Game,
   trackSrs = true,
+  paced = true,
   setup,
 }: ArcadeShellProps) {
   const track = useProgress((s) => s.profile?.track)
   const addXp = useProgress((s) => s.addXp)
   const review = useProgress((s) => s.review)
   const submitScore = useProgress((s) => s.submitScore)
+  const speed = useProgress((s) => s.settings.gameSpeed)
+  const updateSettings = useProgress((s) => s.updateSettings)
+  const pace = paced ? GAME_SPEEDS[speed].pace : 1
   const [mode, setMode] = useState(() =>
     track === 'kids' && modes.some((m) => m.id === 'choice') ? 'choice' : modes[0].id,
   )
@@ -180,6 +200,37 @@ export function ArcadeShell({
                 </div>
               </fieldset>
             )}
+            {paced && (
+              <fieldset>
+                <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Tốc độ</legend>
+                <div className="grid grid-cols-3 gap-2">
+                  {(Object.keys(GAME_SPEEDS) as GameSpeed[]).map((id) => {
+                    const SpeedIcon = SPEED_ICON[id]
+                    return (
+                      <button
+                        key={id}
+                        type="button"
+                        onClick={() => updateSettings({ gameSpeed: id })}
+                        aria-pressed={speed === id}
+                        title={GAME_SPEEDS[id].hint}
+                        className={cx(
+                          'flex items-center gap-2 rounded-2xl border-2 border-b-4 px-3 py-2 text-left transition',
+                          speed === id
+                            ? 'border-indigo-500 bg-indigo-50 dark:bg-indigo-950/60'
+                            : 'border-slate-200 hover:border-slate-300 dark:border-slate-700',
+                        )}
+                      >
+                        <SpeedIcon className="size-7 shrink-0" aria-hidden />
+                        <span className="min-w-0">
+                          <span className="block font-bold">{GAME_SPEEDS[id].label}</span>
+                          <span className="hidden text-xs text-slate-500 sm:block">{GAME_SPEEDS[id].hint}</span>
+                        </span>
+                      </button>
+                    )
+                  })}
+                </div>
+              </fieldset>
+            )}
             <ul className="space-y-1.5 rounded-2xl bg-slate-50 p-4 text-sm text-slate-600 dark:bg-slate-800/50 dark:text-slate-300">
               {controls.map((c) => (
                 <li key={c} className="flex gap-2">
@@ -253,7 +304,7 @@ export function ArcadeShell({
         </button>
       </div>
       <div className="relative">
-        <Game key={round} deck={deck} mode={mode} paused={paused} onGameOver={gameOver} />
+        <Game key={round} deck={deck} mode={mode} pace={pace} paused={paused} onGameOver={gameOver} />
         <AnimatePresence>
           {paused && (
             <motion.div
@@ -289,11 +340,23 @@ function DeckFlag({ lang }: { lang: Deck['lang'] }) {
 
 function MissedWords({ deck, words, tracked }: { deck: Deck; words: Word[]; tracked: boolean }) {
   const unique = [...new Map(words.map((w) => [w.id, w])).values()]
+  const saveWords = useProgress((s) => s.saveWords)
+  const allSaved = useProgress((s) => unique.every((w) => wordCardKey(deck.id, w) in s.saved))
   return (
     <section className="mx-auto max-w-md rounded-3xl bg-white p-5 ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
-      <h2 className="flex items-center gap-2 font-extrabold">
-        <Pushpin className="size-6" /> Từ cần ôn lại ({unique.length})
-      </h2>
+      <div className="flex items-center justify-between gap-2">
+        <h2 className="flex items-center gap-2 font-extrabold">
+          <Pushpin className="size-6" /> Từ cần ôn lại ({unique.length})
+        </h2>
+        <button
+          type="button"
+          disabled={allSaved}
+          onClick={() => saveWords(unique.map((w) => toSaved(deck, w)))}
+          className="inline-flex items-center gap-1 rounded-full bg-amber-100 px-3 py-1 text-xs font-bold text-amber-700 transition hover:bg-amber-200 disabled:opacity-60 dark:bg-amber-950 dark:text-amber-300"
+        >
+          <Bookmark className={cx('size-3.5', allSaved && 'fill-current')} /> {allSaved ? 'Đã lưu hết' : 'Lưu tất cả'}
+        </button>
+      </div>
       {tracked && <p className="text-xs text-slate-500">Đã thêm vào lịch ôn Flashcard.</p>}
       <ul className="mt-3 divide-y divide-slate-100 dark:divide-slate-800">
         {unique.map((w) => (
@@ -304,6 +367,7 @@ function MissedWords({ deck, words, tracked }: { deck: Deck; words: Word[]; trac
               <span className="block font-semibold text-indigo-600 dark:text-indigo-400">{w.meaning}</span>
             </span>
             <SpeakButton text={w.term} lang={deck.lang} />
+            <SaveWordButton deck={deck} word={w} />
           </li>
         ))}
       </ul>

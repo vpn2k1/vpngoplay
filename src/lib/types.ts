@@ -112,3 +112,12 @@ export interface CourseData extends Deck {
 export function sentenceText(sentence: Sentence, lang: Lang) {
   return sentence.tokens.join(LANGS[lang].joiner)
 }
+
+export type GameSpeed = 'slow' | 'normal' | 'fast'
+
+/** How fast things move in arcade games; `pace` multiplies the original speed. */
+export const GAME_SPEEDS: Record<GameSpeed, { label: string; hint: string; pace: number }> = {
+  slow: { label: 'Chậm', hint: 'Thong thả, nhiều thời gian nghĩ', pace: 0.5 },
+  normal: { label: 'Vừa', hint: 'Phù hợp đa số người học', pace: 0.7 },
+  fast: { label: 'Nhanh', hint: 'Khi đã thuộc từ', pace: 1 },
+}

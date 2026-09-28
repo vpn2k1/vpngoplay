@@ -1,5 +1,6 @@
 import { AnimatePresence, motion } from 'motion/react'
 import { useEffect, useState } from 'react'
+import { SaveWordButton } from '../components/SaveWordButton'
 import { Button, GameShell, ResultCard, SpeakButton, cx, starsFor } from '../components/ui'
 import { sfx } from '../lib/sfx'
 import { speak } from '../lib/speech'
@@ -161,6 +162,7 @@ export function Flashcard({ deck, onRestart }: { deck: Deck; onRestart: () => vo
                 <div className="flex items-center gap-2">
                   <span className="text-4xl font-black">{word.term}</span>
                   <SpeakButton text={word.term} lang={deck.lang} />
+                  <SaveWordButton deck={deck} word={word} />
                 </div>
                 {word.reading && <div className="text-lg text-slate-500">{word.reading}</div>}
                 <div className="my-2 text-3xl font-extrabold text-indigo-600 dark:text-indigo-400">

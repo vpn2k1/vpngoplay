@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ReviewRouteImport } from './routes/review'
 import { Route as SettingsRouteImport } from './routes/settings'
 import { Route as CoursesCourseIdRouteImport } from './routes/courses/$courseId'
 import { Route as DecksDeckIdRouteRouteImport } from './routes/decks/$deckId/route'
@@ -27,6 +28,11 @@ import { Route as DecksDeckIdSentenceRouteImport } from './routes/decks/$deckId/
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ReviewRoute = ReviewRouteImport.update({
+  id: '/review',
+  path: '/review',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SettingsRoute = SettingsRouteImport.update({
@@ -97,6 +103,7 @@ const DecksDeckIdSentenceRoute = DecksDeckIdSentenceRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
   '/courses/$courseId': typeof CoursesCourseIdRoute
@@ -113,6 +120,7 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
@@ -129,6 +137,7 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
   '/courses/$courseId': typeof CoursesCourseIdRoute
@@ -147,6 +156,7 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/review'
     | '/settings'
     | '/decks/$deckId'
     | '/courses/$courseId'
@@ -163,6 +173,7 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/review'
     | '/settings'
     | '/courses/$courseId'
     | '/games/$gameId'
@@ -178,6 +189,7 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
+    | '/review'
     | '/settings'
     | '/decks/$deckId'
     | '/courses/$courseId'
@@ -195,6 +207,7 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ReviewRoute: typeof ReviewRoute
   SettingsRoute: typeof SettingsRoute
   DecksDeckIdRouteRoute: typeof DecksDeckIdRouteRouteWithChildren
   CoursesCourseIdRoute: typeof CoursesCourseIdRoute
@@ -209,6 +222,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/review': {
+      id: '/review'
+      path: '/review'
+      fullPath: '/review'
+      preLoaderRoute: typeof ReviewRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/settings': {
@@ -332,6 +352,7 @@ const DecksDeckIdRouteRouteWithChildren =
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ReviewRoute: ReviewRoute,
   SettingsRoute: SettingsRoute,
   DecksDeckIdRouteRoute: DecksDeckIdRouteRouteWithChildren,
   CoursesCourseIdRoute: CoursesCourseIdRoute,

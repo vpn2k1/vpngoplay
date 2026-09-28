@@ -1,7 +1,7 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
 import { schedule, type Grade, type SrsCard } from './srs'
-import type { Lang, Track } from './types'
+import type { GameSpeed, Lang, Track, Word } from './types'
 
 export interface Profile {
   name: string
@@ -16,6 +16,17 @@ export interface Settings {
   /** Speech speed multiplier */
   rate: number
   sound: boolean
+  /** Arcade game speed */
+  gameSpeed: GameSpeed
+}
+
+/** A word the learner put in their word book, copied so it can be reviewed without loading its deck. */
+export interface SavedWord {
+  /** Flashcard key of the word in its source deck ("<deckId>:<wordId>") */
+  key: string
+  lang: Lang
+  word: Omit<Word, 'id' | 'srsKey'>
+  savedAt: number
 }
 
 interface ProgressState {
@@ -26,12 +37,16 @@ interface ProgressState {
   today: { day: string; xp: number }
   srs: Record<string, SrsCard>
   bestScores: Record<string, number>
+  saved: Record<string, SavedWord>
   setProfile: (profile: Profile) => void
   updateSettings: (patch: Partial<Settings>) => void
   addXp: (amount: number) => void
   review: (key: string, grade: Grade) => void
   /** Saves `score` if it beats the stored best; returns true when it is a new record. */
   submitScore: (key: string, score: number) => boolean
+  /** Adds the words to the word book (already saved ones keep their date). */
+  saveWords: (words: Omit<SavedWord, 'savedAt'>[]) => void
+  unsaveWord: (key: string) => void
   reset: () => void
 }
 
@@ -59,7 +74,7 @@ function yesterdayKey() {
   return dayKey(d)
 }
 
-const defaultSettings: Settings = { voices: {}, rate: 1, sound: true }
+const defaultSettings: Settings = { voices: {}, rate: 1, sound: true, gameSpeed: 'normal' }
 
 const initial = {
   profile: null,
@@ -69,6 +84,7 @@ const initial = {
   today: { day: dayKey(), xp: 0 },
   srs: {},
   bestScores: {} as Record<string, number>,
+  saved: {} as Record<string, SavedWord>,
 }
 
 // Kept in localStorage for the MVP; sync to Supabase/DB once auth is added.
@@ -95,9 +111,29 @@ export const useProgress = create<ProgressState>()(
         set((s) => ({ bestScores: { ...s.bestScores, [key]: score } }))
         return true
       },
+      saveWords: (words) =>
+        set((s) => {
+          const saved = { ...s.saved }
+          const now = Date.now()
+          for (const w of words) saved[w.key] ??= { ...w, savedAt: now }
+          return { saved }
+        }),
+      unsaveWord: (key) =>
+        set((s) => {
+          const { [key]: _removed, ...saved } = s.saved
+          return { saved }
+        }),
       reset: () => set((s) => ({ ...initial, settings: s.settings })),
     }),
-    { name: STORAGE_KEY, version: 1 },
+    {
+      name: STORAGE_KEY,
+      version: 1,
+      // Settings added later (e.g. gameSpeed) get their defaults instead of undefined.
+      merge: (persisted, current) => {
+        const saved = (persisted ?? {}) as Partial<ProgressState>
+        return { ...current, ...saved, settings: { ...current.settings, ...saved.settings } }
+      },
+    },
   ),
 )
 

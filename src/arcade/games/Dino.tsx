@@ -106,7 +106,7 @@ function cloud(ctx: CanvasRenderingContext2D, x: number, y: number, s: number) {
   }
 }
 
-export function Dino({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const choiceMode = mode === 'choice'
   const typingMode = (choiceMode ? 'meaning' : mode) as TypingMode
   const { canvasRef, stage } = useStage()
@@ -116,7 +116,7 @@ export function Dino({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const [hud, setHud] = useState({ score: 0, lives: 3, level: 1, combo: 0 })
   const [active, setActive] = useState<Obstacle | null>(null)
   const [over, setOver] = useState(false)
-  const speed = () => (choiceMode ? 0.15 : 0.12) + Math.min(0.14, g.time * 0.0022)
+  const speed = () => ((choiceMode ? 0.15 : 0.12) + Math.min(0.14, g.time * 0.0022)) * pace
   const score = () => Math.floor(g.distance) + g.bonus
   const syncHud = () => setHud({ score: score(), lives: g.lives, level: 1 + Math.floor(g.time / 25), combo: g.combo })
 

@@ -1,3 +1,4 @@
+import { SaveWordButton } from '../../../components/SaveWordButton'
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
 import { motion } from 'motion/react'
@@ -198,6 +199,7 @@ function DeckOverview() {
                   />
                 )}
                 <SpeakButton text={w.term} lang={deck.lang} />
+                <SaveWordButton deck={deck} word={w} />
               </li>
             )
           })}

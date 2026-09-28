@@ -44,9 +44,21 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
   - Hook gõ phím (`useTyping.ts`).
   - Khung arcade: menu chọn chế độ, tạm dừng bằng Esc, kỷ lục, màn kết quả (`ArcadeShell.tsx`).
 - **Từ bị lọt** trong game được thêm vào lịch ôn Flashcard.
+- **Tốc độ** 🐢 Chậm · 🐰 Vừa (mặc định) · ⚡ Nhanh, chọn trong menu mỗi game và được lưu lại. Tương ứng 50% · 70% · 100% tốc độ gốc: chữ rơi, đường chạy, rắn và thời gian chờ đều chậm theo. Không áp dụng cho Lật hình và Đúng hay sai.
 - **Thêm game mới:** viết một component nhận `ArcadeGameProps` rồi đăng ký trong `src/arcade/games.tsx`.
 
 Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ hiện lưu trong `localStorage`.
+
+## Ôn tập (tab riêng, `/review`)
+
+- **Sổ từ:** bấm 🔖 cạnh một từ để lưu. Nút này có ở danh sách từ của bộ bài, mặt sau Flashcard và màn kết quả game (có thêm nút **Lưu tất cả** cho các từ bị lọt).
+- **Nguồn từ để ôn:**
+  - **Sổ từ của tôi**: các từ đã lưu.
+  - **Tất cả từ đã học**: mọi từ đã có lịch ôn Flashcard, lấy lại từ bộ bài gốc.
+  - Cả hai đều cần ít nhất 6 từ.
+- **Ôn bằng trò chơi:** bấm **Ôn ngay bằng trò ngẫu nhiên** để mở một game từ vựng ngẫu nhiên (`/games/<game>?deck=saved|learned`). Trong game có nút đổi sang trò ngẫu nhiên khác.
+- **Xếp lịch ôn:** từ bị lọt vẫn được xếp lịch ôn trên thẻ gốc của nó.
+- **Lưu trữ:** sổ từ nằm trong `localStorage`, cùng với tiến độ học. Mỗi từ được lưu kèm bản sao nội dung nên không cần tải lại bộ bài.
 
 ## Lộ trình ~3.000 từ mỗi cấp
 

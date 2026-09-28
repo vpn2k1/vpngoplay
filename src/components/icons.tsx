@@ -10,6 +10,7 @@ import FlagVn from '~icons/circle-flags/vn'
 import BackhandIndexPointingUp from '~icons/fluent-emoji-flat/backhand-index-pointing-up'
 import Balloon from '~icons/fluent-emoji-flat/balloon'
 import Books from '~icons/fluent-emoji-flat/books'
+import BookmarkTabs from '~icons/fluent-emoji-flat/bookmark-tabs'
 import Brain from '~icons/fluent-emoji-flat/brain'
 import Brick from '~icons/fluent-emoji-flat/brick'
 import Briefcase from '~icons/fluent-emoji-flat/briefcase'
@@ -34,6 +35,8 @@ import SquintingFaceWithTongue from '~icons/fluent-emoji-flat/squinting-face-wit
 import Headphone from '~icons/fluent-emoji-flat/headphone'
 import Herb from '~icons/fluent-emoji-flat/herb'
 import HighVoltage from '~icons/fluent-emoji-flat/high-voltage'
+import Rabbit from '~icons/fluent-emoji-flat/rabbit-face'
+import Turtle from '~icons/fluent-emoji-flat/turtle'
 import Joystick from '~icons/fluent-emoji-flat/joystick'
 import Keyboard from '~icons/fluent-emoji-flat/keyboard'
 import Memo from '~icons/fluent-emoji-flat/memo'
@@ -58,7 +61,7 @@ import Trophy from '~icons/fluent-emoji-flat/trophy'
 import WavingHand from '~icons/fluent-emoji-flat/waving-hand'
 import WhiteHeart from '~icons/fluent-emoji-flat/white-heart'
 import WorldMap from '~icons/fluent-emoji-flat/world-map'
-import type { CourseLevel, Lang, Track } from '../lib/types'
+import type { CourseLevel, GameSpeed, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
 
@@ -107,6 +110,8 @@ const MODE_ICON: Record<string, IconType> = {
   listen: Ear,
 }
 
+export const SPEED_ICON: Record<GameSpeed, IconType> = { slow: Turtle, normal: Rabbit, fast: HighVoltage }
+
 export function ModeIcon({ mode, className }: { mode: { id: string; icon: string }; className?: string }) {
   const Icon = MODE_ICON[mode.id]
   if (Icon) return <Icon className={className} aria-hidden />
@@ -118,6 +123,7 @@ export function ModeIcon({ mode, className }: { mode: { id: string; icon: string
 }
 
 export {
+  BookmarkTabs,
   Books,
   CheckMarkButton,
   CrossMark,

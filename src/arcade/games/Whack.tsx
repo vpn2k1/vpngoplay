@@ -32,7 +32,7 @@ interface Round {
   answered: boolean
 }
 
-export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const reverse = mode === 'reverse'
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
   const [round, setRound] = useState<Round | null>(null)
@@ -55,7 +55,7 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   useDebugState(g)
   const [over, setOver] = useState(false)
 
-  const roundTime = () => Math.max(2.4, 4.5 - g.correct * 0.1)
+  const roundTime = () => Math.max(2.4, 4.5 - g.correct * 0.1) / pace
 
   const newRound = () => {
     const word = source.next()

@@ -79,7 +79,7 @@ function createState() {
 }
 
 /** Snake: steer to the food carrying the right meaning; wrong food or a crash costs a life. */
-export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
+export function Snake({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
   const reverse = mode === 'reverse'
   const { canvasRef, stage } = useStage()
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
@@ -227,7 +227,7 @@ export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     g.cell = cell
     g.ox = (w - cell * COLS) / 2
     g.oy = (h - cell * ROWS) / 2
-    const interval = Math.max(0.1, 0.2 - g.correct * 0.005)
+    const interval = Math.max(0.1, 0.2 - g.correct * 0.005) / pace
 
     if (g.started && g.endIn === null) {
       g.acc += dt
