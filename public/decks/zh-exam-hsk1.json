@@ -1,0 +1,29 @@
+{
+  "id": "zh-exam-hsk1",
+  "lang": "zh",
+  "track": "exam",
+  "level": "HSK 1",
+  "title": "HSK 1 — 基础词汇",
+  "description": "Từ vựng HSK 1 cốt lõi cho kỳ thi.",
+  "words": [
+    { "id": "nihao", "term": "你好", "reading": "nǐ hǎo", "meaning": "xin chào", "emoji": "👋", "example": "你好！我叫小明。", "exampleMeaning": "Xin chào! Tôi tên là Tiểu Minh." },
+    { "id": "xiexie", "term": "谢谢", "reading": "xièxie", "meaning": "cảm ơn", "emoji": "🙏", "example": "谢谢你的帮助。", "exampleMeaning": "Cảm ơn bạn đã giúp đỡ." },
+    { "id": "xuesheng", "term": "学生", "reading": "xuésheng", "meaning": "học sinh", "emoji": "🎒", "example": "他是大学生。", "exampleMeaning": "Anh ấy là sinh viên." },
+    { "id": "laoshi", "term": "老师", "reading": "lǎoshī", "meaning": "giáo viên", "emoji": "👩‍🏫", "example": "王老师很好。", "exampleMeaning": "Cô Vương rất tốt." },
+    { "id": "pengyou", "term": "朋友", "reading": "péngyou", "meaning": "bạn bè", "emoji": "🧑‍🤝‍🧑", "example": "他是我的好朋友。", "exampleMeaning": "Cậu ấy là bạn thân của tôi." },
+    { "id": "he", "term": "喝", "reading": "hē", "meaning": "uống", "emoji": "🥤", "example": "你想喝茶吗？", "exampleMeaning": "Bạn muốn uống trà không?" },
+    { "id": "chi", "term": "吃", "reading": "chī", "meaning": "ăn", "emoji": "🥢", "example": "我们去吃饭吧。", "exampleMeaning": "Chúng ta đi ăn cơm nhé." },
+    { "id": "shui", "term": "水", "reading": "shuǐ", "meaning": "nước", "emoji": "💧", "example": "请给我一杯水。", "exampleMeaning": "Cho tôi một cốc nước." },
+    { "id": "mifan", "term": "米饭", "reading": "mǐfàn", "meaning": "cơm", "emoji": "🍚", "example": "我喜欢吃米饭。", "exampleMeaning": "Tôi thích ăn cơm." },
+    { "id": "jintian", "term": "今天", "reading": "jīntiān", "meaning": "hôm nay", "emoji": "📆", "example": "今天星期一。", "exampleMeaning": "Hôm nay là thứ Hai." },
+    { "id": "beijing", "term": "北京", "reading": "Běijīng", "meaning": "Bắc Kinh", "emoji": "🏯", "example": "我住在北京。", "exampleMeaning": "Tôi sống ở Bắc Kinh." },
+    { "id": "renshi", "term": "认识", "reading": "rènshi", "meaning": "quen biết", "emoji": "🤝", "example": "你认识他吗？", "exampleMeaning": "Bạn có quen anh ấy không?" }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "是", "学生"], "reading": "wǒ shì xuésheng", "meaning": "Tôi là học sinh." },
+    { "id": "s2", "tokens": ["你", "叫", "什么", "名字"], "reading": "nǐ jiào shénme míngzi", "meaning": "Bạn tên là gì?" },
+    { "id": "s3", "tokens": ["我", "想", "喝", "水"], "reading": "wǒ xiǎng hē shuǐ", "meaning": "Tôi muốn uống nước." },
+    { "id": "s4", "tokens": ["很", "高兴", "认识", "你"], "reading": "hěn gāoxìng rènshi nǐ", "meaning": "Rất vui được làm quen với bạn." },
+    { "id": "s5", "tokens": ["今天", "我", "去", "北京"], "reading": "jīntiān wǒ qù Běijīng", "meaning": "Hôm nay tôi đi Bắc Kinh." }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "zh-exam-hsk2",
+  "lang": "zh",
+  "track": "exam",
+  "level": "HSK 2",
+  "title": "HSK 2 — 常用词",
+  "description": "Từ vựng HSK 2 thông dụng.",
+  "words": [
+    {
+      "id": "yijing",
+      "term": "已经",
+      "reading": "yǐjīng",
+      "meaning": "đã (rồi)",
+      "emoji": "✅",
+      "example": "我已经吃饭了。",
+      "exampleMeaning": "Tôi đã ăn cơm rồi."
+    },
+    {
+      "id": "juede",
+      "term": "觉得",
+      "reading": "juéde",
+      "meaning": "cảm thấy",
+      "emoji": "🤔",
+      "example": "我觉得很累。",
+      "exampleMeaning": "Tôi cảm thấy rất mệt."
+    },
+    {
+      "id": "zhunbei",
+      "term": "准备",
+      "reading": "zhǔnbèi",
+      "meaning": "chuẩn bị",
+      "emoji": "🎒",
+      "example": "我在准备考试。",
+      "exampleMeaning": "Tôi đang chuẩn bị thi."
+    },
+    {
+      "id": "lvyou",
+      "term": "旅游",
+      "reading": "lǚyóu",
+      "meaning": "du lịch",
+      "emoji": "🧳",
+      "example": "我喜欢旅游。",
+      "exampleMeaning": "Tôi thích du lịch."
+    },
+    {
+      "id": "yundong",
+      "term": "运动",
+      "reading": "yùndòng",
+      "meaning": "thể thao, vận động",
+      "emoji": "🏃",
+      "example": "每天运动很好。",
+      "exampleMeaning": "Vận động mỗi ngày rất tốt."
+    },
+    {
+      "id": "shengbing",
+      "term": "生病",
+      "reading": "shēngbìng",
+      "meaning": "bị ốm",
+      "emoji": "🤒",
+      "example": "他生病了。",
+      "exampleMeaning": "Anh ấy bị ốm rồi."
+    },
+    {
+      "id": "pianyi",
+      "term": "便宜",
+      "reading": "piányi",
+      "meaning": "rẻ",
+      "emoji": "💰",
+      "example": "这件衣服很便宜。",
+      "exampleMeaning": "Bộ quần áo này rất rẻ."
+    },
+    {
+      "id": "kuaile",
+      "term": "快乐",
+      "reading": "kuàilè",
+      "meaning": "vui vẻ",
+      "emoji": "😊",
+      "example": "祝你生日快乐！",
+      "exampleMeaning": "Chúc bạn sinh nhật vui vẻ!"
+    },
+    {
+      "id": "yanjing",
+      "term": "眼睛",
+      "reading": "yǎnjing",
+      "meaning": "mắt",
+      "emoji": "👀",
+      "example": "她的眼睛很大。",
+      "exampleMeaning": "Mắt cô ấy rất to."
+    },
+    {
+      "id": "keneng",
+      "term": "可能",
+      "reading": "kěnéng",
+      "meaning": "có thể",
+      "emoji": "🎲",
+      "example": "明天可能下雨。",
+      "exampleMeaning": "Ngày mai có thể mưa."
+    },
+    {
+      "id": "zhidao",
+      "term": "知道",
+      "reading": "zhīdào",
+      "meaning": "biết",
+      "emoji": "💡",
+      "example": "我知道了。",
+      "exampleMeaning": "Tôi biết rồi."
+    },
+    {
+      "id": "jieshao",
+      "term": "介绍",
+      "reading": "jièshào",
+      "meaning": "giới thiệu",
+      "emoji": "🤝",
+      "example": "我来介绍一下。",
+      "exampleMeaning": "Để tôi giới thiệu một chút."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "我",
+        "已经",
+        "知道",
+        "了"
+      ],
+      "reading": "wǒ yǐjīng zhīdào le",
+      "meaning": "Tôi đã biết rồi."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "我",
+        "觉得",
+        "很",
+        "快乐"
+      ],
+      "reading": "wǒ juéde hěn kuàilè",
+      "meaning": "Tôi cảm thấy rất vui."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "明天",
+        "可能",
+        "下雨"
+      ],
+      "reading": "míngtiān kěnéng xiàyǔ",
+      "meaning": "Ngày mai có thể mưa."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "我们",
+        "准备",
+        "去",
+        "旅游"
+      ],
+      "reading": "wǒmen zhǔnbèi qù lǚyóu",
+      "meaning": "Chúng tôi chuẩn bị đi du lịch."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "这",
+        "个",
+        "很",
+        "便宜"
+      ],
+      "reading": "zhè ge hěn piányi",
+      "meaning": "Cái này rất rẻ."
+    }
+  ]
+}

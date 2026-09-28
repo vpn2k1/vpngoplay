@@ -1,0 +1,29 @@
+{
+  "id": "zh-kids-animals",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "动物和颜色",
+  "description": "Con vật và màu sắc kèm pinyin cho bé.",
+  "words": [
+    { "id": "mao", "term": "猫", "reading": "māo", "meaning": "con mèo", "emoji": "🐱", "example": "猫在睡觉。", "exampleMeaning": "Con mèo đang ngủ." },
+    { "id": "gou", "term": "狗", "reading": "gǒu", "meaning": "con chó", "emoji": "🐶", "example": "我的狗跑得很快。", "exampleMeaning": "Con chó của tớ chạy rất nhanh." },
+    { "id": "niao", "term": "鸟", "reading": "niǎo", "meaning": "con chim", "emoji": "🐦", "example": "小鸟会飞。", "exampleMeaning": "Chim nhỏ biết bay." },
+    { "id": "yu", "term": "鱼", "reading": "yú", "meaning": "con cá", "emoji": "🐟", "example": "鱼在水里。", "exampleMeaning": "Con cá ở dưới nước." },
+    { "id": "tuzi", "term": "兔子", "reading": "tùzi", "meaning": "con thỏ", "emoji": "🐰", "example": "兔子喜欢吃胡萝卜。", "exampleMeaning": "Thỏ thích ăn cà rốt." },
+    { "id": "daxiang", "term": "大象", "reading": "dàxiàng", "meaning": "con voi", "emoji": "🐘", "example": "大象很大。", "exampleMeaning": "Con voi rất to." },
+    { "id": "hongse", "term": "红色", "reading": "hóngsè", "meaning": "màu đỏ", "emoji": "🔴", "example": "我有一个红色的球。", "exampleMeaning": "Tớ có một quả bóng màu đỏ." },
+    { "id": "lanse", "term": "蓝色", "reading": "lánsè", "meaning": "màu xanh dương", "emoji": "🔵", "example": "天空是蓝色的。", "exampleMeaning": "Bầu trời màu xanh." },
+    { "id": "huangse", "term": "黄色", "reading": "huángsè", "meaning": "màu vàng", "emoji": "🟡", "example": "香蕉是黄色的。", "exampleMeaning": "Chuối màu vàng." },
+    { "id": "lvse", "term": "绿色", "reading": "lǜsè", "meaning": "màu xanh lá", "emoji": "🟢", "example": "叶子是绿色的。", "exampleMeaning": "Chiếc lá màu xanh lá." },
+    { "id": "pingguo", "term": "苹果", "reading": "píngguǒ", "meaning": "quả táo", "emoji": "🍎", "example": "我每天吃一个苹果。", "exampleMeaning": "Mỗi ngày tớ ăn một quả táo." },
+    { "id": "xiangjiao", "term": "香蕉", "reading": "xiāngjiāo", "meaning": "quả chuối", "emoji": "🍌", "example": "猴子喜欢香蕉。", "exampleMeaning": "Khỉ thích chuối." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "喜欢", "猫"], "reading": "wǒ xǐhuan māo", "meaning": "Tớ thích mèo." },
+    { "id": "s2", "tokens": ["这", "是", "红色", "的", "苹果"], "reading": "zhè shì hóngsè de píngguǒ", "meaning": "Đây là quả táo màu đỏ." },
+    { "id": "s3", "tokens": ["小狗", "很", "可爱"], "reading": "xiǎogǒu hěn kě'ài", "meaning": "Chú cún rất dễ thương." },
+    { "id": "s4", "tokens": ["我", "有", "两", "只", "兔子"], "reading": "wǒ yǒu liǎng zhī tùzi", "meaning": "Tớ có hai con thỏ." },
+    { "id": "s5", "tokens": ["大象", "很", "大"], "reading": "dàxiàng hěn dà", "meaning": "Con voi rất to." }
+  ]
+}

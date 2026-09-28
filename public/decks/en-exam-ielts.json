@@ -1,0 +1,29 @@
+{
+  "id": "en-exam-ielts",
+  "lang": "en",
+  "track": "exam",
+  "level": "IELTS 6.5+",
+  "title": "IELTS Academic Vocabulary",
+  "description": "Từ học thuật hay dùng trong Writing Task 1 & 2.",
+  "words": [
+    { "id": "significant", "term": "significant", "reading": "/sɪɡˈnɪfɪkənt/", "meaning": "đáng kể, quan trọng", "example": "There was a significant increase in sales.", "exampleMeaning": "Doanh số đã tăng đáng kể." },
+    { "id": "decline", "term": "decline", "reading": "/dɪˈklaɪn/", "meaning": "suy giảm; sự sụt giảm", "example": "Birth rates continued to decline.", "exampleMeaning": "Tỷ lệ sinh tiếp tục giảm." },
+    { "id": "consequently", "term": "consequently", "reading": "/ˈkɑːnsəkwentli/", "meaning": "do đó, vì vậy", "example": "Consequently, many people moved to cities.", "exampleMeaning": "Do đó, nhiều người đã chuyển đến thành phố." },
+    { "id": "sustainable", "term": "sustainable", "reading": "/səˈsteɪnəbl/", "meaning": "bền vững", "example": "We need sustainable sources of energy.", "exampleMeaning": "Chúng ta cần các nguồn năng lượng bền vững." },
+    { "id": "allocate", "term": "allocate", "reading": "/ˈæləkeɪt/", "meaning": "phân bổ", "example": "Funds were allocated to public health.", "exampleMeaning": "Ngân sách đã được phân bổ cho y tế công cộng." },
+    { "id": "fluctuate", "term": "fluctuate", "reading": "/ˈflʌktʃueɪt/", "meaning": "dao động, lên xuống", "example": "Oil prices fluctuated throughout the year.", "exampleMeaning": "Giá dầu dao động suốt cả năm." },
+    { "id": "substantial", "term": "substantial", "reading": "/səbˈstænʃl/", "meaning": "lớn, nhiều (về số lượng)", "example": "A substantial number of students agreed.", "exampleMeaning": "Một số lượng lớn sinh viên đồng ý." },
+    { "id": "emphasize", "term": "emphasize", "reading": "/ˈemfəsaɪz/", "meaning": "nhấn mạnh", "example": "The report emphasizes the need for change.", "exampleMeaning": "Báo cáo nhấn mạnh sự cần thiết phải thay đổi." },
+    { "id": "phenomenon", "term": "phenomenon", "reading": "/fəˈnɑːmɪnən/", "meaning": "hiện tượng", "example": "Urbanisation is a global phenomenon.", "exampleMeaning": "Đô thị hóa là một hiện tượng toàn cầu." },
+    { "id": "inevitable", "term": "inevitable", "reading": "/ɪnˈevɪtəbl/", "meaning": "không thể tránh khỏi", "example": "Some job losses are inevitable.", "exampleMeaning": "Việc mất một số việc làm là không thể tránh khỏi." },
+    { "id": "mitigate", "term": "mitigate", "reading": "/ˈmɪtɪɡeɪt/", "meaning": "giảm nhẹ, làm dịu", "example": "Trees can mitigate the effects of pollution.", "exampleMeaning": "Cây xanh có thể giảm nhẹ tác hại của ô nhiễm." },
+    { "id": "predominantly", "term": "predominantly", "reading": "/prɪˈdɑːmɪnəntli/", "meaning": "chủ yếu, phần lớn", "example": "The workforce is predominantly young.", "exampleMeaning": "Lực lượng lao động chủ yếu là người trẻ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["The", "number", "of", "visitors", "declined", "significantly"], "meaning": "Số lượng du khách đã giảm đáng kể." },
+    { "id": "s2", "tokens": ["Governments", "should", "allocate", "more", "funds", "to", "education"], "meaning": "Chính phủ nên phân bổ thêm ngân sách cho giáo dục." },
+    { "id": "s3", "tokens": ["Prices", "fluctuated", "between", "2010", "and", "2020"], "meaning": "Giá cả dao động trong giai đoạn 2010–2020." },
+    { "id": "s4", "tokens": ["This", "phenomenon", "has", "several", "causes"], "meaning": "Hiện tượng này có nhiều nguyên nhân." },
+    { "id": "s5", "tokens": ["Renewable", "energy", "is", "more", "sustainable", "than", "coal"], "meaning": "Năng lượng tái tạo bền vững hơn than đá." }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "en-kids-family",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "Family & Numbers",
+  "description": "Gia đình và số đếm cho bé.",
+  "words": [
+    {
+      "id": "mother",
+      "term": "mother",
+      "reading": "/ˈmʌðər/",
+      "meaning": "mẹ",
+      "emoji": "👩",
+      "example": "My mother is a teacher.",
+      "exampleMeaning": "Mẹ tớ là giáo viên."
+    },
+    {
+      "id": "father",
+      "term": "father",
+      "reading": "/ˈfɑːðər/",
+      "meaning": "bố",
+      "emoji": "👨",
+      "example": "My father likes football.",
+      "exampleMeaning": "Bố tớ thích bóng đá."
+    },
+    {
+      "id": "sister",
+      "term": "sister",
+      "reading": "/ˈsɪstər/",
+      "meaning": "chị gái, em gái",
+      "emoji": "👧",
+      "example": "I have one sister.",
+      "exampleMeaning": "Tớ có một chị gái."
+    },
+    {
+      "id": "brother",
+      "term": "brother",
+      "reading": "/ˈbrʌðər/",
+      "meaning": "anh trai, em trai",
+      "emoji": "👦",
+      "example": "My brother is five.",
+      "exampleMeaning": "Em trai tớ năm tuổi."
+    },
+    {
+      "id": "baby",
+      "term": "baby",
+      "reading": "/ˈbeɪbi/",
+      "meaning": "em bé",
+      "emoji": "👶",
+      "example": "The baby is sleeping.",
+      "exampleMeaning": "Em bé đang ngủ."
+    },
+    {
+      "id": "grandma",
+      "term": "grandma",
+      "reading": "/ˈɡrænmɑː/",
+      "meaning": "bà",
+      "emoji": "👵",
+      "example": "Grandma makes cakes.",
+      "exampleMeaning": "Bà làm bánh."
+    },
+    {
+      "id": "one",
+      "term": "one",
+      "reading": "/wʌn/",
+      "meaning": "số một",
+      "emoji": "1️⃣",
+      "example": "I have one dog.",
+      "exampleMeaning": "Tớ có một con chó.",
+      "answers": [
+        "một",
+        "1"
+      ]
+    },
+    {
+      "id": "two",
+      "term": "two",
+      "reading": "/tuː/",
+      "meaning": "số hai",
+      "emoji": "2️⃣",
+      "example": "I have two hands.",
+      "exampleMeaning": "Tớ có hai bàn tay.",
+      "answers": [
+        "hai",
+        "2"
+      ]
+    },
+    {
+      "id": "three",
+      "term": "three",
+      "reading": "/θriː/",
+      "meaning": "số ba",
+      "emoji": "3️⃣",
+      "example": "Three birds are singing.",
+      "exampleMeaning": "Ba con chim đang hót.",
+      "answers": [
+        "3"
+      ]
+    },
+    {
+      "id": "four",
+      "term": "four",
+      "reading": "/fɔːr/",
+      "meaning": "số bốn",
+      "emoji": "4️⃣",
+      "example": "A cat has four legs.",
+      "exampleMeaning": "Con mèo có bốn chân.",
+      "answers": [
+        "bốn",
+        "4"
+      ]
+    },
+    {
+      "id": "five",
+      "term": "five",
+      "reading": "/faɪv/",
+      "meaning": "số năm",
+      "emoji": "5️⃣",
+      "example": "I am five years old.",
+      "exampleMeaning": "Tớ năm tuổi.",
+      "answers": [
+        "năm",
+        "5"
+      ]
+    },
+    {
+      "id": "ten",
+      "term": "ten",
+      "reading": "/ten/",
+      "meaning": "số mười",
+      "emoji": "🔟",
+      "example": "I can count to ten.",
+      "exampleMeaning": "Tớ đếm được đến mười.",
+      "answers": [
+        "mười",
+        "10"
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "I",
+        "love",
+        "my",
+        "mother"
+      ],
+      "meaning": "Tớ yêu mẹ của tớ."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "My",
+        "brother",
+        "has",
+        "two",
+        "cats"
+      ],
+      "meaning": "Anh trai tớ có hai con mèo."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "The",
+        "baby",
+        "is",
+        "one",
+        "year",
+        "old"
+      ],
+      "meaning": "Em bé được một tuổi."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "Grandma",
+        "has",
+        "five",
+        "apples"
+      ],
+      "meaning": "Bà có năm quả táo."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "We",
+        "are",
+        "a",
+        "family"
+      ],
+      "meaning": "Chúng tớ là một gia đình."
+    }
+  ]
+}

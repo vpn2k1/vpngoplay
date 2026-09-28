@@ -1,0 +1,173 @@
+{
+  "id": "ja-work-travel",
+  "lang": "ja",
+  "track": "work",
+  "level": "N4",
+  "title": "出張と旅行",
+  "description": "Tiếng Nhật khi đi công tác: sân bay, khách sạn, tàu điện.",
+  "words": [
+    {
+      "id": "kuukou",
+      "term": "空港",
+      "reading": "くうこう · kūkō",
+      "meaning": "sân bay",
+      "emoji": "✈️",
+      "example": "空港まで電車で行きます。",
+      "exampleMeaning": "Tôi đi đến sân bay bằng tàu điện."
+    },
+    {
+      "id": "yoyaku",
+      "term": "予約",
+      "reading": "よやく · yoyaku",
+      "meaning": "đặt chỗ",
+      "emoji": "📝",
+      "example": "ホテルを予約しました。",
+      "exampleMeaning": "Tôi đã đặt khách sạn."
+    },
+    {
+      "id": "kippu",
+      "term": "切符",
+      "reading": "きっぷ · kippu",
+      "meaning": "vé",
+      "emoji": "🎫",
+      "example": "切符を買います。",
+      "exampleMeaning": "Tôi mua vé."
+    },
+    {
+      "id": "nimotsu",
+      "term": "荷物",
+      "reading": "にもつ · nimotsu",
+      "meaning": "hành lý",
+      "emoji": "🧳",
+      "example": "荷物が重いです。",
+      "exampleMeaning": "Hành lý nặng quá."
+    },
+    {
+      "id": "ryoushuusho",
+      "term": "領収書",
+      "reading": "りょうしゅうしょ · ryōshūsho",
+      "meaning": "biên lai",
+      "emoji": "🧾",
+      "example": "領収書をください。",
+      "exampleMeaning": "Cho tôi xin biên lai."
+    },
+    {
+      "id": "norikae",
+      "term": "乗り換え",
+      "reading": "のりかえ · norikae",
+      "meaning": "chuyển tàu",
+      "emoji": "🔄",
+      "example": "乗り換えは東京駅です。",
+      "exampleMeaning": "Chỗ chuyển tàu là ga Tokyo."
+    },
+    {
+      "id": "okureru",
+      "term": "遅れる",
+      "reading": "おくれる · okureru",
+      "meaning": "bị trễ",
+      "emoji": "⏳",
+      "example": "会議に遅れるかもしれません。",
+      "exampleMeaning": "Có thể tôi sẽ bị trễ cuộc họp."
+    },
+    {
+      "id": "eki",
+      "term": "駅",
+      "reading": "えき · eki",
+      "meaning": "nhà ga",
+      "emoji": "🚉",
+      "example": "駅はどこですか。",
+      "exampleMeaning": "Nhà ga ở đâu?"
+    },
+    {
+      "id": "chizu",
+      "term": "地図",
+      "reading": "ちず · chizu",
+      "meaning": "bản đồ",
+      "emoji": "🗺️",
+      "example": "地図を見せてください。",
+      "exampleMeaning": "Cho tôi xem bản đồ."
+    },
+    {
+      "id": "pasupooto",
+      "term": "パスポート",
+      "reading": "pasupōto",
+      "meaning": "hộ chiếu",
+      "emoji": "🛂",
+      "example": "パスポートを忘れないでください。",
+      "exampleMeaning": "Đừng quên hộ chiếu nhé."
+    },
+    {
+      "id": "kaigishitsu",
+      "term": "会議室",
+      "reading": "かいぎしつ · kaigishitsu",
+      "meaning": "phòng họp",
+      "emoji": "🏢",
+      "example": "会議室は三階です。",
+      "exampleMeaning": "Phòng họp ở tầng ba."
+    },
+    {
+      "id": "meishi",
+      "term": "名刺",
+      "reading": "めいし · meishi",
+      "meaning": "danh thiếp",
+      "emoji": "💳",
+      "example": "名刺を交換しましょう。",
+      "exampleMeaning": "Chúng ta trao đổi danh thiếp nhé."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "空港",
+        "まで",
+        "お願いします"
+      ],
+      "reading": "くうこうまでおねがいします",
+      "meaning": "Cho tôi đến sân bay."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "ホテル",
+        "を",
+        "予約",
+        "しました"
+      ],
+      "reading": "ホテルをよやくしました",
+      "meaning": "Tôi đã đặt khách sạn."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "電車",
+        "が",
+        "遅れて",
+        "います"
+      ],
+      "reading": "でんしゃがおくれています",
+      "meaning": "Tàu điện đang bị trễ."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "駅",
+        "は",
+        "どこ",
+        "ですか"
+      ],
+      "reading": "えきはどこですか",
+      "meaning": "Nhà ga ở đâu?"
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "名刺",
+        "を",
+        "どうぞ"
+      ],
+      "reading": "めいしをどうぞ",
+      "meaning": "Đây là danh thiếp của tôi."
+    }
+  ]
+}

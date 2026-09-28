@@ -1,0 +1,29 @@
+{
+  "id": "ja-work-business",
+  "lang": "ja",
+  "track": "work",
+  "level": "N4–N3",
+  "title": "ビジネス日本語",
+  "description": "Tiếng Nhật công sở: họp, báo cáo, Hō-Ren-Sō.",
+  "words": [
+    { "id": "kaigi", "term": "会議", "reading": "かいぎ · kaigi", "meaning": "cuộc họp", "emoji": "👥", "example": "会議は三時からです。", "exampleMeaning": "Cuộc họp bắt đầu từ 3 giờ." },
+    { "id": "shimekiri", "term": "締め切り", "reading": "しめきり · shimekiri", "meaning": "hạn chót", "emoji": "⏰", "example": "締め切りは金曜日です。", "exampleMeaning": "Hạn chót là thứ Sáu." },
+    { "id": "shiryou", "term": "資料", "reading": "しりょう · shiryō", "meaning": "tài liệu", "emoji": "📄", "example": "資料を準備します。", "exampleMeaning": "Tôi sẽ chuẩn bị tài liệu." },
+    { "id": "joushi", "term": "上司", "reading": "じょうし · jōshi", "meaning": "cấp trên", "emoji": "👔", "example": "上司に相談します。", "exampleMeaning": "Tôi sẽ xin ý kiến cấp trên." },
+    { "id": "douryou", "term": "同僚", "reading": "どうりょう · dōryō", "meaning": "đồng nghiệp", "emoji": "🤝", "example": "同僚と昼ご飯を食べます。", "exampleMeaning": "Tôi ăn trưa với đồng nghiệp." },
+    { "id": "torihikisaki", "term": "取引先", "reading": "とりひきさき · torihikisaki", "meaning": "đối tác, khách hàng", "emoji": "🏢", "example": "取引先に電話します。", "exampleMeaning": "Tôi gọi điện cho đối tác." },
+    { "id": "houkoku", "term": "報告", "reading": "ほうこく · hōkoku", "meaning": "báo cáo", "emoji": "📊", "example": "結果を報告します。", "exampleMeaning": "Tôi sẽ báo cáo kết quả." },
+    { "id": "renraku", "term": "連絡", "reading": "れんらく · renraku", "meaning": "liên lạc", "emoji": "📞", "example": "あとで連絡します。", "exampleMeaning": "Tôi sẽ liên lạc sau." },
+    { "id": "soudan", "term": "相談", "reading": "そうだん · sōdan", "meaning": "bàn bạc, xin ý kiến", "emoji": "💬", "example": "ちょっと相談があります。", "exampleMeaning": "Tôi có chút việc muốn bàn." },
+    { "id": "zangyou", "term": "残業", "reading": "ざんぎょう · zangyō", "meaning": "làm thêm giờ", "emoji": "🌙", "example": "昨日は残業しました。", "exampleMeaning": "Hôm qua tôi làm thêm giờ." },
+    { "id": "shucchou", "term": "出張", "reading": "しゅっちょう · shutchō", "meaning": "đi công tác", "emoji": "✈️", "example": "来週大阪に出張します。", "exampleMeaning": "Tuần sau tôi đi công tác Osaka." },
+    { "id": "mitsumori", "term": "見積もり", "reading": "みつもり · mitsumori", "meaning": "báo giá", "emoji": "🧾", "example": "見積もりを送ってください。", "exampleMeaning": "Vui lòng gửi báo giá." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["明日", "の", "会議", "は", "10時", "から", "です"], "reading": "あしたのかいぎはじゅうじからです", "meaning": "Cuộc họp ngày mai bắt đầu từ 10 giờ." },
+    { "id": "s2", "tokens": ["資料", "を", "送ります"], "reading": "しりょうをおくります", "meaning": "Tôi sẽ gửi tài liệu." },
+    { "id": "s3", "tokens": ["お疲れ様", "です"], "reading": "おつかれさまです", "meaning": "Anh/chị vất vả rồi (câu chào nơi công sở)." },
+    { "id": "s4", "tokens": ["少々", "お待ち", "ください"], "reading": "しょうしょうおまちください", "meaning": "Xin vui lòng chờ một chút." },
+    { "id": "s5", "tokens": ["今日", "は", "残業", "します"], "reading": "きょうはざんぎょうします", "meaning": "Hôm nay tôi làm thêm giờ." }
+  ]
+}

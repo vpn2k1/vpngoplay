@@ -1,0 +1,29 @@
+{
+  "id": "zh-work-business",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 3–4",
+  "title": "商务汉语",
+  "description": "Tiếng Trung văn phòng: họp, hợp đồng, công tác.",
+  "words": [
+    { "id": "huiyi", "term": "会议", "reading": "huìyì", "meaning": "cuộc họp", "emoji": "👥", "example": "会议三点开始。", "exampleMeaning": "Cuộc họp bắt đầu lúc 3 giờ." },
+    { "id": "jiezhiriqi", "term": "截止日期", "reading": "jiézhǐ rìqī", "meaning": "hạn chót", "emoji": "⏰", "example": "截止日期是星期五。", "exampleMeaning": "Hạn chót là thứ Sáu." },
+    { "id": "tongshi", "term": "同事", "reading": "tóngshì", "meaning": "đồng nghiệp", "emoji": "🤝", "example": "我的同事很友好。", "exampleMeaning": "Đồng nghiệp của tôi rất thân thiện." },
+    { "id": "laoban", "term": "老板", "reading": "lǎobǎn", "meaning": "sếp, ông chủ", "emoji": "👔", "example": "老板在开会。", "exampleMeaning": "Sếp đang họp." },
+    { "id": "kehu", "term": "客户", "reading": "kèhù", "meaning": "khách hàng", "emoji": "🏢", "example": "客户下午来公司。", "exampleMeaning": "Buổi chiều khách hàng đến công ty." },
+    { "id": "hetong", "term": "合同", "reading": "hétong", "meaning": "hợp đồng", "emoji": "📝", "example": "请看一下合同。", "exampleMeaning": "Vui lòng xem qua hợp đồng." },
+    { "id": "baogao", "term": "报告", "reading": "bàogào", "meaning": "báo cáo", "emoji": "📊", "example": "报告写好了。", "exampleMeaning": "Báo cáo đã viết xong." },
+    { "id": "jiaban", "term": "加班", "reading": "jiābān", "meaning": "làm thêm giờ", "emoji": "🌙", "example": "昨天我加班了。", "exampleMeaning": "Hôm qua tôi làm thêm giờ." },
+    { "id": "chuchai", "term": "出差", "reading": "chūchāi", "meaning": "đi công tác", "emoji": "✈️", "example": "他去广州出差了。", "exampleMeaning": "Anh ấy đi công tác Quảng Châu rồi." },
+    { "id": "fapiao", "term": "发票", "reading": "fāpiào", "meaning": "hóa đơn", "emoji": "🧾", "example": "请给我开发票。", "exampleMeaning": "Vui lòng xuất hóa đơn cho tôi." },
+    { "id": "gongzi", "term": "工资", "reading": "gōngzī", "meaning": "tiền lương", "emoji": "💰", "example": "每个月十号发工资。", "exampleMeaning": "Ngày 10 hằng tháng trả lương." },
+    { "id": "mianshi", "term": "面试", "reading": "miànshì", "meaning": "phỏng vấn", "emoji": "🎤", "example": "明天我有一个面试。", "exampleMeaning": "Ngày mai tôi có một buổi phỏng vấn." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["明天", "上午", "十点", "开会"], "reading": "míngtiān shàngwǔ shí diǎn kāihuì", "meaning": "10 giờ sáng mai họp." },
+    { "id": "s2", "tokens": ["请", "把", "报告", "发给", "我"], "reading": "qǐng bǎ bàogào fā gěi wǒ", "meaning": "Vui lòng gửi báo cáo cho tôi." },
+    { "id": "s3", "tokens": ["我", "今天", "要", "加班"], "reading": "wǒ jīntiān yào jiābān", "meaning": "Hôm nay tôi phải làm thêm giờ." },
+    { "id": "s4", "tokens": ["下周", "我", "去", "上海", "出差"], "reading": "xiàzhōu wǒ qù Shànghǎi chūchāi", "meaning": "Tuần sau tôi đi công tác Thượng Hải." },
+    { "id": "s5", "tokens": ["我们", "签", "合同", "吧"], "reading": "wǒmen qiān hétong ba", "meaning": "Chúng ta ký hợp đồng nhé." }
+  ]
+}

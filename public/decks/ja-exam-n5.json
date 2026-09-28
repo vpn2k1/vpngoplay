@@ -1,0 +1,29 @@
+{
+  "id": "ja-exam-n5",
+  "lang": "ja",
+  "track": "exam",
+  "level": "JLPT N5",
+  "title": "JLPT N5 — 基本語彙",
+  "description": "Từ vựng N5 cốt lõi kèm Kanji.",
+  "words": [
+    { "id": "gakkou", "term": "学校", "reading": "がっこう · gakkō", "meaning": "trường học", "emoji": "🏫", "example": "学校に行きます。", "exampleMeaning": "Tôi đi đến trường." },
+    { "id": "sensei", "term": "先生", "reading": "せんせい · sensei", "meaning": "giáo viên", "emoji": "👩‍🏫", "example": "田中先生は優しいです。", "exampleMeaning": "Thầy/cô Tanaka rất hiền." },
+    { "id": "tomodachi", "term": "友達", "reading": "ともだち · tomodachi", "meaning": "bạn bè", "emoji": "🧑‍🤝‍🧑", "example": "友達と遊びます。", "exampleMeaning": "Tôi chơi với bạn." },
+    { "id": "densha", "term": "電車", "reading": "でんしゃ · densha", "meaning": "tàu điện", "emoji": "🚃", "example": "電車で会社に行きます。", "exampleMeaning": "Tôi đi làm bằng tàu điện." },
+    { "id": "tenki", "term": "天気", "reading": "てんき · tenki", "meaning": "thời tiết", "emoji": "🌤️", "example": "今日はいい天気ですね。", "exampleMeaning": "Hôm nay thời tiết đẹp nhỉ." },
+    { "id": "mainichi", "term": "毎日", "reading": "まいにち · mainichi", "meaning": "mỗi ngày", "emoji": "📆", "example": "毎日日本語を勉強します。", "exampleMeaning": "Mỗi ngày tôi học tiếng Nhật." },
+    { "id": "taberu", "term": "食べる", "reading": "たべる · taberu", "meaning": "ăn", "emoji": "🍚", "example": "朝ご飯を食べます。", "exampleMeaning": "Tôi ăn sáng." },
+    { "id": "nomu", "term": "飲む", "reading": "のむ · nomu", "meaning": "uống", "emoji": "🍵", "example": "お茶を飲みます。", "exampleMeaning": "Tôi uống trà." },
+    { "id": "iku", "term": "行く", "reading": "いく · iku", "meaning": "đi", "emoji": "🚶", "example": "週末に東京へ行きます。", "exampleMeaning": "Cuối tuần tôi đi Tokyo." },
+    { "id": "miru", "term": "見る", "reading": "みる · miru", "meaning": "xem, nhìn", "emoji": "👀", "example": "テレビを見ます。", "exampleMeaning": "Tôi xem tivi." },
+    { "id": "takai", "term": "高い", "reading": "たかい · takai", "meaning": "cao; đắt", "emoji": "💴", "example": "このかばんは高いです。", "exampleMeaning": "Cái túi này đắt." },
+    { "id": "atarashii", "term": "新しい", "reading": "あたらしい · atarashii", "meaning": "mới", "emoji": "✨", "example": "新しい靴を買いました。", "exampleMeaning": "Tôi đã mua đôi giày mới." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["私", "は", "学生", "です"], "reading": "わたしはがくせいです", "meaning": "Tôi là học sinh." },
+    { "id": "s2", "tokens": ["毎日", "電車", "で", "学校", "に", "行きます"], "reading": "まいにちでんしゃでがっこうにいきます", "meaning": "Mỗi ngày tôi đi học bằng tàu điện." },
+    { "id": "s3", "tokens": ["今日", "は", "天気", "が", "いい", "です"], "reading": "きょうはてんきがいいです", "meaning": "Hôm nay thời tiết đẹp." },
+    { "id": "s4", "tokens": ["友達", "と", "映画", "を", "見ました"], "reading": "ともだちとえいがをみました", "meaning": "Tôi đã xem phim với bạn." },
+    { "id": "s5", "tokens": ["この", "本", "は", "高い", "です"], "reading": "このほんはたかいです", "meaning": "Quyển sách này đắt." }
+  ]
+}

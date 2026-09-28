@@ -1,0 +1,179 @@
+{
+  "id": "ja-exam-n5-time",
+  "lang": "ja",
+  "track": "exam",
+  "level": "JLPT N5",
+  "title": "JLPT N5 — 時間と場所",
+  "description": "Thời gian, địa điểm và động từ N5.",
+  "words": [
+    {
+      "id": "kyou",
+      "term": "今日",
+      "reading": "きょう · kyō",
+      "meaning": "hôm nay",
+      "emoji": "📅",
+      "example": "今日は月曜日です。",
+      "exampleMeaning": "Hôm nay là thứ Hai."
+    },
+    {
+      "id": "ashita",
+      "term": "明日",
+      "reading": "あした · ashita",
+      "meaning": "ngày mai",
+      "emoji": "🌅",
+      "example": "明日、東京へ行きます。",
+      "exampleMeaning": "Ngày mai tôi đi Tokyo."
+    },
+    {
+      "id": "kinou",
+      "term": "昨日",
+      "reading": "きのう · kinō",
+      "meaning": "hôm qua",
+      "emoji": "⏮️",
+      "example": "昨日、映画を見ました。",
+      "exampleMeaning": "Hôm qua tôi đã xem phim."
+    },
+    {
+      "id": "asa",
+      "term": "朝",
+      "reading": "あさ · asa",
+      "meaning": "buổi sáng",
+      "emoji": "🌄",
+      "example": "朝ご飯を食べます。",
+      "exampleMeaning": "Tôi ăn sáng."
+    },
+    {
+      "id": "yoru",
+      "term": "夜",
+      "reading": "よる · yoru",
+      "meaning": "buổi tối",
+      "emoji": "🌙",
+      "example": "夜、本を読みます。",
+      "exampleMeaning": "Buổi tối tôi đọc sách."
+    },
+    {
+      "id": "jikan",
+      "term": "時間",
+      "reading": "じかん · jikan",
+      "meaning": "thời gian",
+      "emoji": "⌛",
+      "example": "時間がありません。",
+      "exampleMeaning": "Tôi không có thời gian."
+    },
+    {
+      "id": "ie",
+      "term": "家",
+      "reading": "いえ · ie",
+      "meaning": "nhà",
+      "emoji": "🏠",
+      "example": "家は駅の近くです。",
+      "exampleMeaning": "Nhà tôi ở gần ga."
+    },
+    {
+      "id": "mise",
+      "term": "店",
+      "reading": "みせ · mise",
+      "meaning": "cửa hàng",
+      "emoji": "🏪",
+      "example": "この店は安いです。",
+      "exampleMeaning": "Cửa hàng này rẻ."
+    },
+    {
+      "id": "byouin",
+      "term": "病院",
+      "reading": "びょういん · byōin",
+      "meaning": "bệnh viện",
+      "emoji": "🏥",
+      "example": "病院はあそこです。",
+      "exampleMeaning": "Bệnh viện ở đằng kia."
+    },
+    {
+      "id": "kaeru",
+      "term": "帰る",
+      "reading": "かえる · kaeru",
+      "meaning": "trở về",
+      "emoji": "🏃",
+      "example": "家に帰る時間です。",
+      "exampleMeaning": "Đến giờ về nhà rồi."
+    },
+    {
+      "id": "yomu",
+      "term": "読む",
+      "reading": "よむ · yomu",
+      "meaning": "đọc",
+      "emoji": "📖",
+      "example": "本を読むのが好きです。",
+      "exampleMeaning": "Tôi thích đọc sách."
+    },
+    {
+      "id": "kaku",
+      "term": "書く",
+      "reading": "かく · kaku",
+      "meaning": "viết",
+      "emoji": "✍️",
+      "example": "手紙を書くのは難しいです。",
+      "exampleMeaning": "Viết thư thì khó."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "明日",
+        "は",
+        "病院",
+        "へ",
+        "行きます"
+      ],
+      "reading": "あしたはびょういんへいきます",
+      "meaning": "Ngày mai tôi đi bệnh viện."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "昨日",
+        "は",
+        "家",
+        "に",
+        "いました"
+      ],
+      "reading": "きのうはいえにいました",
+      "meaning": "Hôm qua tôi ở nhà."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "朝",
+        "七時",
+        "に",
+        "起きます"
+      ],
+      "reading": "あさしちじにおきます",
+      "meaning": "Buổi sáng tôi dậy lúc bảy giờ."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "夜",
+        "は",
+        "本",
+        "を",
+        "読みます"
+      ],
+      "reading": "よるはほんをよみます",
+      "meaning": "Buổi tối tôi đọc sách."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "この",
+        "店",
+        "は",
+        "安い",
+        "です"
+      ],
+      "reading": "このみせはやすいです",
+      "meaning": "Cửa hàng này rẻ."
+    }
+  ]
+}

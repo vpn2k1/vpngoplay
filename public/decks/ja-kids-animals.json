@@ -1,0 +1,29 @@
+{
+  "id": "ja-kids-animals",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "どうぶつ と いろ",
+  "description": "Con vật và màu sắc bằng Hiragana cho bé.",
+  "words": [
+    { "id": "neko", "term": "ねこ", "reading": "neko", "meaning": "con mèo", "emoji": "🐱", "example": "ねこ が ねて います。", "exampleMeaning": "Con mèo đang ngủ." },
+    { "id": "inu", "term": "いぬ", "reading": "inu", "meaning": "con chó", "emoji": "🐶", "example": "いぬ が はしって います。", "exampleMeaning": "Con chó đang chạy." },
+    { "id": "tori", "term": "とり", "reading": "tori", "meaning": "con chim", "emoji": "🐦", "example": "とり が とんで います。", "exampleMeaning": "Con chim đang bay." },
+    { "id": "sakana", "term": "さかな", "reading": "sakana", "meaning": "con cá", "emoji": "🐟", "example": "さかな が およいで います。", "exampleMeaning": "Con cá đang bơi." },
+    { "id": "usagi", "term": "うさぎ", "reading": "usagi", "meaning": "con thỏ", "emoji": "🐰", "example": "うさぎ は にんじん が すき です。", "exampleMeaning": "Thỏ thích cà rốt." },
+    { "id": "zou", "term": "ぞう", "reading": "zō", "meaning": "con voi", "emoji": "🐘", "example": "ぞう は おおきい です。", "exampleMeaning": "Con voi to." },
+    { "id": "aka", "term": "あか", "reading": "aka", "meaning": "màu đỏ", "emoji": "🔴", "example": "あか の ボール です。", "exampleMeaning": "Đây là quả bóng màu đỏ." },
+    { "id": "ao", "term": "あお", "reading": "ao", "meaning": "màu xanh dương", "emoji": "🔵", "example": "そら は あお です。", "exampleMeaning": "Bầu trời màu xanh." },
+    { "id": "kiiro", "term": "きいろ", "reading": "kiiro", "meaning": "màu vàng", "emoji": "🟡", "example": "バナナ は きいろ です。", "exampleMeaning": "Chuối màu vàng." },
+    { "id": "midori", "term": "みどり", "reading": "midori", "meaning": "màu xanh lá", "emoji": "🟢", "example": "はっぱ は みどり です。", "exampleMeaning": "Chiếc lá màu xanh lá." },
+    { "id": "ringo", "term": "りんご", "reading": "ringo", "meaning": "quả táo", "emoji": "🍎", "example": "りんご を たべます。", "exampleMeaning": "Tớ ăn táo." },
+    { "id": "banana", "term": "バナナ", "reading": "banana", "meaning": "quả chuối", "emoji": "🍌", "example": "さる は バナナ が すき です。", "exampleMeaning": "Khỉ thích chuối." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["ねこ", "が", "すき", "です"], "reading": "ねこがすきです", "meaning": "Tớ thích mèo." },
+    { "id": "s2", "tokens": ["りんご", "は", "あかい", "です"], "reading": "りんごはあかいです", "meaning": "Quả táo màu đỏ." },
+    { "id": "s3", "tokens": ["いぬ", "が", "います"], "reading": "いぬがいます", "meaning": "Có một con chó." },
+    { "id": "s4", "tokens": ["これ", "は", "さかな", "です"], "reading": "これはさかなです", "meaning": "Đây là con cá." },
+    { "id": "s5", "tokens": ["ぞう", "は", "おおきい", "です"], "reading": "ぞうはおおきいです", "meaning": "Con voi to." }
+  ]
+}

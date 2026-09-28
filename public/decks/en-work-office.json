@@ -1,0 +1,29 @@
+{
+  "id": "en-work-office",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Office & Email",
+  "description": "Từ vựng công sở: họp, email, deadline.",
+  "words": [
+    { "id": "deadline", "term": "deadline", "reading": "/ˈdedlaɪn/", "meaning": "hạn chót", "emoji": "⏰", "example": "The deadline is next Monday.", "exampleMeaning": "Hạn chót là thứ Hai tuần sau." },
+    { "id": "meeting", "term": "meeting", "reading": "/ˈmiːtɪŋ/", "meaning": "cuộc họp", "emoji": "👥", "example": "We have a meeting at 9 a.m.", "exampleMeaning": "Chúng ta có cuộc họp lúc 9 giờ sáng." },
+    { "id": "schedule", "term": "schedule", "reading": "/ˈskedʒuːl/", "meaning": "lịch trình; lên lịch", "emoji": "📅", "example": "Let's schedule a call for tomorrow.", "exampleMeaning": "Hãy lên lịch một cuộc gọi vào ngày mai." },
+    { "id": "colleague", "term": "colleague", "reading": "/ˈkɑːliːɡ/", "meaning": "đồng nghiệp", "emoji": "🤝", "example": "My colleague will help you.", "exampleMeaning": "Đồng nghiệp của tôi sẽ giúp bạn." },
+    { "id": "invoice", "term": "invoice", "reading": "/ˈɪnvɔɪs/", "meaning": "hóa đơn", "emoji": "🧾", "example": "Please pay the invoice by Friday.", "exampleMeaning": "Vui lòng thanh toán hóa đơn trước thứ Sáu." },
+    { "id": "agenda", "term": "agenda", "reading": "/əˈdʒendə/", "meaning": "chương trình họp", "emoji": "📋", "example": "What is on the agenda today?", "exampleMeaning": "Hôm nay họp những nội dung gì?" },
+    { "id": "follow-up", "term": "follow up", "reading": "/ˈfɑːloʊ ʌp/", "meaning": "liên hệ lại, theo dõi tiếp", "emoji": "🔁", "example": "I will follow up by email.", "exampleMeaning": "Tôi sẽ liên hệ lại qua email." },
+    { "id": "attach", "term": "attach", "reading": "/əˈtætʃ/", "meaning": "đính kèm", "emoji": "📎", "example": "I have attached the report.", "exampleMeaning": "Tôi đã đính kèm báo cáo." },
+    { "id": "postpone", "term": "postpone", "reading": "/poʊstˈpoʊn/", "meaning": "hoãn lại", "emoji": "⏸️", "example": "They postponed the launch.", "exampleMeaning": "Họ đã hoãn buổi ra mắt." },
+    { "id": "approve", "term": "approve", "reading": "/əˈpruːv/", "meaning": "phê duyệt", "emoji": "✅", "example": "The manager approved the budget.", "exampleMeaning": "Quản lý đã phê duyệt ngân sách." },
+    { "id": "negotiate", "term": "negotiate", "reading": "/nɪˈɡoʊʃieɪt/", "meaning": "đàm phán", "emoji": "💬", "example": "We need to negotiate the price.", "exampleMeaning": "Chúng ta cần đàm phán giá." },
+    { "id": "feedback", "term": "feedback", "reading": "/ˈfiːdbæk/", "meaning": "phản hồi, góp ý", "emoji": "🗣️", "example": "Thanks for your feedback.", "exampleMeaning": "Cảm ơn góp ý của bạn." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Please", "find", "the", "attached", "invoice"], "meaning": "Vui lòng xem hóa đơn đính kèm." },
+    { "id": "s2", "tokens": ["The", "meeting", "has", "been", "postponed", "until", "Friday"], "meaning": "Cuộc họp đã được hoãn đến thứ Sáu." },
+    { "id": "s3", "tokens": ["Could", "you", "send", "me", "the", "agenda"], "meaning": "Bạn có thể gửi tôi chương trình họp không?" },
+    { "id": "s4", "tokens": ["I", "will", "follow", "up", "with", "the", "client", "tomorrow"], "meaning": "Tôi sẽ liên hệ lại với khách hàng vào ngày mai." },
+    { "id": "s5", "tokens": ["We", "need", "to", "meet", "the", "deadline"], "meaning": "Chúng ta cần kịp hạn chót." }
+  ]
+}

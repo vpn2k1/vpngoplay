@@ -1,0 +1,201 @@
+{
+  "id": "zh-kids-family",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "家人和数字",
+  "description": "Gia đình và số đếm kèm pinyin cho bé.",
+  "words": [
+    {
+      "id": "mama",
+      "term": "妈妈",
+      "reading": "māma",
+      "meaning": "mẹ",
+      "emoji": "👩",
+      "example": "妈妈爱我。",
+      "exampleMeaning": "Mẹ yêu tớ."
+    },
+    {
+      "id": "baba",
+      "term": "爸爸",
+      "reading": "bàba",
+      "meaning": "bố",
+      "emoji": "👨",
+      "example": "爸爸很高。",
+      "exampleMeaning": "Bố rất cao."
+    },
+    {
+      "id": "jiejie",
+      "term": "姐姐",
+      "reading": "jiějie",
+      "meaning": "chị gái",
+      "emoji": "👧",
+      "example": "姐姐在唱歌。",
+      "exampleMeaning": "Chị gái đang hát."
+    },
+    {
+      "id": "gege",
+      "term": "哥哥",
+      "reading": "gēge",
+      "meaning": "anh trai",
+      "emoji": "👦",
+      "example": "哥哥喜欢足球。",
+      "exampleMeaning": "Anh trai thích bóng đá."
+    },
+    {
+      "id": "baobao",
+      "term": "宝宝",
+      "reading": "bǎobao",
+      "meaning": "em bé",
+      "emoji": "👶",
+      "example": "宝宝在睡觉。",
+      "exampleMeaning": "Em bé đang ngủ."
+    },
+    {
+      "id": "nainai",
+      "term": "奶奶",
+      "reading": "nǎinai",
+      "meaning": "bà nội",
+      "emoji": "👵",
+      "example": "奶奶做的饭很好吃。",
+      "exampleMeaning": "Bà nấu cơm rất ngon.",
+      "answers": [
+        "bà"
+      ]
+    },
+    {
+      "id": "yi",
+      "term": "一",
+      "reading": "yī",
+      "meaning": "số một",
+      "emoji": "1️⃣",
+      "example": "我有一个苹果。",
+      "exampleMeaning": "Tớ có một quả táo.",
+      "answers": [
+        "một",
+        "1"
+      ]
+    },
+    {
+      "id": "er",
+      "term": "二",
+      "reading": "èr",
+      "meaning": "số hai",
+      "emoji": "2️⃣",
+      "example": "一二三，开始！",
+      "exampleMeaning": "Một, hai, ba, bắt đầu!",
+      "answers": [
+        "hai",
+        "2"
+      ]
+    },
+    {
+      "id": "san",
+      "term": "三",
+      "reading": "sān",
+      "meaning": "số ba",
+      "emoji": "3️⃣",
+      "example": "我三岁了。",
+      "exampleMeaning": "Tớ ba tuổi rồi.",
+      "answers": [
+        "3"
+      ]
+    },
+    {
+      "id": "si",
+      "term": "四",
+      "reading": "sì",
+      "meaning": "số bốn",
+      "emoji": "4️⃣",
+      "example": "小猫有四条腿。",
+      "exampleMeaning": "Mèo con có bốn chân.",
+      "answers": [
+        "bốn",
+        "4"
+      ]
+    },
+    {
+      "id": "wu",
+      "term": "五",
+      "reading": "wǔ",
+      "meaning": "số năm",
+      "emoji": "5️⃣",
+      "example": "我有五个朋友。",
+      "exampleMeaning": "Tớ có năm người bạn.",
+      "answers": [
+        "năm",
+        "5"
+      ]
+    },
+    {
+      "id": "shi",
+      "term": "十",
+      "reading": "shí",
+      "meaning": "số mười",
+      "emoji": "🔟",
+      "example": "我会数到十。",
+      "exampleMeaning": "Tớ đếm được đến mười.",
+      "answers": [
+        "mười",
+        "10"
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "我",
+        "爱",
+        "妈妈"
+      ],
+      "reading": "wǒ ài māma",
+      "meaning": "Tớ yêu mẹ."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "爸爸",
+        "很",
+        "高"
+      ],
+      "reading": "bàba hěn gāo",
+      "meaning": "Bố rất cao."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "我",
+        "有",
+        "两",
+        "个",
+        "哥哥"
+      ],
+      "reading": "wǒ yǒu liǎng gè gēge",
+      "meaning": "Tớ có hai anh trai."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "宝宝",
+        "三",
+        "岁",
+        "了"
+      ],
+      "reading": "bǎobao sān suì le",
+      "meaning": "Em bé ba tuổi rồi."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "奶奶",
+        "有",
+        "五",
+        "个",
+        "苹果"
+      ],
+      "reading": "nǎinai yǒu wǔ gè píngguǒ",
+      "meaning": "Bà có năm quả táo."
+    }
+  ]
+}

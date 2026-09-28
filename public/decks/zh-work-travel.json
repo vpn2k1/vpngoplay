@@ -1,0 +1,175 @@
+{
+  "id": "zh-work-travel",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 3",
+  "title": "出差和旅行",
+  "description": "Tiếng Trung khi đi công tác: sân bay, khách sạn, tàu xe.",
+  "words": [
+    {
+      "id": "jichang",
+      "term": "机场",
+      "reading": "jīchǎng",
+      "meaning": "sân bay",
+      "emoji": "✈️",
+      "example": "我们去机场吧。",
+      "exampleMeaning": "Chúng ta ra sân bay nhé."
+    },
+    {
+      "id": "hangban",
+      "term": "航班",
+      "reading": "hángbān",
+      "meaning": "chuyến bay",
+      "emoji": "🛫",
+      "example": "我的航班晚点了。",
+      "exampleMeaning": "Chuyến bay của tôi bị trễ."
+    },
+    {
+      "id": "huzhao",
+      "term": "护照",
+      "reading": "hùzhào",
+      "meaning": "hộ chiếu",
+      "emoji": "🛂",
+      "example": "请出示您的护照。",
+      "exampleMeaning": "Vui lòng xuất trình hộ chiếu."
+    },
+    {
+      "id": "xingli",
+      "term": "行李",
+      "reading": "xíngli",
+      "meaning": "hành lý",
+      "emoji": "🧳",
+      "example": "我的行李很重。",
+      "exampleMeaning": "Hành lý của tôi rất nặng."
+    },
+    {
+      "id": "jiudian",
+      "term": "酒店",
+      "reading": "jiǔdiàn",
+      "meaning": "khách sạn",
+      "emoji": "🏨",
+      "example": "酒店离公司很近。",
+      "exampleMeaning": "Khách sạn rất gần công ty."
+    },
+    {
+      "id": "yuding",
+      "term": "预订",
+      "reading": "yùdìng",
+      "meaning": "đặt trước",
+      "emoji": "📝",
+      "example": "我预订了两个房间。",
+      "exampleMeaning": "Tôi đã đặt trước hai phòng."
+    },
+    {
+      "id": "huochezhan",
+      "term": "火车站",
+      "reading": "huǒchēzhàn",
+      "meaning": "ga tàu",
+      "emoji": "🚉",
+      "example": "火车站在哪儿？",
+      "exampleMeaning": "Ga tàu ở đâu?"
+    },
+    {
+      "id": "ditie",
+      "term": "地铁",
+      "reading": "dìtiě",
+      "meaning": "tàu điện ngầm",
+      "emoji": "🚇",
+      "example": "我坐地铁上班。",
+      "exampleMeaning": "Tôi đi làm bằng tàu điện ngầm."
+    },
+    {
+      "id": "wandian",
+      "term": "晚点",
+      "reading": "wǎndiǎn",
+      "meaning": "trễ giờ",
+      "emoji": "⏳",
+      "example": "火车晚点了半个小时。",
+      "exampleMeaning": "Tàu trễ nửa tiếng."
+    },
+    {
+      "id": "ditu",
+      "term": "地图",
+      "reading": "dìtú",
+      "meaning": "bản đồ",
+      "emoji": "🗺️",
+      "example": "这是城市地图。",
+      "exampleMeaning": "Đây là bản đồ thành phố."
+    },
+    {
+      "id": "mingpian",
+      "term": "名片",
+      "reading": "míngpiàn",
+      "meaning": "danh thiếp",
+      "emoji": "💳",
+      "example": "这是我的名片。",
+      "exampleMeaning": "Đây là danh thiếp của tôi."
+    },
+    {
+      "id": "shouju",
+      "term": "收据",
+      "reading": "shōujù",
+      "meaning": "biên lai",
+      "emoji": "🧾",
+      "example": "请给我收据。",
+      "exampleMeaning": "Cho tôi xin biên lai."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "我",
+        "的",
+        "航班",
+        "晚点",
+        "了"
+      ],
+      "reading": "wǒ de hángbān wǎndiǎn le",
+      "meaning": "Chuyến bay của tôi bị trễ."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "请",
+        "出示",
+        "护照"
+      ],
+      "reading": "qǐng chūshì hùzhào",
+      "meaning": "Vui lòng xuất trình hộ chiếu."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "我",
+        "预订",
+        "了",
+        "酒店"
+      ],
+      "reading": "wǒ yùdìng le jiǔdiàn",
+      "meaning": "Tôi đã đặt khách sạn."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "火车站",
+        "在",
+        "哪儿"
+      ],
+      "reading": "huǒchēzhàn zài nǎr",
+      "meaning": "Ga tàu ở đâu?"
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "这",
+        "是",
+        "我",
+        "的",
+        "名片"
+      ],
+      "reading": "zhè shì wǒ de míngpiàn",
+      "meaning": "Đây là danh thiếp của tôi."
+    }
+  ]
+}

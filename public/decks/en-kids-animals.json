@@ -1,0 +1,29 @@
+{
+  "id": "en-kids-animals",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "Animals & Colors",
+  "description": "Con vật và màu sắc cho bé mới bắt đầu.",
+  "words": [
+    { "id": "cat", "term": "cat", "reading": "/kæt/", "meaning": "con mèo", "emoji": "🐱", "example": "The cat is sleeping.", "exampleMeaning": "Con mèo đang ngủ." },
+    { "id": "dog", "term": "dog", "reading": "/dɔːɡ/", "meaning": "con chó", "emoji": "🐶", "example": "My dog can run fast.", "exampleMeaning": "Con chó của tớ chạy rất nhanh." },
+    { "id": "bird", "term": "bird", "reading": "/bɜːrd/", "meaning": "con chim", "emoji": "🐦", "example": "The bird can fly.", "exampleMeaning": "Con chim biết bay." },
+    { "id": "fish", "term": "fish", "reading": "/fɪʃ/", "meaning": "con cá", "emoji": "🐟", "example": "The fish is in the water.", "exampleMeaning": "Con cá ở dưới nước." },
+    { "id": "elephant", "term": "elephant", "reading": "/ˈelɪfənt/", "meaning": "con voi", "emoji": "🐘", "example": "The elephant is very big.", "exampleMeaning": "Con voi rất to." },
+    { "id": "rabbit", "term": "rabbit", "reading": "/ˈræbɪt/", "meaning": "con thỏ", "emoji": "🐰", "example": "The rabbit likes carrots.", "exampleMeaning": "Con thỏ thích cà rốt." },
+    { "id": "red", "term": "red", "reading": "/red/", "meaning": "màu đỏ", "emoji": "🔴", "example": "I have a red ball.", "exampleMeaning": "Tớ có một quả bóng màu đỏ." },
+    { "id": "blue", "term": "blue", "reading": "/bluː/", "meaning": "màu xanh dương", "emoji": "🔵", "example": "The sky is blue.", "exampleMeaning": "Bầu trời màu xanh." },
+    { "id": "green", "term": "green", "reading": "/ɡriːn/", "meaning": "màu xanh lá", "emoji": "🟢", "example": "The leaf is green.", "exampleMeaning": "Chiếc lá màu xanh lá." },
+    { "id": "yellow", "term": "yellow", "reading": "/ˈjeloʊ/", "meaning": "màu vàng", "emoji": "🟡", "example": "The sun is yellow.", "exampleMeaning": "Mặt trời màu vàng." },
+    { "id": "apple", "term": "apple", "reading": "/ˈæpl/", "meaning": "quả táo", "emoji": "🍎", "example": "I eat an apple every day.", "exampleMeaning": "Tớ ăn một quả táo mỗi ngày." },
+    { "id": "banana", "term": "banana", "reading": "/bəˈnænə/", "meaning": "quả chuối", "emoji": "🍌", "example": "Monkeys love bananas.", "exampleMeaning": "Khỉ rất thích chuối." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["I", "like", "red", "apples"], "meaning": "Tớ thích táo đỏ." },
+    { "id": "s2", "tokens": ["The", "dog", "is", "big"], "meaning": "Con chó to." },
+    { "id": "s3", "tokens": ["This", "is", "a", "blue", "bird"], "meaning": "Đây là một con chim màu xanh." },
+    { "id": "s4", "tokens": ["I", "have", "two", "rabbits"], "meaning": "Tớ có hai con thỏ." },
+    { "id": "s5", "tokens": ["The", "fish", "is", "yellow"], "meaning": "Con cá màu vàng." }
+  ]
+}

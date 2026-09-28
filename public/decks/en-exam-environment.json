@@ -1,0 +1,178 @@
+{
+  "id": "en-exam-environment",
+  "lang": "en",
+  "track": "exam",
+  "level": "IELTS 6.5+",
+  "title": "IELTS — Environment",
+  "description": "Từ vựng chủ đề môi trường cho Writing & Speaking.",
+  "words": [
+    {
+      "id": "pollution",
+      "term": "pollution",
+      "reading": "/pəˈluːʃn/",
+      "meaning": "ô nhiễm",
+      "emoji": "🏭",
+      "example": "Air pollution is a serious problem in big cities.",
+      "exampleMeaning": "Ô nhiễm không khí là vấn đề nghiêm trọng ở các thành phố lớn."
+    },
+    {
+      "id": "emission",
+      "term": "emission",
+      "reading": "/iˈmɪʃn/",
+      "meaning": "khí thải",
+      "emoji": "💨",
+      "example": "Every factory must report its carbon emission levels.",
+      "exampleMeaning": "Mọi nhà máy phải báo cáo mức khí thải carbon."
+    },
+    {
+      "id": "renewable",
+      "term": "renewable",
+      "reading": "/rɪˈnuːəbl/",
+      "meaning": "tái tạo được",
+      "emoji": "♻️",
+      "example": "Solar power is a renewable source of energy.",
+      "exampleMeaning": "Điện mặt trời là nguồn năng lượng tái tạo."
+    },
+    {
+      "id": "deforestation",
+      "term": "deforestation",
+      "reading": "/diːˌfɔːrɪˈsteɪʃn/",
+      "meaning": "nạn phá rừng",
+      "emoji": "🪓",
+      "example": "Deforestation destroys animal habitats.",
+      "exampleMeaning": "Nạn phá rừng phá hủy môi trường sống của động vật.",
+      "answers": [
+        "phá rừng"
+      ]
+    },
+    {
+      "id": "habitat",
+      "term": "habitat",
+      "reading": "/ˈhæbɪtæt/",
+      "meaning": "môi trường sống",
+      "emoji": "🌿",
+      "example": "The river is a natural habitat for many fish.",
+      "exampleMeaning": "Dòng sông là môi trường sống tự nhiên của nhiều loài cá."
+    },
+    {
+      "id": "endangered",
+      "term": "endangered",
+      "reading": "/ɪnˈdeɪndʒərd/",
+      "meaning": "có nguy cơ tuyệt chủng",
+      "emoji": "🐼",
+      "example": "The panda is an endangered species.",
+      "exampleMeaning": "Gấu trúc là loài có nguy cơ tuyệt chủng."
+    },
+    {
+      "id": "conservation",
+      "term": "conservation",
+      "reading": "/ˌkɑːnsərˈveɪʃn/",
+      "meaning": "sự bảo tồn",
+      "emoji": "🌍",
+      "example": "Wildlife conservation needs more funding.",
+      "exampleMeaning": "Việc bảo tồn động vật hoang dã cần thêm kinh phí."
+    },
+    {
+      "id": "drought",
+      "term": "drought",
+      "reading": "/draʊt/",
+      "meaning": "hạn hán",
+      "emoji": "☀️",
+      "example": "The drought lasted for two years.",
+      "exampleMeaning": "Hạn hán kéo dài hai năm."
+    },
+    {
+      "id": "waste",
+      "term": "waste",
+      "reading": "/weɪst/",
+      "meaning": "rác thải",
+      "emoji": "🗑️",
+      "example": "We should reduce plastic waste.",
+      "exampleMeaning": "Chúng ta nên giảm rác thải nhựa."
+    },
+    {
+      "id": "climate-change",
+      "term": "climate change",
+      "reading": "/ˈklaɪmət tʃeɪndʒ/",
+      "meaning": "biến đổi khí hậu",
+      "emoji": "🌡️",
+      "example": "Climate change affects everyone.",
+      "exampleMeaning": "Biến đổi khí hậu ảnh hưởng đến mọi người."
+    },
+    {
+      "id": "recycle",
+      "term": "recycle",
+      "reading": "/ˌriːˈsaɪkl/",
+      "meaning": "tái chế",
+      "emoji": "🔄",
+      "example": "We recycle paper and glass.",
+      "exampleMeaning": "Chúng tôi tái chế giấy và thủy tinh."
+    },
+    {
+      "id": "biodiversity",
+      "term": "biodiversity",
+      "reading": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+      "meaning": "đa dạng sinh học",
+      "emoji": "🦋",
+      "example": "Rainforests have rich biodiversity.",
+      "exampleMeaning": "Rừng mưa nhiệt đới có đa dạng sinh học phong phú."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "Pollution",
+        "is",
+        "harmful",
+        "to",
+        "our",
+        "health"
+      ],
+      "meaning": "Ô nhiễm có hại cho sức khỏe của chúng ta."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "We",
+        "must",
+        "protect",
+        "endangered",
+        "species"
+      ],
+      "meaning": "Chúng ta phải bảo vệ các loài có nguy cơ tuyệt chủng."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "Governments",
+        "should",
+        "invest",
+        "in",
+        "renewable",
+        "energy"
+      ],
+      "meaning": "Chính phủ nên đầu tư vào năng lượng tái tạo."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "Recycling",
+        "reduces",
+        "waste"
+      ],
+      "meaning": "Tái chế giúp giảm rác thải."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "Climate",
+        "change",
+        "causes",
+        "more",
+        "droughts"
+      ],
+      "meaning": "Biến đổi khí hậu gây ra nhiều hạn hán hơn."
+    }
+  ]
+}

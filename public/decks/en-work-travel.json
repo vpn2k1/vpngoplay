@@ -1,0 +1,182 @@
+{
+  "id": "en-work-travel",
+  "lang": "en",
+  "track": "work",
+  "level": "B1",
+  "title": "Travel & Business Trips",
+  "description": "Đi công tác: sân bay, khách sạn, đặt chỗ.",
+  "words": [
+    {
+      "id": "flight",
+      "term": "flight",
+      "reading": "/flaɪt/",
+      "meaning": "chuyến bay",
+      "emoji": "✈️",
+      "example": "My flight leaves at 7 a.m.",
+      "exampleMeaning": "Chuyến bay của tôi cất cánh lúc 7 giờ sáng."
+    },
+    {
+      "id": "boarding-pass",
+      "term": "boarding pass",
+      "reading": "/ˈbɔːrdɪŋ pæs/",
+      "meaning": "thẻ lên máy bay",
+      "emoji": "🎫",
+      "example": "Please show your boarding pass.",
+      "exampleMeaning": "Vui lòng xuất trình thẻ lên máy bay."
+    },
+    {
+      "id": "luggage",
+      "term": "luggage",
+      "reading": "/ˈlʌɡɪdʒ/",
+      "meaning": "hành lý",
+      "emoji": "🧳",
+      "example": "My luggage is too heavy.",
+      "exampleMeaning": "Hành lý của tôi quá nặng."
+    },
+    {
+      "id": "reservation",
+      "term": "reservation",
+      "reading": "/ˌrezərˈveɪʃn/",
+      "meaning": "sự đặt chỗ",
+      "emoji": "📝",
+      "example": "I have a reservation for two nights.",
+      "exampleMeaning": "Tôi đã đặt phòng hai đêm."
+    },
+    {
+      "id": "check-in",
+      "term": "check in",
+      "reading": "/tʃek ɪn/",
+      "meaning": "làm thủ tục (nhận phòng, lên máy bay)",
+      "emoji": "🛎️",
+      "example": "You can check in online.",
+      "exampleMeaning": "Bạn có thể làm thủ tục trực tuyến."
+    },
+    {
+      "id": "receipt",
+      "term": "receipt",
+      "reading": "/rɪˈsiːt/",
+      "meaning": "biên lai",
+      "emoji": "🧾",
+      "example": "Keep the receipt for your expenses.",
+      "exampleMeaning": "Hãy giữ lại biên lai để thanh toán chi phí."
+    },
+    {
+      "id": "delay",
+      "term": "delay",
+      "reading": "/dɪˈleɪ/",
+      "meaning": "sự chậm trễ; trì hoãn",
+      "emoji": "⏳",
+      "example": "There is a two-hour delay.",
+      "exampleMeaning": "Có sự chậm trễ hai tiếng."
+    },
+    {
+      "id": "itinerary",
+      "term": "itinerary",
+      "reading": "/aɪˈtɪnəreri/",
+      "meaning": "lịch trình chuyến đi",
+      "emoji": "🗺️",
+      "example": "Here is your itinerary for the trip.",
+      "exampleMeaning": "Đây là lịch trình chuyến đi của bạn."
+    },
+    {
+      "id": "conference",
+      "term": "conference",
+      "reading": "/ˈkɑːnfərəns/",
+      "meaning": "hội nghị",
+      "emoji": "🎤",
+      "example": "The conference starts on Monday.",
+      "exampleMeaning": "Hội nghị bắt đầu vào thứ Hai."
+    },
+    {
+      "id": "passport",
+      "term": "passport",
+      "reading": "/ˈpæspɔːrt/",
+      "meaning": "hộ chiếu",
+      "emoji": "🛂",
+      "example": "Don't forget your passport.",
+      "exampleMeaning": "Đừng quên hộ chiếu nhé."
+    },
+    {
+      "id": "refund",
+      "term": "refund",
+      "reading": "/ˈriːfʌnd/",
+      "meaning": "tiền hoàn lại",
+      "emoji": "💸",
+      "example": "Can I get a refund?",
+      "exampleMeaning": "Tôi có được hoàn tiền không?",
+      "answers": [
+        "hoàn tiền"
+      ]
+    },
+    {
+      "id": "destination",
+      "term": "destination",
+      "reading": "/ˌdestɪˈneɪʃn/",
+      "meaning": "điểm đến",
+      "emoji": "📍",
+      "example": "What is your final destination?",
+      "exampleMeaning": "Điểm đến cuối cùng của bạn là đâu?"
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "My",
+        "flight",
+        "has",
+        "been",
+        "delayed"
+      ],
+      "meaning": "Chuyến bay của tôi đã bị hoãn."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "I",
+        "would",
+        "like",
+        "to",
+        "check",
+        "in"
+      ],
+      "meaning": "Tôi muốn làm thủ tục nhận phòng."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "Where",
+        "can",
+        "I",
+        "pick",
+        "up",
+        "my",
+        "luggage"
+      ],
+      "meaning": "Tôi có thể lấy hành lý ở đâu?"
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "Could",
+        "I",
+        "have",
+        "a",
+        "receipt",
+        "please"
+      ],
+      "meaning": "Cho tôi xin biên lai được không?"
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "The",
+        "conference",
+        "is",
+        "in",
+        "Singapore"
+      ],
+      "meaning": "Hội nghị diễn ra ở Singapore."
+    }
+  ]
+}

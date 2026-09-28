@@ -1,0 +1,245 @@
+{
+ "lesson": 1,
+ "issues": [],
+ "words": [
+  {
+   "term": "的",
+   "meaning": "của (trợ từ sở hữu)",
+   "example": "这是我的书。",
+   "exampleMeaning": "Đây là sách của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "de"
+  },
+  {
+   "term": "了",
+   "meaning": "rồi, đã",
+   "example": "我吃饭了。",
+   "exampleMeaning": "Tôi ăn cơm rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "le"
+  },
+  {
+   "term": "我",
+   "meaning": "tôi, tớ",
+   "example": "我是学生。",
+   "exampleMeaning": "Tôi là học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǒ"
+  },
+  {
+   "term": "是",
+   "meaning": "là, đúng",
+   "example": "他是老师。",
+   "exampleMeaning": "Anh ấy là giáo viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shì"
+  },
+  {
+   "term": "你",
+   "meaning": "bạn",
+   "example": "你好吗？",
+   "exampleMeaning": "Bạn khỏe không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǐ"
+  },
+  {
+   "term": "在",
+   "meaning": "ở, đang",
+   "example": "我在家。",
+   "exampleMeaning": "Tôi ở nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zài"
+  },
+  {
+   "term": "不",
+   "meaning": "không",
+   "example": "我不喝茶。",
+   "exampleMeaning": "Tôi không uống trà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bù"
+  },
+  {
+   "term": "有",
+   "meaning": "có",
+   "example": "我有一个哥哥。",
+   "exampleMeaning": "Tôi có một anh trai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒu"
+  },
+  {
+   "term": "他",
+   "meaning": "anh ấy, ông ấy",
+   "example": "他很高。",
+   "exampleMeaning": "Anh ấy rất cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tā"
+  },
+  {
+   "term": "这",
+   "meaning": "này, đây",
+   "example": "这个很好吃。",
+   "exampleMeaning": "Cái này rất ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhè"
+  },
+  {
+   "term": "就",
+   "meaning": "thì, ngay, liền",
+   "example": "我马上就来。",
+   "exampleMeaning": "Tôi đến ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiù"
+  },
+  {
+   "term": "个",
+   "meaning": "cái, chiếc (lượng từ)",
+   "example": "我买了三个苹果。",
+   "exampleMeaning": "Tôi đã mua ba quả táo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gè"
+  },
+  {
+   "term": "和",
+   "meaning": "và, với",
+   "example": "我和妈妈去商店。",
+   "exampleMeaning": "Tôi và mẹ đi cửa hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hé"
+  },
+  {
+   "term": "人",
+   "meaning": "người",
+   "example": "他是中国人。",
+   "exampleMeaning": "Anh ấy là người Trung Quốc.",
+   "emoji": "🧑",
+   "ipa": "",
+   "pinyin": "rén"
+  },
+  {
+   "term": "说",
+   "meaning": "nói",
+   "example": "请再说一遍。",
+   "exampleMeaning": "Xin hãy nói lại một lần nữa.",
+   "emoji": "🗣️",
+   "ipa": "",
+   "pinyin": "shuō"
+  },
+  {
+   "term": "我们",
+   "meaning": "chúng tôi, chúng ta",
+   "example": "我们一起走吧。",
+   "exampleMeaning": "Chúng ta cùng đi nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǒmen"
+  },
+  {
+   "term": "要",
+   "meaning": "muốn, cần",
+   "example": "我要一杯水。",
+   "exampleMeaning": "Tôi muốn một cốc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yào"
+  },
+  {
+   "term": "好",
+   "meaning": "tốt, hay",
+   "example": "今天天气很好。",
+   "exampleMeaning": "Hôm nay thời tiết rất tốt.",
+   "emoji": "👍",
+   "ipa": "",
+   "pinyin": "hǎo"
+  },
+  {
+   "term": "一",
+   "meaning": "một",
+   "example": "我有一本书。",
+   "exampleMeaning": "Tôi có một quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yī"
+  },
+  {
+   "term": "会",
+   "meaning": "biết (làm), sẽ",
+   "example": "我会说汉语。",
+   "exampleMeaning": "Tôi biết nói tiếng Trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huì"
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "是",
+    "中国",
+    "人"
+   ],
+   "reading": "wǒ shì Zhōngguó rén",
+   "meaning": "Tôi là người Trung Quốc."
+  },
+  {
+   "tokens": [
+    "你",
+    "要",
+    "不",
+    "要",
+    "喝",
+    "茶"
+   ],
+   "reading": "nǐ yào bu yào hē chá",
+   "meaning": "Bạn có muốn uống trà không?"
+  },
+  {
+   "tokens": [
+    "我们",
+    "会",
+    "说",
+    "汉语"
+   ],
+   "reading": "wǒmen huì shuō Hànyǔ",
+   "meaning": "Chúng tôi biết nói tiếng Trung."
+  },
+  {
+   "tokens": [
+    "他",
+    "有",
+    "一",
+    "个",
+    "好",
+    "朋友"
+   ],
+   "reading": "tā yǒu yí gè hǎo péngyou",
+   "meaning": "Anh ấy có một người bạn tốt."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "和",
+    "他",
+    "的",
+    "书"
+   ],
+   "reading": "zhè shì wǒ hé tā de shū",
+   "meaning": "Đây là sách của tôi và anh ấy."
+  }
+ ]
+}

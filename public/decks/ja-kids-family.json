@@ -1,0 +1,199 @@
+{
+  "id": "ja-kids-family",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "かぞく と かず",
+  "description": "Gia đình và số đếm bằng Hiragana cho bé.",
+  "words": [
+    {
+      "id": "okaasan",
+      "term": "おかあさん",
+      "reading": "okāsan",
+      "meaning": "mẹ",
+      "emoji": "👩",
+      "example": "おかあさん が すき です。",
+      "exampleMeaning": "Tớ yêu mẹ."
+    },
+    {
+      "id": "otousan",
+      "term": "おとうさん",
+      "reading": "otōsan",
+      "meaning": "bố",
+      "emoji": "👨",
+      "example": "おとうさん は せ が たかい です。",
+      "exampleMeaning": "Bố tớ cao."
+    },
+    {
+      "id": "oneesan",
+      "term": "おねえさん",
+      "reading": "onēsan",
+      "meaning": "chị gái",
+      "emoji": "👧",
+      "example": "おねえさん と あそびます。",
+      "exampleMeaning": "Tớ chơi với chị gái."
+    },
+    {
+      "id": "oniisan",
+      "term": "おにいさん",
+      "reading": "onīsan",
+      "meaning": "anh trai",
+      "emoji": "👦",
+      "example": "おにいさん は やさしい です。",
+      "exampleMeaning": "Anh trai tớ rất hiền."
+    },
+    {
+      "id": "akachan",
+      "term": "あかちゃん",
+      "reading": "akachan",
+      "meaning": "em bé",
+      "emoji": "👶",
+      "example": "あかちゃん が ないて います。",
+      "exampleMeaning": "Em bé đang khóc."
+    },
+    {
+      "id": "obaasan",
+      "term": "おばあさん",
+      "reading": "obāsan",
+      "meaning": "bà",
+      "emoji": "👵",
+      "example": "おばあさん は げんき です。",
+      "exampleMeaning": "Bà tớ khỏe mạnh."
+    },
+    {
+      "id": "ichi",
+      "term": "いち",
+      "reading": "ichi",
+      "meaning": "số một",
+      "emoji": "1️⃣",
+      "example": "いち、に、さん！",
+      "exampleMeaning": "Một, hai, ba!",
+      "answers": [
+        "một",
+        "1"
+      ]
+    },
+    {
+      "id": "ni",
+      "term": "に",
+      "reading": "ni",
+      "meaning": "số hai",
+      "emoji": "2️⃣",
+      "example": "に と に で よん。",
+      "exampleMeaning": "Hai với hai là bốn.",
+      "answers": [
+        "hai",
+        "2"
+      ]
+    },
+    {
+      "id": "san",
+      "term": "さん",
+      "reading": "san",
+      "meaning": "số ba",
+      "emoji": "3️⃣",
+      "example": "さん さい です。",
+      "exampleMeaning": "Tớ ba tuổi.",
+      "answers": [
+        "3"
+      ]
+    },
+    {
+      "id": "yon",
+      "term": "よん",
+      "reading": "yon",
+      "meaning": "số bốn",
+      "emoji": "4️⃣",
+      "example": "ねこ の あし は よん ほん。",
+      "exampleMeaning": "Mèo có bốn chân.",
+      "answers": [
+        "bốn",
+        "4"
+      ]
+    },
+    {
+      "id": "go",
+      "term": "ご",
+      "reading": "go",
+      "meaning": "số năm",
+      "emoji": "5️⃣",
+      "example": "ご さい です。",
+      "exampleMeaning": "Tớ năm tuổi.",
+      "answers": [
+        "năm",
+        "5"
+      ]
+    },
+    {
+      "id": "juu",
+      "term": "じゅう",
+      "reading": "jū",
+      "meaning": "số mười",
+      "emoji": "🔟",
+      "example": "じゅう まで かぞえます。",
+      "exampleMeaning": "Tớ đếm đến mười.",
+      "answers": [
+        "mười",
+        "10"
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s1",
+      "tokens": [
+        "おかあさん",
+        "が",
+        "すき",
+        "です"
+      ],
+      "reading": "おかあさんがすきです",
+      "meaning": "Tớ yêu mẹ."
+    },
+    {
+      "id": "s2",
+      "tokens": [
+        "あかちゃん",
+        "が",
+        "ねて",
+        "います"
+      ],
+      "reading": "あかちゃんがねています",
+      "meaning": "Em bé đang ngủ."
+    },
+    {
+      "id": "s3",
+      "tokens": [
+        "おにいさん",
+        "は",
+        "じゅう",
+        "さい",
+        "です"
+      ],
+      "reading": "おにいさんはじゅうさいです",
+      "meaning": "Anh trai tớ mười tuổi."
+    },
+    {
+      "id": "s4",
+      "tokens": [
+        "いぬ",
+        "が",
+        "に",
+        "ひき",
+        "います"
+      ],
+      "reading": "いぬがにひきいます",
+      "meaning": "Có hai con chó."
+    },
+    {
+      "id": "s5",
+      "tokens": [
+        "おばあさん",
+        "と",
+        "あそびます"
+      ],
+      "reading": "おばあさんとあそびます",
+      "meaning": "Tớ chơi với bà."
+    }
+  ]
+}
