@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as SettingsRouteImport } from './routes/settings'
+import { Route as CoursesCourseIdRouteImport } from './routes/courses/$courseId'
 import { Route as DecksDeckIdRouteRouteImport } from './routes/decks/$deckId/route'
 import { Route as GamesIndexRouteImport } from './routes/games/index'
 import { Route as GamesGameIdRouteImport } from './routes/games/$gameId'
@@ -31,6 +32,11 @@ const IndexRoute = IndexRouteImport.update({
 const SettingsRoute = SettingsRouteImport.update({
   id: '/settings',
   path: '/settings',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CoursesCourseIdRoute = CoursesCourseIdRouteImport.update({
+  id: '/courses/$courseId',
+  path: '/courses/$courseId',
   getParentRoute: () => rootRouteImport,
 } as any)
 const DecksDeckIdRouteRoute = DecksDeckIdRouteRouteImport.update({
@@ -93,6 +99,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
+  '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/games/': typeof GamesIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -107,6 +114,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
+  '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/games': typeof GamesIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -123,6 +131,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
+  '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/games/': typeof GamesIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -140,6 +149,7 @@ export interface FileRouteTypes {
     | '/'
     | '/settings'
     | '/decks/$deckId'
+    | '/courses/$courseId'
     | '/games/$gameId'
     | '/games/'
     | '/decks/$deckId/cloze'
@@ -154,6 +164,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/settings'
+    | '/courses/$courseId'
     | '/games/$gameId'
     | '/games'
     | '/decks/$deckId/cloze'
@@ -169,6 +180,7 @@ export interface FileRouteTypes {
     | '/'
     | '/settings'
     | '/decks/$deckId'
+    | '/courses/$courseId'
     | '/games/$gameId'
     | '/games/'
     | '/decks/$deckId/cloze'
@@ -185,6 +197,7 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   SettingsRoute: typeof SettingsRoute
   DecksDeckIdRouteRoute: typeof DecksDeckIdRouteRouteWithChildren
+  CoursesCourseIdRoute: typeof CoursesCourseIdRoute
   GamesGameIdRoute: typeof GamesGameIdRoute
   GamesIndexRoute: typeof GamesIndexRoute
 }
@@ -203,6 +216,13 @@ declare module '@tanstack/react-router' {
       path: '/settings'
       fullPath: '/settings'
       preLoaderRoute: typeof SettingsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/courses/$courseId': {
+      id: '/courses/$courseId'
+      path: '/courses/$courseId'
+      fullPath: '/courses/$courseId'
+      preLoaderRoute: typeof CoursesCourseIdRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/decks/$deckId': {
@@ -314,6 +334,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   SettingsRoute: SettingsRoute,
   DecksDeckIdRouteRoute: DecksDeckIdRouteRouteWithChildren,
+  CoursesCourseIdRoute: CoursesCourseIdRoute,
   GamesGameIdRoute: GamesGameIdRoute,
   GamesIndexRoute: GamesIndexRoute,
 }

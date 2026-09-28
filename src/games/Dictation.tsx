@@ -122,10 +122,18 @@ export function Dictation({ deck, onRestart }: { deck: Deck; onRestart: () => vo
   }
 
   const typedRomaji = deck.lang === 'ja' && /^[ -~\s]*$/.test(result?.typed ?? '')
-  const diff = result && !result.ok && !typedRomaji ? diffAnswer(result.typed, closestAnswer(result.typed, accepted)) : null
+  const diff =
+    result && !result.ok && !typedRomaji ? diffAnswer(result.typed, closestAnswer(result.typed, accepted)) : null
 
   return (
-    <GameShell deck={deck} title="Nghe chép" Icon={EXERCISE_ICON.dictation} current={pos} total={items.length} combo={combo}>
+    <GameShell
+      deck={deck}
+      title="Nghe chép"
+      Icon={EXERCISE_ICON.dictation}
+      current={pos}
+      total={items.length}
+      combo={combo}
+    >
       {!hasBrowserTts && !hasRecording(text, deck.lang) && (
         <p className="rounded-2xl bg-amber-100 p-3 text-sm text-amber-900 dark:bg-amber-950 dark:text-amber-200">
           Trình duyệt này không hỗ trợ đọc văn bản. Hãy thử Chrome, Edge hoặc Safari.
@@ -178,7 +186,8 @@ export function Dictation({ deck, onRestart }: { deck: Deck; onRestart: () => vo
             'w-full resize-none rounded-3xl border-2 bg-slate-100 px-5 py-4 text-xl font-medium outline-none transition dark:bg-slate-900',
             result?.ok && 'border-emerald-400',
             result && !result.ok && 'border-rose-400',
-            !result && 'border-slate-200 focus:border-sky-400 focus:bg-white dark:border-slate-800 dark:focus:bg-slate-900',
+            !result &&
+              'border-slate-200 focus:border-sky-400 focus:bg-white dark:border-slate-800 dark:focus:bg-slate-900',
           )}
         />
         {errors.answer && <p className="mt-1 text-sm font-semibold text-rose-500">{errors.answer.message}</p>}
@@ -206,7 +215,8 @@ export function Dictation({ deck, onRestart }: { deck: Deck; onRestart: () => vo
                 key={i}
                 className={cx(
                   part.kind === 'extra' && 'text-rose-500 line-through decoration-2',
-                  part.kind === 'missing' && 'rounded bg-emerald-200 px-0.5 font-bold text-emerald-800 dark:bg-emerald-800 dark:text-emerald-100',
+                  part.kind === 'missing' &&
+                    'rounded bg-emerald-200 px-0.5 font-bold text-emerald-800 dark:bg-emerald-800 dark:text-emerald-100',
                 )}
               >
                 {part.text}

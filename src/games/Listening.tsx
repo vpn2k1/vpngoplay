@@ -53,7 +53,9 @@ function buildListening(deck: Deck): ExerciseItem[] {
   return shuffle(pool)
     .slice(0, QUESTIONS)
     .map((word) => {
-      const distractors = shuffle(pool.filter((w) => w.id !== word.id && w.exampleMeaning !== word.exampleMeaning)).slice(0, 3)
+      const distractors = shuffle(
+        pool.filter((w) => w.id !== word.id && w.exampleMeaning !== word.exampleMeaning),
+      ).slice(0, 3)
       const options = shuffle([word, ...distractors]).map((w) => ({ label: w.exampleMeaning!, correct: w === word }))
       return {
         key: word.id,
@@ -77,6 +79,13 @@ function buildListening(deck: Deck): ExerciseItem[] {
 export function Listening({ deck, onRestart }: { deck: Deck; onRestart: () => void }) {
   const [items] = useState(() => buildListening(deck))
   return (
-    <ChoiceExercise deck={deck} title="Nghe hiểu" Icon={EXERCISE_ICON.listen} items={items} columns={1} onRestart={onRestart} />
+    <ChoiceExercise
+      deck={deck}
+      title="Nghe hiểu"
+      Icon={EXERCISE_ICON.listen}
+      items={items}
+      columns={1}
+      onRestart={onRestart}
+    />
   )
 }

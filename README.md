@@ -48,6 +48,58 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 
 Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ hiện lưu trong `localStorage`.
 
+## Lộ trình ~3.000 từ mỗi cấp
+
+Mỗi ngôn ngữ có 3 lộ trình **Cơ bản · Trung cấp · Nâng cao**, mỗi lộ trình khoảng 3.000 từ. Từ được chia thành các bài 20 từ, mỗi bài là một bộ bài bình thường nên dùng được cả 7 dạng ôn luyện. Trong tab Trò chơi có thể chọn cả lộ trình làm bộ từ, và từ bị lọt vẫn được xếp lịch ôn trong đúng bài của nó. Các bộ Trẻ em / Đi làm / Luyện thi được giữ lại dưới mục **Chủ đề**.
+
+| | Cơ bản | Trung cấp | Nâng cao |
+|---|---|---|---|
+| 🇬🇧 Anh (CEFR) | A1–B1 · 2.882 từ | B1–B2 · 2.882 từ | B2–C2 · 2.880 từ |
+| 🇯🇵 Nhật (JLPT) | N5–N3 · 2.530 từ | N3–N1 · 2.530 từ | N1 · 2.530 từ |
+| 🇨🇳 Trung (HSK 3.0) | HSK1–4 · 3.000 từ | HSK4–7-9 · 3.000 từ | HSK7-9 · 3.000 từ |
+
+Tiếng Nhật chỉ khoảng 2.500 từ mỗi cấp vì danh sách JLPT mở có khoảng 7.600 từ dùng được.
+
+### Pipeline dữ liệu (`scripts/vocab/`)
+
+```bash
+npm run vocab:prepare   # 1. tải danh sách chuẩn → data/courses/<lang>-<level>.json (không tốn phí)
+npm run vocab:enrich    # 2. gọi Claude API: nghĩa tiếng Việt, ví dụ, emoji, IPA/pinyin, 5 câu mỗi bài → data/enriched/
+npm run vocab:build     # 3. kiểm tra lại, sinh public/decks/<course>-<nnn>.json + public/courses/*.json
+```
+
+Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
+
+```bash
+npm run vocab:enrich -- --dry-run
+```
+
+```bash
+npm run vocab:enrich -- --course en-basic --limit 2
+```
+
+- **Kiểm tra chất lượng:** mỗi bài được kiểm tra tự động (`validate.mjs`):
+  - câu ví dụ phải chứa đúng từ;
+  - không có hai từ trùng nghĩa;
+  - pinyin phải là một cách đọc hợp lệ của từ;
+  - reading của câu tiếng Nhật chỉ gồm kana;
+  - …
+
+  Bài nào sai sẽ được gửi lại cho Claude kèm danh sách lỗi (tối đa 3 lần).
+- **Chạy tiếp và làm lại:** script chạy tiếp được sau khi bị ngắt, vì bài đã có file sẽ được bỏ qua. Làm lại một số bài bằng `--redo 7,12`.
+- **Model:** mặc định `claude-opus-5` với effort `medium`; đổi bằng `--model` / `--effort`. Script bật **server-side fallback** (`fallbacks: 'default'`): nếu model chính quá tải, API tự chuyển sang model dự phòng.
+- **Chi phí:** toàn bộ 1.265 bài (khoảng 25.000 từ) ước tính **khoảng $110** với Opus 5. Đây là ước tính thô vì số token suy nghĩ thay đổi; script in ra chi phí thực tế sau khi chạy.
+
+### Nguồn dữ liệu và giấy phép
+
+- **Tiếng Anh:**
+  - [CEFR-J Wordlist 1.5](https://github.com/openlanguageprofiles/olp-en-cefrj), phải ghi nguồn: *Tono Lab, Tokyo University of Foreign Studies (2020)*.
+  - [Octanove Vocabulary Profile C1/C2](https://github.com/openlanguageprofiles/olp-en-cefrj), giấy phép **CC BY-SA 4.0**: phần dữ liệu tiếng Anh dẫn xuất từ nguồn này phải giữ cùng giấy phép.
+- **Tiếng Nhật:** [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks), MIT, dựa trên danh sách của Jonathan Waller (tanos.co.uk).
+- **Tiếng Trung:** [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary), MIT, theo chuẩn HSK 3.0.
+
+Nghĩa tiếng Việt, câu ví dụ và câu luyện tập được Claude sinh ra, sau đó kiểm tra tự động; vẫn nên rà soát lại trước khi phát hành.
+
 ## Chấm đáp án (mọi ngôn ngữ như nhau)
 
 Mọi game đều chấm qua `src/lib/answer.ts`:
@@ -125,13 +177,18 @@ src/
     __root.tsx            # layout + header (XP, streak)
     index.tsx             # onboarding / danh sách bộ từ (?lang=)
     settings.tsx
-    decks/$deckId/        # route.tsx (loader) + index + 4 bài ôn luyện
+    courses/$courseId.tsx # trang lộ trình (các chặng, tiến độ từng bài)
+    decks/$deckId/        # route.tsx (loader) + index + 7 bài ôn luyện
     games/                # tab Trò chơi: index (danh sách game) + $gameId (chọn ngôn ngữ, bộ từ, chế độ)
   games/                  # Flashcard, Match, SentenceBuilder, Dictation
   arcade/                 # engine + 6 game arcade (games/*.tsx) + dữ liệu bảng chữ (scripts.ts)
   components/             # ui.tsx, ProfileForm.tsx (react-hook-form + zod)
   lib/                    # api (queryOptions), store (zustand), srs, speech, types
-public/decks/*.json       # nội dung bài học
+public/decks/*.json       # nội dung bài học (bộ chủ đề + từng bài của lộ trình)
+public/courses/*.json     # lộ trình: danh sách bài + toàn bộ từ (dùng cho game)
+scripts/vocab/            # pipeline sinh lộ trình 3.000 từ
+data/courses/             # danh sách từ đã chia cấp (đầu vào của enrich)
+data/enriched/            # kết quả Claude sinh, từng bài
 ```
 
 ## Lộ trình tiếp theo

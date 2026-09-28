@@ -26,11 +26,13 @@ import FramedPicture from '~icons/fluent-emoji-flat/framed-picture'
 import FrontFacingBabyChick from '~icons/fluent-emoji-flat/front-facing-baby-chick'
 import GlowingStar from '~icons/fluent-emoji-flat/glowing-star'
 import GraduationCap from '~icons/fluent-emoji-flat/graduation-cap'
+import DeciduousTree from '~icons/fluent-emoji-flat/deciduous-tree'
 import Hammer from '~icons/fluent-emoji-flat/hammer'
 import Hamster from '~icons/fluent-emoji-flat/hamster'
 import KnockedOutFace from '~icons/fluent-emoji-flat/knocked-out-face'
 import SquintingFaceWithTongue from '~icons/fluent-emoji-flat/squinting-face-with-tongue'
 import Headphone from '~icons/fluent-emoji-flat/headphone'
+import Herb from '~icons/fluent-emoji-flat/herb'
 import HighVoltage from '~icons/fluent-emoji-flat/high-voltage'
 import Joystick from '~icons/fluent-emoji-flat/joystick'
 import Keyboard from '~icons/fluent-emoji-flat/keyboard'
@@ -55,12 +57,19 @@ import ThinkingFace from '~icons/fluent-emoji-flat/thinking-face'
 import Trophy from '~icons/fluent-emoji-flat/trophy'
 import WavingHand from '~icons/fluent-emoji-flat/waving-hand'
 import WhiteHeart from '~icons/fluent-emoji-flat/white-heart'
-import type { Lang, Track } from '../lib/types'
+import WorldMap from '~icons/fluent-emoji-flat/world-map'
+import type { CourseLevel, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
 
 export const FLAG: Record<Lang, IconType> = { en: FlagGb, ja: FlagJp, zh: FlagCn }
 export const TRACK_ICON: Record<Track, IconType> = { kids: Child, work: Briefcase, exam: GraduationCap }
+/** Course levels grow like a plant: seedling → herb → tree */
+export const COURSE_ICON: Record<CourseLevel, IconType> = {
+  basic: Seedling,
+  intermediate: Herb,
+  advanced: DeciduousTree,
+}
 /** Friendly guide character per language */
 export const MASCOT: Record<Lang, IconType> = { en: Owl, ja: Fox, zh: Panda }
 
@@ -133,4 +142,5 @@ export {
   Trophy,
   WavingHand,
   WhiteHeart,
+  WorldMap,
 }

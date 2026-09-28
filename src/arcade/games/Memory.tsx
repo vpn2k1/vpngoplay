@@ -29,10 +29,12 @@ export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const [cards] = useState<Card[]>(() => {
     const picked: Word[] = []
     while (picked.length < Math.min(pairs, deck.words.length)) picked.push(source.next(picked.map((w) => w.id)))
-    return shuffle(picked.flatMap((word) => [
-      { id: `${word.id}-t`, word, kind: 'term' as const },
-      { id: `${word.id}-m`, word, kind: 'meaning' as const },
-    ]))
+    return shuffle(
+      picked.flatMap((word) => [
+        { id: `${word.id}-t`, word, kind: 'term' as const },
+        { id: `${word.id}-m`, word, kind: 'meaning' as const },
+      ]),
+    )
   })
   const [open, setOpen] = useState<string[]>([])
   const [matched, setMatched] = useState<Set<string>>(() => new Set())
@@ -44,13 +46,10 @@ export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const Mascot = MASCOT[deck.lang]
   const total = cards.length / 2
 
-  useGameLoop(
-    (dt) => {
-      g.time += dt
-      if (Math.floor(g.time) !== seconds) setSeconds(Math.floor(g.time))
-    },
-    !paused && !g.done,
-  )
+  useGameLoop((dt) => {
+    g.time += dt
+    if (Math.floor(g.time) !== seconds) setSeconds(Math.floor(g.time))
+  }, !paused && !g.done)
 
   const flip = (card: Card) => {
     if (paused || g.done || open.length === 2 || open.includes(card.id) || matched.has(card.word.id)) return
@@ -159,7 +158,12 @@ export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
                 >
                   {card.kind === 'term' ? (
                     <>
-                      <span className={cx('leading-tight font-black break-all', card.word.term.length > 6 ? 'text-base' : 'text-2xl sm:text-3xl')}>
+                      <span
+                        className={cx(
+                          'leading-tight font-black break-all',
+                          card.word.term.length > 6 ? 'text-base' : 'text-2xl sm:text-3xl',
+                        )}
+                      >
                         {card.word.term}
                       </span>
                       {reading && <span className="text-[10px] font-semibold opacity-80 sm:text-xs">{reading}</span>}
@@ -175,7 +179,9 @@ export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
           )
         })}
       </div>
-      <p className="text-center text-xs text-slate-500">Lật 2 thẻ: một thẻ từ (màu tím) và nghĩa của nó (màu vàng). Càng ít lượt càng nhiều điểm.</p>
+      <p className="text-center text-xs text-slate-500">
+        Lật 2 thẻ: một thẻ từ (màu tím) và nghĩa của nó (màu vàng). Càng ít lượt càng nhiều điểm.
+      </p>
     </div>
   )
 }

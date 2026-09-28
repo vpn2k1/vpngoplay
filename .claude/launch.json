@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "vpngoplay",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/mn13/Projects/vpngoplay", "run", "dev", "--", "--port", "5173", "--strictPort"],
+      "port": 5173
+    }
+  ]
+}

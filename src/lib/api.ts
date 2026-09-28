@@ -1,5 +1,5 @@
 import { queryOptions } from '@tanstack/react-query'
-import type { CourseData, CourseSummary, Deck, DeckSummary } from './types'
+import type { CourseData, CourseSummary, Deck, DeckSummary, Track } from './types'
 
 // Static JSON on Vercel's CDN for now. Swap these URLs for /api/* serverless
 // functions when decks move into a database.
@@ -9,9 +9,12 @@ async function fetchJson<T>(url: string): Promise<T> {
   return res.json() as Promise<T>
 }
 
+/** Topic decks (the catalog never lists course lessons, so every entry has a track). */
+export type TopicDeckSummary = DeckSummary & { track: Track }
+
 export const catalogQuery = queryOptions({
   queryKey: ['catalog'],
-  queryFn: () => fetchJson<DeckSummary[]>('/decks/index.json'),
+  queryFn: () => fetchJson<TopicDeckSummary[]>('/decks/index.json'),
 })
 
 export const deckQuery = (deckId: string) =>

@@ -200,7 +200,9 @@ export function Flashcard({ deck, onRestart }: { deck: Deck; onRestart: () => vo
                 )}
               >
                 <span>{g.label}</span>
-                <span className="text-xs font-semibold opacity-80">{formatWait(schedule(srs[key], g.grade).due - Date.now())}</span>
+                <span className="text-xs font-semibold opacity-80">
+                  {formatWait(schedule(srs[key], g.grade).due - Date.now())}
+                </span>
               </button>
             ))}
           </motion.div>

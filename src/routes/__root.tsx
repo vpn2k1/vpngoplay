@@ -36,7 +36,9 @@ function SectionTabs() {
           to={tab.to}
           className={cx(
             'relative rounded-xl px-3 py-1.5 text-sm font-bold transition-colors sm:px-4',
-            section === tab.id ? 'text-slate-900 dark:text-white' : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300',
+            section === tab.id
+              ? 'text-slate-900 dark:text-white'
+              : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300',
           )}
           aria-current={section === tab.id ? 'page' : undefined}
           aria-label={tab.label}
@@ -66,12 +68,19 @@ function RootLayout() {
     <div className="min-h-dvh bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
       <header className="sticky top-0 z-10 border-b border-slate-200 bg-white/80 backdrop-blur dark:border-slate-800 dark:bg-slate-950/80">
         <div className="mx-auto flex max-w-3xl items-center justify-between gap-2 px-4 py-2.5">
-          <Link to="/" className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight" aria-label="VpngoPlay">
+          <Link
+            to="/"
+            className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight"
+            aria-label="VpngoPlay"
+          >
             <span className="flex size-9 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-500 to-fuchsia-500 shadow-md shadow-indigo-500/30">
               <Joystick className="size-6" />
             </span>
             <span className="hidden sm:inline">
-              Vpngo<span className="bg-gradient-to-r from-indigo-500 to-fuchsia-500 bg-clip-text text-transparent">Play</span>
+              Vpngo
+              <span className="bg-gradient-to-r from-indigo-500 to-fuchsia-500 bg-clip-text text-transparent">
+                Play
+              </span>
             </span>
           </Link>
           <SectionTabs />

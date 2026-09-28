@@ -4,15 +4,28 @@ import { BookOpen, ChevronRight, Clock, MessageSquareText, Sparkles } from 'luci
 import { motion } from 'motion/react'
 import { z } from 'zod'
 import { ProfileForm } from '../components/ProfileForm'
-import { Books, FLAG, Fire, GlowingStar, MASCOT, PartyPopper, Pushpin, TRACK_ICON, WavingHand } from '../components/icons'
+import {
+  Books,
+  COURSE_ICON,
+  FLAG,
+  Fire,
+  WorldMap,
+  GlowingStar,
+  MASCOT,
+  PartyPopper,
+  Pushpin,
+  TRACK_ICON,
+  WavingHand,
+} from '../components/icons'
 import { IconTile, ProgressBar, cx } from '../components/ui'
-import { catalogQuery } from '../lib/api'
+import { catalogQuery, coursesQuery, type TopicDeckSummary } from '../lib/api'
 import { useProgress, useStreak, useTodayXp, type Profile } from '../lib/store'
-import { LANGS, TRACKS, type DeckSummary, type Lang } from '../lib/types'
+import { COURSE_LABEL, LANGS, TRACKS, type CourseSummary, type Lang } from '../lib/types'
 
 export const Route = createFileRoute('/')({
   validateSearch: z.object({ lang: z.enum(['en', 'ja', 'zh']).optional() }),
-  loader: ({ context }) => context.queryClient.ensureQueryData(catalogQuery),
+  loader: ({ context }) =>
+    Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
   component: Home,
 })
 
@@ -47,7 +60,9 @@ function Onboarding({ onSubmit }: { onSubmit: (p: Profile) => void }) {
         </div>
         <h1 className="mt-5 text-3xl font-black tracking-tight sm:text-4xl">
           Học ngoại ngữ bằng{' '}
-          <span className="bg-gradient-to-r from-indigo-500 to-fuchsia-500 bg-clip-text text-transparent">trò chơi</span>
+          <span className="bg-gradient-to-r from-indigo-500 to-fuchsia-500 bg-clip-text text-transparent">
+            trò chơi
+          </span>
         </h1>
         <p className="mx-auto mt-2 max-w-md text-slate-500">
           Tiếng Anh, Nhật, Trung với flashcard thông minh, bài nghe chép và 6 game arcade. Mỗi ngày chỉ cần 5 phút.
@@ -84,7 +99,11 @@ function GoalRing({ value, max }: { value: number; max: number }) {
         />
       </svg>
       <div className="absolute inset-0 flex flex-col items-center justify-center leading-tight">
-        {pct >= 1 ? <PartyPopper className="size-9" /> : <span className="text-xl font-black tabular-nums">{value}</span>}
+        {pct >= 1 ? (
+          <PartyPopper className="size-9" />
+        ) : (
+          <span className="text-xl font-black tabular-nums">{value}</span>
+        )}
         <span className="text-[10px] font-bold text-white/80 uppercase">/ {max} XP</span>
       </div>
     </div>
@@ -105,6 +124,7 @@ function Stat({ Icon, value, label }: { Icon: typeof Fire; value: number | strin
 
 function Dashboard({ profile }: { profile: Profile }) {
   const { data: catalog } = useSuspenseQuery(catalogQuery)
+  const { data: courses } = useSuspenseQuery(coursesQuery)
   const search = Route.useSearch()
   const todayXp = useTodayXp()
   const streak = useStreak()
@@ -140,7 +160,9 @@ function Dashboard({ profile }: { profile: Profile }) {
               {goalReached ? 'Đã đạt mục tiêu hôm nay!' : 'Hôm nay học gì nào?'}
             </h1>
             <p className="mt-1 text-sm text-white/80">
-              {goalReached ? 'Tuyệt vời, giữ vững chuỗi ngày học nhé.' : `Còn ${profile.dailyGoal - todayXp} XP nữa là đạt mục tiêu.`}
+              {goalReached
+                ? 'Tuyệt vời, giữ vững chuỗi ngày học nhé.'
+                : `Còn ${profile.dailyGoal - todayXp} XP nữa là đạt mục tiêu.`}
             </p>
           </div>
           <GoalRing value={todayXp} max={profile.dailyGoal} />
@@ -156,7 +178,7 @@ function Dashboard({ profile }: { profile: Profile }) {
 
       <section className="space-y-3">
         <div className="flex items-center justify-between gap-3">
-          <h2 className="text-lg font-black">Bộ từ</h2>
+          <h2 className="text-lg font-black">Học theo ngôn ngữ</h2>
           <Mascot className="size-9 drop-shadow" />
         </div>
         <div className="-mx-4 flex snap-x gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
@@ -186,9 +208,34 @@ function Dashboard({ profile }: { profile: Profile }) {
           })}
         </div>
 
+        {courses.some((c) => c.lang === lang) && (
+          <>
+            <h3 className="flex items-center gap-2 pt-2 font-black">
+              <WorldMap className="size-6" /> Lộ trình ~3.000 từ mỗi cấp
+            </h3>
+            <div className="grid gap-3 sm:grid-cols-3">
+              {courses
+                .filter((c) => c.lang === lang)
+                .map((course) => (
+                  <CourseCard
+                    key={course.id}
+                    course={course}
+                    learned={countFor(`${course.id}-`, false)}
+                    due={countFor(`${course.id}-`, true)}
+                  />
+                ))}
+            </div>
+            <h3 className="pt-2 font-black">Chủ đề</h3>
+          </>
+        )}
         <div className="grid gap-3 sm:grid-cols-2">
           {decks.map((deck, i) => (
-            <motion.div key={deck.id} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }}>
+            <motion.div
+              key={deck.id}
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * 0.05 }}
+            >
               <DeckCard
                 deck={deck}
                 recommended={deck.track === profile.track}
@@ -203,7 +250,45 @@ function Dashboard({ profile }: { profile: Profile }) {
   )
 }
 
-function DeckCard({ deck, recommended, learned, due }: { deck: DeckSummary; recommended: boolean; learned: number; due: number }) {
+function CourseCard({ course, learned, due }: { course: CourseSummary; learned: number; due: number }) {
+  const Icon = COURSE_ICON[course.level]
+  return (
+    <Link
+      to="/courses/$courseId"
+      params={{ courseId: course.id }}
+      className="group flex flex-col rounded-3xl border-2 border-b-4 border-slate-200 bg-white p-4 transition hover:-translate-y-1 hover:shadow-lg dark:border-slate-800 dark:bg-slate-900"
+    >
+      <div className="flex items-center justify-between">
+        <Icon className="size-11 transition group-hover:scale-110 group-hover:-rotate-6" />
+        <span className="rounded-full bg-indigo-100 px-2 py-0.5 text-xs font-bold text-indigo-700 dark:bg-indigo-950 dark:text-indigo-300">
+          {course.range}
+        </span>
+      </div>
+      <span className="mt-2 text-lg font-black">{COURSE_LABEL[course.level]}</span>
+      <span className="text-xs font-semibold text-slate-500">
+        {course.wordCount.toLocaleString('vi-VN')} từ · {course.lessonCount} bài
+        {course.lessonCount < course.totalLessons && ` (đang soạn ${course.totalLessons - course.lessonCount} bài)`}
+      </span>
+      <ProgressBar value={learned} max={course.wordCount} className="mt-3 h-2.5" />
+      <span className="mt-1.5 flex justify-between text-xs font-semibold text-slate-500">
+        <span>Đã học {learned}</span>
+        {due > 0 && <span className="text-rose-500">{due} cần ôn</span>}
+      </span>
+    </Link>
+  )
+}
+
+function DeckCard({
+  deck,
+  recommended,
+  learned,
+  due,
+}: {
+  deck: TopicDeckSummary
+  recommended: boolean
+  learned: number
+  due: number
+}) {
   return (
     <Link
       to="/decks/$deckId"

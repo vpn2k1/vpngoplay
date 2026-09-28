@@ -60,7 +60,13 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const newRound = () => {
     const word = source.next()
     const count = g.correct >= 8 ? 4 : 3
-    const choices = makeChoices(word, deck.words, count, deck.track === 'kids' && !reverse, reverse ? (w) => w.term : undefined)
+    const choices = makeChoices(
+      word,
+      deck.words,
+      count,
+      deck.track === 'kids' && !reverse,
+      reverse ? (w) => w.term : undefined,
+    )
     const holes = shuffle([...Array(HOLES).keys()]).slice(0, choices.length)
     const moles: (Mole | null)[] = Array(HOLES).fill(null)
     holes.forEach((hole, i) => (moles[hole] = { choice: choices[i], state: 'up' }))
@@ -108,7 +114,9 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       sfx.wrong()
       endRound(
         round,
-        round.moles.map((m, i) => (i === index ? { ...m!, state: 'wrong' } : m?.choice.correct ? { ...m, state: 'reveal' } : m)),
+        round.moles.map((m, i) =>
+          i === index ? { ...m!, state: 'wrong' } : m?.choice.correct ? { ...m, state: 'reveal' } : m,
+        ),
       )
     }
     setHud({ score: g.score, time: g.time, combo: g.combo })
@@ -123,48 +131,46 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     return () => window.removeEventListener('keydown', onKey)
   })
 
-  useGameLoop(
-    (dt) => {
-      g.time = Math.max(0, g.time - dt)
-      if (round && g.doneRound !== round.id) {
-        g.roundLeft -= dt
-        if (g.roundLeft <= 0) {
-          g.combo = 0
-          g.missed.push(round.word)
-          sfx.wrong()
-          endRound(
-            round,
-            round.moles.map((m) => (m?.choice.correct ? { ...m, state: 'reveal' } : m)),
-          )
-        }
-      } else {
-        g.nextIn -= dt
-        if (g.nextIn <= 0 && g.time > 0) {
-          g.nextIn = Infinity
-          newRound()
-        }
+  useGameLoop((dt) => {
+    g.time = Math.max(0, g.time - dt)
+    if (round && g.doneRound !== round.id) {
+      g.roundLeft -= dt
+      if (g.roundLeft <= 0) {
+        g.combo = 0
+        g.missed.push(round.word)
+        sfx.wrong()
+        endRound(
+          round,
+          round.moles.map((m) => (m?.choice.correct ? { ...m, state: 'reveal' } : m)),
+        )
       }
-      if (Math.abs(hud.time - g.time) >= 0.1 || hud.score !== g.score) setHud({ score: g.score, time: g.time, combo: g.combo })
-      if (g.time <= 0 && !g.over) {
-        g.over = true
-        setOver(true)
-        const answered = g.correct + g.missed.length
-        onGameOver({
-          score: g.score,
-          xp: Math.min(60, 5 + g.correct * 2),
-          stars: g.correct >= 18 ? 3 : g.correct >= 8 ? 2 : g.correct >= 1 ? 1 : 0,
-          stats: [
-            ['Đập trúng', g.correct],
-            ['Đập nhầm', g.wrong],
-            ['Combo cao nhất', g.maxCombo],
-            ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
-          ],
-          missed: g.missed,
-        })
+    } else {
+      g.nextIn -= dt
+      if (g.nextIn <= 0 && g.time > 0) {
+        g.nextIn = Infinity
+        newRound()
       }
-    },
-    !paused && !over,
-  )
+    }
+    if (Math.abs(hud.time - g.time) >= 0.1 || hud.score !== g.score)
+      setHud({ score: g.score, time: g.time, combo: g.combo })
+    if (g.time <= 0 && !g.over) {
+      g.over = true
+      setOver(true)
+      const answered = g.correct + g.missed.length
+      onGameOver({
+        score: g.score,
+        xp: Math.min(60, 5 + g.correct * 2),
+        stars: g.correct >= 18 ? 3 : g.correct >= 8 ? 2 : g.correct >= 1 ? 1 : 0,
+        stats: [
+          ['Đập trúng', g.correct],
+          ['Đập nhầm', g.wrong],
+          ['Combo cao nhất', g.maxCombo],
+          ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
+        ],
+        missed: g.missed,
+      })
+    }
+  }, !paused && !over)
 
   const timePct = (hud.time / GAME_TIME) * 100
 
@@ -173,13 +179,20 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       <div className="flex items-center gap-3">
         <div className="h-3 flex-1 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
           <div
-            className={cx('h-full rounded-full transition-[width] duration-100', timePct < 20 ? 'bg-rose-500' : 'bg-emerald-500')}
+            className={cx(
+              'h-full rounded-full transition-[width] duration-100',
+              timePct < 20 ? 'bg-rose-500' : 'bg-emerald-500',
+            )}
             style={{ width: `${timePct}%` }}
           />
         </div>
         <span className="w-12 text-right font-mono font-bold tabular-nums">{Math.ceil(hud.time)}s</span>
-        {hud.combo >= 2 && <span className="rounded-full bg-orange-500 px-2 py-0.5 text-sm font-black text-white">🔥x{hud.combo}</span>}
-        <span className="rounded-full bg-slate-900 px-3 py-1 font-mono font-black text-white dark:bg-white dark:text-slate-900">{hud.score}</span>
+        {hud.combo >= 2 && (
+          <span className="rounded-full bg-orange-500 px-2 py-0.5 text-sm font-black text-white">🔥x{hud.combo}</span>
+        )}
+        <span className="rounded-full bg-slate-900 px-3 py-1 font-mono font-black text-white dark:bg-white dark:text-slate-900">
+          {hud.score}
+        </span>
       </div>
 
       <div className="flex min-h-20 items-center justify-center gap-3 rounded-3xl bg-white p-4 shadow-sm ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
@@ -224,7 +237,9 @@ export function Whack({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
               style={{ cursor: HAMMER }}
               aria-label={mole ? mole.choice.label : `Lỗ ${i + 1}`}
             >
-              <span className="absolute top-1 left-1 z-20 rounded-md bg-black/25 px-1.5 text-xs font-bold text-white">{i + 1}</span>
+              <span className="absolute top-1 left-1 z-20 rounded-md bg-black/25 px-1.5 text-xs font-bold text-white">
+                {i + 1}
+              </span>
               <div className="absolute inset-x-2 bottom-1 h-8 rounded-[50%] bg-amber-950/80 shadow-[inset_0_6px_8px_rgba(0,0,0,.5)]" />
               <AnimatePresence>
                 {visible && mole && (

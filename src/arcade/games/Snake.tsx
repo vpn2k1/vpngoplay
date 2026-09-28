@@ -93,7 +93,13 @@ export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
 
   const newRound = () => {
     const word = source.next()
-    const choices = makeChoices(word, deck.words, 3, deck.track === 'kids' && !reverse, reverse ? (w) => w.term : undefined)
+    const choices = makeChoices(
+      word,
+      deck.words,
+      3,
+      deck.track === 'kids' && !reverse,
+      reverse ? (w) => w.term : undefined,
+    )
     const head = g.snake[0]
     const foods: Food[] = []
     for (const choice of choices) {
@@ -212,130 +218,127 @@ export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     }
   }
 
-  useGameLoop(
-    (dt) => {
-      const s = stage()
-      if (!s) return
-      const { ctx, w, h } = s
-      g.time += dt
-      const cell = Math.floor(Math.min(w / COLS, h / ROWS))
-      g.cell = cell
-      g.ox = (w - cell * COLS) / 2
-      g.oy = (h - cell * ROWS) / 2
-      const interval = Math.max(0.1, 0.2 - g.correct * 0.005)
+  useGameLoop((dt) => {
+    const s = stage()
+    if (!s) return
+    const { ctx, w, h } = s
+    g.time += dt
+    const cell = Math.floor(Math.min(w / COLS, h / ROWS))
+    g.cell = cell
+    g.ox = (w - cell * COLS) / 2
+    g.oy = (h - cell * ROWS) / 2
+    const interval = Math.max(0.1, 0.2 - g.correct * 0.005)
 
-      if (g.started && g.endIn === null) {
-        g.acc += dt
-        while (g.acc >= interval && g.endIn === null && g.started) {
-          g.acc -= interval
-          tick()
+    if (g.started && g.endIn === null) {
+      g.acc += dt
+      while (g.acc >= interval && g.endIn === null && g.started) {
+        g.acc -= interval
+        tick()
+      }
+    } else g.acc = 0
+    g.effects.update(dt)
+
+    // --- draw
+    ctx.fillStyle = '#14532d'
+    ctx.fillRect(0, 0, w, h)
+    ctx.save()
+    g.effects.applyShake(ctx)
+    for (let y = 0; y < ROWS; y++)
+      for (let x = 0; x < COLS; x++) {
+        ctx.fillStyle = (x + y) % 2 ? '#4ade80' : '#22c55e'
+        ctx.fillRect(g.ox + x * cell, g.oy + y * cell, cell, cell)
+      }
+
+    // food: shiny apples with their label above
+    const labelSize = clamp(cell * 0.4, 11, 15)
+    for (const f of g.foods) {
+      const x = g.ox + (f.x + 0.5) * cell
+      const y = g.oy + (f.y + 0.5) * cell + Math.sin(g.time * 4 + f.x) * 2
+      const r = cell * 0.36
+      const apple = ctx.createRadialGradient(x - r * 0.4, y - r * 0.4, r * 0.1, x, y, r * 1.1)
+      apple.addColorStop(0, '#fecaca')
+      apple.addColorStop(0.35, '#ef4444')
+      apple.addColorStop(1, '#991b1b')
+      ctx.fillStyle = apple
+      ctx.beginPath()
+      ctx.arc(x, y, r, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.fillStyle = '#15803d'
+      ctx.beginPath()
+      ctx.ellipse(x + r * 0.3, y - r * 1.05, r * 0.35, r * 0.18, -0.5, 0, Math.PI * 2)
+      ctx.fill()
+      drawPill(ctx, f.choice.label, x, y - cell * 0.8, {
+        size: labelSize,
+        bg: 'rgba(255,255,255,.95)',
+        fg: '#0f172a',
+        maxWidth: cell * 3.6,
+      })
+    }
+
+    // snake, interpolated between grid steps for smooth motion
+    const t = g.started ? Math.min(1, g.acc / interval) : 1
+    const n = g.snake.length
+    for (let i = n - 1; i >= 0; i--) {
+      const cur = g.snake[i]
+      const from = g.prev[i] ?? g.prev[g.prev.length - 1] ?? cur
+      const x = g.ox + (from.x + (cur.x - from.x) * t + 0.5) * cell
+      const y = g.oy + (from.y + (cur.y - from.y) * t + 0.5) * cell
+      const size = cell * (i === 0 ? 0.9 : 0.8 - (i / n) * 0.2)
+      const shade = Math.round(120 + (i / n) * 60)
+      ctx.fillStyle = i === 0 ? '#1d4ed8' : `rgb(37, ${shade - 40}, 235)`
+      ctx.beginPath()
+      ctx.roundRect(x - size / 2, y - size / 2, size, size, size * 0.4)
+      ctx.fill()
+      if (i === 0) {
+        const ex = g.dir.y !== 0 ? size * 0.2 : 0
+        const ey = g.dir.x !== 0 ? size * 0.2 : 0
+        const fx = g.dir.x * size * 0.18
+        const fy = g.dir.y * size * 0.18
+        for (const sgn of [-1, 1]) {
+          ctx.fillStyle = '#fff'
+          ctx.beginPath()
+          ctx.arc(x + fx + ex * sgn, y + fy + ey * sgn, size * 0.14, 0, Math.PI * 2)
+          ctx.fill()
+          ctx.fillStyle = '#0f172a'
+          ctx.beginPath()
+          ctx.arc(x + fx * 1.3 + ex * sgn, y + fy * 1.3 + ey * sgn, size * 0.07, 0, Math.PI * 2)
+          ctx.fill()
         }
-      } else g.acc = 0
-      g.effects.update(dt)
+      }
+    }
+    g.effects.draw(ctx, w, h)
+    ctx.restore()
 
-      // --- draw
-      ctx.fillStyle = '#14532d'
-      ctx.fillRect(0, 0, w, h)
-      ctx.save()
-      g.effects.applyShake(ctx)
-      for (let y = 0; y < ROWS; y++)
-        for (let x = 0; x < COLS; x++) {
-          ctx.fillStyle = (x + y) % 2 ? '#4ade80' : '#22c55e'
-          ctx.fillRect(g.ox + x * cell, g.oy + y * cell, cell, cell)
-        }
+    if (!g.started && g.endIn === null) {
+      ctx.fillStyle = 'rgba(15,23,42,.55)'
+      ctx.beginPath()
+      ctx.roundRect(w / 2 - 170, h * 0.72 - 24, 340, 48, 16)
+      ctx.fill()
+      ctx.fillStyle = '#fff'
+      ctx.font = font(16, 800)
+      ctx.fillText('Nhấn phím mũi tên / vuốt để bắt đầu', w / 2, h * 0.72)
+    }
 
-      // food: shiny apples with their label above
-      const labelSize = clamp(cell * 0.4, 11, 15)
-      for (const f of g.foods) {
-        const x = g.ox + (f.x + 0.5) * cell
-        const y = g.oy + (f.y + 0.5) * cell + Math.sin(g.time * 4 + f.x) * 2
-        const r = cell * 0.36
-        const apple = ctx.createRadialGradient(x - r * 0.4, y - r * 0.4, r * 0.1, x, y, r * 1.1)
-        apple.addColorStop(0, '#fecaca')
-        apple.addColorStop(0.35, '#ef4444')
-        apple.addColorStop(1, '#991b1b')
-        ctx.fillStyle = apple
-        ctx.beginPath()
-        ctx.arc(x, y, r, 0, Math.PI * 2)
-        ctx.fill()
-        ctx.fillStyle = '#15803d'
-        ctx.beginPath()
-        ctx.ellipse(x + r * 0.3, y - r * 1.05, r * 0.35, r * 0.18, -0.5, 0, Math.PI * 2)
-        ctx.fill()
-        drawPill(ctx, f.choice.label, x, y - cell * 0.8, {
-          size: labelSize,
-          bg: 'rgba(255,255,255,.95)',
-          fg: '#0f172a',
-          maxWidth: cell * 3.6,
+    if (g.endIn !== null) {
+      g.endIn -= dt
+      if (g.endIn <= 0 && !over) {
+        setOver(true)
+        const answered = g.correct + g.wrong
+        onGameOver({
+          score: g.score,
+          xp: Math.min(60, 5 + g.correct * 2),
+          stars: g.correct >= 15 ? 3 : g.correct >= 6 ? 2 : g.correct >= 1 ? 1 : 0,
+          stats: [
+            ['Ăn đúng', g.correct],
+            ['Độ dài', g.snake.length],
+            ['Combo cao nhất', g.maxCombo],
+            ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
+          ],
+          missed: g.missed,
         })
       }
-
-      // snake, interpolated between grid steps for smooth motion
-      const t = g.started ? Math.min(1, g.acc / interval) : 1
-      const n = g.snake.length
-      for (let i = n - 1; i >= 0; i--) {
-        const cur = g.snake[i]
-        const from = g.prev[i] ?? g.prev[g.prev.length - 1] ?? cur
-        const x = g.ox + (from.x + (cur.x - from.x) * t + 0.5) * cell
-        const y = g.oy + (from.y + (cur.y - from.y) * t + 0.5) * cell
-        const size = cell * (i === 0 ? 0.9 : 0.8 - (i / n) * 0.2)
-        const shade = Math.round(120 + (i / n) * 60)
-        ctx.fillStyle = i === 0 ? '#1d4ed8' : `rgb(37, ${shade - 40}, 235)`
-        ctx.beginPath()
-        ctx.roundRect(x - size / 2, y - size / 2, size, size, size * 0.4)
-        ctx.fill()
-        if (i === 0) {
-          const ex = g.dir.y !== 0 ? size * 0.2 : 0
-          const ey = g.dir.x !== 0 ? size * 0.2 : 0
-          const fx = g.dir.x * size * 0.18
-          const fy = g.dir.y * size * 0.18
-          for (const sgn of [-1, 1]) {
-            ctx.fillStyle = '#fff'
-            ctx.beginPath()
-            ctx.arc(x + fx + ex * sgn, y + fy + ey * sgn, size * 0.14, 0, Math.PI * 2)
-            ctx.fill()
-            ctx.fillStyle = '#0f172a'
-            ctx.beginPath()
-            ctx.arc(x + fx * 1.3 + ex * sgn, y + fy * 1.3 + ey * sgn, size * 0.07, 0, Math.PI * 2)
-            ctx.fill()
-          }
-        }
-      }
-      g.effects.draw(ctx, w, h)
-      ctx.restore()
-
-      if (!g.started && g.endIn === null) {
-        ctx.fillStyle = 'rgba(15,23,42,.55)'
-        ctx.beginPath()
-        ctx.roundRect(w / 2 - 170, h * 0.72 - 24, 340, 48, 16)
-        ctx.fill()
-        ctx.fillStyle = '#fff'
-        ctx.font = font(16, 800)
-        ctx.fillText('Nhấn phím mũi tên / vuốt để bắt đầu', w / 2, h * 0.72)
-      }
-
-      if (g.endIn !== null) {
-        g.endIn -= dt
-        if (g.endIn <= 0 && !over) {
-          setOver(true)
-          const answered = g.correct + g.wrong
-          onGameOver({
-            score: g.score,
-            xp: Math.min(60, 5 + g.correct * 2),
-            stars: g.correct >= 15 ? 3 : g.correct >= 6 ? 2 : g.correct >= 1 ? 1 : 0,
-            stats: [
-              ['Ăn đúng', g.correct],
-              ['Độ dài', g.snake.length],
-              ['Combo cao nhất', g.maxCombo],
-              ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
-            ],
-            missed: g.missed,
-          })
-        }
-      }
-    },
-    !paused && !over,
-  )
+    }
+  }, !paused && !over)
 
   const onDown = (e: PointerEvent) => {
     swipe.current = { x: e.clientX, y: e.clientY }
@@ -350,7 +353,8 @@ export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     turn(Math.abs(dx) > Math.abs(dy) ? (dx > 0 ? 'right' : 'left') : dy > 0 ? 'down' : 'up')
   }
 
-  const pad = 'flex size-14 items-center justify-center rounded-2xl border-b-4 border-slate-300 bg-white text-slate-700 active:translate-y-0.5 active:border-b-2 dark:border-slate-950 dark:bg-slate-800 dark:text-slate-100'
+  const pad =
+    'flex size-14 items-center justify-center rounded-2xl border-b-4 border-slate-300 bg-white text-slate-700 active:translate-y-0.5 active:border-b-2 dark:border-slate-950 dark:bg-slate-800 dark:text-slate-100'
   return (
     <div className="space-y-3">
       <div className="flex min-h-14 items-center justify-center gap-2 rounded-2xl bg-white px-4 py-2 text-center shadow-sm ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
@@ -384,7 +388,9 @@ export function Snake({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
           <ArrowRight className="size-6" />
         </button>
       </div>
-      <p className="hidden text-center text-xs text-slate-500 sm:block">Phím mũi tên / WASD hoặc vuốt để đổi hướng · đâm tường hay ăn nhầm mồi mất một mạng</p>
+      <p className="hidden text-center text-xs text-slate-500 sm:block">
+        Phím mũi tên / WASD hoặc vuốt để đổi hướng · đâm tường hay ăn nhầm mồi mất một mạng
+      </p>
     </div>
   )
 }

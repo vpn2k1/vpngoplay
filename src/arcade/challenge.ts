@@ -24,8 +24,16 @@ export interface ModeOption {
 
 const WRITE_MODE: Record<Lang, Omit<ModeOption, 'id'>> = {
   en: { icon: '✍️', label: 'Gõ tiếng Anh', hint: 'Thấy nghĩa tiếng Việt → gõ từ tiếng Anh, có gợi ý “d _ _”' },
-  ja: { icon: '🗾', label: 'Gõ tiếng Nhật', hint: 'Thấy nghĩa → gõ romaji, kana hoặc kanji; gõ tới đâu hiện kana/kanji tới đó' },
-  zh: { icon: '🀄', label: 'Gõ tiếng Trung', hint: 'Thấy nghĩa → gõ pinyin (không cần dấu) hoặc chữ Hán; hiện chữ Hán khi gõ' },
+  ja: {
+    icon: '🗾',
+    label: 'Gõ tiếng Nhật',
+    hint: 'Thấy nghĩa → gõ romaji, kana hoặc kanji; gõ tới đâu hiện kana/kanji tới đó',
+  },
+  zh: {
+    icon: '🀄',
+    label: 'Gõ tiếng Trung',
+    hint: 'Thấy nghĩa → gõ pinyin (không cần dấu) hoặc chữ Hán; hiện chữ Hán khi gõ',
+  },
 }
 
 const MEANING_HINT: Record<Lang, string> = {
@@ -43,7 +51,8 @@ export function standardMode(id: StandardMode, lang: Lang): ModeOption {
       label: `Chọn từ ${LANGS[lang].label.replace('Tiếng ', '')}`,
       hint: 'Thấy nghĩa tiếng Việt → chọn đúng từ',
     }
-  if (id === 'choice') return { id, icon: '👆', label: 'Chọn nghĩa', hint: 'Thấy từ → chọn nghĩa. Bấm phím hoặc chạm — hợp với trẻ em' }
+  if (id === 'choice')
+    return { id, icon: '👆', label: 'Chọn nghĩa', hint: 'Thấy từ → chọn nghĩa. Bấm phím hoặc chạm — hợp với trẻ em' }
   return { id, icon: '🇻🇳', label: 'Gõ nghĩa tiếng Việt', hint: MEANING_HINT[lang] }
 }
 
@@ -111,11 +120,7 @@ export function inputKey(lang: Lang, mode: TypingMode, input: string) {
   return lang === 'ja' ? japaneseKey(input) : pinyinKey(input)
 }
 
-const baseLetter = (c: string) =>
-  c
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
+const baseLetter = (c: string) => c.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
 
 /**
  * The hint line under a write-mode target: the first letter/kana plus one blank per
@@ -128,7 +133,9 @@ export function typingHint(ch: Challenge, typed: string, active: boolean): strin
   let line: string
   if (t.lang === 'ja' && !isLatin(t.spelled)) {
     const want = toHiragana(t.spelled)
-    const got = active ? toHiragana(typed.toLowerCase().replace(/[^a-z\p{Script=Hiragana}\p{Script=Katakana}ー-]/gu, '')) : ''
+    const got = active
+      ? toHiragana(typed.toLowerCase().replace(/[^a-z\p{Script=Hiragana}\p{Script=Katakana}ー-]/gu, ''))
+      : ''
     let n = 0
     while (n < got.length && n < want.length && got[n] === want[n]) n++
     line = [...t.spelled].map((c, i) => (i < Math.max(1, n) ? c : '＿')).join('')

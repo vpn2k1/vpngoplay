@@ -5,22 +5,23 @@ import { z } from 'zod'
 import { ArcadeShell } from '../../arcade/ArcadeShell'
 import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
 import { ARCADE_GAMES, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
-import { FLAG, GAME_ICON, GlowingStar, TRACK_ICON } from '../../components/icons'
+import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, TRACK_ICON } from '../../components/icons'
 import { cx } from '../../components/ui'
-import { catalogQuery, deckQuery } from '../../lib/api'
+import { catalogQuery, courseQuery, coursesQuery, deckQuery } from '../../lib/api'
 import { useProgress } from '../../lib/store'
-import { LANGS, TRACKS, type Deck, type Lang } from '../../lib/types'
+import { COURSE_LABEL, LANGS, TRACKS, type Deck, type Lang } from '../../lib/types'
 
 export const Route = createFileRoute('/games/$gameId')({
   validateSearch: z.object({
     lang: z.enum(['en', 'ja', 'zh']).optional(),
-    /** a deck id, or "all" for every deck of the language */
+    /** a topic deck id, a course id (all its words), or "all" for every topic deck of the language */
     deck: z.string().optional(),
   }),
   beforeLoad: ({ params }) => {
     if (!(params.gameId in ARCADE_GAMES)) throw notFound()
   },
-  loader: ({ context }) => context.queryClient.ensureQueryData(catalogQuery),
+  loader: ({ context }) =>
+    Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
   component: GamePage,
 })
 
@@ -40,11 +41,13 @@ function GamePage() {
   const lang: Lang = search.lang ?? profile?.langs[0] ?? 'en'
 
   const { data: catalog } = useSuspenseQuery(catalogQuery)
+  const { data: courses } = useSuspenseQuery(coursesQuery)
   const langDecks = catalog.filter((d) => d.lang === lang)
+  const langCourses = courses.filter((c) => c.lang === lang)
   const fallback = langDecks.find((d) => d.track === profile?.track) ?? langDecks[0]
-  const choice =
-    search.deck === ALL_WORDS || langDecks.some((d) => d.id === search.deck) ? (search.deck as string) : fallback.id
-  const ids = choice === ALL_WORDS ? langDecks.map((d) => d.id) : [choice]
+  const valid = search.deck === ALL_WORDS || [...langDecks, ...langCourses].some((d) => d.id === search.deck)
+  const choice = valid ? (search.deck as string) : fallback.id
+  const isCourse = langCourses.some((c) => c.id === choice)
   // TanStack Query memoises the combined deck while `combine` and the results are unchanged.
   const combine = useCallback(
     (results: { data: Deck }[]) => {
@@ -53,10 +56,11 @@ function GamePage() {
     },
     [choice, lang],
   )
-  const deck = useSuspenseQueries({
-    queries: ids.map((id) => deckQuery(id)),
-    combine,
-  })
+  // A course is a Deck with an extra lesson list; games only need the Deck part.
+  const queries = isCourse
+    ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
+    : (choice === ALL_WORDS ? langDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
+  const deck = useSuspenseQueries({ queries, combine })
   const totalWords = langDecks.reduce((n, d) => n + d.wordCount, 0)
   const usesDeck = game.usesDeck !== false
 
@@ -86,6 +90,27 @@ function GamePage() {
         <fieldset>
           <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Bộ từ</legend>
           <div className="grid gap-2 sm:grid-cols-2">
+            {langCourses.map((c) => {
+              const Icon = COURSE_ICON[c.level]
+              return (
+                <Link
+                  key={c.id}
+                  to="/games/$gameId"
+                  params={{ gameId }}
+                  search={{ lang, deck: c.id }}
+                  replace
+                  className={chip(choice === c.id)}
+                >
+                  <Icon className="size-6 shrink-0" />
+                  <span className="min-w-0">
+                    <span className="block truncate">Lộ trình {COURSE_LABEL[c.level]}</span>
+                    <span className="block text-xs font-medium text-slate-500">
+                      {c.range} · {c.wordCount.toLocaleString('vi-VN')} từ
+                    </span>
+                  </span>
+                </Link>
+              )
+            })}
             <Link
               to="/games/$gameId"
               params={{ gameId }}
@@ -95,7 +120,7 @@ function GamePage() {
             >
               <GlowingStar className="size-6 shrink-0" />
               <span>
-                Tất cả từ <span className="font-medium text-slate-500">· {totalWords} từ</span>
+                Tất cả chủ đề <span className="font-medium text-slate-500">· {totalWords} từ</span>
               </span>
             </Link>
             {langDecks.map((d) => {

@@ -10,7 +10,7 @@ export const GAME_FONT =
 export const font = (size: number, weight = 700) => `${weight} ${Math.round(size)}px ${GAME_FONT}`
 
 export const rand = (min: number, max: number) => min + Math.random() * (max - min)
-export const pick = <T,>(items: readonly T[]) => items[Math.floor(Math.random() * items.length)]
+export const pick = <T>(items: readonly T[]) => items[Math.floor(Math.random() * items.length)]
 export const clamp = (v: number, min: number, max: number) => Math.min(max, Math.max(min, v))
 
 /** Calls `tick(dt)` every animation frame while `running`; dt is clamped to avoid jumps after tab switches. */

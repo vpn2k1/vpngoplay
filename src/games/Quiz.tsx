@@ -31,7 +31,9 @@ function buildQuiz(deck: Deck): ExerciseItem[] {
       const kind = i < kinds.length ? kinds[i] : pick(kinds)
       const byTerm = (w: Word) => w.term
       const choices = makeChoices(word, deck.words, 4, false, kind === 'term' ? byTerm : undefined)
-      const wordsByLabel = new Map(deck.words.map((w) => [kind === 'term' ? w.term : (meaningAnswers(w)[0] ?? w.meaning), w]))
+      const wordsByLabel = new Map(
+        deck.words.map((w) => [kind === 'term' ? w.term : (meaningAnswers(w)[0] ?? w.meaning), w]),
+      )
       const options = choices.map((c) => ({
         correct: c.correct,
         label: kind === 'term' ? <TermLabel word={wordsByLabel.get(c.label) ?? word} deck={deck} /> : c.label,
@@ -84,5 +86,7 @@ function buildQuiz(deck: Deck): ExerciseItem[] {
 
 export function Quiz({ deck, onRestart }: { deck: Deck; onRestart: () => void }) {
   const [items] = useState(() => buildQuiz(deck))
-  return <ChoiceExercise deck={deck} title="Trắc nghiệm" Icon={EXERCISE_ICON.quiz} items={items} onRestart={onRestart} />
+  return (
+    <ChoiceExercise deck={deck} title="Trắc nghiệm" Icon={EXERCISE_ICON.quiz} items={items} onRestart={onRestart} />
+  )
 }

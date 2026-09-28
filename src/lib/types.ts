@@ -45,29 +45,30 @@ export interface Deck extends Omit<DeckSummary, 'wordCount' | 'sentenceCount'> {
 }
 
 // Flags, mascots and track icons are SVG components in components/icons.tsx.
-export const LANGS: Record<Lang, { label: string; locale: string; joiner: string; gradient: string; sample: string }> = {
-  en: {
-    label: 'Tiếng Anh',
-    locale: 'en-US',
-    joiner: ' ',
-    gradient: 'from-indigo-500 via-violet-500 to-fuchsia-500',
-    sample: "Hello! Nice to meet you. Let's learn English together.",
-  },
-  ja: {
-    label: 'Tiếng Nhật',
-    locale: 'ja-JP',
-    joiner: '',
-    gradient: 'from-rose-500 via-pink-500 to-orange-400',
-    sample: 'こんにちは。一緒に日本語を勉強しましょう。',
-  },
-  zh: {
-    label: 'Tiếng Trung',
-    locale: 'zh-CN',
-    joiner: '',
-    gradient: 'from-red-500 via-orange-500 to-amber-400',
-    sample: '你好！我们一起学习中文吧。',
-  },
-}
+export const LANGS: Record<Lang, { label: string; locale: string; joiner: string; gradient: string; sample: string }> =
+  {
+    en: {
+      label: 'Tiếng Anh',
+      locale: 'en-US',
+      joiner: ' ',
+      gradient: 'from-indigo-500 via-violet-500 to-fuchsia-500',
+      sample: "Hello! Nice to meet you. Let's learn English together.",
+    },
+    ja: {
+      label: 'Tiếng Nhật',
+      locale: 'ja-JP',
+      joiner: '',
+      gradient: 'from-rose-500 via-pink-500 to-orange-400',
+      sample: 'こんにちは。一緒に日本語を勉強しましょう。',
+    },
+    zh: {
+      label: 'Tiếng Trung',
+      locale: 'zh-CN',
+      joiner: '',
+      gradient: 'from-red-500 via-orange-500 to-amber-400',
+      sample: '你好！我们一起学习中文吧。',
+    },
+  }
 
 export const TRACKS: Record<Track, { label: string; hint: string }> = {
   kids: { label: 'Trẻ em', hint: 'Hình ảnh, từ đơn giản' },
@@ -76,6 +77,11 @@ export const TRACKS: Record<Track, { label: string; hint: string }> = {
 }
 
 export type CourseLevel = 'basic' | 'intermediate' | 'advanced'
+export const COURSE_LABEL: Record<CourseLevel, string> = {
+  basic: 'Cơ bản',
+  intermediate: 'Trung cấp',
+  advanced: 'Nâng cao',
+}
 
 /** A ~3,000-word course (public/courses/index.json), split into 20-word lessons. */
 export interface CourseSummary {

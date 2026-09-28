@@ -155,7 +155,9 @@ for (const { course, words } of selected) {
 // Prices are per million tokens for the default model; check current pricing before a full run.
 const PRICE = { 'claude-opus-5': { in: 5, out: 25 } }[args.model]
 const estimate = (n) => (PRICE ? ((n * 2200 * PRICE.in + n * 3000 * PRICE.out) / 1e6).toFixed(0) : '?')
-console.log(`${jobs.length} lessons to generate across ${selected.length} course(s) with ${args.model} (effort ${args.effort}).`)
+console.log(
+  `${jobs.length} lessons to generate across ${selected.length} course(s) with ${args.model} (effort ${args.effort}).`,
+)
 console.log(`Estimated cost: ~$${estimate(jobs.length)} (rough; thinking tokens vary). Batch API would halve it.`)
 if (args['dry-run'] || !jobs.length) process.exit(0)
 
@@ -172,7 +174,9 @@ await Promise.all(
         writeFileSync(job.file, JSON.stringify({ lesson: job.lessonNo, issues, ...lesson }, null, 1) + '\n')
         if (issues.length) flagged++
         done++
-        process.stdout.write(`\r${done}/${jobs.length} lessons · ${flagged} with remaining issues · ${usage.requests} requests`)
+        process.stdout.write(
+          `\r${done}/${jobs.length} lessons · ${flagged} with remaining issues · ${usage.requests} requests`,
+        )
       } catch (err) {
         failed.push(`${job.course.id} #${job.lessonNo}: ${err instanceof Error ? err.message : err}`)
       }
@@ -181,6 +185,8 @@ await Promise.all(
 )
 
 const cost = PRICE ? ((usage.input * PRICE.in + usage.output * PRICE.out) / 1e6).toFixed(2) : '?'
-console.log(`\nDone: ${done} lessons, ${flagged} saved with issues (see "issues" in each file), ${failed.length} failed.`)
+console.log(
+  `\nDone: ${done} lessons, ${flagged} saved with issues (see "issues" in each file), ${failed.length} failed.`,
+)
 console.log(`Tokens: ${usage.input} in (${usage.cacheRead} cached), ${usage.output} out ≈ $${cost}`)
 if (failed.length) console.log(`Failed (re-run to retry):\n  ${failed.join('\n  ')}`)

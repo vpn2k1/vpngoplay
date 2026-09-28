@@ -27,3 +27,6 @@ dist-ssr
 public/decks/index.json
 .vercel
 .tanstack
+
+# vocab pipeline downloads (re-fetched by npm run vocab:prepare)
+data/sources

@@ -86,9 +86,18 @@ export function SentenceBuilder({ deck, onRestart }: { deck: Deck; onRestart: ()
   }
 
   return (
-    <GameShell deck={deck} title="Xếp câu" Icon={EXERCISE_ICON.sentence} current={pos} total={items.length} combo={combo}>
+    <GameShell
+      deck={deck}
+      title="Xếp câu"
+      Icon={EXERCISE_ICON.sentence}
+      current={pos}
+      total={items.length}
+      combo={combo}
+    >
       <MascotPrompt lang={deck.lang}>
-        <p className="text-xs font-bold text-slate-400 uppercase">Dịch sang {LANGS[deck.lang].label.replace('Tiếng', 'tiếng')}</p>
+        <p className="text-xs font-bold text-slate-400 uppercase">
+          Dịch sang {LANGS[deck.lang].label.replace('Tiếng', 'tiếng')}
+        </p>
         <p className="mt-1 text-xl font-bold">{item.meaning}</p>
       </MascotPrompt>
 
@@ -117,7 +126,10 @@ export function SentenceBuilder({ deck, onRestart }: { deck: Deck; onRestart: ()
         <div className="flex flex-wrap justify-center gap-2">
           {bank.map((i) =>
             picked.includes(i) ? (
-              <span key={i} className={`${tokenClass} border-transparent bg-slate-200 text-transparent shadow-none dark:border-transparent dark:bg-slate-800`}>
+              <span
+                key={i}
+                className={`${tokenClass} border-transparent bg-slate-200 text-transparent shadow-none dark:border-transparent dark:bg-slate-800`}
+              >
                 {item.tokens[i]}
               </span>
             ) : (

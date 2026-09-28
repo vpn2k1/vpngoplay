@@ -35,7 +35,8 @@ const decks = readdirSync(dir)
     const seen = new Set()
     for (const w of deck.words) {
       if (!w.id || !w.term || !w.meaning) fail(`word ${JSON.stringify(w.id ?? w.term)} needs id, term and meaning`)
-      if (!w.example || !w.exampleMeaning) fail(`word "${w.id}" needs an example and its exampleMeaning (Nghe hiểu, Điền từ)`)
+      if (!w.example || !w.exampleMeaning)
+        fail(`word "${w.id}" needs an example and its exampleMeaning (Nghe hiểu, Điền từ)`)
       if (seen.has(w.id)) fail(`duplicate word id "${w.id}"`)
       seen.add(w.id)
     }
@@ -65,4 +66,6 @@ if (errors.length) {
 }
 
 writeFileSync(join(dir, 'index.json'), JSON.stringify(catalog, null, 2) + '\n')
-console.log(`catalog: ${catalog.length} topic decks + ${decks.length - catalog.length} course lessons, ${LANGS.length} languages × ${TRACKS.length} tracks ✓`)
+console.log(
+  `catalog: ${catalog.length} topic decks + ${decks.length - catalog.length} course lessons, ${LANGS.length} languages × ${TRACKS.length} tracks ✓`,
+)

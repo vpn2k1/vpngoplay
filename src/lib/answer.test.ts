@@ -16,10 +16,13 @@ for (const [base, marks] of Object.entries({ a: 'āáǎà', e: 'ēéěè', i: '�
 
 /** "wǒ xǐhuan māo" → "wo3 xi3huan mao1" (tone number after each marked syllable, roughly) */
 const toneNumbers = (pinyin: string) =>
-  pinyin.replace(/([a-zü]*?)([āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ])([a-zü]*?)(?=[^a-zü]|$|[bpmfdtnlgkhjqxzcsryw](?=[aeiouü]))/gi, (_, pre, mark, post) => {
-    const [base, tone] = TONES[mark]
-    return `${pre}${base}${post}${tone}`
-  })
+  pinyin.replace(
+    /([a-zü]*?)([āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ])([a-zü]*?)(?=[^a-zü]|$|[bpmfdtnlgkhjqxzcsryw](?=[aeiouü]))/gi,
+    (_, pre, mark, post) => {
+      const [base, tone] = TONES[mark]
+      return `${pre}${base}${post}${tone}`
+    },
+  )
 
 const stripVi = (s: string) => s.replace(/[đĐ]/g, 'd').normalize('NFD').replace(/[̀-ͯ]/g, '')
 
@@ -96,7 +99,8 @@ describe.each(decks.map((d) => [d.id, d] as const))('deck %s', (_, deck) => {
       for (const b of deck.sentences) {
         if (a === b) continue
         const typed = [...sentenceAnswers(a, joiner), ...(deck.lang === 'ja' && a.reading ? [toRomaji(a.reading)] : [])]
-        for (const t of typed) expect(checkAnswer(deck.lang, t, sentenceAnswers(b, joiner)), `${t} ≠ ${b.id}`).toBe(false)
+        for (const t of typed)
+          expect(checkAnswer(deck.lang, t, sentenceAnswers(b, joiner)), `${t} ≠ ${b.id}`).toBe(false)
       }
   })
 
@@ -117,7 +121,8 @@ describe.each(decks.map((d) => [d.id, d] as const))('deck %s', (_, deck) => {
     for (const a of deck.words)
       for (const b of deck.words) {
         if (a === b) continue
-        for (const m of meaningAnswers(a)) expect(checkMeaning(m, b), `"${m}" (${a.id}) also matches ${b.id}`).toBe(false)
+        for (const m of meaningAnswers(a))
+          expect(checkMeaning(m, b), `"${m}" (${a.id}) also matches ${b.id}`).toBe(false)
       }
   })
 })

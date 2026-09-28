@@ -107,8 +107,7 @@ export function ChoiceExercise({
         {item.prompt}
         <div className={cx('grid gap-3', columns === 2 && 'sm:grid-cols-2')}>
           {item.options.map((option, i) => {
-            const state =
-              picked === null ? 'idle' : option.correct ? 'correct' : i === picked ? 'wrong' : 'dim'
+            const state = picked === null ? 'idle' : option.correct ? 'correct' : i === picked ? 'wrong' : 'dim'
             return (
               <motion.button
                 key={i}
@@ -122,7 +121,8 @@ export function ChoiceExercise({
                   'flex min-h-16 items-center gap-3 rounded-2xl border-2 border-b-4 px-4 py-3 text-left font-bold transition',
                   state === 'idle' &&
                     'border-slate-200 bg-white hover:border-indigo-300 hover:bg-indigo-50 active:translate-y-0.5 active:border-b-2 dark:border-slate-700 dark:bg-slate-900 dark:hover:bg-slate-800',
-                  state === 'correct' && 'border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-200',
+                  state === 'correct' &&
+                    'border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-200',
                   state === 'wrong' && 'border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-950 dark:text-rose-200',
                   state === 'dim' && 'border-slate-200 bg-white opacity-40 dark:border-slate-800 dark:bg-slate-900',
                 )}
@@ -146,10 +146,14 @@ export function ChoiceExercise({
         </div>
       </motion.div>
 
-      <FeedbackSheet status={status} title={status === 'correct' ? 'Chính xác! +3 XP' : 'Chưa đúng rồi'} onContinue={() => {
-        setPicked(null)
-        setPos((p) => p + 1)
-      }}>
+      <FeedbackSheet
+        status={status}
+        title={status === 'correct' ? 'Chính xác! +3 XP' : 'Chưa đúng rồi'}
+        onContinue={() => {
+          setPicked(null)
+          setPos((p) => p + 1)
+        }}
+      >
         {item.feedback}
       </FeedbackSheet>
     </GameShell>

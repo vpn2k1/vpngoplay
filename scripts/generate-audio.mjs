@@ -52,7 +52,9 @@ for (const [lang, set] of Object.entries(texts)) {
 }
 
 const chars = jobs.reduce((n, j) => n + j.text.length, 0)
-console.log(`${Object.values(manifest).reduce((n, m) => n + Object.keys(m).length, 0)} clips total, ${jobs.length} to synthesise (${chars} characters)`)
+console.log(
+  `${Object.values(manifest).reduce((n, m) => n + Object.keys(m).length, 0)} clips total, ${jobs.length} to synthesise (${chars} characters)`,
+)
 if (dryRun) {
   for (const j of jobs) console.log(`  [${j.lang}] ${j.text}`)
   process.exit(0)

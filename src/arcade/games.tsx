@@ -65,7 +65,8 @@ export const ARCADE_GAMES = {
     icon: '🏎️',
     color: 'from-red-500 to-orange-500',
     blurb: 'Lái vào làn có nghĩa đúng, né rào chắn',
-    intro: 'Chạy thật nhanh trên đường 3 làn. Lái qua cổng có nghĩa đúng để nhận Nitro, hoặc gõ đáp án để phá rào chắn.',
+    intro:
+      'Chạy thật nhanh trên đường 3 làn. Lái qua cổng có nghĩa đúng để nhận Nitro, hoặc gõ đáp án để phá rào chắn.',
     controls: [
       'Chọn làn: ← → / A D, phím 1 2 3, hoặc chạm vào làn/nút',
       'Chế độ gõ: gõ từ trên rào để phá — xe tự lái vào làn vừa mở',
@@ -103,7 +104,10 @@ export const ARCADE_GAMES = {
     color: 'from-fuchsia-500 to-purple-700',
     blurb: 'Bắn bóng bay mang chữ cái / chữ Hán / hình',
     intro: 'Bóng bay mang chữ đang bay lên! Gõ cách đọc để bắn nổ trước khi chúng chạm hàng xương rồng.',
-    controls: ['Gõ cách đọc — bóng tự nổ khi đúng', 'Enter: xác nhận khi đáp án là phần đầu của đáp án khác (vd. “n” và “na”)'],
+    controls: [
+      'Gõ cách đọc — bóng tự nổ khi đúng',
+      'Enter: xác nhận khi đáp án là phần đầu của đáp án khác (vd. “n” và “na”)',
+    ],
     modes: (lang) => SCRIPT_SETS[lang].map(({ id, icon, label, hint }) => ({ id, icon, label, hint })),
     Game: Rain,
     trackSrs: false,
@@ -115,8 +119,13 @@ export const ARCADE_GAMES = {
     icon: '🧠',
     color: 'from-pink-500 to-rose-600',
     blurb: 'Lật thẻ tìm cặp từ và nghĩa',
-    intro: 'Các thẻ đang úp! Lật 2 thẻ một lượt để tìm cặp từ và nghĩa của nó. Nhớ vị trí thật giỏi để dùng ít lượt nhất.',
-    controls: ['Chạm vào thẻ để lật', 'Thẻ tím là từ, thẻ vàng là nghĩa — ghép đúng cặp thì thẻ ở lại', 'Ít lượt và nhanh thì nhiều điểm'],
+    intro:
+      'Các thẻ đang úp! Lật 2 thẻ một lượt để tìm cặp từ và nghĩa của nó. Nhớ vị trí thật giỏi để dùng ít lượt nhất.',
+    controls: [
+      'Chạm vào thẻ để lật',
+      'Thẻ tím là từ, thẻ vàng là nghĩa — ghép đúng cặp thì thẻ ở lại',
+      'Ít lượt và nhanh thì nhiều điểm',
+    ],
     modes: () => [
       { id: 'easy', icon: '6', label: '6 cặp', hint: 'Lưới nhỏ — nhẹ nhàng' },
       { id: 'hard', icon: '8', label: '8 cặp', hint: 'Lưới 4×4 — thử thách trí nhớ' },
@@ -130,7 +139,10 @@ export const ARCADE_GAMES = {
     color: 'from-green-500 to-emerald-700',
     blurb: 'Bò tới quả táo mang nghĩa đúng',
     intro: 'Mỗi quả táo mang một đáp án. Điều khiển rắn ăn đúng quả để dài ra — ăn nhầm hay đâm tường là mất mạng!',
-    controls: ['Phím mũi tên / WASD, vuốt màn hình hoặc nút điều hướng trên điện thoại', 'Ăn đúng: rắn dài thêm và chạy nhanh dần'],
+    controls: [
+      'Phím mũi tên / WASD, vuốt màn hình hoặc nút điều hướng trên điện thoại',
+      'Ăn đúng: rắn dài thêm và chạy nhanh dần',
+    ],
     modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
     Game: Snake,
   },

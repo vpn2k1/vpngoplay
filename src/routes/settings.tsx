@@ -53,7 +53,9 @@ function Settings() {
         <h2 className="flex items-center gap-2 font-black text-rose-600">
           <Trash2 className="size-5" /> Xóa toàn bộ tiến độ
         </h2>
-        <p className="mt-1 text-sm text-slate-500">XP, chuỗi ngày học, kỷ lục game và lịch ôn flashcard trên thiết bị này sẽ bị xóa.</p>
+        <p className="mt-1 text-sm text-slate-500">
+          XP, chuỗi ngày học, kỷ lục game và lịch ôn flashcard trên thiết bị này sẽ bị xóa.
+        </p>
         <Button
           variant="ghost"
           className="mt-4 text-rose-600"

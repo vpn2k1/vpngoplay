@@ -20,7 +20,11 @@ export function clozeOf(word: Word, lang: Lang): Cloze | null {
   if (lang === 'en') {
     const match = new RegExp(`\\b${escapeRegExp(word.term)}\\b`, 'i').exec(example)
     if (!match) return null
-    return { before: example.slice(0, match.index), answer: match[0], after: example.slice(match.index + match[0].length) }
+    return {
+      before: example.slice(0, match.index),
+      answer: match[0],
+      after: example.slice(match.index + match[0].length),
+    }
   }
   const i = example.indexOf(word.term)
   if (i < 0) return null

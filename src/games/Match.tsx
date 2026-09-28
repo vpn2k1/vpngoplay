@@ -111,9 +111,13 @@ export function Match({ deck, onRestart }: { deck: Deck; onRestart: () => void }
         transition={isMatched || isWrong ? { duration: 0.4 } : { delay: index * 0.04, type: 'spring' }}
         className={cx(
           'min-h-18 w-full rounded-2xl border-2 border-b-4 px-3 py-2 text-center font-bold transition-colors',
-          isMatched && 'border-emerald-300 bg-emerald-50 text-emerald-600 dark:border-emerald-800 dark:bg-emerald-950 dark:text-emerald-400',
+          isMatched &&
+            'border-emerald-300 bg-emerald-50 text-emerald-600 dark:border-emerald-800 dark:bg-emerald-950 dark:text-emerald-400',
           isWrong && 'border-rose-400 bg-rose-50 text-rose-600 dark:bg-rose-950 dark:text-rose-300',
-          !isMatched && !isWrong && isSelected && 'border-sky-400 bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300',
+          !isMatched &&
+            !isWrong &&
+            isSelected &&
+            'border-sky-400 bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300',
           !isMatched &&
             !isWrong &&
             !isSelected &&

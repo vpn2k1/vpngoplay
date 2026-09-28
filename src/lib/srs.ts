@@ -38,4 +38,5 @@ export function schedule(prev: SrsCard | undefined, grade: Grade, now = Date.now
 export const cardKey = (deckId: string, wordId: string) => `${deckId}:${wordId}`
 
 /** Schedule key of a word within `deckId` — words borrowed from other decks keep their own key. */
-export const wordCardKey = (deckId: string, word: { id: string; srsKey?: string }) => word.srsKey ?? cardKey(deckId, word.id)
+export const wordCardKey = (deckId: string, word: { id: string; srsKey?: string }) =>
+  word.srsKey ?? cardKey(deckId, word.id)

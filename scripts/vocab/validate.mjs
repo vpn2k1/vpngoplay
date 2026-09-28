@@ -38,19 +38,23 @@ const LATIN = /^[\p{Script=Latin}\s'’-]+$/u
 
 export function validateLesson(lang, words, lesson) {
   const issues = []
-  if (lesson.words.length !== words.length) issues.push(`Return exactly ${words.length} words (got ${lesson.words.length}).`)
+  if (lesson.words.length !== words.length)
+    issues.push(`Return exactly ${words.length} words (got ${lesson.words.length}).`)
   lesson.words.forEach((w, i) => {
     const term = words[i]?.term
     if (!term) return
     if (w.term !== term) issues.push(`Word ${i + 1} must be "${term}" (got "${w.term}").`)
     if (!w.meaning.trim()) issues.push(`"${term}" has no meaning.`)
-    if (!containsTerm(lang, term, w.example)) issues.push(`The example for "${term}" must contain "${term}" exactly: "${w.example}".`)
+    if (!containsTerm(lang, term, w.example))
+      issues.push(`The example for "${term}" must contain "${term}" exactly: "${w.example}".`)
     if (!w.exampleMeaning.trim()) issues.push(`"${term}" has no example translation.`)
     if (lang === 'en' && !/^\/.+\/$/.test(w.ipa.trim())) issues.push(`"${term}" needs IPA between slashes.`)
     if (lang === 'zh') {
       const allowed = (words[i].readings ?? [words[i].reading]).map(normalize)
       if (!allowed.includes(normalize(w.pinyin)))
-        issues.push(`The pinyin for "${term}" must be one of ${JSON.stringify(words[i].readings ?? [words[i].reading])} (got "${w.pinyin}").`)
+        issues.push(
+          `The pinyin for "${term}" must be one of ${JSON.stringify(words[i].readings ?? [words[i].reading])} (got "${w.pinyin}").`,
+        )
     }
   })
 
@@ -59,19 +63,24 @@ export function validateLesson(lang, words, lesson) {
     for (let b = a + 1; b < answers.length; b++) {
       const shared = [...answers[a]].find((x) => answers[b].has(x))
       if (shared)
-        issues.push(`"${lesson.words[a].term}" and "${lesson.words[b].term}" share the meaning "${shared}" — make them distinguishable.`)
+        issues.push(
+          `"${lesson.words[a].term}" and "${lesson.words[b].term}" share the meaning "${shared}" — make them distinguishable.`,
+        )
     }
 
   const translations = lesson.words.map((w) => w.exampleMeaning.trim())
-  if (new Set(translations).size !== translations.length) issues.push('Two examples have the same Vietnamese translation.')
+  if (new Set(translations).size !== translations.length)
+    issues.push('Two examples have the same Vietnamese translation.')
 
   if (lesson.sentences.length !== 5) issues.push(`Return exactly 5 sentences (got ${lesson.sentences.length}).`)
   const joined = new Set()
   lesson.sentences.forEach((s, i) => {
     if (!s.tokens.length || s.tokens.some((t) => !t.trim())) issues.push(`Sentence ${i + 1} has empty tokens.`)
     if (!s.meaning.trim()) issues.push(`Sentence ${i + 1} has no translation.`)
-    if (lang === 'ja' && !KANA.test(s.reading)) issues.push(`Sentence ${i + 1} reading must be kana only, no spaces or punctuation: "${s.reading}".`)
-    if (lang === 'zh' && !LATIN.test(s.reading)) issues.push(`Sentence ${i + 1} reading must be pinyin only: "${s.reading}".`)
+    if (lang === 'ja' && !KANA.test(s.reading))
+      issues.push(`Sentence ${i + 1} reading must be kana only, no spaces or punctuation: "${s.reading}".`)
+    if (lang === 'zh' && !LATIN.test(s.reading))
+      issues.push(`Sentence ${i + 1} reading must be pinyin only: "${s.reading}".`)
     joined.add(normalize(s.tokens.join('')))
   })
   if (joined.size !== lesson.sentences.length) issues.push('Two sentences are the same.')

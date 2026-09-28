@@ -35,7 +35,12 @@ function VoicePicker({ lang }: { lang: Lang }) {
               </option>
             ))}
           </select>
-          <Button type="button" variant="ghost" className="px-4 py-2 normal-case" onClick={() => previewVoice(current?.voice, lang)}>
+          <Button
+            type="button"
+            variant="ghost"
+            className="px-4 py-2 normal-case"
+            onClick={() => previewVoice(current?.voice, lang)}
+          >
             <Volume2 className="size-4" /> Nghe thử
           </Button>
         </>
@@ -51,16 +56,20 @@ export function VoiceSettings({ langs }: { langs: Lang[] }) {
   return (
     <div className="space-y-5">
       {hasBrowserTts ? (
-        <div className="space-y-3">{langs.map((lang) => <VoicePicker key={lang} lang={lang} />)}</div>
+        <div className="space-y-3">
+          {langs.map((lang) => (
+            <VoicePicker key={lang} lang={lang} />
+          ))}
+        </div>
       ) : (
         <p className="text-sm text-slate-500">Trình duyệt này không hỗ trợ đọc văn bản.</p>
       )}
       <p className="flex gap-2 rounded-2xl bg-slate-100 p-3 text-xs text-slate-500 dark:bg-slate-800/60">
         <Info className="size-4 shrink-0 text-indigo-500" />
         <span>
-        ⭐ = giọng tốt nhất được tự chọn · 🤖 = giọng máy chất lượng thấp. Trên Windows/Edge hãy chọn giọng có chữ
-        “Natural”; trên macOS có thể tải thêm giọng “Premium/Enhanced” trong Cài đặt hệ thống › Trợ năng › Nội dung
-        được đọc.
+          ⭐ = giọng tốt nhất được tự chọn · 🤖 = giọng máy chất lượng thấp. Trên Windows/Edge hãy chọn giọng có chữ
+          “Natural”; trên macOS có thể tải thêm giọng “Premium/Enhanced” trong Cài đặt hệ thống › Trợ năng › Nội dung
+          được đọc.
         </span>
       </p>
 

@@ -14,7 +14,19 @@ import {
   type Challenge,
   type TypingMode,
 } from '../challenge'
-import { Effects, clamp, drawPill, font, pick, rand, spring, useDebugState, useGameLoop, useGameState, useStage } from '../engine'
+import {
+  Effects,
+  clamp,
+  drawPill,
+  font,
+  pick,
+  rand,
+  spring,
+  useDebugState,
+  useGameLoop,
+  useGameState,
+  useStage,
+} from '../engine'
 import { useTyping } from '../useTyping'
 
 const DANGER_Y = 0.84
@@ -56,7 +68,12 @@ function createState() {
     enemies: [] as Enemy[],
     bullets: [] as Bullet[],
     stars: [0.02, 0.05, 0.11].flatMap((speed, layer) =>
-      Array.from({ length: [70, 40, 18][layer] }, () => ({ x: Math.random(), y: Math.random(), speed, size: 1 + layer * 0.8 })),
+      Array.from({ length: [70, 40, 18][layer] }, () => ({
+        x: Math.random(),
+        y: Math.random(),
+        speed,
+        size: 1 + layer * 0.8,
+      })),
     ),
     comet: null as { x: number; y: number; vx: number; vy: number; life: number } | null,
     effects: new Effects(),
@@ -312,216 +329,226 @@ export function Shooter({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     syncHud()
   }
 
-  useGameLoop(
-    (dt) => {
-      const s = stage()
-      if (!s) return
-      const { ctx, w, h } = s
-      g.w = w
-      g.h = h
-      g.time += dt
-      const sy = shipY()
+  useGameLoop((dt) => {
+    const s = stage()
+    if (!s) return
+    const { ctx, w, h } = s
+    g.w = w
+    g.h = h
+    g.time += dt
+    const sy = shipY()
 
-      // --- update
-      if (g.endIn === null) {
-        g.spawnIn -= dt
-        if (g.enemies.length === 0) g.spawnIn = Math.min(g.spawnIn, 0.5)
-        if (g.spawnIn <= 0 && g.enemies.length < Math.min(6, 2 + g.level)) {
-          spawn()
-          g.spawnIn = Math.max(1.2, 3.2 - g.level * 0.25)
-        }
+    // --- update
+    if (g.endIn === null) {
+      g.spawnIn -= dt
+      if (g.enemies.length === 0) g.spawnIn = Math.min(g.spawnIn, 0.5)
+      if (g.spawnIn <= 0 && g.enemies.length < Math.min(6, 2 + g.level)) {
+        spawn()
+        g.spawnIn = Math.max(1.2, 3.2 - g.level * 0.25)
       }
-      for (const e of g.enemies) {
-        e.y += e.speed * dt
-        e.rot += e.spin * dt
-        if (e.y > 0.55 && !e.doomed && Math.random() < 0.5)
-          g.effects.emit(
-            e.x * w + rand(-6, 6),
-            e.y * h - e.radius * 0.8,
-            rand(-10, 10),
-            rand(-60, -30),
-            pick(['#fb923c', '#f97316', '#fde047']),
-            { size: rand(2, 4), life: 0.4 },
-          )
-      }
-      for (const e of g.enemies.filter((e) => e.y >= DANGER_Y && !e.doomed)) {
-        g.enemies = g.enemies.filter((x) => x !== e)
-        loseLife(e)
-      }
+    }
+    for (const e of g.enemies) {
+      e.y += e.speed * dt
+      e.rot += e.spin * dt
+      if (e.y > 0.55 && !e.doomed && Math.random() < 0.5)
+        g.effects.emit(
+          e.x * w + rand(-6, 6),
+          e.y * h - e.radius * 0.8,
+          rand(-10, 10),
+          rand(-60, -30),
+          pick(['#fb923c', '#f97316', '#fde047']),
+          { size: rand(2, 4), life: 0.4 },
+        )
+    }
+    for (const e of g.enemies.filter((e) => e.y >= DANGER_Y && !e.doomed)) {
+      g.enemies = g.enemies.filter((x) => x !== e)
+      loseLife(e)
+    }
 
-      // homing bullets with a short glowing trail
-      for (const b of g.bullets) {
-        if (!b.target) continue
-        const dx = b.target.x * w - b.x
-        const dy = b.target.y * h - b.y
-        const dist = Math.hypot(dx, dy)
-        const step = 1500 * dt
-        b.trail.unshift({ x: b.x, y: b.y })
-        b.trail.length = Math.min(b.trail.length, 8)
-        if (dist <= step + b.target.radius * 0.5) {
-          explode(b.target)
-          b.target = null
-        } else {
-          b.x += (dx / dist) * step
-          b.y += (dy / dist) * step
-        }
+    // homing bullets with a short glowing trail
+    for (const b of g.bullets) {
+      if (!b.target) continue
+      const dx = b.target.x * w - b.x
+      const dy = b.target.y * h - b.y
+      const dist = Math.hypot(dx, dy)
+      const step = 1500 * dt
+      b.trail.unshift({ x: b.x, y: b.y })
+      b.trail.length = Math.min(b.trail.length, 8)
+      if (dist <= step + b.target.radius * 0.5) {
+        explode(b.target)
+        b.target = null
+      } else {
+        b.x += (dx / dist) * step
+        b.y += (dy / dist) * step
       }
-      g.bullets = g.bullets.filter((b) => b.target)
+    }
+    g.bullets = g.bullets.filter((b) => b.target)
 
-      // the ship glides under the locked (or just-shot) target
-      const aim = g.enemies.filter((e) => e.locked).sort((a, b) => b.y - a.y)[0] ?? g.bullets.at(-1)?.target
-      spring(g.ship, aim ? clamp(aim.x, 0.08, 0.92) : g.ship.x, dt, 60, 14)
-      g.shipTilt += (clamp(g.ship.v * 0.9, -0.45, 0.45) - g.shipTilt) * Math.min(1, dt * 10)
-      if (g.endIn === null && Math.random() < 0.8)
-        g.effects.emit(g.ship.x * w + rand(-4, 4), sy + 18, rand(-15, 15), rand(120, 200), pick(['#fb923c', '#fde047', '#f87171']), {
+    // the ship glides under the locked (or just-shot) target
+    const aim = g.enemies.filter((e) => e.locked).sort((a, b) => b.y - a.y)[0] ?? g.bullets.at(-1)?.target
+    spring(g.ship, aim ? clamp(aim.x, 0.08, 0.92) : g.ship.x, dt, 60, 14)
+    g.shipTilt += (clamp(g.ship.v * 0.9, -0.45, 0.45) - g.shipTilt) * Math.min(1, dt * 10)
+    if (g.endIn === null && Math.random() < 0.8)
+      g.effects.emit(
+        g.ship.x * w + rand(-4, 4),
+        sy + 18,
+        rand(-15, 15),
+        rand(120, 200),
+        pick(['#fb923c', '#fde047', '#f87171']),
+        {
           size: rand(1.5, 3),
           life: 0.35,
-        })
+        },
+      )
 
-      for (const star of g.stars) {
-        star.y += star.speed * dt * (1 + g.level * 0.08)
-        if (star.y > 1) Object.assign(star, { y: 0, x: Math.random() })
-      }
-      if (!g.comet && Math.random() < dt * 0.15)
-        g.comet = { x: rand(0.1, 0.9) * w, y: -10, vx: rand(-300, -150), vy: rand(250, 400), life: 1.2 }
-      if (g.comet) {
-        g.comet.x += g.comet.vx * dt
-        g.comet.y += g.comet.vy * dt
-        g.comet.life -= dt
-        if (g.comet.life <= 0) g.comet = null
-      }
-      g.effects.update(dt)
+    for (const star of g.stars) {
+      star.y += star.speed * dt * (1 + g.level * 0.08)
+      if (star.y > 1) Object.assign(star, { y: 0, x: Math.random() })
+    }
+    if (!g.comet && Math.random() < dt * 0.15)
+      g.comet = { x: rand(0.1, 0.9) * w, y: -10, vx: rand(-300, -150), vy: rand(250, 400), life: 1.2 }
+    if (g.comet) {
+      g.comet.x += g.comet.vx * dt
+      g.comet.y += g.comet.vy * dt
+      g.comet.life -= dt
+      if (g.comet.life <= 0) g.comet = null
+    }
+    g.effects.update(dt)
 
-      // --- draw
-      const bg = ctx.createLinearGradient(0, 0, 0, h)
-      bg.addColorStop(0, '#050816')
-      bg.addColorStop(0.55, '#1e1b4b')
-      bg.addColorStop(1, '#4c1d95')
-      ctx.fillStyle = bg
+    // --- draw
+    const bg = ctx.createLinearGradient(0, 0, 0, h)
+    bg.addColorStop(0, '#050816')
+    bg.addColorStop(0.55, '#1e1b4b')
+    bg.addColorStop(1, '#4c1d95')
+    ctx.fillStyle = bg
+    ctx.fillRect(0, 0, w, h)
+    for (const [cx, cy, r, color] of [
+      [0.18, 0.28, 0.4, 'rgba(236,72,153,.14)'],
+      [0.85, 0.55, 0.45, 'rgba(56,189,248,.12)'],
+    ] as const) {
+      const neb = ctx.createRadialGradient(cx * w, cy * h, 0, cx * w, cy * h, r * Math.max(w, h))
+      neb.addColorStop(0, color)
+      neb.addColorStop(1, 'transparent')
+      ctx.fillStyle = neb
       ctx.fillRect(0, 0, w, h)
-      for (const [cx, cy, r, color] of [
-        [0.18, 0.28, 0.4, 'rgba(236,72,153,.14)'],
-        [0.85, 0.55, 0.45, 'rgba(56,189,248,.12)'],
-      ] as const) {
-        const neb = ctx.createRadialGradient(cx * w, cy * h, 0, cx * w, cy * h, r * Math.max(w, h))
-        neb.addColorStop(0, color)
-        neb.addColorStop(1, 'transparent')
-        ctx.fillStyle = neb
-        ctx.fillRect(0, 0, w, h)
-      }
-      ctx.fillStyle = '#fff'
-      for (const star of g.stars) {
-        ctx.globalAlpha = 0.35 + 0.65 * Math.abs(Math.sin(g.time * 2 + star.x * 50))
-        ctx.fillRect(star.x * w, star.y * h, star.size, star.size * (1 + star.speed * 8))
-      }
-      ctx.globalAlpha = 1
-      if (g.comet) {
-        const { x, y, vx, vy } = g.comet
-        const tail = ctx.createLinearGradient(x, y, x - vx * 0.25, y - vy * 0.25)
-        tail.addColorStop(0, 'rgba(255,255,255,.9)')
-        tail.addColorStop(1, 'rgba(255,255,255,0)')
-        ctx.strokeStyle = tail
-        ctx.lineWidth = 2
-        ctx.beginPath()
-        ctx.moveTo(x, y)
-        ctx.lineTo(x - vx * 0.25, y - vy * 0.25)
-        ctx.stroke()
-      }
-
-      ctx.save()
-      g.effects.applyShake(ctx)
-
-      // danger zone
-      const zone = ctx.createLinearGradient(0, DANGER_Y * h, 0, h)
-      zone.addColorStop(0, `rgba(244,63,94,${0.12 + 0.06 * Math.sin(g.time * 4)})`)
-      zone.addColorStop(1, 'rgba(244,63,94,0)')
-      ctx.fillStyle = zone
-      ctx.fillRect(0, DANGER_Y * h, w, h)
-      ctx.setLineDash([10, 10])
-      ctx.lineDashOffset = -g.time * 30
-      ctx.strokeStyle = 'rgba(251,113,133,.55)'
+    }
+    ctx.fillStyle = '#fff'
+    for (const star of g.stars) {
+      ctx.globalAlpha = 0.35 + 0.65 * Math.abs(Math.sin(g.time * 2 + star.x * 50))
+      ctx.fillRect(star.x * w, star.y * h, star.size, star.size * (1 + star.speed * 8))
+    }
+    ctx.globalAlpha = 1
+    if (g.comet) {
+      const { x, y, vx, vy } = g.comet
+      const tail = ctx.createLinearGradient(x, y, x - vx * 0.25, y - vy * 0.25)
+      tail.addColorStop(0, 'rgba(255,255,255,.9)')
+      tail.addColorStop(1, 'rgba(255,255,255,0)')
+      ctx.strokeStyle = tail
       ctx.lineWidth = 2
       ctx.beginPath()
-      ctx.moveTo(0, DANGER_Y * h)
-      ctx.lineTo(w, DANGER_Y * h)
+      ctx.moveTo(x, y)
+      ctx.lineTo(x - vx * 0.25, y - vy * 0.25)
       ctx.stroke()
-      ctx.setLineDash([])
+    }
 
-      const size = deck.lang !== 'en' && typingMode === 'meaning' ? 24 : 19
-      for (const e of g.enemies) {
-        const x = e.x * w
-        const y = e.y * h
-        drawRock(ctx, e, x, y)
-        if (e.doomed) continue
-        const danger = e.y > 0.64
-        const hint = typingMode === 'write' ? typingHint(e.ch, g.typed, e.locked) : e.ch.sub
-        const shortest = e.locked ? Math.min(...e.ch.keys.filter((k) => k.startsWith(g.typedKey)).map((k) => k.length)) : 0
-        drawPill(ctx, e.ch.prompt, x, y + e.radius + 30, {
-          size,
-          sub: hint,
-          subColor: e.locked ? '#67e8f9' : 'rgba(226,232,240,.75)',
-          bg: e.locked ? 'rgba(8,47,73,.94)' : 'rgba(15,23,42,.84)',
-          border: e.locked ? '#22d3ee' : danger ? `rgba(244,63,94,${0.55 + 0.45 * Math.sin(g.time * 10)})` : 'rgba(255,255,255,.16)',
-          glow: e.locked ? '#22d3ee' : undefined,
-          progress: e.locked && Number.isFinite(shortest) && shortest ? g.typedKey.length / shortest : 0,
-          maxWidth: Math.min(280, w * 0.5),
-        })
-      }
+    ctx.save()
+    g.effects.applyShake(ctx)
 
-      for (const b of g.bullets) {
-        b.trail.forEach((p, i) => {
-          ctx.globalAlpha = 1 - i / b.trail.length
-          ctx.fillStyle = '#67e8f9'
-          ctx.beginPath()
-          ctx.arc(p.x, p.y, Math.max(1, 4 - i * 0.4), 0, Math.PI * 2)
-          ctx.fill()
-        })
-        ctx.globalAlpha = 1
-        ctx.shadowColor = '#22d3ee'
-        ctx.shadowBlur = 14
-        ctx.fillStyle = '#ecfeff'
+    // danger zone
+    const zone = ctx.createLinearGradient(0, DANGER_Y * h, 0, h)
+    zone.addColorStop(0, `rgba(244,63,94,${0.12 + 0.06 * Math.sin(g.time * 4)})`)
+    zone.addColorStop(1, 'rgba(244,63,94,0)')
+    ctx.fillStyle = zone
+    ctx.fillRect(0, DANGER_Y * h, w, h)
+    ctx.setLineDash([10, 10])
+    ctx.lineDashOffset = -g.time * 30
+    ctx.strokeStyle = 'rgba(251,113,133,.55)'
+    ctx.lineWidth = 2
+    ctx.beginPath()
+    ctx.moveTo(0, DANGER_Y * h)
+    ctx.lineTo(w, DANGER_Y * h)
+    ctx.stroke()
+    ctx.setLineDash([])
+
+    const size = deck.lang !== 'en' && typingMode === 'meaning' ? 24 : 19
+    for (const e of g.enemies) {
+      const x = e.x * w
+      const y = e.y * h
+      drawRock(ctx, e, x, y)
+      if (e.doomed) continue
+      const danger = e.y > 0.64
+      const hint = typingMode === 'write' ? typingHint(e.ch, g.typed, e.locked) : e.ch.sub
+      const shortest = e.locked
+        ? Math.min(...e.ch.keys.filter((k) => k.startsWith(g.typedKey)).map((k) => k.length))
+        : 0
+      drawPill(ctx, e.ch.prompt, x, y + e.radius + 30, {
+        size,
+        sub: hint,
+        subColor: e.locked ? '#67e8f9' : 'rgba(226,232,240,.75)',
+        bg: e.locked ? 'rgba(8,47,73,.94)' : 'rgba(15,23,42,.84)',
+        border: e.locked
+          ? '#22d3ee'
+          : danger
+            ? `rgba(244,63,94,${0.55 + 0.45 * Math.sin(g.time * 10)})`
+            : 'rgba(255,255,255,.16)',
+        glow: e.locked ? '#22d3ee' : undefined,
+        progress: e.locked && Number.isFinite(shortest) && shortest ? g.typedKey.length / shortest : 0,
+        maxWidth: Math.min(280, w * 0.5),
+      })
+    }
+
+    for (const b of g.bullets) {
+      b.trail.forEach((p, i) => {
+        ctx.globalAlpha = 1 - i / b.trail.length
+        ctx.fillStyle = '#67e8f9'
         ctx.beginPath()
-        ctx.arc(b.x, b.y, 5, 0, Math.PI * 2)
+        ctx.arc(p.x, p.y, Math.max(1, 4 - i * 0.4), 0, Math.PI * 2)
         ctx.fill()
-        ctx.shadowBlur = 0
-      }
+      })
+      ctx.globalAlpha = 1
+      ctx.shadowColor = '#22d3ee'
+      ctx.shadowBlur = 14
+      ctx.fillStyle = '#ecfeff'
+      ctx.beginPath()
+      ctx.arc(b.x, b.y, 5, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.shadowBlur = 0
+    }
 
-      if (g.endIn === null) drawShip(ctx, g.ship.x * w, sy, g.shipTilt, g.time)
-      g.effects.draw(ctx, w, h)
-      ctx.restore()
+    if (g.endIn === null) drawShip(ctx, g.ship.x * w, sy, g.shipTilt, g.time)
+    g.effects.draw(ctx, w, h)
+    ctx.restore()
 
-      if (g.kills === 0 && g.missed.length === 0 && g.time < 7) {
-        ctx.font = font(15, 600)
-        ctx.fillStyle = 'rgba(255,255,255,.75)'
-        ctx.fillText(
-          typingMode === 'meaning' ? 'Gõ nghĩa tiếng Việt để bắn hạ' : 'Gõ từ theo gợi ý dưới mỗi thiên thạch để bắn hạ',
-          w / 2,
-          h * 0.78,
-        )
-      }
+    if (g.kills === 0 && g.missed.length === 0 && g.time < 7) {
+      ctx.font = font(15, 600)
+      ctx.fillStyle = 'rgba(255,255,255,.75)'
+      ctx.fillText(
+        typingMode === 'meaning' ? 'Gõ nghĩa tiếng Việt để bắn hạ' : 'Gõ từ theo gợi ý dưới mỗi thiên thạch để bắn hạ',
+        w / 2,
+        h * 0.78,
+      )
+    }
 
-      if (g.endIn !== null) {
-        g.endIn -= dt
-        if (g.endIn <= 0 && !over) {
-          setOver(true)
-          const answered = g.kills + g.wrong + g.missed.length
-          onGameOver({
-            score: g.score,
-            xp: Math.min(60, 5 + g.kills * 2),
-            stars: g.kills >= 25 ? 3 : g.kills >= 12 ? 2 : g.kills >= 1 ? 1 : 0,
-            stats: [
-              ['Hạ gục', g.kills],
-              ['Combo cao nhất', g.maxCombo],
-              ['Level', g.level],
-              ['Chính xác', `${answered ? Math.round((g.kills / answered) * 100) : 0}%`],
-            ],
-            missed: g.missed,
-          })
-        }
+    if (g.endIn !== null) {
+      g.endIn -= dt
+      if (g.endIn <= 0 && !over) {
+        setOver(true)
+        const answered = g.kills + g.wrong + g.missed.length
+        onGameOver({
+          score: g.score,
+          xp: Math.min(60, 5 + g.kills * 2),
+          stars: g.kills >= 25 ? 3 : g.kills >= 12 ? 2 : g.kills >= 1 ? 1 : 0,
+          stats: [
+            ['Hạ gục', g.kills],
+            ['Combo cao nhất', g.maxCombo],
+            ['Level', g.level],
+            ['Chính xác', `${answered ? Math.round((g.kills / answered) * 100) : 0}%`],
+          ],
+          missed: g.missed,
+        })
       }
-    },
-    !paused && !over,
-  )
+    }
+  }, !paused && !over)
 
   return (
     <div className="space-y-3">

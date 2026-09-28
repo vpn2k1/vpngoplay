@@ -23,9 +23,14 @@ const RAW = 'https://raw.githubusercontent.com'
 const FILES = {
   'cefrj-1.5.csv': `${RAW}/openlanguageprofiles/olp-en-cefrj/master/cefrj-vocabulary-profile-1.5.csv`,
   'octanove-c1c2-1.0.csv': `${RAW}/openlanguageprofiles/olp-en-cefrj/master/octanove-vocabulary-profile-c1c2-1.0.csv`,
-  ...Object.fromEntries([1, 2, 3, 4, 5].map((n) => [`jlpt-n${n}.csv`, `${RAW}/jamsinclair/open-anki-jlpt-decks/main/src/n${n}.csv`])),
   ...Object.fromEntries(
-    [1, 2, 3, 4, 5, 6, 7].map((n) => [`hsk-new-${n}.json`, `${RAW}/drkameleon/complete-hsk-vocabulary/main/wordlists/exclusive/new/${n}.json`]),
+    [1, 2, 3, 4, 5].map((n) => [`jlpt-n${n}.csv`, `${RAW}/jamsinclair/open-anki-jlpt-decks/main/src/n${n}.csv`]),
+  ),
+  ...Object.fromEntries(
+    [1, 2, 3, 4, 5, 6, 7].map((n) => [
+      `hsk-new-${n}.json`,
+      `${RAW}/drkameleon/complete-hsk-vocabulary/main/wordlists/exclusive/new/${n}.json`,
+    ]),
   ),
 }
 
@@ -50,11 +55,11 @@ function parseCsv(text) {
   for (let i = 0; i < text.length; i++) {
     const c = text[i]
     if (quoted) {
-      if (c === '"' && text[i + 1] === '"') field += c, i++
+      if (c === '"' && text[i + 1] === '"') ((field += c), i++)
       else if (c === '"') quoted = false
       else field += c
     } else if (c === '"') quoted = true
-    else if (c === ',') row.push(field), (field = '')
+    else if (c === ',') (row.push(field), (field = ''))
     else if (c === '\n' || c === '\r') {
       if (c === '\r' && text[i + 1] === '\n') i++
       row.push(field)
@@ -63,7 +68,7 @@ function parseCsv(text) {
       field = ''
     } else field += c
   }
-  if (field || row.length) row.push(field), rows.push(row)
+  if (field || row.length) (row.push(field), rows.push(row))
   const [header, ...body] = rows.filter((r) => r.some((f) => f.trim()))
   return body.map((r) => Object.fromEntries(header.map((h, i) => [h.trim(), (r[i] ?? '').trim()])))
 }
@@ -88,7 +93,13 @@ function seededShuffle(items, seed) {
 }
 
 /** Shuffle within each level, keeping levels in order. */
-const mixWithinLevels = (words, levels) => levels.flatMap((level, i) => seededShuffle(words.filter((w) => w.level === level), 1000 + i))
+const mixWithinLevels = (words, levels) =>
+  levels.flatMap((level, i) =>
+    seededShuffle(
+      words.filter((w) => w.level === level),
+      1000 + i,
+    ),
+  )
 
 function english() {
   const order = { A1: 1, A2: 2, B1: 3, B2: 4, C1: 5, C2: 6 }
@@ -114,7 +125,14 @@ function japanese() {
       const kana = r.reading.split(/[;；、,]/)[0].trim()
       // skip affixes/fragments such as 〜さん or （お）茶 that can't stand alone in a sentence
       if (!term || !kana || /[～〜・（）()…]/.test(term)) continue
-      words.push({ term, reading: term === kana ? toRomaji(kana) : `${kana} · ${toRomaji(kana)}`, kana, gloss: r.meaning, pos: '', level: `N${n}` })
+      words.push({
+        term,
+        reading: term === kana ? toRomaji(kana) : `${kana} · ${toRomaji(kana)}`,
+        kana,
+        gloss: r.meaning,
+        pos: '',
+        level: `N${n}`,
+      })
     }
   return mixWithinLevels(words, ['N5', 'N4', 'N3', 'N2', 'N1'])
 }
@@ -193,6 +211,8 @@ for (const [lang, words] of [
 ]) {
   for (const { course, words: chunk } of split(lang, words)) {
     writeFileSync(join(OUT, `${course.id}.json`), JSON.stringify({ course, words: chunk }, null, 1) + '\n')
-    console.log(`${course.id.padEnd(16)} ${String(course.wordCount).padStart(5)} words · ${course.lessonCount} lessons · ${course.range}`)
+    console.log(
+      `${course.id.padEnd(16)} ${String(course.wordCount).padStart(5)} words · ${course.lessonCount} lessons · ${course.range}`,
+    )
   }
 }

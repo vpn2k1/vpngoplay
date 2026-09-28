@@ -1,11 +1,11 @@
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
 import { motion } from 'motion/react'
-import { EXERCISE_ICON, FLAG, MASCOT, TRACK_ICON } from '../../../components/icons'
+import { COURSE_ICON, EXERCISE_ICON, FLAG, MASCOT, TRACK_ICON } from '../../../components/icons'
 import { BackLabel, ProgressBar, SpeakButton, cx } from '../../../components/ui'
 import { cardKey } from '../../../lib/srs'
 import { useProgress } from '../../../lib/store'
-import { LANGS, TRACKS } from '../../../lib/types'
+import { COURSE_LABEL, LANGS, TRACKS, type CourseLevel } from '../../../lib/types'
 import { useDeck } from '../../../lib/useDeck'
 
 export const Route = createFileRoute('/decks/$deckId/')({
@@ -71,23 +71,37 @@ function DeckOverview() {
   const learned = deck.words.filter((w) => srs[cardKey(deck.id, w.id)]).length
   const due = deck.words.filter((w) => (srs[cardKey(deck.id, w.id)]?.due ?? Infinity) <= now).length
   const Flag = FLAG[deck.lang]
-  const Track = TRACK_ICON[deck.track]
   const Mascot = MASCOT[deck.lang]
+  // Course lessons show their course level; topic decks their track.
+  const courseLevel = deck.course?.split('-')[1] as CourseLevel | undefined
+  const GroupIcon = courseLevel ? COURSE_ICON[courseLevel] : TRACK_ICON[deck.track ?? 'work']
+  const groupLabel = courseLevel ? COURSE_LABEL[courseLevel] : TRACKS[deck.track ?? 'work'].label
 
   return (
     <div className="space-y-6">
-      <Link to="/" search={{ lang: deck.lang }}>
-        <BackLabel>Tất cả bộ từ</BackLabel>
-      </Link>
+      {deck.course ? (
+        <Link to="/courses/$courseId" params={{ courseId: deck.course }}>
+          <BackLabel>Lộ trình {groupLabel}</BackLabel>
+        </Link>
+      ) : (
+        <Link to="/" search={{ lang: deck.lang }}>
+          <BackLabel>Tất cả bộ từ</BackLabel>
+        </Link>
+      )}
 
-      <header className={cx('relative overflow-hidden rounded-[2rem] bg-gradient-to-br p-6 text-white shadow-xl', LANGS[deck.lang].gradient)}>
+      <header
+        className={cx(
+          'relative overflow-hidden rounded-[2rem] bg-gradient-to-br p-6 text-white shadow-xl',
+          LANGS[deck.lang].gradient,
+        )}
+      >
         <Mascot className="pointer-events-none absolute -right-4 -bottom-6 size-36 opacity-90 drop-shadow-xl" />
         <div className="relative flex flex-wrap gap-2 text-xs font-bold">
           <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 py-1 pr-3 pl-1 backdrop-blur">
             <Flag className="size-5" /> {LANGS[deck.lang].label}
           </span>
           <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 py-1 pr-3 pl-1.5 backdrop-blur">
-            <Track className="size-4" /> {TRACKS[deck.track].label}
+            <GroupIcon className="size-4" /> {groupLabel}
           </span>
           <span className="rounded-full bg-white px-3 py-1 text-slate-900">{deck.level}</span>
         </div>
@@ -104,7 +118,12 @@ function DeckOverview() {
               </span>
             )}
           </div>
-          <ProgressBar value={learned} max={deck.words.length} className="h-3 bg-white/25 dark:bg-white/25" barClassName="bg-white" />
+          <ProgressBar
+            value={learned}
+            max={deck.words.length}
+            className="h-3 bg-white/25 dark:bg-white/25"
+            barClassName="bg-white"
+          />
         </div>
       </header>
 
@@ -112,7 +131,12 @@ function DeckOverview() {
         <h2 className="mb-3 text-lg font-black">Ôn luyện</h2>
         <div className="grid grid-cols-2 gap-3">
           {EXERCISES.map((ex, i) => (
-            <motion.div key={ex.to} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }}>
+            <motion.div
+              key={ex.to}
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * 0.05 }}
+            >
               <Link
                 to={ex.to}
                 params={{ deckId: deck.id }}
@@ -153,7 +177,10 @@ function DeckOverview() {
           {deck.words.map((w) => {
             const card = srs[cardKey(deck.id, w.id)]
             return (
-              <li key={w.id} className="flex items-center gap-3 px-4 py-3 transition hover:bg-slate-50 dark:hover:bg-slate-800/50">
+              <li
+                key={w.id}
+                className="flex items-center gap-3 px-4 py-3 transition hover:bg-slate-50 dark:hover:bg-slate-800/50"
+              >
                 <span className="flex size-11 shrink-0 items-center justify-center rounded-2xl bg-slate-100 text-2xl dark:bg-slate-800">
                   {w.emoji ?? w.term.slice(0, 1)}
                 </span>

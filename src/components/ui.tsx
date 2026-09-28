@@ -152,7 +152,15 @@ export function GameShell({
 }
 
 /** Illustrated icon on a soft rounded tile. */
-export function IconTile({ Icon, className, size = 'md' }: { Icon: IconType; className?: string; size?: 'sm' | 'md' | 'lg' }) {
+export function IconTile({
+  Icon,
+  className,
+  size = 'md',
+}: {
+  Icon: IconType
+  className?: string
+  size?: 'sm' | 'md' | 'lg'
+}) {
   return (
     <span
       className={cx(
@@ -163,7 +171,14 @@ export function IconTile({ Icon, className, size = 'md' }: { Icon: IconType; cla
         className ?? 'bg-white dark:bg-slate-800',
       )}
     >
-      <Icon className={cx('drop-shadow-sm', size === 'sm' && 'size-6', size === 'md' && 'size-7', size === 'lg' && 'size-10')} />
+      <Icon
+        className={cx(
+          'drop-shadow-sm',
+          size === 'sm' && 'size-6',
+          size === 'md' && 'size-7',
+          size === 'lg' && 'size-10',
+        )}
+      />
     </span>
   )
 }
@@ -235,13 +250,19 @@ export function FeedbackSheet({
                   status === 'correct' ? 'bg-emerald-500' : 'bg-rose-500',
                 )}
               >
-                {status === 'correct' ? <Check className="size-7" strokeWidth={3} /> : <X className="size-7" strokeWidth={3} />}
+                {status === 'correct' ? (
+                  <Check className="size-7" strokeWidth={3} />
+                ) : (
+                  <X className="size-7" strokeWidth={3} />
+                )}
               </motion.div>
               <div className="min-w-0">
                 <div
                   className={cx(
                     'text-xl font-extrabold',
-                    status === 'correct' ? 'text-emerald-700 dark:text-emerald-300' : 'text-rose-700 dark:text-rose-300',
+                    status === 'correct'
+                      ? 'text-emerald-700 dark:text-emerald-300'
+                      : 'text-rose-700 dark:text-rose-300',
                   )}
                 >
                   {title}
@@ -249,7 +270,12 @@ export function FeedbackSheet({
                 <div className="text-slate-700 dark:text-slate-200">{children}</div>
               </div>
             </div>
-            <Button variant={status === 'correct' ? 'success' : 'danger'} onClick={onContinue} autoFocus className="sm:w-44">
+            <Button
+              variant={status === 'correct' ? 'success' : 'danger'}
+              onClick={onContinue}
+              autoFocus
+              className="sm:w-44"
+            >
               Tiếp tục
             </Button>
           </div>

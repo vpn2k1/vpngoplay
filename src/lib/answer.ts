@@ -9,7 +9,8 @@ import { toHiragana, toRomaji } from 'wanakana'
 import type { Lang, Sentence, Word } from './types'
 import { normalizeAnswer } from './utils'
 
-const isLatin = (text: string) => /[a-z]/i.test(text) && !/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u.test(text)
+const isLatin = (text: string) =>
+  /[a-z]/i.test(text) && !/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}]/u.test(text)
 
 /**
  * Canonical romaji for Japanese: romaji or kana in, Hepburn romaji out, with the
@@ -24,15 +25,17 @@ export function japaneseKey(text: string) {
     .normalize('NFC')
     .toLowerCase()
     .replace(/[\s\p{P}\p{S}]/gu, '')
-  return toRomaji(toHiragana(cleaned))
-    .replace(/'/g, '')
-    // particle spellings (は→wa, へ→e) — but not inside sha/cha/she/che (しゃ, ちゃ…)
-    .replace(/(?<![sc])ha/g, 'wa')
-    .replace(/wo/g, 'o')
-    .replace(/(?<![sc])he/g, 'e')
-    .replace(/(ou|oo)/g, 'o')
-    .replace(/uu/g, 'u')
-    .replace(/ei/g, 'e')
+  return (
+    toRomaji(toHiragana(cleaned))
+      .replace(/'/g, '')
+      // particle spellings (は→wa, へ→e) — but not inside sha/cha/she/che (しゃ, ちゃ…)
+      .replace(/(?<![sc])ha/g, 'wa')
+      .replace(/wo/g, 'o')
+      .replace(/(?<![sc])he/g, 'e')
+      .replace(/(ou|oo)/g, 'o')
+      .replace(/uu/g, 'u')
+      .replace(/ei/g, 'e')
+  )
 }
 
 /** Pinyin without tones; tone numbers dropped and "v" treated as "ü". */

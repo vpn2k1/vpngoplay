@@ -41,7 +41,10 @@ describe.each(decks.map((d) => [d.id, d] as const))('arcade challenges — %s', 
     for (const w of deck.words) {
       const ch = makeChallenge(w, deck.lang, 'meaning')
       expect(ch.keys.length, w.id).toBeGreaterThan(0)
-      const first = w.meaning.replace(/\([^)]*\)/g, '').split(/[,;]/)[0].trim()
+      const first = w.meaning
+        .replace(/\([^)]*\)/g, '')
+        .split(/[,;]/)[0]
+        .trim()
       expect(matchLevel(ch, inputKey(deck.lang, 'meaning', stripVi(first))), `${w.id}: ${first}`).toBe(2)
     }
   })
@@ -165,9 +168,10 @@ describe.each(decks.map((d) => [d.id, d] as const))('exercises — %s', (_, deck
 describe('clozeOf', () => {
   it('matches whole English words only', () => {
     expect(clozeOf({ id: 'b', term: 'banana', meaning: '', example: 'Monkeys love bananas.' }, 'en')).toBeNull()
-    expect(clozeOf({ id: 'd', term: 'deforestation', meaning: '', example: 'Deforestation destroys habitats.' }, 'en')?.answer).toBe(
-      'Deforestation',
-    )
+    expect(
+      clozeOf({ id: 'd', term: 'deforestation', meaning: '', example: 'Deforestation destroys habitats.' }, 'en')
+        ?.answer,
+    ).toBe('Deforestation')
   })
 })
 
@@ -210,6 +214,33 @@ describe('Mưa chữ script sets', () => {
         const typed = item.answer.split(' / ')[0]
         expect(item.keys, `${item.glyph} ← ${typed}`).toContain(scriptInputKey(lang, typed))
       }
+    }
+  })
+})
+
+const coursesDir = join(import.meta.dirname, '../../public/courses')
+const courses: (Deck & { lessons: { id: string }[] })[] = readdirSync(coursesDir)
+  .filter((f) => f.endsWith('.json') && f !== 'index.json')
+  .map((f) => JSON.parse(readFileSync(join(coursesDir, f), 'utf8')))
+const deckById = new Map(decks.map((d) => [d.id, d]))
+
+describe.each(courses.map((c) => [c.id, c] as const))('course word set — %s', (_, course) => {
+  it('word ids are unique and each schedules reviews in its own lesson deck', () => {
+    expect(new Set(course.words.map((w) => w.id)).size).toBe(course.words.length)
+    for (const w of course.words) {
+      const [lessonId, wordId] = w.srsKey!.split(':')
+      expect(course.lessons.map((l) => l.id)).toContain(lessonId)
+      expect(wordCardKey(course.id, w)).toBe(cardKey(lessonId, wordId))
+      expect(deckById.get(lessonId)?.words.find((x) => x.id === wordId)?.term).toBe(w.term)
+    }
+  })
+
+  it('games draw challengeable words from it', () => {
+    const source = createWordSource(course, {})
+    for (let i = 0; i < 10; i++) {
+      const w = source.next()
+      expect(course.words).toContain(w)
+      expect(makeChallenge(w, course.lang, 'write').keys.length).toBeGreaterThan(0)
     }
   })
 })

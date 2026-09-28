@@ -14,10 +14,7 @@ const key = (s: string) =>
  */
 export function diffAnswer(typed: string, expected: string): DiffPart[] {
   const latin = /[a-z]/i.test(expected)
-  const split = (s: string) =>
-    latin
-      ? s.split(/\s+/).filter((w) => key(w))
-      : [...s.replace(/[\s\p{P}\p{S}]/gu, '')]
+  const split = (s: string) => (latin ? s.split(/\s+/).filter((w) => key(w)) : [...s.replace(/[\s\p{P}\p{S}]/gu, '')])
   const a = split(typed)
   const b = split(expected)
 
@@ -51,6 +48,9 @@ export function diffAnswer(typed: string, expected: string): DiffPart[] {
 
 /** Picks whichever accepted answer the learner was closest to (e.g. kanji vs kana). */
 export function closestAnswer(typed: string, candidates: string[]) {
-  const score = (c: string) => diffAnswer(typed, c).filter((p) => p.kind === 'same').reduce((n, p) => n + p.text.length, 0)
+  const score = (c: string) =>
+    diffAnswer(typed, c)
+      .filter((p) => p.kind === 'same')
+      .reduce((n, p) => n + p.text.length, 0)
   return candidates.reduce((best, c) => (score(c) > score(best) ? c : best))
 }

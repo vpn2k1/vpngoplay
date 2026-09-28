@@ -27,7 +27,9 @@ mkdirSync(OUT, { recursive: true })
 const summaries = []
 const rejected = []
 
-for (const file of readdirSync(COURSES).filter((f) => f.endsWith('.json')).sort()) {
+for (const file of readdirSync(COURSES)
+  .filter((f) => f.endsWith('.json'))
+  .sort()) {
   const { course, words: source } = JSON.parse(readFileSync(join(COURSES, file), 'utf8'))
   const { id, lang } = course
 
@@ -71,7 +73,11 @@ for (const file of readdirSync(COURSES).filter((f) => f.endsWith('.json')).sort(
       lesson: n,
       level: course.range,
       title: `${course.title} · Bài ${n}`,
-      description: words.slice(0, 4).map((w) => w.term).join(' · ') + ' …',
+      description:
+        words
+          .slice(0, 4)
+          .map((w) => w.term)
+          .join(' · ') + ' …',
       words,
       sentences,
     })
@@ -105,7 +111,9 @@ for (const file of readdirSync(COURSES).filter((f) => f.endsWith('.json')).sort(
     })
     summaries.push(summary)
   } else if (existsSync(join(OUT, `${id}.json`))) rmSync(join(OUT, `${id}.json`))
-  console.log(`${id.padEnd(16)} ${String(lessons.length).padStart(3)}/${course.lessonCount} lessons · ${allWords.length} words`)
+  console.log(
+    `${id.padEnd(16)} ${String(lessons.length).padStart(3)}/${course.lessonCount} lessons · ${allWords.length} words`,
+  )
 }
 
 write(join(OUT, 'index.json'), summaries)

@@ -23,7 +23,17 @@ interface Round {
   truth: boolean
 }
 
-function SwipeCard({ round, listen, lang, onAnswer }: { round: Round; listen: boolean; lang: Lang; onAnswer: (yes: boolean) => void }) {
+function SwipeCard({
+  round,
+  listen,
+  lang,
+  onAnswer,
+}: {
+  round: Round
+  listen: boolean
+  lang: Lang
+  onAnswer: (yes: boolean) => void
+}) {
   const x = useMotionValue(0)
   const rotate = useTransform(x, [-200, 200], [-14, 14])
   const yesOpacity = useTransform(x, [20, 120], [0, 1])
@@ -47,10 +57,16 @@ function SwipeCard({ round, listen, lang, onAnswer }: { round: Round; listen: bo
       animate={{ scale: 1, opacity: 1, y: 0 }}
       exit={{ opacity: 0, scale: 0.9, transition: { duration: 0.15 } }}
     >
-      <motion.span style={{ opacity: yesOpacity }} className="absolute top-5 left-5 -rotate-12 rounded-xl border-4 border-emerald-500 px-3 py-1 text-xl font-black text-emerald-500">
+      <motion.span
+        style={{ opacity: yesOpacity }}
+        className="absolute top-5 left-5 -rotate-12 rounded-xl border-4 border-emerald-500 px-3 py-1 text-xl font-black text-emerald-500"
+      >
         ĐÚNG
       </motion.span>
-      <motion.span style={{ opacity: noOpacity }} className="absolute top-5 right-5 rotate-12 rounded-xl border-4 border-rose-500 px-3 py-1 text-xl font-black text-rose-500">
+      <motion.span
+        style={{ opacity: noOpacity }}
+        className="absolute top-5 right-5 rotate-12 rounded-xl border-4 border-rose-500 px-3 py-1 text-xl font-black text-rose-500"
+      >
         SAI
       </motion.span>
       {listen ? (
@@ -79,7 +95,17 @@ function SwipeCard({ round, listen, lang, onAnswer }: { round: Round; listen: bo
 export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const listen = mode === 'listen'
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
-  const g = useGameState(() => ({ time: GAME_TIME, correct: 0, wrong: 0, combo: 0, maxCombo: 0, score: 0, missed: [] as Word[], rounds: 0, done: false }))
+  const g = useGameState(() => ({
+    time: GAME_TIME,
+    correct: 0,
+    wrong: 0,
+    combo: 0,
+    maxCombo: 0,
+    score: 0,
+    missed: [] as Word[],
+    rounds: 0,
+    done: false,
+  }))
   useDebugState(g)
   const [hud, setHud] = useState({ time: GAME_TIME, score: 0, combo: 0 })
   const [round, setRound] = useState<Round | null>(null)
@@ -141,36 +167,39 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     return () => window.removeEventListener('keydown', onKey)
   })
 
-  useGameLoop(
-    (dt) => {
-      g.time = Math.max(0, g.time - dt)
-      if (Math.abs(hud.time - g.time) >= 0.1) setHud({ time: g.time, score: g.score, combo: g.combo })
-      if (g.time <= 0 && !g.done) {
-        g.done = true
-        const answered = g.correct + g.wrong
-        onGameOver({
-          score: g.score,
-          xp: Math.min(60, 5 + g.correct * 2),
-          stars: g.correct >= 25 ? 3 : g.correct >= 12 ? 2 : g.correct >= 1 ? 1 : 0,
-          stats: [
-            ['Đúng', g.correct],
-            ['Sai', g.wrong],
-            ['Combo cao nhất', g.maxCombo],
-            ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
-          ],
-          missed: g.missed,
-        })
-      }
-    },
-    !paused && !g.done,
-  )
+  useGameLoop((dt) => {
+    g.time = Math.max(0, g.time - dt)
+    if (Math.abs(hud.time - g.time) >= 0.1) setHud({ time: g.time, score: g.score, combo: g.combo })
+    if (g.time <= 0 && !g.done) {
+      g.done = true
+      const answered = g.correct + g.wrong
+      onGameOver({
+        score: g.score,
+        xp: Math.min(60, 5 + g.correct * 2),
+        stars: g.correct >= 25 ? 3 : g.correct >= 12 ? 2 : g.correct >= 1 ? 1 : 0,
+        stats: [
+          ['Đúng', g.correct],
+          ['Sai', g.wrong],
+          ['Combo cao nhất', g.maxCombo],
+          ['Chính xác', `${answered ? Math.round((g.correct / answered) * 100) : 0}%`],
+        ],
+        missed: g.missed,
+      })
+    }
+  }, !paused && !g.done)
 
   const pct = (hud.time / GAME_TIME) * 100
   return (
     <div className="space-y-4">
       <div className="flex items-center gap-3">
         <div className="h-3 flex-1 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
-          <div className={cx('h-full rounded-full transition-[width] duration-100', pct < 20 ? 'bg-rose-500' : 'bg-emerald-500')} style={{ width: `${pct}%` }} />
+          <div
+            className={cx(
+              'h-full rounded-full transition-[width] duration-100',
+              pct < 20 ? 'bg-rose-500' : 'bg-emerald-500',
+            )}
+            style={{ width: `${pct}%` }}
+          />
         </div>
         <span className="w-10 text-right font-mono font-bold tabular-nums">{Math.ceil(hud.time)}s</span>
         {hud.combo >= 2 && (
@@ -178,11 +207,18 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
             <Fire className="size-4" />x{hud.combo}
           </span>
         )}
-        <span className="rounded-full bg-slate-900 px-3 py-1 font-mono font-black text-white dark:bg-white dark:text-slate-900">{hud.score}</span>
+        <span className="rounded-full bg-slate-900 px-3 py-1 font-mono font-black text-white dark:bg-white dark:text-slate-900">
+          {hud.score}
+        </span>
       </div>
 
       <div className="relative h-80 sm:h-96">
-        <div className={cx('absolute inset-3 top-6 rounded-[2rem] bg-gradient-to-br opacity-40', LANGS[deck.lang].gradient)} />
+        <div
+          className={cx(
+            'absolute inset-3 top-6 rounded-[2rem] bg-gradient-to-br opacity-40',
+            LANGS[deck.lang].gradient,
+          )}
+        />
         <AnimatePresence mode="popLayout">
           {round && <SwipeCard key={round.id} round={round} listen={listen} lang={deck.lang} onAnswer={answer} />}
         </AnimatePresence>
@@ -199,7 +235,8 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
                 flash.ok ? 'bg-emerald-500' : 'bg-rose-500',
               )}
             >
-              {flash.ok ? <Check className="size-4" strokeWidth={3} /> : <X className="size-4" strokeWidth={3} />} {flash.text}
+              {flash.ok ? <Check className="size-4" strokeWidth={3} /> : <X className="size-4" strokeWidth={3} />}{' '}
+              {flash.text}
             </motion.div>
           )}
         </AnimatePresence>
@@ -211,17 +248,21 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
           onClick={() => answer(false)}
           className="flex items-center justify-center gap-2 rounded-2xl border-b-4 border-rose-700 bg-rose-500 py-4 text-lg font-black text-white transition hover:bg-rose-400 active:translate-y-0.5 active:border-b-2"
         >
-          <CrossMark className="size-7" /> Sai <kbd className="hidden rounded bg-black/20 px-1.5 text-xs sm:inline">←</kbd>
+          <CrossMark className="size-7" /> Sai{' '}
+          <kbd className="hidden rounded bg-black/20 px-1.5 text-xs sm:inline">←</kbd>
         </button>
         <button
           type="button"
           onClick={() => answer(true)}
           className="flex items-center justify-center gap-2 rounded-2xl border-b-4 border-emerald-700 bg-emerald-500 py-4 text-lg font-black text-white transition hover:bg-emerald-400 active:translate-y-0.5 active:border-b-2"
         >
-          <CheckMarkButton className="size-7" /> Đúng <kbd className="hidden rounded bg-black/20 px-1.5 text-xs sm:inline">→</kbd>
+          <CheckMarkButton className="size-7" /> Đúng{' '}
+          <kbd className="hidden rounded bg-black/20 px-1.5 text-xs sm:inline">→</kbd>
         </button>
       </div>
-      <p className="text-center text-xs text-slate-500">Vuốt thẻ sang phải = Đúng, sang trái = Sai · trả lời sai bị trừ {PENALTY} giây</p>
+      <p className="text-center text-xs text-slate-500">
+        Vuốt thẻ sang phải = Đúng, sang trái = Sai · trả lời sai bị trừ {PENALTY} giây
+      </p>
     </div>
   )
 }
