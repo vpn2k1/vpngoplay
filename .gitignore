@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+# secrets (API keys, Supabase config) — never commit
+.env
+.env.*
+!.env.example
 
 # Editor directories and files
 .vscode/*

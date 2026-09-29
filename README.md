@@ -116,7 +116,7 @@ npm run vocab:enrich    # 2. gọi Claude API: nghĩa tiếng Việt, ví dụ, 
 npm run vocab:build     # 3. kiểm tra lại, sinh public/decks/<course>-<nnn>.json + public/courses/*.json
 ```
 
-Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, ghi vào file `.env.local` (đã có trong `.gitignore`), hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
+Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, ghi vào file `.env` (đã có trong `.gitignore`), hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
 
 ```bash
 npm run vocab:enrich -- --dry-run
@@ -180,53 +180,25 @@ Lệnh này chạy test trên **toàn bộ bộ bài**:
 
 App dùng 2 nguồn giọng, theo thứ tự ưu tiên:
 
-1. **File âm thanh neural tạo sẵn** (`public/audio/`, Google Cloud Text-to-Speech). Đọc rõ và giống nhau trên mọi thiết bị.
+1. **File âm thanh tạo sẵn** (`public/audio/`, Kokoro trên GitHub Actions). Đọc rõ và giống nhau trên mọi thiết bị.
 2. **Giọng của trình duyệt** (Web Speech API). App tự chấm điểm và chọn giọng tốt nhất, bỏ qua các giọng robot như "Albert" hay "Eddy" trên macOS. Người dùng có thể đổi giọng và tốc độ trong **Cài đặt**.
 
-Tạo file âm thanh (toàn bộ nội dung hiện có khoảng 2.800 ký tự, nằm trong gói miễn phí 1 triệu ký tự/tháng của Google):
+### Giọng đọc chuẩn trên mọi thiết bị (miễn phí, tự động)
 
-1. Vào Google Cloud Console, bật **Cloud Text-to-Speech API** và tạo một API key (nên giới hạn key chỉ dùng cho API này).
-2. Chạy lệnh:
+Mọi từ, câu ví dụ, câu luyện và nội dung Ngữ pháp & Phát âm đều có **file mp3 tạo sẵn** bằng model mã nguồn mở [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache 2.0).
+- Trình duyệt nào, máy nào (iPhone, Android, Windows, Mac…) cũng phát cùng một giọng, kể cả máy không có giọng tiếng Nhật hay tiếng Trung.
+- File được tạo **trên GitHub Actions** ([.github/workflows/audio.yml](.github/workflows/audio.yml)), không cần cài gì trên máy, không cần API key. Repo private có 2.000 phút chạy miễn phí mỗi tháng.
 
-```bash
-GOOGLE_TTS_API_KEY=xxx npm run audio
-```
+Cách workflow chạy:
+1. Mỗi lần push lên `main` có thay đổi nội dung (`public/decks`, `public/grammar`…), workflow chỉ tạo file cho câu mới hoặc câu đã sửa.
+2. Nó xoá file không còn dùng, ghi `public/audio/manifest.json`, rồi tự commit.
+3. Vercel deploy lại theo commit đó.
 
-`npm run audio -- --dry-run` sẽ liệt kê các câu cần tạo. Script chỉ tạo file cho câu mới hoặc đã sửa. Hãy commit thư mục `public/audio/` để Vercel phục vụ qua CDN; API key không bao giờ lên trình duyệt. Muốn đổi giọng thì đặt các biến `TTS_VOICE_EN`, `TTS_VOICE_JA`, `TTS_VOICE_ZH` (ví dụ `en-GB-Neural2-B` nếu cần giọng Anh-Anh cho IELTS).
+Chạy tay: GitHub → **Actions → Generate audio → Run workflow**. Trong lúc chờ, câu chưa có file sẽ dùng giọng có sẵn của máy.
 
-## Tài khoản & bảng xếp hạng (Supabase)
-
-Phần này không bắt buộc. Khi chưa cấu hình, app vẫn chạy như cũ và tiến độ lưu trên máy.
-
-Khi bật lên:
-- **Đăng nhập:** bằng link gửi qua email hoặc bằng Google (Cài đặt › Tài khoản & đồng bộ).
-- **Đồng bộ tiến độ:** XP, chuỗi ngày, lịch ôn flashcard, sổ từ và kỷ lục được lưu lên cloud khoảng 3 giây sau mỗi thay đổi, và cả khi đóng tab.
-  - Lần đăng nhập đầu, tiến độ trên máy được **gộp** vào tài khoản, không ghi đè: lịch ôn lấy thẻ đã ôn nhiều hơn, kỷ lục lấy điểm cao hơn, sổ từ gộp cả hai.
-- **Bảng xếp hạng** (nút 🏆 trên thanh trên cùng, `/leaderboard`): XP **tuần này** (từ thứ Hai, giờ Việt Nam), XP **mọi lúc**, và **điểm cao nhất theo từng trò chơi**.
-  - Bảng chỉ hiện tên hiển thị và avatar, người dùng tự đổi trong Cài đặt; email không bao giờ bị lộ.
-
-### Cài đặt
-
-1. Tạo project miễn phí ở [supabase.com](https://supabase.com).
-2. Vào **SQL Editor**, dán và chạy toàn bộ file [`supabase/migrations/0001_accounts_leaderboard.sql`](supabase/migrations/0001_accounts_leaderboard.sql). File này tạo các bảng, bật RLS, tạo trigger tạo hồ sơ khi đăng ký, và các hàm ghi điểm / xem bảng xếp hạng.
-3. **Authentication › URL Configuration:**
-   - **Site URL** là tên miền của app, ví dụ `https://vpngoplay.vercel.app`.
-   - Thêm vào **Redirect URLs** hai địa chỉ `https://vpngoplay.vercel.app/settings` và `http://localhost:5173/settings`.
-4. (Không bắt buộc) **Authentication › Providers › Google:** bật lên và điền Client ID/Secret tạo ở Google Cloud Console. Callback URL lấy ở chính trang đó.
-5. **Project Settings › API:** copy **Project URL** và **publishable/anon key**. Key này được phép nằm trên trình duyệt vì dữ liệu đã được RLS bảo vệ. Dán vào `.env.local` (xem [`.env.example`](.env.example)):
-
-   ```
-   VITE_SUPABASE_URL=https://xxxx.supabase.co
-   VITE_SUPABASE_KEY=sb_publishable_...
-   ```
-
-   Sau đó chạy lại `npm run dev`. Trên Vercel, thêm hai biến này ở **Settings › Environment Variables** rồi deploy lại.
-
-**Bảo mật:**
-- Tiến độ của mỗi người chỉ người đó đọc và ghi được.
-- Bảng xếp hạng đọc qua hàm `security definer` và chỉ trả về tên, avatar, điểm.
-- XP và điểm chỉ ghi được qua `record_daily_xp` / `submit_game_score`. Hai hàm này yêu cầu đăng nhập, giới hạn giá trị (tối đa 20.000 XP/ngày) và chỉ nhận ngày quanh hôm nay.
-- Điểm vẫn do trình duyệt gửi lên, nên người rành kỹ thuật có thể gian lận trong giới hạn đó. Muốn chặn hẳn thì phải tính điểm phía server.
+- **Giọng mặc định:** `af_heart` (Anh), `jf_alpha` (Nhật), `zf_xiaoxiao` (Trung). Đổi bằng biến `TTS_VOICE_EN`, `TTS_VOICE_JA`, `TTS_VOICE_ZH` trong workflow.
+- **Dùng Google Cloud TTS thay Kokoro:** cần key và bật thanh toán, rồi chạy `npm run audio -- --provider google` với `GOOGLE_TTS_API_KEY` trong `.env`.
+- **Khi đủ 27.000 từ** (khoảng 60.000 đoạn, vài trăm MB): nên đưa `public/audio/` lên Cloudflare R2 và đặt `VITE_AUDIO_BASE_URL`.
 
 ## Chạy local
 

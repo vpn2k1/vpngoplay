@@ -3,6 +3,7 @@ import { RouterProvider, createRouter } from '@tanstack/react-router'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
+import { installAudioUnlock } from './lib/audio-unlock'
 import { routeTree } from './routeTree.gen'
 
 const queryClient = new QueryClient({
@@ -22,6 +23,8 @@ declare module '@tanstack/react-router' {
     router: typeof router
   }
 }
+
+installAudioUnlock()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

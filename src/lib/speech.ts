@@ -85,9 +85,11 @@ function pickVoice(lang: Lang) {
 // Pre-generated neural audio (scripts/generate-audio.mjs). When a clip exists
 // for the exact text it is played; otherwise we fall back to the browser voice.
 type Manifest = Partial<Record<Lang, Record<string, string>>>
+// Clips are served with the app (public/audio) unless VITE_AUDIO_BASE_URL points elsewhere (e.g. R2).
+const AUDIO_BASE = ((import.meta.env.VITE_AUDIO_BASE_URL as string | undefined) || '/audio').replace(/\/$/, '')
 let manifest: Manifest = {}
 if (typeof window !== 'undefined') {
-  fetch('/audio/manifest.json')
+  fetch(`${AUDIO_BASE}/manifest.json`)
     .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : {}))
     .then((m: Manifest) => (manifest = m))
     .catch(() => {})
@@ -98,11 +100,17 @@ export function hasRecording(text: string, lang: Lang) {
 }
 
 let currentAudio: HTMLAudioElement | null = null
+// Chrome stops firing events for (and sometimes cuts off) utterances that get garbage collected.
+let currentUtterance: SpeechSynthesisUtterance | null = null
+let cancelledAt = 0
 
 export function stopSpeaking() {
   currentAudio?.pause()
   currentAudio = null
-  if (hasBrowserTts) speechSynthesis.cancel()
+  if (hasBrowserTts && (speechSynthesis.speaking || speechSynthesis.pending)) {
+    speechSynthesis.cancel()
+    cancelledAt = performance.now()
+  }
   speaking.set(false)
 }
 
@@ -114,8 +122,36 @@ function speakWithBrowser(text: string, lang: Lang, rate: number, voice?: Speech
   const chosen = voice ?? pickVoice(lang)
   if (chosen) utterance.voice = chosen
   utterance.onstart = () => speaking.set(true)
-  utterance.onend = utterance.onerror = () => speaking.set(false)
-  speechSynthesis.speak(utterance)
+  utterance.onend = utterance.onerror = () => {
+    if (currentUtterance === utterance) currentUtterance = null
+    speaking.set(false)
+  }
+  currentUtterance = utterance
+  const start = () => {
+    if (currentUtterance !== utterance) return
+    // Chrome can be left paused (e.g. after the tab was in the background) and then speaks nothing.
+    if (speechSynthesis.paused) speechSynthesis.resume()
+    speechSynthesis.speak(utterance)
+  }
+  // Chrome drops an utterance queued right after cancel(); give the cancel a moment to settle.
+  if (performance.now() - cancelledAt < 100) setTimeout(start, 80)
+  else start()
+}
+
+let unlocked = false
+
+/**
+ * Called from the first tap/click/key press. iOS Safari only lets pages speak after speaking
+ * once inside a user gesture, so a silent utterance is spoken then; later calls (e.g. a
+ * listening exercise that plays by itself) then work too.
+ */
+export function unlockSpeech() {
+  if (unlocked || !hasBrowserTts) return
+  unlocked = true
+  if (speechSynthesis.paused) speechSynthesis.resume()
+  const primer = new SpeechSynthesisUtterance(' ')
+  primer.volume = 0
+  speechSynthesis.speak(primer)
 }
 
 export function speak(text: string, lang: Lang, rate = 1) {
@@ -124,7 +160,7 @@ export function speak(text: string, lang: Lang, rate = 1) {
   const file = manifest[lang]?.[text]
   if (!file) return speakWithBrowser(text, lang, finalRate)
 
-  const audio = new Audio(`/audio/${file}`)
+  const audio = new Audio(`${AUDIO_BASE}/${file}`)
   audio.playbackRate = finalRate
   audio.onplay = () => speaking.set(true)
   audio.onended = audio.onpause = () => speaking.set(false)

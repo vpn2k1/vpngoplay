@@ -1,0 +1,86 @@
+# Generates the app's voice clips with Kokoro-82M (free, Apache-2.0) on GitHub's runners and
+# commits them to public/audio/, so every browser on every device plays the same voice and
+# nothing has to be installed locally. Vercel redeploys on the resulting commit.
+#
+# Runs when spoken content changes on main, or by hand (Actions → Generate audio → Run workflow).
+# Only new or changed texts are synthesised; clips no longer used are deleted.
+name: Generate audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - public/decks/**
+      - public/grammar/**
+      - scripts/generate-audio.mjs
+      - scripts/tts/**
+      - .github/workflows/audio.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-audio
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Plan missing clips
+        id: plan
+        run: |
+          node scripts/generate-audio.mjs --plan "$RUNNER_TEMP/jobs.json"
+          echo "count=$(node -e "console.log(require(process.argv[1]).length)" "$RUNNER_TEMP/jobs.json")" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@v5
+        if: steps.plan.outputs.count != '0'
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: scripts/tts/requirements.txt
+
+      - name: Cache Kokoro model
+        if: steps.plan.outputs.count != '0'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: kokoro-82m-v1
+
+      - name: Install Kokoro
+        if: steps.plan.outputs.count != '0'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq espeak-ng ffmpeg
+          pip install -r scripts/tts/requirements.txt
+          # fugashi prefers the full `unidic` (a separate 770 MB download); use unidic-lite instead.
+          pip uninstall -y unidic
+
+      - name: Synthesise
+        if: steps.plan.outputs.count != '0'
+        run: python scripts/tts/kokoro_tts.py "$RUNNER_TEMP/jobs.json"
+
+      - name: Write manifest
+        run: node scripts/generate-audio.mjs --manifest
+
+      - name: Commit clips
+        run: |
+          git add public/audio
+          if git diff --cached --quiet; then
+            echo "No audio changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Generate voice clips (Kokoro)"
+          # Content may have been pushed meanwhile; audio files never conflict with it.
+          git pull --rebase origin main
+          git push origin HEAD:main

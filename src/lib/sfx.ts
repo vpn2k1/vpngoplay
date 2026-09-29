@@ -3,12 +3,37 @@ import { useProgress } from './store'
 // Synthesised sound effects (Web Audio) — no asset files needed.
 let ctx: AudioContext | null = null
 
+/**
+ * The shared AudioContext, resumed if the browser started it suspended. Browsers only allow
+ * audio after a user gesture (on a new site — e.g. the Vercel domain — even when localhost
+ * was allowed), and a context created too early stays suspended until resume() is called.
+ */
+function audioContext() {
+  ctx ??= new AudioContext()
+  if (ctx.state === 'suspended') ctx.resume().catch(() => {})
+  return ctx
+}
+
+/** Called from the first tap/click/key press: starts the context and plays one silent sample (iOS). */
+export function unlockSfx() {
+  try {
+    const context = audioContext()
+    const src = context.createBufferSource()
+    src.buffer = context.createBuffer(1, 1, 22050)
+    src.connect(context.destination)
+    src.start()
+    return context.state === 'running'
+  } catch {
+    return false
+  }
+}
+
 type Note = [freq: number, start: number, duration: number, type?: OscillatorType, volume?: number]
 
 function play(notes: Note[]) {
   if (!useProgress.getState().settings.sound) return
   try {
-    ctx ??= new AudioContext()
+    const ctx = audioContext()
     const now = ctx.currentTime
     for (const [freq, start, duration, type = 'sine', volume = 0.12] of notes) {
       const osc = ctx.createOscillator()
@@ -30,7 +55,7 @@ function play(notes: Note[]) {
 function noise(duration: number, volume = 0.2, cutoff = 1200) {
   if (!useProgress.getState().settings.sound) return
   try {
-    ctx ??= new AudioContext()
+    const ctx = audioContext()
     const length = Math.floor(ctx.sampleRate * duration)
     const buffer = ctx.createBuffer(1, length, ctx.sampleRate)
     const data = buffer.getChannelData(0)

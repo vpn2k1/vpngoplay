@@ -1,0 +1,8 @@
+# Kokoro-82M text-to-speech (Apache-2.0), used by .github/workflows/audio.yml.
+# CPU-only PyTorch keeps the install small on CI runners.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+kokoro==0.9.4
+misaki[ja,zh]==0.9.4
+# Small Japanese dictionary for the Japanese G2P (the workflow removes the 770 MB `unidic` package).
+unidic-lite

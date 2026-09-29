@@ -16,7 +16,7 @@
 // batch id is kept in data/enriched/.batch.json, so re-running the command resumes instead of paying
 // twice. Batches don't support server-side fallbacks; the direct mode enables them.
 //
-// Credentials: ANTHROPIC_API_KEY (also read from .env.local), or a profile from `ant auth login`.
+// Credentials: ANTHROPIC_API_KEY (also read from .env), or a profile from `ant auth login`.
 // Output: data/enriched/<courseId>/<nnn>.json (existing files are skipped).
 import Anthropic from '@anthropic-ai/sdk'
 import { betaZodOutputFormat } from '@anthropic-ai/sdk/helpers/beta/zod'
@@ -34,8 +34,8 @@ const COURSES = join(ROOT, 'data', 'courses')
 const OUT = join(ROOT, 'data', 'enriched')
 const BATCH_STATE = join(OUT, '.batch.json')
 
-// A key kept in .env.local (git-ignored) works like an exported ANTHROPIC_API_KEY.
-if (existsSync(join(ROOT, '.env.local'))) process.loadEnvFile(join(ROOT, '.env.local'))
+// A key kept in .env (git-ignored) works like an exported ANTHROPIC_API_KEY.
+if (existsSync(join(ROOT, '.env'))) process.loadEnvFile(join(ROOT, '.env'))
 // An empty placeholder must not shadow other credential sources (e.g. an `ant auth login` profile).
 if (process.env.ANTHROPIC_API_KEY === '') delete process.env.ANTHROPIC_API_KEY
 
@@ -124,7 +124,7 @@ function createClient() {
     return client
   } catch {
     console.error(
-      'No Anthropic credentials: paste your key after ANTHROPIC_API_KEY= in .env.local (and save), export ANTHROPIC_API_KEY, or run `ant auth login`.',
+      'No Anthropic credentials: paste your key after ANTHROPIC_API_KEY= in .env (and save), export ANTHROPIC_API_KEY, or run `ant auth login`.',
     )
     process.exit(1)
   }
