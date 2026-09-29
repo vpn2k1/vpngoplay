@@ -35,3 +35,4 @@ public/decks/index.json
 # vocab pipeline downloads (re-fetched by npm run vocab:prepare)
 data/sources
 data/enriched/.batch.json
+__pycache__/
