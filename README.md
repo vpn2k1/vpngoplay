@@ -49,6 +49,35 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 
 Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ hiện lưu trong `localStorage`.
 
+## Ngữ pháp & Phát âm (tiếng Anh, `/grammar`)
+
+Mở từ thẻ **Ngữ pháp & Phát âm** ở trang học tiếng Anh. Có 27 chủ đề chia 3 nhóm:
+
+| Nhóm | Chủ đề | Lý thuyết |
+|---|---|---|
+| ⏳ Các thì | 12 thì và "Used to · Would · Be going to" | công thức khẳng định / phủ định / nghi vấn (với to be và động từ thường), cách dùng, dấu hiệu nhận biết, lưu ý |
+| 📖 Từ loại & cấu trúc | 11 chủ điểm: động từ, danh từ, tính từ, cụm động từ, động từ khuyết thiếu, mạo từ, từ hạn định, động từ nối, liên từ, đại từ, giới từ | khái niệm, vị trí, cấu trúc, cách dùng, dấu hiệu, trường hợp đặc biệt |
+| 🗣️ Phát âm IPA | nguyên âm đơn, nguyên âm đôi, phụ âm | mỗi âm có từ ví dụ kèm phiên âm, nghĩa và nút nghe |
+
+Mỗi chủ đề có bài luyện trắc nghiệm, tổng cộng 290 câu:
+- **Dạng câu hỏi:** điền chỗ trống, chọn đáp án, tìm từ có cách phát âm khác (chữ cái được gạch chân), tìm từ chứa âm.
+- **Sau mỗi câu:** có giải thích bằng tiếng Việt, và đọc to câu tiếng Anh đã điền đáp án.
+- **Tiến độ:** lưu kết quả tốt nhất (%) của từng chủ đề. Chủ đề đạt từ 80% được tính là "đã vững".
+
+Nội dung lấy từ phần dữ liệu đóng gói sẵn trong app NEnglish (`modules/*.ts`):
+
+```bash
+npm run grammar:import -- /Users/mn13/Projects/ReactNative/NEnglish
+```
+
+Script dùng TypeScript để đọc các module, chuẩn hoá rồi ghi vào `public/grammar/<topic>.json` và `index.json`:
+- ký hiệu IPA `:` → `ː`, `g` → `ɡ`;
+- tách ví dụ "câu (bản dịch)";
+- đáp án nhiều chỗ trống "an...the";
+- bỏ câu hỏi trùng.
+
+Từ vựng, hội thoại và bài nghe của NEnglish nằm trên Firebase Realtime Database. Database này đã bị tắt nên không lấy được; nếu có file export JSON thì có thể viết thêm bước nhập.
+
 ## Ôn tập (tab riêng, `/review`)
 
 - **Sổ từ:** bấm 🔖 cạnh một từ để lưu. Nút này có ở danh sách từ của bộ bài, mặt sau Flashcard và màn kết quả game (có thêm nút **Lưu tất cả** cho các từ bị lọt).
@@ -60,17 +89,24 @@ Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ hi�
 - **Xếp lịch ôn:** từ bị lọt vẫn được xếp lịch ôn trên thẻ gốc của nó.
 - **Lưu trữ:** sổ từ nằm trong `localStorage`, cùng với tiến độ học. Mỗi từ được lưu kèm bản sao nội dung nên không cần tải lại bộ bài.
 
-## Lộ trình ~3.000 từ mỗi cấp
+## Lộ trình 3.000 từ mỗi cấp
 
-Mỗi ngôn ngữ có 3 lộ trình **Cơ bản · Trung cấp · Nâng cao**, mỗi lộ trình khoảng 3.000 từ. Từ được chia thành các bài 20 từ, mỗi bài là một bộ bài bình thường nên dùng được cả 7 dạng ôn luyện. Trong tab Trò chơi có thể chọn cả lộ trình làm bộ từ, và từ bị lọt vẫn được xếp lịch ôn trong đúng bài của nó. Các bộ Trẻ em / Đi làm / Luyện thi được giữ lại dưới mục **Chủ đề**.
+Mỗi ngôn ngữ có 3 lộ trình **Cơ bản · Trung cấp · Nâng cao**, mỗi lộ trình 3.000 từ (150 bài). Từ được chia thành các bài 20 từ, mỗi bài là một bộ bài bình thường nên dùng được cả 7 dạng ôn luyện. Trong tab Trò chơi có thể chọn cả lộ trình làm bộ từ, và từ bị lọt vẫn được xếp lịch ôn trong đúng bài của nó. Các bộ Trẻ em / Đi làm / Luyện thi được giữ lại dưới mục **Chủ đề**.
 
 | | Cơ bản | Trung cấp | Nâng cao |
 |---|---|---|---|
-| 🇬🇧 Anh (CEFR) | A1–B1 · 2.882 từ | B1–B2 · 2.882 từ | B2–C2 · 2.880 từ |
-| 🇯🇵 Nhật (JLPT) | N5–N3 · 2.530 từ | N3–N1 · 2.530 từ | N1 · 2.530 từ |
+| 🇬🇧 Anh (CEFR) | A1–B1 · 3.000 từ | B1–B2 · 3.000 từ | B2–C2 · 3.000 từ |
+| 🇯🇵 Nhật (JLPT) | N5–N3 · 3.000 từ | N3–N1 · 3.000 từ | N1–N1+ · 3.000 từ |
 | 🇨🇳 Trung (HSK 3.0) | HSK1–4 · 3.000 từ | HSK4–7-9 · 3.000 từ | HSK7-9 · 3.000 từ |
 
-Tiếng Nhật chỉ khoảng 2.500 từ mỗi cấp vì danh sách JLPT mở có khoảng 7.600 từ dùng được.
+Trang lộ trình (`/courses/<id>`) luôn hiện đủ 150 bài, kể cả khi nội dung chưa soạn xong:
+- Bài đã soạn học được ngay; bài chưa soạn bị khoá và ghi "Đang soạn".
+- Tab **Danh sách 3.000 từ** xem được toàn bộ từ của cấp, tìm được theo từ, phiên âm hoặc nghĩa.
+- Từ đã soạn hiện nghĩa tiếng Việt; từ chưa soạn tạm hiện nghĩa tiếng Anh hoặc từ loại của danh sách gốc.
+
+Danh sách mở không đủ 9.000 từ cho mọi ngôn ngữ, nên phần thiếu được bổ sung theo tần suất:
+- **Tiếng Anh:** CEFR-J và Octanove có khoảng 8.640 từ; 356 từ còn lại lấy từ NGSL/NAWL (chủ yếu từ học thuật, gán cấp theo tần suất).
+- **Tiếng Nhật:** JLPT có khoảng 7.590 từ dùng được; 1.411 từ còn lại là từ thông dụng của JMdict chưa có trong danh sách JLPT, xếp theo hạng tần suất và ghi cấp **N1+**. Tiểu từ, tiền tố, hậu tố, cụm cố định và từ cổ bị loại.
 
 ### Pipeline dữ liệu (`scripts/vocab/`)
 
@@ -80,7 +116,7 @@ npm run vocab:enrich    # 2. gọi Claude API: nghĩa tiếng Việt, ví dụ, 
 npm run vocab:build     # 3. kiểm tra lại, sinh public/decks/<course>-<nnn>.json + public/courses/*.json
 ```
 
-Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
+Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, ghi vào file `.env.local` (đã có trong `.gitignore`), hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
 
 ```bash
 npm run vocab:enrich -- --dry-run
@@ -99,15 +135,19 @@ npm run vocab:enrich -- --course en-basic --limit 2
 
   Bài nào sai sẽ được gửi lại cho Claude kèm danh sách lỗi (tối đa 3 lần).
 - **Chạy tiếp và làm lại:** script chạy tiếp được sau khi bị ngắt, vì bài đã có file sẽ được bỏ qua. Làm lại một số bài bằng `--redo 7,12`.
-- **Model:** mặc định `claude-opus-5` với effort `medium`; đổi bằng `--model` / `--effort`. Script bật **server-side fallback** (`fallbacks: 'default'`): nếu model chính quá tải, API tự chuyển sang model dự phòng.
-- **Chi phí:** toàn bộ 1.265 bài (khoảng 25.000 từ) ước tính **khoảng $110** với Opus 5. Đây là ước tính thô vì số token suy nghĩ thay đổi; script in ra chi phí thực tế sau khi chạy.
+- **Batch API (khuyên dùng cho lần chạy lớn):** `npm run vocab:enrich -- --batch`. Script gửi mọi bài còn thiếu thành một batch và kiểm tra lại mỗi phút cho tới khi xong (thường dưới 1 giờ, tối đa 24 giờ). Sau đó nó kiểm tra từng bài và gửi lại các bài sai kèm danh sách lỗi (tối đa 3 vòng). Mã batch đang chờ được lưu ở `data/enriched/.batch.json`; nếu bị ngắt, chạy lại đúng lệnh đó để tiếp tục mà không trả tiền hai lần. Batch không hỗ trợ fallback.
+- **Model:** mặc định `claude-opus-5-5` với effort `medium`; đổi bằng `--model` / `--effort`. Chế độ gọi trực tiếp bật **server-side fallback** (`fallbacks: 'default'`): nếu model chính từ chối trả lời, API tự chuyển sang model dự phòng.
+- **Chi phí:** toàn bộ 1.348 bài (27.000 từ) ước tính **khoảng $46 qua Batch** hoặc **khoảng $93 nếu gọi trực tiếp**, với Opus 5.5. Đây là ước tính thô vì số token suy nghĩ thay đổi; script in ra chi phí thực tế sau khi chạy.
 
 ### Nguồn dữ liệu và giấy phép
 
 - **Tiếng Anh:**
   - [CEFR-J Wordlist 1.5](https://github.com/openlanguageprofiles/olp-en-cefrj), phải ghi nguồn: *Tono Lab, Tokyo University of Foreign Studies (2020)*.
   - [Octanove Vocabulary Profile C1/C2](https://github.com/openlanguageprofiles/olp-en-cefrj), giấy phép **CC BY-SA 4.0**: phần dữ liệu tiếng Anh dẫn xuất từ nguồn này phải giữ cùng giấy phép.
-- **Tiếng Nhật:** [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks), MIT, dựa trên danh sách của Jonathan Waller (tanos.co.uk).
+  - [NGSL 1.01 with SFI / NAWL](https://www.newgeneralservicelist.com/) của Browne, Culligan & Phillips, **CC BY-SA 4.0** (tải qua bản sao ở [antdurrant/word.lists](https://github.com/antdurrant/word.lists)).
+- **Tiếng Nhật:**
+  - [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks), MIT, dựa trên danh sách của Jonathan Waller (tanos.co.uk).
+  - [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) của Electronic Dictionary Research and Development Group, **CC BY-SA 4.0**, phải ghi nguồn EDRDG.
 - **Tiếng Trung:** [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary), MIT, theo chuẩn HSK 3.0.
 
 Nghĩa tiếng Việt, câu ví dụ và câu luyện tập được Claude sinh ra, sau đó kiểm tra tự động; vẫn nên rà soát lại trước khi phát hành.
@@ -153,6 +193,40 @@ GOOGLE_TTS_API_KEY=xxx npm run audio
 ```
 
 `npm run audio -- --dry-run` sẽ liệt kê các câu cần tạo. Script chỉ tạo file cho câu mới hoặc đã sửa. Hãy commit thư mục `public/audio/` để Vercel phục vụ qua CDN; API key không bao giờ lên trình duyệt. Muốn đổi giọng thì đặt các biến `TTS_VOICE_EN`, `TTS_VOICE_JA`, `TTS_VOICE_ZH` (ví dụ `en-GB-Neural2-B` nếu cần giọng Anh-Anh cho IELTS).
+
+## Tài khoản & bảng xếp hạng (Supabase)
+
+Phần này không bắt buộc. Khi chưa cấu hình, app vẫn chạy như cũ và tiến độ lưu trên máy.
+
+Khi bật lên:
+- **Đăng nhập:** bằng link gửi qua email hoặc bằng Google (Cài đặt › Tài khoản & đồng bộ).
+- **Đồng bộ tiến độ:** XP, chuỗi ngày, lịch ôn flashcard, sổ từ và kỷ lục được lưu lên cloud khoảng 3 giây sau mỗi thay đổi, và cả khi đóng tab.
+  - Lần đăng nhập đầu, tiến độ trên máy được **gộp** vào tài khoản, không ghi đè: lịch ôn lấy thẻ đã ôn nhiều hơn, kỷ lục lấy điểm cao hơn, sổ từ gộp cả hai.
+- **Bảng xếp hạng** (nút 🏆 trên thanh trên cùng, `/leaderboard`): XP **tuần này** (từ thứ Hai, giờ Việt Nam), XP **mọi lúc**, và **điểm cao nhất theo từng trò chơi**.
+  - Bảng chỉ hiện tên hiển thị và avatar, người dùng tự đổi trong Cài đặt; email không bao giờ bị lộ.
+
+### Cài đặt
+
+1. Tạo project miễn phí ở [supabase.com](https://supabase.com).
+2. Vào **SQL Editor**, dán và chạy toàn bộ file [`supabase/migrations/0001_accounts_leaderboard.sql`](supabase/migrations/0001_accounts_leaderboard.sql). File này tạo các bảng, bật RLS, tạo trigger tạo hồ sơ khi đăng ký, và các hàm ghi điểm / xem bảng xếp hạng.
+3. **Authentication › URL Configuration:**
+   - **Site URL** là tên miền của app, ví dụ `https://vpngoplay.vercel.app`.
+   - Thêm vào **Redirect URLs** hai địa chỉ `https://vpngoplay.vercel.app/settings` và `http://localhost:5173/settings`.
+4. (Không bắt buộc) **Authentication › Providers › Google:** bật lên và điền Client ID/Secret tạo ở Google Cloud Console. Callback URL lấy ở chính trang đó.
+5. **Project Settings › API:** copy **Project URL** và **publishable/anon key**. Key này được phép nằm trên trình duyệt vì dữ liệu đã được RLS bảo vệ. Dán vào `.env.local` (xem [`.env.example`](.env.example)):
+
+   ```
+   VITE_SUPABASE_URL=https://xxxx.supabase.co
+   VITE_SUPABASE_KEY=sb_publishable_...
+   ```
+
+   Sau đó chạy lại `npm run dev`. Trên Vercel, thêm hai biến này ở **Settings › Environment Variables** rồi deploy lại.
+
+**Bảo mật:**
+- Tiến độ của mỗi người chỉ người đó đọc và ghi được.
+- Bảng xếp hạng đọc qua hàm `security definer` và chỉ trả về tên, avatar, điểm.
+- XP và điểm chỉ ghi được qua `record_daily_xp` / `submit_game_score`. Hai hàm này yêu cầu đăng nhập, giới hạn giá trị (tối đa 20.000 XP/ngày) và chỉ nhận ngày quanh hôm nay.
+- Điểm vẫn do trình duyệt gửi lên, nên người rành kỹ thuật có thể gian lận trong giới hạn đó. Muốn chặn hẳn thì phải tính điểm phía server.
 
 ## Chạy local
 

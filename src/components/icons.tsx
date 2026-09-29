@@ -33,6 +33,9 @@ import Hamster from '~icons/fluent-emoji-flat/hamster'
 import KnockedOutFace from '~icons/fluent-emoji-flat/knocked-out-face'
 import SquintingFaceWithTongue from '~icons/fluent-emoji-flat/squinting-face-with-tongue'
 import Headphone from '~icons/fluent-emoji-flat/headphone'
+import HourglassDone from '~icons/fluent-emoji-flat/hourglass-done'
+import OpenBook from '~icons/fluent-emoji-flat/open-book'
+import SpeakingHead from '~icons/fluent-emoji-flat/speaking-head'
 import Herb from '~icons/fluent-emoji-flat/herb'
 import HighVoltage from '~icons/fluent-emoji-flat/high-voltage'
 import Rabbit from '~icons/fluent-emoji-flat/rabbit-face'
@@ -61,7 +64,7 @@ import Trophy from '~icons/fluent-emoji-flat/trophy'
 import WavingHand from '~icons/fluent-emoji-flat/waving-hand'
 import WhiteHeart from '~icons/fluent-emoji-flat/white-heart'
 import WorldMap from '~icons/fluent-emoji-flat/world-map'
-import type { CourseLevel, GameSpeed, Lang, Track } from '../lib/types'
+import type { CourseLevel, GameSpeed, GrammarGroup, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
 
@@ -110,6 +113,12 @@ const MODE_ICON: Record<string, IconType> = {
   listen: Ear,
 }
 
+export const GRAMMAR_ICON: Record<GrammarGroup, IconType> = {
+  tenses: HourglassDone,
+  grammar: OpenBook,
+  sounds: SpeakingHead,
+}
+
 export const SPEED_ICON: Record<GameSpeed, IconType> = { slow: Turtle, normal: Rabbit, fast: HighVoltage }
 
 export function ModeIcon({ mode, className }: { mode: { id: string; icon: string }; className?: string }) {
@@ -124,6 +133,7 @@ export function ModeIcon({ mode, className }: { mode: { id: string; icon: string
 
 export {
   BookmarkTabs,
+  OpenBook,
   Books,
   CheckMarkButton,
   CrossMark,

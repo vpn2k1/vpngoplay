@@ -102,6 +102,20 @@ export interface CourseLesson {
   lesson: number
   preview: string[]
   wordCount: number
+  /** false until the lesson's Vietnamese content has been generated (scripts/vocab) */
+  ready: boolean
+}
+
+/** One row of a course's full word list (public/courses/<id>.words.json). */
+export interface CourseWordEntry {
+  term: string
+  reading: string
+  /** Vietnamese meaning, once the word's lesson is ready */
+  meaning?: string
+  /** English gloss from the source list, until then */
+  gloss?: string
+  level: string
+  lesson: number
 }
 
 /** A course as one deck (every built word, for games) plus its lesson list. */
@@ -120,4 +134,71 @@ export const GAME_SPEEDS: Record<GameSpeed, { label: string; hint: string; pace:
   slow: { label: 'Chậm', hint: 'Thong thả, nhiều thời gian nghĩ', pace: 0.5 },
   normal: { label: 'Vừa', hint: 'Phù hợp đa số người học', pace: 0.7 },
   fast: { label: 'Nhanh', hint: 'Khi đã thuộc từ', pace: 1 },
+}
+
+// --- Grammar & pronunciation (English; imported from NEnglish by scripts/import-nenglish.mjs)
+
+export type GrammarGroup = 'tenses' | 'grammar' | 'sounds'
+
+export const GRAMMAR_GROUPS: Record<GrammarGroup, { title: string; hint: string }> = {
+  tenses: { title: 'Các thì', hint: 'Công thức, cách dùng, dấu hiệu nhận biết của 12 thì' },
+  grammar: { title: 'Từ loại & cấu trúc', hint: 'Động từ, danh từ, mạo từ, giới từ…' },
+  sounds: { title: 'Phát âm IPA', hint: 'Nhận biết nguyên âm, nguyên âm đôi và phụ âm' },
+}
+
+export interface GrammarTopicSummary {
+  id: string
+  group: GrammarGroup
+  title: string
+  subtitle: string
+  questionCount: number
+}
+
+export interface GrammarOption {
+  id: string
+  text: string
+  /** Letters to underline (find the word with a different sound) */
+  underline?: string
+  ipa?: string
+  meaning?: string
+}
+
+export interface GrammarQuestion {
+  id: string
+  /** choice: pick the answer · blank: fill the gap · different: odd one out · sound: word with the sound */
+  kind: 'choice' | 'blank' | 'different' | 'sound'
+  prompt: string
+  symbol?: string
+  options: GrammarOption[]
+  /** id of the correct option */
+  answer: string
+  explain: string
+}
+
+export interface GrammarExample {
+  en: string
+  vi?: string
+}
+
+export interface GrammarStructure {
+  label?: string
+  formula: string
+  examples: GrammarExample[]
+  note?: string
+  details?: string
+  rules?: string[]
+}
+
+export interface GrammarTheory {
+  forms?: { title: string; variants: GrammarStructure[] }[]
+  usage?: { definition: string; examples: GrammarExample[] }
+  signalWords?: string[]
+  notes?: string[]
+  sections?: { title: string; items: string[] }[]
+  sounds?: { symbol: string; examples: { word: string; ipa: string; meaning: string }[] }[]
+}
+
+export interface GrammarTopic extends Omit<GrammarTopicSummary, 'questionCount'> {
+  theory: GrammarTheory | null
+  questions: GrammarQuestion[]
 }

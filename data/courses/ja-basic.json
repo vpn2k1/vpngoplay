@@ -5,8 +5,8 @@
   "level": "basic",
   "title": "Cơ bản",
   "range": "N5–N3",
-  "wordCount": 2530,
-  "lessonCount": 127
+  "wordCount": 3000,
+  "lessonCount": 150
  },
  "words": [
   {
@@ -20246,6 +20246,3766 @@
    "reading": "けってん · ketten",
    "kana": "けってん",
    "gloss": "faults, defect, weakness",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "貯金",
+   "reading": "ちょきん · chokin",
+   "kana": "ちょきん",
+   "gloss": "(bank) savings",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "公演",
+   "reading": "こうえん · kouen",
+   "kana": "こうえん",
+   "gloss": "public performance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "咳",
+   "reading": "せき · seki",
+   "kana": "せき",
+   "gloss": "cough",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "丸",
+   "reading": "まる · maru",
+   "kana": "まる",
+   "gloss": "circle, full (month)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "単語",
+   "reading": "たんご · tango",
+   "kana": "たんご",
+   "gloss": "word; vocabulary",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "一層",
+   "reading": "いっそう · issou",
+   "kana": "いっそう",
+   "gloss": "much more, still more",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "具える",
+   "reading": "そなえる · sonaeru",
+   "kana": "そなえる",
+   "gloss": "to be furnished with",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "馬",
+   "reading": "うま · uma",
+   "kana": "うま",
+   "gloss": "horse; promoted bishop (in Japanese chess known as shogi)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "感想",
+   "reading": "かんそう · kansou",
+   "kana": "かんそう",
+   "gloss": "(one's) impressions, (one's) thoughts",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "バランス",
+   "reading": "baransu",
+   "kana": "バランス",
+   "gloss": "balance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "銃",
+   "reading": "じゅう · juu",
+   "kana": "じゅう",
+   "gloss": "gun",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "解く",
+   "reading": "とく · toku",
+   "kana": "とく",
+   "gloss": "to unfasten; answer, solve",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "予想",
+   "reading": "よそう · yosou",
+   "kana": "よそう",
+   "gloss": "expectation, anticipation, prediction",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "大陸",
+   "reading": "たいりく · tairiku",
+   "kana": "たいりく",
+   "gloss": "continent",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "電子",
+   "reading": "でんし · denshi",
+   "kana": "でんし",
+   "gloss": "electron; electronic",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "親友",
+   "reading": "しんゆう · shin'yuu",
+   "kana": "しんゆう",
+   "gloss": "close friend, buddy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "働き",
+   "reading": "はたらき · hataraki",
+   "kana": "はたらき",
+   "gloss": "work, labor",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "過程",
+   "reading": "かてい · katei",
+   "kana": "かてい",
+   "gloss": "process",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "哲学",
+   "reading": "てつがく · tetsugaku",
+   "kana": "てつがく",
+   "gloss": "philosophy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "デザイン",
+   "reading": "dezain",
+   "kana": "デザイン",
+   "gloss": "design",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "正体",
+   "reading": "しょうたい · shoutai",
+   "kana": "しょうたい",
+   "gloss": "natural shape, one's true colors, true character",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "道路",
+   "reading": "どうろ · douro",
+   "kana": "どうろ",
+   "gloss": "road",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ボール",
+   "reading": "booru",
+   "kana": "ボール",
+   "gloss": "ball; bowl",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "順番",
+   "reading": "じゅんばん · junban",
+   "kana": "じゅんばん",
+   "gloss": "turn (in line), order of things",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "渦",
+   "reading": "うず · uzu",
+   "kana": "うず",
+   "gloss": "swirl",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "変更",
+   "reading": "へんこう · henkou",
+   "kana": "へんこう",
+   "gloss": "change, modification, alteration",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "驚き",
+   "reading": "おどろき · odoroki",
+   "kana": "おどろき",
+   "gloss": "surprise, astonishment, wonder",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "一生",
+   "reading": "いっしょう · isshou",
+   "kana": "いっしょう",
+   "gloss": "throughout (one's) life",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "一方",
+   "reading": "いっぽう · ippou",
+   "kana": "いっぽう",
+   "gloss": "on the other hand; meanwhile",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "観察",
+   "reading": "かんさつ · kansatsu",
+   "kana": "かんさつ",
+   "gloss": "observation, survey",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "女優",
+   "reading": "じょゆう · joyuu",
+   "kana": "じょゆう",
+   "gloss": "actress",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "遅れ",
+   "reading": "おくれ · okure",
+   "kana": "おくれ",
+   "gloss": "delay, lag",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "新鮮",
+   "reading": "しんせん · shinsen",
+   "kana": "しんせん",
+   "gloss": "fresh",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "主に",
+   "reading": "おもに · omoni",
+   "kana": "おもに",
+   "gloss": "mainly, primarily",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "思わず",
+   "reading": "おもわず · omowazu",
+   "kana": "おもわず",
+   "gloss": "unintentional, spontaneous",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "留める",
+   "reading": "とめる · tomeru",
+   "kana": "とめる",
+   "gloss": "to fasten, to turn off, to detain",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "強力",
+   "reading": "きょうりょく · kyouryoku",
+   "kana": "きょうりょく",
+   "gloss": "powerful, strong",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "指導",
+   "reading": "しどう · shidou",
+   "kana": "しどう",
+   "gloss": "leadership, guidance, coaching",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "付ける",
+   "reading": "つける · tsukeru",
+   "kana": "つける",
+   "gloss": "to attach, to join, to add",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "次々",
+   "reading": "つぎつぎ · tsugitsugi",
+   "kana": "つぎつぎ",
+   "gloss": "in succession, one by one",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ところで",
+   "reading": "tokorode",
+   "kana": "ところで",
+   "gloss": "by the way; even if",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "禅",
+   "reading": "ぜん · zen",
+   "kana": "ぜん",
+   "gloss": "Zen (Buddhism)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "缶",
+   "reading": "かん · kan",
+   "kana": "かん",
+   "gloss": "can, tin",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "永久",
+   "reading": "えいきゅう · eikyuu",
+   "kana": "えいきゅう",
+   "gloss": "eternity, perpetuity, immortality",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "現場",
+   "reading": "げんば · genba",
+   "kana": "げんば",
+   "gloss": "actual spot, scene, field",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "建つ",
+   "reading": "たつ · tatsu",
+   "kana": "たつ",
+   "gloss": "to stand; to be built (v.i.), to erect, to be erected",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "改善",
+   "reading": "かいぜん · kaizen",
+   "kana": "かいぜん",
+   "gloss": "betterment, improvement",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "尊敬",
+   "reading": "そんけい · sonkei",
+   "kana": "そんけい",
+   "gloss": "respect, reverence, honor",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "コーチ",
+   "reading": "koochi",
+   "kana": "コーチ",
+   "gloss": "coach",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ずれる",
+   "reading": "zureru",
+   "kana": "ずれる",
+   "gloss": "move, off the point",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "刈る",
+   "reading": "かる · karu",
+   "kana": "かる",
+   "gloss": "to cut (hair), to mow (grass), to harvest",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "経営",
+   "reading": "けいえい · keiei",
+   "kana": "けいえい",
+   "gloss": "management, administration",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "命令",
+   "reading": "めいれい · meirei",
+   "kana": "めいれい",
+   "gloss": "order, command, decree",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "実行",
+   "reading": "じっこう · jikkou",
+   "kana": "じっこう",
+   "gloss": "practice, execution (e.g., program), realization",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "読書",
+   "reading": "どくしょ · dokusho",
+   "kana": "どくしょ",
+   "gloss": "reading",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "尻",
+   "reading": "しり · shiri",
+   "kana": "しり",
+   "gloss": "buttocks, bottom",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "適する",
+   "reading": "てきする · tekisuru",
+   "kana": "てきする",
+   "gloss": "to fit, to suit",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "スケート",
+   "reading": "sukeeto",
+   "kana": "スケート",
+   "gloss": "skate(s), skating",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "塔",
+   "reading": "とう · tou",
+   "kana": "とう",
+   "gloss": "tower, pagoda",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "株",
+   "reading": "かぶ · kabu",
+   "kana": "かぶ",
+   "gloss": "stock; stump (of tree)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ところが",
+   "reading": "tokoroga",
+   "kana": "ところが",
+   "gloss": "however, while, even if",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "結論",
+   "reading": "けつろん · ketsuron",
+   "kana": "けつろん",
+   "gloss": "conclusion",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "脂",
+   "reading": "あぶら · abura",
+   "kana": "あぶら",
+   "gloss": "fat",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "しきりに",
+   "reading": "shikirini",
+   "kana": "しきりに",
+   "gloss": "frequently, repeatedly, eagerly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "率",
+   "reading": "りつ · ritsu",
+   "kana": "りつ",
+   "gloss": "rate, ratio, percentage",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "食欲",
+   "reading": "しょくよく · shokuyoku",
+   "kana": "しょくよく",
+   "gloss": "appetite (for food)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "順調",
+   "reading": "じゅんちょう · junchou",
+   "kana": "じゅんちょう",
+   "gloss": "doing well",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "延びる",
+   "reading": "のびる · nobiru",
+   "kana": "のびる",
+   "gloss": "to be prolonged",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "含む",
+   "reading": "ふくむ · fukumu",
+   "kana": "ふくむ",
+   "gloss": "to contain, to include",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "刑事",
+   "reading": "けいじ · keiji",
+   "kana": "けいじ",
+   "gloss": "criminal case, (police) detective",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "相手",
+   "reading": "あいて · aite",
+   "kana": "あいて",
+   "gloss": "partner; addressee; the person you are talking to",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "秒",
+   "reading": "びょう · byou",
+   "kana": "びょう",
+   "gloss": "second (60th min)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "誘う",
+   "reading": "さそう · sasou",
+   "kana": "さそう",
+   "gloss": "to invite (someone to do something with you); to tempt, to lure",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "根",
+   "reading": "ね · ne",
+   "kana": "ね",
+   "gloss": "root",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "警告",
+   "reading": "けいこく · keikoku",
+   "kana": "けいこく",
+   "gloss": "warning",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "診察",
+   "reading": "しんさつ · shinsatsu",
+   "kana": "しんさつ",
+   "gloss": "medical examination (of a patient)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "学期",
+   "reading": "がっき · gakki",
+   "kana": "がっき",
+   "gloss": "term (school)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "銀",
+   "reading": "ぎん · gin",
+   "kana": "ぎん",
+   "gloss": "silver",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "冒険",
+   "reading": "ぼうけん · bouken",
+   "kana": "ぼうけん",
+   "gloss": "risk, venture, adventure",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "制限",
+   "reading": "せいげん · seigen",
+   "kana": "せいげん",
+   "gloss": "restriction, restraint, limitation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "知能",
+   "reading": "ちのう · chinou",
+   "kana": "ちのう",
+   "gloss": "intelligence, brains",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "チーム",
+   "reading": "chiimu",
+   "kana": "チーム",
+   "gloss": "team",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "大会",
+   "reading": "たいかい · taikai",
+   "kana": "たいかい",
+   "gloss": "convention, (big) tournament, mass meeting",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "だが",
+   "reading": "daga",
+   "kana": "だが",
+   "gloss": "but, however",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "譲る",
+   "reading": "ゆずる · yuzuru",
+   "kana": "ゆずる",
+   "gloss": "to turn over, to assign, to hand over",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "左右",
+   "reading": "さゆう · sayuu",
+   "kana": "さゆう",
+   "gloss": "left and right; influence",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "修飾",
+   "reading": "しゅうしょく · shuushoku",
+   "kana": "しゅうしょく",
+   "gloss": "ornamentation; modification (gram)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "便り",
+   "reading": "たより · tayori",
+   "kana": "たより",
+   "gloss": "news, correspondence, letter",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ミス",
+   "reading": "misu",
+   "kana": "ミス",
+   "gloss": "miss (mistake, error, failure), Miss",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "承認",
+   "reading": "しょうにん · shounin",
+   "kana": "しょうにん",
+   "gloss": "recognition, approval",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "見事",
+   "reading": "みごと · migoto",
+   "kana": "みごと",
+   "gloss": "splendid, magnificent",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "必ずしも",
+   "reading": "かならずしも · kanarazushimo",
+   "kana": "かならずしも",
+   "gloss": "(not) always, (not) necessarily",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "契機",
+   "reading": "けいき · keiki",
+   "kana": "けいき",
+   "gloss": "opportunity, chance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ラケット",
+   "reading": "raketto",
+   "kana": "ラケット",
+   "gloss": "racket",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "絶滅",
+   "reading": "ぜつめつ · zetsumetsu",
+   "kana": "ぜつめつ",
+   "gloss": "destruction, extinction",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "表現",
+   "reading": "ひょうげん · hyougen",
+   "kana": "ひょうげん",
+   "gloss": "expression, presentation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "隠れる",
+   "reading": "かくれる · kakureru",
+   "kana": "かくれる",
+   "gloss": "to hide, to be hidden",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "思い出",
+   "reading": "おもいで · omoide",
+   "kana": "おもいで",
+   "gloss": "memories, recollections, reminiscence",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "スター",
+   "reading": "sutaa",
+   "kana": "スター",
+   "gloss": "star",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "向ける",
+   "reading": "むける · mukeru",
+   "kana": "むける",
+   "gloss": "to turn towards, to point",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "逮捕",
+   "reading": "たいほ · taiho",
+   "kana": "たいほ",
+   "gloss": "arrest, apprehension, capture",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "夫人",
+   "reading": "ふじん · fujin",
+   "kana": "ふじん",
+   "gloss": "wife, Mrs, madam",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "発射",
+   "reading": "はっしゃ · hassha",
+   "kana": "はっしゃ",
+   "gloss": "firing, shooting, discharge",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "訓",
+   "reading": "くん · kun",
+   "kana": "くん",
+   "gloss": "native Japanese reading of a Chinese character",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "飽きる",
+   "reading": "あきる · akiru",
+   "kana": "あきる",
+   "gloss": "to get tired of, to lose interest in",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "いらいら",
+   "reading": "iraira",
+   "kana": "いらいら",
+   "gloss": "getting nervous, irritation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "方法",
+   "reading": "ほうほう · houhou",
+   "kana": "ほうほう",
+   "gloss": "method, means, technique",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "助手",
+   "reading": "じょしゅ · joshu",
+   "kana": "じょしゅ",
+   "gloss": "helper, assistant",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "暖める",
+   "reading": "あたためる · atatameru",
+   "kana": "あたためる",
+   "gloss": "to warm (up to someone/something), to heat (up to someone/something)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "資源",
+   "reading": "しげん · shigen",
+   "kana": "しげん",
+   "gloss": "resources",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "円",
+   "reading": "まる · maru",
+   "kana": "まる",
+   "gloss": "circle",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "面倒",
+   "reading": "めんどう · mendou",
+   "kana": "めんどう",
+   "gloss": "trouble, attention",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "労働",
+   "reading": "ろうどう · roudou",
+   "kana": "ろうどう",
+   "gloss": "labor, work",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "土産",
+   "reading": "みやげ · miyage",
+   "kana": "みやげ",
+   "gloss": "souvenir",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "有無",
+   "reading": "うむ · umu",
+   "kana": "うむ",
+   "gloss": "yes or no, presence or absence",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "昨",
+   "reading": "さく · saku",
+   "kana": "さく",
+   "gloss": "last (year), yesterday",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "筋",
+   "reading": "すじ · suji",
+   "kana": "すじ",
+   "gloss": "muscle, string, line",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "予算",
+   "reading": "よさん · yosan",
+   "kana": "よさん",
+   "gloss": "estimate, budget",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "効果",
+   "reading": "こうか · kouka",
+   "kana": "こうか",
+   "gloss": "effect, result",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "永遠",
+   "reading": "えいえん · eien",
+   "kana": "えいえん",
+   "gloss": "eternity, perpetuity, immortality",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "助かる",
+   "reading": "たすかる · tasukaru",
+   "kana": "たすかる",
+   "gloss": "to be saved; (something) helps (v.i.)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "混雑",
+   "reading": "こんざつ · konzatsu",
+   "kana": "こんざつ",
+   "gloss": "confusion, congestion",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "時刻",
+   "reading": "じこく · jikoku",
+   "kana": "じこく",
+   "gloss": "time, hour",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "人気",
+   "reading": "にんき · ninki",
+   "kana": "にんき",
+   "gloss": "popularity",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "飛び出す",
+   "reading": "とびだす · tobidasu",
+   "kana": "とびだす",
+   "gloss": "to jump out, to rush out, to fly out",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "気温",
+   "reading": "きおん · kion",
+   "kana": "きおん",
+   "gloss": "temperature (weather - not used for things)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "穏やか",
+   "reading": "おだやか · odayaka",
+   "kana": "おだやか",
+   "gloss": "calm, gentle, quiet",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "雰囲気",
+   "reading": "ふんいき · fun'iki",
+   "kana": "ふんいき",
+   "gloss": "atmosphere (e.g., musical), mood, ambiance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "可愛らしい",
+   "reading": "かわいらしい · kawairashii",
+   "kana": "かわいらしい",
+   "gloss": "lovely, sweet",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "噂",
+   "reading": "うわさ · uwasa",
+   "kana": "うわさ",
+   "gloss": "rumor, gossip",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "貝",
+   "reading": "かい · kai",
+   "kana": "かい",
+   "gloss": "shell, shellfish",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "欠席",
+   "reading": "けっせき · kesseki",
+   "kana": "けっせき",
+   "gloss": "absence, non-attendance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "正午",
+   "reading": "しょうご · shougo",
+   "kana": "しょうご",
+   "gloss": "noon, mid-day",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "トランプ",
+   "reading": "toranpu",
+   "kana": "トランプ",
+   "gloss": "playing cards (lit: trump)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "増やす",
+   "reading": "ふやす · fuyasu",
+   "kana": "ふやす",
+   "gloss": "to increase (v.t.), to add to",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "いつでも",
+   "reading": "itsudemo",
+   "kana": "いつでも",
+   "gloss": "(at) any time, always",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "種",
+   "reading": "たね · tane",
+   "kana": "たね",
+   "gloss": "seed; material; cause",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "宣伝",
+   "reading": "せんでん · senden",
+   "kana": "せんでん",
+   "gloss": "advertisement, publicity",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "討つ",
+   "reading": "うつ · utsu",
+   "kana": "うつ",
+   "gloss": "to attack, to avenge",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "要点",
+   "reading": "ようてん · youten",
+   "kana": "ようてん",
+   "gloss": "gist, main point",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "上京",
+   "reading": "じょうきょう · joukyou",
+   "kana": "じょうきょう",
+   "gloss": "proceeding to the capital (Tokyo)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "上る",
+   "reading": "のぼる · noboru",
+   "kana": "のぼる",
+   "gloss": "to ascend, to go up, to climb",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "奥",
+   "reading": "おく · oku",
+   "kana": "おく",
+   "gloss": "interior, inner part",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "コード",
+   "reading": "koodo",
+   "kana": "コード",
+   "gloss": "code; cord; chord",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "溶く",
+   "reading": "とく · toku",
+   "kana": "とく",
+   "gloss": "to dissolve (paint)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "職業",
+   "reading": "しょくぎょう · shokugyou",
+   "kana": "しょくぎょう",
+   "gloss": "occupation, business",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "直接",
+   "reading": "ちょくせつ · chokusetsu",
+   "kana": "ちょくせつ",
+   "gloss": "direct, immediate, firsthand",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "傾向",
+   "reading": "けいこう · keikou",
+   "kana": "けいこう",
+   "gloss": "tendency, trend, inclination",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "違い",
+   "reading": "ちがい · chigai",
+   "kana": "ちがい",
+   "gloss": "difference, discrepancy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "友情",
+   "reading": "ゆうじょう · yuujou",
+   "kana": "ゆうじょう",
+   "gloss": "friendship, fellowship",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "正式",
+   "reading": "せいしき · seishiki",
+   "kana": "せいしき",
+   "gloss": "official, formal",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "外す",
+   "reading": "はずす · hazusu",
+   "kana": "はずす",
+   "gloss": "to unfasten, to remove",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "賭ける",
+   "reading": "かける · kakeru",
+   "kana": "かける",
+   "gloss": "to bet, to risk, to gamble",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "対照",
+   "reading": "たいしょう · taishou",
+   "kana": "たいしょう",
+   "gloss": "contrast, antithesis, comparison",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "生",
+   "reading": "なま · nama",
+   "kana": "なま",
+   "gloss": "raw, unprocessed",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "明ける",
+   "reading": "あける · akeru",
+   "kana": "あける",
+   "gloss": "to dawn, to become daylight",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "食物",
+   "reading": "しょくもつ · shokumotsu",
+   "kana": "しょくもつ",
+   "gloss": "food, foodstuff",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "想像",
+   "reading": "そうぞう · souzou",
+   "kana": "そうぞう",
+   "gloss": "imagination, guess",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "うっかり",
+   "reading": "ukkari",
+   "kana": "うっかり",
+   "gloss": "carelessly; inadvertently",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "追い付く",
+   "reading": "おいつく · oitsuku",
+   "kana": "おいつく",
+   "gloss": "to overtake, to catch up (with)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "説く",
+   "reading": "とく · toku",
+   "kana": "とく",
+   "gloss": "to explain, to advocate",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "署名",
+   "reading": "しょめい · shomei",
+   "kana": "しょめい",
+   "gloss": "signature",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "結ぶ",
+   "reading": "むすぶ · musubu",
+   "kana": "むすぶ",
+   "gloss": "to tie, to bind, to link",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "美人",
+   "reading": "びじん · bijin",
+   "kana": "びじん",
+   "gloss": "beautiful person (woman)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "役",
+   "reading": "やく · yaku",
+   "kana": "やく",
+   "gloss": "role, position",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ハイキング",
+   "reading": "haikingu",
+   "kana": "ハイキング",
+   "gloss": "hiking",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "しばしば",
+   "reading": "shibashiba",
+   "kana": "しばしば",
+   "gloss": "often, again and again, frequently",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "苦しむ",
+   "reading": "くるしむ · kurushimu",
+   "kana": "くるしむ",
+   "gloss": "to suffer, to groan, to be worried",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "死",
+   "reading": "し · shi",
+   "kana": "し",
+   "gloss": "death, decease",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "スタンド",
+   "reading": "sutando",
+   "kana": "スタンド",
+   "gloss": "stand",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "単なる",
+   "reading": "たんなる · tannaru",
+   "kana": "たんなる",
+   "gloss": "mere, simple, sheer",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "官僚",
+   "reading": "かんりょう · kanryou",
+   "kana": "かんりょう",
+   "gloss": "bureaucrat, bureaucracy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "センター",
+   "reading": "sentaa",
+   "kana": "センター",
+   "gloss": "center",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "菌",
+   "reading": "きん · kin",
+   "kana": "きん",
+   "gloss": "germ, bacterium",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "審判",
+   "reading": "しんぱん · shinpan",
+   "kana": "しんぱん",
+   "gloss": "umpire, referee, judgment",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "平等",
+   "reading": "びょうどう · byoudou",
+   "kana": "びょうどう",
+   "gloss": "equality, impartiality, evenness",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "苦労",
+   "reading": "くろう · kurou",
+   "kana": "くろう",
+   "gloss": "hardship; suffering",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "そのまま",
+   "reading": "sonomama",
+   "kana": "そのまま",
+   "gloss": "without change, as it is (e.g., now)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "加わる",
+   "reading": "くわわる · kuwawaru",
+   "kana": "くわわる",
+   "gloss": "to join in, to accede to",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "克服",
+   "reading": "こくふく · kokufuku",
+   "kana": "こくふく",
+   "gloss": "conquest, overcome",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "確認",
+   "reading": "かくにん · kakunin",
+   "kana": "かくにん",
+   "gloss": "affirmation, confirmation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "湧く",
+   "reading": "わく · waku",
+   "kana": "わく",
+   "gloss": "to boil, to grow hot",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "椀",
+   "reading": "わん · wan",
+   "kana": "わん",
+   "gloss": "bowl",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "タイトル",
+   "reading": "taitoru",
+   "kana": "タイトル",
+   "gloss": "title",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "当たる",
+   "reading": "あたる · ataru",
+   "kana": "あたる",
+   "gloss": "to be hit, to be successful",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "影",
+   "reading": "かげ · kage",
+   "kana": "かげ",
+   "gloss": "shade, shadow, other side",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "状況",
+   "reading": "じょうきょう · joukyou",
+   "kana": "じょうきょう",
+   "gloss": "state of affairs, situation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "機関",
+   "reading": "きかん · kikan",
+   "kana": "きかん",
+   "gloss": "engine; institution, organization",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "産む",
+   "reading": "うむ · umu",
+   "kana": "うむ",
+   "gloss": "to give birth (v.t.), to deliver, to produce",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "最終",
+   "reading": "さいしゅう · saishuu",
+   "kana": "さいしゅう",
+   "gloss": "last, closing",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "拘束",
+   "reading": "こうそく · kousoku",
+   "kana": "こうそく",
+   "gloss": "restriction, restraint",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "キャンプ",
+   "reading": "kyanpu",
+   "kana": "キャンプ",
+   "gloss": "camp",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "大人しい",
+   "reading": "おとなしい · otonashii",
+   "kana": "おとなしい",
+   "gloss": "obedient, docile, quiet",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "害",
+   "reading": "がい · gai",
+   "kana": "がい",
+   "gloss": "harm, damage",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "四季",
+   "reading": "しき · shiki",
+   "kana": "しき",
+   "gloss": "four seasons",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "仕様",
+   "reading": "しよう · shiyou",
+   "kana": "しよう",
+   "gloss": "way, method, specification",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "陽気",
+   "reading": "ようき · youki",
+   "kana": "ようき",
+   "gloss": "season, weather, cheerfulness",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "適切",
+   "reading": "てきせつ · tekisetsu",
+   "kana": "てきせつ",
+   "gloss": "appropriate, adequate, relevance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "変化",
+   "reading": "へんか · henka",
+   "kana": "へんか",
+   "gloss": "change, variation, shift",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "姓名",
+   "reading": "せいめい · seimei",
+   "kana": "せいめい",
+   "gloss": "full name",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "作物",
+   "reading": "さくもつ · sakumotsu",
+   "kana": "さくもつ",
+   "gloss": "produce (e.g., agricultural), crops",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "輪",
+   "reading": "わ · wa",
+   "kana": "わ",
+   "gloss": "ring, hoop, circle",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "近頃",
+   "reading": "ちかごろ · chikagoro",
+   "kana": "ちかごろ",
+   "gloss": "lately, recently, nowadays",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "快適",
+   "reading": "かいてき · kaiteki",
+   "kana": "かいてき",
+   "gloss": "pleasant, agreeable",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "付き合い",
+   "reading": "つきあい · tsukiai",
+   "kana": "つきあい",
+   "gloss": "socialization; friendship; association",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "立ち上がる",
+   "reading": "たちあがる · tachiagaru",
+   "kana": "たちあがる",
+   "gloss": "to stand up",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "悪魔",
+   "reading": "あくま · akuma",
+   "kana": "あくま",
+   "gloss": "devil, demon, evil spirit",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "到着",
+   "reading": "とうちゃく · touchaku",
+   "kana": "とうちゃく",
+   "gloss": "arrival",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "裂ける",
+   "reading": "さける · sakeru",
+   "kana": "さける",
+   "gloss": "to split, to tear, to burst",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "逆",
+   "reading": "ぎゃく · gyaku",
+   "kana": "ぎゃく",
+   "gloss": "reverse, opposite",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "王子",
+   "reading": "おうじ · ouji",
+   "kana": "おうじ",
+   "gloss": "prince",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "我慢",
+   "reading": "がまん · gaman",
+   "kana": "がまん",
+   "gloss": "patience, endurance, perseverance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "幸せ",
+   "reading": "しあわせ · shiawase",
+   "kana": "しあわせ",
+   "gloss": "happiness, blessing",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "治める",
+   "reading": "おさめる · osameru",
+   "kana": "おさめる",
+   "gloss": "to govern, to manage; to subdue",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "及ぼす",
+   "reading": "およぼす · oyobosu",
+   "kana": "およぼす",
+   "gloss": "to exert, to cause, to exercise",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "性",
+   "reading": "せい · sei",
+   "kana": "せい",
+   "gloss": "sex, gender",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "おめでとう",
+   "reading": "omedetou",
+   "kana": "おめでとう",
+   "gloss": "Congratulations!, an auspicious occasion!",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "袖",
+   "reading": "そで · sode",
+   "kana": "そで",
+   "gloss": "sleeve",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "グループ",
+   "reading": "guruupu",
+   "kana": "グループ",
+   "gloss": "group",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "流れ",
+   "reading": "ながれ · nagare",
+   "kana": "ながれ",
+   "gloss": "stream, current",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "終える",
+   "reading": "おえる · oeru",
+   "kana": "おえる",
+   "gloss": "to finish",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "蹴る",
+   "reading": "ける · keru",
+   "kana": "ける",
+   "gloss": "to kick",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "利益",
+   "reading": "りえき · rieki",
+   "kana": "りえき",
+   "gloss": "profits, gains",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "滞在",
+   "reading": "たいざい · taizai",
+   "kana": "たいざい",
+   "gloss": "stay, sojourn",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "協議",
+   "reading": "きょうぎ · kyougi",
+   "kana": "きょうぎ",
+   "gloss": "conference, discussion, negotiation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "クリスマス",
+   "reading": "kurisumasu",
+   "kana": "クリスマス",
+   "gloss": "Christmas",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "妙",
+   "reading": "みょう · myou",
+   "kana": "みょう",
+   "gloss": "strange, unusual",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "汗",
+   "reading": "あせ · ase",
+   "kana": "あせ",
+   "gloss": "sweat, perspiration",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "可能",
+   "reading": "かのう · kanou",
+   "kana": "かのう",
+   "gloss": "possible, practicable, feasible",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "幅",
+   "reading": "はば · haba",
+   "kana": "はば",
+   "gloss": "width, breadth",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "資本",
+   "reading": "しほん · shihon",
+   "kana": "しほん",
+   "gloss": "funds, capital",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "班",
+   "reading": "はん · han",
+   "kana": "はん",
+   "gloss": "group, party, section (mil)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "笛",
+   "reading": "ふえ · fue",
+   "kana": "ふえ",
+   "gloss": "flute, whistle",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "たまらない",
+   "reading": "tamaranai",
+   "kana": "たまらない",
+   "gloss": "intolerable, unbearable, unendurable",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ダンス",
+   "reading": "dansu",
+   "kana": "ダンス",
+   "gloss": "dance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "質",
+   "reading": "しつ · shitsu",
+   "kana": "しつ",
+   "gloss": "quality, nature (of person)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "双子",
+   "reading": "ふたご · futago",
+   "kana": "ふたご",
+   "gloss": "twins, a twin",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "尊重",
+   "reading": "そんちょう · sonchou",
+   "kana": "そんちょう",
+   "gloss": "respect, esteem, regard",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "城",
+   "reading": "しろ · shiro",
+   "kana": "しろ",
+   "gloss": "castle",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "渇く",
+   "reading": "かわく · kawaku",
+   "kana": "かわく",
+   "gloss": "to be thirsty",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "協調",
+   "reading": "きょうちょう · kyouchou",
+   "kana": "きょうちょう",
+   "gloss": "co-operation, conciliation, harmony",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "器械",
+   "reading": "きかい · kikai",
+   "kana": "きかい",
+   "gloss": "instrument",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "納得",
+   "reading": "なっとく · nattoku",
+   "kana": "なっとく",
+   "gloss": "consent, assent, understanding",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "登山",
+   "reading": "とざん · tozan",
+   "kana": "とざん",
+   "gloss": "mountain-climbing",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "作曲",
+   "reading": "さっきょく · sakkyoku",
+   "kana": "さっきょく",
+   "gloss": "composition (of music)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "煮る",
+   "reading": "にる · niru",
+   "kana": "にる",
+   "gloss": "to boil, to cook",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "列",
+   "reading": "れつ · retsu",
+   "kana": "れつ",
+   "gloss": "queue, line, row",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "装置",
+   "reading": "そうち · souchi",
+   "kana": "そうち",
+   "gloss": "equipment, installation, apparatus",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "食料",
+   "reading": "しょくりょう · shokuryou",
+   "kana": "しょくりょう",
+   "gloss": "food",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "汚染",
+   "reading": "おせん · osen",
+   "kana": "おせん",
+   "gloss": "pollution, contamination",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "主張",
+   "reading": "しゅちょう · shuchou",
+   "kana": "しゅちょう",
+   "gloss": "claim, insistence, assertion",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "陰",
+   "reading": "かげ · kage",
+   "kana": "かげ",
+   "gloss": "shade, shadow, other side",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "なお",
+   "reading": "nao",
+   "kana": "なお",
+   "gloss": "still, yet",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "情報",
+   "reading": "じょうほう · jouhou",
+   "kana": "じょうほう",
+   "gloss": "information, (military) intelligence",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "会合",
+   "reading": "かいごう · kaigou",
+   "kana": "かいごう",
+   "gloss": "meeting, assembly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "多少",
+   "reading": "たしょう · tashou",
+   "kana": "たしょう",
+   "gloss": "a little (same as 少し (すこし))",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "転ぶ",
+   "reading": "ころぶ · korobu",
+   "kana": "ころぶ",
+   "gloss": "to fall down, to fall over",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "夜中",
+   "reading": "よなか · yonaka",
+   "kana": "よなか",
+   "gloss": "midnight, dead of night",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "地下",
+   "reading": "ちか · chika",
+   "kana": "ちか",
+   "gloss": "basement, underground",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "信じる",
+   "reading": "しんじる · shinjiru",
+   "kana": "しんじる",
+   "gloss": "to believe",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "見当",
+   "reading": "けんとう · kentou",
+   "kana": "けんとう",
+   "gloss": "estimate, guess",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "首相",
+   "reading": "しゅしょう · shushou",
+   "kana": "しゅしょう",
+   "gloss": "Prime Minister",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "墨",
+   "reading": "すみ · sumi",
+   "kana": "すみ",
+   "gloss": "ink",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "素",
+   "reading": "もと · moto",
+   "kana": "もと",
+   "gloss": "prime",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "依頼",
+   "reading": "いらい · irai",
+   "kana": "いらい",
+   "gloss": "request; dependence",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "活躍",
+   "reading": "かつやく · katsuyaku",
+   "kana": "かつやく",
+   "gloss": "activity",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "幕",
+   "reading": "まく · maku",
+   "kana": "まく",
+   "gloss": "curtain, act (in play)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "騒ぎ",
+   "reading": "さわぎ · sawagi",
+   "kana": "さわぎ",
+   "gloss": "uproar, disturbance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "濡らす",
+   "reading": "ぬらす · nurasu",
+   "kana": "ぬらす",
+   "gloss": "to wet, to soak",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "諮る",
+   "reading": "はかる · hakaru",
+   "kana": "はかる",
+   "gloss": "to consult with, to confer",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "要するに",
+   "reading": "ようするに · yousuruni",
+   "kana": "ようするに",
+   "gloss": "in a word, after all, in short …",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "髪の毛",
+   "reading": "かみのけ · kaminoke",
+   "kana": "かみのけ",
+   "gloss": "hair (head)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "だって",
+   "reading": "datte",
+   "kana": "だって",
+   "gloss": "but, because, even",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "昇る",
+   "reading": "のぼる · noboru",
+   "kana": "のぼる",
+   "gloss": "to arise, to ascend, to go up",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "鬼",
+   "reading": "おに · oni",
+   "kana": "おに",
+   "gloss": "ogre, demon, 'it' (e.g.,in a game of tag)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "議長",
+   "reading": "ぎちょう · gichou",
+   "kana": "ぎちょう",
+   "gloss": "chairman",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "補償",
+   "reading": "ほしょう · hoshou",
+   "kana": "ほしょう",
+   "gloss": "compensation, reparation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "負う",
+   "reading": "おう · ou",
+   "kana": "おう",
+   "gloss": "to bear, to owe",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ユーモア",
+   "reading": "yuumoa",
+   "kana": "ユーモア",
+   "gloss": "humor",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "縁",
+   "reading": "ふち · fuchi",
+   "kana": "ふち",
+   "gloss": "edge, rim",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "胡椒",
+   "reading": "こしょう · koshou",
+   "kana": "こしょう",
+   "gloss": "pepper",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "岩",
+   "reading": "いわ · iwa",
+   "kana": "いわ",
+   "gloss": "rock",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "進める",
+   "reading": "すすめる · susumeru",
+   "kana": "すすめる",
+   "gloss": "to advance, to promote, to hasten",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "先日",
+   "reading": "せんじつ · senjitsu",
+   "kana": "せんじつ",
+   "gloss": "the other day, a few days ago",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "期待",
+   "reading": "きたい · kitai",
+   "kana": "きたい",
+   "gloss": "expectation, anticipation, hope",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "保存",
+   "reading": "ほぞん · hozon",
+   "kana": "ほぞん",
+   "gloss": "preservation, conservation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "安定",
+   "reading": "あんてい · antei",
+   "kana": "あんてい",
+   "gloss": "stability, equilibrium",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "茶",
+   "reading": "ちゃ · cha",
+   "kana": "ちゃ",
+   "gloss": "tea",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "世",
+   "reading": "よ · yo",
+   "kana": "よ",
+   "gloss": "world, society, generation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "止す",
+   "reading": "よす · yosu",
+   "kana": "よす",
+   "gloss": "to cease, to give up",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "映る",
+   "reading": "うつる · utsuru",
+   "kana": "うつる",
+   "gloss": "to be reflected, to come out (photo)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "長期",
+   "reading": "ちょうき · chouki",
+   "kana": "ちょうき",
+   "gloss": "long time period",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "前もって",
+   "reading": "まえもって · maemotte",
+   "kana": "まえもって",
+   "gloss": "in advance, beforehand, previously",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "酸性",
+   "reading": "さんせい · sansei",
+   "kana": "さんせい",
+   "gloss": "acidity",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "突く",
+   "reading": "つく · tsuku",
+   "kana": "つく",
+   "gloss": "to thrust, to strike; to poke",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "暗記",
+   "reading": "あんき · anki",
+   "kana": "あんき",
+   "gloss": "memorization, learning by heart",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "航空",
+   "reading": "こうくう · koukuu",
+   "kana": "こうくう",
+   "gloss": "aviation, flying",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "家事",
+   "reading": "かじ · kaji",
+   "kana": "かじ",
+   "gloss": "household matters; housework (same as 家の仕事 (いえのしごと))",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "チャイム",
+   "reading": "chaimu",
+   "kana": "チャイム",
+   "gloss": "chime",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "パイプ",
+   "reading": "paipu",
+   "kana": "パイプ",
+   "gloss": "pipe; channels official or otherwise",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "それぞれ",
+   "reading": "sorezore",
+   "kana": "それぞれ",
+   "gloss": "each, every, respectively",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "大半",
+   "reading": "たいはん · taihan",
+   "kana": "たいはん",
+   "gloss": "most of, majority, mostly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "遭う",
+   "reading": "あう · au",
+   "kana": "あう",
+   "gloss": "to meet, to encounter (undesirable nuance)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "蚊",
+   "reading": "か · ka",
+   "kana": "か",
+   "gloss": "mosquito",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "マスコミ",
+   "reading": "masukomi",
+   "kana": "マスコミ",
+   "gloss": "mass communication",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "馴れる",
+   "reading": "なれる · nareru",
+   "kana": "なれる",
+   "gloss": "to become domesticated, to become tame",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "たしか",
+   "reading": "tashika",
+   "kana": "たしか",
+   "gloss": "certain, sure, if I remember correctly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "責任",
+   "reading": "せきにん · sekinin",
+   "kana": "せきにん",
+   "gloss": "duty, responsibility",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "便",
+   "reading": "びん · bin",
+   "kana": "びん",
+   "gloss": "way, means; flight",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "換える",
+   "reading": "かえる · kaeru",
+   "kana": "かえる",
+   "gloss": "to exchange, to interchange, to substitute",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "案",
+   "reading": "あん · an",
+   "kana": "あん",
+   "gloss": "plan, scheme, proposal",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "決心",
+   "reading": "けっしん · kesshin",
+   "kana": "けっしん",
+   "gloss": "determination, resolution",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "停留所",
+   "reading": "ていりゅうじょ · teiryuujo",
+   "kana": "ていりゅうじょ",
+   "gloss": "bus or tram stop",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "取り上げる",
+   "reading": "とりあげる · toriageru",
+   "kana": "とりあげる",
+   "gloss": "to take up, to pick up; to confiscate",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "馴らす",
+   "reading": "ならす · narasu",
+   "kana": "ならす",
+   "gloss": "to domesticate, to tame",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "宿",
+   "reading": "やど · yado",
+   "kana": "やど",
+   "gloss": "inn, lodging",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "処理",
+   "reading": "しょり · shori",
+   "kana": "しょり",
+   "gloss": "processing, treatment, disposition",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "添う",
+   "reading": "そう · sou",
+   "kana": "そう",
+   "gloss": "to accompany, to comply with",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ジェット機",
+   "reading": "ジェットき · jettoki",
+   "kana": "ジェットき",
+   "gloss": "jet plane",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ピン",
+   "reading": "pin",
+   "kana": "ピン",
+   "gloss": "pin",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "集団",
+   "reading": "しゅうだん · shuudan",
+   "kana": "しゅうだん",
+   "gloss": "group, mass",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "有能",
+   "reading": "ゆうのう · yuunou",
+   "kana": "ゆうのう",
+   "gloss": "able, capable, efficient",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "影響",
+   "reading": "えいきょう · eikyou",
+   "kana": "えいきょう",
+   "gloss": "influence, effect",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "革",
+   "reading": "かわ · kawa",
+   "kana": "かわ",
+   "gloss": "leather",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "衣料",
+   "reading": "いりょう · iryou",
+   "kana": "いりょう",
+   "gloss": "clothing",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "原",
+   "reading": "はら · hara",
+   "kana": "はら",
+   "gloss": "field, plain",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "広まる",
+   "reading": "ひろまる · hiromaru",
+   "kana": "ひろまる",
+   "gloss": "to spread, to be propagated",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "サービス",
+   "reading": "saabisu",
+   "kana": "サービス",
+   "gloss": "service, support system; goods or services without charge",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "酒",
+   "reading": "さけ · sake",
+   "kana": "さけ",
+   "gloss": "alcohol, sake",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "恋人",
+   "reading": "こいびと · koibito",
+   "kana": "こいびと",
+   "gloss": "lover; sweetheart; girlfriend",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "手伝い",
+   "reading": "てつだい · tetsudai",
+   "kana": "てつだい",
+   "gloss": "help, helper, assistant",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "要求",
+   "reading": "ようきゅう · youkyuu",
+   "kana": "ようきゅう",
+   "gloss": "request, demand",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "教授",
+   "reading": "きょうじゅ · kyouju",
+   "kana": "きょうじゅ",
+   "gloss": "teaching, instruction; professor",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "菓子",
+   "reading": "かし · kashi",
+   "kana": "かし",
+   "gloss": "confectionery, sweet",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "積もる",
+   "reading": "つもる · tsumoru",
+   "kana": "つもる",
+   "gloss": "to pile up",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "有機",
+   "reading": "ゆうき · yuuki",
+   "kana": "ゆうき",
+   "gloss": "organic",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "お喋り",
+   "reading": "おしゃべり · oshaberi",
+   "kana": "おしゃべり",
+   "gloss": "chattering, talk",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "策",
+   "reading": "さく · saku",
+   "kana": "さく",
+   "gloss": "plan, policy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ベンチ",
+   "reading": "benchi",
+   "kana": "ベンチ",
+   "gloss": "bench",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "興奮",
+   "reading": "こうふん · koufun",
+   "kana": "こうふん",
+   "gloss": "excitement, stimulation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "重なる",
+   "reading": "かさなる · kasanaru",
+   "kana": "かさなる",
+   "gloss": "to be piled up, lie on top of one another",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "指揮",
+   "reading": "しき · shiki",
+   "kana": "しき",
+   "gloss": "command, direction",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "納める",
+   "reading": "おさめる · osameru",
+   "kana": "おさめる",
+   "gloss": "to store to pay, to supply",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "幸い",
+   "reading": "さいわい · saiwai",
+   "kana": "さいわい",
+   "gloss": "fortunately; luckily",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "放す",
+   "reading": "はなす · hanasu",
+   "kana": "はなす",
+   "gloss": "to separate, to set free",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "配達",
+   "reading": "はいたつ · haitatsu",
+   "kana": "はいたつ",
+   "gloss": "delivery, distribution",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "混じる",
+   "reading": "まじる · majiru",
+   "kana": "まじる",
+   "gloss": "to be mixed, to mingle with",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "欠ける",
+   "reading": "かける · kakeru",
+   "kana": "かける",
+   "gloss": "to be lacking",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "票",
+   "reading": "ひょう · hyou",
+   "kana": "ひょう",
+   "gloss": "label, ballot, sign",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "吠える",
+   "reading": "ほえる · hoeru",
+   "kana": "ほえる",
+   "gloss": "to bark, to howl",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "創造",
+   "reading": "そうぞう · souzou",
+   "kana": "そうぞう",
+   "gloss": "creation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "かもしれない",
+   "reading": "kamoshirenai",
+   "kana": "かもしれない",
+   "gloss": "maybe, perhaps",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "希望",
+   "reading": "きぼう · kibou",
+   "kana": "きぼう",
+   "gloss": "hope, wish, aspiration",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "関連",
+   "reading": "かんれん · kanren",
+   "kana": "かんれん",
+   "gloss": "relation, connection, relevance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "代金",
+   "reading": "だいきん · daikin",
+   "kana": "だいきん",
+   "gloss": "price, cost",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "嵐",
+   "reading": "あらし · arashi",
+   "kana": "あらし",
+   "gloss": "storm",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "気体",
+   "reading": "きたい · kitai",
+   "kana": "きたい",
+   "gloss": "vapor, gas",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "刺激",
+   "reading": "しげき · shigeki",
+   "kana": "しげき",
+   "gloss": "stimulus, impetus, incentive",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "抵抗",
+   "reading": "ていこう · teikou",
+   "kana": "ていこう",
+   "gloss": "resistance, opposition",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "衛星",
+   "reading": "えいせい · eisei",
+   "kana": "えいせい",
+   "gloss": "satellite",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "申告",
+   "reading": "しんこく · shinkoku",
+   "kana": "しんこく",
+   "gloss": "report, statement",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "摘む",
+   "reading": "つむ · tsumu",
+   "kana": "つむ",
+   "gloss": "to pluck, to pick, to trim",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "裁く",
+   "reading": "さばく · sabaku",
+   "kana": "さばく",
+   "gloss": "to judge",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "給料",
+   "reading": "きゅうりょう · kyuuryou",
+   "kana": "きゅうりょう",
+   "gloss": "salary, wages",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "独立",
+   "reading": "どくりつ · dokuritsu",
+   "kana": "どくりつ",
+   "gloss": "independence (e.g., Ind. Day), self-support",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "周囲",
+   "reading": "しゅうい · shuui",
+   "kana": "しゅうい",
+   "gloss": "surroundings, circumference, environs",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "児童",
+   "reading": "じどう · jidou",
+   "kana": "じどう",
+   "gloss": "children, juvenile",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "アンケート",
+   "reading": "ankeeto",
+   "kana": "アンケート",
+   "gloss": "questionnaire (FRE: enquete), survey",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "論じる",
+   "reading": "ろんじる · ronjiru",
+   "kana": "ろんじる",
+   "gloss": "to argue, to discuss",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "非行",
+   "reading": "ひこう · hikou",
+   "kana": "ひこう",
+   "gloss": "delinquency, misconduct",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "暮れ",
+   "reading": "くれ · kure",
+   "kana": "くれ",
+   "gloss": "year end,",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "煮える",
+   "reading": "にえる · nieru",
+   "kana": "にえる",
+   "gloss": "to boil, to cook, to be cooked",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "去る",
+   "reading": "さる · saru",
+   "kana": "さる",
+   "gloss": "to leave, to go away",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "莫大",
+   "reading": "ばくだい · bakudai",
+   "kana": "ばくだい",
+   "gloss": "enormous, vast",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "緊張",
+   "reading": "きんちょう · kinchou",
+   "kana": "きんちょう",
+   "gloss": "tension, mental strain, nervousness",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "出版",
+   "reading": "しゅっぱん · shuppan",
+   "kana": "しゅっぱん",
+   "gloss": "publication",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "従兄弟",
+   "reading": "いとこ · itoko",
+   "kana": "いとこ",
+   "gloss": "cousin (male)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "進歩",
+   "reading": "しんぽ · shinpo",
+   "kana": "しんぽ",
+   "gloss": "improvement, progress, development",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "並",
+   "reading": "なみ · nami",
+   "kana": "なみ",
+   "gloss": "medium (e.g., food serving size, quality, price, etc.), ordinary",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "連続",
+   "reading": "れんぞく · renzoku",
+   "kana": "れんぞく",
+   "gloss": "consecutive, continuity, continuing",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "殖やす",
+   "reading": "ふやす · fuyasu",
+   "kana": "ふやす",
+   "gloss": "to increase, to add to",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "帰す",
+   "reading": "かえす · kaesu",
+   "kana": "かえす",
+   "gloss": "to send back",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "舞台",
+   "reading": "ぶたい · butai",
+   "kana": "ぶたい",
+   "gloss": "stage (theater)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "減らす",
+   "reading": "へらす · herasu",
+   "kana": "へらす",
+   "gloss": "to decrease, to diminish",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "教わる",
+   "reading": "おそわる · osowaru",
+   "kana": "おそわる",
+   "gloss": "to be taught",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "差別",
+   "reading": "さべつ · sabetsu",
+   "kana": "さべつ",
+   "gloss": "discrimination, differentiation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "医院",
+   "reading": "いいん · iin",
+   "kana": "いいん",
+   "gloss": "doctor's office (surgery), clinic",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "道徳",
+   "reading": "どうとく · doutoku",
+   "kana": "どうとく",
+   "gloss": "morals",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "同僚",
+   "reading": "どうりょう · douryou",
+   "kana": "どうりょう",
+   "gloss": "colleague; co-worker",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "婦人",
+   "reading": "ふじん · fujin",
+   "kana": "ふじん",
+   "gloss": "woman (same as 女性 (じょせい)、女の人 (おんなのひと))",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "今回",
+   "reading": "こんかい · konkai",
+   "kana": "こんかい",
+   "gloss": "now, this time, lately",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "鋭い",
+   "reading": "するどい · surudoi",
+   "kana": "するどい",
+   "gloss": "pointed, sharp",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "築く",
+   "reading": "きずく · kizuku",
+   "kana": "きずく",
+   "gloss": "to build, to establish",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "賞品",
+   "reading": "しょうひん · shouhin",
+   "kana": "しょうひん",
+   "gloss": "prize, trophy",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "高速",
+   "reading": "こうそく · kousoku",
+   "kana": "こうそく",
+   "gloss": "high speed, high gear",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "贈る",
+   "reading": "おくる · okuru",
+   "kana": "おくる",
+   "gloss": "to present, to give to, to award to",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "勤め",
+   "reading": "つとめ · tsutome",
+   "kana": "つとめ",
+   "gloss": "work, employment",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "全国",
+   "reading": "ぜんこく · zenkoku",
+   "kana": "ぜんこく",
+   "gloss": "the entire nation, country-wide, nation-wide",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "実験",
+   "reading": "じっけん · jikken",
+   "kana": "じっけん",
+   "gloss": "lab work; experiment",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "予防",
+   "reading": "よぼう · yobou",
+   "kana": "よぼう",
+   "gloss": "prevention, protection against",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "起源",
+   "reading": "きげん · kigen",
+   "kana": "きげん",
+   "gloss": "origin, beginning, rise",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "回復",
+   "reading": "かいふく · kaifuku",
+   "kana": "かいふく",
+   "gloss": "recovery (from illness), rehabilitation, restoration",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "チャンス",
+   "reading": "chansu",
+   "kana": "チャンス",
+   "gloss": "chance, opportunity",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "建築",
+   "reading": "けんちく · kenchiku",
+   "kana": "けんちく",
+   "gloss": "construction, architecture",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "やがて",
+   "reading": "yagate",
+   "kana": "やがて",
+   "gloss": "before long, soon, at length",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "澄む",
+   "reading": "すむ · sumu",
+   "kana": "すむ",
+   "gloss": "to clear (e.g., weather), to become transparent",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "そのうえ",
+   "reading": "sonoue",
+   "kana": "そのうえ",
+   "gloss": "in addition, furthermore",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "優れる",
+   "reading": "すぐれる · sugureru",
+   "kana": "すぐれる",
+   "gloss": "to surpass, to outstrip, to excel",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "植物",
+   "reading": "しょくぶつ · shokubutsu",
+   "kana": "しょくぶつ",
+   "gloss": "plant, vegetation",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "餌",
+   "reading": "えさ · esa",
+   "kana": "えさ",
+   "gloss": "feed, bait",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "茹でる",
+   "reading": "ゆでる · yuderu",
+   "kana": "ゆでる",
+   "gloss": "to boil",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "震える",
+   "reading": "ふるえる · furueru",
+   "kana": "ふるえる",
+   "gloss": "to shiver, to shake, to quake",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ソファー",
+   "reading": "sofuaa",
+   "kana": "ソファー",
+   "gloss": "sofa, couch",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "豊富",
+   "reading": "ほうふ · houfu",
+   "kana": "ほうふ",
+   "gloss": "abundance, plenty",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "犯罪",
+   "reading": "はんざい · hanzai",
+   "kana": "はんざい",
+   "gloss": "crime",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "全く",
+   "reading": "まったく · mattaku",
+   "kana": "まったく",
+   "gloss": "really, completely",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "文句",
+   "reading": "もんく · monku",
+   "kana": "もんく",
+   "gloss": "a complaint",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "作品",
+   "reading": "さくひん · sakuhin",
+   "kana": "さくひん",
+   "gloss": "work, opus, production",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "仏",
+   "reading": "ほとけ · hotoke",
+   "kana": "ほとけ",
+   "gloss": "Buddha",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "一種",
+   "reading": "いっしゅ · isshu",
+   "kana": "いっしゅ",
+   "gloss": "a species, a kind, a variety",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "攻撃",
+   "reading": "こうげき · kougeki",
+   "kana": "こうげき",
+   "gloss": "attack, strike, offensive",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "判断",
+   "reading": "はんだん · handan",
+   "kana": "はんだん",
+   "gloss": "judgment, decision",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "武器",
+   "reading": "ぶき · buki",
+   "kana": "ぶき",
+   "gloss": "weapon, arms",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "命",
+   "reading": "いのち · inochi",
+   "kana": "いのち",
+   "gloss": "life",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "用心",
+   "reading": "ようじん · youjin",
+   "kana": "ようじん",
+   "gloss": "care, precaution, caution",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "母親",
+   "reading": "ははおや · hahaoya",
+   "kana": "ははおや",
+   "gloss": "mother",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "戻す",
+   "reading": "もどす · modosu",
+   "kana": "もどす",
+   "gloss": "to restore, to put back, to return",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "超す",
+   "reading": "こす · kosu",
+   "kana": "こす",
+   "gloss": "to cross, to pass, to tide over",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "成長",
+   "reading": "せいちょう · seichou",
+   "kana": "せいちょう",
+   "gloss": "growth",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "お洒落",
+   "reading": "おしゃれ · oshare",
+   "kana": "おしゃれ",
+   "gloss": "smartly dressed, fashion-conscious",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "入場",
+   "reading": "にゅうじょう · nyuujou",
+   "kana": "にゅうじょう",
+   "gloss": "entrance, admission, entering",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "不自由",
+   "reading": "ふじゆう · fujiyuu",
+   "kana": "ふじゆう",
+   "gloss": "discomfort, disability, inconvenience",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "能",
+   "reading": "のう · nou",
+   "kana": "のう",
+   "gloss": "being skilled in, nicely, properly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "分ける",
+   "reading": "わける · wakeru",
+   "kana": "わける",
+   "gloss": "to divide, to separate",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "収入",
+   "reading": "しゅうにゅう · shuunyuu",
+   "kana": "しゅうにゅう",
+   "gloss": "income, revenue",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "問い",
+   "reading": "とい · toi",
+   "kana": "とい",
+   "gloss": "question, query",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "週",
+   "reading": "しゅう · shuu",
+   "kana": "しゅう",
+   "gloss": "week",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "諺",
+   "reading": "ことわざ · kotowaza",
+   "kana": "ことわざ",
+   "gloss": "proverb, saying",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "金銭",
+   "reading": "きんせん · kinsen",
+   "kana": "きんせん",
+   "gloss": "money, cash",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "開始",
+   "reading": "かいし · kaishi",
+   "kana": "かいし",
+   "gloss": "start, commencement, beginning",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "座席",
+   "reading": "ざせき · zaseki",
+   "kana": "ざせき",
+   "gloss": "seat",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "校舎",
+   "reading": "こうしゃ · kousha",
+   "kana": "こうしゃ",
+   "gloss": "school building",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "宝石",
+   "reading": "ほうせき · houseki",
+   "kana": "ほうせき",
+   "gloss": "gem, jewel",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "攻める",
+   "reading": "せめる · semeru",
+   "kana": "せめる",
+   "gloss": "to attack, to assault",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "ぐっすり",
+   "reading": "gussuri",
+   "kana": "ぐっすり",
+   "gloss": "sound asleep, fast asleep",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "油",
+   "reading": "あぶら · abura",
+   "kana": "あぶら",
+   "gloss": "oil",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "良い",
+   "reading": "よい · yoi",
+   "kana": "よい",
+   "gloss": "good, nice",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "格",
+   "reading": "かく · kaku",
+   "kana": "かく",
+   "gloss": "status, character, case",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "床",
+   "reading": "ゆか · yuka",
+   "kana": "ゆか",
+   "gloss": "floor",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "収める",
+   "reading": "おさめる · osameru",
+   "kana": "おさめる",
+   "gloss": "to store to pay, to supply",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "謎",
+   "reading": "なぞ · nazo",
+   "kana": "なぞ",
+   "gloss": "riddle, puzzle, enigma",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "偶然",
+   "reading": "ぐうぜん · guuzen",
+   "kana": "ぐうぜん",
+   "gloss": "(by) chance, unexpectedly",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "姿",
+   "reading": "すがた · sugata",
+   "kana": "すがた",
+   "gloss": "figure, shape, appearance",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "破る",
+   "reading": "やぶる · yaburu",
+   "kana": "やぶる",
+   "gloss": "to tear; to violate; to defeat",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "減少",
+   "reading": "げんしょう · genshou",
+   "kana": "げんしょう",
+   "gloss": "decrease, reduction, decline",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "鎖",
+   "reading": "くさり · kusari",
+   "kana": "くさり",
+   "gloss": "chain",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "疑問",
+   "reading": "ぎもん · gimon",
+   "kana": "ぎもん",
+   "gloss": "question, problem, doubt",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "生える",
+   "reading": "はえる · haeru",
+   "kana": "はえる",
+   "gloss": "to grow, to spring up; to cut (teeth)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "畳む",
+   "reading": "たたむ · tatamu",
+   "kana": "たたむ",
+   "gloss": "to fold (clothes)",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "筋肉",
+   "reading": "きんにく · kinniku",
+   "kana": "きんにく",
+   "gloss": "muscle, sinews",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "越える",
+   "reading": "こえる · koeru",
+   "kana": "こえる",
+   "gloss": "to exceed, to cross over, to cross",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "適用",
+   "reading": "てきよう · tekiyou",
+   "kana": "てきよう",
+   "gloss": "applying",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "金額",
+   "reading": "きんがく · kingaku",
+   "kana": "きんがく",
+   "gloss": "amount of money",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "旅",
+   "reading": "たび · tabi",
+   "kana": "たび",
+   "gloss": "travel, trip, journey",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "これら",
+   "reading": "korera",
+   "kana": "これら",
+   "gloss": "these",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "同様",
+   "reading": "どうよう · douyou",
+   "kana": "どうよう",
+   "gloss": "identical, same (kind), like",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "灰",
+   "reading": "はい · hai",
+   "kana": "はい",
+   "gloss": "ash",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "知識",
+   "reading": "ちしき · chishiki",
+   "kana": "ちしき",
+   "gloss": "knowledge, information",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "明らか",
+   "reading": "あきらか · akiraka",
+   "kana": "あきらか",
+   "gloss": "obvious, clear",
+   "pos": "",
+   "level": "N3"
+  },
+  {
+   "term": "動かす",
+   "reading": "うごかす · ugokasu",
+   "kana": "うごかす",
+   "gloss": "to move, to shift",
    "pos": "",
    "level": "N3"
   }

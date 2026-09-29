@@ -12,6 +12,7 @@ import {
   WorldMap,
   GlowingStar,
   MASCOT,
+  OpenBook,
   PartyPopper,
   Pushpin,
   TRACK_ICON,
@@ -65,7 +66,8 @@ function Onboarding({ onSubmit }: { onSubmit: (p: Profile) => void }) {
           </span>
         </h1>
         <p className="mx-auto mt-2 max-w-md text-slate-500">
-          Tiếng Anh, Nhật, Trung với flashcard thông minh, bài nghe chép và 6 game arcade. Mỗi ngày chỉ cần 5 phút.
+          Tiếng Anh, Nhật, Trung với flashcard thông minh, 7 dạng bài luyện, 9 trò chơi và ngữ pháp tiếng Anh. Mỗi ngày
+          chỉ cần 5 phút.
         </p>
       </section>
       <section className="rounded-[2rem] bg-white p-6 shadow-xl ring-1 shadow-slate-200/60 ring-slate-200 dark:bg-slate-900 dark:shadow-none dark:ring-slate-800">
@@ -208,10 +210,26 @@ function Dashboard({ profile }: { profile: Profile }) {
           })}
         </div>
 
+        {lang === 'en' && (
+          <Link
+            to="/grammar"
+            className="group flex items-center gap-4 rounded-3xl bg-gradient-to-br from-sky-500 to-indigo-600 p-4 text-white shadow-md transition hover:-translate-y-0.5 hover:shadow-xl"
+          >
+            <OpenBook className="size-12 shrink-0 drop-shadow transition group-hover:-rotate-6" />
+            <span className="min-w-0 flex-1">
+              <span className="block text-lg font-black">Ngữ pháp & Phát âm</span>
+              <span className="block text-sm text-white/85">
+                12 thì · 11 chủ điểm từ loại · 44 âm IPA · gần 300 câu luyện
+              </span>
+            </span>
+            <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-1" />
+          </Link>
+        )}
+
         {courses.some((c) => c.lang === lang) && (
           <>
             <h3 className="flex items-center gap-2 pt-2 font-black">
-              <WorldMap className="size-6" /> Lộ trình ~3.000 từ mỗi cấp
+              <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
             </h3>
             <div className="grid gap-3 sm:grid-cols-3">
               {courses
@@ -266,10 +284,14 @@ function CourseCard({ course, learned, due }: { course: CourseSummary; learned: 
       </div>
       <span className="mt-2 text-lg font-black">{COURSE_LABEL[course.level]}</span>
       <span className="text-xs font-semibold text-slate-500">
-        {course.wordCount.toLocaleString('vi-VN')} từ · {course.lessonCount} bài
-        {course.lessonCount < course.totalLessons && ` (đang soạn ${course.totalLessons - course.lessonCount} bài)`}
+        {course.totalWords.toLocaleString('vi-VN')} từ · {course.totalLessons} bài
       </span>
-      <ProgressBar value={learned} max={course.wordCount} className="mt-3 h-2.5" />
+      {course.lessonCount < course.totalLessons && (
+        <span className="text-xs text-amber-600 dark:text-amber-400">
+          Đã soạn {course.lessonCount}/{course.totalLessons} bài
+        </span>
+      )}
+      <ProgressBar value={learned} max={course.totalWords} className="mt-3 h-2.5" />
       <span className="mt-1.5 flex justify-between text-xs font-semibold text-slate-500">
         <span>Đã học {learned}</span>
         {due > 0 && <span className="text-rose-500">{due} cần ôn</span>}

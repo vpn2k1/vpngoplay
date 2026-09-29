@@ -1,8 +1,9 @@
 import type { QueryClient } from '@tanstack/react-query'
 import { Link, Outlet, createRootRouteWithContext, useRouterState } from '@tanstack/react-router'
-import { Settings } from 'lucide-react'
+import { Settings, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
 import { BookmarkTabs, Books, Compass, Fire, GlowingStar, Joystick } from '../components/icons'
+import { CloudSync } from '../components/CloudSync'
 import { cx } from '../components/ui'
 import { useProgress, useStreak } from '../lib/store'
 
@@ -58,8 +59,8 @@ function SectionTabs() {
               transition={{ type: 'spring', stiffness: 500, damping: 35 }}
             />
           )}
-          <span className="relative inline-flex items-center gap-1.5">
-            <tab.Icon className="size-5" /> <span className="hidden min-[460px]:inline">{tab.label}</span>
+          <span className="relative inline-flex items-center gap-1.5 whitespace-nowrap">
+            <tab.Icon className="size-5" /> <span className="hidden sm:inline">{tab.label}</span>
             {tab.id === 'review' && saved > 0 && (
               <span className="rounded-full bg-amber-400 px-1.5 text-[10px] leading-4 font-black text-amber-950">
                 {saved}
@@ -119,6 +120,13 @@ function RootLayout() {
               </>
             )}
             <Link
+              to="/leaderboard"
+              className="rounded-xl p-2 text-slate-500 transition hover:bg-slate-200 hover:text-amber-500 dark:hover:bg-slate-800"
+              aria-label="Bảng xếp hạng"
+            >
+              <Trophy className="size-5" />
+            </Link>
+            <Link
               to="/settings"
               className="rounded-xl p-2 text-slate-500 transition hover:rotate-45 hover:bg-slate-200 hover:text-slate-700 dark:hover:bg-slate-800 dark:hover:text-slate-200"
               aria-label="Cài đặt"
@@ -128,6 +136,7 @@ function RootLayout() {
           </div>
         </div>
       </header>
+      <CloudSync />
       <main className="mx-auto max-w-3xl px-4 py-6">
         <Outlet />
       </main>

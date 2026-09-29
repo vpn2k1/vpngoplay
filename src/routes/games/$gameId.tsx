@@ -62,7 +62,8 @@ function GamePage() {
   const { data: catalog } = useSuspenseQuery(catalogQuery)
   const { data: courses } = useSuspenseQuery(coursesQuery)
   const langDecks = catalog.filter((d) => d.lang === lang)
-  const langCourses = courses.filter((c) => c.lang === lang)
+  // Only courses with enough generated lessons to play with.
+  const langCourses = courses.filter((c) => c.lang === lang && c.wordCount >= MIN_REVIEW_WORDS)
   const allSaved = useProgress((s) => s.saved)
   const saved = useMemo(() => savedWordsOf(allSaved, lang), [allSaved, lang])
   // Studied words as of opening the page: games schedule reviews when they end, and

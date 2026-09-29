@@ -1,5 +1,14 @@
 import { queryOptions } from '@tanstack/react-query'
-import type { CourseData, CourseSummary, Deck, DeckSummary, Track } from './types'
+import type {
+  CourseData,
+  CourseSummary,
+  CourseWordEntry,
+  Deck,
+  DeckSummary,
+  GrammarTopic,
+  GrammarTopicSummary,
+  Track,
+} from './types'
 
 // Static JSON on Vercel's CDN for now. Swap these URLs for /api/* serverless
 // functions when decks move into a database.
@@ -45,8 +54,27 @@ export const coursesQuery = queryOptions({
   },
 })
 
+/** Every word of a course (~3,000), including lessons whose content isn't generated yet. */
+export const courseWordsQuery = (courseId: string) =>
+  queryOptions({
+    queryKey: ['course-words', courseId],
+    queryFn: () => fetchJson<CourseWordEntry[]>(`/courses/${encodeURIComponent(courseId)}.words.json`),
+    staleTime: Infinity,
+  })
+
 export const courseQuery = (courseId: string) =>
   queryOptions({
     queryKey: ['course', courseId],
     queryFn: () => fetchJson<CourseData>(`/courses/${encodeURIComponent(courseId)}.json`),
+  })
+
+export const grammarIndexQuery = queryOptions({
+  queryKey: ['grammar'],
+  queryFn: () => fetchJson<GrammarTopicSummary[]>('/grammar/index.json'),
+})
+
+export const grammarTopicQuery = (topicId: string) =>
+  queryOptions({
+    queryKey: ['grammar', topicId],
+    queryFn: () => fetchJson<GrammarTopic>(`/grammar/${encodeURIComponent(topicId)}.json`),
   })

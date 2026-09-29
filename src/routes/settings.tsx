@@ -1,6 +1,7 @@
 import { createFileRoute, useNavigate } from '@tanstack/react-router'
-import { AudioLines, Save, Settings as SettingsIcon, Trash2, UserRound } from 'lucide-react'
+import { AudioLines, Cloud, Save, Settings as SettingsIcon, Trash2, UserRound } from 'lucide-react'
 import type { ReactNode } from 'react'
+import { AccountPanel } from '../components/AccountPanel'
 import { ProfileForm } from '../components/ProfileForm'
 import { VoiceSettings } from '../components/VoiceSettings'
 import { Button } from '../components/ui'
@@ -35,6 +36,9 @@ function Settings() {
       <h1 className="flex items-center gap-2 text-2xl font-black">
         <SettingsIcon className="size-7 text-slate-400" /> Cài đặt
       </h1>
+      <Section icon={<Cloud className="size-5" />} title="Tài khoản & đồng bộ">
+        <AccountPanel />
+      </Section>
       <Section icon={<UserRound className="size-5" />} title="Hồ sơ học tập">
         <ProfileForm
           defaultValues={profile ?? undefined}
@@ -54,7 +58,8 @@ function Settings() {
           <Trash2 className="size-5" /> Xóa toàn bộ tiến độ
         </h2>
         <p className="mt-1 text-sm text-slate-500">
-          XP, chuỗi ngày học, kỷ lục game và lịch ôn flashcard trên thiết bị này sẽ bị xóa.
+          XP, chuỗi ngày học, kỷ lục game, sổ từ và lịch ôn flashcard trên thiết bị này sẽ bị xóa — cả bản lưu trong tài
+          khoản nếu bạn đang đăng nhập (điểm đã lên bảng xếp hạng vẫn giữ).
         </p>
         <Button
           variant="ghost"

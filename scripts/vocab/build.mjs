@@ -5,9 +5,11 @@
 // Writes, for every course:
 //   public/decks/<courseId>-<nnn>.json   one deck per lesson (all exercises work on it)
 //   public/courses/<courseId>.json       every built word of the course in one deck (games),
-//                                        plus the lesson list for the course page
-//   public/courses/index.json            course summaries
-// Lessons not generated yet are simply left out; lessons that fail validation are
+//                                        plus all lessons (built or not) for the course page
+//   public/courses/<courseId>.words.json the full ~3,000-word list (term, reading, meaning or
+//                                        English gloss, level, lesson) to browse before enrichment
+//   public/courses/index.json            course summaries (every course, even with no lesson built yet)
+// Lessons not generated yet are listed as not ready; lessons that fail validation are
 // reported (regenerate them with `npm run vocab:enrich -- --course <id> --redo <n>`).
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -39,18 +41,30 @@ for (const file of readdirSync(COURSES)
   const lessons = []
   const allWords = []
   const allSentences = []
+  const meaningOf = new Map()
   for (let n = 1; n <= course.lessonCount; n++) {
-    const path = join(ENRICHED, id, `${pad(n, 3)}.json`)
-    if (!existsSync(path)) continue
-    const data = JSON.parse(readFileSync(path, 'utf8'))
     const src = source.slice((n - 1) * LESSON_SIZE, n * LESSON_SIZE)
+    const deckId = `${id}-${pad(n, 3)}`
+    const pending = {
+      id: deckId,
+      lesson: n,
+      preview: src.slice(0, 3).map((w) => w.term),
+      wordCount: src.length,
+      ready: false,
+    }
+    const path = join(ENRICHED, id, `${pad(n, 3)}.json`)
+    if (!existsSync(path)) {
+      lessons.push(pending)
+      continue
+    }
+    const data = JSON.parse(readFileSync(path, 'utf8'))
     const issues = validateLesson(lang, src, data)
     if (issues.length) {
       rejected.push(`${id} #${n}: ${issues[0]}${issues.length > 1 ? ` (+${issues.length - 1} more)` : ''}`)
+      lessons.push(pending)
       continue
     }
 
-    const deckId = `${id}-${pad(n, 3)}`
     const words = data.words.map((w, i) => ({
       id: `w${pad(i + 1, 2)}`,
       term: src[i].term,
@@ -81,7 +95,8 @@ for (const file of readdirSync(COURSES)
       words,
       sentences,
     })
-    lessons.push({ id: deckId, lesson: n, preview: words.slice(0, 3).map((w) => w.term), wordCount: words.length })
+    lessons.push({ ...pending, preview: words.slice(0, 3).map((w) => w.term), ready: true })
+    for (const w of words) meaningOf.set(w.term, w.meaning)
     // Unique ids across the course; srsKey schedules reviews in the lesson the word belongs to.
     allWords.push(...words.map((w) => ({ ...w, id: `${deckId}:${w.id}`, srsKey: `${deckId}:${w.id}` })))
     allSentences.push(...sentences.map((s) => ({ ...s, id: `${deckId}:${s.id}` })))
@@ -94,28 +109,40 @@ for (const file of readdirSync(COURSES)
     title: course.title,
     range: course.range,
     wordCount: allWords.length,
-    lessonCount: lessons.length,
+    lessonCount: lessons.filter((l) => l.ready).length,
     totalWords: course.wordCount,
     totalLessons: course.lessonCount,
   }
-  if (lessons.length) {
-    write(join(OUT, `${id}.json`), {
-      id,
-      lang,
-      level: course.range,
-      title: `${course.title} (${course.range})`,
-      description: `${allWords.length} từ · ${lessons.length} bài`,
-      words: allWords,
-      sentences: allSentences,
-      lessons,
-    })
-    summaries.push(summary)
-  } else if (existsSync(join(OUT, `${id}.json`))) rmSync(join(OUT, `${id}.json`))
+  write(join(OUT, `${id}.json`), {
+    id,
+    lang,
+    level: course.range,
+    title: `${course.title} (${course.range})`,
+    description: `${allWords.length} từ · ${summary.lessonCount} bài`,
+    words: allWords,
+    sentences: allSentences,
+    lessons,
+  })
+  // Browsable list of the whole course: the Vietnamese meaning once a lesson is built, else the source gloss.
+  write(
+    join(OUT, `${id}.words.json`),
+    source.map((w, i) => ({
+      term: w.term,
+      reading: w.reading ?? '',
+      ...(meaningOf.has(w.term) ? { meaning: meaningOf.get(w.term) } : { gloss: w.gloss || w.pos || '' }),
+      level: w.level,
+      lesson: Math.floor(i / LESSON_SIZE) + 1,
+    })),
+  )
+  summaries.push(summary)
   console.log(
-    `${id.padEnd(16)} ${String(lessons.length).padStart(3)}/${course.lessonCount} lessons · ${allWords.length} words`,
+    `${id.padEnd(16)} ${String(summary.lessonCount).padStart(3)}/${course.lessonCount} lessons ready · ${source.length} words listed`,
   )
 }
 
+// Files are read alphabetically (advanced, basic, intermediate); list courses from basic up.
+const LEVEL_ORDER = ['basic', 'intermediate', 'advanced']
+summaries.sort((a, b) => a.lang.localeCompare(b.lang) || LEVEL_ORDER.indexOf(a.level) - LEVEL_ORDER.indexOf(b.level))
 write(join(OUT, 'index.json'), summaries)
 if (rejected.length) {
   console.log(`\n${rejected.length} lesson(s) skipped — regenerate with --redo:\n  ${rejected.join('\n  ')}`)

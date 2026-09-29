@@ -220,8 +220,10 @@ describe('Mưa chữ script sets', () => {
 
 const coursesDir = join(import.meta.dirname, '../../public/courses')
 const courses: (Deck & { lessons: { id: string }[] })[] = readdirSync(coursesDir)
-  .filter((f) => f.endsWith('.json') && f !== 'index.json')
+  .filter((f) => f.endsWith('.json') && f !== 'index.json' && !f.endsWith('.words.json'))
   .map((f) => JSON.parse(readFileSync(join(coursesDir, f), 'utf8')))
+  // Courses with no generated lesson yet have no words to play with.
+  .filter((c) => c.words.length > 0)
 const deckById = new Map(decks.map((d) => [d.id, d]))
 
 describe.each(courses.map((c) => [c.id, c] as const))('course word set — %s', (_, course) => {
