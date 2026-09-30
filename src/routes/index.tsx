@@ -1,38 +1,32 @@
-import { useSuspenseQuery } from '@tanstack/react-query'
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
 import { motion } from 'motion/react'
 import { Fragment, type ReactNode } from 'react'
 import { ProfileForm } from '../components/ProfileForm'
+import { ContentSkeleton, DashboardHero, DashboardStats } from '../components/home/DashboardOverview'
 import {
-  Books,
   COURSE_ICON,
   FLAG,
-  Fire,
   WorldMap,
-  GlowingStar,
   MASCOT,
   OpenBook,
-  PartyPopper,
-  Pushpin,
   Scroll,
   SpeechBalloon,
   TRACK_ICON,
-  WavingHand,
   WritingHand,
   type IconType,
 } from '../components/icons'
 import { IconTile, OffPath, ProgressBar, cx } from '../components/ui'
-import { catalogQuery, coursesQuery, type TopicDeckSummary } from '../lib/api'
+import type { TopicDeckSummary } from '../lib/api'
 import { useCloud } from '../lib/cloud'
 import { useLang } from '../lib/lang'
+import { useHomeContent } from '../lib/useHomeContent'
+import { useDashboardStats } from '../lib/useDashboardStats'
 import { useProgress, useStreak, useTodayXp, type Profile } from '../lib/store'
 import { TRACK_PLAN, partition, type HomeSection, type PracticeLink } from '../lib/track'
 import { COURSE_LABEL, LANGS, TRACKS, type CourseSummary, type Lang } from '../lib/types'
 
 export const Route = createFileRoute('/')({
-  loader: ({ context }) =>
-    Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
   component: Home,
 })
 
@@ -83,56 +77,8 @@ function Onboarding({ onSubmit }: { onSubmit: (p: Profile) => void }) {
   )
 }
 
-/** Circular progress ring for the daily XP goal. */
-function GoalRing({ value, max }: { value: number; max: number }) {
-  const pct = Math.min(1, max ? value / max : 0)
-  const r = 34
-  const c = 2 * Math.PI * r
-  return (
-    <div className="relative size-24 shrink-0">
-      <svg viewBox="0 0 80 80" className="size-full -rotate-90">
-        <circle cx="40" cy="40" r={r} fill="none" stroke="rgba(255,255,255,.2)" strokeWidth="8" />
-        <motion.circle
-          cx="40"
-          cy="40"
-          r={r}
-          fill="none"
-          stroke="white"
-          strokeWidth="8"
-          strokeLinecap="round"
-          strokeDasharray={c}
-          initial={{ strokeDashoffset: c }}
-          animate={{ strokeDashoffset: c * (1 - pct) }}
-          transition={{ type: 'spring', stiffness: 60, damping: 16 }}
-        />
-      </svg>
-      <div className="absolute inset-0 flex flex-col items-center justify-center leading-tight">
-        {pct >= 1 ? (
-          <PartyPopper className="size-9" />
-        ) : (
-          <span className="text-xl font-black tabular-nums">{value}</span>
-        )}
-        <span className="text-[10px] font-bold text-white/80 uppercase">/ {max} XP</span>
-      </div>
-    </div>
-  )
-}
-
-function Stat({ Icon, value, label }: { Icon: typeof Fire; value: number | string; label: string }) {
-  return (
-    <div className="flex items-center gap-3 rounded-2xl bg-white p-3 shadow-sm ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800">
-      <Icon className="size-8 shrink-0" />
-      <div className="min-w-0">
-        <div className="text-lg leading-tight font-black tabular-nums">{value}</div>
-        <div className="truncate text-xs font-semibold text-slate-500">{label}</div>
-      </div>
-    </div>
-  )
-}
-
 function Dashboard({ profile }: { profile: Profile }) {
-  const { data: catalog } = useSuspenseQuery(catalogQuery)
-  const { data: courses } = useSuspenseQuery(coursesQuery)
+  const { catalog, courses, catalogPending, coursesPending } = useHomeContent()
   const todayXp = useTodayXp()
   const streak = useStreak()
   const xp = useProgress((s) => s.xp)
@@ -144,11 +90,8 @@ function Dashboard({ profile }: { profile: Profile }) {
   const accountName = useCloud((s) => (s.session ? s.profile?.display_name : undefined))
   const name = accountName || profile.name
 
-  const now = Date.now()
-  const cards = Object.entries(srs)
-  const countFor = (prefix: string, dueOnly: boolean) =>
-    cards.filter(([key, card]) => key.startsWith(prefix) && (!dueOnly || card.due <= now)).length
-  const totalDue = cards.filter(([, card]) => card.due <= now).length
+  const stats = useDashboardStats(srs, courses)
+  const countFor = (id: string) => stats?.countsByDeck.get(id) ?? { learned: 0, due: 0 }
 
   // The learner's group decides which lessons are shown; the others are folded at the bottom.
   const track = profile.track
@@ -167,18 +110,22 @@ function Dashboard({ profile }: { profile: Profile }) {
   const hasGrammar = lang === 'en'
   const otherGrammar = hasGrammar && !plan.home.includes('grammar')
   const offPathCount = otherDecks.length + otherCourses.length + otherPractice.length + Number(otherGrammar)
-  const goalReached = todayXp >= profile.dailyGoal
 
   const courseCard = (course: CourseSummary) => (
     <CourseCard
       key={course.id}
       course={course}
-      learned={countFor(`${course.id}-`, false)}
-      due={countFor(`${course.id}-`, true)}
+      learned={countFor(course.id).learned}
+      due={countFor(course.id).due}
     />
   )
   const deckCard = (deck: TopicDeckSummary) => (
-    <DeckCard key={deck.id} deck={deck} learned={countFor(`${deck.id}:`, false)} due={countFor(`${deck.id}:`, true)} />
+    <DeckCard
+      key={deck.id}
+      deck={deck}
+      learned={countFor(deck.id).learned}
+      due={countFor(deck.id).due}
+    />
   )
   const practiceGrid = (links: PracticeLink[]) => (
     <div className={cx('grid gap-2 sm:gap-3', links.length === 3 ? 'grid-cols-3' : 'grid-cols-2')}>
@@ -191,7 +138,9 @@ function Dashboard({ profile }: { profile: Profile }) {
   const sections: Record<HomeSection, ReactNode> = {
     grammar: hasGrammar && <GrammarCard />,
     practice: practiceGrid(plan.practice),
-    courses: langCourses.length > 0 && (
+    courses: coursesPending ? (
+      <ContentSkeleton count={3} />
+    ) : langCourses.length > 0 && (
       <>
         <h3 className="flex items-center gap-2 pt-2 font-black">
           <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
@@ -201,22 +150,15 @@ function Dashboard({ profile }: { profile: Profile }) {
         </div>
       </>
     ),
-    topics: decks.length > 0 && (
+    topics: catalogPending ? (
+      <ContentSkeleton count={4} />
+    ) : decks.length > 0 && (
       <>
         <h3 className="flex items-center gap-2 pt-2 font-black">
           <TrackIcon className="size-6" /> Chủ đề cho nhóm {TRACKS[track].label}
         </h3>
         <div className="grid gap-3 sm:grid-cols-2">
-          {decks.map((deck, i) => (
-            <motion.div
-              key={deck.id}
-              initial={{ opacity: 0, y: 12 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: i * 0.05 }}
-            >
-              {deckCard(deck)}
-            </motion.div>
-          ))}
+          {decks.map((deck) => deckCard(deck))}
         </div>
       </>
     ),
@@ -224,33 +166,13 @@ function Dashboard({ profile }: { profile: Profile }) {
 
   return (
     <div className="space-y-6">
-      <section className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-indigo-600 via-violet-600 to-fuchsia-600 p-6 text-white shadow-xl shadow-indigo-500/20">
-        <div className="pointer-events-none absolute -top-16 -right-10 size-56 rounded-full bg-white/10" />
-        <div className="pointer-events-none absolute -bottom-20 left-10 size-40 rounded-full bg-white/10" />
-        <div className="relative flex items-center gap-4">
-          <div className="min-w-0 flex-1">
-            <p className="inline-flex items-center gap-1.5 font-semibold text-indigo-100">
-              Xin chào{name ? `, ${name}` : ''} <WavingHand className="size-5" />
-            </p>
-            <h1 className="mt-1 text-2xl leading-tight font-black sm:text-3xl">
-              {goalReached ? 'Đã đạt mục tiêu hôm nay!' : 'Hôm nay học gì nào?'}
-            </h1>
-            <p className="mt-1 text-sm text-white/80">
-              {goalReached
-                ? 'Tuyệt vời, giữ vững chuỗi ngày học nhé.'
-                : `Còn ${profile.dailyGoal - todayXp} XP nữa là đạt mục tiêu.`}
-            </p>
-          </div>
-          <GoalRing value={todayXp} max={profile.dailyGoal} />
-        </div>
-      </section>
-
-      <section className="grid grid-cols-2 gap-3 sm:grid-cols-4">
-        <Stat Icon={Fire} value={streak} label="Ngày liên tiếp" />
-        <Stat Icon={GlowingStar} value={xp} label="Tổng XP" />
-        <Stat Icon={Books} value={cards.length} label="Từ đã học" />
-        <Stat Icon={Pushpin} value={totalDue} label="Thẻ cần ôn" />
-      </section>
+      <DashboardHero name={name} todayXp={todayXp} dailyGoal={profile.dailyGoal} />
+      <DashboardStats
+        streak={streak}
+        xp={xp}
+        learned={stats?.totalLearned ?? '…'}
+        due={stats?.totalDue ?? '…'}
+      />
 
       <section className="space-y-3">
         <div className="flex items-center justify-between gap-3">
@@ -279,14 +201,16 @@ function Dashboard({ profile }: { profile: Profile }) {
           <Fragment key={section}>{sections[section]}</Fragment>
         ))}
 
-        <OffPath title="Nội dung của nhóm khác" count={offPathCount} className="mt-6">
-          <div className="space-y-3">
-            {otherGrammar && <GrammarCard />}
-            {otherPractice.length > 0 && practiceGrid(otherPractice)}
-            {otherCourses.length > 0 && <div className="grid gap-3 sm:grid-cols-3">{otherCourses.map(courseCard)}</div>}
-            {otherDecks.length > 0 && <div className="grid gap-3 sm:grid-cols-2">{otherDecks.map(deckCard)}</div>}
-          </div>
-        </OffPath>
+        {!catalogPending && !coursesPending && (
+          <OffPath title="Nội dung của nhóm khác" count={offPathCount} className="mt-6">
+            <div className="space-y-3">
+              {otherGrammar && <GrammarCard />}
+              {otherPractice.length > 0 && practiceGrid(otherPractice)}
+              {otherCourses.length > 0 && <div className="grid gap-3 sm:grid-cols-3">{otherCourses.map(courseCard)}</div>}
+              {otherDecks.length > 0 && <div className="grid gap-3 sm:grid-cols-2">{otherDecks.map(deckCard)}</div>}
+            </div>
+          </OffPath>
+        )}
       </section>
     </div>
   )

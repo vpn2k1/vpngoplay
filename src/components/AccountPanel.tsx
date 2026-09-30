@@ -3,7 +3,7 @@ import { CloudOff, LogIn, LogOut, RefreshCw, UserPlus } from 'lucide-react'
 import { useEffect, useState, type ComponentProps } from 'react'
 import { useForm } from 'react-hook-form'
 import { z } from 'zod'
-import { ARCADE_GAMES } from '../arcade/games'
+import { ARCADE_GAME_IDS } from '../arcade/gameIds'
 import {
   USERNAME_RE,
   pushProgress,
@@ -254,7 +254,7 @@ function Account() {
         <div className="flex gap-2">
           <Button
             variant="ghost"
-            onClick={() => pushProgress(Object.keys(ARCADE_GAMES))}
+            onClick={() => pushProgress(ARCADE_GAME_IDS)}
             disabled={status === 'syncing'}
           >
             <RefreshCw className={cx('size-4', status === 'syncing' && 'animate-spin')} /> Đồng bộ

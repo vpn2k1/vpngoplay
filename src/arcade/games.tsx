@@ -1,30 +1,34 @@
-import type { ComponentType } from 'react'
+import { lazy, type ComponentType, type LazyExoticComponent } from 'react'
 import type { Lang } from '../lib/types'
 import type { ArcadeGameProps } from './ArcadeShell'
 import { standardMode, type ModeOption } from './challenge'
-import { Bingo } from './games/Bingo'
-import { Catch } from './games/Catch'
-import { Dino } from './games/Dino'
-import { Fishing } from './games/Fishing'
-import { Flappy } from './games/Flappy'
-import { GoldMiner } from './games/GoldMiner'
-import { GoldenBell } from './games/GoldenBell'
-import { Memory } from './games/Memory'
-import { Millionaire } from './games/Millionaire'
-import { Penalty } from './games/Penalty'
-import { Racing } from './games/Racing'
-import { Rain } from './games/Rain'
-import { Shooter } from './games/Shooter'
-import { Snake } from './games/Snake'
-import { SnakesLadders } from './games/SnakesLadders'
-import { Snowman } from './games/Snowman'
-import { Spell } from './games/Spell'
-import { TicTacToe } from './games/TicTacToe'
-import { TrueFalse } from './games/TrueFalse'
-import { Tug } from './games/Tug'
-import { WordSearch } from './games/WordSearch'
-import { Whack } from './games/Whack'
+import { ARCADE_GAME_IDS, type ArcadeGameId } from './gameIds'
 import { SCRIPT_SETS } from './scripts'
+
+export type { ArcadeGameId } from './gameIds'
+
+const Bingo = lazy(() => import('./games/Bingo').then((m) => ({ default: m.Bingo })))
+const Catch = lazy(() => import('./games/Catch').then((m) => ({ default: m.Catch })))
+const Dino = lazy(() => import('./games/Dino').then((m) => ({ default: m.Dino })))
+const Fishing = lazy(() => import('./games/Fishing').then((m) => ({ default: m.Fishing })))
+const Flappy = lazy(() => import('./games/Flappy').then((m) => ({ default: m.Flappy })))
+const GoldMiner = lazy(() => import('./games/GoldMiner').then((m) => ({ default: m.GoldMiner })))
+const GoldenBell = lazy(() => import('./games/GoldenBell').then((m) => ({ default: m.GoldenBell })))
+const Memory = lazy(() => import('./games/Memory').then((m) => ({ default: m.Memory })))
+const Millionaire = lazy(() => import('./games/Millionaire').then((m) => ({ default: m.Millionaire })))
+const Penalty = lazy(() => import('./games/Penalty').then((m) => ({ default: m.Penalty })))
+const Racing = lazy(() => import('./games/Racing').then((m) => ({ default: m.Racing })))
+const Rain = lazy(() => import('./games/Rain').then((m) => ({ default: m.Rain })))
+const Shooter = lazy(() => import('./games/Shooter').then((m) => ({ default: m.Shooter })))
+const Snake = lazy(() => import('./games/Snake').then((m) => ({ default: m.Snake })))
+const SnakesLadders = lazy(() => import('./games/SnakesLadders').then((m) => ({ default: m.SnakesLadders })))
+const Snowman = lazy(() => import('./games/Snowman').then((m) => ({ default: m.Snowman })))
+const Spell = lazy(() => import('./games/Spell').then((m) => ({ default: m.Spell })))
+const TicTacToe = lazy(() => import('./games/TicTacToe').then((m) => ({ default: m.TicTacToe })))
+const TrueFalse = lazy(() => import('./games/TrueFalse').then((m) => ({ default: m.TrueFalse })))
+const Tug = lazy(() => import('./games/Tug').then((m) => ({ default: m.Tug })))
+const WordSearch = lazy(() => import('./games/WordSearch').then((m) => ({ default: m.WordSearch })))
+const Whack = lazy(() => import('./games/Whack').then((m) => ({ default: m.Whack })))
 
 export interface ArcadeGame {
   id: string
@@ -35,7 +39,7 @@ export interface ArcadeGame {
   intro: string
   controls: string[]
   modes: (lang: Lang) => ModeOption[]
-  Game: ComponentType<ArcadeGameProps>
+  Game: LazyExoticComponent<ComponentType<ArcadeGameProps>>
   trackSrs?: boolean
   /** false when the game has its own content (Mưa chữ uses each language's alphabet, not a deck) */
   usesDeck?: boolean
@@ -420,8 +424,6 @@ export const ARCADE_GAMES = {
   },
 } satisfies Record<string, ArcadeGame>
 
-export type ArcadeGameId = keyof typeof ARCADE_GAMES
-
 /** How the games tab groups the games (every game appears in exactly one group). */
 export const GAME_GROUPS: { title: string; hint: string; ids: ArcadeGameId[] }[] = [
   {
@@ -448,7 +450,7 @@ export const GAME_GROUPS: { title: string; hint: string; ids: ArcadeGameId[] }[]
 
 /** A random word game (not an alphabet game), different from `current` when possible. */
 export function randomGameId(current?: string): ArcadeGameId {
-  const ids = (Object.keys(ARCADE_GAMES) as ArcadeGameId[]).filter(
+  const ids = ARCADE_GAME_IDS.filter(
     (id) => (ARCADE_GAMES[id] as ArcadeGame).usesDeck !== false && id !== current,
   )
   return ids[Math.floor(Math.random() * ids.length)]

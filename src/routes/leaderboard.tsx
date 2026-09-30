@@ -3,17 +3,18 @@ import { Link, createFileRoute } from '@tanstack/react-router'
 import { CloudOff, RefreshCw, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
 import { z } from 'zod'
-import { ARCADE_GAMES, type ArcadeGameId } from '../arcade/games'
+import { ARCADE_GAMES } from '../arcade/games'
+import { ARCADE_GAME_IDS, type ArcadeGameId } from '../arcade/gameIds'
 import { GAME_ICON } from '../components/icons'
 import { cx } from '../components/ui'
 import { fetchLeaderboard, supabase, useCloud } from '../lib/cloud'
 
-const GAME_IDS = Object.keys(ARCADE_GAMES) as ArcadeGameId[]
+const GAME_IDS: [ArcadeGameId, ...ArcadeGameId[]] = [...ARCADE_GAME_IDS]
 
 export const Route = createFileRoute('/leaderboard')({
   validateSearch: z.object({
     board: z.enum(['week', 'all', 'game']).optional(),
-    game: z.enum(GAME_IDS as [ArcadeGameId, ...ArcadeGameId[]]).optional(),
+    game: z.enum(GAME_IDS).optional(),
   }),
   component: LeaderboardPage,
 })

@@ -1,0 +1,27 @@
+/** Lightweight game IDs for app-wide sync and route validation. */
+export const ARCADE_GAME_IDS = [
+  'shooter',
+  'dino',
+  'racing',
+  'whack',
+  'flappy',
+  'rain',
+  'memory',
+  'snake',
+  'truefalse',
+  'tug',
+  'spell',
+  'hangman',
+  'wordsearch',
+  'millionaire',
+  'goldminer',
+  'goldenbell',
+  'bingo',
+  'penalty',
+  'fishing',
+  'catch',
+  'tictactoe',
+  'snakesladders',
+] as const
+
+export type ArcadeGameId = (typeof ARCADE_GAME_IDS)[number]

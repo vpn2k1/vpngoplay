@@ -1,5 +1,5 @@
 import { AnimatePresence, motion } from 'motion/react'
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Hamster, KnockedOutFace, SquintingFaceWithTongue } from '../../components/icons'
 import { SpeakButton, cx } from '../../components/ui'
 import { meaningAnswers } from '../../lib/answer'
@@ -36,6 +36,7 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
   const reverse = mode === 'reverse'
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
   const [round, setRound] = useState<Round | null>(null)
+  const roundRef = useRef<Round | null>(null)
   const [hud, setHud] = useState({ score: 0, time: GAME_TIME, combo: 0 })
   const g = useGameState(() => ({
     time: GAME_TIME,
@@ -72,26 +73,40 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
     holes.forEach((hole, i) => (moles[hole] = { choice: choices[i], state: 'up' }))
     g.roundLeft = roundTime()
     g.rounds++
-    setRound({
+    const nextRound: Round = {
       id: g.rounds,
       word,
       prompt: reverse ? (meaningAnswers(word)[0] ?? word.meaning) : word.term,
       sub: reverse ? undefined : readingOf(word, deck.lang),
       moles,
       answered: false,
-    })
+    }
+    roundRef.current = nextRound
+    setRound(nextRound)
     if (!reverse) speak(word.term, deck.lang)
   }
 
   const endRound = (r: Round, moles: (Mole | null)[]) => {
     g.doneRound = r.id
-    setRound({ ...r, moles, answered: true })
+    const resolvedRound = { ...r, moles, answered: true }
+    roundRef.current = resolvedRound
+    setRound(resolvedRound)
     g.nextIn = 0.7
   }
 
-  const whack = (index: number) => {
-    if (!round || g.doneRound === round.id || paused || g.over) return
-    const mole = round.moles[index]
+  const whack = (index: number, displayedRoundId: number | null) => {
+    const currentRound = roundRef.current
+    // Ignore input from an old board while a newly generated round is rendering.
+    if (
+      !currentRound ||
+      currentRound.id !== displayedRoundId ||
+      currentRound.answered ||
+      g.doneRound === currentRound.id ||
+      paused ||
+      g.over
+    )
+      return
+    const mole = currentRound.moles[index]
     if (!mole || mole.state !== 'up') return
     if (mole.choice.correct) {
       const bonus = Math.ceil(g.roundLeft * 3)
@@ -101,20 +116,20 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
       g.score += 10 + bonus + Math.min(20, g.combo * 2)
       sfx.pop()
       sfx.coin()
-      if (reverse) speak(round.word.term, deck.lang)
+      if (reverse) speak(currentRound.word.term, deck.lang)
       endRound(
-        round,
-        round.moles.map((m, i) => (i === index ? { ...m!, state: 'hit' } : m)),
+        currentRound,
+        currentRound.moles.map((m, i) => (i === index ? { ...m!, state: 'hit' } : m)),
       )
     } else {
       g.combo = 0
       g.wrong++
       g.time = Math.max(0, g.time - 2)
-      g.missed.push(round.word)
+      g.missed.push(currentRound.word)
       sfx.wrong()
       endRound(
-        round,
-        round.moles.map((m, i) =>
+        currentRound,
+        currentRound.moles.map((m, i) =>
           i === index ? { ...m!, state: 'wrong' } : m?.choice.correct ? { ...m, state: 'reveal' } : m,
         ),
       )
@@ -124,8 +139,9 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      if (e.repeat) return
       const n = Number(e.key)
-      if (n >= 1 && n <= 9) whack(n - 1)
+      if (n >= 1 && n <= 9) whack(n - 1, round?.id ?? null)
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
@@ -237,7 +253,7 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
               type="button"
               onPointerDown={(e) => {
                 e.preventDefault()
-                whack(i)
+                whack(i, round?.id ?? null)
               }}
               className="relative h-28 overflow-hidden sm:h-36"
               style={{ cursor: HAMMER }}

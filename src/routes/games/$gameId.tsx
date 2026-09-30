@@ -16,7 +16,6 @@ import {
   isReviewSource,
   learnedDeck,
   learnedDeckIds,
-  learnedKeysOf,
   savedDeck,
   savedWordsOf,
   type ReviewSource,
@@ -70,12 +69,29 @@ function GamePage() {
   const [pathDecks, otherDecks] = partition(langDecks, (d) => deckOnPath(track, d))
   const [pathCourses, otherCourses] = partition(langCourses, (c) => TRACK_PLAN[track].courses.includes(c.level))
   const allSaved = useProgress((s) => s.saved)
-  const saved = useMemo(() => savedWordsOf(allSaved, lang), [allSaved, lang])
+  const savedWords = useMemo(() => {
+    if (search.deck !== REVIEW_SAVED) return []
+    return savedWordsOf(allSaved, lang)
+  }, [allSaved, lang, search.deck])
+  const savedCount = useMemo(
+    () => Object.values(allSaved).filter((word) => word.lang === lang).length,
+    [allSaved, lang],
+  )
   // Studied words as of opening the page: games schedule reviews when they end, and
   // reloading the word set right then would throw away the results screen.
   const [srs] = useState(() => useProgress.getState().srs)
-  const learnedKeys = useMemo(() => learnedKeysOf(srs, lang), [srs, lang])
-  const reviewCount: Record<ReviewSource, number> = { saved: saved.length, learned: learnedKeys.length }
+  const learned = useMemo(() => {
+    let count = 0
+    const keys: string[] | null = search.deck === REVIEW_LEARNED ? [] : null
+    for (const key of Object.keys(srs)) {
+      if (!key.startsWith(`${lang}-`)) continue
+      count++
+      keys?.push(key)
+    }
+    return { count, keys: keys ?? [] }
+  }, [lang, search.deck, srs])
+  const learnedKeys = learned.keys
+  const reviewCount: Record<ReviewSource, number> = { saved: savedCount, learned: learned.count }
 
   const fallback = pathDecks.find((d) => !d.category) ?? langDecks[0]
   const valid =
@@ -105,11 +121,11 @@ function GamePage() {
   const deck = useMemo(
     () =>
       choice === REVIEW_SAVED
-        ? savedDeck(lang, saved)
+        ? savedDeck(lang, savedWords)
         : choice === REVIEW_LEARNED
           ? learnedDeck(lang, learnedDecks, learnedKeys)
           : loaded,
-    [choice, lang, saved, learnedDecks, learnedKeys, loaded],
+    [choice, lang, savedWords, learnedDecks, learnedKeys, loaded],
   )
   const totalWords = pathDecks.reduce((n, d) => n + d.wordCount, 0)
   const usesDeck = game.usesDeck !== false

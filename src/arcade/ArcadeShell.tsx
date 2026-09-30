@@ -1,6 +1,15 @@
 import { Link } from '@tanstack/react-router'
 import { AnimatePresence, motion } from 'motion/react'
-import { useEffect, useRef, useState, type ComponentType, type ReactNode, type Ref } from 'react'
+import {
+  Suspense,
+  useEffect,
+  useRef,
+  useState,
+  type ComponentType,
+  type LazyExoticComponent,
+  type ReactNode,
+  type Ref,
+} from 'react'
 import { Bookmark, Pause, Play, SlidersHorizontal, X } from 'lucide-react'
 import {
   FLAG,
@@ -19,7 +28,6 @@ import { toSaved } from '../lib/review'
 import { wordCardKey } from '../lib/srs'
 import { useProgress } from '../lib/store'
 import { GAME_SPEEDS, LANGS, type Deck, type GameSpeed, type Word } from '../lib/types'
-import { preloadSprites } from './art'
 import type { ModeOption } from './challenge'
 
 export interface GameOverResult {
@@ -50,7 +58,7 @@ interface ArcadeShellProps {
   intro: string
   controls: string[]
   modes: ModeOption[]
-  Game: ComponentType<ArcadeGameProps>
+  Game: LazyExoticComponent<ComponentType<ArcadeGameProps>>
   /** Record missed words into the flashcard schedule (off for non-deck content) */
   trackSrs?: boolean
   /** Show the speed picker (games where things move on their own) */
@@ -82,8 +90,6 @@ export function ArcadeShell({
   paced = true,
   setup,
 }: ArcadeShellProps) {
-  // Decode the cartoon sprites while the learner picks a mode, so the first frames have pictures.
-  useEffect(() => preloadSprites(), [])
   const track = useProgress((s) => s.profile?.track)
   const addXp = useProgress((s) => s.addXp)
   const review = useProgress((s) => s.review)
@@ -104,6 +110,8 @@ export function ArcadeShell({
   const modeInfo = modes.find((m) => m.id === mode) ?? modes[0]
 
   const start = () => {
+    // Keep the shared SVG sprites out of the game setup route until a round starts.
+    void import('./art').then(({ preloadSprites }) => preloadSprites())
     finished.current = false
     setRound((r) => r + 1)
     setPaused(false)
@@ -309,7 +317,9 @@ export function ArcadeShell({
         </button>
       </div>
       <div className="relative">
-        <Game key={round} deck={deck} mode={mode} pace={pace} paused={paused} best={best} onGameOver={gameOver} />
+        <Suspense fallback={<p className="py-12 text-center text-slate-500">Đang tải trò chơi…</p>}>
+          <Game key={round} deck={deck} mode={mode} pace={pace} paused={paused} best={best} onGameOver={gameOver} />
+        </Suspense>
         <AnimatePresence>
           {paused && (
             <motion.div

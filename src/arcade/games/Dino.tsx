@@ -40,7 +40,6 @@ import {
   HEART_EMPTY,
   INK,
   MOON,
-  MYSTERY,
   PAPER,
   drawPixelText,
   pixelTextWidth,
@@ -237,7 +236,7 @@ export function Dino({ deck, mode, pace, paused, best = 0, onGameOver }: ArcadeG
     const choices = choiceMode ? makeChoices(word, deck.words, 2, deck.track === 'kids') : null
     g.obstacles.push({
       id: g.nextId++,
-      kind: choices ? (choices[0].correct ? 'cactus' : 'bird') : Math.random() < 0.6 ? 'cactus' : 'bird',
+      kind: Math.random() < 0.6 ? 'cactus' : 'bird',
       x: 1.12,
       ch: makeChallenge(word, deck.lang, typingMode),
       choices,
@@ -387,14 +386,8 @@ export function Dino({ deck, mode, pace, paused, best = 0, onGameOver }: ArcadeG
     const labels: (() => void)[] = []
     for (const o of g.obstacles) {
       const x = o.x * w
-      const hidden = choiceMode && o.state === 'pending'
       let top: number
-      if (hidden) {
-        // A "?" block: its shape mustn't give away whether to jump or duck.
-        const y = ground - size * 0.95 + Math.sin(g.time * 3 + o.id) * 3
-        drawPixels(ctx, MYSTERY, x, y + (MYSTERY.length * px) / 2, px, { '#': INK })
-        top = y - (MYSTERY.length * px) / 2
-      } else if (o.kind === 'cactus') {
+      if (o.kind === 'cactus') {
         const sprite = o.large ? CACTUS_LARGE : CACTUS_SMALL
         const count = o.large ? Math.min(2, o.count) : o.count
         const cw = sprite[0].length * px
@@ -510,8 +503,8 @@ export function Dino({ deck, mode, pace, paused, best = 0, onGameOver }: ArcadeG
             {active ? (
               <>
                 <span className="text-2xl text-slate-900 dark:text-white">{active.ch.prompt}</span>
-                {active.ch.sub && <span className="ml-1 text-sky-600 dark:text-sky-400">({active.ch.sub})</span>} là gì?
-                ↑ nhảy · ↓ cúi
+                {active.ch.sub && <span className="ml-1 text-sky-600 dark:text-sky-400">({active.ch.sub})</span>}
+                {' '}Chọn nghĩa đúng để né chướng ngại vật.
               </>
             ) : (
               'Chuẩn bị…'

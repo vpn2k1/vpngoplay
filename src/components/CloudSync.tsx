@@ -1,9 +1,9 @@
 import { useEffect } from 'react'
-import { ARCADE_GAMES } from '../arcade/games'
+import { ARCADE_GAME_IDS } from '../arcade/gameIds'
 import { pullProgress, pushProgress, supabase, useCloud } from '../lib/cloud'
 import { useProgress } from '../lib/store'
 
-const GAME_IDS = Object.keys(ARCADE_GAMES)
+const GAME_IDS = ARCADE_GAME_IDS
 const PUSH_DELAY = 3000
 
 /**

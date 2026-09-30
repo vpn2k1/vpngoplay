@@ -1,6 +1,5 @@
 import { Link, createFileRoute, useNavigate } from '@tanstack/react-router'
 import { Bookmark, Clock, Dices, GraduationCap, X } from 'lucide-react'
-import { AnimatePresence, motion } from 'motion/react'
 import { useMemo } from 'react'
 import { ARCADE_GAMES, randomGameId } from '../arcade/games'
 import { BookmarkTabs, FLAG, GAME_ICON } from '../components/icons'
@@ -148,14 +147,11 @@ function ReviewPage() {
           </div>
         ) : (
           <ul className="divide-y divide-slate-100 overflow-hidden rounded-3xl bg-white shadow-sm ring-1 ring-slate-200 dark:divide-slate-800 dark:bg-slate-900 dark:ring-slate-800">
-            <AnimatePresence initial={false}>
-              {saved.map(({ key, word }) => {
+            {saved.map(({ key, word }) => {
                 const card = srs[key]
                 return (
-                  <motion.li
+                  <li
                     key={key}
-                    layout
-                    exit={{ opacity: 0, height: 0 }}
                     className="flex items-center gap-3 px-4 py-3"
                   >
                     <span className="flex size-11 shrink-0 items-center justify-center rounded-2xl bg-slate-100 text-2xl dark:bg-slate-800">
@@ -180,10 +176,9 @@ function ReviewPage() {
                     >
                       <X className="size-4" />
                     </button>
-                  </motion.li>
+                  </li>
                 )
-              })}
-            </AnimatePresence>
+            })}
           </ul>
         )}
       </section>
