@@ -4,6 +4,7 @@
  "order": 8,
  "level": "N2",
  "icon": "interview",
+ "tracks": ["work", "exam"],
  "title": "Phỏng vấn xin việc",
  "scene": "Bạn phỏng vấn vào một công ty Nhật.",
  "roles": {

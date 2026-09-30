@@ -2,6 +2,23 @@
 
 Web học ngoại ngữ (Anh · Nhật · Trung) bằng trò chơi, dành cho 3 nhóm: **Trẻ em**, **Người đi làm** và **Luyện thi** (IELTS / JLPT / HSK).
 
+## Nội dung theo nhóm người học
+
+Câu hỏi **"Bạn thuộc nhóm nào?"** (lúc bắt đầu và trong Cài đặt) quyết định bài học được đưa ra. Kế hoạch của từng nhóm nằm ở `src/lib/track.ts` (`TRACK_PLAN`):
+
+| | 🧒 Trẻ em | 💼 Người đi làm | 🎓 Luyện thi |
+|---|---|---|---|
+| Thứ tự trang chủ | Chủ đề → Giao tiếp, Học theo câu → lộ trình | Giao tiếp, Học theo câu, Thành ngữ → chủ đề → lộ trình → ngữ pháp | Lộ trình → ngữ pháp → chủ đề → luyện câu |
+| Chủ đề | bộ Trẻ em | bộ Người đi làm | bộ Luyện thi (IELTS / JLPT / HSK) |
+| Lộ trình 3.000 từ | chỉ Cơ bản | cả 3 cấp | cả 3 cấp |
+| Học theo câu | A1–A2 · N5–N4 · HSK1–2 | mọi cấp | mọi cấp |
+| Giao tiếp | tình huống hằng ngày (làm quen, gọi món, mua sắm, hỏi đường) | mọi tình huống | mọi tình huống |
+| Thành ngữ, Ngữ pháp | không | có | có |
+
+- Nội dung không thuộc nhóm vẫn mở được: trang chủ gom ở mục **Nội dung của nhóm khác**, trang Giao tiếp ở **Tình huống khác**, trang Học theo câu ở **Cấp độ cao hơn**.
+- Trong trò chơi, bộ từ mặc định và **Tất cả chủ đề của bạn** chỉ lấy bộ từ của nhóm; các bộ khác nằm ở **Bộ từ của nhóm khác**. Nhóm Trẻ em chơi mặc định ở chế độ chọn đáp án, có hình minh hoạ.
+- Mỗi hội thoại khai báo các nhóm phù hợp trong trường `tracks` (`public/talk/*.json`).
+
 **Stack:** React 19 · Vite · TanStack Router (file-based) · TanStack Query · react-hook-form + zod · Zustand (persist) · Tailwind CSS v4 · Motion (animation) · canvas-confetti · deploy lên Vercel.
 
 **Icon:**
@@ -21,9 +38,9 @@ Web học ngoại ngữ (Anh · Nhật · Trung) bằng trò chơi, dành cho 3 
 
 Học tập và trò chơi là **hai tab tách biệt** trên thanh điều hướng:
 - **📚 Học tập** (`/`): các bộ từ và 4 bài ôn luyện.
-- **🕹️ Trò chơi** (`/games`): 6 game dùng chung cho mọi ngôn ngữ.
+- **🕹️ Trò chơi** (`/games`): 12 game dùng chung cho mọi ngôn ngữ.
 
-Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, bộ từ (một bộ hoặc ⭐ **Tất cả từ** của ngôn ngữ đó) và chế độ chơi. Khi chơi "Tất cả từ", từ bị lọt vẫn được xếp lịch ôn trong bộ gốc của nó (`Word.srsKey`).
+Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, bộ từ (một bộ, một lộ trình hoặc ⭐ **Tất cả chủ đề của bạn**) và chế độ chơi. Khi chơi "Tất cả chủ đề", từ bị lọt vẫn được xếp lịch ôn trong bộ gốc của nó (`Word.srsKey`).
 
 | Game | Chế độ | Cách chơi |
 |---|---|---|
@@ -33,6 +50,12 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 | 🔨 Đập chuột | Chọn nghĩa · Chọn từ | 60 giây đập đúng chú chuột, phím 1–9 hoặc chạm |
 | 🐤 Chim bay | Chọn nghĩa · Chọn từ | Vỗ cánh bay qua khe mang đáp án đúng |
 | 🎈 Mưa chữ | Hiragana/Katakana · 60 chữ Hán · 50 từ qua hình | Học bảng chữ: gõ romaji, pinyin hoặc từ tiếng Anh để bắn nổ bóng bay |
+| 🧠 Lật hình | 6 cặp · 8 cặp | Lật 2 thẻ một lượt để ghép từ với nghĩa, càng ít lượt càng nhiều điểm |
+| 🐍 Rắn săn mồi | Chọn nghĩa · Chọn từ | Điều khiển rắn ăn quả táo mang đáp án đúng; ăn nhầm hay đâm tường mất mạng |
+| ✅ Đúng hay sai | Từ = nghĩa? · Nghe = nghĩa? | 60 giây vuốt thẻ: nghĩa đi kèm từ đúng hay sai |
+| 💪 Kéo co | Chọn nghĩa · Chọn từ · Gõ nghĩa · Gõ ngoại ngữ | Đấu với đội robot: mỗi câu đúng kéo dây về phía bạn, sai hay bỏ qua thì robot giật lại. Đưa cờ qua vạch bên mình là thắng vòng; robot mạnh dần qua từng vòng |
+| 🎟️ Lô tô | Nhìn và nghe · Chỉ nghe · Chọn từ | Người xướng đọc từng từ, tìm ô đúng trên vé trước khi hết lượt. Đủ hàng ngang, dọc hoặc chéo là "Kinh!" (+50). Vé 4×4 khi bộ từ đủ 16 nghĩa khác nhau, không thì 3×3 |
+| 🔤 Xếp chữ | Nhìn nghĩa · Nghe rồi xếp | 90 giây xếp lại các chữ bị xáo (lẫn vài chữ thừa) thành từ: chữ cái cho tiếng Anh, kana cho tiếng Nhật (kể cả từ viết bằng kanji), chữ Hán cho tiếng Trung. Nhầm 3 lần thì lộ đáp án; có Gợi ý và Bỏ qua |
 
 - **Hai hướng gõ, giống nhau cho mọi ngôn ngữ:**
   - **Gõ nghĩa tiếng Việt:** hiện từ ngoại ngữ kèm kana / pinyin / IPA nhỏ bên dưới.
@@ -47,7 +70,7 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 - **Tốc độ** 🐢 Chậm · 🐰 Vừa (mặc định) · ⚡ Nhanh, chọn trong menu mỗi game và được lưu lại. Tương ứng 50% · 70% · 100% tốc độ gốc: chữ rơi, đường chạy, rắn và thời gian chờ đều chậm theo. Không áp dụng cho Lật hình và Đúng hay sai.
 - **Thêm game mới:** viết một component nhận `ArcadeGameProps` rồi đăng ký trong `src/arcade/games.tsx`.
 
-Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ hiện lưu trong `localStorage`.
+Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ lưu trong `localStorage`, và đồng bộ lên tài khoản khi đăng nhập (xem [Tài khoản & bảng xếp hạng](#tài-khoản--bảng-xếp-hạng)).
 
 ## Ngữ pháp & Phát âm (tiếng Anh, `/grammar`)
 
@@ -109,7 +132,7 @@ Có 8 tình huống cho mỗi ngôn ngữ: làm quen, gọi món, mua sắm, h�
 - **Nghe cả bài:** đọc lần lượt từng câu và tô sáng câu đang đọc. Bấm vào câu nào để nghe riêng câu đó.
 - **Nhập vai:** bạn đóng vai B. App đọc lời của người kia, bạn chọn câu mình cần nói trong 3 câu (có gợi ý nghĩa tiếng Việt), rồi có thể bấm **Nói theo** để luyện phát âm.
 
-Nội dung nằm ở `public/talk/<id>.json`. `npm run catalog` kiểm tra các file này (`scripts/build-talk.mjs`: đủ vai, đủ lượt, phiên âm kana/pinyin…) rồi sinh `public/talk/index.json`.
+Nội dung nằm ở `public/talk/<id>.json`. `npm run catalog` kiểm tra các file này (`scripts/build-talk.mjs`: đủ vai, đủ lượt, phiên âm kana/pinyin, trường `tracks` ghi nhóm phù hợp, mỗi ngôn ngữ có hội thoại cho cả 3 nhóm…) rồi sinh `public/talk/index.json`.
 
 ### 📜 Thành ngữ (`/idioms`)
 
@@ -119,7 +142,7 @@ Có 6 bộ, mỗi bộ 12 câu:
 - **Tiếng Trung:** thành ngữ 成语, quán dụng ngữ 惯用语.
 
 Mỗi câu có nghĩa tương đương trong tiếng Việt, và âm Hán Việt nếu có (一石二鳥 nhất thạch nhị điểu, 入乡随俗 nhập gia tùy tục).
-- **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 9 trò chơi.
+- **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 12 trò chơi.
 - **Nơi hiển thị:** các bộ này có trang riêng, không nằm trong mục "Chủ đề" ở trang học.
 
 ## Ôn tập (tab riêng, `/review`)
@@ -335,6 +358,63 @@ npx vercel --prod # bản production
 
 `vercel.json` đã có rewrite để các route của SPA (vd. `/decks/ja-exam-n5/match`) không bị 404 khi tải lại trang.
 
+## Tài khoản & bảng xếp hạng
+
+Phần này không bắt buộc: chưa cấu hình Supabase thì app vẫn chạy, tiến độ chỉ lưu trên máy.
+
+- **Đăng ký:** tên tài khoản + mật khẩu (không cần email), kèm tên hiển thị và avatar. Có thể đăng nhập bằng Google.
+- **Mỗi tài khoản là 1 dòng, dữ liệu là 1 chuỗi JSON** (`accounts.data`), gồm tên, avatar, XP, streak, lịch ôn flashcard, kỷ lục và sổ từ.
+  - Định dạng `PackedProgress` trong `src/lib/cloud.ts`: khoá 1 chữ cái, mảng thay cho object, flashcard gom theo bộ từ, thời gian tính theo phút.
+  - Kích thước chỉ còn khoảng 1/3 so với dữ liệu trên máy (1.000 thẻ flashcard: 83 KB → 26 KB).
+- **Đồng bộ:**
+  - Khi đăng nhập, dữ liệu trên cloud được gộp với dữ liệu trên máy, không mất gì.
+  - Sau đó, mỗi thay đổi được gửi lên sau 3 giây bằng **1 request**, và chỉ gửi khi dữ liệu có thay đổi.
+  - App không bao giờ gửi lên trước khi đã gộp xong, nên lỗi mạng không làm mất tiến độ trên cloud.
+- **Bảng xếp hạng** (XP tuần, XP mọi lúc, điểm từng game):
+  - Đọc các cột Postgres tự sinh từ JSON, không phải đọc cả JSON của mọi người.
+  - Chỉ hiện tên hiển thị và avatar.
+  - Tên và avatar chỉ đổi được qua `set_profile`, nên một máy khác gửi tiến độ cũ lên cũng không làm tên bị đổi lại.
+
+Cài đặt (làm một lần):
+
+1. Tạo project trên [supabase.com](https://supabase.com) (gói Free là đủ).
+2. Vào **SQL Editor**, chạy lần lượt các file trong `supabase/migrations/`: `0001_accounts_leaderboard.sql`, `0002_community_questions.sql` (tab Cộng đồng), `0003_community_samples.sql` (30 câu hỏi mẫu).
+3. Vào **Authentication → Sign In / Providers → Email**: giữ Email ở trạng thái bật, và **tắt "Confirm email"**. Tài khoản đăng ký bằng tên dùng một email ảo (`<tên>@vpngoplay.vercel.app`) nên không nhận được thư xác nhận.
+4. Vào Project Settings → API, lấy Project URL và publishable key:
+   - Ghi vào `.env` (`VITE_SUPABASE_URL`, `VITE_SUPABASE_KEY`).
+   - Thêm vào Environment Variables trên Vercel, rồi redeploy.
+5. (Tuỳ chọn) Đăng nhập bằng Google:
+   - Tạo OAuth client trên Google Cloud Console, với redirect URI `https://<project>.supabase.co/auth/v1/callback`.
+   - Bật provider Google trong Supabase.
+   - Thêm `https://<domain>/**` vào Authentication → URL Configuration → Redirect URLs.
+
+### 👥 Cộng đồng (`/community`)
+
+Tab dành cho người đã đăng nhập: đặt câu hỏi trắc nghiệm cho mọi người cùng trả lời, và học từ câu hỏi của người khác.
+
+- **Đặt câu hỏi** về ngôn ngữ đang học (cờ trên header):
+  - Mỗi câu có 2–4 đáp án khác nhau và 1 đáp án đúng; phần giải thích không bắt buộc.
+  - Được +5 XP mỗi câu, tối đa 20 câu/ngày.
+  - Người đặt câu hỏi có thể xoá câu của mình.
+- **Trả lời:**
+  - Mỗi người trả lời một lần; lần đầu mới được tính.
+  - Trả lời xong mới thấy đáp án đúng, tỉ lệ mọi người chọn từng đáp án và phần giải thích. Trả lời đúng được +5 XP.
+  - Đáp án đúng không nằm trong dữ liệu gửi về trước khi trả lời, nên không xem trước được.
+- **Bộ lọc:** Mới nhất · Chưa làm · Làm sai (để ôn lại) · Của tôi.
+- **Câu hỏi mẫu** (`0003`): 30 câu, mỗi ngôn ngữ 10 câu, đứng tên VpngoPlay. Xoá bằng `delete from public.questions where author is null;`.
+- **Dữ liệu:**
+  - Bảng `questions` lưu luôn số người chọn mỗi đáp án (`counts`), nên tải danh sách không phải đếm lại câu trả lời.
+  - Bảng `answers` chỉ lưu 1 dòng nhỏ cho mỗi người, mỗi câu.
+  - Mọi thao tác đi qua hàm trong `0002_community_questions.sql`.
+
+**Quên mật khẩu:** tài khoản không gắn email nên người dùng không tự đặt lại được. Quản trị viên đặt mật khẩu mới trong SQL Editor:
+
+```sql
+update auth.users
+set encrypted_password = extensions.crypt('mat-khau-moi', extensions.gen_salt('bf'))
+where email = 'ten_tai_khoan@vpngoplay.vercel.app';
+```
+
 ## Thêm bộ từ mới
 
 1. Tạo file `public/decks/<lang>-<track>-<tên>.json` theo cấu trúc của file có sẵn (`words` + `sentences`).
@@ -356,8 +436,9 @@ src/
     sentences/            # Học theo câu: danh sách gói theo cấp + $packId
     talk/                 # Giao tiếp: danh sách tình huống + $dialogueId (hội thoại, nhập vai)
     idioms.tsx            # Thành ngữ: các bộ từ category "idioms"
+    community.tsx         # Cộng đồng: câu hỏi trắc nghiệm do người học đăng (lib/community.ts)
   games/                  # Flashcard, Match, SentenceBuilder, Dictation, SentencePack, RolePlay
-  arcade/                 # engine + 6 game arcade (games/*.tsx) + dữ liệu bảng chữ (scripts.ts)
+  arcade/                 # engine + 12 game arcade (games/*.tsx) + dữ liệu bảng chữ (scripts.ts), vé lô tô (bingo.ts), xếp chữ (spell.ts)
   components/             # ui.tsx, ProfileForm.tsx (react-hook-form + zod)
   lib/                    # api (queryOptions), store (zustand), srs, speech, types
 public/decks/*.json       # nội dung bài học (bộ chủ đề + từng bài của lộ trình)
@@ -372,7 +453,6 @@ data/enriched/            # kết quả Claude sinh, từng bài
 
 ## Lộ trình tiếp theo
 
-- **Đăng nhập + đồng bộ tiến độ:** Supabase Auth + Postgres (hoặc Clerk + Neon), thay `localStorage` trong `lib/store.ts`.
 - **API serverless:** thư mục `api/` (Vercel Functions) để lấy bộ từ từ DB; chỉ cần đổi URL trong `lib/api.ts`.
 - **AI:** nhập vai hội thoại, sinh bộ từ theo chủ đề, chấm bài viết IELTS (gọi Claude API từ Vercel Function, có giới hạn lượt/ngày).
-- Luyện phát âm bằng SpeechRecognition, bảng xếp hạng tuần, PWA để cài lên điện thoại và học offline.
+- Luyện phát âm bằng SpeechRecognition, PWA để cài lên điện thoại và học offline.

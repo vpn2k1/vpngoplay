@@ -4,6 +4,7 @@
  "order": 3,
  "level": "N4",
  "icon": "shopping",
+ "tracks": ["kids", "work", "exam"],
  "title": "Mua giày",
  "scene": "Bạn mua một đôi giày thể thao ở cửa hàng.",
  "roles": {

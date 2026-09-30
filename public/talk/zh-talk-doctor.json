@@ -4,6 +4,7 @@
  "order": 6,
  "level": "HSK3",
  "icon": "doctor",
+ "tracks": ["work", "exam"],
  "title": "Đi khám bệnh",
  "scene": "Bạn bị ốm và đến bệnh viện khám.",
  "roles": {

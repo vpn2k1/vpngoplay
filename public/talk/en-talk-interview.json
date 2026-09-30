@@ -4,6 +4,7 @@
  "order": 8,
  "level": "B2",
  "icon": "interview",
+ "tracks": ["work", "exam"],
  "title": "Phỏng vấn xin việc",
  "scene": "Bạn phỏng vấn vị trí nhân viên marketing.",
  "roles": {

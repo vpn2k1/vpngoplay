@@ -37,6 +37,8 @@ interface ProgressState {
   xp: number
   streak: { count: number; lastDay: string | null }
   today: { day: string; xp: number }
+  /** XP this week; `day` is the week's Monday */
+  week: { day: string; xp: number }
   srs: Record<string, SrsCard>
   bestScores: Record<string, number>
   saved: Record<string, SavedWord>
@@ -71,6 +73,13 @@ export function dayKey(date = new Date()) {
   return `${y}-${m}-${d}`
 }
 
+/** Monday of the week of `date` (weeks start on Monday, like the weekly leaderboard). */
+export function weekKey(date = new Date()) {
+  const monday = new Date(date)
+  monday.setDate(monday.getDate() - ((monday.getDay() + 6) % 7))
+  return dayKey(monday)
+}
+
 function yesterdayKey() {
   const d = new Date()
   d.setDate(d.getDate() - 1)
@@ -86,12 +95,13 @@ const initial = {
   xp: 0,
   streak: { count: 0, lastDay: null },
   today: { day: dayKey(), xp: 0 },
+  week: { day: weekKey(), xp: 0 },
   srs: {},
   bestScores: {} as Record<string, number>,
   saved: {} as Record<string, SavedWord>,
 }
 
-// Kept in localStorage for the MVP; sync to Supabase/DB once auth is added.
+// Kept in localStorage; a signed-in account also saves it to Supabase (lib/cloud.ts).
 export const useProgress = create<ProgressState>()(
   persist(
     (set, get) => ({
@@ -120,7 +130,9 @@ export const useProgress = create<ProgressState>()(
               ? s.streak
               : { count: s.streak.lastDay === yesterdayKey() ? s.streak.count + 1 : 1, lastDay: day }
           const todayXp = s.today.day === day ? s.today.xp + amount : amount
-          return { xp: s.xp + amount, streak, today: { day, xp: todayXp } }
+          const monday = weekKey()
+          const weekXp = s.week.day === monday ? s.week.xp + amount : amount
+          return { xp: s.xp + amount, streak, today: { day, xp: todayXp }, week: { day: monday, xp: weekXp } }
         }),
       review: (key, grade) => set((s) => ({ srs: { ...s.srs, [key]: schedule(s.srs[key], grade) } })),
       submitScore: (key, score) => {

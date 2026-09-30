@@ -1,52 +1,164 @@
 import { zodResolver } from '@hookform/resolvers/zod'
-import { CloudOff, LogOut, Mail, RefreshCw } from 'lucide-react'
-import { useEffect, useState } from 'react'
+import { CloudOff, LogIn, LogOut, RefreshCw, UserPlus } from 'lucide-react'
+import { useEffect, useState, type ComponentProps } from 'react'
 import { useForm } from 'react-hook-form'
 import { z } from 'zod'
 import { ARCADE_GAMES } from '../arcade/games'
 import {
+  USERNAME_RE,
   pushProgress,
-  signInWithEmail,
+  signIn,
   signInWithGoogle,
   signOut,
+  signUp,
   supabase,
   updateProfile,
   useCloud,
+  usernameOf,
 } from '../lib/cloud'
+import { useProgress } from '../lib/store'
 import { Button, cx } from './ui'
 
 const AVATARS = ['🙂', '😎', '🦊', '🐼', '🦉', '🐯', '🐸', '🐙', '🦄', '🚀', '⭐', '🔥']
 
-const emailSchema = z.object({ email: z.email('Email chưa đúng') })
-const nameSchema = z.object({ name: z.string().trim().min(1, 'Nhập tên hiển thị').max(32, 'Tối đa 32 ký tự') })
+const username = z
+  .string()
+  .trim()
+  .toLowerCase()
+  .regex(USERNAME_RE, '3–20 ký tự: chữ không dấu, số hoặc dấu gạch dưới (_)')
+const name = z.string().trim().min(1, 'Nhập tên hiển thị').max(32, 'Tối đa 32 ký tự')
+const signInSchema = z.object({ username, password: z.string().min(1, 'Nhập mật khẩu') })
+const signUpSchema = z
+  .object({
+    username,
+    name,
+    password: z.string().min(6, 'Mật khẩu ít nhất 6 ký tự').max(72, 'Tối đa 72 ký tự'),
+    confirm: z.string(),
+  })
+  .refine((v) => v.password === v.confirm, { path: ['confirm'], message: 'Mật khẩu nhập lại chưa khớp' })
+const nameSchema = z.object({ name })
 
 const input =
   'w-full rounded-2xl border-2 border-slate-200 bg-white px-4 py-2.5 outline-none focus:border-indigo-400 dark:border-slate-700 dark:bg-slate-900'
 
-function SignIn() {
-  const [sentTo, setSentTo] = useState<string | null>(null)
-  const [error, setError] = useState<string | null>(null)
-  const form = useForm({ resolver: zodResolver(emailSchema), defaultValues: { email: '' } })
+function Field({ label, error, ...props }: { label: string; error?: string } & ComponentProps<'input'>) {
+  return (
+    <label className="block">
+      <span className="mb-1 block text-sm font-bold">{label}</span>
+      <input className={input} {...props} />
+      {error && <p className="mt-1 text-sm text-rose-600">{error}</p>}
+    </label>
+  )
+}
 
-  const submit = form.handleSubmit(async ({ email }) => {
+const usernameInput = { autoCapitalize: 'none', autoCorrect: 'off', spellCheck: false, maxLength: 20 } as const
+
+function SignInForm() {
+  const [error, setError] = useState<string | null>(null)
+  const form = useForm({ resolver: zodResolver(signInSchema), defaultValues: { username: '', password: '' } })
+  const { errors } = form.formState
+
+  const submit = form.handleSubmit(async (v) => {
     setError(null)
     try {
-      await signInWithEmail(email)
-      setSentTo(email)
+      await signIn(v.username, v.password)
     } catch (e) {
       setError(e instanceof Error ? e.message : String(e))
     }
   })
 
-  if (sentTo)
-    return (
-      <div className="rounded-2xl bg-emerald-50 p-4 text-emerald-900 dark:bg-emerald-950 dark:text-emerald-200">
-        Đã gửi link đăng nhập tới <b>{sentTo}</b>. Mở email trên thiết bị này và bấm vào link.{' '}
-        <button type="button" onClick={() => setSentTo(null)} className="font-bold underline">
-          Dùng email khác
-        </button>
-      </div>
-    )
+  return (
+    <form onSubmit={submit} className="space-y-3">
+      <Field
+        label="Tên tài khoản"
+        autoComplete="username"
+        {...usernameInput}
+        error={errors.username?.message}
+        {...form.register('username')}
+      />
+      <Field
+        label="Mật khẩu"
+        type="password"
+        autoComplete="current-password"
+        error={errors.password?.message}
+        {...form.register('password')}
+      />
+      {error && <p className="text-sm text-rose-600">{error}</p>}
+      <Button type="submit" className="w-full" disabled={form.formState.isSubmitting}>
+        <LogIn className="size-4" /> Đăng nhập
+      </Button>
+    </form>
+  )
+}
+
+function SignUpForm() {
+  const [error, setError] = useState<string | null>(null)
+  const learnerName = useProgress((s) => s.profile?.name ?? '')
+  const form = useForm({
+    resolver: zodResolver(signUpSchema),
+    defaultValues: { username: '', name: learnerName.slice(0, 32), password: '', confirm: '' },
+  })
+  const { errors } = form.formState
+
+  const submit = form.handleSubmit(async (v) => {
+    setError(null)
+    try {
+      await signUp(v.username, v.password, v.name)
+    } catch (e) {
+      setError(e instanceof Error ? e.message : String(e))
+    }
+  })
+
+  return (
+    <form onSubmit={submit} className="space-y-3">
+      <Field
+        label="Tên tài khoản (dùng để đăng nhập)"
+        autoComplete="username"
+        placeholder="vd: minh_anh"
+        {...usernameInput}
+        error={errors.username?.message}
+        {...form.register('username')}
+      />
+      <Field
+        label="Tên hiển thị (trên bảng xếp hạng)"
+        maxLength={32}
+        error={errors.name?.message}
+        {...form.register('name')}
+      />
+      <Field
+        label="Mật khẩu"
+        type="password"
+        autoComplete="new-password"
+        error={errors.password?.message}
+        {...form.register('password')}
+      />
+      <Field
+        label="Nhập lại mật khẩu"
+        type="password"
+        autoComplete="new-password"
+        error={errors.confirm?.message}
+        {...form.register('confirm')}
+      />
+      <p className="text-xs text-slate-500">
+        Không cần email. Hãy ghi nhớ mật khẩu: tài khoản không gắn email nên không tự lấy lại mật khẩu được.
+      </p>
+      {error && <p className="text-sm text-rose-600">{error}</p>}
+      <Button type="submit" className="w-full" disabled={form.formState.isSubmitting}>
+        <UserPlus className="size-4" /> Tạo tài khoản
+      </Button>
+    </form>
+  )
+}
+
+const tab = (active: boolean) =>
+  cx(
+    'flex-1 rounded-xl px-3 py-2 text-center text-sm font-bold transition',
+    active ? 'bg-white shadow-sm dark:bg-slate-700' : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300',
+  )
+
+function SignIn() {
+  const [mode, setMode] = useState<'sign-in' | 'sign-up'>('sign-in')
+  const [error, setError] = useState<string | null>(null)
 
   return (
     <div className="space-y-3">
@@ -54,23 +166,15 @@ function SignIn() {
         Đăng nhập để lưu tiến độ lên cloud (học tiếp trên máy khác) và có tên trên bảng xếp hạng. Tiến độ đang có trên
         máy này sẽ được gộp vào tài khoản.
       </p>
-      <form onSubmit={submit} className="flex flex-col gap-2 sm:flex-row">
-        <div className="flex-1">
-          <input
-            type="email"
-            autoComplete="email"
-            placeholder="email@example.com"
-            className={input}
-            {...form.register('email')}
-          />
-          {form.formState.errors.email && (
-            <p className="mt-1 text-sm text-rose-600">{form.formState.errors.email.message}</p>
-          )}
-        </div>
-        <Button type="submit" disabled={form.formState.isSubmitting}>
-          <Mail className="size-4" /> Gửi link đăng nhập
-        </Button>
-      </form>
+      <div className="flex gap-1 rounded-2xl bg-slate-100 p-1 dark:bg-slate-900">
+        <button type="button" onClick={() => setMode('sign-in')} className={tab(mode === 'sign-in')}>
+          Đăng nhập
+        </button>
+        <button type="button" onClick={() => setMode('sign-up')} className={tab(mode === 'sign-up')}>
+          Tạo tài khoản
+        </button>
+      </div>
+      {mode === 'sign-in' ? <SignInForm /> : <SignUpForm />}
       <div className="flex items-center gap-3 text-xs text-slate-400">
         <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> hoặc{' '}
         <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
@@ -111,6 +215,7 @@ function Account() {
   const status = useCloud((s) => s.status)
   const lastSync = useCloud((s) => s.lastSync)
   const syncError = useCloud((s) => s.error)
+  const handle = usernameOf(session?.user.email)
   const [saved, setSaved] = useState(false)
   const form = useForm({ resolver: zodResolver(nameSchema), defaultValues: { name: profile?.display_name ?? '' } })
 
@@ -128,7 +233,7 @@ function Account() {
     <div className="space-y-4">
       <div className="flex flex-wrap items-center justify-between gap-2">
         <div className="min-w-0">
-          <div className="truncate font-bold">{session?.user.email}</div>
+          <div className="truncate font-bold">{handle ? `@${handle}` : session?.user.email}</div>
           <div className="text-sm text-slate-500">
             {status === 'syncing'
               ? 'Đang đồng bộ…'
@@ -189,7 +294,7 @@ function Account() {
         </div>
       </div>
       <p className="text-xs text-slate-500">
-        Bảng xếp hạng chỉ hiện tên và avatar, không hiện email. Khi đăng xuất, tiến độ vẫn còn trên máy này.
+        Bảng xếp hạng chỉ hiện tên hiển thị và avatar. Khi đăng xuất, tiến độ vẫn còn trên máy này.
       </p>
     </div>
   )

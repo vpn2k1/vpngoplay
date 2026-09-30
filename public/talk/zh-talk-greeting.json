@@ -4,6 +4,7 @@
  "order": 1,
  "level": "HSK1",
  "icon": "greeting",
+ "tracks": ["kids", "work", "exam"],
  "title": "Làm quen bạn mới",
  "scene": "Bạn làm quen với Lý Na, một bạn học người Bắc Kinh.",
  "roles": {

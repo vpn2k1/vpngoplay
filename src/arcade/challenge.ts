@@ -9,7 +9,7 @@
 import { toHiragana } from 'wanakana'
 import { japaneseKey, meaningAnswers, pinyinKey, wordAnswers } from '../lib/answer'
 import { cardKey, wordCardKey, type SrsCard } from '../lib/srs'
-import { LANGS, type Deck, type Lang, type Word } from '../lib/types'
+import { LANGS, type Deck, type Lang, type Track, type Word } from '../lib/types'
 import { normalizeAnswer, shuffle } from '../lib/utils'
 
 export type StandardMode = 'meaning' | 'write' | 'choice' | 'reverse'
@@ -198,15 +198,16 @@ export function makeChoices(
 export const ALL_WORDS = 'all'
 
 /**
- * Every deck of one language merged into a single word pool (games tab → "Tất cả từ").
+ * Decks of one language merged into a single word pool (games tab → "Tất cả chủ đề"); `track`
+ * is the learner group they were picked for.
  * Word ids are made unique per source deck, and each word keeps its source
  * flashcard key so misses are scheduled in the deck it came from.
  */
-export function combineDecks(lang: Lang, decks: Deck[]): Deck {
+export function combineDecks(lang: Lang, decks: Deck[], track: Track = 'work'): Deck {
   return {
     id: `${ALL_WORDS}-${lang}`,
     lang,
-    track: 'work',
+    track,
     level: `${decks.length} bộ`,
     title: `Tất cả từ ${LANGS[lang].label.replace('Tiếng ', 'tiếng ')}`,
     description: decks.map((d) => d.title).join(' · '),

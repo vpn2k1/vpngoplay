@@ -4,6 +4,7 @@
  "order": 5,
  "level": "N4",
  "icon": "hotel",
+ "tracks": ["work", "exam"],
  "title": "Nhận phòng khách sạn",
  "scene": "Bạn đến khách sạn ở Osaka và làm thủ tục nhận phòng.",
  "roles": {

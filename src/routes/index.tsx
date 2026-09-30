@@ -1,7 +1,8 @@
 import { useSuspenseQuery } from '@tanstack/react-query'
 import { Link, createFileRoute } from '@tanstack/react-router'
-import { BookOpen, ChevronRight, Clock, MessageSquareText, Sparkles } from 'lucide-react'
+import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
 import { motion } from 'motion/react'
+import { Fragment, type ReactNode } from 'react'
 import { ProfileForm } from '../components/ProfileForm'
 import {
   Books,
@@ -21,10 +22,11 @@ import {
   WritingHand,
   type IconType,
 } from '../components/icons'
-import { IconTile, ProgressBar, cx } from '../components/ui'
+import { IconTile, OffPath, ProgressBar, cx } from '../components/ui'
 import { catalogQuery, coursesQuery, type TopicDeckSummary } from '../lib/api'
 import { useLang } from '../lib/lang'
 import { useProgress, useStreak, useTodayXp, type Profile } from '../lib/store'
+import { TRACK_PLAN, partition, type HomeSection, type PracticeLink } from '../lib/track'
 import { COURSE_LABEL, LANGS, TRACKS, type CourseSummary, type Lang } from '../lib/types'
 
 export const Route = createFileRoute('/')({
@@ -69,7 +71,7 @@ function Onboarding({ onSubmit }: { onSubmit: (p: Profile) => void }) {
           </span>
         </h1>
         <p className="mx-auto mt-2 max-w-md text-slate-500">
-          Tiếng Anh, Nhật, Trung với flashcard thông minh, 7 dạng bài luyện, 9 trò chơi và ngữ pháp tiếng Anh. Mỗi ngày
+          Tiếng Anh, Nhật, Trung với flashcard thông minh, 7 dạng bài luyện, 12 trò chơi và ngữ pháp tiếng Anh. Mỗi ngày
           chỉ cần 5 phút.
         </p>
       </section>
@@ -144,11 +146,77 @@ function Dashboard({ profile }: { profile: Profile }) {
     cards.filter(([key, card]) => key.startsWith(prefix) && (!dueOnly || card.due <= now)).length
   const totalDue = cards.filter(([, card]) => card.due <= now).length
 
+  // The learner's group decides which lessons are shown; the others are folded at the bottom.
+  const track = profile.track
+  const plan = TRACK_PLAN[track]
+  const TrackIcon = TRACK_ICON[track]
   // Idiom decks have their own page (/idioms).
-  const decks = catalog
-    .filter((d) => d.lang === lang && !d.category)
-    .sort((a, b) => Number(b.track === profile.track) - Number(a.track === profile.track))
+  const [decks, otherDecks] = partition(
+    catalog.filter((d) => d.lang === lang && !d.category),
+    (d) => d.track === track,
+  )
+  const [langCourses, otherCourses] = partition(
+    courses.filter((c) => c.lang === lang),
+    (c) => plan.courses.includes(c.level),
+  )
+  const otherPractice = PRACTICE_LINKS.filter((p) => !plan.practice.includes(p))
+  const hasGrammar = lang === 'en'
+  const otherGrammar = hasGrammar && !plan.home.includes('grammar')
+  const offPathCount = otherDecks.length + otherCourses.length + otherPractice.length + Number(otherGrammar)
   const goalReached = todayXp >= profile.dailyGoal
+
+  const courseCard = (course: CourseSummary) => (
+    <CourseCard
+      key={course.id}
+      course={course}
+      learned={countFor(`${course.id}-`, false)}
+      due={countFor(`${course.id}-`, true)}
+    />
+  )
+  const deckCard = (deck: TopicDeckSummary) => (
+    <DeckCard key={deck.id} deck={deck} learned={countFor(`${deck.id}:`, false)} due={countFor(`${deck.id}:`, true)} />
+  )
+  const practiceGrid = (links: PracticeLink[]) => (
+    <div className={cx('grid gap-2 sm:gap-3', links.length === 3 ? 'grid-cols-3' : 'grid-cols-2')}>
+      {links.map((link) => (
+        <FeatureCard key={link} {...PRACTICE[link]} hint={PRACTICE[link].hint(lang)} />
+      ))}
+    </div>
+  )
+
+  const sections: Record<HomeSection, ReactNode> = {
+    grammar: hasGrammar && <GrammarCard />,
+    practice: practiceGrid(plan.practice),
+    courses: langCourses.length > 0 && (
+      <>
+        <h3 className="flex items-center gap-2 pt-2 font-black">
+          <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
+        </h3>
+        <div className={cx('grid gap-3', langCourses.length >= 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
+          {langCourses.map(courseCard)}
+        </div>
+      </>
+    ),
+    topics: decks.length > 0 && (
+      <>
+        <h3 className="flex items-center gap-2 pt-2 font-black">
+          <TrackIcon className="size-6" /> Chủ đề cho nhóm {TRACKS[track].label}
+        </h3>
+        <div className="grid gap-3 sm:grid-cols-2">
+          {decks.map((deck, i) => (
+            <motion.div
+              key={deck.id}
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * 0.05 }}
+            >
+              {deckCard(deck)}
+            </motion.div>
+          ))}
+        </div>
+      </>
+    ),
+  }
 
   return (
     <div className="space-y-6">
@@ -189,85 +257,87 @@ function Dashboard({ profile }: { profile: Profile }) {
           <Mascot className="size-9 shrink-0 drop-shadow" />
         </div>
 
-        {lang === 'en' && (
-          <Link
-            to="/grammar"
-            className="group flex items-center gap-4 rounded-3xl bg-gradient-to-br from-sky-500 to-indigo-600 p-4 text-white shadow-md transition hover:-translate-y-0.5 hover:shadow-xl"
-          >
-            <OpenBook className="size-12 shrink-0 drop-shadow transition group-hover:-rotate-6" />
-            <span className="min-w-0 flex-1">
-              <span className="block text-lg font-black">Ngữ pháp & Phát âm</span>
-              <span className="block text-sm text-white/85">
-                12 thì · 11 chủ điểm từ loại · 44 âm IPA · gần 300 câu luyện
-              </span>
-            </span>
-            <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-1" />
-          </Link>
-        )}
+        <Link
+          to="/settings"
+          className="group flex items-center gap-3 rounded-2xl bg-white p-3 ring-1 ring-slate-200 transition hover:ring-indigo-300 dark:bg-slate-900 dark:ring-slate-800"
+        >
+          <TrackIcon className="size-9 shrink-0" />
+          <span className="min-w-0 flex-1">
+            <span className="block text-sm font-black">Lộ trình cho nhóm {TRACKS[track].label}</span>
+            <span className="block text-xs text-slate-500">{plan.focus(lang)}</span>
+          </span>
+          <span className="shrink-0 text-xs font-bold text-indigo-600 group-hover:underline dark:text-indigo-400">
+            Đổi nhóm
+          </span>
+        </Link>
 
-        <div className="grid grid-cols-3 gap-2 sm:gap-3">
-          <FeatureCard
-            to="/sentences"
-            Icon={WritingHand}
-            title="Học theo câu"
-            hint="Nghe, nói theo, xếp câu"
-            className="from-emerald-400 to-teal-600"
-          />
-          <FeatureCard
-            to="/talk"
-            Icon={SpeechBalloon}
-            title="Giao tiếp"
-            hint="Hội thoại, nhập vai"
-            className="from-amber-400 to-orange-600"
-          />
-          <FeatureCard
-            to="/idioms"
-            Icon={Scroll}
-            title="Thành ngữ"
-            hint={lang === 'en' ? 'Idioms' : lang === 'ja' ? 'ことわざ' : '成语'}
-            className="from-rose-400 to-fuchsia-600"
-          />
-        </div>
+        {plan.home.map((section) => (
+          <Fragment key={section}>{sections[section]}</Fragment>
+        ))}
 
-        {courses.some((c) => c.lang === lang) && (
-          <>
-            <h3 className="flex items-center gap-2 pt-2 font-black">
-              <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
-            </h3>
-            <div className="grid gap-3 sm:grid-cols-3">
-              {courses
-                .filter((c) => c.lang === lang)
-                .map((course) => (
-                  <CourseCard
-                    key={course.id}
-                    course={course}
-                    learned={countFor(`${course.id}-`, false)}
-                    due={countFor(`${course.id}-`, true)}
-                  />
-                ))}
-            </div>
-            <h3 className="pt-2 font-black">Chủ đề</h3>
-          </>
-        )}
-        <div className="grid gap-3 sm:grid-cols-2">
-          {decks.map((deck, i) => (
-            <motion.div
-              key={deck.id}
-              initial={{ opacity: 0, y: 12 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: i * 0.05 }}
-            >
-              <DeckCard
-                deck={deck}
-                recommended={deck.track === profile.track}
-                learned={countFor(`${deck.id}:`, false)}
-                due={countFor(`${deck.id}:`, true)}
-              />
-            </motion.div>
-          ))}
-        </div>
+        <OffPath title="Nội dung của nhóm khác" count={offPathCount} className="mt-6">
+          <div className="space-y-3">
+            {otherGrammar && <GrammarCard />}
+            {otherPractice.length > 0 && practiceGrid(otherPractice)}
+            {otherCourses.length > 0 && <div className="grid gap-3 sm:grid-cols-3">{otherCourses.map(courseCard)}</div>}
+            {otherDecks.length > 0 && <div className="grid gap-3 sm:grid-cols-2">{otherDecks.map(deckCard)}</div>}
+          </div>
+        </OffPath>
       </section>
     </div>
+  )
+}
+
+const PRACTICE_LINKS: PracticeLink[] = ['talk', 'sentences', 'idioms']
+
+const PRACTICE: Record<
+  PracticeLink,
+  {
+    to: '/sentences' | '/talk' | '/idioms'
+    Icon: IconType
+    title: string
+    hint: (lang: Lang) => string
+    className: string
+  }
+> = {
+  sentences: {
+    to: '/sentences',
+    Icon: WritingHand,
+    title: 'Học theo câu',
+    hint: () => 'Nghe, nói theo, xếp câu',
+    className: 'from-emerald-400 to-teal-600',
+  },
+  talk: {
+    to: '/talk',
+    Icon: SpeechBalloon,
+    title: 'Giao tiếp',
+    hint: () => 'Hội thoại, nhập vai',
+    className: 'from-amber-400 to-orange-600',
+  },
+  idioms: {
+    to: '/idioms',
+    Icon: Scroll,
+    title: 'Thành ngữ',
+    hint: (lang) => (lang === 'en' ? 'Idioms' : lang === 'ja' ? 'ことわざ' : '成语'),
+    className: 'from-rose-400 to-fuchsia-600',
+  },
+}
+
+function GrammarCard() {
+  return (
+    <Link
+      to="/grammar"
+      className="group flex items-center gap-4 rounded-3xl bg-gradient-to-br from-sky-500 to-indigo-600 p-4 text-white shadow-md transition hover:-translate-y-0.5 hover:shadow-xl"
+    >
+      <OpenBook className="size-12 shrink-0 drop-shadow transition group-hover:-rotate-6" />
+      <span className="min-w-0 flex-1">
+        <span className="block text-lg font-black">Ngữ pháp & Phát âm</span>
+        <span className="block text-sm text-white/85">
+          12 thì · 11 chủ điểm từ loại · 44 âm IPA · gần 300 câu luyện
+        </span>
+      </span>
+      <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-1" />
+    </Link>
   )
 }
 
@@ -332,25 +402,12 @@ function CourseCard({ course, learned, due }: { course: CourseSummary; learned: 
   )
 }
 
-function DeckCard({
-  deck,
-  recommended,
-  learned,
-  due,
-}: {
-  deck: TopicDeckSummary
-  recommended: boolean
-  learned: number
-  due: number
-}) {
+function DeckCard({ deck, learned, due }: { deck: TopicDeckSummary; learned: number; due: number }) {
   return (
     <Link
       to="/decks/$deckId"
       params={{ deckId: deck.id }}
-      className={cx(
-        'group flex h-full flex-col rounded-3xl bg-white p-5 shadow-sm ring-1 transition hover:-translate-y-0.5 hover:shadow-lg dark:bg-slate-900',
-        recommended ? 'ring-2 ring-indigo-400 dark:ring-indigo-500' : 'ring-slate-200 dark:ring-slate-800',
-      )}
+      className="group flex h-full flex-col rounded-3xl bg-white p-5 shadow-sm ring-1 ring-slate-200 transition hover:-translate-y-0.5 hover:shadow-lg dark:bg-slate-900 dark:ring-slate-800"
     >
       <div className="flex items-start gap-3">
         <IconTile Icon={TRACK_ICON[deck.track]} className="bg-slate-100 dark:bg-slate-800" />
@@ -386,11 +443,6 @@ function DeckCard({
           {due > 0 && (
             <span className="inline-flex items-center gap-1 text-rose-500">
               <Clock className="size-3.5" /> {due} cần ôn
-            </span>
-          )}
-          {recommended && (
-            <span className="ml-auto inline-flex items-center gap-1 text-indigo-600 dark:text-indigo-400">
-              <Sparkles className="size-3.5" /> Gợi ý
             </span>
           )}
         </div>

@@ -268,6 +268,8 @@ export interface DialogueSummary {
   scene: string
   /** Illustration key (TALK_ICON in components/icons.tsx) */
   icon: string
+  /** Learner groups the situation suits; the others find it under "Tình huống khác" */
+  tracks: Track[]
   /** Role names in Vietnamese; the learner plays B */
   roles: Record<Speaker, string>
   /** Position in the list (easiest first) */

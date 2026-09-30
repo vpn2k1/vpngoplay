@@ -1,6 +1,6 @@
 import { Link } from '@tanstack/react-router'
 import confetti from 'canvas-confetti'
-import { ArrowLeft, Check, RotateCcw, Snail, Volume2, X } from 'lucide-react'
+import { ArrowLeft, Check, ChevronDown, RotateCcw, Snail, Volume2, X } from 'lucide-react'
 import { AnimatePresence, motion } from 'motion/react'
 import { Fragment, useEffect, useState, type ButtonHTMLAttributes, type ReactNode } from 'react'
 import { sfx } from '../lib/sfx'
@@ -180,6 +180,37 @@ export function IconTile({
         )}
       />
     </span>
+  )
+}
+
+/** Content outside the learner's group, folded away but still reachable. Renders nothing when empty. */
+export function OffPath({
+  title,
+  count,
+  open,
+  className,
+  children,
+}: {
+  title: string
+  count: number
+  /** Start unfolded, e.g. when the current choice is inside */
+  open?: boolean
+  className?: string
+  children: ReactNode
+}) {
+  if (!count) return null
+  return (
+    <details
+      open={open}
+      className={cx('group/off rounded-3xl border-2 border-dashed border-slate-200 dark:border-slate-800', className)}
+    >
+      <summary className="flex cursor-pointer list-none items-center gap-2 p-4 font-bold text-slate-500 transition select-none hover:text-indigo-600 [&::-webkit-details-marker]:hidden">
+        <ChevronDown className="size-5 shrink-0 transition group-open/off:rotate-180" />
+        {title}
+        <span className="ml-auto rounded-full bg-slate-100 px-2 py-0.5 text-xs dark:bg-slate-800">{count}</span>
+      </summary>
+      <div className="px-4 pb-4">{children}</div>
+    </details>
   )
 }
 

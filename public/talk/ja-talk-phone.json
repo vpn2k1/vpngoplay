@@ -4,6 +4,7 @@
  "order": 7,
  "level": "N3",
  "icon": "phone",
+ "tracks": ["work", "exam"],
  "title": "Gọi điện cho đối tác",
  "scene": "Bạn gọi điện đến công ty đối tác để tìm anh Yamada.",
  "roles": {

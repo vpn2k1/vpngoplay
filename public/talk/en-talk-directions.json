@@ -4,6 +4,7 @@
  "order": 4,
  "level": "A2",
  "icon": "directions",
+ "tracks": ["kids", "work", "exam"],
  "title": "Hỏi đường",
  "scene": "Bạn bị lạc ở một thành phố mới và hỏi đường đến ga tàu.",
  "roles": {

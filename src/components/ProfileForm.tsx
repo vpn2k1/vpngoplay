@@ -119,6 +119,10 @@ export function ProfileForm({
             )
           })}
         </div>
+        <p className="mt-1.5 text-xs text-slate-500">
+          Bài học đi theo nhóm: chủ đề, hội thoại, câu luyện và lộ trình. Nội dung của nhóm khác vẫn mở được ở cuối
+          trang.
+        </p>
       </fieldset>
 
       <fieldset>

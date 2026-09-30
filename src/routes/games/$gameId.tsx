@@ -7,8 +7,8 @@ import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
 import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
 import { Bookmark, Dices, GraduationCap } from 'lucide-react'
 import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, Scroll, TRACK_ICON } from '../../components/icons'
-import { cx } from '../../components/ui'
-import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery } from '../../lib/api'
+import { OffPath, cx } from '../../components/ui'
+import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery, type TopicDeckSummary } from '../../lib/api'
 import {
   MIN_REVIEW_WORDS,
   REVIEW_LEARNED,
@@ -23,7 +23,8 @@ import {
 } from '../../lib/review'
 import { useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
-import { COURSE_LABEL, TRACKS, type Deck } from '../../lib/types'
+import { TRACK_PLAN, deckOnPath, partition, useTrack } from '../../lib/track'
+import { COURSE_LABEL, TRACKS, type CourseSummary, type Deck } from '../../lib/types'
 
 export const Route = createFileRoute('/games/$gameId')({
   validateSearch: z.object({
@@ -56,7 +57,7 @@ function GamePage() {
   const { gameId } = Route.useParams()
   const search = Route.useSearch()
   const game: ArcadeGame = ARCADE_GAMES[gameId as ArcadeGameId]
-  const profile = useProgress((s) => s.profile)
+  const track = useTrack()
   const { lang, info } = useLang()
   const LangFlag = FLAG[lang]
 
@@ -65,6 +66,9 @@ function GamePage() {
   const langDecks = catalog.filter((d) => d.lang === lang)
   // Only courses with enough generated lessons to play with.
   const langCourses = courses.filter((c) => c.lang === lang && c.wordCount >= MIN_REVIEW_WORDS)
+  // The learner's group picks what is offered first; the rest is folded under "Bộ từ của nhóm khác".
+  const [pathDecks, otherDecks] = partition(langDecks, (d) => deckOnPath(track, d))
+  const [pathCourses, otherCourses] = partition(langCourses, (c) => TRACK_PLAN[track].courses.includes(c.level))
   const allSaved = useProgress((s) => s.saved)
   const saved = useMemo(() => savedWordsOf(allSaved, lang), [allSaved, lang])
   // Studied words as of opening the page: games schedule reviews when they end, and
@@ -73,7 +77,7 @@ function GamePage() {
   const learnedKeys = useMemo(() => learnedKeysOf(srs, lang), [srs, lang])
   const reviewCount: Record<ReviewSource, number> = { saved: saved.length, learned: learnedKeys.length }
 
-  const fallback = langDecks.find((d) => d.track === profile?.track) ?? langDecks[0]
+  const fallback = pathDecks.find((d) => !d.category) ?? langDecks[0]
   const valid =
     search.deck === ALL_WORDS ||
     (isReviewSource(search.deck) && reviewCount[search.deck] >= MIN_REVIEW_WORDS) ||
@@ -84,16 +88,16 @@ function GamePage() {
   const combine = useCallback(
     (results: { data: Deck }[]) => {
       const loaded = results.map((r) => r.data)
-      return choice === ALL_WORDS ? combineDecks(lang, loaded) : loaded[0]
+      return choice === ALL_WORDS ? combineDecks(lang, loaded, track) : loaded[0]
     },
-    [choice, lang],
+    [choice, lang, track],
   )
   // A course is a Deck with an extra lesson list; games only need the Deck part.
   const queries = isReviewSource(choice)
     ? []
     : isCourse
       ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
-      : (choice === ALL_WORDS ? langDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
+      : (choice === ALL_WORDS ? pathDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
   const loaded = useSuspenseQueries({ queries, combine })
   const { data: learnedDecks } = useSuspenseQuery(
     decksQuery(choice === REVIEW_LEARNED ? learnedDeckIds(learnedKeys) : []),
@@ -107,9 +111,53 @@ function GamePage() {
           : loaded,
     [choice, lang, saved, learnedDecks, learnedKeys, loaded],
   )
-  const totalWords = langDecks.reduce((n, d) => n + d.wordCount, 0)
+  const totalWords = pathDecks.reduce((n, d) => n + d.wordCount, 0)
   const usesDeck = game.usesDeck !== false
   const nextGame = useMemo(() => randomGameId(gameId), [gameId])
+
+  const courseChip = (c: CourseSummary) => {
+    const Icon = COURSE_ICON[c.level]
+    return (
+      <Link
+        key={c.id}
+        to="/games/$gameId"
+        params={{ gameId }}
+        search={{ deck: c.id }}
+        replace
+        className={chip(choice === c.id)}
+      >
+        <Icon className="size-6 shrink-0" />
+        <span className="min-w-0">
+          <span className="block truncate">Lộ trình {COURSE_LABEL[c.level]}</span>
+          <span className="block text-xs font-medium text-slate-500">
+            {c.range} · {c.wordCount.toLocaleString('vi-VN')} từ
+          </span>
+        </span>
+      </Link>
+    )
+  }
+
+  const deckChip = (d: TopicDeckSummary) => {
+    const Track = d.category === 'idioms' ? Scroll : TRACK_ICON[d.track]
+    return (
+      <Link
+        key={d.id}
+        to="/games/$gameId"
+        params={{ gameId }}
+        search={{ deck: d.id }}
+        replace
+        className={chip(choice === d.id)}
+      >
+        <Track className="size-6 shrink-0" />
+        <span className="min-w-0">
+          <span className="block truncate">{d.title}</span>
+          <span className="block text-xs font-medium text-slate-500">
+            {d.category === 'idioms' ? 'Thành ngữ' : TRACKS[d.track].label} · {d.level} · {d.wordCount} từ
+          </span>
+        </span>
+      </Link>
+    )
+  }
 
   const setup = (
     <div className="space-y-4">
@@ -162,27 +210,7 @@ function GamePage() {
                 </div>
               )
             })}
-            {langCourses.map((c) => {
-              const Icon = COURSE_ICON[c.level]
-              return (
-                <Link
-                  key={c.id}
-                  to="/games/$gameId"
-                  params={{ gameId }}
-                  search={{ deck: c.id }}
-                  replace
-                  className={chip(choice === c.id)}
-                >
-                  <Icon className="size-6 shrink-0" />
-                  <span className="min-w-0">
-                    <span className="block truncate">Lộ trình {COURSE_LABEL[c.level]}</span>
-                    <span className="block text-xs font-medium text-slate-500">
-                      {c.range} · {c.wordCount.toLocaleString('vi-VN')} từ
-                    </span>
-                  </span>
-                </Link>
-              )
-            })}
+            {pathCourses.map(courseChip)}
             <Link
               to="/games/$gameId"
               params={{ gameId }}
@@ -192,30 +220,21 @@ function GamePage() {
             >
               <GlowingStar className="size-6 shrink-0" />
               <span>
-                Tất cả chủ đề <span className="font-medium text-slate-500">· {totalWords} từ</span>
+                Tất cả chủ đề của bạn <span className="font-medium text-slate-500">· {totalWords} từ</span>
               </span>
             </Link>
-            {langDecks.map((d) => {
-              const Track = d.category === 'idioms' ? Scroll : TRACK_ICON[d.track]
-              return (
-                <Link
-                  key={d.id}
-                  to="/games/$gameId"
-                  params={{ gameId }}
-                  search={{ deck: d.id }}
-                  replace
-                  className={chip(choice === d.id)}
-                >
-                  <Track className="size-6 shrink-0" />
-                  <span className="min-w-0">
-                    <span className="block truncate">{d.title}</span>
-                    <span className="block text-xs font-medium text-slate-500">
-                      {d.category === 'idioms' ? 'Thành ngữ' : TRACKS[d.track].label} · {d.level} · {d.wordCount} từ
-                    </span>
-                  </span>
-                </Link>
-              )
-            })}
+            {pathDecks.map(deckChip)}
+            <OffPath
+              title="Bộ từ của nhóm khác"
+              count={otherCourses.length + otherDecks.length}
+              open={[...otherCourses, ...otherDecks].some((d) => d.id === choice)}
+              className="sm:col-span-2"
+            >
+              <div className="grid gap-2 sm:grid-cols-2">
+                {otherCourses.map(courseChip)}
+                {otherDecks.map(deckChip)}
+              </div>
+            </OffPath>
           </div>
         </fieldset>
       )}

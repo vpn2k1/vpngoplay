@@ -4,6 +4,7 @@
  "order": 2,
  "level": "HSK2",
  "icon": "restaurant",
+ "tracks": ["kids", "work", "exam"],
  "title": "Gọi món ở nhà hàng",
  "scene": "Bạn đi ăn ở một nhà hàng Trung Quốc và gọi món.",
  "roles": {

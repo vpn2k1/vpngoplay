@@ -30,6 +30,16 @@
         "--strictPort"
       ],
       "port": 5174
+    },
+    {
+      "name": "vpngoplay-auto",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": [
+        "-c",
+        "npm --prefix /Users/mn13/Projects/vpngoplay run dev -- --port \"${PORT:-5175}\" --strictPort"
+      ],
+      "port": 5175,
+      "autoPort": true
     }
   ]
 }

@@ -4,6 +4,7 @@
  "order": 3,
  "level": "HSK2",
  "icon": "shopping",
+ "tracks": ["kids", "work", "exam"],
  "title": "Mua sắm và mặc cả",
  "scene": "Bạn mua áo ở chợ và thử mặc cả.",
  "roles": {

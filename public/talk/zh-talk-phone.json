@@ -4,6 +4,7 @@
  "order": 7,
  "level": "HSK3",
  "icon": "phone",
+ "tracks": ["work", "exam"],
  "title": "Gọi điện hẹn gặp",
  "scene": "Bạn gọi điện đến công ty Trường Thành để hẹn gặp giám đốc Vương.",
  "roles": {

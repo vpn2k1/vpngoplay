@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { ARCADE_GAMES } from '../arcade/games'
-import { loadProfile, pullProgress, pushProgress, supabase, useCloud } from '../lib/cloud'
+import { pullProgress, pushProgress, supabase, useCloud } from '../lib/cloud'
 import { useProgress } from '../lib/store'
 
 const GAME_IDS = Object.keys(ARCADE_GAMES)
@@ -37,7 +37,6 @@ export function CloudSync() {
       clearTimeout(timer)
       timer = setTimeout(() => pushProgress(GAME_IDS), PUSH_DELAY)
     })
-    loadProfile(userId)
     pullProgress().then(() => {
       ready = true
       return pushProgress(GAME_IDS)

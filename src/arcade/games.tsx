@@ -2,6 +2,7 @@ import type { ComponentType } from 'react'
 import type { Lang } from '../lib/types'
 import type { ArcadeGameProps } from './ArcadeShell'
 import { standardMode, type ModeOption } from './challenge'
+import { Bingo } from './games/Bingo'
 import { Dino } from './games/Dino'
 import { Flappy } from './games/Flappy'
 import { Memory } from './games/Memory'
@@ -9,7 +10,9 @@ import { Racing } from './games/Racing'
 import { Rain } from './games/Rain'
 import { Shooter } from './games/Shooter'
 import { Snake } from './games/Snake'
+import { Spell } from './games/Spell'
 import { TrueFalse } from './games/TrueFalse'
+import { Tug } from './games/Tug'
 import { Whack } from './games/Whack'
 import { SCRIPT_SETS } from './scripts'
 
@@ -163,6 +166,67 @@ export const ARCADE_GAMES = {
       { id: 'listen', icon: '👂', label: 'Nghe = nghĩa?', hint: 'Nghe từ (không thấy chữ) rồi đoán' },
     ],
     Game: TrueFalse,
+  },
+  tug: {
+    id: 'tug',
+    title: 'Kéo co',
+    icon: '💪',
+    color: 'from-orange-400 to-rose-600',
+    blurb: 'Trả lời đúng để kéo dây thắng đội robot',
+    intro:
+      'Đội của bạn kéo co với đội robot! Mỗi câu trả lời đúng kéo dây về phía bạn. Robot kéo liên tục và mạnh dần qua từng vòng.',
+    controls: [
+      'Chế độ chọn: phím 1–4 hoặc chạm đáp án · chế độ gõ: gõ đáp án (Enter khi cần)',
+      'Đưa cờ đỏ qua vạch xanh bên bạn là thắng vòng; qua vạch đỏ bên robot là thua',
+      'Sai hoặc bỏ qua thì robot giật lại một nhịp · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      standardMode('choice', lang),
+      standardMode('reverse', lang),
+      standardMode('meaning', lang),
+      standardMode('write', lang),
+    ],
+    Game: Tug,
+  },
+  bingo: {
+    id: 'bingo',
+    title: 'Lô tô',
+    icon: '🎟️',
+    color: 'from-rose-500 to-amber-500',
+    blurb: 'Nghe xướng từ, dò vé — đủ hàng là “Kinh!”',
+    intro:
+      'Người xướng lô tô đọc từng từ. Tìm ô có nghĩa đúng trên vé của bạn trước khi hết lượt. Đủ một hàng ngang, dọc hoặc chéo là “Kinh!”',
+    controls: [
+      'Chạm vào ô đúng trước khi thanh thời gian hết',
+      'Chọn nhầm bị trừ 2 giây của lượt · hết giờ thì ô đó bị gạch',
+      'Space: nghe đọc lại · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      { id: 'choice', icon: '👀', label: 'Nhìn và nghe', hint: 'Thấy và nghe từ → tìm ô có nghĩa đúng' },
+      { id: 'listen', icon: '👂', label: 'Chỉ nghe', hint: 'Chỉ nghe đọc, không thấy chữ → tìm ô có nghĩa' },
+      { ...standardMode('reverse', lang), hint: 'Thấy nghĩa tiếng Việt → tìm ô có từ đúng' },
+    ],
+    Game: Bingo,
+  },
+  spell: {
+    id: 'spell',
+    paced: false,
+    title: 'Xếp chữ',
+    icon: '🔤',
+    color: 'from-yellow-400 to-orange-500',
+    blurb: '90 giây xếp lại chữ cái / kana / chữ Hán thành từ',
+    intro:
+      'Các chữ của một từ bị xáo trộn, lẫn vài chữ thừa. Chạm từng chữ theo đúng thứ tự để ghép lại từ — càng nhiều từ càng nhiều điểm!',
+    controls: [
+      'Chạm chữ theo thứ tự (tiếng Anh gõ phím cũng được)',
+      'Tiếng Nhật xếp bằng kana, tiếng Trung xếp chữ Hán',
+      'Nhầm 3 lần thì lộ đáp án · Gợi ý đặt giúp một chữ (bớt điểm)',
+    ],
+    modes: () => [
+      { id: 'meaning', icon: '🇻🇳', label: 'Nhìn nghĩa', hint: 'Thấy nghĩa tiếng Việt → xếp thành từ' },
+      { id: 'listen', icon: '👂', label: 'Nghe rồi xếp', hint: 'Chỉ nghe đọc từ → xếp lại cho đúng' },
+    ],
+    Game: Spell,
   },
 } satisfies Record<string, ArcadeGame>
 

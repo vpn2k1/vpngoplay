@@ -3,11 +3,12 @@ import { Link, createFileRoute } from '@tanstack/react-router'
 import { Play } from 'lucide-react'
 import { motion } from 'motion/react'
 import { WritingHand } from '../../components/icons'
-import { BackLabel, Button, ProgressBar, cx } from '../../components/ui'
+import { BackLabel, Button, OffPath, ProgressBar, cx } from '../../components/ui'
 import { sentencePacksQuery } from '../../lib/api'
 import { useLang } from '../../lib/lang'
 import { sentenceScoreKey } from '../../lib/practice'
 import { useProgress } from '../../lib/store'
+import { packOnPath, partition, useTrack } from '../../lib/track'
 import type { SentencePackSummary } from '../../lib/types'
 
 export const Route = createFileRoute('/sentences/')({
@@ -19,11 +20,19 @@ function SentenceHub() {
   const { data: all } = useSuspenseQuery(sentencePacksQuery)
   const { lang, info } = useLang()
   const bestScores = useProgress((s) => s.bestScores)
-  const packs = all.filter((p) => p.lang === lang)
+  const track = useTrack()
+  // Levels above the learner's group (e.g. B1+ for children) are folded at the bottom.
+  const [packs, harder] = partition(
+    all.filter((p) => p.lang === lang),
+    (p) => packOnPath(track, p),
+  )
   const best = (p: SentencePackSummary) => bestScores[sentenceScoreKey(p.id)]
   const mastered = packs.filter((p) => (best(p) ?? 0) >= 80).length
   const next = packs.find((p) => best(p) === undefined) ?? packs.find((p) => (best(p) ?? 0) < 80)
-  const levels = [...new Set(packs.map((p) => p.level))]
+  const levels = (list: SentencePackSummary[]) => [...new Set(list.map((p) => p.level))]
+  const levelSection = (list: SentencePackSummary[], level: string) => (
+    <LevelSection key={level} level={level} packs={list.filter((p) => p.level === level)} best={best} />
+  )
 
   return (
     <div className="space-y-6">
@@ -63,58 +72,11 @@ function SentenceHub() {
         )}
       </section>
 
-      {levels.map((level) => (
-        <section key={level}>
-          <h2 className="mb-3 flex items-baseline gap-2 text-lg font-black">
-            {level}
-            <span className="text-sm font-semibold text-slate-500">
-              {packs.filter((p) => p.level === level).length} gói ·{' '}
-              {packs.filter((p) => p.level === level).reduce((n, p) => n + p.count, 0)} câu
-            </span>
-          </h2>
-          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
-            {packs
-              .filter((p) => p.level === level)
-              .map((p, i) => {
-                const score = best(p)
-                return (
-                  <motion.div
-                    key={p.id}
-                    initial={{ opacity: 0, y: 8 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: Math.min(i, 12) * 0.02 }}
-                  >
-                    <Link
-                      to="/sentences/$packId"
-                      params={{ packId: p.id }}
-                      className="group flex h-full items-center gap-2.5 rounded-2xl bg-white p-2.5 shadow-sm ring-1 ring-slate-200 transition hover:-translate-y-0.5 hover:shadow-md dark:bg-slate-900 dark:ring-slate-800"
-                    >
-                      <span
-                        className={cx(
-                          'flex size-10 shrink-0 items-center justify-center rounded-xl text-sm font-black tabular-nums',
-                          score === undefined
-                            ? 'bg-slate-100 text-slate-500 dark:bg-slate-800'
-                            : score >= 80
-                              ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300'
-                              : 'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-300',
-                        )}
-                        title={score === undefined ? 'Chưa học' : `Tốt nhất: ${score}%`}
-                      >
-                        {score === undefined ? p.index : `${score}%`}
-                      </span>
-                      <span className="min-w-0 flex-1">
-                        <span className="block text-xs font-bold text-slate-400">Gói {p.index}</span>
-                        <span lang={lang} className="block truncate text-sm font-semibold">
-                          {p.preview}
-                        </span>
-                      </span>
-                    </Link>
-                  </motion.div>
-                )
-              })}
-          </div>
-        </section>
-      ))}
+      {levels(packs).map((level) => levelSection(packs, level))}
+
+      <OffPath title={`Cấp độ cao hơn (${levels(harder).join(' · ')})`} count={harder.length}>
+        <div className="space-y-6">{levels(harder).map((level) => levelSection(harder, level))}</div>
+      </OffPath>
 
       <p className="text-xs text-slate-500">
         Câu và bản dịch lấy từ{' '}
@@ -124,5 +86,66 @@ function SentenceHub() {
         do cộng đồng đóng góp (CC BY 2.0 FR); cấp độ được tính theo từ khó nhất trong câu.
       </p>
     </div>
+  )
+}
+
+function LevelSection({
+  level,
+  packs,
+  best,
+}: {
+  level: string
+  packs: SentencePackSummary[]
+  best: (p: SentencePackSummary) => number | undefined
+}) {
+  const { lang } = useLang()
+  return (
+    <section>
+      <h2 className="mb-3 flex items-baseline gap-2 text-lg font-black">
+        {level}
+        <span className="text-sm font-semibold text-slate-500">
+          {packs.length} gói · {packs.reduce((n, p) => n + p.count, 0)} câu
+        </span>
+      </h2>
+      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+        {packs.map((p, i) => {
+          const score = best(p)
+          return (
+            <motion.div
+              key={p.id}
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: Math.min(i, 12) * 0.02 }}
+            >
+              <Link
+                to="/sentences/$packId"
+                params={{ packId: p.id }}
+                className="group flex h-full items-center gap-2.5 rounded-2xl bg-white p-2.5 shadow-sm ring-1 ring-slate-200 transition hover:-translate-y-0.5 hover:shadow-md dark:bg-slate-900 dark:ring-slate-800"
+              >
+                <span
+                  className={cx(
+                    'flex size-10 shrink-0 items-center justify-center rounded-xl text-sm font-black tabular-nums',
+                    score === undefined
+                      ? 'bg-slate-100 text-slate-500 dark:bg-slate-800'
+                      : score >= 80
+                        ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300'
+                        : 'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-300',
+                  )}
+                  title={score === undefined ? 'Chưa học' : `Tốt nhất: ${score}%`}
+                >
+                  {score === undefined ? p.index : `${score}%`}
+                </span>
+                <span className="min-w-0 flex-1">
+                  <span className="block text-xs font-bold text-slate-400">Gói {p.index}</span>
+                  <span lang={lang} className="block truncate text-sm font-semibold">
+                    {p.preview}
+                  </span>
+                </span>
+              </Link>
+            </motion.div>
+          )
+        })}
+      </div>
+    </section>
   )
 }

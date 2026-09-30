@@ -4,6 +4,7 @@
  "order": 1,
  "level": "A1",
  "icon": "greeting",
+ "tracks": ["kids", "work", "exam"],
  "title": "Làm quen bạn mới",
  "scene": "Ngày đầu tiên ở lớp tiếng Anh, bạn làm quen với một bạn cùng lớp.",
  "roles": {

@@ -4,6 +4,7 @@
  "order": 1,
  "level": "N5",
  "icon": "greeting",
+ "tracks": ["kids", "work", "exam"],
  "title": "Làm quen bạn mới",
  "scene": "Ngày đầu ở trường tiếng Nhật, bạn làm quen với bạn cùng lớp Tanaka.",
  "roles": {

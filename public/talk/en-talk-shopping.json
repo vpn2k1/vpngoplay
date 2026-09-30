@@ -4,6 +4,7 @@
  "order": 3,
  "level": "A2",
  "icon": "shopping",
+ "tracks": ["kids", "work", "exam"],
  "title": "Mua quần áo",
  "scene": "Bạn mua một chiếc áo khoác, hỏi cỡ và giá.",
  "roles": {

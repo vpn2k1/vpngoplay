@@ -4,6 +4,7 @@
  "order": 6,
  "level": "B1",
  "icon": "doctor",
+ "tracks": ["work", "exam"],
  "title": "Đi khám bệnh",
  "scene": "Bạn bị ốm và đến gặp bác sĩ.",
  "roles": {

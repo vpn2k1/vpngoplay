@@ -4,6 +4,7 @@
  "order": 2,
  "level": "N5",
  "icon": "restaurant",
+ "tracks": ["kids", "work", "exam"],
  "title": "Gọi món ở quán ăn",
  "scene": "Bạn vào một quán ăn Nhật và gọi món.",
  "roles": {

@@ -5,6 +5,8 @@ import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 
 const LANGS = ['en', 'ja', 'zh']
+// Learner groups (Track in src/lib/types.ts); a conversation is listed first for the groups it suits.
+const TRACKS = ['kids', 'work', 'exam']
 // Keys of TALK_ICON in src/components/icons.tsx
 const ICONS = ['greeting', 'restaurant', 'shopping', 'directions', 'hotel', 'doctor', 'phone', 'interview']
 const MIN_LINES = 6
@@ -26,6 +28,8 @@ const index = files
     if (!LANGS.includes(d.lang)) fail(`unknown lang "${d.lang}"`)
     if (!ICONS.includes(d.icon)) fail(`unknown icon "${d.icon}" (${ICONS.join(', ')})`)
     for (const key of ['level', 'title', 'scene']) if (!d[key]) fail(`missing "${key}"`)
+    if (!d.tracks?.length || d.tracks.some((t) => !TRACKS.includes(t)))
+      fail(`"tracks" must list the groups it suits (${TRACKS.join(', ')})`)
     if (!d.roles?.A || !d.roles?.B) fail('needs role names for A and B (the learner plays B)')
 
     const texts = [...(d.lines ?? []), ...(d.phrases ?? [])]
@@ -45,6 +49,12 @@ const index = files
     return { ...summary, lineCount: lines?.length ?? 0 }
   })
   .sort((a, b) => a.lang.localeCompare(b.lang) || a.order - b.order || a.id.localeCompare(b.id))
+
+if (files.length)
+  for (const lang of LANGS)
+    for (const track of TRACKS)
+      if (!index.some((d) => d.lang === lang && d.tracks?.includes(track)))
+        errors.push(`no conversation for "${track}" in "${lang}"`)
 
 if (errors.length) {
   console.error(`✗ Conversation validation failed:\n  ${errors.join('\n  ')}`)

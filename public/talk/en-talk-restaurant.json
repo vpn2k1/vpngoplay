@@ -4,6 +4,7 @@
  "order": 2,
  "level": "A2",
  "icon": "restaurant",
+ "tracks": ["kids", "work", "exam"],
  "title": "Gọi món ở nhà hàng",
  "scene": "Bạn đi ăn tối ở nhà hàng và gọi món với phục vụ.",
  "roles": {

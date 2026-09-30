@@ -15,6 +15,7 @@ import Brain from '~icons/fluent-emoji/brain'
 import Brick from '~icons/fluent-emoji/brick'
 import Briefcase from '~icons/fluent-emoji/briefcase'
 import Bullseye from '~icons/fluent-emoji/bullseye'
+import BustsInSilhouette from '~icons/fluent-emoji/busts-in-silhouette'
 import CardIndexDividers from '~icons/fluent-emoji/card-index-dividers'
 import CheckMarkButton from '~icons/fluent-emoji/check-mark-button'
 import Child from '~icons/fluent-emoji/child'
@@ -74,6 +75,11 @@ import Hotel from '~icons/fluent-emoji/hotel'
 import Hospital from '~icons/fluent-emoji/hospital'
 import TelephoneReceiver from '~icons/fluent-emoji/telephone-receiver'
 import Necktie from '~icons/fluent-emoji/necktie'
+import AdmissionTickets from '~icons/fluent-emoji/admission-tickets'
+import FlexedBiceps from '~icons/fluent-emoji/flexed-biceps'
+import InputLatinLetters from '~icons/fluent-emoji/input-latin-letters'
+import Robot from '~icons/fluent-emoji/robot'
+import TriangularFlag from '~icons/fluent-emoji/triangular-flag'
 import type { CourseLevel, GameSpeed, GrammarGroup, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
@@ -109,6 +115,9 @@ export const GAME_ICON: Record<string, IconType> = {
   memory: Brain,
   snake: Snake,
   truefalse: CheckMarkButton,
+  tug: FlexedBiceps,
+  bingo: AdmissionTickets,
+  spell: InputLatinLetters,
 }
 
 /** Icons for game modes; modes without one (kana / hanzi sets) show their glyph instead. */
@@ -155,6 +164,9 @@ export function ModeIcon({ mode, className }: { mode: { id: string; icon: string
 
 export {
   BookmarkTabs,
+  BustsInSilhouette,
+  Robot,
+  TriangularFlag,
   OpenBook,
   Books,
   CheckMarkButton,

@@ -4,6 +4,7 @@
  "order": 4,
  "level": "HSK2",
  "icon": "directions",
+ "tracks": ["kids", "work", "exam"],
  "title": "Hỏi đường",
  "scene": "Bạn hỏi đường đến ga tàu điện ngầm ở Thượng Hải.",
  "roles": {
