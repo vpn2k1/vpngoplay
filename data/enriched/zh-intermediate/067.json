@@ -1,0 +1,330 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "异常",
+   "meaning": "khác thường",
+   "example": "神色异常",
+   "exampleMeaning": "Thần sắc khác thường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "足",
+   "meaning": "đủ",
+   "example": "我最近一直睡眠不足。",
+   "exampleMeaning": "Dạo này tôi hay bị mất ngủ.",
+   "emoji": "🦶",
+   "ipa": "",
+   "pinyin": "zú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "档案",
+   "meaning": "hồ sơ",
+   "example": "人事档案",
+   "exampleMeaning": "Hồ sơ nhân sự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "协会",
+   "meaning": "hiệp hội, tổ chức, hội",
+   "example": "中国人民对外友好协会。",
+   "exampleMeaning": "Hội hữu nghị với nước ngoài của nhân dân Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiéhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公",
+   "meaning": "công bằng, trống",
+   "example": "我每天早上到公园里遛狗。",
+   "exampleMeaning": "Sáng nào tôi cũng dắt chó đi dạo tại công viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "细胞",
+   "meaning": "tế bào",
+   "example": "人体的组织是由细胞构成的。",
+   "exampleMeaning": "Cấu tạo cơ thể người là do các tế bào tạo thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìbāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "托",
+   "meaning": "nhờ",
+   "example": "我买到了一辆新摩托车。",
+   "exampleMeaning": "Tôi mua được một cái mô-tô mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuō",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "症状",
+   "meaning": "triệu chứng",
+   "example": "头痛是许多疾病的症状。",
+   "exampleMeaning": "Đau đầu là triệu chứng của nhiều loại bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngzhuàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "患者",
+   "meaning": "người bị bệnh",
+   "example": "肺结核患者",
+   "exampleMeaning": "Người bị bệnh lao phổi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "军事",
+   "meaning": "quân sự",
+   "example": "这个国家的军事力量很先进。",
+   "exampleMeaning": "Lực lượng quân sự nước này rất hiện đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "杆",
+   "meaning": "cái",
+   "example": "钢笔杆儿。",
+   "exampleMeaning": "Quản bút",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "至于",
+   "meaning": "còn",
+   "example": "他说了要来的，也许晚一些，不至于不来吧?",
+   "exampleMeaning": "Anh ấy nói là sẽ đến, có lẽ muộn một lúc, không đến nỗi là không đến?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绝",
+   "meaning": "hết",
+   "example": "我会拒绝他吃晚饭的邀请。",
+   "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jué",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "料",
+   "meaning": "vật liệu",
+   "example": "你吃過日本料理嗎？",
+   "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "公众",
+   "meaning": "công chúng, đại chúng, công khai",
+   "example": "公众领袖",
+   "exampleMeaning": "Lãnh tụ công chúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心脏",
+   "meaning": "tim (ví với trung tâm)",
+   "example": "他心脏停止了跳动, 随即死亡。",
+   "exampleMeaning": "Tim ông ta ngừng đập và chết ngay sau đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnzàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "斗争",
+   "meaning": "đấu",
+   "example": "跟歪风邪气作坚决的斗争。",
+   "exampleMeaning": "Phải kiên quyết đấu tranh với không khí không lành mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòuzhēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "给予",
+   "meaning": "dành cho",
+   "example": "给予帮助。",
+   "exampleMeaning": "Dành cho sự giúp đỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "舞蹈",
+   "meaning": "vũ",
+   "example": "我们来学“舞蹈”这个词。",
+   "exampleMeaning": "Cùng học từ “舞蹈”: vũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "露",
+   "meaning": "nước (có được qua chưng cất)",
+   "example": "脸上露出了笑容。",
+   "exampleMeaning": "Trên mặt lộ vẻ tươi cười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "本",
+    "次",
+    "列车",
+    "开往",
+    "中山",
+    "公园"
+   ],
+   "reading": "běn cì lièchē kāiwǎng zhōngshān gōngyuán",
+   "meaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan."
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "你",
+    "有",
+    "什么",
+    "症状"
+   ],
+   "reading": "nǐ yǒu shénme zhèngzhuàng",
+   "meaning": "Bạn có triệu chứng gì?"
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  }
+ ],
+ "issues": []
+}

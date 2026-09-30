@@ -1,0 +1,335 @@
+{
+ "lesson": 90,
+ "draft": true,
+ "words": [
+  {
+   "term": "特例",
+   "meaning": "trường hợp đặc biệt",
+   "example": "「特例」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特例”: trường hợp đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一党",
+   "meaning": "one party (EN)",
+   "example": "「一党」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一党”: one party (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自社",
+   "meaning": "sự cùng đi",
+   "example": "「自社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自社”: sự cùng đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持ち込む",
+   "meaning": "đưa vào (bộ nhớ)",
+   "example": "「持ち込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持ち込む”: đưa vào (bộ nhớ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "謝罪",
+   "meaning": "lời biện bạch, lời biện giải",
+   "example": "「謝罪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “謝罪”: lời biện bạch, lời biện giải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巨額",
+   "meaning": "huge sum (EN)",
+   "example": "「巨額」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “巨額”: huge sum (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "在日",
+   "meaning": "resident in Japan (EN)",
+   "example": "「在日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “在日”: resident in Japan (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二部",
+   "meaning": "two parts (EN)",
+   "example": "「二部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二部”: two parts (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "長老",
+   "meaning": "nhiều tuổi hơn",
+   "example": "「長老」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “長老”: nhiều tuổi hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "犠飛",
+   "meaning": "sacrifice fly (EN)",
+   "example": "「犠飛」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “犠飛”: sacrifice fly (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保全",
+   "meaning": "sự giữ, sự gìn giữ, sự bảo quản",
+   "example": "「保全」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “保全”: sự giữ, sự gìn giữ, sự bảo quản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "環境庁",
+   "meaning": "Environment Agency (EN)",
+   "example": "「環境庁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “環境庁”: Environment Agency (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "区長",
+   "meaning": "head of a ward (EN)",
+   "example": "「区長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “区長”: head of a ward (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "柳",
+   "meaning": "cây liễu",
+   "example": "「柳」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “柳”: cây liễu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当面",
+   "meaning": "dòng (nước)",
+   "example": "「当面」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “当面”: dòng (nước).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無縁",
+   "meaning": "không kể lại, không thuật lại",
+   "example": "「無縁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無縁”: không kể lại, không thuật lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "米価",
+   "meaning": "rice price (EN)",
+   "example": "「米価」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “米価”: rice price (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "得票",
+   "meaning": "number of votes polled (EN)",
+   "example": "「得票」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “得票”: number of votes polled (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "核実験",
+   "meaning": "vụ thử nghiệm hạt nhân",
+   "example": "「核実験」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “核実験”: vụ thử nghiệm hạt nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何人",
+   "meaning": "người nào, ai",
+   "example": "女兄弟を何人お持ちですか？",
+   "exampleMeaning": "Nhà bạn có mấy chị em gái?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あなた",
+    "の",
+    "クラス",
+    "に",
+    "男の子",
+    "は",
+    "何人",
+    "います",
+    "か"
+   ],
+   "reading": "あなたのクラスにおとこのこはなんにんいますか",
+   "meaning": "Trong lớp bạn có bao nhiêu con trai?"
+  },
+  {
+   "tokens": [
+    "子供",
+    "は",
+    "何人",
+    "ですか"
+   ],
+   "reading": "こどもはなんにんですか",
+   "meaning": "Bạn có mấy người con?"
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "何人",
+    "兄弟",
+    "が",
+    "います",
+    "か"
+   ],
+   "reading": "あなたはなんにんきょうだいがいますか",
+   "meaning": "Bạn có mấy anh chị em?"
+  },
+  {
+   "tokens": [
+    "小川",
+    "が",
+    "さらさらと",
+    "流れる",
+    "音",
+    "が",
+    "聞こえる"
+   ],
+   "reading": "おがわがさらさらとながれるおとがきこえる",
+   "meaning": "Dòng sông nhỏ chảy róc rách."
+  },
+  {
+   "tokens": [
+    "その",
+    "少年",
+    "は",
+    "注目",
+    "され",
+    "たくて",
+    "髪",
+    "を",
+    "染めた"
+   ],
+   "reading": "そのしょうねんはちゅうもくされたくてかみをそめた",
+   "meaning": "Chàng trai đó đã nhuộm tóc vì muốn được chú ý."
+  }
+ ],
+ "issues": []
+}

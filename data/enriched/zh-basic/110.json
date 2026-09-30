@@ -1,0 +1,323 @@
+{
+ "lesson": 110,
+ "draft": true,
+ "words": [
+  {
+   "term": "短处",
+   "meaning": "khuyết",
+   "example": "大家各有长处，各有短处，应该取长补短，互相学习。",
+   "exampleMeaning": "Người ta ai cũng có điểm mạnh, điểm yếu, nên lấy ưu bù khuyết, học tập lẫn nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǎnchù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "空儿",
+   "meaning": "thời gian rảnh",
+   "example": "我们来学“空儿”这个词。",
+   "exampleMeaning": "Cùng học từ “空儿”: thời gian rảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòngr",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预习",
+   "meaning": "chuẩn bị bài",
+   "example": "我们来学“预习”这个词。",
+   "exampleMeaning": "Cùng học từ “预习”: chuẩn bị bài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùxí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "跳远",
+   "meaning": "nhảy xa",
+   "example": "我们来学“跳远”这个词。",
+   "exampleMeaning": "Cùng học từ “跳远”: nhảy xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiàoyuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "后年",
+   "meaning": "năm sau",
+   "example": "我们来学“后年”这个词。",
+   "exampleMeaning": "Cùng học từ “后年”: năm sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòunián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "连忙",
+   "meaning": "vội vã",
+   "example": "老大娘一上车，乘客就连忙让座。",
+   "exampleMeaning": "Bà lão vừa bước lên xe, hành khách vội vã nhường chỗ ngồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánmáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "红酒",
+   "meaning": "rượu vang",
+   "example": "我们来学“红酒”这个词。",
+   "exampleMeaning": "Cùng học từ “红酒”: rượu vang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngjiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "而",
+   "meaning": "và, cùng, với",
+   "example": "然而，相反的理论往往也是真的。",
+   "exampleMeaning": "Nhưng, sự trái ngược cũng luôn luôn có lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ér",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "却",
+   "meaning": "mất",
+   "example": "文章虽短却很有力。",
+   "exampleMeaning": "Bài văn tuy ngắn nhưng lại rất súc tích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "què",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "担心",
+   "meaning": "lo lắng",
+   "example": "不要担心，我会一直在你身边。",
+   "exampleMeaning": "Đừng lo lắng, anh sẽ luôn ở bên em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "之后",
+   "meaning": "sau",
+   "example": "三天之后我们又分手了。",
+   "exampleMeaning": "Ba ngày sau chúng ta lại chia tay rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "了解",
+   "meaning": "hiểu, nắm được ý, biết",
+   "example": "在某種程度上我能了解你。",
+   "exampleMeaning": "Tôi có thể hiểu bạn ở mức độ nào đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎojiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "无",
+   "meaning": "không",
+   "example": "除此之外，别无办法。",
+   "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "选择",
+   "meaning": "lựa chọn, chọn lọc, tuyển lựa",
+   "example": "选择对象",
+   "exampleMeaning": "Chọn đối tượng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuǎnzé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "此",
+   "meaning": "này",
+   "example": "他們彼此相愛。",
+   "exampleMeaning": "Hai người họ yêu nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "作为",
+   "meaning": "là",
+   "example": "他想要成功，即使是以他的健康作为代价。",
+   "exampleMeaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "呀",
+   "meaning": "nhỉ",
+   "example": "孩子，你为什么哭呀？说给我听听。",
+   "exampleMeaning": "Làm sao con khóc? Nói cho ta nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ya",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "之间",
+   "meaning": "giữa",
+   "example": "我们来学“之间”这个词。",
+   "exampleMeaning": "Cùng học từ “之间”: giữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhījiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "关于",
+   "meaning": "về (giới từ)",
+   "example": "关于农业合作化问题。",
+   "exampleMeaning": "Về vấn đề hợp tác hoá nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "甚至",
+   "meaning": "thậm chí",
+   "example": "大院里四十多岁甚至六十多岁的老年人也参加了读报小组。",
+   "exampleMeaning": "Trong đại viện, những người già 40 tuổi, thậm chí 60 tuổi cũng tham gia vào tổ đọc báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shènzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "担心"
+   ],
+   "reading": "bù yào dānxīn",
+   "meaning": "Đừng lo."
+  },
+  {
+   "tokens": [
+    "我",
+    "担心",
+    "他",
+    "会",
+    "失败"
+   ],
+   "reading": "wǒ dānxīn tā huì shībài",
+   "meaning": "Tôi e rằng ông ấy sẽ thất bại."
+  },
+  {
+   "tokens": [
+    "她",
+    "无法",
+    "回答",
+    "这个",
+    "问题"
+   ],
+   "reading": "tā wúfǎ huídá zhège wèntí",
+   "meaning": "Cô ấy đã không thể trả lời được câu hỏi đó."
+  },
+  {
+   "tokens": [
+    "在",
+    "某种",
+    "程度",
+    "上",
+    "我",
+    "能",
+    "了解",
+    "你"
+   ],
+   "reading": "zài mǒuzhǒng chéngdù shàng wǒ néng liǎojiě nǐ",
+   "meaning": "Tôi có thể hiểu bạn ở mức độ nào đó."
+  }
+ ],
+ "issues": []
+}

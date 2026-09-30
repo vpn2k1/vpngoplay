@@ -1,0 +1,322 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "broken",
+   "meaning": "bị (vỡ, gẫy)",
+   "example": "You cannot heal a broken heart.",
+   "exampleMeaning": "Bạn không thể chữa khỏi vết thương lòng.",
+   "emoji": "",
+   "ipa": "/ˈbroʊkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "step",
+   "meaning": "bước, bước đi",
+   "example": "it is but a step to my house",
+   "exampleMeaning": "Chỉ một bước thì đến nhà tôi",
+   "emoji": "",
+   "ipa": "/stɛp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grass",
+   "meaning": "bãi cỏ, đồng cỏ, thảm cỏ (ở công viên)",
+   "example": "she will be two years old next grass",
+   "exampleMeaning": "Mùa xuân sang năm nó sẽ lên hai",
+   "emoji": "",
+   "ipa": "/ɡrɑːs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hear",
+   "meaning": "nghe",
+   "example": "he will not hear of it",
+   "exampleMeaning": "Hắn chẳng chịu nghe đâu, hắn chẳng đồng ý đâu",
+   "emoji": "",
+   "ipa": "/ˈhir/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slow",
+   "meaning": "chậm, chậm chạp",
+   "example": "how slow he climbs!",
+   "exampleMeaning": "Sao hắn trèo chậm thế!",
+   "emoji": "",
+   "ipa": "/sləʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "o'clock",
+   "meaning": "giờ đúng",
+   "example": "It's two o'clock in the afternoon.",
+   "exampleMeaning": "Bây giờ là hai giờ chiều.",
+   "emoji": "",
+   "ipa": "/əˈklɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ground",
+   "meaning": "đất, vị trí, lý lẽ",
+   "example": "to cut a tree to the ground",
+   "exampleMeaning": "Đốn cây sát góc (đất)",
+   "emoji": "",
+   "ipa": "/ɡraʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "aunt",
+   "meaning": "dì, thím, trời ơi",
+   "example": "My aunt sent me a birthday present.",
+   "exampleMeaning": "Dì đã gửi cho tôi một món quà sinh nhật.",
+   "emoji": "",
+   "ipa": "/ˈænt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "judge",
+   "meaning": "xét, xét đoán, phán đoán",
+   "example": "if you judge it to be necessary",
+   "exampleMeaning": "Nếu anh xét thấy cái đó là cần thiết",
+   "emoji": "🧑‍⚖",
+   "ipa": "/ˈdʒədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "so",
+   "meaning": "thế (dùng trong câu hỏi)",
+   "example": "why are you so late?",
+   "exampleMeaning": "Sao anh lại đến muộn đến như thế?",
+   "emoji": "",
+   "ipa": "/ˈsoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "news",
+   "meaning": "tin, tin tức",
+   "example": "what's the news?",
+   "exampleMeaning": "Có tin tức gì mới?",
+   "emoji": "",
+   "ipa": "/ˈnjuz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "owner",
+   "meaning": "chủ sở hữu, người sở hữu, người chủ",
+   "example": "I'm the owner of this building.",
+   "exampleMeaning": "Tôi là chủ tòa nhà này.",
+   "emoji": "",
+   "ipa": "/ˈoʊnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "seven",
+   "meaning": "bảy",
+   "example": "the seven wonders of the world",
+   "exampleMeaning": "Bảy kỳ quan trên thế giới",
+   "emoji": "",
+   "ipa": "/ˈsɛvən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "clock",
+   "meaning": "đồng hồ",
+   "example": "Is that clock right?",
+   "exampleMeaning": "Đồng hồ kia có đúng không?",
+   "emoji": "",
+   "ipa": "/ˈklɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "letter",
+   "meaning": "thư, thư tín",
+   "example": "to understand a clause in letter and spirit",
+   "exampleMeaning": "Hiểu một điều khoản về cả chữ lẫn ý của nó",
+   "emoji": "",
+   "ipa": "/ˈlɛtə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "draw",
+   "meaning": "kéo, lôi kéo, thu hút",
+   "example": "to draw comfort (consolation) from...",
+   "exampleMeaning": "Tìm thấy nguồn an ủi ở...",
+   "emoji": "",
+   "ipa": "/ˈdrɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lucky",
+   "meaning": "đỏ, gặp may, may mắn",
+   "example": "you are a lucky dog!",
+   "exampleMeaning": "Anh vận đỏ thật!",
+   "emoji": "",
+   "ipa": "/ˈləki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "student",
+   "meaning": "học sinh đại học, sinh viên",
+   "example": "I'm a student, but he isn't.",
+   "exampleMeaning": "Tôi là học sinh, nhưng anh ấy thì không phải.",
+   "emoji": "🧑‍🎓",
+   "ipa": "/ˈstudənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "milk",
+   "meaning": "sữa",
+   "example": "to milk a cow",
+   "exampleMeaning": "Vắt sữa bò",
+   "emoji": "",
+   "ipa": "/ˈmɪlk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ball",
+   "meaning": "bóng, cầu, hòn",
+   "example": "Pass the ball!",
+   "exampleMeaning": "Chuyền quả bóng đi!",
+   "emoji": "",
+   "ipa": "/bɔːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "already",
+    "seven",
+    "o'clock"
+   ],
+   "reading": "",
+   "meaning": "Đã bảy giờ rồi."
+  },
+  {
+   "tokens": [
+    "I",
+    "wake",
+    "up",
+    "at",
+    "seven",
+    "o'clock",
+    "every",
+    "day"
+   ],
+   "reading": "",
+   "meaning": "Tôi thức dậy lúc bảy giờ mỗi ngày."
+  },
+  {
+   "tokens": [
+    "It's",
+    "five",
+    "o'clock"
+   ],
+   "reading": "",
+   "meaning": "Bây giờ là năm giờ."
+  },
+  {
+   "tokens": [
+    "It's",
+    "five",
+    "o'clock",
+    "now"
+   ],
+   "reading": "",
+   "meaning": "Hiện tại là năm giờ."
+  },
+  {
+   "tokens": [
+    "It's",
+    "almost",
+    "twelve",
+    "o'clock"
+   ],
+   "reading": "",
+   "meaning": "Gần mười hai giờ rồi."
+  }
+ ],
+ "issues": []
+}

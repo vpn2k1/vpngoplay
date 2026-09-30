@@ -1,0 +1,326 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "反響",
+   "meaning": "tiếng dội, tiếng vang",
+   "example": "「反響」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反響”: tiếng dội, tiếng vang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清ます",
+   "meaning": "làm trong sạch, lọc trong",
+   "example": "「清ます」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “清ます”: làm trong sạch, lọc trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持ち切り",
+   "meaning": "hot topic (EN)",
+   "example": "「持ち切り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持ち切り”: hot topic (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "総合",
+   "meaning": "sự tổng hợp",
+   "example": "「総合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “総合”: sự tổng hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ソックス",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của sock",
+   "example": "「ソックス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ソックス”: động từ chia ở ngôi thứ ba số ít của sock.",
+   "emoji": "🧦",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "結晶",
+   "meaning": "tinh thể",
+   "example": "「結晶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “結晶”: tinh thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ビジネス",
+   "meaning": "việc buôn bán, việc kinh doanh",
+   "example": "私たちはビジネスホテルに泊まりました。",
+   "exampleMeaning": "Tôi ở tại một khách sạn rẻ tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生まれつき",
+   "meaning": "tự nhiên, bẩm sinh",
+   "example": "われわれのすべてが生まれつき音楽の才があるわけではない。",
+   "exampleMeaning": "Không phải ai sinh ra cũng đều có năng khiếu âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "募る",
+   "meaning": "mời",
+   "example": "「募る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “募る”: mời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捗る",
+   "meaning": "tiến tới",
+   "example": "「捗る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “捗る”: tiến tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "報ずる",
+   "meaning": "báo tin cho",
+   "example": "「報ずる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “報ずる”: báo tin cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "穂",
+   "meaning": "tai",
+   "example": "「穂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “穂”: tai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "帰京",
+   "meaning": "returning to Tokyo (EN)",
+   "example": "「帰京」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “帰京”: returning to Tokyo (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着席",
+   "meaning": "cuộc đình công ngồi",
+   "example": "「着席」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “着席”: cuộc đình công ngồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脅す",
+   "meaning": "doạ, đe doạ",
+   "example": "「脅す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “脅す”: doạ, đe doạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見計らう",
+   "meaning": "đánh giá",
+   "example": "「見計らう」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見計らう”: đánh giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "華やか",
+   "meaning": "sáng rực đến lóa mắt, sáng chói, rực rỡ",
+   "example": "「華やか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “華やか”: sáng rực đến lóa mắt, sáng chói, rực rỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人民",
+   "meaning": "nhân dân, dân chúng, quần chúng",
+   "example": "「人民」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人民”: nhân dân, dân chúng, quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叶える",
+   "meaning": "cho, ban (ơn), cấp",
+   "example": "「叶える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “叶える”: cho, ban (ơn), cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着工",
+   "meaning": "từ khởi",
+   "example": "「着工」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “着工”: từ khởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "食物",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "かぶとのしょくもつはおつのどく",
+   "meaning": "Cái sướng của người này là nỗi khổ của người khác."
+  },
+  {
+   "tokens": [
+    "水",
+    "は",
+    "光",
+    "を",
+    "反射",
+    "する"
+   ],
+   "reading": "みずはひかりをはんしゃする",
+   "meaning": "Nước phản chiếu ánh sáng."
+  },
+  {
+   "tokens": [
+    "水",
+    "は",
+    "堤防",
+    "を",
+    "越えた"
+   ],
+   "reading": "みずはていぼうをこえた",
+   "meaning": "Nước đã tràn qua bờ đê."
+  },
+  {
+   "tokens": [
+    "太陽",
+    "が",
+    "西",
+    "に",
+    "傾いた"
+   ],
+   "reading": "たいようがにしにかたむいた",
+   "meaning": "Mặt trời đã ngả đằng Tây."
+  },
+  {
+   "tokens": [
+    "子供",
+    "は",
+    "何人",
+    "ですか"
+   ],
+   "reading": "こどもはなんにんですか",
+   "meaning": "Bạn có mấy người con?"
+  }
+ ],
+ "issues": []
+}

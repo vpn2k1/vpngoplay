@@ -1,0 +1,325 @@
+{
+ "lesson": 105,
+ "draft": true,
+ "words": [
+  {
+   "term": "钟头",
+   "meaning": "giờ, tiếng (đồng hồ)",
+   "example": "这出戏演了三个半钟头还没完。",
+   "exampleMeaning": "Vở kịch này diễn ba tiếng rưỡi đồng hồ vẫn chưa xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngtóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调研",
+   "meaning": "điều tra nghiên cứu",
+   "example": "深入实际，进行调研。",
+   "exampleMeaning": "Xâm nhập thực tế, phải tiến hành điều tra nghiên cứu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàoyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "栏目",
+   "meaning": "chuyên mục",
+   "example": "小说栏目。",
+   "exampleMeaning": "Chuyên mục tiểu thuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lánmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "田径",
+   "meaning": "điền kinh",
+   "example": "我们来学“田径”这个词。",
+   "exampleMeaning": "Cùng học từ “田径”: điền kinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiánjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "构建",
+   "meaning": "xây dựng",
+   "example": "构建新的学科体系。",
+   "exampleMeaning": "Xây dựng hệ thống khoa học mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòujiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解说",
+   "meaning": "giảng giải",
+   "example": "讲解员给观众解说新式拖拉机的构造和效能。",
+   "exampleMeaning": "Người thuyết minh, giảng giải cho mọi người xem cấu tạo và hiệu năng của chiếc máy cày mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěshuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "儿科",
+   "meaning": "nhi khoa",
+   "example": "我们来学“儿科”这个词。",
+   "exampleMeaning": "Cùng học từ “儿科”: nhi khoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "érkē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "看得见",
+   "meaning": "có thể thấy",
+   "example": "我们来学“看得见”这个词。",
+   "exampleMeaning": "Cùng học từ “看得见”: có thể thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàndéjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歌星",
+   "meaning": "ngôi sao ca nhạc",
+   "example": "我们来学“歌星”这个词。",
+   "exampleMeaning": "Cùng học từ “歌星”: ngôi sao ca nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēxīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "网吧",
+   "meaning": "quán net",
+   "example": "我们来学“网吧”这个词。",
+   "exampleMeaning": "Cùng học từ “网吧”: quán net.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngbā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "游戏机",
+   "meaning": "máy chơi game",
+   "example": "我们来学“游戏机”这个词。",
+   "exampleMeaning": "Cùng học từ “游戏机”: máy chơi game.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuxìjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脚印",
+   "meaning": "vết chân",
+   "example": "我们来学“脚印”这个词。",
+   "exampleMeaning": "Cùng học từ “脚印”: vết chân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎoyìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "母子",
+   "meaning": "mẹ con",
+   "example": "我们来学“母子”这个词。",
+   "exampleMeaning": "Cùng học từ “母子”: mẹ con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "革新",
+   "meaning": "đổi mới",
+   "example": "技术革新",
+   "exampleMeaning": "Cải cách kỹ thuật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "géxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "商城",
+   "meaning": "cửa hàng bách hóa",
+   "example": "我们来学“商城”这个词。",
+   "exampleMeaning": "Cùng học từ “商城”: cửa hàng bách hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一行",
+   "meaning": "nhất Hạnh",
+   "example": "我们来学“一行”这个词。",
+   "exampleMeaning": "Cùng học từ “一行”: nhất Hạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成品",
+   "meaning": "thành phẩm",
+   "example": "我们来学“成品”这个词。",
+   "exampleMeaning": "Cùng học từ “成品”: thành phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "炒作",
+   "meaning": "lăng xê",
+   "example": "我们来学“炒作”这个词。",
+   "exampleMeaning": "Cùng học từ “炒作”: lăng xê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎozuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "觉悟",
+   "meaning": "giác ngộ",
+   "example": "经过学习，大家的觉悟都提高了。",
+   "exampleMeaning": "Qua học tập, sự giác ngộ của mọi người được nâng cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一齐",
+   "meaning": "nhất tề",
+   "example": "人和行李一齐到了。",
+   "exampleMeaning": "Người và hành lý đến cùng một lúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "来",
+    "我",
+    "见",
+    "我",
+    "征服"
+   ],
+   "reading": "wǒ lái wǒ jiàn wǒ zhēngfú",
+   "meaning": "Ta đến, ta thấy, ta chinh phục."
+  },
+  {
+   "tokens": [
+    "木星",
+    "有",
+    "几个",
+    "卫星"
+   ],
+   "reading": "mùxīng yǒu jǐge wèixīng",
+   "meaning": "Sao Mộc có bao nhiêu mặt trăng?"
+  },
+  {
+   "tokens": [
+    "我",
+    "担心",
+    "他",
+    "会",
+    "失败"
+   ],
+   "reading": "wǒ dānxīn tā huì shībài",
+   "meaning": "Tôi e rằng ông ấy sẽ thất bại."
+  },
+  {
+   "tokens": [
+    "她",
+    "进",
+    "屋",
+    "前",
+    "擦",
+    "了",
+    "鞋"
+   ],
+   "reading": "tā jìn wū qián cā le xié",
+   "meaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  }
+ ],
+ "issues": []
+}

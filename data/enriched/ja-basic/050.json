@@ -1,0 +1,327 @@
+{
+ "lesson": 50,
+ "draft": true,
+ "words": [
+  {
+   "term": "増える",
+   "meaning": "tăng lên, tăng thêm, lớn thêm",
+   "example": "「増える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “増える”: tăng lên, tăng thêm, lớn thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "経済",
+   "meaning": "nền kinh tế (cho một nước)",
+   "example": "日本経済は急速に成長した。",
+   "exampleMeaning": "Kinh tế Nhật Bản đang phát triển nhanh chóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "返事",
+   "meaning": "trả lời, đáp lại",
+   "example": "手紙の返事をお忘れなく。",
+   "exampleMeaning": "Đừng quên trả lời thư nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "込む",
+   "meaning": "đông đúc",
+   "example": "僕たちの話に割り込むなよ。",
+   "exampleMeaning": "Đừng chen ngang câu chuyện của chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "研究",
+   "meaning": "nghiên cứu",
+   "example": "このテーマに関するほとんどの研究では、立法府の介入が悪影響をもたらしたということが示されている。",
+   "exampleMeaning": "Hầu hết những nghiên cứu về chủ đề này đã chỉ ra rằng, sự can thiệp của cơ quan lập pháp đã gây ra ảnh hưởng xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "舟",
+   "meaning": "tàu thuỷ, tàu",
+   "example": "「舟」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “舟”: tàu thuỷ, tàu.",
+   "emoji": "🚢",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "退院",
+   "meaning": "leaving hospital (EN)",
+   "example": "もうあと二週間もすれば退院できるようになるでしょう。",
+   "exampleMeaning": "Bạn sẽ có thể xuất viện trong hai tuần nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "迎える",
+   "meaning": "đón tiếp ân cần",
+   "example": "女子は10〜11歳前後、男子は11〜12歳前後で思春期を迎える。",
+   "exampleMeaning": "Các bé gái sẽ bước vào tuổi dậy thì vào khoảng độ tuổi 10 -11 tuổi, còn các bé trai thì sẽ vào khoảng độ tuổi 11-12 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "途中",
+   "meaning": "nửa đường, giữa đường",
+   "example": "私は学校から帰宅の途中彼女に会った。",
+   "exampleMeaning": "Trong lúc đi học về, tôi đã gặp cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "放送",
+   "meaning": "được tung ra khắp nơi",
+   "example": "その番組は今放送中です。",
+   "exampleMeaning": "Chương trình đó bây giờ đang được phát sóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "人口",
+   "meaning": "số dân, dân số",
+   "example": "インドは人口が多い。",
+   "exampleMeaning": "Ấn Độ là một quốc gia đông dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "よろしい",
+   "meaning": "có thể, có lẽ",
+   "example": "もう帰宅してもよろしい。",
+   "exampleMeaning": "Bây giờ bạn có thể về nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お陰",
+   "meaning": "vẻ duyên dáng, vẻ yêu kiều",
+   "example": "「みろ、お前のお陰でフラれまくりだぞ」「そう？日頃の行いのせいじゃない？」",
+   "exampleMeaning": "\"Nhìn đi! Nhờ mày mà tao suốt ngày bị \"đá\" thôi!\" \"Vậy sao? Chẳng phải đấy là do thói quen hằng ngày của mày còn gì?\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "勝つ",
+   "meaning": "chiếm, đoạt, thu được",
+   "example": "トムが勝つに決まってる。",
+   "exampleMeaning": "Tom chắc chắn sẽ thắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生産",
+   "meaning": "sản xuất, chế tạo",
+   "example": "穀物生産の落ち込みによって、中国は急速に日本を上回る世界有数の穀物輸入国となることが予想される。",
+   "exampleMeaning": "Do sự suy thoái của ngành sản xuất ngũ cốc, Trung Quốc được dự báo là sẽ vượt Nhật Bản trở thành quốc gia nhập khẩu ngũ cốc hàng đầu thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "レジ",
+   "meaning": "sổ, sổ sách, sổ bộ",
+   "example": "お会計は1階レジにてお願いいたします。",
+   "exampleMeaning": "Quý khách hãy thanh toán ở quầy thu ngân tại tầng 1.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "倒れる",
+   "meaning": "đổ, sập, sụp",
+   "example": "「倒れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “倒れる”: đổ, sập, sụp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ひどい",
+   "meaning": "thô, ráp, xù xì",
+   "example": "母はひどい風邪にかかっている。",
+   "exampleMeaning": "Mẹ tôi đang bị cảm cúm nặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アナウンサー",
+   "meaning": "người loan báo, người báo tin",
+   "example": "「アナウンサー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “アナウンサー”: người loan báo, người báo tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "産業",
+   "meaning": "công nghiệp",
+   "example": "「産業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “産業”: công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "番組",
+    "は",
+    "今",
+    "放送",
+    "中",
+    "です"
+   ],
+   "reading": "そのばんぐみはいまほうそうちゅうです",
+   "meaning": "Chương trình đó bây giờ đang được phát sóng."
+  },
+  {
+   "tokens": [
+    "もう",
+    "帰宅",
+    "して",
+    "も",
+    "よろしい"
+   ],
+   "reading": "もうきたくしてもよろしい",
+   "meaning": "Bây giờ bạn có thể về nhà."
+  },
+  {
+   "tokens": [
+    "日本経済",
+    "は",
+    "急速に",
+    "成長",
+    "した"
+   ],
+   "reading": "にっぽんけいざいはきゅうそくにせいちょうした",
+   "meaning": "Kinh tế Nhật Bản đang phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "アメリカ",
+    "経済",
+    "は",
+    "世界最大",
+    "です"
+   ],
+   "reading": "アメリカけいざいはせかいさいだいです",
+   "meaning": "Nền kinh tế Mỹ là nền kinh tế lớn nhất thế giới."
+  },
+  {
+   "tokens": [
+    "母",
+    "は",
+    "ひどい",
+    "風邪",
+    "に",
+    "かかっている"
+   ],
+   "reading": "はははひどいかぜにかかっている",
+   "meaning": "Mẹ tôi đang bị cảm cúm nặng."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,317 @@
+{
+ "lesson": 66,
+ "draft": true,
+ "words": [
+  {
+   "term": "ending",
+   "meaning": "sự kết thúc, sự chấm dứt",
+   "example": "Every ending is also a new beginning waiting ahead.",
+   "exampleMeaning": "Cái kết nào cũng đều là khởi đầu mới đang chờ phía trước.",
+   "emoji": "",
+   "ipa": "/ˈɛndɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "remind",
+   "meaning": "nhắc nhở, làm nhớ lại (cái gì)",
+   "example": "Remind him to come home early.",
+   "exampleMeaning": "Nhắc anh ấy về nhà sớm nhé.",
+   "emoji": "",
+   "ipa": "/riˈmaɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "scissors",
+   "meaning": "cái kéo",
+   "example": "Keep these scissors nearby, they might come in handy.",
+   "exampleMeaning": "Cứ để kéo ở gần đi, sau này sẽ cần dùng đến.",
+   "emoji": "✂",
+   "ipa": "/ˈsɪzɜrz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "method",
+   "meaning": "phương pháp, cách thức",
+   "example": "This method has pros and cons.",
+   "exampleMeaning": "Phương pháp này có ưu và nhược điểm.",
+   "emoji": "",
+   "ipa": "/ˈmɛθəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "compare",
+   "meaning": "so, đối chiếu",
+   "example": "to compare the orginal with the copy",
+   "exampleMeaning": "So nguyên bản với bản sao",
+   "emoji": "",
+   "ipa": "/kəmˈpɛər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "anyway",
+   "meaning": "thế nào cũng được, cách nào cũng được",
+   "example": "pay me anyway, but do pay me",
+   "exampleMeaning": "Anh trả tôi thế nào cũng được nhưng phải trả tôi",
+   "emoji": "",
+   "ipa": "/ˈen.i.weɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "creature",
+   "meaning": "người, kẻ",
+   "example": "creature of the dictator",
+   "exampleMeaning": "Tay sai của tên độc tài",
+   "emoji": "",
+   "ipa": "/ˈkritʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "make-up",
+   "meaning": "đồ hoá trang, son phấn (để tô điểm)",
+   "example": "what a remarkable make-up!",
+   "exampleMeaning": "Hoá trang đẹp hoá!",
+   "emoji": "",
+   "ipa": "/ˈmeɪˌkəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "discover",
+   "meaning": "khám phá ra, tìm ra, phát hiện ra",
+   "example": "Let's learn the word \"discover\".",
+   "exampleMeaning": "Cùng học từ “discover”: khám phá ra, tìm ra, phát hiện ra.",
+   "emoji": "",
+   "ipa": "/dɪˈskəvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "achieve",
+   "meaning": "đạt được, giành được",
+   "example": "to achieve one's purpose (aim)",
+   "exampleMeaning": "Đạt mục đích",
+   "emoji": "",
+   "ipa": "/əˈtʃiv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "evidence",
+   "meaning": "chứng, chứng cớ, bằng chứng",
+   "example": "to give (bear) evidence of",
+   "exampleMeaning": "Là dấu hiệu của; chứng tỏ (cái gì)",
+   "emoji": "",
+   "ipa": "/ˈɛvədəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "earn",
+   "meaning": "kiếm được (tiền... )",
+   "example": "He doesn't earn enough money to live on.",
+   "exampleMeaning": "Anh ấy không kiếm đủ tiền để sống.",
+   "emoji": "",
+   "ipa": "/ɜːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "romance",
+   "meaning": "truyện anh hùng hiệp sĩ",
+   "example": "The books Tom and Mary were reading weren't romance novels.",
+   "exampleMeaning": "Những quyển sách mà lúc đó Tom và Mary đang đọc không phải là tiểu thuyết lãng mạn.",
+   "emoji": "",
+   "ipa": "/ˈroʊmæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "medal",
+   "meaning": "huy chương, mề đay",
+   "example": "He's an Olympic medal winner.",
+   "exampleMeaning": "Anh ấy là vận động viên đạt huy chương Olympic.",
+   "emoji": "",
+   "ipa": "/ˈmɛdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bookcase",
+   "meaning": "tủ sách",
+   "example": "Let's learn the word \"bookcase\".",
+   "exampleMeaning": "Cùng học từ “bookcase”: tủ sách.",
+   "emoji": "",
+   "ipa": "/ˈbʊkˌkeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "soldier",
+   "meaning": "lính, quân lính, binh sĩ",
+   "example": "a soldier of fortune",
+   "exampleMeaning": "Lính đánh thuê",
+   "emoji": "",
+   "ipa": "/ˈsoʊldʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "supper",
+   "meaning": "bữa cơm tối",
+   "example": "After he finished supper, he began to read the novel.",
+   "exampleMeaning": "Ngay sau khi ăn tối xong, anh ấy đã bắt đầu đọc cuốn tiểu thuyết đó.",
+   "emoji": "",
+   "ipa": "/ˈsəpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "manager",
+   "meaning": "quản lý",
+   "example": "Have you ever complained to the manager?",
+   "exampleMeaning": "Bạn đã bao giờ phàn nàn với quản lý chưa?",
+   "emoji": "",
+   "ipa": "/ˈmænədʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "east",
+   "meaning": "đông",
+   "example": "Zhejiang is a coastal province in East China.",
+   "exampleMeaning": "Chiết Giang là một tỉnh ven biển phía Đông Trung Quốc.",
+   "emoji": "",
+   "ipa": "/iːst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "surprising",
+   "meaning": "làm ngạc nhiên, làm kinh ngạc",
+   "example": "Let's learn the word \"surprising\".",
+   "exampleMeaning": "Cùng học từ “surprising”: làm ngạc nhiên, làm kinh ngạc.",
+   "emoji": "",
+   "ipa": "/səˈpraɪzɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He's",
+    "a",
+    "soldier"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là một người lính."
+  },
+  {
+   "tokens": [
+    "Remind",
+    "me",
+    "tomorrow"
+   ],
+   "reading": "",
+   "meaning": "Ngày mai hãy nhắc tôi."
+  },
+  {
+   "tokens": [
+    "Who",
+    "are",
+    "you",
+    "anyway"
+   ],
+   "reading": "",
+   "meaning": "Rốt cuộc cậu là ai vậy?"
+  },
+  {
+   "tokens": [
+    "Who'd",
+    "believe",
+    "you",
+    "anyway"
+   ],
+   "reading": "",
+   "meaning": "Ai sẽ tin bạn đây?"
+  },
+  {
+   "tokens": [
+    "That's",
+    "the",
+    "new",
+    "manager"
+   ],
+   "reading": "",
+   "meaning": "Đó là người quản lý mới."
+  }
+ ],
+ "issues": []
+}

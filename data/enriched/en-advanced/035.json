@@ -1,0 +1,332 @@
+{
+ "lesson": 35,
+ "draft": true,
+ "words": [
+  {
+   "term": "gaiety",
+   "meaning": "sự vui vẻ",
+   "example": "Let's learn the word \"gaiety\".",
+   "exampleMeaning": "Cùng học từ “gaiety”: sự vui vẻ.",
+   "emoji": "",
+   "ipa": "/ɡˈeɪəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "discharge",
+   "meaning": "đuổi ra, thải hồi (người làm), tha",
+   "example": "to discharge a torrent of abuse",
+   "exampleMeaning": "Tuôn ra một tràng những lời chửi rủa, chửi tới tấp",
+   "emoji": "",
+   "ipa": "/ˈdɪsˌtʃɑrdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "crystallize",
+   "meaning": "kết tinh",
+   "example": "Let's learn the word \"crystallize\".",
+   "exampleMeaning": "Cùng học từ “crystallize”: kết tinh.",
+   "emoji": "",
+   "ipa": "/ˈkrɪstəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sexism",
+   "meaning": "sự thành kiến",
+   "example": "Let's learn the word \"sexism\".",
+   "exampleMeaning": "Cùng học từ “sexism”: sự thành kiến.",
+   "emoji": "",
+   "ipa": "/ˈsɛksɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "operator",
+   "meaning": "người thợ máy",
+   "example": "Let's learn the word \"operator\".",
+   "exampleMeaning": "Cùng học từ “operator”: người thợ máy.",
+   "emoji": "",
+   "ipa": "/ˈɑpɜrˌeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "demanding",
+   "meaning": "đòi hỏi khắt khe",
+   "example": "Let's learn the word \"demanding\".",
+   "exampleMeaning": "Cùng học từ “demanding”: đòi hỏi khắt khe.",
+   "emoji": "",
+   "ipa": "/dɪˈmɑːndɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "astonished",
+   "meaning": "ngạc nhiên, kinh ngạc",
+   "example": "I was too astonished to speak.",
+   "exampleMeaning": "Vì quá ngạc nhiên, tôi đã không thể nói nên lời.",
+   "emoji": "",
+   "ipa": "/əˈstɑnɪʃt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ethic",
+   "meaning": "đạo đức, (thuộc) luân thường đạo lý",
+   "example": "Let's learn the word \"ethic\".",
+   "exampleMeaning": "Cùng học từ “ethic”: đạo đức, (thuộc) luân thường đạo lý.",
+   "emoji": "",
+   "ipa": "/ˈɛθɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "filial",
+   "meaning": "con cái",
+   "example": "Let's learn the word \"filial\".",
+   "exampleMeaning": "Cùng học từ “filial”: con cái.",
+   "emoji": "",
+   "ipa": "/ˈfɪliəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "simplification",
+   "meaning": "sự đơn giản hoá",
+   "example": "Let's learn the word \"simplification\".",
+   "exampleMeaning": "Cùng học từ “simplification”: sự đơn giản hoá.",
+   "emoji": "",
+   "ipa": "/ˌsɪmpləfɪˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "economist",
+   "meaning": "nhà kinh tế học",
+   "example": "Let's learn the word \"economist\".",
+   "exampleMeaning": "Cùng học từ “economist”: nhà kinh tế học.",
+   "emoji": "",
+   "ipa": "/iˈkɑnəmɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "investigator",
+   "meaning": "người điều tra nghiên cứu",
+   "example": "Let's learn the word \"investigator\".",
+   "exampleMeaning": "Cùng học từ “investigator”: người điều tra nghiên cứu.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛstəˌɡeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "incense",
+   "meaning": "nhang, hương, trầm",
+   "example": "an incense burner",
+   "exampleMeaning": "Người thắp hương; lư hương",
+   "emoji": "",
+   "ipa": "/ˈɪnˌsɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "broadly",
+   "meaning": "rộng, rộng rãi",
+   "example": "Let's learn the word \"broadly\".",
+   "exampleMeaning": "Cùng học từ “broadly”: rộng, rộng rãi.",
+   "emoji": "",
+   "ipa": "/ˈbrɔdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "salary",
+   "meaning": "lương",
+   "example": "My salary isn't even enough to cover my rent and bills.",
+   "exampleMeaning": "Tiền lương của tôi không đủ chi trả tiền thuê và các hoá đơn.",
+   "emoji": "",
+   "ipa": "/ˈsælɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "amongst",
+   "meaning": "giữa, ở giữa",
+   "example": "Let's learn the word \"amongst\".",
+   "exampleMeaning": "Cùng học từ “amongst”: giữa, ở giữa.",
+   "emoji": "",
+   "ipa": "/əˈməŋst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scent",
+   "meaning": "đánh hơi, phát hiện",
+   "example": "to have a wonderful scent for young talents",
+   "exampleMeaning": "Có biệt tài phát hiện những tài hoa non trẻ",
+   "emoji": "",
+   "ipa": "/ˈsɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "breakable",
+   "meaning": "dễ vỡ, dễ gãy",
+   "example": "Let's learn the word \"breakable\".",
+   "exampleMeaning": "Cùng học từ “breakable”: dễ vỡ, dễ gãy.",
+   "emoji": "",
+   "ipa": "/ˈbreɪkəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transmit",
+   "meaning": "chuyển giao, truyền",
+   "example": "to transmit one's virtues to one's posterity",
+   "exampleMeaning": "Truyền những đức tính của mình cho con cái về sau",
+   "emoji": "",
+   "ipa": "/trænzˈmɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slaughter",
+   "meaning": "sự giết thịt, sự mổ thịt (bò, lợn... )",
+   "example": "Let's learn the word \"slaughter\".",
+   "exampleMeaning": "Cùng học từ “slaughter”: sự giết thịt, sự mổ thịt (bò, lợn... ).",
+   "emoji": "",
+   "ipa": "/ˈslɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "earns",
+    "double",
+    "my",
+    "salary"
+   ],
+   "reading": "",
+   "meaning": "Anh ta kiếm được gấp đôi lương của tôi"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "content",
+    "with",
+    "my",
+    "salary"
+   ],
+   "reading": "",
+   "meaning": "Tôi hài lòng với mức lương của mình."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "too",
+    "astonished",
+    "to",
+    "speak"
+   ],
+   "reading": "",
+   "meaning": "Vì quá ngạc nhiên, tôi đã không thể nói nên lời."
+  },
+  {
+   "tokens": [
+    "The",
+    "workers",
+    "pushed",
+    "for",
+    "a",
+    "raise",
+    "in",
+    "salary"
+   ],
+   "reading": "",
+   "meaning": "Những người lao động yêu cầu được tăng lương."
+  },
+  {
+   "tokens": [
+    "The",
+    "hunting",
+    "dogs",
+    "followed",
+    "the",
+    "scent",
+    "of",
+    "the",
+    "fox"
+   ],
+   "reading": "",
+   "meaning": "Những con chó săn đã lần theo mùi của con cáo."
+  }
+ ],
+ "issues": []
+}

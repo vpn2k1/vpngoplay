@@ -1,0 +1,331 @@
+{
+ "lesson": 95,
+ "draft": true,
+ "words": [
+  {
+   "term": "否认",
+   "meaning": "phủ nhận",
+   "example": "否认这种无理指责。",
+   "exampleMeaning": "Bác bỏ lời chỉ trích vô lý ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǒurèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主意",
+   "meaning": "biện pháp",
+   "example": "人多主意多。",
+   "exampleMeaning": "Nhiều người nhiều biện pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔyi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "体会",
+   "meaning": "nhận thức",
+   "example": "座谈会上大家漫谈个人的体会。",
+   "exampleMeaning": "Trong buổi toạ đàm mọi người mạn đàm về nhận thức của mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "感冒",
+   "meaning": "khoái",
+   "example": "我感冒了，有点发烧。",
+   "exampleMeaning": "Tôi bị cảm rồi, người sốt nhẹ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnmào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高速",
+   "meaning": "cao tốc",
+   "example": "高速发展",
+   "exampleMeaning": "Phát triển nhanh chóng; phát triển với tốc độ cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāosù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "观看",
+   "meaning": "tham quan",
+   "example": "观看足球比赛",
+   "exampleMeaning": "Xem thi đấu bóng đá",
+   "emoji": "⌚",
+   "ipa": "",
+   "pinyin": "guānkàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推进",
+   "meaning": "tiến lên",
+   "example": "主力正向前沿阵地推进。",
+   "exampleMeaning": "Quân chủ lực đang bám vào trận địa tiến lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuījìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "安装",
+   "meaning": "lắp đặt",
+   "example": "安装自来水管",
+   "exampleMeaning": "Lắp đặt ống nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "欢乐",
+   "meaning": "rộn rã",
+   "example": "广场上欢乐的歌声此起彼伏。",
+   "exampleMeaning": "Tiếng hát trên quảng trường vang lên từng hồi rộn rã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huānlè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "功夫",
+   "meaning": "trình độ (học vấn)",
+   "example": "这个杂技演员真有功夫。",
+   "exampleMeaning": "Diễn viên tạp kỹ này rất có trình độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "团体",
+   "meaning": "đoàn thể",
+   "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
+   "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuántǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "房屋",
+   "meaning": "nhà",
+   "example": "房屋租赁合同",
+   "exampleMeaning": "Hợp đồng cho thuê nhà",
+   "emoji": "🏠",
+   "ipa": "",
+   "pinyin": "fángwū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "得分",
+   "meaning": "được điểm",
+   "example": "我们来学“得分”这个词。",
+   "exampleMeaning": "Cùng học từ “得分”: được điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "défēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "游泳",
+   "meaning": "bơi",
+   "example": "我父亲会游泳但我母亲不会。",
+   "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuyǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "基本上",
+   "meaning": "cơ bản, về cơ bản",
+   "example": "这项任务，基本上要靠第一车间来完成。",
+   "exampleMeaning": "Nhiệm vụ này, chủ yếu trông cậy vào phân xưởng 1 để hoàn thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīběnshang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "农民",
+   "meaning": "nông dân",
+   "example": "我们来学“农民”这个词。",
+   "exampleMeaning": "Cùng học từ “农民”: nông dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngmín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民族",
+   "meaning": "dân tộc",
+   "example": "越南八月革命是一次民族解放革命。",
+   "exampleMeaning": "Cách mạng tháng tám Việt Nam là một cuộc cách mạng giải phóng dân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínzú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "商品",
+   "meaning": "hàng hoá",
+   "example": "我们来学“商品”这个词。",
+   "exampleMeaning": "Cùng học từ “商品”: hàng hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "属",
+   "meaning": "liên tục",
+   "example": "人生在世，不属于这个阶级就属于那个阶级。",
+   "exampleMeaning": "Người ta sống trên đời không thuộc về giai cấp này thì thuộc giai cấp khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "裤子",
+   "meaning": "quần",
+   "example": "一 条裤子。",
+   "exampleMeaning": "Một cái quần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kùzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "父亲",
+    "会",
+    "游泳",
+    "但",
+    "我",
+    "母亲",
+    "不",
+    "会"
+   ],
+   "reading": "wǒ fùqīn huì yóuyǒng dàn wǒ mǔqīn bù huì",
+   "meaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không."
+  },
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "我",
+    "来",
+    "我",
+    "见",
+    "我",
+    "征服"
+   ],
+   "reading": "wǒ lái wǒ jiàn wǒ zhēngfú",
+   "meaning": "Ta đến, ta thấy, ta chinh phục."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "电脑",
+    "好",
+    "诡异"
+   ],
+   "reading": "wǒ de diànnǎo hǎo guǐyì",
+   "meaning": "Máy tính của tôi khá dị."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "和",
+    "你",
+    "一起",
+    "走"
+   ],
+   "reading": "wǒ xiǎng hé nǐ yīqǐ zǒu",
+   "meaning": "Tôi muốn đi cùng với bạn."
+  }
+ ],
+ "issues": []
+}

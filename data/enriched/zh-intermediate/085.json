@@ -1,0 +1,334 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "阴影",
+   "meaning": "bóng, bóng tối, bóng râm",
+   "example": "新的冲突使和谈蒙上了阴影。",
+   "exampleMeaning": "Xung đột mới đã phủ bóng đen lên buổi hoà đàm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnyǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "炮",
+   "meaning": "pháo",
+   "example": "事情已经定下来了，我们再怎么努力也无济于事了，一切都是马后炮了。",
+   "exampleMeaning": "Việc đã định rồi, chúng ta có cố gắng thế nào nữa cũng vô ích, tất cả đều đã là muộn màng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仪器",
+   "meaning": "máy móc",
+   "example": "我们来学“仪器”这个词。",
+   "exampleMeaning": "Cùng học từ “仪器”: máy móc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "流感",
+   "meaning": "cúm",
+   "example": "我接种了流感疫苗。",
+   "exampleMeaning": "Tôi đã tiêm vắc-xin phòng cúm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúgǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "超出",
+   "meaning": "vượt qua",
+   "example": "超出定额。",
+   "exampleMeaning": "Vượt qua định mức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāochū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "教堂",
+   "meaning": "giáo đường",
+   "example": "我们来学“教堂”这个词。",
+   "exampleMeaning": "Cùng học từ “教堂”: giáo đường.",
+   "emoji": "⛪",
+   "ipa": "",
+   "pinyin": "jiàotáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纠正",
+   "meaning": "uốn nắn",
+   "example": "及时纠正",
+   "exampleMeaning": "Kịp thời uốn nắn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiūzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "难忘",
+   "meaning": "khó quên",
+   "example": "我们来学“难忘”这个词。",
+   "exampleMeaning": "Cùng học từ “难忘”: khó quên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用心",
+   "meaning": "chăm chỉ",
+   "example": "学习用心",
+   "exampleMeaning": "Học hành chăm chỉ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奉献",
+   "meaning": "tặng (đồ vật)",
+   "example": "她要为山区的建设做点奉献。",
+   "exampleMeaning": "Cô ấy tặng đồ vật cho xây dựng vùng núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèngxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "番",
+   "meaning": "nước ngoài, từ nước ngoài, ở nước ngoài",
+   "example": "我们来学“番”这个词。",
+   "exampleMeaning": "Cùng học từ “番”: nước ngoài, từ nước ngoài, ở nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fān",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挨",
+   "meaning": "chờ",
+   "example": "好容易挨到三点半钟。",
+   "exampleMeaning": "Khó khăn lắm mới chờ được đến ba giờ rưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ái",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心脏病",
+   "meaning": "bệnh tim",
+   "example": "我们来学“心脏病”这个词。",
+   "exampleMeaning": "Cùng học từ “心脏病”: bệnh tim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnzàngbìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救助",
+   "meaning": "cứu trợ",
+   "example": "我们来学“救助”这个词。",
+   "exampleMeaning": "Cùng học từ “救助”: cứu trợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一同",
+   "meaning": "cùng",
+   "example": "一同欢度新年。",
+   "exampleMeaning": "Cùng đón mừng năm mới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yītóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "珠宝",
+   "meaning": "châu báu",
+   "example": "满身珠宝",
+   "exampleMeaning": "Toàn thân đầy châu báu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhūbǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提交",
+   "meaning": "đưa ra",
+   "example": "提交大会讨论。",
+   "exampleMeaning": "Đưa ra đại hội thảo luận",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíjiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "游行",
+   "meaning": "tuần hành",
+   "example": "上午十时游行开始。10",
+   "exampleMeaning": "Giờ sáng bắt đầu diễu hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赖",
+   "meaning": "xấu",
+   "example": "事实俱在，赖是赖不掉的。",
+   "exampleMeaning": "Sự thực sờ sờ ra đấy, lấp liếm cũng không lấp liếm nổi đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "洋",
+   "meaning": "hiện đại",
+   "example": "你要是再给我们公司出洋相，我可就不客气了。",
+   "exampleMeaning": "Nếu cậu lại làm mất mặt công ty chúng ta, tôi không khách khí nữa đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "接种",
+    "了",
+    "流感疫苗"
+   ],
+   "reading": "wǒ jiēzhòng le liúgǎnyìmiáo",
+   "meaning": "Tôi đã tiêm vắc-xin phòng cúm."
+  },
+  {
+   "tokens": [
+    "您",
+    "赞成",
+    "还是",
+    "反对",
+    "他",
+    "的",
+    "想法"
+   ],
+   "reading": "nín zànchéng háishi fǎnduì tā de xiǎngfǎ",
+   "meaning": "Ông tán thành hay phản đối ý kiến của nó?"
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "他",
+    "不",
+    "是",
+    "我",
+    "父亲",
+    "他",
+    "是",
+    "我",
+    "叔叔"
+   ],
+   "reading": "tā bù shì wǒ fùqīn tā shì wǒ shūshu",
+   "meaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "顶",
+    "红",
+    "帽子",
+    "很",
+    "衬",
+    "她",
+    "的",
+    "裙子"
+   ],
+   "reading": "zhè dǐng hóng màozi hěn chèn tā de qúnzi",
+   "meaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy."
+  }
+ ],
+ "issues": []
+}

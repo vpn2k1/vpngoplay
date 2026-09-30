@@ -1,0 +1,318 @@
+{
+ "lesson": 80,
+ "draft": true,
+ "words": [
+  {
+   "term": "wide",
+   "meaning": "rộng, rộng lớn",
+   "example": "to be wide of the target (mark)",
+   "exampleMeaning": "Xa mục tiêu, xa đích",
+   "emoji": "",
+   "ipa": "/waɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rock",
+   "meaning": "đá",
+   "example": "Rock is the music of the young.",
+   "exampleMeaning": "Rock là loại nhạc của giới trẻ.",
+   "emoji": "🪨",
+   "ipa": "/rɒk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ancestor",
+   "meaning": "ông bà, tổ tiên",
+   "example": "Let's learn the word \"ancestor\".",
+   "exampleMeaning": "Cùng học từ “ancestor”: ông bà, tổ tiên.",
+   "emoji": "",
+   "ipa": "/ˈænˌsɛstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "timetable",
+   "meaning": "[[|]] kế hoạch làm việc",
+   "example": "Let's learn the word \"timetable\".",
+   "exampleMeaning": "Cùng học từ “timetable”: [[|]] kế hoạch làm việc.",
+   "emoji": "",
+   "ipa": "/ˈtaɪmˌteɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whatever",
+   "meaning": "nào",
+   "example": "take whatever measures you consider best",
+   "exampleMeaning": "Anh cứ dùng những biện pháp nào mà anh cho là tốt nhất",
+   "emoji": "",
+   "ipa": "/ˌhwəˈtɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kilo",
+   "meaning": "danh từ, (viết tắt) của kilogram",
+   "example": "How much does a kilo of apricots cost?",
+   "exampleMeaning": "Một cân mơ bao nhiêu tiền?",
+   "emoji": "",
+   "ipa": "/ˈkɪˌloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rap",
+   "meaning": "đánh nhẹ, gõ, cốp",
+   "example": "to give someone a rap on the knuckles",
+   "exampleMeaning": "Đánh vào đốt ngón tay ai; (nghĩa bóng) mắng mỏ ai, trách phạt ai",
+   "emoji": "",
+   "ipa": "/ˈræp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fence",
+   "meaning": "hàng rào",
+   "example": "to fence with a questions",
+   "exampleMeaning": "Lảng tránh một câu hỏi",
+   "emoji": "",
+   "ipa": "/ˈfɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "envelope",
+   "meaning": "bì thư",
+   "example": "He opened the letter and tossed the envelope into the paper bin.",
+   "exampleMeaning": "Anh ấy đã mở bức thư và ném bì thư vào thùng rác đựng giấy.",
+   "emoji": "✉",
+   "ipa": "/ˈɛnvəˌloʊp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "usual",
+   "meaning": "thường, thông thường, thường lệ",
+   "example": "I woke up earlier than usual today.",
+   "exampleMeaning": "Hôm nay tôi dậy sớm hơn so với thông thường.",
+   "emoji": "",
+   "ipa": "/ˈjuʒəwəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "establish",
+   "meaning": "lập, thành lập, thiết lập",
+   "example": "to establish oneself as a grocer",
+   "exampleMeaning": "Sinh cơ lập nghiệp bằng nghề bán tạp phẩm",
+   "emoji": "",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "string",
+   "meaning": "chuỗi, xâu, đoàn",
+   "example": "a string of pearls",
+   "exampleMeaning": "Một chuỗi hạt ngọc",
+   "emoji": "",
+   "ipa": "/ˈstrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spill",
+   "meaning": "làm tràn, làm đổ, đánh đổ (nước... )",
+   "example": "to have a nastry spill",
+   "exampleMeaning": "Bị ngã một cái đau",
+   "emoji": "",
+   "ipa": "/ˈspɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "single",
+   "meaning": "một, dù là một",
+   "example": "Not a single student was late.",
+   "exampleMeaning": "Không có học sinh nào đi muộn.",
+   "emoji": "",
+   "ipa": "/ˈsɪŋɡəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "medical",
+   "meaning": "y, y học",
+   "example": "The dog received medical treatment.",
+   "exampleMeaning": "Con chó đã được điều trị y tế.",
+   "emoji": "",
+   "ipa": "/ˈmɛdəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wool",
+   "meaning": "len",
+   "example": "How can you wear a wool sweater in this heat?",
+   "exampleMeaning": "Làm sao bạn có thể mặc áo len giữa nắng nóng như thế này?",
+   "emoji": "",
+   "ipa": "/ˈwʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adventure",
+   "meaning": "phiêu lưu, mạo hiểm, liều",
+   "example": "if, by adventure, you come across him",
+   "exampleMeaning": "Nếu tình cờ anh có gặp hắn",
+   "emoji": "",
+   "ipa": "/ædˈvɛntʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "learner",
+   "meaning": "người học, học trò, người mới học",
+   "example": "Let's learn the word \"learner\".",
+   "exampleMeaning": "Cùng học từ “learner”: người học, học trò, người mới học.",
+   "emoji": "",
+   "ipa": "/ˈlɜrnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "material",
+   "meaning": "hữu hình, cụ thể, thực chất",
+   "example": "food is most material to man",
+   "exampleMeaning": "Thức ăn hết sức cần thiết đối với con người",
+   "emoji": "",
+   "ipa": "/məˈtɪə.ri.əl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "footballer",
+   "meaning": "cầu thủ bóng đá",
+   "example": "Let's learn the word \"footballer\".",
+   "exampleMeaning": "Cùng học từ “footballer”: cầu thủ bóng đá.",
+   "emoji": "",
+   "ipa": "/fˈʊtbɔːlɐ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "am",
+    "single"
+   ],
+   "reading": "",
+   "meaning": "Tôi độc thân."
+  },
+  {
+   "tokens": [
+    "Do",
+    "whatever",
+    "you",
+    "can"
+   ],
+   "reading": "",
+   "meaning": "Làm bất cứ điều gì mà bạn có thể."
+  },
+  {
+   "tokens": [
+    "Open",
+    "your",
+    "mouth",
+    "wide"
+   ],
+   "reading": "",
+   "meaning": "Hãy há to miệng ra."
+  },
+  {
+   "tokens": [
+    "Do",
+    "whatever",
+    "you",
+    "want"
+   ],
+   "reading": "",
+   "meaning": "Bạn thích làm gì thì làm."
+  },
+  {
+   "tokens": [
+    "Do",
+    "whatever",
+    "you",
+    "like"
+   ],
+   "reading": "",
+   "meaning": "Bạn thích làm gì thì làm."
+  }
+ ],
+ "issues": []
+}

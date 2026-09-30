@@ -5,8 +5,12 @@ import type {
   CourseWordEntry,
   Deck,
   DeckSummary,
+  Dialogue,
+  DialogueSummary,
   GrammarTopic,
   GrammarTopicSummary,
+  SentencePack,
+  SentencePackSummary,
   Track,
 } from './types'
 
@@ -77,4 +81,28 @@ export const grammarTopicQuery = (topicId: string) =>
   queryOptions({
     queryKey: ['grammar', topicId],
     queryFn: () => fetchJson<GrammarTopic>(`/grammar/${encodeURIComponent(topicId)}.json`),
+  })
+
+export const sentencePacksQuery = queryOptions({
+  queryKey: ['sentences'],
+  queryFn: () => fetchJson<SentencePackSummary[]>('/sentences/index.json'),
+  staleTime: Infinity,
+})
+
+export const sentencePackQuery = (packId: string) =>
+  queryOptions({
+    queryKey: ['sentences', packId],
+    queryFn: () => fetchJson<SentencePack>(`/sentences/${encodeURIComponent(packId)}.json`),
+    staleTime: Infinity,
+  })
+
+export const dialoguesQuery = queryOptions({
+  queryKey: ['talk'],
+  queryFn: () => fetchJson<DialogueSummary[]>('/talk/index.json'),
+})
+
+export const dialogueQuery = (dialogueId: string) =>
+  queryOptions({
+    queryKey: ['talk', dialogueId],
+    queryFn: () => fetchJson<Dialogue>(`/talk/${encodeURIComponent(dialogueId)}.json`),
   })

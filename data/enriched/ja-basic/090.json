@@ -1,0 +1,334 @@
+{
+ "lesson": 90,
+ "draft": true,
+ "words": [
+  {
+   "term": "選考",
+   "meaning": "sự lựa chọn, sự chọn lọc, sự tuyển lựa",
+   "example": "「選考」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選考”: sự lựa chọn, sự chọn lọc, sự tuyển lựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "優勝",
+   "meaning": "chức vô địch",
+   "example": "「優勝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “優勝”: chức vô địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "碗",
+   "meaning": "cái bát",
+   "example": "「碗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “碗”: cái bát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ピクニック",
+   "meaning": "cuộc đi chơi và ăn ngoài trời",
+   "example": "明日ピクニックに行くつもりだ。",
+   "exampleMeaning": "Ngày mai tôi định đi dã ngoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "描く",
+   "meaning": "kéo",
+   "example": "「描く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “描く”: kéo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物語",
+   "meaning": "câu chuyện",
+   "example": "彼はたくさんの物語を書いた。",
+   "exampleMeaning": "Anh ta đã viết nhiều câu chyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "データ",
+   "meaning": "số liệu, dữ kiện, tài liệu",
+   "example": "リストのデータは、自動集計機能を使って簡単に集計することができます。",
+   "exampleMeaning": "Dữ liệu list có thể dễ dàng được tổng hợp bằng cách sử dụng chức năng tổng hợp tự động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "異",
+   "meaning": "sự khác nhau, tình trạng khác nhau",
+   "example": "食習慣は国により異なる。",
+   "exampleMeaning": "Văn hóa ăn uống khác nhau ở mỗi nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "提案",
+   "meaning": "lời đề nghị, kế hoạch, đề xuất",
+   "example": "彼の提案をどう思いますか。",
+   "exampleMeaning": "Bạn nghĩ sao về đề xuất của anh ấy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "占める",
+   "meaning": "đảm nhiệm",
+   "example": "「占める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “占める”: đảm nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "預かる",
+   "meaning": "giữ, giữ lại",
+   "example": "「預かる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “預かる”: giữ, giữ lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "途端",
+   "meaning": "công bằng",
+   "example": "先生が教室から離れた途端、ガヤガヤと騒がしくなった。",
+   "exampleMeaning": "Khi giáo viên vừa ra khỏi lớp, không khí trong lớp trở nên ồn ào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鉄",
+   "meaning": "sắt",
+   "example": "鉄は熱いうちに打て。",
+   "exampleMeaning": "Việc hôm nay chớ để ngày mai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "責める",
+   "meaning": "kết án, kết tội, xử",
+   "example": "皆が私のうっかりした間違いを責めるのです。",
+   "exampleMeaning": "Mọi người khiển trách sai lầm của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ハンサム",
+   "meaning": "đẹp",
+   "example": "トムって相変わらずハンサムだねえ。",
+   "exampleMeaning": "Tom vẫn đẹp trai như mọi khi nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "際",
+   "meaning": "hoàn cảnh",
+   "example": "理論と実際を結び付けるべきだ。",
+   "exampleMeaning": "Bạn cần phải gắn kết lý thuyết với thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "積む",
+   "meaning": "chất đống",
+   "example": "「積む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “積む”: chất đống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "例外",
+   "meaning": "sự trừ ra, sự loại ra",
+   "example": "「例外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “例外”: sự trừ ra, sự loại ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "博士",
+   "meaning": "học vị tiến sĩ",
+   "example": "あのときもっと勉強していたら、今ごろ博士になっていただろう。",
+   "exampleMeaning": "Nếu lúc đó tôi học nhiều hơn, có lẽ bây giờ tôi đã trở thành giáo sư rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "勧める",
+   "meaning": "giới thiệu, tiến cử (người, vật... )",
+   "example": "「勧める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勧める”: giới thiệu, tiến cử (người, vật... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼の",
+    "提案",
+    "を",
+    "どう",
+    "思います",
+    "か"
+   ],
+   "reading": "かれのていあんをどうおもいますか",
+   "meaning": "Bạn nghĩ sao về đề xuất của anh ấy?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "たくさん",
+    "の",
+    "物語",
+    "を",
+    "書いた"
+   ],
+   "reading": "かれはたくさんのものがたりをかいた",
+   "meaning": "Anh ta đã viết nhiều câu chyện."
+  },
+  {
+   "tokens": [
+    "明日",
+    "ピクニック",
+    "に",
+    "行く",
+    "つもり",
+    "だ"
+   ],
+   "reading": "あしたピクニックにいくつもりだ",
+   "meaning": "Ngày mai tôi định đi dã ngoại."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "その",
+    "提案",
+    "に",
+    "賛成",
+    "票",
+    "を",
+    "投じた"
+   ],
+   "reading": "かれはそのていあんにさんせいひょうをとうじた",
+   "meaning": "Anh ấy đã bỏ phiếu nhất trí đề xuất đó."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "の",
+    "提案",
+    "は",
+    "彼の",
+    "反対に",
+    "合った"
+   ],
+   "reading": "わたしたちのていあんはかれのはんたいにあった",
+   "meaning": "Đề xuất của chúng tôi đã vấp phải sự phản đối của anh ta."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,337 @@
+{
+ "lesson": 50,
+ "draft": true,
+ "words": [
+  {
+   "term": "喇叭",
+   "meaning": "loa",
+   "example": "无线电喇叭 (扬声器)。",
+   "exampleMeaning": "Loa phóng thanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎba",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "露面",
+   "meaning": "lộ diện",
+   "example": "公开露面。",
+   "exampleMeaning": "Công khai xuất đầu lộ diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lòumiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实质",
+   "meaning": "thực chất",
+   "example": "问题的实质。",
+   "exampleMeaning": "Thực chất của vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shízhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暗中",
+   "meaning": "lén",
+   "example": "躲在暗中张望",
+   "exampleMeaning": "Nấp trong bóng tối nhìn ra",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "坚守",
+   "meaning": "giữ vững",
+   "example": "坚守岗位",
+   "exampleMeaning": "Giữ vững cương vị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人为",
+   "meaning": "do con người tạo nên (sự việc không như ý)",
+   "example": "人为的障碍。",
+   "exampleMeaning": "Trở ngại do con người tạo nên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "计较",
+   "meaning": "tính",
+   "example": "他从不计较个人的得失。",
+   "exampleMeaning": "Anh ấy không bao giờ tính toán thiệt hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìjiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "帆",
+   "meaning": "buồm",
+   "example": "一帆风顺",
+   "exampleMeaning": "Thuận buồm xuôi gió",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捆",
+   "meaning": "búi, chùm, bó",
+   "example": "把麦子捆起 来。",
+   "exampleMeaning": "Gom lúa mạch đem bó lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǔn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贩卖",
+   "meaning": "buôn",
+   "example": "多年一直贩卖这种毒品,并未被发觉。",
+   "exampleMeaning": "Nhiều năm nay vẫn buôn lậu ma tuý nhưng chưa bị phát hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fànmài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无能",
+   "meaning": "không có năng lực",
+   "example": "软弱无能。",
+   "exampleMeaning": "Yếu đuối không có năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "添加",
+   "meaning": "thêm vào",
+   "example": "我们来学“添加”这个词。",
+   "exampleMeaning": "Cùng học từ “添加”: thêm vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "至此",
+   "meaning": "đến nước này",
+   "example": "事已至此，只好就这样了。",
+   "exampleMeaning": "Sự việc đã đến nước này, đành phải như vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìcǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "产物",
+   "meaning": "sản phẩm",
+   "example": "作为观念形态的文艺作品，都是一定的社会生活在人类头脑中的反映的产物。",
+   "exampleMeaning": "Là hình thái quan niệm, các tác phẩm văn nghệ đều là sản phẩm của sự phản ánh đời sống xã hội nhất định trong đầu óc con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "关掉",
+   "meaning": "tắt đi",
+   "example": "我们来学“关掉”这个词。",
+   "exampleMeaning": "Cùng học từ “关掉”: tắt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāndiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "耀眼",
+   "meaning": "chói mắt",
+   "example": "我们来学“耀眼”这个词。",
+   "exampleMeaning": "Cùng học từ “耀眼”: chói mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàoyǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慢性",
+   "meaning": "mãn tính",
+   "example": "慢性中毒。",
+   "exampleMeaning": "Nhiễm độc mãn tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mànxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "富翁",
+   "meaning": "phú ông",
+   "example": "我们来学“富翁”这个词。",
+   "exampleMeaning": "Cùng học từ “富翁”: phú ông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùwēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蒸",
+   "meaning": "hấp",
+   "example": "沸水蒸发成气体。",
+   "exampleMeaning": "Nước sôi bốc thành hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "流畅",
+   "meaning": "trôi chảy",
+   "example": "动作协调流畅。",
+   "exampleMeaning": "Động tác nhịp nhàng trôi chảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúchàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "沸水",
+    "蒸发",
+    "成",
+    "气体"
+   ],
+   "reading": "fèishuǐ zhēngfā chéng qìtǐ",
+   "meaning": "Nước sôi bốc thành hơi."
+  },
+  {
+   "tokens": [
+    "我",
+    "正好",
+    "赶上",
+    "了",
+    "最",
+    "后",
+    "一",
+    "班",
+    "火车"
+   ],
+   "reading": "wǒ zhènghǎo gǎnshàng le zuì hòu yī bān huǒchē",
+   "meaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng."
+  },
+  {
+   "tokens": [
+    "我",
+    "抓",
+    "到",
+    "了",
+    "这个",
+    "男人",
+    "正在",
+    "偷",
+    "钱"
+   ],
+   "reading": "wǒ zhuā dào le zhège nánrén zhèngzài tōu qián",
+   "meaning": "Tôi đã bắt kịp thằng ăn cắp tiền này."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  }
+ ],
+ "issues": []
+}

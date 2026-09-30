@@ -1,0 +1,335 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "北海道",
+   "meaning": "một trong 4 hòn đảo chính của Nhật Bản và là tỉnh của Nhật Bản",
+   "example": "北海道にスキーに行くつもりです。",
+   "exampleMeaning": "Tôi định đi trượt tuyết ở Hokkaido.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "民主",
+   "meaning": "nền dân chủ, chế độ dân chủ",
+   "example": "彼は民主党の支持者だ。",
+   "exampleMeaning": "Anh ta ủng hộ đảng Dân chủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毎回",
+   "meaning": "lần nào cũng",
+   "example": "「毎回」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “毎回”: lần nào cũng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真の",
+   "meaning": "thật, thực, đúng",
+   "example": "まさかの時の友は真の友。",
+   "exampleMeaning": "Trong hoạn nạn mới biết bạn là ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "利",
+   "meaning": "lợi, lợi ích",
+   "example": "私は彼を利口だと思った。",
+   "exampleMeaning": "Tôi nghĩ anh ta rất lanh lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "従軍",
+   "meaning": "military service (EN)",
+   "example": "「従軍」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “従軍”: military service (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "在りし日",
+   "meaning": "past days (EN)",
+   "example": "「在りし日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “在りし日”: past days (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "極東",
+   "meaning": "viễn đông",
+   "example": "「極東」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “極東”: viễn đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "南部",
+   "meaning": "hướng nam, phương nam, phía nam",
+   "example": "「南部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “南部”: hướng nam, phương nam, phía nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "種目",
+   "meaning": "khoản (ghi số... )",
+   "example": "「種目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “種目”: khoản (ghi số... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対照的",
+   "meaning": "để nêu bật sự tương phản",
+   "example": "「対照的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対照的”: để nêu bật sự tương phản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政局",
+   "meaning": "political situation (EN)",
+   "example": "「政局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政局”: political situation (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "離脱",
+   "meaning": "sự rút khỏi",
+   "example": "「離脱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “離脱”: sự rút khỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "議場",
+   "meaning": "phòng họp",
+   "example": "「議場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “議場”: phòng họp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "擁立",
+   "meaning": "sự giúp đỡ",
+   "example": "「擁立」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “擁立”: sự giúp đỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "画面",
+   "meaning": "màn, tấm chắn",
+   "example": "画面もうちょっと明るくできますか？",
+   "exampleMeaning": "Bạn có thể cho màn hình sáng hơn một chút có được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下水道",
+   "meaning": "người khâu, người may",
+   "example": "「下水道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下水道”: người khâu, người may.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "独立国",
+   "meaning": "independent state (EN)",
+   "example": "「独立国」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “独立国”: independent state (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最小限",
+   "meaning": "số lượng tối thiểu, mức tối thiểu",
+   "example": "「最小限」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “最小限”: số lượng tối thiểu, mức tối thiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勝ち越し",
+   "meaning": "having more wins than losses (EN)",
+   "example": "「勝ち越し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勝ち越し”: having more wins than losses (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "民主党",
+    "の",
+    "支持者",
+    "だ"
+   ],
+   "reading": "かれはみんしゅとうのしじしゃだ",
+   "meaning": "Anh ta ủng hộ đảng Dân chủ."
+  },
+  {
+   "tokens": [
+    "北海道",
+    "に",
+    "スキー",
+    "に",
+    "行く",
+    "つもり",
+    "です"
+   ],
+   "reading": "ほっかいどうにスキーにいくつもりです",
+   "meaning": "Tôi định đi trượt tuyết ở Hokkaido."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "を",
+    "利口",
+    "だ",
+    "と",
+    "思った"
+   ],
+   "reading": "わたしはかれをりこうだとおもった",
+   "meaning": "Tôi nghĩ anh ta rất lanh lợi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "いつも",
+    "自分",
+    "の",
+    "利益",
+    "を",
+    "第一",
+    "に",
+    "考える"
+   ],
+   "reading": "かれはいつもじぶんのりえきをだいいちにかんがえる",
+   "meaning": "Anh ấy luôn đặt lợi ích của mình lên trên hết."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "利己的な",
+    "人",
+    "だ"
+   ],
+   "reading": "かのじょはりこてきなひとだ",
+   "meaning": "Cô ấy là một người ích kỷ."
+  }
+ ],
+ "issues": []
+}

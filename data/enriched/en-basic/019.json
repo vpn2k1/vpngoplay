@@ -1,0 +1,320 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "mountain",
+   "meaning": "núi",
+   "example": "Look at this high mountain!",
+   "exampleMeaning": "Hãy nhìn ngọn núi cao này đi.",
+   "emoji": "⛰",
+   "ipa": "/ˈmaʊntən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "famous",
+   "meaning": "nổi tiếng, nổi danh, trứ danh",
+   "example": "He is a famous composer.",
+   "exampleMeaning": "Ông ấy là một nhà soạn nhạc nổi tiếng.",
+   "emoji": "",
+   "ipa": "/ˈfeɪ.məs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "what",
+   "meaning": "gì, thế nào",
+   "example": "What he did, he did well.",
+   "exampleMeaning": "Nó đã làm việc gì thì đều làm tốt.",
+   "emoji": "",
+   "ipa": "/ˈhwət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "have",
+   "meaning": "đã, phải, có bổn phận phải",
+   "example": "he will have it that...",
+   "exampleMeaning": "Anh ta chủ trương là...; anh ta tin chắc là... một cái",
+   "emoji": "",
+   "ipa": "/ˈhæv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nose",
+   "meaning": "mũi (người)",
+   "example": "to nose into other people's business",
+   "exampleMeaning": "Chõ vào việc của người khác",
+   "emoji": "👃",
+   "ipa": "/ˈnoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "animal",
+   "meaning": "động vật, thú vật",
+   "example": "This animal species is nearing extinction.",
+   "exampleMeaning": "Loài động vật này gần như đã tuyệt chủng.",
+   "emoji": "",
+   "ipa": "/ˈænɪməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "August",
+   "meaning": "Tháng tám",
+   "example": "Today, August 30, is a national holiday in Turkey.",
+   "exampleMeaning": "Hôm nay, ngày 30 tháng Tám, là một ngày nghỉ lễ ở Thổ Nhĩ Kì.",
+   "emoji": "",
+   "ipa": "/ˈɑɡəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "plane",
+   "meaning": "máy bay",
+   "example": "to plane the way",
+   "exampleMeaning": "San bằng con đường",
+   "emoji": "",
+   "ipa": "/pleɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "where",
+   "meaning": "đâu, ở đâu, ở nơi nào",
+   "example": "where will you be if you fail?",
+   "exampleMeaning": "Nếu anh thất bại thì rồi anh sẽ ra làm sao?",
+   "emoji": "",
+   "ipa": "/ˈhwɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "all",
+   "meaning": "hoàn toàn, toàn bộ, tất cả",
+   "example": "all is over!",
+   "exampleMeaning": "Thế là xong tất cả!",
+   "emoji": "",
+   "ipa": "/ˈɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "feed",
+   "meaning": "ăn, ăn cơm",
+   "example": "to feed a cold",
+   "exampleMeaning": "Ăn nhiều khi bị cảm lạnh (để tăng sức đề kháng)",
+   "emoji": "",
+   "ipa": "/ˈfid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "set",
+   "meaning": "để, đặt",
+   "example": "to set someone among the great writers",
+   "exampleMeaning": "Đặt ai vào hàng những nhà văn lớn",
+   "emoji": "",
+   "ipa": "/sɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "May",
+   "meaning": "có thể, có lẽ",
+   "example": "May I begin?",
+   "exampleMeaning": "Tôi có thể bắt đầu được không?",
+   "emoji": "",
+   "ipa": "/ˈmeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dress",
+   "meaning": "mặc (quần áo... ), ăn mặc",
+   "example": "to dress for dinner",
+   "exampleMeaning": "Mặc lễ phục để ăn cơm tối",
+   "emoji": "👗",
+   "ipa": "/ˈdrɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "break",
+   "meaning": "gãy, đứt, vỡ",
+   "example": "to break one's mind to...",
+   "exampleMeaning": "Truyền đạt ý kiến của mình cho...",
+   "emoji": "",
+   "ipa": "/ˈbreɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "half",
+   "meaning": "nửa, phân chia đôi",
+   "example": "he waster half of his time",
+   "exampleMeaning": "Nó lâng phí mất phân nửa thời gian của nó",
+   "emoji": "",
+   "ipa": "/ˈhæf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mum",
+   "meaning": "lặng yên, lặng thinh",
+   "example": "to be mum",
+   "exampleMeaning": "Lặng thinh, không nói gì",
+   "emoji": "",
+   "ipa": "/ˈməm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dance",
+   "meaning": "nhảy",
+   "example": "to dance a baby in one's arms",
+   "exampleMeaning": "Tung tung nhẹ em bé trong tay",
+   "emoji": "",
+   "ipa": "/ˈdænts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "interesting",
+   "meaning": "làm quan tâm, làm chú ý, thú vị",
+   "example": "It seems interesting to me.",
+   "exampleMeaning": "Nó có vể thú vị với tôi.",
+   "emoji": "",
+   "ipa": "/ˈɪntrəstɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "love",
+   "meaning": "yêu, thương, yêu mến",
+   "example": "a mother's love for her children",
+   "exampleMeaning": "Tình mẹ yêu con",
+   "emoji": "",
+   "ipa": "/ˈləv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "all",
+    "have",
+    "changed"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta đều đã thay đổi."
+  },
+  {
+   "tokens": [
+    "That's",
+    "all",
+    "I",
+    "have"
+   ],
+   "reading": "",
+   "meaning": "Đó là tất cả những gì mà tôi có."
+  },
+  {
+   "tokens": [
+    "They",
+    "all",
+    "love",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Họ đều yêu tôi."
+  },
+  {
+   "tokens": [
+    "What",
+    "have",
+    "I",
+    "done"
+   ],
+   "reading": "",
+   "meaning": "Mình đã làm gì chứ?"
+  },
+  {
+   "tokens": [
+    "That",
+    "is",
+    "all",
+    "I",
+    "have"
+   ],
+   "reading": "",
+   "meaning": "Đó là tất cả những gì mà tôi có."
+  }
+ ],
+ "issues": []
+}

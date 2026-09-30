@@ -1,0 +1,332 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "风味",
+   "meaning": "phong vị",
+   "example": "这首诗有民歌风味。",
+   "exampleMeaning": "Bài thơ này có màu sắc của dân ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "看似",
+   "meaning": "trông như thể",
+   "example": "我们来学“看似”这个词。",
+   "exampleMeaning": "Cùng học từ “看似”: trông như thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànsì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "档次",
+   "meaning": "cấp",
+   "example": "商品种类很多，档次全。",
+   "exampleMeaning": "Chủng loại sản phẩm rất nhiều, có mọi cấp bậc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngcì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跑道",
+   "meaning": "đường băng (máy bay)",
+   "example": "我们来学“跑道”这个词。",
+   "exampleMeaning": "Cùng học từ “跑道”: đường băng (máy bay).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǎodào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歌剧",
+   "meaning": "ca kịch",
+   "example": "我们来学“歌剧”这个词。",
+   "exampleMeaning": "Cùng học từ “歌剧”: ca kịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gējù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "让步",
+   "meaning": "nhượng bộ",
+   "example": "他让步了.",
+   "exampleMeaning": "Anh ta đã nhượng bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ràngbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "士气",
+   "meaning": "sĩ khí",
+   "example": "士气旺盛。",
+   "exampleMeaning": "Tinh thần binh lính rất cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过日子",
+   "meaning": "sống",
+   "example": "小两口儿和和气气地过日子。",
+   "exampleMeaning": "Hai vợ chồng trẻ sống rất hoà thuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòrìzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "听从",
+   "meaning": "nghe theo",
+   "example": "听从指挥",
+   "exampleMeaning": "Nghe theo chỉ huy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīngcóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "繁忙",
+   "meaning": "bộn bề",
+   "example": "工作繁忙",
+   "exampleMeaning": "Công việc bộn bề",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fánmáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "订婚",
+   "meaning": "đính hôn",
+   "example": "我们来学“订婚”这个词。",
+   "exampleMeaning": "Cùng học từ “订婚”: đính hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìnghūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不同寻常",
+   "meaning": "bất thường",
+   "example": "我们来学“不同寻常”这个词。",
+   "exampleMeaning": "Cùng học từ “不同寻常”: bất thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùtóngxúncháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "推断",
+   "meaning": "kết luận",
+   "example": "作出正确的推断。",
+   "exampleMeaning": "Đýa ra kết luận chính xác",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "领养",
+   "meaning": "nhận nuôi",
+   "example": "我们来学“领养”这个词。",
+   "exampleMeaning": "Cùng học từ “领养”: nhận nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐngyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "习俗",
+   "meaning": "tập tục",
+   "example": "这是西方的习俗。",
+   "exampleMeaning": "Đó là tập tục của Phương Tây",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xísú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "货运",
+   "meaning": "vận chuyển hàng hoá",
+   "example": "我们来学“货运”这个词。",
+   "exampleMeaning": "Cùng học từ “货运”: vận chuyển hàng hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòyùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遗弃",
+   "meaning": "vứt bỏ",
+   "example": "敌军遗弃辎重无数。",
+   "exampleMeaning": "Quân địch vứt bỏ vô số quân trang quân dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "芝麻",
+   "meaning": "cây vừng",
+   "example": "我们来学“芝麻”这个词。",
+   "exampleMeaning": "Cùng học từ “芝麻”: cây vừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīma",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正直",
+   "meaning": "chính trực",
+   "example": "他很正直。",
+   "exampleMeaning": "Anh ấy rất chính trực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngzhí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "平息",
+   "meaning": "lắng lại",
+   "example": "一场风波渐渐平息了。",
+   "exampleMeaning": "Cơn phong ba từ từ lắng xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  },
+  {
+   "tokens": [
+    "他们",
+    "不得不",
+    "整天",
+    "呆",
+    "在",
+    "家里"
+   ],
+   "reading": "tāmen bùdébù zhěngtiān dāi zài jiālǐ",
+   "meaning": "Họ đã phải ở trong nhà suốt cả ngày."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "她",
+    "邀请",
+    "我们",
+    "去",
+    "她",
+    "的",
+    "生日",
+    "派对"
+   ],
+   "reading": "tā yāoqǐng wǒmen qù tā de shēngrì pàiduì",
+   "meaning": "Cô ấy mời chúng tôi đến dự buổi tiệc sinh nhật của cô ấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "正好",
+    "赶上",
+    "了",
+    "最",
+    "后",
+    "一",
+    "班",
+    "火车"
+   ],
+   "reading": "wǒ zhènghǎo gǎnshàng le zuì hòu yī bān huǒchē",
+   "meaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng."
+  }
+ ],
+ "issues": []
+}

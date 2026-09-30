@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "catalog": "node scripts/build-catalog.mjs",
+    "catalog": "node scripts/build-catalog.mjs && node scripts/build-talk.mjs",
     "predev": "npm run catalog",
     "dev": "vite",
     "prebuild": "npm run catalog",
@@ -16,7 +16,12 @@
     "grammar:import": "node scripts/import-nenglish.mjs",
     "vocab:prepare": "node scripts/vocab/prepare.mjs",
     "vocab:enrich": "node scripts/vocab/enrich.mjs",
-    "vocab:build": "node scripts/vocab/build.mjs && npm run catalog"
+    "vocab:draft": "node scripts/vocab/draft.mjs",
+    "vocab:build": "node scripts/vocab/build.mjs && npm run catalog",
+    "sources:download": "node scripts/sources/download.mjs",
+    "sources:lookup": "node scripts/sources/lookup.mjs",
+    "sources:crawl": "node scripts/sources/crawl-wiktionary.mjs",
+    "sentences:build": "node scripts/sentences/build.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.9.1",

@@ -17,7 +17,7 @@
 // twice. Batches don't support server-side fallbacks; the direct mode enables them.
 //
 // Credentials: ANTHROPIC_API_KEY (also read from .env), or a profile from `ant auth login`.
-// Output: data/enriched/<courseId>/<nnn>.json (existing files are skipped).
+// Output: data/enriched/<courseId>/<nnn>.json (existing files are skipped, except drafts from vocab:draft).
 import Anthropic from '@anthropic-ai/sdk'
 import { betaZodOutputFormat } from '@anthropic-ai/sdk/helpers/beta/zod'
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod'
@@ -171,6 +171,7 @@ const selected = readdirSync(COURSES)
 if (!selected.length) throw new Error('No courses found — run `npm run vocab:prepare` first (or check --course).')
 
 const redo = new Set((args.redo ?? '').split(',').filter(Boolean).map(Number))
+const isDraft = (file) => JSON.parse(readFileSync(file, 'utf8')).draft === true
 const jobs = []
 for (const { course, words } of selected) {
   mkdirSync(join(OUT, course.id), { recursive: true })
@@ -178,7 +179,8 @@ for (const { course, words } of selected) {
   for (let i = 0; i < course.lessonCount; i++) {
     const lessonNo = i + 1
     const file = join(OUT, course.id, `${String(lessonNo).padStart(3, '0')}.json`)
-    if (redo.size ? !redo.has(lessonNo) : existsSync(file)) continue
+    // Drafts from vocab:draft (open data) are replaced; lessons written by Claude are kept.
+    if (redo.size ? !redo.has(lessonNo) : existsSync(file) && !isDraft(file)) continue
     if (args.limit && queued >= Number(args.limit)) break
     queued++
     jobs.push({ course, lessonNo, file, words: words.slice(i * LESSON_SIZE, (i + 1) * LESSON_SIZE) })

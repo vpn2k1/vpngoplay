@@ -1,0 +1,335 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "angry",
+   "meaning": "giận, tức giận, cáu",
+   "example": "to be (get) angry with (at) someone",
+   "exampleMeaning": "Tức giận ai",
+   "emoji": "",
+   "ipa": "/ˈæŋ.ɡri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peace",
+   "meaning": "hoà bình, thái bình, sự hoà thuận",
+   "example": "to make one's peace with somebody",
+   "exampleMeaning": "Làm lành với ai",
+   "emoji": "",
+   "ipa": "/ˈpis/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "section",
+   "meaning": "khu vực",
+   "example": "he was popular with all section and classes",
+   "exampleMeaning": "Ông ấy được mọi tầng lớp, mọi giai cấp yêu mến",
+   "emoji": "",
+   "ipa": "/ˈsɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "action",
+   "meaning": "hành động, hành vi",
+   "example": "the sunlight has action on certain materials",
+   "exampleMeaning": "Ánh nắng có tác động đến một số chất",
+   "emoji": "",
+   "ipa": "/ˈæk.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "past",
+   "meaning": "qua",
+   "example": "for the past few days",
+   "exampleMeaning": "Mấy ngày qua",
+   "emoji": "",
+   "ipa": "/pɑːst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bread",
+   "meaning": "bánh mì",
+   "example": "He used to buy bread here.",
+   "exampleMeaning": "Anh ấy từng mua bánh mì ở đây.",
+   "emoji": "🍞",
+   "ipa": "/brɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "of",
+   "meaning": "thuộc, của, ở",
+   "example": "we had a good time of it",
+   "exampleMeaning": "Chúng tôi được hưởng một thời gian vui thích",
+   "emoji": "",
+   "ipa": "/ˈəv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soup",
+   "meaning": "súp",
+   "example": "We eat soup with a spoon.",
+   "exampleMeaning": "Chúng tôi ăn súp bằng thìa.",
+   "emoji": "",
+   "ipa": "/ˈsup/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "than",
+   "meaning": "xuất hiện trong so sánh tiếng Anh",
+   "example": "I'm taller than Tom.",
+   "exampleMeaning": "Tôi cao hơn Tom.",
+   "emoji": "",
+   "ipa": "/ˈðæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mobile phone",
+   "meaning": "di động, điện thoại di động",
+   "example": "I don't have a mobile phone.",
+   "exampleMeaning": "Tôi không có điện thoại di động.",
+   "emoji": "📱",
+   "ipa": "/ˈmoʊbəl ˈfoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reason",
+   "meaning": "lẽ phải, lý, sự vừa phải",
+   "example": "to listen to reason; to hear reason",
+   "exampleMeaning": "Nghe theo lẽ phải",
+   "emoji": "",
+   "ipa": "/ˈrizən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "remember",
+   "meaning": "nhớ",
+   "example": "to remember a child on his birthday",
+   "exampleMeaning": "Nhớ tặng quà cho một em nhỏ vào ngày sinh của em",
+   "emoji": "",
+   "ipa": "/riˈmɛmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mouth",
+   "meaning": "mồm, miệng, mõm",
+   "example": "Open your mouth!",
+   "exampleMeaning": "Mở miệng ra!",
+   "emoji": "👄",
+   "ipa": "/maʊθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "young",
+   "meaning": "trẻ, trẻ tuổi, thiếu niên",
+   "example": "he is young for his age",
+   "exampleMeaning": "Nó còn non so với tuổi, nó trẻ hơn tuổi",
+   "emoji": "",
+   "ipa": "/ˈjəŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "topic",
+   "meaning": "đề tài, chủ đề",
+   "example": "The topic of my essay is environment protection.",
+   "exampleMeaning": "Đề tài của bài văn của tôi là bảo vệ môi trường.",
+   "emoji": "",
+   "ipa": "/ˈtɑpɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "best",
+   "meaning": "tốt nhất, hay nhất, đẹp nhất",
+   "example": "My mom is the best!",
+   "exampleMeaning": "Mẹ tôi là nhất!",
+   "emoji": "",
+   "ipa": "/ˈbɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "that",
+   "meaning": "ấy, đó, kia",
+   "example": "This is he that brought the news.",
+   "exampleMeaning": "Đây là người đã mang tin lại.",
+   "emoji": "",
+   "ipa": "/ˈðæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wonderful",
+   "meaning": "kỳ lạ, phi thường",
+   "example": "It's wonderful to be here.",
+   "exampleMeaning": "Được ở đây thật tuyệt.",
+   "emoji": "",
+   "ipa": "/ˈwʌndəfl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dry",
+   "meaning": "khô, cạn, ráo",
+   "example": "a spell of dry cold",
+   "exampleMeaning": "Đợt rét khô",
+   "emoji": "",
+   "ipa": "/draɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blow",
+   "meaning": "thổi (gió)",
+   "example": "to blow hard and perspire profusely",
+   "exampleMeaning": "Thở dốc và ra mồ hôi đầm đìa",
+   "emoji": "",
+   "ipa": "/bləʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "That",
+    "was",
+    "the",
+    "best",
+    "day",
+    "of",
+    "my",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Đó là 1 ngày tuyệt vời nhất trong cuộc đời của tôi"
+  },
+  {
+   "tokens": [
+    "There",
+    "was",
+    "no",
+    "other",
+    "light",
+    "than",
+    "that",
+    "of",
+    "fire"
+   ],
+   "reading": "",
+   "meaning": "Không có ánh sáng nào khác ngoài ngọn lửa đó."
+  },
+  {
+   "tokens": [
+    "The",
+    "population",
+    "of",
+    "Japan",
+    "is",
+    "larger",
+    "than",
+    "that",
+    "of",
+    "Canada"
+   ],
+   "reading": "",
+   "meaning": "Dân số Nhật Bản nhiều hơn dân số Canada."
+  },
+  {
+   "tokens": [
+    "That's",
+    "kind",
+    "of",
+    "important"
+   ],
+   "reading": "",
+   "meaning": "Đó là loại quan trọng."
+  },
+  {
+   "tokens": [
+    "That's",
+    "not",
+    "my",
+    "favorite",
+    "topic"
+   ],
+   "reading": "",
+   "meaning": "Chủ đề đó tôi không thích."
+  }
+ ],
+ "issues": []
+}

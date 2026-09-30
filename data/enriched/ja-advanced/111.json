@@ -1,0 +1,321 @@
+{
+ "lesson": 111,
+ "draft": true,
+ "words": [
+  {
+   "term": "十二",
+   "meaning": "mười hai",
+   "example": "「十二」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “十二”: mười hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "実質",
+   "meaning": "chất, vật chất",
+   "example": "実質的に全ての家庭にはテレビがある。",
+   "exampleMeaning": "Thực chất thì tất cả mọi gia đình đều có ti vi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無職",
+   "meaning": "không dùng, không được sử dụng",
+   "example": "「無職」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無職”: không dùng, không được sử dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救急",
+   "meaning": "cấp cứu, dùng để cấp cứu",
+   "example": "救急車を呼んでください。",
+   "exampleMeaning": "Gọi cấp cứu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "市中",
+   "meaning": "in the city (EN)",
+   "example": "山下町は、神奈川県横浜市中区の町名。",
+   "exampleMeaning": "Yamashita là tên của một thị trấn nằm ở quận Naka, thành phố Yokohama, tỉnh Kanagawa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "税制",
+   "meaning": "tax system (EN)",
+   "example": "「税制」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “税制”: tax system (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "共産",
+   "meaning": "chủ nghĩa cộng sản",
+   "example": "喜んで中国共産党に入ります。",
+   "exampleMeaning": "Tôi rất vui lòng gia nhập đảng Cộng sản Trung Hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "体調",
+   "meaning": "điều kiện vật lý",
+   "example": "「体調」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “体調”: điều kiện vật lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "柱",
+   "meaning": "cột, trụ",
+   "example": "彼は柱に頭をぶつけた。",
+   "exampleMeaning": "Anh ấy đã đâm đầu vào một cái cột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "遵守",
+   "meaning": "sự tuân theo, sự tuân thủ",
+   "example": "「遵守」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遵守”: sự tuân theo, sự tuân thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同夜",
+   "meaning": "the same night (EN)",
+   "example": "「同夜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同夜”: the same night (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教徒",
+   "meaning": "người tin, tín đồ",
+   "example": "「教徒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教徒”: người tin, tín đồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管理職",
+   "meaning": "sự trông nom, sự quản lý",
+   "example": "「管理職」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “管理職”: sự trông nom, sự quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "贈賄",
+   "meaning": "sự đút lót, sự hối lộ, sự mua chuộc",
+   "example": "「贈賄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “贈賄”: sự đút lót, sự hối lộ, sự mua chuộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "禁輸",
+   "meaning": "lệnh cấm vận",
+   "example": "「禁輸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “禁輸”: lệnh cấm vận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "東北",
+   "meaning": "phía đông bắc",
+   "example": "「東北」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “東北”: phía đông bắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "飲料",
+   "meaning": "đồ uống",
+   "example": "「飲料」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “飲料”: đồ uống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "航空機",
+   "meaning": "máy bay, tàu bay",
+   "example": "「航空機」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “航空機”: máy bay, tàu bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "若者",
+   "meaning": "người thanh niên",
+   "example": "老人達が若者達よりいつも賢いとは限らない。",
+   "exampleMeaning": "Không phải lúc nào người già cũng khôn ngoan hơn người trẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大関",
+   "meaning": "ozeki (Đại Quan)",
+   "example": "「大関」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大関”: ozeki (Đại Quan).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "柱",
+    "に",
+    "頭",
+    "を",
+    "ぶつけた"
+   ],
+   "reading": "かれははしらにあたまをぶつけた",
+   "meaning": "Anh ấy đã đâm đầu vào một cái cột."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで"
+   ],
+   "reading": "きゅうきゅうしゃをよんで",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで",
+    "くれ"
+   ],
+   "reading": "きゅうきゅうしゃをよんでくれ",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで",
+    "ください"
+   ],
+   "reading": "きゅうきゅうしゃをよんでください",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "私",
+    "だけ",
+    "が",
+    "残った"
+   ],
+   "reading": "わたしだけがのこった",
+   "meaning": "Chỉ còn lại một mình tôi."
+  }
+ ],
+ "issues": []
+}

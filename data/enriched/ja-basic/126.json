@@ -1,0 +1,326 @@
+{
+ "lesson": 126,
+ "draft": true,
+ "words": [
+  {
+   "term": "冷静",
+   "meaning": "bình tĩnh, điềm tĩnh",
+   "example": "父はいつも冷静である。",
+   "exampleMeaning": "Cha tôi luôn luôn điềm tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "容易",
+   "meaning": "dễ, dễ dàng",
+   "example": "信じることは容易くない。",
+   "exampleMeaning": "Tin tưởng không phải là một việc dễ dàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "具体",
+   "meaning": "cụ thể",
+   "example": "具体的に話して欲しい。",
+   "exampleMeaning": "Tôi muốn bạn nói cụ thể với tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "招く",
+   "meaning": "mời",
+   "example": "この翻訳は誤解を招く恐れがあります。",
+   "exampleMeaning": "Bản dịch này có thể gây hiểu lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "応じる",
+   "meaning": "tra vào, lắp vào",
+   "example": "「応じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “応じる”: tra vào, lắp vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気に入る",
+   "meaning": "thích ưa, chuộng, yêu",
+   "example": "「気に入る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気に入る”: thích ưa, chuộng, yêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精々",
+   "meaning": "*thành ngữ at",
+   "example": "「精々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “精々”: *thành ngữ at.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "トン",
+   "meaning": "tấn",
+   "example": "去年はボストンにいたの？",
+   "exampleMeaning": "Năm ngoái bạn ở Boston à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "動詞",
+   "meaning": "động từ",
+   "example": "不規則動詞の勉強は好きではない。",
+   "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "精巧",
+   "meaning": "phức tạp",
+   "example": "トムの作った切り紙のクワガタは、今にも動き出しそうなほど精巧な出来上がりだった。",
+   "exampleMeaning": "Con bọ cánh cứng origami mà Tom gấp tinh xảo đến mức cho đến bây giờ, trông nó cứ như đang cử động vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ずっと",
+   "meaning": "từ đầu đến cuối, khắp, suốt",
+   "example": "今週はずっと大変忙しい。",
+   "exampleMeaning": "Tuần này tôi rất bận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "国境",
+   "meaning": "bờ, mép, vỉa",
+   "example": "「国境」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国境”: bờ, mép, vỉa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "殻",
+   "meaning": "vỏ: cấu trúc rỗng và cứng nói chung",
+   "example": "「殻」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “殻”: vỏ: cấu trúc rỗng và cứng nói chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "こんなに",
+   "meaning": "như thế, như vậy",
+   "example": "二度とこんなに遅刻しないこと。",
+   "exampleMeaning": "Lần sau không được đi muộn như thế này nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "カー",
+   "meaning": "xe ô tô",
+   "example": "彼女は短いスカートが好きだ。",
+   "exampleMeaning": "Cô ấy thích váy ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "起こる",
+   "meaning": "xảy ra, xảy đến",
+   "example": "戦争が起こるかもしれない。",
+   "exampleMeaning": "Chiến tranh có lẽ sẽ xảy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "係",
+   "meaning": "sự liên quan, sự liên lạc, mối quan hệ",
+   "example": "あなたには関係ない。",
+   "exampleMeaning": "Không phải việc của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "老人",
+   "meaning": "người già, người đã về hưu",
+   "example": "老人は息を引きとった。",
+   "exampleMeaning": "Cụ già đã trút hơi thở cuối cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "泊める",
+   "meaning": "néo (cột buồm) bằng dây",
+   "example": "「泊める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “泊める”: néo (cột buồm) bằng dây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "マスター",
+   "meaning": "chủ, chủ nhân",
+   "example": "ジムはフランス語とドイツ語をマスターしている。",
+   "exampleMeaning": "Jim thông thạo tiếng Pháp và tiếng Đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "トンボ返り",
+    "を",
+    "した"
+   ],
+   "reading": "かれはトンボがえりをした",
+   "meaning": "Ông ấy đã nhảy lộn nhào một vòng."
+  },
+  {
+   "tokens": [
+    "戦争",
+    "が",
+    "起こる",
+    "かもしれない"
+   ],
+   "reading": "せんそうがおこるかもしれない",
+   "meaning": "Chiến tranh có lẽ sẽ xảy ra."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "サッカー",
+    "を",
+    "します",
+    "か"
+   ],
+   "reading": "あなたはサッカーをしますか",
+   "meaning": "Bạn có chơi bóng đá không?"
+  },
+  {
+   "tokens": [
+    "その",
+    "老人",
+    "は",
+    "先週",
+    "なくなりました"
+   ],
+   "reading": "そのろうじんはせんしゅうなくなりました",
+   "meaning": "Ông lão đó đã qua đời tuần trước."
+  },
+  {
+   "tokens": [
+    "カール",
+    "は",
+    "とても",
+    "嬉",
+    "し",
+    "そうだ",
+    "った"
+   ],
+   "reading": "カールはとてもうれしそうだった",
+   "meaning": "Carl trông rất vui."
+  }
+ ],
+ "issues": []
+}

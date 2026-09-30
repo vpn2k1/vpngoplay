@@ -1,0 +1,322 @@
+{
+ "lesson": 45,
+ "draft": true,
+ "words": [
+  {
+   "term": "やっと",
+   "meaning": "cuối cùng",
+   "example": "やっと中学を卒業しました。",
+   "exampleMeaning": "Cuối cùng tôi đã tốt nghiệp cấp hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "故障",
+   "meaning": "sự hỏng máy (ô tô, xe lửa)",
+   "example": "クーラーが故障してしまった。",
+   "exampleMeaning": "Cái điều hòa hỏng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "移る",
+   "meaning": "chuyển, di chuyển, chuyển dịch",
+   "example": "馬鹿が移るまえにそのような宗教に関わらんほうがいい。",
+   "exampleMeaning": "Bạn nên tránh xa cái tôn giáo đó đi trước khi bạn biến thành một đứa ngu xuẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "祖父",
+   "meaning": "ông",
+   "example": "祖父は５年前に他界した。",
+   "exampleMeaning": "Ông tôi đã tạ thế 5 năm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "こう",
+   "meaning": "như thế, như vậy",
+   "example": "今度はどこに行こう？",
+   "exampleMeaning": "Lần sau chúng ta đi đâu đây?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "塗る",
+   "meaning": "sơn, quét sơn",
+   "example": "「塗る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “塗る”: sơn, quét sơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "約束",
+   "meaning": "lời hứa, điều hứa, điều hẹn ước",
+   "example": "約束の時間に遅れた。",
+   "exampleMeaning": "Trễ giờ hẹn rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "亡くなる",
+   "meaning": "mất, qua đời, từ trần",
+   "example": "「亡くなる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “亡くなる”: mất, qua đời, từ trần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うん",
+   "meaning": "vâng, phải, dạ",
+   "example": "君にはうんざりしたよ。",
+   "exampleMeaning": "Tôi chán ngấy anh rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "パパ",
+   "meaning": "bố, cha",
+   "example": "パパが静かにしてなさいって言ったの。",
+   "exampleMeaning": "Bố tôi bảo tôi giữ im lặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "くださる",
+   "meaning": "cho, biếu, tặng",
+   "example": "「くださる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “くださる”: cho, biếu, tặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用事",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của task",
+   "example": "「用事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “用事”: động từ chia ở ngôi thứ ba số ít của task.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注射",
+   "meaning": "sự tiêm",
+   "example": "注射のことを考えると怖くて震えてしまう。",
+   "exampleMeaning": "Cứ nghĩ đến chích là người run lên lo sợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "けれど",
+   "meaning": "dẫu cho, mặc dù",
+   "example": "心熱けれど肉体は弱し。",
+   "exampleMeaning": "Lực bất tòng tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "けがする",
+   "meaning": "sự làm hại, sự làm tổn hại, sự làm hỏng",
+   "example": "「けがする」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “けがする”: sự làm hại, sự làm tổn hại, sự làm hỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乾く",
+   "meaning": "làm khô, phơi khô, sấy khô",
+   "example": "「乾く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乾く”: làm khô, phơi khô, sấy khô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ガソリン",
+   "meaning": "dầu lửa, dầu hoả",
+   "example": "「ガソリン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ガソリン”: dầu lửa, dầu hoả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "翻訳",
+   "meaning": "sự dịch",
+   "example": "その翻訳は原作に見事に忠実であった。",
+   "exampleMeaning": "Bản dịch đó rất sát với nguyên tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "坂",
+   "meaning": "dốc, đường dốc, chỗ dốc",
+   "example": "「坂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “坂”: dốc, đường dốc, chỗ dốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "なさる",
+   "meaning": "làm (kính ngữ)",
+   "example": "あなたが帰国なさる頃には、桜はみんな散ってしまっていることでしょう。",
+   "exampleMeaning": "Lúc bạn trở về quê nhà có lẽ cũng là lúc cánh hoa anh đào rụng rơi hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "約束",
+    "の",
+    "時間に遅れた"
+   ],
+   "reading": "やくそくのじかんにおくれた",
+   "meaning": "Trễ giờ hẹn rồi."
+  },
+  {
+   "tokens": [
+    "約束",
+    "は",
+    "守った",
+    "方がいい"
+   ],
+   "reading": "やくそくはまもったほうがいい",
+   "meaning": "Bạn nên giữ lời hứa của mình."
+  },
+  {
+   "tokens": [
+    "むこう",
+    "に",
+    "教会",
+    "が",
+    "見えます"
+   ],
+   "reading": "むこうにきょうかいがみえます",
+   "meaning": "Ở kia có một nhà thờ."
+  },
+  {
+   "tokens": [
+    "やっと",
+    "中学",
+    "を",
+    "卒業",
+    "しました"
+   ],
+   "reading": "やっとちゅうがくをそつぎょうしました",
+   "meaning": "Cuối cùng tôi đã tốt nghiệp cấp hai."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "たばこを吸わない",
+    "と",
+    "約束",
+    "した"
+   ],
+   "reading": "かれはたばこをすわないとやくそくした",
+   "meaning": "Anh ấy đã hứa là sẽ không hút thuốc lá."
+  }
+ ],
+ "issues": []
+}

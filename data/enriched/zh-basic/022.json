@@ -1,0 +1,317 @@
+{
+ "lesson": 22,
+ "draft": true,
+ "words": [
+  {
+   "term": "生病",
+   "meaning": "sinh bệnh",
+   "example": "我们来学“生病”这个词。",
+   "exampleMeaning": "Cùng học từ “生病”: sinh bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngbìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好听",
+   "meaning": "bùi tai",
+   "example": "话说得好听，但还要看行动。",
+   "exampleMeaning": "Nói chuyện bùi tai, nhưng phải xem hành động đã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎotīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开会",
+   "meaning": "họp",
+   "example": "我们来学“开会”这个词。",
+   "exampleMeaning": "Cùng học từ “开会”: họp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāihuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "钱包",
+   "meaning": "ví tiền",
+   "example": "我们来学“钱包”这个词。",
+   "exampleMeaning": "Cùng học từ “钱包”: ví tiền.",
+   "emoji": "👛",
+   "ipa": "",
+   "pinyin": "qiánbāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大学生",
+   "meaning": "sinh viên",
+   "example": "我们来学“大学生”这个词。",
+   "exampleMeaning": "Cùng học từ “大学生”: sinh viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàxuéshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "车站",
+   "meaning": "ga",
+   "example": "我们来学“车站”这个词。",
+   "exampleMeaning": "Cùng học từ “车站”: ga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēzhàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "走路",
+   "meaning": "đi",
+   "example": "不好好儿干，让他卷铺盖走路。",
+   "exampleMeaning": "Làm không tốt, để cho nó cuốn gói cút đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒulù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小朋友",
+   "meaning": "trẻ em",
+   "example": "我们来学“小朋友”这个词。",
+   "exampleMeaning": "Cùng học từ “小朋友”: trẻ em.",
+   "emoji": "🧒",
+   "ipa": "",
+   "pinyin": "xiǎopéngyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "左边",
+   "meaning": "bên trái",
+   "example": "我们来学“左边”这个词。",
+   "exampleMeaning": "Cùng học từ “左边”: bên trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǒbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有用",
+   "meaning": "có ích",
+   "example": "食物对动物有用，湿润对植物有用。",
+   "exampleMeaning": "Thức ăn có ích với động vật, sự ẩm ướt có lợi cho thực vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "爱好",
+   "meaning": "thích",
+   "example": "你的爱好是什么？",
+   "exampleMeaning": "Sở thích của bạn là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àihào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不大",
+   "meaning": "ít khi",
+   "example": "他最近不大来",
+   "exampleMeaning": "Anh ấy gần đây ít khi lui tới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "午饭",
+   "meaning": "bữa trưa",
+   "example": "我们来学“午饭”这个词。",
+   "exampleMeaning": "Cùng học từ “午饭”: bữa trưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上车",
+   "meaning": "lên xe",
+   "example": "我们来学“上车”这个词。",
+   "exampleMeaning": "Cùng học từ “上车”: lên xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "马路",
+   "meaning": "đường cái",
+   "example": "我们来学“马路”这个词。",
+   "exampleMeaning": "Cùng học từ “马路”: đường cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "门票",
+   "meaning": "vé vào cửa",
+   "example": "我们来学“门票”这个词。",
+   "exampleMeaning": "Cùng học từ “门票”: vé vào cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ménpiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "机票",
+   "meaning": "vé máy bay",
+   "example": "我们来学“机票”这个词。",
+   "exampleMeaning": "Cùng học từ “机票”: vé máy bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīpiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "楼上",
+   "meaning": "tầng trên",
+   "example": "我们来学“楼上”这个词。",
+   "exampleMeaning": "Cùng học từ “楼上”: tầng trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lóushàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打球",
+   "meaning": "chơi bóng",
+   "example": "我们来学“打球”这个词。",
+   "exampleMeaning": "Cùng học từ “打球”: chơi bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下雨",
+   "meaning": "mưa",
+   "example": "我们来学“下雨”这个词。",
+   "exampleMeaning": "Cùng học từ “下雨”: mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "爱好",
+    "翻译"
+   ],
+   "reading": "wǒ àihào fānyì",
+   "meaning": "Mình rất thích dịch thuật."
+  },
+  {
+   "tokens": [
+    "那是",
+    "我",
+    "的",
+    "爱好"
+   ],
+   "reading": "nàshi wǒ de àihào",
+   "meaning": "Đó là sở thích của tui."
+  },
+  {
+   "tokens": [
+    "你",
+    "的",
+    "爱好",
+    "是",
+    "什么"
+   ],
+   "reading": "nǐ de àihào shì shénme",
+   "meaning": "Sở thích của bạn là gì?"
+  },
+  {
+   "tokens": [
+    "我",
+    "爱",
+    "你"
+   ],
+   "reading": "wǒ ài nǐ",
+   "meaning": "Anh phải lòng em."
+  },
+  {
+   "tokens": [
+    "我",
+    "到",
+    "了"
+   ],
+   "reading": "wǒ dào le",
+   "meaning": "Tôi đến."
+  }
+ ],
+ "issues": []
+}

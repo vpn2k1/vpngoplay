@@ -1,0 +1,329 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "いよいよ",
+   "meaning": "sự tăng, sự tăng thêm",
+   "example": "「いよいよ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いよいよ”: sự tăng, sự tăng thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "すまない",
+   "meaning": "lấy làm buồn, lấy làm tiếc",
+   "example": "「すまない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “すまない”: lấy làm buồn, lấy làm tiếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "継続",
+   "meaning": "sự tiếp tục, sự làm tiếp",
+   "example": "継続は力なり。",
+   "exampleMeaning": "Có công mài sắt có ngày nên kim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "並行",
+   "meaning": "sát bên nhau, mặt hướng về cùng một phía",
+   "example": "「並行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “並行”: sát bên nhau, mặt hướng về cùng một phía.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "艶",
+   "meaning": "nước bóng, nước láng",
+   "example": "「艶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “艶”: nước bóng, nước láng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "突き当たる",
+   "meaning": "chạy vào trong",
+   "example": "「突き当たる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “突き当たる”: chạy vào trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杉",
+   "meaning": "Japanese cedar (EN)",
+   "example": "「杉」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “杉”: Japanese cedar (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "基地",
+   "meaning": "cơ sở, nền, nền tảng",
+   "example": "昨日、彼は基地に帰らなかった。",
+   "exampleMeaning": "Hôm qua, anh ta đã không quay về căn cứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "着替え",
+   "meaning": "changing clothes (EN)",
+   "example": "服を着替えなさい。",
+   "exampleMeaning": "Hãy thay quần áo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "マスク",
+   "meaning": "mạng che mặt của phụ nữ ngày xưa",
+   "example": "マスクをつけていますか？",
+   "exampleMeaning": "Bạn có đang đeo khẩu trang không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "割と",
+   "meaning": "có liên quan, có quan hệ với",
+   "example": "「割と」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “割と”: có liên quan, có quan hệ với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "開会",
+   "meaning": "opening of a meeting (EN)",
+   "example": "「開会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “開会”: opening of a meeting (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人事",
+   "meaning": "nguồn nhân lực",
+   "example": "人事を尽くして天命を待つ。",
+   "exampleMeaning": "Mưu sự tại nhân, hành sự tại thiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ウーマン",
+   "meaning": "đàn bà, phụ nữ",
+   "example": "「ウーマン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ウーマン”: đàn bà, phụ nữ.",
+   "emoji": "👩",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "括弧",
+   "meaning": ") dấu ngoặc đơn",
+   "example": "「括弧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “括弧”: ) dấu ngoặc đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歯磨き",
+   "meaning": "bàn chải đánh răng",
+   "example": "歯磨きをしなさい。",
+   "exampleMeaning": "Đánh răng đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "朗らか",
+   "meaning": "sáng, sáng chói",
+   "example": "「朗らか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “朗らか”: sáng, sáng chói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "コース",
+   "meaning": "tiến trình, dòng",
+   "example": "「コース」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “コース”: tiến trình, dòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部品",
+   "meaning": "phụ tùng, bộ phụ, phụ kiện [TQ]",
+   "example": "我々はその自動車メーカーに部品を供給している。",
+   "exampleMeaning": "Chúng tôi cung cấp phụ tùng cho nhà sản xuất xe hơi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "存ずる",
+   "meaning": "biết",
+   "example": "「存ずる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “存ずる”: biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "人事",
+    "を",
+    "尽くして",
+    "天命",
+    "を",
+    "待つ"
+   ],
+   "reading": "じんじをつくしててんめいをまつ",
+   "meaning": "Mưu sự tại nhân, hành sự tại thiên."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "その",
+    "自動車",
+    "メーカー",
+    "に",
+    "部品",
+    "を",
+    "供給",
+    "している"
+   ],
+   "reading": "われわれはそのじどうしゃメーカーにぶひんをきょうきゅうしている",
+   "meaning": "Chúng tôi cung cấp phụ tùng cho nhà sản xuất xe hơi"
+  },
+  {
+   "tokens": [
+    "服",
+    "を",
+    "着替え",
+    "なさい"
+   ],
+   "reading": "ふくをきがえなさい",
+   "meaning": "Hãy thay quần áo."
+  },
+  {
+   "tokens": [
+    "歯磨き",
+    "を",
+    "し",
+    "なさい"
+   ],
+   "reading": "はみがきをしなさい",
+   "meaning": "Đánh răng đi."
+  },
+  {
+   "tokens": [
+    "昨日",
+    "彼",
+    "は",
+    "基地",
+    "に",
+    "帰らなかった"
+   ],
+   "reading": "きのうかれはきちにかえらなかった",
+   "meaning": "Hôm qua, anh ta đã không quay về căn cứ."
+  }
+ ],
+ "issues": []
+}

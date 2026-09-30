@@ -1,0 +1,326 @@
+{
+ "lesson": 100,
+ "draft": true,
+ "words": [
+  {
+   "term": "prejudge",
+   "meaning": "xử trước, lên án trước",
+   "example": "Let's learn the word \"prejudge\".",
+   "exampleMeaning": "Cùng học từ “prejudge”: xử trước, lên án trước.",
+   "emoji": "",
+   "ipa": "/priˈdʒədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thoughtless",
+   "meaning": "không suy nghĩ, vô tư lự",
+   "example": "thoughtless of the future",
+   "exampleMeaning": "Không suy nghĩ đến tương lai",
+   "emoji": "",
+   "ipa": "/ˈθɔtləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "capitalism",
+   "meaning": "chủ nghĩa tư bản",
+   "example": "Capitalism is the exploitation of man by man. Communism is the exact opposite.",
+   "exampleMeaning": "Chủ nghĩa tư bản là sự bóc lột loài người do loài người gây ra. Chủ nghĩa cộng sản thì hoàn toàn trái ngược với điều đó.",
+   "emoji": "",
+   "ipa": "/ˈkæpɪtəˌlɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stew",
+   "meaning": "hầm, ninh (thịt... )",
+   "example": "Beef stew should be nice and thick.",
+   "exampleMeaning": "Bò hầm nên tinh tế và dày.",
+   "emoji": "",
+   "ipa": "/stʃʉː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fierce",
+   "meaning": "dữ dội, mãnh liệt, ác liệt",
+   "example": "a fierce dog",
+   "exampleMeaning": "Con chó dữ",
+   "emoji": "",
+   "ipa": "/ˈfɪrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "likewise",
+   "meaning": "cũng thế, giống như vậy",
+   "example": "Let's learn the word \"likewise\".",
+   "exampleMeaning": "Cùng học từ “likewise”: cũng thế, giống như vậy.",
+   "emoji": "",
+   "ipa": "/ˈlaɪˌkwaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "northward",
+   "meaning": "hướng bắc",
+   "example": "Let's learn the word \"northward\".",
+   "exampleMeaning": "Cùng học từ “northward”: hướng bắc.",
+   "emoji": "",
+   "ipa": "/ˈnɔrθwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conferencing",
+   "meaning": "hội nghị",
+   "example": "Let's learn the word \"conferencing\".",
+   "exampleMeaning": "Cùng học từ “conferencing”: hội nghị.",
+   "emoji": "",
+   "ipa": "/ˈkɑnfrənsɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wrongly",
+   "meaning": "không đúng, sai, sai lầm",
+   "example": "They wrongly accused me.",
+   "exampleMeaning": "Họ vu oan cho tôi.",
+   "emoji": "",
+   "ipa": "/ˈrɔŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adaptation",
+   "meaning": "sự tra vào, sự lắp vào",
+   "example": "Let's learn the word \"adaptation\".",
+   "exampleMeaning": "Cùng học từ “adaptation”: sự tra vào, sự lắp vào.",
+   "emoji": "",
+   "ipa": "/ˌædəpˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dove",
+   "meaning": "chim bồ câu",
+   "example": "Dove of Peace",
+   "exampleMeaning": "Chim bồ câu hoà bình",
+   "emoji": "🕊",
+   "ipa": "/ˈdəv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "microscope",
+   "meaning": "kính hiển vi",
+   "example": "Let's learn the word \"microscope\".",
+   "exampleMeaning": "Cùng học từ “microscope”: kính hiển vi.",
+   "emoji": "🔬",
+   "ipa": "/ˈmaɪkrəˌskoʊp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "innovative",
+   "meaning": "có tính chất đổi mới",
+   "example": "Let's learn the word \"innovative\".",
+   "exampleMeaning": "Cùng học từ “innovative”: có tính chất đổi mới.",
+   "emoji": "",
+   "ipa": "/ˈɪnəˌveɪtɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "junk food",
+   "meaning": "thức ăn kém bổ dưỡng",
+   "example": "Let's learn the word \"junk food\".",
+   "exampleMeaning": "Cùng học từ “junk food”: thức ăn kém bổ dưỡng.",
+   "emoji": "",
+   "ipa": "/ˈdʒəŋk ˈfud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spreadsheet",
+   "meaning": "bảng tính (trong máy tính)",
+   "example": "Let's learn the word \"spreadsheet\".",
+   "exampleMeaning": "Cùng học từ “spreadsheet”: bảng tính (trong máy tính).",
+   "emoji": "",
+   "ipa": "/ˈsprɛdˌʃit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vanish",
+   "meaning": "biến mất, lẩn mất, biến dần",
+   "example": "to vanish in the crowd",
+   "exampleMeaning": "Lẩn mất vào đám đông",
+   "emoji": "",
+   "ipa": "/ˈvænɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "surge",
+   "meaning": "sóng, sóng cồn",
+   "example": "Let's learn the word \"surge\".",
+   "exampleMeaning": "Cùng học từ “surge”: sóng, sóng cồn.",
+   "emoji": "",
+   "ipa": "/ˈsɜrdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "radically",
+   "meaning": "căn bản, tận gốc, hoàn toàn triệt để",
+   "example": "Let's learn the word \"radically\".",
+   "exampleMeaning": "Cùng học từ “radically”: căn bản, tận gốc, hoàn toàn triệt để.",
+   "emoji": "",
+   "ipa": "/ˈrædɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hospitality",
+   "meaning": "lòng mến khách",
+   "example": "Let's learn the word \"hospitality\".",
+   "exampleMeaning": "Cùng học từ “hospitality”: lòng mến khách.",
+   "emoji": "",
+   "ipa": "/ˌhɑspəˈtæləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ballad",
+   "meaning": "khúc balat, bài ca balat",
+   "example": "Let's learn the word \"ballad\".",
+   "exampleMeaning": "Cùng học từ “ballad”: khúc balat, bài ca balat.",
+   "emoji": "",
+   "ipa": "/ˈbæləd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They",
+    "wrongly",
+    "accused",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Họ vu oan cho tôi."
+  },
+  {
+   "tokens": [
+    "He",
+    "was",
+    "looking",
+    "through",
+    "a",
+    "microscope"
+   ],
+   "reading": "",
+   "meaning": "Anh ta nhìn bằng kính hiển vi."
+  },
+  {
+   "tokens": [
+    "Beef",
+    "stew",
+    "should",
+    "be",
+    "nice",
+    "and",
+    "thick"
+   ],
+   "reading": "",
+   "meaning": "Bò hầm nên tinh tế và dày."
+  },
+  {
+   "tokens": [
+    "I",
+    "got",
+    "a",
+    "ticket",
+    "for",
+    "parking",
+    "wrongly"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã nhận được một vé phạt vì đỗ xe sai."
+  },
+  {
+   "tokens": [
+    "Power",
+    "brings",
+    "corruption"
+   ],
+   "reading": "",
+   "meaning": "Quyền lực mang đến tham nhũng."
+  }
+ ],
+ "issues": []
+}

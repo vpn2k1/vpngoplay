@@ -1,0 +1,317 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "unlikely",
+   "meaning": "không chắc, không chắc có thực",
+   "example": "in a most unlikely place",
+   "exampleMeaning": "Tại một nơi mà không ai nghĩ đến",
+   "emoji": "",
+   "ipa": "/ənˈlaɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "conflict",
+   "meaning": "đối lập, chống lại, mâu thuẫn",
+   "example": "to be in conflict with someone",
+   "exampleMeaning": "Xung đột với ai",
+   "emoji": "",
+   "ipa": "/ˈkɑnflɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spinach",
+   "meaning": "rau bina, rau bó xôi, rau chân vịt",
+   "example": "Spinach is a rich source of iron and calcium.",
+   "exampleMeaning": "Rau bina giàu chất sắt và can-xi.",
+   "emoji": "",
+   "ipa": "/ˈspɪnətʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lettuce",
+   "meaning": "rau diếp",
+   "example": "Let's learn the word \"lettuce\".",
+   "exampleMeaning": "Cùng học từ “lettuce”: rau diếp.",
+   "emoji": "",
+   "ipa": "/ˈlɛtəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "firefighter",
+   "meaning": "lính chữa cháy",
+   "example": "Let's learn the word \"firefighter\".",
+   "exampleMeaning": "Cùng học từ “firefighter”: lính chữa cháy.",
+   "emoji": "🧑‍🚒",
+   "ipa": "/ˈfaɪrˌfaɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "selection",
+   "meaning": "lựa chọn",
+   "example": "the new headmaster is a good selection",
+   "exampleMeaning": "Ông hiệu trưởng mới là người đã được tuyển lựa cẩn thận",
+   "emoji": "",
+   "ipa": "/səˈlɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "DJ",
+   "meaning": "áo vét đi ăn tối (dinner- jacket)",
+   "example": "Let's learn the word \"DJ\".",
+   "exampleMeaning": "Cùng học từ “DJ”: áo vét đi ăn tối (dinner- jacket).",
+   "emoji": "",
+   "ipa": "/ˈdiˈdʒeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "awareness",
+   "meaning": "nhận thức",
+   "example": "Let's learn the word \"awareness\".",
+   "exampleMeaning": "Cùng học từ “awareness”: nhận thức.",
+   "emoji": "",
+   "ipa": "/əˈwɛər.nəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "northeast",
+   "meaning": "đông bắc",
+   "example": "Let's learn the word \"northeast\".",
+   "exampleMeaning": "Cùng học từ “northeast”: đông bắc.",
+   "emoji": "",
+   "ipa": "/ˌnɔrˈθist/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scared",
+   "meaning": "bị hoảng sợ",
+   "example": "I'm scared of cats.",
+   "exampleMeaning": "Tôi sợ mèo.",
+   "emoji": "",
+   "ipa": "/ˈskɛrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "timely",
+   "meaning": "đúng lúc, hợp thời",
+   "example": "Let's learn the word \"timely\".",
+   "exampleMeaning": "Cùng học từ “timely”: đúng lúc, hợp thời.",
+   "emoji": "",
+   "ipa": "/ˈtaɪmli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deny",
+   "meaning": "từ chối, phản đối, phủ nhận",
+   "example": "to deny food to the enemy",
+   "exampleMeaning": "Chặn không cho địch tiếp tế lương thực, chặn nguồn tiếp tế của địch",
+   "emoji": "",
+   "ipa": "/dɪˈnaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "witness",
+   "meaning": "làm chứng",
+   "example": "to witness the good intention of",
+   "exampleMeaning": "Làm chứng cho ý định tốt của",
+   "emoji": "",
+   "ipa": "/ˈwɪtnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "charm",
+   "meaning": "làm mê hoặc, dụ",
+   "example": "This book is my good luck charm; I read it every five months.",
+   "exampleMeaning": "Cuốn sách đó là bùa may của tôi, nên cứ mỗi năm tháng là tôi lại đem nó ra đọc một lần.",
+   "emoji": "",
+   "ipa": "/tʃɑːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "income",
+   "meaning": "thu nhập, doanh thu, lợi tức",
+   "example": "His income is now double what it was ten years ago.",
+   "exampleMeaning": "Thu nhập của anh ấy đã tăng gấp đôi so với 10 năm trước.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌkəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "vast",
+   "meaning": "rộng, to, lớn",
+   "example": "a vast expanse of water",
+   "exampleMeaning": "Một vùng nước mênh mông",
+   "emoji": "",
+   "ipa": "/ˈvæst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ingredient",
+   "meaning": "phần hợp thành, thành phần",
+   "example": "Laughter is a vital ingredient for a joyful life.",
+   "exampleMeaning": "Tiếng cười là nguyên liệu quan trọng cho một cuộc sống vui tươi.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈɡridiənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "boldly",
+   "meaning": "táo bạo, liều lĩnh",
+   "example": "I boldly jumped into the sea.",
+   "exampleMeaning": "Tôi liều lĩnh nhảy xuống biển.",
+   "emoji": "",
+   "ipa": "/ˈboʊldli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rotten",
+   "meaning": "mắc bệnh sán gan",
+   "example": "What rotten luck!",
+   "exampleMeaning": "Thật là xui xẻo!",
+   "emoji": "",
+   "ipa": "/ˈrɑtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fuss",
+   "meaning": "sự ồn ào, sự om sòm, sự rối rít",
+   "example": "to make a great fuss about trifles",
+   "exampleMeaning": "Làm om sòm về những chuyện không đáng kể",
+   "emoji": "",
+   "ipa": "/ˈfəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "scared",
+    "us"
+   ],
+   "reading": "",
+   "meaning": "Cô ta doạ chúng tôi."
+  },
+  {
+   "tokens": [
+    "What",
+    "rotten",
+    "luck"
+   ],
+   "reading": "",
+   "meaning": "Thật là xui xẻo!"
+  },
+  {
+   "tokens": [
+    "This",
+    "apple",
+    "is",
+    "rotten"
+   ],
+   "reading": "",
+   "meaning": "Trái táo này bị hư rồi."
+  },
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "still",
+    "scared"
+   ],
+   "reading": "",
+   "meaning": "Bạn vẫn còn sợ à?"
+  },
+  {
+   "tokens": [
+    "She",
+    "scared",
+    "the",
+    "children"
+   ],
+   "reading": "",
+   "meaning": "Cô ta doạ lũ trẻ."
+  }
+ ],
+ "issues": []
+}

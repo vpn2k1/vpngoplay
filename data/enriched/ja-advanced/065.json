@@ -1,0 +1,338 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "有り様",
+   "meaning": "trạng thái, tình trạng",
+   "example": "「有り様」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “有り様”: trạng thái, tình trạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "望ましい",
+   "meaning": "đáng thèm muốn",
+   "example": "「望ましい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “望ましい”: đáng thèm muốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "噛み切る",
+   "meaning": "to bite off (EN)",
+   "example": "「噛み切る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “噛み切る”: to bite off (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "責務",
+   "meaning": "sự tôn kính",
+   "example": "「責務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “責務”: sự tôn kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "おむつ",
+   "meaning": "vải kẻ hình thoi",
+   "example": "「おむつ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おむつ”: vải kẻ hình thoi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "情無い",
+   "meaning": "cực khổ, khốn khổ, khổ sở",
+   "example": "「情無い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “情無い”: cực khổ, khốn khổ, khổ sở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "異性",
+   "meaning": "hiện tượng đồng phân",
+   "example": "「異性」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “異性”: hiện tượng đồng phân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岩石",
+   "meaning": "đá",
+   "example": "「岩石」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “岩石”: đá.",
+   "emoji": "🪨",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "補充",
+   "meaning": "sự bổ sung, sự phụ thêm vào",
+   "example": "「補充」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “補充”: sự bổ sung, sự phụ thêm vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対応",
+   "meaning": "sự chia, sự phân phát",
+   "example": "「対応」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対応”: sự chia, sự phân phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "粥",
+   "meaning": "nước cháo",
+   "example": "「粥」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “粥”: nước cháo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "類似",
+   "meaning": "tương tự, giống nhau",
+   "example": "「類似」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “類似”: tương tự, giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "庇う",
+   "meaning": "bảo vệ, bảo hộ, che chở",
+   "example": "「庇う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “庇う”: bảo vệ, bảo hộ, che chở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "郷里",
+   "meaning": "nơi sinh",
+   "example": "「郷里」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “郷里”: nơi sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "スプリング",
+   "meaning": "sự nhảy",
+   "example": "「スプリング」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “スプリング”: sự nhảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面会",
+   "meaning": "sự gặp gỡ, sự gặp mặt",
+   "example": "トムは私が刑務所に入っていた時、面会に来てくれた。",
+   "exampleMeaning": "Lúc tôi ở trong tù, Tom đã đến thăm tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "回路",
+   "meaning": "chu vi, đường vòng quanh",
+   "example": "彼女の思考回路がまったく理解できない。",
+   "exampleMeaning": "Tôi hoàn toàn không thể hiểu cách suy nghĩ của cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "もめる",
+   "meaning": "khác, không giống, không khớp",
+   "example": "「もめる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “もめる”: khác, không giống, không khớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好況",
+   "meaning": "nền kinh tế lành mạnh",
+   "example": "日本経済は当時、前例のない好況にあった。",
+   "exampleMeaning": "Vào thời điểm đó, nền kinh tế của Nhật Bản tốt chưa từng có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本能",
+   "meaning": "bản năng",
+   "example": "「本能」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本能”: bản năng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "日本経済",
+    "は",
+    "当時",
+    "前例",
+    "の",
+    "ない",
+    "好況",
+    "に",
+    "あった"
+   ],
+   "reading": "にっぽんけいざいはとうじぜんれいのないこうきょうにあった",
+   "meaning": "Vào thời điểm đó, nền kinh tế của Nhật Bản tốt chưa từng có."
+  },
+  {
+   "tokens": [
+    "この",
+    "システム",
+    "には",
+    "保護",
+    "回路",
+    "が",
+    "組み込まれています"
+   ],
+   "reading": "このシステムにはほごかいろがくみこまれています",
+   "meaning": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "自分",
+    "の",
+    "お金",
+    "を",
+    "株",
+    "に",
+    "投資",
+    "した"
+   ],
+   "reading": "かれはじぶんのおかねをかぶにとうしした",
+   "meaning": "Anh ấy dùng tiền của mình đầu tư chứng khoán."
+  },
+  {
+   "tokens": [
+    "ホール",
+    "には",
+    "たくさん",
+    "の",
+    "客",
+    "が",
+    "いた"
+   ],
+   "reading": "ホールにはたくさんのきゃくがいた",
+   "meaning": "Có nhiều vị khách trong hội trường."
+  },
+  {
+   "tokens": [
+    "昨日",
+    "彼",
+    "は",
+    "基地",
+    "に",
+    "帰らなかった"
+   ],
+   "reading": "きのうかれはきちにかえらなかった",
+   "meaning": "Hôm qua, anh ta đã không quay về căn cứ."
+  }
+ ],
+ "issues": []
+}

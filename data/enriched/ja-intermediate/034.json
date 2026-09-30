@@ -1,0 +1,323 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "桁",
+   "meaning": "cột, trụ ((nghĩa đen) & (nghĩa bóng))",
+   "example": "「桁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “桁”: cột, trụ ((nghĩa đen) & (nghĩa bóng)).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "焦点",
+   "meaning": "tiêu điểm",
+   "example": "「焦点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “焦点”: tiêu điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手ごろ",
+   "meaning": "thuận tiện, tiện tay, vừa tầm tay",
+   "example": "「手ごろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手ごろ”: thuận tiện, tiện tay, vừa tầm tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "戸棚",
+   "meaning": "tủ (có ngăn), tủ búp phê",
+   "example": "「戸棚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戸棚”: tủ (có ngăn), tủ búp phê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "そのため",
+   "meaning": "sau đây, kể từ đây",
+   "example": "「そのため」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “そのため”: sau đây, kể từ đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漸く",
+   "meaning": "*thành ngữ at",
+   "example": "喉が渇いた時になって漸く井戸を掘り始めるものは弱り果てて死ぬよりほかにない。",
+   "exampleMeaning": "Những người mà lúc khát mới bắt đầu đi đào giếng nước là những kẻ yếu đuối và chỉ có thể chết mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "短所",
+   "meaning": "thiếu sót, sai sót, nhược điểm",
+   "example": "誰にでも長所と短所がある。",
+   "exampleMeaning": "Người nào cũng có cái hay và cái dở của họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "交流",
+   "meaning": "sự đổi, sự đổi chác, sự trao đổi",
+   "example": "「交流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交流”: sự đổi, sự đổi chác, sự trao đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平日",
+   "meaning": "ngày thường trong tuần",
+   "example": "「平日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “平日”: ngày thường trong tuần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "必需品",
+   "meaning": "vật dụng cần thiết",
+   "example": "「必需品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “必需品”: vật dụng cần thiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通り掛かる",
+   "meaning": "to happen to pass by (EN)",
+   "example": "「通り掛かる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通り掛かる”: to happen to pass by (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盆地",
+   "meaning": "cái chậu",
+   "example": "「盆地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盆地”: cái chậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紫",
+   "meaning": "tím",
+   "example": "赤外線や紫外線は、人の目には見えない光である。",
+   "exampleMeaning": "Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月日",
+   "meaning": "thời gian, thì giờ",
+   "example": "「月日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “月日”: thời gian, thì giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家主",
+   "meaning": "chủ nhà (nhà cho thuê)",
+   "example": "「家主」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “家主”: chủ nhà (nhà cho thuê).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "効力",
+   "meaning": "kết quả",
+   "example": "私の生きているうちに共産主義が効力を持つことは無いだろう。",
+   "exampleMeaning": "Cộng sản sẽ chẳng bao giờ tồn tại đến đời của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "動作",
+   "meaning": "hành động, hành vi",
+   "example": "過去の動作については過去形を用います。",
+   "exampleMeaning": "Thì quá khứ được sử dụng khi nói về những hành động trong quá khứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "はめる",
+   "meaning": "thu thập lại, thu vén lại, thu lại",
+   "example": "「はめる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “はめる”: thu thập lại, thu vén lại, thu lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地質",
+   "meaning": "đặc điểm địa chất",
+   "example": "「地質」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地質”: đặc điểm địa chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盗難",
+   "meaning": "sự ăn trộm, sự trộm cắp",
+   "example": "「盗難」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盗難”: sự ăn trộm, sự trộm cắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "誰にでも",
+    "長所",
+    "と",
+    "短所",
+    "が",
+    "ある"
+   ],
+   "reading": "だれにでもちょうしょとたんしょがある",
+   "meaning": "Người nào cũng có cái hay và cái dở của họ."
+  },
+  {
+   "tokens": [
+    "服",
+    "を",
+    "着替え",
+    "なさい"
+   ],
+   "reading": "ふくをきがえなさい",
+   "meaning": "Hãy thay quần áo."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "陸軍",
+    "に",
+    "入った"
+   ],
+   "reading": "かれはりくぐんにはいった",
+   "meaning": "Anh ta gia nhập quân đội."
+  },
+  {
+   "tokens": [
+    "雨",
+    "降って",
+    "地",
+    "固まる"
+   ],
+   "reading": "あめふってじかたまる",
+   "meaning": "Sau cơn mưa trời lại sáng."
+  },
+  {
+   "tokens": [
+    "猿",
+    "も",
+    "木",
+    "から",
+    "落ちる"
+   ],
+   "reading": "さるもきからおちる",
+   "meaning": "Nhân vô thập toàn."
+  }
+ ],
+ "issues": []
+}

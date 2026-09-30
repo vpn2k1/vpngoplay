@@ -1,0 +1,316 @@
+{
+ "lesson": 53,
+ "draft": true,
+ "words": [
+  {
+   "term": "infringement",
+   "meaning": "sự vi phạm",
+   "example": "Let's learn the word \"infringement\".",
+   "exampleMeaning": "Cùng học từ “infringement”: sự vi phạm.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈfrɪndʒmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "microbe",
+   "meaning": "vi trùng, vi khuẩn",
+   "example": "Let's learn the word \"microbe\".",
+   "exampleMeaning": "Cùng học từ “microbe”: vi trùng, vi khuẩn.",
+   "emoji": "🦠",
+   "ipa": "/ˈmaɪˌkroʊb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rite",
+   "meaning": "lễ, lễ nghi, nghi thức",
+   "example": "Let's learn the word \"rite\".",
+   "exampleMeaning": "Cùng học từ “rite”: lễ, lễ nghi, nghi thức.",
+   "emoji": "",
+   "ipa": "/ˈraɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "informal",
+   "meaning": "thân mật, không trang trọng",
+   "example": "The atmosphere is very informal.",
+   "exampleMeaning": "Bầu không khí rất thân mật.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈfɔrməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ecstatic",
+   "meaning": "ở trạng thái mê ly",
+   "example": "Let's learn the word \"ecstatic\".",
+   "exampleMeaning": "Cùng học từ “ecstatic”: ở trạng thái mê ly.",
+   "emoji": "",
+   "ipa": "/ɛkˈstætɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clearness",
+   "meaning": "sự trong trẻo (nước, không khí... )",
+   "example": "Let's learn the word \"clearness\".",
+   "exampleMeaning": "Cùng học từ “clearness”: sự trong trẻo (nước, không khí... ).",
+   "emoji": "",
+   "ipa": "/ˈklɪrnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ash",
+   "meaning": "tro",
+   "example": "Let's learn the word \"ash\".",
+   "exampleMeaning": "Cùng học từ “ash”: tro.",
+   "emoji": "",
+   "ipa": "/æʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "concession",
+   "meaning": "sự nhượng, sự nhượng bộ",
+   "example": "Let's learn the word \"concession\".",
+   "exampleMeaning": "Cùng học từ “concession”: sự nhượng, sự nhượng bộ.",
+   "emoji": "",
+   "ipa": "/kənˈsɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hush",
+   "meaning": "im, nín lặng, làm thinh",
+   "example": "to hush a baby to sleep",
+   "exampleMeaning": "Dỗ em bé ngủ im",
+   "emoji": "",
+   "ipa": "/ˈhəʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "supervision",
+   "meaning": "sự trông nom, sự giám sát",
+   "example": "Let's learn the word \"supervision\".",
+   "exampleMeaning": "Cùng học từ “supervision”: sự trông nom, sự giám sát.",
+   "emoji": "",
+   "ipa": "/ˌsupɜrˈvɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nightclub",
+   "meaning": "câu lạc bộ giải trí, câu lạc bộ đêm",
+   "example": "Let's learn the word \"nightclub\".",
+   "exampleMeaning": "Cùng học từ “nightclub”: câu lạc bộ giải trí, câu lạc bộ đêm.",
+   "emoji": "",
+   "ipa": "/ˈnaɪtˌkləb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "multiply",
+   "meaning": "nhân",
+   "example": "rabbits multiply rapidly",
+   "exampleMeaning": "Giống thỏ sinh sôi nảy nở nhanh",
+   "emoji": "✖",
+   "ipa": "/ˈməltəˌplaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "curl",
+   "meaning": "uốn, uốn quăn, làm xoăn",
+   "example": "to keep the hair in curl",
+   "exampleMeaning": "Giữ cho tóc quăn",
+   "emoji": "",
+   "ipa": "/ˈkɜrl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cellar",
+   "meaning": "hầm rượu",
+   "example": "My cellar is flooded.",
+   "exampleMeaning": "Tầng hầm của tôi bị ngập.",
+   "emoji": "",
+   "ipa": "/ˈsɛlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "execution",
+   "meaning": "thực thi",
+   "example": "to do execution",
+   "exampleMeaning": "Gây tàn phá; (nghĩa bóng) làm chết mê chết mệt",
+   "emoji": "",
+   "ipa": "/ˌɛksəkˈjuʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "broadcaster",
+   "meaning": "người nói chuyện trên đài phát thanh",
+   "example": "Let's learn the word \"broadcaster\".",
+   "exampleMeaning": "Cùng học từ “broadcaster”: người nói chuyện trên đài phát thanh.",
+   "emoji": "",
+   "ipa": "/ˈbrɔdˌkæstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "admirable",
+   "meaning": "đáng phục, đáng khâm phục, đáng ca tụng",
+   "example": "an admirable spirit",
+   "exampleMeaning": "Tinh thần đáng phục",
+   "emoji": "",
+   "ipa": "/ˈædmɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cruelty",
+   "meaning": "sự hung ác, sự tàn ác, sự tàn bạo",
+   "example": "Let's learn the word \"cruelty\".",
+   "exampleMeaning": "Cùng học từ “cruelty”: sự hung ác, sự tàn ác, sự tàn bạo.",
+   "emoji": "",
+   "ipa": "/ˈkruəlti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "statistically",
+   "meaning": "thống kê",
+   "example": "Delivery jobs are statistically more dangerous than being a police officer.",
+   "exampleMeaning": "Nghề giao hàng nguy hiểm hơn sĩ quan cảnh sát về mặt thống kê.",
+   "emoji": "",
+   "ipa": "/stəˈtɪstɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mediocre",
+   "meaning": "xoàng, thường",
+   "example": "Let's learn the word \"mediocre\".",
+   "exampleMeaning": "Cùng học từ “mediocre”: xoàng, thường.",
+   "emoji": "",
+   "ipa": "/ˌmidiˈoʊkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "food",
+    "was",
+    "mediocre"
+   ],
+   "reading": "",
+   "meaning": "Đồ ăn này tàm tạm."
+  },
+  {
+   "tokens": [
+    "My",
+    "cellar",
+    "is",
+    "flooded"
+   ],
+   "reading": "",
+   "meaning": "Tầng hầm của tôi bị ngập."
+  },
+  {
+   "tokens": [
+    "You",
+    "misunderstand",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Bạn hiểu lầm tôi."
+  },
+  {
+   "tokens": [
+    "Stop",
+    "bullying",
+    "people"
+   ],
+   "reading": "",
+   "meaning": "Đừng bắt nạt người khác nữa."
+  },
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "idiots"
+   ],
+   "reading": "",
+   "meaning": "Bạn là thằng ngu à?"
+  }
+ ],
+ "issues": []
+}

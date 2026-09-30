@@ -1,0 +1,331 @@
+{
+ "lesson": 140,
+ "draft": true,
+ "words": [
+  {
+   "term": "特性",
+   "meaning": "nét, điểm",
+   "example": "「特性」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特性”: nét, điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "守り",
+   "meaning": "sự bảo vệ, sự bảo hộ, sự che chở",
+   "example": "相手チームは鉄壁の守りを固めている。",
+   "exampleMeaning": "Đội đối phương đang củng cố hàng phòng ngự không thể xuyên phá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "共同体",
+   "meaning": "hệ thống liên kết hỗ trợ tên lửa",
+   "example": "「共同体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “共同体”: hệ thống liên kết hỗ trợ tên lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自衛隊",
+   "meaning": "Japan Self-Defense Forces (EN)",
+   "example": "ボーイング社は海上自衛隊用の飛行艇を開発しました。",
+   "exampleMeaning": "Công ty Boeing đã phát triển một loại thủy phi cơ phục vụ cho Lực lượng Phòng vệ Biển Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大詰め",
+   "meaning": "đầu, đuôi, đoạn cuối",
+   "example": "「大詰め」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大詰め”: đầu, đuôi, đoạn cuối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "白紙",
+   "meaning": "sách trắng (của chính phủ)",
+   "example": "「白紙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “白紙”: sách trắng (của chính phủ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "糖尿病",
+   "meaning": "bệnh tiểu đường, bệnh đái đường",
+   "example": "「糖尿病」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “糖尿病”: bệnh tiểu đường, bệnh đái đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "店舗",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "価格.comというサイトでは、電化製品ごとに、その商品を出品している各店舗の価格を比較することができます。",
+   "exampleMeaning": "Ở một trang web gọi là kakaku.com, bạn có thể so sánh giá của mỗi sản phẩm điện máy được bày bán ở các cửa hàng khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "限度額",
+   "meaning": "giới hạn, hạn độ",
+   "example": "「限度額」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “限度額”: giới hạn, hạn độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "残業",
+   "meaning": "quá giờ, ngoài giờ (quy định)",
+   "example": "今日は残業をしないつもりです。",
+   "exampleMeaning": "Hôm nay tôi định sẽ không làm thêm giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "府警",
+   "meaning": "prefectural police (EN)",
+   "example": "「府警」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “府警”: prefectural police (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中小企業",
+   "meaning": "small and medium-sized enterprises (EN)",
+   "example": "「中小企業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中小企業”: small and medium-sized enterprises (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "永住",
+   "meaning": "chỗ ở thường xuyên",
+   "example": "「永住」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “永住”: chỗ ở thường xuyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偏差値",
+   "meaning": "sự trệch, sự lệch, sự trệch hướng",
+   "example": "「偏差値」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “偏差値”: sự trệch, sự lệch, sự trệch hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "借入金",
+   "meaning": "tiền cho mượn",
+   "example": "「借入金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “借入金”: tiền cho mượn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "再編",
+   "meaning": "sự tổ chức lại, sự cải tổ lại",
+   "example": "「再編」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再編”: sự tổ chức lại, sự cải tổ lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "締結",
+   "meaning": "sự chấm dứt, sự kết luận, phần kết luận",
+   "example": "「締結」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “締結”: sự chấm dứt, sự kết luận, phần kết luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社会問題",
+   "meaning": "các vấn đề xã hội",
+   "example": "「社会問題」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “社会問題”: các vấn đề xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無償",
+   "meaning": "không đền bù",
+   "example": "「無償」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無償”: không đền bù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "構図",
+   "meaning": "sự hợp thành, sự cấu thành",
+   "example": "「構図」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “構図”: sự hợp thành, sự cấu thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今日",
+    "は",
+    "残業",
+    "を",
+    "しない",
+    "つもり",
+    "です"
+   ],
+   "reading": "きょうはざんぎょうをしないつもりです",
+   "meaning": "Hôm nay tôi định sẽ không làm thêm giờ."
+  },
+  {
+   "tokens": [
+    "その",
+    "歌手",
+    "は",
+    "注目",
+    "の",
+    "的",
+    "だった"
+   ],
+   "reading": "そのかしゅはちゅうもくのてきだった",
+   "meaning": "Mọi sự chú ý đều tập trung về phía ca sĩ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "良心",
+    "の",
+    "とがめ",
+    "を",
+    "感じた"
+   ],
+   "reading": "かれはりょうしんのとがめをかんじた",
+   "meaning": "Anh ta cắn rứt lương tâm."
+  },
+  {
+   "tokens": [
+    "この",
+    "薬",
+    "は",
+    "筋肉痛",
+    "を",
+    "和らげる"
+   ],
+   "reading": "このくすりはきんにくつうをやわらげる",
+   "meaning": "Loại thuốc này giúp làm giảm cơn đau cơ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "しくじったら",
+    "気の毒",
+    "だ"
+   ],
+   "reading": "かれがしくじったらきのどくだ",
+   "meaning": "Nếu anh ấy mà thất bại thì thật là đáng tiếc."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,317 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "speech",
+   "meaning": "bài phát biểu",
+   "example": "to lose the power (faculty) of speech",
+   "exampleMeaning": "Không nói được nữa",
+   "emoji": "",
+   "ipa": "/ˈspiːt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "already",
+   "meaning": "đã, rồi",
+   "example": "We already know.",
+   "exampleMeaning": "Chúng ta đều đã biết.",
+   "emoji": "",
+   "ipa": "/ɔˈrɛdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "shelf",
+   "meaning": "giá",
+   "example": "At least cereal has a long shelf life.",
+   "exampleMeaning": "Ít ra thì ngũ cốc có thời hạn sử dụng lâu.",
+   "emoji": "",
+   "ipa": "/ˈʃɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "better",
+   "meaning": "hơn, tốt hơn, khá hơn",
+   "example": "you can't find a better man",
+   "exampleMeaning": "Anh không thể tìm thấy một người nào tốt hơn",
+   "emoji": "",
+   "ipa": "/ˈbɛtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bad",
+   "meaning": "xấu, tồi, dở",
+   "example": "I have bad news.",
+   "exampleMeaning": "Tôi có tin xấu.",
+   "emoji": "",
+   "ipa": "/ˈbæd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fruit",
+   "meaning": "quả, trái cây",
+   "example": "Are tomatoes a fruit?",
+   "exampleMeaning": "Cà chua có phải trái cây không?",
+   "emoji": "",
+   "ipa": "/fryʔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "apple",
+   "meaning": "táo",
+   "example": "I want an apple tree.",
+   "exampleMeaning": "Tôi muốn một cây táo.",
+   "emoji": "",
+   "ipa": "/ˈæpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "DVD",
+   "meaning": "Từ viết tắt từ chữ đầu với cách đọc từng chữ cái của digital video/versatile disc",
+   "example": "Let's learn the word \"DVD\".",
+   "exampleMeaning": "Cùng học từ “DVD”: Từ viết tắt từ chữ đầu với cách đọc từng chữ cái của digital video/versatile disc.",
+   "emoji": "📀",
+   "ipa": "/ˌdiː viː ˈdiː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "everything",
+   "meaning": "mọi vật, tất cả, mọi cái",
+   "example": "money is everything to some people",
+   "exampleMeaning": "Đối với người tiền là cái quan trọng bậc nhất",
+   "emoji": "",
+   "ipa": "/ˈɛvriˌθɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ship",
+   "meaning": "tàu thuỷ, tàu",
+   "example": "Our ship cannot beat them.",
+   "exampleMeaning": "Tàu của chúng ta không thể hạ chúng.",
+   "emoji": "🚢",
+   "ipa": "/ʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "but",
+   "meaning": "chỉ là, chỉ mới, mà lại không",
+   "example": "We tried to do it but couldn't.",
+   "exampleMeaning": "Chúng tôi đã thử làm cái đó nhưng không được.",
+   "emoji": "",
+   "ipa": "/ˈbət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "biscuit",
+   "meaning": "bánh quy, bích quy",
+   "example": "Let's learn the word \"biscuit\".",
+   "exampleMeaning": "Cùng học từ “biscuit”: bánh quy, bích quy.",
+   "emoji": "",
+   "ipa": "/ˈbɪskət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "she",
+   "meaning": "nó, bà ấy, chị ấy",
+   "example": "is the child a he or a she?",
+   "exampleMeaning": "Đứa bé là con trai hay con gái?",
+   "emoji": "",
+   "ipa": "/ˈʃi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "TV",
+   "meaning": "Bộ tivi, máy vô tuyến truyền hình",
+   "example": "Do you watch TV?",
+   "exampleMeaning": "Bạn có xem TV không?",
+   "emoji": "",
+   "ipa": "/ˈtiˈvi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "us",
+   "meaning": "chúng tôi, chúng ta, chúng mình",
+   "example": "Let us go home.",
+   "exampleMeaning": "Chúng ta về nhà thôi nào.",
+   "emoji": "",
+   "ipa": "/ˈəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "daddy",
+   "meaning": "ba, cha, bố",
+   "example": "Let's learn the word \"daddy\".",
+   "exampleMeaning": "Cùng học từ “daddy”: ba, cha, bố.",
+   "emoji": "",
+   "ipa": "/ˈdædi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "truck",
+   "meaning": "xe tải",
+   "example": "to truck a horse for a cow",
+   "exampleMeaning": "Đổi con ngựa lấy con bò",
+   "emoji": "",
+   "ipa": "/ˈtrək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "heart",
+   "meaning": "trái tim, lòng, tấm lòng",
+   "example": "to give (lose) one's heart to somebody",
+   "exampleMeaning": "Yêu ai, phải lòng ai",
+   "emoji": "",
+   "ipa": "/hɑːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "magazine",
+   "meaning": "tạp chí",
+   "example": "Let's learn the word \"magazine\".",
+   "exampleMeaning": "Cùng học từ “magazine”: tạp chí.",
+   "emoji": "",
+   "ipa": "/ˈmæɡəˌzin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "line",
+   "meaning": "đường, tuyến, dòng",
+   "example": "to hang the clothes on the line",
+   "exampleMeaning": "Phơi quần áo ra dây thép",
+   "emoji": "",
+   "ipa": "/laɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "scared",
+    "us"
+   ],
+   "reading": "",
+   "meaning": "Cô ta doạ chúng tôi."
+  },
+  {
+   "tokens": [
+    "Everything",
+    "is",
+    "bad"
+   ],
+   "reading": "",
+   "meaning": "Mọi thứ đều tồi tệ."
+  },
+  {
+   "tokens": [
+    "She",
+    "sings",
+    "with",
+    "us"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy hát cùng chúng tôi."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "already",
+    "asleep"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy ngủ rồi."
+  },
+  {
+   "tokens": [
+    "She",
+    "writes",
+    "everything",
+    "down"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy viết hết xuống."
+  }
+ ],
+ "issues": []
+}

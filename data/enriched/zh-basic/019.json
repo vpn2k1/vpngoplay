@@ -1,0 +1,331 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "百",
+   "meaning": "trăm",
+   "example": "我校图书馆藏书二百五十万册。",
+   "exampleMeaning": "Thư viện trường chúng tôi có hai triệu rưởi quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "网上",
+   "meaning": "trực tuyến",
+   "example": "我们来学“网上”这个词。",
+   "exampleMeaning": "Cùng học từ “网上”: trực tuyến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好吃",
+   "meaning": "ngon",
+   "example": "我们来学“好吃”这个词。",
+   "exampleMeaning": "Cùng học từ “好吃”: ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎochī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "明年",
+   "meaning": "sang năm",
+   "example": "我们来学“明年”这个词。",
+   "exampleMeaning": "Cùng học từ “明年”: sang năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "再见",
+   "meaning": "tạm biệt",
+   "example": "我们来学“再见”这个词。",
+   "exampleMeaning": "Cùng học từ “再见”: tạm biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàijiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妹",
+   "meaning": "mạt Hỉ",
+   "example": "我们来学“妹”这个词。",
+   "exampleMeaning": "Cùng học từ “妹”: mạt Hỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "这儿",
+   "meaning": "đây, ở đây, ở chỗ này",
+   "example": "打这儿起我每天坚持锻炼。",
+   "exampleMeaning": "Từ đây, mỗi ngày tôi phải kiên trì luyện tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哪儿",
+   "meaning": "đâu",
+   "example": "你从哪儿买的这些蛋？",
+   "exampleMeaning": "Bạn mua mấy quả trứng này ở đâu thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不对",
+   "meaning": "sai",
+   "example": "她没有什么不对的地方。",
+   "exampleMeaning": "Cô ấy chẳng có chỗ nào sai cả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中午",
+   "meaning": "buổi trưa",
+   "example": "我们来学“中午”这个词。",
+   "exampleMeaning": "Cùng học từ “中午”: buổi trưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngwǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "起床",
+   "meaning": "thức dậy",
+   "example": "才4点钟他就起床了。",
+   "exampleMeaning": "Vừa mới 4 giờ mà anh ấy đã dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐchuáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "是不是",
+   "meaning": "có hay không",
+   "example": "我们来学“是不是”这个词。",
+   "exampleMeaning": "Cùng học từ “是不是”: có hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìbùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开车",
+   "meaning": "lái xe",
+   "example": "路滑开车要注意安全。",
+   "exampleMeaning": "Đường trơn, lái xe nhớ chú ý an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāichē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "干什么",
+   "meaning": "làm gì",
+   "example": "你干什么不早说呀？",
+   "exampleMeaning": "Tại sao anh không nói sớm？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gànshénme",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奶",
+   "meaning": "sữa",
+   "example": "给孩子吃奶。",
+   "exampleMeaning": "Cho con bú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "门口",
+   "meaning": "cổng",
+   "example": "学校门口。",
+   "exampleMeaning": "Cổng trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ménkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "常常",
+   "meaning": "thường",
+   "example": "父亲常常在空闲时间读侦探小说。",
+   "exampleMeaning": "Bố thường đọc tiểu thuyết trinh thám vào lúc rảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "这边",
+   "meaning": "nơi đây",
+   "example": "我们来学“这边”这个词。",
+   "exampleMeaning": "Cùng học từ “这边”: nơi đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèbiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "男生",
+   "meaning": "nam sinh",
+   "example": "我们来学“男生”这个词。",
+   "exampleMeaning": "Cùng học từ “男生”: nam sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "火车",
+   "meaning": "xe lửa",
+   "example": "我正好赶上了最后一班火车。",
+   "exampleMeaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng.",
+   "emoji": "🚆",
+   "ipa": "",
+   "pinyin": "huǒchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "您",
+    "可以",
+    "随便",
+    "去",
+    "哪儿"
+   ],
+   "reading": "nín kěyǐ suíbiàn qù nǎr",
+   "meaning": "Bạn có thể tùy ý đi bất cứ đâu."
+  },
+  {
+   "tokens": [
+    "你",
+    "可以",
+    "随便",
+    "去",
+    "哪儿"
+   ],
+   "reading": "nǐ kěyǐ suíbiàn qù nǎr",
+   "meaning": "Bạn có thể tùy ý đi bất cứ đâu."
+  },
+  {
+   "tokens": [
+    "你",
+    "从",
+    "哪儿",
+    "买",
+    "的",
+    "这些",
+    "蛋"
+   ],
+   "reading": "nǐ cóng nǎr mǎi de zhèxiē dàn",
+   "meaning": "Bạn mua mấy quả trứng này ở đâu thế?"
+  },
+  {
+   "tokens": [
+    "他",
+    "每天",
+    "早上",
+    "八",
+    "点",
+    "起床"
+   ],
+   "reading": "tā měitiān zǎoshang bā diǎn qǐchuáng",
+   "meaning": "Anh ấy thức dậy lúc tám giờ sáng hàng ngày."
+  },
+  {
+   "tokens": [
+    "她",
+    "是",
+    "我",
+    "家",
+    "最",
+    "早",
+    "起床",
+    "的",
+    "人"
+   ],
+   "reading": "tā shì wǒ jiā zuì zǎo qǐchuáng de rén",
+   "meaning": "Cô ấy là người dậy sớm nhất trong gia đình tôi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,316 @@
+{
+ "lesson": 137,
+ "draft": true,
+ "words": [
+  {
+   "term": "pupil",
+   "meaning": "học trò, học sinh",
+   "example": "The shy pupil murmured his answer.",
+   "exampleMeaning": "Em học sinh nhút nhát lẩm bẩm ra câu trả lời.",
+   "emoji": "",
+   "ipa": "/ˈpjupəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "narrative",
+   "meaning": "dưới hình thức kể chuyện",
+   "example": "Let's learn the word \"narrative\".",
+   "exampleMeaning": "Cùng học từ “narrative”: dưới hình thức kể chuyện.",
+   "emoji": "",
+   "ipa": "/ˈnærətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "retrospect",
+   "meaning": "sự hồi tưởng quá khứ",
+   "example": "in [the] retrospect",
+   "exampleMeaning": "Nhìn lại (cái gì)",
+   "emoji": "",
+   "ipa": "/ˈrɛtrəˌspɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "delighted",
+   "meaning": "vui mừng, hài lòng",
+   "example": "Let's learn the word \"delighted\".",
+   "exampleMeaning": "Cùng học từ “delighted”: vui mừng, hài lòng.",
+   "emoji": "",
+   "ipa": "/dɪˈlaɪtəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "instance",
+   "meaning": "trường hợp cá biệt",
+   "example": "court of first instance",
+   "exampleMeaning": "Toà án sơ thẩm",
+   "emoji": "",
+   "ipa": "/ˈɪnstəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "development",
+   "meaning": "phát triển",
+   "example": "Let's learn the word \"development\".",
+   "exampleMeaning": "Cùng học từ “development”: phát triển.",
+   "emoji": "",
+   "ipa": "/dɪˈvɛləpmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "completely",
+   "meaning": "hoàn toàn, đầy đủ, trọn vẹn",
+   "example": "You are completely wrong.",
+   "exampleMeaning": "Bạn đã hoàn toàn sai lầm.",
+   "emoji": "",
+   "ipa": "/kəmˈplitli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "artist",
+   "meaning": "nghệ sĩ",
+   "example": "I want to be a good artist, too.",
+   "exampleMeaning": "Tôi cũng muốn trở thành một nghệ sĩ giỏi.",
+   "emoji": "🧑‍🎨",
+   "ipa": "/ˈɑrtəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "poverty",
+   "meaning": "sự nghèo nàn",
+   "example": "Poverty is violence.",
+   "exampleMeaning": "Nghèo khổ là bạo lực.",
+   "emoji": "",
+   "ipa": "/ˈpɑvɜrti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tick",
+   "meaning": "chút, lát, khoảnh khắc",
+   "example": "to tick off the items in a list",
+   "exampleMeaning": "Đánh dấu các khoản của một danh sách",
+   "emoji": "",
+   "ipa": "/ˈtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "relative",
+   "meaning": "cân xứng với, cân đối với, tuỳ theo",
+   "example": "to give facts relative to the matter",
+   "exampleMeaning": "Đưa ra những sự việc liên quan đến vấn đề",
+   "emoji": "",
+   "ipa": "/ˈrɛlətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "packing",
+   "meaning": "gói",
+   "example": "Have you finished packing your bags for your trip to Australia?",
+   "exampleMeaning": "Bạn đã thu xếp hành lý cho chuyến đi đến Úc của mình xong chưa?",
+   "emoji": "",
+   "ipa": "/ˈpakɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "retell",
+   "meaning": "nói lại, kể lại, thuật lại",
+   "example": "Let's learn the word \"retell\".",
+   "exampleMeaning": "Cùng học từ “retell”: nói lại, kể lại, thuật lại.",
+   "emoji": "",
+   "ipa": "/riˈtɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "railroad",
+   "meaning": "đường sắt, đường xe lửa",
+   "example": "He was killed in a railroad accident.",
+   "exampleMeaning": "Anh ấy đã thiệt mạng trong một vụ tai nạn đường sắt.",
+   "emoji": "",
+   "ipa": "/ˈreɪlˌroʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "admission",
+   "meaning": "nhận",
+   "example": "to get admission to the Academy",
+   "exampleMeaning": "Được nhận vào viện hàn lâm",
+   "emoji": "",
+   "ipa": "/ædˈmɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "skyscraper",
+   "meaning": "nhà chọc trời",
+   "example": "Burj Khalifa is currently the tallest skyscraper in the world.",
+   "exampleMeaning": "Burj Khalifa hiện đang là tòa nhà chọc trời cao nhất thế giới.",
+   "emoji": "",
+   "ipa": "/ˈskaɪsˌkreɪpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "indicator",
+   "meaning": "người chỉ",
+   "example": "Let's learn the word \"indicator\".",
+   "exampleMeaning": "Cùng học từ “indicator”: người chỉ.",
+   "emoji": "",
+   "ipa": "/ˈɪndəˌkeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unite",
+   "meaning": "liên kết, liên hiệp, đoàn kết",
+   "example": "workers of the world, unite!",
+   "exampleMeaning": "Vô sản toàn thế giới, liên hiệp lại!",
+   "emoji": "",
+   "ipa": "/ˈjuˌnaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "invitation",
+   "meaning": "sự mời, lời mời, giấy mời",
+   "example": "an invitation for trouble",
+   "exampleMeaning": "Sự chuốc lấy điều phiền luỵ",
+   "emoji": "",
+   "ipa": "/ˌɪnvɪˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "resort",
+   "meaning": "dùng đến, cầu đến, nhờ vào",
+   "example": "this is to be done without resort to force",
+   "exampleMeaning": "Việc này phải làm mà không dùng đến vũ lực",
+   "emoji": "",
+   "ipa": "/riˈsɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "That's",
+    "completely",
+    "ridiculous"
+   ],
+   "reading": "",
+   "meaning": "Điều đó hoàn toàn lố bịch."
+  },
+  {
+   "tokens": [
+    "I",
+    "completely",
+    "agree"
+   ],
+   "reading": "",
+   "meaning": "Tôi hoàn toàn nhất trí."
+  },
+  {
+   "tokens": [
+    "Poverty",
+    "is",
+    "violence"
+   ],
+   "reading": "",
+   "meaning": "Nghèo khổ là bạo lực."
+  },
+  {
+   "tokens": [
+    "You",
+    "are",
+    "completely",
+    "wrong"
+   ],
+   "reading": "",
+   "meaning": "Bạn đã hoàn toàn sai lầm."
+  },
+  {
+   "tokens": [
+    "I",
+    "trust",
+    "him",
+    "completely"
+   ],
+   "reading": "",
+   "meaning": "Tôi tin tưởng anh ấy hoàn toàn."
+  }
+ ],
+ "issues": []
+}

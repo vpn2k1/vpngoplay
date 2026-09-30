@@ -1,0 +1,326 @@
+{
+ "lesson": 22,
+ "draft": true,
+ "words": [
+  {
+   "term": "visit",
+   "meaning": "thăm, thăm hỏi, thăm viếng",
+   "example": "to visit the scence of the crime",
+   "exampleMeaning": "Đến khám tại chỗ nơi xảy ra tội ác",
+   "emoji": "",
+   "ipa": "/ˈvɪz.ɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tomato",
+   "meaning": "quả cà chua",
+   "example": "Let's learn the word \"tomato\".",
+   "exampleMeaning": "Cùng học từ “tomato”: quả cà chua.",
+   "emoji": "🍅",
+   "ipa": "/təˈmɑˌtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "guitar",
+   "meaning": "đàn ghita",
+   "example": "Tom decided to give up playing guitar professionally.",
+   "exampleMeaning": "Tom đã quyết định từ bỏ chơi ghita chuyên nghiệp.",
+   "emoji": "🎸",
+   "ipa": "/ɡɪˈtɑr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "problem",
+   "meaning": "vấn đề",
+   "example": "Is this a problem?",
+   "exampleMeaning": "Đây có phải vấn đề không?",
+   "emoji": "",
+   "ipa": "/ˈprɑbləm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fill",
+   "meaning": "đầy, tràn đầy",
+   "example": "to fill someone to repletion with drink",
+   "exampleMeaning": "Cho ai uống say bí tỉ",
+   "emoji": "",
+   "ipa": "/fɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shower",
+   "meaning": "mưa",
+   "example": "to shower blows on someone",
+   "exampleMeaning": "Đánh ai túi bụi",
+   "emoji": "🚿",
+   "ipa": "/ˈʃaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "strange",
+   "meaning": "lạ, xa lạ, không quen biết",
+   "example": "he is very strange in his manner",
+   "exampleMeaning": "Thái độ của nó rất kỳ quặc; nó có vẻ điên điên khùng khùng",
+   "emoji": "",
+   "ipa": "/ˈstreɪndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prince",
+   "meaning": "hoàng tử",
+   "example": "The prince and the princess went to their room.",
+   "exampleMeaning": "Hoàng tử và công chúa đi vào phòng của họ.",
+   "emoji": "🤴",
+   "ipa": "/ˈprɪns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "board",
+   "meaning": "bàn",
+   "example": "to go by the board",
+   "exampleMeaning": "Rơi (ngã) từ trên tàu xuống",
+   "emoji": "",
+   "ipa": "/ˈbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "once",
+   "meaning": "một lần",
+   "example": "once he hesitates we have him",
+   "exampleMeaning": "Một khi nó do dự là ta thắng nó đấy",
+   "emoji": "",
+   "ipa": "/ˈwəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tube",
+   "meaning": "ống",
+   "example": "Cathode ray tube",
+   "exampleMeaning": "Ống tia âm cực",
+   "emoji": "",
+   "ipa": "/ˈtjub/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pocket",
+   "meaning": "túi, bao, ngăn chứa",
+   "example": "to be 5 d out of pocket",
+   "exampleMeaning": "Hao mất 5 đồng",
+   "emoji": "",
+   "ipa": "/ˈpɑkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "holiday",
+   "meaning": "nghỉ, nghỉ hè",
+   "example": "It was a great holiday, but too short.",
+   "exampleMeaning": "Đó là một kỳ nghỉ tuyệt vời, nhưng quá ngắn.",
+   "emoji": "",
+   "ipa": "/ˈhɒl.ə.deɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cook",
+   "meaning": "nấu, nấu chín",
+   "example": "Do you know how to cook?",
+   "exampleMeaning": "Bạn có biết cách nấu không?",
+   "emoji": "🧑‍🍳",
+   "ipa": "/ˈkʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "often",
+   "meaning": "thường, hay, luôn",
+   "example": "Tom often smiles.",
+   "exampleMeaning": "Tom thường hay cười.",
+   "emoji": "",
+   "ipa": "/ˈɔfən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "waitress",
+   "meaning": "chị hầu bàn",
+   "example": "The waitress set a glass of juice in front of me.",
+   "exampleMeaning": "Người nữ bồi bàn đã đặt một cốc nước quả trước mặt tôi.",
+   "emoji": "",
+   "ipa": "/ˈweɪtrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cartoon",
+   "meaning": "tranh đả kích",
+   "example": "Let's learn the word \"cartoon\".",
+   "exampleMeaning": "Cùng học từ “cartoon”: tranh đả kích.",
+   "emoji": "",
+   "ipa": "/kɑrˈtun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "football",
+   "meaning": "quả bóng đá",
+   "example": "We play football once a week.",
+   "exampleMeaning": "Chúng tôi đá bóng mỗi tuần một lần.",
+   "emoji": "",
+   "ipa": "/ˈfʊtˌbɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "strong",
+   "meaning": "mạnh",
+   "example": "To be as strong as a horse.",
+   "exampleMeaning": "Khoẻ như trâu.",
+   "emoji": "",
+   "ipa": "/strɒŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "drive",
+   "meaning": "lái",
+   "example": "to drive a cow to the field",
+   "exampleMeaning": "Đánh bò ra đồng",
+   "emoji": "",
+   "ipa": "/draɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Please",
+    "come",
+    "visit",
+    "us",
+    "more",
+    "often"
+   ],
+   "reading": "",
+   "meaning": "Hãy đến thăm chúng tôi thường xuyên hơn nhé."
+  },
+  {
+   "tokens": [
+    "We",
+    "play",
+    "football",
+    "once",
+    "a",
+    "week"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đá bóng mỗi tuần một lần."
+  },
+  {
+   "tokens": [
+    "The",
+    "teacher",
+    "wrote",
+    "a",
+    "math",
+    "problem",
+    "on",
+    "the",
+    "board"
+   ],
+   "reading": "",
+   "meaning": "Giáo viên đã viết một bài toán lên bảng."
+  },
+  {
+   "tokens": [
+    "I",
+    "didn't",
+    "drive"
+   ],
+   "reading": "",
+   "meaning": "Tôi không lái."
+  },
+  {
+   "tokens": [
+    "Once",
+    "is",
+    "enough"
+   ],
+   "reading": "",
+   "meaning": "Một lần là đủ."
+  }
+ ],
+ "issues": []
+}

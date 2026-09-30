@@ -1,0 +1,331 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "ニュアンス",
+   "meaning": "sắc thái",
+   "example": "日本語では、同じ言葉でも表記を変えることで、微妙に違った意味合いやニュアンスを表現することができる。",
+   "exampleMeaning": "Trong tiếng Nhật, bằng việc thay đổi cách viết của cùng một từ, người viết có thể biểu đạt một hàm ý hoặc sắc thái hơi khác so với từ gốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "解除",
+   "meaning": "sự bỏ, sự huỷ bỏ",
+   "example": "「解除」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “解除”: sự bỏ, sự huỷ bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "驚異",
+   "meaning": "vật kỳ diệu, kỳ quan, vật phi thường",
+   "example": "「驚異」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “驚異”: vật kỳ diệu, kỳ quan, vật phi thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉄鋼",
+   "meaning": "iron and steel (EN)",
+   "example": "「鉄鋼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鉄鋼”: iron and steel (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "照り返す",
+   "meaning": "phản chiếu, phản xạ, dội lại",
+   "example": "「照り返す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “照り返す”: phản chiếu, phản xạ, dội lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内緒",
+   "meaning": "tính kín đáo",
+   "example": "「内緒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内緒”: tính kín đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "応急",
+   "meaning": "tình trạng khẩn cấp",
+   "example": "「応急」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “応急”: tình trạng khẩn cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "元首",
+   "meaning": "người thống trị, người chuyên quyền",
+   "example": "「元首」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “元首”: người thống trị, người chuyên quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "聴診器",
+   "meaning": "ống nghe (để khám bệnh)",
+   "example": "「聴診器」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “聴診器”: ống nghe (để khám bệnh).",
+   "emoji": "🩺",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ばてる",
+   "meaning": "đã rút hết không khí (bóng đèn... )",
+   "example": "「ばてる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ばてる”: đã rút hết không khí (bóng đèn... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沈黙",
+   "meaning": "lặng, lặng lẽ, yên lặng",
+   "example": "雄弁は銀、沈黙は金。",
+   "exampleMeaning": "Im lặng là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "退職",
+   "meaning": "sự ẩn dật",
+   "example": "退職後は田舎でのんびり暮したい。",
+   "exampleMeaning": "Lúc nghỉ hưu tôi muốn sống một cách thảnh thơi tại vùng nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "書評",
+   "meaning": "bình phẩm sách",
+   "example": "「書評」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “書評”: bình phẩm sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "焚火",
+   "meaning": "lửa, ánh lửa",
+   "example": "「焚火」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “焚火”: lửa, ánh lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "甘える",
+   "meaning": "đẻ (hươu, nai)",
+   "example": "「甘える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “甘える”: đẻ (hươu, nai).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化合",
+   "meaning": "sự kết hợp hóa học",
+   "example": "「化合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “化合”: sự kết hợp hóa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "極楽",
+   "meaning": "thiên đường, nơi cực lạc",
+   "example": "「極楽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “極楽”: thiên đường, nơi cực lạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "削減",
+   "meaning": "sự cắt, sự đốn, sự chặt",
+   "example": "「削減」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “削減”: sự cắt, sự đốn, sự chặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成果",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của result",
+   "example": "努力したが何の成果も得られなかった。",
+   "exampleMeaning": "Mặc dù đã cố gắng nhưng tôi đã không đạt được thành quả gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "名称",
+   "meaning": "tên, danh",
+   "example": "「名称」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名称”: tên, danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "努力",
+    "した",
+    "が",
+    "何の",
+    "成果",
+    "も",
+    "得られなかった"
+   ],
+   "reading": "どりょくしたがなんのせいかもえられなかった",
+   "meaning": "Mặc dù đã cố gắng nhưng tôi đã không đạt được thành quả gì cả."
+  },
+  {
+   "tokens": [
+    "雄弁",
+    "は",
+    "銀",
+    "沈黙",
+    "は",
+    "金"
+   ],
+   "reading": "ゆうべんはぎんちんもくはきん",
+   "meaning": "Im lặng là vàng."
+  },
+  {
+   "tokens": [
+    "退職後",
+    "は",
+    "田舎",
+    "で",
+    "のんびり",
+    "暮し",
+    "たい"
+   ],
+   "reading": "たいしょくごはいなかでのんびりくらしたい",
+   "meaning": "Lúc nghỉ hưu tôi muốn sống một cách thảnh thơi tại vùng nông thôn."
+  },
+  {
+   "tokens": [
+    "先日",
+    "は",
+    "大変",
+    "お世話になりました"
+   ],
+   "reading": "せんじつはたいへんおせわになりました",
+   "meaning": "Hôm qua bạn đã giúp đỡ tôi rất nhiều."
+  },
+  {
+   "tokens": [
+    "大部分",
+    "の",
+    "日本人",
+    "が",
+    "増税",
+    "に",
+    "反対",
+    "した"
+   ],
+   "reading": "だいぶぶんのにっぽんじんがぞうぜいにはんたいした",
+   "meaning": "Đại bộ phận người dân Nhật phản đối việc tăng thuế."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,338 @@
+{
+ "lesson": 138,
+ "draft": true,
+ "words": [
+  {
+   "term": "隧道",
+   "meaning": "đường hầm",
+   "example": "我们来学“隧道”这个词。",
+   "exampleMeaning": "Cùng học từ “隧道”: đường hầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suìdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尚未",
+   "meaning": "vẫn chưa",
+   "example": "我们来学“尚未”这个词。",
+   "exampleMeaning": "Cùng học từ “尚未”: vẫn chưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抑制",
+   "meaning": "nén",
+   "example": "他抑制不住内心的喜悦。",
+   "exampleMeaning": "Anh ấy không nén nổi niềm vui trong lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "精心",
+   "meaning": "chuyên tâm",
+   "example": "精心培育良种。",
+   "exampleMeaning": "Chuyên tâm bồi dưỡng và giáo dục những hạt giống tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提名",
+   "meaning": "đề cử",
+   "example": "他被提名为下届工会主席。",
+   "exampleMeaning": "Anh ấy được đề cử làm chủ tịch công đoàn kỳ sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tímíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "理性",
+   "meaning": "lý trí, lý tính",
+   "example": "理性认识。",
+   "exampleMeaning": "Nhận thức lý tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "耐",
+   "meaning": "chịu, chịu đựng",
+   "example": "成功屬於耐心等待的人。",
+   "exampleMeaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鹰",
+   "meaning": "đại bàng",
+   "example": "我们来学“鹰”这个词。",
+   "exampleMeaning": "Cùng học từ “鹰”: đại bàng.",
+   "emoji": "🦅",
+   "ipa": "",
+   "pinyin": "yīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "服用",
+   "meaning": "dùng",
+   "example": "服用考究",
+   "exampleMeaning": "Ăn mặc và dùng đồ cầu kỳ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流氓",
+   "meaning": "lưu manh",
+   "example": "耍流氓。",
+   "exampleMeaning": "Giở trò lưu manh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúmáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "影像",
+   "meaning": "hình ảnh",
+   "example": "他的影像时刻在我眼前浮现。",
+   "exampleMeaning": "Những hình ảnh về anh ấy luôn hiện ra trước mắt tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐngxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "略",
+   "meaning": "tóm tắt, sơ lược, giản lược",
+   "example": "不管侵略者什么时候来, 都必被消灭。",
+   "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lüè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "竞选",
+   "meaning": "tranh cử",
+   "example": "竞选议员",
+   "exampleMeaning": "Tranh cử chức nghị viện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngxuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "撤",
+   "meaning": "giảm",
+   "example": "把障碍物撤 了。",
+   "exampleMeaning": "Loại bỏ chướng ngại vật rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "着手",
+   "meaning": "bắt tay vào làm",
+   "example": "提高生产要从改进技术着手。",
+   "exampleMeaning": "Nâng cao sản xuất phải bắt đầu từ cải tiến kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuóshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指望",
+   "meaning": "hi vọng",
+   "example": "指望今年有个好收成。",
+   "exampleMeaning": "Mong năm nay được mùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "使命",
+   "meaning": "sứ mệnh",
+   "example": "历史使命。",
+   "exampleMeaning": "Sứ mệnh lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǐmìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "议会",
+   "meaning": "nghị viện",
+   "example": "我们来学“议会”这个词。",
+   "exampleMeaning": "Cùng học từ “议会”: nghị viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交谈",
+   "meaning": "trò chuyện",
+   "example": "用越语交谈",
+   "exampleMeaning": "Trò chuyện bằng Tiếng Việt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāotán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "残忍",
+   "meaning": "tàn nhẫn",
+   "example": "手段凶狠残忍。",
+   "exampleMeaning": "Thủ đoạn hung ác tàn nhẫn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cánrěn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  },
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "孩子",
+    "你",
+    "为什么",
+    "哭",
+    "呀",
+    "说",
+    "给",
+    "我",
+    "听",
+    "听"
+   ],
+   "reading": "háizi nǐ wèishénme kū ya shuō gěi wǒ tīng tīng",
+   "meaning": "Làm sao con khóc? Nói cho ta nghe."
+  },
+  {
+   "tokens": [
+    "办事",
+    "的",
+    "时候",
+    "走后门",
+    "是",
+    "很",
+    "不",
+    "好",
+    "的"
+   ],
+   "reading": "bànshì de shíhou zǒuhòumén shì hěn bù hǎo de",
+   "meaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt."
+  }
+ ],
+ "issues": []
+}

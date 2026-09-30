@@ -1,0 +1,321 @@
+{
+ "lesson": 17,
+ "draft": true,
+ "words": [
+  {
+   "term": "天气",
+   "meaning": "thời tiết",
+   "example": "今晚天气会变冷。",
+   "exampleMeaning": "Tối nay trời sẽ trở lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "最好",
+   "meaning": "hay nhất",
+   "example": "這是我聽過最好笑的笑話。",
+   "exampleMeaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuìhǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "南",
+   "meaning": "hướng nam, phương nam, phía nam",
+   "example": "河内是越南的首都。",
+   "exampleMeaning": "Hà Nội là thủ đô của nước Việt Nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "考试",
+   "meaning": "thi",
+   "example": "考试前，你根本没复习，能考好吗？ – 可也是。",
+   "exampleMeaning": "Trước kỳ thi cậu căn bản chẳng ôn tập gì, có thi tốt nổi không? – Cũng đúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎoshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "有时候",
+   "meaning": "có đôi lúc, thỉnh thoảng, có khi",
+   "example": "我们来学“有时候”这个词。",
+   "exampleMeaning": "Cùng học từ “有时候”: có đôi lúc, thỉnh thoảng, có khi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒushíhou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慢",
+   "meaning": "chậm, chậm chạp",
+   "example": "你走慢一点儿，等着他。",
+   "exampleMeaning": "Anh đi chậm một chút, chờ anh ấy với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "旁边",
+   "meaning": "bên cạnh",
+   "example": "我跟他说话的时候，他一直往旁边看。",
+   "exampleMeaning": "Khi tôi nói chuyện với nó, nó cứ luôn nhìn qua bên cạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pángbiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同学",
+   "meaning": "bạn học",
+   "example": "我们都是汤姆的同学。",
+   "exampleMeaning": "Chúng tôi đều là bạn học của Tom.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "北",
+   "meaning": "bắc",
+   "example": "飞往北京的飞机就要起飞了。",
+   "exampleMeaning": "Máy bay đến Bắc Kinh sắp cất cánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "帮忙",
+   "meaning": "giúp",
+   "example": "这个人只顾自己，不顾别人，你要他帮忙，准得碰钉子。",
+   "exampleMeaning": "Cái người này chỉ quan tâm đến bản thân, không để ý đến người khác, cậu muốn anh ta giúp á, chắc chắn bị cự tuyệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāngmáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "进来",
+   "meaning": "vào",
+   "example": "别让狗进来。",
+   "exampleMeaning": "Không được cho chó vào bên trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "见面",
+   "meaning": "gặp",
+   "example": "每次见面都打招呼。",
+   "exampleMeaning": "Mỗi lần gặp mặt đều chào hỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "好看",
+   "meaning": "làm khổ",
+   "example": "这花布做裙子穿一定很好看。",
+   "exampleMeaning": "Vải hoa này mà may váy mặc rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎokàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中间",
+   "meaning": "giữa",
+   "example": "那些树中间有半数是李树。",
+   "exampleMeaning": "Trong số những cây kia có phân nửa là cây mận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "女生",
+   "meaning": "nữ sinh",
+   "example": "湯姆喜歡黃頭髮的女生。",
+   "exampleMeaning": "Tom thích những cô gái tóc vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǚshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "茶",
+   "meaning": "chè, trà",
+   "example": "杏仁茶 。",
+   "exampleMeaning": "Trà hạnh nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chá",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地点",
+   "meaning": "địa điểm",
+   "example": "开会地点在大礼堂。",
+   "exampleMeaning": "Địa điểm họp trong hội trường lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雨",
+   "meaning": "mưa",
+   "example": "今天下这么大的雨，土松着呢。",
+   "exampleMeaning": "Hôm nay mưa to thế này thì đất bở lắm đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "星期",
+   "meaning": "chủ nhật (gọi tắt)",
+   "example": "他已經住在這裡一個星期了。",
+   "exampleMeaning": "Anh ấy đã ở đây được một tuần rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīngqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "车上",
+   "meaning": "trên xe",
+   "example": "我们来学“车上”这个词。",
+   "exampleMeaning": "Cùng học từ “车上”: trên xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "天气",
+    "真",
+    "好"
+   ],
+   "reading": "tiānqì zhēn hǎo",
+   "meaning": "Thời tiết thật đẹp!"
+  },
+  {
+   "tokens": [
+    "别",
+    "让",
+    "狗",
+    "进来"
+   ],
+   "reading": "bié ràng gǒu jìnlái",
+   "meaning": "Không được cho chó vào bên trong."
+  },
+  {
+   "tokens": [
+    "我",
+    "祝",
+    "你",
+    "考试",
+    "顺利"
+   ],
+   "reading": "wǒ zhù nǐ kǎoshì shùnlì",
+   "meaning": "Tôi chúc bạn thi cử thuận lợi."
+  },
+  {
+   "tokens": [
+    "今晚",
+    "天气",
+    "会",
+    "变",
+    "冷"
+   ],
+   "reading": "jīnwǎn tiānqì huì biàn lěng",
+   "meaning": "Tối nay trời sẽ trở lạnh."
+  },
+  {
+   "tokens": [
+    "河内",
+    "是",
+    "越南",
+    "的",
+    "首都"
+   ],
+   "reading": "hénèi shì yuènán de shǒudū",
+   "meaning": "Hà Nội là thủ đô của nước Việt Nam."
+  }
+ ],
+ "issues": []
+}

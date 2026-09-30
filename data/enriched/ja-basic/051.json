@@ -1,0 +1,335 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "逃げる",
+   "meaning": "bỏ chạy, tháo chạy, chạy trốn",
+   "example": "彼は逃げるよりほか仕方がなかった。",
+   "exampleMeaning": "Anh ta chỉ còn cách chạy trốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "選ぶ",
+   "meaning": "chọn, lựa chọn, kén chọn",
+   "example": "友は容姿、知人は性格で選び、敵は知性で選ぶ。敵を選ぶときには、いくら注意しても注意しすぎるということはない。",
+   "exampleMeaning": "Tôi chọn bạn vì vẻ bề ngoài, người quen vì tính cách, và kẻ địch nhờ trí thông minh. Khi chọn kẻ địch, cẩn thận không bao giờ thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "怖い",
+   "meaning": "làm sợ hãi, làm kinh hãi, làm khiếp sợ",
+   "example": "私は熊が怖い。",
+   "exampleMeaning": "Tôi sợ gấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不便",
+   "meaning": "sự bất tiện, sự phiền phức",
+   "example": "「不便」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不便”: sự bất tiện, sự phiền phức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "割合",
+   "meaning": "tỷ lệ",
+   "example": "「割合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “割合”: tỷ lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "彼女",
+   "meaning": "nó, cô ấy, bà ấy",
+   "example": "彼女は親切だ。",
+   "exampleMeaning": "Cô ấy là một người tốt bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お土産",
+   "meaning": "vật kỷ niệm",
+   "example": "彼はお土産をもって帰った。",
+   "exampleMeaning": "Anh ấy đã mang về vài món đồ lưu niệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "とうとう",
+   "meaning": "cuối cùng, sau cùng",
+   "example": "我々の軍隊に完全に包囲されてしまって敵はとうとう降伏した。",
+   "exampleMeaning": "Bị bao vây hoàn toàn bởi quân ta, kẻ địch cuối cùng cũng đã đầu hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "美術館",
+   "meaning": "phòng (trưng bày) tranh",
+   "example": "この美術館は訪問に値する。",
+   "exampleMeaning": "Bảo tàng này đáng để ghé thăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "倍",
+   "meaning": "đôi, kép, hai lần",
+   "example": "この三倍の大きさの箱が欲しいんだ。",
+   "exampleMeaning": "Tôi muốn cái hộp lớn ba lần so với cái này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寂しい",
+   "meaning": "vắng vẻ, hiu quạnh",
+   "example": "「寂しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “寂しい”: vắng vẻ, hiu quạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "参る",
+   "meaning": "đi, đến (khiêm nhường)",
+   "example": "「参る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “参る”: đi, đến (khiêm nhường).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "足す",
+   "meaning": "+ up, together) cộng",
+   "example": "どっちを選んでも、あなたは満足するでしょう。",
+   "exampleMeaning": "Cho dù chọn cái nào, bạn cũng sẽ thỏa mãn thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集める",
+   "meaning": "sưu tập, thu thập",
+   "example": "彼女の趣味は切手を集めることです。",
+   "exampleMeaning": "Sở thích của cô ấy là sưu tầm tem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以外",
+   "meaning": "trừ, ngoài",
+   "example": "トム以外誰もいなかった。",
+   "exampleMeaning": "Ngoài Tom ra, ở đó không có ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "答",
+   "meaning": "trả lời, đáp lại",
+   "example": "質問にだけ答えなさい。",
+   "exampleMeaning": "Bạn cứ trả lời các câu hỏi đã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "堅",
+   "meaning": "rắn, đặc",
+   "example": "堅い書き物は大嫌いだ。",
+   "exampleMeaning": "Tôi rất ghét phải viết theo khuôn mẫu!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ハンバーグ",
+   "meaning": "bít tết băm viên",
+   "example": "「ハンバーグ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ハンバーグ”: bít tết băm viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小説",
+   "meaning": "tiểu thuyết, truyện",
+   "example": "彼女は短編小説作家です。",
+   "exampleMeaning": "Bà ấy viết truyện ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "例えば",
+   "meaning": "chẳng hạn",
+   "example": "例えば、中国の公共交通は疑いようもなくイギリスのそれより優れているが、イギリスの公共福祉は中国のそれより優れているかもしれない。",
+   "exampleMeaning": "Chẳng hạn như, hệ thống giao thông công cộng của Trung Quốc ưu việt hơn của Anh, điều đó khỏi phải nghi ngờ. Tuy nhiên thì có lẽ chế độ phúc lợi công cộng của Anh ưu việt hơn của Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "短編小説",
+    "作家",
+    "です"
+   ],
+   "reading": "かのじょはたんぺんしょうせつさっかです",
+   "meaning": "Bà ấy viết truyện ngắn."
+  },
+  {
+   "tokens": [
+    "彼女の",
+    "趣味",
+    "は",
+    "切手",
+    "を",
+    "集める",
+    "こと",
+    "です"
+   ],
+   "reading": "かのじょのしゅみはきってをあつめることです",
+   "meaning": "Sở thích của cô ấy là sưu tầm tem."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "質問",
+    "に",
+    "答える",
+    "ことができなかった"
+   ],
+   "reading": "かのじょはしつもんにこたえることができなかった",
+   "meaning": "Cô ấy đã không thể trả lời được câu hỏi đó."
+  },
+  {
+   "tokens": [
+    "彼女の",
+    "新作",
+    "の",
+    "小説",
+    "は",
+    "来月",
+    "出版",
+    "される"
+   ],
+   "reading": "かのじょのしんさくのしょうせつはらいげつしゅっぱんされる",
+   "meaning": "Tiểu thuyết mới của cô ấy sẽ được xuất bản vào tháng sau."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "彼",
+    "に",
+    "小説",
+    "を",
+    "書く",
+    "ように",
+    "励ました"
+   ],
+   "reading": "かのじょはかれにしょうせつをかくようにはげました",
+   "meaning": "Cô ấy khuyến khích anh ấy viết một cuốn tiểu thuyết."
+  }
+ ],
+ "issues": []
+}

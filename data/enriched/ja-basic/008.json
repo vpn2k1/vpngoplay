@@ -1,0 +1,320 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "後ろ",
+   "meaning": "sau, ở đằng sau",
+   "example": "セーター後ろ前だよ。",
+   "exampleMeaning": "Bạn đang mặc ngược cái áo len kìa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中",
+   "meaning": "trong, nội bộ của vật chất",
+   "example": "中に入れて。",
+   "exampleMeaning": "Cho tôi vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "かぶる",
+   "meaning": "mang, đeo",
+   "example": "「かぶる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “かぶる”: mang, đeo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "言う",
+   "meaning": "nói, rằng, gọi",
+   "example": "言うは易く行うは難し。",
+   "exampleMeaning": "Nói thì dễ làm mới khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "テープレコーダー",
+   "meaning": "máy ghi âm",
+   "example": "「テープレコーダー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “テープレコーダー”: máy ghi âm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "荷物",
+   "meaning": "hành lý",
+   "example": "私は重い荷物を空港まで引きずって行った。",
+   "exampleMeaning": "Tôi kéo lê túi hành lý nặng đến sân bay.",
+   "emoji": "🧳",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "置く",
+   "meaning": "để, đặt, bỏ",
+   "example": "「置く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “置く”: để, đặt, bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下",
+   "meaning": "dưới, ở dưới",
+   "example": "来て下さい。",
+   "exampleMeaning": "Hãy đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "西",
+   "meaning": "hướng tây, phương tây, phía tây",
+   "example": "太陽が西に傾いた。",
+   "exampleMeaning": "Mặt trời đã ngả đằng Tây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お酒",
+   "meaning": "cồn",
+   "example": "私たちはたくさんお酒を飲んだ。",
+   "exampleMeaning": "Chúng tôi đã uống nhiều rượu.",
+   "emoji": "🍶",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "年",
+   "meaning": "tuổi",
+   "example": "彼女は去年結婚した。",
+   "exampleMeaning": "Cô ấy đã kết hôn vào năm ngoái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飲み物",
+   "meaning": "đồ uống, thức uống",
+   "example": "何か飲み物が欲しいな。",
+   "exampleMeaning": "Tôi muốn uống gì đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "狭い",
+   "meaning": "hẹp, chật hẹp, eo hẹp",
+   "example": "なんて狭い階段なんだ！",
+   "exampleMeaning": "Cầu thang hẹp thật!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "来週",
+   "meaning": "tuần sau",
+   "example": "父は来週海外に行く予定だ。",
+   "exampleMeaning": "Bố tôi định đi nước ngoài vào tuần sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上着",
+   "meaning": "áo choàng ngoài, áo bành tô (đàn ông)",
+   "example": "「上着」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “上着”: áo choàng ngoài, áo bành tô (đàn ông).",
+   "emoji": "🧥",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お風呂",
+   "meaning": "chậu tắm, bồn tắm, nhà tắm",
+   "example": "先お風呂入っていいよ。",
+   "exampleMeaning": "Bạn có thể vào bồn tắm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夏休み",
+   "meaning": "summer vacation (EN)",
+   "example": "夏休みまであと５日です。",
+   "exampleMeaning": "Còn năm ngày nữa là đến kỳ nghỉ hè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "五つ",
+   "meaning": "năm thứ",
+   "example": "「五つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “五つ”: năm thứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "万",
+   "meaning": "vạn, mười nghìn",
+   "example": "私はその絵を二万円で売った。",
+   "exampleMeaning": "Tôi đã bán bức tranh đó với giá 20 nghìn Yên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "方",
+   "meaning": "con người, người",
+   "example": "眠った方がいいよ。",
+   "exampleMeaning": "Bạn nên đi ngủ đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あの方",
+    "が",
+    "言われる",
+    "事",
+    "を",
+    "何でも",
+    "して",
+    "あげて",
+    "下さい"
+   ],
+   "reading": "あのかたがいわれることをなんでもしてあげてください",
+   "meaning": "Tốt nhất là hãy làm theo mọi thứ anh ấy nói với bạn."
+  },
+  {
+   "tokens": [
+    "嘘",
+    "も",
+    "方便"
+   ],
+   "reading": "うそもほうべん",
+   "meaning": "Mục đích biện minh cho phương tiện."
+  },
+  {
+   "tokens": [
+    "中",
+    "に",
+    "入れて"
+   ],
+   "reading": "なかにいれて",
+   "meaning": "Cho tôi vào."
+  },
+  {
+   "tokens": [
+    "ご",
+    "注目",
+    "下さい"
+   ],
+   "reading": "ごちゅうもくください",
+   "meaning": "Hãy chú ý!"
+  },
+  {
+   "tokens": [
+    "うそ",
+    "を",
+    "言うな"
+   ],
+   "reading": "うそをいうな",
+   "meaning": "Đừng nói dối."
+  }
+ ],
+ "issues": []
+}

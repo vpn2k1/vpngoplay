@@ -1,0 +1,320 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "登记",
+   "meaning": "đăng ký",
+   "example": "户口登记",
+   "exampleMeaning": "Đăng ký hộ khẩu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "下降",
+   "meaning": "hạ thấp",
+   "example": "地壳下降。",
+   "exampleMeaning": "Mặt đất lún xuống; vỏ quả đất sụt thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàjiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来源",
+   "meaning": "nguồn",
+   "example": "神话的内容也是来源于生活的。",
+   "exampleMeaning": "Nội dung của chuyện thần thoại cũng bắt nguồn từ cuộc sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láiyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "充分",
+   "meaning": "đầy đủ",
+   "example": "准备工作做得很充分。",
+   "exampleMeaning": "Công việc chuẩn bị rất đầy đủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "批",
+   "meaning": "phê bình, phê phán, bình phẩm",
+   "example": "妈，怎么爸爸一批评我，你就敲边鼓！",
+   "exampleMeaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pī",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "经典",
+   "meaning": "kinh điển (tác phẩm)",
+   "example": "马列主义经典著作。",
+   "exampleMeaning": "Tác phẩm kinh điển chủ nghĩa Mác-Lênin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "法院",
+   "meaning": "pháp viện",
+   "example": "我们来学“法院”这个词。",
+   "exampleMeaning": "Cùng học từ “法院”: pháp viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "背景",
+   "meaning": "cảnh",
+   "example": "历史背景",
+   "exampleMeaning": "Bối cảnh lịch sử",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèijǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大会",
+   "meaning": "đại hội",
+   "example": "动员大会",
+   "exampleMeaning": "Mít-tinh động viên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "减少",
+   "meaning": "giảm bớt",
+   "example": "工作中的缺点减少了。",
+   "exampleMeaning": "Khuyết điểm trong công tác đã được giảm bớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnshǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "恶心",
+   "meaning": "buồn nôn",
+   "example": "我们来学“恶心”这个词。",
+   "exampleMeaning": "Cùng học từ “恶心”: buồn nôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ěxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兵",
+   "meaning": "binh",
+   "example": "短兵相接。",
+   "exampleMeaning": "Đánh xáp lá cà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回复",
+   "meaning": "khôi phục (nguyên trạng)",
+   "example": "回复群众来信。",
+   "exampleMeaning": "Trả lời thư của nhân dân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huífù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "居民",
+   "meaning": "cư dân",
+   "example": "街道居民。",
+   "exampleMeaning": "Cư dân đường phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūmín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "限制",
+   "meaning": "hạn chế, giới hạn, thu hẹp",
+   "example": "限制在必要范围之内。",
+   "exampleMeaning": "Giới hạn trong phạm vi cần thiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "万一",
+   "meaning": "ngộ nhỡ",
+   "example": "多带几件衣服，以防万一。",
+   "exampleMeaning": "Mang theo mấy cái áo để phòng nhỡ có khi cần đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wànyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "如今",
+   "meaning": "ngày nay",
+   "example": "如今的事情，再用老眼光看可不行了。",
+   "exampleMeaning": "Sự việc ngày nay, nếu dùng con mắt xưa để mà nhìn nhận thì không được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rújīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分手",
+   "meaning": "chia tay",
+   "example": "我要往北走了，咱们在这儿分手吧。",
+   "exampleMeaning": "Tôi đi về hướng Bắc, chúng ta chia tay nhau ở đây thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "牙",
+   "meaning": "răng",
+   "example": "我们来学“牙”这个词。",
+   "exampleMeaning": "Cùng học từ “牙”: răng.",
+   "emoji": "🦷",
+   "ipa": "",
+   "pinyin": "yá",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "细节",
+   "meaning": "chi tiết",
+   "example": "这个计划虽然已经决定实施了，但是具体细节还需要从长计议。",
+   "exampleMeaning": "Kế hoạch này mặc dù đã được quyết định thực thi, nhưng mà các chi tiết cụ thể vẫn cần phải được cân nhắc kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "妈",
+    "怎么",
+    "爸爸",
+    "一",
+    "批评",
+    "我",
+    "你",
+    "就",
+    "敲边鼓"
+   ],
+   "reading": "mā zěnme bàba yī pīpíng wǒ nǐ jiù qiāobiāngǔ",
+   "meaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!"
+  },
+  {
+   "tokens": [
+    "我",
+    "爱",
+    "你"
+   ],
+   "reading": "wǒ ài nǐ",
+   "meaning": "Anh phải lòng em."
+  },
+  {
+   "tokens": [
+    "我",
+    "到",
+    "了"
+   ],
+   "reading": "wǒ dào le",
+   "meaning": "Tôi đến."
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "知道"
+   ],
+   "reading": "wǒ bù zhīdào",
+   "meaning": "Tôi không biết."
+  },
+  {
+   "tokens": [
+    "那",
+    "又",
+    "怎样"
+   ],
+   "reading": "nà yòu zěnyàng",
+   "meaning": "Thì sao?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,328 @@
+{
+ "lesson": 97,
+ "draft": true,
+ "words": [
+  {
+   "term": "晚期",
+   "meaning": "thời kì cuối",
+   "example": "这是他晚期的作品。",
+   "exampleMeaning": "Đây là tác phẩm cuối cùng của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "妥善",
+   "meaning": "ổn thoả tốt đẹp",
+   "example": "妥善安置",
+   "exampleMeaning": "Sắp xếp ổn thoả tốt đẹp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuǒshàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "痴呆",
+   "meaning": "ngu",
+   "example": "我们来学“痴呆”这个词。",
+   "exampleMeaning": "Cùng học từ “痴呆”: ngu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chīdāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一无所知",
+   "meaning": "không biết gì cả",
+   "example": "对于世界历史，他一无所知。",
+   "exampleMeaning": "Anh ấy chẳng biết tí gì về lịch sử thế giới cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīwúsuǒzhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "试探",
+   "meaning": "thăm dò",
+   "example": "我们来学“试探”这个词。",
+   "exampleMeaning": "Cùng học từ “试探”: thăm dò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìtàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壮大",
+   "meaning": "vạm vỡ",
+   "example": "力量日益壮大。",
+   "exampleMeaning": "Lực lượng ngày càng lớn mạnh; sức mạnh ngày một tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàngdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骚乱",
+   "meaning": "rối loạn",
+   "example": "我们来学“骚乱”这个词。",
+   "exampleMeaning": "Cùng học từ “骚乱”: rối loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sāoluàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "收据",
+   "meaning": "biên lai",
+   "example": "我们来学“收据”这个词。",
+   "exampleMeaning": "Cùng học từ “收据”: biên lai.",
+   "emoji": "🧾",
+   "ipa": "",
+   "pinyin": "shōujù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "底层",
+   "meaning": "tầng lớp thấp nhất",
+   "example": "白鱼晚上就游回水的底层。",
+   "exampleMeaning": "Cá trắng ban đêm thường bơi về tầng thấp nhất trong nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǐcéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自以为是",
+   "meaning": "tự cho mình là đúng",
+   "example": "我们来学“自以为是”这个词。",
+   "exampleMeaning": "Cùng học từ “自以为是”: tự cho mình là đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìyǐwéishì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "颁布",
+   "meaning": "ban hành",
+   "example": "颁布奖惩条例",
+   "exampleMeaning": "Công bố điều lệ thưởng phạt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bānbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钩子",
+   "meaning": "vòi",
+   "example": "蝎子的钩子有毒。",
+   "exampleMeaning": "Vòi con bọ cạp có mọc độc",
+   "emoji": "🪝",
+   "ipa": "",
+   "pinyin": "gōuzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饲养",
+   "meaning": "chăn nuôi (động vật)",
+   "example": "饲养员。",
+   "exampleMeaning": "Nhân viên chăn nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sìyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诚恳",
+   "meaning": "thành khẩn",
+   "example": "我们来学“诚恳”这个词。",
+   "exampleMeaning": "Cùng học từ “诚恳”: thành khẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngkěn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "假定",
+   "meaning": "nếu",
+   "example": "假定她明天起程，后天就可以到达延安。",
+   "exampleMeaning": "Nếu như ngày mai cô ấy lên đường, thì ngày kia có thể đến Diên An.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "女婿",
+   "meaning": "con rể",
+   "example": "我们来学“女婿”这个词。",
+   "exampleMeaning": "Cùng học từ “女婿”: con rể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǚxu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "匿名",
+   "meaning": "nặc danh",
+   "example": "我们来学“匿名”这个词。",
+   "exampleMeaning": "Cùng học từ “匿名”: nặc danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nìmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凝聚",
+   "meaning": "ngưng tụ",
+   "example": "荷叶上凝聚着晶莹的露珠。",
+   "exampleMeaning": "Trên mặt lá sen còn đọng lại những giọt sương long lanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "níngjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "兴起",
+   "meaning": "nổi dậy",
+   "example": "闻风兴起。",
+   "exampleMeaning": "Nghe tin liền nổi dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīngqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转机",
+   "meaning": "có thể xoay chuyển",
+   "example": "病入膏肓，已无转机。",
+   "exampleMeaning": "Hết phương cứu chữa, không có chuyển biến gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "相信",
+    "他",
+    "在",
+    "说实话",
+    "吗"
+   ],
+   "reading": "nǐ xiāngxìn tā zài shuōshíhuà ma",
+   "meaning": "Bạn có tin ông ta đang nói sự thật không?"
+  },
+  {
+   "tokens": [
+    "罪犯",
+    "们",
+    "密谋",
+    "抢劫",
+    "银行"
+   ],
+   "reading": "zuìfàn men mìmóu qiǎngjié yínháng",
+   "meaning": "Bọn tội phạm đang âm mưu cướp ngân hàng."
+  },
+  {
+   "tokens": [
+    "他",
+    "对生",
+    "活",
+    "感到",
+    "很",
+    "无奈"
+   ],
+   "reading": "tā duìshēng huó gǎndào hěn wúnài",
+   "meaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống."
+  },
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  }
+ ],
+ "issues": []
+}

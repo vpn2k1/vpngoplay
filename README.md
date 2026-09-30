@@ -78,6 +78,50 @@ Script dùng TypeScript để đọc các module, chuẩn hoá rồi ghi vào `p
 
 Từ vựng, hội thoại và bài nghe của NEnglish nằm trên Firebase Realtime Database. Database này đã bị tắt nên không lấy được; nếu có file export JSON thì có thể viết thêm bước nhập.
 
+## Học theo câu · Giao tiếp · Thành ngữ
+
+Ba mục này có ở trang học của cả 3 ngôn ngữ, ngay dưới lời chào.
+
+### ✍️ Học theo câu (`/sentences`)
+
+Các gói 10 câu thật, lấy từ [Tatoeba](https://tatoeba.org/vi), có sẵn bản dịch tiếng Việt, xếp theo cấp độ: 133 gói tiếng Anh (A1 → C1–C2), 125 gói tiếng Nhật (N5 → N1) và 51 gói tiếng Trung (HSK1 → HSK7–9).
+
+Mỗi câu học theo hai bước:
+1. **Học câu:** nghe (thường hoặc chậm), đọc câu kèm furigana (tiếng Nhật) hoặc pinyin (tiếng Trung), tự đoán nghĩa rồi bấm để xem. Có thể bấm **Nói theo**: trình duyệt nhận dạng giọng nói và chấm độ khớp (Chrome, Edge, Safari; nút này ẩn trên Firefox). Nói khớp từ 80% được +2 XP.
+2. **Luyện:** xếp lại câu từ các từ bị xáo trộn, hoặc chỉ nghe rồi chọn nghĩa đúng trong 4 đáp án. Hai dạng này xen kẽ nhau.
+
+Kết quả tốt nhất của từng gói được lưu; gói đúng từ 80% được tính là "đã vững".
+
+```bash
+npm run sentences:build   # cần data/sources/open (npm run sources:download) và data/courses (npm run vocab:prepare)
+```
+
+Script `scripts/sentences/build.mjs` chọn câu và ghi ra `public/sentences/`:
+- **Cấp độ** của câu là cấp của từ khó nhất trong câu, tính theo danh sách từ của lộ trình.
+- **Tiếng Anh:** nhận ra dạng chia của từ (went → go, stopped → stop), và bỏ các câu có từ không nằm trong danh sách.
+- **Tiếng Nhật:** tách từ theo chỉ mục Tanaka và lấy furigana từ Tatoeba.
+- **Tiếng Trung:** tách từ theo pinyin của Tatoeba, và đổi câu viết chữ phồn thể sang giản thể.
+- **Lọc nội dung:** câu về bạo lực, tình dục hay ma tuý bị loại. Bản dịch là do cộng đồng Tatoeba đóng góp nên chất lượng không đều.
+
+### 💬 Giao tiếp (`/talk`)
+
+Có 8 tình huống cho mỗi ngôn ngữ: làm quen, gọi món, mua sắm, hỏi đường, khách sạn, khám bệnh, gọi điện công việc và phỏng vấn xin việc. Mỗi hội thoại có 8–10 lượt thoại, bản dịch, phiên âm, cùng 4 mẫu câu hay dùng kèm ghi chú.
+- **Nghe cả bài:** đọc lần lượt từng câu và tô sáng câu đang đọc. Bấm vào câu nào để nghe riêng câu đó.
+- **Nhập vai:** bạn đóng vai B. App đọc lời của người kia, bạn chọn câu mình cần nói trong 3 câu (có gợi ý nghĩa tiếng Việt), rồi có thể bấm **Nói theo** để luyện phát âm.
+
+Nội dung nằm ở `public/talk/<id>.json`. `npm run catalog` kiểm tra các file này (`scripts/build-talk.mjs`: đủ vai, đủ lượt, phiên âm kana/pinyin…) rồi sinh `public/talk/index.json`.
+
+### 📜 Thành ngữ (`/idioms`)
+
+Có 6 bộ, mỗi bộ 12 câu:
+- **Tiếng Anh:** thành ngữ thường ngày, thành ngữ công sở & IELTS.
+- **Tiếng Nhật:** tục ngữ ことわざ, thành ngữ bốn chữ 四字熟語.
+- **Tiếng Trung:** thành ngữ 成语, quán dụng ngữ 惯用语.
+
+Mỗi câu có nghĩa tương đương trong tiếng Việt, và âm Hán Việt nếu có (一石二鳥 nhất thạch nhị điểu, 入乡随俗 nhập gia tùy tục).
+- **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 9 trò chơi.
+- **Nơi hiển thị:** các bộ này có trang riêng, không nằm trong mục "Chủ đề" ở trang học.
+
 ## Ôn tập (tab riêng, `/review`)
 
 - **Sổ từ:** bấm 🔖 cạnh một từ để lưu. Nút này có ở danh sách từ của bộ bài, mặt sau Flashcard và màn kết quả game (có thêm nút **Lưu tất cả** cho các từ bị lọt).
@@ -116,6 +160,32 @@ npm run vocab:enrich    # 2. gọi Claude API: nghĩa tiếng Việt, ví dụ, 
 npm run vocab:build     # 3. kiểm tra lại, sinh public/decks/<course>-<nnn>.json + public/courses/*.json
 ```
 
+#### Bước 2 miễn phí: bản nháp từ dữ liệu mở (`vocab:draft`)
+
+Không có API key thì có thể soạn **bản nháp** cho mọi bài từ các nguồn mở đã tải về máy:
+
+```bash
+npm run sources:download && npm run sources:lookup   # một lần
+npm run vocab:draft      # soạn nháp, ghi danh sách từ chưa dịch được
+npm run sources:crawl    # tra thêm các từ đó trên English Wiktionary (kaikki.org), chạy chậm và lịch sự, có cache
+npm run vocab:draft      # soạn lại với bản dịch vừa tải
+npm run vocab:build
+```
+
+- **Nghĩa:**
+  - **Tiếng Anh:** Wiktionary tiếng Việt và từ điển Anh–Việt, chọn nghĩa khớp từ loại; từ ghép (nightclub, tablespoon) lấy từ bảng dịch của English Wiktionary.
+  - **Tiếng Trung:** từ điển Trung–Việt, chỉ khi pinyin khớp cách đọc HSK (的, 得 có nhiều cách đọc).
+  - **Tiếng Nhật:** dịch bắc cầu qua nghĩa tiếng Anh của danh sách JLPT và JMdict; chỉ dùng từ tiếng Trung cùng mặt chữ khi nghĩa tiếng Anh trong CC-CEDICT khớp. Từ nào không dịch được thì giữ nghĩa tiếng Anh, có ghi "(EN)".
+- **Ví dụ:**
+  - Lấy câu Tatoeba, ví dụ trong Wiktionary, và ví dụ trong từ điển Anh–Việt / Trung–Việt (TrungViet-big) có bản dịch tiếng Việt.
+  - Từ nào không có ví dụ thì dùng câu mẫu "Cùng học từ …".
+  - 5 câu luyện của mỗi bài lấy từ kho câu Tatoeba, ưu tiên câu chứa từ của bài.
+- **Đánh dấu bản nháp:**
+  - File được ghi `"draft": true`; trang lộ trình và trang bài hiện nhãn **Bản nháp**.
+  - Khi có API key, `vocab:enrich` sẽ soạn lại các bài nháp và không bao giờ ghi đè bài Claude đã soạn.
+- **Giọng đọc:** bài nháp không được tạo sẵn file mp3 (tránh hàng chục nghìn file cho nội dung chưa rà soát), nên dùng giọng có sẵn của trình duyệt.
+- **Chất lượng:** kém hơn bản Claude, nhất là phần nghĩa tiếng Nhật. Chỉ nên dùng để chạy thử hoặc làm dữ liệu mẫu, nên rà soát trước khi phát hành. Dữ liệu dẫn xuất từ nguồn GPL / CC BY-SA phải giữ cùng giấy phép.
+
 Bước 2 cần API key Anthropic: đặt `ANTHROPIC_API_KEY`, ghi vào file `.env` (đã có trong `.gitignore`), hoặc đăng nhập bằng `ant auth login`. Nên chạy thử trước:
 
 ```bash
@@ -152,6 +222,42 @@ npm run vocab:enrich -- --course en-basic --limit 2
 
 Nghĩa tiếng Việt, câu ví dụ và câu luyện tập được Claude sinh ra, sau đó kiểm tra tự động; vẫn nên rà soát lại trước khi phát hành.
 
+### Nguồn dữ liệu mở tải về máy (`scripts/sources/`)
+
+Từ điển song ngữ và kho câu mở, dùng để đối chiếu hoặc giảm bớt phần phải nhờ Claude sinh ra:
+
+```bash
+npm run sources:download   # tải khoảng 190 MB, giải nén ra khoảng 300 MB, vào data/sources/open/ (đã có trong .gitignore)
+npm run sources:lookup     # tra 27.000 từ của lộ trình → data/sources/open/lookup/<course>.json + bảng độ phủ
+```
+
+| Nguồn | Nội dung | Giấy phép |
+|---|---|---|
+| [Wiktionary tiếng Việt](https://vi.wiktionary.org) qua [kaikki.org](https://kaikki.org/viwiktionary/) | nghĩa tiếng Việt, IPA, ví dụ có dịch (Anh · Nhật · Trung) | CC BY-SA 4.0 / GFDL |
+| [Tatoeba](https://tatoeba.org/vi/downloads) | câu Anh / Nhật / Trung kèm bản dịch tiếng Việt hoặc tiếng Anh | CC BY 2.0 FR |
+| [catusf/tudien](https://github.com/catusf/tudien): `star_anhviet` (OVDP, Hồ Ngọc Đức) | Anh → Việt, 386 nghìn mục | GPL (dữ liệu gốc) |
+| catusf/tudien: `TrungViet-small` | Trung → Việt, có pinyin và âm Hán Việt | repo ghi CC0, chưa rõ nguồn gốc dữ liệu |
+| catusf/tudien: `TudienThienChuu` | âm Hán Việt từng chữ (Thiều Chửu, 1942) | repo ghi CC0 |
+| catusf/tudien: `star_nhatviet` (OVDP) | Nhật → Việt, **dịch bắc cầu qua tiếng Anh nên hay sai**, chỉ dùng làm gợi ý | GPL (dữ liệu gốc) |
+| [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cedict) | Trung → Anh | CC BY-SA 4.0 |
+| [ipa-dict](https://github.com/open-dict-data/ipa-dict) | IPA tiếng Anh (Mỹ, Anh) | MIT |
+| [Unicode CLDR](https://github.com/unicode-org/cldr-json) annotations | tên và từ khoá emoji bằng tiếng Việt / Anh | Unicode License |
+| [OpenJLPT](https://github.com/evanclan/OpenJLPT) | ngữ pháp JLPT N5–N1: 526 điểm, có công thức và ví dụ kèm furigana, bằng tiếng Anh | CC BY-SA 4.0 |
+| [Akari](https://github.com/khoitran3012/learning-japanese-for-beginners-website) | ngữ pháp N5–N4: 48 điểm, **giải thích bằng tiếng Việt**, viết bằng LLM nên cần rà soát | MIT |
+| Chuẩn HSK 3.0 GF 0025-2021, phụ lục A (bản chép của [krmanik/HSK-3.0](https://github.com/krmanik/HSK-3.0)) | ngữ pháp HSK 1 – 7-9: 572 điểm, có ví dụ tiếng Trung chính thức | văn bản nhà nước; repo không ghi giấy phép |
+| [ivankra/hsk30](https://github.com/ivankra/hsk30) `hsk30-grammar.csv` | cùng danh sách trên dạng bảng (cấp, nhóm, loại, nội dung) | MIT |
+| [no7z/hsk-sentences-audio](https://github.com/no7z/hsk-sentences-audio) | 413 điểm ngữ pháp HSK 1–6, câu gắn với từng điểm, có pinyin và dịch tiếng Anh | MIT |
+
+Độ phủ trên 27.000 từ của lộ trình (lần chạy ngày 30/09/2026):
+- **Tiếng Anh:** có nghĩa tiếng Việt cho 97–98% số từ và IPA cho 96–97%. Câu ví dụ có sẵn bản dịch tiếng Việt: 82% ở Cơ bản, 53% ở Trung cấp, 33% ở Nâng cao.
+- **Tiếng Trung:** 100% số từ có nghĩa tiếng Việt và âm Hán Việt. Câu ví dụ có bản dịch tiếng Việt: 3–35%; có bản dịch tiếng Việt hoặc tiếng Anh: 66–96%.
+- **Tiếng Nhật:** chỉ 2–6% số từ có nghĩa tiếng Việt đáng tin cậy. Câu ví dụ có bản dịch tiếng Việt: 19–67%; có bản dịch tiếng Việt hoặc tiếng Anh: 84–98%. Nghĩa tiếng Nhật vẫn cần `vocab:enrich`.
+
+Lưu ý:
+- Câu ví dụ được chọn bằng cùng quy tắc với `validate.mjs`: câu tiếng Anh phải chứa nguyên từ, còn câu tiếng Nhật/Trung chỉ cần chứa chuỗi ký tự của từ. Vì vậy một từ ngắn như 本 có thể khớp nhầm vào 日本.
+- Chưa có nguồn mở nào giải thích ngữ pháp tiếng Trung bằng tiếng Việt, và tiếng Nhật chỉ có phần N5–N4. Phần còn lại phải tự dịch; bản dịch từ nguồn CC BY-SA phải giữ CC BY-SA 4.0. Chinese Grammar Wiki (CC BY-NC-SA, cấm dùng trong app có quảng cáo) và Tae Kim (CC BY-NC-SA) không được đưa vào vì giấy phép phi thương mại.
+- Dữ liệu GPL và CC BY-SA chỉ nên dùng để đối chiếu. Nếu chép thẳng vào `public/`, phần đó phải giữ cùng giấy phép và ghi nguồn.
+
 ## Chấm đáp án (mọi ngôn ngữ như nhau)
 
 Mọi game đều chấm qua `src/lib/answer.ts`:
@@ -185,12 +291,12 @@ App dùng 2 nguồn giọng, theo thứ tự ưu tiên:
 
 ### Giọng đọc chuẩn trên mọi thiết bị (miễn phí, tự động)
 
-Mọi từ, câu ví dụ, câu luyện và nội dung Ngữ pháp & Phát âm đều có **file mp3 tạo sẵn** bằng model mã nguồn mở [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache 2.0).
+Mọi từ, câu ví dụ, câu luyện, nội dung Ngữ pháp & Phát âm, hội thoại Giao tiếp và gói Học theo câu đều có **file mp3 tạo sẵn** bằng model mã nguồn mở [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) (Apache 2.0).
 - Trình duyệt nào, máy nào (iPhone, Android, Windows, Mac…) cũng phát cùng một giọng, kể cả máy không có giọng tiếng Nhật hay tiếng Trung.
 - File được tạo **trên GitHub Actions** ([.github/workflows/audio.yml](.github/workflows/audio.yml)), không cần cài gì trên máy, không cần API key. Repo private có 2.000 phút chạy miễn phí mỗi tháng.
 
 Cách workflow chạy:
-1. Mỗi lần push lên `main` có thay đổi nội dung (`public/decks`, `public/grammar`…), workflow chỉ tạo file cho câu mới hoặc câu đã sửa.
+1. Mỗi lần push lên `main` có thay đổi nội dung (`public/decks`, `public/grammar`, `public/talk`, `public/sentences`…), workflow chỉ tạo file cho câu mới hoặc câu đã sửa.
 2. Nó xoá file không còn dùng, ghi `public/audio/manifest.json`, rồi tự commit.
 3. Vercel deploy lại theo commit đó.
 
@@ -238,13 +344,19 @@ src/
     courses/$courseId.tsx # trang lộ trình (các chặng, tiến độ từng bài)
     decks/$deckId/        # route.tsx (loader) + index + 7 bài ôn luyện
     games/                # tab Trò chơi: index (danh sách game) + $gameId (chọn ngôn ngữ, bộ từ, chế độ)
-  games/                  # Flashcard, Match, SentenceBuilder, Dictation
+    sentences/            # Học theo câu: danh sách gói theo cấp + $packId
+    talk/                 # Giao tiếp: danh sách tình huống + $dialogueId (hội thoại, nhập vai)
+    idioms.tsx            # Thành ngữ: các bộ từ category "idioms"
+  games/                  # Flashcard, Match, SentenceBuilder, Dictation, SentencePack, RolePlay
   arcade/                 # engine + 6 game arcade (games/*.tsx) + dữ liệu bảng chữ (scripts.ts)
   components/             # ui.tsx, ProfileForm.tsx (react-hook-form + zod)
   lib/                    # api (queryOptions), store (zustand), srs, speech, types
 public/decks/*.json       # nội dung bài học (bộ chủ đề + từng bài của lộ trình)
 public/courses/*.json     # lộ trình: danh sách bài + toàn bộ từ (dùng cho game)
+public/sentences/*.json   # gói câu Tatoeba (scripts/sentences/build.mjs)
+public/talk/*.json        # hội thoại Giao tiếp (soạn tay, kiểm tra bởi scripts/build-talk.mjs)
 scripts/vocab/            # pipeline sinh lộ trình 3.000 từ
+scripts/sources/          # tải từ điển / kho câu mở về data/sources/open
 data/courses/             # danh sách từ đã chia cấp (đầu vào của enrich)
 data/enriched/            # kết quả Claude sinh, từng bài
 ```

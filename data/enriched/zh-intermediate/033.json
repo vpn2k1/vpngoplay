@@ -1,0 +1,327 @@
+{
+ "lesson": 33,
+ "draft": true,
+ "words": [
+  {
+   "term": "军人",
+   "meaning": "quân nhân",
+   "example": "军人俱乐部",
+   "exampleMeaning": "Câu lạc bộ quân nhân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "修复",
+   "meaning": "sửa chữa phục hồi (công trình xây dựng)",
+   "example": "修复河堤。",
+   "exampleMeaning": "Tu sửa đê sông",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机器人",
+   "meaning": "người máy",
+   "example": "我们来学“机器人”这个词。",
+   "exampleMeaning": "Cùng học từ “机器人”: người máy.",
+   "emoji": "🤖",
+   "ipa": "",
+   "pinyin": "jīqìrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "竞赛",
+   "meaning": "thi đua",
+   "example": "爱国竞赛的目的是什么？",
+   "exampleMeaning": "Mục đích thi đua ái quốc là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngsài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "逃跑",
+   "meaning": "chạy trốn",
+   "example": "越狱逃跑",
+   "exampleMeaning": "Vượt ngục trốn chạy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táopǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自愿",
+   "meaning": "tự nguyện",
+   "example": "自愿的行动",
+   "exampleMeaning": "Hành động tự nguyện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "师傅",
+   "meaning": "thợ cả",
+   "example": "木匠师傅。",
+   "exampleMeaning": "Thợ cả nghề mộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "朵",
+   "meaning": "đám (lượng từ)",
+   "example": "两朵牡丹",
+   "exampleMeaning": "Hai đoá mẫu đơn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "原始",
+   "meaning": "nguyên thuỷ",
+   "example": "原始记录",
+   "exampleMeaning": "Ghi chép ban đầu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánshǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "总算",
+   "meaning": "cuối cùng cũng",
+   "example": "一连下了六七天的雨，今天总算晴了。",
+   "exampleMeaning": "Mưa suốt sáu bảy ngày, hôm nay cuối cùng trời cũng nắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngsuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钢琴",
+   "meaning": "đàn dương cầm",
+   "example": "我们来学“钢琴”这个词。",
+   "exampleMeaning": "Cùng học từ “钢琴”: đàn dương cầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāngqín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "传递",
+   "meaning": "chuyền",
+   "example": "我们来学“传递”这个词。",
+   "exampleMeaning": "Cùng học từ “传递”: chuyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuándì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "转换",
+   "meaning": "thay đổi",
+   "example": "转换方向",
+   "exampleMeaning": "Thay đổi phương hướng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnhuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逻辑",
+   "meaning": "quy luật khách quan",
+   "example": "这几句话不合逻辑。",
+   "exampleMeaning": "Mấy câu nói này không hợp lô-gích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luóji",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脸色",
+   "meaning": "vẻ mặt",
+   "example": "脸色微红。",
+   "exampleMeaning": "Sắc mặt hồng hào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎnsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收购",
+   "meaning": "thu mua",
+   "example": "完成羊毛收购计划。",
+   "exampleMeaning": "Hoàn thành kế hoạch thu mua lông cừu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōugòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宾馆",
+   "meaning": "nhà khách",
+   "example": "国宾馆。",
+   "exampleMeaning": "Nhà khách Chính phủ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīnguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保卫",
+   "meaning": "bảo vệ",
+   "example": "保卫国家",
+   "exampleMeaning": "Bảo vệ đất nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎowèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼光",
+   "meaning": "quan điểm",
+   "example": "不要用老眼光来看新事物。",
+   "exampleMeaning": "Không nên nhìn sự vật mới bằng quan điểm cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一流",
+   "meaning": "hạng nhất",
+   "example": "他是属于新派一流人物。",
+   "exampleMeaning": "Nó thuộc phái tân thời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "爱国",
+    "竞赛",
+    "的",
+    "目的",
+    "是",
+    "什么"
+   ],
+   "reading": "àiguó jìngsài de mùdì shì shénme",
+   "meaning": "Mục đích thi đua ái quốc là gì?"
+  },
+  {
+   "tokens": [
+    "竞赛",
+    "是",
+    "爱国"
+   ],
+   "reading": "jìngsài shì àiguó",
+   "meaning": "Thi đua là yêu nước."
+  },
+  {
+   "tokens": [
+    "有人",
+    "正在",
+    "弹",
+    "钢琴"
+   ],
+   "reading": "yǒurén zhèngzài tán gāngqín",
+   "meaning": "Có người nào đó đang chơi đàn piano."
+  },
+  {
+   "tokens": [
+    "你",
+    "去",
+    "就",
+    "免得",
+    "我",
+    "再",
+    "去",
+    "了"
+   ],
+   "reading": "nǐ qù jiù miǎnde wǒ zài qù le",
+   "meaning": "Anh đi thì tôi khỏi đi."
+  },
+  {
+   "tokens": [
+    "她",
+    "既",
+    "学",
+    "越语",
+    "又",
+    "学",
+    "英语"
+   ],
+   "reading": "tā jì xué yuèyǔ yòu xué yīngyǔ",
+   "meaning": "Chị ấy đã học tiếng Việt lại học cả tiếng Anh nữa."
+  }
+ ],
+ "issues": []
+}

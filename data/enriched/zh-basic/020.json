@@ -1,0 +1,322 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "奶奶",
+   "meaning": "bà nội",
+   "example": "我们来学“奶奶”这个词。",
+   "exampleMeaning": "Cùng học từ “奶奶”: bà nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎinai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上次",
+   "meaning": "lần trước",
+   "example": "我们来学“上次”这个词。",
+   "exampleMeaning": "Cùng học từ “上次”: lần trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngcì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "唱歌",
+   "meaning": "hát",
+   "example": "你喜欢唱歌吗？",
+   "exampleMeaning": "Bạn thích hát không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chànggē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "右边",
+   "meaning": "bên phải",
+   "example": "我们来学“右边”这个词。",
+   "exampleMeaning": "Cùng học từ “右边”: bên phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòubian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上学",
+   "meaning": "nhập học",
+   "example": "你在哪个学校上学？",
+   "exampleMeaning": "Anh học ở trường nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "牛奶",
+   "meaning": "sữa bò",
+   "example": "我们来学“牛奶”这个词。",
+   "exampleMeaning": "Cùng học từ “牛奶”: sữa bò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niúnǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "女朋友",
+   "meaning": "bạn gái",
+   "example": "我们来学“女朋友”这个词。",
+   "exampleMeaning": "Cùng học từ “女朋友”: bạn gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǚpéngyou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上课",
+   "meaning": "lên lớp",
+   "example": "学校里八点开始上课。",
+   "exampleMeaning": "Trong trường học, tám giờ bắt đầu học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "爷爷",
+   "meaning": "ông nội",
+   "example": "我们来学“爷爷”这个词。",
+   "exampleMeaning": "Cùng học từ “爷爷”: ông nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yéye",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "听见",
+   "meaning": "nghe",
+   "example": "听见打雷的声音。",
+   "exampleMeaning": "Nghe thấy tiếng sấm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīngjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "新年",
+   "meaning": "tết nguyên đán",
+   "example": "我们来学“新年”这个词。",
+   "exampleMeaning": "Cùng học từ “新年”: tết nguyên đán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "男朋友",
+   "meaning": "bạn trai",
+   "example": "你的男朋友是谁？",
+   "exampleMeaning": "Bạn trai của bạn là ai?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánpéngyou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下班",
+   "meaning": "tan ca",
+   "example": "每天下午六点下班。",
+   "exampleMeaning": "Hàng ngày sáu giờ chiều tan ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàbān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水果",
+   "meaning": "trái cây",
+   "example": "我们来学“水果”这个词。",
+   "exampleMeaning": "Cùng học từ “水果”: trái cây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐguǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "读书",
+   "meaning": "học",
+   "example": "读书得间(读书时能发现问题)。",
+   "exampleMeaning": "Đọc sách có thể phát hiện vấn đề",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúshū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "那儿",
+   "meaning": "đó, đấy",
+   "example": "男孩子在那儿。",
+   "exampleMeaning": "Thằng bé ở đằng kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "商店",
+   "meaning": "cửa hàng",
+   "example": "我们来学“商店”这个词。",
+   "exampleMeaning": "Cùng học từ “商店”: cửa hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngdiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鸡蛋",
+   "meaning": "quả trứng gà",
+   "example": "我们来学“鸡蛋”这个词。",
+   "exampleMeaning": "Cùng học từ “鸡蛋”: quả trứng gà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīdàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没关系",
+   "meaning": "không sao",
+   "example": "没关系，我自己能做。",
+   "exampleMeaning": "Không sao, tôi có thể làm được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méiguānxi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地图",
+   "meaning": "bản đồ",
+   "example": "中华人民共和国地图。",
+   "exampleMeaning": "Bản đồ nước Cộng hoà nhân dân Trung Hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìtú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "男朋友",
+    "真",
+    "帅"
+   ],
+   "reading": "nǐ nánpéngyou zhēn shuài",
+   "meaning": "Bạn trai của bạn đẹp trai quá!"
+  },
+  {
+   "tokens": [
+    "你",
+    "的",
+    "男朋友",
+    "是",
+    "谁"
+   ],
+   "reading": "nǐ de nánpéngyou shì shéi",
+   "meaning": "Bạn trai của bạn là ai?"
+  },
+  {
+   "tokens": [
+    "别人",
+    "说",
+    "什么",
+    "都",
+    "没关系"
+   ],
+   "reading": "biéren shuō shénme dōu méiguānxi",
+   "meaning": "Người khác có nói gì thì cũng không liên quan."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "唱歌",
+    "吗"
+   ],
+   "reading": "nǐ xǐhuan chànggē ma",
+   "meaning": "Bạn thích hát không?"
+  },
+  {
+   "tokens": [
+    "你",
+    "在",
+    "哪个",
+    "学校",
+    "上学"
+   ],
+   "reading": "nǐ zài nǎge xuéxiào shàngxué",
+   "meaning": "Anh học ở trường nào?"
+  }
+ ],
+ "issues": []
+}

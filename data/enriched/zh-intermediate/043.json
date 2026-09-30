@@ -1,0 +1,340 @@
+{
+ "lesson": 43,
+ "draft": true,
+ "words": [
+  {
+   "term": "葡萄酒",
+   "meaning": "rượu nho",
+   "example": "我们来学“葡萄酒”这个词。",
+   "exampleMeaning": "Cùng học từ “葡萄酒”: rượu nho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pútaojiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "资本",
+   "meaning": "tư sản",
+   "example": "固定资本",
+   "exampleMeaning": "Tài sản cố định",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zīběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "误解",
+   "meaning": "hiểu sai",
+   "example": "我没这个意思，你误解了。",
+   "exampleMeaning": "Tôi không có ý đó, anh hiểu sai rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交代",
+   "meaning": "nói rõ",
+   "example": "政委一再交代我们要照顾群众利益。",
+   "exampleMeaning": "Chính uỷ nhiều lần dặn dò chúng tôi phải chú ý đến lợi ích của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāodài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "岸",
+   "meaning": "cao ngạo",
+   "example": "傲岸 (自高自大)",
+   "exampleMeaning": "Cao ngạo; tự cao tự đại",
+   "emoji": "🏦",
+   "ipa": "",
+   "pinyin": "àn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "由此",
+   "meaning": "từ đó",
+   "example": "由此可见，她是很有前途的电影演员。",
+   "exampleMeaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóucǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "经费",
+   "meaning": "kinh phí",
+   "example": "节约经费",
+   "exampleMeaning": "Tiết kiệm kinh phí",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngfèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "联想",
+   "meaning": "liên tưởng",
+   "example": "看到他，使我联想起许多往事。",
+   "exampleMeaning": "Nhìn anh ấy, khiến tôi liên tưởng đến những chuyện xa xưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánxiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罚款",
+   "meaning": "phạt tiền",
+   "example": "我们来学“罚款”这个词。",
+   "exampleMeaning": "Cùng học từ “罚款”: phạt tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fákuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "摇头",
+   "meaning": "lắc đầu",
+   "example": "我们来学“摇头”这个词。",
+   "exampleMeaning": "Cùng học từ “摇头”: lắc đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáotóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不顾",
+   "meaning": "bất chấp",
+   "example": "这个人只顾自己，不顾别人，你要他帮忙，准得碰钉子。",
+   "exampleMeaning": "Cái người này chỉ quan tâm đến bản thân, không để ý đến người khác, cậu muốn anh ta giúp á, chắc chắn bị cự tuyệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùgù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "点燃",
+   "meaning": "châm",
+   "example": "点燃火把",
+   "exampleMeaning": "Đốt đuốc; châm đuốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歇",
+   "meaning": "một lát",
+   "example": "歇 了一会儿。",
+   "exampleMeaning": "Nghỉ một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiē",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心态",
+   "meaning": "tâm lý",
+   "example": "我们来学“心态”这个词。",
+   "exampleMeaning": "Cùng học từ “心态”: tâm lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīntài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "来信",
+   "meaning": "thư",
+   "example": "来信收到了。",
+   "exampleMeaning": "Đã nhận được thư rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láixìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "总体",
+   "meaning": "tổng thể",
+   "example": "总体规划",
+   "exampleMeaning": "Quy hoạch tổng thể",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngtǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "原理",
+   "meaning": "nguyên lý",
+   "example": "马列主义原理。",
+   "exampleMeaning": "Nguyên lý chủ nghĩa Mác-Lênin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清晨",
+   "meaning": "sáng sớm",
+   "example": "我们来学“清晨”这个词。",
+   "exampleMeaning": "Cùng học từ “清晨”: sáng sớm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngchén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "占有",
+   "meaning": "nắm",
+   "example": "科学研究必须占有大量材料。",
+   "exampleMeaning": "Nghiên cứu khoa học phải nắm được nhiều tài liệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "消毒",
+   "meaning": "tiêu độc",
+   "example": "我们来学“消毒”这个词。",
+   "exampleMeaning": "Cùng học từ “消毒”: tiêu độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāodú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "由此可见",
+    "她",
+    "是",
+    "很",
+    "有",
+    "前途",
+    "的",
+    "电影演员"
+   ],
+   "reading": "yóucǐkějiàn tā shì hěn yǒu qiántú de diànyǐngyǎnyuán",
+   "meaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "担心",
+    "我",
+    "会",
+    "一直",
+    "在",
+    "你",
+    "身边"
+   ],
+   "reading": "bù yào dānxīn wǒ huì yīzhí zài nǐ shēnbiān",
+   "meaning": "Đừng lo lắng, anh sẽ luôn ở bên em."
+  },
+  {
+   "tokens": [
+    "今天",
+    "下",
+    "这么",
+    "大",
+    "的",
+    "雨",
+    "土",
+    "松",
+    "着呢"
+   ],
+   "reading": "jīntiān xià zhème dà de yǔ tǔ sōng zhene",
+   "meaning": "Hôm nay mưa to thế này thì đất bở lắm đấy."
+  },
+  {
+   "tokens": [
+    "你",
+    "既然",
+    "已经",
+    "知道",
+    "了",
+    "还",
+    "问",
+    "什么"
+   ],
+   "reading": "nǐ jìrán yǐjīng zhīdào le hái wèn shénme",
+   "meaning": "Mày đã biết rồi còn phải hỏi gì nữa?"
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  }
+ ],
+ "issues": []
+}

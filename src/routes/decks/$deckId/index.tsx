@@ -2,7 +2,7 @@ import { SaveWordButton } from '../../../components/SaveWordButton'
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
 import { motion } from 'motion/react'
-import { COURSE_ICON, EXERCISE_ICON, FLAG, MASCOT, TRACK_ICON } from '../../../components/icons'
+import { COURSE_ICON, EXERCISE_ICON, FLAG, MASCOT, Scroll, TRACK_ICON } from '../../../components/icons'
 import { BackLabel, ProgressBar, SpeakButton, cx } from '../../../components/ui'
 import { cardKey } from '../../../lib/srs'
 import { useProgress } from '../../../lib/store'
@@ -75,8 +75,9 @@ function DeckOverview() {
   const Mascot = MASCOT[deck.lang]
   // Course lessons show their course level; topic decks their track.
   const courseLevel = deck.course?.split('-')[1] as CourseLevel | undefined
-  const GroupIcon = courseLevel ? COURSE_ICON[courseLevel] : TRACK_ICON[deck.track ?? 'work']
-  const groupLabel = courseLevel ? COURSE_LABEL[courseLevel] : TRACKS[deck.track ?? 'work'].label
+  const idioms = deck.category === 'idioms'
+  const GroupIcon = courseLevel ? COURSE_ICON[courseLevel] : idioms ? Scroll : TRACK_ICON[deck.track ?? 'work']
+  const groupLabel = courseLevel ? COURSE_LABEL[courseLevel] : idioms ? 'Thành ngữ' : TRACKS[deck.track ?? 'work'].label
 
   return (
     <div className="space-y-6">
@@ -84,8 +85,12 @@ function DeckOverview() {
         <Link to="/courses/$courseId" params={{ courseId: deck.course }}>
           <BackLabel>Lộ trình {groupLabel}</BackLabel>
         </Link>
+      ) : idioms ? (
+        <Link to="/idioms">
+          <BackLabel>Thành ngữ</BackLabel>
+        </Link>
       ) : (
-        <Link to="/" search={{ lang: deck.lang }}>
+        <Link to="/">
           <BackLabel>Tất cả bộ từ</BackLabel>
         </Link>
       )}
@@ -105,6 +110,14 @@ function DeckOverview() {
             <GroupIcon className="size-4" /> {groupLabel}
           </span>
           <span className="rounded-full bg-white px-3 py-1 text-slate-900">{deck.level}</span>
+          {deck.draft && (
+            <span
+              className="rounded-full bg-amber-400 px-3 py-1 text-amber-950"
+              title="Soạn tự động từ từ điển mở, chưa được rà soát"
+            >
+              Bản nháp
+            </span>
+          )}
         </div>
         <h1 className="relative mt-3 max-w-[75%] text-3xl font-black">{deck.title}</h1>
         <p className="relative mt-1 max-w-[70%] text-white/85">{deck.description}</p>

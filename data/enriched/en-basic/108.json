@@ -1,0 +1,314 @@
+{
+ "lesson": 108,
+ "draft": true,
+ "words": [
+  {
+   "term": "fog",
+   "meaning": "sương mù",
+   "example": "The thick fog makes it hard to see ahead.",
+   "exampleMeaning": "Sương mù dày đặc khiến khó mà nhìn thấy phía trước.",
+   "emoji": "🌫",
+   "ipa": "/ˈfɑɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "done",
+   "meaning": "xong, hoàn thành, đã thực hiện",
+   "example": "Food is done!",
+   "exampleMeaning": "Thức ăn đã xong!",
+   "emoji": "",
+   "ipa": "/ˈdən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "delay",
+   "meaning": "làm trở ngại, cản trở",
+   "example": "to act without delay",
+   "exampleMeaning": "Hành động không chậm trễ (không trì hoãn)",
+   "emoji": "",
+   "ipa": "/dɪˈleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shall",
+   "meaning": "sẽ",
+   "example": "shall you have a rest next Sunday?",
+   "exampleMeaning": "Anh sẽ ngỉ ngơi chủ nhật sau phải không?",
+   "emoji": "",
+   "ipa": "/ˈʃæl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "double",
+   "meaning": "đôi, hai, kép",
+   "example": "to double up a sheet of paper",
+   "exampleMeaning": "Gập người làm đôi",
+   "emoji": "",
+   "ipa": "/ˈdəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "seaside",
+   "meaning": "bờ biển",
+   "example": "He is a waiter in a seaside restaurant.",
+   "exampleMeaning": "Anh ấy làm bồi bàn cho một nhà hàng bên bờ biển",
+   "emoji": "",
+   "ipa": "/ˈsiˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "national",
+   "meaning": "quốc gia",
+   "example": "the national liberation movement",
+   "exampleMeaning": "Phong trào giải phóng dân tộc",
+   "emoji": "",
+   "ipa": "/ˈnæʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "brand",
+   "meaning": "nhãn (hàng hoá), thương hiệu",
+   "example": "Let's learn the word \"brand\".",
+   "exampleMeaning": "Cùng học từ “brand”: nhãn (hàng hoá), thương hiệu.",
+   "emoji": "",
+   "ipa": "/brænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cereal",
+   "meaning": "ngũ cốc",
+   "example": "I like to eat cereal with milk.",
+   "exampleMeaning": "Tôi thích ăn ngũ cốc với sữa.",
+   "emoji": "",
+   "ipa": "/ˈsɪriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "clear",
+   "meaning": "rõ",
+   "example": "clear the way!",
+   "exampleMeaning": "Đứng dãn ra!",
+   "emoji": "",
+   "ipa": "/ˈklɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "granddaughter",
+   "meaning": "cháu gái (của ông bà)",
+   "example": "Let's learn the word \"granddaughter\".",
+   "exampleMeaning": "Cùng học từ “granddaughter”: cháu gái (của ông bà).",
+   "emoji": "",
+   "ipa": "/ˈɡrænˌdɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "armed",
+   "meaning": "vũ trang",
+   "example": "The armed forces occupied the entire territory.",
+   "exampleMeaning": "Lực lượng vũ trang đã thâu tóm toàn bộ lãnh thổ.",
+   "emoji": "",
+   "ipa": "/ˈɑrmd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "myself",
+   "meaning": "chính tôi",
+   "example": "I turned myself in.",
+   "exampleMeaning": "Tôi đã ra đầu thú.",
+   "emoji": "",
+   "ipa": "/ˌmaɪˈsɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dessert",
+   "meaning": "món tráng miệng",
+   "example": "After dessert, I was full.",
+   "exampleMeaning": "Sau khi tráng miệng, tôi no bụng.",
+   "emoji": "",
+   "ipa": "/dɪˈzɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mood",
+   "meaning": "tâm trạng",
+   "example": "to be in a merry mood",
+   "exampleMeaning": "Ở tâm trạng vui vẻ",
+   "emoji": "",
+   "ipa": "/ˈmud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "instant",
+   "meaning": "ngay",
+   "example": "come here this instant",
+   "exampleMeaning": "Hây đến đây, ngay bây giờ",
+   "emoji": "",
+   "ipa": "/ˈɪnstənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unpleasant",
+   "meaning": "khó ưa, xấu, khó chịu",
+   "example": "This fruit has an unpleasant smell.",
+   "exampleMeaning": "Loại trái cây này có mùi khó ngửi.",
+   "emoji": "",
+   "ipa": "/ənˈplɛzənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "raise",
+   "meaning": "tăng, làm tăng thêm",
+   "example": "top raise the reputation of...",
+   "exampleMeaning": "Tăng thêm danh tiếng của (ai...)",
+   "emoji": "",
+   "ipa": "/ˈreɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ruin",
+   "meaning": "làm suy nhược, làm xấu đi",
+   "example": "to cause the ruin of...",
+   "exampleMeaning": "Gây ra sự đổ nát của...",
+   "emoji": "",
+   "ipa": "/ˈruː.ɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "silence",
+   "meaning": "sự yên lặng, sự yên tĩnh, sự tĩnh mịch",
+   "example": "to put somebody to silence",
+   "exampleMeaning": "Bắt ai nín thinh; bác bỏ lý lẽ của ai;",
+   "emoji": "",
+   "ipa": "/ˈsaɪləns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "almost",
+    "done"
+   ],
+   "reading": "",
+   "meaning": "Tôi sắp xong rồi."
+  },
+  {
+   "tokens": [
+    "Raise",
+    "your",
+    "hand"
+   ],
+   "reading": "",
+   "meaning": "Hãy giơ tay."
+  },
+  {
+   "tokens": [
+    "I",
+    "defended",
+    "myself"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã tự vệ."
+  },
+  {
+   "tokens": [
+    "Well",
+    "done",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Giỏi lắm, Tom."
+  },
+  {
+   "tokens": [
+    "Food",
+    "is",
+    "done"
+   ],
+   "reading": "",
+   "meaning": "Thức ăn đã xong!"
+  }
+ ],
+ "issues": []
+}

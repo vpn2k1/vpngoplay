@@ -1,0 +1,334 @@
+{
+ "lesson": 119,
+ "draft": true,
+ "words": [
+  {
+   "term": "推荐",
+   "meaning": "giới thiệu, tiến cử (người, vật... )",
+   "example": "向青年推荐优秀的文学作品。",
+   "exampleMeaning": "Giới thiệu với thanh niên những tác phẩm văn học ưu tú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuījiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "注",
+   "meaning": "cuộc",
+   "example": "正文用大字，注用小字。",
+   "exampleMeaning": "Chính văn thì dùng chữ to, chú thích thì dùng chữ nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毫无",
+   "meaning": "không hề, không chút",
+   "example": "宇宙毫无疑问是无限的。",
+   "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háowú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "制",
+   "meaning": "chế (để tang cha mẹ)",
+   "example": "这个照相机是德国制造的。",
+   "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "供",
+   "meaning": "khẩu cung",
+   "example": "遗像前供着鲜花。",
+   "exampleMeaning": "Cúng hoa tươi trước ảnh thờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "探",
+   "meaning": "thăm dò, thám hiểm",
+   "example": "父亲常常在空闲时间读侦探小说。",
+   "exampleMeaning": "Bố thường đọc tiểu thuyết trinh thám vào lúc rảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嫁",
+   "meaning": "giá",
+   "example": "嫁祸于人。",
+   "exampleMeaning": "Vu oan giá hoạ cho người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jià",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "并非",
+   "meaning": "không phải",
+   "example": "我们来学“并非”这个词。",
+   "exampleMeaning": "Cùng học từ “并非”: không phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìngfēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "非法",
+   "meaning": "phi pháp",
+   "example": "非法收入",
+   "exampleMeaning": "Thu nhập phi pháp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēifǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "狼",
+   "meaning": "chó sói",
+   "example": "我们来学“狼”这个词。",
+   "exampleMeaning": "Cùng học từ “狼”: chó sói.",
+   "emoji": "🐺",
+   "ipa": "",
+   "pinyin": "láng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "领域",
+   "meaning": "lĩnh vực",
+   "example": "思想领域。",
+   "exampleMeaning": "Lĩnh vực tư tưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐngyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "盯",
+   "meaning": "nhìn chòng chọc, nhìn chằm chằm",
+   "example": "轮到她射击，大家的眼睛都盯住了靶心。",
+   "exampleMeaning": "Đến lượt cô ấy bắn, mọi người đều nhìn chằm chằm vào tấm bia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "恭喜",
+   "meaning": "chúc mừng",
+   "example": "恭喜！恭喜！恭喜你们试验成功。",
+   "exampleMeaning": "Chúc mừng các anh đã thí nghiệm thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngxǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尸体",
+   "meaning": "xác",
+   "example": "我们来学“尸体”这个词。",
+   "exampleMeaning": "Cùng học từ “尸体”: xác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shītǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "粉",
+   "meaning": "bún",
+   "example": "石灰放得太久，已经粉了。",
+   "exampleMeaning": "Vôi để lâu ngày đã mủn ra rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "曲",
+   "meaning": "khúc",
+   "example": "我们想学一些日文歌曲。",
+   "exampleMeaning": "Chúng tôi muốn học những bài hát tiếng Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "唉",
+   "meaning": "thở dài",
+   "example": "唉 ,好好的一套书弄丢了两本。",
+   "exampleMeaning": "Hừ, cả một bộ sách hay mà để mất hai quyển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "设",
+   "meaning": "giả sử, giả thiết, giả định",
+   "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
+   "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一面",
+   "meaning": "một mặt",
+   "example": "说着话，一面朝窗户外面看。",
+   "exampleMeaning": "Vừa nói chuyện vừa nhìn ra cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拨",
+   "meaning": "cấp",
+   "example": "拨两个人到锻工车间工作。",
+   "exampleMeaning": "Điều hai người đến phân xưởng rèn làm việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "你",
+    "应该",
+    "学习",
+    "控制",
+    "自己",
+    "的",
+    "情绪"
+   ],
+   "reading": "nǐ yīnggāi xuéxí kòngzhì zìjǐ de qíngxù",
+   "meaning": "Bạn nên học cách kiểm soát cảm xúc của mình."
+  },
+  {
+   "tokens": [
+    "我们",
+    "想",
+    "学",
+    "一些",
+    "日文",
+    "歌曲"
+   ],
+   "reading": "wǒmen xiǎng xué yīxiē rìwén gēqǔ",
+   "meaning": "Chúng tôi muốn học những bài hát tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "这",
+    "台",
+    "机器",
+    "是",
+    "由",
+    "我国",
+    "制造",
+    "出来",
+    "的"
+   ],
+   "reading": "zhè tái jīqì shì yóu wǒguó zhìzào chūlái de",
+   "meaning": "Cái máy này do nước ta chế tạo ra."
+  },
+  {
+   "tokens": [
+    "父亲",
+    "常常",
+    "在",
+    "空闲",
+    "时间",
+    "读",
+    "侦探",
+    "小说"
+   ],
+   "reading": "fùqin chángcháng zài kòngxián shíjiān dú zhēntàn xiǎoshuō",
+   "meaning": "Bố thường đọc tiểu thuyết trinh thám vào lúc rảnh."
+  }
+ ],
+ "issues": []
+}

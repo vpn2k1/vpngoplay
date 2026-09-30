@@ -1,0 +1,331 @@
+{
+ "lesson": 68,
+ "draft": true,
+ "words": [
+  {
+   "term": "without",
+   "meaning": "không, không có",
+   "example": "to without travel without a ticket",
+   "exampleMeaning": "Đi xe không (có) vé",
+   "emoji": "",
+   "ipa": "/wɪθˈaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shine",
+   "meaning": "sáng, bóng",
+   "example": "to put a good shine on boots",
+   "exampleMeaning": "Đánh đôi giầy ống bóng lộn",
+   "emoji": "",
+   "ipa": "/ʃaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dressed",
+   "meaning": "giữ tươi",
+   "example": "I hate getting dressed up for special occasions.",
+   "exampleMeaning": "Tôi ghét phải ăn diện cho những dịp đặc biệt.",
+   "emoji": "",
+   "ipa": "/ˈdrɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "strength",
+   "meaning": "độ đậm, nồng độ",
+   "example": "they were there in great (full) strength",
+   "exampleMeaning": "Họ có mặt đông đủ cả",
+   "emoji": "",
+   "ipa": "/ˈstrɛŋkθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blonde",
+   "meaning": "blond",
+   "example": "Many Germans have blonde hair and blue eyes.",
+   "exampleMeaning": "Nhiều người Đức có tóc vàng và mắt xanh.",
+   "emoji": "",
+   "ipa": "/ˈblɑnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stove",
+   "meaning": "nhà kính trồng cây, lò đồ gốm, lò sấy",
+   "example": "Let's learn the word \"stove\".",
+   "exampleMeaning": "Cùng học từ “stove”: nhà kính trồng cây, lò đồ gốm, lò sấy.",
+   "emoji": "",
+   "ipa": "/ˈstoʊv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gather",
+   "meaning": "hái, lượm, thu thập",
+   "example": "to gather a coat at the waist",
+   "exampleMeaning": "Chun áo ở thắt lưng",
+   "emoji": "",
+   "ipa": "/ˈɡæðə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cafeteria",
+   "meaning": "quán ăn tự phục vụ",
+   "example": "I had lunch in the school cafeteria today.",
+   "exampleMeaning": "Tôi ăn trưa ở căng tin trường hôm nay.",
+   "emoji": "",
+   "ipa": "/ˌkæfəˈtɪriə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "certain",
+   "meaning": "chắc chắn, đích xác, nào đó",
+   "example": "there is no certain cure for this disease",
+   "exampleMeaning": "Bệnh này chưa có phương thuốc chữa chắc chắn",
+   "emoji": "",
+   "ipa": "/ˈsɜrtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "uniform",
+   "meaning": "đồng phục",
+   "example": "Why aren't you in your uniform?",
+   "exampleMeaning": "Tại sao bạn không mặc đồng phục?",
+   "emoji": "",
+   "ipa": "/ˈjunɪˌfɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "blood",
+   "meaning": "máu, huyết",
+   "example": "to be the same flesh and blood",
+   "exampleMeaning": "Cùng một dòng họ, cùng một dòng máu",
+   "emoji": "",
+   "ipa": "/blʌd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "visitor",
+   "meaning": "khách, người đến thăm",
+   "example": "Let's learn the word \"visitor\".",
+   "exampleMeaning": "Cùng học từ “visitor”: khách, người đến thăm.",
+   "emoji": "",
+   "ipa": "/ˈvɪzɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "explain",
+   "meaning": "giải thích, thanh minh",
+   "example": "Can you explain that?",
+   "exampleMeaning": "Bạn có thể giải thích điều đó không?",
+   "emoji": "",
+   "ipa": "/ɪkˈspleɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "exchange",
+   "meaning": "đổi, đổi chác, trao đổi",
+   "example": "exchange of prisoners of war",
+   "exampleMeaning": "Sự trao đổi tù binh",
+   "emoji": "",
+   "ipa": "/ɛksˈt͡ʃeɪnd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "probably",
+   "meaning": "có lẽ",
+   "example": "I am probably lost.",
+   "exampleMeaning": "Có lẽ tôi bị lạc.",
+   "emoji": "",
+   "ipa": "/ˈprɑbəˌbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "likely",
+   "meaning": "có thể, chắc đúng, có lẽ đúng",
+   "example": "he is not likely to come now",
+   "exampleMeaning": "Có thể là nó không đến bây giờ",
+   "emoji": "",
+   "ipa": "/ˈlaɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "traffic",
+   "meaning": "giao thông",
+   "example": "Block in the traffic.",
+   "exampleMeaning": "Sự tắc nghẽn giao thông.",
+   "emoji": "",
+   "ipa": "/ˈtræfɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "youth",
+   "meaning": "thanh niên",
+   "example": "The Ho Chi Minh Labour Youth Union",
+   "exampleMeaning": "Đoàn thanh niên lao động Hồ Chí Minh",
+   "emoji": "",
+   "ipa": "/ˈjuθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cooker",
+   "meaning": "người giả mạo, người khai gian",
+   "example": "cooker of accounts",
+   "exampleMeaning": "Người giả mạo sổ sách, người chữa sổ sách, người khai gian (để tham ô biển lận)",
+   "emoji": "",
+   "ipa": "/ˈkʊkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shut",
+   "meaning": "đóng, khép, đậy",
+   "example": "to shut a door",
+   "exampleMeaning": "Đóng cửa",
+   "emoji": "",
+   "ipa": "/ˈʃət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You're",
+    "probably",
+    "too",
+    "young",
+    "to",
+    "understand",
+    "what",
+    "is",
+    "likely",
+    "to",
+    "happen",
+    "next"
+   ],
+   "reading": "",
+   "meaning": "Có lẽ bạn quá trẻ để hiểu điều gì sẽ có khả năng cao xảy đến tiếp theo."
+  },
+  {
+   "tokens": [
+    "Without",
+    "politics",
+    "and",
+    "media",
+    "people",
+    "would",
+    "probably",
+    "not",
+    "hate",
+    "each",
+    "other"
+   ],
+   "reading": "",
+   "meaning": "Nếu không có chính trị và truyền thông, người dân sẽ không ghét nhau."
+  },
+  {
+   "tokens": [
+    "Is",
+    "that",
+    "blood"
+   ],
+   "reading": "",
+   "meaning": "Đó là máu à?"
+  },
+  {
+   "tokens": [
+    "Shut",
+    "the",
+    "window"
+   ],
+   "reading": "",
+   "meaning": "Đóng cửa sổ lại."
+  },
+  {
+   "tokens": [
+    "It's",
+    "probably",
+    "raining"
+   ],
+   "reading": "",
+   "meaning": "Có lẽ trời đang mưa."
+  }
+ ],
+ "issues": []
+}

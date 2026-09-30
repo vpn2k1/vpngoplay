@@ -1,0 +1,317 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "コレクション",
+   "meaning": "sự tập họp, sự tụ họp",
+   "example": "「コレクション」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “コレクション”: sự tập họp, sự tụ họp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "速達",
+   "meaning": "người đưa thư hoả tốc, công văn hoả tốc",
+   "example": "「速達」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “速達”: người đưa thư hoả tốc, công văn hoả tốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物騒",
+   "meaning": "nguy hiểm",
+   "example": "「物騒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物騒”: nguy hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小便",
+   "meaning": "nước đái, nước tiểu",
+   "example": "「小便」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小便”: nước đái, nước tiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夕日",
+   "meaning": "the evening sun (EN)",
+   "example": "トムとメアリーは一緒に夕日を見た。",
+   "exampleMeaning": "Tom và Mary ngắm hoàng hôn cùng nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "モデル",
+   "meaning": "kiểu, mẫu, mô hình",
+   "example": "次のモデルがこれよりよくなることはあり得ないと思う。",
+   "exampleMeaning": "Tôi nghĩ là sẽ không thể có chuyện mẫu tiếp theo sẽ tốt hơn mẫu này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "捕える",
+   "meaning": "chiếm đoạt, cướp lấy, nắm lấy",
+   "example": "「捕える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “捕える”: chiếm đoạt, cướp lấy, nắm lấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "くるむ",
+   "meaning": "bao, bọc, phủ",
+   "example": "「くるむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “くるむ”: bao, bọc, phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窓口",
+   "meaning": "cửa sổ",
+   "example": "「窓口」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “窓口”: cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夫妻",
+   "meaning": "vợ chồng",
+   "example": "「夫妻」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夫妻”: vợ chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "膨大",
+   "meaning": "to lớn, khổng lồ",
+   "example": "「膨大」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “膨大”: to lớn, khổng lồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岬",
+   "meaning": "áo choàng không tay",
+   "example": "「岬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “岬”: áo choàng không tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "五十音",
+   "meaning": "the Japanese syllabary (EN)",
+   "example": "「五十音」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “五十音”: the Japanese syllabary (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "随筆",
+   "meaning": "sự làm thử",
+   "example": "「随筆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “随筆”: sự làm thử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引き出す",
+   "meaning": "nhổ ra",
+   "example": "「引き出す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引き出す”: nhổ ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "炒る",
+   "meaning": "rang",
+   "example": "「炒る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “炒る”: rang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "方程式",
+   "meaning": "sự làm cân bằng",
+   "example": "「方程式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “方程式”: sự làm cân bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お願いします",
+   "meaning": "làm vui lòng, làm hài lòng, làm vừa lòng",
+   "example": "二人部屋をお願いします。",
+   "exampleMeaning": "Cho tôi một phòng hai người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "差し引き",
+   "meaning": "sự lấy đi, sự khấu đi, sự trừ đi",
+   "example": "「差し引き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “差し引き”: sự lấy đi, sự khấu đi, sự trừ đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "涼む",
+   "meaning": "làm lạnh",
+   "example": "「涼む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “涼む”: làm lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "二人",
+    "部屋",
+    "を",
+    "お願いします"
+   ],
+   "reading": "ふたりべやをおねがいします",
+   "meaning": "Cho tôi một phòng hai người."
+  },
+  {
+   "tokens": [
+    "禁煙席",
+    "を",
+    "お願いします"
+   ],
+   "reading": "きんえんせきをおねがいします",
+   "meaning": "Xin cho tôi ghế không hút thuốc"
+  },
+  {
+   "tokens": [
+    "靴ひも",
+    "が",
+    "とけた"
+   ],
+   "reading": "くつひもがとけた",
+   "meaning": "Dây giày tôi bị tuột ra."
+  },
+  {
+   "tokens": [
+    "金",
+    "は",
+    "銀",
+    "より",
+    "重い"
+   ],
+   "reading": "きんはぎんよりおもい",
+   "meaning": "Vàng nặng hơn bạc."
+  },
+  {
+   "tokens": [
+    "提案",
+    "が",
+    "あります"
+   ],
+   "reading": "ていあんがあります",
+   "meaning": "Tôi có một đề xuất."
+  }
+ ],
+ "issues": []
+}

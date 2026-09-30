@@ -1,0 +1,98 @@
+{
+ "id": "zh-talk-interview",
+ "lang": "zh",
+ "order": 8,
+ "level": "HSK4",
+ "icon": "interview",
+ "title": "Phỏng vấn xin việc",
+ "scene": "Bạn phỏng vấn vào một công ty thương mại Trung Quốc.",
+ "roles": {
+  "A": "Người phỏng vấn",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "请你先简单介绍一下自己。",
+   "reading": "Qǐng nǐ xiān jiǎndān jièshào yíxià zìjǐ.",
+   "meaning": "Mời bạn giới thiệu ngắn gọn về bản thân trước."
+  },
+  {
+   "role": "B",
+   "text": "我叫阮兰，大学学的是国际贸易，有两年的工作经验。",
+   "reading": "Wǒ jiào Ruǎn Lán, dàxué xué de shì guójì màoyì, yǒu liǎng nián de gōngzuò jīngyàn.",
+   "meaning": "Tôi tên là Nguyễn Lan, đại học học ngành thương mại quốc tế, có hai năm kinh nghiệm làm việc."
+  },
+  {
+   "role": "A",
+   "text": "你为什么想来我们公司工作？",
+   "reading": "Nǐ wèishénme xiǎng lái wǒmen gōngsī gōngzuò?",
+   "meaning": "Vì sao bạn muốn đến công ty chúng tôi làm việc?"
+  },
+  {
+   "role": "B",
+   "text": "贵公司发展很快，我希望在这里提高自己的能力。",
+   "reading": "Guì gōngsī fāzhǎn hěn kuài, wǒ xīwàng zài zhèlǐ tígāo zìjǐ de nénglì.",
+   "meaning": "Quý công ty phát triển rất nhanh, tôi hy vọng được nâng cao năng lực của mình ở đây."
+  },
+  {
+   "role": "A",
+   "text": "你觉得自己最大的优点是什么？",
+   "reading": "Nǐ juéde zìjǐ zuì dà de yōudiǎn shì shénme?",
+   "meaning": "Bạn thấy ưu điểm lớn nhất của mình là gì?"
+  },
+  {
+   "role": "B",
+   "text": "我做事认真负责，也很善于和别人沟通。",
+   "reading": "Wǒ zuò shì rènzhēn fùzé, yě hěn shànyú hé biérén gōutōng.",
+   "meaning": "Tôi làm việc nghiêm túc, có trách nhiệm, và giỏi giao tiếp với người khác."
+  },
+  {
+   "role": "A",
+   "text": "你能接受经常出差吗？",
+   "reading": "Nǐ néng jiēshòu jīngcháng chūchāi ma?",
+   "meaning": "Bạn có chấp nhận thường xuyên đi công tác không?"
+  },
+  {
+   "role": "B",
+   "text": "可以，我很喜欢去不同的地方。",
+   "reading": "Kěyǐ, wǒ hěn xǐhuan qù bùtóng de dìfang.",
+   "meaning": "Được ạ, tôi rất thích đến những nơi khác nhau."
+  },
+  {
+   "role": "A",
+   "text": "你还有什么问题吗？",
+   "reading": "Nǐ hái yǒu shénme wèntí ma?",
+   "meaning": "Bạn còn câu hỏi nào không?"
+  },
+  {
+   "role": "B",
+   "text": "请问，什么时候能知道面试结果？",
+   "reading": "Qǐngwèn, shénme shíhou néng zhīdào miànshì jiéguǒ?",
+   "meaning": "Cho hỏi, khi nào tôi có thể biết kết quả phỏng vấn?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "请你简单介绍一下自己。",
+   "reading": "Qǐng nǐ jiǎndān jièshào yíxià zìjǐ.",
+   "meaning": "Mời bạn giới thiệu ngắn gọn về bản thân."
+  },
+  {
+   "text": "我有两年的工作经验。",
+   "reading": "Wǒ yǒu liǎng nián de gōngzuò jīngyàn.",
+   "meaning": "Tôi có hai năm kinh nghiệm làm việc."
+  },
+  {
+   "text": "我很想加入贵公司。",
+   "reading": "Wǒ hěn xiǎng jiārù guì gōngsī.",
+   "meaning": "Tôi rất muốn gia nhập quý công ty.",
+   "note": "贵公司 là cách gọi lịch sự công ty của người khác."
+  },
+  {
+   "text": "什么时候能知道结果？",
+   "reading": "Shénme shíhou néng zhīdào jiéguǒ?",
+   "meaning": "Khi nào có thể biết kết quả?"
+  }
+ ]
+}

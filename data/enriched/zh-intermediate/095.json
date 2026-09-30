@@ -1,0 +1,346 @@
+{
+ "lesson": 95,
+ "draft": true,
+ "words": [
+  {
+   "term": "罢工",
+   "meaning": "bãi công",
+   "example": "决定为提高工资而罢工",
+   "exampleMeaning": "Quyết định bãi công để đòi tăng lương",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàgōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不便",
+   "meaning": "bất tiện",
+   "example": "一点也不便宜，贵得不得了。",
+   "exampleMeaning": "Không rẻ 1 tí nào, đắt khủng khiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùbiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "招聘",
+   "meaning": "thông báo tuyển dụng",
+   "example": "招聘技术人员。",
+   "exampleMeaning": "Thông báo tuyển dụng nhân viên kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāopìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不禁",
+   "meaning": "không nhịn được",
+   "example": "读到精彩之处，他不禁大声叫好",
+   "exampleMeaning": "Đọc đến phần hấp dẫn, anh ta không nhịn được phải bật tiếng khen hay",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "早晚",
+   "meaning": "lúc",
+   "example": "早晚总有一天我们会见面。",
+   "exampleMeaning": "Sớm muộn chúng ta sẽ có ngày gặp nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǎowǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "坡",
+   "meaning": "nghiêng, dốc",
+   "example": "板子坡着放。",
+   "exampleMeaning": "Tấm bảng đặt nghiêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "面对面",
+   "meaning": "mặt đối mặt",
+   "example": "我们来学“面对面”这个词。",
+   "exampleMeaning": "Cùng học từ “面对面”: mặt đối mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miànduìmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "父子",
+   "meaning": "cha con",
+   "example": "我们来学“父子”这个词。",
+   "exampleMeaning": "Cùng học từ “父子”: cha con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "悲惨",
+   "meaning": "bi thảm",
+   "example": "悲惨的情景",
+   "exampleMeaning": "Tình cảnh thê thảm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēicǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "昏",
+   "meaning": "tối",
+   "example": "天昏地暗",
+   "exampleMeaning": "Trời đất tối mịt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收养",
+   "meaning": "nhận nuôi",
+   "example": "我们来学“收养”这个词。",
+   "exampleMeaning": "Cùng học từ “收养”: nhận nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōuyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一模一样",
+   "meaning": "giống y chang",
+   "example": "这两件衣服从颜色到款式虽然一模一样，但质量却有很大差别。",
+   "exampleMeaning": "Hai bộ đồ này từ màu sắc đến kiểu dáng tuy giống nhau như đúc nhưng chất lượng lại có sự chênh lệch rất lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīmúyīyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "残疾人",
+   "meaning": "người tàn tật",
+   "example": "我们来学“残疾人”这个词。",
+   "exampleMeaning": "Cùng học từ “残疾人”: người tàn tật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cánjírén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "入学",
+   "meaning": "nhập học",
+   "example": "明天检查体格，后天就入学。",
+   "exampleMeaning": "Ngày mai kiểm tra thể lực, ngày kia nhập học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rùxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收取",
+   "meaning": "thu",
+   "example": "收取手续费。",
+   "exampleMeaning": "Thu lệ phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōuqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "强化",
+   "meaning": "tăng cường",
+   "example": "强化人民的国家机器。",
+   "exampleMeaning": "Tăng cường bộ máy nhà nước nhân dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánghuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "夺取",
+   "meaning": "giành",
+   "example": "夺取新的胜利。",
+   "exampleMeaning": "Giành thắng lợi mới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duóqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "特地",
+   "meaning": "riêng",
+   "example": "他昨天特地来看你，你没在。",
+   "exampleMeaning": "Hôm qua, anh ấy có lòng đến thăm anh, nhưng anh không có nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "强壮",
+   "meaning": "cường tráng",
+   "example": "我们来学“强壮”这个词。",
+   "exampleMeaning": "Cùng học từ “强壮”: cường tráng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángzhuàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出入",
+   "meaning": "không khớp",
+   "example": "现款跟帐上的数目没有出入。",
+   "exampleMeaning": "Tiền mặt khớp với con số trong sổ sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "她",
+    "一个人",
+    "看来",
+    "看",
+    "去",
+    "大约",
+    "看",
+    "了",
+    "半个",
+    "小时"
+   ],
+   "reading": "tā yīgèrén kànlai kàn qù dàyuē kàn le bànge xiǎoshí",
+   "meaning": "Cô ngắm đi ngắm lại một mình độ nửa giờ."
+  },
+  {
+   "tokens": [
+    "她",
+    "拥抱",
+    "了",
+    "一下儿",
+    "子",
+    "然后",
+    "让",
+    "他",
+    "上床",
+    "睡觉"
+   ],
+   "reading": "tā yōngbào le yīxiàr zǐ ránhòu ràng tā shàngchuáng shuìjiào",
+   "meaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường."
+  },
+  {
+   "tokens": [
+    "既然",
+    "你",
+    "看得起",
+    "我",
+    "我",
+    "就",
+    "一定",
+    "热情",
+    "帮助",
+    "你"
+   ],
+   "reading": "jìrán nǐ kàndeqǐ wǒ wǒ jiù yīdìng rèqíng bāngzhù nǐ",
+   "meaning": "Nếu cậu đã coi trọng tôi, thì tôi nhất định nhiệt tình giúp đỡ cậu."
+  }
+ ],
+ "issues": []
+}

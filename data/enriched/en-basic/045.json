@@ -1,0 +1,320 @@
+{
+ "lesson": 45,
+ "draft": true,
+ "words": [
+  {
+   "term": "do",
+   "meaning": "làm, thực hiện, xử sự",
+   "example": "how do you do?",
+   "exampleMeaning": "Anh có khoẻ không? (câu hỏi thăm khi gặp nhau)",
+   "emoji": "",
+   "ipa": "/ˈdu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reader",
+   "meaning": "người đọc, độc giả",
+   "example": "to be a great reader",
+   "exampleMeaning": "Rất mê đọc sách; đọc sách rất nhiều",
+   "emoji": "",
+   "ipa": "/ˈridɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "see",
+   "meaning": "thấy, trông thấy, nhìn thấy",
+   "example": "can I see you on business?",
+   "exampleMeaning": "Tôi có thể gặp anh để bàn công tác không?",
+   "emoji": "",
+   "ipa": "/ˈsiː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kiss",
+   "meaning": "hôn",
+   "example": "the waves kiss the sand beach",
+   "exampleMeaning": "Sóng khẽ lướt vào bãi cát",
+   "emoji": "💏",
+   "ipa": "/kɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "piece",
+   "meaning": "mảnh, mẩu, miếng",
+   "example": "to piece something on to another",
+   "exampleMeaning": "Chắp vật gì vào một vật khác",
+   "emoji": "",
+   "ipa": "/piːs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "cat",
+   "meaning": "con mèo",
+   "example": "The cat is old.",
+   "exampleMeaning": "Con mèo già.",
+   "emoji": "🐈",
+   "ipa": "/kæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "March",
+   "meaning": "tháng ba",
+   "example": "March is the third month of the year.",
+   "exampleMeaning": "Tháng Ba là tháng thứ ba trong năm.",
+   "emoji": "",
+   "ipa": "/ˈmɑrtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "watch",
+   "meaning": "rình, đồng hồ đeo tay, thức",
+   "example": "to keep a close (good) watch over",
+   "exampleMeaning": "Canh phòng nghiêm ngặt",
+   "emoji": "⌚",
+   "ipa": "/ˈwɑtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "place",
+   "meaning": "nơi, địa điểm, vị trí",
+   "example": "can't you come to my place?",
+   "exampleMeaning": "Anh có thể đến chơi đằng nhà tôi được không?",
+   "emoji": "",
+   "ipa": "/pleɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "later",
+   "meaning": "muộn hơn",
+   "example": "Can I pay later?",
+   "exampleMeaning": "Tôi có thể trả sau được không?",
+   "emoji": "",
+   "ipa": "/ˈleɪtə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "again",
+   "meaning": "lại, lần nữa, nữa",
+   "example": "to be well (oneself) again",
+   "exampleMeaning": "Khoẻ lại, bình phục",
+   "emoji": "",
+   "ipa": "/ə.ˈɡɛn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sheep",
+   "meaning": "con cừu",
+   "example": "The sheep was sacrificed.",
+   "exampleMeaning": "Con cừu đã bị hiến tế.",
+   "emoji": "",
+   "ipa": "/ʃiːp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bedroom",
+   "meaning": "phòng ngủ",
+   "example": "My bedroom is quiet and comfortable.",
+   "exampleMeaning": "Phòng ngủ của tôi yên tĩnh và thoải mái.",
+   "emoji": "",
+   "ipa": "/ˈbed.rʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "CD",
+   "meaning": "đựa compact",
+   "example": "It's my CD, isn't it?",
+   "exampleMeaning": "Đó là cái CD của tôi phải không?",
+   "emoji": "",
+   "ipa": "/ˌsiˈdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "party",
+   "meaning": "tiệc, buổi liên hoan",
+   "example": "to be a party to something",
+   "exampleMeaning": "Thằng cha, lão, anh chàng, gã, con bé, mụ...",
+   "emoji": "",
+   "ipa": "/ˈpɑrti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tea",
+   "meaning": "chè, trà",
+   "example": "Time for tea!",
+   "exampleMeaning": "Thời gian uống trà!",
+   "emoji": "",
+   "ipa": "/tiː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "focus",
+   "meaning": "tập trung",
+   "example": "Tom tried to focus on the task at hand.",
+   "exampleMeaning": "Tom phải tập trung và việc hiện tại phải làm.",
+   "emoji": "",
+   "ipa": "/ˈfoʊkəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "discuss",
+   "meaning": "thảo luận, bàn cãi",
+   "example": "Do we need to discuss it?",
+   "exampleMeaning": "Chúng ta có cần thảo luận về điều đó không?",
+   "emoji": "",
+   "ipa": "/dɪˈskəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bridge",
+   "meaning": "cầu",
+   "example": "That bridge isn't long.",
+   "exampleMeaning": "Cây cầu này không dài lắm.",
+   "emoji": "",
+   "ipa": "/ˈbrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "Tuesday",
+   "meaning": "Ngày thứ ba (trong tuần)",
+   "example": "Next Tuesday is my birthday, and I'm having a birthday party.",
+   "exampleMeaning": "Thứ ba tới là sinh nhật của tôi và tôi sẽ tổ chức một buổi tiệc sinh nhật.",
+   "emoji": "",
+   "ipa": "/ˈtjuzˌdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'll",
+    "see",
+    "you",
+    "later"
+   ],
+   "reading": "",
+   "meaning": "Hẹn gặp lại bạn nhé."
+  },
+  {
+   "tokens": [
+    "Please",
+    "try",
+    "again",
+    "later"
+   ],
+   "reading": "",
+   "meaning": "Vui lòng thử lại sau."
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "watch",
+    "television"
+   ],
+   "reading": "",
+   "meaning": "Bạn có xem TV không?"
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "watch",
+    "TV"
+   ],
+   "reading": "",
+   "meaning": "Bạn có xem TV không?"
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "have",
+    "a",
+    "cat"
+   ],
+   "reading": "",
+   "meaning": "Bạn có một con mèo không?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,340 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "问",
+   "meaning": "hỏi",
+   "example": "宇宙毫无疑问是无限的。",
+   "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "告诉",
+   "meaning": "nhắn",
+   "example": "告诉她我在做晚饭。",
+   "exampleMeaning": "Bảo cô ấy tôi đang nấu cơm tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gàosù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出来",
+   "meaning": "ra",
+   "example": "这台机器是由我国制造出来的。",
+   "exampleMeaning": "Cái máy này do nước ta chế tạo ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地方",
+   "meaning": "chỗ",
+   "example": "這裡是爸爸工作的地方。",
+   "exampleMeaning": "Đây là nơi làm việc của bố tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìfang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "最后",
+   "meaning": "cuối cùng",
+   "example": "我正好赶上了最后一班火车。",
+   "exampleMeaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuìhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "老",
+   "meaning": "con, lão, già",
+   "example": "那个老人非常 亲切。",
+   "exampleMeaning": "Ông già đó rất nhiệt tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "岁",
+   "meaning": "tuổi",
+   "example": "Muiriel现在20岁了。",
+   "exampleMeaning": "Bây giờ Muiriel được 20 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行",
+   "meaning": "làm",
+   "example": "你忙，我自己干也行。",
+   "exampleMeaning": "Anh bận, tôi tự mình làm lấy cũng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "号",
+   "meaning": "hiệu",
+   "example": "我的房间号是多少？",
+   "exampleMeaning": "Số phòng của tôi là số nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "放",
+   "meaning": "thêm",
+   "example": "我一个人能行，你放心就是了。",
+   "exampleMeaning": "Tớ một mình được mà, cậu cứ yên tâm đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "朋友",
+   "meaning": "bạn",
+   "example": "這位朋友沒有出席。",
+   "exampleMeaning": "Bạn này không có mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "péngyou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "住",
+   "meaning": "ở, sống ở, ngụ",
+   "example": "他已經住在這裡一個星期了。",
+   "exampleMeaning": "Anh ấy đã ở đây được một tuần rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "拿",
+   "meaning": "cầm, lấy, đem",
+   "example": "他一拿了信就去了紐約。",
+   "exampleMeaning": "Anh ấy đã đến New York ngay khi nhận được lá thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ná",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "高",
+   "meaning": "cao",
+   "example": "这个班里没有人像Bill一样高。",
+   "exampleMeaning": "Trong lớp này không có người cao như Bill.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "正",
+   "meaning": "thích đáng, thích hợp, đúng đắn",
+   "example": "我正在跟谁讲话？",
+   "exampleMeaning": "Tôi đang nói chuyện với ai đây?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "先",
+   "meaning": "trước",
+   "example": "这个国家的军事力量很先进。",
+   "exampleMeaning": "Lực lượng quân sự nước này rất hiện đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "得到",
+   "meaning": "có được, kiếm được, đạt được",
+   "example": "得到一次学习的机会",
+   "exampleMeaning": "Được cơ hội học tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dédào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "那些",
+   "meaning": "những...ấy",
+   "example": "奶奶爱把那些事儿讲给孩子们听。",
+   "exampleMeaning": "Bà nội hay kể những chuyện ấy cho lũ trẻ nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàxiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "准备",
+   "meaning": "chuẩn bị",
+   "example": "准备一个空箱子放书。",
+   "exampleMeaning": "Chuẩn bị một chiếc thùng không để đựng sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔnbèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水",
+   "meaning": "nước",
+   "example": "请你给我一杯水。",
+   "exampleMeaning": "Làm ơn cho tôi một cốc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "把",
+    "那",
+    "两",
+    "本",
+    "书",
+    "拿出",
+    "来"
+   ],
+   "reading": "bǎ nà liǎng běn shū náchū lái",
+   "meaning": "Lấy hai quyển sách ấy ra!"
+  },
+  {
+   "tokens": [
+    "我",
+    "有",
+    "个",
+    "朋友",
+    "住",
+    "在",
+    "札幌"
+   ],
+   "reading": "wǒ yǒu gè péngyou zhù zài zháhuǎng",
+   "meaning": "Tôi có một người bạn sống ở Sapporo."
+  },
+  {
+   "tokens": [
+    "我",
+    "一个人",
+    "能",
+    "行",
+    "你",
+    "放心",
+    "就是",
+    "了"
+   ],
+   "reading": "wǒ yīgèrén néng xíng nǐ fàngxīn jiùshì le",
+   "meaning": "Tớ một mình được mà, cậu cứ yên tâm đi."
+  },
+  {
+   "tokens": [
+    "大家",
+    "干",
+    "得",
+    "正",
+    "起劲",
+    "你",
+    "千万",
+    "不",
+    "能",
+    "泼冷水"
+   ],
+   "reading": "dàjiā gàn de zhèng qǐjìn nǐ qiānwàn bù néng pōlěngshuǐ",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  },
+  {
+   "tokens": [
+    "我",
+    "正好",
+    "赶上",
+    "了",
+    "最",
+    "后",
+    "一",
+    "班",
+    "火车"
+   ],
+   "reading": "wǒ zhènghǎo gǎnshàng le zuì hòu yī bān huǒchē",
+   "meaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng."
+  }
+ ],
+ "issues": []
+}

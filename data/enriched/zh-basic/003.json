@@ -1,0 +1,337 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "吧",
+   "meaning": "nhé, được rồi, nào",
+   "example": "一起來吧。",
+   "exampleMeaning": "Cùng nhau tới nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "点",
+   "meaning": "chấm nhỏ, điểm",
+   "example": "今天有点冷。",
+   "exampleMeaning": "Hôm nay trời hơi lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "过",
+   "meaning": "đi qua, vượt, gạch ngang",
+   "example": "你看过那部电影吗？",
+   "exampleMeaning": "Anh đã xem phim ấy chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "没",
+   "meaning": "ngập",
+   "example": "这是没办法的。",
+   "exampleMeaning": "Vụ này hết cách rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大",
+   "meaning": "to, lớn",
+   "example": "停止大声说话。",
+   "exampleMeaning": "Cấm nói lớn tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "从",
+   "meaning": "từ",
+   "example": "你是从哪个国家来的？",
+   "exampleMeaning": "Bạn đến từ nước nào vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下",
+   "meaning": "xuống",
+   "example": "好疼! 停下!",
+   "exampleMeaning": "Đau quá! Dừng lại!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xià",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中",
+   "meaning": "trúng",
+   "example": "飞机消失在丛林中。",
+   "exampleMeaning": "Máy bay biến mất vào trong rừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "里",
+   "meaning": "trong",
+   "example": "我哪里说过那样的话？",
+   "exampleMeaning": "Tôi có nói thế đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真",
+   "meaning": "thực, thật, thực ra",
+   "example": "可惜这是真的。",
+   "exampleMeaning": "Tiếc rằng cái đó là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "现在",
+   "meaning": "hiện tại, hiện nay, bây giờ",
+   "example": "现在太晚了。",
+   "exampleMeaning": "Bây giờ trễ quá rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànzài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "年",
+   "meaning": "năm",
+   "example": "他童年時去過巴黎三次。",
+   "exampleMeaning": "Hồi nhỏ, anh ta đã đi Paris ba lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nián",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用",
+   "meaning": "sử dụng, áp dụng, lợi dụng",
+   "example": "这本书会对我们有很大用处。",
+   "exampleMeaning": "Quyển sách này rất hứu ích cho chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "多",
+   "meaning": "hơn",
+   "example": "你有多少部車？",
+   "exampleMeaning": "Ngài có mấy chiếc xe ô tô?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duō",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "两",
+   "meaning": "hai, một ít, một vài",
+   "example": "我在两年前吃过一次。",
+   "exampleMeaning": "Tôi đã ăn một lần vào khoảng hai năm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "等",
+   "meaning": "những, hạng, loại",
+   "example": "他贏了三等奬。",
+   "exampleMeaning": "Anh ấy đã giành được giải ba.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "děng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "吗",
+   "meaning": "ấy à",
+   "example": "你想我吗？",
+   "exampleMeaning": "Bạn có nhớ tôi không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "má",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "天",
+   "meaning": "ngày",
+   "example": "天气真好 ！",
+   "exampleMeaning": "Thời tiết thật đẹp!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出",
+   "meaning": "ra, đi ra, đi ra ngoài",
+   "example": "這位朋友沒有出席。",
+   "exampleMeaning": "Bạn này không có mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "太",
+   "meaning": "cao nhất, lớn nhất, có ý nghĩa nhất",
+   "example": "他太多事了。",
+   "exampleMeaning": "Anh ấy lắm chuyện quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "现在",
+    "已经",
+    "九",
+    "点",
+    "多",
+    "了"
+   ],
+   "reading": "xiànzài yǐjīng jiǔ diǎn duō le",
+   "meaning": "Bây giờ đã hơn chín giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "进",
+    "大学",
+    "已经",
+    "两",
+    "年",
+    "半",
+    "了"
+   ],
+   "reading": "wǒ jìn dàxué yǐjīng liǎng nián bàn le",
+   "meaning": "Tôi vào đại học đã được hai năm rưỡi."
+  },
+  {
+   "tokens": [
+    "今天",
+    "下",
+    "这么",
+    "大",
+    "的",
+    "雨",
+    "土",
+    "松",
+    "着呢"
+   ],
+   "reading": "jīntiān xià zhème dà de yǔ tǔ sōng zhene",
+   "meaning": "Hôm nay mưa to thế này thì đất bở lắm đấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "从",
+    "昨天",
+    "起",
+    "没有",
+    "吃",
+    "任何",
+    "东西"
+   ],
+   "reading": "wǒ cóng zuótiān qǐ méiyǒu chī rènhé dōngxi",
+   "meaning": "Từ hôm qua tới giờ tôi chưa ăn bất kì thứ gì."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  }
+ ],
+ "issues": []
+}

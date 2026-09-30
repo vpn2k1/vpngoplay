@@ -1,0 +1,328 @@
+{
+ "lesson": 69,
+ "draft": true,
+ "words": [
+  {
+   "term": "お辞儀",
+   "meaning": "cái cung",
+   "example": "「お辞儀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お辞儀”: cái cung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温める",
+   "meaning": "nóng: có nhiệt độ cao",
+   "example": "「温める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “温める”: nóng: có nhiệt độ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一帯",
+   "meaning": "miền, tầng lớp (quyển khí... ), sự căng ra",
+   "example": "「一帯」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一帯”: miền, tầng lớp (quyển khí... ), sự căng ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恐れる",
+   "meaning": "hoảng, lo, lo ngại",
+   "example": "恐れるな！",
+   "exampleMeaning": "Đừng sợ!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "諦める",
+   "meaning": "khai báo",
+   "example": "「諦める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “諦める”: khai báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いらっしゃい",
+   "meaning": "hay, dễ chịu, thú vị",
+   "example": "マイクさんいらっしゃいますか。",
+   "exampleMeaning": "Làm ơn cho tôi nói chuyện với Mike.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "歌手",
+   "meaning": "người hát, ca sĩ",
+   "example": "好きな歌手は誰ですか？",
+   "exampleMeaning": "Ca sĩ bạn thích là ai?",
+   "emoji": "🧑‍🎤",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "読み",
+   "meaning": "sự đọc, sự xem (sách, báo... )",
+   "example": "彼女は手紙を読み終えた。",
+   "exampleMeaning": "Cô ấy đã đọc xong bức thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "グランド",
+   "meaning": "tuyến",
+   "example": "グランド・キャニオンはアメリカ有数の人気スポットだ。",
+   "exampleMeaning": "Grand Canyon là một điểm du lịch nổi tiếng hàng đầu của Mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出身",
+   "meaning": "từ",
+   "example": "Wang氏は中国出身だ。",
+   "exampleMeaning": "Ngài Wang đến từ Trung Quốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "稼ぐ",
+   "meaning": "kiếm được (tiền... )",
+   "example": "彼は使い切れない程のお金を稼ぐ。",
+   "exampleMeaning": "Anh ta kiếm được nhiều tiền hơn mức có thể tiêu hết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "濃い",
+   "meaning": "dày đặc, to, mập",
+   "example": "濃い霧のために飛行機は欠航した。",
+   "exampleMeaning": "Chuyến bay đó đã bị hủy vì sương mù dày đặc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "棒",
+   "meaning": "sào",
+   "example": "犬も歩けば棒に当たる。",
+   "exampleMeaning": "Ai giàu ba họ, ai khó ba đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "依然",
+   "meaning": "im, yên, tĩnh mịch",
+   "example": "その殺人事件は依然として謎である。",
+   "exampleMeaning": "Vụ án giết người đó cho đến bây giờ vẫn còn là một ẩn số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "先行",
+   "meaning": "trước",
+   "example": "「先行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先行”: trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寄せる",
+   "meaning": "tập hợp lại",
+   "example": "「寄せる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “寄せる”: tập hợp lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "議会",
+   "meaning": "nghị viên (ở các nước khác nước Anh)",
+   "example": "それは厚生省中央児童福祉審議会特別推薦図書である。",
+   "exampleMeaning": "Đó là một cuốn sách được Hội đồng Trung ương về Phúc lợi Trẻ em thuộc bộ Y tế và Phúc lợi Nhật Bản đặc biệt tuyển chọn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "数",
+   "meaning": "chữ số, hình dáng, hình",
+   "example": "私の父は口数が少ない。",
+   "exampleMeaning": "Bố tôi là một người ít nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "経由",
+   "meaning": "*thành ngữ way",
+   "example": "「経由」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “経由”: *thành ngữ way.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "詳しい",
+   "meaning": "cặn kẽ, tỉ mỉ, nhiều chi tiết",
+   "example": "「詳しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “詳しい”: cặn kẽ, tỉ mỉ, nhiều chi tiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "好きな",
+    "歌手",
+    "は",
+    "誰",
+    "ですか"
+   ],
+   "reading": "すきなかしゅはだれですか",
+   "meaning": "Ca sĩ bạn thích là ai?"
+  },
+  {
+   "tokens": [
+    "犬",
+    "も",
+    "歩けば",
+    "棒",
+    "に",
+    "当たる"
+   ],
+   "reading": "いぬもあるけばぼうにあたる",
+   "meaning": "Ai giàu ba họ, ai khó ba đời."
+  },
+  {
+   "tokens": [
+    "私の",
+    "父",
+    "は",
+    "口数が少ない"
+   ],
+   "reading": "わたしのちちはくちかずがすくない",
+   "meaning": "Bố tôi là một người ít nói."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "手紙",
+    "を",
+    "読み",
+    "終えた"
+   ],
+   "reading": "かのじょはてがみをよみおえた",
+   "meaning": "Cô ấy đã đọc xong bức thư."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "どこ",
+    "の",
+    "国",
+    "の",
+    "出身",
+    "ですか"
+   ],
+   "reading": "あなたはどこのくにのしゅっしんですか",
+   "meaning": "Bạn đến từ nước nào vậy?"
+  }
+ ],
+ "issues": []
+}

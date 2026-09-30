@@ -1,0 +1,322 @@
+{
+ "lesson": 63,
+ "draft": true,
+ "words": [
+  {
+   "term": "もちろん",
+   "meaning": "đương nhiên, tất nhiên, cố nhiên",
+   "example": "もちろん、一所懸命頑張れば何でも出来るよ！",
+   "exampleMeaning": "Đương nhiên là nếu bạn cố gắng hết mình thì cái gì cũng làm được thôi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "包む",
+   "meaning": "bao, bao bọc, bao phủ",
+   "example": "「包む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “包む”: bao, bao bọc, bao phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日",
+   "meaning": "ngày",
+   "example": "誕生日いつ？",
+   "exampleMeaning": "Sinh nhật bạn là bao giờ?",
+   "emoji": "☀",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一度",
+   "meaning": "một lần",
+   "example": "ほんの一度会っただけ。",
+   "exampleMeaning": "Tôi chỉ gặp anh ta có một lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "将来",
+   "meaning": "tương lai",
+   "example": "私は将来父の仕事の後を継がなければならないだろう。",
+   "exampleMeaning": "Tôi sẽ phải tiếp quản công việc của bố trong tương lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "サンドイッチ",
+   "meaning": "bánh xăng-đuých",
+   "example": "ランチはサンドイッチだったよ。",
+   "exampleMeaning": "Tôi đã ăn trưa với bánh sandwich đấy.",
+   "emoji": "🥪",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新聞社",
+   "meaning": "newspaper company (EN)",
+   "example": "「新聞社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新聞社”: newspaper company (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漬ける",
+   "meaning": "ngâm, nhúng",
+   "example": "「漬ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “漬ける”: ngâm, nhúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "おる",
+   "meaning": "có, ở (khiêm nhường)",
+   "example": "「おる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おる”: có, ở (khiêm nhường).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確か",
+   "meaning": "chắc chắn, rắn chắc, có thể tin cậy được",
+   "example": "彼は確かに頭が切れる。",
+   "exampleMeaning": "Tom quả thực là một người nhạy bén.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "空港",
+   "meaning": "sân bay, phi trường",
+   "example": "彼は急いで空港にいった。",
+   "exampleMeaning": "Anh ta gấp rút đến phi trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "祈る",
+   "meaning": "cầu, cầu nguyện",
+   "example": "「祈る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “祈る”: cầu, cầu nguyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "植える",
+   "meaning": "trồng",
+   "example": "「植える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “植える”: trồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叱る",
+   "meaning": "rầy la, trách mắng, mắng mỏ",
+   "example": "「叱る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “叱る”: rầy la, trách mắng, mắng mỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "虫",
+   "meaning": "sâu bọ, côn trùng",
+   "example": "ここに虫が蠢いている。",
+   "exampleMeaning": "Có côn trùng đang ngọ nguậy ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "関係",
+   "meaning": "sự liên lạc, mối quan hệ, mối tương quan",
+   "example": "あなたには関係ない。",
+   "exampleMeaning": "Không phải việc của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "残る",
+   "meaning": "còn lại",
+   "example": "放課後、クラブ活動に残る子供は多い。",
+   "exampleMeaning": "Có nhiều đứa trẻ ở lại trường để tham gia các hoạt động ngoại khóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "この頃",
+   "meaning": "gần đây, mới đây",
+   "example": "この頃、親たちは子供たちを以前よりもっと大人として扱い、子供には自分で人生上の選択をする自由が今まで以上に与えられている。",
+   "exampleMeaning": "Dạo gần đây, các bậc cha mẹ đã và đang đối xử với con mình như người lớn hơn trước kia, và trao cho con nhiều sự tự do hơn trong việc tự mình đưa ra những lựa chọn trong cuộc đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鳴る",
+   "meaning": "kêu, vang tiếng, kêu vang",
+   "example": "電話が鳴る音が聞こえた。",
+   "exampleMeaning": "Tôi đã nghe thấy tiếng chuông điện thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "市",
+   "meaning": "thành phố, thành thị, đô thị",
+   "example": "市長は市政を司る。",
+   "exampleMeaning": "Thị trưởng là người phụ trách chính sách của thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今日",
+    "は",
+    "少し",
+    "寒い"
+   ],
+   "reading": "きょうはすこしさむい",
+   "meaning": "Hôm nay trời hơi lạnh."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "明日",
+    "暇",
+    "でしょう"
+   ],
+   "reading": "かれはあしたひまでしょう",
+   "meaning": "Chắc mai anh ấy rảnh."
+  },
+  {
+   "tokens": [
+    "今日",
+    "一人で",
+    "来た",
+    "の"
+   ],
+   "reading": "きょうひとりできたの",
+   "meaning": "Hôm nay bạn đến một mình à?"
+  },
+  {
+   "tokens": [
+    "明日",
+    "は",
+    "そこ",
+    "に",
+    "います"
+   ],
+   "reading": "あしたはそこにいます",
+   "meaning": "Mai tôi sẽ ở đó."
+  },
+  {
+   "tokens": [
+    "今日",
+    "は",
+    "来客",
+    "が",
+    "あります"
+   ],
+   "reading": "きょうはらいきゃくがあります",
+   "meaning": "Hôm nay chúng ta có khách."
+  }
+ ],
+ "issues": []
+}

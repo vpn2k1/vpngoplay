@@ -73,8 +73,8 @@ export function VoiceSettings({ langs }: { langs: Lang[] }) {
         </span>
       </p>
 
-      <div className="flex items-center gap-4">
-        <label htmlFor="rate" className="w-36 shrink-0 font-bold">
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-2 sm:flex-nowrap sm:gap-4">
+        <label htmlFor="rate" className="w-full shrink-0 font-bold sm:w-36">
           Tốc độ đọc
         </label>
         <Snail className="size-5 shrink-0 text-slate-400" />
@@ -86,7 +86,7 @@ export function VoiceSettings({ langs }: { langs: Lang[] }) {
           step={0.05}
           value={settings.rate}
           onChange={(e) => updateSettings({ rate: Number(e.target.value) })}
-          className="flex-1 accent-indigo-500"
+          className="min-w-0 flex-1 accent-indigo-500"
         />
         <Rabbit className="size-5 shrink-0 text-slate-400" />
         <span className="w-12 text-right font-mono text-sm tabular-nums">{settings.rate.toFixed(2)}×</span>

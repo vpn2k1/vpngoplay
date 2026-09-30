@@ -1,0 +1,332 @@
+{
+ "lesson": 129,
+ "draft": true,
+ "words": [
+  {
+   "term": "适度",
+   "meaning": "vừa phải",
+   "example": "繁简适度。",
+   "exampleMeaning": "Rậm thưa vừa phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "长辈",
+   "meaning": "trưởng bối",
+   "example": "我们来学“长辈”这个词。",
+   "exampleMeaning": "Cùng học từ “长辈”: trưởng bối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎngbèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "容许",
+   "meaning": "có lẽ",
+   "example": "原则问题决不容许让步。",
+   "exampleMeaning": "Những vấn đề nguyên tắc quyết không được nhượng bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngxǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不由自主",
+   "meaning": "không do mình làm chủ",
+   "example": "我一点权都没有, 什么事都不由自主。",
+   "exampleMeaning": "Tôi không có chút quyền hành gì cả, việc gì cũng không thể tự quyết định",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùyóuzìzhǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鲜活",
+   "meaning": "sống hoặc tươi",
+   "example": "我们来学“鲜活”这个词。",
+   "exampleMeaning": "Cùng học từ “鲜活”: sống hoặc tươi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānhuó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "得力",
+   "meaning": "đắc lực",
+   "example": "得力于平时的勤学苦练。",
+   "exampleMeaning": "Hiệu quả từ việc học hành chăm chỉ hàng ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "délì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诽谤",
+   "meaning": "phỉ báng",
+   "example": "恶意诽谤",
+   "exampleMeaning": "Cố ý phỉ báng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fěibàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "先例",
+   "meaning": "tiền lệ",
+   "example": "史无先例。",
+   "exampleMeaning": "Chưa từng có tiền lệ trong lịch sử",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直达",
+   "meaning": "thẳng",
+   "example": "从北京坐火车直达广州。",
+   "exampleMeaning": "Từ Bắc Kinh đi xe lửa đến thẳng Quảng Châu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhídá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "招待会",
+   "meaning": "liên hoan, tiệc chiêu đãi, sự nhận",
+   "example": "我们来学“招待会”这个词。",
+   "exampleMeaning": "Cùng học từ “招待会”: liên hoan, tiệc chiêu đãi, sự nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāodàihuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "譬如",
+   "meaning": "ví như",
+   "example": "我们来学“譬如”这个词。",
+   "exampleMeaning": "Cùng học từ “譬如”: ví như.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pìrú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吃亏",
+   "meaning": "bất lợi",
+   "example": "决不能让群众吃亏。",
+   "exampleMeaning": "Quyết không thể để cho quần chúng chịu thiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chīkuī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "论证",
+   "meaning": "chứng minh",
+   "example": "论证会。",
+   "exampleMeaning": "Buổi trình bày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùnzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心胸",
+   "meaning": "lòng dạ",
+   "example": "他有心胸，有气魄。",
+   "exampleMeaning": "Anh ấy có hoài bão, có khí phách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxiōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "输血",
+   "meaning": "truyền máu",
+   "example": "我们来学“输血”这个词。",
+   "exampleMeaning": "Cùng học từ “输血”: truyền máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūxuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "悼念",
+   "meaning": "thương tiếc",
+   "example": "沉痛悼念",
+   "exampleMeaning": "Vô cùng thương tiếc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàoniàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "焚烧",
+   "meaning": "thiêu huỷ",
+   "example": "焚烧毒品",
+   "exampleMeaning": "Thiêu huỷ văn hoá phẩm độc hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fénshāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "察看",
+   "meaning": "quan sát, theo dõi",
+   "example": "察看风向。",
+   "exampleMeaning": "Quan sát hướng gió.",
+   "emoji": "⌚",
+   "ipa": "",
+   "pinyin": "chákàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纽带",
+   "meaning": "mối quan hệ",
+   "example": "批评和自我批评是团结的纽带，是进步的保证。",
+   "exampleMeaning": "Mối quan hệ giữa phê bình và tự phê bình là đảm bảo cho sự tiến bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niǔdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "竭尽全力",
+   "meaning": "dốc hết sức",
+   "example": "我们来学“竭尽全力”这个词。",
+   "exampleMeaning": "Cùng học từ “竭尽全力”: dốc hết sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéjìnquánlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "我们",
+    "想",
+    "学",
+    "一些",
+    "日文",
+    "歌曲"
+   ],
+   "reading": "wǒmen xiǎng xué yīxiē rìwén gēqǔ",
+   "meaning": "Chúng tôi muốn học những bài hát tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "我",
+    "看见",
+    "了",
+    "马",
+    "库",
+    "斯",
+    "的",
+    "房子"
+   ],
+   "reading": "wǒ kànjiàn le mǎ kù sī de fángzi",
+   "meaning": "Tôi đã thấy nhà của Marcus."
+  }
+ ],
+ "issues": []
+}

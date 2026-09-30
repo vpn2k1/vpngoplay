@@ -1,0 +1,326 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "冲动",
+   "meaning": "quá xúc động",
+   "example": "不要冲动，应当冷静考虑问题。",
+   "exampleMeaning": "Đừng nên quá xúc động, phải bình tĩnh xem xét vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "如同",
+   "meaning": "dường như",
+   "example": "他如同哑巴一样老不吭声。",
+   "exampleMeaning": "Anh ta một câu cũng không nói như người câm vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rútóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提起",
+   "meaning": "đưa ra",
+   "example": "提起此人，没有一个不知道的。",
+   "exampleMeaning": "Nói đến người này, không có người nào là không biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公正",
+   "meaning": "công bằng",
+   "example": "公正的评价",
+   "exampleMeaning": "Đánh giá công bằng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冻",
+   "meaning": "đông",
+   "example": "今天衣服穿少了，真冻得慌。",
+   "exampleMeaning": "Hôm nay mặc ít quần áo, rét chết đi được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辞职",
+   "meaning": "từ chức",
+   "example": "要求辞职",
+   "exampleMeaning": "Yêu cầu từ chức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cízhí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "遵守",
+   "meaning": "tuân thủ",
+   "example": "遵守交通规则。",
+   "exampleMeaning": "Tuân thủ luật lệ giao thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zūnshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暖",
+   "meaning": "ấm",
+   "example": "天暖了，不用生炉子了。",
+   "exampleMeaning": "Trời ấm áp, không cần phải nhóm lò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nuǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "建造",
+   "meaning": "xây dựng",
+   "example": "建造新厂房",
+   "exampleMeaning": "Xây nhà xưởng mới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "戒",
+   "meaning": "cai, giới (Phật giáo), nhẫn",
+   "example": "钻戒(镶钻石的戒指)。",
+   "exampleMeaning": "Nhẫn kim cương; cà rá hột xoàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "思维",
+   "meaning": "tư duy",
+   "example": "再三思维。",
+   "exampleMeaning": "Suy đi nghĩ lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "规划",
+   "meaning": "kế hoạch",
+   "example": "兴修水利问题，应当全面规划。",
+   "exampleMeaning": "Vấn đề xây dựng thuỷ lợi, nên lập quy hoạch tổng thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不许",
+   "meaning": "không thể (dùng trong câu phản vấn), không được, không được phép",
+   "example": "何必非等我，你就不许自己去吗？",
+   "exampleMeaning": "Sao cứ phải đợi tôi, anh không thể tự đi được sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饼",
+   "meaning": "bánh",
+   "example": "月饼。",
+   "exampleMeaning": "Bánh Trung thu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不止",
+   "meaning": "không thôi",
+   "example": "他恐怕不止六十岁了",
+   "exampleMeaning": "Chắc ông ta ngoài 60 rồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地震",
+   "meaning": "địa chấn",
+   "example": "我们来学“地震”这个词。",
+   "exampleMeaning": "Cùng học từ “地震”: địa chấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìzhèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "震惊",
+   "meaning": "kinh hãi",
+   "example": "震惊世界",
+   "exampleMeaning": "Làm cả thế giới kinh ngạc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhènjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赔偿",
+   "meaning": "bồi thường",
+   "example": "赔偿照价。",
+   "exampleMeaning": "Bồi thường theo giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "péicháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "返回",
+   "meaning": "về",
+   "example": "我们来学“返回”这个词。",
+   "exampleMeaning": "Cùng học từ “返回”: về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnhuí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代理",
+   "meaning": "quyền",
+   "example": "代理厂长",
+   "exampleMeaning": "Quyền xưởng trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàilǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "怎么",
+    "说",
+    "他",
+    "都",
+    "不",
+    "肯",
+    "去"
+   ],
+   "reading": "zěnme shuō tā dōu bù kěn qù",
+   "meaning": "Nói thế nào anh ấy cũng không chịu đi."
+  },
+  {
+   "tokens": [
+    "我",
+    "太阳穴",
+    "处",
+    "疼",
+    "极了"
+   ],
+   "reading": "wǒ tàiyángxué chǔ téng jíle",
+   "meaning": "Tôi nhức thái dương quá."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "他",
+    "曾",
+    "在",
+    "河内",
+    "工作",
+    "过"
+   ],
+   "reading": "tā céng zài hénèi gōngzuò guo",
+   "meaning": "Anh ấy từng làm việc ở Hà Nội."
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  }
+ ],
+ "issues": []
+}

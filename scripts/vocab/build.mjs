@@ -13,8 +13,30 @@
 // reported (regenerate them with `npm run vocab:enrich -- --course <id> --redo <n>`).
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
+import { toRomaji } from 'wanakana'
 import { LESSON_SIZE } from './lesson-size.mjs'
-import { validateLesson } from './validate.mjs'
+import { cleanPinyin, validateLesson } from './validate.mjs'
+
+const KANA = /^[\p{Script=Hiragana}\p{Script=Katakana}ー]+$/u
+
+/**
+ * Readings as the games expect them. The JLPT list has "さんぽ (する) · sanpo (suru)", "～だて · ～date"
+ * and a few broken ones ("頂く · 頂ku"), which are rebuilt from the word's kana; pinyin is cleaned
+ * with cleanPinyin ("nu:èdài" → "nüèdài").
+ */
+function cleanReading(lang, reading, word) {
+  if (lang === 'zh') return cleanPinyin(reading)
+  if (lang !== 'ja') return reading
+  const tidy = (reading ?? '')
+    .replace(/\s*[(（][^)）]*[)）]/g, '')
+    .replace(/[～〜]/g, '')
+    .trim()
+  const [kana, romaji] = tidy.split('·').map((p) => p.trim())
+  if (KANA.test(word.term)) return /^[a-z' -]+$/i.test(tidy) ? tidy : toRomaji(word.term)
+  if (KANA.test(kana ?? '') && /^[a-zāīūēō' -]+$/i.test(romaji ?? '')) return `${kana} · ${romaji}`
+  const k = (word.kana ?? '').replace(/[～〜]/g, '')
+  return KANA.test(k) ? `${k} · ${toRomaji(k)}` : tidy
+}
 
 const ROOT = join(import.meta.dirname, '..', '..')
 const COURSES = join(ROOT, 'data', 'courses')
@@ -68,7 +90,7 @@ for (const file of readdirSync(COURSES)
     const words = data.words.map((w, i) => ({
       id: `w${pad(i + 1, 2)}`,
       term: src[i].term,
-      reading: lang === 'en' ? w.ipa : lang === 'zh' ? w.pinyin : src[i].reading,
+      reading: lang === 'en' ? w.ipa : cleanReading(lang, lang === 'zh' ? w.pinyin : src[i].reading, src[i]),
       meaning: w.meaning,
       ...(w.emoji ? { emoji: w.emoji } : {}),
       example: w.example,
@@ -85,6 +107,8 @@ for (const file of readdirSync(COURSES)
       lang,
       course: id,
       lesson: n,
+      // Drafted from open dictionaries (vocab:draft) rather than written by Claude (vocab:enrich)
+      ...(data.draft ? { draft: true } : {}),
       level: course.range,
       title: `${course.title} · Bài ${n}`,
       description:
@@ -95,7 +119,12 @@ for (const file of readdirSync(COURSES)
       words,
       sentences,
     })
-    lessons.push({ ...pending, preview: words.slice(0, 3).map((w) => w.term), ready: true })
+    lessons.push({
+      ...pending,
+      preview: words.slice(0, 3).map((w) => w.term),
+      ready: true,
+      ...(data.draft ? { draft: true } : {}),
+    })
     for (const w of words) meaningOf.set(w.term, w.meaning)
     // Unique ids across the course; srsKey schedules reviews in the lesson the word belongs to.
     allWords.push(...words.map((w) => ({ ...w, id: `${deckId}:${w.id}`, srsKey: `${deckId}:${w.id}` })))
@@ -128,7 +157,7 @@ for (const file of readdirSync(COURSES)
     join(OUT, `${id}.words.json`),
     source.map((w, i) => ({
       term: w.term,
-      reading: w.reading ?? '',
+      reading: cleanReading(lang, w.reading ?? '', w),
       ...(meaningOf.has(w.term) ? { meaning: meaningOf.get(w.term) } : { gloss: w.gloss || w.pos || '' }),
       level: w.level,
       lesson: Math.floor(i / LESSON_SIZE) + 1,

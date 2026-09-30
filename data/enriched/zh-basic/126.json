@@ -1,0 +1,332 @@
+{
+ "lesson": 126,
+ "draft": true,
+ "words": [
+  {
+   "term": "造型",
+   "meaning": "tạo dáng",
+   "example": "这些玩具造型简单，生动有趣。",
+   "exampleMeaning": "Những đồ chơi này tạo dáng đơn giản, rất sinh động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàoxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "引",
+   "meaning": "dẫn",
+   "example": "引 避(因避嫌而辞官)。",
+   "exampleMeaning": "Tránh đi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "降",
+   "meaning": "đầu hàng",
+   "example": "飞机降落在新山一机场。",
+   "exampleMeaning": "Máy bay xuống sân bay Tân Sơn Nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "禁止",
+   "meaning": "cấm",
+   "example": "此处禁止停车。",
+   "exampleMeaning": "Cấm đậu xe nơi đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "圆",
+   "meaning": "trọn vẹn",
+   "example": "这句话说得不圆。",
+   "exampleMeaning": "Câu nói này không trọn vẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "睡着",
+   "meaning": "ngủ",
+   "example": "他睡着的时候，一个高个子的男人钻空子偷走了他的手机。",
+   "exampleMeaning": "Lúc anh ấy ngủ say, một người đàn ông dáng cao cao đã thừa cơ lấy trộm chiếc điện thoại của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuìzháo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "度过",
+   "meaning": "trải qua",
+   "example": "他非常担忧自己会在医院度过圣诞节。",
+   "exampleMeaning": "Anh ấy đã rất lo lắng về việc sẽ phải dành thời gian Giáng Sinh ở bệnh viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dùguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地下",
+   "meaning": "dưới đất",
+   "example": "钢笔掉在地下。",
+   "exampleMeaning": "Cây bút mực bị rơi xuống đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冷静",
+   "meaning": "bình tĩnh",
+   "example": "夜深了，街上显得很冷静。",
+   "exampleMeaning": "Đêm đã khuya, đường phố rất yên tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "闪",
+   "meaning": "lánh",
+   "example": "山后闪出一条小路来。",
+   "exampleMeaning": "Một con đường nhỏ hiện ra sau núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "袋",
+   "meaning": "bao, túi, bị",
+   "example": "一袋儿洗衣粉。",
+   "exampleMeaning": "Một gói bột giặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "购物",
+   "meaning": "hàng đã mua",
+   "example": "我们来学“购物”这个词。",
+   "exampleMeaning": "Cùng học từ “购物”: hàng đã mua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòuwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勇敢",
+   "meaning": "dũng cảm",
+   "example": "你非常勇敢。",
+   "exampleMeaning": "Bạn rất dũng cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒnggǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "散",
+   "meaning": "rải rác, thưa thớt, lưa thưa",
+   "example": "瑪麗亞帶著她的狗散步去了。",
+   "exampleMeaning": "Maria dắt con chó của cô ấy đi đạo rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "依靠",
+   "meaning": "dựa vào",
+   "example": "每件事都要依靠群众。",
+   "exampleMeaning": "Mỗi việc đều phải dựa vào quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīkào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "弱",
+   "meaning": "kém, nhu nhược",
+   "example": "他年纪虽老，干活并不弱。",
+   "exampleMeaning": "Ông ấy tuy già nhưng làm việc không kém ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruò",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "购买",
+   "meaning": "mua",
+   "example": "购买年货",
+   "exampleMeaning": "Mua hàng tết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòumǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "战士",
+   "meaning": "chiến sĩ",
+   "example": "新入伍的战士",
+   "exampleMeaning": "Chiến sĩ mới nhập ngũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "针",
+   "meaning": "kim",
+   "example": "表上有时针、分针和秒针。",
+   "exampleMeaning": "Trên mặt đồng hồ có kim giờ, kim phút và kim giây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "装置",
+   "meaning": "thiết bị",
+   "example": "我在检查这里有没有激光警报装置。",
+   "exampleMeaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "非常",
+    "勇敢"
+   ],
+   "reading": "nǐ fēicháng yǒnggǎn",
+   "meaning": "Bạn rất dũng cảm."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "降落",
+    "在",
+    "新山",
+    "一",
+    "机场"
+   ],
+   "reading": "fēijī jiàngluò zài xīnshān yī jīchǎng",
+   "meaning": "Máy bay xuống sân bay Tân Sơn Nhất."
+  },
+  {
+   "tokens": [
+    "玛丽亚",
+    "带",
+    "着",
+    "她",
+    "的",
+    "狗",
+    "散步",
+    "去",
+    "了"
+   ],
+   "reading": "mǎlìyà dài zhe tā de gǒu sànbù qù le",
+   "meaning": "Maria dắt con chó của cô ấy đi đạo rồi."
+  },
+  {
+   "tokens": [
+    "每",
+    "件",
+    "事",
+    "都",
+    "要",
+    "依靠",
+    "群众"
+   ],
+   "reading": "měi jiàn shì dōu yào yīkào qúnzhòng",
+   "meaning": "Mỗi việc đều phải dựa vào quần chúng."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

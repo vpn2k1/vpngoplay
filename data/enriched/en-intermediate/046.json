@@ -1,0 +1,321 @@
+{
+ "lesson": 46,
+ "draft": true,
+ "words": [
+  {
+   "term": "stem",
+   "meaning": "tước cọng (lá thuốc lá)",
+   "example": "from stem to stern",
+   "exampleMeaning": "Từ đầu tàu đến cuối tàu; (bóng) từ đầu đến cuối",
+   "emoji": "",
+   "ipa": "/ˈstɛm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "drunk",
+   "meaning": "say rượu",
+   "example": "Do you think Tom is still drunk?",
+   "exampleMeaning": "Bạn có nghĩ là Tom vẫn say không?",
+   "emoji": "",
+   "ipa": "/ˈdrəŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "paradise",
+   "meaning": "thiên đường, nơi cực lạc",
+   "example": "The paradise was in my heart.",
+   "exampleMeaning": "Thiên đường đã ở trong tim tôi.",
+   "emoji": "",
+   "ipa": "/ˈpɛrəˌdaɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "devastating",
+   "meaning": "tàn phá, phá huỷ, phá phách",
+   "example": "Let's learn the word \"devastating\".",
+   "exampleMeaning": "Cùng học từ “devastating”: tàn phá, phá huỷ, phá phách.",
+   "emoji": "",
+   "ipa": "/ˈdɛvəˌsteɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "eliminate",
+   "meaning": "loại ra, loại trừ",
+   "example": "Let's learn the word \"eliminate\".",
+   "exampleMeaning": "Cùng học từ “eliminate”: loại ra, loại trừ.",
+   "emoji": "",
+   "ipa": "/ɪˈlɪməˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "identity card",
+   "meaning": "giấy chứng minh, chứng minh thư",
+   "example": "Let's learn the word \"identity card\".",
+   "exampleMeaning": "Cùng học từ “identity card”: giấy chứng minh, chứng minh thư.",
+   "emoji": "",
+   "ipa": "/aɪˈdɛntɪˌti ˈkɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "backpack",
+   "meaning": "cái ba lô đeo trên vai",
+   "example": "Whose backpack is this?",
+   "exampleMeaning": "Cái ba lô này là của ai vậy?",
+   "emoji": "🎒",
+   "ipa": "/ˈbækˌpæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pharmacy",
+   "meaning": "dược khoa",
+   "example": "Let's learn the word \"pharmacy\".",
+   "exampleMeaning": "Cùng học từ “pharmacy”: dược khoa.",
+   "emoji": "",
+   "ipa": "/ˈfɑrməsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sorrow",
+   "meaning": "buồn rầu, buồn phiền",
+   "example": "to sorrow at (over, for) a misfortune",
+   "exampleMeaning": "Buồn phiền về một điều bất hạnh",
+   "emoji": "",
+   "ipa": "/ˈsɑroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "theoretical",
+   "meaning": "lý thuyết",
+   "example": "Let's learn the word \"theoretical\".",
+   "exampleMeaning": "Cùng học từ “theoretical”: lý thuyết.",
+   "emoji": "",
+   "ipa": "/ˌθiɜrˈɛtɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nearby",
+   "meaning": "gần, không xa",
+   "example": "Can I have a coffee shop nearby?",
+   "exampleMeaning": "Tôi có thể tìm thấy một quán cà phê nào gần đây không?",
+   "emoji": "",
+   "ipa": "/ˈnɪrˈbaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "progress",
+   "meaning": "tiến hành",
+   "example": "to make much progress in one's studies",
+   "exampleMeaning": "Tiến bộ nhiều trong học tập",
+   "emoji": "",
+   "ipa": "/ˈprɑˌɡrɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "departure",
+   "meaning": "xuất phát",
+   "example": "Have you arranged things for our departure?",
+   "exampleMeaning": "Bạn đã sắp xếp mọi thứ để chúng ta xuất phát chưa?",
+   "emoji": "",
+   "ipa": "/dɪˈpɑrtʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "babysit",
+   "meaning": "giữ trẻ hộ (trong khi bố mẹ đi vắng)",
+   "example": "Let's learn the word \"babysit\".",
+   "exampleMeaning": "Cùng học từ “babysit”: giữ trẻ hộ (trong khi bố mẹ đi vắng).",
+   "emoji": "",
+   "ipa": "/ˈbeɪbisɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nephew",
+   "meaning": "cháu trai (con của anh, chị, em)",
+   "example": "Let's learn the word \"nephew\".",
+   "exampleMeaning": "Cùng học từ “nephew”: cháu trai (con của anh, chị, em).",
+   "emoji": "",
+   "ipa": "/ˈnɛfju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "district",
+   "meaning": "vùng, miền",
+   "example": "the lake district",
+   "exampleMeaning": "Vùng hồ (ở miền bắc nước Anh)",
+   "emoji": "",
+   "ipa": "/ˈdɪstrɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "interrupt",
+   "meaning": "cắt",
+   "example": "Don't interrupt people when they're talking.",
+   "exampleMeaning": "Đừng cắt ngang người khác khi họ đang nói.",
+   "emoji": "",
+   "ipa": "/ˌɪntɜrˈəpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "visual",
+   "meaning": "sự nhìn, (thuộc) thị giác",
+   "example": "Let's learn the word \"visual\".",
+   "exampleMeaning": "Cùng học từ “visual”: sự nhìn, (thuộc) thị giác.",
+   "emoji": "",
+   "ipa": "/ˈvɪʒəwəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proverb",
+   "meaning": "tục ngữ, cách ngôn",
+   "example": "he is avaricious to a proverb",
+   "exampleMeaning": "Ai cũng biết nó là thằng cha hám lợi",
+   "emoji": "",
+   "ipa": "/ˈprɑvɜrb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hop",
+   "meaning": "cây hoa bia, cây hublông",
+   "example": "Let's learn the word \"hop\".",
+   "exampleMeaning": "Cùng học từ “hop”: cây hoa bia, cây hublông.",
+   "emoji": "",
+   "ipa": "/ˈhɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "nearby"
+   ],
+   "reading": "",
+   "meaning": "Bạn có ở gần đây không?"
+  },
+  {
+   "tokens": [
+    "Whose",
+    "backpack",
+    "is",
+    "this"
+   ],
+   "reading": "",
+   "meaning": "Cái ba lô này là của ai vậy?"
+  },
+  {
+   "tokens": [
+    "Have",
+    "you",
+    "made",
+    "any",
+    "progress"
+   ],
+   "reading": "",
+   "meaning": "Bạn có tiến triển gì không?"
+  },
+  {
+   "tokens": [
+    "Our",
+    "students",
+    "showed",
+    "remarkable",
+    "progress"
+   ],
+   "reading": "",
+   "meaning": "Các sinh viên của chúng ta đang tiến bộ rõ rệt."
+  },
+  {
+   "tokens": [
+    "I",
+    "didn't",
+    "want",
+    "to",
+    "interrupt"
+   ],
+   "reading": "",
+   "meaning": "Tôi không muốn làm gián đoạn."
+  }
+ ],
+ "issues": []
+}

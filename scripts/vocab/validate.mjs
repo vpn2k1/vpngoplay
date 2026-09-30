@@ -25,11 +25,21 @@ export function meaningAnswers(meaning) {
   return [...new Set([...parts, ...parts.map((p) => p.replace(CLASSIFIER, '')).filter(Boolean)])]
 }
 
+/**
+ * The HSK list writes some pinyin CC-CEDICT style: "nu:èdài" (ü), "méifǎr5" (neutral-tone erhua).
+ * Cleaned the same way everywhere a reading is shown or compared: "nüèdài", "méifǎr".
+ */
+export const cleanPinyin = (pinyin) =>
+  (pinyin ?? '')
+    .replace(/u:/g, 'ü')
+    .replace(/U:/g, 'Ü')
+    .replace(/([a-zü])5/gi, '$1')
+
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 
 /** Mirrors clozeOf() in src/lib/exercises.ts: English needs a whole-word match. */
 export function containsTerm(lang, term, example) {
-  if (lang === 'en') return new RegExp(`\\b${escapeRegExp(term)}\\b`, 'i').test(example)
+  if (lang === 'en') return new RegExp(`(?<!\\w)${escapeRegExp(term)}(?!\\w)`, 'i').test(example)
   return example.includes(term)
 }
 
@@ -50,8 +60,8 @@ export function validateLesson(lang, words, lesson) {
     if (!w.exampleMeaning.trim()) issues.push(`"${term}" has no example translation.`)
     if (lang === 'en' && !/^\/.+\/$/.test(w.ipa.trim())) issues.push(`"${term}" needs IPA between slashes.`)
     if (lang === 'zh') {
-      const allowed = (words[i].readings ?? [words[i].reading]).map(normalize)
-      if (!allowed.includes(normalize(w.pinyin)))
+      const allowed = (words[i].readings ?? [words[i].reading]).map((r) => normalize(cleanPinyin(r)))
+      if (!allowed.includes(normalize(cleanPinyin(w.pinyin))))
         issues.push(
           `The pinyin for "${term}" must be one of ${JSON.stringify(words[i].readings ?? [words[i].reading])} (got "${w.pinyin}").`,
         )

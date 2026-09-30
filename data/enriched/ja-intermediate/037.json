@@ -1,0 +1,325 @@
+{
+ "lesson": 37,
+ "draft": true,
+ "words": [
+  {
+   "term": "予備",
+   "meaning": "sự soạn, sự sửa soạn, sự chuẩn bị",
+   "example": "「予備」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予備”: sự soạn, sự sửa soạn, sự chuẩn bị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "湯飲",
+   "meaning": "tách, chén uống trà",
+   "example": "「湯飲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “湯飲”: tách, chén uống trà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "萎む",
+   "meaning": "làm héo, làm tàn úa",
+   "example": "「萎む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “萎む”: làm héo, làm tàn úa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公式",
+   "meaning": "thể thức, cách thức",
+   "example": "「公式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公式”: thể thức, cách thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ためらう",
+   "meaning": "do dự, ngập ngừng, lưỡng lự",
+   "example": "「ためらう」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ためらう”: do dự, ngập ngừng, lưỡng lự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "もたれる",
+   "meaning": "dựa, tựa, chống",
+   "example": "「もたれる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “もたれる”: dựa, tựa, chống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "車輪",
+   "meaning": "bánh (xe) ((nghĩa đen) & (nghĩa bóng))",
+   "example": "「車輪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “車輪”: bánh (xe) ((nghĩa đen) & (nghĩa bóng)).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "写生",
+   "meaning": "sự (đo) vẽ phác",
+   "example": "彼はりんごを写生した。",
+   "exampleMeaning": "Anh ấy vẽ phác một quả táo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "吊す",
+   "meaning": "gác máy (điện thoại), treo máy",
+   "example": "「吊す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “吊す”: gác máy (điện thoại), treo máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "溶け込む",
+   "meaning": "chia thành từng phần, chia làm đôi",
+   "example": "「溶け込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “溶け込む”: chia thành từng phần, chia làm đôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吊る",
+   "meaning": "treo lơ lửng, đình chỉ, hoãn",
+   "example": "「吊る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “吊る”: treo lơ lửng, đình chỉ, hoãn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上り",
+   "meaning": "chuyến xe lửa đi lên (đi đến thủ đô)",
+   "example": "「上り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “上り”: chuyến xe lửa đi lên (đi đến thủ đô).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名字",
+   "meaning": "tên họ, họ",
+   "example": "「名字」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名字”: tên họ, họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ポスター",
+   "meaning": "áp phích",
+   "example": "「ポスター」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ポスター”: áp phích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未満",
+   "meaning": "dưới, ở dưới",
+   "example": "トムとは友達以上恋人未満の関係です。",
+   "exampleMeaning": "Tom với tôi có mối quan hệ trên tình bạn dưới tình yêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真似る",
+   "meaning": "nhại (ai)",
+   "example": "「真似る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真似る”: nhại (ai).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "校庭",
+   "meaning": "sân trường",
+   "example": "「校庭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “校庭”: sân trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "区分",
+   "meaning": "sự chia",
+   "example": "「区分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “区分”: sự chia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アンテナ",
+   "meaning": "râu (của sâu bọ)",
+   "example": "「アンテナ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “アンテナ”: râu (của sâu bọ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引っ越し",
+   "meaning": "động, hoạt động",
+   "example": "彼は東京に引っ越した。",
+   "exampleMeaning": "Anh ta đã chuyển nhà tới Tokyo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "東京",
+    "に",
+    "引っ越した"
+   ],
+   "reading": "かれはとうきょうにひっこした",
+   "meaning": "Anh ta đã chuyển nhà tới Tokyo."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "引っ越して",
+    "きた",
+    "ばかり",
+    "です"
+   ],
+   "reading": "わたしはひっこしてきたばかりです",
+   "meaning": "Tôi vừa mới chuyển nhà."
+  },
+  {
+   "tokens": [
+    "水",
+    "は",
+    "堤防",
+    "を",
+    "越えた"
+   ],
+   "reading": "みずはていぼうをこえた",
+   "meaning": "Nước đã tràn qua bờ đê."
+  },
+  {
+   "tokens": [
+    "太陽",
+    "が",
+    "西",
+    "に",
+    "傾いた"
+   ],
+   "reading": "たいようがにしにかたむいた",
+   "meaning": "Mặt trời đã ngả đằng Tây."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "三等賞",
+    "を",
+    "得た"
+   ],
+   "reading": "かれはさんとうしょうをえた",
+   "meaning": "Anh ấy đã giành được giải ba."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,331 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "leisurely",
+   "meaning": "nhàn nhã",
+   "example": "Let's learn the word \"leisurely\".",
+   "exampleMeaning": "Cùng học từ “leisurely”: nhàn nhã.",
+   "emoji": "",
+   "ipa": "/ˈlizɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "madness",
+   "meaning": "chứng điên, chứng rồ dại",
+   "example": "Let's learn the word \"madness\".",
+   "exampleMeaning": "Cùng học từ “madness”: chứng điên, chứng rồ dại.",
+   "emoji": "",
+   "ipa": "/ˈmædnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cottage",
+   "meaning": "nhà tranh",
+   "example": "The farmer lives in a cottage in the countryside.",
+   "exampleMeaning": "Người nông dân sống trong một ngôi nhà tranh ở miền quê.",
+   "emoji": "",
+   "ipa": "/ˈkɑtədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fracture",
+   "meaning": "sự gãy",
+   "example": "Let's learn the word \"fracture\".",
+   "exampleMeaning": "Cùng học từ “fracture”: sự gãy.",
+   "emoji": "",
+   "ipa": "/ˈfrækʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bony",
+   "meaning": "nhiều xương",
+   "example": "Let's learn the word \"bony\".",
+   "exampleMeaning": "Cùng học từ “bony”: nhiều xương.",
+   "emoji": "",
+   "ipa": "/ˈboʊni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "correspondence",
+   "meaning": "thư từ",
+   "example": "to do (to attend to) the correspondence",
+   "exampleMeaning": "Viết thư",
+   "emoji": "",
+   "ipa": "/ˌkɔrəˈspɑndəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rash",
+   "meaning": "ẩu, liều, liều lĩnh",
+   "example": "That’s understandable. Just don’t do anything rash",
+   "exampleMeaning": "Hiểu rồi. Chỉ đừng làm gì quá hấp tấp nhé.",
+   "emoji": "",
+   "ipa": "/ˈræʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fixed",
+   "meaning": "đứng yên, bất động, cố định",
+   "example": "a fixed star",
+   "exampleMeaning": "Định tinh",
+   "emoji": "",
+   "ipa": "/ˈfɪkst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "alter",
+   "meaning": "thay đổi, biến đổi, đổi",
+   "example": "to alter for the better",
+   "exampleMeaning": "Đổi tính, đổi nết trở nên tốt hơn",
+   "emoji": "",
+   "ipa": "/ˈɔltɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "profit",
+   "meaning": "lợi, lợi ích, bổ ích",
+   "example": "to do something to one's profit",
+   "exampleMeaning": "Làm gì vì có lợi, làm gì vì thấy bổ ích cho mình",
+   "emoji": "",
+   "ipa": "/ˈprɑfət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "addiction",
+   "meaning": "thói nghiện",
+   "example": "Let's learn the word \"addiction\".",
+   "exampleMeaning": "Cùng học từ “addiction”: thói nghiện.",
+   "emoji": "",
+   "ipa": "/əˈdɪkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blossom",
+   "meaning": "hoa (của cây ăn quả)",
+   "example": "Let's learn the word \"blossom\".",
+   "exampleMeaning": "Cùng học từ “blossom”: hoa (của cây ăn quả).",
+   "emoji": "🌼",
+   "ipa": "/ˈblɑsəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shrink",
+   "meaning": "lùi lại, lùi bước, chùn lại",
+   "example": "to shrink into oneself",
+   "exampleMeaning": "Co vào cái vỏ ốc của mình",
+   "emoji": "",
+   "ipa": "/ˈʃrɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "semi-final",
+   "meaning": "bán kết",
+   "example": "Let's learn the word \"semi-final\".",
+   "exampleMeaning": "Cùng học từ “semi-final”: bán kết.",
+   "emoji": "",
+   "ipa": "/ˈsɛmaɪ ˈfaɪnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "offender",
+   "meaning": "người phạm tội, người phạm lỗi",
+   "example": "Let's learn the word \"offender\".",
+   "exampleMeaning": "Cùng học từ “offender”: người phạm tội, người phạm lỗi.",
+   "emoji": "",
+   "ipa": "/əˈfɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "undertake",
+   "meaning": "đảm nhiệm, nhận làm, cam kết",
+   "example": "University professors both teach and undertake research",
+   "exampleMeaning": "Giáo sư đại học vừa giảng dạy vừa kiêm nhiệm việc nghiên cứu",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌteɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "impose",
+   "meaning": "đánh (thuế... )",
+   "example": "to impose heavy taxes upon luxury goods",
+   "exampleMeaning": "Đánh thuế nặng vào hàng xa xỉ",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pastoral",
+   "meaning": "người chăn súc vật, (thuộc) mục đồng",
+   "example": "Let's learn the word \"pastoral\".",
+   "exampleMeaning": "Cùng học từ “pastoral”: người chăn súc vật, (thuộc) mục đồng.",
+   "emoji": "",
+   "ipa": "/ˈpæstɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "patron",
+   "meaning": "người bảo trợ, người đỡ đầu",
+   "example": "Let's learn the word \"patron\".",
+   "exampleMeaning": "Cùng học từ “patron”: người bảo trợ, người đỡ đầu.",
+   "emoji": "",
+   "ipa": "/ˈpeɪtrən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "traverse",
+   "meaning": "đường tắt (leo núi)",
+   "example": "it is a traverse for his plan",
+   "exampleMeaning": "Đó là một điều trở ngại cho kế hoạch của hắn",
+   "emoji": "",
+   "ipa": "/ˈtrævɜrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "There",
+    "is",
+    "no",
+    "fixed",
+    "calendar"
+   ],
+   "reading": "",
+   "meaning": "Không có lịch trình cố định."
+  },
+  {
+   "tokens": [
+    "I",
+    "must",
+    "get",
+    "the",
+    "television",
+    "fixed"
+   ],
+   "reading": "",
+   "meaning": "Tôi cần kêu thợ sửa cái TV này."
+  },
+  {
+   "tokens": [
+    "You",
+    "are",
+    "pretty",
+    "like",
+    "a",
+    "cherry",
+    "blossom"
+   ],
+   "reading": "",
+   "meaning": "Bạn xinh đẹp như hoa anh đào vậy."
+  },
+  {
+   "tokens": [
+    "Stock",
+    "investments",
+    "do",
+    "not",
+    "always",
+    "yield",
+    "profit"
+   ],
+   "reading": "",
+   "meaning": "Việc đầu tư chứng khoán không phải lúc nào cũng đem lại lợi nhuận."
+  },
+  {
+   "tokens": [
+    "He",
+    "fixed",
+    "the",
+    "bookshelf",
+    "to",
+    "the",
+    "wall"
+   ],
+   "reading": "",
+   "meaning": "Cậu ấy gắn kệ sách vào tường."
+  }
+ ],
+ "issues": []
+}

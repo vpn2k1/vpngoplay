@@ -1,0 +1,329 @@
+{
+ "lesson": 83,
+ "draft": true,
+ "words": [
+  {
+   "term": "maximize",
+   "meaning": "làm tăng lên đến tột độ",
+   "example": "Let's learn the word \"maximize\".",
+   "exampleMeaning": "Cùng học từ “maximize”: làm tăng lên đến tột độ.",
+   "emoji": "",
+   "ipa": "/ˈmæksəˌmaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "merchandise",
+   "meaning": "hàng hoá",
+   "example": "Let's learn the word \"merchandise\".",
+   "exampleMeaning": "Cùng học từ “merchandise”: hàng hoá.",
+   "emoji": "",
+   "ipa": "/ˈmɜrtʃənˌdaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "medieval",
+   "meaning": "thời Trung cổ",
+   "example": "I specialize in medieval history.",
+   "exampleMeaning": "Tôi chuyên về lịch sử thời Trung cổ.",
+   "emoji": "",
+   "ipa": "/miˈdivəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "self-confidence",
+   "meaning": "sự tự tin",
+   "example": "Let's learn the word \"self-confidence\".",
+   "exampleMeaning": "Cùng học từ “self-confidence”: sự tự tin.",
+   "emoji": "",
+   "ipa": "/ˌsɛlfˈkɑnfədəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "illustration",
+   "meaning": "sự minh hoạ",
+   "example": "Let's learn the word \"illustration\".",
+   "exampleMeaning": "Cùng học từ “illustration”: sự minh hoạ.",
+   "emoji": "",
+   "ipa": "/ˌɪləˈstreɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "arouse",
+   "meaning": "khuấy động, gợi",
+   "example": "to arouse hatred",
+   "exampleMeaning": "Gợi lòng căm thù",
+   "emoji": "",
+   "ipa": "/ɜrˈaʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "burglary",
+   "meaning": "ăn trộm đêm",
+   "example": "Let's learn the word \"burglary\".",
+   "exampleMeaning": "Cùng học từ “burglary”: ăn trộm đêm.",
+   "emoji": "",
+   "ipa": "/ˈbɜrɡlɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drain",
+   "meaning": "rút",
+   "example": "to drain the wealth of a country",
+   "exampleMeaning": "Bòn rút hết của cải của một nước",
+   "emoji": "",
+   "ipa": "/ˈdreɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "availability",
+   "meaning": "tính sẵn sàng để dùng",
+   "example": "Let's learn the word \"availability\".",
+   "exampleMeaning": "Cùng học từ “availability”: tính sẵn sàng để dùng.",
+   "emoji": "",
+   "ipa": "/əˌveɪləˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hastily",
+   "meaning": "vội vàng, hấp tấp",
+   "example": "Let's learn the word \"hastily\".",
+   "exampleMeaning": "Cùng học từ “hastily”: vội vàng, hấp tấp.",
+   "emoji": "",
+   "ipa": "/ˈheɪstəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "snap",
+   "meaning": "chộp lấy",
+   "example": "the performers seemed to have no snap",
+   "exampleMeaning": "Những người biểu diễn hầu như không có chút nhiệt tình nào",
+   "emoji": "",
+   "ipa": "/snæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "graphically",
+   "meaning": "bằng đồ thị",
+   "example": "Let's learn the word \"graphically\".",
+   "exampleMeaning": "Cùng học từ “graphically”: bằng đồ thị.",
+   "emoji": "",
+   "ipa": "/ˈɡræfɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rack",
+   "meaning": "giá (để đồ đạc)",
+   "example": "to rack one's brains for a plan",
+   "exampleMeaning": "Nặn óc để nghĩ ra một kế hoạch",
+   "emoji": "",
+   "ipa": "/ˈræk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "invariably",
+   "meaning": "luôn luôn vẫn vậy, lúc nào cũng vậy",
+   "example": "Let's learn the word \"invariably\".",
+   "exampleMeaning": "Cùng học từ “invariably”: luôn luôn vẫn vậy, lúc nào cũng vậy.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛriəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "enroll",
+   "meaning": "tuyển (quân... )",
+   "example": "I'd like to enroll you as a member of our club.",
+   "exampleMeaning": "Tôi muốn nhận cậu trở thành thành viên của câu lạc bộ của chúng tôi.",
+   "emoji": "",
+   "ipa": "/ɛnˈroʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "predictive",
+   "meaning": "nói trước",
+   "example": "Let's learn the word \"predictive\".",
+   "exampleMeaning": "Cùng học từ “predictive”: nói trước.",
+   "emoji": "",
+   "ipa": "/priˈdɪktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fluid",
+   "meaning": "lỏng, dễ cháy",
+   "example": "Let's learn the word \"fluid\".",
+   "exampleMeaning": "Cùng học từ “fluid”: lỏng, dễ cháy.",
+   "emoji": "",
+   "ipa": "/ˈfluːɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "friendly",
+   "meaning": "thân mật, thân thiết, thân thiện",
+   "example": "to have friendly relations with one's neighbours",
+   "exampleMeaning": "Có quan hệ thân mật với láng giềng của mình",
+   "emoji": "",
+   "ipa": "/ˈfrɛnd.li/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "outwardly",
+   "meaning": "bề ngoài",
+   "example": "Let's learn the word \"outwardly\".",
+   "exampleMeaning": "Cùng học từ “outwardly”: bề ngoài.",
+   "emoji": "",
+   "ipa": "/ˈaʊtwɜrdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "worldview",
+   "meaning": "thế giới quan",
+   "example": "Let's learn the word \"worldview\".",
+   "exampleMeaning": "Cùng học từ “worldview”: thế giới quan.",
+   "emoji": "",
+   "ipa": "/ˈwɜrldˌvju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "need",
+    "to",
+    "rack",
+    "our",
+    "brains",
+    "some",
+    "more"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta cần phải động não hơn nữa"
+  },
+  {
+   "tokens": [
+    "I'd",
+    "like",
+    "to",
+    "enroll",
+    "you",
+    "as",
+    "a",
+    "member",
+    "of",
+    "our",
+    "club"
+   ],
+   "reading": "",
+   "meaning": "Tôi muốn nhận cậu trở thành thành viên của câu lạc bộ của chúng tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "specialize",
+    "in",
+    "medieval",
+    "history"
+   ],
+   "reading": "",
+   "meaning": "Tôi chuyên về lịch sử thời Trung cổ."
+  },
+  {
+   "tokens": [
+    "Who",
+    "discovered",
+    "radium"
+   ],
+   "reading": "",
+   "meaning": "Ai đã phát hiện ra ra-di-um?"
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "jazz"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích nhạc jazz."
+  }
+ ],
+ "issues": []
+}

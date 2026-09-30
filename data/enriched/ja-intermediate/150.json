@@ -1,0 +1,334 @@
+{
+ "lesson": 150,
+ "draft": true,
+ "words": [
+  {
+   "term": "平常",
+   "meaning": "thường, thông thường, bình thường",
+   "example": "生活はようやく平常に戻るかと思いきや、感染第二波がきた。",
+   "exampleMeaning": "Tôi đã nghĩ là cuộc sống cuối cùng sẽ trở lại bình thường, thế mà làn sóng lây nhiễm thứ hai lại xảy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "染まる",
+   "meaning": "nhuộn",
+   "example": "「染まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “染まる”: nhuộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "タイミング",
+   "meaning": "sự chọn đúng lúc",
+   "example": "ナイスタイミング。",
+   "exampleMeaning": "Đúng lúc lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "催す",
+   "meaning": "cầm, nắm, giữ",
+   "example": "「催す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “催す”: cầm, nắm, giữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同居",
+   "meaning": "sự chung sống, sự cùng tồn tại",
+   "example": "「同居」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同居”: sự chung sống, sự cùng tồn tại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手法",
+   "meaning": "kỹ xảo",
+   "example": "「手法」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手法”: kỹ xảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "母国",
+   "meaning": "bản quốc",
+   "example": "彼は母国を追放された。",
+   "exampleMeaning": "Anh ta đã bị trục xuất ra khỏi đất nước của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ファン",
+   "meaning": "người hâm mộ, người say mê",
+   "example": "トムはショパンの大ファンだ。",
+   "exampleMeaning": "Tom rất thích Chopin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "収まる",
+   "meaning": "đạt được, thu được, giành được",
+   "example": "「収まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “収まる”: đạt được, thu được, giành được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "情深い",
+   "meaning": "dịu hiền",
+   "example": "「情深い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “情深い”: dịu hiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首輪",
+   "meaning": "chuỗi hạt (vàng, ngọc)",
+   "example": "「首輪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “首輪”: chuỗi hạt (vàng, ngọc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吊り革",
+   "meaning": "dây (da, lụa, vải... )",
+   "example": "「吊り革」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “吊り革”: dây (da, lụa, vải... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "復興",
+   "meaning": "sự phục hưng",
+   "example": "「復興」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “復興”: sự phục hưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手当",
+   "meaning": "sự cho phép",
+   "example": "「手当」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手当”: sự cho phép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刃",
+   "meaning": "lưỡi (dao, kiếm)",
+   "example": "「刃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “刃”: lưỡi (dao, kiếm).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密か",
+   "meaning": "kín đáo, thầm kín, bí mật",
+   "example": "トムは密かに想いを寄せている人がいると思うよ。",
+   "exampleMeaning": "Tôi nghĩ có một người đang thầm yêu Tom.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "玄人",
+   "meaning": "chuyên môn, thành thạo, thông thạo",
+   "example": "「玄人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “玄人”: chuyên môn, thành thạo, thông thạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雑木",
+   "meaning": "various kinds of small trees (EN)",
+   "example": "「雑木」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雑木”: various kinds of small trees (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "効率",
+   "meaning": "hiệu lực, hiệu quả",
+   "example": "株式市場は気が短い人から忍耐強い人に富を移すための素晴らしく効率的な仕組みです。",
+   "exampleMeaning": "Thị trường chứng khoán là một bộ máy vô cùng hiệu quả để dịch chuyển tài sản từ những người thiếu kiên nhẫn sang những người biết nhẫn nại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "使用人",
+   "meaning": "người làm, người làm công",
+   "example": "「使用人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “使用人”: người làm, người làm công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "球場",
+    "は",
+    "野球",
+    "ファン",
+    "で",
+    "あふれていた"
+   ],
+   "reading": "そのきゅうじょうはやきゅうファンであふれていた",
+   "meaning": "Sân bóng chày đó đầy ắp những người hâm mộ bóng chày."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "母国",
+    "を",
+    "追放",
+    "された"
+   ],
+   "reading": "かれはぼこくをついほうされた",
+   "meaning": "Anh ta đã bị trục xuất ra khỏi đất nước của mình."
+  },
+  {
+   "tokens": [
+    "明日",
+    "ピクニック",
+    "に",
+    "行く",
+    "つもり",
+    "だ"
+   ],
+   "reading": "あしたピクニックにいくつもりだ",
+   "meaning": "Ngày mai tôi định đi dã ngoại."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "辞書",
+    "の",
+    "使い方",
+    "を",
+    "学ぶ",
+    "べき",
+    "だ"
+   ],
+   "reading": "きみはじしょのつかいかたをまなぶべきだ",
+   "meaning": "Bạn cần học cách sử dụng từ điển."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "緑色",
+    "の",
+    "ドレス",
+    "を",
+    "着ている"
+   ],
+   "reading": "かのじょはみどりいろのドレスをきている",
+   "meaning": "Cô ấy đang mặc một cái váy màu xanh lục."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,341 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "发财",
+   "meaning": "phát tài",
+   "example": "发财致富",
+   "exampleMeaning": "Phát tài giàu có",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fācái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "匆匆",
+   "meaning": "vội vã",
+   "example": "来去匆匆。",
+   "exampleMeaning": "Đi lại vội vội vàng vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cōngcōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "查找",
+   "meaning": "tìm kiếm",
+   "example": "查找文件。",
+   "exampleMeaning": "Tìm kiếm tài liệu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cházhǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "往常",
+   "meaning": "mọi khi",
+   "example": "今天因为有事，所以比往常回来得晚。",
+   "exampleMeaning": "Hôm nay vì có việc nên về muộn hơn mọi khi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "隐蔽",
+   "meaning": "che phủ",
+   "example": "游击队隐蔽在高粱地里。",
+   "exampleMeaning": "Đội du kích ẩn nấp trong ruộng cao lương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "救济",
+   "meaning": "cứu tế",
+   "example": "救济费。",
+   "exampleMeaning": "Tiền cứu tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "糊",
+   "meaning": "chè",
+   "example": "芝麻糊",
+   "exampleMeaning": "Chè mè đen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hú",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "终生",
+   "meaning": "suốt đời",
+   "example": "奋斗终生",
+   "exampleMeaning": "Phấn đấu suốt đời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跑车",
+   "meaning": "xe tuột dốc",
+   "example": "我们来学“跑车”这个词。",
+   "exampleMeaning": "Cùng học từ “跑车”: xe tuột dốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǎochē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "竞技",
+   "meaning": "thi đấu thể thao",
+   "example": "我们来学“竞技”这个词。",
+   "exampleMeaning": "Cùng học từ “竞技”: thi đấu thể thao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当下",
+   "meaning": "liền",
+   "example": "我一听这话，当下就愣住了。",
+   "exampleMeaning": "Tôi nghe nói liền ngẩn người ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专栏",
+   "meaning": "chuyên mục",
+   "example": "我们来学“专栏”这个词。",
+   "exampleMeaning": "Cùng học từ “专栏”: chuyên mục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānlán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "熬夜",
+   "meaning": "thức khuya",
+   "example": "我们来学“熬夜”这个词。",
+   "exampleMeaning": "Cùng học từ “熬夜”: thức khuya.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "áoyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分辨",
+   "meaning": "phân biệt",
+   "example": "天下着大雨，连方向也分辨不清了。",
+   "exampleMeaning": "Trời đổ mưa to, ngay cả phương hướng cũng không phân biệt rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnbiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "描绘",
+   "meaning": "miêu tả",
+   "example": "这些作品生动地描绘了我国农村的新气象。",
+   "exampleMeaning": "Những tác phẩm này miêu tả một cách sinh động những hình ảnh mới mẽ ở nông thôn nước ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miáohuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贵宾",
+   "meaning": "quý khách",
+   "example": "我们来学“贵宾”这个词。",
+   "exampleMeaning": "Cùng học từ “贵宾”: quý khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guìbīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "实体",
+   "meaning": "thực thể",
+   "example": "我们来学“实体”这个词。",
+   "exampleMeaning": "Cùng học từ “实体”: thực thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shítǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "诺言",
+   "meaning": "lời hứa",
+   "example": "我们来学“诺言”这个词。",
+   "exampleMeaning": "Cùng học từ “诺言”: lời hứa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nuòyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迷恋",
+   "meaning": "say đắm",
+   "example": "我们来学“迷恋”这个词。",
+   "exampleMeaning": "Cùng học từ “迷恋”: say đắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míliàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赞扬",
+   "meaning": "khen ngợi",
+   "example": "孩子们爱护公共财物的事迹受到了人们的赞扬。",
+   "exampleMeaning": "Những câu chuyện về việc trẻ em bảo vệ tài sản chung được mọi người khen ngợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zànyáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "本",
+    "书",
+    "会",
+    "对",
+    "我们",
+    "有",
+    "很",
+    "大",
+    "用处"
+   ],
+   "reading": "zhè běn shū huì duì wǒmen yǒu hěn dà yòngchu",
+   "meaning": "Quyển sách này rất hứu ích cho chúng ta."
+  },
+  {
+   "tokens": [
+    "你",
+    "应该",
+    "学习",
+    "控制",
+    "自己",
+    "的",
+    "情绪"
+   ],
+   "reading": "nǐ yīnggāi xuéxí kòngzhì zìjǐ de qíngxù",
+   "meaning": "Bạn nên học cách kiểm soát cảm xúc của mình."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  }
+ ],
+ "issues": []
+}

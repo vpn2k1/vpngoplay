@@ -1,0 +1,328 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "学",
+   "meaning": "học, học tập, nghiên cứu",
+   "example": "学学你姐姐。",
+   "exampleMeaning": "Mày học chị mày đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xué",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "多少",
+   "meaning": "bấy nhiêu, mấy, số",
+   "example": "我的房间号是多少？",
+   "exampleMeaning": "Số phòng của tôi là số nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōshǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "第二",
+   "meaning": "thứ hai",
+   "example": "现在我来讲第二个问题。",
+   "exampleMeaning": "Bây giờ tôi sẽ trình bày vấn đề thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìèr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "妈妈",
+   "meaning": "mẹ",
+   "example": "他把我错认为我妈妈了。",
+   "exampleMeaning": "Anh ta đã nhận nhầm tôi thành mẹ tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "māma",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "错",
+   "meaning": "sai",
+   "example": "赶快点，否则要错过公共汽车了。",
+   "exampleMeaning": "Nhanh lên không bạn lỡ xe buýt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "少",
+   "meaning": "thiếu, không có",
+   "example": "你有多少部車？",
+   "exampleMeaning": "Ngài có mấy chiếc xe ô tô?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "别的",
+   "meaning": "cái khác",
+   "example": "我们来学“别的”这个词。",
+   "exampleMeaning": "Cùng học từ “别的”: cái khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biéde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "难",
+   "meaning": "khó, khó khăn, gay go",
+   "example": "他的理论很难懂。",
+   "exampleMeaning": "Lý luận của anh ấy rất khó hiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "电影",
+   "meaning": "phim",
+   "example": "我每次看这部电影都会哭。",
+   "exampleMeaning": "Mỗi lần xem bộ phim này tôi đều khóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànyǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "间",
+   "meaning": "cách",
+   "example": "帮我找间空房间。",
+   "exampleMeaning": "Giúp tôi tìm một căn phòng trống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "哪",
+   "meaning": "gì, cái nào, người nào",
+   "example": "您可以随便去哪儿。",
+   "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "跑",
+   "meaning": "chạy",
+   "example": "他跑得能有多快就有多快。",
+   "exampleMeaning": "Nó chạy nhanh nhất mà nó có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "回家",
+   "meaning": "trở về nhà, về nhà",
+   "example": "我们来学“回家”这个词。",
+   "exampleMeaning": "Cùng học từ “回家”: trở về nhà, về nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "昨天",
+   "meaning": "hôm qua",
+   "example": "我昨天來到這裏。",
+   "exampleMeaning": "Tôi tới đây vào ngày hôm qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuótiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "晚",
+   "meaning": "đêm, cảnh tối tăm, muộn",
+   "example": "她哭了一整晚。",
+   "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "书",
+   "meaning": "sách",
+   "example": "把那两本书拿出来！",
+   "exampleMeaning": "Lấy hai quyển sách ấy ra!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "五",
+   "meaning": "số năm, ngũ",
+   "example": "这工作花了我五小时。",
+   "exampleMeaning": "Tôi đã tốn năm giờ đồng hồ cho công việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "先生",
+   "meaning": "thầy",
+   "example": "羊屁股先生可没告诉我还有搭档。",
+   "exampleMeaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác.",
+   "emoji": "🧑‍🏫",
+   "ipa": "",
+   "pinyin": "xiānsheng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "男",
+   "meaning": "trai, đực, trống",
+   "example": "你的男朋友是谁？",
+   "exampleMeaning": "Bạn trai của bạn là ai?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "动",
+   "meaning": "động",
+   "example": "我不喜欢学习不规则动词。",
+   "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "的",
+    "房间",
+    "号",
+    "是",
+    "多少"
+   ],
+   "reading": "wǒ de fángjiān hào shì duōshao",
+   "meaning": "Số phòng của tôi là số nào?"
+  },
+  {
+   "tokens": [
+    "你",
+    "有",
+    "多少",
+    "部",
+    "车"
+   ],
+   "reading": "nǐ yǒu duōshao bù chē",
+   "meaning": "Ngài có mấy chiếc xe ô tô?"
+  },
+  {
+   "tokens": [
+    "越南语",
+    "真",
+    "的",
+    "难",
+    "学"
+   ],
+   "reading": "yuènányǔ zhēn de nán xué",
+   "meaning": "Tiếng Việt thật sự rất khó học."
+  },
+  {
+   "tokens": [
+    "你",
+    "在",
+    "哪个",
+    "学校",
+    "上学"
+   ],
+   "reading": "nǐ zài nǎge xuéxiào shàngxué",
+   "meaning": "Anh học ở trường nào?"
+  },
+  {
+   "tokens": [
+    "他",
+    "把",
+    "我",
+    "错",
+    "认为",
+    "我",
+    "妈妈",
+    "了"
+   ],
+   "reading": "tā bǎ wǒ cuò rènwéi wǒ māma le",
+   "meaning": "Anh ta đã nhận nhầm tôi thành mẹ tôi."
+  }
+ ],
+ "issues": []
+}

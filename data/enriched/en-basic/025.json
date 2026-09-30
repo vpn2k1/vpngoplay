@@ -1,0 +1,332 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "wind",
+   "meaning": "thổi, cuộn, quấn",
+   "example": "to wind [up] wool into a ball",
+   "exampleMeaning": "Quấn len thành một cuộn",
+   "emoji": "",
+   "ipa": "/wɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "awake",
+   "meaning": "thức tỉnh, tỉnh ngộ, nhận thức ra",
+   "example": "to awake somebody to the sense of duty",
+   "exampleMeaning": "Làm cho ai nhận thức ra ý thức bổn phận",
+   "emoji": "",
+   "ipa": "/əˈweɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "each other",
+   "meaning": "nhau",
+   "example": "We love each other.",
+   "exampleMeaning": "Chúng tôi yêu nhau.",
+   "emoji": "",
+   "ipa": "/ˈitʃ ˈəðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "butterfly",
+   "meaning": "con bướm",
+   "example": "Oh, there's a butterfly!",
+   "exampleMeaning": "Ô kìa, con bươm bướm!",
+   "emoji": "🦋",
+   "ipa": "/ˈbətɜrˌflaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tomorrow",
+   "meaning": "mai, ngày mai",
+   "example": "it may rain tomorrow",
+   "exampleMeaning": "Mai trời có thể mưa",
+   "emoji": "",
+   "ipa": "/təˈmɑˌroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mail",
+   "meaning": "áo giáp, thư từ, chuyển thư",
+   "example": "He robbed the mail coach.",
+   "exampleMeaning": "Anh ta đã cướp chiếc xe chở thư.",
+   "emoji": "",
+   "ipa": "/ˈmeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pop",
+   "meaning": "bốp, đánh bốp một cái",
+   "example": "to pop at a bird",
+   "exampleMeaning": "Bắn con chim",
+   "emoji": "",
+   "ipa": "/ˈpɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "collect",
+   "meaning": "suy ra, rút ra",
+   "example": "I collect from your words that...",
+   "exampleMeaning": "Qua những lời anh nói tôi suy ra là...",
+   "emoji": "",
+   "ipa": "/kəˈlɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "weekend",
+   "meaning": "cuối tuần (thứ bảy và chủ nhật)",
+   "example": "What did you do on the weekend?",
+   "exampleMeaning": "Bạn đã làm gì vào cuối tuần vậy?",
+   "emoji": "",
+   "ipa": "/ˈwik.ˌɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "war",
+   "meaning": "chiến tranh",
+   "example": "to war against (with) a neighbouring country",
+   "exampleMeaning": "Đánh nhau với một nước láng giềng",
+   "emoji": "",
+   "ipa": "/ˈwɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "foggy",
+   "meaning": "lờ mờ, mơ hồ, không rõ rệt",
+   "example": "Foggy weather makes it hard to see ahead.",
+   "exampleMeaning": "Thời tiết sương mù khiến khó mà nhìn thấy phía trước.",
+   "emoji": "🌁",
+   "ipa": "/ˈfɑɡi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lily",
+   "meaning": "hoa huệ tây",
+   "example": "Let's learn the word \"lily\".",
+   "exampleMeaning": "Cùng học từ “lily”: hoa huệ tây.",
+   "emoji": "",
+   "ipa": "/ˈlɪli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "long",
+   "meaning": "dài, xa (không gian), lâu (thời gian)",
+   "example": "what a long speech!",
+   "exampleMeaning": "Bài nói sao mà dài dòng thế!",
+   "emoji": "",
+   "ipa": "/ˈlɔŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "check",
+   "meaning": "kiểm tra, soát lại",
+   "example": "to put a check on something",
+   "exampleMeaning": "Cản trở việc gì; kìm hãm việc gì; hạn chế việc gì",
+   "emoji": "",
+   "ipa": "/t͡ʃɛk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "group",
+   "meaning": "nhóm",
+   "example": "What's your blood group?",
+   "exampleMeaning": "Nhóm máu của ông là nhóm nào?",
+   "emoji": "",
+   "ipa": "/ɡruːp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "by",
+   "meaning": "bằng, bởi, do",
+   "example": "to swear by Almighty God that...",
+   "exampleMeaning": "Xin thề trước thượng đế là...",
+   "emoji": "",
+   "ipa": "/ˈbaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "desk",
+   "meaning": "một cái bàn, cái khung, hoặc cái hộp",
+   "example": "Is there a pen on the desk?",
+   "exampleMeaning": "Có một chiếc bút trên bàn phải không?",
+   "emoji": "",
+   "ipa": "/ˈdɛsk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chair",
+   "meaning": "ghế",
+   "example": "to sit (be) in the chair",
+   "exampleMeaning": "Điều khiển cuộc họp",
+   "emoji": "🪑",
+   "ipa": "/ˈtʃɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "noise",
+   "meaning": "tiếng động, loan (tin), đồn",
+   "example": "The loud noise from the TV hurts my ears.",
+   "exampleMeaning": "Tiếng ồn lớn từ tivi làm đau tai tôi.",
+   "emoji": "",
+   "ipa": "/ˈnɔɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hour",
+   "meaning": "giờ phút, lúc",
+   "example": "in the hour of danger",
+   "exampleMeaning": "Trong giờ phút hiểm nguy",
+   "emoji": "",
+   "ipa": "/ˈaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'll",
+    "come",
+    "by",
+    "tomorrow",
+    "morning"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ đến vào sáng mai."
+  },
+  {
+   "tokens": [
+    "The",
+    "country",
+    "was",
+    "wasted",
+    "by",
+    "war"
+   ],
+   "reading": "",
+   "meaning": "Đất nước hoang tàn vì chiến tranh."
+  },
+  {
+   "tokens": [
+    "The",
+    "war",
+    "didn't",
+    "break",
+    "out",
+    "by",
+    "accident"
+   ],
+   "reading": "",
+   "meaning": "Không phải ngẫu nhiên mà chiến tranh đã xảy ra."
+  },
+  {
+   "tokens": [
+    "A",
+    "strong",
+    "wind",
+    "blew",
+    "all",
+    "day",
+    "long"
+   ],
+   "reading": "",
+   "meaning": "Một cơn gió lớn đã thổi suốt cả ngày."
+  },
+  {
+   "tokens": [
+    "I",
+    "stayed",
+    "awake",
+    "as",
+    "long",
+    "as",
+    "I",
+    "could"
+   ],
+   "reading": "",
+   "meaning": "Tôi thức lâu nhất có thể."
+  }
+ ],
+ "issues": []
+}

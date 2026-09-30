@@ -1,0 +1,332 @@
+{
+ "lesson": 90,
+ "draft": true,
+ "words": [
+  {
+   "term": "doorway",
+   "meaning": "ô cửa",
+   "example": "in the doorway",
+   "exampleMeaning": "Trong ô cửa, ở cửa",
+   "emoji": "",
+   "ipa": "/ˈdɔrˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "corporate",
+   "meaning": "đoàn thể",
+   "example": "Let's learn the word \"corporate\".",
+   "exampleMeaning": "Cùng học từ “corporate”: đoàn thể.",
+   "emoji": "",
+   "ipa": "/ˈkɔrpɜrət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "senator",
+   "meaning": "thượng nghị sĩ",
+   "example": "Let's learn the word \"senator\".",
+   "exampleMeaning": "Cùng học từ “senator”: thượng nghị sĩ.",
+   "emoji": "",
+   "ipa": "/ˈsɛnətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "noble",
+   "meaning": "quý tộc, quý phái",
+   "example": "to be of noble birth",
+   "exampleMeaning": "(thuộc) dòng dõi quý tộc",
+   "emoji": "",
+   "ipa": "/ˈnəʊbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enhance",
+   "meaning": "làm tăng, nâng cao, đề cao",
+   "example": "Let's learn the word \"enhance\".",
+   "exampleMeaning": "Cùng học từ “enhance”: làm tăng, nâng cao, đề cao.",
+   "emoji": "",
+   "ipa": "/ɛnˈhæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shooting",
+   "meaning": "sự bắn, sự phóng đi",
+   "example": "While Tom was looking through the window, a shooting star fell from the sky.",
+   "exampleMeaning": "Trong lúc Tom đang nhìn qua cửa sổ, một ngôi sao băng từ trên trời rơi xuống.",
+   "emoji": "",
+   "ipa": "/ˈʃutɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "biological",
+   "meaning": "sinh vật học",
+   "example": "Let's learn the word \"biological\".",
+   "exampleMeaning": "Cùng học từ “biological”: sinh vật học.",
+   "emoji": "",
+   "ipa": "/ˌbaɪəˈlɑdʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cyclist",
+   "meaning": "người đi xe đạp, người đạp xe",
+   "example": "Let's learn the word \"cyclist\".",
+   "exampleMeaning": "Cùng học từ “cyclist”: người đi xe đạp, người đạp xe.",
+   "emoji": "",
+   "ipa": "/ˈsaɪkəlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lyrics",
+   "meaning": "bài thơ trữ tình",
+   "example": "Unfortunately, I can't find the lyrics for this song.",
+   "exampleMeaning": "Không may là tôi không thể tìm được lời của bài hát này.",
+   "emoji": "",
+   "ipa": "/ˈlɪrɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mustache",
+   "meaning": "râu mép, ria ((từ Mỹ",
+   "example": "Let's learn the word \"mustache\".",
+   "exampleMeaning": "Cùng học từ “mustache”: râu mép, ria ((từ Mỹ.",
+   "emoji": "",
+   "ipa": "/ˈməsˌtæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "instill",
+   "meaning": "truyền đạt (ý nghĩ, tình cảm... ) cho",
+   "example": "I want all our children to go to schools that instill in them a sense of wonder about the world around them",
+   "exampleMeaning": "Tôi muốn con cái chúng ta được tới trường tại đó chúng được thấm nhuần tư tưởng khám phá thế giới xung quanh mình.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈstɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "commute",
+   "meaning": "giảm (hình phạt, tội)",
+   "example": "I commute to work by bicycle.",
+   "exampleMeaning": "Tôi đi làm bằng xe đạp.",
+   "emoji": "",
+   "ipa": "/kəmˈjut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cue",
+   "meaning": "sự gợi ý, sự ra hiệu",
+   "example": "to take one's cue from somebody",
+   "exampleMeaning": "Theo sự ra hiệu của ai mà làm theo; bị ảnh hưởng mạnh bởi ai",
+   "emoji": "",
+   "ipa": "/ˈkju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "neuron",
+   "meaning": "nơron tế bào thần kinh",
+   "example": "Let's learn the word \"neuron\".",
+   "exampleMeaning": "Cùng học từ “neuron”: nơron tế bào thần kinh.",
+   "emoji": "",
+   "ipa": "/ˈnʊrɑn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inspect",
+   "meaning": "duyệt (quân đội)",
+   "example": "Let's learn the word \"inspect\".",
+   "exampleMeaning": "Cùng học từ “inspect”: duyệt (quân đội).",
+   "emoji": "",
+   "ipa": "/ˌɪnˈspɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "division",
+   "meaning": "phép chia",
+   "example": "to cause a division between...",
+   "exampleMeaning": "Gây chia rẽ giữa...",
+   "emoji": "",
+   "ipa": "/dɪˈvɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "abuse",
+   "meaning": "sự ngược đãi, sự hành hạ",
+   "example": "to abuse somebody behind his back",
+   "exampleMeaning": "Nói xấu sau lưng ai",
+   "emoji": "",
+   "ipa": "/əbˈjus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dandelion",
+   "meaning": "cây bồ công anh Trung quốc",
+   "example": "Let's learn the word \"dandelion\".",
+   "exampleMeaning": "Cùng học từ “dandelion”: cây bồ công anh Trung quốc.",
+   "emoji": "",
+   "ipa": "/ˈdændəˌlaɪən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "executive",
+   "meaning": "hành chính",
+   "example": "an executive position",
+   "exampleMeaning": "Chức vị hành chính",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɛkjətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "authorize",
+   "meaning": "cho quyền, uỷ quyền, cho phép",
+   "example": "to authorize someone ro do something",
+   "exampleMeaning": "Cho quyền ai được làm việc gì",
+   "emoji": "",
+   "ipa": "/ˈɔθɜrˌaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "commute",
+    "to",
+    "work",
+    "by",
+    "bicycle"
+   ],
+   "reading": "",
+   "meaning": "Tôi đi làm bằng xe đạp."
+  },
+  {
+   "tokens": [
+    "Education",
+    "in",
+    "any",
+    "form",
+    "is",
+    "child",
+    "abuse"
+   ],
+   "reading": "",
+   "meaning": "Giáo dục ở bất kì hình thức nào đều là lạm dụng trẻ em."
+  },
+  {
+   "tokens": [
+    "Division",
+    "is",
+    "one",
+    "of",
+    "the",
+    "basic",
+    "arithmetic",
+    "operations"
+   ],
+   "reading": "",
+   "meaning": "Phép chia là một trong số các phép tính số học cơ bản."
+  },
+  {
+   "tokens": [
+    "Unfortunately",
+    "I",
+    "can't",
+    "find",
+    "the",
+    "lyrics",
+    "for",
+    "this",
+    "song"
+   ],
+   "reading": "",
+   "meaning": "Không may là tôi không thể tìm được lời của bài hát này."
+  },
+  {
+   "tokens": [
+    "It",
+    "might",
+    "explode"
+   ],
+   "reading": "",
+   "meaning": "Nó có thể nổ."
+  }
+ ],
+ "issues": []
+}

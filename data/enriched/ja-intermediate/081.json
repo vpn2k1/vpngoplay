@@ -1,0 +1,328 @@
+{
+ "lesson": 81,
+ "draft": true,
+ "words": [
+  {
+   "term": "起床",
+   "meaning": "sự dậy, sự trở dậy, sự đứng dậy",
+   "example": "明日の朝、起床したときには太陽が輝いて、小鳥がさえずっているだろう。",
+   "exampleMeaning": "Sáng mai tôi thức dậy, mặt trời sẽ tỏa sáng, còn những chú chim nhỏ sẽ hót líu lo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "まごまご",
+   "meaning": "lẫn lộn, lộn xộn, rối rắm",
+   "example": "「まごまご」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “まごまご”: lẫn lộn, lộn xộn, rối rắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "為替",
+   "meaning": "bưu phiếu",
+   "example": "「為替」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “為替”: bưu phiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "入社",
+   "meaning": "entry to a company (EN)",
+   "example": "「入社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “入社”: entry to a company (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下駄",
+   "meaning": "sự quay",
+   "example": "「下駄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下駄”: sự quay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "払い込む",
+   "meaning": "gửi (tiền, đồ vật... )",
+   "example": "「払い込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “払い込む”: gửi (tiền, đồ vật... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人差指",
+   "meaning": "ngón tay trỏ",
+   "example": "「人差指」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人差指”: ngón tay trỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "くれぐれも",
+   "meaning": "lặp đi lặp lại nhiều lần",
+   "example": "「くれぐれも」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “くれぐれも”: lặp đi lặp lại nhiều lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "御覧",
+   "meaning": "cái nhìn, cái ngó, cái dòm",
+   "example": "「御覧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “御覧”: cái nhìn, cái ngó, cái dòm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近寄る",
+   "meaning": "đến gần, lại gần, tới gần",
+   "example": "「近寄る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “近寄る”: đến gần, lại gần, tới gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何しろ",
+   "meaning": "trong bất cứ trường hợp nào",
+   "example": "「何しろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “何しろ”: trong bất cứ trường hợp nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ショップ",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "「ショップ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ショップ”: cửa hàng, cửa hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "登場",
+   "meaning": "sự đi vào",
+   "example": "「登場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “登場”: sự đi vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "流域",
+   "meaning": "cái chậu",
+   "example": "「流域」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “流域”: cái chậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肘",
+   "meaning": "khuỷu tay",
+   "example": "「肘」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肘”: khuỷu tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "煉瓦",
+   "meaning": "gạch",
+   "example": "「煉瓦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “煉瓦”: gạch.",
+   "emoji": "🧱",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "実物",
+   "meaning": "hàng loại tốt",
+   "example": "「実物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “実物”: hàng loại tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特売",
+   "meaning": "đặc biệt",
+   "example": "「特売」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特売”: đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一定",
+   "meaning": "đứng yên, bất động, cố định",
+   "example": "「一定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一定”: đứng yên, bất động, cố định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "濃度",
+   "meaning": "sự tập trung",
+   "example": "「濃度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “濃度”: sự tập trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "音楽",
+    "の",
+    "才能",
+    "が",
+    "ある"
+   ],
+   "reading": "かのじょはおんがくのさいのうがある",
+   "meaning": "Cô ấy có tài năng về âm nhạc."
+  },
+  {
+   "tokens": [
+    "トム",
+    "は",
+    "負けた",
+    "事",
+    "を",
+    "認めた"
+   ],
+   "reading": "トムはまけたことをみとめた",
+   "meaning": "Tom thừa nhận là anh ta đã thua."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "理論",
+    "は",
+    "一考",
+    "に",
+    "値する"
+   ],
+   "reading": "かれのりろんはいっこうにあたいする",
+   "meaning": "Lý thuyết của ông ấy đáng được xem xét."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "に",
+    "がまん",
+    "できない"
+   ],
+   "reading": "わたしはかれにがまんできない",
+   "meaning": "Tôi không thể chịu được anh ta."
+  },
+  {
+   "tokens": [
+    "自転車",
+    "で",
+    "通勤",
+    "しています"
+   ],
+   "reading": "じてんしゃでつうきんしています",
+   "meaning": "Tôi đi làm bằng xe đạp."
+  }
+ ],
+ "issues": []
+}

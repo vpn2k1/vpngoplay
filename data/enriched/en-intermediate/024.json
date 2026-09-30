@@ -1,0 +1,321 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "roadside",
+   "meaning": "bờ đường, lề đường",
+   "example": "Let's learn the word \"roadside\".",
+   "exampleMeaning": "Cùng học từ “roadside”: bờ đường, lề đường.",
+   "emoji": "",
+   "ipa": "/ˈroʊdˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "indoors",
+   "meaning": "ở trong nhà",
+   "example": "I stayed indoors because it rained.",
+   "exampleMeaning": "Tôi ở trong nhà vì trời mưa.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌdɔrz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "miserable",
+   "meaning": "tồi tàn, cực khổ, khốn khổ",
+   "example": "I think I'd be miserable doing that.",
+   "exampleMeaning": "Tôi nghĩ tôi sẽ khốn đốn khi làm việc đó.",
+   "emoji": "",
+   "ipa": "/ˈmɪzɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "standard",
+   "meaning": "tiêu chuẩn, chuẩn, mẫu",
+   "example": "to raise the standard of solidarity",
+   "exampleMeaning": "Giương ngọn cờ đoàn kết",
+   "emoji": "",
+   "ipa": "/ˈstændəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "salesman",
+   "meaning": "người bán hàng (nam)",
+   "example": "Let's learn the word \"salesman\".",
+   "exampleMeaning": "Cùng học từ “salesman”: người bán hàng (nam).",
+   "emoji": "",
+   "ipa": "/ˈseɪlzmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "broadcast",
+   "meaning": "phát thanh",
+   "example": "Is this broadcast live or pre-recorded?",
+   "exampleMeaning": "Đây là phát sóng trực tiếp hay được ghi hình trước?",
+   "emoji": "",
+   "ipa": "/ˈbrɔdˌkæst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "disable",
+   "meaning": "làm cho bất lực",
+   "example": "Let's learn the word \"disable\".",
+   "exampleMeaning": "Cùng học từ “disable”: làm cho bất lực.",
+   "emoji": "",
+   "ipa": "/dɪˈseɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mourn",
+   "meaning": "khóc, thương tiếc, thương xót",
+   "example": "to mourn the loss of one's mother",
+   "exampleMeaning": "Khóc mẹ",
+   "emoji": "",
+   "ipa": "/ˈmɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "maximum",
+   "meaning": "cực độ, tối đa",
+   "example": "The bus can carry a maximum of 40 people.",
+   "exampleMeaning": "Chiếc xe buýt có thể chở tối đa 40 người.",
+   "emoji": "",
+   "ipa": "/ˈmæksəməm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "commercial",
+   "meaning": "người chào hàng",
+   "example": "Commercial use of these materials is prohibited.",
+   "exampleMeaning": "Cấm sử dụng các tài liệu này cho mục đích thương mại.",
+   "emoji": "",
+   "ipa": "/kəˈmɜrʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "financial",
+   "meaning": "tài chính, về tài chính",
+   "example": "He knows all financial stuff, like stocks and bonds.",
+   "exampleMeaning": "Anh ấy biết tất cả các thứ về tài chính, như cổ phiếu và trái phiếu.",
+   "emoji": "",
+   "ipa": "/ˌfaɪˈnænʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "profession",
+   "meaning": "nghề, nghề nghiệp",
+   "example": "You might be smart enough to choose a profession in the future.",
+   "exampleMeaning": "Cô có thể có đủ thông minh để chọn một nghề nghiệp trong tương lai.",
+   "emoji": "",
+   "ipa": "/prəˈfɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mineral",
+   "meaning": "khoáng",
+   "example": "Tom takes vitamin and mineral pills every day.",
+   "exampleMeaning": "Tom uống thuốc vitamin và khoáng chất mỗi ngày",
+   "emoji": "",
+   "ipa": "/ˈmɪn.ə.rəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "allocation",
+   "meaning": "sự chỉ định",
+   "example": "Let's learn the word \"allocation\".",
+   "exampleMeaning": "Cùng học từ “allocation”: sự chỉ định.",
+   "emoji": "",
+   "ipa": "/ˌæləˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "specialize",
+   "meaning": "chuyên về",
+   "example": "I specialize in medieval history.",
+   "exampleMeaning": "Tôi chuyên về lịch sử thời Trung cổ.",
+   "emoji": "",
+   "ipa": "/ˈspɛʃəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "studio",
+   "meaning": "xưởng vẽ, xưởng điêu khắc",
+   "example": "Let's learn the word \"studio\".",
+   "exampleMeaning": "Cùng học từ “studio”: xưởng vẽ, xưởng điêu khắc.",
+   "emoji": "",
+   "ipa": "/ˈstudiˌoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "behalf",
+   "meaning": "on (in) behalf of thay mặt cho",
+   "example": "I'm appealing on behalf of the famine victims.",
+   "exampleMeaning": "Tôi khẩn khoản kêu gọi các ngài nhân danh các nạn nhân của vụ đói kém.",
+   "emoji": "",
+   "ipa": "/bɪˈhæf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "crossroads",
+   "meaning": "chúng tôi đến một giao lộ",
+   "example": "We came to a crossroads.",
+   "exampleMeaning": "Chúng tôi đến một giao lộ.",
+   "emoji": "",
+   "ipa": "/ˈkrɔsˌroʊdz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bald",
+   "meaning": "hói (đầu)",
+   "example": "Tom is bald, but John isn't.",
+   "exampleMeaning": "Tom thì hói nhưng John thì không.",
+   "emoji": "🦲",
+   "ipa": "/ˈbɔld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "biography",
+   "meaning": "tiểu sử",
+   "example": "Let's learn the word \"biography\".",
+   "exampleMeaning": "Cùng học từ “biography”: tiểu sử.",
+   "emoji": "",
+   "ipa": "/baɪˈɑɡrəfi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "bald"
+   ],
+   "reading": "",
+   "meaning": "Bạn có hói không?"
+  },
+  {
+   "tokens": [
+    "It's",
+    "too",
+    "hot",
+    "indoors"
+   ],
+   "reading": "",
+   "meaning": "Trong nhà nóng quá."
+  },
+  {
+   "tokens": [
+    "I",
+    "prefer",
+    "mineral",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích nước khoáng hơn."
+  },
+  {
+   "tokens": [
+    "I",
+    "specialize",
+    "in",
+    "medieval",
+    "history"
+   ],
+   "reading": "",
+   "meaning": "Tôi chuyên về lịch sử thời Trung cổ."
+  },
+  {
+   "tokens": [
+    "You",
+    "have",
+    "to",
+    "learn",
+    "standard",
+    "English"
+   ],
+   "reading": "",
+   "meaning": "Bạn phải học tiếng Anh tiêu chuẩn."
+  }
+ ],
+ "issues": []
+}

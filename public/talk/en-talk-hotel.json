@@ -1,0 +1,83 @@
+{
+ "id": "en-talk-hotel",
+ "lang": "en",
+ "order": 5,
+ "level": "B1",
+ "icon": "hotel",
+ "title": "Nhận phòng khách sạn",
+ "scene": "Bạn đến khách sạn và làm thủ tục nhận phòng.",
+ "roles": {
+  "A": "Lễ tân",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Good afternoon. Welcome to the Sunrise Hotel.",
+   "meaning": "Chào buổi chiều. Chào mừng quý khách đến khách sạn Sunrise."
+  },
+  {
+   "role": "B",
+   "text": "Hi. I have a reservation under the name Nguyen.",
+   "meaning": "Chào bạn. Tôi đã đặt phòng dưới tên Nguyễn."
+  },
+  {
+   "role": "A",
+   "text": "Let me check. A double room for three nights, right?",
+   "meaning": "Để tôi kiểm tra. Một phòng đôi ba đêm, đúng không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "That's right. Is breakfast included?",
+   "meaning": "Đúng rồi. Có kèm bữa sáng không?"
+  },
+  {
+   "role": "A",
+   "text": "Yes, breakfast is served from six to ten.",
+   "meaning": "Có ạ, bữa sáng phục vụ từ sáu đến mười giờ."
+  },
+  {
+   "role": "B",
+   "text": "Great. What's the Wi-Fi password?",
+   "meaning": "Tuyệt. Mật khẩu Wi-Fi là gì vậy?"
+  },
+  {
+   "role": "A",
+   "text": "It's on your key card. Can I see your passport, please?",
+   "meaning": "Mật khẩu ghi trên thẻ phòng. Cho tôi xem hộ chiếu của quý khách được không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "Here you are. What time is check-out?",
+   "meaning": "Đây ạ. Mấy giờ phải trả phòng?"
+  },
+  {
+   "role": "A",
+   "text": "Check-out is at noon. Your room is on the fifth floor.",
+   "meaning": "Trả phòng lúc mười hai giờ trưa. Phòng của quý khách ở tầng năm."
+  },
+  {
+   "role": "B",
+   "text": "Thank you. Could I get a wake-up call at seven?",
+   "meaning": "Cảm ơn. Bạn gọi báo thức cho tôi lúc bảy giờ được không?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "I have a reservation under the name Lan.",
+   "meaning": "Tôi đã đặt phòng dưới tên Lan."
+  },
+  {
+   "text": "Is breakfast included?",
+   "meaning": "Có kèm bữa sáng không?"
+  },
+  {
+   "text": "What time is check-out?",
+   "meaning": "Mấy giờ trả phòng?"
+  },
+  {
+   "text": "Could I get a wake-up call?",
+   "meaning": "Cho tôi đặt cuộc gọi báo thức được không?"
+  }
+ ]
+}

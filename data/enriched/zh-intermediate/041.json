@@ -1,0 +1,338 @@
+{
+ "lesson": 41,
+ "draft": true,
+ "words": [
+  {
+   "term": "合成",
+   "meaning": "tổng hợp (phản ứng hoá học)",
+   "example": "三个部分合成一个整体。",
+   "exampleMeaning": "Ba bộ phận hợp thành một chỉnh thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "慌",
+   "meaning": "cuống cuồng",
+   "example": "沉住气，不要慌。",
+   "exampleMeaning": "Cứ bình tĩnh, đừng cuống lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饼干",
+   "meaning": "bánh bích-quy",
+   "example": "我们来学“饼干”这个词。",
+   "exampleMeaning": "Cùng học từ “饼干”: bánh bích-quy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐnggān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "约束",
+   "meaning": "ràng buộc",
+   "example": "这种口头协议约束不了他们。",
+   "exampleMeaning": "Loại thoả thuận bằng miệng này không thể ràng buộc họ được đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuēshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "葡萄",
+   "meaning": "cây nho",
+   "example": "我们来学“葡萄”这个词。",
+   "exampleMeaning": "Cùng học từ “葡萄”: cây nho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pútao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "胡子",
+   "meaning": "râu",
+   "example": "我们来学“胡子”这个词。",
+   "exampleMeaning": "Cùng học từ “胡子”: râu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "húzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内在",
+   "meaning": "nội tại",
+   "example": "内在规律。",
+   "exampleMeaning": "Qui luật nội tại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèizài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "西装",
+   "meaning": "âu phục",
+   "example": "我们来学“西装”这个词。",
+   "exampleMeaning": "Cùng học từ “西装”: âu phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "猴",
+   "meaning": "ngồi chồm hổm (ngồi như khỉ)",
+   "example": "他猴在台阶上嗑瓜子儿。",
+   "exampleMeaning": "Nó ngồi chồm hổm trên thềm cắn hạt dưa.",
+   "emoji": "🐒",
+   "ipa": "",
+   "pinyin": "hóu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "优惠",
+   "meaning": "ưu đãi",
+   "example": "优惠条件",
+   "exampleMeaning": "Điều kiện ưu đãi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōuhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公告",
+   "meaning": "thông báo",
+   "example": "以上通令，公告全体公民周知。",
+   "exampleMeaning": "Cấp trên ra lệnh, thông báo cho toàn thể công dân được biết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōnggào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抬头",
+   "meaning": "ngẩng đầu",
+   "example": "我们来学“抬头”这个词。",
+   "exampleMeaning": "Cùng học từ “抬头”: ngẩng đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táitóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "答复",
+   "meaning": "trả lời",
+   "example": "会给你一个满意的答复的。",
+   "exampleMeaning": "Sẽ cho anh câu trả lời thoả đáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dáfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "灰色",
+   "meaning": "xám",
+   "example": "灰色的心情。",
+   "exampleMeaning": "Tâm tình xám xịt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huīsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跟随",
+   "meaning": "theo",
+   "example": "我无奈只得跟随着她。",
+   "exampleMeaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnsuí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分类",
+   "meaning": "phân loại",
+   "example": "把文件分类存档",
+   "exampleMeaning": "Đem giấy tờ phân loại để lưu hồ sơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnlèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "充足",
+   "meaning": "đầy đủ",
+   "example": "光线充足。",
+   "exampleMeaning": "Đầy đủ ánh sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngzú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "向上",
+   "meaning": "đi lên, hướng lên, lên",
+   "example": "好好学习，天天向上。",
+   "exampleMeaning": "Chăm chỉ học tập, ngày càng vươn lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机制",
+   "meaning": "làm bằng máy",
+   "example": "机制煤球。",
+   "exampleMeaning": "Than viên làm bằng máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "艰苦",
+   "meaning": "gian khổ",
+   "example": "艰苦的岁月。",
+   "exampleMeaning": "Những ngày tháng gian khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānkǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "您",
+    "赞成",
+    "还是",
+    "反对",
+    "他",
+    "的",
+    "想法"
+   ],
+   "reading": "nín zànchéng háishi fǎnduì tā de xiǎngfǎ",
+   "meaning": "Ông tán thành hay phản đối ý kiến của nó?"
+  },
+  {
+   "tokens": [
+    "在",
+    "某种",
+    "程度",
+    "上",
+    "我",
+    "能",
+    "了解",
+    "你"
+   ],
+   "reading": "zài mǒuzhǒng chéngdù shàng wǒ néng liǎojiě nǐ",
+   "meaning": "Tôi có thể hiểu bạn ở mức độ nào đó."
+  },
+  {
+   "tokens": [
+    "他",
+    "不",
+    "是",
+    "我",
+    "父亲",
+    "他",
+    "是",
+    "我",
+    "叔叔"
+   ],
+   "reading": "tā bù shì wǒ fùqīn tā shì wǒ shūshu",
+   "meaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "顶",
+    "红",
+    "帽子",
+    "很",
+    "衬",
+    "她",
+    "的",
+    "裙子"
+   ],
+   "reading": "zhè dǐng hóng màozi hěn chèn tā de qúnzi",
+   "meaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy."
+  }
+ ],
+ "issues": []
+}

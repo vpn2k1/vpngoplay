@@ -1,0 +1,319 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "ride",
+   "meaning": "đi ngựa, cưỡi ngựa, đi ngựa (qua một vùng)",
+   "example": "to ride a child on one's back",
+   "exampleMeaning": "Cho đứa bé cưỡi lên lưng",
+   "emoji": "",
+   "ipa": "/ˈraɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "correct",
+   "meaning": "đúng, chính xác",
+   "example": "to correct one's watch by...",
+   "exampleMeaning": "Hiệu chỉnh lại đồng hồ theo..., lấy lại đồng hồ theo...",
+   "emoji": "",
+   "ipa": "/kəˈrɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "know",
+   "meaning": "biết",
+   "example": "do you know of his return?",
+   "exampleMeaning": "Anh đã biết tin ông ta trở về chưa?",
+   "emoji": "",
+   "ipa": "/nəʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mean",
+   "meaning": "định, có ý định, muốn",
+   "example": "Does he really mean to do it?",
+   "exampleMeaning": "Có thật nó có ý định làm cái đó không?",
+   "emoji": "",
+   "ipa": "/miːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "little",
+   "meaning": "ít, một chút",
+   "example": "to little know that...",
+   "exampleMeaning": "Không dè rằng...",
+   "emoji": "",
+   "ipa": "/ˈlɪtl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "Internet",
+   "meaning": "Một hệ thống các mạng máy tính được liên kết với nhau trên phạm vi toàn thế giới",
+   "example": "I use the internet in the bathroom.",
+   "exampleMeaning": "Tôi dùng internet trong phòng tắm.",
+   "emoji": "",
+   "ipa": "/ˈɪntɜrˌnɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "couch",
+   "meaning": "giường",
+   "example": "on a couch of pain",
+   "exampleMeaning": "Trên giường bệnh",
+   "emoji": "",
+   "ipa": "/ˈkaʊtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flag",
+   "meaning": "cờ",
+   "example": "The national flag of Vietnam is red.",
+   "exampleMeaning": "Quốc kỳ của Việt Nam có màu đỏ.",
+   "emoji": "",
+   "ipa": "/ˈflæɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "end",
+   "meaning": "kết thúc, chấm dứt, kết luận",
+   "example": "Where did she end up staying?",
+   "exampleMeaning": "Vậy cô ấy đã ở đâu?",
+   "emoji": "",
+   "ipa": "/ˈɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "orange",
+   "meaning": "quả cam",
+   "example": "Have you ever squeezed an orange?",
+   "exampleMeaning": "Bạn đã bao giờ vắt cam chưa?",
+   "emoji": "",
+   "ipa": "/ˈɔrəndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wrong",
+   "meaning": "sai, không đúng, lầm",
+   "example": "what's wrong with that?",
+   "exampleMeaning": "Được cả, không có gì không ổn phải không?",
+   "emoji": "",
+   "ipa": "/ˈrɔŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "change",
+   "meaning": "đổi, thay, thay đổi",
+   "example": "when does the moon change?",
+   "exampleMeaning": "Khi nào sang tuần trăng mới, khi nào có trăng non?",
+   "emoji": "",
+   "ipa": "/t͡ʃeɪnd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "art",
+   "meaning": "nghệ thuật",
+   "example": "Who buys this type of art?",
+   "exampleMeaning": "Ai mua loại tác phẩm nghệ thuật này?",
+   "emoji": "",
+   "ipa": "/ˈɑrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nothing",
+   "meaning": "không, không cái gì",
+   "example": "to have nothing to do with",
+   "exampleMeaning": "Không có quan hệ gì với, không dính dáng gì với",
+   "emoji": "",
+   "ipa": "/ˈnəθɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "miss",
+   "meaning": "lỡ, trượt, hỏng",
+   "example": "to miss a part of a speech",
+   "exampleMeaning": "Không nghe một phần của bài nói",
+   "emoji": "",
+   "ipa": "/mɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tired",
+   "meaning": "mệt, mệt mỏi, nhọc",
+   "example": "to be tired of doing the same things",
+   "exampleMeaning": "Chán ngấy làm những việc như nhau",
+   "emoji": "",
+   "ipa": "/ˈtaɪɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "yesterday",
+   "meaning": "hôm qua",
+   "example": "Yesterday was cold.",
+   "exampleMeaning": "Hôm qua trời lạnh.",
+   "emoji": "",
+   "ipa": "/ˈjɛstədeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fairy",
+   "meaning": "tiên nữ, nàng tiên",
+   "example": "I like Czech fairy tales.",
+   "exampleMeaning": "Tôi thích truyện cổ tích Séc.",
+   "emoji": "🧚",
+   "ipa": "/ˈfɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "play",
+   "meaning": "chơi, đánh (đàn... ), thổi (sáo... )",
+   "example": "to win the match by good play",
+   "exampleMeaning": "Thắng trận đấu nhờ lối chơi hay",
+   "emoji": "",
+   "ipa": "/ˈpleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "December",
+   "meaning": "tháng mười hai, tháng chạp",
+   "example": "December is the last month of a year.",
+   "exampleMeaning": "Tháng mười hai là tháng cuối cùng của một năm.",
+   "emoji": "",
+   "ipa": "/dɪˈsɛmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "know",
+    "nothing"
+   ],
+   "reading": "",
+   "meaning": "Tôi chẳng biết gì cả."
+  },
+  {
+   "tokens": [
+    "I",
+    "know",
+    "what's",
+    "wrong"
+   ],
+   "reading": "",
+   "meaning": "Tôi biết cái gì sai rồi."
+  },
+  {
+   "tokens": [
+    "I",
+    "know",
+    "nothing",
+    "yet"
+   ],
+   "reading": "",
+   "meaning": "Tôi vẫn chưa biết gì cả."
+  },
+  {
+   "tokens": [
+    "He",
+    "did",
+    "nothing",
+    "wrong"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy không làm gì sai."
+  },
+  {
+   "tokens": [
+    "I",
+    "know",
+    "what",
+    "you",
+    "mean"
+   ],
+   "reading": "",
+   "meaning": "Tôi hiểu ý bạn."
+  }
+ ],
+ "issues": []
+}

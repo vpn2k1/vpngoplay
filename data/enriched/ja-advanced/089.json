@@ -1,0 +1,337 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "教師",
+   "meaning": "giáo viên, cán bộ giảng dạy",
+   "example": "彼は経験豊かな教師だ。",
+   "exampleMeaning": "Ông ấy là một giáo viên giàu kinh nghiệm.",
+   "emoji": "🧑‍🏫",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "歴代",
+   "meaning": "successive generations (EN)",
+   "example": "「歴代」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歴代”: successive generations (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "数日",
+   "meaning": "few days (EN)",
+   "example": "数日間、雨が降り続いた。",
+   "exampleMeaning": "Trời đã mưa suốt mấy ngày liền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "使い",
+   "meaning": "việc vặt",
+   "example": "君は辞書の使い方を学ぶべきだ。",
+   "exampleMeaning": "Bạn cần học cách sử dụng từ điển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一票",
+   "meaning": "one vote (EN)",
+   "example": "「一票」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一票”: one vote (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公安",
+   "meaning": "an toàn công cộng",
+   "example": "「公安」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公安”: an toàn công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "指揮者",
+   "meaning": "người chỉ huy, người chỉ đạo",
+   "example": "「指揮者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “指揮者”: người chỉ huy, người chỉ đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中国人",
+   "meaning": "Chinese person (EN)",
+   "example": "料理となると中国人にはかなわないね。",
+   "exampleMeaning": "Khi nói về ẩm thực, chúng ta còn thua xa người Trung Quốc nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "喚問",
+   "meaning": "sự gọi đến, sự triệu đến",
+   "example": "「喚問」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “喚問”: sự gọi đến, sự triệu đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "役員",
+   "meaning": "giám đốc, quan đốc chính (hồi cách mạng Pháp), sự thực hiện",
+   "example": "「役員」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “役員”: giám đốc, quan đốc chính (hồi cách mạng Pháp), sự thực hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "根幹",
+   "meaning": "sự thành lập, sự sáng lập, sự thiết lập",
+   "example": "「根幹」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “根幹”: sự thành lập, sự sáng lập, sự thiết lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "問題点",
+   "meaning": "vấn đề",
+   "example": "「問題点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “問題点”: vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "復帰",
+   "meaning": "sự trở lại, sự trở về, sự quay trở lại",
+   "example": "「復帰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “復帰”: sự trở lại, sự trở về, sự quay trở lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "警察庁",
+   "meaning": "National Police Agency (EN)",
+   "example": "「警察庁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “警察庁”: National Police Agency (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人間関係",
+   "meaning": "quan hệ con người",
+   "example": "「人間関係」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人間関係”: quan hệ con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "被告人",
+   "meaning": "bị cáo",
+   "example": "「被告人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “被告人”: bị cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "苦しみ",
+   "meaning": "sự đau đớn, sự đau khổ (thể chất",
+   "example": "「苦しみ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “苦しみ”: sự đau đớn, sự đau khổ (thể chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "給付",
+   "meaning": "sự cung cấp",
+   "example": "「給付」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “給付”: sự cung cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陳述",
+   "meaning": "sự bày tỏ, sự trình bày, sự phát biểu",
+   "example": "私は彼の陳述の正確さを疑い始めた。",
+   "exampleMeaning": "Tôi đã bắt đầu nghi ngờ tính xác thực trong tuyên bố của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "反戦",
+   "meaning": "chống chiến tranh",
+   "example": "「反戦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反戦”: chống chiến tranh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "目的",
+    "で",
+    "英語",
+    "を",
+    "学び",
+    "始めた"
+   ],
+   "reading": "わたしはきょうしになるもくてきでえいごをまなびはじめた",
+   "meaning": "Tôi đã bắt đầu học tiếng Anh với mục đích là trở thành một giáo viên."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "つもり",
+    "で",
+    "英語",
+    "を",
+    "学び",
+    "始めた"
+   ],
+   "reading": "わたしはきょうしになるつもりでえいごをまなびはじめた",
+   "meaning": "Tôi đã bắt đầu học tiếng Anh để trở thành một giáo viên."
+  },
+  {
+   "tokens": [
+    "ワードプロセッサー",
+    "の",
+    "使い方",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "ワードプロセッサーのつかいかたをしっていますか",
+   "meaning": "Bạn có biết cách sử dụng phần mềm soạn thảo văn bản không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "経験",
+    "豊かな",
+    "教師",
+    "だ"
+   ],
+   "reading": "かれはけいけんゆたかなきょうしだ",
+   "meaning": "Ông ấy là một giáo viên giàu kinh nghiệm."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "つもり",
+    "だった"
+   ],
+   "reading": "わたしはきょうしになるつもりだった",
+   "meaning": "Tôi có ý định trở thành giáo viên."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 145,
+ "draft": true,
+ "words": [
+  {
+   "term": "字母",
+   "meaning": "chữ",
+   "example": "拉丁字母",
+   "exampleMeaning": "Chữ La Tinh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìmǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "个别",
+   "meaning": "riêng",
+   "example": "这种情况是极其个别的。",
+   "exampleMeaning": "Tình huống như thế cực kỳ hiếm có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gèbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "利息",
+   "meaning": "lãi",
+   "example": "定期存款的利息是多少？",
+   "exampleMeaning": "Lãi định kỳ là bao nhiêu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "潮流",
+   "meaning": "trào lưu",
+   "example": "革命潮流。",
+   "exampleMeaning": "Trào lưu cách mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cháoliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预订",
+   "meaning": "đặt trước",
+   "example": "预订报纸",
+   "exampleMeaning": "Đặt mua báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "袜子",
+   "meaning": "bít tất",
+   "example": "我们来学“袜子”这个词。",
+   "exampleMeaning": "Cùng học từ “袜子”: bít tất.",
+   "emoji": "🧦",
+   "ipa": "",
+   "pinyin": "wàzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "推销",
+   "meaning": "đẩy mạnh tiêu thụ",
+   "example": "把大量的工业品推销到农村去。",
+   "exampleMeaning": "Mang nhiều sản phẩm công nghiệp tiêu thụ ở nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīxiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毛巾",
+   "meaning": "khăn mặt",
+   "example": "我们来学“毛巾”这个词。",
+   "exampleMeaning": "Cùng học từ “毛巾”: khăn mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "máojīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "趋势",
+   "meaning": "xu thế",
+   "example": "当前世界的总趋势。",
+   "exampleMeaning": "Xu thế chung của thế giới hiện nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qūshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学术",
+   "meaning": "học thuật",
+   "example": "学术性刊物。",
+   "exampleMeaning": "Tập san học thuật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuéshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "原料",
+   "meaning": "nguyên liệu",
+   "example": "工业原料种类极多。",
+   "exampleMeaning": "Nguyên liệu công nghiệp có rất nhiều loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "透明",
+   "meaning": "trong suốt",
+   "example": "水是无色透明的液体。",
+   "exampleMeaning": "Nước là chất lỏng trong suốt không màu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòumíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阳台",
+   "meaning": "sân thượng",
+   "example": "我们来学“阳台”这个词。",
+   "exampleMeaning": "Cùng học từ “阳台”: sân thượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抄",
+   "meaning": "chép",
+   "example": "你就只抄了这么多张啊？",
+   "exampleMeaning": "Anh chỉ chép được có bây nhiêu trang thôi à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寒冷",
+   "meaning": "lạnh",
+   "example": "我們已經習慣寒冷了。",
+   "exampleMeaning": "Chúng tôi đã quen với cái lạnh rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hánlěng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鲜花",
+   "meaning": "hoa tươi",
+   "example": "我们来学“鲜花”这个词。",
+   "exampleMeaning": "Cùng học từ “鲜花”: hoa tươi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānhuā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名片",
+   "meaning": "danh thiếp",
+   "example": "我们来学“名片”这个词。",
+   "exampleMeaning": "Cùng học từ “名片”: danh thiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冬季",
+   "meaning": "mùa đông",
+   "example": "冬季快來了。",
+   "exampleMeaning": "Mùa đông đang tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "智力",
+   "meaning": "trí lực",
+   "example": "我们来学“智力”这个词。",
+   "exampleMeaning": "Cùng học từ “智力”: trí lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "降落",
+   "meaning": "xuống (cầu thang... )",
+   "example": "飞机降落在新山一机场。",
+   "exampleMeaning": "Máy bay xuống sân bay Tân Sơn Nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàngluò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "已经",
+    "习惯",
+    "寒冷",
+    "了"
+   ],
+   "reading": "wǒmen yǐjīng xíguàn hánlěng le",
+   "meaning": "Chúng tôi đã quen với cái lạnh rồi."
+  },
+  {
+   "tokens": [
+    "你",
+    "就",
+    "只",
+    "抄",
+    "了",
+    "这么",
+    "多",
+    "张",
+    "啊"
+   ],
+   "reading": "nǐ jiù zhǐ chāo le zhème duō zhāng ā",
+   "meaning": "Anh chỉ chép được có bây nhiêu trang thôi à?"
+  },
+  {
+   "tokens": [
+    "冬季",
+    "快",
+    "来",
+    "了"
+   ],
+   "reading": "dōngjì kuài lái le",
+   "meaning": "Mùa đông đang tới."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "降落",
+    "在",
+    "新山",
+    "一",
+    "机场"
+   ],
+   "reading": "fēijī jiàngluò zài xīnshān yī jīchǎng",
+   "meaning": "Máy bay xuống sân bay Tân Sơn Nhất."
+  },
+  {
+   "tokens": [
+    "我",
+    "看",
+    "了",
+    "他",
+    "的",
+    "书"
+   ],
+   "reading": "wǒ kàn le tā de shū",
+   "meaning": "Tôi đã xem sách của ổng."
+  }
+ ],
+ "issues": []
+}

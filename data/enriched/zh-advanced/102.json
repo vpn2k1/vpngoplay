@@ -1,0 +1,334 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "勇于",
+   "meaning": "dũng cảm",
+   "example": "勇于承认错误。",
+   "exampleMeaning": "Mạnh dạn thừa nhận sai lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒngyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扣押",
+   "meaning": "giam",
+   "example": "犯人已被扣押。",
+   "exampleMeaning": "Phạm nhân đã bị giam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòuyā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "富豪",
+   "meaning": "phú hào",
+   "example": "我们来学“富豪”这个词。",
+   "exampleMeaning": "Cùng học từ “富豪”: phú hào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùháo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反思",
+   "meaning": "nghĩ lại",
+   "example": "反思过去，是为了以后。",
+   "exampleMeaning": "Nghĩ lại chuyện đã qua là vì mai sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnsī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胀",
+   "meaning": "đầy",
+   "example": "热胀冷缩",
+   "exampleMeaning": "Nóng thì nở ra lạnh thì co lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "要害",
+   "meaning": "chỗ hiểm (trên thân thể)",
+   "example": "击中要害",
+   "exampleMeaning": "Đánh trúng chỗ hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàohài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "坚实",
+   "meaning": "rắn chắc",
+   "example": "坚实的基础。",
+   "exampleMeaning": "Cơ sở vững chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "醒目",
+   "meaning": "rõ ràng",
+   "example": "我们来学“醒目”这个词。",
+   "exampleMeaning": "Cùng học từ “醒目”: rõ ràng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐngmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "组装",
+   "meaning": "lắp ráp",
+   "example": "进口原件，国内组装。",
+   "exampleMeaning": "Nhập khẩu linh kiện, lắp ráp trong nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "向来",
+   "meaning": "luôn luôn",
+   "example": "他做事向来认真。",
+   "exampleMeaning": "Anh ấy làm việc luôn chăm chỉ cẩn thận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànglái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "投机",
+   "meaning": "đầu cơ",
+   "example": "我们一路上谈得很投机。",
+   "exampleMeaning": "Dọc đường đi chúng tôi nói chuyện rất hợp ý nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóujī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打通",
+   "meaning": "thông",
+   "example": "把这两个房间打通。",
+   "exampleMeaning": "Thông hai căn phòng với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎtōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "黄昏",
+   "meaning": "hoàng hôn",
+   "example": "我们来学“黄昏”这个词。",
+   "exampleMeaning": "Cùng học từ “黄昏”: hoàng hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huánghūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "流量",
+   "meaning": "lưu lượng (dòng chảy)",
+   "example": "旅客流量。",
+   "exampleMeaning": "Lưu lượng hành khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "戒烟",
+   "meaning": "cai thuốc lá",
+   "example": "我们来学“戒烟”这个词。",
+   "exampleMeaning": "Cùng học từ “戒烟”: cai thuốc lá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jièyān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交付",
+   "meaning": "bàn giao",
+   "example": "新楼房已经交付使用。",
+   "exampleMeaning": "Ngôi nhà lầu mới đã được bàn giao sử dụng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāofù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有所不同",
+   "meaning": "khác nhau ở một mức độ nào đó (thành ngữ)",
+   "example": "我们来学“有所不同”这个词。",
+   "exampleMeaning": "Cùng học từ “有所不同”: khác nhau ở một mức độ nào đó (thành ngữ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒusuǒbùtóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "展望",
+   "meaning": "nhìn về tương lai",
+   "example": "他爬上山顶，向四周展望。",
+   "exampleMeaning": "Anh ấy trèo lên đỉnh núi, nhìn ra bốn phía",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "情结",
+   "meaning": "cảm xúc vướng mắc trong lòng",
+   "example": "我们来学“情结”这个词。",
+   "exampleMeaning": "Cùng học từ “情结”: cảm xúc vướng mắc trong lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知名度",
+   "meaning": "tiếng tăm",
+   "example": "他是个知名度很高的人。",
+   "exampleMeaning": "Anh ấy là một người rất có tiếng tăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīmíngdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "我",
+    "看见",
+    "了",
+    "马",
+    "库",
+    "斯",
+    "的",
+    "房子"
+   ],
+   "reading": "wǒ kànjiàn le mǎ kù sī de fángzi",
+   "meaning": "Tôi đã thấy nhà của Marcus."
+  },
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "拒绝",
+    "他",
+    "吃",
+    "晚饭",
+    "的",
+    "邀请"
+   ],
+   "reading": "wǒ huì jùjué tā chī wǎnfàn de yāoqǐng",
+   "meaning": "Tôi từ chối lời mời cơm tối của anh ấy."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  }
+ ],
+ "issues": []
+}

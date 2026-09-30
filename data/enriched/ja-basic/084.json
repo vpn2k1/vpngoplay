@@ -1,0 +1,330 @@
+{
+ "lesson": 84,
+ "draft": true,
+ "words": [
+  {
+   "term": "人物",
+   "meaning": "tính nết, tính cách",
+   "example": "「人物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人物”: tính nết, tính cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行き",
+   "meaning": "sự ra đi",
+   "example": "どこに行きますか？",
+   "exampleMeaning": "Bạn đi đâu đấy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "刑",
+   "meaning": "hình phạt, tiền phạt",
+   "example": "男は刑事に銃を向けた。",
+   "exampleMeaning": "Tom chĩa súng vào người thám tử đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "現実",
+   "meaning": "sự thực, thực tế, thực tại",
+   "example": "あなたは赤裸々な現実を直視すべきだ。",
+   "exampleMeaning": "Bạn cần phải nhìn thẳng vào sự thật trần trụi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "注文",
+   "meaning": "thứ, bậc, ngôi",
+   "example": "私は電話でピザを注文した。",
+   "exampleMeaning": "Tôi đã gọi pizza qua điện thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自慢",
+   "meaning": "sự kiêu hãnh, sự hãnh diện",
+   "example": "彼は入学試験に合格したことを自慢した。",
+   "exampleMeaning": "Anh ta tự hào vì đã thi đỗ kì thi nhập học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "投票",
+   "meaning": "sự bỏ phiếu, sự bầu cử, sự biểu quyết",
+   "example": "俺に投票してくれ！",
+   "exampleMeaning": "Hãy bầu cho tôi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全て",
+   "meaning": "tất cả, hết thảy, toàn bộ",
+   "example": "全てが正常に戻りつつある。",
+   "exampleMeaning": "Mọi thứ đang trở lại bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "揃える",
+   "meaning": "sắp xếp, sắp đặt, sửa soạn",
+   "example": "「揃える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “揃える”: sắp xếp, sắp đặt, sửa soạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "決定",
+   "meaning": "sự giải quyết (một vấn đề... )",
+   "example": "教育が決定的な要素の一つである。",
+   "exampleMeaning": "Giáo dục là một yếu tố quyết định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "流れる",
+   "meaning": "chảy, ào ạt, tuôn trào",
+   "example": "小川がさらさらと流れる音が聞こえる。",
+   "exampleMeaning": "Dòng sông nhỏ chảy róc rách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無駄",
+   "meaning": "sự vô ích, sự không có hiệu quả",
+   "example": "言い訳をしても無駄だ。",
+   "exampleMeaning": "Có bào chữa thì cũng vô dụng thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "年齢",
+   "meaning": "tuổi",
+   "example": "彼女は私くらいの年齢だ。",
+   "exampleMeaning": "Cô ấy trạc tuổi tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "歩道",
+   "meaning": "đường dành cho người đi bộ",
+   "example": "「歩道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歩道”: đường dành cho người đi bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "楽器",
+   "meaning": "nhạc cụ",
+   "example": "「楽器」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “楽器”: nhạc cụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新興",
+   "meaning": "sự dậy, sự trở dậy, sự đứng dậy",
+   "example": "「新興」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新興”: sự dậy, sự trở dậy, sự đứng dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "癖",
+   "meaning": "thói quen, tập quán",
+   "example": "悪癖を捨てるのは簡単ではない。",
+   "exampleMeaning": "Từ bỏ những thói quen xấu là một việc không đơn giản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "捲る",
+   "meaning": "đảo",
+   "example": "「捲る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “捲る”: đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "書物",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của book",
+   "example": "「書物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “書物”: động từ chia ở ngôi thứ ba số ít của book.",
+   "emoji": "📚",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弱める",
+   "meaning": "làm yếu đi, làm nhụt",
+   "example": "「弱める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弱める”: làm yếu đi, làm nhụt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "歩いて",
+    "行きます"
+   ],
+   "reading": "わたしはあるいていきます",
+   "meaning": "Tôi sẽ đi bộ."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "私",
+    "くらい",
+    "の",
+    "年齢",
+    "だ"
+   ],
+   "reading": "かのじょはわたしくらいのねんれいだ",
+   "meaning": "Cô ấy trạc tuổi tôi."
+  },
+  {
+   "tokens": [
+    "父",
+    "は",
+    "車",
+    "で",
+    "仕事",
+    "に",
+    "行きます"
+   ],
+   "reading": "ちちはくるまでしごとにいきます",
+   "meaning": "Ba tui đi làm bằng xe hơi."
+  },
+  {
+   "tokens": [
+    "ぜひ",
+    "行き",
+    "たい",
+    "のです",
+    "が"
+   ],
+   "reading": "ぜひいきたいのですが",
+   "meaning": "Tôi thật sự rất muốn đi."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "電話",
+    "で",
+    "ピザ",
+    "を",
+    "注文",
+    "した"
+   ],
+   "reading": "わたしはでんわでピザをちゅうもんした",
+   "meaning": "Tôi đã gọi pizza qua điện thoại."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,315 @@
+{
+ "lesson": 149,
+ "draft": true,
+ "words": [
+  {
+   "term": "instruction",
+   "meaning": "sự dạy",
+   "example": "Let's learn the word \"instruction\".",
+   "exampleMeaning": "Cùng học từ “instruction”: sự dạy.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈstrəkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nectar",
+   "meaning": "mật (hoa)",
+   "example": "Let's learn the word \"nectar\".",
+   "exampleMeaning": "Cùng học từ “nectar”: mật (hoa).",
+   "emoji": "",
+   "ipa": "/ˈnɛktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "considerable",
+   "meaning": "đáng kể, to tát, lớn",
+   "example": "Air provides considerable thermal insulation when trapped in a chamber.",
+   "exampleMeaning": "Không khí sẽ có khả năng cách nhiệt đáng kể khi bị nhốt vào trong buồng.",
+   "emoji": "",
+   "ipa": "/kənˈsɪdɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "worn",
+   "meaning": "động tính từ quá khứ của wear",
+   "example": "It seems to have worn out.",
+   "exampleMeaning": "Hình như đã rất mệt mỏi rồi.",
+   "emoji": "",
+   "ipa": "/ˈwɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "comet",
+   "meaning": "sao chổi",
+   "example": "Let's learn the word \"comet\".",
+   "exampleMeaning": "Cùng học từ “comet”: sao chổi.",
+   "emoji": "☄",
+   "ipa": "/ˈkɑmət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mathematics",
+   "meaning": "môn toán, toán học",
+   "example": "Today's pure mathematics is tomorrow's applied mathematics.",
+   "exampleMeaning": "Toán học thuần tuý của hôm nay là toán học ứng dụng của ngày mai.",
+   "emoji": "",
+   "ipa": "/mæθ(ə)ˈmætɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cliff",
+   "meaning": "vách đá (nhô ra biển)",
+   "example": "Let's learn the word \"cliff\".",
+   "exampleMeaning": "Cùng học từ “cliff”: vách đá (nhô ra biển).",
+   "emoji": "",
+   "ipa": "/ˈklɪf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "treat",
+   "meaning": "đối xử, đối đãi, cư xử",
+   "example": "to treat someone to a good dinner",
+   "exampleMeaning": "Thết ai một bữa cơm ngon",
+   "emoji": "",
+   "ipa": "/ˈtrit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unpack",
+   "meaning": "mở (gói, va li... ) tháo (kiện hàng)",
+   "example": "Let's learn the word \"unpack\".",
+   "exampleMeaning": "Cùng học từ “unpack”: mở (gói, va li... ) tháo (kiện hàng).",
+   "emoji": "",
+   "ipa": "/ənˈpæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shallow",
+   "meaning": "nông cạn, hời hợt",
+   "example": "a shallow love",
+   "exampleMeaning": "Tình yêu hời hợt",
+   "emoji": "",
+   "ipa": "/ˈʃæloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "careless",
+   "meaning": "không để ý, không lưu ý, không chú ý",
+   "example": "to be careless of hardship",
+   "exampleMeaning": "Không để ý tới gian khổ",
+   "emoji": "",
+   "ipa": "/ˈkɛəlɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "defender",
+   "meaning": "người che chở, người bảo vệ",
+   "example": "Let's learn the word \"defender\".",
+   "exampleMeaning": "Cùng học từ “defender”: người che chở, người bảo vệ.",
+   "emoji": "",
+   "ipa": "/dɪˈfɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tale",
+   "meaning": "truyện, truyện ngắn",
+   "example": "tale of adventure",
+   "exampleMeaning": "Truyện phiêu lưu mạo hiểm",
+   "emoji": "",
+   "ipa": "/ˈteɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scan",
+   "meaning": "nhìn lướt, đọc lướt",
+   "example": "to scan a page",
+   "exampleMeaning": "Đọc lướt một trang sách",
+   "emoji": "",
+   "ipa": "/ˈskæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shocking",
+   "meaning": "chướng, khó coi",
+   "example": "Let's learn the word \"shocking\".",
+   "exampleMeaning": "Cùng học từ “shocking”: chướng, khó coi.",
+   "emoji": "",
+   "ipa": "/ˈʃɑkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "participate",
+   "meaning": "tham gia, tham dự",
+   "example": "his poems participate of the nature of satire",
+   "exampleMeaning": "Thơ của anh ta phần nào mang tính chất châm biếm",
+   "emoji": "",
+   "ipa": "/pɑrˈtɪsəˌpeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cucumber",
+   "meaning": "cây dưa chuột",
+   "example": "Let's learn the word \"cucumber\".",
+   "exampleMeaning": "Cùng học từ “cucumber”: cây dưa chuột.",
+   "emoji": "🥒",
+   "ipa": "/ˈkjukəmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "producer",
+   "meaning": "người sản xuất",
+   "example": "Let's learn the word \"producer\".",
+   "exampleMeaning": "Cùng học từ “producer”: người sản xuất.",
+   "emoji": "",
+   "ipa": "/prəˈdusɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interface",
+   "meaning": "giao diện, Giao tiếp",
+   "example": "I don't like the interface of that operating system.",
+   "exampleMeaning": "Tôi không thích giao diện của hệ điều hành này.",
+   "emoji": "",
+   "ipa": "/ˈɪnɜrˌfeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "intervention",
+   "meaning": "sự xen vào, sự can thiệp",
+   "example": "Let's learn the word \"intervention\".",
+   "exampleMeaning": "Cùng học từ “intervention”: sự xen vào, sự can thiệp.",
+   "emoji": "",
+   "ipa": "/ˌɪntɜrˈvɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Everything",
+    "is",
+    "mathematics"
+   ],
+   "reading": "",
+   "meaning": "Cái gì cũng là Toán."
+  },
+  {
+   "tokens": [
+    "Mathematics",
+    "is",
+    "difficult"
+   ],
+   "reading": "",
+   "meaning": "Môn toán khó."
+  },
+  {
+   "tokens": [
+    "I",
+    "study",
+    "mathematics"
+   ],
+   "reading": "",
+   "meaning": "Tôi học toán."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "cucumber"
+   ],
+   "reading": "",
+   "meaning": "Tôi là dưa chuột."
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "like",
+    "mathematics"
+   ],
+   "reading": "",
+   "meaning": "Mình chả thích toán nơi."
+  }
+ ],
+ "issues": []
+}

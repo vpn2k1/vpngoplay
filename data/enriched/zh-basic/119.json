@@ -1,0 +1,339 @@
+{
+ "lesson": 119,
+ "draft": true,
+ "words": [
+  {
+   "term": "发挥",
+   "meaning": "phát huy",
+   "example": "发挥炮兵的威力",
+   "exampleMeaning": "Phát huy uy lực của pháo binh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāhuī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "符合",
+   "meaning": "phù hợp",
+   "example": "这些产品不符合质量标准。",
+   "exampleMeaning": "Mấy sản phẩm này không phù hợp với tiêu chuẩn chất lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "编",
+   "meaning": "biên",
+   "example": "编入...",
+   "exampleMeaning": "Đưa... vào biên chế",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "独立",
+   "meaning": "độc lập",
+   "example": "独立山巅的苍松。",
+   "exampleMeaning": "Cây tùng xanh xanh đứng sừng sững trên đỉnh núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表情",
+   "meaning": "nét mặt",
+   "example": "他脸上流露出兴奋的表情。",
+   "exampleMeaning": "Trên mặt anh ta toát nên vẻ hứng khởi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎoqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "躺",
+   "meaning": "nằm (trên vật gì)",
+   "example": "一棵大树横躺在路上。",
+   "exampleMeaning": "Một cây to nằm vắt ngang đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "采访",
+   "meaning": "săn tin",
+   "example": "加强图书采访工作。",
+   "exampleMeaning": "Đẩy mạnh công việc thu thập sách báo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎifǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "针对",
+   "meaning": "nhằm vào",
+   "example": "针对儿童的心理特点进行教育。",
+   "exampleMeaning": "Nhằm vào đặc điểm tâm lý trẻ em để tiến hành giáo dục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "即将",
+   "meaning": "sắp",
+   "example": "展览会即将闭幕。",
+   "exampleMeaning": "Triển lãm sắp bế mạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíjiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宝",
+   "meaning": "ngọc đá quý",
+   "example": "我们来学“宝”这个词。",
+   "exampleMeaning": "Cùng học từ “宝”: ngọc đá quý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "答案",
+   "meaning": "câu trả lời",
+   "example": "寻求答案",
+   "exampleMeaning": "Tìm câu trả lời; tìm lời giải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dáàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "规则",
+   "meaning": "quy tắc",
+   "example": "我不喜欢学习不规则动词。",
+   "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīzé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "激动",
+   "meaning": "xúc động (tình cảm)",
+   "example": "情绪激动。",
+   "exampleMeaning": "Tình cảm xúc động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "依然",
+   "meaning": "như xưa",
+   "example": "依然如故",
+   "exampleMeaning": "Vẫn như xưa; vẫn như ngày nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阶段",
+   "meaning": "giai đoạn",
+   "example": "大桥第一阶段的工程已经完成。",
+   "exampleMeaning": "Giai đoạn một của công trình cầu lớn đã hoàn thành xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "擦",
+   "meaning": "lau, lau bóng, đánh bóng",
+   "example": "她进屋前擦了鞋。",
+   "exampleMeaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "无聊",
+   "meaning": "vô vị",
+   "example": "他一闲下来，便感到无聊。",
+   "exampleMeaning": "Ông ta hễ rỗi rãi là thấy buồn chán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúliáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一致",
+   "meaning": "nhất trí",
+   "example": "看法一致。",
+   "exampleMeaning": "Nhất trí về quan điểm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宝宝",
+   "meaning": "bé cưng",
+   "example": "村里别人家的“宝宝”也都不差。",
+   "exampleMeaning": "Mấy chú tằm của những nhà khác trong thôn cũng đều khoẻ mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎobao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刺激",
+   "meaning": "thúc",
+   "example": "刺激生产力的发展。",
+   "exampleMeaning": "Thúc đẩy phát triển sức sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cìjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "不",
+    "喜欢",
+    "学习",
+    "不",
+    "规则",
+    "动词"
+   ],
+   "reading": "wǒ bù xǐhuan xuéxí bù guīzé dòngcí",
+   "meaning": "Tôi không thích học các động từ bất quy tắc."
+  },
+  {
+   "tokens": [
+    "她",
+    "进",
+    "屋",
+    "前",
+    "擦",
+    "了",
+    "鞋"
+   ],
+   "reading": "tā jìn wū qián cā le xié",
+   "meaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch."
+  },
+  {
+   "tokens": [
+    "又来了",
+    "又来了",
+    "你",
+    "真",
+    "能",
+    "拿",
+    "我",
+    "开心"
+   ],
+   "reading": "yòuláile yòuláile nǐ zhēn néng ná wǒ kāixīn",
+   "meaning": "Lại thế rồi, lại thế rồi. Cậu thật là biết lấy tớ ra làm trò cười đấy."
+  },
+  {
+   "tokens": [
+    "事先",
+    "打",
+    "个",
+    "招呼",
+    "别",
+    "叫",
+    "我",
+    "临时",
+    "抓瞎"
+   ],
+   "reading": "shìxiān dǎ gè zhāohu bié jiào wǒ línshí zhuāxiā",
+   "meaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng."
+  },
+  {
+   "tokens": [
+    "这样",
+    "做",
+    "的话",
+    "什么",
+    "都",
+    "不",
+    "会",
+    "改变",
+    "的"
+   ],
+   "reading": "zhèyàng zuò dehuà shénme dōu bù huì gǎibiàn de",
+   "meaning": "Không có gì thay đổi cả."
+  }
+ ],
+ "issues": []
+}

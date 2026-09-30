@@ -1,0 +1,341 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "进化",
+   "meaning": "tiến hoá",
+   "example": "我们来学“进化”这个词。",
+   "exampleMeaning": "Cùng học từ “进化”: tiến hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高跟鞋",
+   "meaning": "giầy cao gót",
+   "example": "我们来学“高跟鞋”这个词。",
+   "exampleMeaning": "Cùng học từ “高跟鞋”: giầy cao gót.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāogēnxié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "风光",
+   "meaning": "nở mày nở mặt",
+   "example": "儿子有出息，母亲也觉得风光。",
+   "exampleMeaning": "Con trai giỏi giang, làm mẹ cũng cảm thấy nở mày nở mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "为难",
+   "meaning": "khó xử",
+   "example": "为难的事",
+   "exampleMeaning": "Việc khó xử",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéinán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上涨",
+   "meaning": "dâng lên",
+   "example": "河水上涨。",
+   "exampleMeaning": "Mực nước dâng lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "消极",
+   "meaning": "tiêu cực",
+   "example": "消极防御 (单纯取守势的防御)。",
+   "exampleMeaning": "Phòng ngự thế thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāojí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "摔倒",
+   "meaning": "ngã",
+   "example": "我们来学“摔倒”这个词。",
+   "exampleMeaning": "Cùng học từ “摔倒”: ngã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāidǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活泼",
+   "meaning": "sinh động",
+   "example": "这篇报道，文字活泼。",
+   "exampleMeaning": "Bài báo này viết rất sinh động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huópo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "支配",
+   "meaning": "sắp xếp",
+   "example": "合理支配时间。",
+   "exampleMeaning": "Sắp xếp thời gian hợp lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīpèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "支出",
+   "meaning": "chi",
+   "example": "尽量控制非生产性的支出。",
+   "exampleMeaning": "Ra sức khống chế khoản chi mang tính chất phi sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分解",
+   "meaning": "giải thích",
+   "example": "让他替你们分解 分解。",
+   "exampleMeaning": "Nhờ anh ấy thay các anh giải quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诗歌",
+   "meaning": "thơ ca",
+   "example": "我们来学“诗歌”这个词。",
+   "exampleMeaning": "Cùng học từ “诗歌”: thơ ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīgē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "热量",
+   "meaning": "nhiệt lượng",
+   "example": "我们来学“热量”这个词。",
+   "exampleMeaning": "Cùng học từ “热量”: nhiệt lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "签证",
+   "meaning": "thị thực",
+   "example": "我们来学“签证”这个词。",
+   "exampleMeaning": "Cùng học từ “签证”: thị thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "周期",
+   "meaning": "chu kỳ",
+   "example": "我们来学“周期”这个词。",
+   "exampleMeaning": "Cùng học từ “周期”: chu kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōuqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "亏",
+   "meaning": "phụ",
+   "example": "人不亏地 ，地不亏人。",
+   "exampleMeaning": "Người không phụ đất, đất không phụ người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直线",
+   "meaning": "trực tiếp",
+   "example": "直线电话",
+   "exampleMeaning": "Điện thoại trực tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "口号",
+   "meaning": "khẩu hiệu",
+   "example": "标语口号。",
+   "exampleMeaning": "Biểu ngữ khẩu hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "键盘",
+   "meaning": "bàn phím",
+   "example": "我们来学“键盘”这个词。",
+   "exampleMeaning": "Cùng học từ “键盘”: bàn phím.",
+   "emoji": "⌨",
+   "ipa": "",
+   "pinyin": "jiànpán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拆除",
+   "meaning": "dỡ bỏ",
+   "example": "我们来学“拆除”这个词。",
+   "exampleMeaning": "Cùng học từ “拆除”: dỡ bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāichú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "帕克",
+    "夫人",
+    "面带",
+    "微笑",
+    "向",
+    "他",
+    "打",
+    "招呼"
+   ],
+   "reading": "pàkè fūren miàndài wēixiào xiàng tā dǎ zhāohu",
+   "meaning": "Bà Parker mỉm cười chào anh ấy."
+  },
+  {
+   "tokens": [
+    "我们",
+    "的",
+    "眼睛",
+    "需要",
+    "时间",
+    "来",
+    "适应",
+    "黑暗"
+   ],
+   "reading": "wǒmen de yǎnjing xūyào shíjiān lái shìyìng hēiàn",
+   "meaning": "Mắt của chúng ta cần thời gian để điều chỉnh với bóng tối."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  }
+ ],
+ "issues": []
+}

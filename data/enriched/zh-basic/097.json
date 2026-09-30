@@ -1,0 +1,338 @@
+{
+ "lesson": 97,
+ "draft": true,
+ "words": [
+  {
+   "term": "邮件",
+   "meaning": "bưu kiện",
+   "example": "我们来学“邮件”这个词。",
+   "exampleMeaning": "Cùng học từ “邮件”: bưu kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóujiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "突出",
+   "meaning": "nổi bật",
+   "example": "突出的颧骨",
+   "exampleMeaning": "Xương gò má nhô lên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tūchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "其次",
+   "meaning": "sau đó",
+   "example": "内容是主要的，形式还在其次。",
+   "exampleMeaning": "Nội dung là chủ yếu, hình thức vẫn là thứ yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qícì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乐观",
+   "meaning": "vui vẻ",
+   "example": "不要盲目乐观。",
+   "exampleMeaning": "Đừng để vui quá mất khôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "会员",
+   "meaning": "hội viên",
+   "example": "新闻协会会员",
+   "exampleMeaning": "Hội viên hội nhà báo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热烈",
+   "meaning": "nhiệt liệt",
+   "example": "小组会上发言很热烈。",
+   "exampleMeaning": "Cuộc họp tổ, phát biểu rất sôi động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèliè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相似",
+   "meaning": "giống nhau",
+   "example": "这两个人年貌相似。",
+   "exampleMeaning": "Hai người này tuổi tác và dung mạo giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngsì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "往往",
+   "meaning": "thường thường",
+   "example": "然而，相反的理论往往也是真的。",
+   "exampleMeaning": "Nhưng, sự trái ngược cũng luôn luôn có lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "带领",
+   "meaning": "dẫn",
+   "example": "老同学带领新同学去见老师。",
+   "exampleMeaning": "Học sinh cũ đưa học sinh mới đi gặp thầy cô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàilǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "可靠",
+   "meaning": "sự đáng tin",
+   "example": "他忠诚老实，为人很可靠。",
+   "exampleMeaning": "Anh ấy trung thành chân thật, người ta rất tin cậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěkào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "决心",
+   "meaning": "quyết tâm",
+   "example": "下定决心。",
+   "exampleMeaning": "Hạ quyết tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "球迷",
+   "meaning": "người mê bóng",
+   "example": "我们来学“球迷”这个词。",
+   "exampleMeaning": "Cùng học từ “球迷”: người mê bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiúmí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "补充",
+   "meaning": "bổ sung",
+   "example": "互为补充（彼此相辅相成）。",
+   "exampleMeaning": "Bổ sung cho nhau",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǔchōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "克服",
+   "meaning": "chịu đựng",
+   "example": "克服急躁情绪。",
+   "exampleMeaning": "Che dấu sự luống cuống。",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kèfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文字",
+   "meaning": "văn",
+   "example": "文字清通",
+   "exampleMeaning": "Hành văn trong sáng lưu loát",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénzì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有利",
+   "meaning": "có lợi",
+   "example": "积极储蓄既有利于国家建设，又有利于个人。",
+   "exampleMeaning": "Tích cực tích luỹ thì vừa có lợi cho việc xây dựng đất nước, lại vừa có lợi cho cá nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒulì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热爱",
+   "meaning": "yêu, nhiệt tâm, tha thiết",
+   "example": "热爱工作。",
+   "exampleMeaning": "Nhiệt tình công tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "体现",
+   "meaning": "thể hiện",
+   "example": "说实话，办实事，体现出了他的务实精神。",
+   "exampleMeaning": "Nói thực, làm thực, thể hiện tinh thần thiết thực của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "家具",
+   "meaning": "đồ dùng trong nhà",
+   "example": "家具商店",
+   "exampleMeaning": "Cửa hàng đồ dùng trong nhà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiājù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生长",
+   "meaning": "lớn lên",
+   "example": "新生力量不断生长。",
+   "exampleMeaning": "Lực lượng mới không ngừng lớn lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "然而",
+    "相反",
+    "的",
+    "理论",
+    "往往",
+    "也",
+    "是",
+    "真",
+    "的"
+   ],
+   "reading": "ránér xiāngfǎn de lǐlùn wǎngwǎng yě shì zhēn de",
+   "meaning": "Nhưng, sự trái ngược cũng luôn luôn có lý."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "他",
+    "对",
+    "你",
+    "说",
+    "了",
+    "些",
+    "什么"
+   ],
+   "reading": "tā duì nǐ shuō le xiē shénme",
+   "meaning": "Anh ấy nói những gì với chị?"
+  },
+  {
+   "tokens": [
+    "你",
+    "想",
+    "怎么",
+    "说",
+    "就",
+    "说",
+    "吧"
+   ],
+   "reading": "nǐ xiǎng zěnme shuō jiù shuō ba",
+   "meaning": "Anh muốn nói thế nào thì cứ nói đi."
+  },
+  {
+   "tokens": [
+    "我",
+    "也",
+    "和",
+    "你",
+    "想",
+    "的",
+    "一样"
+   ],
+   "reading": "wǒ yě hé nǐ xiǎng de yīyàng",
+   "meaning": "Tôi cũng nghĩ như anh."
+  }
+ ],
+ "issues": []
+}

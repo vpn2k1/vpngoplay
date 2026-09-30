@@ -1,0 +1,322 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "delicious",
+   "meaning": "thơm tho, ngon ngọt, ngọt ngào",
+   "example": "Your cake was delicious!",
+   "exampleMeaning": "Cái bánh ngọt của bạn ngon quá!",
+   "emoji": "",
+   "ipa": "/dɪˈlɪʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "gray",
+   "meaning": "xám",
+   "example": "Tom dyed his hair gray so he'd look older.",
+   "exampleMeaning": "Tom nhuộm tóc bạc để có thể trông già dặn hơn.",
+   "emoji": "",
+   "ipa": "/ˈɡreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "expensive",
+   "meaning": "đắt",
+   "example": "She gave him an expensive watch.",
+   "exampleMeaning": "Cô ấy đưa cho anh ấy một chiếc đồng hồ đắt tiền.",
+   "emoji": "",
+   "ipa": "/ɪkˈspɛnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "everyday",
+   "meaning": "hằng ngày, dùng hàng ngày",
+   "example": "an everyday young man",
+   "exampleMeaning": "Một gã thanh niên tầm thường",
+   "emoji": "",
+   "ipa": "/ˈɛvriˈdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pardon",
+   "meaning": "tha thứ, tha lỗi, xá tội",
+   "example": "I beg your pardon?",
+   "exampleMeaning": "Ông có thể nói lại một lần nữa được không ạ?",
+   "emoji": "",
+   "ipa": "/ˈpɑrdən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dictionary",
+   "meaning": "từ điển",
+   "example": "May I borrow your dictionary?",
+   "exampleMeaning": "Tôi mượn cuốn từ điển của bạn có được không?",
+   "emoji": "",
+   "ipa": "/ˈdɪk.ʃə.nə.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "else",
+   "meaning": "khác, nữa",
+   "example": "Nothing else matters.",
+   "exampleMeaning": "Không có gì khác quan trọng cả.",
+   "emoji": "",
+   "ipa": "/ˈɛls/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "begin",
+   "meaning": "bắt đầu, khởi đầu, mở đầu",
+   "example": "May I begin?",
+   "exampleMeaning": "Tôi có thể bắt đầu được không?",
+   "emoji": "",
+   "ipa": "/bɪˈɡɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "seventy",
+   "meaning": "bảy mươi",
+   "example": "You need two years to learn to talk and seventy to learn to shut up.",
+   "exampleMeaning": "Bạn cần hai năm học cách nói chuyện và bảy mươi năm học cách im miệng.",
+   "emoji": "",
+   "ipa": "/ˈsɛvəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "self",
+   "meaning": "(đùa cợt) bản thân",
+   "example": "self is a bad guide to happiness",
+   "exampleMeaning": "Chỉ chăm chú vào mình thì khó đạt được hạnh phúc",
+   "emoji": "",
+   "ipa": "/ˈsɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "boyfriend",
+   "meaning": "bạn trai",
+   "example": "What did you buy your boyfriend?",
+   "exampleMeaning": "Bạn đã mua gì cho bạn trai bạn vậy?",
+   "emoji": "",
+   "ipa": "/ˈbɔɪˌfrɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "theater",
+   "meaning": "rạp hát, nhà hát",
+   "example": "to go to the theater",
+   "exampleMeaning": "Đi xem hát",
+   "emoji": "",
+   "ipa": "/ˈθiətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "twelve",
+   "meaning": "mười hai",
+   "example": "I spent twelve hours on the train.",
+   "exampleMeaning": "Tôi dành 12 tiếng trên tàu",
+   "emoji": "",
+   "ipa": "/ˈtwɛlv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "speak",
+   "meaning": "nói lên",
+   "example": "I will speak to him about it",
+   "exampleMeaning": "Tôi sẽ nói chuyện với anh ta về vấn đề đó",
+   "emoji": "",
+   "ipa": "/spiːk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hometown",
+   "meaning": "quê nhà = My hometown has a beautiful beach: Quê tôi có bãi biển đẹp",
+   "example": "Where is your hometown?",
+   "exampleMeaning": "Quê bạn ở đâu?",
+   "emoji": "",
+   "ipa": "/ˈhoʊmˌtaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "husband",
+   "meaning": "chồng",
+   "example": "My husband is a good man.",
+   "exampleMeaning": "Chồng tôi là một người đàn ông tốt.",
+   "emoji": "",
+   "ipa": "/ˈhʌz.bənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "worry",
+   "meaning": "lo, lo nghĩ",
+   "example": "I worry about Tom.",
+   "exampleMeaning": "Tôi lo cho Tom.",
+   "emoji": "",
+   "ipa": "/ˈwɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "circle",
+   "meaning": "sự tuần hoàn",
+   "example": "the circle of the seasons",
+   "exampleMeaning": "Sự tuần hoàn của các mùa",
+   "emoji": "",
+   "ipa": "/ˈsɜrkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "child",
+   "meaning": "đứa bé, đứa trẻ",
+   "example": "Any child can do that.",
+   "exampleMeaning": "Trẻ con đều làm được.",
+   "emoji": "🧒",
+   "ipa": "/t͡ʃaɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "large",
+   "meaning": "rộng, lớn, to",
+   "example": "to give someone large powers",
+   "exampleMeaning": "Cho ai quyền hành rộng rãi",
+   "emoji": "",
+   "ipa": "/lɑːd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Pardon",
+    "me",
+    "do",
+    "you",
+    "speak",
+    "English"
+   ],
+   "reading": "",
+   "meaning": "Cho hỏi, bạn có nói tiếng Anh không vậy?"
+  },
+  {
+   "tokens": [
+    "There",
+    "was",
+    "a",
+    "large",
+    "audience",
+    "in",
+    "the",
+    "theater"
+   ],
+   "reading": "",
+   "meaning": "Có một lượng lớn khán giả tại rạp chiếu phim."
+  },
+  {
+   "tokens": [
+    "Justice",
+    "is",
+    "expensive"
+   ],
+   "reading": "",
+   "meaning": "Công lý rất đắt."
+  },
+  {
+   "tokens": [
+    "May",
+    "I",
+    "begin"
+   ],
+   "reading": "",
+   "meaning": "Tôi có thể bắt đầu được không?"
+  },
+  {
+   "tokens": [
+    "Beef",
+    "is",
+    "expensive"
+   ],
+   "reading": "",
+   "meaning": "Thịt bò rất đắt."
+  }
+ ],
+ "issues": []
+}

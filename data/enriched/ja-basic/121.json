@@ -1,0 +1,326 @@
+{
+ "lesson": 121,
+ "draft": true,
+ "words": [
+  {
+   "term": "巣",
+   "meaning": "tổ, ổ (chim, chuột... )",
+   "example": "「巣」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “巣”: tổ, ổ (chim, chuột... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "火災",
+   "meaning": "đám cháy lớn",
+   "example": "火災報知器が鳴った。",
+   "exampleMeaning": "Chuông báo cháy đã vang lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "戦う",
+   "meaning": "đấu tranh, chiến đấu, đánh nhau",
+   "example": "「戦う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戦う”: đấu tranh, chiến đấu, đánh nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爆発",
+   "meaning": "sự nổ",
+   "example": "「爆発」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “爆発”: sự nổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "バッグ",
+   "meaning": "túi",
+   "example": "このバッグ重すぎだよ。",
+   "exampleMeaning": "Cái túi này nặng quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "プロ",
+   "meaning": "chương trình",
+   "example": "プロフィール写真を変更したよ。",
+   "exampleMeaning": "Tôi đã thay đổi ảnh đại diện của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不安",
+   "meaning": "mối lo, mối lo âu, mối băn khoăn",
+   "example": "一晩中寒くて不安でした。",
+   "exampleMeaning": "Tôi cảm thấy lạnh và khó chịu suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "虎",
+   "meaning": "hổ, cọp",
+   "example": "虎穴に入らずんば虎子を得ず。",
+   "exampleMeaning": "Không vào hang cọp sao bắt được cọp con.",
+   "emoji": "🐅",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "慣行",
+   "meaning": "thói quen, tập quán",
+   "example": "「慣行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “慣行”: thói quen, tập quán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発展",
+   "meaning": "sự trình bày, sự bày tỏ, sự thuyết minh",
+   "example": "発展途上国では優れた技術者が不足している。",
+   "exampleMeaning": "Những quốc gia đang phát triển đang thiếu nguồn cung kỹ sư chất lượng cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生理",
+   "meaning": "sinh lý học",
+   "example": "「生理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生理”: sinh lý học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出合い",
+   "meaning": "sự gặp gỡ, sự bắt gặp",
+   "example": "「出合い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出合い”: sự gặp gỡ, sự bắt gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "スイッチ",
+   "meaning": "cành cây mềm",
+   "example": "私は暗闇の中で手探りで電気のスイッチを探した。",
+   "exampleMeaning": "Tôi lò mò tìm công tắc bật đèn trong bóng đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "実力",
+   "meaning": "năng lực, khả năng (làm việc gì)",
+   "example": "「実力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “実力”: năng lực, khả năng (làm việc gì).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "非常",
+   "meaning": "hết sức, rất",
+   "example": "彼らは非常に興奮していた。",
+   "exampleMeaning": "Họ đã rất hào hứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行動",
+   "meaning": "hành động, hành vi",
+   "example": "正義が行動によって表される。",
+   "exampleMeaning": "Sự chính nghĩa được thể hiện qua hành động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "載せる",
+   "meaning": "để, đặt",
+   "example": "「載せる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “載せる”: để, đặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "移動",
+   "meaning": "sự di trú",
+   "example": "「移動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “移動”: sự di trú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内容",
+   "meaning": "chủ đề",
+   "example": "「内容」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内容”: chủ đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "誤解",
+   "meaning": "sự hiểu lầm",
+   "example": "この翻訳は誤解を招く恐れがあります。",
+   "exampleMeaning": "Bản dịch này có thể gây hiểu lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "一晩中",
+    "寒くて",
+    "不安",
+    "でした"
+   ],
+   "reading": "ひとばんじゅうさむくてふあんでした",
+   "meaning": "Tôi cảm thấy lạnh và khó chịu suốt đêm."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "非常に",
+    "興奮",
+    "していた"
+   ],
+   "reading": "かれらはひじょうにこうふんしていた",
+   "meaning": "Họ đã rất hào hứng."
+  },
+  {
+   "tokens": [
+    "この",
+    "バッグ",
+    "の",
+    "中",
+    "には",
+    "何",
+    "が",
+    "入っています",
+    "か"
+   ],
+   "reading": "このバッグのなかにはなにがはいっていますか",
+   "meaning": "Trong túi này có gì vậy?"
+  },
+  {
+   "tokens": [
+    "火災報知器",
+    "が",
+    "鳴った"
+   ],
+   "reading": "かさいほうちきがなった",
+   "meaning": "Chuông báo cháy đã vang lên."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "を",
+    "誤解",
+    "して",
+    "しまって",
+    "ごめんなさい"
+   ],
+   "reading": "あなたをごかいしてしまってごめんなさい",
+   "meaning": "Tôi xin lỗi vì đã hiểu nhầm bạn."
+  }
+ ],
+ "issues": []
+}

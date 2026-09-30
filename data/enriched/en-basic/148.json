@@ -1,0 +1,316 @@
+{
+ "lesson": 148,
+ "draft": true,
+ "words": [
+  {
+   "term": "bakery",
+   "meaning": "lò bánh mì",
+   "example": "Let's learn the word \"bakery\".",
+   "exampleMeaning": "Cùng học từ “bakery”: lò bánh mì.",
+   "emoji": "",
+   "ipa": "/ˈbeɪkɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mailbox",
+   "meaning": "hộp thư",
+   "example": "Let's learn the word \"mailbox\".",
+   "exampleMeaning": "Cùng học từ “mailbox”: hộp thư.",
+   "emoji": "",
+   "ipa": "/ˈmeɪlˌbɑks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "freezer",
+   "meaning": "máy ướp lạnh",
+   "example": "Let's learn the word \"freezer\".",
+   "exampleMeaning": "Cùng học từ “freezer”: máy ướp lạnh.",
+   "emoji": "",
+   "ipa": "/ˈfrizɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "processor",
+   "meaning": "máy chế biến, máy xử lý",
+   "example": "Let's learn the word \"processor\".",
+   "exampleMeaning": "Cùng học từ “processor”: máy chế biến, máy xử lý.",
+   "emoji": "",
+   "ipa": "/ˈprɑˌsɛsɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "affection",
+   "meaning": "sự làm ảnh hưởng đến",
+   "example": "to have an affection for children",
+   "exampleMeaning": "Yêu trẻ",
+   "emoji": "",
+   "ipa": "/əˈfɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "household",
+   "meaning": "hộ, gia đình",
+   "example": "Let's learn the word \"household\".",
+   "exampleMeaning": "Cùng học từ “household”: hộ, gia đình.",
+   "emoji": "",
+   "ipa": "/ˈhaʊsˌhoʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "frustrated",
+   "meaning": "nản lòng, nản chí",
+   "example": "Were you really that frustrated?",
+   "exampleMeaning": "Bạn đã thật sự nản lòng đến vậy sao?",
+   "emoji": "",
+   "ipa": "/ˈfrəsˌtreɪtəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "immediately",
+   "meaning": "ngay lập tức, tức thì",
+   "example": "A solution immediately suggested itself to me.",
+   "exampleMeaning": "Một giải pháp ngay lập tức đã chợt nảy đến với tôi.",
+   "emoji": "",
+   "ipa": "/ˌɪˈmiˌdiətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "Atlantic",
+   "meaning": "núi At-lát (ở Li-bi)",
+   "example": "Let's learn the word \"Atlantic\".",
+   "exampleMeaning": "Cùng học từ “Atlantic”: núi At-lát (ở Li-bi).",
+   "emoji": "",
+   "ipa": "/ətˈlænɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "settler",
+   "meaning": "người giải quyết (vấn đề)",
+   "example": "Let's learn the word \"settler\".",
+   "exampleMeaning": "Cùng học từ “settler”: người giải quyết (vấn đề).",
+   "emoji": "",
+   "ipa": "/ˈsɛtəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "full-time",
+   "meaning": "về hoặc trong toàn bộ ngày làm việc hoặc tuần làm việc",
+   "example": "a full-time job",
+   "exampleMeaning": "Việc làm trọn ngày hoặc trọn tuần, trọn tháng",
+   "emoji": "",
+   "ipa": "/ˈfʊlˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "carton",
+   "meaning": "hộp các tông",
+   "example": "Take this carton of milk.",
+   "exampleMeaning": "Hãy lấy hộp sữa này.",
+   "emoji": "",
+   "ipa": "/ˈkɑrtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "questionnaire",
+   "meaning": "bản câu hỏi",
+   "example": "Let's learn the word \"questionnaire\".",
+   "exampleMeaning": "Cùng học từ “questionnaire”: bản câu hỏi.",
+   "emoji": "",
+   "ipa": "/ˌkwɛstʃəˈnɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accompany",
+   "meaning": "đi theo, đi cùng, đi kèm",
+   "example": "Let's learn the word \"accompany\".",
+   "exampleMeaning": "Cùng học từ “accompany”: đi theo, đi cùng, đi kèm.",
+   "emoji": "",
+   "ipa": "/əˈkəmpəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "poison",
+   "meaning": "chất độc, thuốc độc",
+   "example": "She committed suicide by poison to avoid beheading.",
+   "exampleMeaning": "Cô ta đã tự sát bằng thuốc độc để tránh bị xử trảm.",
+   "emoji": "",
+   "ipa": "/ˈpɔɪzən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "device",
+   "meaning": "dụng cụ",
+   "example": "My GPS device was stolen.",
+   "exampleMeaning": "Tôi bị trộm mất cái GPS rồi.",
+   "emoji": "",
+   "ipa": "/dɪˈvaɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "highly",
+   "meaning": "rất, lắm, hết sức",
+   "example": "The programming language Java is highly versatile.",
+   "exampleMeaning": "Ngôn ngữ lập trình Java rất đa năng.",
+   "emoji": "",
+   "ipa": "/ˈhaɪli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "because of",
+   "meaning": "vì, do bởi",
+   "example": "We can't sleep because of the noise.",
+   "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
+   "emoji": "",
+   "ipa": "/bɪˈkɑz ˈəv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reef",
+   "meaning": "mép buồm",
+   "example": "to take in a reef",
+   "exampleMeaning": "Xếp (cuốn) mép buồm lại; (nghĩa bóng) hành động thận trọng",
+   "emoji": "",
+   "ipa": "/ˈrif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "crisis",
+   "meaning": "khủng hoảng",
+   "example": "to come to a crisis",
+   "exampleMeaning": "Đến bước ngoặc, đến bước quyết định",
+   "emoji": "",
+   "ipa": "/ˈkraɪsəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Come",
+    "here",
+    "immediately"
+   ],
+   "reading": "",
+   "meaning": "Đến đây ngay lập tức."
+  },
+  {
+   "tokens": [
+    "I",
+    "apologized",
+    "immediately"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã xin lỗi ngay lúc đó."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "leaving",
+    "immediately"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ rời đi ngay."
+  },
+  {
+   "tokens": [
+    "The",
+    "rain",
+    "stopped",
+    "immediately"
+   ],
+   "reading": "",
+   "meaning": "Mưa tạnh ngay lập tức."
+  },
+  {
+   "tokens": [
+    "Is",
+    "sugar",
+    "a",
+    "poison"
+   ],
+   "reading": "",
+   "meaning": "Đường có phải chất độc không?"
+  }
+ ],
+ "issues": []
+}

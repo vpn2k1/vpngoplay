@@ -64,6 +64,16 @@ import Trophy from '~icons/fluent-emoji-flat/trophy'
 import WavingHand from '~icons/fluent-emoji-flat/waving-hand'
 import WhiteHeart from '~icons/fluent-emoji-flat/white-heart'
 import WorldMap from '~icons/fluent-emoji-flat/world-map'
+import WritingHand from '~icons/fluent-emoji-flat/writing-hand'
+import SpeechBalloon from '~icons/fluent-emoji-flat/speech-balloon'
+import Scroll from '~icons/fluent-emoji-flat/scroll'
+import StudioMicrophone from '~icons/fluent-emoji-flat/studio-microphone'
+import ForkAndKnifeWithPlate from '~icons/fluent-emoji-flat/fork-and-knife-with-plate'
+import ShoppingBags from '~icons/fluent-emoji-flat/shopping-bags'
+import Hotel from '~icons/fluent-emoji-flat/hotel'
+import Hospital from '~icons/fluent-emoji-flat/hospital'
+import TelephoneReceiver from '~icons/fluent-emoji-flat/telephone-receiver'
+import Necktie from '~icons/fluent-emoji-flat/necktie'
 import type { CourseLevel, GameSpeed, GrammarGroup, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
@@ -121,6 +131,18 @@ export const GRAMMAR_ICON: Record<GrammarGroup, IconType> = {
 
 export const SPEED_ICON: Record<GameSpeed, IconType> = { slow: Turtle, normal: Rabbit, fast: HighVoltage }
 
+/** Illustrations for conversation scenes (Dialogue.icon in public/talk/*.json) */
+export const TALK_ICON: Record<string, IconType> = {
+  greeting: WavingHand,
+  restaurant: ForkAndKnifeWithPlate,
+  shopping: ShoppingBags,
+  directions: Compass,
+  hotel: Hotel,
+  doctor: Hospital,
+  phone: TelephoneReceiver,
+  interview: Necktie,
+}
+
 export function ModeIcon({ mode, className }: { mode: { id: string; icon: string }; className?: string }) {
   const Icon = MODE_ICON[mode.id]
   if (Icon) return <Icon className={className} aria-hidden />
@@ -159,4 +181,8 @@ export {
   WavingHand,
   WhiteHeart,
   WorldMap,
+  WritingHand,
+  SpeechBalloon,
+  Scroll,
+  StudioMicrophone,
 }

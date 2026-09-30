@@ -1,0 +1,320 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "眠る",
+   "meaning": "ngủ",
+   "example": "すやすやと眠る娘の顔を見ると、また明日もがんばろうと思う。",
+   "exampleMeaning": "Khi nhìn khuôn mặt đang ngủ say của con gái tôi, tôi nghĩ: \"Ngày mai mình cũng phải cố gắng lên thôi\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "普通",
+   "meaning": "thường, thông thường, bình thường",
+   "example": "彼はごく普通の学生です。",
+   "exampleMeaning": "Cậu ta chỉ là một học sinh bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "親切",
+   "meaning": "sự tử tế, sự ân cần",
+   "example": "彼はとても親切だ！",
+   "exampleMeaning": "Nó rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用",
+   "meaning": "công tác, nghề nghiệp",
+   "example": "彼は信用できない。",
+   "exampleMeaning": "Không thể tin anh ta được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あんな",
+   "meaning": "như thế, như vậy, như loại đó",
+   "example": "トムがあんなに怒ってるの初めて見たよ。",
+   "exampleMeaning": "Đây là lần đầu tiên tôi thấy Tom tức đến thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腕",
+   "meaning": "cánh tay",
+   "example": "彼女は料理の腕を自負している。",
+   "exampleMeaning": "Cô ấy tự hào về kỹ năng nấu ăn của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "騒ぐ",
+   "meaning": "loan (tin), đồn",
+   "example": "「騒ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “騒ぐ”: loan (tin), đồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近所",
+   "meaning": "hàng xóm",
+   "example": "近所のアメリカ人は来年で日本に５年住んでいることになる。",
+   "exampleMeaning": "Năm sau sẽ là tròn 5 năm kể từ khi người hàng xóm Mỹ của chúng ta bắt đầu sống ở Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "布団",
+   "meaning": "futon (EN)",
+   "example": "「布団」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “布団”: futon (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ぶどう",
+   "meaning": "quả nho",
+   "example": "ぶどう酒に水を混ぜてはいけません。",
+   "exampleMeaning": "Bạn không được cho nước vào rượu nho.",
+   "emoji": "🍇",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "写す",
+   "meaning": "sao lại, chép lại",
+   "example": "「写す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “写す”: sao lại, chép lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一生懸命",
+   "meaning": "hăm hở, hăng hái, thiết tha",
+   "example": "君は一生懸命に努力しさえすればよい。",
+   "exampleMeaning": "Chỉ cần em cố gắng một cách nghiêm túc là được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "投げる",
+   "meaning": "ném, vứt, quăng",
+   "example": "犬に石を投げるな。",
+   "exampleMeaning": "Đừng ném đá vào con chó kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ステーキ",
+   "meaning": "miếng cá để nướng, miếng thịt để nướng",
+   "example": "「ステーキ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ステーキ”: miếng cá để nướng, miếng thịt để nướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "復習",
+   "meaning": "sự xem lại, sự xét lại (một bản án)",
+   "example": "みんなに伝えるがてらに自分も復習して勉強していきたいと思います。",
+   "exampleMeaning": "Tôi cũng mong rằng trong lúc tôi truyền đạt thông tin đến mọi người, chính tôi cũng có thể học và ôn tập lại những thông tin đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "店員",
+   "meaning": "người thư ký",
+   "example": "「店員」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “店員”: người thư ký.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まず",
+   "meaning": "trước tiên, trước hết",
+   "example": "空腹にまずいものなし。",
+   "exampleMeaning": "Khi đói thì ăn gì cũng ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "表",
+   "meaning": "mặt ngoài bề mặt, bề ngoài, bên ngoài",
+   "example": "正義が行動によって表される。",
+   "exampleMeaning": "Sự chính nghĩa được thể hiện qua hành động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集まる",
+   "meaning": "tập hợp, tụ họp lại",
+   "example": "「集まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “集まる”: tập hợp, tụ họp lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壊れる",
+   "meaning": "gãy, bể",
+   "example": "「壊れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “壊れる”: gãy, bể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "何の",
+    "用",
+    "だ"
+   ],
+   "reading": "なんのようだ",
+   "meaning": "Bạn muốn gì?"
+  },
+  {
+   "tokens": [
+    "他",
+    "に",
+    "ご用",
+    "は"
+   ],
+   "reading": "ほかにごようは",
+   "meaning": "Bạn có cần gí nữa không?"
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "親切",
+    "だ"
+   ],
+   "reading": "かのじょはしんせつだ",
+   "meaning": "Cô ấy là một người tốt bụng."
+  },
+  {
+   "tokens": [
+    "まず",
+    "京都",
+    "に",
+    "いく"
+   ],
+   "reading": "まずきょうとにいく",
+   "meaning": "Đầu tiên, chúng ta sẽ đi đến Kyoto."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私",
+    "に",
+    "親切",
+    "だ"
+   ],
+   "reading": "かれはわたしにしんせつだ",
+   "meaning": "Anh ấy tốt với tôi."
+  }
+ ],
+ "issues": []
+}

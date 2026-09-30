@@ -1,0 +1,321 @@
+{
+ "lesson": 107,
+ "draft": true,
+ "words": [
+  {
+   "term": "貴重",
+   "meaning": "quý, quý giá, quý báu",
+   "example": "健康ほど貴重な物はない。",
+   "exampleMeaning": "Không gì quý hơn sức khỏe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夢中",
+   "meaning": "đám đông, chen chúc, quá say mê",
+   "example": "トムはバスケに夢中だ。",
+   "exampleMeaning": "Tom rất mê bóng rổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "述べる",
+   "meaning": "phát biểu, nói rõ, tuyên bố",
+   "example": "「述べる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “述べる”: phát biểu, nói rõ, tuyên bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手品",
+   "meaning": "ảo thuật",
+   "example": "私には父親が手品師をしている友人がいます。",
+   "exampleMeaning": "Tôi có một người bạn có bố là ảo thuật gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "代表",
+   "meaning": "phái đoàn, đoàn đại biểu",
+   "example": "両国の代表団はジュネーブで会見した。",
+   "exampleMeaning": "Phái đoàn của hai nước sẽ gặp nhau tại Geneva.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "徹夜",
+   "meaning": "staying up all night (EN)",
+   "example": "弟はよく徹夜をする。",
+   "exampleMeaning": "Em trai tôi hay thức đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "書斎",
+   "meaning": "thư viện, phòng đọc sách",
+   "example": "彼は、よく書斎にこもって、こういうものを書きます。",
+   "exampleMeaning": "Anh ta thường ở ru rú trong phòng đọc sách và viết những thứ như thế này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "動揺",
+   "meaning": "sự làm mất yên tĩnh, sự làm náo động",
+   "example": "「動揺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “動揺”: sự làm mất yên tĩnh, sự làm náo động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "けち",
+   "meaning": "tính keo kiệt, tính bủn xỉn",
+   "example": "「けち」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “けち”: tính keo kiệt, tính bủn xỉn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "採集",
+   "meaning": "góp",
+   "example": "「採集」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “採集”: góp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重要",
+   "meaning": "quan trọng, trọng đại, trọng yếu",
+   "example": "友情ほど重要なものはない。",
+   "exampleMeaning": "Không gì quan trọng hơn tình bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "狂う",
+   "meaning": "làm phát điên",
+   "example": "「狂う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “狂う”: làm phát điên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "にっこり",
+   "meaning": "nụ cười",
+   "example": "「にっこり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “にっこり”: nụ cười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勘定",
+   "meaning": "sự tính, sự tính toán",
+   "example": "「勘定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勘定”: sự tính, sự tính toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注",
+   "meaning": "sự chú giải, sự chú thích",
+   "example": "御注目ください。",
+   "exampleMeaning": "Xin hãy chú ý!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "破産",
+   "meaning": "sự vỡ nợ, sự phá sản",
+   "example": "彼女は借金まみれになって、結局破産してしまった。",
+   "exampleMeaning": "Cô ấy lâm vào cảnh nợ nần, và cuối cùng đã phá sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "解釈",
+   "meaning": "sự giảng, sự giảng giải, sự giải nghĩa",
+   "example": "「解釈」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “解釈”: sự giảng, sự giảng giải, sự giải nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大",
+   "meaning": "rộng, lớn, to",
+   "example": "彼が大好き！",
+   "exampleMeaning": "Mình rất thích anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "心臓",
+   "meaning": "tim",
+   "example": "心臓の構造については中学で習う。",
+   "exampleMeaning": "Chúng tôi học về cấu tạo tim ở cấp 2.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いつか",
+   "meaning": "một ngày nào đó",
+   "example": "またいつか風のように走るんだ。",
+   "exampleMeaning": "Sẽ có một ngày tôi sẽ chạy nhanh như gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "御",
+    "注目",
+    "ください"
+   ],
+   "reading": "ごちゅうもくください",
+   "meaning": "Xin hãy chú ý!"
+  },
+  {
+   "tokens": [
+    "ケリー",
+    "は",
+    "大食漢",
+    "だ"
+   ],
+   "reading": "ケリーはたいしょくかんだ",
+   "meaning": "Kelly ăn như mỏ khoét vậy."
+  },
+  {
+   "tokens": [
+    "今週",
+    "は",
+    "ずっと",
+    "大変",
+    "忙しい"
+   ],
+   "reading": "こんしゅうはずっとたいへんいそがしい",
+   "meaning": "Tuần này tôi rất bận."
+  },
+  {
+   "tokens": [
+    "アメリカ",
+    "は",
+    "とても",
+    "大きい"
+   ],
+   "reading": "アメリカはとてもおおきい",
+   "meaning": "Nước Mỹ rất rộng lớn."
+  },
+  {
+   "tokens": [
+    "健康",
+    "ほど",
+    "貴重な",
+    "物",
+    "は",
+    "ない"
+   ],
+   "reading": "けんこうほどきちょうなものはない",
+   "meaning": "Không gì quý hơn sức khỏe."
+  }
+ ],
+ "issues": []
+}

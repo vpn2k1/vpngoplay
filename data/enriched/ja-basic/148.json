@@ -1,0 +1,335 @@
+{
+ "lesson": 148,
+ "draft": true,
+ "words": [
+  {
+   "term": "茹でる",
+   "meaning": "sôi",
+   "example": "「茹でる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “茹でる”: sôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "震える",
+   "meaning": "run, rùng mình",
+   "example": "「震える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “震える”: run, rùng mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ソファー",
+   "meaning": "ghế xôfa, ghế trường kỷ",
+   "example": "ソファーに横になっても構いませんか。",
+   "exampleMeaning": "Bạn có phiền không nếu tôi nằm trên ghế sofa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "豊富",
+   "meaning": "giàu, giàu có",
+   "example": "その国は石油が豊富である。",
+   "exampleMeaning": "Nước đó có trữ lượng dầu mỏ khổng lồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "犯罪",
+   "meaning": "một hành vi phạm pháp",
+   "example": "同性愛者ですが何か？それが犯罪だとでも？",
+   "exampleMeaning": "Bị gay thì sao? Cái đó cũng là tội à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全く",
+   "meaning": "đầy đủ, trọn vẹn, toàn bộ",
+   "example": "この辺は全く不案内です。",
+   "exampleMeaning": "Tôi không rành nơi này lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "文句",
+   "meaning": "lời than phiền, lời phàn nàn",
+   "example": "よくも彼は文句が言えたものだ。",
+   "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "作品",
+   "meaning": "tác phẩm (nhạc... )",
+   "example": "彼の作品については、この三つの言葉に尽きる。",
+   "exampleMeaning": "Tác phẩm của ông ấy có thể được tóm lại trong ba từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仏",
+   "meaning": "đức Phật (bậc Giác Ngộ)",
+   "example": "彼は仏教からキリスト教へ改宗した。",
+   "exampleMeaning": "Anh ấy đã chuyển tôn giáo của mình từ Phật Giáo sang Thiên Chúa Giáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一種",
+   "meaning": "loại, hạng, thứ",
+   "example": "「椎茸」はキノコの一種だ。",
+   "exampleMeaning": "\"Shiitake\" là một loài nấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "攻撃",
+   "meaning": "sự công kích, cơn (bệnh), đánh",
+   "example": "「攻撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “攻撃”: sự công kích, cơn (bệnh), đánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "判断",
+   "meaning": "sự xét xử",
+   "example": "我々は人を外見で判断すべきではない。",
+   "exampleMeaning": "Chúng ta không nên đánh giá người khác qua vẻ bề ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "武器",
+   "meaning": "vũ khí",
+   "example": "それは武器です。",
+   "exampleMeaning": "Đó là một vũ khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "命",
+   "meaning": "sự sống",
+   "example": "蝶の寿命は三日です。",
+   "exampleMeaning": "Tuổi thọ của bướm là ba ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用心",
+   "meaning": "sự chăm sóc, sự chăm nom, sự giữ gìn",
+   "example": "「用心」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “用心”: sự chăm sóc, sự chăm nom, sự giữ gìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "母親",
+   "meaning": "mẹ, mẹ đẻ",
+   "example": "母親がドアをノックした。",
+   "exampleMeaning": "Mẹ của anh ta gõ cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "戻す",
+   "meaning": "hoàn lại, trả lại",
+   "example": "「戻す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戻す”: hoàn lại, trả lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "超す",
+   "meaning": "qua, đi qua, vượt",
+   "example": "「超す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “超す”: qua, đi qua, vượt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成長",
+   "meaning": "sự lớn mạnh, sự phát triển",
+   "example": "日本経済は急速に成長した。",
+   "exampleMeaning": "Kinh tế Nhật Bản đang phát triển nhanh chóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お洒落",
+   "meaning": "bảnh bao, diện",
+   "example": "「お洒落」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お洒落”: bảnh bao, diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今",
+    "通り",
+    "には",
+    "全く",
+    "雪",
+    "が",
+    "ない"
+   ],
+   "reading": "いまとおりにはまったくゆきがない",
+   "meaning": "Bây giờ ngoài đường không còn tuyết nữa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "時々",
+    "母親",
+    "に",
+    "手紙",
+    "を",
+    "書く"
+   ],
+   "reading": "かれはときどきははおやにてがみをかく",
+   "meaning": "Anh ta thi thoảng viết thư cho mẹ."
+  },
+  {
+   "tokens": [
+    "その",
+    "国",
+    "は",
+    "石油",
+    "が",
+    "豊富",
+    "である"
+   ],
+   "reading": "そのくにはせきゆがほうふである",
+   "meaning": "Nước đó có trữ lượng dầu mỏ khổng lồ."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "全く",
+    "間違っています"
+   ],
+   "reading": "あなたはまったくまちがっています",
+   "meaning": "Bạn đã hoàn toàn sai lầm."
+  },
+  {
+   "tokens": [
+    "動物",
+    "の",
+    "命",
+    "は",
+    "我々",
+    "の",
+    "命",
+    "に劣らず",
+    "貴重",
+    "だ"
+   ],
+   "reading": "どうぶつのいのちはわれわれのいのちにおとらずきちょうだ",
+   "meaning": "Mạng sống của động vật cũng quý giá không kém mạng sống của chúng ta."
+  }
+ ],
+ "issues": []
+}

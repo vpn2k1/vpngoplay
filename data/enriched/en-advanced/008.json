@@ -1,0 +1,318 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "adoption",
+   "meaning": "sự nhận làm con nuôi",
+   "example": "Let's learn the word \"adoption\".",
+   "exampleMeaning": "Cùng học từ “adoption”: sự nhận làm con nuôi.",
+   "emoji": "",
+   "ipa": "/əˈdɑpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lifetime",
+   "meaning": "đời, cả cuộc đời",
+   "example": "I wish you both a lifetime of happiness.",
+   "exampleMeaning": "Chúc hai bạn hạnh phúc trọn đời.",
+   "emoji": "",
+   "ipa": "/ˈlaɪfˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pine",
+   "meaning": "cây thông",
+   "example": "Let's learn the word \"pine\".",
+   "exampleMeaning": "Cùng học từ “pine”: cây thông.",
+   "emoji": "",
+   "ipa": "/paɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "diarrhea",
+   "meaning": "như diarrhoea",
+   "example": "Let's learn the word \"diarrhea\".",
+   "exampleMeaning": "Cùng học từ “diarrhea”: như diarrhoea.",
+   "emoji": "",
+   "ipa": "/ˌdaɪɜrˈiə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "humane",
+   "meaning": "nhân đạo, nhân đức",
+   "example": "Let's learn the word \"humane\".",
+   "exampleMeaning": "Cùng học từ “humane”: nhân đạo, nhân đức.",
+   "emoji": "",
+   "ipa": "/hjuˈmeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "metric",
+   "meaning": "mét, (thuộc) hệ mét",
+   "example": "the metric system",
+   "exampleMeaning": "Hệ thống mét",
+   "emoji": "",
+   "ipa": "/ˈmɛtrɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disguise",
+   "meaning": "trá hình, cải trang",
+   "example": "He went into the bank in the disguise of a guard.",
+   "exampleMeaning": "Anh ta cải trang thành bảo vệ vào ngân hàng.",
+   "emoji": "",
+   "ipa": "/dɪsˈɡaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "retirement",
+   "meaning": "sự ẩn dật",
+   "example": "to live in retirement",
+   "exampleMeaning": "Sống ẩn dật",
+   "emoji": "",
+   "ipa": "/riˈtaɪɜrmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "found",
+   "meaning": "thành lập, sáng lập, xây dựng",
+   "example": "Mary found a job.",
+   "exampleMeaning": "Mary đã tìm được việc.",
+   "emoji": "",
+   "ipa": "/ˈfaʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "heap",
+   "meaning": "đống",
+   "example": "to heap a card with goods",
+   "exampleMeaning": "Chất đầy hàng lên xe bò",
+   "emoji": "",
+   "ipa": "/ˈhip/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "midst",
+   "meaning": "giữa",
+   "example": "in their midst; in the midst of them",
+   "exampleMeaning": "Ở giữa bọn họ",
+   "emoji": "",
+   "ipa": "/ˈmɪdst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "steer",
+   "meaning": "lái (tàu thuỷ, ô tô)",
+   "example": "to steer for a place",
+   "exampleMeaning": "Đi về phía nơi nào",
+   "emoji": "",
+   "ipa": "/ˈstɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "eternally",
+   "meaning": "vĩnh cửu, đời đời, vĩnh viễn",
+   "example": "Let's learn the word \"eternally\".",
+   "exampleMeaning": "Cùng học từ “eternally”: vĩnh cửu, đời đời, vĩnh viễn.",
+   "emoji": "",
+   "ipa": "/iˈtɜrnəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chromosome",
+   "meaning": "nhiễm thể, thể nhiễm sắc",
+   "example": "Let's learn the word \"chromosome\".",
+   "exampleMeaning": "Cùng học từ “chromosome”: nhiễm thể, thể nhiễm sắc.",
+   "emoji": "",
+   "ipa": "/ˈkroʊməˌsoʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mogul",
+   "meaning": "mogul người Mông-cổ",
+   "example": "Let's learn the word \"mogul\".",
+   "exampleMeaning": "Cùng học từ “mogul”: mogul người Mông-cổ.",
+   "emoji": "",
+   "ipa": "/ˈmoʊɡəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proudly",
+   "meaning": "kiêu ngạo, kiêu căng, kiêu hãnh",
+   "example": "Let's learn the word \"proudly\".",
+   "exampleMeaning": "Cùng học từ “proudly”: kiêu ngạo, kiêu căng, kiêu hãnh.",
+   "emoji": "",
+   "ipa": "/ˈpraʊdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nicely",
+   "meaning": "thú vị, dễ chịu, hay hay",
+   "example": "Let's learn the word \"nicely\".",
+   "exampleMeaning": "Cùng học từ “nicely”: thú vị, dễ chịu, hay hay.",
+   "emoji": "",
+   "ipa": "/ˈnaɪsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "educator",
+   "meaning": "thầy dạy",
+   "example": "Let's learn the word \"educator\".",
+   "exampleMeaning": "Cùng học từ “educator”: thầy dạy.",
+   "emoji": "",
+   "ipa": "/ˈɛdʒəˌkeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wondrous",
+   "meaning": "lạ lùng, kỳ diệu",
+   "example": "Let's learn the word \"wondrous\".",
+   "exampleMeaning": "Cùng học từ “wondrous”: lạ lùng, kỳ diệu.",
+   "emoji": "",
+   "ipa": "/ˈwəndrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hierarchy",
+   "meaning": "hệ thống cấp bậc",
+   "example": "Let's learn the word \"hierarchy\".",
+   "exampleMeaning": "Cùng học từ “hierarchy”: hệ thống cấp bậc.",
+   "emoji": "",
+   "ipa": "/ˈhaɪˌrɑrki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "found",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Tôi tìm thấy tiền này!"
+  },
+  {
+   "tokens": [
+    "I've",
+    "found",
+    "something",
+    "out"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã tìm thấy cái gì đó."
+  },
+  {
+   "tokens": [
+    "I",
+    "found",
+    "that",
+    "fascinating"
+   ],
+   "reading": "",
+   "meaning": "Tôi thấy điều đó thật hấp dẫn."
+  },
+  {
+   "tokens": [
+    "I",
+    "found",
+    "the",
+    "cave"
+   ],
+   "reading": "",
+   "meaning": "Tôi tìm thấy cái hang."
+  },
+  {
+   "tokens": [
+    "I",
+    "found",
+    "some",
+    "mushrooms"
+   ],
+   "reading": "",
+   "meaning": "Tôi tìm thấy một ít nấm."
+  }
+ ],
+ "issues": []
+}

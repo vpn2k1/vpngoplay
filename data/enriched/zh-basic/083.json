@@ -1,0 +1,326 @@
+{
+ "lesson": 83,
+ "draft": true,
+ "words": [
+  {
+   "term": "反正",
+   "meaning": "cho dù",
+   "example": "反正去不去都是一样。",
+   "exampleMeaning": "Cho dù đi hay không cũng vậy thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "内心",
+   "meaning": "đáy lòng",
+   "example": "发自内心的笑。",
+   "exampleMeaning": "Bật lên tiếng cười từ đáy lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèixīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发出",
+   "meaning": "công bố (mệnh lệnh, chỉ thị)",
+   "example": "不要发出声音。",
+   "exampleMeaning": "Đừng tạo tiếng động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "赶紧",
+   "meaning": "mau mau",
+   "example": "他病得不轻，要赶紧送医院。",
+   "exampleMeaning": "Anh bệnh không nhẹ, cần nhanh chóng đưa đi bệnh viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnjǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进一步",
+   "meaning": "thêm một bước",
+   "example": "我们再进一步说明一下，便于同志们了解。",
+   "exampleMeaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnyībù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "费",
+   "meaning": "dùng (thì giờ... ), tốn",
+   "example": "孩子穿衣裳真费。",
+   "exampleMeaning": "Trẻ con rất tốn quần áo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "防",
+   "meaning": "ngăn chặn",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "舞台",
+   "meaning": "vũ đài",
+   "example": "舞台艺术。",
+   "exampleMeaning": "Nghệ thuật sân khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "化",
+   "meaning": "hoá",
+   "example": "他把自己化裝成一個女人。",
+   "exampleMeaning": "Anh ấy đã đóng giả làm con gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不必",
+   "meaning": "không cần",
+   "example": "慢慢商议，不必着急。",
+   "exampleMeaning": "Từ từ bàn bạc, đừng có nóng vội",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "现金",
+   "meaning": "tiền, tiền mặt",
+   "example": "你已经输了全部现金，别再赌了。",
+   "exampleMeaning": "Mày đã thua hết sạch số tiền hiện có rồi, đừng đánh bạc nữa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调整",
+   "meaning": "điều chỉnh",
+   "example": "调整作息时间",
+   "exampleMeaning": "Điều chỉnh thời gian làm việc và nghỉ ngơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáozhěng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "糖",
+   "meaning": "kẹo",
+   "example": "水果糖",
+   "exampleMeaning": "Kẹo trái cây",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阳光",
+   "meaning": "ánh sáng mặt trời",
+   "example": "我们来学“阳光”这个词。",
+   "exampleMeaning": "Cùng học từ “阳光”: ánh sáng mặt trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "领",
+   "meaning": "lãnh",
+   "example": "她给了她父亲一条领带。",
+   "exampleMeaning": "Cô ấy đã đưa cho bố cô một chiếc cà vạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "紧急",
+   "meaning": "khẩn cấp",
+   "example": "紧急命令。",
+   "exampleMeaning": "Mệnh lệnh khẩn cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宣传",
+   "meaning": "tuyên truyền",
+   "example": "宣传共产主义。",
+   "exampleMeaning": "Tuyên truyền chủ nghĩa Cộng sản",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuānchuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "优势",
+   "meaning": "ưu thế",
+   "example": "上半场的比赛主队占优势。",
+   "exampleMeaning": "Ở hiệp đầu đội chủ nhà chiếm ưu thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōushì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "互相",
+   "meaning": "nhau",
+   "example": "我们应该互相帮助。",
+   "exampleMeaning": "Ta nên giúp đỡ nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hùxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "科技",
+   "meaning": "khoa học kỹ thuật",
+   "example": "科技资料。",
+   "exampleMeaning": "Tư liệu khoa học kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kējì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "应该",
+    "互相",
+    "帮助"
+   ],
+   "reading": "wǒmen yīnggāi hùxiāng bāngzhù",
+   "meaning": "Ta nên giúp đỡ nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "发出",
+    "声音"
+   ],
+   "reading": "bù yào fāchū shēngyīn",
+   "meaning": "Đừng tạo tiếng động."
+  },
+  {
+   "tokens": [
+    "他",
+    "把",
+    "自己",
+    "化装",
+    "成",
+    "一",
+    "个",
+    "女人"
+   ],
+   "reading": "tā bǎ zìjǐ huàzhuāng chéng yī gè nǚrén",
+   "meaning": "Anh ấy đã đóng giả làm con gái."
+  },
+  {
+   "tokens": [
+    "雪",
+    "化",
+    "了"
+   ],
+   "reading": "xuě huà le",
+   "meaning": "Tuyết tan rồi."
+  },
+  {
+   "tokens": [
+    "她",
+    "给",
+    "了",
+    "她",
+    "父亲",
+    "一",
+    "条",
+    "领带"
+   ],
+   "reading": "tā gěi le tā fùqīn yī tiáo lǐngdài",
+   "meaning": "Cô ấy đã đưa cho bố cô một chiếc cà vạt."
+  }
+ ],
+ "issues": []
+}

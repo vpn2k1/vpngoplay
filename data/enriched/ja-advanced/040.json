@@ -1,0 +1,342 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "山岳",
+   "meaning": "núi",
+   "example": "「山岳」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “山岳”: núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "技能",
+   "meaning": "kỹ năng đặc thù",
+   "example": "「技能」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “技能”: kỹ năng đặc thù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "バー",
+   "meaning": "barơ (đơn vị áp suất)",
+   "example": "彼も私もあのクラブのメンバーだ。",
+   "exampleMeaning": "Anh ấy và tôi đều là thành viên của câu lạc bộ đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "慣習",
+   "meaning": "phong tục, tục lệ",
+   "example": "「慣習」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “慣習”: phong tục, tục lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "購入",
+   "meaning": "mua",
+   "example": "彼らは家を購入するため貯金をしている。",
+   "exampleMeaning": "Họ đang tiết kiệm tiền để mua một căn nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "控える",
+   "meaning": "thiết bị hãm",
+   "example": "「控える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “控える”: thiết bị hãm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原点",
+   "meaning": "gốc, căn nguyên, dòng dõi",
+   "example": "「原点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原点”: gốc, căn nguyên, dòng dõi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "著名",
+   "meaning": "nổi tiếng, ai cũng biết",
+   "example": "「著名」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “著名”: nổi tiếng, ai cũng biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "了承",
+   "meaning": "sự nhận, sự công nhận, sự thừa nhận",
+   "example": "「了承」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “了承”: sự nhận, sự công nhận, sự thừa nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沿岸",
+   "meaning": "ven biển, bờ biển",
+   "example": "「沿岸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沿岸”: ven biển, bờ biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ぐっと",
+   "meaning": "vững chắc",
+   "example": "「ぐっと」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぐっと”: vững chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "跡継ぎ",
+   "meaning": "người thừa kế, người thừa tự",
+   "example": "「跡継ぎ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “跡継ぎ”: người thừa kế, người thừa tự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気立て",
+   "meaning": "tốt bụng, bản chất tốt, hiền hậu",
+   "example": "「気立て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気立て”: tốt bụng, bản chất tốt, hiền hậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お産",
+   "meaning": "sự sinh đẻ",
+   "example": "「お産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お産”: sự sinh đẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "繊維",
+   "meaning": "sợi, thớ",
+   "example": "「繊維」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “繊維”: sợi, thớ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "養う",
+   "meaning": "ngẩng lên, đưa lên",
+   "example": "「養う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “養う”: ngẩng lên, đưa lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "残酷",
+   "meaning": "sự hung ác, sự tàn ác, sự tàn bạo",
+   "example": "「残酷」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “残酷”: sự hung ác, sự tàn ác, sự tàn bạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "時折",
+   "meaning": "đôi khi, đôi lúc, lắm lúc",
+   "example": "「時折」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “時折”: đôi khi, đôi lúc, lắm lúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お袋",
+   "meaning": "mẹ, mẹ đẻ",
+   "example": "「お袋」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お袋”: mẹ, mẹ đẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "荒っぽい",
+   "meaning": "ráp, nhám, xù xì",
+   "example": "「荒っぽい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “荒っぽい”: ráp, nhám, xù xì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "と",
+    "同様に",
+    "彼",
+    "も",
+    "クラブ",
+    "の",
+    "メンバー",
+    "だった"
+   ],
+   "reading": "わたしとどうようにかれもクラブのメンバーだった",
+   "meaning": "Anh ấy cũng là một thành viên câu lạc bộ giống tôi."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "家",
+    "を",
+    "購入",
+    "する",
+    "ため",
+    "貯金",
+    "を",
+    "している"
+   ],
+   "reading": "かれらはいえをこうにゅうするためちょきんをしている",
+   "meaning": "Họ đang tiết kiệm tiền để mua một căn nhà."
+  },
+  {
+   "tokens": [
+    "その他",
+    "購入",
+    "する",
+    "もの",
+    "は",
+    "あります",
+    "でしょうか"
+   ],
+   "reading": "そのたこうにゅうするものはありますでしょうか",
+   "meaning": "Quý khách có mua gì thêm nữa không ạ?"
+  },
+  {
+   "tokens": [
+    "我が家",
+    "で",
+    "は",
+    "来週",
+    "新車",
+    "を",
+    "購入",
+    "する",
+    "つもり",
+    "だ"
+   ],
+   "reading": "わがやではらいしゅうしんしゃをこうにゅうするつもりだ",
+   "meaning": "Nhà tôi định mua một cái ô tô mới vào tuần sau."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "真に",
+    "最善",
+    "の",
+    "方法",
+    "だ"
+   ],
+   "reading": "これはしんにさいぜんのほうほうだ",
+   "meaning": "Đây là phương pháp thích hợp nhất."
+  }
+ ],
+ "issues": []
+}

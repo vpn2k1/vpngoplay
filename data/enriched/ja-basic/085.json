@@ -1,0 +1,331 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "実現",
+   "meaning": "sự thi hành, sự thực hiện đây đủ",
+   "example": "彼女の生涯の夢はついに実現した。",
+   "exampleMeaning": "Giấc mơ cả đời của cô ấy cuối cùng đã trở thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "典型",
+   "meaning": "kiểu mẫu",
+   "example": "彼は典型的な仕事人間だね。",
+   "exampleMeaning": "Anh ấy quả là một người tham công tiếc việc điển hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物事",
+   "meaning": "cái, đồ, vật",
+   "example": "急げば急ぐほど物事はうまくいかない。",
+   "exampleMeaning": "Dục tốc bất đạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いつまでも",
+   "meaning": "mãi mãi, vĩnh viễn",
+   "example": "「いつまでも」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いつまでも”: mãi mãi, vĩnh viễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人生",
+   "meaning": "sự sống",
+   "example": "人生はそんなに甘くない。",
+   "exampleMeaning": "Cuộc đời không ngọt ngào như thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "辞める",
+   "meaning": "thôi, ngừng, nghỉ",
+   "example": "おそらく彼女は仕事を辞めるだろう。",
+   "exampleMeaning": "Có khả năng là cô ấy sẽ nghỉ việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支払う",
+   "meaning": "trả (tiền lương... )",
+   "example": "携帯電話がほしいのですが、支払うのに十分なお金がありません。",
+   "exampleMeaning": "Tôi muốn một chiếc điện thoại di động, nhưng tôi không có đủ tiền để mua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "完成",
+   "meaning": "đầy đủ, trọn vẹn, hoàn toàn",
+   "example": "「完成」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “完成”: đầy đủ, trọn vẹn, hoàn toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "派手",
+   "meaning": "loè loẹt, phô trương",
+   "example": "「派手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “派手”: loè loẹt, phô trương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取れる",
+   "meaning": "lắng xuống",
+   "example": "はぁ・・・（汗）、それでコンタクトは取れるようになったのかしら・・・？",
+   "exampleMeaning": "Ờ... cái đó sao rồi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "実",
+   "meaning": "trái cây, thành quả, kết quả",
+   "example": "私は無実だ。",
+   "exampleMeaning": "Tôi trong sạch!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大統領",
+   "meaning": "tổng thống",
+   "example": "私はほかならぬ大統領に会った。",
+   "exampleMeaning": "Tôi đã gặp mặt chính ngài tổng thống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "監督",
+   "meaning": "sự trông nom, sự giám sát",
+   "example": "試合後のインタビューで、監督は審判への不満を口にした。",
+   "exampleMeaning": "Trong bài phỏng vấn sau trận đấu, vị huấn luyện viên đã bày tỏ sự bất mãn với trọng tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "設計",
+   "meaning": "sơ đồ, đồ án (nhà... )",
+   "example": "配管工は配管系の設計・組立を行う。",
+   "exampleMeaning": "Thợ sửa ống nước thực hiện công việc thiết kế và lắp ráp hệ thống đường ống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "もしも",
+   "meaning": "nếu, nếu như",
+   "example": "もしもし。小川ですが。",
+   "exampleMeaning": "Alo. Tôi là Ogawa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "共に",
+   "meaning": "với, cùng, cùng với",
+   "example": "心はあなたと共に居ます。",
+   "exampleMeaning": "Tôi sẽ đồng tâm với bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "景気",
+   "meaning": "điều kiện",
+   "example": "景気がすぐに回復するといいのですが。",
+   "exampleMeaning": "Tôi mong là kinh tế sẽ sớm phục hồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通り過ぎる",
+   "meaning": "đi, đi lên, trải qua",
+   "example": "電車が通り過ぎる時、運転士の姿がちらりとトムの目に入った。",
+   "exampleMeaning": "Tom lướt thấy trường tàu khi xe lửa băng qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "記者",
+   "meaning": "người báo cáo",
+   "example": "彼は記者会見中に号泣しました。",
+   "exampleMeaning": "Cô ấy đã khóc nức nở trong buổi họp báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "組合",
+   "meaning": "sự kết hợp, sự liên hợp, sự liên kết",
+   "example": "「組合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “組合”: sự kết hợp, sự liên hợp, sự liên kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "木",
+    "は",
+    "その",
+    "実",
+    "で",
+    "分かる"
+   ],
+   "reading": "きはそのみでわかる",
+   "meaning": "Trông quả biết cây."
+  },
+  {
+   "tokens": [
+    "心",
+    "は",
+    "あなた",
+    "と共に",
+    "居ます"
+   ],
+   "reading": "こころはあなたとともにいます",
+   "meaning": "Tôi sẽ đồng tâm với bạn."
+  },
+  {
+   "tokens": [
+    "私",
+    "が",
+    "知り",
+    "たい",
+    "の",
+    "は",
+    "事実",
+    "だ"
+   ],
+   "reading": "わたしがしりたいのはじじつだ",
+   "meaning": "Điều tôi muốn biết là sự thật."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "証明済み",
+    "の",
+    "事実",
+    "だ"
+   ],
+   "reading": "これはしょうめいずみのじじつだ",
+   "meaning": "Đây là sự thật đã được kiểm chứng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "典型的な",
+    "仕事",
+    "人間",
+    "だ",
+    "ね"
+   ],
+   "reading": "かれはてんけいてきなしごとにんげんだね",
+   "meaning": "Anh ấy quả là một người tham công tiếc việc điển hình."
+  }
+ ],
+ "issues": []
+}

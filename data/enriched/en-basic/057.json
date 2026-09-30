@@ -1,0 +1,314 @@
+{
+ "lesson": 57,
+ "draft": true,
+ "words": [
+  {
+   "term": "schoolchild",
+   "meaning": "học sinh",
+   "example": "Let's learn the word \"schoolchild\".",
+   "exampleMeaning": "Cùng học từ “schoolchild”: học sinh.",
+   "emoji": "",
+   "ipa": "/ˈskulˌtʃaɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "car park",
+   "meaning": "bãi đỗ xe",
+   "example": "You should park your car in a car park.",
+   "exampleMeaning": "Bạn nên đỗ xe hơi của bạn trong một bãi đỗ xe.",
+   "emoji": "",
+   "ipa": "/ˈkɑr ˈpɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lie",
+   "meaning": "nói dối",
+   "example": "to give someone the lie",
+   "exampleMeaning": "Buộc tội ai là dối trá",
+   "emoji": "",
+   "ipa": "/ˈlɑɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "across",
+   "meaning": "qua, ngang, ngang qua",
+   "example": "the hotel is across the river",
+   "exampleMeaning": "Khách sạn ở bên kia sông",
+   "emoji": "",
+   "ipa": "/əˈkrɒs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consist",
+   "meaning": "phù hợp",
+   "example": "What does cancel culture consist of?",
+   "exampleMeaning": "Văn hoá tẩy chay gồm những gì?",
+   "emoji": "",
+   "ipa": "/kənˈsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dizzy",
+   "meaning": "hoa mắt, choáng váng, chóng mặt",
+   "example": "Let's learn the word \"dizzy\".",
+   "exampleMeaning": "Cùng học từ “dizzy”: hoa mắt, choáng váng, chóng mặt.",
+   "emoji": "💫",
+   "ipa": "/ˈdɪzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "apologize",
+   "meaning": "xin lỗi, tạ lỗi",
+   "example": "Tom didn't apologize to me.",
+   "exampleMeaning": "Tom đã không xin lỗi tôi.",
+   "emoji": "",
+   "ipa": "/əˈpɒləd͡ʒaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "invention",
+   "meaning": "phát minh",
+   "example": "Let's learn the word \"invention\".",
+   "exampleMeaning": "Cùng học từ “invention”: phát minh.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spread",
+   "meaning": "phết",
+   "example": "to spread a cloth over a table",
+   "exampleMeaning": "Trải khăn lên bàn",
+   "emoji": "",
+   "ipa": "/ˈsprɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "private",
+   "meaning": "riêng, mật, kín",
+   "example": "This is a private club.",
+   "exampleMeaning": "Đây là một câu lạc bộ tư nhân.",
+   "emoji": "",
+   "ipa": "/ˈprɑɪ.vət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nation",
+   "meaning": "nước, quốc gia",
+   "example": "The King's address to the nation was moved.",
+   "exampleMeaning": "Phát biểu của nhà vua trước toàn quốc đã được chuyển đi.",
+   "emoji": "",
+   "ipa": "/ˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "though",
+   "meaning": "dù, dù cho, mặc dù",
+   "example": "though it was late we decided to go",
+   "exampleMeaning": "Mặc dù đã muộn, chúng tôi vẫn quyết định đi",
+   "emoji": "",
+   "ipa": "/ˈðoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "invade",
+   "meaning": "xâm phạm (quyền lợi... )",
+   "example": "You must not invade the privacy of others.",
+   "exampleMeaning": "Bạn không được xâm phạm sự riêng tư của người khác.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈveɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "diary",
+   "meaning": "sổ nhật ký",
+   "example": "Let's learn the word \"diary\".",
+   "exampleMeaning": "Cùng học từ “diary”: sổ nhật ký.",
+   "emoji": "",
+   "ipa": "/ˈdaɪɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "driver's license",
+   "meaning": "bằng lái xe",
+   "example": "Do you have a driver's license?",
+   "exampleMeaning": "Bạn có bằng lái xe không?",
+   "emoji": "",
+   "ipa": "/ˈdraɪvɜrz ˈlaɪsəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "apply",
+   "meaning": "chăm chú, chuyên tâm",
+   "example": "to apply one's ear to the wall",
+   "exampleMeaning": "Áp tai vào tường",
+   "emoji": "",
+   "ipa": "/əˈplaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "possibly",
+   "meaning": "có lẽ, có thể",
+   "example": "they will possibly come, but I am not sure",
+   "exampleMeaning": "Có lẽ họ đến nhưng tôi không chắc lắm",
+   "emoji": "",
+   "ipa": "/ˈpɑsəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wedding",
+   "meaning": "lễ cưới",
+   "example": "Are you going to Tom and Mary's wedding?",
+   "exampleMeaning": "Bạn có định đến dự lễ cưới của Tom và Mary không vậy?",
+   "emoji": "💒",
+   "ipa": "/ˈwɛdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "marry",
+   "meaning": "cưới (vợ), lấy (chồng)",
+   "example": "I want to marry her.",
+   "exampleMeaning": "Tôi muốn lấy cô ấy.",
+   "emoji": "",
+   "ipa": "/ˈmɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mall",
+   "meaning": "búa nặng, búa tạ",
+   "example": "Let's learn the word \"mall\".",
+   "exampleMeaning": "Cùng học từ “mall”: búa nặng, búa tạ.",
+   "emoji": "",
+   "ipa": "/ˈmɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "shouldn't",
+    "lie"
+   ],
+   "reading": "",
+   "meaning": "Cậu không nên nói dối."
+  },
+  {
+   "tokens": [
+    "Spread",
+    "your",
+    "fingers"
+   ],
+   "reading": "",
+   "meaning": "Xoè bàn tay ra."
+  },
+  {
+   "tokens": [
+    "Why",
+    "not",
+    "apologize"
+   ],
+   "reading": "",
+   "meaning": "Sao không xin lỗi."
+  },
+  {
+   "tokens": [
+    "We",
+    "all",
+    "lie"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta đều nói dối."
+  },
+  {
+   "tokens": [
+    "I",
+    "am",
+    "dizzy"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị chóng mặt"
+  }
+ ],
+ "issues": []
+}

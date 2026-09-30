@@ -1,0 +1,323 @@
+{
+ "lesson": 93,
+ "draft": true,
+ "words": [
+  {
+   "term": "subordinate",
+   "meaning": "phụ, phụ thuộc, lệ thuộc",
+   "example": "to play a subordinate part",
+   "exampleMeaning": "Đóng vai phụ",
+   "emoji": "",
+   "ipa": "/səˈbɔrdəˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recessive",
+   "meaning": "lùi lại, thụt lùi",
+   "example": "Let's learn the word \"recessive\".",
+   "exampleMeaning": "Cùng học từ “recessive”: lùi lại, thụt lùi.",
+   "emoji": "",
+   "ipa": "/rəˈsɛsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "formality",
+   "meaning": "sự theo đúng quy cách",
+   "example": "Let's learn the word \"formality\".",
+   "exampleMeaning": "Cùng học từ “formality”: sự theo đúng quy cách.",
+   "emoji": "",
+   "ipa": "/fɔrˈmæləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "integral",
+   "meaning": "tính toàn bộ",
+   "example": "Death is an integral part of life.",
+   "exampleMeaning": "Cái chết là một phần không thể tách rời của cuộc sống.",
+   "emoji": "",
+   "ipa": "/ˈɪnəɡrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "impersonal",
+   "meaning": "không liên quan đến riêng ai",
+   "example": "an impersonal remark",
+   "exampleMeaning": "Một lời nhận xét bâng quơ",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɜrsənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "conform",
+   "meaning": "theo, làm theo, tuân theo",
+   "example": "to conform oneself to a custom",
+   "exampleMeaning": "Thích nghi với một tục lệ",
+   "emoji": "",
+   "ipa": "/kənˈfɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accustomed",
+   "meaning": "quen với",
+   "example": "To be accustomed to rise early.",
+   "exampleMeaning": "Quen với dậy sớm.",
+   "emoji": "",
+   "ipa": "/əˈkʌs.təmd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "injustice",
+   "meaning": "sự bất công",
+   "example": "to do something an injustice",
+   "exampleMeaning": "Đánh giá ai một cách bất công; bất công đối với ai",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdʒəstɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "salvation",
+   "meaning": "sự bảo vệ (khỏi mất, khỏi thiên tai)",
+   "example": "Let's learn the word \"salvation\".",
+   "exampleMeaning": "Cùng học từ “salvation”: sự bảo vệ (khỏi mất, khỏi thiên tai).",
+   "emoji": "",
+   "ipa": "/sælˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "firewall",
+   "meaning": "vách ngăn",
+   "example": "Let's learn the word \"firewall\".",
+   "exampleMeaning": "Cùng học từ “firewall”: vách ngăn.",
+   "emoji": "",
+   "ipa": "/ˈfaɪrwɑl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tinker",
+   "meaning": "hàn thiếc, hàn (nồi)",
+   "example": "to tinker away at; to tinker with",
+   "exampleMeaning": "Làm qua loa, sửa vụng",
+   "emoji": "",
+   "ipa": "/ˈtɪŋkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "glean",
+   "meaning": "mót",
+   "example": "to glean rice",
+   "exampleMeaning": "Mót lúa",
+   "emoji": "",
+   "ipa": "/ˈɡlin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "placidly",
+   "meaning": "yên lặng, bình yên",
+   "example": "Let's learn the word \"placidly\".",
+   "exampleMeaning": "Cùng học từ “placidly”: yên lặng, bình yên.",
+   "emoji": "",
+   "ipa": "/ˈplæsɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tycoon",
+   "meaning": "trùm tư bản, vua tư bản",
+   "example": "an oil tycoon",
+   "exampleMeaning": "Vua dầu hoả",
+   "emoji": "",
+   "ipa": "/taɪˈkun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "credential",
+   "meaning": "giấy chứng nhận, giấy uỷ nhiệm",
+   "example": "Let's learn the word \"credential\".",
+   "exampleMeaning": "Cùng học từ “credential”: giấy chứng nhận, giấy uỷ nhiệm.",
+   "emoji": "",
+   "ipa": "/krəˈdɛnʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rediscover",
+   "meaning": "tìm ra lại, phát hiện lại",
+   "example": "Let's learn the word \"rediscover\".",
+   "exampleMeaning": "Cùng học từ “rediscover”: tìm ra lại, phát hiện lại.",
+   "emoji": "",
+   "ipa": "/ridɪˈskəvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "speculation",
+   "meaning": "sự suy xét, sự nghiên cứu",
+   "example": "to buy something as a speculation",
+   "exampleMeaning": "Mua tích trữ vật gì",
+   "emoji": "",
+   "ipa": "/ˌspɛkjəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "insubordination",
+   "meaning": "sự không chịu phục tùng",
+   "example": "Let's learn the word \"insubordination\".",
+   "exampleMeaning": "Cùng học từ “insubordination”: sự không chịu phục tùng.",
+   "emoji": "",
+   "ipa": "/ˌɪnsəˌbɔrdəˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "abstraction",
+   "meaning": "sự trừu tượng, sự trừu tượng hoá",
+   "example": "Let's learn the word \"abstraction\".",
+   "exampleMeaning": "Cùng học từ “abstraction”: sự trừu tượng, sự trừu tượng hoá.",
+   "emoji": "",
+   "ipa": "/æbˈstrækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chill",
+   "meaning": "lạnh, lạnh lẽo, giá lạnh",
+   "example": "to cast a chill over...",
+   "exampleMeaning": "Làm nhụt..., giội gáo nước lạnh lên...",
+   "emoji": "",
+   "ipa": "/ˈtʃɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Our",
+    "teacher",
+    "is",
+    "always",
+    "chill"
+   ],
+   "reading": "",
+   "meaning": "Giáo viên của chúng tôi lúc nào cũng thoải mái."
+  },
+  {
+   "tokens": [
+    "Death",
+    "is",
+    "an",
+    "integral",
+    "part",
+    "of",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Cái chết là một phần không thể tách rời của cuộc sống."
+  },
+  {
+   "tokens": [
+    "Speak",
+    "into",
+    "the",
+    "microphone"
+   ],
+   "reading": "",
+   "meaning": "Hãy nói vào mic."
+  },
+  {
+   "tokens": [
+    "He",
+    "twisted",
+    "his",
+    "ankle"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy vặn mắt cá chân của mình."
+  },
+  {
+   "tokens": [
+    "He",
+    "prefers",
+    "odd",
+    "numbers"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy thích số lẻ hơn."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,322 @@
+{
+ "lesson": 138,
+ "draft": true,
+ "words": [
+  {
+   "term": "performer",
+   "meaning": "người biểu diễn",
+   "example": "Let's learn the word \"performer\".",
+   "exampleMeaning": "Cùng học từ “performer”: người biểu diễn.",
+   "emoji": "",
+   "ipa": "/pərˈfɔrmər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "explosion",
+   "meaning": "nổ",
+   "example": "Let's learn the word \"explosion\".",
+   "exampleMeaning": "Cùng học từ “explosion”: nổ.",
+   "emoji": "",
+   "ipa": "/ɪksˈploʊʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "purely",
+   "meaning": "hoàn toàn, chỉ là",
+   "example": "Let's learn the word \"purely\".",
+   "exampleMeaning": "Cùng học từ “purely”: hoàn toàn, chỉ là.",
+   "emoji": "",
+   "ipa": "/ˈpjʊrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "phantom",
+   "meaning": "ma, bóng ma",
+   "example": "a phantom ship",
+   "exampleMeaning": "Con tàu ma",
+   "emoji": "",
+   "ipa": "/ˈfænəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shame",
+   "meaning": "xấu hổ, từ chối vì xấu hổ",
+   "example": "shame on you!",
+   "exampleMeaning": "Thật là xấu hổ cho anh quá!",
+   "emoji": "",
+   "ipa": "/ˈʃeɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "choir",
+   "meaning": "hợp xướng, đồng ca",
+   "example": "Let's learn the word \"choir\".",
+   "exampleMeaning": "Cùng học từ “choir”: hợp xướng, đồng ca.",
+   "emoji": "",
+   "ipa": "/ˈkwaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "philosophy",
+   "meaning": "triết học, triết lý",
+   "example": "What's the difference between religion and philosophy?",
+   "exampleMeaning": "Điểm khác biệt giữa tôn giáo và triết học là gì?",
+   "emoji": "",
+   "ipa": "/fəˈlɑsəfi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "definition",
+   "meaning": "sự định nghĩa, lời định nghĩa",
+   "example": "Let's learn the word \"definition\".",
+   "exampleMeaning": "Cùng học từ “definition”: sự định nghĩa, lời định nghĩa.",
+   "emoji": "",
+   "ipa": "/ˌdɛf.ɪˈnɪʃ.ən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "launch",
+   "meaning": "ném, phóng, quăng",
+   "example": "to launch out on a long voyage",
+   "exampleMeaning": "Bắt đầu một cuộc hành trình dài",
+   "emoji": "",
+   "ipa": "/ˈlɔntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "relate",
+   "meaning": "kể lại, thuật lại",
+   "example": "we cannot relate these phenomena with anything we know",
+   "exampleMeaning": "Chúng tôi không thể liên hệ những hiện tượng này với những cái chúng tôi biết",
+   "emoji": "",
+   "ipa": "/riˈleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "army",
+   "meaning": "quân đội",
+   "example": "The army was in retreat.",
+   "exampleMeaning": "Quân đội đã rút lui",
+   "emoji": "",
+   "ipa": "/ˈɑː.miː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "patience",
+   "meaning": "tính kiên nhẫn, tính nhẫn nại",
+   "example": "Patience overcomes misfortune.",
+   "exampleMeaning": "Sự kiên nhẫn sẽ vượt qua sự bất hạnh.",
+   "emoji": "",
+   "ipa": "/ˈpeɪʃəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bishop",
+   "meaning": "giám mục",
+   "example": "A bishop can never end up on an opposite-coloured square.",
+   "exampleMeaning": "Quân tượng không bao giờ có thể đi vào ô vuông khác màu.",
+   "emoji": "",
+   "ipa": "/ˈbɪʃəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adverb",
+   "meaning": "phó từ, trạng từ",
+   "example": "Let's learn the word \"adverb\".",
+   "exampleMeaning": "Cùng học từ “adverb”: phó từ, trạng từ.",
+   "emoji": "",
+   "ipa": "/ˈædvɜrb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deaf",
+   "meaning": "điếc",
+   "example": "to turn a deaf ear to something",
+   "exampleMeaning": "Làm thinh như không nghe thấy cái gì",
+   "emoji": "",
+   "ipa": "/ˈdɛf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "collective",
+   "meaning": "tập thể",
+   "example": "collective ownership of means of production",
+   "exampleMeaning": "Sở hữu tập thể về tư liệu sản xuất",
+   "emoji": "",
+   "ipa": "/kəˈlɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accuse",
+   "meaning": "cáo buộc, buộc tội, kết tội",
+   "example": "Let's learn the word \"accuse\".",
+   "exampleMeaning": "Cùng học từ “accuse”: cáo buộc, buộc tội, kết tội.",
+   "emoji": "",
+   "ipa": "/əkˈjuz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "kettle",
+   "meaning": "ấm đun nước",
+   "example": "The kettle is boiling.",
+   "exampleMeaning": "Ấm nước đang sôi.",
+   "emoji": "",
+   "ipa": "/ˈkɛtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "supply",
+   "meaning": "cung",
+   "example": "an inexhaustible supply of coal",
+   "exampleMeaning": "Nguồn dự trữ than vô tận",
+   "emoji": "",
+   "ipa": "/səˈplaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sleeve",
+   "meaning": "tay áo",
+   "example": "to put something up one's sleeve",
+   "exampleMeaning": "Bỏ vật gì trong tay áo",
+   "emoji": "",
+   "ipa": "/ˈsliv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "entered",
+    "the",
+    "army"
+   ],
+   "reading": "",
+   "meaning": "Anh ta gia nhập quân đội."
+  },
+  {
+   "tokens": [
+    "She",
+    "blushed",
+    "with",
+    "shame"
+   ],
+   "reading": "",
+   "meaning": "Cô ta đỏ mặt vì xấu hổ."
+  },
+  {
+   "tokens": [
+    "We",
+    "felt",
+    "deep",
+    "shame"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi cảm thấy vô cùng nhục nhã."
+  },
+  {
+   "tokens": [
+    "You're",
+    "really",
+    "testing",
+    "my",
+    "patience"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang thực sự thử thách lòng kiên nhẫn của tôi đấy."
+  },
+  {
+   "tokens": [
+    "The",
+    "army",
+    "advanced",
+    "during",
+    "the",
+    "night"
+   ],
+   "reading": "",
+   "meaning": "Quân đội đã tiến quân suốt cả đêm."
+  }
+ ],
+ "issues": []
+}

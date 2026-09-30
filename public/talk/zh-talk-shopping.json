@@ -1,0 +1,97 @@
+{
+ "id": "zh-talk-shopping",
+ "lang": "zh",
+ "order": 3,
+ "level": "HSK2",
+ "icon": "shopping",
+ "title": "Mua sắm và mặc cả",
+ "scene": "Bạn mua áo ở chợ và thử mặc cả.",
+ "roles": {
+  "A": "Người bán",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "你好，想买什么？",
+   "reading": "Nǐ hǎo, xiǎng mǎi shénme?",
+   "meaning": "Chào bạn, muốn mua gì?"
+  },
+  {
+   "role": "B",
+   "text": "这件衣服多少钱？",
+   "reading": "Zhè jiàn yīfu duōshao qián?",
+   "meaning": "Chiếc áo này bao nhiêu tiền?"
+  },
+  {
+   "role": "A",
+   "text": "两百块。",
+   "reading": "Liǎng bǎi kuài.",
+   "meaning": "Hai trăm tệ."
+  },
+  {
+   "role": "B",
+   "text": "太贵了！便宜一点儿吧。",
+   "reading": "Tài guì le! Piányi yìdiǎnr ba.",
+   "meaning": "Đắt quá! Rẻ chút đi."
+  },
+  {
+   "role": "A",
+   "text": "一百八，不能再少了。",
+   "reading": "Yìbǎi bā, bù néng zài shǎo le.",
+   "meaning": "Một trăm tám, không bớt được nữa."
+  },
+  {
+   "role": "B",
+   "text": "一百五，可以吗？",
+   "reading": "Yìbǎi wǔ, kěyǐ ma?",
+   "meaning": "Một trăm rưỡi, được không?"
+  },
+  {
+   "role": "A",
+   "text": "好吧，一百五就一百五。",
+   "reading": "Hǎo ba, yìbǎi wǔ jiù yìbǎi wǔ.",
+   "meaning": "Thôi được, một trăm rưỡi thì một trăm rưỡi."
+  },
+  {
+   "role": "B",
+   "text": "我可以试试吗？",
+   "reading": "Wǒ kěyǐ shìshi ma?",
+   "meaning": "Tôi mặc thử được không?"
+  },
+  {
+   "role": "A",
+   "text": "可以，试衣间在那边。",
+   "reading": "Kěyǐ, shìyījiān zài nàbiān.",
+   "meaning": "Được, phòng thử đồ ở bên kia."
+  },
+  {
+   "role": "B",
+   "text": "很合适，我买了。可以用微信付吗？",
+   "reading": "Hěn héshì, wǒ mǎi le. Kěyǐ yòng Wēixìn fù ma?",
+   "meaning": "Rất vừa, tôi mua. Trả bằng WeChat được không?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "多少钱？",
+   "reading": "Duōshao qián?",
+   "meaning": "Bao nhiêu tiền?"
+  },
+  {
+   "text": "太贵了！",
+   "reading": "Tài guì le!",
+   "meaning": "Đắt quá!"
+  },
+  {
+   "text": "便宜一点儿吧。",
+   "reading": "Piányi yìdiǎnr ba.",
+   "meaning": "Rẻ chút đi mà."
+  },
+  {
+   "text": "我可以试试吗？",
+   "reading": "Wǒ kěyǐ shìshi ma?",
+   "meaning": "Tôi thử được không?"
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "架空",
+   "meaning": "tưởng tượng, không có thực, ảo",
+   "example": "「架空」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “架空”: tưởng tượng, không có thực, ảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "思い掛けない",
+   "meaning": "không mong đợi, bất ngờ, không ngờ",
+   "example": "「思い掛けない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “思い掛けない”: không mong đợi, bất ngờ, không ngờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余計",
+   "meaning": "không cần thiết, thừa, vô ích",
+   "example": "私が黙っていたので彼女は余計に腹をたててしまった。",
+   "exampleMeaning": "Vì tôi im lặng cho nên cô ấy thậm chí còn nổi giận lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "レクリェーション",
+   "meaning": "sự giải lao, sự giải trí, sự tiêu khiển",
+   "example": "「レクリェーション」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “レクリェーション”: sự giải lao, sự giải trí, sự tiêu khiển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "みっともない",
+   "meaning": "làm hổ thẹn, làm ngượng ngùng",
+   "example": "「みっともない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “みっともない”: làm hổ thẹn, làm ngượng ngùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "追いかける",
+   "meaning": "đuổi, xua đuổi",
+   "example": "犬は猫を追いかけ、猫は鼠を追いかける。",
+   "exampleMeaning": "Chó đuổi mèo, mèo đuổi chuột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "這う",
+   "meaning": "bò, trườn",
+   "example": "「這う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “這う”: bò, trườn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "応対",
+   "meaning": "đến",
+   "example": "「応対」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “応対”: đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "親類",
+   "meaning": "có liên quan",
+   "example": "遠くの親類より近くの他人。",
+   "exampleMeaning": "Bán anh em xa mua láng giềng gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "社説",
+   "meaning": "công tác biên tập",
+   "example": "「社説」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “社説”: công tác biên tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "但し",
+   "meaning": "nếu không",
+   "example": "「但し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “但し”: nếu không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低下",
+   "meaning": "sự rơi, sự ngã",
+   "example": "「低下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “低下”: sự rơi, sự ngã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日当たり",
+   "meaning": "mỗi ngày",
+   "example": "「日当たり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日当たり”: mỗi ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "英和",
+   "meaning": "English-Japanese (EN)",
+   "example": "本棚に英和辞典がありますか。",
+   "exampleMeaning": "Trên giá sách có cuốn từ điển Anh - Nhật nào không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "エチケット",
+   "meaning": "phép xã giao",
+   "example": "「エチケット」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “エチケット”: phép xã giao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寿命",
+   "meaning": "tuổi thọ, thời gian sống",
+   "example": "蝶の寿命は三日です。",
+   "exampleMeaning": "Tuổi thọ của bướm là ba ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "撫でる",
+   "meaning": "đứng lái (để làm chịch)",
+   "example": "「撫でる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “撫でる”: đứng lái (để làm chịch).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "なんとなく",
+   "meaning": "vì lý do này khác, không biết làm sao",
+   "example": "「なんとなく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なんとなく”: vì lý do này khác, không biết làm sao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芯",
+   "meaning": "lõi, hạch (quả táo, quả lê... )",
+   "example": "林檎の芯は食べないよ。",
+   "exampleMeaning": "Tôi không ăn lõi táo đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "呑気",
+   "meaning": "vô tư lự, thảnh thơi",
+   "example": "「呑気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “呑気”: vô tư lự, thảnh thơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "本棚",
+    "に",
+    "英和辞典",
+    "が",
+    "あります",
+    "か"
+   ],
+   "reading": "ほんだなにえいわじてんがありますか",
+   "meaning": "Trên giá sách có cuốn từ điển Anh - Nhật nào không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "帰宅",
+    "した",
+    "と",
+    "私",
+    "は",
+    "思う"
+   ],
+   "reading": "かれはきたくしたとわたしはおもう",
+   "meaning": "Tôi nghĩ là anh ấy đã về nhà."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "真に",
+    "最善",
+    "の",
+    "方法",
+    "だ"
+   ],
+   "reading": "これはしんにさいぜんのほうほうだ",
+   "meaning": "Đây là phương pháp thích hợp nhất."
+  },
+  {
+   "tokens": [
+    "もう",
+    "帰宅",
+    "して",
+    "も",
+    "よろしい"
+   ],
+   "reading": "もうきたくしてもよろしい",
+   "meaning": "Bây giờ bạn có thể về nhà."
+  },
+  {
+   "tokens": [
+    "今",
+    "の",
+    "収入",
+    "に",
+    "満足",
+    "している"
+   ],
+   "reading": "いまのしゅうにゅうにまんぞくしている",
+   "meaning": "Tôi thỏa mãn với thu nhập hiện tại của tôi."
+  }
+ ],
+ "issues": []
+}

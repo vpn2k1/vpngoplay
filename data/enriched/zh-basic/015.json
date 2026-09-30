@@ -1,0 +1,322 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "累",
+   "meaning": "vất vả",
+   "example": "我现在真的很累。",
+   "exampleMeaning": "Bây giờ tôi rất là mệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "打开",
+   "meaning": "mở",
+   "example": "打开收音机。",
+   "exampleMeaning": "Bật máy thu thanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎkāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "病人",
+   "meaning": "người bệnh",
+   "example": "照顾病人",
+   "exampleMeaning": "Chăm sóc người bệnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肉",
+   "meaning": "từ tốn",
+   "example": "冬瓜肉厚。",
+   "exampleMeaning": "Quả dưa ruột dày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ròu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打电话",
+   "meaning": "gọi điện thoại",
+   "example": "“等他回来，我要让他给你打电话吗？”“是的，谢谢。”",
+   "exampleMeaning": "\"Đợi anh ấy quay về, tôi sẽ bảo anh ấy gọi điện thoại cho bạn nhé?\" \"Vâng, cảm ơn.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎdiànhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "休息",
+   "meaning": "nghỉ",
+   "example": "他停止扫地，倚着扫帚休息。",
+   "exampleMeaning": "Nó ngưng quét dọn, dựa vào cây chổi để nghỉ mệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūxi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "班",
+   "meaning": "chuyến",
+   "example": "我正好赶上了最后一班火车。",
+   "exampleMeaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "坏",
+   "meaning": "chết đi được",
+   "example": "吃了不干净的食物容易坏肚子。",
+   "exampleMeaning": "Ăn thức ăn không sạch sẽ dễ bị đau bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一边",
+   "meaning": "vừa",
+   "example": "这块木料有一边儿不光滑。",
+   "exampleMeaning": "Tấm ván này có một mặt không nhẵn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yībiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "洗",
+   "meaning": "rửa",
+   "example": "保养类的面膜 可以不清洗。",
+   "exampleMeaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "有的",
+   "meaning": "có",
+   "example": "所有的人都知道那件事。",
+   "exampleMeaning": "Hết cả mọi người đều biết chuyện đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒude",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毛",
+   "meaning": "tóc, lông (người, thú",
+   "example": "枇杷树叶子上有许多细毛。",
+   "exampleMeaning": "Lá cây tì bà có rất nhiều lông tơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "máo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "忘记",
+   "meaning": "quên",
+   "example": "我们决不会忘记，今天的胜利是经过艰苦的斗争得来的。",
+   "exampleMeaning": "Chúng ta quyết không thể quên rằng, thắng lợi hôm nay là phải qua đấu tranh gian khổ mới có được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "房间",
+   "meaning": "phòng",
+   "example": "我的房间号是多少？",
+   "exampleMeaning": "Số phòng của tôi là số nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "八",
+   "meaning": "tám",
+   "example": "他每天早上八点起床。",
+   "exampleMeaning": "Anh ấy thức dậy lúc tám giờ sáng hàng ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "左",
+   "meaning": "sai",
+   "example": "左翼作家。",
+   "exampleMeaning": "Những nhà văn cánh tả; những nhà văn khuynh tả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吃饭",
+   "meaning": "ăn",
+   "example": "我们今晚在外面吃饭吧。",
+   "exampleMeaning": "Chúng ta tối nay đi ăn nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chīfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "动作",
+   "meaning": "động tác",
+   "example": "弹钢琴要十个指头都动作。",
+   "exampleMeaning": "Chơi pi-a-nô cả mười ngón tay đều hoạt động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "七",
+   "meaning": "bảy",
+   "example": "我们来学“七”这个词。",
+   "exampleMeaning": "Cùng học từ “七”: bảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qī",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "菜",
+   "meaning": "rau",
+   "example": "我们向菜园走去。",
+   "exampleMeaning": "Chúng tôi đi về phía vườn rau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "没",
+    "洗头",
+    "发"
+   ],
+   "reading": "wǒ méi xǐtóu fā",
+   "meaning": "Tôi chưa gội đầu."
+  },
+  {
+   "tokens": [
+    "我",
+    "还",
+    "没有",
+    "洗头"
+   ],
+   "reading": "wǒ hái méiyǒu xǐtóu",
+   "meaning": "Tôi chưa gội đầu."
+  },
+  {
+   "tokens": [
+    "你",
+    "的",
+    "房间",
+    "真",
+    "干净"
+   ],
+   "reading": "nǐ de fángjiān zhēn gānjìng",
+   "meaning": "Phòng của bạn thật sạch sẽ."
+  },
+  {
+   "tokens": [
+    "我们",
+    "向",
+    "菜园",
+    "走去"
+   ],
+   "reading": "wǒmen xiàng càiyuán zǒuqù",
+   "meaning": "Chúng tôi đi về phía vườn rau."
+  },
+  {
+   "tokens": [
+    "我",
+    "现在",
+    "真",
+    "的",
+    "很",
+    "累"
+   ],
+   "reading": "wǒ xiànzài zhēn de hěn lèi",
+   "meaning": "Bây giờ tôi rất là mệt."
+  }
+ ],
+ "issues": []
+}

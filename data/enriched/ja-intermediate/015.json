@@ -1,0 +1,330 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "いわゆる",
+   "meaning": "cái gọi là",
+   "example": "「いわゆる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いわゆる”: cái gọi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "現状",
+   "meaning": "nguyên trạng, hiện trạng",
+   "example": "「現状」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “現状”: nguyên trạng, hiện trạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "降伏",
+   "meaning": "sự đầu hàng ((thường) là có điều kiện)",
+   "example": "我々の軍隊に完全に包囲されてしまって敵はとうとう降伏した。",
+   "exampleMeaning": "Bị bao vây hoàn toàn bởi quân ta, kẻ địch cuối cùng cũng đã đầu hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "事実",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "私が知りたいのは事実だ。",
+   "exampleMeaning": "Điều tôi muốn biết là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "保証",
+   "meaning": "sự bảo đảm, sự cam đoan",
+   "example": "日本は開発途上国に対し、２０億円の包括援助を保証しました。",
+   "exampleMeaning": "Nhật Bản cam kết sẽ cung cấp gói cứu trợ 2 tỷ Yên cho các nước đang phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "曜日",
+   "meaning": "day of the week (EN)",
+   "example": "月曜日で大丈夫？",
+   "exampleMeaning": "Thứ hai OK không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通信",
+   "meaning": "tin, tin tức",
+   "example": "日本の第三世代の通信方式は、W－CDMAとCDMA２０００がある。",
+   "exampleMeaning": "Các hệ thống thông tin di động thế hệ thứ 3 của Nhật Bản đó là mạng W-CDMA và mạng CDMA2000.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出来事",
+   "meaning": "sự kiện, sự kiện quan trọng, sự cố",
+   "example": "１９９０年の主な出来事は何でしたか。",
+   "exampleMeaning": "Vào năm 1990, sự kiện quan trọng nào đã xảy ra?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "芸術",
+   "meaning": "nghệ thuật",
+   "example": "彼は芸術家としてたいへん才能がある。",
+   "exampleMeaning": "Anh ấy là một nghệ nhân rất có năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "助ける",
+   "meaning": "giúp đỡ, cứu giúp",
+   "example": "「助ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “助ける”: giúp đỡ, cứu giúp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まあ",
+   "meaning": "phun ra, vọt ra, tuôn ra (nước",
+   "example": "まあ、いいわ。続けて。",
+   "exampleMeaning": "Ừ, được thôi. Tiếp tục đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "雇う",
+   "meaning": "dùng, thuê (ai) (làm gì)",
+   "example": "誰かフランス語が話せる人を雇う必要があるな。",
+   "exampleMeaning": "Tôi cần tuyển một người có khả năng nói tiếng Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "振興",
+   "meaning": "sự thăng chức, sự thăng cấp, sự đề bạt",
+   "example": "「振興」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “振興”: sự thăng chức, sự thăng cấp, sự đề bạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仲間",
+   "meaning": "sự cùng đi",
+   "example": "彼はしょっちゅうガキ仲間と街でたむろしている。",
+   "exampleMeaning": "Anh ta rất hay đi chơi với đám trẻ trên phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "設備",
+   "meaning": "đồ trang bị, thiết bị, dụng cụ",
+   "example": "ちなみに、この部屋には冷房設備なんて物は何も無い。あるのはうちわだけ。",
+   "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "規制",
+   "meaning": "sự điều chỉnh, sự sửa lại cho đúng",
+   "example": "「規制」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “規制”: sự điều chỉnh, sự sửa lại cho đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "含める",
+   "meaning": "bao gồm, gồm có",
+   "example": "「含める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “含める”: bao gồm, gồm có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "種類",
+   "meaning": "loại, hạng, thứ",
+   "example": "ハリケーンの種類は風速によって決まります。",
+   "exampleMeaning": "Bão xoáy được phân loại dựa trên tốc độ gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "後輩",
+   "meaning": "trẻ tuổi hơn",
+   "example": "「後輩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “後輩”: trẻ tuổi hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "故人",
+   "meaning": "đã chết, đã mất, đã qua đời",
+   "example": "「故人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “故人”: đã chết, đã mất, đã qua đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "が",
+    "知り",
+    "たい",
+    "の",
+    "は",
+    "事実",
+    "だ"
+   ],
+   "reading": "わたしがしりたいのはじじつだ",
+   "meaning": "Điều tôi muốn biết là sự thật."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "証明済み",
+    "の",
+    "事実",
+    "だ"
+   ],
+   "reading": "これはしょうめいずみのじじつだ",
+   "meaning": "Đây là sự thật đã được kiểm chứng."
+  },
+  {
+   "tokens": [
+    "トム",
+    "は",
+    "月曜日",
+    "に",
+    "来て",
+    "翌日",
+    "帰",
+    "った"
+   ],
+   "reading": "トムはげつようびにきてよくじつかえった",
+   "meaning": "Tom đã đến vào ngày thứ Hai và quay về vào ngày hôm sau."
+  },
+  {
+   "tokens": [
+    "黙っている",
+    "と",
+    "事実上の",
+    "承認",
+    "と",
+    "みなされます"
+   ],
+   "reading": "だまっているとじじつじょうのしょうにんとみなされます",
+   "meaning": "Việc im lặng trên thực tế được coi là sự đồng ý."
+  },
+  {
+   "tokens": [
+    "日曜日",
+    "に",
+    "会いましょう"
+   ],
+   "reading": "にちようびにあいましょう",
+   "meaning": "Chúng ta hãy gặp nhau vào Chủ Nhật."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,326 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "集团",
+   "meaning": "tập đoàn",
+   "example": "世界上最大的工业集团之一",
+   "exampleMeaning": "Một trong những tập đoàn công nghiệp lớn nhất trên thế giới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jítuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "为止",
+   "meaning": "đến",
+   "example": "到目前为止",
+   "exampleMeaning": "Cho đến nay",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéizhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "彼此",
+   "meaning": "nhau",
+   "example": "他們彼此相愛。",
+   "exampleMeaning": "Hai người họ yêu nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐcǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "猜",
+   "meaning": "đoán, phỏng đoán, ước chừng",
+   "example": "他的心思我猜不透。",
+   "exampleMeaning": "Tâm tư của anh ấy tôi đoán không thấu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "视频",
+   "meaning": "tần số nhìn",
+   "example": "我们来学“视频”这个词。",
+   "exampleMeaning": "Cùng học từ “视频”: tần số nhìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìpín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真相",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "怕傷害了他的感情，我沒有告訴他真相。",
+   "exampleMeaning": "Vì sợ làm tổn thương cảm xúc của anh ấy nên tôi đã không nói sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暂时",
+   "meaning": "tạm thời",
+   "example": "因翻修马路，车辆暂时停止通行。",
+   "exampleMeaning": "Vì sửa đường, xe cộ tạm thời không qua lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zànshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "洞",
+   "meaning": "nhìn rõ",
+   "example": "衣服破了一个洞。",
+   "exampleMeaning": "Quần áo bị rách một lỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有着",
+   "meaning": "có",
+   "example": "他有着别人所没有的胆识。",
+   "exampleMeaning": "Anh ấy có lòng can đảm và ý chí mà người khác không có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuzhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "病毒",
+   "meaning": "siêu vi trùng",
+   "example": "我们来学“病毒”这个词。",
+   "exampleMeaning": "Cùng học từ “病毒”: siêu vi trùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìngdú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "签",
+   "meaning": "mẩu giấy đánh dấu",
+   "example": "在书套上贴一个浮签儿。",
+   "exampleMeaning": "Dán một mẩu giấy đánh dấu trên bộ sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "价",
+   "meaning": "đấy",
+   "example": "自由是有代价的。",
+   "exampleMeaning": "Tự do không đồng nghĩa với được tự do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jie",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "尝试",
+   "meaning": "thử xem, làm thử, nếm thử",
+   "example": "他们为了解决这个问题，尝试过各种办法",
+   "exampleMeaning": "Bọn họ vì muốn giải quyết vấn đề mà đã thử đủ cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "仔细",
+   "meaning": "cẩn thận",
+   "example": "仔细领会文件的精神。",
+   "exampleMeaning": "Lĩnh hội tỉ mỉ tinh thần của văn kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǐxì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凭",
+   "meaning": "chứng cớ",
+   "example": "凭你跑多快，我也赶得上。",
+   "exampleMeaning": "Dù anh có chạy nhanh bao nhiêu, thì tôi cũng đuổi theo kịp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "命令",
+   "meaning": "mệnh lệnh",
+   "example": "连长命令一排担任警戒。",
+   "exampleMeaning": "Đại đội trưởng ra lệnh trung đội một đảm nhận nhiệm vụ canh giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìnglìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "欣赏",
+   "meaning": "thưởng thức",
+   "example": "他站在窗前，欣赏雪景。",
+   "exampleMeaning": "Anh ấy đứng trước cửa, ngắm cảnh tuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnshǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "神经",
+   "meaning": "thần kinh",
+   "example": "我们来学“神经”这个词。",
+   "exampleMeaning": "Cùng học từ “神经”: thần kinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shénjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高度",
+   "meaning": "cao",
+   "example": "这座山的高度是四千二百米。",
+   "exampleMeaning": "Độ cao của ngọn núi này là 4200m.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāodù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "碎",
+   "meaning": "nói lảm nhảm",
+   "example": "碗打碎了。",
+   "exampleMeaning": "Đánh vỡ chén bát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "自由",
+    "是",
+    "有",
+    "代价",
+    "的"
+   ],
+   "reading": "zìyóu shì yǒu dàijià de",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  },
+  {
+   "tokens": [
+    "他",
+    "想要",
+    "成功",
+    "即使",
+    "是以",
+    "他",
+    "的",
+    "健康",
+    "作为",
+    "代价"
+   ],
+   "reading": "tā xiǎngyào chénggōng jíshǐ shìyǐ tā de jiànkāng zuòwéi dàijià",
+   "meaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình."
+  },
+  {
+   "tokens": [
+    "教授",
+    "微微",
+    "笑",
+    "了",
+    "笑"
+   ],
+   "reading": "jiàoshòu wēiwēi xiào le xiào",
+   "meaning": "Ông giáo sư mỉm cười."
+  },
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  }
+ ],
+ "issues": []
+}

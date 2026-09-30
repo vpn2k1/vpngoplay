@@ -1,0 +1,331 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "assert",
+   "meaning": "xác nhận, khẳng định, quả quyết",
+   "example": "to assert one's rights",
+   "exampleMeaning": "Đòi quyền lợi",
+   "emoji": "",
+   "ipa": "/əˈsɜːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "narrator",
+   "meaning": "người chuyện kể, người tường thuật",
+   "example": "Let's learn the word \"narrator\".",
+   "exampleMeaning": "Cùng học từ “narrator”: người chuyện kể, người tường thuật.",
+   "emoji": "",
+   "ipa": "/ˈnɛreɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "variability",
+   "meaning": "tính hay thay đổi",
+   "example": "Let's learn the word \"variability\".",
+   "exampleMeaning": "Cùng học từ “variability”: tính hay thay đổi.",
+   "emoji": "",
+   "ipa": "/vɛriəˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "educated",
+   "meaning": "có giáo dục, có học",
+   "example": "Let's learn the word \"educated\".",
+   "exampleMeaning": "Cùng học từ “educated”: có giáo dục, có học.",
+   "emoji": "",
+   "ipa": "/ˈɛdʒəˌkeɪtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "daft",
+   "meaning": "nhẹ dạ, khinh suất, nông nổi",
+   "example": "to go daft",
+   "exampleMeaning": "Mất trí",
+   "emoji": "",
+   "ipa": "/ˈdæft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soaked",
+   "meaning": "hoàn toàn ướt",
+   "example": "Tom was completely soaked by the rain.",
+   "exampleMeaning": "Cả người Tom ướt như chuột lột vì trời mưa.",
+   "emoji": "",
+   "ipa": "/ˈsoʊkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "salty",
+   "meaning": "mặn",
+   "example": "Tom avoids eating salty food because of his high blood pressure.",
+   "exampleMeaning": "Tom tránh ăn đồ mặn vì anh ấy bị huyết áp cao.",
+   "emoji": "",
+   "ipa": "/ˈsɔlti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "amazingly",
+   "meaning": "đáng kinh ngạc, đến không ngờ",
+   "example": "Koreans have amazingly short last names",
+   "exampleMeaning": "(Người Cao Ly có những họ ngắn tới mức đáng kinh ngạc).",
+   "emoji": "",
+   "ipa": "/əˈmeɪzɪŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "redundant",
+   "meaning": "thừa, dư",
+   "example": "Redundant population in the cities.",
+   "exampleMeaning": "Số dân thừa ở các thành phố.",
+   "emoji": "",
+   "ipa": "/rɪˈdʌn.dənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "absurd",
+   "meaning": "vô lý",
+   "example": "Let's learn the word \"absurd\".",
+   "exampleMeaning": "Cùng học từ “absurd”: vô lý.",
+   "emoji": "",
+   "ipa": "/əbˈsɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shrug",
+   "meaning": "nhún vai",
+   "example": "to shrug off the effects of alcohol",
+   "exampleMeaning": "Giũ sạch hơi men",
+   "emoji": "",
+   "ipa": "/ˈʃrəɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "dreamy",
+   "meaning": "hay mơ màng, hay mơ mộng vẩn vơ",
+   "example": "Let's learn the word \"dreamy\".",
+   "exampleMeaning": "Cùng học từ “dreamy”: hay mơ màng, hay mơ mộng vẩn vơ.",
+   "emoji": "",
+   "ipa": "/ˈdrimi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "beak",
+   "meaning": "mỏ (chim)",
+   "example": "Let's learn the word \"beak\".",
+   "exampleMeaning": "Cùng học từ “beak”: mỏ (chim).",
+   "emoji": "",
+   "ipa": "/ˈbik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impossibility",
+   "meaning": "impossibleness",
+   "example": "Let's learn the word \"impossibility\".",
+   "exampleMeaning": "Cùng học từ “impossibility”: impossibleness.",
+   "emoji": "",
+   "ipa": "/ˌɪmˌpɔsɪˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "worrying",
+   "meaning": "gây ra lo lắng cho ai, gây lo nghĩ",
+   "example": "Stop worrying about what happened to Tom.",
+   "exampleMeaning": "Đừng lo nghĩ về chuyện đã xảy ra với Tom nữa.",
+   "emoji": "",
+   "ipa": "/ˈwɜriɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prehistoric",
+   "meaning": "(thuộc} Tiền sử",
+   "example": "Let's learn the word \"prehistoric\".",
+   "exampleMeaning": "Cùng học từ “prehistoric”: (thuộc} Tiền sử.",
+   "emoji": "",
+   "ipa": "/ˌprihɪˈstɔrɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rhyme",
+   "meaning": "vần",
+   "example": "it is there for rhyme sake",
+   "exampleMeaning": "Phải đặt vào đấy cho nó có vần",
+   "emoji": "",
+   "ipa": "/ˈraɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "snowball",
+   "meaning": "hòn tuyết, nắm tuyết (để ném nhau)",
+   "example": "Let's learn the word \"snowball\".",
+   "exampleMeaning": "Cùng học từ “snowball”: hòn tuyết, nắm tuyết (để ném nhau).",
+   "emoji": "",
+   "ipa": "/ˈsnoʊˌbɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intent",
+   "meaning": "sôi nổi, hăm hở, đầy nhiệt tình",
+   "example": "to be intent on one's job",
+   "exampleMeaning": "Chăm chú làm công việc của mình",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flap",
+   "meaning": "đập đen đét, đánh đen đét, vỗ đen đét",
+   "example": "to flap flies away",
+   "exampleMeaning": "Đuổi ruồi",
+   "emoji": "",
+   "ipa": "/ˈflæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "is",
+    "too",
+    "salty"
+   ],
+   "reading": "",
+   "meaning": "Cái này mặn quá."
+  },
+  {
+   "tokens": [
+    "The",
+    "soup",
+    "is",
+    "a",
+    "bit",
+    "too",
+    "salty"
+   ],
+   "reading": "",
+   "meaning": "Món xúp hơi mặn."
+  },
+  {
+   "tokens": [
+    "Stop",
+    "worrying",
+    "about",
+    "what",
+    "happened",
+    "to",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Đừng lo nghĩ về chuyện đã xảy ra với Tom nữa."
+  },
+  {
+   "tokens": [
+    "You",
+    "spend",
+    "too",
+    "much",
+    "time",
+    "worrying",
+    "about",
+    "things",
+    "that",
+    "don't",
+    "matter"
+   ],
+   "reading": "",
+   "meaning": "Tôi dành quá nhiều thời gian để lo lắng về những thứ không quan trọng."
+  },
+  {
+   "tokens": [
+    "It's",
+    "an",
+    "impossibility"
+   ],
+   "reading": "",
+   "meaning": "Đó là một điều bất khả thi."
+  }
+ ],
+ "issues": []
+}

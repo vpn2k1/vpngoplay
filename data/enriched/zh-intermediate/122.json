@@ -1,0 +1,331 @@
+{
+ "lesson": 122,
+ "draft": true,
+ "words": [
+  {
+   "term": "尴尬",
+   "meaning": "trong tình cảnh khó xử",
+   "example": "他觉得送礼不好，不送礼也不好，实在尴尬。",
+   "exampleMeaning": "Anh ấy cảm thấy tặng quà không được, không tặng cũng không được, thật khó xử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāngà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "穿着",
+   "meaning": "ăn mặc",
+   "example": "穿着朴素。",
+   "exampleMeaning": "Ăn mặc giản dị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānzhuó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "婴儿",
+   "meaning": "trẻ sơ sinh",
+   "example": "我们来学“婴儿”这个词。",
+   "exampleMeaning": "Cùng học từ “婴儿”: trẻ sơ sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīngér",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "耍",
+   "meaning": "chơi, nô đùa, đùa giỡn",
+   "example": "全社的大事，可不是耍的!",
+   "exampleMeaning": "Việc lớn của cả hợp tác xã, không phải là chuyện đùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "置",
+   "meaning": "để, đặt",
+   "example": "我在检查这里有没有激光警报装置。",
+   "exampleMeaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "告",
+   "meaning": "tuyên bố",
+   "example": "告诉她我在做晚饭。",
+   "exampleMeaning": "Bảo cô ấy tôi đang nấu cơm tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "原本",
+   "meaning": "trước đây",
+   "example": "他原本是干庄稼活的。",
+   "exampleMeaning": "Trước đây anh ấy làm công việc đồng áng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "武装",
+   "meaning": "trang bị",
+   "example": "缴获的武器，足够武装我军两个师。",
+   "exampleMeaning": "Vũ khí thu được của địch, đủ trang bị hai sư đoàn quân ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跟踪",
+   "meaning": "bám theo",
+   "example": "跟踪追击",
+   "exampleMeaning": "Bám theo truy kích",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnzōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "望",
+   "meaning": "vọng",
+   "example": "他放弃了所有希望。",
+   "exampleMeaning": "Anh ta từ bỏ mọi hy vọng",
+   "emoji": "🌕",
+   "ipa": "",
+   "pinyin": "wàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "惹",
+   "meaning": "làm cho",
+   "example": "一句话把大家惹得哈哈大笑。",
+   "exampleMeaning": "Một câu nói làm cho mọi người cười ồ lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rě",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "也就是说",
+   "meaning": "nói cách khác",
+   "example": "她已经能够结婚了，也就是说，她是有夫之妇。",
+   "exampleMeaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yějiùshìshuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "丁",
+   "meaning": "chan chát",
+   "example": "伐木丁",
+   "exampleMeaning": "Tiếng đốn cây chan chát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惊讶",
+   "meaning": "kinh ngạc",
+   "example": "我们来学“惊讶”这个词。",
+   "exampleMeaning": "Cùng học từ “惊讶”: kinh ngạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngyà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肿瘤",
+   "meaning": "u",
+   "example": "我们来学“肿瘤”这个词。",
+   "exampleMeaning": "Cùng học từ “肿瘤”: u.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǒngliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "核",
+   "meaning": "hồ",
+   "example": "我们来学“核”这个词。",
+   "exampleMeaning": "Cùng học từ “核”: hồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hé",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "得知",
+   "meaning": "được biết",
+   "example": "我们来学“得知”这个词。",
+   "exampleMeaning": "Cùng học từ “得知”: được biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dézhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拳",
+   "meaning": "nắm tay",
+   "example": "老大娘拳着腿坐在炕上。",
+   "exampleMeaning": "Bà lão khoanh chân ngồi trên hầm sưởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "结局",
+   "meaning": "kết quả",
+   "example": "不愉快的结局",
+   "exampleMeaning": "Kết quả không mấy vui",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéjú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "创",
+   "meaning": "lập",
+   "example": "创新纪录。",
+   "exampleMeaning": "Lập kỉ lục mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "他",
+    "放弃",
+    "了",
+    "所有",
+    "希望"
+   ],
+   "reading": "tā fàngqì le suǒyǒu xīwàng",
+   "meaning": "Anh ta từ bỏ mọi hy vọng"
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

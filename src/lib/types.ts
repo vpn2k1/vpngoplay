@@ -32,6 +32,10 @@ export interface DeckSummary {
   /** Course lessons: the course id and lesson number */
   course?: string
   lesson?: number
+  /** Idiom decks are listed on their own page (/idioms) instead of with the topic decks */
+  category?: 'idioms'
+  /** Course lesson drafted from open dictionaries (scripts/vocab/draft.mjs), not yet reviewed */
+  draft?: boolean
   level: string
   title: string
   description: string
@@ -104,6 +108,8 @@ export interface CourseLesson {
   wordCount: number
   /** false until the lesson's Vietnamese content has been generated (scripts/vocab) */
   ready: boolean
+  /** Drafted from open dictionaries rather than written by Claude */
+  draft?: boolean
 }
 
 /** One row of a course's full word list (public/courses/<id>.words.json). */
@@ -201,4 +207,75 @@ export interface GrammarTheory {
 export interface GrammarTopic extends Omit<GrammarTopicSummary, 'questionCount'> {
   theory: GrammarTheory | null
   questions: GrammarQuestion[]
+}
+
+// --- Sentence packs ("Học theo câu", scripts/sentences/build.mjs from Tatoeba)
+
+export interface PackSentence {
+  /** Tatoeba sentence id (attribution link) */
+  id: string
+  /** The sentence as written, with punctuation (shown and spoken) */
+  text: string
+  /** Words without punctuation, in order (sentence builder) */
+  tokens: string[]
+  /** Japanese: kana; Chinese: pinyin with tone marks */
+  reading?: string
+  /** Japanese furigana: [text, kana] pieces; kana is empty for pieces written in kana */
+  ruby?: [string, string][]
+  meaning: string
+}
+
+export interface SentencePackSummary {
+  id: string
+  lang: Lang
+  /** CEFR / JLPT / HSK level of the hardest known word */
+  level: string
+  /** 1-based number within the level */
+  index: number
+  count: number
+  preview: string
+}
+
+export interface SentencePack extends Omit<SentencePackSummary, 'count' | 'preview'> {
+  sentences: PackSentence[]
+}
+
+// --- Conversations ("Giao tiếp", public/talk/*.json)
+
+export type Speaker = 'A' | 'B'
+
+export interface DialogueLine {
+  role: Speaker
+  text: string
+  /** Japanese: kana; Chinese: pinyin */
+  reading?: string
+  meaning: string
+}
+
+export interface KeyPhrase {
+  text: string
+  reading?: string
+  meaning: string
+  note?: string
+}
+
+export interface DialogueSummary {
+  id: string
+  lang: Lang
+  level: string
+  title: string
+  /** The situation, in Vietnamese */
+  scene: string
+  /** Illustration key (TALK_ICON in components/icons.tsx) */
+  icon: string
+  /** Role names in Vietnamese; the learner plays B */
+  roles: Record<Speaker, string>
+  /** Position in the list (easiest first) */
+  order: number
+  lineCount: number
+}
+
+export interface Dialogue extends Omit<DialogueSummary, 'lineCount'> {
+  lines: DialogueLine[]
+  phrases: KeyPhrase[]
 }

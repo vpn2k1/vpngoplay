@@ -1,0 +1,338 @@
+{
+ "lesson": 140,
+ "draft": true,
+ "words": [
+  {
+   "term": "主張",
+   "meaning": "sự cho là",
+   "example": "トムは、フランス語を流暢に話せると言ってるんだ。彼の主張を試すためにフランス語だけで話しかけてみようよ。",
+   "exampleMeaning": "Tom nói là cậu ta có thể nói tiếng Pháp một cách thành thạo. Hay là chúng ta thử bắt chuyện với cậu ta bằng tiếng Pháp xem điều đó có đúng không nào!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "陰",
+   "meaning": "bóng, bóng tối, bóng râm",
+   "example": "彼らは陰で彼のことを笑う。",
+   "exampleMeaning": "Họ cười sau lưng anh ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "なお",
+   "meaning": "im, yên, tĩnh mịch",
+   "example": "綺麗なおみ足ですこと。",
+   "exampleMeaning": "Chân bạn đẹp quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "情報",
+   "meaning": "tin tức, sự cung cấp tin tức, tài liệu",
+   "example": "この辞書には情報がたくさん入っています。",
+   "exampleMeaning": "Trong cuốn từ điển này có rất nhiều thông tin.",
+   "emoji": "ℹ",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会合",
+   "meaning": "cuộc họp",
+   "example": "その会合は次の金曜まで延期されたよ。",
+   "exampleMeaning": "Cuộc họp bị hoãn sang thứ sáu tuần sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "多少",
+   "meaning": "nhỏ bé, bé bỏng",
+   "example": "書道については、多少なりとも知っている。",
+   "exampleMeaning": "Tôi biết ít nhiều về thư pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "転ぶ",
+   "meaning": "ngã",
+   "example": "「転ぶ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転ぶ”: ngã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夜中",
+   "meaning": "nửa đêm, mười hai giờ đêm",
+   "example": "彼は真夜中に電話してきた。",
+   "exampleMeaning": "Ông ấy đã gọi một cuộc điện thoại cho tôi vào lúc nửa đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地下",
+   "meaning": "nền móng, móng (của một bức tường... )",
+   "example": "「地下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地下”: nền móng, móng (của một bức tường... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "信じる",
+   "meaning": "tin tưởng, cho rằng, nghĩ rằng",
+   "example": "信じることは容易くない。",
+   "exampleMeaning": "Tin tưởng không phải là một việc dễ dàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "見当",
+   "meaning": "sự đánh giá, sự ước lượng",
+   "example": "そのお金がどこから来たものなのか、トムには見当がつかなかった。",
+   "exampleMeaning": "Tom không hề biết số tiền đó đến từ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "首相",
+   "meaning": "thủ tướng",
+   "example": "首相は国会を解散した。",
+   "exampleMeaning": "Thủ tướng cho giải tán phiên họp Quốc hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "墨",
+   "meaning": "mực (để viết, in)",
+   "example": "「墨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “墨”: mực (để viết, in).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "素",
+   "meaning": "đầu tiên",
+   "example": "彼は素晴らしい選手です。",
+   "exampleMeaning": "Anh ấy là một vận động viên xuất sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "依頼",
+   "meaning": "lời thỉnh cầu, lời yêu cầu, lời đề nghị",
+   "example": "「依頼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “依頼”: lời thỉnh cầu, lời yêu cầu, lời đề nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活躍",
+   "meaning": "sự tích cực, sự hoạt động, sự nhanh nhẹn",
+   "example": "「活躍」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “活躍”: sự tích cực, sự hoạt động, sự nhanh nhẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幕",
+   "meaning": "màn cửa",
+   "example": "「幕」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “幕”: màn cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "騒ぎ",
+   "meaning": "tiếng ồn ào, tiếng om sòm",
+   "example": "この大騒ぎは何ですか。",
+   "exampleMeaning": "Chuyện gì ồn ào vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "濡らす",
+   "meaning": "làm ướt, thấm nước, dấp nước",
+   "example": "「濡らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “濡らす”: làm ướt, thấm nước, dấp nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "諮る",
+   "meaning": "hỏi ý kiến, thỉnh thị, thăm dò",
+   "example": "「諮る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “諮る”: hỏi ý kiến, thỉnh thị, thăm dò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "陰で",
+    "彼の",
+    "こと",
+    "を",
+    "笑う"
+   ],
+   "reading": "かれらはかげでかれのことをわらう",
+   "meaning": "Họ cười sau lưng anh ta."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "真夜中",
+    "に",
+    "電話",
+    "して",
+    "きた"
+   ],
+   "reading": "かれはまよなかにでんわしてきた",
+   "meaning": "Ông ấy đã gọi một cuộc điện thoại cho tôi vào lúc nửa đêm."
+  },
+  {
+   "tokens": [
+    "空気",
+    "中",
+    "の",
+    "酸素",
+    "は",
+    "水",
+    "に",
+    "溶解",
+    "する"
+   ],
+   "reading": "くうきちゅうのさんそはみずにようかいする",
+   "meaning": "Oxy trong không khí tan trong nước."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "あの",
+    "大きな",
+    "木",
+    "の",
+    "陰",
+    "に",
+    "腰を下ろした"
+   ],
+   "reading": "かれらはあのおおきなきのかげにこしをおろした",
+   "meaning": "Họ ngồi dưới bóng râm của cái cây to kia."
+  },
+  {
+   "tokens": [
+    "この",
+    "辞書",
+    "には",
+    "情報",
+    "が",
+    "たくさん",
+    "入っています"
+   ],
+   "reading": "このじしょにはじょうほうがたくさんはいっています",
+   "meaning": "Trong cuốn từ điển này có rất nhiều thông tin."
+  }
+ ],
+ "issues": []
+}

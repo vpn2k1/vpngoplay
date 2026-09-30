@@ -1,0 +1,334 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "拓展",
+   "meaning": "mở rộng",
+   "example": "我们来学“拓展”这个词。",
+   "exampleMeaning": "Cùng học từ “拓展”: mở rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuòzhǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "替换",
+   "meaning": "thay",
+   "example": "你去替换他一下。",
+   "exampleMeaning": "Anh thay anh ấy một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tìhuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回馈",
+   "meaning": "phản hồi",
+   "example": "我们来学“回馈”这个词。",
+   "exampleMeaning": "Cùng học từ “回馈”: phản hồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíkuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浓缩",
+   "meaning": "chưng",
+   "example": "浓缩食物。",
+   "exampleMeaning": "Chưng đồ ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngsuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "放映",
+   "meaning": "chiếu phim",
+   "example": "今天电影院放映“青春之歌”。",
+   "exampleMeaning": "Hôm nay ngoài rạp chiếu bộ phim \"bài ca tuổi trẻ\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自助",
+   "meaning": "tự giúp mình",
+   "example": "我们来学“自助”这个词。",
+   "exampleMeaning": "Cùng học từ “自助”: tự giúp mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "虚构",
+   "meaning": "hư cấu",
+   "example": "这篇小说的情节是虚构的。",
+   "exampleMeaning": "Những tình tiết trong tiểu thuyết này đều là hư cấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xūgòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "祖先",
+   "meaning": "tổ tiên",
+   "example": "始祖鸟是鸟类的祖先。",
+   "exampleMeaning": "Chim thuỷ tổ là tổ tiên của loài chim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肥皂",
+   "meaning": "xà phòng",
+   "example": "我们来学“肥皂”这个词。",
+   "exampleMeaning": "Cùng học từ “肥皂”: xà phòng.",
+   "emoji": "🧼",
+   "ipa": "",
+   "pinyin": "féizào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "泄",
+   "meaning": "dỡ (hàng)",
+   "example": "我们来学“泄”这个词。",
+   "exampleMeaning": "Cùng học từ “泄”: dỡ (hàng).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiè",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活儿",
+   "meaning": "việc",
+   "example": "我们来学“活儿”这个词。",
+   "exampleMeaning": "Cùng học từ “活儿”: việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huór",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "委屈",
+   "meaning": "làm oan (người khác)",
+   "example": "对不起，委屈你了。",
+   "exampleMeaning": "Xin lỗi, đã làm oan cho cậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěiqu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "特长",
+   "meaning": "sở trường",
+   "example": "发挥特长",
+   "exampleMeaning": "Phát huy sở trường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tècháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贪",
+   "meaning": "tham",
+   "example": "贪赃枉法",
+   "exampleMeaning": "Ăn hối lộ phá rối kỷ cương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "果断",
+   "meaning": "quyết đoán",
+   "example": "他处理问题很果断。",
+   "exampleMeaning": "Anh ấy giải quyết vấn đề rất quyết đoán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǒduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失效",
+   "meaning": "mất hiệu lực",
+   "example": "药剂失效。",
+   "exampleMeaning": "Thuốc mất hiệu lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "账号",
+   "meaning": "tài khoản",
+   "example": "请把您的名字和账号填在这张取款单上。",
+   "exampleMeaning": "Ông vui lòng ghi tên và số tài khoản vào phiếu rút tiền này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànghào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "振奋",
+   "meaning": "phấn chấn",
+   "example": "人人振奋。",
+   "exampleMeaning": "Mọi người đều phấn chấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhènfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雕",
+   "meaning": "khắc, tạc, chạm",
+   "example": "雕梁画栋",
+   "exampleMeaning": "Rường hoa xà chạm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卑鄙",
+   "meaning": "đê tiện",
+   "example": "卑鄙无耻。",
+   "exampleMeaning": "Bỉ ổi vô liêm sỉ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēibǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "拒绝",
+    "他",
+    "吃",
+    "晚饭",
+    "的",
+    "邀请"
+   ],
+   "reading": "wǒ huì jùjué tā chī wǎnfàn de yāoqǐng",
+   "meaning": "Tôi từ chối lời mời cơm tối của anh ấy."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  }
+ ],
+ "issues": []
+}

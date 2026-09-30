@@ -1,0 +1,327 @@
+{
+ "lesson": 64,
+ "draft": true,
+ "words": [
+  {
+   "term": "客",
+   "meaning": "khách",
+   "example": "今日は来客があります。",
+   "exampleMeaning": "Hôm nay chúng ta có khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "受ける",
+   "meaning": "cầm, nắm, giữ",
+   "example": "僕は罰を受けるだろう。",
+   "exampleMeaning": "Chắc tôi sẽ bị phạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "郊外",
+   "meaning": "ngoại ô",
+   "example": "東京の郊外に住む両親や弟は大震災で死んだ。",
+   "exampleMeaning": "Cha mẹ và em trai tôi đang sống ở vùng ngoại ô Tokyo đã mất vì trận đại động đất đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以内",
+   "meaning": "trong vòng, trong khoảng",
+   "example": "１時間以内にそこに着くでしょう。",
+   "exampleMeaning": "Chúng ta chắc sẽ đến được đó trong khoảng 1 tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "交通",
+   "meaning": "sự đi lại, sự giao thông",
+   "example": "大雪で交通が途絶えた。",
+   "exampleMeaning": "Giao thông bị gián đoạn do tuyết lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "つもり",
+   "meaning": "ý định, mục đích",
+   "example": "北岳に登るつもりです。",
+   "exampleMeaning": "Tôi định leo núi Kitadake.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下りる",
+   "meaning": "xuống, đi xuống",
+   "example": "「下りる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下りる”: xuống, đi xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お嬢さん",
+   "meaning": "con gái",
+   "example": "「お嬢さん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お嬢さん”: con gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "汽車",
+   "meaning": "xe lửa",
+   "example": "「汽車」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “汽車”: xe lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アジア",
+   "meaning": "người châu A",
+   "example": "アジアの歴史に興味があります。",
+   "exampleMeaning": "Tôi có hứng thú với lịch sử châu Á.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "湯",
+   "meaning": "nước nóng",
+   "example": "彼は湯水のごとくお金を使っていた。",
+   "exampleMeaning": "Anh ấy đã tiêu tiền như nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夢",
+   "meaning": "giấc mơ, giấc mộng",
+   "example": "私は彼の夢を見た。",
+   "exampleMeaning": "Tôi đã mơ về anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "急行",
+   "meaning": "sự vội vàng, sự hấp tấp, sự hối hả",
+   "example": "「急行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “急行”: sự vội vàng, sự hấp tấp, sự hối hả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "褒める",
+   "meaning": "khen ngợi, ca ngợi, ca tụng",
+   "example": "「褒める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “褒める”: khen ngợi, ca ngợi, ca tụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貿易",
+   "meaning": "thương nghiệp, thương mại, sự buôn bán",
+   "example": "我が国は近隣諸国との貿易を促進せねばならない。",
+   "exampleMeaning": "Đất nước chúng ta cần phải thúc đẩy thương mại với các quốc gia láng giềng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "比べる",
+   "meaning": "so, đối chiếu",
+   "example": "私達の市は東京に比べるとかなり小さい。",
+   "exampleMeaning": "Thành phố của chúng tôi khá nhỏ so với Tokyo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "すり",
+   "meaning": "kẻ móc túi",
+   "example": "私の娘はぐっすり寝ている。",
+   "exampleMeaning": "Con gái tôi đang ngủ say.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "それほど",
+   "meaning": "khoảng rộng",
+   "example": "私はクラシックをよく聴くが、古典派の作品はそれほど好きではない。",
+   "exampleMeaning": "Tôi hay nghe nhạc cổ điển, nhưng tôi lại không thích nghe nhạc theo trường phái cổ điển đến thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寝坊",
+   "meaning": "ngủ quá giờ, ngủ quá giấc",
+   "example": "僕は寝坊して学校に遅刻した。",
+   "exampleMeaning": "Tôi đã ngủ dậy muộn và bị muộn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "再来週",
+   "meaning": "the week after next (EN)",
+   "example": "「再来週」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再来週”: the week after next (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "の",
+    "夢を見た"
+   ],
+   "reading": "わたしはかれのゆめをみた",
+   "meaning": "Tôi đã mơ về anh ấy."
+  },
+  {
+   "tokens": [
+    "北岳",
+    "に",
+    "登る",
+    "つもり",
+    "です"
+   ],
+   "reading": "きただけにのぼるつもりです",
+   "meaning": "Tôi định leo núi Kitadake."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "家",
+    "を",
+    "売る",
+    "つもり",
+    "です"
+   ],
+   "reading": "わたしはいえをうるつもりです",
+   "meaning": "Tôi định bán nhà"
+  },
+  {
+   "tokens": [
+    "昨夜",
+    "は",
+    "ぐっすり",
+    "眠れなかった"
+   ],
+   "reading": "さくやはぐっすりねむれなかった",
+   "meaning": "Đêm qua tôi không ngủ ngon."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "来年",
+    "留学",
+    "する",
+    "つもり",
+    "です"
+   ],
+   "reading": "わたしはらいねんりゅうがくするつもりです",
+   "meaning": "Năm sau tôi dự định sẽ đi du học."
+  }
+ ],
+ "issues": []
+}

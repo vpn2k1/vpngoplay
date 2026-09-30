@@ -1,0 +1,322 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "gymnastic",
+   "meaning": "thể dục",
+   "example": "to do gymnastic; to go in for gymnastic",
+   "exampleMeaning": "Tập thể dục",
+   "emoji": "",
+   "ipa": "/dʒɪmˈnæstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pint",
+   "meaning": "panh",
+   "example": "Let's learn the word \"pint\".",
+   "exampleMeaning": "Cùng học từ “pint”: panh.",
+   "emoji": "",
+   "ipa": "/paɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "personnel",
+   "meaning": "toàn thể cán bộ công nhân viên (cơ quan",
+   "example": "Hello, is this the personnel department?",
+   "exampleMeaning": "Xin chào, đây là phòng nhân sự phải không?",
+   "emoji": "",
+   "ipa": "/ˌpɜrsəˈnɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "feat",
+   "meaning": "kỳ công, chiến công",
+   "example": "a feat of arms",
+   "exampleMeaning": "Chiến công",
+   "emoji": "",
+   "ipa": "/ˈfit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unselfish",
+   "meaning": "không ích kỷ",
+   "example": "Let's learn the word \"unselfish\".",
+   "exampleMeaning": "Cùng học từ “unselfish”: không ích kỷ.",
+   "emoji": "",
+   "ipa": "/ʌnsˈɛlfɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unchanged",
+   "meaning": "không thay đổi, như cũ, y nguyên",
+   "example": "Let's learn the word \"unchanged\".",
+   "exampleMeaning": "Cùng học từ “unchanged”: không thay đổi, như cũ, y nguyên.",
+   "emoji": "",
+   "ipa": "/ənˈtʃeɪndʒd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subjective",
+   "meaning": "chủ quan",
+   "example": "Let's learn the word \"subjective\".",
+   "exampleMeaning": "Cùng học từ “subjective”: chủ quan.",
+   "emoji": "",
+   "ipa": "/səbˈdʒɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perspiration",
+   "meaning": "mồ hôi",
+   "example": "to be bathed in perspiration",
+   "exampleMeaning": "Mồ hôi ướt như tắm",
+   "emoji": "",
+   "ipa": "/ˌpɜrspɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "waist",
+   "meaning": "chỗ eo, chỗ thắt lại",
+   "example": "up (down) to the waist",
+   "exampleMeaning": "Đến thắt lưng",
+   "emoji": "",
+   "ipa": "/ˈweɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "condemn",
+   "meaning": "chỉ trích, chê trách, lên án",
+   "example": "do not condemn him before you know his motives",
+   "exampleMeaning": "Đừng vội chỉ trích hắn trước khi anh biết rõ động cơ của hắn",
+   "emoji": "",
+   "ipa": "/kənˈdɛm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "electronics",
+   "meaning": "điện tử học",
+   "example": "Let's learn the word \"electronics\".",
+   "exampleMeaning": "Cùng học từ “electronics”: điện tử học.",
+   "emoji": "",
+   "ipa": "/ˌɪˌlɛkˈtrɑnɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "substance",
+   "meaning": "thực chất, căn bản, bản chất",
+   "example": "I agree with you in substance",
+   "exampleMeaning": "Tôi đồng ý với anh về căn bản",
+   "emoji": "",
+   "ipa": "/ˈsʌbstəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whiskey",
+   "meaning": "rượu uytky",
+   "example": "Let's learn the word \"whiskey\".",
+   "exampleMeaning": "Cùng học từ “whiskey”: rượu uytky.",
+   "emoji": "",
+   "ipa": "/ˈhwɪski/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outlive",
+   "meaning": "sống lâu hơn",
+   "example": "to outlive a storm",
+   "exampleMeaning": "Vượt qua được cơn bão (tàu bè)",
+   "emoji": "",
+   "ipa": "/ˌaʊtˈlɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unkind",
+   "meaning": "không tử tế, không tốt",
+   "example": "Let's learn the word \"unkind\".",
+   "exampleMeaning": "Cùng học từ “unkind”: không tử tế, không tốt.",
+   "emoji": "",
+   "ipa": "/ənˈkaɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "antibody",
+   "meaning": "thể kháng",
+   "example": "Let's learn the word \"antibody\".",
+   "exampleMeaning": "Cùng học từ “antibody”: thể kháng.",
+   "emoji": "",
+   "ipa": "/ˈæntiˌbɑdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "imprisonment",
+   "meaning": "sự bỏ tù, sự tống giam, sự giam cầm",
+   "example": "Let's learn the word \"imprisonment\".",
+   "exampleMeaning": "Cùng học từ “imprisonment”: sự bỏ tù, sự tống giam, sự giam cầm.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈprɪzənmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "foreman",
+   "meaning": "quản đốc, đốc công",
+   "example": "Let's learn the word \"foreman\".",
+   "exampleMeaning": "Cùng học từ “foreman”: quản đốc, đốc công.",
+   "emoji": "",
+   "ipa": "/ˈfɔrmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "debit card",
+   "meaning": "thẻ ghi nợ",
+   "example": "Let's learn the word \"debit card\".",
+   "exampleMeaning": "Cùng học từ “debit card”: thẻ ghi nợ.",
+   "emoji": "",
+   "ipa": "/ˈdɛbɪt ˌkɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jeweler",
+   "meaning": "ngọc đá quý",
+   "example": "Let's learn the word \"jeweler\".",
+   "exampleMeaning": "Cùng học từ “jeweler”: ngọc đá quý.",
+   "emoji": "",
+   "ipa": "/ˈdʒuəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Hello",
+    "is",
+    "this",
+    "the",
+    "personnel",
+    "department"
+   ],
+   "reading": "",
+   "meaning": "Xin chào, đây là phòng nhân sự phải không?"
+  },
+  {
+   "tokens": [
+    "He",
+    "doesn't",
+    "even",
+    "drink",
+    "beer",
+    "let",
+    "alone",
+    "whiskey"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy còn chẳng uống bia, nói gì đến whiskey."
+  },
+  {
+   "tokens": [
+    "Haste",
+    "makes",
+    "waste"
+   ],
+   "reading": "",
+   "meaning": "Dục tốc bất đạt."
+  },
+  {
+   "tokens": [
+    "They're",
+    "all",
+    "dying"
+   ],
+   "reading": "",
+   "meaning": "Tất cả bọn họ đều đang chết dần."
+  },
+  {
+   "tokens": [
+    "He's",
+    "mumbling",
+    "something"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đang lẩm bẩm cái gì đó."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,332 @@
+{
+ "lesson": 80,
+ "draft": true,
+ "words": [
+  {
+   "term": "回应",
+   "meaning": "trả lời",
+   "example": "叫了半天，也没见有人回应。",
+   "exampleMeaning": "Gọi hồi lâu, vẫn không thấy ai trả lời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "故障",
+   "meaning": "hỏng hóc",
+   "example": "发生故障",
+   "exampleMeaning": "Xảy ra sự cố",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùzhàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "联赛",
+   "meaning": "thi đấu vòng tròn",
+   "example": "全国足球甲级联赛。",
+   "exampleMeaning": "Thi đấu vòng tròn giải A bóng đá toàn quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánsài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上演",
+   "meaning": "trình diễn (kịch, múa)",
+   "example": "我们来学“上演”这个词。",
+   "exampleMeaning": "Cùng học từ “上演”: trình diễn (kịch, múa).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngyǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "欺负",
+   "meaning": "ức hiếp",
+   "example": "我们来学“欺负”这个词。",
+   "exampleMeaning": "Cùng học từ “欺负”: ức hiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吊",
+   "meaning": "treo, thương xót, xót xa",
+   "example": "门前吊着两盏红灯。",
+   "exampleMeaning": "Trước cửa treo hai ngọn đèn đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指定",
+   "meaning": "định, hẹn (ngày, giờ... )",
+   "example": "指定他做大会发言人。",
+   "exampleMeaning": "Chỉ định anh ấy là người phát ngôn của đại hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无效",
+   "meaning": "không có hiệu quả",
+   "example": "过期无效。",
+   "exampleMeaning": "Quá thời hạn không còn hiệu lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "融入",
+   "meaning": "hòa nhập",
+   "example": "我们来学“融入”这个词。",
+   "exampleMeaning": "Cùng học từ “融入”: hòa nhập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新人",
+   "meaning": "con người mới",
+   "example": "培养共产主义的新人。",
+   "exampleMeaning": "Đào tạo nên những con người mới xã hội chủ nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刚好",
+   "meaning": "vừa",
+   "example": "这双鞋他穿着不大不小，刚好。",
+   "exampleMeaning": "Đôi giày này anh ấy mang rất vừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gānghǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高层",
+   "meaning": "cao",
+   "example": "高层住宅",
+   "exampleMeaning": "Nhà ở cao tầng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāocéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "飞船",
+   "meaning": "phi thuyền (chỉ phi thuyền vũ trụ)",
+   "example": "我们来学“飞船”这个词。",
+   "exampleMeaning": "Cùng học từ “飞船”: phi thuyền (chỉ phi thuyền vũ trụ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēichuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "孤儿",
+   "meaning": "cô nhi",
+   "example": "孤儿寡母",
+   "exampleMeaning": "Cô nhi quả mẫu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gūér",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "正当",
+   "meaning": "chính đáng",
+   "example": "正当的要求",
+   "exampleMeaning": "Yêu cầu chính đáng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngdàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "常规",
+   "meaning": "lệ thường",
+   "example": "我们来学“常规”这个词。",
+   "exampleMeaning": "Cùng học từ “常规”: lệ thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángguī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "依赖",
+   "meaning": "ỷ lại",
+   "example": "工业和农业是互相依赖、互相支援的两大国民经济部门。",
+   "exampleMeaning": "Công nghiệp và nông nghiệp là hai ngành kinh tế quốc dân lớn, dựa vào nhau và chi viện lẫn nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīlài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "此事",
+   "meaning": "sự việc này",
+   "example": "我们来学“此事”这个词。",
+   "exampleMeaning": "Cùng học từ “此事”: sự việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "误",
+   "meaning": "lỡ, nhỡ",
+   "example": "生产学习两不误。",
+   "exampleMeaning": "Sản xuất, học tập đều không bỏ lỡ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "添",
+   "meaning": "thêm",
+   "example": "你这么忙，我不想给你添麻烦。",
+   "exampleMeaning": "Anh bận rộn như vậy, tôi không muốn anh bận tâm thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "这么",
+    "忙",
+    "我",
+    "不",
+    "想",
+    "给",
+    "你",
+    "添麻烦"
+   ],
+   "reading": "nǐ zhème máng wǒ bù xiǎng gěi nǐ tiānmāfán",
+   "meaning": "Anh bận rộn như vậy, tôi không muốn anh bận tâm thêm."
+  },
+  {
+   "tokens": [
+    "他",
+    "在",
+    "工作",
+    "上",
+    "遇到",
+    "了",
+    "麻烦"
+   ],
+   "reading": "tā zài gōngzuò shàng yùdào le máfan",
+   "meaning": "Nó gặp phải phiền toái khi làm việc."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "降落",
+    "在",
+    "新山",
+    "一",
+    "机场"
+   ],
+   "reading": "fēijī jiàngluò zài xīnshān yī jīchǎng",
+   "meaning": "Máy bay xuống sân bay Tân Sơn Nhất."
+  },
+  {
+   "tokens": [
+    "当时",
+    "我",
+    "没想到",
+    "这个",
+    "问题"
+   ],
+   "reading": "dāngshí wǒ méixiǎngdào zhège wèntí",
+   "meaning": "Lúc đó, tôi không nghĩ đến vấn đề này."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  }
+ ],
+ "issues": []
+}

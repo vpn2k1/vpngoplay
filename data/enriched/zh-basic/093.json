@@ -1,0 +1,326 @@
+{
+ "lesson": 93,
+ "draft": true,
+ "words": [
+  {
+   "term": "能不能",
+   "meaning": "có thể hay không",
+   "example": "我们来学“能不能”这个词。",
+   "exampleMeaning": "Cùng học từ “能不能”: có thể hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "néngbùnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "至今",
+   "meaning": "đến bây giờ",
+   "example": "他回家以后至今还没有来信。",
+   "exampleMeaning": "Sau khi anh ấy về nhà đến bây giờ vẫn chưa gửi thơ đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "后果",
+   "meaning": "hậu quả",
+   "example": "检查制度不严，会造成很坏的后果。",
+   "exampleMeaning": "Kiểm tra chế độ không chặt, sẽ gây hậu quả xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòuguǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打破",
+   "meaning": "phá",
+   "example": "打破常规",
+   "exampleMeaning": "Phá bỏ lệ thường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎpò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上来",
+   "meaning": "được",
+   "example": "这个问题你一定答得上来。",
+   "exampleMeaning": "Câu hỏi này anh nhất định trả lời được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shànglái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "石头",
+   "meaning": "đá",
+   "example": "我们来学“石头”这个词。",
+   "exampleMeaning": "Cùng học từ “石头”: đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shítou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主持",
+   "meaning": "chủ trương",
+   "example": "主持日常工作。",
+   "exampleMeaning": "Phụ trách công việc hàng ngày",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔchí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "访问",
+   "meaning": "phỏng vấn",
+   "example": "我访问了这座英雄的城市。",
+   "exampleMeaning": "Tôi đi thăm thành phố anh hùng này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎngwèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "先进",
+   "meaning": "tiên tiến",
+   "example": "这个国家的军事力量很先进。",
+   "exampleMeaning": "Lực lượng quân sự nước này rất hiện đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "才能",
+   "meaning": "tài, tài ba, tài năng",
+   "example": "施展才能。",
+   "exampleMeaning": "Trổ tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáinéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文明",
+   "meaning": "văn minh",
+   "example": "文明棍儿（手杖）",
+   "exampleMeaning": "Cái can; ba toong (gậy cầm tay của Phương tây)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "西部",
+   "meaning": "phần phía tây",
+   "example": "我们来学“西部”这个词。",
+   "exampleMeaning": "Cùng học từ “西部”: phần phía tây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xībù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "玩具",
+   "meaning": "đồ chơi",
+   "example": "我们来学“玩具”这个词。",
+   "exampleMeaning": "Cùng học từ “玩具”: đồ chơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "防止",
+   "meaning": "phòng",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "年纪",
+   "meaning": "tuổi tác",
+   "example": "像我这样的年纪。",
+   "exampleMeaning": "Tuổi tác như tôi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "采用",
+   "meaning": "chọn dùng",
+   "example": "那篇稿子已被编辑部采用",
+   "exampleMeaning": "Bản thảo này đã được ban biên tập chọn dùng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎiyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手指",
+   "meaning": "ngón tay",
+   "example": "我们来学“手指”这个词。",
+   "exampleMeaning": "Cùng học từ “手指”: ngón tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天空",
+   "meaning": "không trung",
+   "example": "云是天空中的水汽团。",
+   "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānkōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "制度",
+   "meaning": "chế độ",
+   "example": "社会主义制度。",
+   "exampleMeaning": "Chế độ xã hội chủ nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "工业",
+   "meaning": "công nghiệp",
+   "example": "我们来学“工业”这个词。",
+   "exampleMeaning": "Cùng học từ “工业”: công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "云",
+    "是",
+    "天空",
+    "中",
+    "的",
+    "水汽",
+    "团"
+   ],
+   "reading": "yún shì tiānkōng zhōng de shuǐqì tuán",
+   "meaning": "Mây là do hơi nước trong không trung tích tụ thành."
+  },
+  {
+   "tokens": [
+    "这个",
+    "国家",
+    "的",
+    "军事力量",
+    "很",
+    "先进"
+   ],
+   "reading": "zhège guójiā de jūnshìlìliang hěn xiānjìn",
+   "meaning": "Lực lượng quân sự nước này rất hiện đại."
+  },
+  {
+   "tokens": [
+    "她",
+    "大约",
+    "跟",
+    "我",
+    "同",
+    "年纪"
+   ],
+   "reading": "tā dàyuē gēn wǒ tóng niánjì",
+   "meaning": "Cô ấy tầm tuổi tôi."
+  },
+  {
+   "tokens": [
+    "他",
+    "说",
+    "的",
+    "不见得",
+    "对"
+   ],
+   "reading": "tā shuō de bùjiànde duì",
+   "meaning": "Anh ấy nói chưa chắc đã đúng."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,335 @@
+{
+ "lesson": 134,
+ "draft": true,
+ "words": [
+  {
+   "term": "耐える",
+   "meaning": "chịu đựng, cam chịu, chịu được",
+   "example": "「耐える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “耐える”: chịu đựng, cam chịu, chịu được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "集計",
+   "meaning": "sự liên kết (hợp nhất) thành một khối",
+   "example": "リストのデータは、自動集計機能を使って簡単に集計することができます。",
+   "exampleMeaning": "Dữ liệu list có thể dễ dàng được tổng hợp bằng cách sử dụng chức năng tổng hợp tự động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "禁じる",
+   "meaning": "ngăn cấm, cấm chỉ, nguyền rủa",
+   "example": "「禁じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “禁じる”: ngăn cấm, cấm chỉ, nguyền rủa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "健やか",
+   "meaning": "mạnh khoẻ, cường tráng",
+   "example": "「健やか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “健やか”: mạnh khoẻ, cường tráng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "譲歩",
+   "meaning": "sự nhượng, sự nhượng bộ",
+   "example": "「譲歩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “譲歩”: sự nhượng, sự nhượng bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "閉鎖",
+   "meaning": "sự kết thúc, sự đóng",
+   "example": "たぶん工場は来週閉鎖されるだろう。",
+   "exampleMeaning": "Có lẽ tuần sau công ty sẽ đóng cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真相",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "真相を知るものは誰もいません。",
+   "exampleMeaning": "Không một ai biết sự thật cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ベスト",
+   "meaning": "tốt nhất, hay nhất, đẹp nhất",
+   "example": "「ベスト」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ベスト”: tốt nhất, hay nhất, đẹp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分担",
+   "meaning": "sự chia ra từng phần, sự chia thành lô",
+   "example": "「分担」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分担”: sự chia ra từng phần, sự chia thành lô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "休める",
+   "meaning": "nghỉ, nghỉ ngơi",
+   "example": "今日これを終わらせれば、明日は休めるね。",
+   "exampleMeaning": "Nếu hôm nay chúng ta làm xong việc này, ngày mai chúng ta có thể nghỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "カルテ",
+   "meaning": "lịch sử bệnh",
+   "example": "「カルテ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “カルテ”: lịch sử bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "運用",
+   "meaning": "sự gắn vào, sự áp vào, sự ghép vào",
+   "example": "「運用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “運用”: sự gắn vào, sự áp vào, sự ghép vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "明朗",
+   "meaning": "sáng, sáng chói",
+   "example": "「明朗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明朗”: sáng, sáng chói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "言論",
+   "meaning": "sự thảo luận, sự bàn cãi, sự tranh luận",
+   "example": "「言論」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “言論”: sự thảo luận, sự bàn cãi, sự tranh luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生育",
+   "meaning": "sự lớn mạnh, sự phát triển",
+   "example": "「生育」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生育”: sự lớn mạnh, sự phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弛む",
+   "meaning": "nới, làm chùng (dây)",
+   "example": "「弛む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弛む”: nới, làm chùng (dây).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "制定",
+   "meaning": "sự ban hành (đạo luật)",
+   "example": "「制定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “制定”: sự ban hành (đạo luật).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "青春",
+   "meaning": "tuổi trẻ, tuổi xuân, tuổi thanh niên",
+   "example": "「青春」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “青春”: tuổi trẻ, tuổi xuân, tuổi thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名付ける",
+   "meaning": "đặt tên",
+   "example": "「名付ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名付ける”: đặt tên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瞬き",
+   "meaning": "sự nháy mắt",
+   "example": "「瞬き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “瞬き”: sự nháy mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "たぶん",
+    "工場",
+    "は",
+    "来週",
+    "閉鎖",
+    "される",
+    "だろう"
+   ],
+   "reading": "たぶんこうじょうはらいしゅうへいさされるだろう",
+   "meaning": "Có lẽ tuần sau công ty sẽ đóng cửa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "その",
+    "車",
+    "を",
+    "売る",
+    "決心",
+    "を",
+    "した"
+   ],
+   "reading": "かれはそのくるまをうるけっしんをした",
+   "meaning": "Anh ấy đã quyết định là sẽ bán chiếc xe hơi đó."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "いつもより",
+    "遅く",
+    "帰宅",
+    "した"
+   ],
+   "reading": "かれはいつもよりおそくきたくした",
+   "meaning": "Anh ấy đã về nhà muộn hơn mọi khi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "偶然",
+    "その",
+    "会話",
+    "を",
+    "耳にした"
+   ],
+   "reading": "かれはぐうぜんそのかいわをみみにした",
+   "meaning": "Anh ấy đã tình cờ nghe được cuộc nói chuyện đó."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "会員",
+    "の",
+    "特典",
+    "を",
+    "持っている"
+   ],
+   "reading": "かれはかいいんのとくてんをもっている",
+   "meaning": "Anh ấy đang sở hữu ưu đãi dành cho hội viên."
+  }
+ ],
+ "issues": []
+}

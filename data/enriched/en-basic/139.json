@@ -1,0 +1,319 @@
+{
+ "lesson": 139,
+ "draft": true,
+ "words": [
+  {
+   "term": "bank account",
+   "meaning": "tài khoản ngân hàng",
+   "example": "Let's learn the word \"bank account\".",
+   "exampleMeaning": "Cùng học từ “bank account”: tài khoản ngân hàng.",
+   "emoji": "",
+   "ipa": "/ˈbæŋk əˈkaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "CD-ROM",
+   "meaning": "đĩa CD với bộ nhớ chỉ đọc",
+   "example": "Let's learn the word \"CD-ROM\".",
+   "exampleMeaning": "Cùng học từ “CD-ROM”: đĩa CD với bộ nhớ chỉ đọc.",
+   "emoji": "",
+   "ipa": "/ˌsiˈdi ˈrɑm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "internationally",
+   "meaning": "trên bình diện quốc tế",
+   "example": "Let's learn the word \"internationally\".",
+   "exampleMeaning": "Cùng học từ “internationally”: trên bình diện quốc tế.",
+   "emoji": "",
+   "ipa": "/ˌɪnɜrˈnæʃənəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "defect",
+   "meaning": "số khuyết, góc khuyết",
+   "example": "defect of a triangle",
+   "exampleMeaning": "Số khuyết của một tam giác",
+   "emoji": "",
+   "ipa": "/ˈdifɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scholarship",
+   "meaning": "học bổng",
+   "example": "to win a scholarship",
+   "exampleMeaning": "Được cấp học bổng",
+   "emoji": "",
+   "ipa": "/ˈskɑlɜrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stumble",
+   "meaning": "vấp, sẩy chân, trượt chân",
+   "example": "to stumble in a speech",
+   "exampleMeaning": "Đọc vấp váp một bài diễn văn",
+   "emoji": "",
+   "ipa": "/ˈstəmbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "loaf",
+   "meaning": "ổ bánh mì",
+   "example": "The loaf of bread was adorned with ornate tiny squirrels.",
+   "exampleMeaning": "Ổ bánh mì được trang trí bằng những con sóc nhỏ xíu được làm rất công phu.",
+   "emoji": "",
+   "ipa": "/ˈloʊf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "volunteer",
+   "meaning": "tình nguyện",
+   "example": "Do you think anyone will volunteer?",
+   "exampleMeaning": "Bạn có nghĩ rằng ai cũng sẽ tình nguyện?",
+   "emoji": "",
+   "ipa": "/ˌvɑlənˈtɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "volcano",
+   "meaning": "núi lửa",
+   "example": "Let's learn the word \"volcano\".",
+   "exampleMeaning": "Cùng học từ “volcano”: núi lửa.",
+   "emoji": "🌋",
+   "ipa": "/vɑlˈkeɪnoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "calf",
+   "meaning": "con bê",
+   "example": "cow in (with) calf",
+   "exampleMeaning": "Bò chửa",
+   "emoji": "",
+   "ipa": "/ˈkæf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cotton",
+   "meaning": "hòa hợp, ăn ý",
+   "example": "to cotton with each other",
+   "exampleMeaning": "Hoà hợp với nhau, ăn ý với nhau",
+   "emoji": "",
+   "ipa": "/ˈkɑtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "decrease",
+   "meaning": "giảm",
+   "example": "to be on the decrease",
+   "exampleMeaning": "Đang trên đà giảm sút",
+   "emoji": "",
+   "ipa": "/ˈdiˌkris/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lung",
+   "meaning": "phổi",
+   "example": "He's got lung cancer.",
+   "exampleMeaning": "Anh ấy bị ung thư phổi.",
+   "emoji": "",
+   "ipa": "/ˈləŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hearted",
+   "meaning": "tim",
+   "example": "She's a cold hearted bitch.",
+   "exampleMeaning": "Cô ta là một con khốn tàn nhẫn.",
+   "emoji": "",
+   "ipa": "/ˈhɑrtəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "objective",
+   "meaning": "khách quan",
+   "example": "Let's learn the word \"objective\".",
+   "exampleMeaning": "Cùng học từ “objective”: khách quan.",
+   "emoji": "",
+   "ipa": "/əbˈdʒɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proof",
+   "meaning": "chứng, chứng cớ, bằng chứng",
+   "example": "to give (show) proof of goodwill",
+   "exampleMeaning": "Chứng tỏ có thiện chí, biểu lộ, thiện chí",
+   "emoji": "",
+   "ipa": "/ˈpruf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "feverishly",
+   "meaning": "lính quýnh, luống cuống",
+   "example": "Let's learn the word \"feverishly\".",
+   "exampleMeaning": "Cùng học từ “feverishly”: lính quýnh, luống cuống.",
+   "emoji": "",
+   "ipa": "/ˈfɛvɜrˌɪʃli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anxiety",
+   "meaning": "mối lo, mối lo âu, mối băn khoăn",
+   "example": "to have an anxiety to do something",
+   "exampleMeaning": "Ước ao làm gì",
+   "emoji": "",
+   "ipa": "/æŋˈzaɪəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bitter",
+   "meaning": "đắng",
+   "example": "To take the bitter with the sweet.",
+   "exampleMeaning": "Phải chịu những nỗi đắng cay cùng với những sự ngọt bùi ở đời.",
+   "emoji": "",
+   "ipa": "/ˈbɪtə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "liberation",
+   "meaning": "giải phóng",
+   "example": "the national liberation movement",
+   "exampleMeaning": "Phong trào giải phóng dân tộc",
+   "emoji": "",
+   "ipa": "/ˌlɪˌbɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "volunteer"
+   ],
+   "reading": "",
+   "meaning": "Tôi là một tình nguyện viên."
+  },
+  {
+   "tokens": [
+    "Good",
+    "medicine",
+    "tastes",
+    "bitter"
+   ],
+   "reading": "",
+   "meaning": "Thuốc đắng dã tật."
+  },
+  {
+   "tokens": [
+    "It",
+    "tastes",
+    "very",
+    "bitter"
+   ],
+   "reading": "",
+   "meaning": "Vị của nó rất đắng."
+  },
+  {
+   "tokens": [
+    "He's",
+    "got",
+    "lung",
+    "cancer"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy bị ung thư phổi."
+  },
+  {
+   "tokens": [
+    "I",
+    "didn't",
+    "have",
+    "enough",
+    "proof"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã không có đủ bằng chứng."
+  }
+ ],
+ "issues": []
+}

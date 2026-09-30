@@ -1,0 +1,329 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "贴",
+   "meaning": "trợ cấp",
+   "example": "哥哥每月贴他零用钱。",
+   "exampleMeaning": "Mỗi tháng anh trai anh ấy trợ cấp cho tiền tiêu vặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiē",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "显著",
+   "meaning": "nổi bật",
+   "example": "我国社会主义建设已经取得显著成就。",
+   "exampleMeaning": "Công cuộc xây dựng chủ nghĩa xã hội ở nước ta đã đạt được những thành tựu nổi bật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美女",
+   "meaning": "mỹ nữ",
+   "example": "我们来学“美女”这个词。",
+   "exampleMeaning": "Cùng học từ “美女”: mỹ nữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měinǚ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尽快",
+   "meaning": "cố làm cho nhanh",
+   "example": "我们来学“尽快”这个词。",
+   "exampleMeaning": "Cùng học từ “尽快”: cố làm cho nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnkuài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "药物",
+   "meaning": "thuốc",
+   "example": "我们来学“药物”这个词。",
+   "exampleMeaning": "Cùng học từ “药物”: thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàowù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "移动",
+   "meaning": "di chuyển, chuyển dịch, di động",
+   "example": "汽笛响后，船身开始移动了。",
+   "exampleMeaning": "Còi tàu rú lên, đoàn tàu bắt đầu chuyển động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yídòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "销售",
+   "meaning": "tiêu thụ (hàng hóa)",
+   "example": "商人们计划着在外国销售",
+   "exampleMeaning": "Những nhà kinh doanh lên kế hoạch tiêu thụ hàng hoá ở nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāoshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "呼吸",
+   "meaning": "thở",
+   "example": "我的鼻子没办法呼吸了。",
+   "exampleMeaning": "Tôi không thể thở bằng mũi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "确认",
+   "meaning": "thừa nhận",
+   "example": "参加会议的各国确认了这些原则。",
+   "exampleMeaning": "Các nước tham gia hội nghị đã thừa nhận những nguyên tắc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quèrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出色",
+   "meaning": "xuất sắc",
+   "example": "他们出色地完成了任务。",
+   "exampleMeaning": "Họ đã hoàn thành xuất sắc nhiệm vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冰",
+   "meaning": "băng",
+   "example": "刚到中秋，河水已经有些冰腿了。",
+   "exampleMeaning": "Mới đến Trung Thu, nước sông đã hơi buốt chân rồi",
+   "emoji": "🧊",
+   "ipa": "",
+   "pinyin": "bīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "结",
+   "meaning": "kết",
+   "example": "团结一切可以团结的力量。",
+   "exampleMeaning": "Đoàn kết mọi lực lường có thể đoàn kết được.",
+   "emoji": "🪢",
+   "ipa": "",
+   "pinyin": "jié",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "材料",
+   "meaning": "tư liệu",
+   "example": "我五音不全，不是唱歌的材料。",
+   "exampleMeaning": "Tôi ngũ âm (năm bậc âm giai cổ: cung, thương, giốc, chuỷ, vũ hoặc hợp, tứ, ất, xích, công) còn chưa nắm hết, không phải là tài nhân ca xướng gì đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáiliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转移",
+   "meaning": "thay đổi, đổi, đổi vị trí",
+   "example": "客观规律不以人们的意志为转移。",
+   "exampleMeaning": "Quy luật khách quan không thay đổi theo ý chí của con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnyí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "烦",
+   "meaning": "phiền",
+   "example": "他在工作上遇到了麻烦。",
+   "exampleMeaning": "Nó gặp phải phiền toái khi làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "付出",
+   "meaning": "trả",
+   "example": "付出辛勤的劳动。",
+   "exampleMeaning": "Trả công cho lao động cực nhọc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卷",
+   "meaning": "quyển, tập",
+   "example": "藏书十万卷。",
+   "exampleMeaning": "Tàng thư mười vạn quyển.",
+   "emoji": "📜",
+   "ipa": "",
+   "pinyin": "juàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "透",
+   "meaning": "đâm thủng, xuyên qua",
+   "example": "阳光透过玻璃窗照进来。",
+   "exampleMeaning": "Ánh mặt trời chiếu xuyên qua cửa kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "治",
+   "meaning": "cai trị, trị vì, thống trị",
+   "example": "我们来学“治”这个词。",
+   "exampleMeaning": "Cùng học từ “治”: cai trị, trị vì, thống trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhì",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "措施",
+   "meaning": "biện pháp",
+   "example": "计划已经订出，措施应该跟上。",
+   "exampleMeaning": "Kế hoạch đã đặt ra thì phải có biện pháp kèm theo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuòshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这个",
+    "问题",
+    "很",
+    "麻烦"
+   ],
+   "reading": "zhège wèntí hěn máfan",
+   "meaning": "Vấn đề này rất phiền phức."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "遇",
+    "上",
+    "麻烦",
+    "了"
+   ],
+   "reading": "tāngmǔ yù shàng máfan le",
+   "meaning": "Tom đã gặp rắc rối."
+  },
+  {
+   "tokens": [
+    "你",
+    "这么",
+    "忙",
+    "我",
+    "不",
+    "想",
+    "给",
+    "你",
+    "添麻烦"
+   ],
+   "reading": "nǐ zhème máng wǒ bù xiǎng gěi nǐ tiānmāfán",
+   "meaning": "Anh bận rộn như vậy, tôi không muốn anh bận tâm thêm."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "没",
+    "跟",
+    "任何人",
+    "结婚"
+   ],
+   "reading": "tāngmǔ méi gēn rènhérén jiéhūn",
+   "meaning": "Tom không có lấy bất cứ ai."
+  },
+  {
+   "tokens": [
+    "他",
+    "在",
+    "工作",
+    "上",
+    "遇到",
+    "了",
+    "麻烦"
+   ],
+   "reading": "tā zài gōngzuò shàng yùdào le máfan",
+   "meaning": "Nó gặp phải phiền toái khi làm việc."
+  }
+ ],
+ "issues": []
+}

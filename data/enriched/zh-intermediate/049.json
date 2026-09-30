@@ -1,0 +1,338 @@
+{
+ "lesson": 49,
+ "draft": true,
+ "words": [
+  {
+   "term": "泼",
+   "meaning": "hăng say",
+   "example": "特朗普杀了爱泼斯坦。",
+   "exampleMeaning": "Trump đã giết Epstein.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pō",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "性能",
+   "meaning": "tính năng (máy móc, công cụ)",
+   "example": "这种插秧机构造简单，性能良好。",
+   "exampleMeaning": "Loại máy cày này có cấu tạo đơn giản nhưng có tính năng rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "加热",
+   "meaning": "tăng nhiệt",
+   "example": "我们来学“加热”这个词。",
+   "exampleMeaning": "Cùng học từ “加热”: tăng nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiārè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "关怀",
+   "meaning": "quan tâm",
+   "example": "关怀青年人的成长。",
+   "exampleMeaning": "Quan tâm sự trưởng thành của thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānhuái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赠送",
+   "meaning": "tặng",
+   "example": "赠送生日礼物。",
+   "exampleMeaning": "Tặng quà sinh nhật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zèngsòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流通",
+   "meaning": "lưu thông",
+   "example": "流通空气。",
+   "exampleMeaning": "Không khí lưu thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liútōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不时",
+   "meaning": "đôi khi",
+   "example": "这所房子不时进行扩建。",
+   "exampleMeaning": "Cô ấy rất sùng bái ông ta không chịu lắng nghe lời đánh giá của người khác về ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不得了",
+   "meaning": "quá",
+   "example": "一点也不便宜，贵得不得了。",
+   "exampleMeaning": "Không rẻ 1 tí nào, đắt khủng khiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùdéliǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一身",
+   "meaning": "một mình",
+   "example": "一身工作服。",
+   "exampleMeaning": "Bộ đồ lao động; bộ đồ làm việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "修建",
+   "meaning": "thi công (công trình thổ mộc)",
+   "example": "修建铁路。",
+   "exampleMeaning": "Thi công đường sắt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "正规",
+   "meaning": "chính quy",
+   "example": "正规方法",
+   "exampleMeaning": "Phương pháp chính quy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngguī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高大",
+   "meaning": "cao",
+   "example": "老夫年纪高大",
+   "exampleMeaning": "Lão phu tuổi cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāodà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高温",
+   "meaning": "nhiệt độ cao",
+   "example": "我们来学“高温”这个词。",
+   "exampleMeaning": "Cùng học từ “高温”: nhiệt độ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāowēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "为主",
+   "meaning": "chủ yếu dựa vào / coi trọng nhất",
+   "example": "我们来学“为主”这个词。",
+   "exampleMeaning": "Cùng học từ “为主”: chủ yếu dựa vào / coi trọng nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéizhǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特性",
+   "meaning": "đặc tính",
+   "example": "民族特性",
+   "exampleMeaning": "Đặc tính dân tộc; bản sắc dân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "草原",
+   "meaning": "thảo nguyên",
+   "example": "我们来学“草原”这个词。",
+   "exampleMeaning": "Cùng học từ “草原”: thảo nguyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎoyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "灾",
+   "meaning": "tai nạn",
+   "example": "没病没灾。",
+   "exampleMeaning": "Không bệnh hoạn không tai nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无奈",
+   "meaning": "tiếc rằng",
+   "example": "他对生活感到很无奈。",
+   "exampleMeaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúnài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "依照",
+   "meaning": "theo",
+   "example": "依照原样复制一件。",
+   "exampleMeaning": "Theo nguyên hình dạng phục chế lại một cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīzhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "煤气",
+   "meaning": "khí than",
+   "example": "我们来学“煤气”这个词。",
+   "exampleMeaning": "Cùng học từ “煤气”: khí than.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méiqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "对生",
+    "活",
+    "感到",
+    "很",
+    "无奈"
+   ],
+   "reading": "tā duìshēng huó gǎndào hěn wúnài",
+   "meaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống."
+  },
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "这",
+    "所",
+    "房子",
+    "不",
+    "时",
+    "进行",
+    "扩建"
+   ],
+   "reading": "zhè suǒ fángzi bù shí jìnxíng kuòjiàn",
+   "meaning": "Cô ấy rất sùng bái ông ta không chịu lắng nghe lời đánh giá của người khác về ông ấy."
+  },
+  {
+   "tokens": [
+    "大家",
+    "干",
+    "得",
+    "正",
+    "起劲",
+    "你",
+    "千万",
+    "不",
+    "能",
+    "泼冷水"
+   ],
+   "reading": "dàjiā gàn de zhèng qǐjìn nǐ qiānwàn bù néng pōlěngshuǐ",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  }
+ ],
+ "issues": []
+}

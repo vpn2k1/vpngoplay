@@ -1,0 +1,335 @@
+{
+ "lesson": 79,
+ "draft": true,
+ "words": [
+  {
+   "term": "再现",
+   "meaning": "tái hiện",
+   "example": "我们来学“再现”这个词。",
+   "exampleMeaning": "Cùng học từ “再现”: tái hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàixiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "责怪",
+   "meaning": "trách cứ",
+   "example": "他只是责怪别人，从不自责。",
+   "exampleMeaning": "Anh chỉ trách người chứ không trách mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zéguài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "尽早",
+   "meaning": "càng sớm càng tốt",
+   "example": "我们来学“尽早”这个词。",
+   "exampleMeaning": "Cùng học từ “尽早”: càng sớm càng tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnzǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对照",
+   "meaning": "đối chiếu",
+   "example": "把译文对照原文加以修改。",
+   "exampleMeaning": "Đối chiếu giữa bản dịch và bản gốc để sửa chữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìzhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "锯",
+   "meaning": "cưa",
+   "example": "一把锯。",
+   "exampleMeaning": "Một cái cưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纳入",
+   "meaning": "đưa vào",
+   "example": "纳入正轨。",
+   "exampleMeaning": "Đưa vào quỹ đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辨认",
+   "meaning": "nhận ra",
+   "example": "他的笔迹容易辨认。",
+   "exampleMeaning": "Nét bút của anh ấy dễ nhận ra",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奖项",
+   "meaning": "giải thưởng",
+   "example": "我们来学“奖项”这个词。",
+   "exampleMeaning": "Cùng học từ “奖项”: giải thưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家教",
+   "meaning": "gia giáo",
+   "example": "有家教。",
+   "exampleMeaning": "Có gia giáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiājiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人行道",
+   "meaning": "đường dành cho người đi bộ",
+   "example": "我们来学“人行道”这个词。",
+   "exampleMeaning": "Cùng học từ “人行道”: đường dành cho người đi bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénxíngdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天性",
+   "meaning": "thiên tính",
+   "example": "他天性就不爱说话。",
+   "exampleMeaning": "Bản tính của anh ấy không thích nói chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "悬崖",
+   "meaning": "cao và dốc (vách núi)",
+   "example": "悬崖绝壁",
+   "exampleMeaning": "Vách treo dốc đứng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuányá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "埋怨",
+   "meaning": "oán hận, kêu ca, kêu",
+   "example": "我们来学“埋怨”这个词。",
+   "exampleMeaning": "Cùng học từ “埋怨”: oán hận, kêu ca, kêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mányuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冷战",
+   "meaning": "rùng mình",
+   "example": "打了一个冷战。",
+   "exampleMeaning": "Rùng mình một cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngzhàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "住户",
+   "meaning": "hộ, gia đình",
+   "example": "院子里有三家住户。",
+   "exampleMeaning": "Trong sân có ba hộ sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "轨迹",
+   "meaning": "cuộc đời",
+   "example": "这些诗篇记录了诗人一生的轨迹。",
+   "exampleMeaning": "Những bài thơ này nói về toàn bộ cuộc đời của tác giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǐjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指点",
+   "meaning": "chỉ điểm",
+   "example": "大家都朝他指点的方向看。",
+   "exampleMeaning": "Mọi người đều nhìn theo hướng anh ấy chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "周到",
+   "meaning": "chu đáo",
+   "example": "她非常周到和耐心。",
+   "exampleMeaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōudào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行情",
+   "meaning": "giá cả thị trường",
+   "example": "熟悉行情",
+   "exampleMeaning": "Thông thuộc giá cả thị trường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "整洁",
+   "meaning": "gọn gàng, ngăn nắp",
+   "example": "房间收拾得很整洁。",
+   "exampleMeaning": "Căn phòng thu dọn ngăn nắp sạch sẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,333 @@
+{
+ "lesson": 124,
+ "draft": true,
+ "words": [
+  {
+   "term": "多様",
+   "meaning": "tính đa dạng, tính nhiều dạng",
+   "example": "現行の法律は人種の多様性を考慮していない。",
+   "exampleMeaning": "Pháp luật hiện hành không cân nhắc đến sự đa dạng sắc tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "誠",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "彼が誠実だとは思わない。",
+   "exampleMeaning": "Tôi không cho rằng anh ta là một người ngay thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "固有",
+   "meaning": "đặc thù, đặc tính, đặc điểm",
+   "example": "「固有」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “固有”: đặc thù, đặc tính, đặc điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目覚める",
+   "meaning": "thức dậy",
+   "example": "「目覚める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目覚める”: thức dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "デモンストレーション",
+   "meaning": "sự thể hiện, sự biểu hiện",
+   "example": "「デモンストレーション」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “デモンストレーション”: sự thể hiện, sự biểu hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進度",
+   "meaning": "sự tiến tới, sự tiến bộ",
+   "example": "「進度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進度”: sự tiến tới, sự tiến bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紛れる",
+   "meaning": "làm chệch đi, làm chệch hướng",
+   "example": "「紛れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紛れる”: làm chệch đi, làm chệch hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風俗",
+   "meaning": "cách, lối, kiểu",
+   "example": "「風俗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風俗”: cách, lối, kiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蜂蜜",
+   "meaning": "mật ong",
+   "example": "夏には、それは鳥の卵、スズメバチの幼虫、ベリーおよび蜂蜜を食べる。",
+   "exampleMeaning": "Vào mùa hè, nó ăn trứng chim, ấu trùng ong bắp cày, quả mọng và mật ong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "空ろ",
+   "meaning": "để trống, để trắng (tờ giấy...)",
+   "example": "「空ろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “空ろ”: để trống, để trắng (tờ giấy...).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転居",
+   "meaning": "động, hoạt động",
+   "example": "「転居」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転居”: động, hoạt động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "該当",
+   "meaning": "tương ứng",
+   "example": "この条件に該当する人は誰もいない。",
+   "exampleMeaning": "Không một ai đáp ứng được những điều kiện này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "平方",
+   "meaning": "vuông",
+   "example": "「平方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “平方”: vuông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人体",
+   "meaning": "cơ thể người",
+   "example": "「人体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人体”: cơ thể người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "もがく",
+   "meaning": "đấu tranh, chống lại",
+   "example": "「もがく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “もがく”: đấu tranh, chống lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "噴出",
+   "meaning": "sự khạc nhổ",
+   "example": "「噴出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “噴出”: sự khạc nhổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "個別",
+   "meaning": "trường hợp đặc biệt",
+   "example": "「個別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “個別”: trường hợp đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奉る",
+   "meaning": "đưa ra đề nghị",
+   "example": "「奉る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “奉る”: đưa ra đề nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本名",
+   "meaning": "tên thực",
+   "example": "僕のあだ名は本名とは全く関係ありません。",
+   "exampleMeaning": "Biệt danh của tôi chẳng liên quan gì đến tên thật của tôi hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同い年",
+   "meaning": "of the same age (EN)",
+   "example": "「同い年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同い年”: of the same age (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "条件",
+    "に",
+    "該当",
+    "する",
+    "人",
+    "は",
+    "誰も",
+    "いない"
+   ],
+   "reading": "このじょうけんにがいとうするひとはだれもいない",
+   "meaning": "Không một ai đáp ứng được những điều kiện này."
+  },
+  {
+   "tokens": [
+    "現行",
+    "の",
+    "法律",
+    "は",
+    "人種",
+    "の",
+    "多様性",
+    "を",
+    "考慮",
+    "していない"
+   ],
+   "reading": "げんこうのほうりつはじんしゅのたようせいをこうりょしていない",
+   "meaning": "Pháp luật hiện hành không cân nhắc đến sự đa dạng sắc tộc."
+  },
+  {
+   "tokens": [
+    "新しい",
+    "もの",
+    "は",
+    "やがて",
+    "すたれる"
+   ],
+   "reading": "あたらしいものはやがてすたれる",
+   "meaning": "Một thứ mới theo thời gian sẽ trở nên lỗi thời."
+  },
+  {
+   "tokens": [
+    "脇",
+    "へ",
+    "寄って",
+    "くださいません",
+    "か"
+   ],
+   "reading": "わきへよってくださいませんか",
+   "meaning": "Bạn đứng sang một bên có được không?"
+  },
+  {
+   "tokens": [
+    "部長",
+    "が",
+    "提案",
+    "を",
+    "受け入れました"
+   ],
+   "reading": "ぶちょうがていあんをうけいれました",
+   "meaning": "Trưởng phòng đã chấp nhận đề xuất."
+  }
+ ],
+ "issues": []
+}

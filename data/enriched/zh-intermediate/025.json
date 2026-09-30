@@ -1,0 +1,330 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "偶尔",
+   "meaning": "ngẫu nhiên",
+   "example": "他常常写小说，偶尔也写写诗。",
+   "exampleMeaning": "Anh ấy thường viết tiểu thuyết, thỉnh thoảng thì làm thơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ǒuěr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "悲伤",
+   "meaning": "khổ đau",
+   "example": "离别的时候不要悲伤。",
+   "exampleMeaning": "Khi xa nhau xin đừng khổ đau",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēishāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "劝",
+   "meaning": "khuyên, khuyên bảo, răn bảo",
+   "example": "他身体不好，你应该劝他休息休息。",
+   "exampleMeaning": "Anh ấy sức khoẻ không tốt, nên khuyên anh ấy nghỉ ngơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "顾问",
+   "meaning": "cố vấn",
+   "example": "军事顾问",
+   "exampleMeaning": "Cố vấn quân sự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùwèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "助理",
+   "meaning": "trợ lý",
+   "example": "助理研究员",
+   "exampleMeaning": "Trợ lý nghiên cứu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分离",
+   "meaning": "xa cách",
+   "example": "理论与实践是不可分离的。",
+   "exampleMeaning": "Lý luận không thể tách rời thực tiễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnlí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扇",
+   "meaning": "cánh",
+   "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
+   "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "利润",
+   "meaning": "lợi nhuận",
+   "example": "我们来学“利润”这个词。",
+   "exampleMeaning": "Cùng học từ “利润”: lợi nhuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìrùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "珍惜",
+   "meaning": "quý",
+   "example": "珍惜研究成果",
+   "exampleMeaning": "Quý trọng kết quả nghiên cứu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "消除",
+   "meaning": "trừ khử, loại trừ, loại ra",
+   "example": "消除疾病。",
+   "exampleMeaning": "Trừ bệnh tật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāochú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "匹",
+   "meaning": "con (ngựa, la, lừa)",
+   "example": "难与为匹。",
+   "exampleMeaning": "Khó mà sánh được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "随意",
+   "meaning": "tuỳ ý",
+   "example": "我们来学“随意”这个词。",
+   "exampleMeaning": "Cùng học từ “随意”: tuỳ ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suíyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "友谊",
+   "meaning": "hữu nghị",
+   "example": "深厚的友谊",
+   "exampleMeaning": "Tình hữu nghị nồng nàn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拔",
+   "meaning": "nhổ",
+   "example": "把肉放在水里拔一拔",
+   "exampleMeaning": "Cho thịt vào nước ngâm một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bá",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寻求",
+   "meaning": "tìm, đi tìm, tìm kiếm",
+   "example": "寻求知识。",
+   "exampleMeaning": "Tìm tri thức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xúnqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "装饰",
+   "meaning": "trang trí",
+   "example": "她向来朴素，不爱装饰。",
+   "exampleMeaning": "Cô ấy rất giản dị, không thích trang sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "锅",
+   "meaning": "nồi",
+   "example": "吃大锅饭讲不得什么滋味。",
+   "exampleMeaning": "Ăn cơm tập thể chả có cái mùi vị gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guō",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大厅",
+   "meaning": "phòng khách",
+   "example": "我们来学“大厅”这个词。",
+   "exampleMeaning": "Cùng học từ “大厅”: phòng khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàtīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丑",
+   "meaning": "xấu",
+   "example": "丑 态。",
+   "exampleMeaning": "Bộ dạng xấu xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "耐心",
+   "meaning": "kiên nhẫn",
+   "example": "成功屬於耐心等待的人。",
+   "exampleMeaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàixīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "他",
+    "对",
+    "你",
+    "说",
+    "了",
+    "些",
+    "什么"
+   ],
+   "reading": "tā duì nǐ shuō le xiē shénme",
+   "meaning": "Anh ấy nói những gì với chị?"
+  }
+ ],
+ "issues": []
+}

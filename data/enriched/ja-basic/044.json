@@ -1,0 +1,324 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "発音",
+   "meaning": "sự phát âm, cách phát âm, cách đọc (của ai",
+   "example": "誰かこの単語を発音できる人はいますか。",
+   "exampleMeaning": "Có ai phát âm được từ này không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "泊まる",
+   "meaning": "néo (cột buồm) bằng dây",
+   "example": "夜はこのホテルに泊まるつもりです。",
+   "exampleMeaning": "Tôi định sẽ ở qua đêm tại khách sạn này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "急",
+   "meaning": "gấp, cần kíp, khẩn cấp",
+   "example": "急がなくちゃ。",
+   "exampleMeaning": "Bạn phải nhanh lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お宅",
+   "meaning": "nhà, chuồng",
+   "example": "こちらのお宅は、部屋が６つあるんです。",
+   "exampleMeaning": "Căn nhà này có sáu phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "打つ",
+   "meaning": "đánh, đấm trúng, bắn trúng",
+   "example": "「打つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “打つ”: đánh, đấm trúng, bắn trúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕方",
+   "meaning": "đường, đường đi, lối đi",
+   "example": "冷たいものが飲みたくて仕方ない。",
+   "exampleMeaning": "Tôi muốn uống đồ lạnh quá không chịu được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "原因",
+   "meaning": "nguyên nhân",
+   "example": "警察はその事故の原因を調査中である。",
+   "exampleMeaning": "Cảnh sát đang điều tra nguyên nhân của vụ tai nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "召し上がる",
+   "meaning": "ăn, uống (kính ngữ)",
+   "example": "「召し上がる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “召し上がる”: ăn, uống (kính ngữ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "講義",
+   "meaning": "bài diễn thuyết",
+   "example": "私はその講義に注意を集中した。",
+   "exampleMeaning": "Tôi đã hết sức tập trung vào bài giảng đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スーツ",
+   "meaning": "bộ com lê, bộ quần áo (đàn ông)",
+   "example": "スーツケースをロックした？",
+   "exampleMeaning": "Bạn khóa vali chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ファックス",
+   "meaning": "bản fax",
+   "example": "「ファックス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ファックス”: bản fax.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "申し上げる",
+   "meaning": "tuyên bố",
+   "example": "「申し上げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申し上げる”: tuyên bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "送る",
+   "meaning": "gửi, chuyển (đi) cái gì đó",
+   "example": "トラング、もしあなたにマシュマロを送れたら、私は送るよ。",
+   "exampleMeaning": "Nếu tôi có thể gửi Trang một cục marshmallow thì tôi sẽ gửi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "汚れる",
+   "meaning": "làm bẩn, làm dơ, làm vấy bùn",
+   "example": "「汚れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “汚れる”: làm bẩn, làm dơ, làm vấy bùn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "しっかり",
+   "meaning": "vững chắc",
+   "example": "しっかりしてください！",
+   "exampleMeaning": "Giữ chắc vào!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "取り替える",
+   "meaning": "đổi, đổi chác, trao đổi",
+   "example": "「取り替える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り替える”: đổi, đổi chác, trao đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "エスカレーター",
+   "meaning": "thang cuốn, cầu thang tự động",
+   "example": "「エスカレーター」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “エスカレーター”: thang cuốn, cầu thang tự động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心",
+   "meaning": "tâm, tâm trí, tinh thần",
+   "example": "彼女は初心者だ。",
+   "exampleMeaning": "Cô ấy là người mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "苦い",
+   "meaning": "đắng",
+   "example": "「苦い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “苦い”: đắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "熱心",
+   "meaning": "hăng hái, nhiệt tình",
+   "example": "第４地区の看護婦はとても熱心だ。",
+   "exampleMeaning": "Y tá bệnh viện quận 4 rất nhiệt tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "アウトドアスポーツ",
+    "に",
+    "熱心",
+    "だ"
+   ],
+   "reading": "かれらはアウトドアスポーツにねっしんだ",
+   "meaning": "Họ rất thích thú các môn thể thao ngoài trời."
+  },
+  {
+   "tokens": [
+    "急ぐ",
+    "必要",
+    "は",
+    "ない",
+    "よ"
+   ],
+   "reading": "いそぐひつようはないよ",
+   "meaning": "Không cần vội đâu."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "すぐに",
+    "決心",
+    "した"
+   ],
+   "reading": "かれはすぐにけっしんした",
+   "meaning": "Anh ấy hạ quyết tâm ngay lập tức."
+  },
+  {
+   "tokens": [
+    "急ぐ",
+    "と",
+    "無駄",
+    "が",
+    "出来る"
+   ],
+   "reading": "いそぐとむだができる",
+   "meaning": "Dục tốc bất đạt."
+  },
+  {
+   "tokens": [
+    "気温",
+    "が",
+    "急に",
+    "下がった"
+   ],
+   "reading": "きおんがきゅうにさがった",
+   "meaning": "Nhiệt độ đột nhiên giảm."
+  }
+ ],
+ "issues": []
+}

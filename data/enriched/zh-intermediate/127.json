@@ -1,0 +1,336 @@
+{
+ "lesson": 127,
+ "draft": true,
+ "words": [
+  {
+   "term": "啦啦队",
+   "meaning": "đội cổ động viên",
+   "example": "我们来学“啦啦队”这个词。",
+   "exampleMeaning": "Cùng học từ “啦啦队”: đội cổ động viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lālāduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尚",
+   "meaning": "còn, hãy còn, còn nữa",
+   "example": "为时尚早。",
+   "exampleMeaning": "Thời gian hãy còn sớm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "授权",
+   "meaning": "trao quyền",
+   "example": "我们来学“授权”这个词。",
+   "exampleMeaning": "Cùng học từ “授权”: trao quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòuquán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预算",
+   "meaning": "dự toán",
+   "example": "我们来学“预算”这个词。",
+   "exampleMeaning": "Cùng học từ “预算”: dự toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùsuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冒险",
+   "meaning": "mạo hiểm",
+   "example": "冒险行为。",
+   "exampleMeaning": "Hành vi mạo hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màoxiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "行政",
+   "meaning": "hành chính",
+   "example": "行政单位。",
+   "exampleMeaning": "Đơn vị hành chính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "司法",
+   "meaning": "tư pháp",
+   "example": "我们来学“司法”这个词。",
+   "exampleMeaning": "Cùng học từ “司法”: tư pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宇宙",
+   "meaning": "vũ trụ",
+   "example": "宇宙毫无疑问是无限的。",
+   "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǔzhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "传奇",
+   "meaning": "huyền thoại",
+   "example": "传奇式的人物。",
+   "exampleMeaning": "Nhân vật huyền thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "要不",
+   "meaning": "nếu không",
+   "example": "从上海到武汉，可以搭长江轮船，要不绕道坐火车也行。",
+   "exampleMeaning": "Từ Thượng Hải đi Vũ Hán, có thể đi bằng tàu thuỷ sông Trường Giang, nếu không thì đi xe lửa vòng cũng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàobù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "呈现",
+   "meaning": "hiện lên",
+   "example": "暴风雨过去，大海又呈现出碧蓝的颜色。",
+   "exampleMeaning": "Giông bão qua đi, đại dương lại hiện lên một màu xanh biếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无比",
+   "meaning": "không gì sánh được",
+   "example": "无比强大。",
+   "exampleMeaning": "Lớn mạnh vô địch; lớn mạnh không gì sánh được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúbǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "评委",
+   "meaning": "ban giám khảo",
+   "example": "我们来学“评委”这个词。",
+   "exampleMeaning": "Cùng học từ “评委”: ban giám khảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngwěi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不准",
+   "meaning": "không cho phép",
+   "example": "我们来学“不准”这个词。",
+   "exampleMeaning": "Cùng học từ “不准”: không cho phép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzhǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "少女",
+   "meaning": "thiếu nữ",
+   "example": "我们来学“少女”这个词。",
+   "exampleMeaning": "Cùng học từ “少女”: thiếu nữ.",
+   "emoji": "👧",
+   "ipa": "",
+   "pinyin": "shàonǚ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "免",
+   "meaning": "tha lỗi, thứ lỗi, tha thứ",
+   "example": "你去就免得我再去了。",
+   "exampleMeaning": "Anh đi thì tôi khỏi đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "瞎",
+   "meaning": "xịt",
+   "example": "事先打个招呼，别叫我临时抓瞎。",
+   "exampleMeaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "坑",
+   "meaning": "hầm",
+   "example": "茅坑 (厕所里的粪坑)。",
+   "exampleMeaning": "Hầm phân trong nhà xí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "导弹",
+   "meaning": "đạn đạo",
+   "example": "我们来学“导弹”这个词。",
+   "exampleMeaning": "Cùng học từ “导弹”: đạn đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎodàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勋章",
+   "meaning": "huân chương",
+   "example": "我们来学“勋章”这个词。",
+   "exampleMeaning": "Cùng học từ “勋章”: huân chương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xūnzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "事先",
+    "打",
+    "个",
+    "招呼",
+    "别",
+    "叫",
+    "我",
+    "临时",
+    "抓瞎"
+   ],
+   "reading": "shìxiān dǎ gè zhāohu bié jiào wǒ línshí zhuāxiā",
+   "meaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng."
+  },
+  {
+   "tokens": [
+    "你",
+    "去",
+    "就",
+    "免得",
+    "我",
+    "再",
+    "去",
+    "了"
+   ],
+   "reading": "nǐ qù jiù miǎnde wǒ zài qù le",
+   "meaning": "Anh đi thì tôi khỏi đi."
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "他",
+    "童年",
+    "时",
+    "去",
+    "过",
+    "巴黎",
+    "三次"
+   ],
+   "reading": "tā tóngnián shí qù guo bālí sāncì",
+   "meaning": "Hồi nhỏ, anh ta đã đi Paris ba lần."
+  },
+  {
+   "tokens": [
+    "我",
+    "看见",
+    "了",
+    "马",
+    "库",
+    "斯",
+    "的",
+    "房子"
+   ],
+   "reading": "wǒ kànjiàn le mǎ kù sī de fángzi",
+   "meaning": "Tôi đã thấy nhà của Marcus."
+  }
+ ],
+ "issues": []
+}

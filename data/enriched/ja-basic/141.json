@@ -1,0 +1,334 @@
+{
+ "lesson": 141,
+ "draft": true,
+ "words": [
+  {
+   "term": "要するに",
+   "meaning": "nói tóm lại",
+   "example": "要するに、彼はあまりにも正直すぎた。",
+   "exampleMeaning": "Nói tóm lại thì, anh ấy quá thật thà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "髪の毛",
+   "meaning": "tóc, lông (người, thú",
+   "example": "髪の毛を洗っていない。",
+   "exampleMeaning": "Tôi chưa gội đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "だって",
+   "meaning": "vì, bởi vì",
+   "example": "女性だってエッチしたい。",
+   "exampleMeaning": "Phụ nữ cũng muốn làm tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昇る",
+   "meaning": "leo, trèo, leo trèo",
+   "example": "上へ昇れば昇るほど、それだけ墜落の程度は大きくなる。",
+   "exampleMeaning": "Trèo cao ngã đau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鬼",
+   "meaning": "yêu tinh",
+   "example": "明日の事を言えば鬼が笑う。",
+   "exampleMeaning": "Nói trước bước không qua.",
+   "emoji": "👹",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "議長",
+   "meaning": "chủ tịch",
+   "example": "私達はジャックを議長に選んだ。",
+   "exampleMeaning": "Chúng tôi bầu Jack làm chủ tịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "補償",
+   "meaning": "sự đền bù, sự bồi thường (thiệt hại)",
+   "example": "「補償」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “補償”: sự đền bù, sự bồi thường (thiệt hại).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "負う",
+   "meaning": "mang, cầm, vác",
+   "example": "「負う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “負う”: mang, cầm, vác.",
+   "emoji": "🐻",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ユーモア",
+   "meaning": "sự hài hước, sự hóm hỉnh",
+   "example": "彼にはユーモア精神が全然ないようだ。",
+   "exampleMeaning": "Hình như anh ấy chẳng có tí khiếu hài hước nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "縁",
+   "meaning": "cạnh, đường biên",
+   "example": "縁起でもないこと言うなよ。",
+   "exampleMeaning": "Đừng có mà nói gở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "胡椒",
+   "meaning": "hạt tiêu, hồ tiêu",
+   "example": "「胡椒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “胡椒”: hạt tiêu, hồ tiêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岩",
+   "meaning": "đá",
+   "example": "「岩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “岩”: đá.",
+   "emoji": "🪨",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進める",
+   "meaning": "đưa lên, đưa ra phía trước",
+   "example": "「進める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進める”: đưa lên, đưa ra phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先日",
+   "meaning": "day",
+   "example": "彼が先日私が話していた少年です。",
+   "exampleMeaning": "Cậu ấy là cậu bé mà ngày hôm trước tôi đã nói chuyện cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "期待",
+   "meaning": "sự mong chờ, sự chờ đợi, sự ngóng chờ",
+   "example": "ご期待に添えず申し訳ございませんでした。",
+   "exampleMeaning": "Tôi xin lỗi vì không thể đáp ứng được kỳ vọng của mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "保存",
+   "meaning": "sự giữ, sự gìn giữ, sự bảo quản",
+   "example": "冷蔵庫は食べ物を保存するのに役立つ。",
+   "exampleMeaning": "Tủ lạnh giúp bảo quản thức ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "安定",
+   "meaning": "sự vững vàng, sự vững chắc",
+   "example": "「安定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “安定”: sự vững vàng, sự vững chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "茶",
+   "meaning": "chè, trà",
+   "example": "このお茶、苦すぎるよ。",
+   "exampleMeaning": "Trà này đắng quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "世",
+   "meaning": "thế giới, hoàn cầu, địa cầu",
+   "example": "旅は道連れ世は情け。",
+   "exampleMeaning": "Hành trình cần bạn đường, cuộc sống cần bạn đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "止す",
+   "meaning": "rời, buông, dừng",
+   "example": "そんな悪習は廃止するべきだ。",
+   "exampleMeaning": "Bạn nên từ bỏ thói quen xấu đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "先日",
+    "は",
+    "大変",
+    "お世話になりました"
+   ],
+   "reading": "せんじつはたいへんおせわになりました",
+   "meaning": "Hôm qua bạn đã giúp đỡ tôi rất nhiều."
+  },
+  {
+   "tokens": [
+    "縁起でもない",
+    "こと",
+    "言う",
+    "な",
+    "よ"
+   ],
+   "reading": "えんぎでもないこというなよ",
+   "meaning": "Đừng có mà nói gở."
+  },
+  {
+   "tokens": [
+    "私",
+    "達",
+    "は",
+    "ジャック",
+    "を",
+    "議長",
+    "に",
+    "選",
+    "ん",
+    "だ"
+   ],
+   "reading": "わたしたちはジャックをぎちょうにえらんだ",
+   "meaning": "Chúng tôi bầu Jack làm chủ tịch."
+  },
+  {
+   "tokens": [
+    "じゃあ",
+    "ネコ",
+    "の",
+    "世話",
+    "は",
+    "誰",
+    "が",
+    "する",
+    "の"
+   ],
+   "reading": "じゃあネコのせわはだれがするの",
+   "meaning": "Vậy ai sẽ chăm mèo đây?"
+  },
+  {
+   "tokens": [
+    "コーヒー",
+    "か",
+    "紅茶",
+    "どちら",
+    "に",
+    "なさいます",
+    "か"
+   ],
+   "reading": "コーヒーかこうちゃどちらになさいますか",
+   "meaning": "Bạn muốn dùng cà phê hay dùng trà?"
+  }
+ ],
+ "issues": []
+}

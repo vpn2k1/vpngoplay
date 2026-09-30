@@ -1,0 +1,321 @@
+{
+ "lesson": 146,
+ "draft": true,
+ "words": [
+  {
+   "term": "尾巴",
+   "meaning": "đuôi",
+   "example": "飞机尾巴",
+   "exampleMeaning": "Đuôi máy bay",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěiba",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "智能",
+   "meaning": "trí tuệ và năng lực",
+   "example": "发展学生智能。",
+   "exampleMeaning": "Phát triển trí tuệ và năng lực của học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手工",
+   "meaning": "thủ công",
+   "example": "这件衣服多少手工？",
+   "exampleMeaning": "Cái áo này tiền công bao nhiêu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒugōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来得及",
+   "meaning": "kịp",
+   "example": "电影是七点开演，现在刚六点半，你马上去还来得及。",
+   "exampleMeaning": "Bây giờ mới có sáu giờ rưỡi, bảy giờ mới bắt đầu chiếu phim, anh đi ngay vẫn còn kịp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láidejí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "登录",
+   "meaning": "đăng ký",
+   "example": "登录在案",
+   "exampleMeaning": "Có trong hồ sơ đăng ký",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēnglù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "穷人",
+   "meaning": "người nghèo",
+   "example": "我们来学“穷人”这个词。",
+   "exampleMeaning": "Cùng học từ “穷人”: người nghèo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qióngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "符号",
+   "meaning": "ký hiệu",
+   "example": "文字是记录语言的符号",
+   "exampleMeaning": "Chữ viết là ký hiệu dùng để ghi lại ngôn ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "节省",
+   "meaning": "tiết kiệm",
+   "example": "节省每一个铜板用到革命事业上。",
+   "exampleMeaning": "Mỗi đồng tiền dành dụm được dùng cho sự nghiệp cách mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéshěng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "研究生",
+   "meaning": "nghiên cứu sinh",
+   "example": "现在给大家吃个定心丸，今年的研究生分配方案已经基本落实了。",
+   "exampleMeaning": "Bây giờ xin trấn an mọi người, phương án phân bổ nghiên cứu sinh đã cơ bản hoàn thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánjiūshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "围巾",
+   "meaning": "khăn quàng cổ",
+   "example": "我们来学“围巾”这个词。",
+   "exampleMeaning": "Cùng học từ “围巾”: khăn quàng cổ.",
+   "emoji": "🧣",
+   "ipa": "",
+   "pinyin": "wéijīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宁静",
+   "meaning": "ninh Tịnh",
+   "example": "我们来学“宁静”这个词。",
+   "exampleMeaning": "Cùng học từ “宁静”: ninh Tịnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "níngjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "树林",
+   "meaning": "rừng cây",
+   "example": "我们来学“树林”这个词。",
+   "exampleMeaning": "Cùng học từ “树林”: rừng cây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùlín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "以内",
+   "meaning": "trong vòng",
+   "example": "五十人以内",
+   "exampleMeaning": "Trong vòng 50 người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "多种",
+   "meaning": "phong phú",
+   "example": "我们来学“多种”这个词。",
+   "exampleMeaning": "Cùng học từ “多种”: phong phú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōzhǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "型号",
+   "meaning": "loại",
+   "example": "我们来学“型号”这个词。",
+   "exampleMeaning": "Cùng học từ “型号”: loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xínghào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "快递",
+   "meaning": "chuyển phát nhanh",
+   "example": "我们来学“快递”这个词。",
+   "exampleMeaning": "Cùng học từ “快递”: chuyển phát nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàidì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新型",
+   "meaning": "kiểu mới",
+   "example": "我们来学“新型”这个词。",
+   "exampleMeaning": "Cùng học từ “新型”: kiểu mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酸奶",
+   "meaning": "sữa chua",
+   "example": "我们来学“酸奶”这个词。",
+   "exampleMeaning": "Cùng học từ “酸奶”: sữa chua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suānnǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "优美",
+   "meaning": "tốt đẹp",
+   "example": "优美的民间艺术。",
+   "exampleMeaning": "Nghệ thuật dân gian hay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōuměi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "耳机",
+   "meaning": "ống nghe điện thoại",
+   "example": "我们来学“耳机”这个词。",
+   "exampleMeaning": "Cùng học từ “耳机”: ống nghe điện thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ěrjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "只",
+    "知道",
+    "这些"
+   ],
+   "reading": "wǒ zhǐ zhīdào zhèxiē",
+   "meaning": "Tôi chỉ biết thế thôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "张",
+    "桌子",
+    "不",
+    "好"
+   ],
+   "reading": "zhè zhāng zhuōzi bù hǎo",
+   "meaning": "Cái bàn này không tốt."
+  },
+  {
+   "tokens": [
+    "你",
+    "家里",
+    "都",
+    "有",
+    "谁"
+   ],
+   "reading": "nǐ jiālǐ dōu yǒu shéi",
+   "meaning": "Nhà anh có những ai?"
+  },
+  {
+   "tokens": [
+    "送",
+    "你",
+    "一点",
+    "礼物"
+   ],
+   "reading": "sòng nǐ yīdiǎn lǐwù",
+   "meaning": "Biếu chị một chút quà."
+  },
+  {
+   "tokens": [
+    "明天",
+    "我们",
+    "还",
+    "来"
+   ],
+   "reading": "míngtiān wǒmen hái lái",
+   "meaning": "Ngày mai, chúng tôi còn đến đây."
+  }
+ ],
+ "issues": []
+}

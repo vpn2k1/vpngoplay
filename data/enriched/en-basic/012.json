@@ -1,0 +1,329 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "sweet",
+   "meaning": "ngọt",
+   "example": "is the meat still sweet?",
+   "exampleMeaning": "Thịt còn tươi không?",
+   "emoji": "",
+   "ipa": "/ˈswit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "much",
+   "meaning": "nhiều, lắm",
+   "example": "there is so much pleasure in reading",
+   "exampleMeaning": "Đọc sách rất thú vị",
+   "emoji": "",
+   "ipa": "/ˈmətʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bat",
+   "meaning": "nháy (mắt), vận động viên bóng chày, cú đánh bất ngờ",
+   "example": "The bat was stolen yesterday, along with the balls.",
+   "exampleMeaning": "Cây gậy bị mất ngày hôm qua, cùng với những quả bóng.",
+   "emoji": "🦇",
+   "ipa": "/ˈbæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "p.m.",
+   "meaning": "((viết tắt) p.m) quá trưa, chiều, post meridiem",
+   "example": "at 7 p.m.",
+   "exampleMeaning": "Vào lúc 7 giờ tối",
+   "emoji": "",
+   "ipa": "/ˈpiˈɛm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "radio",
+   "meaning": "truyền thanh",
+   "example": "The boy took the radio apart.",
+   "exampleMeaning": "Thắng bé tháo cái đài ra từng phần.",
+   "emoji": "📻",
+   "ipa": "/ˈreɪdiˌoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "strict",
+   "meaning": "nghiêm ngặt, nghiêm khắc",
+   "example": "in the strict sense of the word",
+   "exampleMeaning": "Theo đúng nghĩa của từ",
+   "emoji": "",
+   "ipa": "/ˈstrɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pick",
+   "meaning": "chọn, chọn lựa kỹ càng",
+   "example": "to pick out a ground-colour with another",
+   "exampleMeaning": "Làm nổi bật màu nền bằng một màu khác",
+   "emoji": "⛏",
+   "ipa": "/ˈpɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "town",
+   "meaning": "thị trấn",
+   "example": "the whole town knows of it",
+   "exampleMeaning": "Cả thành phố ai người ta cũng biết chuyện đó",
+   "emoji": "",
+   "ipa": "/taʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "near",
+   "meaning": "gần, cận",
+   "example": "who comes near him in self-denial?",
+   "exampleMeaning": "Ai theo kịp được anh ấy về tinh thần hy sinh?",
+   "emoji": "",
+   "ipa": "/nɪə̯/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "water",
+   "meaning": "nước",
+   "example": "Water is life.",
+   "exampleMeaning": "Nước là nguồn sống.",
+   "emoji": "",
+   "ipa": "/ˈwɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "driver",
+   "meaning": "tài xế",
+   "example": "Tom isn't a truck driver, is he?",
+   "exampleMeaning": "Tom không phải là tài xế xe tải, phải không?",
+   "emoji": "",
+   "ipa": "/ˈdraɪvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stay",
+   "meaning": "ở lại, lưu lại",
+   "example": "to make a long stay in Hanoi",
+   "exampleMeaning": "Lưu lại lâu ở Hà Nội",
+   "emoji": "",
+   "ipa": "/steɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "everywhere",
+   "meaning": "ở mọi nơi, khắp nơi, khắp chốn",
+   "example": "White snow covers everywhere in winter.",
+   "exampleMeaning": "Tuyết trắng bao phủ khắp mọi nơi vào mùa đông.",
+   "emoji": "",
+   "ipa": "/ˈɛvriˌwɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "no",
+   "meaning": "không",
+   "example": "we can't take no for an answer",
+   "exampleMeaning": "Chúng tôi không thể chấp nhận được câu trả lời từ chối",
+   "emoji": "",
+   "ipa": "/ˈnoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "building",
+   "meaning": "nhà",
+   "example": "The building was built in 1960.",
+   "exampleMeaning": "Tòa nhà được xây vào năm 1960.",
+   "emoji": "",
+   "ipa": "/ˈbɪl.dɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pray",
+   "meaning": "cầu, cầu nguyện",
+   "example": "what's the use of that pray?",
+   "exampleMeaning": "Xin cho hay cái đó để làm gì?",
+   "emoji": "",
+   "ipa": "/ˈpreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exciting",
+   "meaning": "kích thích, kích động",
+   "example": "That was an exciting book!",
+   "exampleMeaning": "Đó là một cuốn sách thú vị.",
+   "emoji": "",
+   "ipa": "/ɪkˈsʌɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "middle",
+   "meaning": "giữa",
+   "example": "in the middle of our century",
+   "exampleMeaning": "Ở giữa thế kỷ của chúng ta",
+   "emoji": "",
+   "ipa": "/ˈmɪdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "arrive",
+   "meaning": "đến, tới nơi",
+   "example": "When do we arrive?",
+   "exampleMeaning": "Chúng tôi đến khi nào",
+   "emoji": "",
+   "ipa": "/ɜrˈaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "talk",
+   "meaning": "nói, kể",
+   "example": "don't do that, people will talk",
+   "exampleMeaning": "Đừng làm cái đó, người ta sẽ nói ngay đấy",
+   "emoji": "",
+   "ipa": "/ˈtɔk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "have",
+    "no",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi không có nước."
+  },
+  {
+   "tokens": [
+    "How",
+    "much",
+    "longer",
+    "before",
+    "you",
+    "arrive"
+   ],
+   "reading": "",
+   "meaning": "Còn mấy tiếng nữa thì bạn đến vậy?"
+  },
+  {
+   "tokens": [
+    "You",
+    "talk",
+    "about",
+    "Boston",
+    "too",
+    "much"
+   ],
+   "reading": "",
+   "meaning": "Bạn nói về Boston quá nhiều rồi đấy."
+  },
+  {
+   "tokens": [
+    "He",
+    "has",
+    "no",
+    "friends",
+    "to",
+    "talk",
+    "with"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy không có bạn để nói chuyện cùng"
+  },
+  {
+   "tokens": [
+    "We",
+    "have",
+    "no",
+    "access",
+    "to",
+    "clean",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi không tiếp cận được với nước sạch."
+  }
+ ],
+ "issues": []
+}

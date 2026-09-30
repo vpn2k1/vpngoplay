@@ -1,0 +1,330 @@
+{
+ "lesson": 132,
+ "draft": true,
+ "words": [
+  {
+   "term": "運搬",
+   "meaning": "sự chuyên chở, sự vận tải",
+   "example": "「運搬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “運搬”: sự chuyên chở, sự vận tải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ヒント",
+   "meaning": "lời gợi ý",
+   "example": "「ヒント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ヒント”: lời gợi ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "身の上",
+   "meaning": "tương lai",
+   "example": "「身の上」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “身の上”: tương lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辟易",
+   "meaning": "sự co rúm lại, sự rụt lại (vì đau đớn",
+   "example": "「辟易」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “辟易”: sự co rúm lại, sự rụt lại (vì đau đớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ソース",
+   "meaning": "nguồn sông, nguồi suối",
+   "example": "子供たちはトマトソースとパスタが好きだ。",
+   "exampleMeaning": "Bọn trẻ thích mỳ Ý và sốt cà chua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "沈没",
+   "meaning": "sự chìm",
+   "example": "タイタニック号は処女航海で沈没した。",
+   "exampleMeaning": "Tàu Titanic đã chìm trong chuyến ra khơi đầu tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "英字",
+   "meaning": "ký tự chữ cái",
+   "example": "「英字」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “英字”: ký tự chữ cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "追放",
+   "meaning": "đuổi, trục xuất",
+   "example": "彼は母国を追放された。",
+   "exampleMeaning": "Anh ta đã bị trục xuất ra khỏi đất nước của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "老いる",
+   "meaning": "tuổi",
+   "example": "「老いる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “老いる”: tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人影",
+   "meaning": "linh hồn",
+   "example": "「人影」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人影”: linh hồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ばい菌",
+   "meaning": "vi khuẩn",
+   "example": "「ばい菌」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ばい菌”: vi khuẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老衰",
+   "meaning": "tình trạng suy yếu vì tuổi già",
+   "example": "「老衰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “老衰”: tình trạng suy yếu vì tuổi già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "証言",
+   "meaning": "tính hiển nhiên",
+   "example": "「証言」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “証言”: tính hiển nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主",
+   "meaning": "chủ, chủ nhân",
+   "example": "彼は主将に選ばれた。",
+   "exampleMeaning": "Anh ấy được chọn làm đội trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "システム",
+   "meaning": "hệ thống",
+   "example": "このシステムには、保護回路が組み込まれています。",
+   "exampleMeaning": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "勢力",
+   "meaning": "uy thế, thế lực",
+   "example": "９世紀以降のバイキングの勢力拡大はノルマンディ、ガリシア、アンダルシア、シチリア、クリミアといった地域へと達した。",
+   "exampleMeaning": "Từ sau thế kỷ IX, thế lực của người Viking đã lan rộng tới các vùng như Normandie, Galicia, Andalusia, Sicilia và Crimea.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "経費",
+   "meaning": "chi phí",
+   "example": "「経費」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “経費”: chi phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "普遍",
+   "meaning": "tính chất chung, tính toàn thể",
+   "example": "「普遍」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “普遍”: tính chất chung, tính toàn thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "現像",
+   "meaning": "đang phát triển, trên đà phát triển",
+   "example": "「現像」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “現像”: đang phát triển, trên đà phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喜劇",
+   "meaning": "kịch vui, hài kịch",
+   "example": "「喜劇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “喜劇”: kịch vui, hài kịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "主婦",
+    "は",
+    "家庭",
+    "の",
+    "仕事",
+    "が",
+    "たくさん",
+    "ある"
+   ],
+   "reading": "しゅふはかていのしごとがたくさんある",
+   "meaning": "Bà nội trợ có vô khối việc gia đình phải lo."
+  },
+  {
+   "tokens": [
+    "この",
+    "システム",
+    "には",
+    "保護",
+    "回路",
+    "が",
+    "組み込まれています"
+   ],
+   "reading": "このシステムにはほごかいろがくみこまれています",
+   "meaning": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong."
+  },
+  {
+   "tokens": [
+    "拾った",
+    "者",
+    "が",
+    "持ち主"
+   ],
+   "reading": "ひろったものがもちぬし",
+   "meaning": "Ai tìm thấy thì được hưởng, ai làm mất thì ráng chịu."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "民主党",
+    "の",
+    "支持者",
+    "だ"
+   ],
+   "reading": "かれはみんしゅとうのしじしゃだ",
+   "meaning": "Anh ta ủng hộ đảng Dân chủ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "母国",
+    "を",
+    "追放",
+    "された"
+   ],
+   "reading": "かれはぼこくをついほうされた",
+   "meaning": "Anh ta đã bị trục xuất ra khỏi đất nước của mình."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,330 @@
+{
+ "lesson": 63,
+ "draft": true,
+ "words": [
+  {
+   "term": "副",
+   "meaning": "bộ",
+   "example": "一副庄严的面孔",
+   "exampleMeaning": "Gương mặt trang nghiêm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "若",
+   "meaning": "như",
+   "example": "安之若素。",
+   "exampleMeaning": "Yên ổn như cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruò",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "之类",
+   "meaning": "vân vân và vân vân",
+   "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
+   "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīlèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "队伍",
+   "meaning": "hàng ngũ",
+   "example": "知识分子队伍",
+   "exampleMeaning": "Đội ngũ trí thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìwǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "命",
+   "meaning": "mạng",
+   "example": "可能你工作得太拼命？",
+   "exampleMeaning": "Có lẽ anh đang làm việc quá liều mạng?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "招",
+   "meaning": "lây",
+   "example": "帕克夫人面帶微笑向他打招呼。",
+   "exampleMeaning": "Bà Parker mỉm cười chào anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "藏",
+   "meaning": "tạng (sách kinh của đạo Phật)",
+   "example": "我校图书馆藏书二百五十万册。",
+   "exampleMeaning": "Thư viện trường chúng tôi có hai triệu rưởi quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "英雄",
+   "meaning": "anh hùng",
+   "example": "英雄难过美人关。",
+   "exampleMeaning": "Anh hùng nan quá mỹ nhân quan; anh hùng khó qua cửa ải người đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīngxióng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "威胁",
+   "meaning": "đe doạ",
+   "example": "威胁利诱",
+   "exampleMeaning": "Đe doạ dụ dỗ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēixié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "攻击",
+   "meaning": "tiến công",
+   "example": "攻击敌人阵地",
+   "exampleMeaning": "Tiến công vào trận địa địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "镇",
+   "meaning": "ướp lạnh",
+   "example": "把西瓜放在冷水里镇一镇。",
+   "exampleMeaning": "Đem ướp lạnh dưa hấu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "允许",
+   "meaning": "cho phép",
+   "example": "得到允许，方可入内。",
+   "exampleMeaning": "Cho phép, mới được vào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǔnxǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "错过",
+   "meaning": "lỡ",
+   "example": "赶快点，否则要错过公共汽车了。",
+   "exampleMeaning": "Nhanh lên không bạn lỡ xe buýt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuòguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自我",
+   "meaning": "bản thân",
+   "example": "自我批评",
+   "exampleMeaning": "Tự phê bình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìwǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "犯",
+   "meaning": "vi phạm, xâm phạm, phạm",
+   "example": "罪犯们密谋抢劫银行。",
+   "exampleMeaning": "Bọn tội phạm đang âm mưu cướp ngân hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "服",
+   "meaning": "quần áo",
+   "example": "John 這人不容易說服。",
+   "exampleMeaning": "Thuyết phục John là một việc khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "样",
+   "meaning": "cách, lối, kiểu",
+   "example": "我也和你想的一样。",
+   "exampleMeaning": "Tôi cũng nghĩ như anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "理",
+   "meaning": "lý",
+   "example": "你吃過日本料理嗎？",
+   "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "股",
+   "meaning": "sợi (để bện thừng)",
+   "example": "羊屁股先生可没告诉我还有搭档。",
+   "exampleMeaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "说实话",
+   "meaning": "nói sự thật",
+   "example": "你相信他在说实话吗？",
+   "exampleMeaning": "Bạn có tin ông ta đang nói sự thật không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōshíhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "你",
+    "犯得上",
+    "这样",
+    "做",
+    "吗"
+   ],
+   "reading": "nǐ fàndeshàng zhèyàng zuò ma",
+   "meaning": "Mày có đáng phải làm thế này không?"
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  },
+  {
+   "tokens": [
+    "你",
+    "相信",
+    "他",
+    "在",
+    "说实话",
+    "吗"
+   ],
+   "reading": "nǐ xiāngxìn tā zài shuōshíhuà ma",
+   "meaning": "Bạn có tin ông ta đang nói sự thật không?"
+  }
+ ],
+ "issues": []
+}

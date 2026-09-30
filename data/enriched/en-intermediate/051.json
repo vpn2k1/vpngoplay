@@ -1,0 +1,319 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "prove",
+   "meaning": "chứng tỏ, chứng minh",
+   "example": "to prove oneself to be a valiant man",
+   "exampleMeaning": "Chứng tỏ mình là một người dũng cảm",
+   "emoji": "",
+   "ipa": "/ˈpruv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "snowstorm",
+   "meaning": "bão tuyết",
+   "example": "Let's learn the word \"snowstorm\".",
+   "exampleMeaning": "Cùng học từ “snowstorm”: bão tuyết.",
+   "emoji": "",
+   "ipa": "/ˈsnəʊstɔːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "phrase",
+   "meaning": "diễn đạt, nói, phát biểu (bằng lời)",
+   "example": "What's the meaning of this phrase?",
+   "exampleMeaning": "Cụm từ này nghĩa là gì?",
+   "emoji": "",
+   "ipa": "/ˈfreɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "forecast",
+   "meaning": "dự báo",
+   "example": "According to the weather forecast, it'll snow tomorrow.",
+   "exampleMeaning": "Theo dự báo thời tiết, mai sẽ có tuyết.",
+   "emoji": "",
+   "ipa": "/ˈfɔːkɑːst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lift",
+   "meaning": "ăn trộm (súc vật), ăn cắp (văn)",
+   "example": "to lift many long passages from other authors",
+   "exampleMeaning": "Ăn cắp nhiều đoạn văn dài của các tác giả khác",
+   "emoji": "",
+   "ipa": "/ˈlɪft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "occasionally",
+   "meaning": "thỉnh thoảng, thảng hoặc",
+   "example": "Let's learn the word \"occasionally\".",
+   "exampleMeaning": "Cùng học từ “occasionally”: thỉnh thoảng, thảng hoặc.",
+   "emoji": "",
+   "ipa": "/əˈkeɪʒənəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "priest",
+   "meaning": "thầy tu, thầy tế, linh mục (Công giáo)",
+   "example": "Is your father a priest?",
+   "exampleMeaning": "Cha của bạn là một linh mục phải không?",
+   "emoji": "",
+   "ipa": "/ˈprist/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "behave",
+   "meaning": "ăn ở, đối xử, cư xử",
+   "example": "My mother told me to behave myself.",
+   "exampleMeaning": "Mẹ bảo tôi phải cư xử cho đúng.",
+   "emoji": "",
+   "ipa": "/bɪˈheɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "critic",
+   "meaning": "nhà phê bình (văn nghệ)",
+   "example": "a literary critic",
+   "exampleMeaning": "Nhà phê bình văn học",
+   "emoji": "",
+   "ipa": "/ˈkrɪtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "aspect",
+   "meaning": "khía cạnh",
+   "example": "to study every aspect of a question",
+   "exampleMeaning": "Nghiên cứu mọi khía cạnh của vấn đề",
+   "emoji": "",
+   "ipa": "/ˈæsˌpɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "somehow",
+   "meaning": "vì lý do này khác, không biết làm sao",
+   "example": "somehow or other I never liked him",
+   "exampleMeaning": "Không biết làm sao tôi không thích nó",
+   "emoji": "",
+   "ipa": "/ˈsəmˌhaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "canned",
+   "meaning": "được đóng hộp",
+   "example": "Let's learn the word \"canned\".",
+   "exampleMeaning": "Cùng học từ “canned”: được đóng hộp.",
+   "emoji": "",
+   "ipa": "/ˈkænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "basin",
+   "meaning": "cái chậu",
+   "example": "Let's learn the word \"basin\".",
+   "exampleMeaning": "Cùng học từ “basin”: cái chậu.",
+   "emoji": "",
+   "ipa": "/ˈbeɪs(ə)n/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "electricity",
+   "meaning": "điện, điện lực",
+   "example": "Do you cook by gas or electricity?",
+   "exampleMeaning": "Bạn nấu ăn bằng ga hay là bằng điện?",
+   "emoji": "",
+   "ipa": "/ɪˌlɛkˈtrɪsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reception",
+   "meaning": "tiếp đón",
+   "example": "the play met with a warm reception",
+   "exampleMeaning": "Vở kịch được nhiệt liệt hoan nghênh",
+   "emoji": "",
+   "ipa": "/riˈsɛpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "journal",
+   "meaning": "báo hằng ngày",
+   "example": "Let's learn the word \"journal\".",
+   "exampleMeaning": "Cùng học từ “journal”: báo hằng ngày.",
+   "emoji": "",
+   "ipa": "/ˈdʒɜrnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "next door",
+   "meaning": "ngay bên cạnh, kế bên",
+   "example": "The couple next door are always arguing.",
+   "exampleMeaning": "Cặp vợ chồng nhà kế bên luôn luôn cãi nhau.",
+   "emoji": "",
+   "ipa": "/ˈnɛks ˈdɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "resource",
+   "meaning": "sự giải trí, sự tiêu khiển",
+   "example": "The internet is an immeasurable resource of information.",
+   "exampleMeaning": "Internet là một nguồn thông tin không thể đo đếm được.",
+   "emoji": "",
+   "ipa": "/ˈrisɔrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "illuminate",
+   "meaning": "treo đèn kết hoa",
+   "example": "to illuminate the city for the holiday",
+   "exampleMeaning": "Treo đèn kết hoa khắp thành phố để đón mừng ngày lễ",
+   "emoji": "",
+   "ipa": "/ˌɪˈlumɪnɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "artistic",
+   "meaning": "nghệ thuật",
+   "example": "Let's learn the word \"artistic\".",
+   "exampleMeaning": "Cùng học từ “artistic”: nghệ thuật.",
+   "emoji": "",
+   "ipa": "/ɑrˈtɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Water",
+    "conducts",
+    "electricity"
+   ],
+   "reading": "",
+   "meaning": "Nước dẫn điện."
+  },
+  {
+   "tokens": [
+    "The",
+    "lift",
+    "doesn't",
+    "work"
+   ],
+   "reading": "",
+   "meaning": "Thang máy không hoạt động."
+  },
+  {
+   "tokens": [
+    "This",
+    "rain",
+    "wasn't",
+    "forecast"
+   ],
+   "reading": "",
+   "meaning": "Cơn mưa này nằm ngoài dự báo."
+  },
+  {
+   "tokens": [
+    "Those",
+    "statistics",
+    "prove",
+    "nothing"
+   ],
+   "reading": "",
+   "meaning": "Những thống kê này không chứng minh được gì cả."
+  },
+  {
+   "tokens": [
+    "Is",
+    "your",
+    "father",
+    "a",
+    "priest"
+   ],
+   "reading": "",
+   "meaning": "Cha của bạn là một linh mục phải không?"
+  }
+ ],
+ "issues": []
+}

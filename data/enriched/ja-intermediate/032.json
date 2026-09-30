@@ -1,0 +1,335 @@
+{
+ "lesson": 32,
+ "draft": true,
+ "words": [
+  {
+   "term": "形容動詞",
+   "meaning": "không",
+   "example": "「形容動詞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “形容動詞”: không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叔父",
+   "meaning": "chú",
+   "example": "彼は叔父の財産をついだ。",
+   "exampleMeaning": "Anh ta được thừa kế tài sản từ người chú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おかず",
+   "meaning": "món ăn trộn",
+   "example": "「おかず」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おかず”: món ăn trộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "飽くまで",
+   "meaning": "bướng bỉnh, ương ngạnh, ngoan cố",
+   "example": "「飽くまで」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “飽くまで”: bướng bỉnh, ương ngạnh, ngoan cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行列",
+   "meaning": "dây, dây thép",
+   "example": "「行列」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行列”: dây, dây thép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "斜",
+   "meaning": "chéo (đường)",
+   "example": "「斜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “斜”: chéo (đường).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "そういえば",
+   "meaning": "nghĩ chín thì",
+   "example": "「そういえば」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “そういえば”: nghĩ chín thì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夜行",
+   "meaning": "night train (EN)",
+   "example": "「夜行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夜行”: night train (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かしこまりました",
+   "meaning": "chắc, nhất định",
+   "example": "「かしこまりました」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “かしこまりました”: chắc, nhất định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手入れ",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của repair",
+   "example": "歯をきちんと手入れしていれば虫歯にはならない。",
+   "exampleMeaning": "Nếu chúng ta chăm sóc răng miệng thật cẩn thận thì chúng ta sẽ không bị sâu răng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "半径",
+   "meaning": "bán kính",
+   "example": "「半径」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “半径”: bán kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "床の間",
+   "meaning": "góc phòng thụt vào (để đặt giường... )",
+   "example": "「床の間」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “床の間”: góc phòng thụt vào (để đặt giường... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ウエートレス",
+   "meaning": "chị hầu bàn",
+   "example": "「ウエートレス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ウエートレス”: chị hầu bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "点数",
+   "meaning": "số điểm, số bàn thắng",
+   "example": "彼は私たちよりよい点数を取った。",
+   "exampleMeaning": "Anh ấy có số điểm tốt hơn chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ヘリコプター",
+   "meaning": "máy bay trực thăng",
+   "example": "「ヘリコプター」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ヘリコプター”: máy bay trực thăng.",
+   "emoji": "🚁",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ミシン",
+   "meaning": "máy bay",
+   "example": "以前、お婆ちゃんはミシンを使い過ぎました。",
+   "exampleMeaning": "Trước đây, bà tôi đã dùng máy khâu quá nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "統一",
+   "meaning": "tính đơn nhất, tính thuần nhất",
+   "example": "「統一」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “統一”: tính đơn nhất, tính thuần nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紙幣",
+   "meaning": "tiền giấy",
+   "example": "「紙幣」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紙幣”: tiền giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "言い付ける",
+   "meaning": "nói, nói với, nói lên",
+   "example": "「言い付ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “言い付ける”: nói, nói với, nói lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕方がない",
+   "meaning": "không thể tránh được",
+   "example": "「仕方がない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕方がない”: không thể tránh được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "叔父",
+    "の",
+    "財産",
+    "を",
+    "つい",
+    "だ"
+   ],
+   "reading": "かれはおじのざいさんをついだ",
+   "meaning": "Anh ta được thừa kế tài sản từ người chú."
+  },
+  {
+   "tokens": [
+    "叔父",
+    "が",
+    "私",
+    "に",
+    "本",
+    "を",
+    "買って",
+    "くれた"
+   ],
+   "reading": "おじがわたしにほんをかってくれた",
+   "meaning": "Chú tôi đã mua cho tôi sách."
+  },
+  {
+   "tokens": [
+    "歯",
+    "を",
+    "きちんと",
+    "手入れ",
+    "していれば",
+    "虫歯",
+    "に",
+    "は",
+    "ならない"
+   ],
+   "reading": "はをきちんとていれしていればむしばにはならない",
+   "meaning": "Nếu chúng ta chăm sóc răng miệng thật cẩn thận thì chúng ta sẽ không bị sâu răng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "彼女",
+    "を",
+    "殴った"
+   ],
+   "reading": "かれはかのじょをなぐった",
+   "meaning": "Anh ấy đấm cô ấy."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "敵",
+    "を",
+    "料理",
+    "した"
+   ],
+   "reading": "かれはてきをりょうりした",
+   "meaning": "Anh ta đã làm gỏi đối thủ của mình."
+  }
+ ],
+ "issues": []
+}

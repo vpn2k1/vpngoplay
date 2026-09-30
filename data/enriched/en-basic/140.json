@@ -1,0 +1,321 @@
+{
+ "lesson": 140,
+ "draft": true,
+ "words": [
+  {
+   "term": "riddle",
+   "meaning": "giải, đoán",
+   "example": "to riddle a piece of evidence",
+   "exampleMeaning": "Xem xét kỹ càng một chứng cớ",
+   "emoji": "",
+   "ipa": "/ˈrɪdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grant",
+   "meaning": "cho, ban (ơn), cấp",
+   "example": "to make a grant to somebody",
+   "exampleMeaning": "Trợ cấp cho ai",
+   "emoji": "",
+   "ipa": "/ˈɡrænt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "keyboard",
+   "meaning": "bàn phím (pianô)",
+   "example": "Let's learn the word \"keyboard\".",
+   "exampleMeaning": "Cùng học từ “keyboard”: bàn phím (pianô).",
+   "emoji": "⌨",
+   "ipa": "/ˈkiˌbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "garment",
+   "meaning": "áo quần",
+   "example": "Let's learn the word \"garment\".",
+   "exampleMeaning": "Cùng học từ “garment”: áo quần.",
+   "emoji": "",
+   "ipa": "/ˈɡɑrmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "balance",
+   "meaning": "thăng bằng",
+   "example": "the penalty does not balance with the offence",
+   "exampleMeaning": "Hình phạt không cân xứng với tội lỗi",
+   "emoji": "",
+   "ipa": "/ˈbæləns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pullover",
+   "meaning": "áo len chui đầu",
+   "example": "Let's learn the word \"pullover\".",
+   "exampleMeaning": "Cùng học từ “pullover”: áo len chui đầu.",
+   "emoji": "",
+   "ipa": "/pˈʊləʊvɐ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bracelet",
+   "meaning": "vòng tay, xuyến",
+   "example": "Let's learn the word \"bracelet\".",
+   "exampleMeaning": "Cùng học từ “bracelet”: vòng tay, xuyến.",
+   "emoji": "",
+   "ipa": "/ˈbreɪslət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shiny",
+   "meaning": "sáng, bóng",
+   "example": "Let's learn the word \"shiny\".",
+   "exampleMeaning": "Cùng học từ “shiny”: sáng, bóng.",
+   "emoji": "",
+   "ipa": "/ˈʃaɪni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "presentation",
+   "meaning": "sự trình diễn",
+   "example": "I stayed behind to prepare my presentation tomorrow.",
+   "exampleMeaning": "Tôi đã ở lại để chuẩn bị bài thuyết trình của mình vào ngày mai.",
+   "emoji": "",
+   "ipa": "/ˌprɛzənˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prosperous",
+   "meaning": "thịnh vượng, phát đạt, phồn vinh",
+   "example": "Let's learn the word \"prosperous\".",
+   "exampleMeaning": "Cùng học từ “prosperous”: thịnh vượng, phát đạt, phồn vinh.",
+   "emoji": "",
+   "ipa": "/ˈprɑspɜrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "snowboard",
+   "meaning": "tấm chắn tuyết",
+   "example": "Let's learn the word \"snowboard\".",
+   "exampleMeaning": "Cùng học từ “snowboard”: tấm chắn tuyết.",
+   "emoji": "",
+   "ipa": "/ˈsnoʊˌbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "definitely",
+   "meaning": "rạch ròi, dứt khoát",
+   "example": "You would definitely lose.",
+   "exampleMeaning": "Bạn chắc chắn sẽ thua.",
+   "emoji": "",
+   "ipa": "/ˈdɛfənətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stunning",
+   "meaning": "làm choáng váng, làm bất tỉnh nhân sự",
+   "example": "a stunning blow",
+   "exampleMeaning": "Một đòn choáng váng",
+   "emoji": "",
+   "ipa": "/ˈstənɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deed",
+   "meaning": "việc làm, hành động, hành vi",
+   "example": "in deed and not in name",
+   "exampleMeaning": "Bằng những việc làm chứ không bằng lời nói suông",
+   "emoji": "",
+   "ipa": "/diːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "typically",
+   "meaning": "điển hình, tiêu biểu",
+   "example": "Let's learn the word \"typically\".",
+   "exampleMeaning": "Cùng học từ “typically”: điển hình, tiêu biểu.",
+   "emoji": "",
+   "ipa": "/ˈtɪpɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shocked",
+   "meaning": "sốc",
+   "example": "Tom was shocked when I told him what Mary had bought.",
+   "exampleMeaning": "Tom cực kỳ ngạc nhiên khi tớ nói với anh ấy Mary mua cái gì.",
+   "emoji": "",
+   "ipa": "/ˈʃɑkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ecology",
+   "meaning": "sinh thái học",
+   "example": "Let's learn the word \"ecology\".",
+   "exampleMeaning": "Cùng học từ “ecology”: sinh thái học.",
+   "emoji": "",
+   "ipa": "/iˈkɑlədʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impression",
+   "meaning": "ấn tượng",
+   "example": "to be under the impression that...",
+   "exampleMeaning": "Có cảm tưởng rằng...",
+   "emoji": "",
+   "ipa": "/ˌɪmˈprɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "satisfaction",
+   "meaning": "sự làm cho thoả mãn",
+   "example": "he can't prove it to my satisfaction",
+   "exampleMeaning": "Anh ấy không thể chứng minh điều đó cho tôi vừa lòng",
+   "emoji": "",
+   "ipa": "/ˌsætəsˈfækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "actress",
+   "meaning": "nữ diễn viên, đào hát",
+   "example": "Joan became a great actress in spite of having had a difficult childhood.",
+   "exampleMeaning": "Joan đã trở thành một nữ diễn viên tài ba dù phải trải qua tuổi thơ khó khăn.",
+   "emoji": "",
+   "ipa": "/ˈæktrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "would",
+    "definitely",
+    "lose"
+   ],
+   "reading": "",
+   "meaning": "Bạn chắc chắn sẽ thua."
+  },
+  {
+   "tokens": [
+    "He's",
+    "definitely",
+    "not",
+    "coming"
+   ],
+   "reading": "",
+   "meaning": "Chắc chắn anh ấy sẽ không đến."
+  },
+  {
+   "tokens": [
+    "You",
+    "definitely",
+    "have",
+    "talent"
+   ],
+   "reading": "",
+   "meaning": "Bạn chắc chắn có tài năng."
+  },
+  {
+   "tokens": [
+    "That's",
+    "definitely",
+    "not",
+    "my",
+    "intention"
+   ],
+   "reading": "",
+   "meaning": "Ý của tôi hoàn toàn không phải như vậy."
+  },
+  {
+   "tokens": [
+    "I'll",
+    "definitely",
+    "do",
+    "that",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Tôi chắc chắn sẽ làm điều đó hôm nay."
+  }
+ ],
+ "issues": []
+}

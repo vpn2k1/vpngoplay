@@ -1,0 +1,314 @@
+{
+ "lesson": 99,
+ "draft": true,
+ "words": [
+  {
+   "term": "behavior",
+   "meaning": "cách xử lý, chế độ",
+   "example": "Let's learn the word \"behavior\".",
+   "exampleMeaning": "Cùng học từ “behavior”: cách xử lý, chế độ.",
+   "emoji": "",
+   "ipa": "/bɪˈheɪvjɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reveal",
+   "meaning": "để lộ, tỏ ra, biểu lộ",
+   "example": "Let's learn the word \"reveal\".",
+   "exampleMeaning": "Cùng học từ “reveal”: để lộ, tỏ ra, biểu lộ.",
+   "emoji": "",
+   "ipa": "/riˈvil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "advice",
+   "meaning": "lời khuyên, lời chỉ bảo",
+   "example": "to act on advice",
+   "exampleMeaning": "Làm (hành động) theo lời khuyên",
+   "emoji": "",
+   "ipa": "/ædˈvaɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "advanced",
+   "meaning": "cao, cấp cao, nâng cao",
+   "example": "The army advanced during the night.",
+   "exampleMeaning": "Quân đội đã tiến quân suốt cả đêm.",
+   "emoji": "",
+   "ipa": "/ədˈvɑːnst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "worried",
+   "meaning": "bồn chồn, lo nghĩ, cảm thấy lo lắng",
+   "example": "Tom is very worried about Mary.",
+   "exampleMeaning": "Tom rất lo lắng cho Mary.",
+   "emoji": "",
+   "ipa": "/ˈwɜrid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "beer",
+   "meaning": "bia",
+   "example": "Whose beer is this?",
+   "exampleMeaning": "Bia của ai đây?",
+   "emoji": "",
+   "ipa": "/ˈbɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "oil",
+   "meaning": "dầu",
+   "example": "What about the price of oil?",
+   "exampleMeaning": "Còn về giá dầu thì sao?",
+   "emoji": "",
+   "ipa": "/ˈɔɪ.əl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "professional",
+   "meaning": "chuyên nghiệp",
+   "example": "Both Tom and I are professional musicians.",
+   "exampleMeaning": "Tom và tôi đều là những nhạc công chuyên nghiệp.",
+   "emoji": "",
+   "ipa": "/prəˈfɛʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "continue",
+   "meaning": "tiếp tục, làm tiếp",
+   "example": "to continue someone in a post",
+   "exampleMeaning": "Giữ ai ở trong một cương vị công tác",
+   "emoji": "",
+   "ipa": "/kənˈtɪnju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pressure",
+   "meaning": "sức ép",
+   "example": "under the pressure of public opinion",
+   "exampleMeaning": "Dưới sức ép của dư luận quần chúng",
+   "emoji": "",
+   "ipa": "/ˈprɛʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "comparative",
+   "meaning": "so sánh",
+   "example": "the comparative method of studying",
+   "exampleMeaning": "Phương pháp nghiên cứu so sánh",
+   "emoji": "",
+   "ipa": "/kəmˈpɛrətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "argue",
+   "meaning": "thuyết phục",
+   "example": "what do you argue from it?",
+   "exampleMeaning": "Anh rút ra được từ điều đó kết luận gì?",
+   "emoji": "",
+   "ipa": "/ˈɑrɡju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "simply",
+   "meaning": "đơn giản",
+   "example": "I simply excel in every aspect of life.",
+   "exampleMeaning": "Tôi chỉ đơn giản là thành thạo mọi lĩnh vực của cuộc sống.",
+   "emoji": "",
+   "ipa": "/ˈsɪmpli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "drawer",
+   "meaning": "ngăn kéo",
+   "example": "Tom has a drawer full of USB cables.",
+   "exampleMeaning": "Tom có một ngăn tủ đầy cáp USB.",
+   "emoji": "",
+   "ipa": "/ˈdrɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "drawing",
+   "meaning": "vẽ",
+   "example": "He is drawing a picture.",
+   "exampleMeaning": "Ông ấy đang vẽ một bức tranh.",
+   "emoji": "",
+   "ipa": "/ˈdrɔɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "suitable",
+   "meaning": "hợp, phù hợp, thích hợp",
+   "example": "That subject is not suitable for discussion.",
+   "exampleMeaning": "Chủ đề đó không nên được đem ra bàn luận.",
+   "emoji": "",
+   "ipa": "/ˈsutəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bite",
+   "meaning": "cắn, ngoạm",
+   "example": "the frost will bite the fruit blossom",
+   "exampleMeaning": "Sương giá sẽ làm chột mầm quả",
+   "emoji": "",
+   "ipa": "/ˈbaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "petrol station",
+   "meaning": "trạm xăng",
+   "example": "The petrol station is at the entrance to the village.",
+   "exampleMeaning": "Trạm xăng ở đầu làng.",
+   "emoji": "",
+   "ipa": "/ˈpɛtroʊl ˈsteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "jelly",
+   "meaning": "thịt nấu đông",
+   "example": "Let's learn the word \"jelly\".",
+   "exampleMeaning": "Cùng học từ “jelly”: thịt nấu đông.",
+   "emoji": "",
+   "ipa": "/ˈdʒɛli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trap",
+   "meaning": "bẫy",
+   "example": "Will you shut your trap for a minute?",
+   "exampleMeaning": "Mày có thể im mồm một chút có được không?",
+   "emoji": "",
+   "ipa": "/ˈtræp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "wasn't",
+    "worried"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã thôi lo nghĩ."
+  },
+  {
+   "tokens": [
+    "Paper",
+    "absorbs",
+    "oil"
+   ],
+   "reading": "",
+   "meaning": "Giấy thì hút dầu."
+  },
+  {
+   "tokens": [
+    "I",
+    "want",
+    "beer"
+   ],
+   "reading": "",
+   "meaning": "Tôi muốn bia."
+  },
+  {
+   "tokens": [
+    "We",
+    "like",
+    "beer"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi thích bia."
+  },
+  {
+   "tokens": [
+    "I",
+    "hate",
+    "beer"
+   ],
+   "reading": "",
+   "meaning": "Tôi ghét bia."
+  }
+ ],
+ "issues": []
+}

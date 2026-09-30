@@ -1,0 +1,325 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "キャプテン",
+   "meaning": "người cầm đầu, người chỉ huy, thủ lĩnh",
+   "example": "キャプテンの入院中は、私が代理を務めた。",
+   "exampleMeaning": "Trong lúc đội trưởng đang được điều trị tại bệnh viện, tôi đã trở thành đại diện cho đội trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "強める",
+   "meaning": "làm cho mạnh",
+   "example": "「強める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “強める”: làm cho mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "童謡",
+   "meaning": "thơ ca cho trẻ nhỏ",
+   "example": "「童謡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “童謡”: thơ ca cho trẻ nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "群",
+   "meaning": "đám đông",
+   "example": "私は群衆の中で彼女を見つけた。",
+   "exampleMeaning": "Tôi đã tìm thấy cô ấy giữa đám đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "当たり前",
+   "meaning": "thường, thông thường, thường lệ",
+   "example": "「当たり前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “当たり前”: thường, thông thường, thường lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "製造",
+   "meaning": "sự chế tạo, sự sản xuất",
+   "example": "「製造」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “製造”: sự chế tạo, sự sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化学",
+   "meaning": "ngành hoá học",
+   "example": "化学の勉強をしているの？",
+   "exampleMeaning": "Bạn đang học Hóa à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ショック",
+   "meaning": "sự đụng chạm, sự va chạm",
+   "example": "「ショック」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ショック”: sự đụng chạm, sự va chạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生地",
+   "meaning": "công trình xây dựng",
+   "example": "「生地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生地”: công trình xây dựng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省略",
+   "meaning": "sự bỏ sót, sự bỏ quên, sự bỏ đi",
+   "example": "「省略」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “省略”: sự bỏ sót, sự bỏ quên, sự bỏ đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出",
+   "meaning": "dự, có mặt",
+   "example": "ここにお出で。",
+   "exampleMeaning": "Lại đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お昼",
+   "meaning": "trưa, buổi trưa",
+   "example": "まだお昼食べてないの？",
+   "exampleMeaning": "Bạn vẫn chưa ăn trưa à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "答案",
+   "meaning": "các câu hỏi thi",
+   "example": "「答案」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “答案”: các câu hỏi thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まとまる",
+   "meaning": "bình tĩnh, tự chủ",
+   "example": "「まとまる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “まとまる”: bình tĩnh, tự chủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乾燥",
+   "meaning": "khô, ráo, khô nứt",
+   "example": "「乾燥」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乾燥”: khô, ráo, khô nứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平均",
+   "meaning": "sự thăng bằng, sự cân bằng",
+   "example": "「平均」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “平均”: sự thăng bằng, sự cân bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "エネルギー",
+   "meaning": "năng lượng",
+   "example": "「エネルギー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “エネルギー”: năng lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洗剤",
+   "meaning": "để làm sạch",
+   "example": "「洗剤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “洗剤”: để làm sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注す",
+   "meaning": "rót, đổ, giội",
+   "example": "「注す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “注す”: rót, đổ, giội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まさか",
+   "meaning": "không, đừng",
+   "example": "まさかの時の友は真の友。",
+   "exampleMeaning": "Trong hoạn nạn mới biết bạn là ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "すでに",
+    "出かけた"
+   ],
+   "reading": "かれはすでにでかけた",
+   "meaning": "Anh ấy đã ra ngoài rồi."
+  },
+  {
+   "tokens": [
+    "雨",
+    "が",
+    "降り出しそう",
+    "だ"
+   ],
+   "reading": "あめがふりだしそうだ",
+   "meaning": "Chắc có lẽ trời sắp mưa rồi."
+  },
+  {
+   "tokens": [
+    "この",
+    "建物",
+    "は",
+    "石",
+    "で",
+    "出来ている"
+   ],
+   "reading": "このたてものはいしでできている",
+   "meaning": "Tòa nhà này được xây bằng đá."
+  },
+  {
+   "tokens": [
+    "月",
+    "も",
+    "出ていない",
+    "闇夜",
+    "だった"
+   ],
+   "reading": "つきもでていないやみよだった",
+   "meaning": "Đó là một đêm tối không có trăng."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "泳ぐ",
+    "事",
+    "が",
+    "出来ます",
+    "か"
+   ],
+   "reading": "あなたはおよぐことができますか",
+   "meaning": "Bạn có biết bơi không?"
+  }
+ ],
+ "issues": []
+}

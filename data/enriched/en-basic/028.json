@@ -1,0 +1,318 @@
+{
+ "lesson": 28,
+ "draft": true,
+ "words": [
+  {
+   "term": "poem",
+   "meaning": "bài thơ",
+   "example": "Wine is a poem in a bottle.",
+   "exampleMeaning": "Rượu vang, đó là thơ đóng chai.",
+   "emoji": "",
+   "ipa": "/ˈpoʊəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tiger",
+   "meaning": "hổ, cọp",
+   "example": "A tiger is larger and stronger than a cat.",
+   "exampleMeaning": "Hổ thì lớn hơn và mạnh hơn mèo.",
+   "emoji": "🐅",
+   "ipa": "/ˈtaɪɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cloudy",
+   "meaning": "đục, vẩn",
+   "example": "It won't rain. It's just cloudy today.",
+   "exampleMeaning": "Trời không mưa đâu. Nó chỉ âm u cả hôm nay thôi.",
+   "emoji": "",
+   "ipa": "/ˈklaʊdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "star",
+   "meaning": "sao, ngôi sao, tinh tú",
+   "example": "Who's your favorite movie star?",
+   "exampleMeaning": "Ngôi sao điện ảnh mà bạn yêu thích là ai?",
+   "emoji": "⭐",
+   "ipa": "/stɑː(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bean",
+   "meaning": "đậu",
+   "example": "not to have a bean",
+   "exampleMeaning": "Không một xu dính túi",
+   "emoji": "",
+   "ipa": "/ˈbin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wife",
+   "meaning": "vợ",
+   "example": "Do you love your wife?",
+   "exampleMeaning": "Bạn có yêu vợ bạn không?",
+   "emoji": "",
+   "ipa": "/wæf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "shop",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "The shop refunded my money.",
+   "exampleMeaning": "Cửa hàng đã hoàn tiền cho tôi.",
+   "emoji": "",
+   "ipa": "/ʃɒp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "present",
+   "meaning": "đưa, trình, nộp",
+   "example": "to be present at...",
+   "exampleMeaning": "Có mặt ở...",
+   "emoji": "",
+   "ipa": "/ˈprɛzənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dad",
+   "meaning": "ba, cha, bố",
+   "example": "Dad told me to keep quiet.",
+   "exampleMeaning": "Bố tôi bảo tôi giữ im lặng.",
+   "emoji": "",
+   "ipa": "/ˈdæd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "game",
+   "meaning": "trò (chơi)",
+   "example": "to have a game with somebody",
+   "exampleMeaning": "Trêu chọc, chế nhạo ai",
+   "emoji": "",
+   "ipa": "/ɡeɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "choose",
+   "meaning": "chọn, lựa chọn, kén chọn",
+   "example": "nothing (not much, little) to choose between them",
+   "exampleMeaning": "Chúng như nhau cả thôi",
+   "emoji": "",
+   "ipa": "/t͡ʃuːz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "July",
+   "meaning": "tháng bảy",
+   "example": "We came to see the Fourth of July fireworks show.",
+   "exampleMeaning": "Chúng tôi đã đến xem buổi bắn pháo hoa ngày mùng Bảy tháng Tư.",
+   "emoji": "",
+   "ipa": "/ˌdʒuˈlaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "shirt",
+   "meaning": "áo sơ mi",
+   "example": "My shirt is all dirty now.",
+   "exampleMeaning": "Áo của tôi bẩn hết rồi.",
+   "emoji": "",
+   "ipa": "/ˈʃɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thing",
+   "meaning": "vấn đề, điều, công việc",
+   "example": "the best thing to do is...",
+   "exampleMeaning": "Điều đó tốt nhất là...",
+   "emoji": "",
+   "ipa": "/ˈθɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "frog",
+   "meaning": "con ếch, con nhái, con ngoé",
+   "example": "I'll bewitch him into a frog!",
+   "exampleMeaning": "Tao sẽ biến nó thành ếch.",
+   "emoji": "🐸",
+   "ipa": "/frɒɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "program",
+   "meaning": "chương trình",
+   "example": "This program cannot be run in DOS mode.",
+   "exampleMeaning": "Chương trình này không thể chạy ở chế độ DOS.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌɡræm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "meat",
+   "meaning": "thịt",
+   "example": "Don't eat meat!",
+   "exampleMeaning": "Đừng ăn thịt!",
+   "emoji": "",
+   "ipa": "/miːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cheese",
+   "meaning": "the cheese thứ thượng hảo hạng, bậc nhất",
+   "example": "Who ate all the cheese?",
+   "exampleMeaning": "Ai đã ăn hết phô mai thế?",
+   "emoji": "",
+   "ipa": "/t͡ʃiːz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "it",
+   "meaning": "cái đó, điều đó, con vật đó",
+   "example": "It is a holiday today.",
+   "exampleMeaning": "Hôm nay là ngày nghỉ.",
+   "emoji": "",
+   "ipa": "/ˈɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cold",
+   "meaning": "lạnh, lạnh lẽo, nguội",
+   "example": "the cold of winter",
+   "exampleMeaning": "Sự lạnh lẽo của mùa đông",
+   "emoji": "",
+   "ipa": "/kəʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "monkey",
+    "meat"
+   ],
+   "reading": "",
+   "meaning": "Đây là thịt khỉ."
+  },
+  {
+   "tokens": [
+    "It's",
+    "so",
+    "cold",
+    "tonight"
+   ],
+   "reading": "",
+   "meaning": "Tối nay rất lạnh."
+  },
+  {
+   "tokens": [
+    "It's",
+    "really",
+    "cold",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Hôm nay lạnh thật đấy!"
+  },
+  {
+   "tokens": [
+    "It’s",
+    "Lyly’s",
+    "Coffee",
+    "shop"
+   ],
+   "reading": "",
+   "meaning": "Nó là quán cà phê Lyly."
+  },
+  {
+   "tokens": [
+    "It's",
+    "cold",
+    "in",
+    "Boston"
+   ],
+   "reading": "",
+   "meaning": "Trời lạnh ở Boston."
+  }
+ ],
+ "issues": []
+}

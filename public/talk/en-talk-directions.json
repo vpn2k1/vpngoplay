@@ -1,0 +1,84 @@
+{
+ "id": "en-talk-directions",
+ "lang": "en",
+ "order": 4,
+ "level": "A2",
+ "icon": "directions",
+ "title": "Hỏi đường",
+ "scene": "Bạn bị lạc ở một thành phố mới và hỏi đường đến ga tàu.",
+ "roles": {
+  "A": "Người đi đường",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "B",
+   "text": "Excuse me. Could you help me?",
+   "meaning": "Xin lỗi. Bạn giúp tôi một chút được không?"
+  },
+  {
+   "role": "A",
+   "text": "Sure. What are you looking for?",
+   "meaning": "Được chứ. Bạn đang tìm gì vậy?"
+  },
+  {
+   "role": "B",
+   "text": "How do I get to the train station?",
+   "meaning": "Tôi đi đến ga tàu bằng cách nào?"
+  },
+  {
+   "role": "A",
+   "text": "Go straight and turn left at the traffic lights.",
+   "meaning": "Đi thẳng rồi rẽ trái ở chỗ đèn giao thông."
+  },
+  {
+   "role": "B",
+   "text": "Is it far from here?",
+   "meaning": "Có xa đây không?"
+  },
+  {
+   "role": "A",
+   "text": "Not really. It's about ten minutes on foot.",
+   "meaning": "Không xa lắm. Đi bộ khoảng mười phút."
+  },
+  {
+   "role": "B",
+   "text": "Sorry, could you say that again?",
+   "meaning": "Xin lỗi, bạn nói lại được không?"
+  },
+  {
+   "role": "A",
+   "text": "Go straight, then turn left at the lights. It's next to the bank.",
+   "meaning": "Đi thẳng, rồi rẽ trái ở đèn. Ga ở cạnh ngân hàng."
+  },
+  {
+   "role": "B",
+   "text": "Got it. Thank you so much!",
+   "meaning": "Tôi hiểu rồi. Cảm ơn bạn nhiều!"
+  },
+  {
+   "role": "A",
+   "text": "You're welcome. Have a nice day!",
+   "meaning": "Không có gì. Chúc bạn một ngày vui vẻ!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "Excuse me.",
+   "meaning": "Xin lỗi (để bắt chuyện, hỏi nhờ).",
+   "note": "Còn “Sorry” dùng khi xin lỗi vì mình làm sai."
+  },
+  {
+   "text": "How do I get to the station?",
+   "meaning": "Tôi đi đến nhà ga bằng cách nào?"
+  },
+  {
+   "text": "Turn left at the traffic lights.",
+   "meaning": "Rẽ trái ở chỗ đèn giao thông."
+  },
+  {
+   "text": "Could you say that again?",
+   "meaning": "Bạn nói lại được không?"
+  }
+ ]
+}

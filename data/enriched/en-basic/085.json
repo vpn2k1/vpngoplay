@@ -1,0 +1,315 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "singing",
+   "meaning": "nghệ thuật của ca sĩ",
+   "example": "He'll be singing next week.",
+   "exampleMeaning": "Anh ấy sẽ hát vào tuần sau.",
+   "emoji": "",
+   "ipa": "/ˈsɪŋɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fry",
+   "meaning": "rán, chiên",
+   "example": "We use frying pans to fry food.",
+   "exampleMeaning": "Chúng tôi dùng chảo rán để rán đồ ăn.",
+   "emoji": "",
+   "ipa": "/fraɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "romantic",
+   "meaning": "lãng mạn",
+   "example": "a romantic girl",
+   "exampleMeaning": "Cô gái mơ mộng",
+   "emoji": "",
+   "ipa": "/roʊˈmæntɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "headteacher",
+   "meaning": "hiệu trưởng",
+   "example": "Let's learn the word \"headteacher\".",
+   "exampleMeaning": "Cùng học từ “headteacher”: hiệu trưởng.",
+   "emoji": "",
+   "ipa": "/hˈɛdtiːtʃɐ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "major",
+   "meaning": "lớn (hơn), nhiều (hơn), trọng đại",
+   "example": "for the major part",
+   "exampleMeaning": "Phần lớn, phần nhiều",
+   "emoji": "",
+   "ipa": "/ˈmeɪdʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bookshop",
+   "meaning": "hiệu sách",
+   "example": "Let's learn the word \"bookshop\".",
+   "exampleMeaning": "Cùng học từ “bookshop”: hiệu sách.",
+   "emoji": "",
+   "ipa": "/ˈbʊkˌʃɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fighter",
+   "meaning": "chiến sĩ, chiến binh, người đấu tranh",
+   "example": "Let's learn the word \"fighter\".",
+   "exampleMeaning": "Cùng học từ “fighter”: chiến sĩ, chiến binh, người đấu tranh.",
+   "emoji": "",
+   "ipa": "/ˈfaɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "weep",
+   "meaning": "khóc",
+   "example": "to weep one's sad fate",
+   "exampleMeaning": "Khóc cho số phận hẩm hiu của mình",
+   "emoji": "",
+   "ipa": "/ˈwip/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stadium",
+   "meaning": "sân vận động",
+   "example": "How much does it cost, on average, to build a football stadium?",
+   "exampleMeaning": "Thường thì cần bao tiền để xây một sân vận động bóng đá?",
+   "emoji": "🏟",
+   "ipa": "/ˈsteɪdiəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "napkin",
+   "meaning": "khăn ăn",
+   "example": "Let's learn the word \"napkin\".",
+   "exampleMeaning": "Cùng học từ “napkin”: khăn ăn.",
+   "emoji": "",
+   "ipa": "/ˈnæpkɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "send",
+   "meaning": "gửi, chuyển (đi) cái gì đó",
+   "example": "His lectures always send me to sleep.",
+   "exampleMeaning": "Bài diễn thuyết của ông ta luôn khiến tôi buồn ngủ (rơi vào giấc ngủ).",
+   "emoji": "",
+   "ipa": "/sɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recycle",
+   "meaning": "tái sinh",
+   "example": "Let's learn the word \"recycle\".",
+   "exampleMeaning": "Cùng học từ “recycle”: tái sinh.",
+   "emoji": "",
+   "ipa": "/riˈsaɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "print",
+   "meaning": "in, in dấu, in vết (lên vật gì)",
+   "example": "the book is not in print yet",
+   "exampleMeaning": "Quyển sách chưa in",
+   "emoji": "",
+   "ipa": "/prɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "death",
+   "meaning": "sự tiêu tan, sự tan vỡ, sự kết liễu",
+   "example": "to be in the jaws of death",
+   "exampleMeaning": "Trong tay thần chết",
+   "emoji": "",
+   "ipa": "/ˈdɛθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "customer",
+   "meaning": "khách hàng",
+   "example": "Let's learn the word \"customer\".",
+   "exampleMeaning": "Cùng học từ “customer”: khách hàng.",
+   "emoji": "",
+   "ipa": "/ˈkəstəmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stomach",
+   "meaning": "bụng",
+   "example": "what a stomach!",
+   "exampleMeaning": "Bụng sao phệ thế!",
+   "emoji": "",
+   "ipa": "/ˈstəmək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "acceptable",
+   "meaning": "chấp nhận",
+   "example": "Let's learn the word \"acceptable\".",
+   "exampleMeaning": "Cùng học từ “acceptable”: chấp nhận.",
+   "emoji": "",
+   "ipa": "/ækˈsɛptəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "web",
+   "meaning": "vi dệt",
+   "example": "PHP is a web programming language.",
+   "exampleMeaning": "PHP là một ngôn ngữ lập trình web.",
+   "emoji": "",
+   "ipa": "/ˈwɛb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "state",
+   "meaning": "trạng thái, tình trạng",
+   "example": "in a bad state of repair",
+   "exampleMeaning": "Ở một tình trạng xấu",
+   "emoji": "",
+   "ipa": "/steɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "talent",
+   "meaning": "tài, tài ba, tài năng",
+   "example": "to have a talent for...",
+   "exampleMeaning": "Có năng khiếu về...",
+   "emoji": "",
+   "ipa": "/ˈtælənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Someone",
+    "is",
+    "singing"
+   ],
+   "reading": "",
+   "meaning": "Có ai đó đang hát."
+  },
+  {
+   "tokens": [
+    "You",
+    "were",
+    "singing"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang hát."
+  },
+  {
+   "tokens": [
+    "I",
+    "kept",
+    "singing"
+   ],
+   "reading": "",
+   "meaning": "Tôi tiếp tục hát."
+  },
+  {
+   "tokens": [
+    "Is",
+    "Tom",
+    "singing"
+   ],
+   "reading": "",
+   "meaning": "Tom đang hát đúng không?"
+  },
+  {
+   "tokens": [
+    "This",
+    "is",
+    "not",
+    "acceptable"
+   ],
+   "reading": "",
+   "meaning": "Điều này không thể chấp nhận được."
+  }
+ ],
+ "issues": []
+}

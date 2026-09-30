@@ -1,0 +1,326 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "wait",
+   "meaning": "chờ, đợi",
+   "example": "to wait until (till)...",
+   "exampleMeaning": "... đợi đến khi...",
+   "emoji": "",
+   "ipa": "/weɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "store",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "to have something in store for somebody",
+   "exampleMeaning": "Dành sẵn cho ai cái gì",
+   "emoji": "",
+   "ipa": "/ˈstɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "right",
+   "meaning": "tốt, đúng, phải",
+   "example": "it serves him right!",
+   "exampleMeaning": "Thật đáng đời hắn ta!",
+   "emoji": "",
+   "ipa": "/ˈraɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "forget",
+   "meaning": "quên, không nhớ đến",
+   "example": "Don't forget about us!",
+   "exampleMeaning": "Đừng quên chúng tôi",
+   "emoji": "",
+   "ipa": "/fɜrˈɡɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "vacation",
+   "meaning": "kỳ nghỉ",
+   "example": "What did you do last vacation?",
+   "exampleMeaning": "Kỳ nghỉ vừa rồi bạn đã làm gì?",
+   "emoji": "",
+   "ipa": "/veɪˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "snake",
+   "meaning": "con rắn",
+   "example": "Let's learn the word \"snake\".",
+   "exampleMeaning": "Cùng học từ “snake”: con rắn.",
+   "emoji": "🐍",
+   "ipa": "/ˈsneɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seventeen",
+   "meaning": "mười bảy",
+   "example": "At the age of seventeen, he fled his native village.",
+   "exampleMeaning": "Năm 17 tuổi, anh ấy chạy trốn khỏi ngôi làng mà anh ấy được sinh ra.",
+   "emoji": "",
+   "ipa": "/ˈsɛvənˈtin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dancing",
+   "meaning": "đang nhảy múa, rung rinh, bập bềnh",
+   "example": "They are dancing in the rain.",
+   "exampleMeaning": "Họ đang nhảy múa trong mưa.",
+   "emoji": "",
+   "ipa": "/ˈdɑːnsɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "everybody",
+   "meaning": "mọi người, tất cả mọi người, ai ai",
+   "example": "Let's learn the word \"everybody\".",
+   "exampleMeaning": "Cùng học từ “everybody”: mọi người, tất cả mọi người, ai ai.",
+   "emoji": "",
+   "ipa": "/ˈɛvriˌbɑdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pleasure",
+   "meaning": "ý muốn, ý thích",
+   "example": "it's a pleasure to...",
+   "exampleMeaning": "Thật là thú vị được...",
+   "emoji": "",
+   "ipa": "/ˈplɛʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ruler",
+   "meaning": "người thống trị, người chuyên quyền",
+   "example": "Let's learn the word \"ruler\".",
+   "exampleMeaning": "Cùng học từ “ruler”: người thống trị, người chuyên quyền.",
+   "emoji": "",
+   "ipa": "/ˈrulɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "table",
+   "meaning": "bàn",
+   "example": "This table is heavy.",
+   "exampleMeaning": "Cái bàn này nặng quá.",
+   "emoji": "",
+   "ipa": "/ˈteɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "camera",
+   "meaning": "máy ảnh, máy chụp hình, máy hình",
+   "example": "The camera you bought is better than mine.",
+   "exampleMeaning": "Camera mà cậu mua tốt hơn cái của tôi.",
+   "emoji": "📷",
+   "ipa": "/ˈkæmərə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "code",
+   "meaning": "mã, mật mã",
+   "example": "the code of the school",
+   "exampleMeaning": "Điều lệ nhà trường",
+   "emoji": "",
+   "ipa": "/kəʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "run",
+   "meaning": "chạy, vận hành, hoạt động (máy móc",
+   "example": "the run of the mountains is N.E.",
+   "exampleMeaning": "Dây núi chạy theo hướng đông bắc",
+   "emoji": "",
+   "ipa": "/ˈrən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "also",
+   "meaning": "cũng, cũng vầy, cũng thế",
+   "example": "I also rest.",
+   "exampleMeaning": "Tôi cũng nghỉ ngơi.",
+   "emoji": "",
+   "ipa": "/ˈɔːl.səʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ideal",
+   "meaning": "quan niệm, (thuộc) tư tưởng",
+   "example": "Let's learn the word \"ideal\".",
+   "exampleMeaning": "Cùng học từ “ideal”: quan niệm, (thuộc) tư tưởng.",
+   "emoji": "",
+   "ipa": "/aɪˈdil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bank",
+   "meaning": "ngân hàng",
+   "example": "My sister works in a bank as a secretary.",
+   "exampleMeaning": "Chị của tôi làm thư ký ở ngân hàng.",
+   "emoji": "🏦",
+   "ipa": "/bæŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "corn",
+   "meaning": "hạt",
+   "example": "Corn is an important crop in the United States.",
+   "exampleMeaning": "Bắp là hạt giống quan trọng trong nước mỹ.",
+   "emoji": "",
+   "ipa": "/kɔːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "address",
+   "meaning": "địa chỉ",
+   "example": "to address a letter to somebody",
+   "exampleMeaning": "Gửi một bức thư cho ai",
+   "emoji": "",
+   "ipa": "/ˈæˌdrɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Don't",
+    "forget",
+    "to",
+    "bring",
+    "a",
+    "camera"
+   ],
+   "reading": "",
+   "meaning": "Đừng quên đem theo máy ảnh."
+  },
+  {
+   "tokens": [
+    "The",
+    "store",
+    "is",
+    "also",
+    "open",
+    "at",
+    "night"
+   ],
+   "reading": "",
+   "meaning": "Buổi tối quán vẫn làm việc."
+  },
+  {
+   "tokens": [
+    "I",
+    "can't",
+    "wait",
+    "to",
+    "go",
+    "on",
+    "a",
+    "vacation"
+   ],
+   "reading": "",
+   "meaning": "Tôi không đợi được tới lúc nghỉ hè."
+  },
+  {
+   "tokens": [
+    "We'll",
+    "wait",
+    "outside"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta sẽ chờ ở ngoài."
+  },
+  {
+   "tokens": [
+    "They",
+    "are",
+    "dancing"
+   ],
+   "reading": "",
+   "meaning": "Họ đang khiêu vũ."
+  }
+ ],
+ "issues": []
+}

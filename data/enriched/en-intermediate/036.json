@@ -1,0 +1,319 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "evident",
+   "meaning": "hiển nhiên, rõ rệt",
+   "example": "Let's learn the word \"evident\".",
+   "exampleMeaning": "Cùng học từ “evident”: hiển nhiên, rõ rệt.",
+   "emoji": "",
+   "ipa": "/ˈɛvədənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intentionally",
+   "meaning": "cố ý, cố tình",
+   "example": "You did this intentionally!",
+   "exampleMeaning": "Bạn cố ý làm phải không!",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛnʃənəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sin",
+   "meaning": "tội lỗi, tội ác",
+   "example": "Let's learn the word \"sin\".",
+   "exampleMeaning": "Cùng học từ “sin”: tội lỗi, tội ác.",
+   "emoji": "",
+   "ipa": "/ˈsɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "narrate",
+   "meaning": "kể lại, thuật lại",
+   "example": "Let's learn the word \"narrate\".",
+   "exampleMeaning": "Cùng học từ “narrate”: kể lại, thuật lại.",
+   "emoji": "",
+   "ipa": "/ˈnɛˌreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whenever",
+   "meaning": "bất cứ lúc nào",
+   "example": "Ask me whenever you're in doubt.",
+   "exampleMeaning": "Nếu bạn có chỗ nào không hiểu, bạn có thể hỏi tôi bất cứ lúc nào.",
+   "emoji": "",
+   "ipa": "/hwɛˈnɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cycle",
+   "meaning": "xe đạp",
+   "example": "I cycle to work.",
+   "exampleMeaning": "Tôi đi làm bằng xe đạp.",
+   "emoji": "",
+   "ipa": "/ˈsaɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enjoyable",
+   "meaning": "thú vị, thích thú",
+   "example": "an enjoyable evening",
+   "exampleMeaning": "Một buổi tối thú vị",
+   "emoji": "",
+   "ipa": "/ˌɛnˈdʒɔɪəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flu",
+   "meaning": "(viết tắt) của influenza",
+   "example": "There's a lot of flu about.",
+   "exampleMeaning": "Quanh đây có nhiều người bị bệnh cúm.",
+   "emoji": "",
+   "ipa": "/ˈflu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "discovery",
+   "meaning": "khám phá",
+   "example": "Let's learn the word \"discovery\".",
+   "exampleMeaning": "Cùng học từ “discovery”: khám phá.",
+   "emoji": "",
+   "ipa": "/ˌdɪsˈkəvri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "educate",
+   "meaning": "giáo dục, cho ăn học",
+   "example": "Let's learn the word \"educate\".",
+   "exampleMeaning": "Cùng học từ “educate”: giáo dục, cho ăn học.",
+   "emoji": "",
+   "ipa": "/ˈɛd͡ʒ.ʊˌkeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "via",
+   "meaning": "qua, theo đường",
+   "example": "to go to England via Gibraltar",
+   "exampleMeaning": "Đi đến Anh qua Gi-bran-ta",
+   "emoji": "",
+   "ipa": "/ˈvaɪə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "goods",
+   "meaning": "hàng hoá, hàng",
+   "example": "The goods arrived in good condition.",
+   "exampleMeaning": "Hàng hóa đã đến trong tình trạng tốt.",
+   "emoji": "",
+   "ipa": "/ˈɡʊdz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "alternative",
+   "meaning": "con đường, chước cách",
+   "example": "these two plans are necessarily alternative",
+   "exampleMeaning": "Hai kế hoạch này không nhất thiết phải loại trừ lẫn nhau",
+   "emoji": "",
+   "ipa": "/ɔlˈtɜrnətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "endure",
+   "meaning": "chịu đựng, cam chịu, chịu được",
+   "example": "Can she endure a long trip?",
+   "exampleMeaning": "Cô ấy có chịu được một chuyến đi dài không?",
+   "emoji": "",
+   "ipa": "/ɛnˈdjʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "temper",
+   "meaning": "tính tình, tình khí, tâm tính",
+   "example": "to have a violent (quick) temper",
+   "exampleMeaning": "Tính nóng nảy",
+   "emoji": "",
+   "ipa": "/ˈtɛmpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mutual",
+   "meaning": "lẫn nhau, qua lại",
+   "example": "mutual admiration society",
+   "exampleMeaning": "Nhóm người này hay tâng bốc lẫn nhau",
+   "emoji": "",
+   "ipa": "/ˈmjutʃuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stricken",
+   "meaning": "đánh, đập",
+   "example": "to be stricken with paralysis",
+   "exampleMeaning": "Bị tê liệt",
+   "emoji": "",
+   "ipa": "/ˈstrɪkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spirit",
+   "meaning": "tinh thần",
+   "example": "he infused spirit into his men",
+   "exampleMeaning": "Anh ta truyền nhiệt tình cho đồng đội",
+   "emoji": "",
+   "ipa": "/ˈspɪrɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "warranty",
+   "meaning": "bảo hành",
+   "example": "out of warranty",
+   "exampleMeaning": ": hết thời gian bảo hành",
+   "emoji": "",
+   "ipa": "/ˈwɔrənti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "typical",
+   "meaning": "điển hình",
+   "example": "Tom's a typical Englishman.",
+   "exampleMeaning": "Tom là một người Anh điển hình.",
+   "emoji": "",
+   "ipa": "/ˈtɪpəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "will",
+    "endure"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ chịu được."
+  },
+  {
+   "tokens": [
+    "You",
+    "did",
+    "this",
+    "intentionally"
+   ],
+   "reading": "",
+   "meaning": "Bạn cố ý làm phải không!"
+  },
+  {
+   "tokens": [
+    "I",
+    "cycle",
+    "to",
+    "work"
+   ],
+   "reading": "",
+   "meaning": "Tôi đi làm bằng xe đạp."
+  },
+  {
+   "tokens": [
+    "The",
+    "flu",
+    "is",
+    "spreading"
+   ],
+   "reading": "",
+   "meaning": "Bệnh cúm đang lan rộng."
+  },
+  {
+   "tokens": [
+    "Yes",
+    "I",
+    "did",
+    "this",
+    "intentionally"
+   ],
+   "reading": "",
+   "meaning": "Ừ, tôi làm nó có chủ đích đấy."
+  }
+ ],
+ "issues": []
+}

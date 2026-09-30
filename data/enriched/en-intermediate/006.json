@@ -1,0 +1,317 @@
+{
+ "lesson": 6,
+ "draft": true,
+ "words": [
+  {
+   "term": "minus",
+   "meaning": "trừ",
+   "example": "Four minus two is two.",
+   "exampleMeaning": "Bốn trừ hai bằng hai.",
+   "emoji": "➖",
+   "ipa": "/ˈmaɪnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "advocate",
+   "meaning": "người chủ trương",
+   "example": "an advocate of peace",
+   "exampleMeaning": "Người chủ trương hoà bình",
+   "emoji": "",
+   "ipa": "/ˈædvəˌkeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recall",
+   "meaning": "huỷ bỏ",
+   "example": "to recall someone to his duty",
+   "exampleMeaning": "Nhắc nhở ai nhớ đến nhiệm vụ của mình",
+   "emoji": "",
+   "ipa": "/ˈriˌkɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "briefly",
+   "meaning": "ngắn gọn, vắn tắt, tóm tắt",
+   "example": "Let's learn the word \"briefly\".",
+   "exampleMeaning": "Cùng học từ “briefly”: ngắn gọn, vắn tắt, tóm tắt.",
+   "emoji": "",
+   "ipa": "/ˈbrifli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "guide",
+   "meaning": "hướng",
+   "example": "This video will guide you through creating your profile.",
+   "exampleMeaning": "Video này sẽ hướng dẫn bạn cách tạo hồ sơ của mình.",
+   "emoji": "",
+   "ipa": "/ɡaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "approximately",
+   "meaning": "khoảng chừng, độ chừng",
+   "example": "Let's learn the word \"approximately\".",
+   "exampleMeaning": "Cùng học từ “approximately”: khoảng chừng, độ chừng.",
+   "emoji": "",
+   "ipa": "/əˈprɑksəmətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "increasingly",
+   "meaning": "sự tăng thêm, số lượng tăng thêm, tăng thêm",
+   "example": "People are becoming increasingly inhumane.",
+   "exampleMeaning": "Con người đang ngày càng trở nên vô nhân đạo.",
+   "emoji": "",
+   "ipa": "/ɪnˈkrisɪŋɡli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "expose",
+   "meaning": "phơi ra",
+   "example": "to expose someone to danger",
+   "exampleMeaning": "Đặt ai vào tình thế hiểm nguy",
+   "emoji": "",
+   "ipa": "/ɪkˈspoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mount",
+   "meaning": "lên, cưỡi, trèo",
+   "example": "to mount a diamond in platinum",
+   "exampleMeaning": "Găn một viên kim cương vào miếng bạch kim",
+   "emoji": "",
+   "ipa": "/ˈmaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hazard",
+   "meaning": "đánh bạo",
+   "example": "to hazard one's life",
+   "exampleMeaning": "Liều mình",
+   "emoji": "",
+   "ipa": "/ˈhæzɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fund",
+   "meaning": "quỹ",
+   "example": "a fund of humour",
+   "exampleMeaning": "Một kho hài hước",
+   "emoji": "",
+   "ipa": "/ˈfənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "orderly",
+   "meaning": "thứ tự, ngăn nắp",
+   "example": "Let's learn the word \"orderly\".",
+   "exampleMeaning": "Cùng học từ “orderly”: thứ tự, ngăn nắp.",
+   "emoji": "",
+   "ipa": "/ˈɔrdɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cattle",
+   "meaning": "thú nuôi, gia súc",
+   "example": "Let's learn the word \"cattle\".",
+   "exampleMeaning": "Cùng học từ “cattle”: thú nuôi, gia súc.",
+   "emoji": "",
+   "ipa": "/ˈkætəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "limit",
+   "meaning": "giới hạn, hạn độ",
+   "example": "Please don't limit your opinions just to 'Yes' or 'No'.",
+   "exampleMeaning": "Xin dừng giới hạn ý kiến của bạn ở \"Có\" hoặc \"Không\".",
+   "emoji": "",
+   "ipa": "/ˈlɪmɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "carelessly",
+   "meaning": "cẩu thả, thiếu thận trọng, bất cẩn",
+   "example": "Let's learn the word \"carelessly\".",
+   "exampleMeaning": "Cùng học từ “carelessly”: cẩu thả, thiếu thận trọng, bất cẩn.",
+   "emoji": "",
+   "ipa": "/ˈkɛrləsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "involve",
+   "meaning": "gồm, bao hàm",
+   "example": "What does it involve?",
+   "exampleMeaning": "Nó liên quan đến cái gì",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɑlv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "heel",
+   "meaning": "gót chân",
+   "example": "Let's learn the word \"heel\".",
+   "exampleMeaning": "Cùng học từ “heel”: gót chân.",
+   "emoji": "",
+   "ipa": "/ˈhil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "presence",
+   "meaning": "sự có mặt",
+   "example": "to be admitted to someone's presence",
+   "exampleMeaning": "Được đưa vào gặp mặt ai, được đưa vào yết kiến ai",
+   "emoji": "",
+   "ipa": "/ˈprɛzəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "camel",
+   "meaning": "lạc đà",
+   "example": "Let's learn the word \"camel\".",
+   "exampleMeaning": "Cùng học từ “camel”: lạc đà.",
+   "emoji": "🐪",
+   "ipa": "/ˈkæməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "advance",
+   "meaning": "trước",
+   "example": "Marx's ideas ưere in advance of his age",
+   "exampleMeaning": "Những tư tưởng của Mác đã đi trước thời đại của người",
+   "emoji": "",
+   "ipa": "/ədˈvæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "answered",
+    "briefly"
+   ],
+   "reading": "",
+   "meaning": "Anh ta trả lời ngắn gọn."
+  },
+  {
+   "tokens": [
+    "There's",
+    "no",
+    "limit"
+   ],
+   "reading": "",
+   "meaning": "Không có giới hạn nào cả."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "paying",
+    "in",
+    "advance"
+   ],
+   "reading": "",
+   "meaning": "Tôi trả tiền trước."
+  },
+  {
+   "tokens": [
+    "There",
+    "is",
+    "no",
+    "limit"
+   ],
+   "reading": "",
+   "meaning": "Không có giới hạn nào cả."
+  },
+  {
+   "tokens": [
+    "It's",
+    "a",
+    "fire",
+    "hazard"
+   ],
+   "reading": "",
+   "meaning": "Nó là một nguy cơ hỏa hoạn."
+  }
+ ],
+ "issues": []
+}

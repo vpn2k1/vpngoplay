@@ -1,0 +1,326 @@
+{
+ "lesson": 69,
+ "draft": true,
+ "words": [
+  {
+   "term": "normally",
+   "meaning": "bình thường",
+   "example": "I normally go to sleep at nine.",
+   "exampleMeaning": "Tôi thường đi ngủ vào lúc chín giờ.",
+   "emoji": "",
+   "ipa": "/ˈnɔrməli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "logic",
+   "meaning": "lý luận",
+   "example": "Let's learn the word \"logic\".",
+   "exampleMeaning": "Cùng học từ “logic”: lý luận.",
+   "emoji": "",
+   "ipa": "/ˈlɑdʒɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "competitive",
+   "meaning": "cạnh tranh, đua tranh",
+   "example": "Let's learn the word \"competitive\".",
+   "exampleMeaning": "Cùng học từ “competitive”: cạnh tranh, đua tranh.",
+   "emoji": "",
+   "ipa": "/kəmˈpɛtətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "domain",
+   "meaning": "đất đai, tài sản, dinh cơ",
+   "example": "Let's learn the word \"domain\".",
+   "exampleMeaning": "Cùng học từ “domain”: đất đai, tài sản, dinh cơ.",
+   "emoji": "",
+   "ipa": "/doʊˈmeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "incredible",
+   "meaning": "không thể tin được",
+   "example": "The Beatles set the world on fire with their incredible music.",
+   "exampleMeaning": "The Beatles nhấn chìm cả thế giới trong biển lửa với thứ âm nhạc tuyệt vời của họ.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈkrɛdəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "self-service",
+   "meaning": "sự tự phục vụ",
+   "example": "Let's learn the word \"self-service\".",
+   "exampleMeaning": "Cùng học từ “self-service”: sự tự phục vụ.",
+   "emoji": "",
+   "ipa": "/ˈsɛlf ˈsɜrvəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "insurance",
+   "meaning": "bảo hiểm",
+   "example": "Let's learn the word \"insurance\".",
+   "exampleMeaning": "Cùng học từ “insurance”: bảo hiểm.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈʃʊrəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sunrise",
+   "meaning": "lúc mặt trời mọc, bình minh",
+   "example": "Let's learn the word \"sunrise\".",
+   "exampleMeaning": "Cùng học từ “sunrise”: lúc mặt trời mọc, bình minh.",
+   "emoji": "🌅",
+   "ipa": "/ˈsənˌraɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dialog",
+   "meaning": "hội thoại, đối thoại",
+   "example": "Let's learn the word \"dialog\".",
+   "exampleMeaning": "Cùng học từ “dialog”: hội thoại, đối thoại.",
+   "emoji": "",
+   "ipa": "/ˈdaɪəlɔɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ocean",
+   "meaning": "đại dương, biển",
+   "example": "Let's learn the word \"ocean\".",
+   "exampleMeaning": "Cùng học từ “ocean”: đại dương, biển.",
+   "emoji": "",
+   "ipa": "/ˈəʊ.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vision",
+   "meaning": "ảo tưởng, ảo ảnh, ảo cảnh",
+   "example": "the vision of a poet",
+   "exampleMeaning": "Sức tưởng tượng của một nhà thơ",
+   "emoji": "",
+   "ipa": "/ˈvɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "designer",
+   "meaning": "người thiết kế",
+   "example": "He is a graphic designer for a video game company.",
+   "exampleMeaning": "Anh ấy là một người thiết kế đồ họa cho một công ty game.",
+   "emoji": "",
+   "ipa": "/dɪˈzaɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "abortion",
+   "meaning": "sự sẩy thai, sự phá thai",
+   "example": "Let's learn the word \"abortion\".",
+   "exampleMeaning": "Cùng học từ “abortion”: sự sẩy thai, sự phá thai.",
+   "emoji": "",
+   "ipa": "/əˈbɔrʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "survival",
+   "meaning": "sự sống sót",
+   "example": "Let's learn the word \"survival\".",
+   "exampleMeaning": "Cùng học từ “survival”: sự sống sót.",
+   "emoji": "",
+   "ipa": "/sɜrˈvaɪvəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "windscreen",
+   "meaning": "kính lái, kính chắn gió xe hơi",
+   "example": "Let's learn the word \"windscreen\".",
+   "exampleMeaning": "Cùng học từ “windscreen”: kính lái, kính chắn gió xe hơi.",
+   "emoji": "",
+   "ipa": "/wˈɪndskriːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "yoga",
+   "meaning": "thuyết du già",
+   "example": "Let's learn the word \"yoga\".",
+   "exampleMeaning": "Cùng học từ “yoga”: thuyết du già.",
+   "emoji": "",
+   "ipa": "/ˈjoʊɡə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bacon",
+   "meaning": "thịt lưng lợn muối xông khói",
+   "example": "Let's learn the word \"bacon\".",
+   "exampleMeaning": "Cùng học từ “bacon”: thịt lưng lợn muối xông khói.",
+   "emoji": "🥓",
+   "ipa": "/ˈbeɪkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "union",
+   "meaning": "sự hợp nhất, sự kết hợp, sự liên kết",
+   "example": "the union of sets A and B",
+   "exampleMeaning": "Hợp của các tập hợp A và B",
+   "emoji": "",
+   "ipa": "/ˈjuː.njən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ink",
+   "meaning": "mực (để viết, in)",
+   "example": "Please write your name in black or blue ink but not in red ink.",
+   "exampleMeaning": "Hãy viết tên bạn bằng mực đen hoặc xanh chứ đừng dùng mực đỏ.",
+   "emoji": "",
+   "ipa": "/ˈɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "shiver",
+   "meaning": "run, rùng mình",
+   "example": "to shiver with cold",
+   "exampleMeaning": "Run vì lạnh",
+   "emoji": "",
+   "ipa": "/ˈʃɪvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "have",
+    "flood",
+    "insurance"
+   ],
+   "reading": "",
+   "meaning": "Tôi có bảo hiểm lũ lụt."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "swimming",
+    "in",
+    "the",
+    "ocean"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang bơi trong đại dương."
+  },
+  {
+   "tokens": [
+    "The",
+    "pen",
+    "has",
+    "black",
+    "ink"
+   ],
+   "reading": "",
+   "meaning": "Cây bút có mực màu đen."
+  },
+  {
+   "tokens": [
+    "I",
+    "normally",
+    "wear",
+    "jeans",
+    "on",
+    "Sundays"
+   ],
+   "reading": "",
+   "meaning": "Tôi thường mặc quần jean vào thứ Bảy."
+  },
+  {
+   "tokens": [
+    "I",
+    "normally",
+    "go",
+    "to",
+    "sleep",
+    "at",
+    "nine"
+   ],
+   "reading": "",
+   "meaning": "Tôi thường đi ngủ vào lúc chín giờ."
+  }
+ ],
+ "issues": []
+}

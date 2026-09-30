@@ -1,0 +1,314 @@
+{
+ "lesson": 83,
+ "draft": true,
+ "words": [
+  {
+   "term": "glove",
+   "meaning": "bao tay, tất tay, găng",
+   "example": "The glove suggests that she was at the scene of the crime.",
+   "exampleMeaning": "Chiếc găng tay cho thấy cô ấy đã có mặt tại hiện trường vụ án.",
+   "emoji": "",
+   "ipa": "/ˈɡləv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "silly",
+   "meaning": "ngờ nghệch, ngớ ngẩn, khờ dại",
+   "example": "to go silly over a woman",
+   "exampleMeaning": "Quá say mê một người đàn bà",
+   "emoji": "",
+   "ipa": "/ˈsɪli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "remote",
+   "meaning": "xa, xa xôi, xa xăm",
+   "example": "to have not a remote conception of...",
+   "exampleMeaning": "Chỉ có một khái niệm mơ hồ về...",
+   "emoji": "",
+   "ipa": "/riˈmoʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wine",
+   "meaning": "rượu vang",
+   "example": "This wine is good.",
+   "exampleMeaning": "Rượu vang này ngon đấy.",
+   "emoji": "",
+   "ipa": "/ˈwaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "gender",
+   "meaning": "giới tính",
+   "example": "Let's learn the word \"gender\".",
+   "exampleMeaning": "Cùng học từ “gender”: giới tính.",
+   "emoji": "",
+   "ipa": "/ˈd͡ʒɛndə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "secretary",
+   "meaning": "thư ký, bí thư",
+   "example": "The secretary keeps the minutes of the meeting.",
+   "exampleMeaning": "Người thư ký giữ biên bản của cuộc họp.",
+   "emoji": "",
+   "ipa": "/ˈsɛkrəˌtɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "provide",
+   "meaning": "chuẩn bị đầy đủ, dự phòng",
+   "example": "to provide for a large family",
+   "exampleMeaning": "Lo cái ăn cái mặc cho một gia đình đông con",
+   "emoji": "",
+   "ipa": "/prəˈvaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "badminton",
+   "meaning": "cầu lông",
+   "example": "I like to play badminton and tennis.",
+   "exampleMeaning": "Tôi thích chơi cầu lông và quần vợt.",
+   "emoji": "🏸",
+   "ipa": "/ˈbæd.mɪn.tən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "column",
+   "meaning": "cột, trụ ((nghĩa đen) & (nghĩa bóng))",
+   "example": "the right-hand column of a page",
+   "exampleMeaning": "Cột bên phải của trang sách",
+   "emoji": "",
+   "ipa": "/ˈkɑləm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inexpensive",
+   "meaning": "không đắt, rẻ",
+   "example": "Let's learn the word \"inexpensive\".",
+   "exampleMeaning": "Cùng học từ “inexpensive”: không đắt, rẻ.",
+   "emoji": "",
+   "ipa": "/ˌɪnɪkˈspɛnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "original",
+   "meaning": "gốc, (thuộc) nguồn gốc",
+   "example": "That's an original idea.",
+   "exampleMeaning": "Đó là ý tưởng ban đầu.",
+   "emoji": "",
+   "ipa": "/ə.ˈrɪdʒ.ə.nᵊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nearly",
+   "meaning": "gần, sắp, suýt",
+   "example": "it is nearly time to start",
+   "exampleMeaning": "Đã gần đến giờ khởi hành",
+   "emoji": "",
+   "ipa": "/ˈnɪrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reach",
+   "meaning": "đến, tới, đi đến",
+   "example": "reach me the dictionary, will you?",
+   "exampleMeaning": "Anh làm ơn với giùm tôi cuốn từ điển",
+   "emoji": "",
+   "ipa": "/ˈritʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scenery",
+   "meaning": "phong cảnh, cảnh vật, quang cảnh",
+   "example": "The scenery was beautiful beyond description.",
+   "exampleMeaning": "Phong cảnh đẹp hơn cả sự mô tả.",
+   "emoji": "",
+   "ipa": "/ˈsinɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "suitcase",
+   "meaning": "va li",
+   "example": "I made Tom leave his suitcase behind.",
+   "exampleMeaning": "Tôi đã khiến cho Tom bỏ vali của nó lại.",
+   "emoji": "",
+   "ipa": "/ˈsutˌkeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "queen",
+   "meaning": "nữ hoàng, bà hoàng",
+   "example": "the rose is the queen of flowers",
+   "exampleMeaning": "Hoa hồng là chúa các loài hoa",
+   "emoji": "",
+   "ipa": "/ˈkwin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shoot",
+   "meaning": "bắn",
+   "example": "to shoot well with a revolver",
+   "exampleMeaning": "Bắn súng lục giỏi",
+   "emoji": "",
+   "ipa": "/ʃuːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "retired",
+   "meaning": "ẩn dật, xa lánh mọi người",
+   "example": "a retired life",
+   "exampleMeaning": "Cuộc sống ẩn dật",
+   "emoji": "",
+   "ipa": "/riˈtaɪɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "harm",
+   "meaning": "hại, tai hại, tổn hao",
+   "example": "there's no harm in him",
+   "exampleMeaning": "Nó không cố ý hại ai",
+   "emoji": "",
+   "ipa": "/ˈhɑrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "success",
+   "meaning": "sự thành công, sự thắng lợi",
+   "example": "to be a success in art",
+   "exampleMeaning": "Là một người thành công trong nghệ thuật",
+   "emoji": "",
+   "ipa": "/səkˈsɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "hates",
+    "wine"
+   ],
+   "reading": "",
+   "meaning": "Anh ta ghét rượu vang."
+  },
+  {
+   "tokens": [
+    "Humans",
+    "are",
+    "silly"
+   ],
+   "reading": "",
+   "meaning": "Con người thật ngớ ngẩn."
+  },
+  {
+   "tokens": [
+    "Trees",
+    "provide",
+    "shade"
+   ],
+   "reading": "",
+   "meaning": "Cây che bóng mát."
+  },
+  {
+   "tokens": [
+    "I",
+    "drink",
+    "wine"
+   ],
+   "reading": "",
+   "meaning": "Tôi uống rượu vang."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "wine"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích rượu vang."
+  }
+ ],
+ "issues": []
+}

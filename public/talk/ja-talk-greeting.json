@@ -1,0 +1,93 @@
+{
+ "id": "ja-talk-greeting",
+ "lang": "ja",
+ "order": 1,
+ "level": "N5",
+ "icon": "greeting",
+ "title": "Làm quen bạn mới",
+ "scene": "Ngày đầu ở trường tiếng Nhật, bạn làm quen với bạn cùng lớp Tanaka.",
+ "roles": {
+  "A": "Tanaka",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "はじめまして。田中です。",
+   "reading": "はじめまして。たなかです。",
+   "meaning": "Rất vui được làm quen. Mình là Tanaka."
+  },
+  {
+   "role": "B",
+   "text": "はじめまして。ミンです。ベトナムから来ました。",
+   "reading": "はじめまして。ミンです。ベトナムからきました。",
+   "meaning": "Rất vui được làm quen. Mình là Minh, đến từ Việt Nam."
+  },
+  {
+   "role": "A",
+   "text": "そうですか。日本語は難しいですか。",
+   "reading": "そうですか。にほんごはむずかしいですか。",
+   "meaning": "Vậy à. Tiếng Nhật có khó không?"
+  },
+  {
+   "role": "B",
+   "text": "はい、少し難しいです。でも、楽しいです。",
+   "reading": "はい、すこしむずかしいです。でも、たのしいです。",
+   "meaning": "Có, hơi khó. Nhưng vui lắm."
+  },
+  {
+   "role": "A",
+   "text": "趣味は何ですか。",
+   "reading": "しゅみはなんですか。",
+   "meaning": "Sở thích của bạn là gì?"
+  },
+  {
+   "role": "B",
+   "text": "音楽を聞くことです。田中さんは？",
+   "reading": "おんがくをきくことです。たなかさんは？",
+   "meaning": "Là nghe nhạc. Còn Tanaka thì sao?"
+  },
+  {
+   "role": "A",
+   "text": "私はサッカーが好きです。",
+   "reading": "わたしはサッカーがすきです。",
+   "meaning": "Mình thích bóng đá."
+  },
+  {
+   "role": "B",
+   "text": "いいですね。これからよろしくお願いします。",
+   "reading": "いいですね。これからよろしくおねがいします。",
+   "meaning": "Hay nhỉ. Từ giờ mong bạn giúp đỡ nhé."
+  },
+  {
+   "role": "A",
+   "text": "こちらこそ、よろしくお願いします。",
+   "reading": "こちらこそ、よろしくおねがいします。",
+   "meaning": "Mình cũng vậy, mong được bạn giúp đỡ."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "はじめまして。",
+   "reading": "はじめまして。",
+   "meaning": "Rất vui được làm quen.",
+   "note": "Chỉ dùng khi gặp ai đó lần đầu."
+  },
+  {
+   "text": "よろしくお願いします。",
+   "reading": "よろしくおねがいします。",
+   "meaning": "Mong được giúp đỡ.",
+   "note": "Câu kết thúc lời tự giới thiệu, rất hay dùng."
+  },
+  {
+   "text": "ベトナムから来ました。",
+   "reading": "ベトナムからきました。",
+   "meaning": "Tôi đến từ Việt Nam."
+  },
+  {
+   "text": "趣味は何ですか。",
+   "reading": "しゅみはなんですか。",
+   "meaning": "Sở thích của bạn là gì?"
+  }
+ ]
+}

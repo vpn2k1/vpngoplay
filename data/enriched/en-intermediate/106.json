@@ -1,0 +1,326 @@
+{
+ "lesson": 106,
+ "draft": true,
+ "words": [
+  {
+   "term": "cheeky",
+   "meaning": "táo tợn, cả gan, mặt dạn mày dày",
+   "example": "Let's learn the word \"cheeky\".",
+   "exampleMeaning": "Cùng học từ “cheeky”: táo tợn, cả gan, mặt dạn mày dày.",
+   "emoji": "",
+   "ipa": "/ˈtʃiki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trailer",
+   "meaning": "rơmoóc",
+   "example": "The trailer goes with the car.",
+   "exampleMeaning": "Cái rơmoóc đi kèm với ô tô.",
+   "emoji": "",
+   "ipa": "/ˈtreɪlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "troublesome",
+   "meaning": "mệt nhọc, khó nhọc, vất vả",
+   "example": "a troublesome child",
+   "exampleMeaning": "Một đứa trẻ hay quấy rầy",
+   "emoji": "",
+   "ipa": "/ˈtrəbəlsəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exquisite",
+   "meaning": "thanh, thanh tú",
+   "example": "Let's learn the word \"exquisite\".",
+   "exampleMeaning": "Cùng học từ “exquisite”: thanh, thanh tú.",
+   "emoji": "",
+   "ipa": "/ˈɛkskwəzət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scuba",
+   "meaning": "bình khí ép (của thợ lặn)",
+   "example": "Let's learn the word \"scuba\".",
+   "exampleMeaning": "Cùng học từ “scuba”: bình khí ép (của thợ lặn).",
+   "emoji": "",
+   "ipa": "/ˈskubə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "destiny",
+   "meaning": "vận số, vận mệnh, số phận",
+   "example": "I don't know if I believe in destiny, but this meeting feels like a sign.",
+   "exampleMeaning": "Tôi không biết mình có tin vào định mệnh không, nhưng buổi gặp gỡ này ngỡ như một dấu hiệu.",
+   "emoji": "",
+   "ipa": "/ˈdɛstəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "investigate",
+   "meaning": "điều tra",
+   "example": "The mayor thought that he should investigate the decline in tax revenues.",
+   "exampleMeaning": "Thị trưởng nghĩ rằng ông ta nên điều tra về việc sụt giảm nguồn thu từ thuế.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛstəˌɡeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "undergraduate",
+   "meaning": "sinh viên đại học chưa tốt nghiệp",
+   "example": "Let's learn the word \"undergraduate\".",
+   "exampleMeaning": "Cùng học từ “undergraduate”: sinh viên đại học chưa tốt nghiệp.",
+   "emoji": "",
+   "ipa": "/ˌəndɜrˈɡrædʒəwət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "toxic",
+   "meaning": "độc",
+   "example": "Let's learn the word \"toxic\".",
+   "exampleMeaning": "Cùng học từ “toxic”: độc.",
+   "emoji": "",
+   "ipa": "/ˈtɑksɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clerical",
+   "meaning": "công việc biên chép, (thuộc) văn phòng",
+   "example": "a clerical error",
+   "exampleMeaning": "Điều sai sót khi biên chép",
+   "emoji": "",
+   "ipa": "/ˈklɛrəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bombing",
+   "meaning": "việc ném bom",
+   "example": "Let's learn the word \"bombing\".",
+   "exampleMeaning": "Cùng học từ “bombing”: việc ném bom.",
+   "emoji": "",
+   "ipa": "/ˈbɒmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "punch",
+   "meaning": "đấm, thoi, thụi",
+   "example": "a punch on the head",
+   "exampleMeaning": "Cú đấm vào đầu",
+   "emoji": "",
+   "ipa": "/ˈpəntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "courtesy",
+   "meaning": "lịch thiệp, nhã nhặn",
+   "example": "Courtesy costs nothing.",
+   "exampleMeaning": "Lời nói chẳng mất tiền mua.",
+   "emoji": "",
+   "ipa": "/ˈkɜrtəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hormone",
+   "meaning": "hoocmon",
+   "example": "Let's learn the word \"hormone\".",
+   "exampleMeaning": "Cùng học từ “hormone”: hoocmon.",
+   "emoji": "",
+   "ipa": "/ˈhɔrˌmoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vinegar",
+   "meaning": "giấm",
+   "example": "a vinegar tongue",
+   "exampleMeaning": "Miệng lưỡi chua như giấm",
+   "emoji": "",
+   "ipa": "/ˈvɪnəɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "momentum",
+   "meaning": "động lượng, xung lượng",
+   "example": "Let's learn the word \"momentum\".",
+   "exampleMeaning": "Cùng học từ “momentum”: động lượng, xung lượng.",
+   "emoji": "",
+   "ipa": "/moʊˈmɛntəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "countrywide",
+   "meaning": "toàn quốc, khắp nước",
+   "example": "Let's learn the word \"countrywide\".",
+   "exampleMeaning": "Cùng học từ “countrywide”: toàn quốc, khắp nước.",
+   "emoji": "",
+   "ipa": "/ˈkəntriˌwaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "itch",
+   "meaning": "ngứa",
+   "example": "Let's learn the word \"itch\".",
+   "exampleMeaning": "Cùng học từ “itch”: ngứa.",
+   "emoji": "",
+   "ipa": "/ˈɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "quarrel",
+   "meaning": "cãi nhau",
+   "example": "to pick (seek) a quarrel with somebody",
+   "exampleMeaning": "Gây chuyện cãi nhau với ai",
+   "emoji": "",
+   "ipa": "/ˈkwɔrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "divorce",
+   "meaning": "ly hôn",
+   "example": "to divorce one thing from another",
+   "exampleMeaning": "Tách một vật này ra khỏi vật khác",
+   "emoji": "",
+   "ipa": "/dɪˈvɔrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "avoids",
+    "all",
+    "troublesome",
+    "tasks"
+   ],
+   "reading": "",
+   "meaning": "Anh ta né tránh mọi nhiệm vụ vất vả."
+  },
+  {
+   "tokens": [
+    "The",
+    "trailer",
+    "goes",
+    "with",
+    "the",
+    "car"
+   ],
+   "reading": "",
+   "meaning": "Cái rơmoóc đi kèm với ô tô."
+  },
+  {
+   "tokens": [
+    "No",
+    "one",
+    "can",
+    "escape",
+    "their",
+    "destiny"
+   ],
+   "reading": "",
+   "meaning": "Không ai có thể thoát khỏi số mệnh của mình."
+  },
+  {
+   "tokens": [
+    "I've",
+    "heard",
+    "that",
+    "Mary",
+    "wants",
+    "a",
+    "divorce"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghe nói rằng Mary muốn ly dị."
+  },
+  {
+   "tokens": [
+    "Courtesy",
+    "costs",
+    "nothing"
+   ],
+   "reading": "",
+   "meaning": "Lời nói chẳng mất tiền mua."
+  }
+ ],
+ "issues": []
+}

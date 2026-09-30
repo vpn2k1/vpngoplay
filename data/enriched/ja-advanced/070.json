@@ -1,0 +1,334 @@
+{
+ "lesson": 70,
+ "draft": true,
+ "words": [
+  {
+   "term": "観衆",
+   "meaning": "người xem, khán giả",
+   "example": "「観衆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “観衆”: người xem, khán giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "専修",
+   "meaning": "sự chuyên môn hoá, sự chuyên khoa",
+   "example": "「専修」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “専修”: sự chuyên môn hoá, sự chuyên khoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心掛ける",
+   "meaning": "thử, thử xem, làm thử",
+   "example": "「心掛ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “心掛ける”: thử, thử xem, làm thử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "値引き",
+   "meaning": "giảm giá",
+   "example": "「値引き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “値引き”: giảm giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日頃",
+   "meaning": "thông thường, như thường lệ",
+   "example": "「みろ、お前のお陰でフラれまくりだぞ」「そう？日頃の行いのせいじゃない？」",
+   "exampleMeaning": "\"Nhìn đi! Nhờ mày mà tao suốt ngày bị \"đá\" thôi!\" \"Vậy sao? Chẳng phải đấy là do thói quen hằng ngày của mày còn gì?\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腸",
+   "meaning": "lòng",
+   "example": "「腸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “腸”: lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "財源",
+   "meaning": "nguồn vốn",
+   "example": "「財源」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “財源”: nguồn vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出生",
+   "meaning": "sự sinh đẻ",
+   "example": "「出生」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出生”: sự sinh đẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心得",
+   "meaning": "sự biết",
+   "example": "「心得」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “心得”: sự biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交渉",
+   "meaning": "cuộc đàm phán",
+   "example": "我々は就労時間について社長と交渉した。",
+   "exampleMeaning": "Chúng tôi trao đổi với giám đốc về thời gian làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "募金",
+   "meaning": "sự huy động vốn",
+   "example": "「募金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “募金”: sự huy động vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "トーン",
+   "meaning": "tiếng",
+   "example": "「トーン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “トーン”: tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俺",
+   "meaning": "tôi, tao, tớ",
+   "example": "俺を甘く見るなよ。",
+   "exampleMeaning": "Đừng coi thường tao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "砂利",
+   "meaning": "sỏi",
+   "example": "「砂利」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “砂利”: sỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伝説",
+   "meaning": "sự truyền miệng, truyền khẩu",
+   "example": "「伝説」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伝説”: sự truyền miệng, truyền khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手軽",
+   "meaning": "thoải mái, thanh thản, không lo lắng",
+   "example": "「手軽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手軽”: thoải mái, thanh thản, không lo lắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "サボる",
+   "meaning": "trốn học, trốn việc",
+   "example": "「サボる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “サボる”: trốn học, trốn việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "タワー",
+   "meaning": "tháp",
+   "example": "「タワー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “タワー”: tháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出現",
+   "meaning": "sự xuất hiện, sự hiện ra sự ló ra",
+   "example": "「出現」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出現”: sự xuất hiện, sự hiện ra sự ló ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "専用",
+   "meaning": "sự chuyên dụng",
+   "example": "「専用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “専用”: sự chuyên dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "就労",
+    "時間",
+    "について",
+    "社長",
+    "と",
+    "交渉",
+    "した"
+   ],
+   "reading": "われわれはしゅうろうじかんについてしゃちょうとこうしょうした",
+   "meaning": "Chúng tôi trao đổi với giám đốc về thời gian làm việc."
+  },
+  {
+   "tokens": [
+    "交渉",
+    "は",
+    "とても",
+    "微妙な",
+    "段階",
+    "に",
+    "さしかかっている"
+   ],
+   "reading": "こうしょうはとてもびみょうなだんかいにさしかかっている",
+   "meaning": "Cuộc đàm phán đang bước vào một giai đoạn rất mong manh."
+  },
+  {
+   "tokens": [
+    "俺",
+    "は",
+    "彼",
+    "を",
+    "射殺",
+    "して",
+    "やる"
+   ],
+   "reading": "おれはかれをしゃさつしてやる",
+   "meaning": "Tôi sẽ bắn hắn."
+  },
+  {
+   "tokens": [
+    "俺",
+    "の",
+    "こと",
+    "は",
+    "ほっといてくれ"
+   ],
+   "reading": "おれのことはほっといてくれ",
+   "meaning": "Mặc kệ tôi đi!"
+  },
+  {
+   "tokens": [
+    "この",
+    "花",
+    "は",
+    "なんと",
+    "きれいな",
+    "こと",
+    "か"
+   ],
+   "reading": "このはなはなんときれいなことか",
+   "meaning": "Bông hoa này đẹp quá!"
+  }
+ ],
+ "issues": []
+}

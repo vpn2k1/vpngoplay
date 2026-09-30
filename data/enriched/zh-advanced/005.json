@@ -1,0 +1,322 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "是非",
+   "meaning": "phải trái",
+   "example": "明辨是非。",
+   "exampleMeaning": "Phân biệt đúng sai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìfēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "言论",
+   "meaning": "ngôn luận",
+   "example": "我们来学“言论”这个词。",
+   "exampleMeaning": "Cùng học từ “言论”: ngôn luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánlùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辣椒",
+   "meaning": "cây ớt",
+   "example": "我们来学“辣椒”这个词。",
+   "exampleMeaning": "Cùng học từ “辣椒”: cây ớt.",
+   "emoji": "🌶",
+   "ipa": "",
+   "pinyin": "làjiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无敌",
+   "meaning": "vô địch",
+   "example": "所向无敌。",
+   "exampleMeaning": "Đến đâu cũng không ai địch nổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúdí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罕见",
+   "meaning": "hiếm, hiếm có, ít có",
+   "example": "罕见的现象。",
+   "exampleMeaning": "Hiện tượng hiếm thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎnjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "昏迷",
+   "meaning": "hôn mê",
+   "example": "昏迷不醒",
+   "exampleMeaning": "Hôn mê bất tĩnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūnmí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "运转",
+   "meaning": "hoạt động (tổ chức, cơ cấu)",
+   "example": "发电机运转正常。",
+   "exampleMeaning": "Máy phát điện chạy bình thường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùnzhuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辉煌",
+   "meaning": "huy hoàng",
+   "example": "辉煌的成绩",
+   "exampleMeaning": "Thành tích huy hoàng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huīhuáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "嫩",
+   "meaning": "non",
+   "example": "小姑娘脸皮嫩，不肯表演。",
+   "exampleMeaning": "Mặt mày cô gái trông non nớt, không thể biểu diễn được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流浪",
+   "meaning": "lang thang",
+   "example": "流浪街头。",
+   "exampleMeaning": "Lang thang đầu đường xó chợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúlàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沙滩",
+   "meaning": "bãi cát",
+   "example": "我们来学“沙滩”这个词。",
+   "exampleMeaning": "Cùng học từ “沙滩”: bãi cát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shātān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手枪",
+   "meaning": "súng lục",
+   "example": "我们来学“手枪”这个词。",
+   "exampleMeaning": "Cùng học từ “手枪”: súng lục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuqiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感恩",
+   "meaning": "cảm ơn",
+   "example": "感恩不尽",
+   "exampleMeaning": "Cảm ơn không hết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "良心",
+   "meaning": "lương tâm",
+   "example": "说良心话。",
+   "exampleMeaning": "Thực lòng mà nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liángxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火炬",
+   "meaning": "đuốc",
+   "example": "火炬接力赛。",
+   "exampleMeaning": "Cuộc thi chạy tiếp đuốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "友情",
+   "meaning": "tình bạn",
+   "example": "深厚的友情",
+   "exampleMeaning": "Tình bạn sâu sắc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出卖",
+   "meaning": "bán",
+   "example": "出卖民族利益的反动派永远被人民所唾弃。",
+   "exampleMeaning": "Bọn phản động bán rẻ lợi ích của dân tộc, suốt đời bị nhân dân khinh bỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūmài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发布会",
+   "meaning": "họp báo",
+   "example": "我们来学“发布会”这个词。",
+   "exampleMeaning": "Cùng học từ “发布会”: họp báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fābùhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "梦幻",
+   "meaning": "mộng ảo",
+   "example": "离奇的遭遇犹如梦幻。",
+   "exampleMeaning": "Cuộc gặp gỡ ly kỳ như trong mộng ảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mènghuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鲜血",
+   "meaning": "máu tươi",
+   "example": "我们来学“鲜血”这个词。",
+   "exampleMeaning": "Cùng học từ “鲜血”: máu tươi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānxuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "的",
+    "表",
+    "被",
+    "偷",
+    "了"
+   ],
+   "reading": "wǒ de biǎo bèi tōu le",
+   "meaning": "Đồng hồ của tôi bị trộm mất rồi."
+  },
+  {
+   "tokens": [
+    "他",
+    "怎么",
+    "敢",
+    "抱怨"
+   ],
+   "reading": "tā zěnme gǎn bàoyuàn",
+   "meaning": "Sao anh ta lại dám phàn nàn cơ chứ?"
+  },
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "要",
+    "把",
+    "他",
+    "射",
+    "下来"
+   ],
+   "reading": "wǒ yào bǎ tā shè xiàlai",
+   "meaning": "Tao sẽ bắn hạ nó."
+  }
+ ],
+ "issues": []
+}

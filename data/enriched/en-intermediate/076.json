@@ -1,0 +1,324 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "operation",
+   "meaning": "hiệu quả, tác dụng",
+   "example": "we must extend its operation",
+   "exampleMeaning": "Chúng ta phải phát huy tác dụng của điều đó",
+   "emoji": "",
+   "ipa": "/ˌɑpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scenic",
+   "meaning": "sân khấu",
+   "example": "Japan is famous for its scenic landscapes.",
+   "exampleMeaning": "Nhật Bản nổi tiếng về những phong cảnh tuyệt đẹp.",
+   "emoji": "",
+   "ipa": "/ˈsinɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "breeding",
+   "meaning": "sự sinh sản",
+   "example": "spring is the season of breeding for birds",
+   "exampleMeaning": "Mùa xuân là mùa sinh sản của chim",
+   "emoji": "",
+   "ipa": "/ˈbriːdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "overhead",
+   "meaning": "trên đầu",
+   "example": "an overhead railway",
+   "exampleMeaning": "Đường sắt nền cao",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˈhɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "agriculture",
+   "meaning": "nông nghiệp",
+   "example": "Let's learn the word \"agriculture\".",
+   "exampleMeaning": "Cùng học từ “agriculture”: nông nghiệp.",
+   "emoji": "",
+   "ipa": "/ˈæɡrɪˌkəltʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "parallel",
+   "meaning": "song song",
+   "example": "to draw a parallel between two things",
+   "exampleMeaning": "So sánh hai vật",
+   "emoji": "",
+   "ipa": "/ˈpɛrəˌlɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "machinery",
+   "meaning": "máy móc, máy",
+   "example": "They do not use much big machinery that uses gasoline",
+   "exampleMeaning": "Họ không dùng nhiều máy móc lớn chạy xăng dầu.",
+   "emoji": "",
+   "ipa": "/məˈʃinɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "urgent",
+   "meaning": "gấp, cần kíp, khẩn cấp",
+   "example": "Those who are suffering from hunger in Africa need urgent help.",
+   "exampleMeaning": "Những người chịu nạn đói ở châu Phi cần sự trợ giúp khẩn cấp.",
+   "emoji": "",
+   "ipa": "/ˈɜrdʒənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "legally",
+   "meaning": "về phương diện pháp lý",
+   "example": "Let's learn the word \"legally\".",
+   "exampleMeaning": "Cùng học từ “legally”: về phương diện pháp lý.",
+   "emoji": "",
+   "ipa": "/ˈliɡəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nutrient",
+   "meaning": "chất dinh dưỡng, chất nuôi dưỡng",
+   "example": "Let's learn the word \"nutrient\".",
+   "exampleMeaning": "Cùng học từ “nutrient”: chất dinh dưỡng, chất nuôi dưỡng.",
+   "emoji": "",
+   "ipa": "/ˈnutriənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disappoint",
+   "meaning": "thất vọng",
+   "example": "I wouldn't want to disappoint you.",
+   "exampleMeaning": "Tôi đã không muốn làm bạn thất vọng.",
+   "emoji": "",
+   "ipa": "/ˌdɪsəˈpɔɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nest",
+   "meaning": "tổ, ổ (chim, chuột... )",
+   "example": "a nest of pirates",
+   "exampleMeaning": "Sào huyệt kẻ cướp",
+   "emoji": "",
+   "ipa": "/ˈnɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "strip",
+   "meaning": "mảnh, dải",
+   "example": "to strip someone of his power",
+   "exampleMeaning": "Tước quyền ai, cách chức ai",
+   "emoji": "",
+   "ipa": "/strɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "misty",
+   "meaning": "mơ hồ, không rõ, không minh bạch",
+   "example": "a misty idea",
+   "exampleMeaning": "Ý nghĩ mơ hồ",
+   "emoji": "",
+   "ipa": "/ˈmɪsti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "attain",
+   "meaning": "đạt được",
+   "example": "to attain to perfection",
+   "exampleMeaning": "Đặt tới chỗ hoàn thiện",
+   "emoji": "",
+   "ipa": "/əˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "merchant",
+   "meaning": "nhà buôn, lái buôn",
+   "example": "a merchant prince",
+   "exampleMeaning": "Nhà buôn giàu, phú thương",
+   "emoji": "",
+   "ipa": "/ˈmɜrtʃənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "idiom",
+   "meaning": "thành ngữ",
+   "example": "Let's learn the word \"idiom\".",
+   "exampleMeaning": "Cùng học từ “idiom”: thành ngữ.",
+   "emoji": "",
+   "ipa": "/ˈɪdiəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nickname",
+   "meaning": "tên hiệu",
+   "example": "Let's learn the word \"nickname\".",
+   "exampleMeaning": "Cùng học từ “nickname”: tên hiệu.",
+   "emoji": "",
+   "ipa": "/ˈnɪkˌneɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "requirement",
+   "meaning": "nhu cầu, sự đòi hỏi",
+   "example": "Let's learn the word \"requirement\".",
+   "exampleMeaning": "Cùng học từ “requirement”: nhu cầu, sự đòi hỏi.",
+   "emoji": "",
+   "ipa": "/rɪˈkwaɪrmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "razor",
+   "meaning": "dao cạo",
+   "example": "Let's learn the word \"razor\".",
+   "exampleMeaning": "Cùng học từ “razor”: dao cạo.",
+   "emoji": "🪒",
+   "ipa": "/ˈreɪzɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Check",
+    "their",
+    "nest"
+   ],
+   "reading": "",
+   "meaning": "Hãy kiểm tra tổ của chúng."
+  },
+  {
+   "tokens": [
+    "Fireworks",
+    "exploded",
+    "overhead"
+   ],
+   "reading": "",
+   "meaning": "Pháo hoa nổ trên đầu."
+  },
+  {
+   "tokens": [
+    "I",
+    "wouldn't",
+    "want",
+    "to",
+    "disappoint",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã không muốn làm bạn thất vọng."
+  },
+  {
+   "tokens": [
+    "The",
+    "operation",
+    "system",
+    "is",
+    "being",
+    "updated"
+   ],
+   "reading": "",
+   "meaning": "Hệ điều hành đang được cập nhật."
+  },
+  {
+   "tokens": [
+    "The",
+    "news",
+    "is",
+    "from",
+    "a",
+    "parallel",
+    "universe"
+   ],
+   "reading": "",
+   "meaning": "Tin tức đến từ một vũ trụ song song."
+  }
+ ],
+ "issues": []
+}

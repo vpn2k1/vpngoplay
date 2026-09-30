@@ -1,0 +1,332 @@
+{
+ "lesson": 29,
+ "draft": true,
+ "words": [
+  {
+   "term": "稍微",
+   "meaning": "hơi",
+   "example": "稍微大意一点就要出毛病。",
+   "exampleMeaning": "Hơi sơ ý một chút là hỏng đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāowēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汗",
+   "meaning": "mồ hôi",
+   "example": "挥汗如雨",
+   "exampleMeaning": "Mồ hôi chảy như mưa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "向前",
+   "meaning": "trước đây",
+   "example": "我们来学“向前”这个词。",
+   "exampleMeaning": "Cùng học từ “向前”: trước đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "场面",
+   "meaning": "bề ngoài",
+   "example": "摆场面(讲排场)。",
+   "exampleMeaning": "Bày vẽ hình thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎngmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一下子",
+   "meaning": "trong chốc lát, một lúc, ngay lập tức",
+   "example": "我们来学“一下子”这个词。",
+   "exampleMeaning": "Cùng học từ “一下子”: trong chốc lát, một lúc, ngay lập tức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxiàzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目光",
+   "meaning": "ánh mắt",
+   "example": "目光炯炯。",
+   "exampleMeaning": "Ánh mắt long lanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伸",
+   "meaning": "duỗi thẳng (tay, chân... )",
+   "example": "伸直。",
+   "exampleMeaning": "Duỗi thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有力",
+   "meaning": "đanh thép",
+   "example": "这篇文章写得简短有力。",
+   "exampleMeaning": "Bài viết này rất ngắn gọn nhưng đanh thép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒulì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脱离",
+   "meaning": "thoát ly",
+   "example": "脱离旧家庭",
+   "exampleMeaning": "Lìa khỏi gia đình cũ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuōlí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解除",
+   "meaning": "xua tan",
+   "example": "解除顾虑。",
+   "exampleMeaning": "Xua tan nỗi lo buồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěchú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尽可能",
+   "meaning": "mọi khả năng, bằng mọi cách",
+   "example": "尽可能搞得快些。",
+   "exampleMeaning": "Cố làm cho nhanh hơn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnkěnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "技能",
+   "meaning": "năng lực (chuyên môn)",
+   "example": "技能高超",
+   "exampleMeaning": "Kỹ thuật cao siêu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寸",
+   "meaning": "tấc",
+   "example": "寸 进(极小的进步)。",
+   "exampleMeaning": "Tiến bộ rất ít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "动机",
+   "meaning": "động cơ",
+   "example": "动机好，方法不对头，也会把事办坏。",
+   "exampleMeaning": "Động cơ tốt, phương pháp không hay, cũng có thể làm hỏng việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "情节",
+   "meaning": "tình tiết",
+   "example": "根据情节轻重分别处理。",
+   "exampleMeaning": "Căn cứ vào tình tiết nặng nhẹ mà xử lí khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预期",
+   "meaning": "mong muốn",
+   "example": "达到预期的目的。",
+   "exampleMeaning": "Đạt được mục đích mong muốn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打扮",
+   "meaning": "ăn mặc",
+   "example": "他打扮得像女人一樣。",
+   "exampleMeaning": "Anh ấy đã đóng giả làm con gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎban",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "兔",
+   "meaning": "con thỏ",
+   "example": "那是一隻有惡意的兔子。",
+   "exampleMeaning": "Đó là một con thỏ hung ác.",
+   "emoji": "🐇",
+   "ipa": "",
+   "pinyin": "tù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "天才",
+   "meaning": "thiên tài",
+   "example": "艺术天才",
+   "exampleMeaning": "Thiên tài nghệ thuật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiāncái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一向",
+   "meaning": "gần đây",
+   "example": "他穿衣服一向很随便，颜色、样式都无所谓。",
+   "exampleMeaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "打扮",
+    "得",
+    "像",
+    "女人",
+    "一样"
+   ],
+   "reading": "tā dǎban de xiàng nǚrén yīyàng",
+   "meaning": "Anh ấy đã đóng giả làm con gái."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "马来西亚",
+    "居住"
+   ],
+   "reading": "wǒ zài mǎláixīyà jūzhù",
+   "meaning": "Tôi hiện đang sống ở Mã Lai."
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,328 @@
+{
+ "lesson": 137,
+ "draft": true,
+ "words": [
+  {
+   "term": "燃烧",
+   "meaning": "cháy",
+   "example": "烈火熊熊燃烧。",
+   "exampleMeaning": "Lửa cháy đùng đùng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ránshāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "极其",
+   "meaning": "vô cùng",
+   "example": "变量的声明在C和C++中极其重要。",
+   "exampleMeaning": "Khai báo biến trong C/C++ vô cùng quan trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日记",
+   "meaning": "nhật ký",
+   "example": "工作日记",
+   "exampleMeaning": "Ghi chép công tác hằng ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高潮",
+   "meaning": "triều cường",
+   "example": "我们来学“高潮”这个词。",
+   "exampleMeaning": "Cùng học từ “高潮”: triều cường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāocháo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同情",
+   "meaning": "thông cảm",
+   "example": "我们同情并支持该国人民的正义斗争。",
+   "exampleMeaning": "Chúng tôi đồng tình và ủng hộ cuộc đấu tranh chính nghĩa của nhân dân nước này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "破产",
+   "meaning": "phá sản",
+   "example": "从资本主义发展的历史来看，产业工人的前身多半是破产的农民。",
+   "exampleMeaning": "Nhìn từ góc độ lịch sử phát triển của chủ nghĩa tư bản, tiền thân của giai cấp công nhân phần lớn là những người nông dân bị phá sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pòchǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "说不定",
+   "meaning": "không thể nói chắc chắn / có thể",
+   "example": "我们来学“说不定”这个词。",
+   "exampleMeaning": "Cùng học từ “说不定”: không thể nói chắc chắn / có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōbudìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挑选",
+   "meaning": "chọn",
+   "example": "小分队的成员都经过严格挑选的。",
+   "exampleMeaning": "Những thành viên trong tiểu đội đã được chọn kỹ càng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiāoxuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逛",
+   "meaning": "dạo chơi",
+   "example": "东游西逛",
+   "exampleMeaning": "Dạo chơi khắp nơi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "单纯",
+   "meaning": "đơn, đơn giản",
+   "example": "单纯追求数量。",
+   "exampleMeaning": "Chỉ chạy theo số lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānchún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "季节",
+   "meaning": "thời, thời buổi, mùa",
+   "example": "严寒的季节。",
+   "exampleMeaning": "Thời kỳ rét nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "布置",
+   "meaning": "trang trí",
+   "example": "布置一个房间",
+   "exampleMeaning": "Trang trí nội thất một căn phòng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "灯光",
+   "meaning": "ánh sáng",
+   "example": "灯光太暗了，我没法阅读。",
+   "exampleMeaning": "Đèn tối quá, tôi không thể đọc sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēngguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "色彩",
+   "meaning": "sắc thái",
+   "example": "色彩鲜明。",
+   "exampleMeaning": "Màu sắc tươi sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sècǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "健身",
+   "meaning": "tập thể dục",
+   "example": "我们来学“健身”这个词。",
+   "exampleMeaning": "Cùng học từ “健身”: tập thể dục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事先",
+   "meaning": "trước",
+   "example": "事先打个招呼，别叫我临时抓瞎。",
+   "exampleMeaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "失业",
+   "meaning": "thất nghiệp",
+   "example": "我们来学“失业”这个词。",
+   "exampleMeaning": "Cùng học từ “失业”: thất nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "规律",
+   "meaning": "quy luật",
+   "example": "基本经济规律。",
+   "exampleMeaning": "Quy luật kinh tế cơ bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīlǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "待遇",
+   "meaning": "đãi ngộ (quyền lợi, địa vị xã hội)",
+   "example": "周到的待遇",
+   "exampleMeaning": "Đối đãi chu đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàiyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "比分",
+   "meaning": "tỷ số",
+   "example": "现在的比分为15-30。",
+   "exampleMeaning": "Tỷ số bây giờ là 15-30.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐfēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "事先",
+    "打",
+    "个",
+    "招呼",
+    "别",
+    "叫",
+    "我",
+    "临时",
+    "抓瞎"
+   ],
+   "reading": "shìxiān dǎ gè zhāohu bié jiào wǒ línshí zhuāxiā",
+   "meaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng."
+  },
+  {
+   "tokens": [
+    "灯光",
+    "太",
+    "暗",
+    "了",
+    "我",
+    "没法",
+    "阅读"
+   ],
+   "reading": "dēngguāng tài àn le wǒ méifǎ yuèdú",
+   "meaning": "Đèn tối quá, tôi không thể đọc sách."
+  },
+  {
+   "tokens": [
+    "不",
+    "关",
+    "我",
+    "的",
+    "事"
+   ],
+   "reading": "bù guān wǒ de shì",
+   "meaning": "Không phải chuyện của tôi."
+  },
+  {
+   "tokens": [
+    "你",
+    "认识",
+    "他",
+    "吗"
+   ],
+   "reading": "nǐ rènshi tā ma",
+   "meaning": "Mày có biết nó không?"
+  },
+  {
+   "tokens": [
+    "你",
+    "可以",
+    "走",
+    "了"
+   ],
+   "reading": "nǐ kěyǐ zǒu le",
+   "meaning": "Mày có thể đi."
+  }
+ ],
+ "issues": []
+}

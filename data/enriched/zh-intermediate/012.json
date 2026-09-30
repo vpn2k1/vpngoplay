@@ -1,0 +1,332 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "难以",
+   "meaning": "khó mà",
+   "example": "难以形容。",
+   "exampleMeaning": "Khó mà hình dung nỗi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nányǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "射",
+   "meaning": "vụt qua, vọt tới, chạy qua",
+   "example": "我要把他射下來。",
+   "exampleMeaning": "Tao sẽ bắn hạ nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "运",
+   "meaning": "chuyển, di chuyển, chuyển dịch",
+   "example": "这批货运到哪儿去？",
+   "exampleMeaning": "Lô hàng này chuyển đến nơi nào？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "戏",
+   "meaning": "kịch",
+   "example": "玩这些电脑游戏要反应灵敏。",
+   "exampleMeaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "偷",
+   "meaning": "tranh thủ (thời gian)",
+   "example": "我抓到了這個男人正在偷錢。",
+   "exampleMeaning": "Tôi đã bắt kịp thằng ăn cắp tiền này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "展示",
+   "meaning": "mở ra",
+   "example": "作品展示了人物的内心活动",
+   "exampleMeaning": "Tác phẩm đã trình bày hoạt động nội tâm của nhân vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "基地",
+   "meaning": "căn cứ",
+   "example": "工业建设基地。",
+   "exampleMeaning": "Khu vực nền tảng xây dựng công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "掌握",
+   "meaning": "nắm chắc",
+   "example": "掌握自己的命运。",
+   "exampleMeaning": "Nắm chắc số phận của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎngwò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "记忆",
+   "meaning": "nhớ",
+   "example": "往事已经记忆不起来了。",
+   "exampleMeaning": "Những chuyện đã qua không còn nhớ gì hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剩下",
+   "meaning": "còn lại, chừa lại, vẫn",
+   "example": "我们来学“剩下”这个词。",
+   "exampleMeaning": "Cùng học từ “剩下”: còn lại, chừa lại, vẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèngxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吓",
+   "meaning": "làm kinh hãi, làm sợ hãi, doạ (ngáo ộp)",
+   "example": "吓 了一跳。",
+   "exampleMeaning": "Làm giật nẩy mình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "基金",
+   "meaning": "quỹ",
+   "example": "福利基金",
+   "exampleMeaning": "Quỹ phúc lợi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jījīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "社区",
+   "meaning": "phố",
+   "example": "华人社区",
+   "exampleMeaning": "Phố người Hoa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手段",
+   "meaning": "mánh khoé",
+   "example": "耍手段骗人。",
+   "exampleMeaning": "Dùng mánh khoé gạt người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "接触",
+   "meaning": "tiếp xúc",
+   "example": "他过去从没有接触过书本。",
+   "exampleMeaning": "Trước đây anh ấy chưa từng tiếp xúc với sách vở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēchù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "聪明",
+   "meaning": "thông minh",
+   "example": "这孩子既聪明又用功，学习上进步很快。",
+   "exampleMeaning": "Đứa bé này đã thông minh lại còn chăm chỉ, học tập tiến bộ rất nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cōngming",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "皮肤",
+   "meaning": "da",
+   "example": "被的皮肤。",
+   "exampleMeaning": "Làn da bị rám nắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pífū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "厉害",
+   "meaning": "lợi hại",
+   "example": "这着棋十分厉害。",
+   "exampleMeaning": "Ván cờ này vô cùng căng thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìhai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尊重",
+   "meaning": "nghiêm túc",
+   "example": "放尊重些!",
+   "exampleMeaning": "Hãy nghiêm túc một chút!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zūnzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "损失",
+   "meaning": "tổn thất",
+   "example": "我们来学“损失”这个词。",
+   "exampleMeaning": "Cùng học từ “损失”: tổn thất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǔnshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "要",
+    "把",
+    "他",
+    "射",
+    "下来"
+   ],
+   "reading": "wǒ yào bǎ tā shè xiàlai",
+   "meaning": "Tao sẽ bắn hạ nó."
+  },
+  {
+   "tokens": [
+    "我",
+    "抓",
+    "到",
+    "了",
+    "这个",
+    "男人",
+    "正在",
+    "偷",
+    "钱"
+   ],
+   "reading": "wǒ zhuā dào le zhège nánrén zhèngzài tōu qián",
+   "meaning": "Tôi đã bắt kịp thằng ăn cắp tiền này."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "表",
+    "被",
+    "偷",
+    "了"
+   ],
+   "reading": "wǒ de biǎo bèi tōu le",
+   "meaning": "Đồng hồ của tôi bị trộm mất rồi."
+  },
+  {
+   "tokens": [
+    "自由",
+    "是",
+    "有",
+    "代价",
+    "的"
+   ],
+   "reading": "zìyóu shì yǒu dàijià de",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  }
+ ],
+ "issues": []
+}

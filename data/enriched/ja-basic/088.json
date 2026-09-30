@@ -1,0 +1,328 @@
+{
+ "lesson": 88,
+ "draft": true,
+ "words": [
+  {
+   "term": "権利",
+   "meaning": "quyền",
+   "example": "私に向かってそんなにわめき立てるような権利は、あなた方にはないんだよ。",
+   "exampleMeaning": "Các vị không có quyền hét vào mặt tôi như vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "太陽",
+   "meaning": "mặt trời, vừng thái dương",
+   "example": "今日は太陽が輝いてる。",
+   "exampleMeaning": "Hôm nay mặt trời đang tỏa sáng.",
+   "emoji": "☀",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "使用",
+   "meaning": "sự thuê làm (công... ), sự làm công, việc làm",
+   "example": "「使用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “使用”: sự thuê làm (công... ), sự làm công, việc làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "翼",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của wing",
+   "example": "若い頃、左翼思想にかぶれていた。",
+   "exampleMeaning": "Thời thanh niên, tôi từng bị ảnh hưởng bởi tư tưởng cánh tả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腰",
+   "meaning": "hông",
+   "example": "彼はその仕事に腰を据えている。",
+   "exampleMeaning": "Anh ấy đang ổn định với công việc đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特徴",
+   "meaning": "riêng, riêng biệt, đặc thù",
+   "example": "「特徴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特徴”: riêng, riêng biệt, đặc thù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "縄",
+   "meaning": "dây thừng, dây chão",
+   "example": "彼は今まで沖縄へ行ったことがない。",
+   "exampleMeaning": "Cho đến bây giờ, tôi vẫn chưa bao giờ đi đến Okinawa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "帯",
+   "meaning": "dải, băng, đai",
+   "example": "私は携帯を捜している。",
+   "exampleMeaning": "Tôi đang tìm điện thoại của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "合格",
+   "meaning": "sự thành công, sự thắng lợi",
+   "example": "彼は入試に合格しそうだ。",
+   "exampleMeaning": "Có vẻ như anh ấy sẽ đỗ kỳ thi đầu vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "より",
+   "meaning": "hơn",
+   "example": "他人より身内。",
+   "exampleMeaning": "Một giọt máu đào hơn ao nước lã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "助詞",
+   "meaning": "chút, tí chút",
+   "example": "「助詞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “助詞”: chút, tí chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幸運",
+   "meaning": "chúc may mắn",
+   "example": "彼女の夫がそのとき到着したことは彼女にとって幸運だった。",
+   "exampleMeaning": "May cho cô ấy là chồng cô ấy đã đến nơi vào lúc đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "酢",
+   "meaning": "giấm",
+   "example": "「酢」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “酢”: giấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当然",
+   "meaning": "rõ ràng, rành mạch, hiển nhiên",
+   "example": "当然ですが先生は英仏語とも理解できますけれど。",
+   "exampleMeaning": "Rõ ràng là giáo viên đó có thể hiểu cả tiếng Anh lẫn tiếng Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "持ち上げる",
+   "meaning": "nâng lên, đỡ dậy",
+   "example": "「持ち上げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持ち上げる”: nâng lên, đỡ dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "強盗",
+   "meaning": "sự ăn cướp, vụ ăn cướp",
+   "example": "「強盗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “強盗”: sự ăn cướp, vụ ăn cướp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "申し込む",
+   "meaning": "thỉnh cầu (một việc làm...)",
+   "example": "「申し込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申し込む”: thỉnh cầu (một việc làm...).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "異動",
+   "meaning": "sự đổi, sự thay đổi, sự biến đổi",
+   "example": "「異動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “異動”: sự đổi, sự thay đổi, sự biến đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "携帯",
+   "meaning": "di động, điện thoại di động",
+   "example": "彼女の携帯が盗まれました。",
+   "exampleMeaning": "Cô ấy bị trộm mất cái điện thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "拡大",
+   "meaning": "sự phóng đại, sự mở rộng, sự làm to",
+   "example": "９世紀以降のバイキングの勢力拡大はノルマンディ、ガリシア、アンダルシア、シチリア、クリミアといった地域へと達した。",
+   "exampleMeaning": "Từ sau thế kỷ IX, thế lực của người Viking đã lan rộng tới các vùng như Normandie, Galicia, Andalusia, Sicilia và Crimea.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "型",
+    "の",
+    "携帯電話",
+    "は",
+    "よく",
+    "売れています"
+   ],
+   "reading": "このかたのけいたいでんわはよくうれています",
+   "meaning": "Mẫu điện thoại này đang bán rất chạy."
+  },
+  {
+   "tokens": [
+    "町",
+    "は",
+    "村",
+    "よりも",
+    "大きい"
+   ],
+   "reading": "まちはむらよりもおおきい",
+   "meaning": "Thị trấn lớn hơn thôn."
+  },
+  {
+   "tokens": [
+    "思った",
+    "より",
+    "安くあがった"
+   ],
+   "reading": "おもったよりやすくあがった",
+   "meaning": "Nó không đắt như tôi nghĩ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "入試",
+    "に",
+    "合格",
+    "し",
+    "そう",
+    "だ"
+   ],
+   "reading": "かれはにゅうしにごうかくしそうだ",
+   "meaning": "Có vẻ như anh ấy sẽ đỗ kỳ thi đầu vào."
+  },
+  {
+   "tokens": [
+    "女の子",
+    "は",
+    "男の子",
+    "より",
+    "早熟",
+    "だ"
+   ],
+   "reading": "おんなのこはおとこのこよりそうじゅくだ",
+   "meaning": "Con gái thì lớn nhanh hơn con trai."
+  }
+ ],
+ "issues": []
+}

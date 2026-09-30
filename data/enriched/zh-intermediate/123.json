@@ -1,0 +1,332 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "竟",
+   "meaning": "lại",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "之所以",
+   "meaning": "sở dĩ",
+   "example": "我们来学“之所以”这个词。",
+   "exampleMeaning": "Cùng học từ “之所以”: sở dĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīsuǒyǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "醒来",
+   "meaning": "đánh thức, thức giấc, tỉnh lại",
+   "example": "我们来学“醒来”这个词。",
+   "exampleMeaning": "Cùng học từ “醒来”: đánh thức, thức giấc, tỉnh lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐnglái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "致",
+   "meaning": "hứng thú",
+   "example": "向大会致热烈的祝贺。",
+   "exampleMeaning": "Gửi tới đại hội lời chào mừng nhiệt liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "烤",
+   "meaning": "hơ",
+   "example": "把 湿衣裳烤干。",
+   "exampleMeaning": "Hơ áo ướt cho khô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "天使",
+   "meaning": "thiên sứ",
+   "example": "我们来学“天使”这个词。",
+   "exampleMeaning": "Cùng học từ “天使”: thiên sứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānshǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老大",
+   "meaning": "về già",
+   "example": "少壮不努力，老大徒伤悲。",
+   "exampleMeaning": "Lúc trẻ mà không chịu nỗ lực thì về già sẽ ân hận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎodà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "怀孕",
+   "meaning": "có mang",
+   "example": "怀孕的妇女。",
+   "exampleMeaning": "Phụ nữ có mang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huáiyùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一阵",
+   "meaning": "một trận",
+   "example": "一阵掌声",
+   "exampleMeaning": "Vỗ tay một hồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīzhèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "即便",
+   "meaning": "cho dù",
+   "example": "即便你有理,也不该发脾气啊!",
+   "exampleMeaning": "Cho dù anh có lí cũng không nên nổi cáu lên như thế!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíbiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "幕",
+   "meaning": "trướng, bạt",
+   "example": "谢幕了。",
+   "exampleMeaning": "Tạ ơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "失踪",
+   "meaning": "mất tích",
+   "example": "我们来学“失踪”这个词。",
+   "exampleMeaning": "Cùng học từ “失踪”: mất tích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīzōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "执法",
+   "meaning": "chấp pháp",
+   "example": "执法不严使坏人有隙可乘。",
+   "exampleMeaning": "Chấp pháp không nghiêm khiến kẻ gian có thể lợi dụng kẽ hở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhífǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "监控",
+   "meaning": "quản chế",
+   "example": "我们来学“监控”这个词。",
+   "exampleMeaning": "Cùng học từ “监控”: quản chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānkòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抢劫",
+   "meaning": "cướp, cướp đoạt",
+   "example": "罪犯们密谋抢劫银行。",
+   "exampleMeaning": "Bọn tội phạm đang âm mưu cướp ngân hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiǎngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "奇迹",
+   "meaning": "kỳ tích",
+   "example": "群众的智慧和力量可以创造出人类历史上的奇迹。",
+   "exampleMeaning": "Trí tuệ và sức mạnh của quần chúng có thể sáng tạo nên những kỳ tích trong lịch sử nhân loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蛮",
+   "meaning": "rất",
+   "example": "蛮不讲理。",
+   "exampleMeaning": "Ngang ngược vô lí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钥匙",
+   "meaning": "chìa khoá",
+   "example": "我们来学“钥匙”这个词。",
+   "exampleMeaning": "Cùng học từ “钥匙”: chìa khoá.",
+   "emoji": "🔑",
+   "ipa": "",
+   "pinyin": "yàoshi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "栋",
+   "meaning": "xà ngang",
+   "example": "我们来学“栋”这个词。",
+   "exampleMeaning": "Cùng học từ “栋”: xà ngang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引发",
+   "meaning": "gợi ra",
+   "example": "天象表演引发了大家对天文学的浓厚兴趣。",
+   "exampleMeaning": "Biểu diễn các hiện tượng thiên văn gợi niềm say mê của mọi người đối với thiên văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnfā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "罪犯",
+    "们",
+    "密谋",
+    "抢劫",
+    "银行"
+   ],
+   "reading": "zuìfàn men mìmóu qiǎngjié yínháng",
+   "meaning": "Bọn tội phạm đang âm mưu cướp ngân hàng."
+  },
+  {
+   "tokens": [
+    "爱国",
+    "竞赛",
+    "的",
+    "目的",
+    "是",
+    "什么"
+   ],
+   "reading": "àiguó jìngsài de mùdì shì shénme",
+   "meaning": "Mục đích thi đua ái quốc là gì?"
+  },
+  {
+   "tokens": [
+    "他",
+    "在",
+    "工作",
+    "上",
+    "遇到",
+    "了",
+    "麻烦"
+   ],
+   "reading": "tā zài gōngzuò shàng yùdào le máfan",
+   "meaning": "Nó gặp phải phiền toái khi làm việc."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "降落",
+    "在",
+    "新山",
+    "一",
+    "机场"
+   ],
+   "reading": "fēijī jiàngluò zài xīnshān yī jīchǎng",
+   "meaning": "Máy bay xuống sân bay Tân Sơn Nhất."
+  }
+ ],
+ "issues": []
+}

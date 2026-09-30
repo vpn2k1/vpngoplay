@@ -1,0 +1,321 @@
+{
+ "lesson": 9,
+ "draft": true,
+ "words": [
+  {
+   "term": "外国",
+   "meaning": "nước ngoài",
+   "example": "外国語を学ぶのは難しい。",
+   "exampleMeaning": "Việc học một ngoại ngữ là một việc khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "隣",
+   "meaning": "bên",
+   "example": "彼は私の隣に住んでいる。",
+   "exampleMeaning": "Anh ấy sống ở bên cạnh nhà tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ニュース",
+   "meaning": "tin, tin tức",
+   "example": "全国民がそのニュースを聞いて喜んだ。",
+   "exampleMeaning": "Toàn thể dân tộc vui mừng khi nghe tin ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "丸い",
+   "meaning": "tròn",
+   "example": "「丸い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “丸い”: tròn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "豚肉",
+   "meaning": "thịt lợn",
+   "example": "そんなわけでダチョウの肉は牛肉や豚肉の２倍以上の値段となる。",
+   "exampleMeaning": "Vì lý do đó mà giá thịt đà điểu đắt gấp hai lần giá thịt lợn hoặc là thịt bò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "十",
+   "meaning": "mười, chục",
+   "example": "彼女に十ドル借りている。",
+   "exampleMeaning": "Tôi đang vay cô ấy 10 Đô-la.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "カップ",
+   "meaning": "tách, chén",
+   "example": "どのカップがあなたのですか。",
+   "exampleMeaning": "Cái tách nào là của bạn?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "磨く",
+   "meaning": "chải, quét",
+   "example": "「磨く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “磨く”: chải, quét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出口",
+   "meaning": "sự đi vào (của diễn viên)",
+   "example": "「出口」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出口”: sự đi vào (của diễn viên).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ペン",
+   "meaning": "bút, ngòi bút",
+   "example": "壁からペンキが剥げ始めていた。",
+   "exampleMeaning": "Sơn bắt đầu bị bong tróc ra khỏi tường.",
+   "emoji": "🖊",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "習う",
+   "meaning": "học, học tập, nghiên cứu",
+   "example": "心臓の構造については中学で習う。",
+   "exampleMeaning": "Chúng tôi học về cấu tạo tim ở cấp 2.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "六",
+   "meaning": "số sáu",
+   "example": "私は六時半に起きる。",
+   "exampleMeaning": "Tôi dậy vào lúc sáu rưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おまわりさん",
+   "meaning": "cảnh sát, công an",
+   "example": "「おまわりさん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おまわりさん”: cảnh sát, công an.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "使う",
+   "meaning": "dùng, sử dụng",
+   "example": "何に使うの？",
+   "exampleMeaning": "Dùng để làm gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "服",
+   "meaning": "quần áo",
+   "example": "彼女は赤い服を着ていた。",
+   "exampleMeaning": "Cô ấy mặc đồ đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "デパート",
+   "meaning": "cửa hàng bách hoá",
+   "example": "そのデパートの前に本屋があります。",
+   "exampleMeaning": "Đằng trước trung tâm thương mại đó có một hiệu sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スポーツ",
+   "meaning": "thể thao",
+   "example": "スポーツは好きですか。",
+   "exampleMeaning": "Bạn có thích chơi thể thao không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "傘",
+   "meaning": "cái ô, cái dù",
+   "example": "トムは傘を畳んだ。",
+   "exampleMeaning": "Tom gập ô lại.",
+   "emoji": "☂",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "涼しい",
+   "meaning": "mát mẻ, mát",
+   "example": "「涼しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “涼しい”: mát mẻ, mát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ギター",
+   "meaning": "đàn ghita",
+   "example": "彼は、このギターが好き。",
+   "exampleMeaning": "Anh ấy thích cái đàn guitar này.",
+   "emoji": "🎸",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "何",
+    "に",
+    "使う",
+    "の"
+   ],
+   "reading": "なににつかうの",
+   "meaning": "Dùng để làm gì?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "六時",
+    "に",
+    "帰った"
+   ],
+   "reading": "かれはろくじにかえった",
+   "meaning": "Anh ấy đã về nhà lúc 6 giờ."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "六",
+    "時半",
+    "に",
+    "起きる"
+   ],
+   "reading": "わたしはろくじはんにおきる",
+   "meaning": "Tôi dậy vào lúc sáu rưỡi."
+  },
+  {
+   "tokens": [
+    "隣町",
+    "に",
+    "住んでいます"
+   ],
+   "reading": "となりまちにすんでいます",
+   "meaning": "Tôi đang sống ở thị trấn bên cạnh."
+  },
+  {
+   "tokens": [
+    "スポーツ",
+    "は",
+    "好き",
+    "ですか"
+   ],
+   "reading": "スポーツはすきですか",
+   "meaning": "Bạn có thích chơi thể thao không?"
+  }
+ ],
+ "issues": []
+}

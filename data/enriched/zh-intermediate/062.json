@@ -1,0 +1,330 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "超",
+   "meaning": "siêu",
+   "example": "超 音速。",
+   "exampleMeaning": "Tốc độ siêu âm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "因",
+   "meaning": "vì, bởi vì",
+   "example": "我刚到广州时，因不懂广州话，常常闹笑话。",
+   "exampleMeaning": "Khi tôi mới đến Quảng Châu, vì không hiểu tiếng Quảng Châu, nên thường làm trò cười cho người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特",
+   "meaning": "đặc biệt, riêng biệt",
+   "example": "特朗普杀了爱泼斯坦。",
+   "exampleMeaning": "Trump đã giết Epstein.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "入",
+   "meaning": "đi vào, ra, bắt đầu kinh doanh",
+   "example": "由于噪音，我们无法入睡。",
+   "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "哇",
+   "meaning": "chứ",
+   "example": "你好哇 ？",
+   "exampleMeaning": "Bạn khoẻ chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "便",
+   "meaning": "đồng bằng",
+   "example": "这种布既便宜又结实。",
+   "exampleMeaning": "Thứ vải này đã rẽ lại bền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "最终",
+   "meaning": "cuối",
+   "example": "最终，他来了。",
+   "exampleMeaning": "Cuối cùng thì ông ấy cũng đã đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuìzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不再",
+   "meaning": "không...nữa",
+   "example": "不再反对…协议",
+   "exampleMeaning": "Không phản đối nữa...thoả thuận nào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "死亡",
+   "meaning": "chết",
+   "example": "他心脏停止了跳动, 随即死亡。",
+   "exampleMeaning": "Tim ông ta ngừng đập và chết ngay sau đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǐwáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "据",
+   "meaning": "chứng cứ, theo, theo như",
+   "example": "据说他爸爸在外国去世了。",
+   "exampleMeaning": "Người ta nói cha ông ấy mất ở nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "清",
+   "meaning": "trong, trong trẻo, trong sạch",
+   "example": "保养类的面膜 可以不清洗。",
+   "exampleMeaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "投票",
+   "meaning": "bỏ phiếu",
+   "example": "我们来学“投票”这个词。",
+   "exampleMeaning": "Cùng học từ “投票”: bỏ phiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóupiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "犯罪",
+   "meaning": "phạm tội",
+   "example": "我们来学“犯罪”这个词。",
+   "exampleMeaning": "Cùng học từ “犯罪”: phạm tội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fànzuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逼",
+   "meaning": "bức",
+   "example": "别逼我！",
+   "exampleMeaning": "Đừng ép tôi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bī",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "原",
+   "meaning": "gốc, nguyên, căn bản",
+   "example": "现在的时代是原子时代。",
+   "exampleMeaning": "Thời đại bây giờ là thời đại nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "赛",
+   "meaning": "rất giống",
+   "example": "爱国竞赛的目的是什么？",
+   "exampleMeaning": "Mục đích thi đua ái quốc là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集",
+   "meaning": "tập (thơ, văn)",
+   "example": "有成千的人来参加今天的集会。",
+   "exampleMeaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "权",
+   "meaning": "quyền",
+   "example": "死马权当活马医。",
+   "exampleMeaning": "Còn nước còn tát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尽",
+   "meaning": "hết",
+   "example": "我会尽量不打扰你复习。",
+   "exampleMeaning": "Tôi sẽ cố không quấy rầy bạn học hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "利",
+   "meaning": "lãi",
+   "example": "我祝你考試順利。",
+   "exampleMeaning": "Tôi chúc bạn thi cử thuận lợi.",
+   "emoji": "♯",
+   "ipa": "",
+   "pinyin": "lì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这种",
+    "布",
+    "既",
+    "便宜",
+    "又",
+    "结实"
+   ],
+   "reading": "zhèzhǒng bù jì piányi yòu jiēshí",
+   "meaning": "Thứ vải này đã rẽ lại bền."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "爱国",
+    "竞赛",
+    "的",
+    "目的",
+    "是",
+    "什么"
+   ],
+   "reading": "àiguó jìngsài de mùdì shì shénme",
+   "meaning": "Mục đích thi đua ái quốc là gì?"
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  }
+ ],
+ "issues": []
+}

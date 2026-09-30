@@ -1,0 +1,318 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "madame",
+   "meaning": "danh hiệu chỉ một phụ nữ lớn tuổi",
+   "example": "Madame Lan from Vietnam",
+   "exampleMeaning": "Bà Lan người Việt Nam",
+   "emoji": "",
+   "ipa": "/ˈmædəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rightly",
+   "meaning": "phải, đúng, đúng đắn",
+   "example": "Let's learn the word \"rightly\".",
+   "exampleMeaning": "Cùng học từ “rightly”: phải, đúng, đúng đắn.",
+   "emoji": "",
+   "ipa": "/ˈraɪtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rehabilitation",
+   "meaning": "sự phục hồi",
+   "example": "Let's learn the word \"rehabilitation\".",
+   "exampleMeaning": "Cùng học từ “rehabilitation”: sự phục hồi.",
+   "emoji": "",
+   "ipa": "/ˌriəˌbɪləˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exclude",
+   "meaning": "không cho (ai... ) vào (một nơi nào... )",
+   "example": "to exclude somebody from a house",
+   "exampleMeaning": "Đuổi ai ra khỏi nhà",
+   "emoji": "",
+   "ipa": "/ɪkˈsklud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "suspicious",
+   "meaning": "đáng ngờ, khả nghi",
+   "example": "under suspicious circumstances",
+   "exampleMeaning": "Trong những điều kiện đáng ngờ",
+   "emoji": "",
+   "ipa": "/səˈspɪʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "residence",
+   "meaning": "nhà",
+   "example": "to take up one's residence in the country",
+   "exampleMeaning": "Về ở nông thôn",
+   "emoji": "",
+   "ipa": "/ˈrɛzɪdəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "petrified",
+   "meaning": "biến thành đá",
+   "example": "Let's learn the word \"petrified\".",
+   "exampleMeaning": "Cùng học từ “petrified”: biến thành đá.",
+   "emoji": "",
+   "ipa": "/ˈpɛtrəˌfaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prevention",
+   "meaning": "sự ngăn cản, sự ngăn trở, sự ngăn ngừa",
+   "example": "Prevention is better than cure.",
+   "exampleMeaning": "Phòng bệnh hơn chữa bệnh.",
+   "emoji": "",
+   "ipa": "/priˈvɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unimaginably",
+   "meaning": "không thể tưởng tượng được",
+   "example": "Let's learn the word \"unimaginably\".",
+   "exampleMeaning": "Cùng học từ “unimaginably”: không thể tưởng tượng được.",
+   "emoji": "",
+   "ipa": "/ˌʌnɪmˈædʒɪnəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "carbon dioxide",
+   "meaning": "khí cacbon",
+   "example": "There is no life without carbon dioxide.",
+   "exampleMeaning": "Sự sống không thể tồn tại nếu thiếu cacbon điôxit.",
+   "emoji": "",
+   "ipa": "/ˈkɑrbən daɪˈɑkˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "initiative",
+   "meaning": "sáng kiến, óc sáng kiến",
+   "example": "to take the initiative in something",
+   "exampleMeaning": "Dẫn đầu trong việc gì, làm đầu tàu trong việc gì; khởi xướng việc gì",
+   "emoji": "",
+   "ipa": "/ˌɪˈnɪʃətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "weave",
+   "meaning": "đan, kết lại",
+   "example": "to weave facts into a story",
+   "exampleMeaning": "Lấy sự việc kết lại thành một câu chuyện",
+   "emoji": "",
+   "ipa": "/ˈwiv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flax",
+   "meaning": "cây lanh",
+   "example": "Let's learn the word \"flax\".",
+   "exampleMeaning": "Cùng học từ “flax”: cây lanh.",
+   "emoji": "",
+   "ipa": "/ˈflæks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "regardless",
+   "meaning": "bất chấp",
+   "example": "he just went ahead regardless of consequences",
+   "exampleMeaning": "Hắn cứ tiến hành bất chấp hậu quả",
+   "emoji": "",
+   "ipa": "/rəˈɡɑrdləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "refute",
+   "meaning": "bác, bẻ lại",
+   "example": "to refute someone's argument",
+   "exampleMeaning": "Bác lý lẽ của ai",
+   "emoji": "",
+   "ipa": "/rɪfˈjut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "motorbike",
+   "meaning": "xe gắn máy",
+   "example": "My motorbike uses up a lot of gas.",
+   "exampleMeaning": "Xe gắn máy của tôi ngốn rất nhiều xăng.",
+   "emoji": "",
+   "ipa": "/ˈmoʊtɜrˌbaɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unenthusiastic",
+   "meaning": "không hăng hái, không nhiệt tình",
+   "example": "Let's learn the word \"unenthusiastic\".",
+   "exampleMeaning": "Cùng học từ “unenthusiastic”: không hăng hái, không nhiệt tình.",
+   "emoji": "",
+   "ipa": "/ənɪnˌθuziˈæstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exclaim",
+   "meaning": "kêu lên, la lên",
+   "example": "Let's learn the word \"exclaim\".",
+   "exampleMeaning": "Cùng học từ “exclaim”: kêu lên, la lên.",
+   "emoji": "",
+   "ipa": "/ɪkˈskleɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inadequate",
+   "meaning": "không tương xứng, không xứng",
+   "example": "the inadequate settlement of a problem",
+   "exampleMeaning": "Việc giải quyết không thoả đáng một vấn đề",
+   "emoji": "",
+   "ipa": "/ˌɪˈnædəˌkweɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "evidently",
+   "meaning": "hiển nhiên, rõ ràng",
+   "example": "The situation is evidently pretty grim.",
+   "exampleMeaning": "Tình hình rõ ràng khá là khốc liệt.",
+   "emoji": "",
+   "ipa": "/ˈɛvədəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "still",
+    "suspicious"
+   ],
+   "reading": "",
+   "meaning": "Tôi vẫn còn nghi ngờ."
+  },
+  {
+   "tokens": [
+    "He",
+    "opposes",
+    "this",
+    "initiative"
+   ],
+   "reading": "",
+   "meaning": "Anh ta phản đối sáng kiến này."
+  },
+  {
+   "tokens": [
+    "I",
+    "admire",
+    "your",
+    "initiative"
+   ],
+   "reading": "",
+   "meaning": "Tôi ngưỡng mộ sáng kiến của cậu."
+  },
+  {
+   "tokens": [
+    "It",
+    "looks",
+    "extremely",
+    "suspicious"
+   ],
+   "reading": "",
+   "meaning": "Nó trông cực kì đáng ngờ."
+  },
+  {
+   "tokens": [
+    "It",
+    "looks",
+    "very",
+    "suspicious"
+   ],
+   "reading": "",
+   "meaning": "Nó trông rất đáng ngờ."
+  }
+ ],
+ "issues": []
+}

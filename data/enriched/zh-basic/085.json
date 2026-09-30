@@ -1,0 +1,332 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "试验",
+   "meaning": "thử nghiệm",
+   "example": "新办法要经过试验然后推广。",
+   "exampleMeaning": "Biện pháp mới phải qua thử nghiệm rồi sau đó mới được phổ biến rộng rãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìyàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成长",
+   "meaning": "trưởng thành",
+   "example": "前年裁的果树还没有成长。",
+   "exampleMeaning": "Cây ăn quả trồng năm ngoái vẫn chưa lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "游",
+   "meaning": "du",
+   "example": "我父亲会游泳但我母亲不会。",
+   "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "指导",
+   "meaning": "hướng dẫn",
+   "example": "教师正在指导学生做实验。",
+   "exampleMeaning": "Giáo viên đang hướng dẫn học sinh làm thí nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "食品",
+   "meaning": "thực phẩm",
+   "example": "罐头食品。",
+   "exampleMeaning": "Thực phẩm đồ hộp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shípǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大约",
+   "meaning": "chắc",
+   "example": "她一个人看来看去，大约看了半个小时。",
+   "exampleMeaning": "Cô ngắm đi ngắm lại một mình độ nửa giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàyuē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "联合",
+   "meaning": "đoàn kết",
+   "example": "全世界无产者，联合起来！",
+   "exampleMeaning": "Những người vô sản trên toàn thế giới, hãy đoàn kết lại!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "铁",
+   "meaning": "nghiêm túc",
+   "example": "我怎么比得上你呢，你有个铁饭碗，饿不着！",
+   "exampleMeaning": "Tớ làm sao sánh với cậu được, cậu có cái cần câu cơm vững chắc, không đói được đâu!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiě",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "录",
+   "meaning": "ghi (băng từ)",
+   "example": "有闻必录。",
+   "exampleMeaning": "Ghi chép thông tin; ghi lại những gì nghe được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提前",
+   "meaning": "sớm",
+   "example": "提前完成任务",
+   "exampleMeaning": "Hoàn thành nhiệm vụ trước thời hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "组合",
+   "meaning": "tổ hợp (tổ hợp thành chỉnh thể)",
+   "example": "这里你可以看到漂亮的颜色组合。",
+   "exampleMeaning": "Bạn có thể thấy một tổ hợp màu rất đẹp ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "积极",
+   "meaning": "tích cực",
+   "example": "人人都积极参加劳动。",
+   "exampleMeaning": "Ai ai cũng hăng hái tham gia lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jījí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "强烈",
+   "meaning": "rõ ràng",
+   "example": "太阳光十分强烈。",
+   "exampleMeaning": "Ánh sáng mặt trời mãnh liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángliè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "争取",
+   "meaning": "thực hiện",
+   "example": "争取提前完成计划。",
+   "exampleMeaning": "Ra sức thực hiện hoàn thành kế hoạch trước thời hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汤",
+   "meaning": "xúp, canh",
+   "example": "你真的拥抱汤姆？",
+   "exampleMeaning": "Cậu thật sự ôm Tom?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恐怕",
+   "meaning": "sợ rằng",
+   "example": "这样做，效果恐怕不好。",
+   "exampleMeaning": "Làm như vậy sợ rằng hiệu quả không tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒngpà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "搬",
+   "meaning": "dọn",
+   "example": "把小说里的故事搬到舞台上",
+   "exampleMeaning": "Đưa câu chuyện trong tiểu thuyết lên sân khấu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自从",
+   "meaning": "từ",
+   "example": "我自从参加了体育锻炼，身体强健多了。",
+   "exampleMeaning": "Tôi từ khi tham gia tập thể dục, đã khoẻ nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìcóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "命运",
+   "meaning": "vận mệnh",
+   "example": "中国人民已经掌握了自己的命运。",
+   "exampleMeaning": "Nhân dân Trung Quốc đã nắm chắc được vận mệnh của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìngyùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "女子",
+   "meaning": "giới nữ",
+   "example": "我们来学“女子”这个词。",
+   "exampleMeaning": "Cùng học từ “女子”: giới nữ.",
+   "emoji": "👩",
+   "ipa": "",
+   "pinyin": "nǚzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "不",
+    "喜欢",
+    "汤姆"
+   ],
+   "reading": "tāmen bù xǐhuan tāngmǔ",
+   "meaning": "Họ không thích Tom."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "是",
+    "我",
+    "朋友",
+    "的",
+    "朋友"
+   ],
+   "reading": "tāngmǔ shì wǒ péngyou de péngyou",
+   "meaning": "Tom là bạn của bạn tôi."
+  },
+  {
+   "tokens": [
+    "我们",
+    "都",
+    "是",
+    "汤姆",
+    "的",
+    "同学"
+   ],
+   "reading": "wǒmen dōu shì tāngmǔ de tóngxué",
+   "meaning": "Chúng tôi đều là bạn học của Tom."
+  },
+  {
+   "tokens": [
+    "汤",
+    "尼",
+    "英语",
+    "说",
+    "得",
+    "和",
+    "你",
+    "一样",
+    "好"
+   ],
+   "reading": "tāng ní yīngyǔ shuō de hé nǐ yīyàng hǎo",
+   "meaning": "Tony nói tiếng Anh tốt giống như bạn vậy."
+  },
+  {
+   "tokens": [
+    "这",
+    "小伙子",
+    "既",
+    "能干",
+    "又",
+    "积极",
+    "真是",
+    "没说的"
+   ],
+   "reading": "zhè xiǎohuǒzi jì nénggàn yòu jījí zhēnshi méishuōde",
+   "meaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được."
+  }
+ ],
+ "issues": []
+}

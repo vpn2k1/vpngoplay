@@ -1,0 +1,335 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "保持",
+   "meaning": "giữ",
+   "example": "跟群众保持密切联系",
+   "exampleMeaning": "Giữ liên hệ chặt chẽ với quần chúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎochí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "代表",
+   "meaning": "thay mặt",
+   "example": "副部长代表部长主持开幕典礼。",
+   "exampleMeaning": "Thứ trưởng thay mặt bộ trưởng chủ trì lễ khai mạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàibiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "突然",
+   "meaning": "bỗng nhiên",
+   "example": "突然天下起雨来。",
+   "exampleMeaning": "Bỗng nhiên trời mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tūrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "里面",
+   "meaning": "bên trong",
+   "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
+   "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "确定",
+   "meaning": "xác định",
+   "example": "确定了工作之后就上班。",
+   "exampleMeaning": "Sau khi xác định xong công việc sẽ đi làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quèdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "目标",
+   "meaning": "mục tiêu",
+   "example": "改革者的目标是要改进政府。",
+   "exampleMeaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùbiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "任务",
+   "meaning": "nhiệm vụ",
+   "example": "本校今年的招生任务是五百名。",
+   "exampleMeaning": "Nhiệm vụ chiêu sinh năm nay của trường là năm trăm người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènwu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "容易",
+   "meaning": "dễ dàng, có thể, thoải mái",
+   "example": "John 這人不容易說服。",
+   "exampleMeaning": "Thuyết phục John là một việc khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "联系",
+   "meaning": "liên hệ",
+   "example": "他们俩工作上联系多，经常打交道。",
+   "exampleMeaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánxì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "合作",
+   "meaning": "hợp tác",
+   "example": "所以别人都不愿意和你合作。",
+   "exampleMeaning": "Vì vậy họ đều không muốn hợp tác với anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hézuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "因此",
+   "meaning": "do đó",
+   "example": "减了税，因此怨声也少些了。",
+   "exampleMeaning": "Giảm thuế do đó tiếng oán than cũng vơi đi nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīncǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人员",
+   "meaning": "nhân viên",
+   "example": "机关工作人员。",
+   "exampleMeaning": "Nhân viên công tác trong cơ quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rényuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "按",
+   "meaning": "gõ",
+   "example": "别着急，你要的电影票我给你按时送到就是了。",
+   "exampleMeaning": "Đừng vội, cái vé xem phim cậu muốn tớ sẽ gửi đến đúng giờ cho cậu là được chứ gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "线",
+   "meaning": "tuyến (giao thông)",
+   "example": "宝成线(宝鸡到成都的铁路)。",
+   "exampleMeaning": "Tuyến đường sắt Bảo Thành (tuyến đường sắt từ Bảo Kê đi Thành Đô)",
+   "emoji": "🧵",
+   "ipa": "",
+   "pinyin": "xiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "报告",
+   "meaning": "báo cáo",
+   "example": "你应当把事情的经过向领导报告",
+   "exampleMeaning": "Anh nên báo cáo những sự việc đã xảy ra cho lãnh đạo biết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàogào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "台",
+   "meaning": "bàn",
+   "example": "我的阿姨給了我一台攝影機。",
+   "exampleMeaning": "Dì của tôi đã gửi cho tôi một cái máy quay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tái",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生命",
+   "meaning": "sinh mệnh",
+   "example": "学习古人语言中有生命的东西。",
+   "exampleMeaning": "Học tập những cái còn sức sống trong ngôn ngữ người xưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngmìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明显",
+   "meaning": "nổi bật, trong trẻo, trong sạch",
+   "example": "字迹明显。",
+   "exampleMeaning": "Nét chữ rõ ràng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngxiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伤",
+   "meaning": "làm tổn thương, làm hại, làm bị thương",
+   "example": "为女儿婚事，很伤脑筋。",
+   "exampleMeaning": "Vì chuyện hôn sự của con gái mà rất đau đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "曾经",
+   "meaning": "đã từng",
+   "example": "他曾经多次立过战功",
+   "exampleMeaning": "Anh ấy đã từng nhiều lần lập chiến công",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "céngjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "为",
+    "女儿",
+    "婚事",
+    "很",
+    "伤脑筋"
+   ],
+   "reading": "wèi nǚér hūnshì hěn shāngnǎojīn",
+   "meaning": "Vì chuyện hôn sự của con gái mà rất đau đầu."
+  },
+  {
+   "tokens": [
+    "这",
+    "门",
+    "从",
+    "里面",
+    "被",
+    "反锁",
+    "了"
+   ],
+   "reading": "zhè mén cóng lǐmiàn bèi fǎnsuǒ le",
+   "meaning": "Cái cửa này bị khóa bên trong."
+  },
+  {
+   "tokens": [
+    "所以",
+    "别人",
+    "都",
+    "不",
+    "愿意",
+    "和",
+    "你",
+    "合作"
+   ],
+   "reading": "suǒyǐ biéren dōu bù yuànyì hé nǐ hézuò",
+   "meaning": "Vì vậy họ đều không muốn hợp tác với anh."
+  },
+  {
+   "tokens": [
+    "改革者",
+    "的",
+    "目标",
+    "是",
+    "要",
+    "改进",
+    "政府"
+   ],
+   "reading": "gǎigézhě de mùbiāo shì yào gǎijìn zhèngfǔ",
+   "meaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "阿姨",
+    "给",
+    "了",
+    "我",
+    "一",
+    "台",
+    "摄影机"
+   ],
+   "reading": "wǒ de āyí gěi le wǒ yī tái shèyǐngjī",
+   "meaning": "Dì của tôi đã gửi cho tôi một cái máy quay."
+  }
+ ],
+ "issues": []
+}

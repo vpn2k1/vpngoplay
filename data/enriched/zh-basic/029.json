@@ -1,0 +1,323 @@
+{
+ "lesson": 29,
+ "draft": true,
+ "words": [
+  {
+   "term": "过去",
+   "meaning": "qua",
+   "example": "你在这里等着，我过去看看。",
+   "exampleMeaning": "Anh đợi ở đây, tôi qua xem thử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "参加",
+   "meaning": "tham gia, tham dự",
+   "example": "人人都积极参加劳动。",
+   "exampleMeaning": "Ai ai cũng hăng hái tham gia lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cānjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "安全",
+   "meaning": "an toàn",
+   "example": "司機應該繫安全帶。",
+   "exampleMeaning": "Những người lái xe phải thắt dây an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānquán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "结果",
+   "meaning": "kết quả",
+   "example": "经过一番争论，结果他还是让步了。",
+   "exampleMeaning": "Thông qua cuộc tranh luận, rốt cuộc anh ấy đã nhượng bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéguǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "或者",
+   "meaning": "hoặc",
+   "example": "你快走，或者还赶得上车。",
+   "exampleMeaning": "Anh đi nhanh lên, có lẽ kịp chuyến xe đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不错",
+   "meaning": "phải",
+   "example": "你这房子真不错！",
+   "exampleMeaning": "Căn phòng này của bạn rất đẹp!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùcuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "机会",
+   "meaning": "cơ hội",
+   "example": "千载一时的好机会。",
+   "exampleMeaning": "Cơ hội ngàn năm có một.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "完全",
+   "meaning": "trọn vẹn, hoàn toàn",
+   "example": "话还没说完全。",
+   "exampleMeaning": "Ý nói chưa đầy đủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánquán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "完",
+   "meaning": "kết thúc, làm xong, nộp (tô, thuế)",
+   "example": "我想自己把工作做完。",
+   "exampleMeaning": "Tôi muốn tự tay hoàn thành công việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "发",
+   "meaning": "phát (khói, hơi)",
+   "example": "沸水蒸发成气体。",
+   "exampleMeaning": "Nước sôi bốc thành hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "计划",
+   "meaning": "kế hoạch",
+   "example": "要努力完成计划。",
+   "exampleMeaning": "Hãy ra sức hoàn thành kế hoạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "可是",
+   "meaning": "hay",
+   "example": "可是太贵了！",
+   "exampleMeaning": "Nhưng mà nó đắt quá!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全",
+   "meaning": "cả",
+   "example": "那么多的工作已经把时间全占用了。",
+   "exampleMeaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以后",
+   "meaning": "sau, đằng sau",
+   "example": "以后，我们还要研究这个问题。",
+   "exampleMeaning": "Sau này chúng ta còn phải nghiên cứu vấn đề này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "要求",
+   "meaning": "yêu cầu",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yāoqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "信",
+   "meaning": "tin cậy, tín nhiệm, thư tín",
+   "example": "你相信他在说实话吗？",
+   "exampleMeaning": "Bạn có tin ông ta đang nói sự thật không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "队",
+   "meaning": "đội, tổ",
+   "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
+   "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "接",
+   "meaning": "tiếp, tiếp đón, tiếp đãi",
+   "example": "我接种了流感疫苗。",
+   "exampleMeaning": "Tôi đã tiêm vắc-xin phòng cúm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "相信",
+   "meaning": "tin tưởng, tin chắc",
+   "example": "人人都愿意相信美梦可以成真。",
+   "exampleMeaning": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "刚",
+   "meaning": "vừa",
+   "example": "你刚说的是什么地方？",
+   "exampleMeaning": "Chỗ anh vừa nói là đâu hả anh?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "是",
+    "安全",
+    "的"
+   ],
+   "reading": "nǐ shì ānquán de",
+   "meaning": "Bạn an toàn rồi."
+  },
+  {
+   "tokens": [
+    "要",
+    "努力",
+    "完成",
+    "计划"
+   ],
+   "reading": "yào nǔlì wánchéng jìhuà",
+   "meaning": "Hãy ra sức hoàn thành kế hoạch."
+  },
+  {
+   "tokens": [
+    "我",
+    "知道",
+    "相信",
+    "这一点"
+   ],
+   "reading": "wǒ zhīdào xiāngxìn zhèyīdiǎn",
+   "meaning": "Tôi được biết tin đó."
+  },
+  {
+   "tokens": [
+    "人人",
+    "都",
+    "愿意",
+    "相信",
+    "美",
+    "梦",
+    "可以",
+    "成真"
+   ],
+   "reading": "rénrén dōu yuànyì xiāngxìn měi mèng kěyǐ chéngzhēn",
+   "meaning": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực."
+  },
+  {
+   "tokens": [
+    "司机",
+    "应该",
+    "系",
+    "安全带"
+   ],
+   "reading": "sījī yīnggāi jì ānquándài",
+   "meaning": "Những người lái xe phải thắt dây an toàn."
+  }
+ ],
+ "issues": []
+}

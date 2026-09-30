@@ -1,0 +1,322 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "crab",
+   "meaning": "cua",
+   "example": "She is peeling crab shells.",
+   "exampleMeaning": "Cô ấy đang bóc yếm cua.",
+   "emoji": "🦀",
+   "ipa": "/ˈkræb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "phase",
+   "meaning": "giai đoạn",
+   "example": "Let's learn the word \"phase\".",
+   "exampleMeaning": "Cùng học từ “phase”: giai đoạn.",
+   "emoji": "",
+   "ipa": "/ˈfeɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "erase",
+   "meaning": "xoá, xoá bỏ",
+   "example": "I wish I could erase every memory of you from my mind.",
+   "exampleMeaning": "Ước gì tôi có thể xoá hết kí ức về bạn ra khỏi tâm trí tôi.",
+   "emoji": "",
+   "ipa": "/iˈreɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "comprehensive",
+   "meaning": "mau hiểu, thông minh, lĩnh hội nhanh",
+   "example": "to have a comprehensive mind",
+   "exampleMeaning": "Mau hiểu, sáng ý",
+   "emoji": "",
+   "ipa": "/ˌkɑmpriˈhɛnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gorge",
+   "meaning": "ngốn",
+   "example": "to raise the gorge",
+   "exampleMeaning": "Nổi giận",
+   "emoji": "",
+   "ipa": "/ɡɔːdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "stain",
+   "meaning": "vết nhơ, vết đen",
+   "example": "How did you stain your dress?",
+   "exampleMeaning": "Thế nào mà mày đã làm ố cái áo?",
+   "emoji": "",
+   "ipa": "/ˈsteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "version",
+   "meaning": "bản",
+   "example": "I need the new version no matter what.",
+   "exampleMeaning": "Tôi muốn có phiên bản mới bằng bất cứ giá nào.",
+   "emoji": "",
+   "ipa": "/ˈvɜrʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "doorkeeper",
+   "meaning": "người trực cửa (tòa nhà lớn...)",
+   "example": "Let's learn the word \"doorkeeper\".",
+   "exampleMeaning": "Cùng học từ “doorkeeper”: người trực cửa (tòa nhà lớn...).",
+   "emoji": "",
+   "ipa": "/ˈdɔrˌkipɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "masterpiece",
+   "meaning": "kiệt tác, tác phẩm lớn",
+   "example": "Let's learn the word \"masterpiece\".",
+   "exampleMeaning": "Cùng học từ “masterpiece”: kiệt tác, tác phẩm lớn.",
+   "emoji": "",
+   "ipa": "/ˈmæstɜrˌpis/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "glow",
+   "meaning": "sáng",
+   "example": "the red glow of the setting sun",
+   "exampleMeaning": "Ánh sáng đỏ rực của mặt trời lặn",
+   "emoji": "",
+   "ipa": "/ˈɡloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "millimeter",
+   "meaning": "milimet",
+   "example": "Let's learn the word \"millimeter\".",
+   "exampleMeaning": "Cùng học từ “millimeter”: milimet.",
+   "emoji": "",
+   "ipa": "/ˈmɪləˌmitɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pajamas",
+   "meaning": "pijama, quần áo ngủ",
+   "example": "Let's learn the word \"pajamas\".",
+   "exampleMeaning": "Cùng học từ “pajamas”: pijama, quần áo ngủ.",
+   "emoji": "",
+   "ipa": "/pəˈdʒæməz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rhythmic",
+   "meaning": "có nhịp điệu",
+   "example": "Let's learn the word \"rhythmic\".",
+   "exampleMeaning": "Cùng học từ “rhythmic”: có nhịp điệu.",
+   "emoji": "",
+   "ipa": "/ˈrɪðmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "heritage",
+   "meaning": "tài sản thừa kế, di sản",
+   "example": "This building is a UNESCO World Heritage site.",
+   "exampleMeaning": "Công trình này là Di sản Thế giới UNESCO.",
+   "emoji": "",
+   "ipa": "/ˈhɛrətədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "symbolic",
+   "meaning": "tượng trưng",
+   "example": "Let's learn the word \"symbolic\".",
+   "exampleMeaning": "Cùng học từ “symbolic”: tượng trưng.",
+   "emoji": "",
+   "ipa": "/sɪmˈbɑlɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scandal",
+   "meaning": "sự tai tiếng",
+   "example": "it is a scandal that such things should be possible",
+   "exampleMeaning": "Để xảy ra những việc như thế thật là xấu xa",
+   "emoji": "",
+   "ipa": "/ˈskændəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ambassador",
+   "meaning": "đại sứ",
+   "example": "to act as somebody's ambassador",
+   "exampleMeaning": "Làm đại diện cho ai",
+   "emoji": "",
+   "ipa": "/æmˈbæsədɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "corruption",
+   "meaning": "tham nhũng",
+   "example": "Let's learn the word \"corruption\".",
+   "exampleMeaning": "Cùng học từ “corruption”: tham nhũng.",
+   "emoji": "",
+   "ipa": "/kɜrˈəpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mask",
+   "meaning": "mặt nạ",
+   "example": "Tom took his mask off.",
+   "exampleMeaning": "Tom đã tháo mặt nạ ra rồi đấy.",
+   "emoji": "",
+   "ipa": "/ˈmæsk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nuisance",
+   "meaning": "mối gây thiệt hại, mối gây khó chịu",
+   "example": "what a nuisance!",
+   "exampleMeaning": "Thật phiền!, thật rầy rà!, thật khó chịu!",
+   "emoji": "",
+   "ipa": "/ˈnusəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Power",
+    "brings",
+    "corruption"
+   ],
+   "reading": "",
+   "meaning": "Quyền lực mang đến tham nhũng."
+  },
+  {
+   "tokens": [
+    "He",
+    "caught",
+    "a",
+    "crab"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy bắt được một con cua."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "peeling",
+    "crab",
+    "shells"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang bóc yếm cua."
+  },
+  {
+   "tokens": [
+    "This",
+    "really",
+    "is",
+    "a",
+    "masterpiece"
+   ],
+   "reading": "",
+   "meaning": "Đây quả là một kiệt tác."
+  },
+  {
+   "tokens": [
+    "How",
+    "did",
+    "you",
+    "stain",
+    "your",
+    "dress"
+   ],
+   "reading": "",
+   "meaning": "Thế nào mà mày đã làm ố cái áo?"
+  }
+ ],
+ "issues": []
+}

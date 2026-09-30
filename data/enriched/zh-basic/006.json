@@ -1,0 +1,326 @@
+{
+ "lesson": 6,
+ "draft": true,
+ "words": [
+  {
+   "term": "车",
+   "meaning": "xe, xe cộ",
+   "example": "这条路上的车辆不多。",
+   "exampleMeaning": "Con đường này không có nhiều xe đi lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一些",
+   "meaning": "một chút",
+   "example": "我们想学一些日文歌曲。",
+   "exampleMeaning": "Chúng tôi muốn học những bài hát tiếng Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "找到",
+   "meaning": "tìm được, tìm thấy, tìm ra",
+   "example": "我们来学“找到”这个词。",
+   "exampleMeaning": "Cùng học từ “找到”: tìm được, tìm thấy, tìm ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎodào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手",
+   "meaning": "tài",
+   "example": "他是我的手下。",
+   "exampleMeaning": "Nó là thuộc hạ của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "听",
+   "meaning": "lắng nghe, hộp, để cho",
+   "example": "听到消息，她晕倒了。",
+   "exampleMeaning": "Nghe được tin, nó liền té xỉu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "非常",
+   "meaning": "rất",
+   "example": "那个老人非常 亲切。",
+   "exampleMeaning": "Ông già đó rất nhiệt tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēicháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "开",
+   "meaning": "mở, bắt đầu, khai mạc",
+   "example": "本次列车开往中山公园。",
+   "exampleMeaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "叫",
+   "meaning": "là",
+   "example": "事先打个招呼，别叫我临时抓瞎。",
+   "exampleMeaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "孩子",
+   "meaning": "con",
+   "example": "他还是个孩子，犯不上跟他生气。",
+   "exampleMeaning": "Nó vẫn còn là đứa trẻ con, không đáng tức giận với nó.",
+   "emoji": "🧒",
+   "ipa": "",
+   "pinyin": "háizi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "这里",
+   "meaning": "đây, ở đây, ở chỗ này",
+   "example": "他来这里的目的是什么？",
+   "exampleMeaning": "Anh ta đến đây vì mục đích gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "别",
+   "meaning": "nữa, thêm... nữa",
+   "example": "别让狗进来。",
+   "exampleMeaning": "Không được cho chó vào bên trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bié",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "请",
+   "meaning": "mời",
+   "example": "我会拒绝他吃晚饭的邀请。",
+   "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "钱",
+   "meaning": "tiền, tiền tệ",
+   "example": "汤姆把他的所有钱都给了玛丽。",
+   "exampleMeaning": "Tom đưa cho Mary toàn bộ số tiền mà ông ấy có.",
+   "emoji": "🪙",
+   "ipa": "",
+   "pinyin": "qián",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本",
+   "meaning": "vốn",
+   "example": "你吃過日本料理嗎？",
+   "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "回",
+   "meaning": "lần (lượng từ)",
+   "example": "我很快就會回來。",
+   "exampleMeaning": "Con sẽ trở về sớm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "东西",
+   "meaning": "đồ, vật, thứ",
+   "example": "我朋友哪里买过什么东西！",
+   "exampleMeaning": "Bạn tôi có mua gì đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngxi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "三",
+   "meaning": "ba",
+   "example": "他童年時去過巴黎三次。",
+   "exampleMeaning": "Hồi nhỏ, anh ta đã đi Paris ba lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一样",
+   "meaning": "giống nhau, như nhau, không thay đổi",
+   "example": "我也和你想的一样。",
+   "exampleMeaning": "Tôi cũng nghĩ như anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "买",
+   "meaning": "mua",
+   "example": "我买到了一辆新摩托车。",
+   "exampleMeaning": "Tôi mua được một cái mô-tô mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "重要",
+   "meaning": "quan trọng",
+   "example": "变量的声明在C和C++中极其重要。",
+   "exampleMeaning": "Khai báo biến trong C/C++ vô cùng quan trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngyào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "本",
+    "次",
+    "列车",
+    "开往",
+    "中山",
+    "公园"
+   ],
+   "reading": "běn cì lièchē kāiwǎng zhōngshān gōngyuán",
+   "meaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan."
+  },
+  {
+   "tokens": [
+    "我",
+    "有一些",
+    "钱"
+   ],
+   "reading": "wǒ yǒuyīxiē qián",
+   "meaning": "Tôi chỉ mang theo một ít tiền."
+  },
+  {
+   "tokens": [
+    "你",
+    "该",
+    "买",
+    "辆",
+    "新",
+    "车",
+    "了"
+   ],
+   "reading": "nǐ gāi mǎi liàng xīn chē le",
+   "meaning": "Bạn nên mua một chiếc xe mới rồi."
+  },
+  {
+   "tokens": [
+    "他们",
+    "在",
+    "储",
+    "钱",
+    "买",
+    "房子"
+   ],
+   "reading": "tāmen zài chǔ qián mǎi fángzi",
+   "meaning": "Họ đang tiết kiệm tiền để mua một căn nhà."
+  },
+  {
+   "tokens": [
+    "我",
+    "父亲",
+    "开车",
+    "去",
+    "上班"
+   ],
+   "reading": "wǒ fùqin kāichē qù shàngbān",
+   "meaning": "Ba tui đi làm bằng xe hơi."
+  }
+ ],
+ "issues": []
+}

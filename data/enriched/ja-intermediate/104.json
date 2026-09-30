@@ -1,0 +1,335 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "実業家",
+   "meaning": "nhà công nghiệp",
+   "example": "シルヴィオ・ベルルスコーニはイタリアの政治家、現在のイタリア首相、また成功した実業家。",
+   "exampleMeaning": "Silvio Berlusconi là một chính trị gia người Ý, Thủ tướng đương nhiệm của nước Ý, cũng như là một doanh nhân thành đạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "源",
+   "meaning": "nguồn, nguồn gốc",
+   "example": "貧乏は諸悪の根源。",
+   "exampleMeaning": "Bần cùng sinh đạo tặc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "変革",
+   "meaning": "sự đổi, sự thay đổi, sự biến đổi",
+   "example": "「変革」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “変革”: sự đổi, sự thay đổi, sự biến đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "適宜",
+   "meaning": "sự hợp, sự thích hợp",
+   "example": "「適宜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “適宜”: sự hợp, sự thích hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "投げ出す",
+   "meaning": "từ bỏ, nhả khớp, phát ra",
+   "example": "「投げ出す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “投げ出す”: từ bỏ, nhả khớp, phát ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "配給",
+   "meaning": "sự phân bổ hay sự phân bố, sự phân phối",
+   "example": "「配給」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “配給”: sự phân bổ hay sự phân bố, sự phân phối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国連",
+   "meaning": "liên hợp quốc",
+   "example": "国連のビルは１９５２年に建てられた。",
+   "exampleMeaning": "Tòa nhà Liên Hợp Quốc được xây vào năm 1952.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特産",
+   "meaning": "hợp đồng (đặc biệt) có đóng dấu",
+   "example": "「特産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特産”: hợp đồng (đặc biệt) có đóng dấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "念",
+   "meaning": "giác quan",
+   "example": "念のため傘持って行ったら？",
+   "exampleMeaning": "Để đề phòng thì bạn có thể mang ô theo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "即する",
+   "meaning": "làm cho hợp với, làm cho phù hợp với",
+   "example": "「即する」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “即する”: làm cho hợp với, làm cho phù hợp với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定食",
+   "meaning": "bữa cơm (trưa, chiều)",
+   "example": "「定食」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定食”: bữa cơm (trưa, chiều).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "セックス",
+   "meaning": "giới tính",
+   "example": "「セックス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “セックス”: giới tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ポンプ",
+   "meaning": "giày nhảy (khiêu vũ)",
+   "example": "「ポンプ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ポンプ”: giày nhảy (khiêu vũ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惜しむ",
+   "meaning": "căn cơ",
+   "example": "「惜しむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “惜しむ”: căn cơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "昇進",
+   "meaning": "sự thăng cấp, sự đẩy mạnh, sự xúc tiến",
+   "example": "彼は大佐に昇進した。",
+   "exampleMeaning": "Anh ấy được thăng cấp lên Đại tá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "了解",
+   "meaning": "sự hiểu, sự lĩnh hội, sự nhận thức",
+   "example": "「了解」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “了解”: sự hiểu, sự lĩnh hội, sự nhận thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "法学",
+   "meaning": "luật",
+   "example": "「法学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “法学”: luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進出",
+   "meaning": "sự thăng, chức, sự mở rộng",
+   "example": "「進出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進出”: sự thăng, chức, sự mở rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "監視",
+   "meaning": "sự quan sát, sự để ý, sự chú ý",
+   "example": "「監視」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “監視”: sự quan sát, sự để ý, sự chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放射能",
+   "meaning": "năng lực phóng xạ",
+   "example": "「放射能」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “放射能”: năng lực phóng xạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "残念",
+    "だが",
+    "お前",
+    "と",
+    "スーザン",
+    "は",
+    "結婚",
+    "できない"
+   ],
+   "reading": "ざんねんだがおまえとスーザンはけっこんできない",
+   "meaning": "Đáng tiếc thay, mày và Susan không thể kết hôn."
+  },
+  {
+   "tokens": [
+    "天然",
+    "自然",
+    "が",
+    "荒らされていく",
+    "の",
+    "は",
+    "残念な",
+    "こと",
+    "だ"
+   ],
+   "reading": "てんねんしぜんがあらされていくのはざんねんなことだ",
+   "meaning": "Lãng phí tài nguyên thiên nhiên lá một việc làm thật xấu hổ."
+  },
+  {
+   "tokens": [
+    "結局",
+    "法案",
+    "は",
+    "提出",
+    "断念",
+    "に",
+    "追い込まれた",
+    "のだった"
+   ],
+   "reading": "けっきょくほうあんはていしゅつだんねんにおいこまれたのだった",
+   "meaning": "Cuối cùng, dự thảo luật đó đã bị buộc phải bãi bỏ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "大佐",
+    "に",
+    "昇進",
+    "した"
+   ],
+   "reading": "かれはたいさにしょうしんした",
+   "meaning": "Anh ấy được thăng cấp lên Đại tá."
+  },
+  {
+   "tokens": [
+    "メアリー",
+    "は",
+    "日本語",
+    "が",
+    "話せる"
+   ],
+   "reading": "メアリーはにほんごがはなせる",
+   "meaning": "Mary biết nói tiếng Nhật."
+  }
+ ],
+ "issues": []
+}

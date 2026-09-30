@@ -1,0 +1,323 @@
+{
+ "lesson": 1,
+ "draft": true,
+ "words": [
+  {
+   "term": "征",
+   "meaning": "chứng minh",
+   "example": "我来，我见，我征服。",
+   "exampleMeaning": "Ta đến, ta thấy, ta chinh phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "注入",
+   "meaning": "khắc sâu",
+   "example": "家庭教育可给子女注入基本道德观念。",
+   "exampleMeaning": "Giáo dục của gia đình đã khắc sâu vào quan niệm đạo đức cơ bản của con cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "坦克",
+   "meaning": "xe tăng (Anh: tank)",
+   "example": "我们来学“坦克”这个词。",
+   "exampleMeaning": "Cùng học từ “坦克”: xe tăng (Anh: tank).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǎnkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自称",
+   "meaning": "tự xưng",
+   "example": "项羽自称西楚霸王。",
+   "exampleMeaning": "Hạng Vũ tự xưng là Tây Sở Bá Vương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìchēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毁灭",
+   "meaning": "tiêu diệt",
+   "example": "毁灭罪恶势力",
+   "exampleMeaning": "Tiêu diệt thế lực tội ác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǐmiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "被捕",
+   "meaning": "bị bắt",
+   "example": "我们来学“被捕”这个词。",
+   "exampleMeaning": "Cùng học từ “被捕”: bị bắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèibǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乐意",
+   "meaning": "hài lòng",
+   "example": "这件事只要你乐意办，保险办得好。",
+   "exampleMeaning": "Chuyện này chỉ có bạn vui lòng làm, bảo đảm sẽ làm rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哭泣",
+   "meaning": "khóc thút thít",
+   "example": "低声哭泣。",
+   "exampleMeaning": "Khóc thút thít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kūqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "筹码",
+   "meaning": "thẻ đánh bạc",
+   "example": "我们来学“筹码”这个词。",
+   "exampleMeaning": "Cùng học từ “筹码”: thẻ đánh bạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóumǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瞄准",
+   "meaning": "ngắm trúng",
+   "example": "把枪口瞄准侵略者。",
+   "exampleMeaning": "Ngắm súng đúng quân xâm lược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miáozhǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脑海",
+   "meaning": "tâm, tâm trí, tinh thần",
+   "example": "烈士英勇的形象涌现在我的脑海。",
+   "exampleMeaning": "Hình tượng những anh hùng liệt sĩ hiện lên trong tâm trí tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎohǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水晶",
+   "meaning": "thạch anh",
+   "example": "我们来学“水晶”这个词。",
+   "exampleMeaning": "Cùng học từ “水晶”: thạch anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "双重",
+   "meaning": "đôi, hai, kép",
+   "example": "双重领导。",
+   "exampleMeaning": "Sự lãnh đạo hai đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāngchóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有助于",
+   "meaning": "có lợi cho",
+   "example": "我们来学“有助于”这个词。",
+   "exampleMeaning": "Cùng học từ “有助于”: có lợi cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuzhùyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捅",
+   "meaning": "chọc, đâm, thúc",
+   "example": "他把窗户纸捅了个大窟窿。",
+   "exampleMeaning": "Nó chọc thủng một lỗ trên giấy dán cửa sổ rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "掩饰",
+   "meaning": "biện pháp hay cái che đậy (thường) là một tội ác, lý do đưa ra để che đậy",
+   "example": "我们来学“掩饰”这个词。",
+   "exampleMeaning": "Cùng học từ “掩饰”: biện pháp hay cái che đậy (thường) là một tội ác, lý do đưa ra để che đậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "掩盖",
+   "meaning": "giấu giếm, giấu, trốn",
+   "example": "掩盖不住内心的喜悦。",
+   "exampleMeaning": "Không che giấu được niềm hân hoan trong lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎngài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "标签",
+   "meaning": "nhãn",
+   "example": "我们来学“标签”这个词。",
+   "exampleMeaning": "Cùng học từ “标签”: nhãn.",
+   "emoji": "🏷",
+   "ipa": "",
+   "pinyin": "biāoqiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "演习",
+   "meaning": "diễn tập (thường chỉ quân sự)",
+   "example": "海军演习",
+   "exampleMeaning": "Hải quân diễn tập",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnxí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "艾滋病",
+   "meaning": "bệnh xi-đa",
+   "example": "我们来学“艾滋病”这个词。",
+   "exampleMeaning": "Cùng học từ “艾滋病”: bệnh xi-đa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àizībìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "我",
+    "来",
+    "我",
+    "见",
+    "我",
+    "征服"
+   ],
+   "reading": "wǒ lái wǒ jiàn wǒ zhēngfú",
+   "meaning": "Ta đến, ta thấy, ta chinh phục."
+  },
+  {
+   "tokens": [
+    "别",
+    "逼",
+    "我"
+   ],
+   "reading": "bié bī wǒ",
+   "meaning": "Đừng ép tôi!"
+  },
+  {
+   "tokens": [
+    "他",
+    "疯",
+    "了"
+   ],
+   "reading": "tā fēng le",
+   "meaning": "Anh ta điên rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  }
+ ],
+ "issues": []
+}

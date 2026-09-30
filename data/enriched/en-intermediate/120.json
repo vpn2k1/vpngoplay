@@ -1,0 +1,328 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "pedal",
+   "meaning": "bàn đạp (xe đạp, đàn pianô)",
+   "example": "Let's learn the word \"pedal\".",
+   "exampleMeaning": "Cùng học từ “pedal”: bàn đạp (xe đạp, đàn pianô).",
+   "emoji": "",
+   "ipa": "/ˈpɛdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "altar",
+   "meaning": "bàn thờ, bệ thờ, án thờ",
+   "example": "You’d better do some serious soul-searching before you decide to leave Kerry at the altar",
+   "exampleMeaning": "Cậu nên nghiêm túc tự vấn mình trước khi quyết định bỏ Kerry ngay trước bàn thờ Chúa.",
+   "emoji": "",
+   "ipa": "/ˈɔltɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fox",
+   "meaning": "con cáo",
+   "example": "The fox seems to be hunting something.",
+   "exampleMeaning": "Con cáo có vẻ đang săn con gì đó.",
+   "emoji": "🦊",
+   "ipa": "/fɒks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "import",
+   "meaning": "ngụ ý, ý nói, nghĩa là",
+   "example": "what does this news import?",
+   "exampleMeaning": "Tin này nghĩa là thế nào?",
+   "emoji": "",
+   "ipa": "/ˈɪmˌpɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "actively",
+   "meaning": "tích cực hoạt động",
+   "example": "Let's learn the word \"actively\".",
+   "exampleMeaning": "Cùng học từ “actively”: tích cực hoạt động.",
+   "emoji": "",
+   "ipa": "/ˈæktɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dishonesty",
+   "meaning": "tính không lương thiện, tính bất lương",
+   "example": "Let's learn the word \"dishonesty\".",
+   "exampleMeaning": "Cùng học từ “dishonesty”: tính không lương thiện, tính bất lương.",
+   "emoji": "",
+   "ipa": "/dɪˈsɑnəsti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "undoubtedly",
+   "meaning": "rõ ràng, chắc chắn",
+   "example": "Undoubtedly, cycling is healthier than driving.",
+   "exampleMeaning": "Chắc chắn, việc đạp xe có lợi cho sức khỏe hơn là lái xe.",
+   "emoji": "",
+   "ipa": "/ənˈdaʊtɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "creatively",
+   "meaning": "sáng tạo",
+   "example": "Let's learn the word \"creatively\".",
+   "exampleMeaning": "Cùng học từ “creatively”: sáng tạo.",
+   "emoji": "",
+   "ipa": "/kriˈeɪtɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "configuration",
+   "meaning": "cấu hình",
+   "example": "The configuration file for your database server is located in this directory.",
+   "exampleMeaning": "Tệp cấu hình cho máy chủ cơ sở dữ liệu của bạn nằm trong thư mục này.",
+   "emoji": "",
+   "ipa": "/kənˌfɪɡjɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "velocity",
+   "meaning": "vận tốc",
+   "example": "Let's learn the word \"velocity\".",
+   "exampleMeaning": "Cùng học từ “velocity”: vận tốc.",
+   "emoji": "",
+   "ipa": "/vəˈlɑsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "colon",
+   "meaning": "dấu hai chấm",
+   "example": "Let's learn the word \"colon\".",
+   "exampleMeaning": "Cùng học từ “colon”: dấu hai chấm.",
+   "emoji": "",
+   "ipa": "/ˈkoʊlən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "compassionate",
+   "meaning": "thương hại, thương xót, động lòng thương",
+   "example": "Let's learn the word \"compassionate\".",
+   "exampleMeaning": "Cùng học từ “compassionate”: thương hại, thương xót, động lòng thương.",
+   "emoji": "",
+   "ipa": "/kəmˈpæʃənət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "payment",
+   "meaning": "sự trả tiền, sự nộp tiền",
+   "example": "Let's learn the word \"payment\".",
+   "exampleMeaning": "Cùng học từ “payment”: sự trả tiền, sự nộp tiền.",
+   "emoji": "",
+   "ipa": "/ˈpeɪmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bizarre",
+   "meaning": "kỳ quái, kỳ lạ, kỳ dị",
+   "example": "Let's learn the word \"bizarre\".",
+   "exampleMeaning": "Cùng học từ “bizarre”: kỳ quái, kỳ lạ, kỳ dị.",
+   "emoji": "",
+   "ipa": "/bəˈzɑr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tug",
+   "meaning": "kéo mạnh, giật mạnh",
+   "example": "we left a great tug at parting",
+   "exampleMeaning": "(nghĩa bóng) chúng tôi cảm thấy đau lòng lúc chia tay",
+   "emoji": "",
+   "ipa": "/ˈtəɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "boost",
+   "meaning": "nâng lên, đưa lên",
+   "example": "Let's learn the word \"boost\".",
+   "exampleMeaning": "Cùng học từ “boost”: nâng lên, đưa lên.",
+   "emoji": "",
+   "ipa": "/ˈbust/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subculture",
+   "meaning": "văn hoá nhóm",
+   "example": "Let's learn the word \"subculture\".",
+   "exampleMeaning": "Cùng học từ “subculture”: văn hoá nhóm.",
+   "emoji": "",
+   "ipa": "/ˈsəbˌkəltʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cease",
+   "meaning": "dừng, ngừng, ngớt",
+   "example": "to cease form work",
+   "exampleMeaning": "Ngừng việc",
+   "emoji": "",
+   "ipa": "/siːs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "virtually",
+   "meaning": "thực sự, thực tế",
+   "example": "Let's learn the word \"virtually\".",
+   "exampleMeaning": "Cùng học từ “virtually”: thực sự, thực tế.",
+   "emoji": "",
+   "ipa": "/ˈvɜrtʃuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "laundry",
+   "meaning": "chỗ giặt là quần áo",
+   "example": "The man does the laundry, not the woman.",
+   "exampleMeaning": "Đàn ông phải làm việc giặt ủi chứ không phải đàn bà.",
+   "emoji": "",
+   "ipa": "/ˈlɔndri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "pressed",
+    "the",
+    "brake",
+    "pedal"
+   ],
+   "reading": "",
+   "meaning": "Ông ấy đã đạp phanh."
+  },
+  {
+   "tokens": [
+    "Yes",
+    "I",
+    "am",
+    "a",
+    "fox"
+   ],
+   "reading": "",
+   "meaning": "Đúng, tôi là một con cáo."
+  },
+  {
+   "tokens": [
+    "The",
+    "fast",
+    "fox",
+    "caught",
+    "the",
+    "chicken"
+   ],
+   "reading": "",
+   "meaning": "Con cáo nhanh nhẹn đã bắt được con gà."
+  },
+  {
+   "tokens": [
+    "Undoubtedly",
+    "cycling",
+    "is",
+    "healthier",
+    "than",
+    "driving"
+   ],
+   "reading": "",
+   "meaning": "Chắc chắn, việc đạp xe có lợi cho sức khỏe hơn là lái xe."
+  },
+  {
+   "tokens": [
+    "The",
+    "fox",
+    "seems",
+    "to",
+    "be",
+    "hunting",
+    "something"
+   ],
+   "reading": "",
+   "meaning": "Con cáo có vẻ đang săn con gì đó."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,330 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "行為",
+   "meaning": "hành động, việc làm, cử chỉ",
+   "example": "彼の行為は法律に背いている。",
+   "exampleMeaning": "Việc làm của anh ấy đang vi phạm pháp luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "爆弾",
+   "meaning": "quả bom",
+   "example": "「爆弾」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “爆弾”: quả bom.",
+   "emoji": "💣",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "規定",
+   "meaning": "sự điều chỉnh, sự sửa lại cho đúng",
+   "example": "「規定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “規定”: sự điều chỉnh, sự sửa lại cho đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "戦闘",
+   "meaning": "đánh nhau, chiến đấu",
+   "example": "アメリカ軍はイラクでの戦闘任務を完了することを発表した。",
+   "exampleMeaning": "Quân đội Mỹ tuyên bố đã hoàn thành nhiệm vụ chiến đấu tại Iraq.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "庶務",
+   "meaning": "tổng vụ",
+   "example": "「庶務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “庶務”: tổng vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受かる",
+   "meaning": "đi, đi lên",
+   "example": "トムは試験に受かる自信がある。",
+   "exampleMeaning": "Tom tự tin rằng mình có thể vượt qua được kỳ thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "体格",
+   "meaning": "cơ thể vóc người, dạng người",
+   "example": "「体格」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “体格”: cơ thể vóc người, dạng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密度",
+   "meaning": "tính dày đặc",
+   "example": "「密度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “密度”: tính dày đặc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "なおさら",
+   "meaning": "càng",
+   "example": "「なおさら」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なおさら”: càng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "押し寄せる",
+   "meaning": "đưa lên, đưa ra phía trước",
+   "example": "「押し寄せる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “押し寄せる”: đưa lên, đưa ra phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "やけに",
+   "meaning": "chắc, chắc chắn",
+   "example": "「やけに」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “やけに”: chắc, chắc chắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "躾",
+   "meaning": "kỷ luật",
+   "example": "「躾」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “躾”: kỷ luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真ん丸い",
+   "meaning": "perfectly circular (EN)",
+   "example": "「真ん丸い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真ん丸い”: perfectly circular (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家計",
+   "meaning": "kinh tế hộ gia đình",
+   "example": "「家計」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “家計”: kinh tế hộ gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公用",
+   "meaning": "chi phí của nhà nước",
+   "example": "スイスには幾つかの公用語がある。",
+   "exampleMeaning": "Thụy Sĩ có một vài ngôn ngữ chính thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "気軽",
+   "meaning": "vui mừng, phấn khởi",
+   "example": "「気軽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気軽”: vui mừng, phấn khởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "簡潔",
+   "meaning": "tính khúc chiết",
+   "example": "「簡潔」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “簡潔”: tính khúc chiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大衆",
+   "meaning": "công chúng",
+   "example": "「大衆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大衆”: công chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "形成",
+   "meaning": "sự hình thành, sự tạo thành, sự lập nên",
+   "example": "肺、心臓、静脈、動脈、毛細血管により循環器系が形成されています。",
+   "exampleMeaning": "Hệ tuần hoàn được cấu tạo từ phổi, tim, tĩnh mạch, động mạnh và mao mạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "政策",
+   "meaning": "chính sách (của chính phủ, đảng... )",
+   "example": "「政策」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政策”: chính sách (của chính phủ, đảng... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼の",
+    "行為",
+    "は",
+    "法律",
+    "に",
+    "背いている"
+   ],
+   "reading": "かれのこういはほうりつにそむいている",
+   "meaning": "Việc làm của anh ấy đang vi phạm pháp luật."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "試験",
+    "に",
+    "受かる",
+    "の",
+    "は",
+    "間違いない"
+   ],
+   "reading": "かれがしけんにうかるのはまちがいない",
+   "meaning": "Tôi chắc chắn anh ta sẽ làm bài kiểm tra."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "行為",
+    "には",
+    "まったく",
+    "悪い",
+    "ところ",
+    "は",
+    "ない"
+   ],
+   "reading": "かれのこういにはまったくわるいところはない",
+   "meaning": "Điều anh ta làm hoàn toàn không có gì sai cả."
+  },
+  {
+   "tokens": [
+    "雨",
+    "降って",
+    "地",
+    "固まる"
+   ],
+   "reading": "あめふってじかたまる",
+   "meaning": "Sau cơn mưa trời lại sáng."
+  },
+  {
+   "tokens": [
+    "正直",
+    "は",
+    "最良",
+    "の",
+    "方策"
+   ],
+   "reading": "しょうじきはさいりょうのほうさく",
+   "meaning": "Thật thà là thượng sách."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,324 @@
+{
+ "lesson": 21,
+ "draft": true,
+ "words": [
+  {
+   "term": "姐",
+   "meaning": "chị",
+   "example": "学学你姐姐。",
+   "exampleMeaning": "Mày học chị mày đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "坐下",
+   "meaning": "ngồi xuống",
+   "example": "我们来学“坐下”这个词。",
+   "exampleMeaning": "Cùng học từ “坐下”: ngồi xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòxia",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "零",
+   "meaning": "lẻ",
+   "example": "这种药的效力等于零。",
+   "exampleMeaning": "Công hiệu của loại thuốc này kể như không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "líng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "桌子",
+   "meaning": "bàn",
+   "example": "这张桌子不好。",
+   "exampleMeaning": "Cái bàn này không tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuōzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "白天",
+   "meaning": "ban ngày",
+   "example": "他白天到工厂做工,晚上进夜校学习。",
+   "exampleMeaning": "Ban ngày anh ấy đến xưởng làm việc, buổi tối đến trường học thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "báitiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "请问",
+   "meaning": "xin hỏi",
+   "example": "请问这个字怎么读?",
+   "exampleMeaning": "Xin hỏi chữ này đọc làm sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐngwèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哪些",
+   "meaning": "cái nào",
+   "example": "这次会议都有哪些人参加？",
+   "exampleMeaning": "Cuộc họp lần này có những ai tham dự?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎxiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "晚饭",
+   "meaning": "cơm tối",
+   "example": "我会拒绝他吃晚饭的邀请。",
+   "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小学",
+   "meaning": "bậc tiểu học",
+   "example": "我们来学“小学”这个词。",
+   "exampleMeaning": "Cùng học từ “小学”: bậc tiểu học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "图书馆",
+   "meaning": "thư viện",
+   "example": "我校图书馆藏书二百五十万册。",
+   "exampleMeaning": "Thư viện trường chúng tôi có hai triệu rưởi quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "túshūguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "开玩笑",
+   "meaning": "nói đùa",
+   "example": "你一定是开玩笑！",
+   "exampleMeaning": "Mày đùa tao à!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāiwánxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "国外",
+   "meaning": "ra nước ngoài, khắp nơi, đang truyền đi khắp nơi",
+   "example": "我们来学“国外”这个词。",
+   "exampleMeaning": "Cùng học từ “国外”: ra nước ngoài, khắp nơi, đang truyền đi khắp nơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guówài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日期",
+   "meaning": "ngày",
+   "example": "发言的日期。",
+   "exampleMeaning": "Ngày phát biểu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饭店",
+   "meaning": "khách sạn",
+   "example": "北京饭店",
+   "exampleMeaning": "Khách sạn Bắc Kinh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàndiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中学",
+   "meaning": "trung học",
+   "example": "我是在日本上的中学。",
+   "exampleMeaning": "Tôi đã học trung học tại Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上网",
+   "meaning": "lên mạng, lướt mạng",
+   "example": "我们来学“上网”这个词。",
+   "exampleMeaning": "Cùng học từ “上网”: lên mạng, lướt mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "商场",
+   "meaning": "cửa hàng",
+   "example": "百货商场。",
+   "exampleMeaning": "Cửa hàng bách hoá tổng hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "楼下",
+   "meaning": "tầng dưới",
+   "example": "我们来学“楼下”这个词。",
+   "exampleMeaning": "Cùng học từ “楼下”: tầng dưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lóuxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面包",
+   "meaning": "bánh mì",
+   "example": "我们来学“面包”这个词。",
+   "exampleMeaning": "Cùng học từ “面包”: bánh mì.",
+   "emoji": "🍞",
+   "ipa": "",
+   "pinyin": "miànbāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外国",
+   "meaning": "từ nước ngoài, ngoại quốc, xa lạ",
+   "example": "据说他爸爸在外国去世了。",
+   "exampleMeaning": "Người ta nói cha ông ấy mất ở nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàiguó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "张",
+    "桌子",
+    "不",
+    "好"
+   ],
+   "reading": "zhè zhāng zhuōzi bù hǎo",
+   "meaning": "Cái bàn này không tốt."
+  },
+  {
+   "tokens": [
+    "你",
+    "一定",
+    "是",
+    "开玩笑"
+   ],
+   "reading": "nǐ yīdìng shì kāiwánxiào",
+   "meaning": "Mày đùa tao à!"
+  },
+  {
+   "tokens": [
+    "他",
+    "才",
+    "从",
+    "图书馆",
+    "回来"
+   ],
+   "reading": "tā cái cóng túshūguǎn huílai",
+   "meaning": "Anh ấy vừa mới ở thư viện về."
+  },
+  {
+   "tokens": [
+    "这些",
+    "是",
+    "图书馆",
+    "的",
+    "书"
+   ],
+   "reading": "zhèxiē shì túshūguǎn de shū",
+   "meaning": "Những cái này là sách của thư viện."
+  },
+  {
+   "tokens": [
+    "告诉",
+    "她",
+    "我",
+    "在",
+    "做",
+    "晚饭"
+   ],
+   "reading": "gàosu tā wǒ zài zuò wǎnfàn",
+   "meaning": "Bảo cô ấy tôi đang nấu cơm tối."
+  }
+ ],
+ "issues": []
+}

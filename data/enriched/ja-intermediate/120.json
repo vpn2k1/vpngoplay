@@ -1,0 +1,339 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "忠告",
+   "meaning": "lời khuyên, lời chỉ bảo",
+   "example": "ご忠告ありがとう。",
+   "exampleMeaning": "Cảm ơn bạn đã cảnh báo cho tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "頻繁",
+   "meaning": "tính thường xuyên",
+   "example": "「頻繁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “頻繁”: tính thường xuyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貴い",
+   "meaning": "quý",
+   "example": "「貴い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貴い”: quý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "にきび",
+   "meaning": "mụn nhọt",
+   "example": "「にきび」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “にきび”: mụn nhọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "頑固",
+   "meaning": "bướng bỉnh, ương bướng, ngoan cố",
+   "example": "私はトムほど頑固じゃないよ。",
+   "exampleMeaning": "Tôi không ngoan cố như Tom.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "司る",
+   "meaning": "cai trị, trị vì, thống trị",
+   "example": "市長は市政を司る。",
+   "exampleMeaning": "Thị trưởng là người phụ trách chính sách của thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "育ち",
+   "meaning": "sự sinh sản",
+   "example": "トムは生まれも育ちもボストンだ。",
+   "exampleMeaning": "Tom sinh ra và lớn lên ở Boston.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "がっちり",
+   "meaning": "chặt chẽ",
+   "example": "「がっちり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “がっちり”: chặt chẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "圧力",
+   "meaning": "sự căng thẳng",
+   "example": "「圧力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “圧力”: sự căng thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り除く",
+   "meaning": "dời đi, di chuyển, dọn",
+   "example": "悪い習慣を取り除くことはとても難しい。",
+   "exampleMeaning": "Rất khó để từ bỏ một thói quen xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "勧誘",
+   "meaning": "dành cho người được mời",
+   "example": "「勧誘」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勧誘”: dành cho người được mời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "返還",
+   "meaning": "sự trở lại, sự trở về, sự quay trở lại",
+   "example": "「返還」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “返還”: sự trở lại, sự trở về, sự quay trở lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り扱う",
+   "meaning": "đối xử, đối đãi, cư xử",
+   "example": "「取り扱う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り扱う”: đối xử, đối đãi, cư xử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尊い",
+   "meaning": "quý giá",
+   "example": "「尊い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “尊い”: quý giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "財政",
+   "meaning": "sự quản lý kinh tế",
+   "example": "「財政」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “財政”: sự quản lý kinh tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弛み",
+   "meaning": "uể oải, chậm chạp",
+   "example": "加齢によって体の皮膚が弛みはじめます。",
+   "exampleMeaning": "Khi tuổi càng cao, da trên cơ thể sẽ bắt đầu chảy xệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "異議",
+   "meaning": "sự phản đối, sự chống đối",
+   "example": "何か異議がありますか？",
+   "exampleMeaning": "Có ai phản đối gì không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "田園",
+   "meaning": "nước, quốc gia",
+   "example": "「田園」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “田園”: nước, quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "震わせる",
+   "meaning": "sự lắc, sự giũ",
+   "example": "「震わせる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “震わせる”: sự lắc, sự giũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高尚",
+   "meaning": "cao",
+   "example": "「高尚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “高尚”: cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "に",
+    "煙草を吸う",
+    "な",
+    "と",
+    "忠告",
+    "した"
+   ],
+   "reading": "わたしはかれにたばこをすうなとちゅうこくした",
+   "meaning": "Tôi khuyên anh ta không hút thuốc lá."
+  },
+  {
+   "tokens": [
+    "悪い",
+    "習慣",
+    "を",
+    "取り除く",
+    "こと",
+    "は",
+    "とても",
+    "難しい"
+   ],
+   "reading": "わるいしゅうかんをとりのぞくことはとてもむずかしい",
+   "meaning": "Rất khó để từ bỏ một thói quen xấu."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "の",
+    "忠告",
+    "が",
+    "なかったら",
+    "私",
+    "は",
+    "成功",
+    "しなかった",
+    "だろう"
+   ],
+   "reading": "あなたのちゅうこくがなかったらわたしはせいこうしなかっただろう",
+   "meaning": "Không nhờ có lời khuyên của bạn thì có lẽ tôi đã chẳng thành công."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "お兄さん",
+    "に",
+    "そっくり",
+    "だ",
+    "よ"
+   ],
+   "reading": "きみはおにいさんにそっくりだよ",
+   "meaning": "Em trông giống hệt anh trai mình đấy."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "両親",
+    "を",
+    "とても",
+    "愛してる"
+   ],
+   "reading": "かのじょはりょうしんをとてもあいしてる",
+   "meaning": "Cô ấy rất yêu cha mẹ mình."
+  }
+ ],
+ "issues": []
+}

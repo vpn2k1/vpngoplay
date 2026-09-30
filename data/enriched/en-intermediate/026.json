@@ -1,0 +1,324 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "steam",
+   "meaning": "nghị lực, sức cố gắng",
+   "example": "let's steam ahead!",
+   "exampleMeaning": "Nào! chúng ta tích cực lên nào!",
+   "emoji": "",
+   "ipa": "/stiːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "restrict",
+   "meaning": "hạn chế, thu hẹp, hạn chế (chi tiêu, sản xuất...)",
+   "example": "to restrict the use of alcohol",
+   "exampleMeaning": "Hạn chế việc dùng rượu",
+   "emoji": "",
+   "ipa": "/rɪˈstrɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "primary school",
+   "meaning": "trường tiểu học",
+   "example": "Let's learn the word \"primary school\".",
+   "exampleMeaning": "Cùng học từ “primary school”: trường tiểu học.",
+   "emoji": "",
+   "ipa": "/ˈpraɪˌmɛri ˈskul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "coffin",
+   "meaning": "áo quan, quan tài",
+   "example": "Let's learn the word \"coffin\".",
+   "exampleMeaning": "Cùng học từ “coffin”: áo quan, quan tài.",
+   "emoji": "⚰",
+   "ipa": "/ˈkɔfɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cave",
+   "meaning": "hang",
+   "example": "They sleep together in a cave or a tent.",
+   "exampleMeaning": "Họ ngủ chung lẫn lộn trong hang hoặc trong lều.",
+   "emoji": "",
+   "ipa": "/ˈkeɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stream",
+   "meaning": "luồng, thông lượng, chiều nước chảy",
+   "example": "a stream of cold air",
+   "exampleMeaning": "Luồng không khí lạnh",
+   "emoji": "",
+   "ipa": "/ˈstrim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "librarian",
+   "meaning": "thủ thư",
+   "example": "Let's learn the word \"librarian\".",
+   "exampleMeaning": "Cùng học từ “librarian”: thủ thư.",
+   "emoji": "",
+   "ipa": "/laɪˈbrɛˌriən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "suffer",
+   "meaning": "chịu, bị",
+   "example": "how can you suffer his insolence?",
+   "exampleMeaning": "Làm thế nào mà anh có thể chịu đựng được sự láo xược của nó?",
+   "emoji": "",
+   "ipa": "/ˈsəfɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "columnist",
+   "meaning": "người chuyên giữ một mục báo",
+   "example": "Let's learn the word \"columnist\".",
+   "exampleMeaning": "Cùng học từ “columnist”: người chuyên giữ một mục báo.",
+   "emoji": "",
+   "ipa": "/ˈkɑləmnəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sundial",
+   "meaning": "đồng hồ mặt trời",
+   "example": "Let's learn the word \"sundial\".",
+   "exampleMeaning": "Cùng học từ “sundial”: đồng hồ mặt trời.",
+   "emoji": "",
+   "ipa": "/ˈsənˌdaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "initial",
+   "meaning": "chữ cái đầu tiên (của một từ)",
+   "example": "Let's learn the word \"initial\".",
+   "exampleMeaning": "Cùng học từ “initial”: chữ cái đầu tiên (của một từ).",
+   "emoji": "",
+   "ipa": "/ˌɪˈnɪʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "term",
+   "meaning": "kỳ",
+   "example": "to set a term to one's expenses",
+   "exampleMeaning": "Giới hạn việc tiêu pha của mình",
+   "emoji": "",
+   "ipa": "/tɜːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "phenomenon",
+   "meaning": "hiện tượng",
+   "example": "Let's learn the word \"phenomenon\".",
+   "exampleMeaning": "Cùng học từ “phenomenon”: hiện tượng.",
+   "emoji": "",
+   "ipa": "/fəˈnɑməˌnɑn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "calculation",
+   "meaning": "tính",
+   "example": "to be out in one's calculation",
+   "exampleMeaning": "Tính nhầm",
+   "emoji": "",
+   "ipa": "/ˌkælkjəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "upper",
+   "meaning": "trên, cao, thượng",
+   "example": "the upper ten (thousand)",
+   "exampleMeaning": "Tầng lớp quý tộc",
+   "emoji": "",
+   "ipa": "/ˈəpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "compete",
+   "meaning": "đua tranh, ganh đua, cạnh tranh",
+   "example": "I can't compete with you.",
+   "exampleMeaning": "Tôi không thể cạnh tranh với bạn.",
+   "emoji": "",
+   "ipa": "/kəmˈpit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "connection",
+   "meaning": "bà con, họ hàng, thân thuộc",
+   "example": "there is no connection in his speech",
+   "exampleMeaning": "Bài nói của anh ta chẳng có mạch lạc gì cả",
+   "emoji": "",
+   "ipa": "/kə.ˈnɛk.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "closely",
+   "meaning": "chặt chẽ, khít, sát",
+   "example": "he resembles his father very closely",
+   "exampleMeaning": "Nó giống cha như đúc",
+   "emoji": "",
+   "ipa": "/ˈkloʊsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enrich",
+   "meaning": "làm giàu, làm giàu thêm, làm phong phú",
+   "example": "Let's learn the word \"enrich\".",
+   "exampleMeaning": "Cùng học từ “enrich”: làm giàu, làm giàu thêm, làm phong phú.",
+   "emoji": "",
+   "ipa": "/ɛnˈrɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "destination",
+   "meaning": "nơi gửi tới, nơi đưa tới, nơi đi tới",
+   "example": "Let's learn the word \"destination\".",
+   "exampleMeaning": "Cùng học từ “destination”: nơi gửi tới, nơi đưa tới, nơi đi tới.",
+   "emoji": "",
+   "ipa": "/ˌdɛstəˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "found",
+    "the",
+    "cave"
+   ],
+   "reading": "",
+   "meaning": "Tôi tìm thấy cái hang."
+  },
+  {
+   "tokens": [
+    "We",
+    "can't",
+    "compete",
+    "with",
+    "Asia"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta chẳng thể nào đấu lại Châu Á đâu."
+  },
+  {
+   "tokens": [
+    "They",
+    "didn't",
+    "suffer",
+    "did",
+    "they"
+   ],
+   "reading": "",
+   "meaning": "Họ đã không phải chịu đựng, có đúng không?"
+  },
+  {
+   "tokens": [
+    "I",
+    "can't",
+    "compete",
+    "with",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thể cạnh tranh với bạn."
+  },
+  {
+   "tokens": [
+    "What",
+    "are",
+    "your",
+    "long",
+    "term",
+    "plans"
+   ],
+   "reading": "",
+   "meaning": "Kế hoạch dài hạn của bạn là gì?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,331 @@
+{
+ "lesson": 115,
+ "draft": true,
+ "words": [
+  {
+   "term": "陸上",
+   "meaning": "đất",
+   "example": "「陸上」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陸上”: đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "談話",
+   "meaning": "cuộc chuyện trò, cuộc mạn đàm, sự nói chuyện",
+   "example": "「談話」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “談話”: cuộc chuyện trò, cuộc mạn đàm, sự nói chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "併用",
+   "meaning": "combined use (EN)",
+   "example": "「併用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “併用”: combined use (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "香港",
+   "meaning": "Hong Kong (EN)",
+   "example": "「香港」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “香港”: Hong Kong (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一員",
+   "meaning": "one person (EN)",
+   "example": "「一員」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一員”: one person (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出版社",
+   "meaning": "người xuất bản",
+   "example": "「出版社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出版社”: người xuất bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "言",
+   "meaning": "lời, từ, sự lưu ý",
+   "example": "言わぬが花。",
+   "exampleMeaning": "Im lặng là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "浮き彫り",
+   "meaning": "sự giảm nhẹ, sự bớt đi",
+   "example": "「浮き彫り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “浮き彫り”: sự giảm nhẹ, sự bớt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "五輪",
+   "meaning": "thế vận hội",
+   "example": "五輪旗の右端の輪っかって何色だったっけか？",
+   "exampleMeaning": "Vòng tròn ở phía ngoài cùng bên phải của lá cờ Olympic có màu gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月曜",
+   "meaning": "ngày thứ hai",
+   "example": "月曜日で大丈夫？",
+   "exampleMeaning": "Thứ hai OK không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "就労",
+   "meaning": "sự làm việc, sự làm",
+   "example": "我々は就労時間について社長と交渉した。",
+   "exampleMeaning": "Chúng tôi trao đổi với giám đốc về thời gian làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "合理化",
+   "meaning": "sự hợp lý hoá",
+   "example": "「合理化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合理化”: sự hợp lý hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "開幕",
+   "meaning": "khe hở, lỗ",
+   "example": "「開幕」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “開幕”: khe hở, lỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "担保",
+   "meaning": "sự yên ổn, sự an toàn, sự an ninh",
+   "example": "「担保」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “担保”: sự yên ổn, sự an toàn, sự an ninh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "認可",
+   "meaning": "sự tán thành, sự đồng ý, sự chấp thuận",
+   "example": "「認可」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “認可”: sự tán thành, sự đồng ý, sự chấp thuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通話",
+   "meaning": "sự gọi điện thoại",
+   "example": "「通話」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通話”: sự gọi điện thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "件数",
+   "meaning": "vốn có, vốn gắn liền với",
+   "example": "「件数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “件数”: vốn có, vốn gắn liền với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "座長",
+   "meaning": "chủ tịch",
+   "example": "「座長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “座長”: chủ tịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大和",
+   "meaning": "một thành phố của Kanagawa, Nhật Bản",
+   "example": "「大和」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大和”: một thành phố của Kanagawa, Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り消し",
+   "meaning": "sự bỏ, sự huỷ bỏ",
+   "example": "「取り消し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り消し”: sự bỏ, sự huỷ bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "言い訳",
+    "を",
+    "して",
+    "も",
+    "無駄",
+    "だ"
+   ],
+   "reading": "いいわけをしてもむだだ",
+   "meaning": "Có bào chữa thì cũng vô dụng thôi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "独り言",
+    "を",
+    "言いました"
+   ],
+   "reading": "かれはひとりごとをいいました",
+   "meaning": "Anh ấy đã nói chuyện một mình."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "何か",
+    "ぶつぶつ",
+    "言っている"
+   ],
+   "reading": "かれはなにかぶつぶついっている",
+   "meaning": "Anh ấy đang lẩm bẩm cái gì đó."
+  },
+  {
+   "tokens": [
+    "君の",
+    "言う",
+    "こと",
+    "に",
+    "全面的に",
+    "賛成",
+    "だ"
+   ],
+   "reading": "きみのいうことにぜんめんてきにさんせいだ",
+   "meaning": "Tôi hoàn toàn tán thành điều bạn nói."
+  },
+  {
+   "tokens": [
+    "母",
+    "は",
+    "私",
+    "に",
+    "芝",
+    "を",
+    "刈る",
+    "ように",
+    "言った"
+   ],
+   "reading": "はははわたしにしばをかるようにいった",
+   "meaning": "Mẹ tôi bảo tôi đi cắt cỏ."
+  }
+ ],
+ "issues": []
+}

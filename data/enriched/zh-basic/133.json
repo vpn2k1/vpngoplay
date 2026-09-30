@@ -1,0 +1,323 @@
+{
+ "lesson": 133,
+ "draft": true,
+ "words": [
+  {
+   "term": "电梯",
+   "meaning": "thang máy",
+   "example": "我们来学“电梯”这个词。",
+   "exampleMeaning": "Cùng học từ “电梯”: thang máy.",
+   "emoji": "🛗",
+   "ipa": "",
+   "pinyin": "diàntī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抓紧",
+   "meaning": "nắm chắc",
+   "example": "抓紧时间",
+   "exampleMeaning": "Nắm chắc thời gian",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuājǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相处",
+   "meaning": "chung sống",
+   "example": "相处得很好。",
+   "exampleMeaning": "Sống với nhau rất tốt; chung sống hoà hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngchǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "反映",
+   "meaning": "phản ánh",
+   "example": "他反映的意见值得重视。",
+   "exampleMeaning": "Ý kiến phản ánh của anh ấy đáng được xem xét.",
+   "emoji": "🪞",
+   "ipa": "",
+   "pinyin": "fǎnyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "植物",
+   "meaning": "thực vật",
+   "example": "我们来学“植物”这个词。",
+   "exampleMeaning": "Cùng học từ “植物”: thực vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阵",
+   "meaning": "trận",
+   "example": "摆了个一字长蛇阵。",
+   "exampleMeaning": "Dàn một trận dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转身",
+   "meaning": "trong nháy mắt",
+   "example": "刚说好了的，一转身就不认账。",
+   "exampleMeaning": "Vừa mới nói xong, trong nháy mắt đã giở mặt chối cãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "从此",
+   "meaning": "từ đó",
+   "example": "去年三月，他加入共青团，从此工作学习更加积极了。",
+   "exampleMeaning": "Tháng ba năm ngoái, anh ta gia nhập vào đoàn thanh niên cộng sản, từ đó chuyện học tập càng tích cực hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngcǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "矮",
+   "meaning": "thấp, bé, lùn",
+   "example": "他在学校里比我矮 一级。",
+   "exampleMeaning": "Ở trường nó học dưới tôi một lớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "投诉",
+   "meaning": "khiếu nại",
+   "example": "投诉法院",
+   "exampleMeaning": "Kháng án",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóusù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "减肥",
+   "meaning": "giảm cân",
+   "example": "她需要减肥",
+   "exampleMeaning": "Cô ấy cần phải giảm cân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnféi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼镜",
+   "meaning": "mắt kính",
+   "example": "我们来学“眼镜”这个词。",
+   "exampleMeaning": "Cùng học từ “眼镜”: mắt kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "体重",
+   "meaning": "thể trọng",
+   "example": "我们来学“体重”这个词。",
+   "exampleMeaning": "Cùng học từ “体重”: thể trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面试",
+   "meaning": "phỏng vấn",
+   "example": "我们来学“面试”这个词。",
+   "exampleMeaning": "Cùng học từ “面试”: phỏng vấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miànshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无所谓",
+   "meaning": "không quan trọng",
+   "example": "他穿衣服一向很随便，颜色、样式都无所谓。",
+   "exampleMeaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúsuǒwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "居住",
+   "meaning": "sống",
+   "example": "我在马来西亚居住。",
+   "exampleMeaning": "Tôi hiện đang sống ở Mã Lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "翻译",
+   "meaning": "dịch",
+   "example": "我爱好翻译。",
+   "exampleMeaning": "Mình rất thích dịch thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fānyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "移民",
+   "meaning": "di dân",
+   "example": "移民海外。",
+   "exampleMeaning": "Di dân ra nước ngoài",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yímín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "担任",
+   "meaning": "đảm đương",
+   "example": "担任运输工作。",
+   "exampleMeaning": "Đảm đương công tác vận chuyển",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风景",
+   "meaning": "phong cảnh",
+   "example": "秋天的西山，风景格外美丽。",
+   "exampleMeaning": "Tây Sơn vào mùa thu, phong cảnh rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngjǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "在",
+    "马来西亚",
+    "居住"
+   ],
+   "reading": "wǒ zài mǎláixīyà jūzhù",
+   "meaning": "Tôi hiện đang sống ở Mã Lai."
+  },
+  {
+   "tokens": [
+    "我",
+    "爱好",
+    "翻译"
+   ],
+   "reading": "wǒ àihào fānyì",
+   "meaning": "Mình rất thích dịch thuật."
+  },
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "知识",
+    "是",
+    "什么"
+   ],
+   "reading": "zhīshi shì shénme",
+   "meaning": "Trí thức là gi?"
+  },
+  {
+   "tokens": [
+    "我们",
+    "很",
+    "想",
+    "去"
+   ],
+   "reading": "wǒmen hěn xiǎng qù",
+   "meaning": "Chúng tôi rất muốn đi."
+  }
+ ],
+ "issues": []
+}

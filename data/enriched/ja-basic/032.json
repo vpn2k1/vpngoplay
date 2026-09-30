@@ -1,0 +1,321 @@
+{
+ "lesson": 32,
+ "draft": true,
+ "words": [
+  {
+   "term": "飴",
+   "meaning": "kẹo",
+   "example": "突然長女が「飴がほしい」と言い出しました。",
+   "exampleMeaning": "Đột nhiên cô con gái lớn nói \"Tôi muốn kẹo\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "八日",
+   "meaning": "ngày thứ tám của tháng",
+   "example": "「八日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “八日”: ngày thứ tám của tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ポケット",
+   "meaning": "túi (quần áo)",
+   "example": "彼は硬貨を数枚私のポケットにつっこんだ。",
+   "exampleMeaning": "Anh ấy dúi vài đồng xu vào túi tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "晴れる",
+   "meaning": "nắng, có nhiều ánh nắng",
+   "example": "明日は晴れるといいな。",
+   "exampleMeaning": "Nếu ngày mai trời nắng thì tốt biết mấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行く",
+   "meaning": "đi, đi đến, đi tới",
+   "example": "私は日曜日に教会に行く。",
+   "exampleMeaning": "Tôi đi lễ nhà thờ vào ngày Chủ Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "土曜日",
+   "meaning": "thứ Bảy",
+   "example": "土曜日は開いてますか？",
+   "exampleMeaning": "Bạn có rảnh vào thứ Bảy không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "速い",
+   "meaning": "nhanh, nhanh chóng, mau lẹ",
+   "example": "彼女はクラスの中で一番足が速い。",
+   "exampleMeaning": "Cô ấy chạy nhanh nhất lớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "撮る",
+   "meaning": "cầm, nắm, giữ",
+   "example": "私の趣味は野の花の写真を撮ることです。",
+   "exampleMeaning": "Sở thích của tôi là chụp ảnh hoa dại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "止まる",
+   "meaning": "dừng, ngừng, ngớt",
+   "example": "ここで止まるな。",
+   "exampleMeaning": "Đừng dừng lại ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新しい",
+   "meaning": "mới mẻ, mới lạ, lạ thường",
+   "example": "新しいスマホが欲しい。",
+   "exampleMeaning": "Tôi muốn một cái điện thoại mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暖かい",
+   "meaning": "nóng: có nhiệt độ cao",
+   "example": "外は暖かいみたいです。",
+   "exampleMeaning": "Có vẻ là bên ngoài đang ấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "音楽",
+   "meaning": "nhạc, âm nhạc",
+   "example": "彼女は音楽の才能がある。",
+   "exampleMeaning": "Cô ấy có tài năng về âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "コート",
+   "meaning": "áo choàng (phụ nữ)",
+   "example": "通過した車が私のコートに水をはねかけた。",
+   "exampleMeaning": "Một chiếc xe đi qua đã té nước vào áo khoác của tôi.",
+   "emoji": "🧥",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "背",
+   "meaning": "chiều cao, bề cao",
+   "example": "彼は背泳ぎができる。",
+   "exampleMeaning": "Anh ấy biết bơi ngửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "今朝",
+   "meaning": "buổi sáng này",
+   "example": "今朝は何時に寝たの？",
+   "exampleMeaning": "Sáng nay bạn ngủ lúc mấy giờ thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "絵",
+   "meaning": "bức tranh, bức ảnh, bức vẽ",
+   "example": "彼女は絵を描いている。",
+   "exampleMeaning": "Cô ấy đang vẽ tranh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脱ぐ",
+   "meaning": "lột",
+   "example": "家の中で靴脱ぐのって日本だけかと思ってた。",
+   "exampleMeaning": "Tôi từng nghĩ rằng chỉ có người Nhật mới không đi giày trong nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "緑",
+   "meaning": "xanh",
+   "example": "緑茶を飲んでるの？",
+   "exampleMeaning": "Bạn đang uống trà xanh à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "先",
+   "meaning": "trước",
+   "example": "先月引っ越しました。",
+   "exampleMeaning": "Tôi chuyển nhà vào tháng trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "門",
+   "meaning": "cổng",
+   "example": "彼はつりの専門家だ。",
+   "exampleMeaning": "Anh ấy là một chuyên gia câu cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今朝",
+    "は",
+    "とても",
+    "寒い"
+   ],
+   "reading": "けさはとてもさむい",
+   "meaning": "Sáng nay rất lạnh."
+  },
+  {
+   "tokens": [
+    "今朝",
+    "犬",
+    "に",
+    "餌",
+    "やった"
+   ],
+   "reading": "けさいぬにえさやった",
+   "meaning": "Sáng nay bạn cho chó ăn chưa?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "背泳ぎ",
+    "が",
+    "できる"
+   ],
+   "reading": "かれはせおよぎができる",
+   "meaning": "Anh ấy biết bơi ngửa."
+  },
+  {
+   "tokens": [
+    "今日",
+    "は",
+    "だいぶ",
+    "暖かい"
+   ],
+   "reading": "きょうはだいぶあたたかい",
+   "meaning": "Hôm nay trời khá ấm."
+  },
+  {
+   "tokens": [
+    "背中",
+    "が",
+    "まだ",
+    "痛みます"
+   ],
+   "reading": "せなかがまだいたみます",
+   "meaning": "Lưng tôi vẫn đau."
+  }
+ ],
+ "issues": []
+}

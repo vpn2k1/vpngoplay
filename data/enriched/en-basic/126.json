@@ -1,0 +1,322 @@
+{
+ "lesson": 126,
+ "draft": true,
+ "words": [
+  {
+   "term": "port",
+   "meaning": "trái, bên trái",
+   "example": "Kaohsiung is Taiwan's largest port city.",
+   "exampleMeaning": "Cao Hùng là thành phố cảng lớn nhất Đài Loan.",
+   "emoji": "",
+   "ipa": "/ˈpɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "abundance",
+   "meaning": "sự dạt dào (tình cảm, cảm xúc)",
+   "example": "Copper is found in abundance there.",
+   "exampleMeaning": "Đồng được tìm thấy với trữ lượng lớn ở đó.",
+   "emoji": "",
+   "ipa": "/əˈbəndəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "likeness",
+   "meaning": "chân dung",
+   "example": "son is the likeness of his father",
+   "exampleMeaning": "Con giống bố như tạc",
+   "emoji": "",
+   "ipa": "/ˈlaɪknəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "brass",
+   "meaning": "đồng thau",
+   "example": "Let's learn the word \"brass\".",
+   "exampleMeaning": "Cùng học từ “brass”: đồng thau.",
+   "emoji": "",
+   "ipa": "/ˈbræs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "colony",
+   "meaning": "bầy, đàn, tập đoàn",
+   "example": "a colony of ants",
+   "exampleMeaning": "Đàn kiến",
+   "emoji": "",
+   "ipa": "/ˈkɑləni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "expenditure",
+   "meaning": "sự tiêu dùng",
+   "example": "Let's learn the word \"expenditure\".",
+   "exampleMeaning": "Cùng học từ “expenditure”: sự tiêu dùng.",
+   "emoji": "",
+   "ipa": "/ɪkˈspɛndətʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "motivation",
+   "meaning": "sự thúc đẩy, động lực, động cơ thúc đẩy",
+   "example": "Let's learn the word \"motivation\".",
+   "exampleMeaning": "Cùng học từ “motivation”: sự thúc đẩy, động lực, động cơ thúc đẩy.",
+   "emoji": "",
+   "ipa": "/ˌmoʊtəˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vice president",
+   "meaning": "phó chủ tịch, phó tổng thống",
+   "example": "Let's learn the word \"vice president\".",
+   "exampleMeaning": "Cùng học từ “vice president”: phó chủ tịch, phó tổng thống.",
+   "emoji": "",
+   "ipa": "/ˈvaɪs ˈprɛzəˌdɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aerobics",
+   "meaning": "thể dục nhịp điệu",
+   "example": "Let's learn the word \"aerobics\".",
+   "exampleMeaning": "Cùng học từ “aerobics”: thể dục nhịp điệu.",
+   "emoji": "",
+   "ipa": "/ɜrˈoʊbɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "confusion",
+   "meaning": "sự lẫn lộn, sự nhầm lẫn",
+   "example": "to throw the enemy into confusion",
+   "exampleMeaning": "Làm cho quân địch rối loạn",
+   "emoji": "",
+   "ipa": "/kənˈfjuʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "warmth",
+   "meaning": "hơi nóng (lửa, mặt trời), nhiệt",
+   "example": "His smile conveyed warmth and friendliness.",
+   "exampleMeaning": "Nụ của của anh mang đến sự ấm áp và thân thiện.",
+   "emoji": "",
+   "ipa": "/ˈwɔrmθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "object",
+   "meaning": "phản đối, chống, chống đối",
+   "example": "His object is to become CEO.",
+   "exampleMeaning": "Mục tiêu của anh ấy là trở thành CEO.",
+   "emoji": "",
+   "ipa": "/ˈɑbdʒɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nonetheless",
+   "meaning": "tuy nhiên, dù sao",
+   "example": "Let's learn the word \"nonetheless\".",
+   "exampleMeaning": "Cùng học từ “nonetheless”: tuy nhiên, dù sao.",
+   "emoji": "",
+   "ipa": "/ˌnənðəˈlɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pump",
+   "meaning": "bơm",
+   "example": "to pump water out of a ship",
+   "exampleMeaning": "Bơm nước ra khỏi con tàu",
+   "emoji": "",
+   "ipa": "/ˈpəmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "luggage",
+   "meaning": "hành lý",
+   "example": "Let's learn the word \"luggage\".",
+   "exampleMeaning": "Cùng học từ “luggage”: hành lý.",
+   "emoji": "🧳",
+   "ipa": "/ˈləɡədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "diaper",
+   "meaning": "vải kẻ hình thoi",
+   "example": "Let's learn the word \"diaper\".",
+   "exampleMeaning": "Cùng học từ “diaper”: vải kẻ hình thoi.",
+   "emoji": "",
+   "ipa": "/ˈdaɪpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "minimum",
+   "meaning": "tối thiểu",
+   "example": "a minimum price",
+   "exampleMeaning": "Giá tối thiểu",
+   "emoji": "",
+   "ipa": "/ˈmɪ.nə.məm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "diligent",
+   "meaning": "siêng năng, chuyên cần, cần cù",
+   "example": "Let's learn the word \"diligent\".",
+   "exampleMeaning": "Cùng học từ “diligent”: siêng năng, chuyên cần, cần cù.",
+   "emoji": "",
+   "ipa": "/ˈdɪlɪdʒənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "second-hand",
+   "meaning": "cũ, mua lại (quần áo, sách vở)",
+   "example": "Let's learn the word \"second-hand\".",
+   "exampleMeaning": "Cùng học từ “second-hand”: cũ, mua lại (quần áo, sách vở).",
+   "emoji": "",
+   "ipa": "/ˈsɛkənd ˈhænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sour",
+   "meaning": "chua",
+   "example": "his game has gone sour",
+   "exampleMeaning": "Lối chơi của hắn đâm tồi ra",
+   "emoji": "",
+   "ipa": "/ˈsaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Did",
+    "Tom",
+    "object"
+   ],
+   "reading": "",
+   "meaning": "Tom có phản đối không?"
+  },
+  {
+   "tokens": [
+    "It",
+    "smells",
+    "sour"
+   ],
+   "reading": "",
+   "meaning": "Nó có mùi chua."
+  },
+  {
+   "tokens": [
+    "She",
+    "did",
+    "the",
+    "bare",
+    "minimum"
+   ],
+   "reading": "",
+   "meaning": "Cô ta thực hiện đúng những yêu cầu tối thiểu."
+  },
+  {
+   "tokens": [
+    "His",
+    "object",
+    "is",
+    "to",
+    "become",
+    "CEO"
+   ],
+   "reading": "",
+   "meaning": "Mục tiêu của anh ấy là trở thành CEO."
+  },
+  {
+   "tokens": [
+    "His",
+    "smile",
+    "conveyed",
+    "warmth",
+    "and",
+    "friendliness"
+   ],
+   "reading": "",
+   "meaning": "Nụ của của anh mang đến sự ấm áp và thân thiện."
+  }
+ ],
+ "issues": []
+}

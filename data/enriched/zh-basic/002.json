@@ -1,0 +1,331 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "也",
+   "meaning": "cũng vầy, cũng thế, vậy",
+   "example": "我也和你想的一样。",
+   "exampleMeaning": "Tôi cũng nghĩ như anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yě",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "都",
+   "meaning": "tất cả, hết thảy, toàn bộ",
+   "example": "她一整晚都在哭。",
+   "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "对",
+   "meaning": "đúng, chính xác",
+   "example": "她对大家都很亲切。",
+   "exampleMeaning": "Đối với mọi người, nó đều rất thân thiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "到",
+   "meaning": "được, tới nơi, chu đáo",
+   "example": "我从早考到晚。",
+   "exampleMeaning": "Tôi đã làm bài thi từ sáng tới tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上",
+   "meaning": "trên, cao, thượng",
+   "example": "我父親開車去上班。",
+   "exampleMeaning": "Ba tui đi làm bằng xe hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "来",
+   "meaning": "đến",
+   "example": "别让狗进来。",
+   "exampleMeaning": "Không được cho chó vào bên trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lái",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "很",
+   "meaning": "rất",
+   "example": "今天很热。",
+   "exampleMeaning": "Hôm nay cực nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "还",
+   "meaning": "trả",
+   "example": "这首歌也还可以吧？",
+   "exampleMeaning": "Bài hát ấy cũng hay đấy chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hái",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "去",
+   "meaning": "đi, đi tới, phải",
+   "example": "我该去睡觉了。",
+   "exampleMeaning": "Tôi phải đi ngủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "她",
+   "meaning": "cô ấy",
+   "example": "你认为她多大？",
+   "exampleMeaning": "Bạn nghĩ cô ấy bao nhiêu tuổi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "着",
+   "meaning": "đạt tới, cảm thấy, có cảm giác",
+   "example": "这几条狗，它们灵着呢。",
+   "exampleMeaning": "Mấy con chó này chúng nó khôn lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zháo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "想",
+   "meaning": "nhớ",
+   "example": "我们很想去。",
+   "exampleMeaning": "Chúng tôi rất muốn đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "给",
+   "meaning": "no đủ",
+   "example": "何不送给她一些花?",
+   "exampleMeaning": "Sao bạn không thử tặng cho cô ấy ít hoa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gěi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "没有",
+   "meaning": "không (tồn tại)",
+   "example": "小时候我没有自行车。",
+   "exampleMeaning": "Hồi nhỏ tôi không có xe đạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méiyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "能",
+   "meaning": "có thể",
+   "example": "明天我能去你家。",
+   "exampleMeaning": "Ngày mai tôi đến nhà anh được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "néng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "那",
+   "meaning": "nhiều, nhiều cái, nhiều người",
+   "example": "男孩子在那儿。",
+   "exampleMeaning": "Thằng bé ở đằng kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nuó",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "他们",
+   "meaning": "họ",
+   "example": "他们生活得很幸福。",
+   "exampleMeaning": "Họ đã có một cuộc sống hạnh phúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāmen",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "看",
+   "meaning": "thử",
+   "example": "我看了一本書。",
+   "exampleMeaning": "Tôi đã xem một quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "做",
+   "meaning": "chế tạo, soạn, sáng tác",
+   "example": "我現在有很多事要做。",
+   "exampleMeaning": "Tôi có rất nhiều việc cần làm bây giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "什么",
+   "meaning": "gì",
+   "example": "你想买些什么？",
+   "exampleMeaning": "Anh muốn mua những gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shénme",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "对",
+    "大家",
+    "都",
+    "很",
+    "亲切"
+   ],
+   "reading": "tā duì dàjiā dōu hěn qīnqiè",
+   "meaning": "Đối với mọi người, nó đều rất thân thiết."
+  },
+  {
+   "tokens": [
+    "她",
+    "一个人",
+    "看来",
+    "看",
+    "去",
+    "大约",
+    "看",
+    "了",
+    "半个",
+    "小时"
+   ],
+   "reading": "tā yīgèrén kànlai kàn qù dàyuē kàn le bànge xiǎoshí",
+   "meaning": "Cô ngắm đi ngắm lại một mình độ nửa giờ."
+  },
+  {
+   "tokens": [
+    "我们",
+    "很",
+    "想",
+    "去"
+   ],
+   "reading": "wǒmen hěn xiǎng qù",
+   "meaning": "Chúng tôi rất muốn đi."
+  },
+  {
+   "tokens": [
+    "她",
+    "对",
+    "我们",
+    "很",
+    "亲切"
+   ],
+   "reading": "tā duì wǒmen hěn qīnqiè",
+   "meaning": "Nó rất thân thiết với chúng tôi."
+  },
+  {
+   "tokens": [
+    "您",
+    "赞成",
+    "还是",
+    "反对",
+    "他",
+    "的",
+    "想法"
+   ],
+   "reading": "nín zànchéng háishi fǎnduì tā de xiǎngfǎ",
+   "meaning": "Ông tán thành hay phản đối ý kiến của nó?"
+  }
+ ],
+ "issues": []
+}

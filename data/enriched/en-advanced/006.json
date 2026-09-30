@@ -1,0 +1,328 @@
+{
+ "lesson": 6,
+ "draft": true,
+ "words": [
+  {
+   "term": "overlook",
+   "meaning": "không nhận thấy, không chú ý tới",
+   "example": "my windows overlook the garden",
+   "exampleMeaning": "Cửa sổ buồng trông xuống vườn",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌlʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "humiliating",
+   "meaning": "làm nhục, làm bẽ mặt",
+   "example": "Let's learn the word \"humiliating\".",
+   "exampleMeaning": "Cùng học từ “humiliating”: làm nhục, làm bẽ mặt.",
+   "emoji": "",
+   "ipa": "/hjuːˈmɪliˌeɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "verbal",
+   "meaning": "từ, (thuộc) lời",
+   "example": "a good verbal memory",
+   "exampleMeaning": "Trí nhớ từ tốt",
+   "emoji": "",
+   "ipa": "/ˈvɜrbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "packet",
+   "meaning": "gói",
+   "example": "to catch (stop) a packet",
+   "exampleMeaning": "Bị ăn đạn",
+   "emoji": "",
+   "ipa": "/ˈpækət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dehumanize",
+   "meaning": "làm mất tính người",
+   "example": "Let's learn the word \"dehumanize\".",
+   "exampleMeaning": "Cùng học từ “dehumanize”: làm mất tính người.",
+   "emoji": "",
+   "ipa": "/dɪˈhjumənaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "offend",
+   "meaning": "xúc phạm, làm bực mình, làm khó chịu",
+   "example": "to offend against law",
+   "exampleMeaning": "Vi phạm luật pháp",
+   "emoji": "",
+   "ipa": "/əˈfɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nominee",
+   "meaning": "người được chỉ định",
+   "example": "Let's learn the word \"nominee\".",
+   "exampleMeaning": "Cùng học từ “nominee”: người được chỉ định.",
+   "emoji": "",
+   "ipa": "/ˌnɑməˈni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tray",
+   "meaning": "khay, mâm",
+   "example": "He lifted the tray above the kids.",
+   "exampleMeaning": "Anh ấy đã nhấc chiếc khay lên phía trên bọn trẻ.",
+   "emoji": "",
+   "ipa": "/ˈtreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "molecular",
+   "meaning": "phân tử",
+   "example": "Let's learn the word \"molecular\".",
+   "exampleMeaning": "Cùng học từ “molecular”: phân tử.",
+   "emoji": "",
+   "ipa": "/məˈlɛkjəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "relieved",
+   "meaning": "cảm thấy bớt căng thẳng",
+   "example": "Tom was relieved to hear that.",
+   "exampleMeaning": "Tom đã thở phào nhẹ nhõm khi nghe được điều đó.",
+   "emoji": "",
+   "ipa": "/riˈlivd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bombard",
+   "meaning": "bắn phá, ném bom, oanh tạc",
+   "example": "Let's learn the word \"bombard\".",
+   "exampleMeaning": "Cùng học từ “bombard”: bắn phá, ném bom, oanh tạc.",
+   "emoji": "",
+   "ipa": "/bɑmˈbɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "misleading",
+   "meaning": "làm cho lạc đường, làm cho lạc lối",
+   "example": "Let's learn the word \"misleading\".",
+   "exampleMeaning": "Cùng học từ “misleading”: làm cho lạc đường, làm cho lạc lối.",
+   "emoji": "",
+   "ipa": "/mɪˈslidɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cuff",
+   "meaning": "cổ tay áo (sơ mi, vét)",
+   "example": "Let's learn the word \"cuff\".",
+   "exampleMeaning": "Cùng học từ “cuff”: cổ tay áo (sơ mi, vét).",
+   "emoji": "",
+   "ipa": "/ˈkəf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "serene",
+   "meaning": "ngài, Đức, Tướng công (tiếng tôn xưng)",
+   "example": "a serene life",
+   "exampleMeaning": "Cuộc sống thanh bình",
+   "emoji": "",
+   "ipa": "/sɜrˈin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "relay",
+   "meaning": "rơle",
+   "example": "electromagnetic type relay",
+   "exampleMeaning": "Rơle điện tử",
+   "emoji": "",
+   "ipa": "/ˈriˌleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shuttle",
+   "meaning": "tàu Con thoi",
+   "example": "Let's learn the word \"shuttle\".",
+   "exampleMeaning": "Cùng học từ “shuttle”: tàu Con thoi.",
+   "emoji": "",
+   "ipa": "/ˈʃətəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anonymous",
+   "meaning": "giấu tên",
+   "example": "I received an anonymous letter.",
+   "exampleMeaning": "Tôi nhận được một bức thư nặc danh.",
+   "emoji": "",
+   "ipa": "/əˈnɑnəməs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bruise",
+   "meaning": "vết thâm tím (trên người)",
+   "example": "Let's learn the word \"bruise\".",
+   "exampleMeaning": "Cùng học từ “bruise”: vết thâm tím (trên người).",
+   "emoji": "",
+   "ipa": "/ˈbruz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rejoin",
+   "meaning": "quay lại, trở lại (đội ngũ... )",
+   "example": "to rejoin the colours",
+   "exampleMeaning": "(quân sự) trở lại quân ng",
+   "emoji": "",
+   "ipa": "/riˈdʒɔɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "necessarily",
+   "meaning": "tất yếu, nhất thiết",
+   "example": "Let's learn the word \"necessarily\".",
+   "exampleMeaning": "Cùng học từ “necessarily”: tất yếu, nhất thiết.",
+   "emoji": "",
+   "ipa": "/ˌnɛsəˈsɛrəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "translation",
+    "is",
+    "misleading"
+   ],
+   "reading": "",
+   "meaning": "Bản dịch này có thể gây hiểu lầm."
+  },
+  {
+   "tokens": [
+    "Verbal",
+    "agreements",
+    "are",
+    "unreliable"
+   ],
+   "reading": "",
+   "meaning": "Thỏa thuận miệng thì không đáng tin."
+  },
+  {
+   "tokens": [
+    "I",
+    "received",
+    "an",
+    "anonymous",
+    "letter"
+   ],
+   "reading": "",
+   "meaning": "Tôi nhận được một bức thư nặc danh."
+  },
+  {
+   "tokens": [
+    "He",
+    "lifted",
+    "the",
+    "tray",
+    "above",
+    "the",
+    "kids"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã nhấc chiếc khay lên phía trên bọn trẻ."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "relieved",
+    "to",
+    "hear",
+    "that",
+    "he",
+    "was",
+    "safe"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã yên tâm khi nghe tin anh ấy không sao."
+  }
+ ],
+ "issues": []
+}

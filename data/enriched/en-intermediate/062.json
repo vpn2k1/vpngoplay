@@ -1,0 +1,320 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "transport",
+   "meaning": "sự chuyên chở, sự vận tải",
+   "example": "the transport of passengers and goods",
+   "exampleMeaning": "Sự chuyên chở hành khách và hàng hoá",
+   "emoji": "",
+   "ipa": "/ˈtrænspɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "edition",
+   "meaning": "loại sách in ra loại sách xuất bản",
+   "example": "she is a livelier edition of her sister",
+   "exampleMeaning": "Cô ta giống hệt như cô chị nhưng hoạt bát hơn",
+   "emoji": "",
+   "ipa": "/əˈdɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "surely",
+   "meaning": "chắc chắn",
+   "example": "Surely you can't be serious.",
+   "exampleMeaning": "Chắc chắn là bạn không thể nghiêm túc được.",
+   "emoji": "",
+   "ipa": "/ˈʃʊrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "curiosity",
+   "meaning": "sự tò mò",
+   "example": "Curiosity got the better of Tom.",
+   "exampleMeaning": "Tom không kìm được sự tò mò.",
+   "emoji": "",
+   "ipa": "/ˌkjʊriˈɑsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "heal",
+   "meaning": "hàn gắn (mối quan hệ bị nứt rạn)",
+   "example": "A doctor cannot heal himself.",
+   "exampleMeaning": "Bác sĩ không tự chữa cho mình được.",
+   "emoji": "",
+   "ipa": "/ˈhil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prepared",
+   "meaning": "đã chuẩn bị",
+   "example": "Tom was well prepared for the exam.",
+   "exampleMeaning": "Tom đã chuẩn bị đầy đủ cho kỳ thi.",
+   "emoji": "",
+   "ipa": "/priˈpɛrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "surface",
+   "meaning": "mặt, mặt ngoài bề mặt",
+   "example": "About 9.4% of the surface of the earth is covered in forest.",
+   "exampleMeaning": "Khoảng 9,4% bề mặt trái đất bị băng tuyết bao phủ.",
+   "emoji": "",
+   "ipa": "/ˈsɜrfəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "formal",
+   "meaning": "hình thức",
+   "example": "a formal resemblance",
+   "exampleMeaning": "Giống nhau về hình thức",
+   "emoji": "",
+   "ipa": "/ˈfɔrməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "desperate",
+   "meaning": "không còn hy vọng, tuyệt vọng",
+   "example": "a desperate act",
+   "exampleMeaning": "Hành động liều lĩnh",
+   "emoji": "",
+   "ipa": "/ˈdɛspɜrɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inspire",
+   "meaning": "truyền (cảm hứng, ý nghĩ... )",
+   "example": "Let's learn the word \"inspire\".",
+   "exampleMeaning": "Cùng học từ “inspire”: truyền (cảm hứng, ý nghĩ... ).",
+   "emoji": "",
+   "ipa": "/ˌɪnˈspaɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disagreement",
+   "meaning": "sự khác nhau, sự không giống nhau",
+   "example": "to be in disagreement with someone",
+   "exampleMeaning": "Không đồng ý kiến với ai",
+   "emoji": "",
+   "ipa": "/dɪsəˈɡrimənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gap",
+   "meaning": "lỗ hổng, kẽ hở",
+   "example": "a gap in the hedge",
+   "exampleMeaning": "Lỗ hổng ở hàng rào",
+   "emoji": "",
+   "ipa": "/ˈɡæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "largely",
+   "meaning": "ở mức độ lớn",
+   "example": "His success was largely due to hard work.",
+   "exampleMeaning": "Sự thành công của anh ấy phần lớn là do làm việc chăm chỉ.",
+   "emoji": "",
+   "ipa": "/ˈlɑrdʒli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "emission",
+   "meaning": "sự phát ra (ánh sáng, nhiệt... )",
+   "example": "Let's learn the word \"emission\".",
+   "exampleMeaning": "Cùng học từ “emission”: sự phát ra (ánh sáng, nhiệt... ).",
+   "emoji": "",
+   "ipa": "/ɪˈmɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "confidence",
+   "meaning": "tin cậy",
+   "example": "to take somebody into one's confidence",
+   "exampleMeaning": "Thổ lộ chuyện riêng với ai",
+   "emoji": "",
+   "ipa": "/ˈkɑnfədəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "interviewee",
+   "meaning": "người được gặp mặt",
+   "example": "Let's learn the word \"interviewee\".",
+   "exampleMeaning": "Cùng học từ “interviewee”: người được gặp mặt.",
+   "emoji": "",
+   "ipa": "/ˌɪntɜrvjuˈi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sometime",
+   "meaning": "một lúc nào đó ((cũng) some_time)",
+   "example": "Of course I will go to France sometime, it's just that I don't know when.",
+   "exampleMeaning": "Dĩ nhiên là tôi sẽ đi Pháp vào một ngày nào đó, chỉ là chưa biết là khi nào thôi.",
+   "emoji": "",
+   "ipa": "/ˈsəmˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "emotionally",
+   "meaning": "phó từ",
+   "example": "Let's learn the word \"emotionally\".",
+   "exampleMeaning": "Cùng học từ “emotionally”: phó từ.",
+   "emoji": "",
+   "ipa": "/ˈiˌmoʊʃnəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "signal",
+   "meaning": "ra hiệu, báo hiệu",
+   "example": "He gave us the signal to begin.",
+   "exampleMeaning": "Anh ta đã bật đèn xanh cho chúng tôi bắt đầu.",
+   "emoji": "",
+   "ipa": "/ˈsɪɡnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "obstacle",
+   "meaning": "vật chướng ngại, trở lực",
+   "example": "Let's learn the word \"obstacle\".",
+   "exampleMeaning": "Cùng học từ “obstacle”: vật chướng ngại, trở lực.",
+   "emoji": "",
+   "ipa": "/ˈɑbstəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Call",
+    "me",
+    "sometime"
+   ],
+   "reading": "",
+   "meaning": "Lúc nào điện cho tôi nhé."
+  },
+  {
+   "tokens": [
+    "Have",
+    "confidence",
+    "in",
+    "yourself"
+   ],
+   "reading": "",
+   "meaning": "Hãy tự tin vào bản thân."
+  },
+  {
+   "tokens": [
+    "There",
+    "is",
+    "no",
+    "signal"
+   ],
+   "reading": "",
+   "meaning": "Không có tín hiệu nào cả."
+  },
+  {
+   "tokens": [
+    "I",
+    "utterly",
+    "despise",
+    "formal",
+    "writing"
+   ],
+   "reading": "",
+   "meaning": "Tôi rất ghét phải viết theo khuôn mẫu!"
+  },
+  {
+   "tokens": [
+    "Maybe",
+    "I'll",
+    "call",
+    "you",
+    "sometime"
+   ],
+   "reading": "",
+   "meaning": "Có lẽ tôi sẽ gọi cho cậu lúc nào đó."
+  }
+ ],
+ "issues": []
+}

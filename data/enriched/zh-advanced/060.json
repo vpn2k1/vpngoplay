@@ -1,0 +1,329 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "特质",
+   "meaning": "tính chất đặc biệt",
+   "example": "在他身上仍然保留着某些农民的淳厚朴实的特质。",
+   "exampleMeaning": "Trong con người anh ấy vẫn còn giữ được những phẩm chất của người nông dân thật thà, chất phác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "做生意",
+   "meaning": "buôn bán",
+   "example": "我们来学“做生意”这个词。",
+   "exampleMeaning": "Cùng học từ “做生意”: buôn bán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòshēngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高效",
+   "meaning": "hiệu quả cao",
+   "example": "高效灭虫剂",
+   "exampleMeaning": "Thuốc diệt côn trùng hiệu quả cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "届时",
+   "meaning": "đến ngày",
+   "example": "届时务请出席。",
+   "exampleMeaning": "Đến ngày, xin mời đến dự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jièshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寝室",
+   "meaning": "phòng ngủ",
+   "example": "我们来学“寝室”这个词。",
+   "exampleMeaning": "Cùng học từ “寝室”: phòng ngủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密封",
+   "meaning": "bịt kín",
+   "example": "用白蜡密封瓶口以防药物发潮或挥发。",
+   "exampleMeaning": "Dùng sáp bịt kín miệng chai đề phòng thuốc bị ẩm hoặc bị bay hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高明",
+   "meaning": "cao siêu",
+   "example": "他手艺是高明、做出来的东西就是不一样。",
+   "exampleMeaning": "Tay nghề của ông ta thật cao siêu, mấy thứ làm ra không cái nào giống cái nào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāomíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "获悉",
+   "meaning": "được biết",
+   "example": "日前获悉，他以南下探亲。",
+   "exampleMeaning": "Được biết mấy ngày trước, anh ấy đã về miền Nam thăm người thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胆子",
+   "meaning": "lòng can đảm",
+   "example": "胆子不小",
+   "exampleMeaning": "Lòng can đảm không nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "叼",
+   "meaning": "ngậm",
+   "example": "黄鼠狼叼走了小鸡。",
+   "exampleMeaning": "Con chồn sóc tha mất con gà con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "堵塞",
+   "meaning": "tắc nghẽn",
+   "example": "公路被塌下来的山石堵塞了。",
+   "exampleMeaning": "Con đường bị đá trên núi lỡ xuống làm tắc nghẽn mất rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǔsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "漂",
+   "meaning": "hỏng",
+   "example": "这里你可以看到漂亮的颜色组合。",
+   "exampleMeaning": "Bạn có thể thấy một tổ hợp màu rất đẹp ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "磕",
+   "meaning": "đội",
+   "example": "碗边儿磕掉了一块。",
+   "exampleMeaning": "Miệng bát bị va mẻ một miếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kē",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分明",
+   "meaning": "rõ ràng",
+   "example": "他分明朝你来的方向去的，你怎么没有看见他？",
+   "exampleMeaning": "Nó rõ ràng là từ phía anh đi tới, lẽ nào anh lại không thấy nó？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "料理",
+   "meaning": "sắp xếp",
+   "example": "你吃過日本料理嗎？",
+   "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liàolǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "礼品",
+   "meaning": "quà tặng",
+   "example": "我们来学“礼品”这个词。",
+   "exampleMeaning": "Cùng học từ “礼品”: quà tặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "剧烈",
+   "meaning": "mạnh",
+   "example": "饭后不宜做剧烈运动。",
+   "exampleMeaning": "Sau khi ăn cơm không nên vận động mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùliè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "填补",
+   "meaning": "bổ sung",
+   "example": "填补缺额",
+   "exampleMeaning": "Bổ sung chỗ khuyết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiánbǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "起伏",
+   "meaning": "nhấp nhô",
+   "example": "这一带全是连绵起伏的群山。",
+   "exampleMeaning": "Vùng này đều là những dãy núi nhấp nhô trùng điệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手掌",
+   "meaning": "bàn tay",
+   "example": "我们来学“手掌”这个词。",
+   "exampleMeaning": "Cùng học từ “手掌”: bàn tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  },
+  {
+   "tokens": [
+    "这",
+    "件",
+    "衣服",
+    "真",
+    "漂亮"
+   ],
+   "reading": "zhè jiàn yīfu zhēn piàoliang",
+   "meaning": "Bộ đồ này rất đẹp."
+  },
+  {
+   "tokens": [
+    "这里",
+    "你",
+    "可以",
+    "看",
+    "到",
+    "漂亮",
+    "的",
+    "颜色",
+    "组合"
+   ],
+   "reading": "zhèlǐ nǐ kěyǐ kàn dào piàoliang de yánsè zǔhé",
+   "meaning": "Bạn có thể thấy một tổ hợp màu rất đẹp ở đây."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "表",
+    "被",
+    "偷",
+    "了"
+   ],
+   "reading": "wǒ de biǎo bèi tōu le",
+   "meaning": "Đồng hồ của tôi bị trộm mất rồi."
+  },
+  {
+   "tokens": [
+    "他",
+    "怎么",
+    "敢",
+    "抱怨"
+   ],
+   "reading": "tā zěnme gǎn bàoyuàn",
+   "meaning": "Sao anh ta lại dám phàn nàn cơ chứ?"
+  }
+ ],
+ "issues": []
+}

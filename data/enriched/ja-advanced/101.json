@@ -1,0 +1,323 @@
+{
+ "lesson": 101,
+ "draft": true,
+ "words": [
+  {
+   "term": "表彰",
+   "meaning": "sự khen ngợi, sự ca ngợi, sự tán dương",
+   "example": "「僕ね、卒業式で表彰されることになったんだ。今から、予行演習があるから行ってくるね」「すごいね。行ってらっしゃい。表彰台で躓かないようにね」",
+   "exampleMeaning": "\"Tớ sẽ được tuyên dương trong buổi lễ tốt nghiệp đấy. Bây giờ tớ phải đi tập dượt rồi, chào cậu nhé!\" \"Giỏi quá! Cậu đi mạnh giỏi nhé! Trên bục tuyên dương thì cố gắng đừng trượt chân ngã nhé!\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分科会",
+   "meaning": "phân ban, tiểu ban (trong một ủy ban)",
+   "example": "「分科会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分科会”: phân ban, tiểu ban (trong một ủy ban).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "解体",
+   "meaning": "sự phá huỷ",
+   "example": "「解体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “解体”: sự phá huỷ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化学兵器",
+   "meaning": "vũ khí hóa học",
+   "example": "「化学兵器」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “化学兵器”: vũ khí hóa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "車種",
+   "meaning": "car model (EN)",
+   "example": "「車種」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “車種”: car model (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一位",
+   "meaning": "một tên dành cho nữ",
+   "example": "「一位」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一位”: một tên dành cho nữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "座",
+   "meaning": "nơi, chỗ, địa điểm",
+   "example": "猫が机の上に座る。",
+   "exampleMeaning": "Con mèo ngồi ở trên bàn",
+   "emoji": "💺",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同年",
+   "meaning": "that year (EN)",
+   "example": "「同年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同年”: that year (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一挙",
+   "meaning": "one effort (EN)",
+   "example": "「一挙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一挙”: one effort (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "条件付き",
+   "meaning": "ước định, quy định",
+   "example": "「条件付き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “条件付き”: ước định, quy định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見込む",
+   "meaning": "dùng trước, hưởng trước",
+   "example": "「見込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見込む”: dùng trước, hưởng trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市部",
+   "meaning": "khu vực đô thị",
+   "example": "「市部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “市部”: khu vực đô thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厚さ",
+   "meaning": "độ dày, bề dày",
+   "example": "「厚さ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “厚さ”: độ dày, bề dày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "東海",
+   "meaning": "Tōkai region (EN)",
+   "example": "「東海」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “東海”: Tōkai region (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "終了後",
+   "meaning": "after the end (EN)",
+   "example": "「終了後」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “終了後”: after the end (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "記念日",
+   "meaning": "ngày kỷ niệm",
+   "example": "今日は両親の結婚記念日です。",
+   "exampleMeaning": "Hôm nay là ngày kỷ niệm lễ cưới của cha mẹ tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "結婚式",
+   "meaning": "lễ cưới",
+   "example": "私は先月結婚式を挙げました。",
+   "exampleMeaning": "Tôi đã tổ chức đám cưới vào tháng trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "外食",
+   "meaning": "eating out (EN)",
+   "example": "今夜は外食にしようよ。",
+   "exampleMeaning": "Tối nay mình đi ăn ngoài đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "修復",
+   "meaning": "sự hoàn lại, sự trả lại (vật gì mất)",
+   "example": "そういった活動を通じて、ユネスコ認定の遺産をはじめ、ベトナムにおけるそのほかの自然文化財の保護、修復や価値伝達に関する知識、経験などの共有をしていきたいです。",
+   "exampleMeaning": "Qua đó chúng ta có thể học hỏi những bài học và kiến thức về bảo vệ, bảo tồn di sản và phát huy giá trị di sản, tự nhiên, cũng như các loại hình, danh hiệu khác của UNESCO tại Việt Nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "取り組み",
+   "meaning": "công sức, sự cố gắng, sự ráng sức",
+   "example": "「取り組み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り組み”: công sức, sự cố gắng, sự ráng sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今夜",
+    "は",
+    "外食",
+    "だ"
+   ],
+   "reading": "こんやはがいしょくだ",
+   "meaning": "Tôi sẽ ăn ngoài tối nay."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "先月",
+    "結婚式",
+    "を",
+    "挙げました"
+   ],
+   "reading": "わたしはせんげつけっこんしきをあげました",
+   "meaning": "Tôi đã tổ chức đám cưới vào tháng trước."
+  },
+  {
+   "tokens": [
+    "座り",
+    "な",
+    "よ"
+   ],
+   "reading": "すわりなよ",
+   "meaning": "Cứ ngồi nhé."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "床",
+    "に",
+    "座っていた"
+   ],
+   "reading": "かれはゆかにすわっていた",
+   "meaning": "Anh ta ngồi lên giường."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私の",
+    "側",
+    "に",
+    "座った"
+   ],
+   "reading": "かれはわたしのそばにすわった",
+   "meaning": "Anh ấy đã ngồi cạnh tôi."
+  }
+ ],
+ "issues": []
+}

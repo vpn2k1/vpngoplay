@@ -1,0 +1,329 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "服务",
+   "meaning": "phục vụ",
+   "example": "他在邮局服务了三十年。",
+   "exampleMeaning": "Ông ấy làm ở bưu điện đã 30 năm rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "想到",
+   "meaning": "suy nghĩ, ngẫm nghĩ, tưởng",
+   "example": "当时我没想到这个问题。",
+   "exampleMeaning": "Lúc đó, tôi không nghĩ đến vấn đề này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎngdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行为",
+   "meaning": "hành động, hành vi",
+   "example": "一个人要为他的行为负责。",
+   "exampleMeaning": "Một người phải có trách nhiệm với những hành động của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "挺",
+   "meaning": "rất",
+   "example": "他有病还硬挺着上班。",
+   "exampleMeaning": "Anh ấy bị bệnh vẫn gắng gượng đi làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好像",
+   "meaning": "như",
+   "example": "好像我成电灯泡了。我该走了。",
+   "exampleMeaning": "Tôi là người thứ ba rùi, vậy phải đi thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "克",
+   "meaning": "tiêu hoá",
+   "example": "帕克夫人面帶微笑向他打招呼。",
+   "exampleMeaning": "Bà Parker mỉm cười chào anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "愿意",
+   "meaning": "muốn, mong, hy vọng",
+   "example": "所以别人都不愿意和你合作。",
+   "exampleMeaning": "Vì vậy họ đều không muốn hợp tác với anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuànyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "装",
+   "meaning": "làm ra vẻ",
+   "example": "我在检查这里有没有激光警报装置。",
+   "exampleMeaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "音乐",
+   "meaning": "âm nhạc",
+   "example": "我们来学“音乐”这个词。",
+   "exampleMeaning": "Cùng học từ “音乐”: âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnyuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感谢",
+   "meaning": "cảm ơn",
+   "example": "我很感谢他的热情帮助。",
+   "exampleMeaning": "Tôi rất cảm ơn sự nhiệt tình giúp đỡ của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnxiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "座",
+   "meaning": "toà",
+   "example": "他把座位讓給了老人。",
+   "exampleMeaning": "Nó nhường chỗ cho người lớn tuổi.",
+   "emoji": "💺",
+   "ipa": "",
+   "pinyin": "zuò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "那样",
+   "meaning": "như vậy",
+   "example": "我哪里说过那样的话？",
+   "exampleMeaning": "Tôi có nói thế đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "往",
+   "meaning": "đến, tới, về",
+   "example": "本次列车开往中山公园。",
+   "exampleMeaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "眼",
+   "meaning": "lỗ",
+   "example": "我们的眼睛需要时间来适应黑暗。",
+   "exampleMeaning": "Mắt của chúng ta cần thời gian để điều chỉnh với bóng tối.",
+   "emoji": "👁",
+   "ipa": "",
+   "pinyin": "yǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "感到",
+   "meaning": "cảm thấy",
+   "example": "他对生活感到很无奈。",
+   "exampleMeaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎndào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "清楚",
+   "meaning": "rõ ràng",
+   "example": "他还没有把情况了解清楚就急忙发表意见。",
+   "exampleMeaning": "Anh ta chưa biết rõ tình hình đã phát biểu ý kiến ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngchu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "照片",
+   "meaning": "tấm ảnh",
+   "example": "我们来学“照片”这个词。",
+   "exampleMeaning": "Cùng học từ “照片”: tấm ảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàopiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "停",
+   "meaning": "phần",
+   "example": "停止大声说话。",
+   "exampleMeaning": "Cấm nói lớn tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "银行",
+   "meaning": "ngân hàng",
+   "example": "罪犯们密谋抢劫银行。",
+   "exampleMeaning": "Bọn tội phạm đang âm mưu cướp ngân hàng.",
+   "emoji": "🏦",
+   "ipa": "",
+   "pinyin": "yínháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "故事",
+   "meaning": "truyện",
+   "example": "神话故事。",
+   "exampleMeaning": "Truyện thần thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  },
+  {
+   "tokens": [
+    "她",
+    "整",
+    "晚",
+    "不",
+    "停",
+    "地",
+    "哭"
+   ],
+   "reading": "tā zhěng wǎn bù tíng de kū",
+   "meaning": "Cô ấy đã khóc cả đêm."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "他",
+    "把",
+    "座位",
+    "让",
+    "给",
+    "了",
+    "老人"
+   ],
+   "reading": "tā bǎ zuòwèi ràng gěi le lǎorén",
+   "meaning": "Nó nhường chỗ cho người lớn tuổi."
+  },
+  {
+   "tokens": [
+    "我",
+    "哪里",
+    "说",
+    "过",
+    "那样",
+    "的话"
+   ],
+   "reading": "wǒ nǎlǐ shuō guo nàyàng dehuà",
+   "meaning": "Tôi có nói thế đâu?"
+  }
+ ],
+ "issues": []
+}

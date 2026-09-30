@@ -1,0 +1,327 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "雲",
+   "meaning": "mây, đám mây",
+   "example": "ひと雨きそうな雲行きだね。",
+   "exampleMeaning": "Nhìn trời như kiểu sắp mưa rào rồi nhỉ.",
+   "emoji": "☁",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "正月",
+   "meaning": "tháng Một",
+   "example": "「正月」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “正月”: tháng Một.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事務所",
+   "meaning": "sự giúp đỡ",
+   "example": "彼の事務所ならちょっと先です。",
+   "exampleMeaning": "Văn phòng của anh ta ở ngay đằng trước kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "都",
+   "meaning": "thủ đô, thủ phủ",
+   "example": "ケンは京都に着いた。",
+   "exampleMeaning": "Ken đã đến Kyoto.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "けんかする",
+   "meaning": "sự cãi nhau",
+   "example": "「けんかする」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “けんかする”: sự cãi nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "点",
+   "meaning": "chấm nhỏ, điểm",
+   "example": "欠点のない人間はいない。",
+   "exampleMeaning": "Không có người nào trên đời không có khuyết điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "続く",
+   "meaning": "tồn tại, kéo dài",
+   "example": "嵐はいつまで続くのだろうか。",
+   "exampleMeaning": "Cơn bão sẽ kéo dài đến bao giờ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "それに",
+   "meaning": "cũng, cũng vầy, cũng thế",
+   "example": "それについては話したくない。",
+   "exampleMeaning": "Tôi không muốn nói về điều đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "注意",
+   "meaning": "chú ý, lưu ý, để ý",
+   "example": "注意深く見なさい。",
+   "exampleMeaning": "Hãy nhìn thật kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "医学",
+   "meaning": "y học",
+   "example": "「医学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “医学”: y học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ごみ",
+   "meaning": "bã",
+   "example": "人ごみは大嫌い。",
+   "exampleMeaning": "Tôi ghét những lúc đông người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "水泳",
+   "meaning": "bơi",
+   "example": "僕は水泳が苦手です。",
+   "exampleMeaning": "Tôi bơi không giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "楽しみ",
+   "meaning": "niềm vui thích, điều thích thú",
+   "example": "来月をとても楽しみにしている。",
+   "exampleMeaning": "Tôi rất mong đợi tháng sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小鳥",
+   "meaning": "người báo tin vô danh",
+   "example": "公園にはそのような小鳥がたくさんいます。",
+   "exampleMeaning": "Trong công viên có nhiều chú chim nhỏ như thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大抵",
+   "meaning": "nói chung, đại thể",
+   "example": "大抵、トムが最初に文句言うよね。",
+   "exampleMeaning": "Thường thì Tom là người đầu tiên phàn nàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スクリーン",
+   "meaning": "bình phong, màn che",
+   "example": "「スクリーン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “スクリーン”: bình phong, màn che.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受付",
+   "meaning": "bàn tiếp tân",
+   "example": "「受付」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受付”: bàn tiếp tân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拝見",
+   "meaning": "việc nhà",
+   "example": "「拝見」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “拝見”: việc nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アクセサリー",
+   "meaning": "đồ phụ tùng",
+   "example": "そのぎらぎらしたアクセサリーは君のトレーナーには合わないよ。こっちを試してごらん。",
+   "exampleMeaning": "Cái thứ phụ kiện lấp lánh đó không hợp với cái áo nỉ của bạn đâu. Hãy thử cái này xem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "捕まえる",
+   "meaning": "bắt giữ, bắt",
+   "example": "私たちは狐を捕まえるためにわなをしかけた。",
+   "exampleMeaning": "Chúng tôi đặt một cái bẫy để bắt cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "落下物",
+    "に",
+    "注意"
+   ],
+   "reading": "らっかぶつにちゅうい",
+   "meaning": "Chú ý vật rơi!"
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "水泳",
+    "が",
+    "苦手",
+    "です"
+   ],
+   "reading": "わたしはすいえいがにがてです",
+   "meaning": "Tôi bơi không giỏi."
+  },
+  {
+   "tokens": [
+    "僕",
+    "は",
+    "水泳",
+    "が",
+    "苦手",
+    "です"
+   ],
+   "reading": "ぼくはすいえいがにがてです",
+   "meaning": "Tôi bơi không giỏi."
+  },
+  {
+   "tokens": [
+    "僕",
+    "は",
+    "水泳",
+    "が",
+    "下手",
+    "や",
+    "ねん"
+   ],
+   "reading": "ぼくはすいえいがへたやねん",
+   "meaning": "Tôi bơi không giỏi."
+  },
+  {
+   "tokens": [
+    "水泳",
+    "は",
+    "筋肉",
+    "を",
+    "発達",
+    "させる"
+   ],
+   "reading": "すいえいはきんにくをはったつさせる",
+   "meaning": "Bơi lội giúp cơ bắp phát triển."
+  }
+ ],
+ "issues": []
+}

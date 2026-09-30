@@ -1,0 +1,318 @@
+{
+ "lesson": 105,
+ "draft": true,
+ "words": [
+  {
+   "term": "grocery store",
+   "meaning": "cửa hàng tạp hóa, tiệm tạp hóa",
+   "example": "Let's learn the word \"grocery store\".",
+   "exampleMeaning": "Cùng học từ “grocery store”: cửa hàng tạp hóa, tiệm tạp hóa.",
+   "emoji": "",
+   "ipa": "/ˈɡroʊsɜri ˈstɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seriously",
+   "meaning": "nghiêm trọng, trầm trọng, nặng",
+   "example": "My mother is seriously ill.",
+   "exampleMeaning": "Mẹ mình đang ốm nặng.",
+   "emoji": "",
+   "ipa": "/ˈsɪriəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chart",
+   "meaning": "đồ thị, biểu đồ",
+   "example": "a weather chart",
+   "exampleMeaning": "Đồ thị thời tiết",
+   "emoji": "",
+   "ipa": "/ˈtʃɑrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "balcony",
+   "meaning": "ban công (trong nhà hát)",
+   "example": "The balcony scene happens in the second act.",
+   "exampleMeaning": "Cảnh ban công diễn ra ở hồi thứ hai.",
+   "emoji": "",
+   "ipa": "/ˈbælkəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "essay",
+   "meaning": "sự làm thử",
+   "example": "Yanni wrote an essay about the environment.",
+   "exampleMeaning": "Yanni đã viết một bài luận văn về môi trường.",
+   "emoji": "",
+   "ipa": "/ˈɛˌseɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "confident",
+   "meaning": "tự tin",
+   "example": "I'm not confident about the future.",
+   "exampleMeaning": "Tôi không tự tin về tương lai.",
+   "emoji": "",
+   "ipa": "/ˈkɑnfədənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "repair",
+   "meaning": "sửa, chuộc (lỗi)",
+   "example": "to repair to some expedient to do something",
+   "exampleMeaning": "Dùng đến mưu chước gì để làm việc",
+   "emoji": "",
+   "ipa": "/rɪˈpɛə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pence",
+   "meaning": "đồng xu penni (1 qoành 2 silinh)",
+   "example": "it costs ten pence",
+   "exampleMeaning": "Cái đó giá 10 xu",
+   "emoji": "",
+   "ipa": "/ˈpɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "horror",
+   "meaning": "sự khiếp, sự ghê rợn",
+   "example": "We stayed around the bonfire telling jokes and horror stories.",
+   "exampleMeaning": "Chúng tôi ngồi thành vòng quanh đống lửa kể cho nhau nghe truyện tếu và truyện ma.",
+   "emoji": "",
+   "ipa": "/ˈhɔrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "somewhere",
+   "meaning": "ở một nơi nào đó",
+   "example": "he lives somewhere near us",
+   "exampleMeaning": "Anh ta sống ở một nơi nào đó gần chúng ta",
+   "emoji": "",
+   "ipa": "/ˈsəmˌwɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "host",
+   "meaning": "chủ",
+   "example": "he is a host in himself",
+   "exampleMeaning": "Mình anh ấy bằng cả một đám đông (có thể làm việc bằng năm bằng mười người gộp lại)",
+   "emoji": "",
+   "ipa": "/həʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "happily",
+   "meaning": "sung sướng, hạnh phúc",
+   "example": "They lived happily ever after.",
+   "exampleMeaning": "Từ đó về sau, họ đã sống hạnh phúc.",
+   "emoji": "",
+   "ipa": "/ˈhæpəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "capital",
+   "meaning": "thủ đô, thủ phủ",
+   "example": "what a capital idea!",
+   "exampleMeaning": "Ý kiến mới tuyệt diệu làm sao!",
+   "emoji": "",
+   "ipa": "/ˈkæpətəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "automatic",
+   "meaning": "tự động",
+   "example": "That's an automatic process.",
+   "exampleMeaning": "Đấy là quy trình tự động.",
+   "emoji": "",
+   "ipa": "/ˌɔtəˈmætɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "scale",
+   "meaning": "cân (vật gì), cân được, cân nặng",
+   "example": "to be high in the scale of creation",
+   "exampleMeaning": "Có tính chất sáng tạo ở trình độ cao",
+   "emoji": "",
+   "ipa": "/ˈskeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "quick",
+   "meaning": "nhanh, mau",
+   "example": "the insult stung him to the quick",
+   "exampleMeaning": "Lời lăng mạ làm anh đau nhói tâm can",
+   "emoji": "",
+   "ipa": "/ˈkwɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tablespoon",
+   "meaning": "muỗng canh",
+   "example": "Let's learn the word \"tablespoon\".",
+   "exampleMeaning": "Cùng học từ “tablespoon”: muỗng canh.",
+   "emoji": "",
+   "ipa": "/ˈteɪbəlˌspun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mug",
+   "meaning": "mồm, miệng",
+   "example": "what an ugly mug!",
+   "exampleMeaning": "Cái mồm sao mà xấu thế!",
+   "emoji": "",
+   "ipa": "/ˈməɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ever",
+   "meaning": "bao giờ",
+   "example": "what ever does he wants?",
+   "exampleMeaning": "Nó muốn cái gì thế nhỉ?",
+   "emoji": "",
+   "ipa": "/ˈɛvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "labor",
+   "meaning": "lao động",
+   "example": "Let's learn the word \"labor\".",
+   "exampleMeaning": "Cùng học từ “labor”: lao động.",
+   "emoji": "",
+   "ipa": "/ˈleɪbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They",
+    "lived",
+    "happily",
+    "ever",
+    "after"
+   ],
+   "reading": "",
+   "meaning": "Từ đó về sau, họ đã sống hạnh phúc."
+  },
+  {
+   "tokens": [
+    "Quick",
+    "Look",
+    "outside"
+   ],
+   "reading": "",
+   "meaning": "Nhanh lên. Nhìn bên ngoài kìa!"
+  },
+  {
+   "tokens": [
+    "He",
+    "lived",
+    "happily"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã sống hạnh phúc."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "somewhere",
+    "about"
+   ],
+   "reading": "",
+   "meaning": "Anh ta ở quanh quẩn đâu đây."
+  },
+  {
+   "tokens": [
+    "Seriously",
+    "You'll",
+    "marry",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Thật không? Em sẽ cưới anh chứ?"
+  }
+ ],
+ "issues": []
+}

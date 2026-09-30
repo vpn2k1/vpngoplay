@@ -1,0 +1,321 @@
+{
+ "lesson": 88,
+ "draft": true,
+ "words": [
+  {
+   "term": "classical music",
+   "meaning": "nhạc cổ điển",
+   "example": "Let's learn the word \"classical music\".",
+   "exampleMeaning": "Cùng học từ “classical music”: nhạc cổ điển.",
+   "emoji": "",
+   "ipa": "/ˈklæsɪkəl ˈmjuzɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "container",
+   "meaning": "cái đựng, cái chứa, vật chứa",
+   "example": "Let's learn the word \"container\".",
+   "exampleMeaning": "Cùng học từ “container”: cái đựng, cái chứa, vật chứa.",
+   "emoji": "",
+   "ipa": "/kənˈteɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "necessary",
+   "meaning": "cần, cần thiết, thiết yếu",
+   "example": "Was it necessary?",
+   "exampleMeaning": "Nó có cần thiết không?",
+   "emoji": "",
+   "ipa": "/ˈnɛsəˌsɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "partly",
+   "meaning": "một phần, phần nào",
+   "example": "The wall is partly covered in ivy.",
+   "exampleMeaning": "Một phần bức tường bị cây thường xuân che phủ.",
+   "emoji": "",
+   "ipa": "/ˈpɑrtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thousand",
+   "meaning": "nghìn",
+   "example": "Can you lend me ten thousand yuan?",
+   "exampleMeaning": "Bạn có thể cho tôi vay mười nghìn tệ được không?",
+   "emoji": "",
+   "ipa": "/ˈθaʊz(ə)nd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "addition",
+   "meaning": "thêm",
+   "example": "I study French in addition to English.",
+   "exampleMeaning": "Tôi không chỉ học tiếng Anh, mà còn học cả tiếng Pháp nữa.",
+   "emoji": "",
+   "ipa": "/əˈdɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "forbid",
+   "meaning": "cấm, ngăn cấm",
+   "example": "to forbid someone wine",
+   "exampleMeaning": "Cấm không cho ai uống rượu",
+   "emoji": "",
+   "ipa": "/fɜrˈbɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "physically",
+   "meaning": "về thân thể",
+   "example": "Let's learn the word \"physically\".",
+   "exampleMeaning": "Cùng học từ “physically”: về thân thể.",
+   "emoji": "",
+   "ipa": "/ˈfɪzɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "product",
+   "meaning": "sản vật, sản phẩm, vật phẩm",
+   "example": "Our product is best in its class.",
+   "exampleMeaning": "Sản phẩm của chúng tôi là tốt nhất trong loại.",
+   "emoji": "",
+   "ipa": "/ˈprɒd.əkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enough",
+   "meaning": "đủ, khá",
+   "example": "you know well enough what I mean",
+   "exampleMeaning": "Anh biết khá rõ tôi muốn nói gì chứ",
+   "emoji": "",
+   "ipa": "/ɪˈnʌf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "produce",
+   "meaning": "sản xuất, chế tạo",
+   "example": "to produce one's ticket at the gate",
+   "exampleMeaning": "Trình vé ở cổng",
+   "emoji": "",
+   "ipa": "/ˈproʊdus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "curse",
+   "meaning": "sự nguyền rủa, sự chửi rủa",
+   "example": "Let's learn the word \"curse\".",
+   "exampleMeaning": "Cùng học từ “curse”: sự nguyền rủa, sự chửi rủa.",
+   "emoji": "",
+   "ipa": "/ˈkɜrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boundary",
+   "meaning": "đường biên giới, ranh giới",
+   "example": "The Boundary between Heaven and Hell",
+   "exampleMeaning": "Ranh giới giữa thiên đường và địa ngục",
+   "emoji": "",
+   "ipa": "/ˈbɑʊn.də.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "complain",
+   "meaning": "kêu ca, kêu, phàn nàn",
+   "example": "How dare he complain?",
+   "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
+   "emoji": "",
+   "ipa": "/kəmˈpleɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sweater",
+   "meaning": "người ra nhiều mồ hôi",
+   "example": "I like to wear a sweater in autumn.",
+   "exampleMeaning": "Tôi thích mặc áo len vào mùa thu.",
+   "emoji": "",
+   "ipa": "/ˈswɛtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "exhibition",
+   "meaning": "triển lãm",
+   "example": "The exhibition will be held next month.",
+   "exampleMeaning": "Buổi triển lãm sẽ được tổ chức vào tháng sau.",
+   "emoji": "",
+   "ipa": "/ˌɛksəˈbɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bill",
+   "meaning": "luật dự thảo, dự luật",
+   "example": "to pass a bill",
+   "exampleMeaning": "Thông qua đạo luật dự thảo",
+   "emoji": "",
+   "ipa": "/ˈbɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "advertising",
+   "meaning": "sự quảng cáo, nghề quảng cáo",
+   "example": "We are planning an advertising campaign to sell more radio.",
+   "exampleMeaning": "Chúng ta đang dự định một chiến dịch quảng cáo để bán được nhiều radio hơn.",
+   "emoji": "",
+   "ipa": "/ˈædvərˌtaɪzɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "consequence",
+   "meaning": "hậu quả, hệ quả, tầm quan trọng",
+   "example": "to take the consequence of something",
+   "exampleMeaning": "Chịu hậu quả của việc gì",
+   "emoji": "",
+   "ipa": "/ˈkɑnsəkwəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sandy",
+   "meaning": "cát",
+   "example": "The white sandy beach is very beautiful.",
+   "exampleMeaning": "Bãi biển cát trắng rất đẹp.",
+   "emoji": "",
+   "ipa": "/ˈsændi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "When",
+    "there",
+    "isn't",
+    "enough",
+    "light",
+    "the",
+    "solar",
+    "doesn't",
+    "produce",
+    "electricity"
+   ],
+   "reading": "",
+   "meaning": "Khi không có đủ ánh sáng, pin mặt trời không tạo ra điện."
+  },
+  {
+   "tokens": [
+    "That's",
+    "good",
+    "enough"
+   ],
+   "reading": "",
+   "meaning": "Vậy là được rồi."
+  },
+  {
+   "tokens": [
+    "I",
+    "produce",
+    "music"
+   ],
+   "reading": "",
+   "meaning": "Tôi sản xuất nhạc."
+  },
+  {
+   "tokens": [
+    "Was",
+    "it",
+    "necessary"
+   ],
+   "reading": "",
+   "meaning": "Nó có cần thiết không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "bill",
+    "please"
+   ],
+   "reading": "",
+   "meaning": "Làm ơn tính tiền."
+  }
+ ],
+ "issues": []
+}

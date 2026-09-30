@@ -1,0 +1,340 @@
+{
+ "lesson": 130,
+ "draft": true,
+ "words": [
+  {
+   "term": "狮子",
+   "meaning": "sư tử",
+   "example": "我们来学“狮子”这个词。",
+   "exampleMeaning": "Cùng học từ “狮子”: sư tử.",
+   "emoji": "🦁",
+   "ipa": "",
+   "pinyin": "shīzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "议员",
+   "meaning": "nghị sĩ",
+   "example": "我们来学“议员”这个词。",
+   "exampleMeaning": "Cùng học từ “议员”: nghị sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "邪恶",
+   "meaning": "gian ác",
+   "example": "我们来学“邪恶”这个词。",
+   "exampleMeaning": "Cùng học từ “邪恶”: gian ác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiéè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "应付",
+   "meaning": "ứng phó",
+   "example": "事情太多，难于应付。",
+   "exampleMeaning": "Sự việc nhiều quá, khó đối phó",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìngfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "购",
+   "meaning": "mua",
+   "example": "统购统销",
+   "exampleMeaning": "Thống nhất đầu mối thu mua và tiêu thụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雾",
+   "meaning": "sương mù",
+   "example": "喷雾器。",
+   "exampleMeaning": "Máy phun nước; bình phun nước (dạng sương mù).",
+   "emoji": "🌫",
+   "ipa": "",
+   "pinyin": "wù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "芯片",
+   "meaning": "chip",
+   "example": "我们来学“芯片”这个词。",
+   "exampleMeaning": "Cùng học từ “芯片”: chip.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惩罚",
+   "meaning": "nghiêm khắc trừng trị",
+   "example": "敌人得到了应有的惩罚。",
+   "exampleMeaning": "Bọn giặc đáng bị sự trừng phạt nghiêm khắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngfá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "附",
+   "meaning": "kề",
+   "example": "這附近有醫院嗎？",
+   "exampleMeaning": "Gần đây có bệnh viện không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "事务",
+   "meaning": "công việc",
+   "example": "事务繁忙。",
+   "exampleMeaning": "Công việc bận rộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "在意",
+   "meaning": "để ý",
+   "example": "这些小事，他是不大在意的。",
+   "exampleMeaning": "Những việc vặt này, anh ấy không để ý đến đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàiyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驾",
+   "meaning": "lái",
+   "example": "两匹马驾着车。",
+   "exampleMeaning": "Hai con ngựa kéo xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jià",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "讨",
+   "meaning": "lấy",
+   "example": "自讨苦吃。",
+   "exampleMeaning": "Tự mình làm khổ mình; chuốt vạ vào thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生涯",
+   "meaning": "cuộc đời",
+   "example": "教书生涯。",
+   "exampleMeaning": "Cuộc đời dạy học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngyá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "熬",
+   "meaning": "sắc (thuốc... )",
+   "example": "熬苦日子。",
+   "exampleMeaning": "Những ngày chịu khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "áo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "货车",
+   "meaning": "xe vận tải",
+   "example": "我们来学“货车”这个词。",
+   "exampleMeaning": "Cùng học từ “货车”: xe vận tải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拍卖",
+   "meaning": "hạ giá",
+   "example": "大拍卖。",
+   "exampleMeaning": "Đại hạ giá; khuyến mãi; bán hàng sô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pāimài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "化妆",
+   "meaning": "hoá trang",
+   "example": "我们来学“化妆”这个词。",
+   "exampleMeaning": "Cùng học từ “化妆”: hoá trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "桩",
+   "meaning": "cộc, cọc",
+   "example": "不立即解决，那桩事会马上告吹的。",
+   "exampleMeaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "角落",
+   "meaning": "nơi hẻo lánh",
+   "example": "院子的一个角落长着一棵桃树。",
+   "exampleMeaning": "Một cây đào mọc ở góc vườn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎoluò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "附近",
+    "有",
+    "医院",
+    "吗"
+   ],
+   "reading": "zhè fùjìn yǒu yīyuàn ma",
+   "meaning": "Gần đây có bệnh viện không?"
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "在",
+    "某种",
+    "程度",
+    "上",
+    "我",
+    "能",
+    "了解",
+    "你"
+   ],
+   "reading": "zài mǒuzhǒng chéngdù shàng wǒ néng liǎojiě nǐ",
+   "meaning": "Tôi có thể hiểu bạn ở mức độ nào đó."
+  },
+  {
+   "tokens": [
+    "他",
+    "不",
+    "是",
+    "我",
+    "父亲",
+    "他",
+    "是",
+    "我",
+    "叔叔"
+   ],
+   "reading": "tā bù shì wǒ fùqīn tā shì wǒ shūshu",
+   "meaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "顶",
+    "红",
+    "帽子",
+    "很",
+    "衬",
+    "她",
+    "的",
+    "裙子"
+   ],
+   "reading": "zhè dǐng hóng màozi hěn chèn tā de qúnzi",
+   "meaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy."
+  }
+ ],
+ "issues": []
+}

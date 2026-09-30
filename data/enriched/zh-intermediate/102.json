@@ -1,0 +1,318 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "勺",
+   "meaning": "muôi",
+   "example": "一把勺儿。",
+   "exampleMeaning": "Một cái muôi.",
+   "emoji": "🥄",
+   "ipa": "",
+   "pinyin": "sháo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "变换",
+   "meaning": "hoán đổi",
+   "example": "变换位置。",
+   "exampleMeaning": "Hoán vị; hoán đổi vị trí",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànhuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "茄子",
+   "meaning": "cà",
+   "example": "我们来学“茄子”这个词。",
+   "exampleMeaning": "Cùng học từ “茄子”: cà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiézi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低温",
+   "meaning": "nhiệt độ thấp",
+   "example": "我们来学“低温”这个词。",
+   "exampleMeaning": "Cùng học từ “低温”: nhiệt độ thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīwēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暴雨",
+   "meaning": "mưa xối xả",
+   "example": "我们来学“暴雨”这个词。",
+   "exampleMeaning": "Cùng học từ “暴雨”: mưa xối xả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàoyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吉利",
+   "meaning": "may mắn",
+   "example": "我们来学“吉利”这个词。",
+   "exampleMeaning": "Cùng học từ “吉利”: may mắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jílì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高考",
+   "meaning": "thi vào trường cao đẳng",
+   "example": "参加高考",
+   "exampleMeaning": "Dự thi vào trường cao đẳng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāokǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "微波炉",
+   "meaning": "lò vi ba, lò vi sóng",
+   "example": "我们来学“微波炉”这个词。",
+   "exampleMeaning": "Cùng học từ “微波炉”: lò vi ba, lò vi sóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēibōlú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "补助",
+   "meaning": "trợ cấp",
+   "example": "实物补助。",
+   "exampleMeaning": "Giúp đỡ bằng hiện vật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǔzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热点",
+   "meaning": "điểm nóng",
+   "example": "我们来学“热点”这个词。",
+   "exampleMeaning": "Cùng học từ “热点”: điểm nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先锋",
+   "meaning": "tiên phong",
+   "example": "开路先锋。",
+   "exampleMeaning": "Tiên phong mở đường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自来水",
+   "meaning": "hệ thống cung cấp nước uống",
+   "example": "我们来学“自来水”这个词。",
+   "exampleMeaning": "Cùng học từ “自来水”: hệ thống cung cấp nước uống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìláishuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蓝天",
+   "meaning": "trời xanh",
+   "example": "我们来学“蓝天”这个词。",
+   "exampleMeaning": "Cùng học từ “蓝天”: trời xanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lántiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短片",
+   "meaning": "phim ngắn",
+   "example": "我们来学“短片”这个词。",
+   "exampleMeaning": "Cùng học từ “短片”: phim ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǎnpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "养老",
+   "meaning": "phụng dưỡng người già",
+   "example": "养老送终",
+   "exampleMeaning": "Nuôi dưỡng khi sống, chôn cất khi chết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnglǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "花瓶",
+   "meaning": "bình hoa",
+   "example": "我们来学“花瓶”这个词。",
+   "exampleMeaning": "Cùng học từ “花瓶”: bình hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāpíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挨着",
+   "meaning": "gần",
+   "example": "我们来学“挨着”这个词。",
+   "exampleMeaning": "Cùng học từ “挨着”: gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āizhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打牌",
+   "meaning": "đánh bài",
+   "example": "我们来学“打牌”这个词。",
+   "exampleMeaning": "Cùng học từ “打牌”: đánh bài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎpái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酱油",
+   "meaning": "nước tương",
+   "example": "我们来学“酱油”这个词。",
+   "exampleMeaning": "Cùng học từ “酱油”: nước tương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàngyóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捐助",
+   "meaning": "quyên giúp",
+   "example": "我们来学“捐助”这个词。",
+   "exampleMeaning": "Cùng học từ “捐助”: quyên giúp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juānzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "汤姆",
+    "脱",
+    "了",
+    "口罩"
+   ],
+   "reading": "tāngmǔ tuō le kǒuzhào",
+   "meaning": "Tom đã tháo mặt nạ ra rồi đấy."
+  },
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "和",
+    "我",
+    "约会",
+    "好",
+    "吗"
+   ],
+   "reading": "hé wǒ yuēhuì hǎo ma",
+   "meaning": "Em có thể đi hẹn hò với tôi không?"
+  }
+ ],
+ "issues": []
+}

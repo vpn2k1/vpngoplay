@@ -1,0 +1,99 @@
+{
+ "id": "zh-talk-restaurant",
+ "lang": "zh",
+ "order": 2,
+ "level": "HSK2",
+ "icon": "restaurant",
+ "title": "Gọi món ở nhà hàng",
+ "scene": "Bạn đi ăn ở một nhà hàng Trung Quốc và gọi món.",
+ "roles": {
+  "A": "Phục vụ",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "欢迎光临！几位？",
+   "reading": "Huānyíng guānglín! Jǐ wèi?",
+   "meaning": "Hoan nghênh quý khách! Mấy người ạ?"
+  },
+  {
+   "role": "B",
+   "text": "两位。",
+   "reading": "Liǎng wèi.",
+   "meaning": "Hai người."
+  },
+  {
+   "role": "A",
+   "text": "这边请。这是菜单。",
+   "reading": "Zhèbiān qǐng. Zhè shì càidān.",
+   "meaning": "Mời bên này. Đây là thực đơn."
+  },
+  {
+   "role": "B",
+   "text": "你们这儿什么菜好吃？",
+   "reading": "Nǐmen zhèr shénme cài hǎochī?",
+   "meaning": "Ở đây món gì ngon?"
+  },
+  {
+   "role": "A",
+   "text": "我们的宫保鸡丁很有名。",
+   "reading": "Wǒmen de gōngbǎo jīdīng hěn yǒumíng.",
+   "meaning": "Món gà xào Cung Bảo của chúng tôi rất nổi tiếng."
+  },
+  {
+   "role": "B",
+   "text": "好，来一个宫保鸡丁，再来一碗米饭。",
+   "reading": "Hǎo, lái yí ge gōngbǎo jīdīng, zài lái yì wǎn mǐfàn.",
+   "meaning": "Được, cho một đĩa gà Cung Bảo, thêm một bát cơm."
+  },
+  {
+   "role": "A",
+   "text": "喝点儿什么？",
+   "reading": "Hē diǎnr shénme?",
+   "meaning": "Anh chị uống gì ạ?"
+  },
+  {
+   "role": "B",
+   "text": "一杯茶，谢谢。",
+   "reading": "Yì bēi chá, xièxie.",
+   "meaning": "Một cốc trà, cảm ơn."
+  },
+  {
+   "role": "A",
+   "text": "好的，请稍等。",
+   "reading": "Hǎo de, qǐng shāo děng.",
+   "meaning": "Vâng, xin chờ một chút."
+  },
+  {
+   "role": "B",
+   "text": "服务员，买单！",
+   "reading": "Fúwùyuán, mǎidān!",
+   "meaning": "Phục vụ ơi, tính tiền!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "我要这个。",
+   "reading": "Wǒ yào zhège.",
+   "meaning": "Tôi muốn món này."
+  },
+  {
+   "text": "什么菜好吃？",
+   "reading": "Shénme cài hǎochī?",
+   "meaning": "Món gì ngon?"
+  },
+  {
+   "text": "不要辣的。",
+   "reading": "Bú yào là de.",
+   "meaning": "Đừng cho cay.",
+   "note": "Rất hữu ích khi ăn món Tứ Xuyên, Hồ Nam."
+  },
+  {
+   "text": "买单！",
+   "reading": "Mǎidān!",
+   "meaning": "Tính tiền!",
+   "note": "Cũng có thể nói 结账 (jiézhàng)."
+  }
+ ]
+}

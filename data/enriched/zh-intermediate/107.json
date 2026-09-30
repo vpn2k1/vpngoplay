@@ -1,0 +1,329 @@
+{
+ "lesson": 107,
+ "draft": true,
+ "words": [
+  {
+   "term": "民意",
+   "meaning": "ý dân",
+   "example": "我们来学“民意”这个词。",
+   "exampleMeaning": "Cùng học từ “民意”: ý dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "识字",
+   "meaning": "biết chữ",
+   "example": "读书识字。",
+   "exampleMeaning": "Đi học biết chữ; học chữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shízì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "送礼",
+   "meaning": "tặng quà",
+   "example": "我们来学“送礼”这个词。",
+   "exampleMeaning": "Cùng học từ “送礼”: tặng quà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sònglǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打官司",
+   "meaning": "kiện",
+   "example": "我们来学“打官司”这个词。",
+   "exampleMeaning": "Cùng học từ “打官司”: kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎguānsi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好似",
+   "meaning": "hình như",
+   "example": "我们来学“好似”这个词。",
+   "exampleMeaning": "Cùng học từ “好似”: hình như.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎosì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "显出",
+   "meaning": "thể hiện",
+   "example": "显出自高自大的样子,实则什么也不干。",
+   "exampleMeaning": "Thể hiện sự tự cao tự đại, thực ra không làm gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "长假",
+   "meaning": "nghỉ dài hạn",
+   "example": "我们来学“长假”这个词。",
+   "exampleMeaning": "Cùng học từ “长假”: nghỉ dài hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定时",
+   "meaning": "đúng giờ",
+   "example": "吃饭要有定时。",
+   "exampleMeaning": "Ăn cơm phải đúng giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "升值",
+   "meaning": "tăng tỉ giá đồng bạc",
+   "example": "我们来学“升值”这个词。",
+   "exampleMeaning": "Cùng học từ “升值”: tăng tỉ giá đồng bạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngzhí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电车",
+   "meaning": "xe điện",
+   "example": "无轨电车",
+   "exampleMeaning": "Xe điện không ray.",
+   "emoji": "🚎",
+   "ipa": "",
+   "pinyin": "diànchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海浪",
+   "meaning": "sóng biển",
+   "example": "我们来学“海浪”这个词。",
+   "exampleMeaning": "Cùng học từ “海浪”: sóng biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎilàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "音像",
+   "meaning": "ghi âm và ghi hình",
+   "example": "音像制品",
+   "exampleMeaning": "Chế phẩm ghi âm và ghi hình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "踏实",
+   "meaning": "an ổn, yên ổn",
+   "example": "我们来学“踏实”这个词。",
+   "exampleMeaning": "Cùng học từ “踏实”: an ổn, yên ổn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāshi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出台",
+   "meaning": "ra sân khấu",
+   "example": "我们来学“出台”这个词。",
+   "exampleMeaning": "Cùng học từ “出台”: ra sân khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "简介",
+   "meaning": "giới thiệu vắn tắt",
+   "example": "把情况简介如下",
+   "exampleMeaning": "Xin giới thiệu vắn tắt tình hình như sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnjiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生活费",
+   "meaning": "sinh hoạt phí",
+   "example": "我们来学“生活费”这个词。",
+   "exampleMeaning": "Cùng học từ “生活费”: sinh hoạt phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnghuófèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "座谈会",
+   "meaning": "hội nghị",
+   "example": "我们来学“座谈会”这个词。",
+   "exampleMeaning": "Cùng học từ “座谈会”: hội nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòtánhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "借鉴",
+   "meaning": "điều răn",
+   "example": "以此作为借鉴",
+   "exampleMeaning": "Lấy đó làm điều răn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jièjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "旅店",
+   "meaning": "lữ quán",
+   "example": "我们来学“旅店”这个词。",
+   "exampleMeaning": "Cùng học từ “旅店”: lữ quán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚdiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近日",
+   "meaning": "mấy ngày qua",
+   "example": "我们来学“近日”这个词。",
+   "exampleMeaning": "Cùng học từ “近日”: mấy ngày qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "应该",
+    "放弃"
+   ],
+   "reading": "kěnéng nǐ yīnggāi fàngqì",
+   "meaning": "Có lẽ bạn nên bỏ cuộc."
+  },
+  {
+   "tokens": [
+    "他",
+    "放弃",
+    "了",
+    "所有",
+    "希望"
+   ],
+   "reading": "tā fàngqì le suǒyǒu xīwàng",
+   "meaning": "Anh ta từ bỏ mọi hy vọng"
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "他",
+    "对",
+    "你",
+    "说",
+    "了",
+    "些",
+    "什么"
+   ],
+   "reading": "tā duì nǐ shuō le xiē shénme",
+   "meaning": "Anh ấy nói những gì với chị?"
+  },
+  {
+   "tokens": [
+    "怎么",
+    "说",
+    "他",
+    "都",
+    "不",
+    "肯",
+    "去"
+   ],
+   "reading": "zěnme shuō tā dōu bù kěn qù",
+   "meaning": "Nói thế nào anh ấy cũng không chịu đi."
+  }
+ ],
+ "issues": []
+}

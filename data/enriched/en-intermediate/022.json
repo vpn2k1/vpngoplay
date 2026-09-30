@@ -1,0 +1,318 @@
+{
+ "lesson": 22,
+ "draft": true,
+ "words": [
+  {
+   "term": "battle",
+   "meaning": "chiến đấu, vật lộn",
+   "example": "to battle with the winds and waves",
+   "exampleMeaning": "Vật lộn với sóng gió",
+   "emoji": "",
+   "ipa": "/ˈbætəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "logo",
+   "meaning": "biểu trưng",
+   "example": "Let's learn the word \"logo\".",
+   "exampleMeaning": "Cùng học từ “logo”: biểu trưng.",
+   "emoji": "",
+   "ipa": "/ˈloʊɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bold",
+   "meaning": "rõ, rõ nét",
+   "example": "the bold outline of the mountain",
+   "exampleMeaning": "Đường nét rất rõ của quả núi",
+   "emoji": "",
+   "ipa": "/ˈboʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "liberate",
+   "meaning": "tha, thả, giải phóng",
+   "example": "Let's learn the word \"liberate\".",
+   "exampleMeaning": "Cùng học từ “liberate”: tha, thả, giải phóng.",
+   "emoji": "",
+   "ipa": "/ˈlɪˌbɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "counseling",
+   "meaning": "sự hỏi ý kiến, sự bàn bạc",
+   "example": "Let's learn the word \"counseling\".",
+   "exampleMeaning": "Cùng học từ “counseling”: sự hỏi ý kiến, sự bàn bạc.",
+   "emoji": "",
+   "ipa": "/ˈkaʊnsəlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interact",
+   "meaning": "ảnh hưởng lẫn nhau, tác động qua lại",
+   "example": "Let's learn the word \"interact\".",
+   "exampleMeaning": "Cùng học từ “interact”: ảnh hưởng lẫn nhau, tác động qua lại.",
+   "emoji": "",
+   "ipa": "/ˌɪnɜrˈækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "greenhouse",
+   "meaning": "nhà kính (trồng rau, hoa)",
+   "example": "Let's learn the word \"greenhouse\".",
+   "exampleMeaning": "Cùng học từ “greenhouse”: nhà kính (trồng rau, hoa).",
+   "emoji": "",
+   "ipa": "/ˈɡrinˌhaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "log",
+   "meaning": "khúc gỗ mới đốn, khúc gỗ mới xẻ",
+   "example": "in the log",
+   "exampleMeaning": "Còn chưa xẻ",
+   "emoji": "",
+   "ipa": "/ˈlɔɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "courage",
+   "meaning": "can đảm",
+   "example": "to keep up one's courage",
+   "exampleMeaning": "Giữ vững can đảm, không nản lòng",
+   "emoji": "",
+   "ipa": "/ˈkɜrədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "translate",
+   "meaning": "dịch, phiên dịch",
+   "example": "to translate an English book into Vietnamese",
+   "exampleMeaning": "Dịch một quyển sách tiếng Anh sang tiếng Việt",
+   "emoji": "",
+   "ipa": "/trænts.ˈleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exchange rate",
+   "meaning": "tỉ giá hối đoái",
+   "example": "Let's learn the word \"exchange rate\".",
+   "exampleMeaning": "Cùng học từ “exchange rate”: tỉ giá hối đoái.",
+   "emoji": "",
+   "ipa": "/ɪksˈtʃeɪndʒ ˈreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "engage",
+   "meaning": "làm, tiến hành",
+   "example": "to engage the enemy in heavy fighting",
+   "exampleMeaning": "Đánh nhau với quân địch rất dữ dội",
+   "emoji": "",
+   "ipa": "/ɛnˈɡeɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "equally",
+   "meaning": "bằng nhau, ngang nhau, như nhau",
+   "example": "Both forms are equally correct.",
+   "exampleMeaning": "Cả hai dạng đều chính xác như nhau.",
+   "emoji": "",
+   "ipa": "/ˈikwəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "crush",
+   "meaning": "ép, vắt (hoa quả)",
+   "example": "to have a crush on someone",
+   "exampleMeaning": "Phải lòng ai, mê ai",
+   "emoji": "",
+   "ipa": "/krʌʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bore",
+   "meaning": "lách qua",
+   "example": "to bore a tunnel through the mountain",
+   "exampleMeaning": "Đào một đường hầm qua núi",
+   "emoji": "",
+   "ipa": "/ˈbɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "race",
+   "meaning": "cuộc đua, cuộc chạy đua, loài",
+   "example": "to race the engine without a load",
+   "exampleMeaning": "(cơ khí) cho máy chạy không nhanh quá",
+   "emoji": "",
+   "ipa": "/reɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lean",
+   "meaning": "tựa, chống, ỷ vào",
+   "example": "to lean against the wall",
+   "exampleMeaning": "Dựa vào tường",
+   "emoji": "",
+   "ipa": "/ˈlin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ceremony",
+   "meaning": "nghi thức, nghi lễ",
+   "example": "The wedding ceremony was performed in the morning.",
+   "exampleMeaning": "Hôn lễ được tổ chức ở buổi sáng.",
+   "emoji": "",
+   "ipa": "/ˈsɛrəˌmoʊni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "treatment",
+   "meaning": "sự đối xử, sự đối đãi",
+   "example": "to be under medical treatment",
+   "exampleMeaning": "Đang chữa bệnh, đang điều trị",
+   "emoji": "",
+   "ipa": "/ˈtritmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "jar",
+   "meaning": "gây cảm giác khó chịu, gây bực bội",
+   "example": "the news gave me a nasty jar",
+   "exampleMeaning": "Tin đó làm tôi bực bội khó chịu",
+   "emoji": "🫙",
+   "ipa": "/d͡ʒɑː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Translate",
+    "these",
+    "sentences"
+   ],
+   "reading": "",
+   "meaning": "Hãy dịch những câu đó."
+  },
+  {
+   "tokens": [
+    "He",
+    "died",
+    "in",
+    "battle"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã tử trận."
+  },
+  {
+   "tokens": [
+    "We",
+    "won",
+    "the",
+    "battle"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã chiến thắng trận chiến"
+  },
+  {
+   "tokens": [
+    "Translate",
+    "this",
+    "into",
+    "French"
+   ],
+   "reading": "",
+   "meaning": "Hãy dịch cái này sang tiếng Pháp."
+  },
+  {
+   "tokens": [
+    "I",
+    "use",
+    "Google",
+    "Translate"
+   ],
+   "reading": "",
+   "meaning": "Tôi dùng Google Dịch."
+  }
+ ],
+ "issues": []
+}

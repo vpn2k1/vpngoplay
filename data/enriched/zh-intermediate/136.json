@@ -1,0 +1,340 @@
+{
+ "lesson": 136,
+ "draft": true,
+ "words": [
+  {
+   "term": "夸张",
+   "meaning": "khoa trương",
+   "example": "我们来学“夸张”这个词。",
+   "exampleMeaning": "Cùng học từ “夸张”: khoa trương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuāzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "介入",
+   "meaning": "can dự",
+   "example": "不介入他们两人之间的争端。",
+   "exampleMeaning": "Không can dự vào sự tranh chấp giữa hai người bọn họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jièrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "片子",
+   "meaning": "miếng",
+   "example": "铁片子。",
+   "exampleMeaning": "Miếng sắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piānzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "股份",
+   "meaning": "công ty cổ phần",
+   "example": "我们来学“股份”这个词。",
+   "exampleMeaning": "Cùng học từ “股份”: công ty cổ phần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开工",
+   "meaning": "khởi công",
+   "example": "我们来学“开工”这个词。",
+   "exampleMeaning": "Cùng học từ “开工”: khởi công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāigōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低调",
+   "meaning": "điệu thấp",
+   "example": "我们来学“低调”这个词。",
+   "exampleMeaning": "Cùng học từ “低调”: điệu thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīdiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卡车",
+   "meaning": "xe tải",
+   "example": "我们来学“卡车”这个词。",
+   "exampleMeaning": "Cùng học từ “卡车”: xe tải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "效应",
+   "meaning": "hiệu ứng",
+   "example": "法拉第效应",
+   "exampleMeaning": "Hiệu ứng Faraday",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàoyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "优",
+   "meaning": "ưu đãi",
+   "example": "拥军优属",
+   "exampleMeaning": "Ưu đãi gia đình quân nhân cách mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "筹",
+   "meaning": "tính",
+   "example": "酒筹(行酒令时所用的筹)。",
+   "exampleMeaning": "Thẻ phạt rượu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辐射",
+   "meaning": "tia",
+   "example": "我们来学“辐射”这个词。",
+   "exampleMeaning": "Cùng học từ “辐射”: tia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúshè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "功",
+   "meaning": "sự nghiệp",
+   "example": "成功屬於耐心等待的人。",
+   "exampleMeaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "趴",
+   "meaning": "nằm bò",
+   "example": "趴在桌子上画图。",
+   "exampleMeaning": "Nằm bò trên bàn để vẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "亲戚",
+   "meaning": "thông gia",
+   "example": "我们两家是亲戚。",
+   "exampleMeaning": "Hai nhà chúng tôi là thông gia với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnqi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "到位",
+   "meaning": "đúng chỗ",
+   "example": "发电机组已安装到位",
+   "exampleMeaning": "Tổ máy phát điện đã lắp đặt đúng thời gian đã định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàowèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "涉嫌",
+   "meaning": "liên quan",
+   "example": "涉嫌人犯。",
+   "exampleMeaning": "Có liên quan đến phạm nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèxián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "姜",
+   "meaning": "cây gừng",
+   "example": "我们来学“姜”这个词。",
+   "exampleMeaning": "Cùng học từ “姜”: cây gừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "治愈",
+   "meaning": "hồi phục",
+   "example": "我们来学“治愈”这个词。",
+   "exampleMeaning": "Cùng học từ “治愈”: hồi phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "晃",
+   "meaning": "rung, lắc, làm rung",
+   "example": "风刮得树枝直晃。",
+   "exampleMeaning": "Gió thổi mạnh khiến cành cây lắc lư",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "闷",
+   "meaning": "u sầu, sầu muộn",
+   "example": "闷闷不乐。",
+   "exampleMeaning": "Buồn rười rượi; buồn thiu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "他",
+    "想要",
+    "成功",
+    "即使",
+    "是以",
+    "他",
+    "的",
+    "健康",
+    "作为",
+    "代价"
+   ],
+   "reading": "tā xiǎngyào chénggōng jíshǐ shìyǐ tā de jiànkāng zuòwéi dàijià",
+   "meaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "阿姨",
+    "给",
+    "了",
+    "我",
+    "一",
+    "台",
+    "摄影机"
+   ],
+   "reading": "wǒ de āyí gěi le wǒ yī tái shèyǐngjī",
+   "meaning": "Dì của tôi đã gửi cho tôi một cái máy quay."
+  },
+  {
+   "tokens": [
+    "弟弟",
+    "对",
+    "英语",
+    "和",
+    "音乐",
+    "很",
+    "有",
+    "兴趣"
+   ],
+   "reading": "dìdi duì yīngyǔ hé yīnyuè hěn yǒu xìngqù",
+   "meaning": "Anh trai tôi có hứng thú với tiếng Anh và âm nhạc."
+  },
+  {
+   "tokens": [
+    "他",
+    "对",
+    "日",
+    "本",
+    "的",
+    "历史",
+    "十分",
+    "有兴趣"
+   ],
+   "reading": "tā duì rì běn de lìshǐ shífēn yǒuxìngqù",
+   "meaning": "Anh ấy cực kì quan tâm tới lịch sử Nhật Bản."
+  }
+ ],
+ "issues": []
+}

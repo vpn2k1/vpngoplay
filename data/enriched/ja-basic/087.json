@@ -1,0 +1,329 @@
+{
+ "lesson": 87,
+ "draft": true,
+ "words": [
+  {
+   "term": "才能",
+   "meaning": "tài, tài ba, tài năng",
+   "example": "彼女は音楽の才能がある。",
+   "exampleMeaning": "Cô ấy có tài năng về âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "湿気",
+   "meaning": "độ ẩm",
+   "example": "「湿気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “湿気”: độ ẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "癌",
+   "meaning": "bệnh ung thư",
+   "example": "癌は人類の強敵である。",
+   "exampleMeaning": "Ung thư là kẻ thù rất lớn của loài người.",
+   "emoji": "♋",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "因る",
+   "meaning": "từ",
+   "example": "「因る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “因る”: từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表面",
+   "meaning": "bề ngoài",
+   "example": "中身で人を判断すると言うけれど、結局僕たちは表面に表れた部分で判断するしかないじゃないですか。",
+   "exampleMeaning": "Chúng ta vẫn thường nói là chúng ta đánh giá con người qua tâm hồn, nhưng rốt cục thì chẳng phải là chúng ta chỉ có thể đánh giá họ qua vẻ bề ngoài thôi sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いつのまにか",
+   "meaning": "không ai thấy, không ai để ý",
+   "example": "「いつのまにか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いつのまにか”: không ai thấy, không ai để ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年中",
+   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "example": "今はアメリカのボストンに住んでいますが、今年中には日本に帰る予定です。",
+   "exampleMeaning": "Tôi hiện đang sống ở Boston, Mỹ, nhưng năm nay tôi dự định sẽ trở về Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アルバム",
+   "meaning": "tập ảnh, quyển anbom",
+   "example": "その写真はアルバムに貼ったほうがよい。",
+   "exampleMeaning": "Bạn nên dán tấm ảnh đó vào album.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "衆",
+   "meaning": "người",
+   "example": "私は群衆の中で彼女を見つけた。",
+   "exampleMeaning": "Tôi đã tìm thấy cô ấy giữa đám đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "好む",
+   "meaning": "thích ưa, chuộng, yêu",
+   "example": "女性はカラフルな傘を好む。",
+   "exampleMeaning": "Phụ nữ thích những chiếc ô sặc sỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "孫",
+   "meaning": "cháu (của ông bà)",
+   "example": "あなたの孫たちはどこ？",
+   "exampleMeaning": "Mấy đứa cháu của bạn đâu rồi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "柵",
+   "meaning": "hàng rào",
+   "example": "「柵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “柵”: hàng rào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "急激",
+   "meaning": "nhanh, nhanh chóng, mau lẹ",
+   "example": "株価の急激な下落があった。",
+   "exampleMeaning": "Đã có một sự sụt giảm nhanh chóng trong giá cổ phiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "掻く",
+   "meaning": "cào, làm xước da",
+   "example": "「掻く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “掻く”: cào, làm xước da.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "散らす",
+   "meaning": "tung, rải, rắc",
+   "example": "「散らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “散らす”: tung, rải, rắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奪う",
+   "meaning": "cướp, cướp đoạt",
+   "example": "「奪う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “奪う”: cướp, cướp đoạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発行",
+   "meaning": "sự phát ra",
+   "example": "「発行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発行”: sự phát ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "疲れ",
+   "meaning": "sự mệt nhọc, sự mệt mỏi",
+   "example": "ちょっと疲れてしまって。",
+   "exampleMeaning": "Tôi hơi mệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "従う",
+   "meaning": "tồn tại",
+   "example": "両親には従うべきだ。",
+   "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "交じる",
+   "meaning": "lẫn lộn, pha trộn, ô hợp",
+   "example": "「交じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交じる”: lẫn lộn, pha trộn, ô hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "癌",
+    "で",
+    "死んだ"
+   ],
+   "reading": "かれはがんでしんだ",
+   "meaning": "Tom đã chết vì bệnh ung thư."
+  },
+  {
+   "tokens": [
+    "ちょっと",
+    "疲れて",
+    "しまって"
+   ],
+   "reading": "ちょっとつかれてしまって",
+   "meaning": "Tôi hơi mệt."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "音楽",
+    "の",
+    "才能",
+    "が",
+    "ある"
+   ],
+   "reading": "かのじょはおんがくのさいのうがある",
+   "meaning": "Cô ấy có tài năng về âm nhạc."
+  },
+  {
+   "tokens": [
+    "その",
+    "写真",
+    "は",
+    "アルバム",
+    "に",
+    "貼った",
+    "ほうがよい"
+   ],
+   "reading": "そのしゃしんはアルバムにはったほうがよい",
+   "meaning": "Bạn nên dán tấm ảnh đó vào album."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "誕生日",
+    "プレゼント",
+    "に",
+    "アルバム",
+    "を",
+    "くれた"
+   ],
+   "reading": "かのじょはたんじょうびプレゼントにアルバムをくれた",
+   "meaning": "Chị ấy cho tôi một anbum ảnh làm quà sinh nhật."
+  }
+ ],
+ "issues": []
+}

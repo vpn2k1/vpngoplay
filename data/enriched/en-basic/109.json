@@ -1,0 +1,317 @@
+{
+ "lesson": 109,
+ "draft": true,
+ "words": [
+  {
+   "term": "elephant",
+   "meaning": "con voi",
+   "example": "An elephant is an enormous animal.",
+   "exampleMeaning": "Voi là một loài động vật to khổng lồ.",
+   "emoji": "🐘",
+   "ipa": "/ˈɛləfənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "effect",
+   "meaning": "hiệu lực, hiệu quả, tác dụng",
+   "example": "the effect of light on plants",
+   "exampleMeaning": "Ảnh hưởng của ánh sáng lên cây cối",
+   "emoji": "",
+   "ipa": "/ˈifɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dam",
+   "meaning": "đập (ngăn nước)",
+   "example": "To dam up one's emotion.",
+   "exampleMeaning": "Kiềm chế nỗi xúc động.",
+   "emoji": "",
+   "ipa": "/ˈdæm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "comb",
+   "meaning": "lược",
+   "example": "Comb your hair.",
+   "exampleMeaning": "Chải tóc đi.",
+   "emoji": "",
+   "ipa": "/ˈkoʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "accept",
+   "meaning": "nhận, chấp nhận, chấp thuận",
+   "example": "to accept a proposal",
+   "exampleMeaning": "Chấp nhận một đề nghị",
+   "emoji": "",
+   "ipa": "/ækˈsɛpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "itself",
+   "meaning": "tự bản thân nó",
+   "example": "A solution immediately suggested itself to me.",
+   "exampleMeaning": "Một giải pháp ngay lập tức đã chợt nảy đến với tôi.",
+   "emoji": "",
+   "ipa": "/ˌɪtˈsɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "underwater",
+   "meaning": "đặt dưới mặt nước, làm ở dưới mặt nước",
+   "example": "Let's learn the word \"underwater\".",
+   "exampleMeaning": "Cùng học từ “underwater”: đặt dưới mặt nước, làm ở dưới mặt nước.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌwɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perform",
+   "meaning": "biểu diễn, trình bày (kịch",
+   "example": "to perform a part in a play",
+   "exampleMeaning": "Đóng một vai trong một vở kịch",
+   "emoji": "",
+   "ipa": "/pɜrˈfɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lake",
+   "meaning": "hồ",
+   "example": "The lake froze over during the winter.",
+   "exampleMeaning": "Mặt hồ đóng băng vào mùa đông.",
+   "emoji": "",
+   "ipa": "/leɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "educational",
+   "meaning": "thuộc ngành giáo dục",
+   "example": "Let's learn the word \"educational\".",
+   "exampleMeaning": "Cùng học từ “educational”: thuộc ngành giáo dục.",
+   "emoji": "",
+   "ipa": "/ˌɛdʒəˈkeɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gradually",
+   "meaning": "dần dần, từ từ",
+   "example": "My grandmother was gradually becoming forgetful and frail.",
+   "exampleMeaning": "Bà tôi dần dần trở nên hay quên và yếu hơn.",
+   "emoji": "",
+   "ipa": "/ˈɡrædʒuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "instrument",
+   "meaning": "công cụ, phương tiện",
+   "example": "an instrument of government",
+   "exampleMeaning": "Một công cụ cai trị",
+   "emoji": "",
+   "ipa": "/ˈɪnstrəmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tone",
+   "meaning": "tiếng",
+   "example": "the sweet tone of the violin",
+   "exampleMeaning": "Tiếng viôlông êm dịu",
+   "emoji": "",
+   "ipa": "/ˈtoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grace",
+   "meaning": "ơn trời, ơn Chúa",
+   "example": "he had the grace to say that...",
+   "exampleMeaning": "Anh ta cũng biết điều mà nói rằng...",
+   "emoji": "",
+   "ipa": "/ˈɡreɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "calendar",
+   "meaning": "lịch (ghi năm tháng)",
+   "example": "Where should I hang the calendar?",
+   "exampleMeaning": "Tôi phải treo cuốn lịch này ở đâu?",
+   "emoji": "📅",
+   "ipa": "/ˈkæləndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "release",
+   "meaning": "tha, thả, phóng thích",
+   "example": "to release someone from his promise",
+   "exampleMeaning": "Giải ước cho ai",
+   "emoji": "",
+   "ipa": "/riˈlis/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "harmony",
+   "meaning": "sự hài hoà, sự cân đối",
+   "example": "to be out of harmony with",
+   "exampleMeaning": "Không hoà thuận với, không hoà hợp với",
+   "emoji": "",
+   "ipa": "/ˈhɑrməni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "crowd",
+   "meaning": "đám đông",
+   "example": "to be lost in the crowd",
+   "exampleMeaning": "Bị lạc trong đám đông",
+   "emoji": "",
+   "ipa": "/ˈkraʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flood",
+   "meaning": "lũ, lụt, nạn lụt",
+   "example": "the Flood; Noah's Flood",
+   "exampleMeaning": "Nạn Hồng thuỷ",
+   "emoji": "",
+   "ipa": "/flʌd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "treasure",
+   "meaning": "bạc vàng, châu báu, tích luỹ",
+   "example": "to amass a treasure",
+   "exampleMeaning": "Tích luỹ của cải",
+   "emoji": "",
+   "ipa": "/ˈtrɛʒə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Check",
+    "the",
+    "calendar"
+   ],
+   "reading": "",
+   "meaning": "Kiểm tra lịch đi."
+  },
+  {
+   "tokens": [
+    "Comb",
+    "your",
+    "hair"
+   ],
+   "reading": "",
+   "meaning": "Chải tóc đi."
+  },
+  {
+   "tokens": [
+    "Where",
+    "is",
+    "my",
+    "comb"
+   ],
+   "reading": "",
+   "meaning": "Lược của tôi đâu rồi?"
+  },
+  {
+   "tokens": [
+    "Accept",
+    "a",
+    "person's",
+    "love"
+   ],
+   "reading": "",
+   "meaning": "Chấp nhận yêu một người."
+  },
+  {
+   "tokens": [
+    "We",
+    "accept",
+    "your",
+    "challenge"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi chấp nhận thử thách của bạn."
+  }
+ ],
+ "issues": []
+}

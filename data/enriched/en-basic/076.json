@@ -1,0 +1,314 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "truth",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "the truth is that...",
+   "exampleMeaning": "Sự thật là...",
+   "emoji": "",
+   "ipa": "/ˈtruːθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chat",
+   "meaning": "bàn chuyện, tán gẫu, trò chuyện",
+   "example": "We met in a chat room, around ten years ago.",
+   "exampleMeaning": "Chúng tôi gặp nhau trong một phòng chat, cách đây khoảng mười năm trước.",
+   "emoji": "",
+   "ipa": "/t͡ʃæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "policeman",
+   "meaning": "cảnh sát, công an",
+   "example": "The policeman is running to catch the thief.",
+   "exampleMeaning": "Viên cảnh sát đang chạy để bắt tên trộm.",
+   "emoji": "",
+   "ipa": "/pəˈlismən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "elsewhere",
+   "meaning": "ở một nơi nào khác",
+   "example": "Let's learn the word \"elsewhere\".",
+   "exampleMeaning": "Cùng học từ “elsewhere”: ở một nơi nào khác.",
+   "emoji": "",
+   "ipa": "/ˌɛlsˈʍɛə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "concentrate",
+   "meaning": "tập trung",
+   "example": "I can't concentrate when people are looking at me.",
+   "exampleMeaning": "Tôi không thể tập trung khi có người cứ nhìn vào mình.",
+   "emoji": "",
+   "ipa": "/ˈkɒn.sən.treɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "female",
+   "meaning": "đàn bà con gái, nữ",
+   "example": "What do we have to do with this female prisoner?",
+   "exampleMeaning": "Chúng ta phải làm gì với nữ phạm nhân này?",
+   "emoji": "",
+   "ipa": "/ˈfiˌmeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "flour",
+   "meaning": "bột, bột mì",
+   "example": "This cake contains flour, milk, eggs and sugar.",
+   "exampleMeaning": "Chiếc bánh này gồm có bột mì, sữa, trứng và đường.",
+   "emoji": "",
+   "ipa": "/ˈflaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dinosaur",
+   "meaning": "khủng long",
+   "example": "This dinosaur had a long neck.",
+   "exampleMeaning": "Con khủng long này có một cái cổ dài.",
+   "emoji": "",
+   "ipa": "/ˈdaɪnəsɔː(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "opportunity",
+   "meaning": "cơ hội, thời cơ",
+   "example": "I passed up an opportunity to see him.",
+   "exampleMeaning": "Tôi để vuột mất cơ hội gặp ông ấy.",
+   "emoji": "",
+   "ipa": "/ˌɑpɜrˈtunəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sample",
+   "meaning": "mẫu, mẫu hàng",
+   "example": "to send something as a sample",
+   "exampleMeaning": "Gửi vật gì để làm mẫu",
+   "emoji": "",
+   "ipa": "/ˈsæmpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "adjust",
+   "meaning": "sửa lại cho đúng, điều chỉnh",
+   "example": "to adjust a watch",
+   "exampleMeaning": "Lấy lại đồng hồ",
+   "emoji": "",
+   "ipa": "/əˈdʒəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "solution",
+   "meaning": "giải pháp, cách giải quyết",
+   "example": "What is the solution for Europe?",
+   "exampleMeaning": "Giải pháp nào cho châu Âu?",
+   "emoji": "",
+   "ipa": "/səˈl(j)uːʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chain",
+   "meaning": "dãy, chuỗi, loạt",
+   "example": "a chain of mountains",
+   "exampleMeaning": "Một dãy núi",
+   "emoji": "",
+   "ipa": "/ˈt͡ʃeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "latest",
+   "meaning": "mới nhất",
+   "example": "This car is the latest model.",
+   "exampleMeaning": "Chiếc xe hơi này là mẫu mới nhất.",
+   "emoji": "",
+   "ipa": "/ˈleɪtəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "recent",
+   "meaning": "mới, tân thời",
+   "example": "Chemistry has made notable progress in recent years.",
+   "exampleMeaning": "Trong những năm gần đây, hóa học đã đạt được những thành tựu đáng kinh ngạc.",
+   "emoji": "",
+   "ipa": "/ˈriːsənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cycling",
+   "meaning": "sự đi xe đạp",
+   "example": "I will go cycling even if it rains.",
+   "exampleMeaning": "Cho dù trời mưa tôi vẫn sẽ đạp xe.",
+   "emoji": "",
+   "ipa": "/ˈsaɪk(ə)lɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sitting room",
+   "meaning": "phòng khách",
+   "example": "When dinner was over, we adjourned to the sitting room.",
+   "exampleMeaning": "Khi bữa tối kết thúc, chúng tôi chuyển sang phòng khách.",
+   "emoji": "",
+   "ipa": "/ˈsɪtɪŋ ˈrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "trust",
+   "meaning": "tin, tin cậy, tín nhiệm",
+   "example": "to have (put, repose) trust in someone",
+   "exampleMeaning": "Tin cậy ai, tín nhiệm ai",
+   "emoji": "",
+   "ipa": "/ˈtrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kindly",
+   "meaning": "thân ái, thân mật",
+   "example": "will (would) you kindly tell me the time?",
+   "exampleMeaning": "Xin ông vui lòng cho biết bây giờ mấy giờ?",
+   "emoji": "",
+   "ipa": "/ˈkaɪndli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soft",
+   "meaning": "mềm, dẻo, dễ uốn",
+   "example": "to be soft on someone",
+   "exampleMeaning": "Phải lòng ai",
+   "emoji": "",
+   "ipa": "/ˈsɑft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Trust",
+    "no",
+    "one"
+   ],
+   "reading": "",
+   "meaning": "Đừng tin một ai."
+  },
+  {
+   "tokens": [
+    "Tell",
+    "the",
+    "truth"
+   ],
+   "reading": "",
+   "meaning": "Nói thật đi."
+  },
+  {
+   "tokens": [
+    "Trust",
+    "the",
+    "science"
+   ],
+   "reading": "",
+   "meaning": "Hãy tin vào khoa học."
+  },
+  {
+   "tokens": [
+    "Trust",
+    "the",
+    "experts"
+   ],
+   "reading": "",
+   "meaning": "Hãy tin vào chuyên gia."
+  },
+  {
+   "tokens": [
+    "I",
+    "trust",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Tôi tin Tom."
+  }
+ ],
+ "issues": []
+}

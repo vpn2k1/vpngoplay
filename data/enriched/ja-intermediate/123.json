@@ -1,0 +1,330 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "ロマンチック",
+   "meaning": "tiểu thuyết, như tiểu thuyết",
+   "example": "すごくロマンチック！",
+   "exampleMeaning": "Rất lãng mạn!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "欠乏",
+   "meaning": "sự thiếu",
+   "example": "「欠乏」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “欠乏”: sự thiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好ましい",
+   "meaning": "thú vị, dễ chịu",
+   "example": "「好ましい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “好ましい”: thú vị, dễ chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救済",
+   "meaning": "sự giảm nhẹ, sự bớt đi",
+   "example": "彼は難民救済基金に１万ドルを寄付した。",
+   "exampleMeaning": "Anh ấy đã quyên góp 10 nghìn Đô-la cho quỹ hỗ trợ người tị nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "配列",
+   "meaning": "sự sắp xếp, sự sắp đặt, cái được sắp xếp",
+   "example": "「配列」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “配列”: sự sắp xếp, sự sắp đặt, cái được sắp xếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事柄",
+   "meaning": "chất, vật chất",
+   "example": "「事柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “事柄”: chất, vật chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "薄弱",
+   "meaning": "sự yếu, sự yếu đuối",
+   "example": "「薄弱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “薄弱”: sự yếu, sự yếu đuối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "採用",
+   "meaning": "theo, làm theo, thái dụng",
+   "example": "彼は彼女の意見を採用した。",
+   "exampleMeaning": "Anh ấy đã làm theo ý kiến của cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いやらしい",
+   "meaning": "khó ưa, xấu, khó chịu",
+   "example": "「いやらしい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いやらしい”: khó ưa, xấu, khó chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中和",
+   "meaning": "trung lập hoá",
+   "example": "「中和」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中和”: trung lập hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三味線",
+   "meaning": "đàn Nhật ba dây",
+   "example": "「三味線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “三味線”: đàn Nhật ba dây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "考古学",
+   "meaning": "khảo cổ học",
+   "example": "「考古学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “考古学”: khảo cổ học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阻止",
+   "meaning": "sự làm tắc nghẽn, sự tắc nghẽn",
+   "example": "「阻止」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “阻止”: sự làm tắc nghẽn, sự tắc nghẽn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逃亡",
+   "meaning": "sự trốn thoát",
+   "example": "「逃亡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “逃亡”: sự trốn thoát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "剥げる",
+   "meaning": "lắng xuống",
+   "example": "「剥げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “剥げる”: lắng xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正解",
+   "meaning": "đúng đắn, được hợp, phải",
+   "example": "答えが分かったんだ、でもあまりにすぐに分かったものだから正解であるはずがないんだ。",
+   "exampleMeaning": "Tôi đã tìm ra cách, nhưng mà tìm ra nhanh thế này thì chắc hẳn đó không phải là cách hay rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "免除",
+   "meaning": "sự miễn (thuế... )",
+   "example": "「免除」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “免除”: sự miễn (thuế... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "子息",
+   "meaning": "con trai",
+   "example": "「子息」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “子息”: con trai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鈍る",
+   "meaning": "làm ngu đần, làm đần độn",
+   "example": "「鈍る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鈍る”: làm ngu đần, làm đần độn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "桟橋",
+   "meaning": "bến tàu, cầu tàu",
+   "example": "「桟橋」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “桟橋”: bến tàu, cầu tàu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "彼女の",
+    "意見",
+    "を",
+    "採用",
+    "した"
+   ],
+   "reading": "かれはかのじょのいけんをさいようした",
+   "meaning": "Anh ấy đã làm theo ý kiến của cô ấy."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "本",
+    "の",
+    "ページ",
+    "を",
+    "めくった"
+   ],
+   "reading": "かのじょはほんのページをめくった",
+   "meaning": "Cô ấy lật một trang sách."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "次々と",
+    "ページ",
+    "を",
+    "めくった"
+   ],
+   "reading": "わたしはつぎつぎとページをめくった",
+   "meaning": "Tôi lật hết trang này sang trang khác."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "行為",
+    "は",
+    "法律",
+    "に",
+    "背いている"
+   ],
+   "reading": "かれのこういはほうりつにそむいている",
+   "meaning": "Việc làm của anh ấy đang vi phạm pháp luật."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "年齢の割に",
+    "老けて",
+    "見える"
+   ],
+   "reading": "かれはねんれいのわりにふけてみえる",
+   "meaning": "Ông ấy trông già hơn so với tuổi."
+  }
+ ],
+ "issues": []
+}

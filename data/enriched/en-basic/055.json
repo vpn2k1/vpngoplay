@@ -1,0 +1,314 @@
+{
+ "lesson": 55,
+ "draft": true,
+ "words": [
+  {
+   "term": "belong",
+   "meaning": "thuộc về, của, thuộc quyền sở hữu",
+   "example": "where do these things belong?",
+   "exampleMeaning": "Những thứ này để vào chỗ nào?",
+   "emoji": "",
+   "ipa": "/bɪˈlɔŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "polite",
+   "meaning": "lễ phép, có lễ độ",
+   "example": "She isn't very polite, is she?",
+   "exampleMeaning": "Cô ấy là người rất không lịch sự, đúng không",
+   "emoji": "",
+   "ipa": "/pəˈlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "doubt",
+   "meaning": "nghi ngờ, ngờ vực",
+   "example": "there is not a shadow of doubt",
+   "exampleMeaning": "Không một chút mảy may nghi ngờ",
+   "emoji": "",
+   "ipa": "/ˈdaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "amusement",
+   "meaning": "sự vui chơi",
+   "example": "to do something for amusement",
+   "exampleMeaning": "Làm gì đó để tiêu khiển",
+   "emoji": "",
+   "ipa": "/əmˈjuzmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "space",
+   "meaning": "không gian, không trung, khoảng không",
+   "example": "I just need some space, man.",
+   "exampleMeaning": "Tôi cần một chút khoảng trời riêng, thưa anh.",
+   "emoji": "",
+   "ipa": "/ˈspeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "remain",
+   "meaning": "vẫn",
+   "example": "You must remain calm.",
+   "exampleMeaning": "Bạn phải giữ bình tĩnh.",
+   "emoji": "",
+   "ipa": "/riˈmeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "drill",
+   "meaning": "khoan",
+   "example": "to drill in grammar",
+   "exampleMeaning": "Rèn luyện về môn ngữ pháp",
+   "emoji": "",
+   "ipa": "/ˈdrɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pro",
+   "meaning": "của professional - đấu thủ nhà nghề",
+   "example": "Let's learn the word \"pro\".",
+   "exampleMeaning": "Cùng học từ “pro”: của professional - đấu thủ nhà nghề.",
+   "emoji": "",
+   "ipa": "/ˈproʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "meter",
+   "meaning": "mét",
+   "example": "In a meter, there are a hundred centimeters.",
+   "exampleMeaning": "Một mét bằng một trăm xăng-ti-mét.",
+   "emoji": "",
+   "ipa": "/ˈmitɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fault",
+   "meaning": "lỗi",
+   "example": "who is in fault?",
+   "exampleMeaning": "Ai đáng chê trách?",
+   "emoji": "",
+   "ipa": "/ˈfɔlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "worse",
+   "meaning": "xấu hơn, kém hơn",
+   "example": "the doctor says he is worse today",
+   "exampleMeaning": "Bác sĩ nói bệnh anh ta hôm nay nặng hơn",
+   "emoji": "",
+   "ipa": "/ˈwɜrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "level",
+   "meaning": "phẳng, bằng",
+   "example": "to establish diplomatic relations at ambassadorial level",
+   "exampleMeaning": "Thiết lập quan hệ ngoại giao ở cấp đại sứ",
+   "emoji": "",
+   "ipa": "/ˈlɛv.əl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "editor",
+   "meaning": "chủ bút (báo, tập san...)",
+   "example": "Let's learn the word \"editor\".",
+   "exampleMeaning": "Cùng học từ “editor”: chủ bút (báo, tập san...).",
+   "emoji": "",
+   "ipa": "/ˈɛdətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "adult",
+   "meaning": "người lớn, người đã trưởng thành",
+   "example": "Tom is an adult now.",
+   "exampleMeaning": "Bây giờ Tom là người lớn.",
+   "emoji": "",
+   "ipa": "/ˈædəlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lead",
+   "meaning": "chỉ huy, dẫn đường, hướng dẫn",
+   "example": "these facts lead me to...",
+   "exampleMeaning": "Những sự việc đó khiến tôi...",
+   "emoji": "",
+   "ipa": "/ˈlɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "violent",
+   "meaning": "hung tợn, hung bạo",
+   "example": "to lay violent hands on somebody",
+   "exampleMeaning": "(pháp lý) hành hung ai",
+   "emoji": "",
+   "ipa": "/ˈvaɪələnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "area",
+   "meaning": "khu, vùng, diện tích",
+   "example": "wide area of knowledge",
+   "exampleMeaning": "Tầm hiểu biết rộng",
+   "emoji": "",
+   "ipa": "/ˈɛəri.ə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fear",
+   "meaning": "sợ",
+   "example": "in fear of one's life",
+   "exampleMeaning": "Lo ngại cho tính mệnh của mình",
+   "emoji": "",
+   "ipa": "/ˈfɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "episode",
+   "meaning": "phần giữa",
+   "example": "Let's learn the word \"episode\".",
+   "exampleMeaning": "Cùng học từ “episode”: phần giữa.",
+   "emoji": "",
+   "ipa": "/ˈɛpəˌsoʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "net",
+   "meaning": "lưới, mạng (tóc, nhện... )",
+   "example": "to cast (throw) a net",
+   "exampleMeaning": "Quăng lưới",
+   "emoji": "",
+   "ipa": "/ˈnɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It",
+    "gets",
+    "worse"
+   ],
+   "reading": "",
+   "meaning": "Tình hình trở nên xấu đi."
+  },
+  {
+   "tokens": [
+    "It's",
+    "gotten",
+    "worse"
+   ],
+   "reading": "",
+   "meaning": "Tình hình bắt đầu trở nên tồi tệ."
+  },
+  {
+   "tokens": [
+    "I",
+    "fear",
+    "death"
+   ],
+   "reading": "",
+   "meaning": "Tôi sợ chết."
+  },
+  {
+   "tokens": [
+    "Lead",
+    "is",
+    "metal"
+   ],
+   "reading": "",
+   "meaning": "Chì là kim loại."
+  },
+  {
+   "tokens": [
+    "I",
+    "doubt",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghi ngờ điều đó."
+  }
+ ],
+ "issues": []
+}

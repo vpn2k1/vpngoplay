@@ -1,0 +1,327 @@
+{
+ "lesson": 73,
+ "draft": true,
+ "words": [
+  {
+   "term": "悲しむ",
+   "meaning": "buồn rầu, buồn bã",
+   "example": "「悲しむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “悲しむ”: buồn rầu, buồn bã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "演奏",
+   "meaning": "musical performance (EN)",
+   "example": "「演奏」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “演奏”: musical performance (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "売れる",
+   "meaning": "bán (hàng hoá)",
+   "example": "「売れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売れる”: bán (hàng hoá).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偉大",
+   "meaning": "lớn, to lớn, vĩ đại",
+   "example": "鈴木氏は偉大な科学者だ。",
+   "exampleMeaning": "Ông Suzuki là một nhà khoa học vĩ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "画家",
+   "meaning": "thợ sơn, hoạ sĩ",
+   "example": "この画家は美しい絵画を創作する。",
+   "exampleMeaning": "Người họa sĩ này vẽ nên những bức tranh đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "失う",
+   "meaning": "mất, mất hút, không thấy nữa",
+   "example": "あなたを失うのが怖いの。",
+   "exampleMeaning": "Tôi sợ mất bạn lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "イメージ",
+   "meaning": "hình, hình ảnh, ảnh (trong gương... )",
+   "example": "その会社はイメージアップをはかっている。",
+   "exampleMeaning": "Chúng tôi đang bàn bạc việc nâng cao hình ảnh của công ty.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "抱く",
+   "meaning": "ôm, ôm chặt, ghì chặt",
+   "example": "「抱く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “抱く”: ôm, ôm chặt, ghì chặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迷子",
+   "meaning": "một tên dành cho nữ",
+   "example": "迷子になってしまいますよ。",
+   "exampleMeaning": "Bạn sẽ bị lạc đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "少々",
+   "meaning": "nhỏ bé, bé bỏng",
+   "example": "「少々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “少々”: nhỏ bé, bé bỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "混乱",
+   "meaning": "thời đại hỗn nguyên, thời đại hỗn mang",
+   "example": "「混乱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “混乱”: thời đại hỗn nguyên, thời đại hỗn mang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "操作",
+   "meaning": "thao tác",
+   "example": "「操作」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “操作”: thao tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不利",
+   "meaning": "sự bất lợi",
+   "example": "「不利」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不利”: sự bất lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "すれ違う",
+   "meaning": "to pass by one another (EN)",
+   "example": "「すれ違う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “すれ違う”: to pass by one another (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ますます",
+   "meaning": "sự tăng, sự tăng thêm",
+   "example": "聞けば聞くほどますます面白くなる。",
+   "exampleMeaning": "Càng nghe càng thấy trở nên thú vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "親戚",
+   "meaning": "bà con thân thiết, họ hàng",
+   "example": "遠い親戚より近くの他人。",
+   "exampleMeaning": "Bán anh em xa mua láng giềng gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物価",
+   "meaning": "giá cả",
+   "example": "物価が上がっている。",
+   "exampleMeaning": "Vật giá đang tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "枠",
+   "meaning": "cấu trúc, cơ cấu",
+   "example": "彼らはテープで枠を作りました。",
+   "exampleMeaning": "Họ đã làm một cái khung bằng băng dính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "クリーム",
+   "meaning": "kem (lấy từ sữa)",
+   "example": "アイスクリームを食べたい？",
+   "exampleMeaning": "Bạn muốn ăn kem không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "パス",
+   "meaning": "đi, đi lên",
+   "example": "パスポートが盗まれました。",
+   "exampleMeaning": "Hộ chiếu của tôi bị trộm mất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "物価",
+    "が",
+    "上がっている"
+   ],
+   "reading": "ぶっかがあがっている",
+   "meaning": "Vật giá đang tăng."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "どこ",
+    "へ",
+    "いって",
+    "も",
+    "迷子になる"
+   ],
+   "reading": "わたしはどこへいってもまいごになる",
+   "meaning": "Cho dù đi đâu thì tôi vẫn luôn bị lạc."
+  },
+  {
+   "tokens": [
+    "聞けば",
+    "聞く",
+    "ほど",
+    "ますます",
+    "面白く",
+    "なる"
+   ],
+   "reading": "きけばきくほどますますおもしろくなる",
+   "meaning": "Càng nghe càng thấy trở nên thú vị."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "アイスクリーム",
+    "が",
+    "好き",
+    "ではない"
+   ],
+   "reading": "かれはアイスクリームがすきではない",
+   "meaning": "Anh ấy không thích kem."
+  },
+  {
+   "tokens": [
+    "その",
+    "会社",
+    "は",
+    "イメージアップ",
+    "を",
+    "はかっている"
+   ],
+   "reading": "そのかいしゃはイメージアップをはかっている",
+   "meaning": "Chúng tôi đang bàn bạc việc nâng cao hình ảnh của công ty."
+  }
+ ],
+ "issues": []
+}

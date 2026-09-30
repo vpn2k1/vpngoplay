@@ -1,0 +1,333 @@
+{
+ "lesson": 118,
+ "draft": true,
+ "words": [
+  {
+   "term": "半ば",
+   "meaning": "nửa, phân chia đôi",
+   "example": "始めよければ半ば成功。",
+   "exampleMeaning": "Khởi đầu tốt là coi như xong một nửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "迷う",
+   "meaning": "không hiểu được, lúng túng, bối rối",
+   "example": "「迷う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “迷う”: không hiểu được, lúng túng, bối rối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "時期",
+   "meaning": "thời gian, thì giờ",
+   "example": "君は新しい車を買う時期ですよ。",
+   "exampleMeaning": "Đã đến lúc bạn cần mua một chiếc xe hơi mới rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "芝居",
+   "meaning": "sự vui chơi, sự nô đùa, sự đùa giỡn",
+   "example": "「芝居」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “芝居”: sự vui chơi, sự nô đùa, sự đùa giỡn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "郡",
+   "meaning": "nước, quốc gia",
+   "example": "「郡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “郡”: nước, quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不幸",
+   "meaning": "tình trạng khổ sở, tình trạng khốn khó",
+   "example": "私は不幸かもしれないが、自殺するつもりはない。",
+   "exampleMeaning": "Tôi có thể không hạnh phúc, nhưng tôi không có ý định tự sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "視覚",
+   "meaning": "sự nhìn",
+   "example": "「視覚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “視覚”: sự nhìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ヨーロッパ",
+   "meaning": "châu Âu",
+   "example": "彼らはヨーロッパに行ってしまった。",
+   "exampleMeaning": "Họ đã đi châu Âu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "位",
+   "meaning": "grát",
+   "example": "位置について、用意、ドン。",
+   "exampleMeaning": "Vào vị trí, sẵn sàng, chạy!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恋",
+   "meaning": "tình yêu, mối tình, ái tình",
+   "example": "あなたがとても恋しい。",
+   "exampleMeaning": "Anh nhớ em nhiều lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "テント",
+   "meaning": "lều, rạp, tăng",
+   "example": "「テント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “テント”: lều, rạp, tăng.",
+   "emoji": "⛺",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定期",
+   "meaning": "định kỳ",
+   "example": "「定期」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定期”: định kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生やす",
+   "meaning": "mọc, mọc lên (cây cối)",
+   "example": "「生やす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生やす”: mọc, mọc lên (cây cối).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "そっくり",
+   "meaning": "giống hệt, y hệt",
+   "example": "その絵は本物そっくりだ。",
+   "exampleMeaning": "Bức tranh đó giống như thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "後者",
+   "meaning": "sau cùng, gần đây, mới đây",
+   "example": "「後者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “後者”: sau cùng, gần đây, mới đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "義務",
+   "meaning": "nghĩa vụ, bổn phận",
+   "example": "私はあなたに説明する義務がある。",
+   "exampleMeaning": "Tôi có nghĩa vụ phải giải thích cho bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物質",
+   "meaning": "vật chất",
+   "example": "彼らは物質的にも精神的にも彼を支えた。",
+   "exampleMeaning": "Họ đã hỗ trợ cho ông cả vật chất lẫn tinh thần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "蒸す",
+   "meaning": "bốc hơi, lên hơi",
+   "example": "「蒸す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “蒸す”: bốc hơi, lên hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "流行",
+   "meaning": "đúng mốt, hợp thời trang",
+   "example": "彼女はいつも流行の服を着ている。",
+   "exampleMeaning": "Cô ấy luôn mặc quần áo sành điệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "唯一",
+   "meaning": "chỉ có một, duy nhất",
+   "example": "彼女は私の唯一の友達だった。",
+   "exampleMeaning": "Cô ấy là người bạn duy nhất của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "始め",
+    "よければ",
+    "半ば",
+    "成功"
+   ],
+   "reading": "はじめよければなかばせいこう",
+   "meaning": "Khởi đầu tốt là coi như xong một nửa."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "お兄さん",
+    "に",
+    "そっくり",
+    "だ",
+    "よ"
+   ],
+   "reading": "きみはおにいさんにそっくりだよ",
+   "meaning": "Em trông giống hệt anh trai mình đấy."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "新しい",
+    "車",
+    "を",
+    "買う",
+    "時期",
+    "です",
+    "よ"
+   ],
+   "reading": "きみはあたらしいくるまをかうじきですよ",
+   "meaning": "Đã đến lúc bạn cần mua một chiếc xe hơi mới rồi đấy."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "いつも",
+    "流行",
+    "の",
+    "服",
+    "を",
+    "着ている"
+   ],
+   "reading": "かのじょはいつもりゅうこうのふくをきている",
+   "meaning": "Cô ấy luôn mặc quần áo sành điệu."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "ヨーロッパ",
+    "に",
+    "行って",
+    "しまった"
+   ],
+   "reading": "かれらはヨーロッパにいってしまった",
+   "meaning": "Họ đã đi châu Âu."
+  }
+ ],
+ "issues": []
+}

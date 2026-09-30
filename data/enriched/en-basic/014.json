@@ -1,0 +1,341 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "afternoon",
+   "meaning": "buổi chiều",
+   "example": "It rained all afternoon yesterday.",
+   "exampleMeaning": "Trời mưa cả chiều hôm qua.",
+   "emoji": "",
+   "ipa": "/ˌæftɜrˈnun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stage",
+   "meaning": "sân khấu",
+   "example": "to put a play on stage",
+   "exampleMeaning": "Đem trình diễn một vở kịch",
+   "emoji": "",
+   "ipa": "/steɪd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "say",
+   "meaning": "nói",
+   "example": "have you anything to say for yourself?",
+   "exampleMeaning": "Anh có điều gì để viện ra làm lý lẽ bênh vực cho mình không?",
+   "emoji": "",
+   "ipa": "/seɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pet",
+   "meaning": "yêu quý, thích nhất, nuông",
+   "example": "to make a pet of a child",
+   "exampleMeaning": "Cưng một đứa bé",
+   "emoji": "",
+   "ipa": "/ˈpɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "super",
+   "meaning": "thượng hảo hạng",
+   "example": "Let's learn the word \"super\".",
+   "exampleMeaning": "Cùng học từ “super”: thượng hảo hạng.",
+   "emoji": "",
+   "ipa": "/ˈsupɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cup",
+   "meaning": "cốc",
+   "example": "to win a cup",
+   "exampleMeaning": "Đoạt giải",
+   "emoji": "",
+   "ipa": "/ˈkəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "luck",
+   "meaning": "vận, sự may rủi",
+   "example": "to be down on one's luck",
+   "exampleMeaning": "Gặp vận rủi, gặp cơn đen",
+   "emoji": "",
+   "ipa": "/ˈlək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "meal",
+   "meaning": "ăn, ăn cơm",
+   "example": "What meal are you making?",
+   "exampleMeaning": "Bạn đang nấu món gì thế?",
+   "emoji": "",
+   "ipa": "/miːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "meeting",
+   "meaning": "cuộc gặp gỡ, cuộc hội họp, hội nghị",
+   "example": "What's the meeting about?",
+   "exampleMeaning": "Chủ đề của buổi họp là gì?",
+   "emoji": "",
+   "ipa": "/ˈmitɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "guest",
+   "meaning": "khách",
+   "example": "a paying guest",
+   "exampleMeaning": "Khách trọ ăn cơm tháng",
+   "emoji": "",
+   "ipa": "/ɡɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soon",
+   "meaning": "sớm",
+   "example": "as soon as I heard of it",
+   "exampleMeaning": "Ngay khi tôi biết việc đó",
+   "emoji": "",
+   "ipa": "/suːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "money",
+   "meaning": "tiền, tiền tệ",
+   "example": "to pay money down",
+   "exampleMeaning": "Trả tiền mặt",
+   "emoji": "",
+   "ipa": "/ˈmʌni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "together",
+   "meaning": "cùng với, cùng nhau, cùng một lúc",
+   "example": "they were walking together",
+   "exampleMeaning": "Chúng cùng đi dạo với nhau",
+   "emoji": "",
+   "ipa": "/tʊˈɡɛð.ə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "concert",
+   "meaning": "buổi hoà nhạc",
+   "example": "When will they give a concert?",
+   "exampleMeaning": "Bao giờ họ tổ chức hòa nhạc nhỉ?",
+   "emoji": "",
+   "ipa": "/ˈkɑnsɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "if",
+   "meaning": "nếu, nếu như",
+   "example": "oh, if he could only come!",
+   "exampleMeaning": "Ồ, giá mà anh ấy đến được bây giờ",
+   "emoji": "",
+   "ipa": "/ɪf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sunny",
+   "meaning": "nắng, có nhiều ánh nắng",
+   "example": "The weather is sunny and nice today.",
+   "exampleMeaning": "Hôm nay thời tiết nắng đẹp.",
+   "emoji": "",
+   "ipa": "/ˈsəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hurry",
+   "meaning": "làm gấp, làm mau, làm vội vàng",
+   "example": "why all this hurry?",
+   "exampleMeaning": "Việc gì phải vội vàng thế?",
+   "emoji": "",
+   "ipa": "/ˈhɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "design",
+   "meaning": "có ý định, định, dự kiến",
+   "example": "to design to do (doing) something",
+   "exampleMeaning": "Dự định làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪ.ˈzɑɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dollar",
+   "meaning": "đồng đô la (Mỹ)",
+   "example": "Do you have change for a dollar?",
+   "exampleMeaning": "Bạn có đồng đô la tiền lẻ không?",
+   "emoji": "",
+   "ipa": "/ˈdɑlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grandfather",
+   "meaning": "ông",
+   "example": "My grandfather is very hard to please.",
+   "exampleMeaning": "Ông tôi rất khó chiều.",
+   "emoji": "",
+   "ipa": "/ˈɡrænˌfɑðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "If",
+    "I",
+    "had",
+    "money",
+    "I'd",
+    "buy",
+    "a",
+    "computer"
+   ],
+   "reading": "",
+   "meaning": "Nếu tôi có tiền, tôi sẽ mua máy vi tính."
+  },
+  {
+   "tokens": [
+    "The",
+    "meeting",
+    "began",
+    "at",
+    "five",
+    "in",
+    "the",
+    "afternoon"
+   ],
+   "reading": "",
+   "meaning": "Cuộc họp đã bắt đầu lúc 5 giờ chiều."
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "plan",
+    "on",
+    "attending",
+    "this",
+    "afternoon's",
+    "meeting"
+   ],
+   "reading": "",
+   "meaning": "Cậu có định tham gia cuộc họp chiều nay không?"
+  },
+  {
+   "tokens": [
+    "If",
+    "I",
+    "should",
+    "fail",
+    "what",
+    "would",
+    "my",
+    "parents",
+    "say"
+   ],
+   "reading": "",
+   "meaning": "Nếu tôi thất bại, ba mẹ của tôi sẽ nói gì."
+  },
+  {
+   "tokens": [
+    "All",
+    "the",
+    "money",
+    "put",
+    "together",
+    "still",
+    "won't",
+    "be",
+    "enough"
+   ],
+   "reading": "",
+   "meaning": "Gom hết tất cả tiền lại cũng không đủ."
+  }
+ ],
+ "issues": []
+}

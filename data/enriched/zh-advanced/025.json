@@ -1,0 +1,342 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "表决",
+   "meaning": "biểu quyết",
+   "example": "付表决。",
+   "exampleMeaning": "Đưa ra biểu quyết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎojué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "享有",
+   "meaning": "được hưởng",
+   "example": "在中国男女享有同样的权利。",
+   "exampleMeaning": "Ở Trung Quốc nam nữ được hưởng quyền lợi ngang nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎngyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阻挡",
+   "meaning": "ngăn cản",
+   "example": "他一定要去，就不要阻挡了。",
+   "exampleMeaning": "Anh ấy nhất định phải đi, đừng nên ngăn cản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔdǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "疑惑",
+   "meaning": "nghi ngờ",
+   "example": "我很疑惑为什么冷的时候会寂寞得想找个人聊聊天。",
+   "exampleMeaning": "Tôi tự hỏi không biết tại sao mỗi khi trời lạnh là tôi lại cảm thấy cô đơn như thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíhuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仇恨",
+   "meaning": "thù hận",
+   "example": "我们来学“仇恨”这个词。",
+   "exampleMeaning": "Cùng học từ “仇恨”: thù hận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóuhèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "后备",
+   "meaning": "hậu bị",
+   "example": "精打细算，留有后备。",
+   "exampleMeaning": "Tính toán tỉ mỉ, lưu lại lực lượng hậu bị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòubèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凭借",
+   "meaning": "dựa vào",
+   "example": "人类的思维是凭借语言来进行的。",
+   "exampleMeaning": "Tư duy của con người được tiến hành thông qua ngôn ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngjiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开支",
+   "meaning": "khoản chi, chi tiền, trả tiền",
+   "example": "不应当用的钱，坚决不开支。",
+   "exampleMeaning": "Những món tiền không đáng chi, thì cương quyết không chi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāizhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "擅自",
+   "meaning": "tự tiện",
+   "example": "不得擅自改变安全操作规程。",
+   "exampleMeaning": "Không được tự tiện sửa đổi qui trình thao tác an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shànzì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "浏览",
+   "meaning": "cho (súc vật) gặm (cành non, chồi non)",
+   "example": "这本书我只浏览了一遍，还没仔细看。",
+   "exampleMeaning": "Quyển sách này tôi chỉ xem lướt qua, vẫn chưa xem kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúlǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "目睹",
+   "meaning": "mắt thấy",
+   "example": "耳闻目睹。",
+   "exampleMeaning": "Tai nghe mắt thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùdǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手腕",
+   "meaning": "mánh khoé",
+   "example": "耍手腕儿。",
+   "exampleMeaning": "Giở mánh khoé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuwàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "税收",
+   "meaning": "thu nhập từ thuế (của nhà nước)",
+   "example": "我们来学“税收”这个词。",
+   "exampleMeaning": "Cùng học từ “税收”: thu nhập từ thuế (của nhà nước).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuìshōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清单",
+   "meaning": "hoá đơn",
+   "example": "列一个清单。",
+   "exampleMeaning": "Liệt kê hoá đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngdān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明智",
+   "meaning": "sáng suốt",
+   "example": "我们来学“明智”这个词。",
+   "exampleMeaning": "Cùng học từ “明智”: sáng suốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "铅",
+   "meaning": "than chì (dùng làm bút chì), duyên Sơn",
+   "example": "我们来学“铅”这个词。",
+   "exampleMeaning": "Cùng học từ “铅”: than chì (dùng làm bút chì), duyên Sơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "非凡",
+   "meaning": "phi thường",
+   "example": "非凡的组织才能。",
+   "exampleMeaning": "Tài năng tổ chức phi thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēifán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刊登",
+   "meaning": "đăng",
+   "example": "刊登消息。",
+   "exampleMeaning": "Đăng tin tức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāndēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "泄露",
+   "meaning": "tiết lộ",
+   "example": "泄露秘密。",
+   "exampleMeaning": "Tiết lộ bí mật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xièlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拖延",
+   "meaning": "kéo dài",
+   "example": "期限快到，不能再拖延了。",
+   "exampleMeaning": "Sắp đến kỳ hạn, không thể kéo dài nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuōyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "本",
+    "书",
+    "会",
+    "对",
+    "我们",
+    "有",
+    "很",
+    "大",
+    "用处"
+   ],
+   "reading": "zhè běn shū huì duì wǒmen yǒu hěn dà yòngchu",
+   "meaning": "Quyển sách này rất hứu ích cho chúng ta."
+  },
+  {
+   "tokens": [
+    "你",
+    "应该",
+    "学习",
+    "控制",
+    "自己",
+    "的",
+    "情绪"
+   ],
+   "reading": "nǐ yīnggāi xuéxí kòngzhì zìjǐ de qíngxù",
+   "meaning": "Bạn nên học cách kiểm soát cảm xúc của mình."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "我",
+    "很",
+    "抱歉",
+    "用",
+    "这种",
+    "方式",
+    "把",
+    "你",
+    "请",
+    "来"
+   ],
+   "reading": "wǒ hěn bàoqiàn yòng zhèzhǒng fāngshì bǎ nǐ qǐng lái",
+   "meaning": "Tôi xin lỗi vì đã dùng cách này để đưa anh đến."
+  }
+ ],
+ "issues": []
+}

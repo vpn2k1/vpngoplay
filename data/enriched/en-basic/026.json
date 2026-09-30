@@ -1,0 +1,326 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "is",
+   "meaning": "là, thì",
+   "example": "Is it bad?",
+   "exampleMeaning": "Nó có tồi không?",
+   "emoji": "",
+   "ipa": "/ˈɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "could",
+   "meaning": "có thể, có khả năng",
+   "example": "I could do it.",
+   "exampleMeaning": "Tôi đã có thể làm điều này.",
+   "emoji": "",
+   "ipa": "/ˈkʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "salad",
+   "meaning": "rau xà lách",
+   "example": "I bought a bottle of salad oil.",
+   "exampleMeaning": "Tôi đã mua một chai dầu sa-lát.",
+   "emoji": "",
+   "ipa": "/ˈsæləd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "flat",
+   "meaning": "căn phòng, căn buồng, căn hộ",
+   "example": "and that's flat!",
+   "exampleMeaning": "Dứt khoát là như vậy!",
+   "emoji": "♭",
+   "ipa": "/flæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cinema",
+   "meaning": "rạp chiếu phim",
+   "example": "We're going to the cinema tomorrow.",
+   "exampleMeaning": "Ngày mai chúng ta sẽ đi ra rạp chiếu phim.",
+   "emoji": "🎦",
+   "ipa": "/ˈsɪnəmə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "engineer",
+   "meaning": "thợ điện",
+   "example": "We need an electrical engineer for this job.",
+   "exampleMeaning": "Bọn mình cần thợ điện để làm việc này.",
+   "emoji": "",
+   "ipa": "/ˈɛndʒəˈnɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "family",
+   "meaning": "gia đình, gia quyến",
+   "example": "Family is family.",
+   "exampleMeaning": "Gia đình là gia đình.",
+   "emoji": "👪",
+   "ipa": "/ˈfæm(ɪ)li/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "which",
+   "meaning": "nào (ngụ ý chọn lựa)",
+   "example": "Which team won?",
+   "exampleMeaning": "Đội nào thắng?",
+   "emoji": "",
+   "ipa": "/ˈhwɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "daughter",
+   "meaning": "hạt con, chất con, sản vật con",
+   "example": "He sent his daughter a dress.",
+   "exampleMeaning": "Anh ta gửi một chiếc váy cho con gái anh ta.",
+   "emoji": "",
+   "ipa": "/ˈdɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "girl",
+   "meaning": "cô gái giúp việc (trong gia đình), người yêu, người tình ((cũng) best girl)",
+   "example": "The girl washed her hair.",
+   "exampleMeaning": "Cô gái đó đã gội đầu.",
+   "emoji": "👧",
+   "ipa": "/ˈɡɜrl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mind",
+   "meaning": "tâm, tâm trí, tinh thần",
+   "example": "don't mind my keeping you waiting?",
+   "exampleMeaning": "Tôi làm anh chờ chắc không phiền gì chứ?",
+   "emoji": "",
+   "ipa": "/ˈmaɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "toilet",
+   "meaning": "cầu tiêu",
+   "example": "This is not toilet paper.",
+   "exampleMeaning": "Đây không phải là giấy vệ sinh.",
+   "emoji": "🚽",
+   "ipa": "/ˈtɔɪlət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "personal",
+   "meaning": "cá nhân, tư, riêng",
+   "example": "I respect your personal space.",
+   "exampleMeaning": "Tôi tôn trọng không gian riêng của bạn.",
+   "emoji": "",
+   "ipa": "/ˈpɜrsɪnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "quarter",
+   "meaning": "một phần tư",
+   "example": "to ask for quarter; to cry quarter",
+   "exampleMeaning": "Xin tha giết",
+   "emoji": "",
+   "ipa": "/ˈkwɔrtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "merry",
+   "meaning": "vui, vui vẻ",
+   "example": "to make merry over somebody",
+   "exampleMeaning": "Trêu chòng ai, đùa ai, chế giễu ai",
+   "emoji": "",
+   "ipa": "/ˈmɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "goal",
+   "meaning": "mục tiêu",
+   "example": "to keep the goal",
+   "exampleMeaning": "Giữ gôn",
+   "emoji": "",
+   "ipa": "/ˈɡoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "beautiful",
+   "meaning": "đẹp",
+   "example": "You're so beautiful!",
+   "exampleMeaning": "Bạn đẹp quá!",
+   "emoji": "",
+   "ipa": "/ˈbjuːtɪ.fəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "just",
+   "meaning": "chỉ",
+   "example": "just shut the door, will you?",
+   "exampleMeaning": "Phiền ông đóng hộ cửa một tí",
+   "emoji": "",
+   "ipa": "/ˈdʒəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "have to",
+   "meaning": "phải, có bổn phận phải, bắt buộc phải",
+   "example": "I have to hide.",
+   "exampleMeaning": "Tôi phải trốn.",
+   "emoji": "",
+   "ipa": "/ˈhæv.tuː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sea",
+   "meaning": "biển",
+   "example": "sea like a looking-glass",
+   "exampleMeaning": "Biển yên gió lặng",
+   "emoji": "",
+   "ipa": "/siː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Which",
+    "is",
+    "cinema"
+   ],
+   "reading": "",
+   "meaning": "Rạp chiếu phim nào?"
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "just",
+    "an",
+    "ordinary",
+    "girl"
+   ],
+   "reading": "",
+   "meaning": "Cô ta chỉ là một cô gái bình thường"
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "is",
+    "looking",
+    "at",
+    "the",
+    "beautiful",
+    "girl"
+   ],
+   "reading": "",
+   "meaning": "Mọi người đều đang nhìn cô gái xinh đẹp."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "just",
+    "a",
+    "seven",
+    "year",
+    "old",
+    "girl"
+   ],
+   "reading": "",
+   "meaning": "Nó chỉ là đứa trẻ bảy tuổi."
+  },
+  {
+   "tokens": [
+    "Reality",
+    "is",
+    "beautiful"
+   ],
+   "reading": "",
+   "meaning": "Thực tại là một thứ đẹp đẽ."
+  }
+ ],
+ "issues": []
+}

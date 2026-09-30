@@ -1,0 +1,334 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "language",
+   "meaning": "tiếng, ngôn ngữ",
+   "example": "What's your native language?",
+   "exampleMeaning": "Tiếng mẹ đẻ của bạn là gì?",
+   "emoji": "",
+   "ipa": "/ˈlæŋ.ɡwɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lunch",
+   "meaning": "bữa ăn trưa",
+   "example": "I make lunch every day.",
+   "exampleMeaning": "Tôi làm bữa trưa mỗi ngày",
+   "emoji": "",
+   "ipa": "/ˈləntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "notebook",
+   "meaning": "sổ",
+   "example": "The notebook cost two florins.",
+   "exampleMeaning": "Quyển vở đó có giá hai đồng florin.",
+   "emoji": "📓",
+   "ipa": "/ˈnoʊtˌbʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sing",
+   "meaning": "hát, ca hát",
+   "example": "to sing someone to sleep",
+   "exampleMeaning": "Hát ru ngủ ai",
+   "emoji": "",
+   "ipa": "/ˈsɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "to",
+   "meaning": "cho, với",
+   "example": "it may be useful to your friend",
+   "exampleMeaning": "Điều đó có thể có ích cho bạn anh",
+   "emoji": "",
+   "ipa": "/ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "uncle",
+   "meaning": "chú",
+   "example": "My uncle gave you a present.",
+   "exampleMeaning": "Chú tôi đã tặng cho bạn một món quà.",
+   "emoji": "",
+   "ipa": "/ˈʌŋ.kl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tall",
+   "meaning": "cao",
+   "example": "how tall is he?",
+   "exampleMeaning": "Nó cao bao nhiêu?",
+   "emoji": "",
+   "ipa": "/ˈtɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "eat",
+   "meaning": "ăn",
+   "example": "I eat rice.",
+   "exampleMeaning": "Tôi ăn cơm.",
+   "emoji": "",
+   "ipa": "/iːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "try",
+   "meaning": "thử, thử xem, làm thử",
+   "example": "to have a try at...",
+   "exampleMeaning": "Thử làm...",
+   "emoji": "",
+   "ipa": "/traɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "always",
+   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "example": "She is always busy.",
+   "exampleMeaning": "Chị ấy lúc nào cũng rất bận.",
+   "emoji": "",
+   "ipa": "/ˈɔl.wiz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mobile",
+   "meaning": "động",
+   "example": "I don't have a mobile phone.",
+   "exampleMeaning": "Tôi không có điện thoại di động.",
+   "emoji": "",
+   "ipa": "/ˈmoʊbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "night",
+   "meaning": "đêm, cảnh tối tăm, ban đêm",
+   "example": "at (in the) deal of night",
+   "exampleMeaning": "Lúc nửa đêm, lúc đêm khuya thanh vắng",
+   "emoji": "",
+   "ipa": "/ˈnaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "article",
+   "meaning": "đồ, thức, vật phẩm",
+   "example": "to article against someone for something",
+   "exampleMeaning": "Tố giác ai về việc gì; buộc tội ai về cái gì",
+   "emoji": "",
+   "ipa": "/ˈɑrtəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "work",
+   "meaning": "hành động, hoạt động, làm",
+   "example": "to have plenty of work to do",
+   "exampleMeaning": "Có nhiều việc phải làm",
+   "emoji": "",
+   "ipa": "/ˈwɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cafe",
+   "meaning": "cà phê",
+   "example": "Is the cafe open?",
+   "exampleMeaning": "Quán cà phê có mở không?",
+   "emoji": "",
+   "ipa": "/kæˈfeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "must",
+   "meaning": "cần phải, nên, chắc hẳn là",
+   "example": "you must work if you want to succeed",
+   "exampleMeaning": "Anh phải làm việc nếu anh muốn thành công",
+   "emoji": "",
+   "ipa": "/ˈməst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "outside",
+   "meaning": "ngoài, ra ngoài",
+   "example": "to open the door from the outside",
+   "exampleMeaning": "Mở cửa từ bên ngoài",
+   "emoji": "",
+   "ipa": "/ˈaʊtˈsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "let",
+   "meaning": "hãy, hây, để cho",
+   "example": "to let fall a remark on someone",
+   "exampleMeaning": "Buông ra một lời nhận xét về ai",
+   "emoji": "",
+   "ipa": "/lɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "kid",
+   "meaning": "con dê non",
+   "example": "You're the tallest kid in your class, aren't you?",
+   "exampleMeaning": "Bạn là đứa trẻ cao nhất trong lớp của bạn, phải không?",
+   "emoji": "",
+   "ipa": "/kɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "skirt",
+   "meaning": "váy, xiêm",
+   "example": "Her skirt fits tightly.",
+   "exampleMeaning": "Chiếc váy cô ấy mặc khá chật.",
+   "emoji": "",
+   "ipa": "/ˈskɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "must",
+    "work",
+    "hard",
+    "to",
+    "succeed"
+   ],
+   "reading": "",
+   "meaning": "Bạn phải làm việc chăm chỉ để thành công."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "try",
+    "to",
+    "answer",
+    "these",
+    "questions"
+   ],
+   "reading": "",
+   "meaning": "Hãy thử trả lời những câu hỏi này."
+  },
+  {
+   "tokens": [
+    "He",
+    "always",
+    "drives",
+    "his",
+    "car",
+    "to",
+    "work"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy luôn lái xe hơi của mình đi làm."
+  },
+  {
+   "tokens": [
+    "I",
+    "often",
+    "don't",
+    "have",
+    "time",
+    "to",
+    "eat",
+    "lunch"
+   ],
+   "reading": "",
+   "meaning": "Tôi thường không có thời gian ăn trưa."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "hope",
+    "Tom",
+    "doesn't",
+    "try",
+    "to",
+    "do",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta hãy hy vọng Tom không cố gắng làm điều đó."
+  }
+ ],
+ "issues": []
+}

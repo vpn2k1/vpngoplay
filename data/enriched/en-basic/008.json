@@ -1,0 +1,322 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "green",
+   "meaning": "xanh",
+   "example": "do you see any green in my eye?",
+   "exampleMeaning": "Anh trông tôi có vẻ gì ngây thơ non nớt không?",
+   "emoji": "",
+   "ipa": "/ˈɡrin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "job",
+   "meaning": "việc, việc làm, công việc",
+   "example": "to make a goof job of it",
+   "exampleMeaning": "Làm tốt một công việc gì",
+   "emoji": "",
+   "ipa": "/ˈdʒɑb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whose",
+   "meaning": "của ai",
+   "example": "Whose is it?",
+   "exampleMeaning": "Cái này của ai vậy?",
+   "emoji": "",
+   "ipa": "/ˈhuz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sit",
+   "meaning": "cưỡi, ngồi xuống",
+   "example": "to sit a child on the table",
+   "exampleMeaning": "Đặt đứa bé ngồi lên bàn",
+   "emoji": "",
+   "ipa": "/sɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cloth",
+   "meaning": "vải",
+   "example": "it is a lie out of the whole cloth",
+   "exampleMeaning": "Đó là một lời nói láo từ đầu đến cuối",
+   "emoji": "",
+   "ipa": "/ˈklɔθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "spring",
+   "meaning": "mùa xuân (đen & bóng)",
+   "example": "he loves to spring surprises on us",
+   "exampleMeaning": "Anh ta thích làm chúng tôi ngạc nhiên",
+   "emoji": "",
+   "ipa": "/sprɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "everyone",
+   "meaning": "mọi người, tất cả mọi người, ai ai",
+   "example": "Let's learn the word \"everyone\".",
+   "exampleMeaning": "Cùng học từ “everyone”: mọi người, tất cả mọi người, ai ai.",
+   "emoji": "",
+   "ipa": "/ˈɛvriˌwən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shopping",
+   "meaning": "mua sắm",
+   "example": "I might not go shopping today.",
+   "exampleMeaning": "Tôi có lẽ sẽ không đi mua sắm hôm nay.",
+   "emoji": "",
+   "ipa": "/ˈʃɑpɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cover",
+   "meaning": "che, phủ, bao phủ",
+   "example": "to cover one's face with one's hands",
+   "exampleMeaning": "Lấy tay che mặt",
+   "emoji": "",
+   "ipa": "/ˈkəvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ear",
+   "meaning": "tai",
+   "example": "a fine ear for music",
+   "exampleMeaning": "Tai sành nhạc",
+   "emoji": "👂",
+   "ipa": "/ˈir/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "order",
+   "meaning": "bậc, thứ tự",
+   "example": "to give someone an order for goods",
+   "exampleMeaning": "Đặt mua hàng của người nào",
+   "emoji": "",
+   "ipa": "/ˈɔːdə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "wheel",
+   "meaning": "xe hình",
+   "example": "to wheel something in a barrow",
+   "exampleMeaning": "Chở vật gì bằng xe cút kít",
+   "emoji": "🛞",
+   "ipa": "/ˈhwil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "save",
+   "meaning": "để dành, tiết kiệm",
+   "example": "Save for the reactionary, all are for social progress.",
+   "exampleMeaning": "Trừ bọn phản động ra, ai cũng ủng hộ mọi tiến bộ xã hội",
+   "emoji": "",
+   "ipa": "/seɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "piano",
+   "meaning": "nhẹ",
+   "example": "Mary is a piano teacher.",
+   "exampleMeaning": "Mary là một giáo viên dạy piano.",
+   "emoji": "",
+   "ipa": "/piˈænə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cut",
+   "meaning": "cắt, chặt, chém",
+   "example": "to cut a road through the hill",
+   "exampleMeaning": "Xẻ đường qua đồi",
+   "emoji": "",
+   "ipa": "/kʌt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pants",
+   "meaning": "quần lót dài",
+   "example": "Where did you take your pants off?",
+   "exampleMeaning": "Cậu đã cởi quần ở đâu vậy?",
+   "emoji": "",
+   "ipa": "/ˈpænts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "smoke",
+   "meaning": "hút thuốc",
+   "example": "to end (go up) in smoke",
+   "exampleMeaning": "Tan thành mây khói (kế hoạch)",
+   "emoji": "",
+   "ipa": "/sməʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "your",
+   "meaning": "của anh, của chị, của ngài",
+   "example": "I'm your age.",
+   "exampleMeaning": "Tớ bằng tuổi cậu.",
+   "emoji": "",
+   "ipa": "/ˈjɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "collection",
+   "meaning": "sự lượm, sự góp nhặt, tập hợp",
+   "example": "to make a collection; to take up a collection",
+   "exampleMeaning": "Mở cuộc quyên góp",
+   "emoji": "",
+   "ipa": "/kəˈlɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "at",
+   "meaning": "vào, vào lúc, vào hồi (chỉ thời gian)",
+   "example": "what are you at now?",
+   "exampleMeaning": "Bây giờ anh đang bận gì?",
+   "emoji": "",
+   "ipa": "/ˈæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Cut",
+    "your",
+    "nails"
+   ],
+   "reading": "",
+   "meaning": "Cắt móng tay đi."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "looked",
+    "at",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Mọi người đều nhìn anh ta."
+  },
+  {
+   "tokens": [
+    "Is",
+    "your",
+    "mother",
+    "at",
+    "home"
+   ],
+   "reading": "",
+   "meaning": "Mẹ của mày có ở nhà không?"
+  },
+  {
+   "tokens": [
+    "Why's",
+    "everyone",
+    "looking",
+    "at",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Sao ai cũng nhìn tôi thế?"
+  },
+  {
+   "tokens": [
+    "Read",
+    "this",
+    "book",
+    "at",
+    "your",
+    "leisure"
+   ],
+   "reading": "",
+   "meaning": "Đọc quyển sách này khi rảnh rỗi."
+  }
+ ],
+ "issues": []
+}

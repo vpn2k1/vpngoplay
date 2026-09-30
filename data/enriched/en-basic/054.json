@@ -1,0 +1,314 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "sunshine",
+   "meaning": "nắng",
+   "example": "People like sunshine more than rain.",
+   "exampleMeaning": "Mọi người thích nắng hơn mưa.",
+   "emoji": "",
+   "ipa": "/ˈsənˌʃaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "spell",
+   "meaning": "bùa mê",
+   "example": "to cast a spell on",
+   "exampleMeaning": "Làm say mê",
+   "emoji": "",
+   "ipa": "/spɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "junk",
+   "meaning": "ghe mành, thuyền mành",
+   "example": "Let's learn the word \"junk\".",
+   "exampleMeaning": "Cùng học từ “junk”: ghe mành, thuyền mành.",
+   "emoji": "",
+   "ipa": "/ˈdʒəŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bulb",
+   "meaning": "bóng đèn",
+   "example": "How much does this light bulb cost?",
+   "exampleMeaning": "Cái bóng đèn này bao nhiêu tiền?",
+   "emoji": "",
+   "ipa": "/ˈbəlb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "truly",
+   "meaning": "thật, sự thật, đúng",
+   "example": "to be truly grateful",
+   "exampleMeaning": "Thành thật biết ơn",
+   "emoji": "",
+   "ipa": "/ˈtruli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "illegal",
+   "meaning": "không hợp pháp, bất hợp pháp, trái luật",
+   "example": "Online casinos are illegal in Viet Nam.",
+   "exampleMeaning": "Sòng bạc trực tuyến là bất hợp pháp tại Việt Nam.",
+   "emoji": "",
+   "ipa": "/ˌɪˈliɡəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "abroad",
+   "meaning": "ở nước ngoài, ra nước ngoài",
+   "example": "there is a rumour abroad that...",
+   "exampleMeaning": "Khắp nơi đang có tin đồn rằng...",
+   "emoji": "",
+   "ipa": "/əˈbrɔd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whole",
+   "meaning": "toàn bộ, tất cả, toàn thể",
+   "example": "to escape with a whole skin",
+   "exampleMeaning": "Thoát khỏi mà bình an vô sự",
+   "emoji": "",
+   "ipa": "/ˈhoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "support",
+   "meaning": "ủng hộ",
+   "example": "the sole support of one's old age",
+   "exampleMeaning": "Người nhờ cậy độc nhất trong lúc tuổi gìa",
+   "emoji": "",
+   "ipa": "/səˈpɔːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "power",
+   "meaning": "quyền, chính quyền, quyền hạn",
+   "example": "to have no power over...",
+   "exampleMeaning": "Không có quyền đối với...",
+   "emoji": "",
+   "ipa": "/ˈpaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "photography",
+   "meaning": "chụp ảnh",
+   "example": "Photography and video recording are prohibited.",
+   "exampleMeaning": "Cấm quay phim, chụp ảnh.",
+   "emoji": "",
+   "ipa": "/fəˈtɑɡrəfi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pan",
+   "meaning": "kết quả",
+   "example": "how did it pan out?",
+   "exampleMeaning": "Việc ấy kết quả thế nào?",
+   "emoji": "",
+   "ipa": "/ˈpæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "seek",
+   "meaning": "tìm, đi tìm, tìm kiếm",
+   "example": "to seek out the author of a murder",
+   "exampleMeaning": "Tìm thủ phạm cho vụ giết người",
+   "emoji": "",
+   "ipa": "/ˈsik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "credit",
+   "meaning": "tín dụng",
+   "example": "You have a credit balance of £250.",
+   "exampleMeaning": "Tài khoản hiện có £250",
+   "emoji": "",
+   "ipa": "/ˈkrɛdɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fridge",
+   "meaning": "tủ lạnh",
+   "example": "Tom looked in the fridge to see what he could find to drink.",
+   "exampleMeaning": "Tom nhìn chằm chằm vào cái tủ lạnh xem có gì uống không.",
+   "emoji": "",
+   "ipa": "/ˈfrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "final",
+   "meaning": "cuối",
+   "example": "I gave Tom my final warning.",
+   "exampleMeaning": "Tôi cảnh cáo Tom lần cuối.",
+   "emoji": "",
+   "ipa": "/ˈfaɪnl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "float",
+   "meaning": "trôi lềnh bềnh, thoáng qua, phảng phất",
+   "example": "visions float before the eyes",
+   "exampleMeaning": "Những ảo ảnh phảng phất trước mắt",
+   "emoji": "",
+   "ipa": "/ˈfloʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "walking",
+   "meaning": "đi bộ",
+   "example": "I enjoy walking in the park.",
+   "exampleMeaning": "Tôi thích đi bộ trong công viên.",
+   "emoji": "",
+   "ipa": "/ˈwɔkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "alright",
+   "meaning": "dùng như all right",
+   "example": "Is Tom alright?",
+   "exampleMeaning": "Tom ổn chứ?",
+   "emoji": "",
+   "ipa": "/ˌɔlˈraɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bookshelf",
+   "meaning": "giá sách, kệ sách",
+   "example": "He fixed the bookshelf to the wall.",
+   "exampleMeaning": "Cậu ấy gắn kệ sách vào tường.",
+   "emoji": "",
+   "ipa": "/ˈbʊk.ʃelf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Is",
+    "Tom",
+    "alright"
+   ],
+   "reading": "",
+   "meaning": "Tom ổn chứ?"
+  },
+  {
+   "tokens": [
+    "Knowledge",
+    "is",
+    "power"
+   ],
+   "reading": "",
+   "meaning": "Tri thức là sức mạnh."
+  },
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "alright"
+   ],
+   "reading": "",
+   "meaning": "Bạn có sao không?"
+  },
+  {
+   "tokens": [
+    "Is",
+    "everything",
+    "alright"
+   ],
+   "reading": "",
+   "meaning": "Mọi thứ vẫn ổn chứ?"
+  },
+  {
+   "tokens": [
+    "Death",
+    "is",
+    "final"
+   ],
+   "reading": "",
+   "meaning": "Chết là hết."
+  }
+ ],
+ "issues": []
+}

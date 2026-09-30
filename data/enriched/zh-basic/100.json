@@ -1,0 +1,331 @@
+{
+ "lesson": 100,
+ "draft": true,
+ "words": [
+  {
+   "term": "南部",
+   "meaning": "nam bộ",
+   "example": "我们来学“南部”这个词。",
+   "exampleMeaning": "Cùng học từ “南部”: nam bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没用",
+   "meaning": "vô dụng",
+   "example": "我们来学“没用”这个词。",
+   "exampleMeaning": "Cùng học từ “没用”: vô dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méiyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "另一方面",
+   "meaning": "mặt khác",
+   "example": "这次到北京来，一方面想游览北京的名胜古迹，另一方面也想看看多年不见的老朋友。",
+   "exampleMeaning": "Lần này đến Bắc Kinh, một mặt là muốn du ngoạn các danh lam thắng cảnh của Bắc Kinh, mặt khác thì là cũng muốn gặp những người bạn cũ đã lâu không gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìngyīfāngmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "营养",
+   "meaning": "dinh dưỡng",
+   "example": "水果富于营养",
+   "exampleMeaning": "Trái cây giàu chất dinh dưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíngyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "排名",
+   "meaning": "xếp hạng / danh sách có thứ tự / xếp thứ n trong số 100 / được đặt / điểm danh",
+   "example": "我们来学“排名”这个词。",
+   "exampleMeaning": "Cùng học từ “排名”: xếp hạng / danh sách có thứ tự / xếp thứ n trong số 100 / được đặt / điểm danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "páimíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行李",
+   "meaning": "hành lý",
+   "example": "我们来学“行李”这个词。",
+   "exampleMeaning": "Cùng học từ “行李”: hành lý.",
+   "emoji": "🧳",
+   "ipa": "",
+   "pinyin": "xíngli",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毛病",
+   "meaning": "ốm",
+   "example": "孩子有毛病，不要让他受凉了。",
+   "exampleMeaning": "Thằng bé bị ốm, đừng để nó nhiễm lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "máobìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "场合",
+   "meaning": "nơi",
+   "example": "在公共场合，要遵守秩序。",
+   "exampleMeaning": "Ở nơi công cộng, phải tuân thủ theo trật tự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnghé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "衬衫",
+   "meaning": "áo sơ-mi",
+   "example": "我们来学“衬衫”这个词。",
+   "exampleMeaning": "Cùng học từ “衬衫”: áo sơ-mi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chènshān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光明",
+   "meaning": "sáng",
+   "example": "黑暗中的一线光明。",
+   "exampleMeaning": "Một tia sáng trong bóng tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "合格",
+   "meaning": "hợp lệ",
+   "example": "产品完全合格",
+   "exampleMeaning": "Sản phẩm hoàn toàn đúng qui cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hégé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "东部",
+   "meaning": "phía Đông",
+   "example": "我们来学“东部”这个词。",
+   "exampleMeaning": "Cùng học từ “东部”: phía Đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "认可",
+   "meaning": "đồng ý",
+   "example": "点头认可。",
+   "exampleMeaning": "Gật đầu đồng ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènkě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提问",
+   "meaning": "hỏi",
+   "example": "我们来学“提问”这个词。",
+   "exampleMeaning": "Cùng học từ “提问”: hỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíwèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家属",
+   "meaning": "gia thuộc",
+   "example": "我们来学“家属”这个词。",
+   "exampleMeaning": "Cùng học từ “家属”: gia thuộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāshǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坚决",
+   "meaning": "kiên quyết",
+   "example": "认识了错误就坚决改正。",
+   "exampleMeaning": "Nhận ra sai sót là kiên quyết sửa sai ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "传来",
+   "meaning": "để đi qua",
+   "example": "我们来学“传来”这个词。",
+   "exampleMeaning": "Cùng học từ “传来”: để đi qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "从前",
+   "meaning": "trước đây",
+   "example": "想想从前悲惨遭遇，更加感到今天生活的幸福美满。",
+   "exampleMeaning": "Nghĩ lại những gì bi thảm đã gặp trước đây, càng cảm nhận được cuộc sống hạnh phúc tràn trề ngày hôm nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "日常",
+   "meaning": "hằng ngày",
+   "example": "日常生活",
+   "exampleMeaning": "Cuộc sống hằng ngày",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缺点",
+   "meaning": "thiếu sót, chỗ yếu, khâu nút",
+   "example": "不要看不起有缺点的人，因为每个人都会有缺点的。",
+   "exampleMeaning": "Đừng xem thường những người có khuyết điểm, bởi vì mỗi người đều có thể có khuyết điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quēdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "希望",
+    "你",
+    "会",
+    "喜欢",
+    "它"
+   ],
+   "reading": "wǒ xīwàng nǐ huì xǐhuan tā",
+   "meaning": "Tôi mong rằng bạn sẽ thích nó."
+  },
+  {
+   "tokens": [
+    "你",
+    "是",
+    "从",
+    "哪个",
+    "国家",
+    "来",
+    "的"
+   ],
+   "reading": "nǐ shì cóng nǎge guójiā lái de",
+   "meaning": "Bạn đến từ nước nào vậy?"
+  },
+  {
+   "tokens": [
+    "你",
+    "需要",
+    "我们",
+    "的",
+    "帮助",
+    "吗"
+   ],
+   "reading": "nǐ xūyào wǒmen de bāngzhù ma",
+   "meaning": "Bạn có cần sự giúp đỡ của chúng tôi không?"
+  },
+  {
+   "tokens": [
+    "那",
+    "件",
+    "事",
+    "我们",
+    "还",
+    "不",
+    "知道"
+   ],
+   "reading": "nà jiàn shì wǒmen hái bù zhīdào",
+   "meaning": "Việc đó, chúng tôi chưa biết."
+  },
+  {
+   "tokens": [
+    "你",
+    "刚",
+    "说",
+    "的",
+    "是",
+    "什么地方"
+   ],
+   "reading": "nǐ gāng shuō de shì shénmedìfang",
+   "meaning": "Chỗ anh vừa nói là đâu hả anh?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,327 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "国際",
+   "meaning": "quốc tế",
+   "example": "何でもかんでも英語にするのが国際化なんだったら国際化なんて糞食らえって思う。",
+   "exampleMeaning": "Tôi nghĩ là nếu \"hội nhập\" có nghĩa là cái gì cũng chuyển sang tiếng Anh thì nó thật quá nhảm nhí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昔",
+   "meaning": "quá",
+   "example": "話は遠い昔に始まる。",
+   "exampleMeaning": "Câu chuyện bắt đầu từ rất lâu rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "様",
+   "meaning": "loại, hạng, vẻ",
+   "example": "お父様にそっくりですね。",
+   "exampleMeaning": "Bạn trông giống hệt bố bạn nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "そろそろ",
+   "meaning": "dần dần, từ từ",
+   "example": "そろそろ我慢の限界だよ。",
+   "exampleMeaning": "Tôi sắp không chịu được nữa rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あ",
+   "meaning": "a!, chà!, chao!",
+   "example": "やあ！元気？",
+   "exampleMeaning": "Ê! Khỏe không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "決まる",
+   "meaning": "bao vây",
+   "example": "「決まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “決まる”: bao vây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捨てる",
+   "meaning": "bỏ, loại bỏ, vứt bỏ",
+   "example": "ここにゴミ捨てるべからず。",
+   "exampleMeaning": "Không được vứt rác ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "間違える",
+   "meaning": "sai, không đúng cách",
+   "example": "誰でも時々は間違える。",
+   "exampleMeaning": "Ai cũng có lúc sai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アルコール",
+   "meaning": "cồn",
+   "example": "１８歳以下の人はアルコールの入った飲み物を買ってはいけないことになっています。",
+   "exampleMeaning": "Những người dưới 18 tuổi không được phép mua đồ uống có cồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "訳",
+   "meaning": "lý do, lẽ",
+   "example": "言い訳をしても無駄だ。",
+   "exampleMeaning": "Có bào chữa thì cũng vô dụng thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "届ける",
+   "meaning": "cứu, cứu khỏi, giải thoát",
+   "example": "「届ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “届ける”: cứu, cứu khỏi, giải thoát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "字",
+   "meaning": "chữ cái, chữ",
+   "example": "漢字を少し教えてください。",
+   "exampleMeaning": "Hãy dạy cho tôi một vài chữ Hán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "赤ん坊",
+   "meaning": "đứa bé còn ẵm ngửa, đứa bé (dưới 7 tuổi)",
+   "example": "彼女は健康な赤ん坊を出産しました。",
+   "exampleMeaning": "Cô ấy đã sinh ra một em bé khỏe mạnh.",
+   "emoji": "👶",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夫",
+   "meaning": "người chồng",
+   "example": "大丈夫ですよ。",
+   "exampleMeaning": "Tôi không sao đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "過ぎる",
+   "meaning": "trội hơn",
+   "example": "食べ過ぎると太りますよ。",
+   "exampleMeaning": "Ăn nhiều quá mập đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "星",
+   "meaning": "sao, ngôi sao, tinh tú",
+   "example": "見て、これは北極星です。",
+   "exampleMeaning": "Nhìn kìa, đây là sao Bắc Đẩu.",
+   "emoji": "⭐",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ガラス",
+   "meaning": "thủy tinh",
+   "example": "ガラスは割れやすいです。",
+   "exampleMeaning": "Thủy tinh rất dễ vỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "はず",
+   "meaning": "phải, cần phải, nên",
+   "example": "どこの関節がはずれたの？",
+   "exampleMeaning": "Bạn bị trật khớp chỗ nào vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "すっと",
+   "meaning": "thẳng",
+   "example": "「すっと」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “すっと”: thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ご主人",
+   "meaning": "người quản lý",
+   "example": "「ご主人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ご主人”: người quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あれ",
+    "は",
+    "私",
+    "が",
+    "昔",
+    "働いていた",
+    "店",
+    "だ"
+   ],
+   "reading": "あれはわたしがむかしはたらいていたみせだ",
+   "meaning": "Đó là cửa hàng nơi mà tôi đã từng làm việc."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "同様",
+    "私",
+    "も",
+    "ヤフオク",
+    "の",
+    "評価",
+    "が",
+    "信じられません"
+   ],
+   "reading": "あなたどうようわたしもヤフオクのひょうかがしんじられません",
+   "meaning": "Cũng giống bạn, tôi không thể tin nổi những bài đánh giá trên Yahoo Auction."
+  },
+  {
+   "tokens": [
+    "あ",
+    "蝶々",
+    "が",
+    "いる"
+   ],
+   "reading": "あちょうちょがいる",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "提案",
+    "が",
+    "あります"
+   ],
+   "reading": "ていあんがあります",
+   "meaning": "Tôi có một đề xuất."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "誰",
+    "ですか"
+   ],
+   "reading": "あなたはだれですか",
+   "meaning": "Bạn là ai?"
+  }
+ ],
+ "issues": []
+}

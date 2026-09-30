@@ -1,0 +1,334 @@
+{
+ "lesson": 130,
+ "draft": true,
+ "words": [
+  {
+   "term": "摆脱",
+   "meaning": "làm đứt đoạn",
+   "example": "摆脱家庭的束缚",
+   "exampleMeaning": "Thoát ra khỏi những ràng buộc của gia đình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎituō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "夫妻",
+   "meaning": "vợ chồng",
+   "example": "结发夫妻",
+   "exampleMeaning": "Kết nên vợ chồng; se duyên vợ chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fūqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "财富",
+   "meaning": "của cải",
+   "example": "自然财富。",
+   "exampleMeaning": "Tài nguyên thiên nhiên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáifù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼泪",
+   "meaning": "nước mắt",
+   "example": "我们来学“眼泪”这个词。",
+   "exampleMeaning": "Cùng học từ “眼泪”: nước mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnlèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "模型",
+   "meaning": "khuôn",
+   "example": "我们来学“模型”这个词。",
+   "exampleMeaning": "Cùng học từ “模型”: khuôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "móxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精力",
+   "meaning": "tinh lực",
+   "example": "精力充沛。",
+   "exampleMeaning": "Tinh lực đầy đủ; sung sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "隔",
+   "meaning": "cách",
+   "example": "相隔很远。",
+   "exampleMeaning": "Cách nhau rất xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gé",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宽",
+   "meaning": "khoan dung",
+   "example": "他为集体想得周到，管得宽。",
+   "exampleMeaning": "Anh ấy vì tập thể suy nghĩ rất chu đáo, quản lý rất bao quát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "统计",
+   "meaning": "thống kê",
+   "example": "把人数统计一下。",
+   "exampleMeaning": "Thống kê về số người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "特征",
+   "meaning": "đặc trưng",
+   "example": "这个人的相貌有什么特征?",
+   "exampleMeaning": "Tướng mạo người này có gì đặc biệt không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèzhēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "叔叔",
+   "meaning": "chú",
+   "example": "他不是我父亲，他是我叔叔。",
+   "exampleMeaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūshu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "平均",
+   "meaning": "đều",
+   "example": "平均发展。",
+   "exampleMeaning": "Phát triển đồng đều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngjūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "县",
+   "meaning": "hạt, tỉnh",
+   "example": "我们来学“县”这个词。",
+   "exampleMeaning": "Cùng học từ “县”: hạt, tỉnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "供应",
+   "meaning": "cung cấp",
+   "example": "发展生产才能够保证供应。",
+   "exampleMeaning": "Phát triển sản xuất mới có thể bảo đảm đủ cung cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "事物",
+   "meaning": "sự vật",
+   "example": "我们来学“事物”这个词。",
+   "exampleMeaning": "Cùng học từ “事物”: sự vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相反",
+   "meaning": "trái ngược nhau",
+   "example": "然而，相反的理论往往也是真的。",
+   "exampleMeaning": "Nhưng, sự trái ngược cũng luôn luôn có lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngfǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "演讲",
+   "meaning": "diễn thuyết",
+   "example": "我们来学“演讲”这个词。",
+   "exampleMeaning": "Cùng học từ “演讲”: diễn thuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnjiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "帽子",
+   "meaning": "mũ",
+   "example": "这顶红帽子很衬她的裙子。",
+   "exampleMeaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màozi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "负担",
+   "meaning": "gánh nặng",
+   "example": "思想负担",
+   "exampleMeaning": "Gánh nặng tư tưởng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùdān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "战胜",
+   "meaning": "chiến thắng",
+   "example": "战胜顽敌",
+   "exampleMeaning": "Chiến thắng kẻ địch ngoan cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànshèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "不",
+    "是",
+    "我",
+    "父亲",
+    "他",
+    "是",
+    "我",
+    "叔叔"
+   ],
+   "reading": "tā bù shì wǒ fùqīn tā shì wǒ shūshu",
+   "meaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "顶",
+    "红",
+    "帽子",
+    "很",
+    "衬",
+    "她",
+    "的",
+    "裙子"
+   ],
+   "reading": "zhè dǐng hóng màozi hěn chèn tā de qúnzi",
+   "meaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy."
+  },
+  {
+   "tokens": [
+    "然而",
+    "相反",
+    "的",
+    "理论",
+    "往往",
+    "也",
+    "是",
+    "真",
+    "的"
+   ],
+   "reading": "ránér xiāngfǎn de lǐlùn wǎngwǎng yě shì zhēn de",
+   "meaning": "Nhưng, sự trái ngược cũng luôn luôn có lý."
+  },
+  {
+   "tokens": [
+    "我们",
+    "试试",
+    "看"
+   ],
+   "reading": "wǒmen shìshi kàn",
+   "meaning": "Chúng ta hãy thử một vài thứ."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "什",
+    "么",
+    "啊"
+   ],
+   "reading": "zhè shì shén me ā",
+   "meaning": "Cái này là gì?"
+  }
+ ],
+ "issues": []
+}

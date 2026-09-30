@@ -1,0 +1,334 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "無難",
+   "meaning": "sự an toàn, sự chắc chắn",
+   "example": "「無難」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無難”: sự an toàn, sự chắc chắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まごつく",
+   "meaning": "lẫn lộn, lộn xộn, rối rắm",
+   "example": "「まごつく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “まごつく”: lẫn lộn, lộn xộn, rối rắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衣類",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của clothe",
+   "example": "「衣類」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “衣類”: động từ chia ở ngôi thứ ba số ít của clothe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当選",
+   "meaning": "being elected (EN)",
+   "example": "「当選」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “当選”: being elected (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "だと",
+   "meaning": "if it's the case (EN)",
+   "example": "何様だと思ってるんだ。",
+   "exampleMeaning": "Mày nghĩ mày là ai?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "電源",
+   "meaning": "khả năng, tài năng, năng lực",
+   "example": "「電源」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “電源”: khả năng, tài năng, năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未知",
+   "meaning": "không biết, chưa từng ai biết, lạ",
+   "example": "「未知」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “未知”: không biết, chưa từng ai biết, lạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "甲",
+   "meaning": "vỏ: cấu trúc rỗng và cứng nói chung",
+   "example": "甲の食物は乙の毒。",
+   "exampleMeaning": "Cái sướng của người này là nỗi khổ của người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "化ける",
+   "meaning": "trá hình, cải trang",
+   "example": "猫は化けると言われる。",
+   "exampleMeaning": "Mèo được cho là có thể biến hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "体験",
+   "meaning": "kinh nghiệm",
+   "example": "「体験」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “体験”: kinh nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真ん前",
+   "meaning": "right in front (EN)",
+   "example": "「真ん前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真ん前”: right in front (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紛らわしい",
+   "meaning": "khó hiểu, gây bối rối",
+   "example": "「紛らわしい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紛らわしい”: khó hiểu, gây bối rối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手筈",
+   "meaning": "sự sắp xếp, sự sắp đặt, cái được sắp xếp",
+   "example": "「手筈」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手筈”: sự sắp xếp, sự sắp đặt, cái được sắp xếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "戦災",
+   "meaning": "war damage (EN)",
+   "example": "「戦災」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戦災”: war damage (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "実践",
+   "meaning": "thực hành, thực tiễn",
+   "example": "理論を実践と結び付けることが重要である。",
+   "exampleMeaning": "Cần phải kết hợp giữa lý thuyết và thực hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "果て",
+   "meaning": "mũi, sự bất hạnh tột độ",
+   "example": "喉が渇いた時になって漸く井戸を掘り始めるものは弱り果てて死ぬよりほかにない。",
+   "exampleMeaning": "Những người mà lúc khát mới bắt đầu đi đào giếng nước là những kẻ yếu đuối và chỉ có thể chết mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "区切り",
+   "meaning": "sự ngừng lại, sư dừng, sự đỗ lại",
+   "example": "「区切り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “区切り”: sự ngừng lại, sư dừng, sự đỗ lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "富豪",
+   "meaning": "nhà triệu phú, người giàu bạc triệu",
+   "example": "「富豪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “富豪”: nhà triệu phú, người giàu bạc triệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世代",
+   "meaning": "thế hệ, đời",
+   "example": "日本の第三世代の通信方式は、W－CDMAとCDMA２０００がある。",
+   "exampleMeaning": "Các hệ thống thông tin di động thế hệ thứ 3 của Nhật Bản đó là mạng W-CDMA và mạng CDMA2000.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "起点",
+   "meaning": "căn nguyên",
+   "example": "「起点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “起点”: căn nguyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あなた",
+    "が",
+    "日本人",
+    "だ",
+    "と",
+    "私",
+    "は",
+    "思っていた"
+   ],
+   "reading": "あなたがにっぽんじんだとわたしはおもっていた",
+   "meaning": "Tôi cứ tưởng bạn là người Nhật."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "彼",
+    "を",
+    "偉大な",
+    "判事",
+    "だ",
+    "と",
+    "見なしていた"
+   ],
+   "reading": "かれらはかれをいだいなはんじだとみなしていた",
+   "meaning": "Họ coi ông ấy là một thẩm phán vĩ đại."
+  },
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "薬",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "こうのくすりはおつのどく",
+   "meaning": "Cái sướng cho người này là cái khổ cho người khác."
+  },
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "食物",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "かぶとのしょくもつはおつのどく",
+   "meaning": "Cái sướng của người này là nỗi khổ của người khác."
+  },
+  {
+   "tokens": [
+    "猫",
+    "は",
+    "化ける",
+    "と言われる"
+   ],
+   "reading": "ねこはばけるといわれる",
+   "meaning": "Mèo được cho là có thể biến hình."
+  }
+ ],
+ "issues": []
+}

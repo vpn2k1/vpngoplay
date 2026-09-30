@@ -1,0 +1,85 @@
+{
+ "id": "en-talk-restaurant",
+ "lang": "en",
+ "order": 2,
+ "level": "A2",
+ "icon": "restaurant",
+ "title": "Gọi món ở nhà hàng",
+ "scene": "Bạn đi ăn tối ở nhà hàng và gọi món với phục vụ.",
+ "roles": {
+  "A": "Phục vụ",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Good evening. Do you have a reservation?",
+   "meaning": "Chào buổi tối. Anh chị có đặt bàn trước không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "No, we don't. A table for two, please.",
+   "meaning": "Không. Cho tôi một bàn hai người."
+  },
+  {
+   "role": "A",
+   "text": "Sure, this way please. Here is the menu.",
+   "meaning": "Vâng, mời đi lối này. Thực đơn đây ạ."
+  },
+  {
+   "role": "B",
+   "text": "Thank you. What do you recommend?",
+   "meaning": "Cảm ơn. Bạn gợi ý món gì?"
+  },
+  {
+   "role": "A",
+   "text": "The grilled salmon is very popular.",
+   "meaning": "Món cá hồi nướng được gọi nhiều lắm ạ."
+  },
+  {
+   "role": "B",
+   "text": "Great, I'll have the salmon, please.",
+   "meaning": "Tuyệt, cho tôi món cá hồi nhé."
+  },
+  {
+   "role": "A",
+   "text": "Anything to drink?",
+   "meaning": "Anh chị uống gì ạ?"
+  },
+  {
+   "role": "B",
+   "text": "Just a glass of water, please.",
+   "meaning": "Cho tôi một ly nước lọc thôi."
+  },
+  {
+   "role": "A",
+   "text": "Is everything OK with your meal?",
+   "meaning": "Món ăn có vừa ý anh chị không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "It's delicious. Can I have the bill, please?",
+   "meaning": "Ngon lắm. Cho tôi xin hoá đơn nhé."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "A table for two, please.",
+   "meaning": "Cho tôi bàn hai người."
+  },
+  {
+   "text": "What do you recommend?",
+   "meaning": "Bạn gợi ý món gì?"
+  },
+  {
+   "text": "I'll have the chicken, please.",
+   "meaning": "Cho tôi món gà.",
+   "note": "Gọi món: I'll have + tên món."
+  },
+  {
+   "text": "Can I have the bill, please?",
+   "meaning": "Cho tôi xin hoá đơn.",
+   "note": "Người Mỹ hay nói: Can I get the check?"
+  }
+ ]
+}

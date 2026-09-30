@@ -1,0 +1,335 @@
+{
+ "lesson": 129,
+ "draft": true,
+ "words": [
+  {
+   "term": "軽蔑",
+   "meaning": "sự khinh bỉ, sự khinh miệt, sự khinh rẻ",
+   "example": "「軽蔑」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “軽蔑”: sự khinh bỉ, sự khinh miệt, sự khinh rẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "期日",
+   "meaning": "ngày thanh toán",
+   "example": "「期日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “期日”: ngày thanh toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "崇拝",
+   "meaning": "sự thờ cúng, sự cúng bái",
+   "example": "「崇拝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “崇拝”: sự thờ cúng, sự cúng bái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転ずる",
+   "meaning": "quay, xoay, vặn",
+   "example": "「転ずる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転ずる”: quay, xoay, vặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雑談",
+   "meaning": "bàn chuyện, tán gẫu, trò chuyện",
+   "example": "「雑談」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雑談”: bàn chuyện, tán gẫu, trò chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "けなす",
+   "meaning": "gièm pha, chê bai",
+   "example": "君は、いつも私の服をけなすのだから。",
+   "exampleMeaning": "Bạn luôn chê bai quần áo của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "インフレ",
+   "meaning": "sự bơm phồng, sự thổi phồng",
+   "example": "零細企業はインフレで苦境に陥っています。",
+   "exampleMeaning": "Các doanh nghiệp siêu nhỏ bị rơi vào khủng hoảng do lạm phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物足りない",
+   "meaning": "không được thỏa mãn, chưa phỉ, chưa hả",
+   "example": "「物足りない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物足りない”: không được thỏa mãn, chưa phỉ, chưa hả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "デッサン",
+   "meaning": "bản phác họa",
+   "example": "「デッサン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “デッサン”: bản phác họa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世論",
+   "meaning": "dư luận, công luận",
+   "example": "「世論」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “世論”: dư luận, công luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "構想",
+   "meaning": "sơ đồ, đồ án (nhà... )",
+   "example": "「構想」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “構想”: sơ đồ, đồ án (nhà... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "便宜",
+   "meaning": "sự tiện lợi, sự thuận lợi",
+   "example": "「便宜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “便宜”: sự tiện lợi, sự thuận lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "終日",
+   "meaning": "cả ngày, suốt ngày",
+   "example": "その日は雨が終日降ったりやんだりしていました。",
+   "exampleMeaning": "Hôm đó trời cứ mưa rồi lại hết cả ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "退化",
+   "meaning": "sự thoái hoá, sự suy đồi",
+   "example": "「退化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “退化”: sự thoái hoá, sự suy đồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ジャズ",
+   "meaning": "nhạc ja",
+   "example": "私はジャズが好きです。",
+   "exampleMeaning": "Tôi thích nhạc jazz.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "設立",
+   "meaning": "sự thành lập, sự thiết lập, sự kiến lập",
+   "example": "トムの会社はケイマン諸島で設立されました。",
+   "exampleMeaning": "Công ty của Tom được thành lập tại quần đảo Cayman.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "検事",
+   "meaning": "ủy viên công tố",
+   "example": "「検事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “検事”: ủy viên công tố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遅くとも",
+   "meaning": "at the latest (EN)",
+   "example": "遅くともなさざるにまさる。",
+   "exampleMeaning": "Muộn còn hơn không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "光沢",
+   "meaning": "lustrum",
+   "example": "「光沢」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “光沢”: lustrum.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救援",
+   "meaning": "sự giảm nhẹ, sự bớt đi",
+   "example": "「救援」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “救援”: sự giảm nhẹ, sự bớt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "君",
+    "は",
+    "いつも",
+    "私の",
+    "服",
+    "を",
+    "けなす",
+    "の",
+    "だから"
+   ],
+   "reading": "きみはいつもわたしのふくをけなすのだから",
+   "meaning": "Bạn luôn chê bai quần áo của tôi."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ジャズ",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "わたしはジャズがすきです",
+   "meaning": "Tôi thích nhạc jazz."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "この",
+    "点",
+    "を",
+    "特に",
+    "強調",
+    "したい"
+   ],
+   "reading": "わたしはこのてんをとくにきょうちょうしたい",
+   "meaning": "Tôi muốn đặc biệt nhấn mạnh điểm này."
+  },
+  {
+   "tokens": [
+    "自分",
+    "が",
+    "勝った",
+    "と",
+    "知って",
+    "驚いた"
+   ],
+   "reading": "じぶんがかったとしっておどろいた",
+   "meaning": "Tôi đã ngạc nhiên khi biết được là tôi đã thắng."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "さじ",
+    "で",
+    "スープ",
+    "を",
+    "飲む"
+   ],
+   "reading": "わたしたちはさじでスープをのむ",
+   "meaning": "Chúng tôi ăn súp bằng thìa."
+  }
+ ],
+ "issues": []
+}

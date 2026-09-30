@@ -1,0 +1,330 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "送別",
+   "meaning": "tam biệt!",
+   "example": "「送別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “送別”: tam biệt!.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日陰",
+   "meaning": "bóng, bóng tối, bóng râm",
+   "example": "「日陰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日陰”: bóng, bóng tối, bóng râm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "マラソン",
+   "meaning": "in",
+   "example": "医者は私にマラソンに参加することを許可しなかった。",
+   "exampleMeaning": "Bác sĩ đã cấm tôi tham dự cuộc đua marathon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "幼児",
+   "meaning": "đứa bé còn ẵm ngửa, đứa bé (dưới 7 tuổi)",
+   "example": "「幼児」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “幼児”: đứa bé còn ẵm ngửa, đứa bé (dưới 7 tuổi).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "噴水",
+   "meaning": "water fountain (EN)",
+   "example": "「噴水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “噴水”: water fountain (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引っ繰り返す",
+   "meaning": "đảo",
+   "example": "「引っ繰り返す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引っ繰り返す”: đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "話し掛ける",
+   "meaning": "nói",
+   "example": "「話し掛ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “話し掛ける”: nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中間",
+   "meaning": "giữa",
+   "example": "「中間」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中間”: giữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "以降",
+   "meaning": "sau đây, sau này, trong tương lai",
+   "example": "１６３９年以降日本は外国料理に対して門戸を閉ざした。",
+   "exampleMeaning": "Kể từ sau năm 1639, Nhật Bản đã đóng cánh cửa với ẩm thực nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "交差",
+   "meaning": "cây thánh giá",
+   "example": "事故はあの交差点の近くで起こった。",
+   "exampleMeaning": "Vụ tai nạn đã xảy ra ở gần cái ngã tư kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "緯度",
+   "meaning": "vĩ độ, độ vĩ",
+   "example": "「緯度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “緯度”: vĩ độ, độ vĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "並木",
+   "meaning": "hàng cây",
+   "example": "「並木」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “並木”: hàng cây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抽象",
+   "meaning": "trừu tượng",
+   "example": "「抽象」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “抽象”: trừu tượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "元々",
+   "meaning": "với tính chất gốc",
+   "example": "「元々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “元々”: với tính chất gốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内科",
+   "meaning": "khoa nội",
+   "example": "「内科」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内科”: khoa nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受け持つ",
+   "meaning": "chịu trách nhiệm",
+   "example": "「受け持つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受け持つ”: chịu trách nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "法則",
+   "meaning": "luật",
+   "example": "「法則」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “法則”: luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隙間",
+   "meaning": "cừ, xuất sắc",
+   "example": "「隙間」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “隙間”: cừ, xuất sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "講師",
+   "meaning": "người diễn thuyết, người thuyết trình",
+   "example": "「講師」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “講師”: người diễn thuyết, người thuyết trình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文芸",
+   "meaning": "văn chương, văn học",
+   "example": "「文芸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “文芸”: văn chương, văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "事故",
+    "は",
+    "あの",
+    "交差点",
+    "の",
+    "近く",
+    "で",
+    "起こった"
+   ],
+   "reading": "じこはあのこうさてんのちかくでおこった",
+   "meaning": "Vụ tai nạn đã xảy ra ở gần cái ngã tư kia."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "こっけいな",
+    "話",
+    "を",
+    "した"
+   ],
+   "reading": "かれはこっけいなはなしをした",
+   "meaning": "Anh ấy đã kể một câu chuyện rất buồn cười."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "素晴らしい",
+    "選手",
+    "です"
+   ],
+   "reading": "かれはすばらしいせんしゅです",
+   "meaning": "Anh ấy là một vận động viên xuất sắc."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ワイン",
+    "が",
+    "好き",
+    "でない"
+   ],
+   "reading": "わたしはワインがすきでない",
+   "meaning": "Tôi không thích rượu vang."
+  },
+  {
+   "tokens": [
+    "たばこ",
+    "は",
+    "健康に",
+    "害",
+    "が",
+    "ある"
+   ],
+   "reading": "たばこはけんこうにがいがある",
+   "meaning": "Thuốc lá có hại cho sức khỏe."
+  }
+ ],
+ "issues": []
+}

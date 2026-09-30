@@ -1,0 +1,331 @@
+{
+ "lesson": 43,
+ "draft": true,
+ "words": [
+  {
+   "term": "造就",
+   "meaning": "đến thăm",
+   "example": "在技术上很有造就。",
+   "exampleMeaning": "Đạt được nhiều thành tựu trong lĩnh vực kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàojiù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "株",
+   "meaning": "cây",
+   "example": "院子里种了两株枣树。",
+   "exampleMeaning": "Trong sân trồng hai cây táo (trích trong tản văn của Lỗ Tấn).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "隐形",
+   "meaning": "ẩn hình",
+   "example": "我们来学“隐形”这个词。",
+   "exampleMeaning": "Cùng học từ “隐形”: ẩn hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大局",
+   "meaning": "tình hình chung",
+   "example": "顾全大局",
+   "exampleMeaning": "Quan tâm đến toàn cục",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàjú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人手",
+   "meaning": "người có chuyên môn",
+   "example": "人手不足。",
+   "exampleMeaning": "Không đủ nhân công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暂",
+   "meaning": "tạm",
+   "example": "工作暂告一段落。",
+   "exampleMeaning": "Công việc tạm kết thúc một giai đoạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不适",
+   "meaning": "khó chịu",
+   "example": "偶感不适",
+   "exampleMeaning": "Bỗng cảm thấy khó chịu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "滥用",
+   "meaning": "lạm dụng",
+   "example": "行文滥用方言。",
+   "exampleMeaning": "Lúc hành văn lạm dụng tiếng địa phương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lànyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冻结",
+   "meaning": "tạm ngừng",
+   "example": "冻结双方关系。",
+   "exampleMeaning": "Mối quan hệ song phương tạm ngừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "概率",
+   "meaning": "xác suất",
+   "example": "我们来学“概率”这个词。",
+   "exampleMeaning": "Cùng học từ “概率”: xác suất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gàilǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "愈合",
+   "meaning": "lành",
+   "example": "等伤口愈合了才能出院。",
+   "exampleMeaning": "Đợi vết thương lành lặn mới có thể xuất viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "草坪",
+   "meaning": "bãi cỏ",
+   "example": "我们来学“草坪”这个词。",
+   "exampleMeaning": "Cùng học từ “草坪”: bãi cỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎopíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "营造",
+   "meaning": "chế tạo",
+   "example": "营造器物。",
+   "exampleMeaning": "Chế tạo đồ dùng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíngzào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "越过",
+   "meaning": "vượt qua",
+   "example": "越过一片草地。",
+   "exampleMeaning": "Vượt qua cánh đồng cỏ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "迷路",
+   "meaning": "lạc đường",
+   "example": "我们来学“迷路”这个词。",
+   "exampleMeaning": "Cùng học từ “迷路”: lạc đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mílù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稍后",
+   "meaning": "sau này",
+   "example": "我们来学“稍后”这个词。",
+   "exampleMeaning": "Cùng học từ “稍后”: sau này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāohòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丢人",
+   "meaning": "mất mặt",
+   "example": "丢人现眼",
+   "exampleMeaning": "Làm mất mặt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diūrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "怀里",
+   "meaning": "bosom",
+   "example": "我们来学“怀里”这个词。",
+   "exampleMeaning": "Cùng học từ “怀里”: bosom.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huáilǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挠",
+   "meaning": "khuất phục",
+   "example": "挠 痒痒。",
+   "exampleMeaning": "Gãi ngứa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "náo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "落地",
+   "meaning": "chào đời (trẻ)",
+   "example": "呱呱落地。",
+   "exampleMeaning": "Oa oa chào đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luòdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "打扮",
+    "得",
+    "像",
+    "女人",
+    "一样"
+   ],
+   "reading": "tā dǎban de xiàng nǚrén yīyàng",
+   "meaning": "Anh ấy đã đóng giả làm con gái."
+  },
+  {
+   "tokens": [
+    "已经",
+    "没",
+    "人",
+    "来",
+    "拜访",
+    "我",
+    "了"
+   ],
+   "reading": "yǐjīng méi rén lái bàifǎng wǒ le",
+   "meaning": "Không ai tới thăm tôi nữa."
+  },
+  {
+   "tokens": [
+    "她",
+    "将",
+    "必须",
+    "为",
+    "大家",
+    "做饭"
+   ],
+   "reading": "tā jiāng bìxū wèi dàjiā zuòfàn",
+   "meaning": "Cô ấy sẽ phải nấu cơm cho tất cả mọi người."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  }
+ ],
+ "issues": []
+}

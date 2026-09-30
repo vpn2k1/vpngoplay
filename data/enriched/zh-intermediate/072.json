@@ -1,0 +1,322 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "猛",
+   "meaning": "dữ dội, mãnh liệt, ác liệt",
+   "example": "他听到枪声，猛地从屋里跳出来。",
+   "exampleMeaning": "Anh ấy nghe thấy tiếng súng, đột ngột từ trong nhà chạy ra ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "险",
+   "meaning": "hiểm (địa thế khó vượt qua)",
+   "example": "险遭不幸。",
+   "exampleMeaning": "Suýt gặp điều bất hạnh; suýt nữa gặp chuyện không may.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "药品",
+   "meaning": "thuốc",
+   "example": "我们来学“药品”这个词。",
+   "exampleMeaning": "Cùng học từ “药品”: thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàopǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "踏",
+   "meaning": "bước lên, giẫm lên, đặt chân lên",
+   "example": "我军似潮水般大踏步前进。",
+   "exampleMeaning": "Quân ta tiến mạnh như vữ bão.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "当作",
+   "meaning": "coi như",
+   "example": "我们来学“当作”这个词。",
+   "exampleMeaning": "Cùng học từ “当作”: coi như.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "运作",
+   "meaning": "hoạt động",
+   "example": "保证海关机构的正常运作。",
+   "exampleMeaning": "Bảo đảm cơ cấu hải quan hoạt động bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùnzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "判",
+   "meaning": "phân biệt",
+   "example": "新旧社会判然不同。",
+   "exampleMeaning": "Xã hội cũ và xã hội mới khác nhau rõ rệt.",
+   "emoji": "🧑‍⚖",
+   "ipa": "",
+   "pinyin": "pàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "炸弹",
+   "meaning": "bom",
+   "example": "我们来学“炸弹”这个词。",
+   "exampleMeaning": "Cùng học từ “炸弹”: bom.",
+   "emoji": "💣",
+   "ipa": "",
+   "pinyin": "zhàdàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爆发",
+   "meaning": "phun",
+   "example": "火山爆发",
+   "exampleMeaning": "Núi lửa phun trào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàofā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宗教",
+   "meaning": "tôn giáo",
+   "example": "我们来学“宗教”这个词。",
+   "exampleMeaning": "Cùng học từ “宗教”: tôn giáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zōngjiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夺",
+   "meaning": "lỡ",
+   "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
+   "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duó",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本地",
+   "meaning": "vùng này",
+   "example": "本地口音",
+   "exampleMeaning": "Tiếng vùng này; giọng bản địa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běndì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "核心",
+   "meaning": "chính",
+   "example": "领导核心",
+   "exampleMeaning": "Nòng cốt lãnh đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扎",
+   "meaning": "cột, trói, thắt",
+   "example": "病人扎着坐了起来。",
+   "exampleMeaning": "Người bệnh đang cố gắng ngồi dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一时",
+   "meaning": "tạm thời",
+   "example": "这是一时的和表面的现象。",
+   "exampleMeaning": "Đây chỉ là hiện tượng bên ngoài và tạm thời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "屏幕",
+   "meaning": "màn phản quang",
+   "example": "我们来学“屏幕”这个词。",
+   "exampleMeaning": "Cùng học từ “屏幕”: màn phản quang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惨",
+   "meaning": "tàn ác",
+   "example": "敌人又一次惨败",
+   "exampleMeaning": "Quân địch lại thêm một phen thảm bại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毒品",
+   "meaning": "chất có hại",
+   "example": "我们来学“毒品”这个词。",
+   "exampleMeaning": "Cùng học từ “毒品”: chất có hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "升级",
+   "meaning": "thăng cấp",
+   "example": "我们来学“升级”这个词。",
+   "exampleMeaning": "Cùng học từ “升级”: thăng cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国王",
+   "meaning": "quốc vương",
+   "example": "我们来学“国王”这个词。",
+   "exampleMeaning": "Cùng học từ “国王”: quốc vương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guówáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "有",
+    "医疗",
+    "保险",
+    "吗"
+   ],
+   "reading": "nǐ yǒu yīliáo bǎoxiǎn ma",
+   "meaning": "Bạn có bảo hiểm y tế không?"
+  },
+  {
+   "tokens": [
+    "这位",
+    "朋友",
+    "没有",
+    "出席"
+   ],
+   "reading": "zhèwèi péngyou méiyǒu chūxí",
+   "meaning": "Bạn này không có mặt."
+  },
+  {
+   "tokens": [
+    "她",
+    "很",
+    "擅长",
+    "英语",
+    "教学"
+   ],
+   "reading": "tā hěn shàncháng yīngyǔ jiàoxué",
+   "meaning": "Cô ấy dạy tiếng anh rất giỏi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "马来西亚",
+    "居住"
+   ],
+   "reading": "wǒ zài mǎláixīyà jūzhù",
+   "meaning": "Tôi hiện đang sống ở Mã Lai."
+  },
+  {
+   "tokens": [
+    "我",
+    "见到",
+    "了",
+    "王子",
+    "真人"
+   ],
+   "reading": "wǒ jiàndào le wángzǐ zhēnrén",
+   "meaning": "Tôi đã gặp Vương tử ngoài đời thật."
+  }
+ ],
+ "issues": []
+}

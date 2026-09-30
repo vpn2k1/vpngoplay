@@ -1,0 +1,329 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "处方",
+   "meaning": "đơn thuốc",
+   "example": "我们来学“处方”这个词。",
+   "exampleMeaning": "Cùng học từ “处方”: đơn thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǔfāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "碰上",
+   "meaning": "đụng trúng, đụng mặt, gặp phải",
+   "example": "我们来学“碰上”这个词。",
+   "exampleMeaning": "Cùng học từ “碰上”: đụng trúng, đụng mặt, gặp phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pèngshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "安定",
+   "meaning": "yên ổn",
+   "example": "安定人心。",
+   "exampleMeaning": "Làm yên lòng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āndìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "默契",
+   "meaning": "hiểu ngầm",
+   "example": "我们来学“默契”这个词。",
+   "exampleMeaning": "Cùng học từ “默契”: hiểu ngầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mòqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "续",
+   "meaning": "thêm",
+   "example": "这条绳子太短，再续上一截儿吧。",
+   "exampleMeaning": "Cái dây thừng này ngắn quá, nối thêm một đoạn nữa đi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "礼服",
+   "meaning": "lễ phục",
+   "example": "我们来学“礼服”这个词。",
+   "exampleMeaning": "Cùng học từ “礼服”: lễ phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "舔",
+   "meaning": "liếm",
+   "example": "猫舔爪子",
+   "exampleMeaning": "Mèo liếm vuốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "崭新",
+   "meaning": "mới tinh",
+   "example": "崭新的大楼",
+   "exampleMeaning": "Toà nhà mới xây",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "叠",
+   "meaning": "gấp, gập",
+   "example": "把信叠好装在信封里。",
+   "exampleMeaning": "Gấp bức thư lại bỏ vào bì thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dié",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "耗",
+   "meaning": "dây dưa",
+   "example": "你别耗着了，快走了。",
+   "exampleMeaning": "Anh đừng dây dưa nữa, mau đi thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一线",
+   "meaning": "một tia",
+   "example": "深入车间慰问一线工人。",
+   "exampleMeaning": "Trực tiếp vào phân xưởng thăm hỏi công nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "智商",
+   "meaning": "chỉ số thông minh",
+   "example": "我们来学“智商”这个词。",
+   "exampleMeaning": "Cùng học từ “智商”: chỉ số thông minh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìshāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漫",
+   "meaning": "tự do",
+   "example": "水漫出来了。",
+   "exampleMeaning": "Nước tràn ra ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "片段",
+   "meaning": "một đoạn",
+   "example": "小说的片段",
+   "exampleMeaning": "Một đoạn trong truyện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piànduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "躲避",
+   "meaning": "tránh",
+   "example": "这几天他好像有意躲避我。",
+   "exampleMeaning": "Dạo này hình như anh ấy muốn tránh mặt tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǒbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "疲劳",
+   "meaning": "mệt mỏi",
+   "example": "我们来学“疲劳”这个词。",
+   "exampleMeaning": "Cùng học từ “疲劳”: mệt mỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píláo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "骗人",
+   "meaning": "lừa người",
+   "example": "我们来学“骗人”这个词。",
+   "exampleMeaning": "Cùng học từ “骗人”: lừa người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piànrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温泉",
+   "meaning": "suối nước nóng",
+   "example": "我们来学“温泉”这个词。",
+   "exampleMeaning": "Cùng học từ “温泉”: suối nước nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēnquán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "副作用",
+   "meaning": "tác dụng phụ",
+   "example": "这种药没有副作用。",
+   "exampleMeaning": "Loại thuốc này không có tác dụng phụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùzuòyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "目录",
+   "meaning": "bản kê",
+   "example": "图书目录。",
+   "exampleMeaning": "Bản kê tên sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "成功",
+    "属于",
+    "耐心",
+    "等待",
+    "的",
+    "人"
+   ],
+   "reading": "chénggōng shǔyú nàixīn děngdài de rén",
+   "meaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ."
+  },
+  {
+   "tokens": [
+    "我们",
+    "想",
+    "学",
+    "一些",
+    "日文",
+    "歌曲"
+   ],
+   "reading": "wǒmen xiǎng xué yīxiē rìwén gēqǔ",
+   "meaning": "Chúng tôi muốn học những bài hát tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "我",
+    "看见",
+    "了",
+    "马",
+    "库",
+    "斯",
+    "的",
+    "房子"
+   ],
+   "reading": "wǒ kànjiàn le mǎ kù sī de fángzi",
+   "meaning": "Tôi đã thấy nhà của Marcus."
+  },
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  }
+ ],
+ "issues": []
+}

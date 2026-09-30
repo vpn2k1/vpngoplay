@@ -1,0 +1,324 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "available",
+   "meaning": "có hiệu lực, có giá trị",
+   "example": "ticket available for one day only",
+   "exampleMeaning": "Chỉ có giá trị trong một ngày",
+   "emoji": "",
+   "ipa": "/əˈveɪləbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "contain",
+   "meaning": "nén",
+   "example": "to contain one's anger",
+   "exampleMeaning": "Nén giận",
+   "emoji": "",
+   "ipa": "/kənˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thunder",
+   "meaning": "sấm, sét",
+   "example": "to look as black as thunder",
+   "exampleMeaning": "Trông có vẻ hầm hầm đe doạ",
+   "emoji": "",
+   "ipa": "/ˈθəndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "salmon",
+   "meaning": "cá hồi",
+   "example": "Let's learn the word \"salmon\".",
+   "exampleMeaning": "Cùng học từ “salmon”: cá hồi.",
+   "emoji": "",
+   "ipa": "/ˈsæmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "continuous",
+   "meaning": "liên tục, liên tiếp, không dứt",
+   "example": "Let's learn the word \"continuous\".",
+   "exampleMeaning": "Cùng học từ “continuous”: liên tục, liên tiếp, không dứt.",
+   "emoji": "",
+   "ipa": "/kənˈtɪnjuəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "monument",
+   "meaning": "vật kỷ niệm, đài kỷ niệm, bia kỷ niệm",
+   "example": "a monument of science",
+   "exampleMeaning": "Một công trình khoa học bất hủ",
+   "emoji": "",
+   "ipa": "/ˈmɑnjəmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "confirm",
+   "meaning": "xác nhận",
+   "example": "to confirm someone in his chain-smoking",
+   "exampleMeaning": "Làm cho ai nhiễm sâu cái tật hút thuốc lá liên tục",
+   "emoji": "",
+   "ipa": "/kənˈfɜːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bull",
+   "meaning": "bò đực",
+   "example": "a bull elephant",
+   "exampleMeaning": "Voi đực",
+   "emoji": "",
+   "ipa": "/ˈbʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gossip",
+   "meaning": "chuyện ngồi lê đôi mách, chuyện tầm phào",
+   "example": "a piece of gossip",
+   "exampleMeaning": "Câu chuyện tầm phào",
+   "emoji": "",
+   "ipa": "/ˈɡɑsəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "glory",
+   "meaning": "thời kỳ hưng thịnh, thời kỳ vinh hiển",
+   "example": "to be in one's glory",
+   "exampleMeaning": "Trong thời kỳ vinh hiển",
+   "emoji": "",
+   "ipa": "/ˈɡlɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peculiar",
+   "meaning": "riêng, riêng biệt",
+   "example": "The practice is peculiar to Japan.",
+   "exampleMeaning": "Phong tục này chỉ có ở Nhật Bản.",
+   "emoji": "",
+   "ipa": "/pəkˈjuljɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bow",
+   "meaning": "nhượng bộ, đầu hàng, chịu khuất phục",
+   "example": "to bow under the weight of years",
+   "exampleMeaning": "Còng lưng vì tuổi già",
+   "emoji": "",
+   "ipa": "/ˈbaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "separation",
+   "meaning": "sự phân ly, sự chia cắt",
+   "example": "Let's learn the word \"separation\".",
+   "exampleMeaning": "Cùng học từ “separation”: sự phân ly, sự chia cắt.",
+   "emoji": "",
+   "ipa": "/ˌsɛpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "full stop",
+   "meaning": "dấu chấm",
+   "example": "All of these sentences need a full stop.",
+   "exampleMeaning": "Tất cả những câu này cần để dấu chấm hết.",
+   "emoji": "",
+   "ipa": "/ˈfʊl ˈstɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "service",
+   "meaning": "ban, vụ, sở",
+   "example": "are you going to the service?",
+   "exampleMeaning": "Anh có đi lễ không?",
+   "emoji": "",
+   "ipa": "/ˈsɜrvəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "divine",
+   "meaning": "thần thánh, thiêng liêng",
+   "example": "Let's learn the word \"divine\".",
+   "exampleMeaning": "Cùng học từ “divine”: thần thánh, thiêng liêng.",
+   "emoji": "",
+   "ipa": "/dɪˈvaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "introduction",
+   "meaning": "sự giới thiệu, lời giới thiệu",
+   "example": "Let's learn the word \"introduction\".",
+   "exampleMeaning": "Cùng học từ “introduction”: sự giới thiệu, lời giới thiệu.",
+   "emoji": "",
+   "ipa": "/ˌɪntrəˈdʌkʃn̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spelling",
+   "meaning": "sự viết vần, sự đánh vần",
+   "example": "Isn't it about time for a spelling reform?",
+   "exampleMeaning": "Chẳng phải đã đến lúc cải cách chính tả rồi sao?",
+   "emoji": "",
+   "ipa": "/ˈspɛlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "gown",
+   "meaning": "áo dài",
+   "example": "an evening gown",
+   "exampleMeaning": "Áo dài mặc buổi tối",
+   "emoji": "",
+   "ipa": "/ˈɡaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "van",
+   "meaning": "những người đi tiên phong",
+   "example": "men in the van of the movement",
+   "exampleMeaning": "Những người đi tiên phong trong phong trào",
+   "emoji": "",
+   "ipa": "/ˈvæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "thunder",
+    "roared"
+   ],
+   "reading": "",
+   "meaning": "Tiếng sét vang lên ầm ầm."
+  },
+  {
+   "tokens": [
+    "Is",
+    "Tom",
+    "still",
+    "available"
+   ],
+   "reading": "",
+   "meaning": "Tom vẫn ở đây đúng không?"
+  },
+  {
+   "tokens": [
+    "There",
+    "should",
+    "be",
+    "a",
+    "bus",
+    "service"
+   ],
+   "reading": "",
+   "meaning": "Nên có một dịch vụ xe buýt."
+  },
+  {
+   "tokens": [
+    "The",
+    "practice",
+    "is",
+    "peculiar",
+    "to",
+    "Japan"
+   ],
+   "reading": "",
+   "meaning": "Phong tục này chỉ có ở Nhật Bản."
+  },
+  {
+   "tokens": [
+    "Why",
+    "isn't",
+    "it",
+    "available",
+    "at",
+    "midnight"
+   ],
+   "reading": "",
+   "meaning": "Sao lại không có vào lúc nửa đêm nhỉ?"
+  }
+ ],
+ "issues": []
+}

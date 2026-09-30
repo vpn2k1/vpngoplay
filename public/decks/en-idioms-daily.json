@@ -1,0 +1,186 @@
+{
+ "id": "en-idioms-daily",
+ "lang": "en",
+ "track": "exam",
+ "category": "idioms",
+ "level": "B1–B2",
+ "title": "Thành ngữ thường ngày",
+ "description": "12 thành ngữ tiếng Anh người bản xứ dùng hằng ngày, có câu tương đương trong tiếng Việt.",
+ "words": [
+  {
+   "id": "piece-of-cake",
+   "term": "piece of cake",
+   "reading": "/ˌpiːs əv ˈkeɪk/",
+   "meaning": "dễ như ăn bánh",
+   "answers": [
+    "de nhu an chao"
+   ],
+   "emoji": "🍰",
+   "example": "The test was a piece of cake.",
+   "exampleMeaning": "Bài kiểm tra dễ như ăn bánh."
+  },
+  {
+   "id": "break-the-ice",
+   "term": "break the ice",
+   "reading": "/ˌbreɪk ði ˈaɪs/",
+   "meaning": "phá tan không khí ngượng ngùng",
+   "emoji": "🧊",
+   "example": "He told a joke to break the ice.",
+   "exampleMeaning": "Anh ấy kể chuyện cười để phá tan không khí ngượng ngùng."
+  },
+  {
+   "id": "under-the-weather",
+   "term": "under the weather",
+   "reading": "/ˌʌndər ðə ˈweðər/",
+   "meaning": "hơi mệt trong người",
+   "emoji": "🤒",
+   "example": "I'm feeling a bit under the weather today.",
+   "exampleMeaning": "Hôm nay tôi thấy hơi mệt trong người."
+  },
+  {
+   "id": "once-in-a-blue-moon",
+   "term": "once in a blue moon",
+   "reading": "/ˌwʌns ɪn ə ˌbluː ˈmuːn/",
+   "meaning": "hiếm khi",
+   "answers": [
+    "hiem hoi"
+   ],
+   "emoji": "🌙",
+   "example": "We only eat out once in a blue moon.",
+   "exampleMeaning": "Chúng tôi hiếm khi đi ăn ngoài."
+  },
+  {
+   "id": "hit-the-books",
+   "term": "hit the books",
+   "reading": "/ˌhɪt ðə ˈbʊks/",
+   "meaning": "học bài chăm chỉ",
+   "emoji": "📚",
+   "example": "I have to hit the books tonight.",
+   "exampleMeaning": "Tối nay tôi phải học bài chăm chỉ."
+  },
+  {
+   "id": "cost-an-arm-and-a-leg",
+   "term": "cost an arm and a leg",
+   "reading": "/ˌkɔːst ən ˌɑːrm ənd ə ˈleɡ/",
+   "meaning": "đắt cắt cổ",
+   "emoji": "💸",
+   "example": "A new car can cost an arm and a leg.",
+   "exampleMeaning": "Một chiếc xe mới có thể đắt cắt cổ."
+  },
+  {
+   "id": "call-it-a-day",
+   "term": "call it a day",
+   "reading": "/ˌkɔːl ɪt ə ˈdeɪ/",
+   "meaning": "nghỉ tay thôi (kết thúc việc hôm nay)",
+   "emoji": "🌇",
+   "example": "It's late, so let's call it a day.",
+   "exampleMeaning": "Muộn rồi, hôm nay nghỉ tay thôi."
+  },
+  {
+   "id": "in-hot-water",
+   "term": "in hot water",
+   "reading": "/ɪn ˌhɑːt ˈwɔːtər/",
+   "meaning": "gặp rắc rối",
+   "emoji": "🔥",
+   "example": "He's in hot water with his boss.",
+   "exampleMeaning": "Anh ấy đang gặp rắc rối với sếp."
+  },
+  {
+   "id": "get-cold-feet",
+   "term": "get cold feet",
+   "reading": "/ˌɡet ˌkoʊld ˈfiːt/",
+   "meaning": "chùn bước vào phút chót",
+   "emoji": "🥶",
+   "example": "Don't get cold feet now!",
+   "exampleMeaning": "Đừng chùn bước vào phút chót nhé!"
+  },
+  {
+   "id": "spill-the-beans",
+   "term": "spill the beans",
+   "reading": "/ˌspɪl ðə ˈbiːnz/",
+   "meaning": "để lộ bí mật",
+   "emoji": "🤫",
+   "example": "Please don't spill the beans about the party.",
+   "exampleMeaning": "Làm ơn đừng để lộ bí mật về bữa tiệc."
+  },
+  {
+   "id": "blessing-in-disguise",
+   "term": "a blessing in disguise",
+   "reading": "/ə ˌblesɪŋ ɪn dɪsˈɡaɪz/",
+   "meaning": "trong cái rủi có cái may",
+   "emoji": "🎁",
+   "example": "Losing that job was a blessing in disguise.",
+   "exampleMeaning": "Mất công việc đó hoá ra trong cái rủi có cái may."
+  },
+  {
+   "id": "ball-in-your-court",
+   "term": "the ball is in your court",
+   "reading": "/ðə ˈbɔːl ɪz ɪn jʊr ˈkɔːrt/",
+   "meaning": "đến lượt bạn quyết định",
+   "emoji": "🎾",
+   "example": "I've made my offer, and now the ball is in your court.",
+   "exampleMeaning": "Tôi đã đưa ra đề nghị, giờ đến lượt bạn quyết định."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "This",
+    "exam",
+    "is",
+    "a",
+    "piece",
+    "of",
+    "cake"
+   ],
+   "meaning": "Bài thi này dễ như ăn bánh."
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "Let's",
+    "call",
+    "it",
+    "a",
+    "day"
+   ],
+   "meaning": "Hôm nay nghỉ tay thôi."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "I",
+    "feel",
+    "under",
+    "the",
+    "weather"
+   ],
+   "meaning": "Tôi thấy hơi mệt trong người."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "She",
+    "visits",
+    "us",
+    "once",
+    "in",
+    "a",
+    "blue",
+    "moon"
+   ],
+   "meaning": "Cô ấy hiếm khi đến thăm chúng tôi."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "Don't",
+    "spill",
+    "the",
+    "beans"
+   ],
+   "meaning": "Đừng để lộ bí mật nhé."
+  }
+ ]
+}

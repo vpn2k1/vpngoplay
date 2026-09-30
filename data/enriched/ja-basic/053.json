@@ -1,0 +1,323 @@
+{
+ "lesson": 53,
+ "draft": true,
+ "words": [
+  {
+   "term": "優しい",
+   "meaning": "tử tế, tốt bụng",
+   "example": "メアリーは、とても優しい人だね。",
+   "exampleMeaning": "Mary là một người rất tốt bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "複雑",
+   "meaning": "phức tạp, rắc rối",
+   "example": "それは問題をより複雑にするでしょう。",
+   "exampleMeaning": "Điều đó sẽ làm vấn đề thêm phức tạp hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大学生",
+   "meaning": "college student (EN)",
+   "example": "彼女は大学生です。",
+   "exampleMeaning": "Cô ấy là sinh viên đại học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "申す",
+   "meaning": "nói (khiêm nhường)",
+   "example": "「申す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申す”: nói (khiêm nhường).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "釣る",
+   "meaning": "đánh cá, câu cá, bắt cá",
+   "example": "海老で鯛を釣る。",
+   "exampleMeaning": "Thả con săn sắt, bắt con cá rô.",
+   "emoji": "🐟",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "忘れ物",
+   "meaning": "quên, không nhớ đến",
+   "example": "「忘れ物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “忘れ物”: quên, không nhớ đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盛ん",
+   "meaning": "thịnh vượng, phát đạt, phồn vinh",
+   "example": "「盛ん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盛ん”: thịnh vượng, phát đạt, phồn vinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会議",
+   "meaning": "cuộc họp",
+   "example": "会議は2時半に始まります。",
+   "exampleMeaning": "Cuộc họp sẽ bắt đầu vào lúc 2 rưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "文学",
+   "meaning": "văn chương, văn học",
+   "example": "彼は英文学を専攻している。",
+   "exampleMeaning": "Anh ta chuyên môn Anh Văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "頑張る",
+   "meaning": "kiên gan, bền bỉ",
+   "example": "「頑張る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “頑張る”: kiên gan, bền bỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いただく",
+   "meaning": "nhận, ăn, uống (khiêm nhường)",
+   "example": "「いただく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いただく”: nhận, ăn, uống (khiêm nhường).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "支度",
+   "meaning": "sự soạn, sự sửa soạn, sự chuẩn bị",
+   "example": "家内は今、夕食の支度をしている。",
+   "exampleMeaning": "Bà xã nhà tôi đang chuẩn bị cơm tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "娘",
+   "meaning": "con gái",
+   "example": "うちの娘が風邪をひいた。",
+   "exampleMeaning": "Con gái tôi bị cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "線",
+   "meaning": "dây, dây thép",
+   "example": "赤外線や紫外線は、人の目には見えない光である。",
+   "exampleMeaning": "Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "技術",
+   "meaning": "phương pháp kỹ thuật, kỹ thuật",
+   "example": "途上国では優れた技術者が不足してる。",
+   "exampleMeaning": "Các nước đang phát triển đang thiếu nguồn cung kỹ sư chất lượng cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "世界",
+   "meaning": "thế giới",
+   "example": "世界を一周したいんだ。",
+   "exampleMeaning": "Tôi muốn đi vòng quanh thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "値段",
+   "meaning": "giá",
+   "example": "値段は決して高くない。",
+   "exampleMeaning": "Giá cả chưa bao giờ đắt cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "西洋",
+   "meaning": "hướng tây, phương tây, phía tây",
+   "example": "日本人離れしたこの美しい相貌からもわかるように、優奈は実は生粋の日本人じゃない。西洋人をおばあちゃんに持つ、クォーターだったりする。",
+   "exampleMeaning": "Sở hữu một vẻ ngoài xinh đẹp, khác biệt so với những người Nhật khác, như bạn có thể nhận thấy, Yuna thực ra không phải là một người Nhật thuần chủng. Cô sở hữu một phần tư gen người phương Tây từ người bà của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "周り",
+   "meaning": "vùng phụ cận, vùng xung quanh",
+   "example": "彼らは火の周りに集まった。",
+   "exampleMeaning": "Họ tập hợp quanh đống lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "番組",
+   "meaning": "chương trình",
+   "example": "その番組は今放送中です。",
+   "exampleMeaning": "Chương trình đó bây giờ đang được phát sóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "優しい",
+    "人",
+    "です"
+   ],
+   "reading": "やさしいひとです",
+   "meaning": "Cô ấy là một người tốt bụng."
+  },
+  {
+   "tokens": [
+    "値段",
+    "は",
+    "決して",
+    "高くない"
+   ],
+   "reading": "ねだんはけっしてたかくない",
+   "meaning": "Giá cả chưa bao giờ đắt cả."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "英文学",
+    "を",
+    "専攻",
+    "している"
+   ],
+   "reading": "かれはえいぶんがくをせんこうしている",
+   "meaning": "Anh ta chuyên môn Anh Văn."
+  },
+  {
+   "tokens": [
+    "私の",
+    "娘",
+    "は",
+    "ぐっすり",
+    "寝ている"
+   ],
+   "reading": "わたしのむすめはぐっすりねている",
+   "meaning": "Con gái tôi đang ngủ say."
+  },
+  {
+   "tokens": [
+    "金",
+    "の",
+    "値段",
+    "は",
+    "日ごとに",
+    "変わる"
+   ],
+   "reading": "きんのねだんはひごとにかわる",
+   "meaning": "Giá vàng thay đổi từng ngày."
+  }
+ ],
+ "issues": []
+}

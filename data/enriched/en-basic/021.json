@@ -1,0 +1,333 @@
+{
+ "lesson": 21,
+ "draft": true,
+ "words": [
+  {
+   "term": "number",
+   "meaning": "số lượng",
+   "example": "horse number 5 won the race",
+   "exampleMeaning": "Ngựa số 5 thắng cuộc đua",
+   "emoji": "",
+   "ipa": "/ˈnʌmbər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "Mrs.",
+   "meaning": "bà (đã có chồng)",
+   "example": "Let's learn the word \"Mrs.\".",
+   "exampleMeaning": "Cùng học từ “Mrs.”: bà (đã có chồng).",
+   "emoji": "",
+   "ipa": "/ˈmɪsɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sign",
+   "meaning": "biển báo",
+   "example": "to sign to someone to do something",
+   "exampleMeaning": "Ra hiệu cho ai làm việc gì",
+   "emoji": "",
+   "ipa": "/saɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "take",
+   "meaning": "theo, lấy, lấy đi",
+   "example": "will you take tea or coffee?",
+   "exampleMeaning": "Anh uống (dùng) trà hay cà phê?",
+   "emoji": "",
+   "ipa": "/ˈteɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tonight",
+   "meaning": "đêm nay, tối nay",
+   "example": "What shall we do tonight?",
+   "exampleMeaning": "Chúng ta sẽ làm gì tôi nay nào?",
+   "emoji": "",
+   "ipa": "/təˈnaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "small",
+   "meaning": "nhỏ, bé, chật",
+   "example": "the coat is too small for me",
+   "exampleMeaning": "Cái áo bành tô đối với tôi chật quá",
+   "emoji": "",
+   "ipa": "/smɔːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trip",
+   "meaning": "chuyến đi, cuộc hành trình, sự vượt biển",
+   "example": "Round trip? Only one-way.",
+   "exampleMeaning": "Vé khứ hồi phải không? Một chiều thôi.",
+   "emoji": "",
+   "ipa": "/trɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "here",
+   "meaning": "ở đây, ở chỗ này, nào",
+   "example": "here he stopped reading",
+   "exampleMeaning": "Đến đây anh ta ngừng đọc",
+   "emoji": "",
+   "ipa": "/ˈhir/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lot",
+   "meaning": "nhiều, vô số",
+   "example": "to have no part nor lot in",
+   "exampleMeaning": "Không dính dáng gì vào",
+   "emoji": "",
+   "ipa": "/ˈlɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "opera",
+   "meaning": "((thường) the opera) nghệ thuật opêra",
+   "example": "Let's learn the word \"opera\".",
+   "exampleMeaning": "Cùng học từ “opera”: ((thường) the opera) nghệ thuật opêra.",
+   "emoji": "",
+   "ipa": "/ˈɑprə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "a",
+   "meaning": "một",
+   "example": "What time a day is it?",
+   "exampleMeaning": "(William Shakespeare, 1 Henry IV, I-ii)",
+   "emoji": "",
+   "ipa": "/ˈeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "girlfriend",
+   "meaning": "bạn gái",
+   "example": "I want to buy my girlfriend a gift.",
+   "exampleMeaning": "Tôi muốn mua quà cho bạn gái của mình.",
+   "emoji": "",
+   "ipa": "/ˈɡɜrlˌfrɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fair",
+   "meaning": "đúng, trúng, tốt",
+   "example": "to strike fair in the face",
+   "exampleMeaning": "Đánh trúng vào mặt",
+   "emoji": "",
+   "ipa": "/ˈfɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "push",
+   "meaning": "xô, ấn vào",
+   "example": "to give the door a hard push",
+   "exampleMeaning": "Đẩy mạnh cửa một cái",
+   "emoji": "",
+   "ipa": "/ˈpʊʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pollution",
+   "meaning": "ô nhiễm",
+   "example": "Environmental pollution triggered climatic changes all over Earth.",
+   "exampleMeaning": "Ô nhiễm môi trường đã gây ra thay đổi khí hậu khắp Trái đất.",
+   "emoji": "",
+   "ipa": "/pəˈluʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "back",
+   "meaning": "trả lại, trở lại, ngược lại",
+   "example": "the house stands back from the road",
+   "exampleMeaning": "Ngôi nhà ở xa đường cái",
+   "emoji": "",
+   "ipa": "/bæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rich",
+   "meaning": "giàu, giàu có",
+   "example": "that is rich!",
+   "exampleMeaning": "Thật vui không chê được!",
+   "emoji": "",
+   "ipa": "/ˈrɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bathroom",
+   "meaning": "buồng tắm, phòng tắm, nhà vệ sinh",
+   "example": "The shower in my bathroom is very small.",
+   "exampleMeaning": "Vòi hoa sen trong phòng tắm của tôi rất nhỏ.",
+   "emoji": "",
+   "ipa": "/ˈbɑːθrʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "walk",
+   "meaning": "đi bộ, đi lang thang, bỏ đi",
+   "example": "to go for (to take) a walk",
+   "exampleMeaning": "Đi dạo chơi, đi dạo một vòng",
+   "emoji": "",
+   "ipa": "/ˈwɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "matter",
+   "meaning": "việc, điều, đề",
+   "example": "it does not matter much, does it?",
+   "exampleMeaning": "Cái đó không có gì quan trọng lắm phải không?",
+   "emoji": "",
+   "ipa": "/ˈmætɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Go",
+    "take",
+    "a",
+    "walk"
+   ],
+   "reading": "",
+   "meaning": "Hãy đi dạo một chút đi."
+  },
+  {
+   "tokens": [
+    "I",
+    "walk",
+    "a",
+    "lot"
+   ],
+   "reading": "",
+   "meaning": "Tôi đi bộ rất nhiều."
+  },
+  {
+   "tokens": [
+    "I've",
+    "been",
+    "having",
+    "a",
+    "lot",
+    "of",
+    "back",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Dạo này hay bị đau lưng dã man."
+  },
+  {
+   "tokens": [
+    "I",
+    "took",
+    "a",
+    "lot",
+    "of",
+    "pictures",
+    "on",
+    "my",
+    "trip"
+   ],
+   "reading": "",
+   "meaning": "Tôi chụp rất nhiều ảnh trong chuyến đi của tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "take",
+    "a",
+    "walk",
+    "at",
+    "six",
+    "in",
+    "the",
+    "evening"
+   ],
+   "reading": "",
+   "meaning": "Tôi đi dạo vào lúc sáu giờ tối."
+  }
+ ],
+ "issues": []
+}

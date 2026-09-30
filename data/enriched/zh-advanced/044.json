@@ -1,0 +1,335 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "公务",
+   "meaning": "việc công",
+   "example": "办理公务",
+   "exampleMeaning": "Xử lý việc công",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来访",
+   "meaning": "đến thăm",
+   "example": "报社热情接待来访的读者。",
+   "exampleMeaning": "Toà soạn nhiệt tình đón tiếp các đọc giả đến thăm viếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láifǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "口音",
+   "meaning": "giọng",
+   "example": "听他的口音， 好像是河内人。",
+   "exampleMeaning": "Nghe giọng anh ấy, dường như là người Hà Nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuyin",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "稀",
+   "meaning": "loãng",
+   "example": "地广人稀 。",
+   "exampleMeaning": "Đất rộng người thưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乱七八糟",
+   "meaning": "ngổn ngang",
+   "example": "桌上的书放得乱七八糟。",
+   "exampleMeaning": "Sách nằm ngổn ngang trên bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luànqībāzāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贫穷",
+   "meaning": "nghèo khổ",
+   "example": "过着极贫穷的生活。",
+   "exampleMeaning": "Sống cuộc đời nghèo khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínqióng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外形",
+   "meaning": "viền",
+   "example": "我们来学“外形”这个词。",
+   "exampleMeaning": "Cùng học từ “外形”: viền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàixíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肥胖",
+   "meaning": "mập",
+   "example": "我们来学“肥胖”这个词。",
+   "exampleMeaning": "Cùng học từ “肥胖”: mập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "féipàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "判处",
+   "meaning": "kết án",
+   "example": "判处死刑",
+   "exampleMeaning": "Kết án tử hình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pànchǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "英俊",
+   "meaning": "anh tuấn",
+   "example": "英俊有为",
+   "exampleMeaning": "Tài năng đầy hứa hẹn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīngjùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "行列",
+   "meaning": "hàng",
+   "example": "参加社会主义建设的行列。",
+   "exampleMeaning": "Tham gia đội ngũ xây dựng chủ nghĩa xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángliè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "变异",
+   "meaning": "biến dị",
+   "example": "我们来学“变异”这个词。",
+   "exampleMeaning": "Cùng học từ “变异”: biến dị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电线",
+   "meaning": "dây điện",
+   "example": "我们来学“电线”这个词。",
+   "exampleMeaning": "Cùng học từ “电线”: dây điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持久",
+   "meaning": "kéo dài",
+   "example": "我们来学“持久”这个词。",
+   "exampleMeaning": "Cùng học từ “持久”: kéo dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chíjiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "麻痹",
+   "meaning": "lơ là",
+   "example": "麻痹大意。",
+   "exampleMeaning": "Lơ là sao lãng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mábì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "制裁",
+   "meaning": "phạt, trừng phạt, trừng trị",
+   "example": "法律制裁",
+   "exampleMeaning": "Trừng trị theo pháp luật; chế tài bằng luật pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìcái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "日程",
+   "meaning": "nhật trình",
+   "example": "提到日程上。",
+   "exampleMeaning": "Sắp xếp vào chương trình trong ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "招募",
+   "meaning": "chiêu mộ",
+   "example": "招募新兵",
+   "exampleMeaning": "Chiêu mộ tân binh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāomù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "称作",
+   "meaning": "được gọi là",
+   "example": "我们来学“称作”这个词。",
+   "exampleMeaning": "Cùng học từ “称作”: được gọi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预感",
+   "meaning": "dự cảm",
+   "example": "天气异常闷热，大家都预感到将要下一场大雨。",
+   "exampleMeaning": "Thời tiết oi bức khác thường, mọi người đều cảm thấy sắp có một trận mưa to.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùgǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "它",
+    "一定",
+    "是",
+    "个",
+    "生日",
+    "蛋糕"
+   ],
+   "reading": "tā yīdìng shì ge shēngrì dàngāo",
+   "meaning": "Đây chắc hẳn là một cái bánh sinh nhật."
+  },
+  {
+   "tokens": [
+    "你",
+    "关",
+    "了",
+    "客厅",
+    "的",
+    "灯",
+    "了",
+    "吗"
+   ],
+   "reading": "nǐ guān le kètīng de dēng le ma",
+   "meaning": "Anh đã tắt đèn phòng khách chưa?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "把",
+    "我",
+    "当成",
+    "正常",
+    "人"
+   ],
+   "reading": "bù yào zài bǎ wǒ dàngchéng zhèngcháng rén",
+   "meaning": "Đừng coi tôi như người \"bình thường\"!"
+  }
+ ],
+ "issues": []
+}

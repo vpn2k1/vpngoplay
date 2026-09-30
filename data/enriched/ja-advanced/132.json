@@ -1,0 +1,333 @@
+{
+ "lesson": 132,
+ "draft": true,
+ "words": [
+  {
+   "term": "竜",
+   "meaning": "con rồng",
+   "example": "竜は想像上の生物である。",
+   "exampleMeaning": "Rồng là một loài sinh vật tưởng tượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "口座",
+   "meaning": "sự tính toán",
+   "example": "トムはスイス銀行に口座を持っている。",
+   "exampleMeaning": "Tom có một tài khoản ngân hàng Thụy Sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "総数",
+   "meaning": "tổng cộng, toàn bộ",
+   "example": "「総数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “総数”: tổng cộng, toàn bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国際化",
+   "meaning": "quốc tế hoá",
+   "example": "何でもかんでも英語にするのが国際化なんだったら国際化なんて糞食らえって思う。",
+   "exampleMeaning": "Tôi nghĩ là nếu \"hội nhập\" có nghĩa là cái gì cũng chuyển sang tiếng Anh thì nó thật quá nhảm nhí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "院内",
+   "meaning": "inside the House (EN)",
+   "example": "病院は院内感染を防ぐため、感染患者を隔離した。",
+   "exampleMeaning": "Để đề phòng lây nhiễm chéo trong bệnh viện, bệnh viện đã cách ly những bệnh nhân bị nhiễm bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "市町村",
+   "meaning": "thành phố, thành thị, đô thị",
+   "example": "「市町村」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “市町村”: thành phố, thành thị, đô thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夕食",
+   "meaning": "bữa cơm chiều, bữa cơm tối",
+   "example": "夕食の用意が出来ました。",
+   "exampleMeaning": "Bữa tối xong rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特捜",
+   "meaning": "special investigation (EN)",
+   "example": "「特捜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特捜”: special investigation (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "復権",
+   "meaning": "sự phục hồi",
+   "example": "「復権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “復権”: sự phục hồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生き残り",
+   "meaning": "sự sống sót",
+   "example": "「生き残り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生き残り”: sự sống sót.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "違法",
+   "meaning": "không hợp pháp, bất hợp pháp, trái luật",
+   "example": "「違法」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “違法”: không hợp pháp, bất hợp pháp, trái luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歴訪",
+   "meaning": "round of calls (EN)",
+   "example": "「歴訪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歴訪”: round of calls (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代行",
+   "meaning": "acting as agent (EN)",
+   "example": "「代行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代行”: acting as agent (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "現時点",
+   "meaning": "vào thời điểm hiện tại",
+   "example": "「現時点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “現時点”: vào thời điểm hiện tại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目撃",
+   "meaning": "sự làm chứng",
+   "example": "「目撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目撃”: sự làm chứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "劇的",
+   "meaning": "kịch, như kịch, như đóng kịch",
+   "example": "「劇的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “劇的”: kịch, như kịch, như đóng kịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "報告書",
+   "meaning": "bản báo cáo",
+   "example": "「報告書」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “報告書”: bản báo cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "混戦",
+   "meaning": "mở ra cho tất cả cho mọi người",
+   "example": "「混戦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “混戦”: mở ra cho tất cả cho mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "官邸",
+   "meaning": "official residence (EN)",
+   "example": "「官邸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “官邸”: official residence (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中東",
+   "meaning": "trung đông",
+   "example": "「中東」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中東”: trung đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "まだ",
+    "夕食",
+    "を",
+    "すませてない"
+   ],
+   "reading": "わたしはまだゆうしょくをすませてない",
+   "meaning": "Tôi chưa ăn xong bữa tối."
+  },
+  {
+   "tokens": [
+    "家内",
+    "は",
+    "今",
+    "夕食",
+    "の",
+    "支度",
+    "を",
+    "している"
+   ],
+   "reading": "かないはいまゆうしょくのしたくをしている",
+   "meaning": "Bà xã nhà tôi đang chuẩn bị cơm tối."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "今日",
+    "夕食",
+    "を",
+    "作らねばなりません"
+   ],
+   "reading": "わたしはきょうゆうしょくをつくらねばなりません",
+   "meaning": "Tôi hôm nay phải nấu bữa tối."
+  },
+  {
+   "tokens": [
+    "夕食",
+    "の",
+    "用意",
+    "が",
+    "出来ました"
+   ],
+   "reading": "ゆうしょくのよういができました",
+   "meaning": "Bữa tối xong rồi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "夕食後",
+    "に",
+    "授業",
+    "の",
+    "勉強",
+    "を",
+    "します"
+   ],
+   "reading": "かれはゆうしょくごにじゅぎょうのべんきょうをします",
+   "meaning": "Anh ta học bài sau bữa tối."
+  }
+ ],
+ "issues": []
+}

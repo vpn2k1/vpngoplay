@@ -1,0 +1,99 @@
+{
+ "id": "zh-talk-phone",
+ "lang": "zh",
+ "order": 7,
+ "level": "HSK3",
+ "icon": "phone",
+ "title": "Gọi điện hẹn gặp",
+ "scene": "Bạn gọi điện đến công ty Trường Thành để hẹn gặp giám đốc Vương.",
+ "roles": {
+  "A": "Thư ký",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "喂，您好！这里是长城公司。",
+   "reading": "Wéi, nín hǎo! Zhèlǐ shì Chángchéng gōngsī.",
+   "meaning": "A lô, xin chào! Đây là công ty Trường Thành."
+  },
+  {
+   "role": "B",
+   "text": "您好，我是河内公司的阿明。请问王经理在吗？",
+   "reading": "Nín hǎo, wǒ shì Hénèi gōngsī de Ā Míng. Qǐngwèn Wáng jīnglǐ zài ma?",
+   "meaning": "Xin chào, tôi là Minh ở công ty Hà Nội. Cho hỏi giám đốc Vương có ở đó không?"
+  },
+  {
+   "role": "A",
+   "text": "不好意思，他正在开会。",
+   "reading": "Bù hǎoyìsi, tā zhèngzài kāihuì.",
+   "meaning": "Xin lỗi, ông ấy đang họp."
+  },
+  {
+   "role": "B",
+   "text": "那我可以给他留个言吗？",
+   "reading": "Nà wǒ kěyǐ gěi tā liú ge yán ma?",
+   "meaning": "Vậy tôi để lại lời nhắn cho ông ấy được không?"
+  },
+  {
+   "role": "A",
+   "text": "当然可以，您请说。",
+   "reading": "Dāngrán kěyǐ, nín qǐng shuō.",
+   "meaning": "Tất nhiên được, mời anh nói."
+  },
+  {
+   "role": "B",
+   "text": "我想跟他约个时间，下个星期见面。",
+   "reading": "Wǒ xiǎng gēn tā yuē ge shíjiān, xià ge xīngqī jiànmiàn.",
+   "meaning": "Tôi muốn hẹn ông ấy gặp nhau vào tuần sau."
+  },
+  {
+   "role": "A",
+   "text": "星期二下午三点方便吗？",
+   "reading": "Xīngqī'èr xiàwǔ sān diǎn fāngbiàn ma?",
+   "meaning": "Ba giờ chiều thứ Ba có tiện không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "没问题，星期二见。",
+   "reading": "Méi wèntí, xīngqī'èr jiàn.",
+   "meaning": "Không vấn đề gì, hẹn gặp thứ Ba."
+  },
+  {
+   "role": "A",
+   "text": "好的，我会告诉王经理的。",
+   "reading": "Hǎo de, wǒ huì gàosu Wáng jīnglǐ de.",
+   "meaning": "Vâng, tôi sẽ báo lại với giám đốc Vương."
+  },
+  {
+   "role": "B",
+   "text": "麻烦您了，再见！",
+   "reading": "Máfan nín le, zàijiàn!",
+   "meaning": "Làm phiền chị rồi, tạm biệt!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "喂，您好！",
+   "reading": "Wéi, nín hǎo!",
+   "meaning": "A lô, xin chào!",
+   "note": "喂 đọc thanh 2 (wéi) khi nghe điện thoại."
+  },
+  {
+   "text": "请问王经理在吗？",
+   "reading": "Qǐngwèn Wáng jīnglǐ zài ma?",
+   "meaning": "Cho hỏi giám đốc Vương có ở đó không?"
+  },
+  {
+   "text": "我可以留个言吗？",
+   "reading": "Wǒ kěyǐ liú ge yán ma?",
+   "meaning": "Tôi để lại lời nhắn được không?"
+  },
+  {
+   "text": "麻烦您了。",
+   "reading": "Máfan nín le.",
+   "meaning": "Làm phiền anh chị rồi.",
+   "note": "Câu cảm ơn lịch sự sau khi nhờ vả."
+  }
+ ]
+}

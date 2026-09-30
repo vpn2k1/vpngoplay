@@ -1,0 +1,330 @@
+{
+ "lesson": 38,
+ "draft": true,
+ "words": [
+  {
+   "term": "省",
+   "meaning": "tỉnh",
+   "example": "不省人事。",
+   "exampleMeaning": "Bất tỉnh nhân sự; hôn mê",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海",
+   "meaning": "đông",
+   "example": "我在海上已经生活了好几个月。",
+   "exampleMeaning": "Tôi đã sống hàng tháng trên biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夜",
+   "meaning": "đêm, tối, cảnh tối tăm",
+   "example": "他半夜打了个电话给我。",
+   "exampleMeaning": "Anh ấy đã gọi cho tôi một cuộc vào lúc nửa đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "十分",
+   "meaning": "rất",
+   "example": "他對日本的歷史十分有興趣。",
+   "exampleMeaning": "Anh ấy cực kì quan tâm tới lịch sử Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shífēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "称",
+   "meaning": "cân",
+   "example": "我们来学“称”这个词。",
+   "exampleMeaning": "Cùng học từ “称”: cân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年轻",
+   "meaning": "trẻ, trẻ tuổi, thiếu niên",
+   "example": "年轻力壮。",
+   "exampleMeaning": "Tuổi trẻ sức khoẻ dồi dào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánqīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "条件",
+   "meaning": "điều kiện",
+   "example": "他的条件太高，我无法答应。",
+   "exampleMeaning": "Điều kiện của anh ấy cao quá, tôi không thể đáp ứng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáojiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "晚安",
+   "meaning": "chúc ngủ ngon (lời nói khách sáo)",
+   "example": "我们来学“晚安”这个词。",
+   "exampleMeaning": "Cùng học từ “晚安”: chúc ngủ ngon (lời nói khách sáo).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "画",
+   "meaning": "tô vẽ, mô tả, tranh",
+   "example": "汤姆问了玛丽谁画了图片。",
+   "exampleMeaning": "Tom đã hỏi mary ai đã vẽ bức tranh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "广告",
+   "meaning": "quảng cáo",
+   "example": "我们来学“广告”这个词。",
+   "exampleMeaning": "Cùng học từ “广告”: quảng cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎnggào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提出",
+   "meaning": "đề xuất",
+   "example": "他提出改革研究方法的意见。",
+   "exampleMeaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "运动",
+   "meaning": "chạy chọt",
+   "example": "运动官府。",
+   "exampleMeaning": "Chạy chọt quan phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùndòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "样子",
+   "meaning": "có vẻ, kiểu dáng, hình dạng",
+   "example": "他故意做出不在乎的样子。",
+   "exampleMeaning": "Anh ta làm ra vẻ không quan tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàngzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "实现",
+   "meaning": "hoàn thành, đạt được, giành được",
+   "example": "他的理想终于实现了。",
+   "exampleMeaning": "Lý tưởng của anh ấy cuối cùng đã thực hiện được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刚才",
+   "meaning": "vừa",
+   "example": "刚才是和你闹着玩儿的，你别当真。",
+   "exampleMeaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāngcái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "猫",
+   "meaning": "con mèo",
+   "example": "我们来学“猫”这个词。",
+   "exampleMeaning": "Cùng học từ “猫”: con mèo.",
+   "emoji": "🐈",
+   "ipa": "",
+   "pinyin": "māo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通",
+   "meaning": "hồi",
+   "example": "我认为这个消息应该通知大家。",
+   "exampleMeaning": "Tôi thấy tin đó nên báo cho mọi người biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "办公室",
+   "meaning": "phòng làm việc",
+   "example": "校长办公室",
+   "exampleMeaning": "Phòng làm việc hiệu trưởng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàngōngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "正确",
+   "meaning": "đúng, chính xác",
+   "example": "实践证明这种方法是正确的。",
+   "exampleMeaning": "Thực tiễn chứng minh phương pháp này đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngquè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "爱情",
+   "meaning": "ái tình",
+   "example": "我们来学“爱情”这个词。",
+   "exampleMeaning": "Cùng học từ “爱情”: ái tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àiqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "上海",
+    "发展",
+    "得",
+    "快",
+    "不",
+    "快"
+   ],
+   "reading": "shànghǎi fāzhǎn de kuài bù kuài",
+   "meaning": "Thượng Hải có phát triển rất nhanh không?"
+  },
+  {
+   "tokens": [
+    "我",
+    "十分",
+    "反对",
+    "这个",
+    "项目"
+   ],
+   "reading": "wǒ shífēn fǎnduì zhège xiàngmù",
+   "meaning": "Tôi hoàn toàn phản đối kế hoạch."
+  },
+  {
+   "tokens": [
+    "他",
+    "那个",
+    "样子",
+    "啊",
+    "别提了"
+   ],
+   "reading": "tā nàge yàngzi ā biétíle",
+   "meaning": "Cái bộ dạng đó của anh ta, đừng nhắc đến nữa!"
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "喜欢",
+    "他",
+    "讲话",
+    "的",
+    "样子"
+   ],
+   "reading": "wǒ bù xǐhuan tā jiǎnghuà de yàngzi",
+   "meaning": "Tôi không ưa cách anh ta nói chuyện."
+  },
+  {
+   "tokens": [
+    "他",
+    "半夜",
+    "打",
+    "了",
+    "个",
+    "电话",
+    "给",
+    "我"
+   ],
+   "reading": "tā bànyè dǎ le ge diànhuà gěi wǒ",
+   "meaning": "Anh ấy đã gọi cho tôi một cuộc vào lúc nửa đêm."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,327 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "导师",
+   "meaning": "thầy",
+   "example": "革命导师",
+   "exampleMeaning": "Bậc thầy của cách mạng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎoshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "往事",
+   "meaning": "việc đã qua",
+   "example": "回忆往事",
+   "exampleMeaning": "Nhớ lại những việc đã qua",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "与否",
+   "meaning": "có hay không (ở cuối cụm từ)",
+   "example": "我们来学“与否”这个词。",
+   "exampleMeaning": "Cùng học từ “与否”: có hay không (ở cuối cụm từ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǔfǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何况",
+   "meaning": "huống",
+   "example": "这根木头连小火子都抬不动，何况老人呢？",
+   "exampleMeaning": "Khúc gỗ này ngay cả bọn thanh niên trai tráng còn chưa khiêng nổi, huống chi là ông già?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hékuàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "倾听",
+   "meaning": "lắng nghe",
+   "example": "倾听群众的意见。",
+   "exampleMeaning": "Lắng nghe ý kiến của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngtīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "传闻",
+   "meaning": "đồn",
+   "example": "传闻失实。",
+   "exampleMeaning": "Tin đồn thất thiệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "简称",
+   "meaning": "gọi tắt",
+   "example": "化学肥料简称化肥。",
+   "exampleMeaning": "Phân hoá học gọi tắt là phân hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnchēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发泄",
+   "meaning": "sinh lòng",
+   "example": "发泄兽欲",
+   "exampleMeaning": "Sinh lòng thú tính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāxiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预言",
+   "meaning": "tiên đoán",
+   "example": "科学家的预言已经变成了现实。",
+   "exampleMeaning": "Lời tiên đoán của các nhà khoa học đã thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失控",
+   "meaning": "vượt ra khỏi tầm kiểm soát",
+   "example": "我们来学“失控”这个词。",
+   "exampleMeaning": "Cùng học từ “失控”: vượt ra khỏi tầm kiểm soát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīkòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "噪音",
+   "meaning": "tạp âm",
+   "example": "由于噪音，我们无法入睡。",
+   "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàoyīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "删除",
+   "meaning": "cắt bỏ",
+   "example": "我们来学“删除”这个词。",
+   "exampleMeaning": "Cùng học từ “删除”: cắt bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shānchú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妥协",
+   "meaning": "thoả hiệp",
+   "example": "原则问题上不能妥协。",
+   "exampleMeaning": "Vấn đề nguyên tắc không thể thoả hiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuǒxié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "枕头",
+   "meaning": "cái gối",
+   "example": "我们来学“枕头”这个词。",
+   "exampleMeaning": "Cùng học từ “枕头”: cái gối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěntou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瞪",
+   "meaning": "lườm",
+   "example": "老秦瞪了她一眼，嫌她多嘴。",
+   "exampleMeaning": "Ông Tần lườm cô ấy một cái, trách cô ấy lắm lời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来回",
+   "meaning": "chạy đi chạy lại",
+   "example": "从机关到宿舍来回有一里地。",
+   "exampleMeaning": "Từ cơ quan đến ký túc xá vừa đi vừa về khoảng một dặm đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láihuí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "终结",
+   "meaning": "chung kết",
+   "example": "我们来学“终结”这个词。",
+   "exampleMeaning": "Cùng học từ “终结”: chung kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "可恶",
+   "meaning": "đáng căm ghét",
+   "example": "在别人背后搬弄是非，可恶透了。",
+   "exampleMeaning": "Sau lưng đâm bị thóc thọc bị gạo, thật đáng căm ghét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "泡沫",
+   "meaning": "bọt",
+   "example": "我们来学“泡沫”这个词。",
+   "exampleMeaning": "Cùng học từ “泡沫”: bọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pàomò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "车厢",
+   "meaning": "toa hành khách",
+   "example": "我们来学“车厢”这个词。",
+   "exampleMeaning": "Cùng học từ “车厢”: toa hành khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "贸易",
+    "帮助",
+    "国家",
+    "发展"
+   ],
+   "reading": "màoyì bāngzhù guójiā fāzhǎn",
+   "meaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "你",
+    "要",
+    "再",
+    "来",
+    "一块",
+    "蛋糕",
+    "吗"
+   ],
+   "reading": "nǐ yào zài lái yīkuài dàngāo ma",
+   "meaning": "Anh có muốn miếng bánh ngọt khác không?"
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

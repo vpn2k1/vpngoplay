@@ -1,0 +1,327 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "下车",
+   "meaning": "xuống xe",
+   "example": "我们来学“下车”这个词。",
+   "exampleMeaning": "Cùng học từ “下车”: xuống xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杯子",
+   "meaning": "cốc",
+   "example": "我们来学“杯子”这个词。",
+   "exampleMeaning": "Cùng học từ “杯子”: cốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēizi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放假",
+   "meaning": "nghỉ",
+   "example": "国庆节放假两天。",
+   "exampleMeaning": "Lễ quốc khánh nghỉ hai ngày",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "路口",
+   "meaning": "giao lộ",
+   "example": "三岔路口。",
+   "exampleMeaning": "Ngã ba đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有名",
+   "meaning": "nổi tiếng",
+   "example": "他是有名的登山运动健将。",
+   "exampleMeaning": "Anh ấy là kiện tướng leo núi nổi tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒumíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弟",
+   "meaning": "em",
+   "example": "弟弟對英語和音樂很有興趣。",
+   "exampleMeaning": "Anh trai tôi có hứng thú với tiếng Anh và âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "电视机",
+   "meaning": "máy truyền hình",
+   "example": "小张一会儿就把电视机修理好了，他有两下子，我佩服他！",
+   "exampleMeaning": "Tiểu Trương một lúc đã sửa xong cái tivi, anh ấy có thực lực, tôi khâm phục anh ấy!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànshìjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "早饭",
+   "meaning": "cơm sáng",
+   "example": "我们来学“早饭”这个词。",
+   "exampleMeaning": "Cùng học từ “早饭”: cơm sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǎofàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一点儿",
+   "meaning": "một ít",
+   "example": "只有那么一点儿，够用吗？",
+   "exampleMeaning": "Có ít như thế đủ dùng không？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīdiǎnr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "书店",
+   "meaning": "thư điếm",
+   "example": "我们来学“书店”这个词。",
+   "exampleMeaning": "Cùng học từ “书店”: thư điếm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūdiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放学",
+   "meaning": "tan học",
+   "example": "我们来学“放学”这个词。",
+   "exampleMeaning": "Cùng học từ “放学”: tan học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "关上",
+   "meaning": "thốn khẩu",
+   "example": "我们来学“关上”这个词。",
+   "exampleMeaning": "Cùng học từ “关上”: thốn khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "玩儿",
+   "meaning": "chơi",
+   "example": "刚才是和你闹着玩儿的，你别当真。",
+   "exampleMeaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "半天",
+   "meaning": "buổi",
+   "example": "等了半天，他才来。",
+   "exampleMeaning": "Chờ cả buổi anh ta mới đến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàntiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "车票",
+   "meaning": "vé xe",
+   "example": "我们来学“车票”这个词。",
+   "exampleMeaning": "Cùng học từ “车票”: vé xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēpiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "看病",
+   "meaning": "khám bệnh",
+   "example": "我下午到医院看病去。",
+   "exampleMeaning": "Chiều nay tôi đến bệnh viện khám bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànbìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "电影院",
+   "meaning": "rạp chiếu phim",
+   "example": "我们来学“电影院”这个词。",
+   "exampleMeaning": "Cùng học từ “电影院”: rạp chiếu phim.",
+   "emoji": "🎦",
+   "ipa": "",
+   "pinyin": "diànyǐngyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前天",
+   "meaning": "hôm kia",
+   "example": "我们来学“前天”这个词。",
+   "exampleMeaning": "Cùng học từ “前天”: hôm kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiántiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "后天",
+   "meaning": "lớn lên",
+   "example": "先天不足，后天失调。",
+   "exampleMeaning": "Bẩm sinh yếu đuối, lớn lên sẽ không khoẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòutiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "渴",
+   "meaning": "khát",
+   "example": "又渴又饿。",
+   "exampleMeaning": "Vừa khát lại vừa đói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kě",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "是",
+    "我",
+    "的",
+    "兄弟"
+   ],
+   "reading": "tāmen shì wǒ de xiōngdì",
+   "meaning": "Họ là anh em của tôi."
+  },
+  {
+   "tokens": [
+    "弟弟",
+    "对",
+    "英语",
+    "和",
+    "音乐",
+    "很",
+    "有",
+    "兴趣"
+   ],
+   "reading": "dìdi duì yīngyǔ hé yīnyuè hěn yǒu xìngqù",
+   "meaning": "Anh trai tôi có hứng thú với tiếng Anh và âm nhạc."
+  },
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  },
+  {
+   "tokens": [
+    "雪",
+    "化",
+    "了"
+   ],
+   "reading": "xuě huà le",
+   "meaning": "Tuyết tan rồi."
+  },
+  {
+   "tokens": [
+    "灯",
+    "亮",
+    "着"
+   ],
+   "reading": "dēng liàng zhe",
+   "meaning": "Đèn đang sáng."
+  }
+ ],
+ "issues": []
+}

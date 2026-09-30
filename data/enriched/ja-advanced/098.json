@@ -1,0 +1,339 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "誘致",
+   "meaning": "sự hú",
+   "example": "「誘致」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “誘致”: sự hú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "株式会社",
+   "meaning": "gánh hát nghiệp dư",
+   "example": "「株式会社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “株式会社”: gánh hát nghiệp dư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文民",
+   "meaning": "người thường, thường dân",
+   "example": "「文民」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “文民”: người thường, thường dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "献金",
+   "meaning": "sự tặng, sự cho, sự biếu",
+   "example": "「献金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “献金”: sự tặng, sự cho, sự biếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物理学",
+   "meaning": "vật lý học",
+   "example": "「物理学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物理学”: vật lý học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気象庁",
+   "meaning": "cục Khí tượng Nhật Bản",
+   "example": "「気象庁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気象庁”: cục Khí tượng Nhật Bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "左手",
+   "meaning": "về phía trái, về bên trái",
+   "example": "彼女は左手をやけどした。",
+   "exampleMeaning": "Cô ấy đã bị bỏng tay trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "塚",
+   "meaning": "ụ (đất, đá), mô (đất",
+   "example": "「塚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “塚”: ụ (đất, đá), mô (đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "土壌",
+   "meaning": "đất",
+   "example": "「土壌」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “土壌”: đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国際的",
+   "meaning": "quốc tế",
+   "example": "「国際的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国際的”: quốc tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三塁打",
+   "meaning": "có ba cái, gồm ba phần",
+   "example": "「三塁打」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “三塁打”: có ba cái, gồm ba phần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肝",
+   "meaning": "gan",
+   "example": "薬によっては肝障害を引き起こします。",
+   "exampleMeaning": "Có một số loại thuốc gây thương tổn cho gan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "肖像",
+   "meaning": "chân dung, ảnh",
+   "example": "これは亡くなった父の肖像画です。",
+   "exampleMeaning": "Đây là bức chân dung người cha quá cố của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初演",
+   "meaning": "công chiếu",
+   "example": "「初演」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “初演”: công chiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "増税",
+   "meaning": "sự tăng thuế",
+   "example": "大部分の日本人が増税に反対した。",
+   "exampleMeaning": "Đại bộ phận người dân Nhật phản đối việc tăng thuế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地方分権",
+   "meaning": "decentralization of power (EN)",
+   "example": "「地方分権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地方分権”: decentralization of power (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年俸",
+   "meaning": "annual salary (EN)",
+   "example": "「年俸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年俸”: annual salary (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余儀ない",
+   "meaning": "không thể tránh được",
+   "example": "「余儀ない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “余儀ない”: không thể tránh được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老後",
+   "meaning": "tuổi già",
+   "example": "老後に向けて貯金している。",
+   "exampleMeaning": "Tôi đang tiết kiệm tiền để an hưởng tuổi già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "最適",
+   "meaning": "điều kiện tốt nhất",
+   "example": "これが最適な方法だ。",
+   "exampleMeaning": "Đây là phương pháp thích hợp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "左手",
+    "を",
+    "やけど",
+    "した"
+   ],
+   "reading": "かのじょはひだりてをやけどした",
+   "meaning": "Cô ấy đã bị bỏng tay trái."
+  },
+  {
+   "tokens": [
+    "大部分",
+    "の",
+    "日本人",
+    "が",
+    "増税",
+    "に",
+    "反対",
+    "した"
+   ],
+   "reading": "だいぶぶんのにっぽんじんがぞうぜいにはんたいした",
+   "meaning": "Đại bộ phận người dân Nhật phản đối việc tăng thuế."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "亡くなった",
+    "父",
+    "の",
+    "肖像画",
+    "です"
+   ],
+   "reading": "これはなくなったちちのしょうぞうがです",
+   "meaning": "Đây là bức chân dung người cha quá cố của tôi."
+  },
+  {
+   "tokens": [
+    "妹",
+    "の",
+    "誕生日",
+    "に",
+    "真珠",
+    "の",
+    "ネックレス",
+    "を",
+    "贈った"
+   ],
+   "reading": "いもうとのたんじょうびにしんじゅのネックレスをおくった",
+   "meaning": "Tôi tặng em gái tôi dây chuyền châu vào ngày sinh nhật của nó."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "その",
+    "金",
+    "を",
+    "受け取る",
+    "こと",
+    "を",
+    "拒否",
+    "した"
+   ],
+   "reading": "かのじょはそのきんをうけとることをきょひした",
+   "meaning": "Cô ấy đã từ chối nhận tiền."
+  }
+ ],
+ "issues": []
+}

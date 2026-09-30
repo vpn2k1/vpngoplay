@@ -1,0 +1,329 @@
+{
+ "lesson": 6,
+ "draft": true,
+ "words": [
+  {
+   "term": "minute",
+   "meaning": "phút",
+   "example": "wait a minute!",
+   "exampleMeaning": "Đợi một lát",
+   "emoji": "",
+   "ipa": "/ˈmɪnɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "both",
+   "meaning": "cả hai",
+   "example": "he speaks both English and French",
+   "exampleMeaning": "Nó nói cả tiếng Anh cả tiếng Pháp",
+   "emoji": "",
+   "ipa": "/ˈboʊθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "paint",
+   "meaning": "sơn, quét sơn",
+   "example": "to paint a black (rosy) picture of",
+   "exampleMeaning": "Bôi đen (tô hồng)",
+   "emoji": "",
+   "ipa": "/ˈpeɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "candy",
+   "meaning": "kẹo",
+   "example": "Let's learn the word \"candy\".",
+   "exampleMeaning": "Cùng học từ “candy”: kẹo.",
+   "emoji": "🍬",
+   "ipa": "/ˈkændi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "zoo",
+   "meaning": "sở thú",
+   "example": "I went to the zoo yesterday.",
+   "exampleMeaning": "Tôi đã đi sở thú hôm qua",
+   "emoji": "",
+   "ipa": "/zuˑ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "question",
+   "meaning": "hỏi, hỏi cung",
+   "example": "to make no question of...",
+   "exampleMeaning": "Không may may nghi ngờ gì về...",
+   "emoji": "",
+   "ipa": "/ˈkwɛs.tʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "good night",
+   "meaning": "chúc ngủ ngon",
+   "example": "I got a good night's sleep.",
+   "exampleMeaning": "Tôi đã có một giấc ngủ ngon.",
+   "emoji": "",
+   "ipa": "/ˈɡʊd ˈnaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "OK",
+   "meaning": "đồng ý, được, tán thành",
+   "example": "Is she OK?",
+   "exampleMeaning": "Cô ấy có OK không?",
+   "emoji": "",
+   "ipa": "/ˈoʊˈkeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wall",
+   "meaning": "vách, thành, tường",
+   "example": "the Great Wall of China",
+   "exampleMeaning": "Vạn Lý Trường Thành",
+   "emoji": "",
+   "ipa": "/wɔːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sister",
+   "meaning": "chị, em gái",
+   "example": "Is she your sister?",
+   "exampleMeaning": "Cô ấy là em gái bạn à?",
+   "emoji": "",
+   "ipa": "/ˈsɪstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "face",
+   "meaning": "mặt",
+   "example": "to put a new face on something",
+   "exampleMeaning": "Thay đổi bộ mặt của cái gì, đưa cái gì ra dưới một bộ mặt mới",
+   "emoji": "",
+   "ipa": "/feɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "terrible",
+   "meaning": "dễ sợ, ghê gớm, khủng khiếp",
+   "example": "A terrible day.",
+   "exampleMeaning": "Một ngày tồi tệ.",
+   "emoji": "",
+   "ipa": "/ˈtɛrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "poor",
+   "meaning": "nghèo, bần cùng",
+   "example": "to be poor at mathematics",
+   "exampleMeaning": ": kém toán",
+   "emoji": "",
+   "ipa": "/ˈpur/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "world",
+   "meaning": "giới",
+   "example": "all the world has heard of it",
+   "exampleMeaning": "Thiên hạ ai người ta cũng biết cái đó",
+   "emoji": "",
+   "ipa": "/ˈwɜrld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "head",
+   "meaning": "đầu",
+   "example": "to head the ship for...",
+   "exampleMeaning": "Hướng mũi tàu về phía...",
+   "emoji": "",
+   "ipa": "/ˈhɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "smith",
+   "meaning": "thợ rèn",
+   "example": "Mr Long and Mr Smith spoke to each other.",
+   "exampleMeaning": "Ông Long và ông Smith đã nói chuyện với nhau.",
+   "emoji": "",
+   "ipa": "/ˈsmɪθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "two",
+   "meaning": "hai, đôi",
+   "example": "in twos; two and two; two by two",
+   "exampleMeaning": "Từng đôi một, từng cặp một",
+   "emoji": "",
+   "ipa": "/ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "catch",
+   "meaning": "bắt",
+   "example": "let me catch you at it agains!",
+   "exampleMeaning": "Cứ để tôi bắt gặp anh làm cái đó một lần nữa mà xem!",
+   "emoji": "",
+   "ipa": "/ˈkætʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "message",
+   "meaning": "tin nhắn, thư tín, điện",
+   "example": "to send someone on a message",
+   "exampleMeaning": "Bảo ai đi làm việc gì",
+   "emoji": "",
+   "ipa": "/ˈmɛsədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "photo",
+   "meaning": "của photograph",
+   "example": "When did you take this photo?",
+   "exampleMeaning": "Bạn chụp bức ảnh này lúc nào?",
+   "emoji": "",
+   "ipa": "/ˈfoʊˌtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "asked",
+    "Tom",
+    "to",
+    "buy",
+    "white",
+    "wall",
+    "paint",
+    "for",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã nhờ Tom mua sơn tường màu trắng cho tôi."
+  },
+  {
+   "tokens": [
+    "We",
+    "the",
+    "two",
+    "of",
+    "us",
+    "don't",
+    "have",
+    "a",
+    "single",
+    "photo",
+    "together"
+   ],
+   "reading": "",
+   "meaning": "Hai người chúng ta còn không có nổi một bức ảnh chụp cùng nhau."
+  },
+  {
+   "tokens": [
+    "It's",
+    "two",
+    "pounds"
+   ],
+   "reading": "",
+   "meaning": "Cái này hai pound."
+  },
+  {
+   "tokens": [
+    "We",
+    "need",
+    "both"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta cần cả hai."
+  },
+  {
+   "tokens": [
+    "A",
+    "terrible",
+    "day"
+   ],
+   "reading": "",
+   "meaning": "Một ngày tồi tệ."
+  }
+ ],
+ "issues": []
+}

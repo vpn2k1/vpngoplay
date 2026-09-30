@@ -1,0 +1,322 @@
+{
+ "lesson": 28,
+ "draft": true,
+ "words": [
+  {
+   "term": "hairdresser",
+   "meaning": "thợ làm tóc, thợ làm đầu",
+   "example": "Let's learn the word \"hairdresser\".",
+   "exampleMeaning": "Cùng học từ “hairdresser”: thợ làm tóc, thợ làm đầu.",
+   "emoji": "",
+   "ipa": "/ˈhɛrˌdrɛsɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prominent",
+   "meaning": "lồi lên, nhô lên",
+   "example": "Let's learn the word \"prominent\".",
+   "exampleMeaning": "Cùng học từ “prominent”: lồi lên, nhô lên.",
+   "emoji": "",
+   "ipa": "/ˈprɑmənənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pottery",
+   "meaning": "đồ gốm",
+   "example": "Let's learn the word \"pottery\".",
+   "exampleMeaning": "Cùng học từ “pottery”: đồ gốm.",
+   "emoji": "",
+   "ipa": "/ˈpɑtɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unfortunate",
+   "meaning": "không may, rủi ro, bất hạnh",
+   "example": "an unfortunate man",
+   "exampleMeaning": "Người bất hạnh",
+   "emoji": "",
+   "ipa": "/ənˈfɔrtʃənət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "positive",
+   "meaning": "khẳng định, chắc chắn, tích cực",
+   "example": "to be positive about something",
+   "exampleMeaning": "Quả quyết về một cái gì",
+   "emoji": "",
+   "ipa": "/ˈpɑzətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pregnancy",
+   "meaning": "sự có thai, sự có mang thai, sự có chửa",
+   "example": "Teen pregnancy carries a high risk of maternal mortality.",
+   "exampleMeaning": "Mang thai ở tuổi vị thành niên mang đến rủi ro tử vong cao ở người mẹ.",
+   "emoji": "",
+   "ipa": "/ˈprɛɡnənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "controversial",
+   "meaning": "chỉ một vấn đề gây tranh cãi",
+   "example": "Let's learn the word \"controversial\".",
+   "exampleMeaning": "Cùng học từ “controversial”: chỉ một vấn đề gây tranh cãi.",
+   "emoji": "",
+   "ipa": "/ˌkɑntrəˈvɜrʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "breast",
+   "meaning": "vú",
+   "example": "Mary died of breast cancer.",
+   "exampleMeaning": "Mary qua đời do bị ung thư vú.",
+   "emoji": "",
+   "ipa": "/brɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "inscribe",
+   "meaning": "viết, khắc (chữ), ghi (chữ",
+   "example": "Let's learn the word \"inscribe\".",
+   "exampleMeaning": "Cùng học từ “inscribe”: viết, khắc (chữ), ghi (chữ.",
+   "emoji": "",
+   "ipa": "/ˌɪnsˈkraɪb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scold",
+   "meaning": "rầy la, trách mắng, mắng mỏ",
+   "example": "There is no reason for her to scold you.",
+   "exampleMeaning": "Chẳng có lý do gì mà nó la mày.",
+   "emoji": "",
+   "ipa": "/ˈskoʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bomb",
+   "meaning": "quả bom",
+   "example": "Let's learn the word \"bomb\".",
+   "exampleMeaning": "Cùng học từ “bomb”: quả bom.",
+   "emoji": "💣",
+   "ipa": "/ˈbɑm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tremendous",
+   "meaning": "ghê gớm, kinh khủng, khủng khiếp",
+   "example": "to take tremendous trouble to...",
+   "exampleMeaning": "Vất vả hết sức để..., chạy ngược chạy xuôi để...",
+   "emoji": "",
+   "ipa": "/trəˈmɛndəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "career",
+   "meaning": "nghề, nghề nghiệp",
+   "example": "at the end of his career",
+   "exampleMeaning": "Vào cuối đời hoạt động của anh ta",
+   "emoji": "",
+   "ipa": "/kɜrˈɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bent",
+   "meaning": "khiếu, sở thích",
+   "example": "I bent over to take the pen.",
+   "exampleMeaning": "Tôi cúi xuống để nhặt cái bút.",
+   "emoji": "",
+   "ipa": "/ˈbɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "moderate",
+   "meaning": "ôn hoà, không quá khích",
+   "example": "Moderate exercise stimulates the circulation of blood.",
+   "exampleMeaning": "Việc tập thể dục điều độ sẽ làm kích thích tuần hoàn máu.",
+   "emoji": "",
+   "ipa": "/ˈmɑdɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "associate",
+   "meaning": "cùng cộng tác, phụ, phó",
+   "example": "to associate with someone in doing something",
+   "exampleMeaning": "Hợp sức với người nào làm việc gì",
+   "emoji": "",
+   "ipa": "/əˈsoʊsiˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trigger",
+   "meaning": "cò súng",
+   "example": "to pull the trigger",
+   "exampleMeaning": "Bóp cò",
+   "emoji": "",
+   "ipa": "/ˈtrɪɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "funeral",
+   "meaning": "lễ tang",
+   "example": "a funeral pile (pyre)",
+   "exampleMeaning": "Giàn thiêu (xác người chết)",
+   "emoji": "",
+   "ipa": "/ˈfjunɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scare",
+   "meaning": "dọa",
+   "example": "Sorry, I didn't mean to scare you.",
+   "exampleMeaning": "Xin lỗi, tôi không có ý dọa bạn.",
+   "emoji": "",
+   "ipa": "/ˈskɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "clinic",
+   "meaning": "bệnh viện thực hành",
+   "example": "Let's learn the word \"clinic\".",
+   "exampleMeaning": "Cùng học từ “clinic”: bệnh viện thực hành.",
+   "emoji": "",
+   "ipa": "/ˈklɪnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "fork",
+    "is",
+    "bent"
+   ],
+   "reading": "",
+   "meaning": "Cái dĩa bị cong rồi."
+  },
+  {
+   "tokens": [
+    "Hundreds",
+    "attended",
+    "Tom's",
+    "funeral"
+   ],
+   "reading": "",
+   "meaning": "Hàng trăm người dự đám tang của Tom."
+  },
+  {
+   "tokens": [
+    "Don't",
+    "scare",
+    "me",
+    "like",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Đừng dọa tôi như vậy nữa!"
+  },
+  {
+   "tokens": [
+    "Never",
+    "associate",
+    "with",
+    "bad",
+    "fellows"
+   ],
+   "reading": "",
+   "meaning": "Đừng bao giờ dang díu vớ những gã xấu."
+  },
+  {
+   "tokens": [
+    "Don't",
+    "let",
+    "him",
+    "scare",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Đừng để anh ta làm bạn sợ."
+  }
+ ],
+ "issues": []
+}

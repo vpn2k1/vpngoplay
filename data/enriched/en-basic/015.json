@@ -1,0 +1,319 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "garbage",
+   "meaning": "rác (nhà bếp)",
+   "example": "There is a lot of garbage around us.",
+   "exampleMeaning": "Có rất nhiều rác xung quanh chúng ta.",
+   "emoji": "",
+   "ipa": "/ˈɡɑrbɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "toy",
+   "meaning": "đùa, nghịch, chơi với (đen & bóng)",
+   "example": "to make a toy of gardening",
+   "exampleMeaning": "Coi chuyện làm vườn như một trò chơi vui",
+   "emoji": "",
+   "ipa": "/ˈtɔɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bed",
+   "meaning": "giường",
+   "example": "to bed out some young cabbage plants",
+   "exampleMeaning": "Trồng mấy cây cải con",
+   "emoji": "🛏",
+   "ipa": "/bɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cow",
+   "meaning": "mãi mãi, lâu dài, vô tận",
+   "example": "Oh, is that the way you milk a cow?",
+   "exampleMeaning": "Ồ, bạn vắt sữa bò như thế hả?",
+   "emoji": "🐄",
+   "ipa": "/kaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "win",
+   "meaning": "khắc phục, chiến thắng (khó khăn)",
+   "example": "to win the day; to win the field",
+   "exampleMeaning": "Thắng",
+   "emoji": "",
+   "ipa": "/ˈwɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "king",
+   "meaning": "vua, quốc vương",
+   "example": "The king has no hair.",
+   "exampleMeaning": "Nhà vua không có tóc.",
+   "emoji": "",
+   "ipa": "/ˈkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "listen",
+   "meaning": "nghe, lắng nghe",
+   "example": "listen to me!",
+   "exampleMeaning": "Hãy nghe tôi",
+   "emoji": "",
+   "ipa": "/ˈlɪs.ən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "join",
+   "meaning": "tham gia, tham dự, nhập vào",
+   "example": "would you join us in our picnic?",
+   "exampleMeaning": "Anh có muốn tham gia cuộc đi chơi ngoài trời với chúng tôi không?",
+   "emoji": "",
+   "ipa": "/ˈdʒɔɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rat",
+   "meaning": "con chuột",
+   "example": "The witch threw a live rat into the boiling potion.",
+   "exampleMeaning": "Phù thuỷ ném con chuột sống vào thuốc phép đang sôi.",
+   "emoji": "🐀",
+   "ipa": "/ˈræt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hello",
+   "meaning": "chào",
+   "example": "Let's learn the word \"hello\".",
+   "exampleMeaning": "Cùng học từ “hello”: chào.",
+   "emoji": "",
+   "ipa": "/həˈloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "email",
+   "meaning": "thư điện tử",
+   "example": "He got an email from her.",
+   "exampleMeaning": "Anh ấy đã nhận được một email từ cô ấy.",
+   "emoji": "",
+   "ipa": "/iˈmeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sight",
+   "meaning": "trông, thị giác nhìn thấy, thấy",
+   "example": "out of my sight!",
+   "exampleMeaning": "Cút đi cho rãnh mắt!, cút đi cho khuất mắt!",
+   "emoji": "",
+   "ipa": "/ˈsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "idea",
+   "meaning": "quan niệm, tư tưởng, ý tưởng",
+   "example": "what's the big idea?",
+   "exampleMeaning": "(mỉa mai) cậu nuôi ý định điên rồ gì trong đầu thế?",
+   "emoji": "",
+   "ipa": "/aɪˈdiə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "following",
+   "meaning": "tiếp theo, theo sau, sau đây",
+   "example": "to have numerous following",
+   "exampleMeaning": "Có nhiều người theo",
+   "emoji": "",
+   "ipa": "/ˈfɑloʊɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "teach",
+   "meaning": "dạy, dạy học",
+   "example": "I teach history.",
+   "exampleMeaning": "Tôi dạy lịch sử.",
+   "emoji": "",
+   "ipa": "/tiːt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "look",
+   "meaning": "xem, ngó, quan sát",
+   "example": "to look upon somebody as...",
+   "exampleMeaning": "Coi ai như là...",
+   "emoji": "",
+   "ipa": "/ˈlʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "kind",
+   "meaning": "loại, hạng, thứ",
+   "example": "to relay someone's insolence in kind",
+   "exampleMeaning": "Lấy thái độ láo xược mà đáp lại thái độ láo xược của ai",
+   "emoji": "",
+   "ipa": "/ˈkaɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "form",
+   "meaning": "hình, hình thể, hình dạng",
+   "example": "to form a class for beginners in English",
+   "exampleMeaning": "Tổ chức một lớp cho người bắt đầu học tiếng Anh",
+   "emoji": "",
+   "ipa": "/fɔːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sell",
+   "meaning": "bán, đổi (hàng hoá) để lấy tiền",
+   "example": "I was trying to sell him my butterfly collection.",
+   "exampleMeaning": "Tôi đã từng cố bán cho ông ta bộ sưu tập bướm của mình.",
+   "emoji": "",
+   "ipa": "/sɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "difficult",
+   "meaning": "khó, khó khăn, gay go",
+   "example": "It's a difficult problem.",
+   "exampleMeaning": "Đó là vấn đề khó.",
+   "emoji": "",
+   "ipa": "/ˈdɪfəkəlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Look",
+    "under",
+    "the",
+    "bed"
+   ],
+   "reading": "",
+   "meaning": "Nhìn xuống gầm giường đi."
+  },
+  {
+   "tokens": [
+    "Look",
+    "at",
+    "the",
+    "following",
+    "examples"
+   ],
+   "reading": "",
+   "meaning": "Hãy nhìn vào ví dụ sau."
+  },
+  {
+   "tokens": [
+    "Look",
+    "at",
+    "the",
+    "following",
+    "example"
+   ],
+   "reading": "",
+   "meaning": "Hãy nhìn vào ví dụ sau."
+  },
+  {
+   "tokens": [
+    "You",
+    "look",
+    "stupid"
+   ],
+   "reading": "",
+   "meaning": "Bạn nhìn ngốc quá."
+  },
+  {
+   "tokens": [
+    "You",
+    "teach",
+    "Arabic"
+   ],
+   "reading": "",
+   "meaning": "Bạn dạy tiếng Ả rập."
+  }
+ ],
+ "issues": []
+}

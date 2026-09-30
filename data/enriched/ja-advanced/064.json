@@ -1,0 +1,334 @@
+{
+ "lesson": 64,
+ "draft": true,
+ "words": [
+  {
+   "term": "星座",
+   "meaning": "chòm sao",
+   "example": "私は私の愛の予言を告げる星座たちの光の数を数えた。",
+   "exampleMeaning": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "郷愁",
+   "meaning": "nỗi nhớ nhà, lòng nhớ quê hương",
+   "example": "「郷愁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “郷愁”: nỗi nhớ nhà, lòng nhớ quê hương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新婚",
+   "meaning": "người mới cưới",
+   "example": "「新婚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新婚”: người mới cưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "煩わしい",
+   "meaning": "đè nặng, nặng nề",
+   "example": "「煩わしい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “煩わしい”: đè nặng, nặng nề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "召す",
+   "meaning": "kêu gọi, mời gọi lại",
+   "example": "「召す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “召す”: kêu gọi, mời gọi lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偽造",
+   "meaning": "sự bịa đặt, sự làm giả (giấy tờ, văn kiện), việc làm giả",
+   "example": "「偽造」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “偽造”: sự bịa đặt, sự làm giả (giấy tờ, văn kiện), việc làm giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ずらっと",
+   "meaning": "in a line (EN)",
+   "example": "「ずらっと」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ずらっと”: in a line (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "落下",
+   "meaning": "sự rơi, sự ngã",
+   "example": "落下物に注意！",
+   "exampleMeaning": "Chú ý vật rơi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "碁盤",
+   "meaning": "tấm ván",
+   "example": "「碁盤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “碁盤”: tấm ván.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ちやほや",
+   "meaning": "nuông chiều, làm hư",
+   "example": "「ちやほや」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ちやほや”: nuông chiều, làm hư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恐れ入る",
+   "meaning": "nhỏ, bé, chật",
+   "example": "「恐れ入る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “恐れ入る”: nhỏ, bé, chật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年長",
+   "meaning": "sự nhiều tuổi hơn, sự cao cấp hơn",
+   "example": "「年長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年長”: sự nhiều tuổi hơn, sự cao cấp hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "明白",
+   "meaning": "rõ ràng, rành mạch, hiển nhiên",
+   "example": "「明白」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明白”: rõ ràng, rành mạch, hiển nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "割当",
+   "meaning": "sự phân công, sự giao việc (phần việc)",
+   "example": "「割当」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “割当”: sự phân công, sự giao việc (phần việc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "腕前",
+   "meaning": "năng lực, khả năng (làm việc gì)",
+   "example": "「腕前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “腕前”: năng lực, khả năng (làm việc gì).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "滅びる",
+   "meaning": "làm hỏng, làm đổ nát, tàn phá",
+   "example": "「滅びる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “滅びる”: làm hỏng, làm đổ nát, tàn phá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鍛える",
+   "meaning": "tôi (thép... )",
+   "example": "体を鍛えるのが好きなんです。",
+   "exampleMeaning": "Tôi thích tập thể hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "原油",
+   "meaning": "dầu thô",
+   "example": "「原油」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原油”: dầu thô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改まる",
+   "meaning": "hồi phục lại, làm hồi lại",
+   "example": "「改まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “改まる”: hồi phục lại, làm hồi lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "養護",
+   "meaning": "sự bảo vệ, sự bảo hộ, sự che chở",
+   "example": "「養護」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “養護”: sự bảo vệ, sự bảo hộ, sự che chở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "落下物",
+    "に",
+    "注意"
+   ],
+   "reading": "らっかぶつにちゅうい",
+   "meaning": "Chú ý vật rơi!"
+  },
+  {
+   "tokens": [
+    "多額",
+    "の",
+    "金",
+    "が",
+    "その",
+    "橋",
+    "に",
+    "費やされた"
+   ],
+   "reading": "たがくのきんがそのはしについやされた",
+   "meaning": "Một số lượng lớn đã được đổ vào cây cầu đó."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "死後",
+    "の",
+    "こと",
+    "には",
+    "興味",
+    "が",
+    "ない"
+   ],
+   "reading": "わたしはしごのことにはきょうみがない",
+   "meaning": "Tôi không hứng thú với chuyện kiếp sau."
+  },
+  {
+   "tokens": [
+    "私",
+    "が",
+    "知る限り",
+    "彼",
+    "は",
+    "いい",
+    "やつ",
+    "だ"
+   ],
+   "reading": "わたしがしるかぎりかれはいいやつだ",
+   "meaning": "Như tôi đã biết thì anh ta thật sự là một chàng trai tốt bụng."
+  },
+  {
+   "tokens": [
+    "ジョン",
+    "も",
+    "また",
+    "えらい",
+    "選手",
+    "だ",
+    "った"
+   ],
+   "reading": "ジョンもまたえらいせんしゅだった",
+   "meaning": "John cũng là một tuyển thủ giỏi."
+  }
+ ],
+ "issues": []
+}

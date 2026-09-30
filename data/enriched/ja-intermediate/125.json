@@ -1,0 +1,330 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "仕える",
+   "meaning": "phục vụ, phụng sự",
+   "example": "「仕える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕える”: phục vụ, phụng sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無口",
+   "meaning": "tính trầm lặng, tính ít nói",
+   "example": "「無口」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無口”: tính trầm lặng, tính ít nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雛",
+   "meaning": "gà con",
+   "example": "「雛」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雛”: gà con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脅迫",
+   "meaning": "sự đe doạ",
+   "example": "「脅迫」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “脅迫”: sự đe doạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名高い",
+   "meaning": "nổi tiếng, nổi danh, trứ danh",
+   "example": "「名高い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名高い”: nổi tiếng, nổi danh, trứ danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "侵す",
+   "meaning": "xâm lược, xâm chiếm, xâm lấn",
+   "example": "「侵す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “侵す”: xâm lược, xâm chiếm, xâm lấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代用",
+   "meaning": "sự thế, sự thay thế",
+   "example": "「代用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代用”: sự thế, sự thay thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "素朴",
+   "meaning": "tính đơn giản",
+   "example": "「素朴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素朴”: tính đơn giản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教習",
+   "meaning": "sự dạy dỗ, sự rèn luyện",
+   "example": "「教習」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教習”: sự dạy dỗ, sự rèn luyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芸",
+   "meaning": "nghệ thuật",
+   "example": "彼は芸能界に精通している。",
+   "exampleMeaning": "Anh ta tinh thộng giới nghệ sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "迅速",
+   "meaning": "thịt mềm",
+   "example": "「迅速」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “迅速”: thịt mềm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酪農",
+   "meaning": "nghề nuôi sữa",
+   "example": "「酪農」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “酪農”: nghề nuôi sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主演",
+   "meaning": "sao, ngôi sao, tinh tú",
+   "example": "「主演」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主演”: sao, ngôi sao, tinh tú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "海流",
+   "meaning": "dòng chảy đại dương",
+   "example": "「海流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “海流”: dòng chảy đại dương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用件",
+   "meaning": "việc buôn bán, việc kinh doanh",
+   "example": "「用件」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “用件”: việc buôn bán, việc kinh doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前売",
+   "meaning": "bán hàng hóa kỳ hạn",
+   "example": "「前売」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “前売”: bán hàng hóa kỳ hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "返済",
+   "meaning": "sự trả lại",
+   "example": "「返済」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “返済”: sự trả lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本格",
+   "meaning": "sự thích đáng, sự thích hợp",
+   "example": "去年、北京大学で1カ月半の短期留学をしたことがきっかけで、中国語を本格的に身につけ、流暢に話せるようになりたいと思いました。",
+   "exampleMeaning": "Năm ngoái, nhân lúc đi du học ngắn hạn tại đại học Bắc Kinh trong một tháng rưỡi, tôi đã chú tâm học tiếng Trung để có thể nói chuyện trôi chảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "粉末",
+   "meaning": "bột mịn",
+   "example": "「粉末」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “粉末”: bột mịn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "告げる",
+   "meaning": "báo tin cho",
+   "example": "私は私の愛の予言を告げる星座たちの光の数を数えた。",
+   "exampleMeaning": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "隣の",
+    "犬",
+    "は",
+    "ほえて",
+    "ばかり",
+    "います"
+   ],
+   "reading": "となりのいぬはほえてばかりいます",
+   "meaning": "Con chó nhà hàng xóm cứ suốt ngày sủa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "才能",
+    "には",
+    "おそれいった",
+    "よ"
+   ],
+   "reading": "かれのさいのうにはおそれいったよ",
+   "meaning": "Tôi ngưỡng mộ tài năng của anh ấy."
+  },
+  {
+   "tokens": [
+    "はい",
+    "社長",
+    "さん",
+    "と",
+    "話しました"
+   ],
+   "reading": "はいしゃちょうさんとはなしました",
+   "meaning": "Vâng, tôi đã nói chuyện với giám đốc rồi."
+  },
+  {
+   "tokens": [
+    "誰",
+    "が",
+    "この",
+    "絵",
+    "を",
+    "描いた",
+    "のです",
+    "か"
+   ],
+   "reading": "だれがこのえをえがいたのですか",
+   "meaning": "Ai đã vẽ bức tranh này?"
+  },
+  {
+   "tokens": [
+    "あんまり",
+    "心配",
+    "する",
+    "と",
+    "禿げる",
+    "よ"
+   ],
+   "reading": "あんまりしんぱいするとはげるよ",
+   "meaning": "Lo lắng nhiều quá thì sẽ bị hói đầu đấy."
+  }
+ ],
+ "issues": []
+}

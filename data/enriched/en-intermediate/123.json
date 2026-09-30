@@ -1,0 +1,324 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "adaptable",
+   "meaning": "có thể tra vào, có thể lắp vào",
+   "example": "Let's learn the word \"adaptable\".",
+   "exampleMeaning": "Cùng học từ “adaptable”: có thể tra vào, có thể lắp vào.",
+   "emoji": "",
+   "ipa": "/əˈdæptəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wartime",
+   "meaning": "thời chiến",
+   "example": "the shortages of wartime Britain",
+   "exampleMeaning": "Những thiếu thốn của nước Anh trong thời chiến",
+   "emoji": "",
+   "ipa": "/ˈwɔrˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "health care",
+   "meaning": "y tế",
+   "example": "The Canadian health care system is paid for by tax revenue.",
+   "exampleMeaning": "Hệ thống chăm sóc sức khoẻ của Canada được trả bằng nguồn thu từ thuế.",
+   "emoji": "",
+   "ipa": "/ˈhɛlθ ˈkɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "standstill",
+   "meaning": "sự ngừng lại, sự đứng lại",
+   "example": "to come to a standstill",
+   "exampleMeaning": "Ngừng lại; đi đến chỗ bế tắc",
+   "emoji": "",
+   "ipa": "/ˈstændˌstɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accusation",
+   "meaning": "sự kết tội, sự buộc tội",
+   "example": "to be under an accusation of",
+   "exampleMeaning": "Bị kết tội về, bị buộc tội về",
+   "emoji": "",
+   "ipa": "/ˌækjəˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unreliable",
+   "meaning": "không tin cậy được (người)",
+   "example": "Let's learn the word \"unreliable\".",
+   "exampleMeaning": "Cùng học từ “unreliable”: không tin cậy được (người).",
+   "emoji": "",
+   "ipa": "/ˌənriˈlaɪəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dynamic",
+   "meaning": "động",
+   "example": "Let's learn the word \"dynamic\".",
+   "exampleMeaning": "Cùng học từ “dynamic”: động.",
+   "emoji": "",
+   "ipa": "/daɪˈnæmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "penicillin",
+   "meaning": "pênixilin",
+   "example": "Let's learn the word \"penicillin\".",
+   "exampleMeaning": "Cùng học từ “penicillin”: pênixilin.",
+   "emoji": "",
+   "ipa": "/ˌpɛnəˈsɪlən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "devote",
+   "meaning": "hiến dâng, dành hết cho",
+   "example": "to devote one's time to do something",
+   "exampleMeaning": "Dành hết thời gian làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈvoʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "psychology",
+   "meaning": "tâm lý",
+   "example": "Let's learn the word \"psychology\".",
+   "exampleMeaning": "Cùng học từ “psychology”: tâm lý.",
+   "emoji": "",
+   "ipa": "/saɪˈkɑlədʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prestige",
+   "meaning": "uy tín",
+   "example": "Let's learn the word \"prestige\".",
+   "exampleMeaning": "Cùng học từ “prestige”: uy tín.",
+   "emoji": "",
+   "ipa": "/prɛˈstiʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "underwear",
+   "meaning": "quần áo trong, quần áo lót",
+   "example": "Let's learn the word \"underwear\".",
+   "exampleMeaning": "Cùng học từ “underwear”: quần áo trong, quần áo lót.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌwɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "domestic",
+   "meaning": "gia đình, (thuộc) việc nhà, nội trợ",
+   "example": "Let's learn the word \"domestic\".",
+   "exampleMeaning": "Cùng học từ “domestic”: gia đình, (thuộc) việc nhà, nội trợ.",
+   "emoji": "",
+   "ipa": "/dəˈmɛstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "susceptible",
+   "meaning": "dễ bị",
+   "example": "passage susceptible of another interpretation",
+   "exampleMeaning": "Đoạn văn (có thể) hiểu cách khác cũng được",
+   "emoji": "",
+   "ipa": "/səˈsɛptəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "revival",
+   "meaning": "sự phục hồi (kinh tế)",
+   "example": "the revival of an old customs",
+   "exampleMeaning": "Sự phục hồi một tục lệ cũ",
+   "emoji": "",
+   "ipa": "/riˈvaɪvəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "naval",
+   "meaning": "hải quân, (thuộc) thuỷ quân",
+   "example": "Let's learn the word \"naval\".",
+   "exampleMeaning": "Cùng học từ “naval”: hải quân, (thuộc) thuỷ quân.",
+   "emoji": "",
+   "ipa": "/ˈneɪvəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seller",
+   "meaning": "người bán, người phát hàng",
+   "example": "Let's learn the word \"seller\".",
+   "exampleMeaning": "Cùng học từ “seller”: người bán, người phát hàng.",
+   "emoji": "",
+   "ipa": "/ˈsɛlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "penguin",
+   "meaning": "chim cánh cụt",
+   "example": "Let's learn the word \"penguin\".",
+   "exampleMeaning": "Cùng học từ “penguin”: chim cánh cụt.",
+   "emoji": "🐧",
+   "ipa": "/ˈpɛŋɡwən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "evaluation",
+   "meaning": "sự ước lượng",
+   "example": "Let's learn the word \"evaluation\".",
+   "exampleMeaning": "Cùng học từ “evaluation”: sự ước lượng.",
+   "emoji": "",
+   "ipa": "/iˌvæljuˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "edit",
+   "meaning": "sự đổi, sự thay đổi, sự biến đổi",
+   "example": "Let's learn the word \"edit\".",
+   "exampleMeaning": "Cùng học từ “edit”: sự đổi, sự thay đổi, sự biến đổi.",
+   "emoji": "",
+   "ipa": "/ˈɛdɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Verbal",
+    "agreements",
+    "are",
+    "unreliable"
+   ],
+   "reading": "",
+   "meaning": "Thỏa thuận miệng thì không đáng tin."
+  },
+  {
+   "tokens": [
+    "The",
+    "Canadian",
+    "health",
+    "care",
+    "system",
+    "is",
+    "paid",
+    "for",
+    "by",
+    "tax",
+    "revenue"
+   ],
+   "reading": "",
+   "meaning": "Hệ thống chăm sóc sức khoẻ của Canada được trả bằng nguồn thu từ thuế."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "allergic",
+    "to",
+    "penicillin"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị dị ứng với penicillin."
+  },
+  {
+   "tokens": [
+    "We",
+    "felt",
+    "threatened"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi cảm thấy bị đe dọa."
+  },
+  {
+   "tokens": [
+    "I",
+    "wear",
+    "boxers"
+   ],
+   "reading": "",
+   "meaning": "Tôi mặc quần đùi"
+  }
+ ],
+ "issues": []
+}

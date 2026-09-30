@@ -1,0 +1,330 @@
+{
+ "lesson": 115,
+ "draft": true,
+ "words": [
+  {
+   "term": "考场",
+   "meaning": "trường thi",
+   "example": "我们来学“考场”这个词。",
+   "exampleMeaning": "Cùng học từ “考场”: trường thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎochǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高科技",
+   "meaning": "công nghệ cao",
+   "example": "我们来学“高科技”这个词。",
+   "exampleMeaning": "Cùng học từ “高科技”: công nghệ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāokējì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "圆珠笔",
+   "meaning": "bút bi",
+   "example": "我们来学“圆珠笔”这个词。",
+   "exampleMeaning": "Cùng học từ “圆珠笔”: bút bi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánzhūbǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "两手",
+   "meaning": "bản lĩnh",
+   "example": "领导工作得两手抓。",
+   "exampleMeaning": "Làm công tác lãnh đạo phải có biện pháp nắm bắt vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎngshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赶忙",
+   "meaning": "gấp",
+   "example": "趁熄灯前赶忙把日记写完。",
+   "exampleMeaning": "Tranh thủ trước khi tắt đèn gấp rút viết cho xong nhật ký.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnmáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "城乡",
+   "meaning": "thành thị và nông thôn",
+   "example": "我们来学“城乡”这个词。",
+   "exampleMeaning": "Cùng học từ “城乡”: thành thị và nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出访",
+   "meaning": "đi nước ngoài",
+   "example": "我们来学“出访”这个词。",
+   "exampleMeaning": "Cùng học từ “出访”: đi nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūfǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用法",
+   "meaning": "cách dùng",
+   "example": "商品用法可看说明书。",
+   "exampleMeaning": "Cách dùng của hàng hoá có thể xem sách hướng dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "果树",
+   "meaning": "cây ăn quả",
+   "example": "我们来学“果树”这个词。",
+   "exampleMeaning": "Cùng học từ “果树”: cây ăn quả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǒshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名胜",
+   "meaning": "danh lam thắng cảnh",
+   "example": "这次到北京来，一方面想游览北京的名胜古迹，另一方面也想看看多年不见的老朋友。",
+   "exampleMeaning": "Lần này đến Bắc Kinh, một mặt là muốn du ngoạn các danh lam thắng cảnh của Bắc Kinh, mặt khác thì là cũng muốn gặp những người bạn cũ đã lâu không gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngshèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "蓝领",
+   "meaning": "đồ công nhân",
+   "example": "我们来学“蓝领”这个词。",
+   "exampleMeaning": "Cùng học từ “蓝领”: đồ công nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lánlǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家电",
+   "meaning": "household electric appliance (EN)",
+   "example": "我们来学“家电”这个词。",
+   "exampleMeaning": "Cùng học từ “家电”: household electric appliance (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiādiàn",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好容易",
+   "meaning": "khó khăn",
+   "example": "我们好容易才爬到山顶。",
+   "exampleMeaning": "Vất vả lắm chúng tôi mới leo tới đỉnh núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoróngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卧铺",
+   "meaning": "giường nằm",
+   "example": "我们来学“卧铺”这个词。",
+   "exampleMeaning": "Cùng học từ “卧铺”: giường nằm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wòpù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "司长",
+   "meaning": "trưởng Văn phòng",
+   "example": "我们来学“司长”这个词。",
+   "exampleMeaning": "Cùng học từ “司长”: trưởng Văn phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "园地",
+   "meaning": "vườn",
+   "example": "农业园地",
+   "exampleMeaning": "Khu vườn nông nghiệp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuándì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "让座",
+   "meaning": "nhường chỗ",
+   "example": "电车上青年人都给老年人让座。",
+   "exampleMeaning": "Các cậu thanh niên trên xe điện đều nhường chỗ cho người già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ràngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文娱",
+   "meaning": "vui chơi giải trí",
+   "example": "文娱活动",
+   "exampleMeaning": "Hoạt động vui chơi giải trí",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wényú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "车号",
+   "meaning": "số xe",
+   "example": "我们来学“车号”这个词。",
+   "exampleMeaning": "Cùng học từ “车号”: số xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口试",
+   "meaning": "thi vấn đáp",
+   "example": "我们来学“口试”这个词。",
+   "exampleMeaning": "Cùng học từ “口试”: thi vấn đáp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒushì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "已经",
+    "没",
+    "人",
+    "来",
+    "拜访",
+    "我",
+    "了"
+   ],
+   "reading": "yǐjīng méi rén lái bàifǎng wǒ le",
+   "meaning": "Không ai tới thăm tôi nữa."
+  },
+  {
+   "tokens": [
+    "她",
+    "将",
+    "必须",
+    "为",
+    "大家",
+    "做饭"
+   ],
+   "reading": "tā jiāng bìxū wèi dàjiā zuòfàn",
+   "meaning": "Cô ấy sẽ phải nấu cơm cho tất cả mọi người."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  },
+  {
+   "tokens": [
+    "我们",
+    "已经",
+    "习惯",
+    "寒冷",
+    "了"
+   ],
+   "reading": "wǒmen yǐjīng xíguàn hánlěng le",
+   "meaning": "Chúng tôi đã quen với cái lạnh rồi."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  }
+ ],
+ "issues": []
+}

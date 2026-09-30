@@ -1,0 +1,323 @@
+{
+ "lesson": 150,
+ "draft": true,
+ "words": [
+  {
+   "term": "转动",
+   "meaning": "quay",
+   "example": "转动辘轳把儿。",
+   "exampleMeaning": "Làm quay ròng rọc kéo nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàndòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "格外",
+   "meaning": "vô cùng",
+   "example": "久别重逢，大家格外亲热。",
+   "exampleMeaning": "Lâu ngày mới gặp, mọi người vô cùng nồng nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "géwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "离不开",
+   "meaning": "không thể tách rời",
+   "example": "我们来学“离不开”这个词。",
+   "exampleMeaning": "Cùng học từ “离不开”: không thể tách rời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "líbukāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "列为",
+   "meaning": "được phân loại là",
+   "example": "我们来学“列为”这个词。",
+   "exampleMeaning": "Cùng học từ “列为”: được phân loại là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "讲座",
+   "meaning": "toạ đàm",
+   "example": "汉语拼音讲座。",
+   "exampleMeaning": "Toạ đàm về phiên âm Hán Ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海水",
+   "meaning": "nước biển",
+   "example": "我们来学“海水”这个词。",
+   "exampleMeaning": "Cùng học từ “海水”: nước biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎishuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "动摇",
+   "meaning": "lung lay",
+   "example": "环境再艰苦也动摇不了这批青年征服自然的决心。",
+   "exampleMeaning": "Có gian khổ hơn nữa cũng không thể làm lung lay quyết tâm chinh phục thiên nhiên của thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngyáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "体操",
+   "meaning": "thể thao",
+   "example": "我们来学“体操”这个词。",
+   "exampleMeaning": "Cùng học từ “体操”: thể thao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐcāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大爷",
+   "meaning": "bác",
+   "example": "我们来学“大爷”这个词。",
+   "exampleMeaning": "Cùng học từ “大爷”: bác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàye",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "秋季",
+   "meaning": "mùa thu",
+   "example": "我们来学“秋季”这个词。",
+   "exampleMeaning": "Cùng học từ “秋季”: mùa thu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiūjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "零食",
+   "meaning": "ăn quà vặt",
+   "example": "不吃零食是好习惯。",
+   "exampleMeaning": "Không ăn quà vặt là thói quen tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "盘子",
+   "meaning": "khay",
+   "example": "我们来学“盘子”这个词。",
+   "exampleMeaning": "Cùng học từ “盘子”: khay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pánzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表扬",
+   "meaning": "tuyên dương",
+   "example": "他在厂里多次受到表扬。",
+   "exampleMeaning": "Anh ấy được nhà máy tuyên dương nhiều lần",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎoyáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扩展",
+   "meaning": "mở rộng",
+   "example": "五年内全省林地将扩展到一千万亩。",
+   "exampleMeaning": "Trong vòng 5 năm, đất rừng trong toàn tỉnh đã mở rộng thêm 1000 mẫu ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuòzhǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "西瓜",
+   "meaning": "dưa hấu",
+   "example": "我们来学“西瓜”这个词。",
+   "exampleMeaning": "Cùng học từ “西瓜”: dưa hấu.",
+   "emoji": "🍉",
+   "ipa": "",
+   "pinyin": "xīguā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "痛快",
+   "meaning": "khoái",
+   "example": "队长痛快地答应了我们的要求。",
+   "exampleMeaning": "Đội trưởng thẳng thắn chấp nhận lời đề nghị của chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòngkuài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "平稳",
+   "meaning": "ổn định",
+   "example": "这辆车又快又平稳。",
+   "exampleMeaning": "Chiếc xe này chạy vừa nhanh lại vừa êm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngwěn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "家务",
+   "meaning": "việc nhà",
+   "example": "操持家务。",
+   "exampleMeaning": "Trông coi việc nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海鲜",
+   "meaning": "hải sản",
+   "example": "我们来学“海鲜”这个词。",
+   "exampleMeaning": "Cùng học từ “海鲜”: hải sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎixiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一般来说",
+   "meaning": "thông thường mà nói, nói chung",
+   "example": "我们来学“一般来说”这个词。",
+   "exampleMeaning": "Cùng học từ “一般来说”: thông thường mà nói, nói chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yībānláishuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "还",
+    "没有",
+    "洗头"
+   ],
+   "reading": "wǒ hái méiyǒu xǐtóu",
+   "meaning": "Tôi chưa gội đầu."
+  },
+  {
+   "tokens": [
+    "我",
+    "有",
+    "一",
+    "台",
+    "电脑"
+   ],
+   "reading": "wǒ yǒu yī tái diànnǎo",
+   "meaning": "Tôi có một chiếc máy vi tính."
+  },
+  {
+   "tokens": [
+    "大家",
+    "都",
+    "喜欢",
+    "她"
+   ],
+   "reading": "dàjiā dōu xǐhuan tā",
+   "meaning": "Tất cả mọi người đều thích cô ấy."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "的",
+    "字典"
+   ],
+   "reading": "zhè shì wǒ de zìdiǎn",
+   "meaning": "Đây là từ điển của tôi."
+  },
+  {
+   "tokens": [
+    "他",
+    "赢",
+    "了",
+    "三",
+    "等",
+    "奬"
+   ],
+   "reading": "tā yíng le sān děng jiǎng",
+   "meaning": "Anh ấy đã giành được giải ba."
+  }
+ ],
+ "issues": []
+}

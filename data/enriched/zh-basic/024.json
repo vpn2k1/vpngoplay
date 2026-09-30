@@ -1,0 +1,315 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "洗手间",
+   "meaning": "phòng rửa mặt",
+   "example": "我们来学“洗手间”这个词。",
+   "exampleMeaning": "Cùng học từ “洗手间”: phòng rửa mặt.",
+   "emoji": "🚽",
+   "ipa": "",
+   "pinyin": "xǐshǒujiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下课",
+   "meaning": "tan học",
+   "example": "我们来学“下课”这个词。",
+   "exampleMeaning": "Cùng học từ “下课”: tan học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "请假",
+   "meaning": "xin nghỉ",
+   "example": "因病请假一天。",
+   "exampleMeaning": "Vì bệnh xin nghỉ một ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐngjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "米饭",
+   "meaning": "cơm tẻ",
+   "example": "我们来学“米饭”这个词。",
+   "exampleMeaning": "Cùng học từ “米饭”: cơm tẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǐfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "里边",
+   "meaning": "trong",
+   "example": "他一年里边没有请过一次假。",
+   "exampleMeaning": "Suốt cả năm cậu ấy chẳng xin nghỉ ngày nào cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外语",
+   "meaning": "tiếng nước ngoài",
+   "example": "我们来学“外语”这个词。",
+   "exampleMeaning": "Cùng học từ “外语”: tiếng nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàiyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没事儿",
+   "meaning": "thời gian rảnh",
+   "example": "我们来学“没事儿”这个词。",
+   "exampleMeaning": "Cùng học từ “没事儿”: thời gian rảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méishìr",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一块儿",
+   "meaning": "cùng",
+   "example": "他们一块儿参军。",
+   "exampleMeaning": "Họ cùng đi nghĩa vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīkuàir",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "书包",
+   "meaning": "túi sách",
+   "example": "我们来学“书包”这个词。",
+   "exampleMeaning": "Cùng học từ “书包”: túi sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūbāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小学生",
+   "meaning": "học trò nhỏ",
+   "example": "我们来学“小学生”这个词。",
+   "exampleMeaning": "Cùng học từ “小学生”: học trò nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoxuéshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外边",
+   "meaning": "ngoài",
+   "example": "院子外边新栽了一些树。",
+   "exampleMeaning": "Ngoài sân trồng một số cây ăn quả mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàibian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中学生",
+   "meaning": "học sinh trung học",
+   "example": "我们来学“中学生”这个词。",
+   "exampleMeaning": "Cùng học từ “中学生”: học sinh trung học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngxuéshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本子",
+   "meaning": "vở",
+   "example": "改本子（评改作业）",
+   "exampleMeaning": "Sửa vở bài tập",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "课本",
+   "meaning": "sách giáo khoa, sách học, điển hình",
+   "example": "数学课本。",
+   "exampleMeaning": "Sách toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kèběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "后边",
+   "meaning": "phía sau",
+   "example": "我们来学“后边”这个词。",
+   "exampleMeaning": "Cùng học từ “后边”: phía sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòubian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "西边",
+   "meaning": "phía tây",
+   "example": "我们来学“西边”这个词。",
+   "exampleMeaning": "Cùng học từ “西边”: phía tây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xībiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上边",
+   "meaning": "bên trên",
+   "example": "我们来学“上边”这个词。",
+   "exampleMeaning": "Cùng học từ “上边”: bên trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打车",
+   "meaning": "bắt xe, gọi xe taxi",
+   "example": "我们来学“打车”这个词。",
+   "exampleMeaning": "Cùng học từ “打车”: bắt xe, gọi xe taxi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "东边",
+   "meaning": "đông",
+   "example": "我们来学“东边”这个词。",
+   "exampleMeaning": "Cùng học từ “东边”: đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "包子",
+   "meaning": "bánh bao",
+   "example": "我们来学“包子”这个词。",
+   "exampleMeaning": "Cùng học từ “包子”: bánh bao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāozi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "不",
+    "知道"
+   ],
+   "reading": "wǒ bù zhīdào",
+   "meaning": "Tôi không biết."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "担心"
+   ],
+   "reading": "bù yào dānxīn",
+   "meaning": "Đừng lo."
+  },
+  {
+   "tokens": [
+    "那",
+    "又",
+    "怎样"
+   ],
+   "reading": "nà yòu zěnyàng",
+   "meaning": "Thì sao?"
+  },
+  {
+   "tokens": [
+    "我",
+    "吃",
+    "过",
+    "了"
+   ],
+   "reading": "wǒ chī guo le",
+   "meaning": "Tôi đã ăn rồi."
+  },
+  {
+   "tokens": [
+    "好",
+    "疼",
+    "停下"
+   ],
+   "reading": "hǎo téng tíngxià",
+   "meaning": "Đau quá! Dừng lại!"
+  }
+ ],
+ "issues": []
+}

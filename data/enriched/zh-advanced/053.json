@@ -1,0 +1,345 @@
+{
+ "lesson": 53,
+ "draft": true,
+ "words": [
+  {
+   "term": "筹集",
+   "meaning": "tập trung",
+   "example": "筹集资金。",
+   "exampleMeaning": "Tập trung tiền vốn; góp vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóují",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "借用",
+   "meaning": "mượn, mượn dùng, mượn xài",
+   "example": "借用一下你的铅笔。",
+   "exampleMeaning": "Mượn bút chì của anh một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jièyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "派遣",
+   "meaning": "cử",
+   "example": "派遣代表团访问各友好国家。",
+   "exampleMeaning": "Cử đoàn đại biểu đi thăm viếng các nước bằng hữu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pàiqiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "揪",
+   "meaning": "níu",
+   "example": "揪着绳子往上爬。",
+   "exampleMeaning": "Níu dây thừng bò lên trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "折扣",
+   "meaning": "chiết khấu",
+   "example": "我们来学“折扣”这个词。",
+   "exampleMeaning": "Cùng học từ “折扣”: chiết khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhékòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "舅舅",
+   "meaning": "cậu",
+   "example": "我们来学“舅舅”这个词。",
+   "exampleMeaning": "Cùng học từ “舅舅”: cậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùjiu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "时速",
+   "meaning": "tốc độ mỗi giờ",
+   "example": "我们来学“时速”这个词。",
+   "exampleMeaning": "Cùng học từ “时速”: tốc độ mỗi giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shísù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首饰",
+   "meaning": "đồ trang sức",
+   "example": "我们来学“首饰”这个词。",
+   "exampleMeaning": "Cùng học từ “首饰”: đồ trang sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒushì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "锡",
+   "meaning": "thiếc: nguyên tố hóa học trong bảng tuần hoàn nguyên tố có ký hiệu Sn và số hiệu nguyên tử bằng 50",
+   "example": "我们来学“锡”这个词。",
+   "exampleMeaning": "Cùng học từ “锡”: thiếc: nguyên tố hóa học trong bảng tuần hoàn nguyên tố có ký hiệu Sn và số hiệu nguyên tử bằng 50.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xī",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "深受",
+   "meaning": "nhận được một cách không nhỏ",
+   "example": "我们来学“深受”这个词。",
+   "exampleMeaning": "Cùng học từ “深受”: nhận được một cách không nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不容",
+   "meaning": "không được",
+   "example": "John 這人不容易說服。",
+   "exampleMeaning": "Thuyết phục John là một việc khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "临近",
+   "meaning": "gần sát",
+   "example": "他住在临近太湖的一所疗养院里。",
+   "exampleMeaning": "Anh ấy ở trong trại điều dưỡng, gần sát bên Thái Hồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "架子",
+   "meaning": "ra vẻ",
+   "example": "党委书记一点架子都没有。",
+   "exampleMeaning": "Thư ký đảng uỷ không có một chút gì tỏ ra kiêu ngạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一如既往",
+   "meaning": "trước sau như một",
+   "example": "中国将一如既往，坚持改革开放。",
+   "exampleMeaning": "Trung Quốc trước sau như một, kiên quyết cải cách mở cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīrújìwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "安宁",
+   "meaning": "an ninh",
+   "example": "我们来学“安宁”这个词。",
+   "exampleMeaning": "Cùng học từ “安宁”: an ninh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānníng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "时不时",
+   "meaning": "thường thường",
+   "example": "我们来学“时不时”这个词。",
+   "exampleMeaning": "Cùng học từ “时不时”: thường thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíbùshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卷入",
+   "meaning": "bị lôi cuốn vào",
+   "example": "我们来学“卷入”这个词。",
+   "exampleMeaning": "Cùng học từ “卷入”: bị lôi cuốn vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juǎnrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "契约",
+   "meaning": "khế ước",
+   "example": "我们来学“契约”这个词。",
+   "exampleMeaning": "Cùng học từ “契约”: khế ước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìyuē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "携手",
+   "meaning": "tay nắm tay",
+   "example": "携手并肩。",
+   "exampleMeaning": "Kề vai sát cánh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiéshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "归还",
+   "meaning": "trả",
+   "example": "向图书馆借书，要按时归还。",
+   "exampleMeaning": "Mượn sách ở thư viện, nên trả lại đúng hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīhuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "很",
+    "抱歉",
+    "用",
+    "这种",
+    "方式",
+    "把",
+    "你",
+    "请",
+    "来"
+   ],
+   "reading": "wǒ hěn bàoqiàn yòng zhèzhǒng fāngshì bǎ nǐ qǐng lái",
+   "meaning": "Tôi xin lỗi vì đã dùng cách này để đưa anh đến."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  }
+ ],
+ "issues": []
+}

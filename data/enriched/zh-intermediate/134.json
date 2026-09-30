@@ -1,0 +1,337 @@
+{
+ "lesson": 134,
+ "draft": true,
+ "words": [
+  {
+   "term": "图像",
+   "meaning": "tranh ảnh",
+   "example": "我们来学“图像”这个词。",
+   "exampleMeaning": "Cùng học từ “图像”: tranh ảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "túxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逗",
+   "meaning": "buồn cười, ngồ ngộ, khôi hài",
+   "example": "她是一个爱说爱逗的姑娘。",
+   "exampleMeaning": "Cô ấy là cô gái thích nói thích cười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "飘",
+   "meaning": "lung lay",
+   "example": "外面飘着雪花。",
+   "exampleMeaning": "Bên ngoài hoa tuyết bay lượn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清除",
+   "meaning": "quét sạch",
+   "example": "清除路上的积雪。",
+   "exampleMeaning": "Quét sạch tuyết trên đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngchú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挣扎",
+   "meaning": "ngọ ngoạy",
+   "example": "拼命挣扎",
+   "exampleMeaning": "Ra sức vẫy vùng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngzhá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "履行",
+   "meaning": "thực hiện",
+   "example": "履行诺言。",
+   "exampleMeaning": "Thực hiện lời hứa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捏",
+   "meaning": "nặn",
+   "example": "把米里的虫子捏出来。",
+   "exampleMeaning": "Nhặt sâu trong gạo ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niē",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扫描",
+   "meaning": "sự phân hình",
+   "example": "我们来学“扫描”这个词。",
+   "exampleMeaning": "Cùng học từ “扫描”: sự phân hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǎomiáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理念",
+   "meaning": "triết lý",
+   "example": "我们来学“理念”这个词。",
+   "exampleMeaning": "Cùng học từ “理念”: triết lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐniàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "频率",
+   "meaning": "tần số",
+   "example": "我们来学“频率”这个词。",
+   "exampleMeaning": "Cùng học từ “频率”: tần số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínlǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "报复",
+   "meaning": "trả thù",
+   "example": "我们来学“报复”这个词。",
+   "exampleMeaning": "Cùng học từ “报复”: trả thù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàofù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纤维",
+   "meaning": "sợi",
+   "example": "我们来学“纤维”这个词。",
+   "exampleMeaning": "Cùng học từ “纤维”: sợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "护理",
+   "meaning": "hộ lý",
+   "example": "精心护理小麦越冬。",
+   "exampleMeaning": "Bảo vệ cẩn thận lúa mì qua mùa đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hùlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "采",
+   "meaning": "cuốc (đất... )",
+   "example": "我们来学“采”这个词。",
+   "exampleMeaning": "Cùng học từ “采”: cuốc (đất... ).",
+   "emoji": "⛏",
+   "ipa": "",
+   "pinyin": "cǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "罐",
+   "meaning": "bi đông, lon, vại",
+   "example": "茶叶罐儿。",
+   "exampleMeaning": "Hộp trà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提议",
+   "meaning": "đề nghị",
+   "example": "有人提议，今天暂时休会。",
+   "exampleMeaning": "Có người đề nghị, hôm nay tạm nghỉ họp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "众人",
+   "meaning": "mọi người",
+   "example": "众人拾柴火焰高(比喻人多力量大)。",
+   "exampleMeaning": "Người đông sức lớn; đông tay hay việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "当晚",
+   "meaning": "tối hôm đó",
+   "example": "早晨进城，当晚就赶回来了。",
+   "exampleMeaning": "Sáng sớm vào thành, tối hôm đó trở về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngwǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "取决于",
+   "meaning": "quyết định bởi",
+   "example": "我们来学“取决于”这个词。",
+   "exampleMeaning": "Cùng học từ “取决于”: quyết định bởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔjuéyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "轮胎",
+   "meaning": "săm lốp xe",
+   "example": "我们来学“轮胎”这个词。",
+   "exampleMeaning": "Cùng học từ “轮胎”: săm lốp xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lúntāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "既然",
+    "已经",
+    "知道",
+    "了",
+    "还",
+    "问",
+    "什么"
+   ],
+   "reading": "nǐ jìrán yǐjīng zhīdào le hái wèn shénme",
+   "meaning": "Mày đã biết rồi còn phải hỏi gì nữa?"
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  },
+  {
+   "tokens": [
+    "他",
+    "提出",
+    "改革",
+    "研究",
+    "方法",
+    "的",
+    "意见"
+   ],
+   "reading": "tā tíchū gǎigé yánjiū fāngfǎ de yìjiàn",
+   "meaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+  },
+  {
+   "tokens": [
+    "他们",
+    "昨天",
+    "乘",
+    "巴士",
+    "去",
+    "了",
+    "动物园"
+   ],
+   "reading": "tāmen zuótiān chéng bāshì qù le dòngwùyuán",
+   "meaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt."
+  }
+ ],
+ "issues": []
+}

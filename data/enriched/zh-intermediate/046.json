@@ -1,0 +1,346 @@
+{
+ "lesson": 46,
+ "draft": true,
+ "words": [
+  {
+   "term": "有毒",
+   "meaning": "độc",
+   "example": "我们来学“有毒”这个词。",
+   "exampleMeaning": "Cùng học từ “有毒”: độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒudú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "调动",
+   "meaning": "điều động",
+   "example": "调动群众的生产积极性。",
+   "exampleMeaning": "Động viên tính tích cực sản xuất của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàodòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "采购",
+   "meaning": "mua (cho cơ quan xí nghiệp)",
+   "example": "他在食堂当采购。",
+   "exampleMeaning": "Anh ấy là nhân viên mua hàng cho nhà ăn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎigòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "牛仔裤",
+   "meaning": "quần bò, quần jeans",
+   "example": "我们来学“牛仔裤”这个词。",
+   "exampleMeaning": "Cùng học từ “牛仔裤”: quần bò, quần jeans.",
+   "emoji": "👖",
+   "ipa": "",
+   "pinyin": "niúzǎikù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注视",
+   "meaning": "nhìn chăm chú",
+   "example": "他目不转睛地注视着窗外。",
+   "exampleMeaning": "Anh ấy đăm đắm nhìn ra ngoài cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "称号",
+   "meaning": "danh hiệu",
+   "example": "他获得了先进工作者的称号。",
+   "exampleMeaning": "Anh ta đã đạt được danh hiệu lao động tiên tiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēnghào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "叉",
+   "meaning": "cái nĩa, cái chĩa (dùng để gảy rơm...), cái chĩa (để hất rơm, cỏ khô... )",
+   "example": "我们来学“叉”这个词。",
+   "exampleMeaning": "Cùng học từ “叉”: cái nĩa, cái chĩa (dùng để gảy rơm...), cái chĩa (để hất rơm, cỏ khô... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chā",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "墙壁",
+   "meaning": "tường",
+   "example": "我们来学“墙壁”这个词。",
+   "exampleMeaning": "Cùng học từ “墙壁”: tường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仍旧",
+   "meaning": "như trước",
+   "example": "他虽然遇到许多困难，可是意志仍旧那样坚强。",
+   "exampleMeaning": "Mặc dù anh ấy gặp nhiều khó khăn, nhưng ý chí vẫn kiên cường như trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "réngjiù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预备",
+   "meaning": "chuẩn bị",
+   "example": "春节你预备到哪儿去玩儿?",
+   "exampleMeaning": "Dịp tết bạn dự định đi đâu chơi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùbèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "斜",
+   "meaning": "nghiêng, chéo, chếch",
+   "example": "斜 着身体坐下。",
+   "exampleMeaning": "Người mình ngồi xuống",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xié",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有害",
+   "meaning": "tai hại",
+   "example": "有害的习惯",
+   "exampleMeaning": "Thói quen tai hại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuhài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "看成",
+   "meaning": "coi là",
+   "example": "我们来学“看成”这个词。",
+   "exampleMeaning": "Cùng học từ “看成”: coi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "启发",
+   "meaning": "dẫn dắt",
+   "example": "启发群众的积极性。",
+   "exampleMeaning": "Khơi dậy tinh thần tích cực của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐfā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转化",
+   "meaning": "chuyển hoá",
+   "example": "向反面转化",
+   "exampleMeaning": "Thay đổi mặt trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乙",
+   "meaning": "b",
+   "example": "我们来学“乙”这个词。",
+   "exampleMeaning": "Cùng học từ “乙”: b.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "梨",
+   "meaning": "quả lê",
+   "example": "我们来学“梨”这个词。",
+   "exampleMeaning": "Cùng học từ “梨”: quả lê.",
+   "emoji": "🍐",
+   "ipa": "",
+   "pinyin": "lí",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "郊区",
+   "meaning": "vùng ngoại thành",
+   "example": "我们来学“郊区”这个词。",
+   "exampleMeaning": "Cùng học từ “郊区”: vùng ngoại thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有利于",
+   "meaning": "có lợi cho",
+   "example": "我们来学“有利于”这个词。",
+   "exampleMeaning": "Cùng học từ “有利于”: có lợi cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒulìyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "时常",
+   "meaning": "thường thường",
+   "example": "我们来学“时常”这个词。",
+   "exampleMeaning": "Cùng học từ “时常”: thường thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shícháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  },
+  {
+   "tokens": [
+    "既然",
+    "你们",
+    "这么",
+    "说",
+    "那",
+    "让",
+    "我",
+    "再",
+    "想",
+    "想"
+   ],
+   "reading": "jìrán nǐmen zhème shuō nà ràng wǒ zài xiǎng xiǎng",
+   "meaning": "Các cậu đã nói thế, để tớ nghĩ xem đã."
+  },
+  {
+   "tokens": [
+    "孩子",
+    "你",
+    "为什么",
+    "哭",
+    "呀",
+    "说",
+    "给",
+    "我",
+    "听",
+    "听"
+   ],
+   "reading": "háizi nǐ wèishénme kū ya shuō gěi wǒ tīng tīng",
+   "meaning": "Làm sao con khóc? Nói cho ta nghe."
+  },
+  {
+   "tokens": [
+    "事先",
+    "打",
+    "个",
+    "招呼",
+    "别",
+    "叫",
+    "我",
+    "临时",
+    "抓瞎"
+   ],
+   "reading": "shìxiān dǎ gè zhāohu bié jiào wǒ línshí zhuāxiā",
+   "meaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng."
+  },
+  {
+   "tokens": [
+    "办事",
+    "的",
+    "时候",
+    "走后门",
+    "是",
+    "很",
+    "不",
+    "好",
+    "的"
+   ],
+   "reading": "bànshì de shíhou zǒuhòumén shì hěn bù hǎo de",
+   "meaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt."
+  }
+ ],
+ "issues": []
+}

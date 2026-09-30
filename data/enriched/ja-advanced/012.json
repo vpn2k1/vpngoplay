@@ -1,0 +1,321 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "盛大",
+   "meaning": "rất quan trọng, rất lớn",
+   "example": "「盛大」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盛大”: rất quan trọng, rất lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相応",
+   "meaning": "sự hợp, sự thích hợp",
+   "example": "「相応」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “相応”: sự hợp, sự thích hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気風",
+   "meaning": "tính nết, tính cách",
+   "example": "「気風」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気風”: tính nết, tính cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着飾る",
+   "meaning": "to dress up (EN)",
+   "example": "私たちの先生は美人であったが、着飾るような人ではなかった。",
+   "exampleMeaning": "Cô giáo của chúng là một người đẹp nhưng lại không phải là típ người mặc đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "炭素",
+   "meaning": "cacbon",
+   "example": "二酸化炭素の量は１０％増加している。",
+   "exampleMeaning": "Lượng khí CO2 đã tăng 10 phần trăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "身近",
+   "meaning": "thuộc gia đình",
+   "example": "「身近」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “身近”: thuộc gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一別",
+   "meaning": "sự chia ly, sự chia tay, sự từ biệt",
+   "example": "「一別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一別”: sự chia ly, sự chia tay, sự từ biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "概説",
+   "meaning": "nét ngoài, đường nét",
+   "example": "「概説」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “概説”: nét ngoài, đường nét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風車",
+   "meaning": "cối xay gió",
+   "example": "「風車」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風車”: cối xay gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "固定",
+   "meaning": "sự đóng chặt vào, sự làm cho dính lại",
+   "example": "「固定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “固定”: sự đóng chặt vào, sự làm cho dính lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "充実",
+   "meaning": "sự đầy đủ",
+   "example": "「充実」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “充実”: sự đầy đủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "駆けっこ",
+   "meaning": "nòi",
+   "example": "「駆けっこ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “駆けっこ”: nòi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "美術",
+   "meaning": "mỹ thuật, nghệ thuật tạo hình",
+   "example": "この美術館は訪問に値する。",
+   "exampleMeaning": "Bảo tàng này đáng để ghé thăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "明瞭",
+   "meaning": "sự trong (nước... )",
+   "example": "「明瞭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明瞭”: sự trong (nước... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "且つ",
+   "meaning": "còn, hãy còn, còn nữa",
+   "example": "「且つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “且つ”: còn, hãy còn, còn nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凝らす",
+   "meaning": "tập trung",
+   "example": "「凝らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “凝らす”: tập trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幹",
+   "meaning": "thân (cây, cột, người",
+   "example": "「幹」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “幹”: thân (cây, cột, người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "親父",
+   "meaning": "cha, bố",
+   "example": "「親父」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “親父”: cha, bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "効き目",
+   "meaning": "kết quả",
+   "example": "「効き目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “効き目”: kết quả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "意向",
+   "meaning": "ý định, mục đích",
+   "example": "「意向」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “意向”: ý định, mục đích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "美術",
+    "に",
+    "凝っている",
+    "わけ",
+    "でもない"
+   ],
+   "reading": "びじゅつにこっているわけでもない",
+   "meaning": "Tôi không quá đam mê mỹ thuật."
+  },
+  {
+   "tokens": [
+    "歯磨き",
+    "を",
+    "し",
+    "なさい"
+   ],
+   "reading": "はみがきをしなさい",
+   "meaning": "Đánh răng đi."
+  },
+  {
+   "tokens": [
+    "日本語",
+    "が",
+    "話せます",
+    "か"
+   ],
+   "reading": "にほんごがはなせますか",
+   "meaning": "Ông có nói tiếng Nhật không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "落ち込んでいる"
+   ],
+   "reading": "かれはおちこんでいる",
+   "meaning": "Anh ấy đang suy sụp."
+  },
+  {
+   "tokens": [
+    "台風",
+    "で",
+    "川",
+    "が",
+    "氾濫",
+    "した"
+   ],
+   "reading": "たいふうでかわがはんらんした",
+   "meaning": "Cơn bão làm nước sông bị tràn ra."
+  }
+ ],
+ "issues": []
+}

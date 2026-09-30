@@ -1,0 +1,178 @@
+{
+ "id": "ja-idioms-yoji",
+ "lang": "ja",
+ "track": "exam",
+ "category": "idioms",
+ "level": "N2–N1",
+ "title": "Thành ngữ bốn chữ 四字熟語",
+ "description": "12 thành ngữ bốn chữ Hán, nhiều câu đọc theo âm Hán Việt là hiểu ngay.",
+ "words": [
+  {
+   "id": "isseki-nichou",
+   "term": "一石二鳥",
+   "reading": "いっせきにちょう · isseki nichō",
+   "meaning": "một công đôi việc (nhất thạch nhị điểu)",
+   "emoji": "🐦",
+   "example": "自転車通勤は運動にもなって一石二鳥だ。",
+   "exampleMeaning": "Đạp xe đi làm còn là tập thể dục, đúng là một công đôi việc."
+  },
+  {
+   "id": "ichigo-ichie",
+   "term": "一期一会",
+   "reading": "いちごいちえ · ichigo ichie",
+   "meaning": "trân trọng từng cuộc gặp (nhất kỳ nhất hội)",
+   "emoji": "🍵",
+   "example": "一期一会の気持ちでお客様をもてなす。",
+   "exampleMeaning": "Tiếp đãi khách với tâm thế trân trọng từng cuộc gặp."
+  },
+  {
+   "id": "juunin-toiro",
+   "term": "十人十色",
+   "reading": "じゅうにんといろ · jūnin toiro",
+   "meaning": "mỗi người một vẻ (thập nhân thập sắc)",
+   "emoji": "🎨",
+   "example": "好みは十人十色だ。",
+   "exampleMeaning": "Sở thích thì mỗi người một vẻ."
+  },
+  {
+   "id": "jigou-jitoku",
+   "term": "自業自得",
+   "reading": "じごうじとく · jigō jitoku",
+   "meaning": "gieo gió gặt bão (tự nghiệp tự đắc)",
+   "emoji": "🌪️",
+   "example": "勉強しなかったのだから、不合格は自業自得だ。",
+   "exampleMeaning": "Không học thì thi trượt là gieo gió gặt bão thôi."
+  },
+  {
+   "id": "isshoukenmei",
+   "term": "一生懸命",
+   "reading": "いっしょうけんめい · isshōkenmei",
+   "meaning": "hết sức mình",
+   "emoji": "🔥",
+   "example": "毎日一生懸命働いています。",
+   "exampleMeaning": "Ngày nào tôi cũng làm việc hết sức mình."
+  },
+  {
+   "id": "ishin-denshin",
+   "term": "以心伝心",
+   "reading": "いしんでんしん · ishin denshin",
+   "meaning": "hiểu ý nhau không cần nói (dĩ tâm truyền tâm)",
+   "emoji": "💞",
+   "example": "長年の友達とは以心伝心だ。",
+   "exampleMeaning": "Với bạn lâu năm thì hiểu ý nhau không cần nói."
+  },
+  {
+   "id": "hanshin-hangi",
+   "term": "半信半疑",
+   "reading": "はんしんはんぎ · hanshin hangi",
+   "meaning": "bán tín bán nghi",
+   "emoji": "🤔",
+   "example": "彼の話を半信半疑で聞いた。",
+   "exampleMeaning": "Tôi nghe câu chuyện của anh ấy mà bán tín bán nghi."
+  },
+  {
+   "id": "jakuniku",
+   "term": "弱肉強食",
+   "reading": "じゃくにくきょうしょく · jakuniku kyōshoku",
+   "meaning": "cá lớn nuốt cá bé (nhược nhục cường thực)",
+   "emoji": "🦁",
+   "example": "ビジネスの世界は弱肉強食だ。",
+   "exampleMeaning": "Thế giới kinh doanh là cá lớn nuốt cá bé."
+  },
+  {
+   "id": "mikka-bouzu",
+   "term": "三日坊主",
+   "reading": "みっかぼうず · mikka bōzu",
+   "meaning": "cả thèm chóng chán",
+   "emoji": "📓",
+   "example": "日記を始めたが、三日坊主で終わった。",
+   "exampleMeaning": "Tôi bắt đầu viết nhật ký nhưng cả thèm chóng chán nên bỏ."
+  },
+  {
+   "id": "onko-chishin",
+   "term": "温故知新",
+   "reading": "おんこちしん · onko chishin",
+   "meaning": "ôn cố tri tân (học cái cũ để hiểu cái mới)",
+   "emoji": "📜",
+   "example": "温故知新の精神で歴史を学ぶ。",
+   "exampleMeaning": "Học lịch sử với tinh thần ôn cố tri tân."
+  },
+  {
+   "id": "iku-douon",
+   "term": "異口同音",
+   "reading": "いくどうおん · iku dōon",
+   "meaning": "đồng thanh nhất trí (dị khẩu đồng âm)",
+   "emoji": "🗣️",
+   "example": "みんなが異口同音に賛成した。",
+   "exampleMeaning": "Mọi người đồng thanh nhất trí tán thành."
+  },
+  {
+   "id": "taiki-bansei",
+   "term": "大器晩成",
+   "reading": "たいきばんせい · taiki bansei",
+   "meaning": "đại khí vãn thành (người tài thường thành công muộn)",
+   "emoji": "🏺",
+   "example": "彼は大器晩成型の選手だ。",
+   "exampleMeaning": "Anh ấy là kiểu vận động viên đại khí vãn thành."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "これ",
+    "は",
+    "一石二鳥",
+    "です"
+   ],
+   "reading": "これはいっせきにちょうです",
+   "meaning": "Đây là một công đôi việc."
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "好み",
+    "は",
+    "十人十色",
+    "だ"
+   ],
+   "reading": "このみはじゅうにんといろだ",
+   "meaning": "Sở thích thì mỗi người một vẻ."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "毎日",
+    "一生懸命",
+    "練習",
+    "する"
+   ],
+   "reading": "まいにちいっしょうけんめいれんしゅうする",
+   "meaning": "Ngày nào cũng luyện tập hết sức mình."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "私",
+    "の",
+    "日記",
+    "は",
+    "三日坊主",
+    "だった"
+   ],
+   "reading": "わたしのにっきはみっかぼうずだった",
+   "meaning": "Việc viết nhật ký của tôi cả thèm chóng chán."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "彼",
+    "は",
+    "半信半疑",
+    "だった"
+   ],
+   "reading": "かれははんしんはんぎだった",
+   "meaning": "Anh ấy bán tín bán nghi."
+  }
+ ]
+}

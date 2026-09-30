@@ -1,0 +1,181 @@
+{
+ "id": "ja-idioms-kotowaza",
+ "lang": "ja",
+ "track": "exam",
+ "category": "idioms",
+ "level": "N3–N1",
+ "title": "Tục ngữ ことわざ",
+ "description": "12 câu tục ngữ Nhật quen thuộc và câu tương đương trong tiếng Việt.",
+ "words": [
+  {
+   "id": "saru",
+   "term": "猿も木から落ちる",
+   "reading": "さるもきからおちる · saru mo ki kara ochiru",
+   "meaning": "ai cũng có lúc sai lầm (khỉ cũng có lúc ngã từ trên cây)",
+   "emoji": "🐒",
+   "example": "先生も間違えた。猿も木から落ちるね。",
+   "exampleMeaning": "Thầy cũng nhầm. Đúng là ai cũng có lúc sai lầm nhỉ."
+  },
+  {
+   "id": "nanakorobi",
+   "term": "七転び八起き",
+   "reading": "ななころびやおき · nanakorobi yaoki",
+   "meaning": "thất bại không nản (ngã bảy lần đứng dậy tám lần)",
+   "emoji": "💪",
+   "example": "人生は七転び八起きだ。",
+   "exampleMeaning": "Đời người là ngã bảy lần, đứng dậy tám lần."
+  },
+  {
+   "id": "chiri",
+   "term": "塵も積もれば山となる",
+   "reading": "ちりもつもればやまとなる · chiri mo tsumoreba yama to naru",
+   "meaning": "góp gió thành bão",
+   "emoji": "⛰️",
+   "example": "毎日百円貯金しよう。塵も積もれば山となるよ。",
+   "exampleMeaning": "Mỗi ngày để dành 100 yên nào. Góp gió thành bão mà."
+  },
+  {
+   "id": "hana-yori-dango",
+   "term": "花より団子",
+   "reading": "はなよりだんご · hana yori dango",
+   "meaning": "chuộng cái thực tế hơn cái đẹp",
+   "emoji": "🍡",
+   "example": "弟は花より団子で、花見でも食べてばかりいる。",
+   "exampleMeaning": "Em trai tôi chuộng cái thực tế hơn cái đẹp, đi ngắm hoa mà chỉ lo ăn."
+  },
+  {
+   "id": "ishi-no-ue",
+   "term": "石の上にも三年",
+   "reading": "いしのうえにもさんねん · ishi no ue ni mo sannen",
+   "meaning": "có công mài sắt có ngày nên kim",
+   "emoji": "🪨",
+   "example": "石の上にも三年だから、もう少し頑張ろう。",
+   "exampleMeaning": "Có công mài sắt có ngày nên kim, cố thêm chút nữa nào."
+  },
+  {
+   "id": "isogaba",
+   "term": "急がば回れ",
+   "reading": "いそがばまわれ · isogaba maware",
+   "meaning": "dục tốc bất đạt",
+   "emoji": "🐢",
+   "example": "急がば回れと言うから、しっかり準備しよう。",
+   "exampleMeaning": "Dục tốc bất đạt mà, hãy chuẩn bị kỹ nào."
+  },
+  {
+   "id": "hyakubun",
+   "term": "百聞は一見に如かず",
+   "reading": "ひゃくぶんはいっけんにしかず · hyakubun wa ikken ni shikazu",
+   "meaning": "trăm nghe không bằng một thấy",
+   "emoji": "👀",
+   "example": "百聞は一見に如かず。ぜひ京都に行ってみて。",
+   "exampleMeaning": "Trăm nghe không bằng một thấy. Nhất định hãy đến Kyoto thử."
+  },
+  {
+   "id": "neko-ni-koban",
+   "term": "猫に小判",
+   "reading": "ねこにこばん · neko ni koban",
+   "meaning": "đàn gảy tai trâu",
+   "emoji": "🐱",
+   "example": "子どもに高い時計なんて猫に小判だ。",
+   "exampleMeaning": "Tặng trẻ con đồng hồ đắt tiền đúng là đàn gảy tai trâu."
+  },
+  {
+   "id": "shiranu",
+   "term": "知らぬが仏",
+   "reading": "しらぬがほとけ · shiranu ga hotoke",
+   "meaning": "không biết thì không phải lo",
+   "emoji": "🙏",
+   "example": "本当のことは言わないで。知らぬが仏だよ。",
+   "exampleMeaning": "Đừng nói sự thật. Không biết thì không phải lo mà."
+  },
+  {
+   "id": "ame-futte",
+   "term": "雨降って地固まる",
+   "reading": "あめふってじかたまる · ame futte ji katamaru",
+   "meaning": "sau cơn mưa trời lại sáng",
+   "emoji": "🌦️",
+   "example": "喧嘩したけど、雨降って地固まるで、前より仲良くなった。",
+   "exampleMeaning": "Tuy đã cãi nhau, nhưng sau cơn mưa trời lại sáng, giờ còn thân hơn trước."
+  },
+  {
+   "id": "deru-kui",
+   "term": "出る杭は打たれる",
+   "reading": "でるくいはうたれる · deru kui wa utareru",
+   "meaning": "cây cao thì gió lay",
+   "emoji": "🔨",
+   "example": "日本では出る杭は打たれるとよく言われる。",
+   "exampleMeaning": "Ở Nhật người ta hay nói cây cao thì gió lay."
+  },
+  {
+   "id": "i-no-naka",
+   "term": "井の中の蛙",
+   "reading": "いのなかのかわず · i no naka no kawazu",
+   "meaning": "ếch ngồi đáy giếng",
+   "emoji": "🐸",
+   "example": "留学して、自分が井の中の蛙だったと気づいた。",
+   "exampleMeaning": "Đi du học rồi tôi mới nhận ra mình từng là ếch ngồi đáy giếng."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "猿",
+    "も",
+    "木",
+    "から",
+    "落ちる"
+   ],
+   "reading": "さるもきからおちる",
+   "meaning": "Khỉ cũng có lúc ngã từ trên cây."
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "急がば",
+    "回れ",
+    "と",
+    "言う",
+    "でしょう"
+   ],
+   "reading": "いそがばまわれというでしょう",
+   "meaning": "Chẳng phải người ta nói dục tốc bất đạt sao."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "塵",
+    "も",
+    "積もれば",
+    "山",
+    "と",
+    "なる"
+   ],
+   "reading": "ちりもつもればやまとなる",
+   "meaning": "Góp gió thành bão."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "百聞",
+    "は",
+    "一見",
+    "に",
+    "如かず"
+   ],
+   "reading": "ひゃくぶんはいっけんにしかず",
+   "meaning": "Trăm nghe không bằng một thấy."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "私",
+    "は",
+    "井の中の蛙",
+    "でした"
+   ],
+   "reading": "わたしはいのなかのかわずでした",
+   "meaning": "Tôi đã từng là ếch ngồi đáy giếng."
+  }
+ ]
+}

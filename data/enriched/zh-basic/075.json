@@ -1,0 +1,327 @@
+{
+ "lesson": 75,
+ "draft": true,
+ "words": [
+  {
+   "term": "传",
+   "meaning": "truyện",
+   "example": "《三国志》上有诸葛亮的传。",
+   "exampleMeaning": "Trong truyện Tam Quốc Chí có Gia Cát Lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "真实",
+   "meaning": "thật, thực, đúng",
+   "example": "汤姆不能把他的真实感受告诉玛丽。",
+   "exampleMeaning": "Tom không nói được với Mary cảm xúc thực sự của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "后面",
+   "meaning": "phía sau",
+   "example": "前面坐满了，后面还有座位。",
+   "exampleMeaning": "Phía trước ngồi chật hết rồi, phía sau còn chỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòumian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "错误",
+   "meaning": "sai lầm",
+   "example": "错误的结论。",
+   "exampleMeaning": "Kết luận sai lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuòwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "记录",
+   "meaning": "kỷ lục",
+   "example": "推举他当记录。",
+   "exampleMeaning": "Cử anh ấy làm thư ký.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "整",
+   "meaning": "làm",
+   "example": "她一整晚都在哭。",
+   "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "标准",
+   "meaning": "chuẩn",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biāozhǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "职业",
+   "meaning": "chuyên nghiệp",
+   "example": "职业运动员",
+   "exampleMeaning": "Vận động viên chuyên nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "精彩",
+   "meaning": "cực",
+   "example": "晚会的节目很精彩。",
+   "exampleMeaning": "Tiết mục tối nay rất xuất sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngcǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "朝",
+   "meaning": "sự cai trị, sự thống trị",
+   "example": "一朝一夕",
+   "exampleMeaning": "Một sớm một chiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cháo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "值",
+   "meaning": "đáng, bõ công",
+   "example": "这双皮鞋值五十块钱。",
+   "exampleMeaning": "Trị giá đôi giày da này là 50 đồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhí",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "范围",
+   "meaning": "phạm vi",
+   "example": "纵横四溢，不可范围。",
+   "exampleMeaning": "Tràn ngập khắp nơi, không thể hạn chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fànwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "事业",
+   "meaning": "sự nghiệp",
+   "example": "科学文化事业。",
+   "exampleMeaning": "Sự nghiệp văn hoá, khoa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "痛苦",
+   "meaning": "đau khổ",
+   "example": "得了这种病，非常痛苦。",
+   "exampleMeaning": "Mắc loại bệnh này, vô cùng đau khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòngkǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "速度",
+   "meaning": "tốc độ",
+   "example": "我们来学“速度”这个词。",
+   "exampleMeaning": "Cùng học từ “速度”: tốc độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文件",
+   "meaning": "văn kiện",
+   "example": "我们来学“文件”这个词。",
+   "exampleMeaning": "Cùng học từ “文件”: văn kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空",
+   "meaning": "trống, rỗng",
+   "example": "云是天空中的水汽团。",
+   "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "显然",
+   "meaning": "rõ ràng",
+   "example": "显然她错了。",
+   "exampleMeaning": "Rõ ràng chị ấy sai rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "左右",
+   "meaning": "bên cạnh",
+   "example": "他想左右我，没那么容易。",
+   "exampleMeaning": "Anh ta muốn thao túng tôi, không dễ như vậy đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǒyòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外面",
+   "meaning": "bên ngoài",
+   "example": "我们今晚在外面吃饭吧。",
+   "exampleMeaning": "Chúng ta tối nay đi ăn nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàimiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "帮",
+    "我",
+    "找",
+    "间",
+    "空房间"
+   ],
+   "reading": "bāng wǒ zhǎo jiān kōngfángjiān",
+   "meaning": "Giúp tôi tìm một căn phòng trống."
+  },
+  {
+   "tokens": [
+    "我",
+    "今晚",
+    "有空"
+   ],
+   "reading": "wǒ jīnwǎn yǒukòng",
+   "meaning": "Đêm nay tôi rảnh rỗi."
+  },
+  {
+   "tokens": [
+    "她",
+    "哭",
+    "了",
+    "一",
+    "整",
+    "晚"
+   ],
+   "reading": "tā kū le yī zhěng wǎn",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "她",
+    "一",
+    "整",
+    "晚",
+    "都",
+    "在",
+    "哭"
+   ],
+   "reading": "tā yī zhěng wǎn dōu zài kū",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "她",
+    "整",
+    "晚",
+    "不",
+    "停",
+    "地",
+    "哭"
+   ],
+   "reading": "tā zhěng wǎn bù tíng de kū",
+   "meaning": "Cô ấy đã khóc cả đêm."
+  }
+ ],
+ "issues": []
+}

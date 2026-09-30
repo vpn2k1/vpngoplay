@@ -1,0 +1,330 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "believe",
+   "meaning": "tin, tin tưởng",
+   "example": "I believe in you.",
+   "exampleMeaning": "Tôi tin bạn.",
+   "emoji": "",
+   "ipa": "/bɪˈliːv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "church",
+   "meaning": "nhà thờ",
+   "example": "I go to church every day.",
+   "exampleMeaning": "Mỗi ngày tôi đều đến nhà thờ.",
+   "emoji": "⛪",
+   "ipa": "/t͡ʃɜːt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fight",
+   "meaning": "đấu tranh, chiến đấu, đánh",
+   "example": "to give fight; to make a fight",
+   "exampleMeaning": "Chiến đấu",
+   "emoji": "",
+   "ipa": "/faɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "anybody",
+   "meaning": "người nào, ai",
+   "example": "is there anybody there?",
+   "exampleMeaning": "Có ai ở đó không?",
+   "emoji": "",
+   "ipa": "/ˈɛnibədi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lonely",
+   "meaning": "cô đơn, cô độc, bơ vơ",
+   "example": "In case you feel lonely, call me!",
+   "exampleMeaning": "Trong trường hợp bạn cảm thấy cô đơn, gọi cho tôi nhé!",
+   "emoji": "",
+   "ipa": "/ˈloʊnli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "teacher",
+   "meaning": "giáo viên, cán bộ giảng dạy",
+   "example": "My gym teacher hated me.",
+   "exampleMeaning": "Giáo viên thể dục ghét tui mà.",
+   "emoji": "🧑‍🏫",
+   "ipa": "/ˈtiːt͡ʃə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thanks",
+   "meaning": "nhờ có",
+   "example": "small thanks to you, I got for it",
+   "exampleMeaning": "(mỉa mai) xin cảm ơn ạ, xin đủ",
+   "emoji": "",
+   "ipa": "/ˈθæŋks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "side",
+   "meaning": "mặt, cạnh, bên",
+   "example": "the right side of cloth",
+   "exampleMeaning": "Mặt phải của vải",
+   "emoji": "",
+   "ipa": "/ˈsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "free",
+   "meaning": "rảnh, không có người ở",
+   "example": "to be too free in one's behaviour",
+   "exampleMeaning": "Có thái độ suồng sã",
+   "emoji": "",
+   "ipa": "/ˈfri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "breathe",
+   "meaning": "hít, thở",
+   "example": "don't breathe a word of this",
+   "exampleMeaning": "Đừng nói lộ ra một lời nào về việc này",
+   "emoji": "",
+   "ipa": "/ˈbrið/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sun",
+   "meaning": "mặt trời, vừng thái dương",
+   "example": "to take the sun",
+   "exampleMeaning": "Phơi nắng",
+   "emoji": "☀",
+   "ipa": "/ˈsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "really",
+   "meaning": "thực, thật, thực ra",
+   "example": "what do you really think about it?",
+   "exampleMeaning": "Thực ra thì anh nghĩ như thế nào về việc ấy",
+   "emoji": "",
+   "ipa": "/ˈrili/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "way",
+   "meaning": "đường đi, lối đi, cách",
+   "example": "which way is the wind blowing?",
+   "exampleMeaning": "Gió thổi theo phương nào?",
+   "emoji": "",
+   "ipa": "/ˈweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kitchen",
+   "meaning": "bếp",
+   "example": "Tom is in the kitchen, heating up leftovers.",
+   "exampleMeaning": "Tom đang ở trong bếp, hâm nóng đồ ăn thừa.",
+   "emoji": "",
+   "ipa": "/ˈkɪtʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "brain",
+   "meaning": "óc, não",
+   "example": "The brain is a crucial body part.",
+   "exampleMeaning": "Não là một bộ phận cơ thể rất quan trọng.",
+   "emoji": "🧠",
+   "ipa": "/breɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hide",
+   "meaning": "trốn, ẩn nấp, náu",
+   "example": "I have to hide this bag.",
+   "exampleMeaning": "Tôi phải giấu cái túi này.",
+   "emoji": "",
+   "ipa": "/haɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "someone",
+   "meaning": "một người nào đó",
+   "example": "Is someone here?",
+   "exampleMeaning": "Có ai ở đây không?",
+   "emoji": "",
+   "ipa": "/ˈsəmˌwən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "old",
+   "meaning": "già",
+   "example": "look here, old man!",
+   "exampleMeaning": "Này!, ông bạn thân mến!",
+   "emoji": "",
+   "ipa": "/ˈoʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sailor",
+   "meaning": "thủy thủ",
+   "example": "Let's learn the word \"sailor\".",
+   "exampleMeaning": "Cùng học từ “sailor”: thủy thủ.",
+   "emoji": "",
+   "ipa": "/ˈseɪ.lər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "course",
+   "meaning": "dĩ nhiên, đương nhiên, tất nhiên",
+   "example": "the ship is on her right course",
+   "exampleMeaning": "Con tàu đang đi đúng hướng",
+   "emoji": "",
+   "ipa": "/ˈkɔrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "doesn't",
+    "believe",
+    "anybody",
+    "anymore"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy không còn tin ai nữa."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "needs",
+    "someone",
+    "to",
+    "believe"
+   ],
+   "reading": "",
+   "meaning": "Mọi người cần ai đó để tin tưởng."
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "really",
+    "believe",
+    "that",
+    "story"
+   ],
+   "reading": "",
+   "meaning": "Bạn thực sự tin câu chuyện đó à?"
+  },
+  {
+   "tokens": [
+    "I",
+    "can't",
+    "believe",
+    "that",
+    "I'm",
+    "really",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Tôi không tin được là mình thực sự đáng ở đây."
+  },
+  {
+   "tokens": [
+    "Do",
+    "Japanese",
+    "children",
+    "really",
+    "paint",
+    "the",
+    "sun",
+    "red"
+   ],
+   "reading": "",
+   "meaning": "Có phải trẻ con người Nhật thật sự thích tô mặt trời màu đỏ?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,334 @@
+{
+ "lesson": 130,
+ "draft": true,
+ "words": [
+  {
+   "term": "慢慢来",
+   "meaning": "cứ từ từ",
+   "example": "我们来学“慢慢来”这个词。",
+   "exampleMeaning": "Cùng học từ “慢慢来”: cứ từ từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mànmànlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "摆设",
+   "meaning": "bày biện",
+   "example": "屋子里摆设得很整齐。",
+   "exampleMeaning": "Trong nhà bày biện rất gọn gàng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎishè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "减压",
+   "meaning": "giảm sức ép",
+   "example": "我们来学“减压”这个词。",
+   "exampleMeaning": "Cùng học từ “减压”: giảm sức ép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnyā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "香料",
+   "meaning": "hương liệu",
+   "example": "我们来学“香料”这个词。",
+   "exampleMeaning": "Cùng học từ “香料”: hương liệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "得体",
+   "meaning": "khéo",
+   "example": "话说得很不得体。",
+   "exampleMeaning": "Nói năng không khéo léo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "détǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "对峙",
+   "meaning": "đứng song song",
+   "example": "两军对峙(相持不下)",
+   "exampleMeaning": "Quân hai bên đang ở thế giằng co.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "苗条",
+   "meaning": "thon thả",
+   "example": "我们来学“苗条”这个词。",
+   "exampleMeaning": "Cùng học từ “苗条”: thon thả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miáotiao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自立",
+   "meaning": "tự lập",
+   "example": "孩子小，在经济上还不能自立。",
+   "exampleMeaning": "Con còn nhỏ, kinh tế không thể tự lập được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美化",
+   "meaning": "điểm tô cho đẹp",
+   "example": "美化校园。",
+   "exampleMeaning": "Làm đẹp sân trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měihuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "换成",
+   "meaning": "chuyển đổi thành",
+   "example": "我们来学“换成”这个词。",
+   "exampleMeaning": "Cùng học từ “换成”: chuyển đổi thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "煲",
+   "meaning": "nồi",
+   "example": "电饭煲",
+   "exampleMeaning": "Nồi cơm điện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "偷懒",
+   "meaning": "trốn tránh khó nhọc",
+   "example": "从不偷懒",
+   "exampleMeaning": "Chưa từng trốn tránh khó nhọc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōulǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出资",
+   "meaning": "bỏ vốn",
+   "example": "我们来学“出资”这个词。",
+   "exampleMeaning": "Cùng học từ “出资”: bỏ vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厚道",
+   "meaning": "hiền hậu",
+   "example": "他是个厚道人。",
+   "exampleMeaning": "Ông ấy là người hiền hậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòudao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "横向",
+   "meaning": "bình đẳng",
+   "example": "京广铁路是纵向的，陇海铁路是横向的。",
+   "exampleMeaning": "Tuyến đường sắt Bắc Kinh Quảng Châu nằm dọc, còn tuyến đường sắt Lũng Hải nằm ngang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héngxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挽",
+   "meaning": "xắn",
+   "example": "手挽着手。",
+   "exampleMeaning": "Tay dắt tay; khoác tay nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "就职",
+   "meaning": "nhậm chức",
+   "example": "宣誓就职",
+   "exampleMeaning": "Tuyên thệ nhậm chức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùzhí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好在",
+   "meaning": "may mà",
+   "example": "我有空再来，好在离这儿不远。",
+   "exampleMeaning": "Rãnh rỗi tôi lại đến, được cái tôi cách đây cũng không xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎozài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专长",
+   "meaning": "sở trường",
+   "example": "发挥各人的专长。",
+   "exampleMeaning": "Phát huy sở trường của từng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāncháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高傲",
+   "meaning": "kiêu căng",
+   "example": "神态高傲",
+   "exampleMeaning": "Ra vẻ kiêu căng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  },
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "拒绝",
+    "他",
+    "吃",
+    "晚饭",
+    "的",
+    "邀请"
+   ],
+   "reading": "wǒ huì jùjué tā chī wǎnfàn de yāoqǐng",
+   "meaning": "Tôi từ chối lời mời cơm tối của anh ấy."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  }
+ ],
+ "issues": []
+}

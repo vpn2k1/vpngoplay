@@ -1,0 +1,323 @@
+{
+ "lesson": 95,
+ "draft": true,
+ "words": [
+  {
+   "term": "poise",
+   "meaning": "thế thăng bằng, thế cân bằng",
+   "example": "Let's learn the word \"poise\".",
+   "exampleMeaning": "Cùng học từ “poise”: thế thăng bằng, thế cân bằng.",
+   "emoji": "",
+   "ipa": "/ˈpɔɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "allege",
+   "meaning": "viện lý, dẫn chứng, viện ra",
+   "example": "to allege illiness as a reason for not going to work",
+   "exampleMeaning": "Viện lý lẽ ốm để khỏi phải đi làm việc",
+   "emoji": "",
+   "ipa": "/əˈlɛdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flashback",
+   "meaning": "cảnh hồi tưởng",
+   "example": "Let's learn the word \"flashback\".",
+   "exampleMeaning": "Cùng học từ “flashback”: cảnh hồi tưởng.",
+   "emoji": "",
+   "ipa": "/ˈflæʃˌbæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "detest",
+   "meaning": "ghét, ghét cay ghét đắng",
+   "example": "Let's learn the word \"detest\".",
+   "exampleMeaning": "Cùng học từ “detest”: ghét, ghét cay ghét đắng.",
+   "emoji": "",
+   "ipa": "/diˈtɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "diffusion",
+   "meaning": "sự truyền tin",
+   "example": "Let's learn the word \"diffusion\".",
+   "exampleMeaning": "Cùng học từ “diffusion”: sự truyền tin.",
+   "emoji": "",
+   "ipa": "/dɪfˈjuʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unison",
+   "meaning": "trạng thái đồng âm",
+   "example": "to act in perfect unison with others",
+   "exampleMeaning": "Hành động nhất trí hoàn toàn với những người khác",
+   "emoji": "",
+   "ipa": "/ˈjunəsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "woo",
+   "meaning": "nài nỉ, tán tỉnh",
+   "example": "to woo someone to do something",
+   "exampleMeaning": "Nài nỉ ai làm việc gì",
+   "emoji": "",
+   "ipa": "/ˈwu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "plumbing",
+   "meaning": "nghề hàn chì",
+   "example": "Let's learn the word \"plumbing\".",
+   "exampleMeaning": "Cùng học từ “plumbing”: nghề hàn chì.",
+   "emoji": "",
+   "ipa": "/ˈpləmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fiddly",
+   "meaning": "nhỏ mọn",
+   "example": "Let's learn the word \"fiddly\".",
+   "exampleMeaning": "Cùng học từ “fiddly”: nhỏ mọn.",
+   "emoji": "",
+   "ipa": "/fˈɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anthropology",
+   "meaning": "nhân chủng học, nhân loại học, nhân học",
+   "example": "Let's learn the word \"anthropology\".",
+   "exampleMeaning": "Cùng học từ “anthropology”: nhân chủng học, nhân loại học, nhân học.",
+   "emoji": "",
+   "ipa": "/ˌænθrəˈpɑlədʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "salvage",
+   "meaning": "cứu vớt, cứu khỏi hoả hoạn",
+   "example": "Let's learn the word \"salvage\".",
+   "exampleMeaning": "Cùng học từ “salvage”: cứu vớt, cứu khỏi hoả hoạn.",
+   "emoji": "",
+   "ipa": "/ˈsælvədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "enviable",
+   "meaning": "gây thèm muốn, gây ghen tị, gây đố kỵ",
+   "example": "Let's learn the word \"enviable\".",
+   "exampleMeaning": "Cùng học từ “enviable”: gây thèm muốn, gây ghen tị, gây đố kỵ.",
+   "emoji": "",
+   "ipa": "/ˈɛnviəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gadget",
+   "meaning": "bộ phận cải tiến (trong máy móc)",
+   "example": "Can this gadget replace a human heart?",
+   "exampleMeaning": "Thiết bị này có thể thay thế trái tim con người không?",
+   "emoji": "",
+   "ipa": "/ˈɡædʒət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unmusical",
+   "meaning": "không có tính chất nhạc, không du dương",
+   "example": "Let's learn the word \"unmusical\".",
+   "exampleMeaning": "Cùng học từ “unmusical”: không có tính chất nhạc, không du dương.",
+   "emoji": "",
+   "ipa": "/ʌnmjˈuːzɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "delta",
+   "meaning": "đenta (chữ cái Hy-lạp)",
+   "example": "Let's learn the word \"delta\".",
+   "exampleMeaning": "Cùng học từ “delta”: đenta (chữ cái Hy-lạp).",
+   "emoji": "",
+   "ipa": "/ˈdɛltə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "recognizable",
+   "meaning": "có thể công nhận, có thể thừa nhận",
+   "example": "Let's learn the word \"recognizable\".",
+   "exampleMeaning": "Cùng học từ “recognizable”: có thể công nhận, có thể thừa nhận.",
+   "emoji": "",
+   "ipa": "/ˌrɛkəɡˈnaɪzəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "extortion",
+   "meaning": "sự bóp nặn, sự tống tiền",
+   "example": "Let's learn the word \"extortion\".",
+   "exampleMeaning": "Cùng học từ “extortion”: sự bóp nặn, sự tống tiền.",
+   "emoji": "",
+   "ipa": "/ɛkˈstɔrʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "invoice",
+   "meaning": "danh đơn hàng gửi (có giá và tiền gửi)",
+   "example": "Let's learn the word \"invoice\".",
+   "exampleMeaning": "Cùng học từ “invoice”: danh đơn hàng gửi (có giá và tiền gửi).",
+   "emoji": "",
+   "ipa": "/ˈɪnvɔɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "beforehand",
+   "meaning": "sẵn sàng trước",
+   "example": "to make preparations beforehand",
+   "exampleMeaning": "Chuẩn bị trước",
+   "emoji": "",
+   "ipa": "/bɪˈfɔrˌhænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cynicism",
+   "meaning": "chủ nghĩa khuyển nho, chủ nghĩa yếm thế",
+   "example": "Let's learn the word \"cynicism\".",
+   "exampleMeaning": "Cùng học từ “cynicism”: chủ nghĩa khuyển nho, chủ nghĩa yếm thế.",
+   "emoji": "",
+   "ipa": "/ˈsɪnɪˌsɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "book",
+    "deals",
+    "with",
+    "anthropology"
+   ],
+   "reading": "",
+   "meaning": "Cuốn sách này nói về chủ đề nhân loại học."
+  },
+  {
+   "tokens": [
+    "Can",
+    "this",
+    "gadget",
+    "replace",
+    "a",
+    "human",
+    "heart"
+   ],
+   "reading": "",
+   "meaning": "Thiết bị này có thể thay thế trái tim con người không?"
+  },
+  {
+   "tokens": [
+    "She",
+    "behaved",
+    "quite",
+    "foolishly"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy hành xử khá dại dột."
+  },
+  {
+   "tokens": [
+    "The",
+    "sheep",
+    "was",
+    "sacrificed"
+   ],
+   "reading": "",
+   "meaning": "Con cừu đã bị hiến tế."
+  },
+  {
+   "tokens": [
+    "They",
+    "wrongly",
+    "accused",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Họ vu oan cho tôi."
+  }
+ ],
+ "issues": []
+}

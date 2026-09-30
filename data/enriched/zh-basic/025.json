@@ -1,0 +1,323 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "不客气",
+   "meaning": "đừng khách sáo",
+   "example": "你要是再给我们公司出洋相，我可就不客气了。",
+   "exampleMeaning": "Nếu cậu lại làm mất mặt công ty chúng ta, tôi không khách khí nữa đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùkèqi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "南边",
+   "meaning": "phía nam",
+   "example": "我们来学“南边”这个词。",
+   "exampleMeaning": "Cùng học từ “南边”: phía nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "北边",
+   "meaning": "phương Bắc",
+   "example": "我们来学“北边”这个词。",
+   "exampleMeaning": "Cùng học từ “北边”: phương Bắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běibiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "女孩儿",
+   "meaning": "con gái",
+   "example": "我们来学“女孩儿”这个词。",
+   "exampleMeaning": "Cùng học từ “女孩儿”: con gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǚháir",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下边",
+   "meaning": "phía dưới",
+   "example": "我们来学“下边”这个词。",
+   "exampleMeaning": "Cùng học từ “下边”: phía dưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "汉字",
+   "meaning": "chữ Hán",
+   "example": "我们来学“汉字”这个词。",
+   "exampleMeaning": "Cùng học từ “汉字”: chữ Hán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hànzì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "请进",
+   "meaning": "\"mời vào\"",
+   "example": "我们来学“请进”这个词。",
+   "exampleMeaning": "Cùng học từ “请进”: \"mời vào\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐngjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好玩儿",
+   "meaning": "thú vị",
+   "example": "这是个好玩儿的游戏。",
+   "exampleMeaning": "Đó là một trò chơi thú vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎowánr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前边",
+   "meaning": "phía trước",
+   "example": "我们来学“前边”这个词。",
+   "exampleMeaning": "Cùng học từ “前边”: phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánbian",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小孩儿",
+   "meaning": "trẻ em",
+   "example": "我们来学“小孩儿”这个词。",
+   "exampleMeaning": "Cùng học từ “小孩儿”: trẻ em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoháir",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教学楼",
+   "meaning": "tòa nhà giảng đường",
+   "example": "我们来学“教学楼”这个词。",
+   "exampleMeaning": "Cùng học từ “教学楼”: tòa nhà giảng đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàoxuélóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "网友",
+   "meaning": "người dùng Internet",
+   "example": "我们来学“网友”这个词。",
+   "exampleMeaning": "Cùng học từ “网友”: người dùng Internet.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "课文",
+   "meaning": "bài khoá",
+   "example": "朗读课文。",
+   "exampleMeaning": "Đọc bài khoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kèwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "请坐",
+   "meaning": "mời ngồi",
+   "example": "我们来学“请坐”这个词。",
+   "exampleMeaning": "Cùng học từ “请坐”: mời ngồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "半年",
+   "meaning": "nửa năm",
+   "example": "我们来学“半年”这个词。",
+   "exampleMeaning": "Cùng học từ “半年”: nửa năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "听写",
+   "meaning": "nghe viết",
+   "example": "我们来学“听写”这个词。",
+   "exampleMeaning": "Cùng học từ “听写”: nghe viết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīngxiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面条儿",
+   "meaning": "người ngớ ngẩn, người xuẩn ngốc",
+   "example": "我们来学“面条儿”这个词。",
+   "exampleMeaning": "Cùng học từ “面条儿”: người ngớ ngẩn, người xuẩn ngốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miàntiáor",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "男孩儿",
+   "meaning": "con trai, thiếu niên",
+   "example": "我们来学“男孩儿”这个词。",
+   "exampleMeaning": "Cùng học từ “男孩儿”: con trai, thiếu niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánháir",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一下儿",
+   "meaning": "một lần",
+   "example": "她拥抱了一下儿子,然后让他上床睡觉。",
+   "exampleMeaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxiàr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "有一些",
+   "meaning": "một ít, một vài, dăm ba",
+   "example": "我有一些錢。",
+   "exampleMeaning": "Tôi chỉ mang theo một ít tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuyīxiē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "有一些",
+    "钱"
+   ],
+   "reading": "wǒ yǒuyīxiē qián",
+   "meaning": "Tôi chỉ mang theo một ít tiền."
+  },
+  {
+   "tokens": [
+    "她",
+    "拥抱",
+    "了",
+    "一下儿",
+    "子",
+    "然后",
+    "让",
+    "他",
+    "上床",
+    "睡觉"
+   ],
+   "reading": "tā yōngbào le yīxiàr zǐ ránhòu ràng tā shàngchuáng shuìjiào",
+   "meaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường."
+  },
+  {
+   "tokens": [
+    "你",
+    "该",
+    "走",
+    "了"
+   ],
+   "reading": "nǐ gāi zǒu le",
+   "meaning": "Anh nên đi đi."
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "要",
+    "钱"
+   ],
+   "reading": "wǒ bù yào qián",
+   "meaning": "Tôi không cần tiền."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "在",
+    "吗"
+   ],
+   "reading": "tāngmǔ zài ma",
+   "meaning": "Tom có ở đó không?"
+  }
+ ],
+ "issues": []
+}

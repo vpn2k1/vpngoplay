@@ -1,0 +1,332 @@
+{
+ "lesson": 22,
+ "draft": true,
+ "words": [
+  {
+   "term": "旗帜",
+   "meaning": "cờ",
+   "example": "培养典型，树立旗帜。",
+   "exampleMeaning": "Bồi dưỡng những nhân vật điển hình, xây dựng những gương tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qízhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水准",
+   "meaning": "mực nước",
+   "example": "我们来学“水准”这个词。",
+   "exampleMeaning": "Cùng học từ “水准”: mực nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐzhǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纯洁",
+   "meaning": "trong, trong sạch, nguyên chất",
+   "example": "心地纯洁。",
+   "exampleMeaning": "Tấm lòng trong sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chúnjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "柜台",
+   "meaning": "quầy hàng",
+   "example": "我们来学“柜台”这个词。",
+   "exampleMeaning": "Cùng học từ “柜台”: quầy hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guìtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "揭露",
+   "meaning": "vạch trần",
+   "example": "揭露问题的本质。",
+   "exampleMeaning": "Vạch rõ bản chất của vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吩咐",
+   "meaning": "phân phó",
+   "example": "我们来学“吩咐”这个词。",
+   "exampleMeaning": "Cùng học từ “吩咐”: phân phó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物体",
+   "meaning": "vật thể",
+   "example": "运动物体。",
+   "exampleMeaning": "Vật thể vận động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùtǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "职员",
+   "meaning": "viên chức",
+   "example": "在一家公司里当个小职员。",
+   "exampleMeaning": "Làm một viên chức quèn trong một công ty.",
+   "emoji": "🧑‍💼",
+   "ipa": "",
+   "pinyin": "zhíyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "导航",
+   "meaning": "hướng dẫn",
+   "example": "我们来学“导航”这个词。",
+   "exampleMeaning": "Cùng học từ “导航”: hướng dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎoháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "强劲",
+   "meaning": "mạnh",
+   "example": "强劲的军队。",
+   "exampleMeaning": "Quân đội mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挽回",
+   "meaning": "xoay chuyển (từ xấu sang tốt)",
+   "example": "挽回局面。",
+   "exampleMeaning": "Xoay chuyển cục diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnhuí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剥",
+   "meaning": "bóc vỏ, gọt vỏ",
+   "example": "我们来学“剥”这个词。",
+   "exampleMeaning": "Cùng học từ “剥”: bóc vỏ, gọt vỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旅途",
+   "meaning": "đường đi",
+   "example": "旅途风光。",
+   "exampleMeaning": "Cảnh quang trên đường đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚtú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "庆幸",
+   "meaning": "vui mừng",
+   "example": "我们来学“庆幸”这个词。",
+   "exampleMeaning": "Cùng học từ “庆幸”: vui mừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìngxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三角",
+   "meaning": "tam giác",
+   "example": "糖三角(食品)。",
+   "exampleMeaning": "Thỏi đường hình tam giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sānjiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "条约",
+   "meaning": "hiệp ước",
+   "example": "和平友好条约",
+   "exampleMeaning": "Hiệp ước hoà bình hữu nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáoyuē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "享",
+   "meaning": "được hưởng, được, có được",
+   "example": "坐享 其成。",
+   "exampleMeaning": "Ngồi mát ăn bát vàng; người ta lên mâm lên bát sẵn cho mình đến ăn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "本能",
+   "meaning": "bản năng",
+   "example": "我们来学“本能”这个词。",
+   "exampleMeaning": "Cùng học từ “本能”: bản năng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "塑造",
+   "meaning": "đắp nặn",
+   "example": "我们来学“塑造”这个词。",
+   "exampleMeaning": "Cùng học từ “塑造”: đắp nặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùzào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恐慌",
+   "meaning": "hoang mang",
+   "example": "断水断电的消息引起了人们的恐慌。",
+   "exampleMeaning": "Tin cúp nước cúp điện đã làm mọi người hoang mang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒnghuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我",
+    "很",
+    "抱歉",
+    "在",
+    "这个",
+    "时候",
+    "打扰"
+   ],
+   "reading": "wǒ hěn bàoqiàn zài zhège shíhou dǎrǎo",
+   "meaning": "Tôi rất xin lỗi vì làm phiền vào lúc này."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "再也",
+    "不",
+    "知道",
+    "该",
+    "信",
+    "什么",
+    "了"
+   ],
+   "reading": "wǒ zàiyě bù zhīdào gāi xìn shénme le",
+   "meaning": "Tôi không còn biết tin vào cái gì nữa."
+  },
+  {
+   "tokens": [
+    "他们",
+    "不得不",
+    "整天",
+    "呆",
+    "在",
+    "家里"
+   ],
+   "reading": "tāmen bùdébù zhěngtiān dāi zài jiālǐ",
+   "meaning": "Họ đã phải ở trong nhà suốt cả ngày."
+  }
+ ],
+ "issues": []
+}

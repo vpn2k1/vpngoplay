@@ -1,0 +1,326 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "waistcoat",
+   "meaning": "áo gi lê",
+   "example": "Let's learn the word \"waistcoat\".",
+   "exampleMeaning": "Cùng học từ “waistcoat”: áo gi lê.",
+   "emoji": "",
+   "ipa": "/wˈeɪstkəʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "forestry",
+   "meaning": "miền rừng",
+   "example": "Let's learn the word \"forestry\".",
+   "exampleMeaning": "Cùng học từ “forestry”: miền rừng.",
+   "emoji": "",
+   "ipa": "/ˈfɔrəstri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exultant",
+   "meaning": "hân hoan, hoan hỉ, hớn hở",
+   "example": "Let's learn the word \"exultant\".",
+   "exampleMeaning": "Cùng học từ “exultant”: hân hoan, hoan hỉ, hớn hở.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzəltənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whip",
+   "meaning": "xông, lao, chạy vụt",
+   "example": "to whip a knife out of one's pocket",
+   "exampleMeaning": "Rút nhanh con dao nhíp trong túi ra",
+   "emoji": "",
+   "ipa": "/ˈhwɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "statistics",
+   "meaning": "thống kê",
+   "example": "I'm going to talk about statistics today.",
+   "exampleMeaning": "Hôm nay tôi sẽ nói về số liệu thống kê.",
+   "emoji": "",
+   "ipa": "/stəˈtɪstɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "elegantly",
+   "meaning": "thanh lịch, tao nhã",
+   "example": "Let's learn the word \"elegantly\".",
+   "exampleMeaning": "Cùng học từ “elegantly”: thanh lịch, tao nhã.",
+   "emoji": "",
+   "ipa": "/ˈɛlɪɡəntˌli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "decade",
+   "meaning": "chục, bộ mười, nhóm mười",
+   "example": "Let's learn the word \"decade\".",
+   "exampleMeaning": "Cùng học từ “decade”: chục, bộ mười, nhóm mười.",
+   "emoji": "",
+   "ipa": "/ˈdɛkeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "divided",
+   "meaning": "được chia ra",
+   "example": "From this standpoint history can be divided into two main epochs.",
+   "exampleMeaning": "Từ lập trường này, lịch sử có thể được chia ra thành hai niên đại chính.",
+   "emoji": "",
+   "ipa": "/dɪˈvaɪdɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dated",
+   "meaning": "đề ngày",
+   "example": "I dated a girl in high school who spoke French.",
+   "exampleMeaning": "Tôi đã hẹn hò với một cô gái học cấp ba nói tiếng Pháp.",
+   "emoji": "",
+   "ipa": "/ˈdeɪtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "amplify",
+   "meaning": "phóng đại, thổi phồng",
+   "example": "to amplify a story",
+   "exampleMeaning": "Thổi phồng câu chuyện",
+   "emoji": "",
+   "ipa": "/ˈæmpləˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "considerably",
+   "meaning": "đáng kể, lớn lao, nhiều",
+   "example": "The situation has improved considerably compared with what it was.",
+   "exampleMeaning": "Tình huống đã được cải thiện đáng kể so với trước đây.",
+   "emoji": "",
+   "ipa": "/kənˈsɪdɜrəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "squeeze",
+   "meaning": "chen, ẩn, nhét",
+   "example": "to squeeze a shirt into a suitcase",
+   "exampleMeaning": "Ấn chiếc sơ mi vào cái va li",
+   "emoji": "",
+   "ipa": "/ˈskwiz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "culmination",
+   "meaning": "điểm cao nhất, cực điểm, tột độ",
+   "example": "Let's learn the word \"culmination\".",
+   "exampleMeaning": "Cùng học từ “culmination”: điểm cao nhất, cực điểm, tột độ.",
+   "emoji": "",
+   "ipa": "/ˌkəlməˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accommodation",
+   "meaning": "sự điều tiết, sự thích nghi",
+   "example": "Let's learn the word \"accommodation\".",
+   "exampleMeaning": "Cùng học từ “accommodation”: sự điều tiết, sự thích nghi.",
+   "emoji": "",
+   "ipa": "/əˌkɑməˈdeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "essayist",
+   "meaning": "nhà văn tiểu luận",
+   "example": "Let's learn the word \"essayist\".",
+   "exampleMeaning": "Cùng học từ “essayist”: nhà văn tiểu luận.",
+   "emoji": "",
+   "ipa": "/ˈɛˌseɪɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "evolutionary",
+   "meaning": "sự tiến triển",
+   "example": "Let's learn the word \"evolutionary\".",
+   "exampleMeaning": "Cùng học từ “evolutionary”: sự tiến triển.",
+   "emoji": "",
+   "ipa": "/ˌɛvəˈluʃəˌnɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cherished",
+   "meaning": "yêu mến, yêu thương, yêu dấu",
+   "example": "Let's learn the word \"cherished\".",
+   "exampleMeaning": "Cùng học từ “cherished”: yêu mến, yêu thương, yêu dấu.",
+   "emoji": "",
+   "ipa": "/ˈtʃɛrɪʃt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "frantically",
+   "meaning": "điên cuồng, điên rồ",
+   "example": "Let's learn the word \"frantically\".",
+   "exampleMeaning": "Cùng học từ “frantically”: điên cuồng, điên rồ.",
+   "emoji": "",
+   "ipa": "/ˈfrænəkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "illustrate",
+   "meaning": "minh hoạ, làm rõ ý",
+   "example": "Everyone can feed the database to illustrate new vocabulary.",
+   "exampleMeaning": "Ai cũng có thể thêm vào cơ sở dữ liệu để minh hoạ cho từ vựng mới.",
+   "emoji": "",
+   "ipa": "/ˈɪləˌstreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "landslide",
+   "meaning": "thắng lợi long trời lở đất",
+   "example": "a landslide victory",
+   "exampleMeaning": "Thắng lợi long trời lở đất",
+   "emoji": "🛘",
+   "ipa": "/ˈlænd.ˌslaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Squeeze",
+    "the",
+    "towel"
+   ],
+   "reading": "",
+   "meaning": "Vắt cái khăn."
+  },
+  {
+   "tokens": [
+    "Those",
+    "statistics",
+    "prove",
+    "nothing"
+   ],
+   "reading": "",
+   "meaning": "Những thống kê này không chứng minh được gì cả."
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "remember",
+    "the",
+    "statistics"
+   ],
+   "reading": "",
+   "meaning": "Tôi không nhớ các số liệu thống kê."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "going",
+    "to",
+    "talk",
+    "about",
+    "statistics",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Hôm nay tôi sẽ nói về số liệu thống kê."
+  },
+  {
+   "tokens": [
+    "Statistics",
+    "show",
+    "that",
+    "women",
+    "live",
+    "longer",
+    "than",
+    "men"
+   ],
+   "reading": "",
+   "meaning": "Thống kê cho thấy phụ nữ sống lâu hơn nam giới."
+  }
+ ],
+ "issues": []
+}

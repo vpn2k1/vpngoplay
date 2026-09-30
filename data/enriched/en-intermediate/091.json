@@ -1,0 +1,331 @@
+{
+ "lesson": 91,
+ "draft": true,
+ "words": [
+  {
+   "term": "impartial",
+   "meaning": "công bằng, không thiên vị, vô tư",
+   "example": "Let's learn the word \"impartial\".",
+   "exampleMeaning": "Cùng học từ “impartial”: công bằng, không thiên vị, vô tư.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɑrʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "racist",
+   "meaning": "người phân biệt chủng tộc",
+   "example": "Let's learn the word \"racist\".",
+   "exampleMeaning": "Cùng học từ “racist”: người phân biệt chủng tộc.",
+   "emoji": "",
+   "ipa": "/ˈreɪsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "armful",
+   "meaning": "ôm (đầy)",
+   "example": "Let's learn the word \"armful\".",
+   "exampleMeaning": "Cùng học từ “armful”: ôm (đầy).",
+   "emoji": "",
+   "ipa": "/ˈɑːmfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prescribe",
+   "meaning": "ra lệnh, truyền lệnh, sai khiến",
+   "example": "to prescribe to someone what to do",
+   "exampleMeaning": "Ra lệnh cho ai phải làm gì",
+   "emoji": "",
+   "ipa": "/prəsˈkraɪb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "winding",
+   "meaning": "uốn khúc, quanh co (sông, đường)",
+   "example": "Let's learn the word \"winding\".",
+   "exampleMeaning": "Cùng học từ “winding”: uốn khúc, quanh co (sông, đường).",
+   "emoji": "",
+   "ipa": "/ˈwaɪndɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "plague",
+   "meaning": "làm phiền, quấy rầy, làm khó chịu",
+   "example": "what a plague this child is!",
+   "exampleMeaning": "Thằng bé này thật là tai hại!",
+   "emoji": "",
+   "ipa": "/ˈpleɪɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unwilling",
+   "meaning": "không bằng lòng, không vui lòng",
+   "example": "Let's learn the word \"unwilling\".",
+   "exampleMeaning": "Cùng học từ “unwilling”: không bằng lòng, không vui lòng.",
+   "emoji": "",
+   "ipa": "/ənˈwɪlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "immortal",
+   "meaning": "bất tử, bất diệt, bất hủ",
+   "example": "an immortal poem",
+   "exampleMeaning": "Bài thơ bất hủ",
+   "emoji": "",
+   "ipa": "/ˌɪˈmɔrtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "worship",
+   "meaning": "thờ, thờ phụng, cúng bái",
+   "example": "a worship place of worship",
+   "exampleMeaning": "Nơi thờ cúng, nhà thờ, đền thờ",
+   "emoji": "",
+   "ipa": "/ˈwɜrʃəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spray",
+   "meaning": "cành thoa",
+   "example": "a spray of peach-tree",
+   "exampleMeaning": "Cành đào",
+   "emoji": "",
+   "ipa": "/ˈspreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "diagnostic",
+   "meaning": "chẩn đoán",
+   "example": "Let's learn the word \"diagnostic\".",
+   "exampleMeaning": "Cùng học từ “diagnostic”: chẩn đoán.",
+   "emoji": "",
+   "ipa": "/ˌdaɪəɡˈnɑstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pest",
+   "meaning": "người làm hại, vật làm hại",
+   "example": "Let's learn the word \"pest\".",
+   "exampleMeaning": "Cùng học từ “pest”: người làm hại, vật làm hại.",
+   "emoji": "",
+   "ipa": "/ˈpɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clarify",
+   "meaning": "lọc, gạn",
+   "example": "Let's learn the word \"clarify\".",
+   "exampleMeaning": "Cùng học từ “clarify”: lọc, gạn.",
+   "emoji": "",
+   "ipa": "/ˈklɛrəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "potent",
+   "meaning": "có lực lượng, có quyền thế, hùng mạnh",
+   "example": "Let's learn the word \"potent\".",
+   "exampleMeaning": "Cùng học từ “potent”: có lực lượng, có quyền thế, hùng mạnh.",
+   "emoji": "",
+   "ipa": "/ˈpoʊtənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "procedure",
+   "meaning": "thủ tục",
+   "example": "This procedure has advantages and disadvantages.",
+   "exampleMeaning": "Quá trình này có ưu điểm và cả khuyết điểm.",
+   "emoji": "",
+   "ipa": "/prəˈsidʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unaware",
+   "meaning": "không biết, không hay",
+   "example": "Let's learn the word \"unaware\".",
+   "exampleMeaning": "Cùng học từ “unaware”: không biết, không hay.",
+   "emoji": "",
+   "ipa": "/ˌənəˈwɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "germ",
+   "meaning": "mộng, mầm, thai",
+   "example": "Let's learn the word \"germ\".",
+   "exampleMeaning": "Cùng học từ “germ”: mộng, mầm, thai.",
+   "emoji": "",
+   "ipa": "/ˈdʒɜrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bad-tempered",
+   "meaning": "xấu tính hay cáu, dễ nổi nóng",
+   "example": "Let's learn the word \"bad-tempered\".",
+   "exampleMeaning": "Cùng học từ “bad-tempered”: xấu tính hay cáu, dễ nổi nóng.",
+   "emoji": "",
+   "ipa": "/ˈbæd ˈtɛmpɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "flexibility",
+   "meaning": "tính chất dẻo, tính chất mền dẻo",
+   "example": "Let's learn the word \"flexibility\".",
+   "exampleMeaning": "Cùng học từ “flexibility”: tính chất dẻo, tính chất mền dẻo.",
+   "emoji": "",
+   "ipa": "/ˌflɛksəˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cybercafe",
+   "meaning": "quán cà phê có nhiều máy tính kết nối In-tơ-nét để khách vừa uống nước vừa thoải mái truy cập In-tơ-nét",
+   "example": "Let's learn the word \"cybercafe\".",
+   "exampleMeaning": "Cùng học từ “cybercafe”: quán cà phê có nhiều máy tính kết nối In-tơ-nét để khách vừa uống nước vừa thoải mái truy cập In-tơ-nét.",
+   "emoji": "",
+   "ipa": "/ˈsaɪbɜrkæˈfeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "worship",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Tôi tôn thờ bạn."
+  },
+  {
+   "tokens": [
+    "This",
+    "procedure",
+    "has",
+    "advantages",
+    "and",
+    "disadvantages"
+   ],
+   "reading": "",
+   "meaning": "Quá trình này có ưu điểm và cả khuyết điểm."
+  },
+  {
+   "tokens": [
+    "People",
+    "are",
+    "mortal",
+    "Loved",
+    "ones",
+    "though",
+    "are",
+    "immortal"
+   ],
+   "reading": "",
+   "meaning": "Con người không bất tử. Những người được yêu thương, lại là bất tử."
+  },
+  {
+   "tokens": [
+    "The",
+    "child",
+    "looks",
+    "up",
+    "to",
+    "his",
+    "father",
+    "with",
+    "worship",
+    "in",
+    "his",
+    "eyes"
+   ],
+   "reading": "",
+   "meaning": "Đứa trẻ đó đang nhìn cha mình với một ánh mắt tôn trọng."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "sue",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Hãy kiện cậu ta."
+  }
+ ],
+ "issues": []
+}

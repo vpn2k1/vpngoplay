@@ -1,0 +1,319 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "third",
+   "meaning": "thứ ba",
+   "example": "He won the third prize.",
+   "exampleMeaning": "Anh ấy đã giành được giải ba.",
+   "emoji": "",
+   "ipa": "/ˈθɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "barbecue",
+   "meaning": "lợn (bò, cừu) nướng (quay) cả con",
+   "example": "Let's learn the word \"barbecue\".",
+   "exampleMeaning": "Cùng học từ “barbecue”: lợn (bò, cừu) nướng (quay) cả con.",
+   "emoji": "",
+   "ipa": "/ˈbɑrbɪkˌju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drugstore",
+   "meaning": "hiệu thuốc, cửa hàng dược phẩm",
+   "example": "Let's learn the word \"drugstore\".",
+   "exampleMeaning": "Cùng học từ “drugstore”: hiệu thuốc, cửa hàng dược phẩm.",
+   "emoji": "",
+   "ipa": "/ˈdrəɡˌstɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "married",
+   "meaning": "cưới, kết hôn, thành lập gia đình",
+   "example": "Is he married?",
+   "exampleMeaning": "Anh ấy đã kết hôn chưa?",
+   "emoji": "",
+   "ipa": "/ˈmɛrid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ray",
+   "meaning": "tia hy vọng",
+   "example": "ray of hope",
+   "exampleMeaning": "(nghĩa bóng) tia hy vọng",
+   "emoji": "",
+   "ipa": "/ˈreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unhappy",
+   "meaning": "không may, rủi, bất hạnh",
+   "example": "He is a little bit unhappy today.",
+   "exampleMeaning": "Hôm nay anh ta có một chút không vui.",
+   "emoji": "",
+   "ipa": "/ənˈhæpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "traffic light",
+   "meaning": "đèn giao thông, đèn xanh đèn đỏ",
+   "example": "This is a traffic light.",
+   "exampleMeaning": "Đây là một cái đèn giao thông.",
+   "emoji": "",
+   "ipa": "/ˈtræfɪk ˈlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "roundabout",
+   "meaning": "quanh co",
+   "example": "to go by a roundabout route",
+   "exampleMeaning": "Đi bằng con đường vòng",
+   "emoji": "",
+   "ipa": "/ˈraʊndəˌbaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "heating",
+   "meaning": "sự đốt nóng, sự đun nóng",
+   "example": "Tom is in the kitchen, heating up leftovers.",
+   "exampleMeaning": "Tom đang ở trong bếp, hâm nóng đồ ăn thừa.",
+   "emoji": "",
+   "ipa": "/ˈhiːtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "whom",
+   "meaning": "người nào, (những) ai",
+   "example": "With whom did you go?",
+   "exampleMeaning": "Bạn đã đi với ai?",
+   "emoji": "",
+   "ipa": "/ˈhum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "daylight",
+   "meaning": "ánh nắng ban ngày",
+   "example": "in broad daylight",
+   "exampleMeaning": "Giữa ban ngày, thanh thiên bạch nhật; ai cũng biết, mọi người đều thấy",
+   "emoji": "",
+   "ipa": "/ˈdeɪˌlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "diet",
+   "meaning": "chế độ ăn",
+   "example": "to put someone on a diet",
+   "exampleMeaning": "Bắt ai ăn uống theo chế độ; bắt ai ăn kiêng",
+   "emoji": "",
+   "ipa": "/ˈdaɪət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cost",
+   "meaning": "giá",
+   "example": "carelessness may cost one one's life",
+   "exampleMeaning": "Sự cẩu thả có thể làm mất mạng",
+   "emoji": "",
+   "ipa": "/ˈkɑst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "photograph",
+   "meaning": "ảnh, bức ảnh",
+   "example": "I always photograph badly",
+   "exampleMeaning": "Tôi chụp ảnh bao giờ cũng xấu",
+   "emoji": "",
+   "ipa": "/ˈfoʊtəˌɡræf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grandchild",
+   "meaning": "cháu (của ông bà)",
+   "example": "Let's learn the word \"grandchild\".",
+   "exampleMeaning": "Cùng học từ “grandchild”: cháu (của ông bà).",
+   "emoji": "",
+   "ipa": "/ˈɡrænˌtʃaɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "murder",
+   "meaning": "giết, ám sát",
+   "example": "The motive for the murder isn't yet known.",
+   "exampleMeaning": "Động cơ của vụ án mạng chưa được làm rõ.",
+   "emoji": "",
+   "ipa": "/ˈmɜrdɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "escalator",
+   "meaning": "thang cuốn, cầu thang tự động",
+   "example": "Let's learn the word \"escalator\".",
+   "exampleMeaning": "Cùng học từ “escalator”: thang cuốn, cầu thang tự động.",
+   "emoji": "",
+   "ipa": "/ˈɛskəˌleɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chili",
+   "meaning": "ớt cay, tươi hay khô, thường màu đỏ",
+   "example": "Chili powder is greatly used in Indian cooking.",
+   "exampleMeaning": "Bột ớt được dùng rất nhiều trong các món ăn Ấn Độ.",
+   "emoji": "",
+   "ipa": "/ˈtʃɪli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "euro",
+   "meaning": "loài canguru lớn da đỏ xám (ở Úc)",
+   "example": "Some Germans work for only one euro an hour.",
+   "exampleMeaning": "Một số người Đức chỉ cần trả lương một euro một giờ.",
+   "emoji": "",
+   "ipa": "/ˈjuroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pepper",
+   "meaning": "hỏi dồn",
+   "example": "You put far too much pepper in it.",
+   "exampleMeaning": "Bạn cho vào nhiều tiêu quá đấy.",
+   "emoji": "",
+   "ipa": "/ˈpɛpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Turn",
+    "left",
+    "at",
+    "the",
+    "third",
+    "traffic",
+    "light"
+   ],
+   "reading": "",
+   "meaning": "Rẽ trái ở chỗ đèn giao thông thứ ba."
+  },
+  {
+   "tokens": [
+    "Is",
+    "he",
+    "married"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã kết hôn chưa?"
+  },
+  {
+   "tokens": [
+    "They",
+    "were",
+    "married"
+   ],
+   "reading": "",
+   "meaning": "Chúng nó cưới nhau rồi."
+  },
+  {
+   "tokens": [
+    "They",
+    "never",
+    "married"
+   ],
+   "reading": "",
+   "meaning": "Họ không bao giờ kết hôn."
+  },
+  {
+   "tokens": [
+    "She's",
+    "married",
+    "isn't",
+    "she"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy lấy chồng rồi có đúng không?"
+  }
+ ],
+ "issues": []
+}

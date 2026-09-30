@@ -1,0 +1,327 @@
+{
+ "lesson": 71,
+ "draft": true,
+ "words": [
+  {
+   "term": "同意",
+   "meaning": "đồng ý",
+   "example": "有一部分人不同意。",
+   "exampleMeaning": "Có một số người không đồng ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "训练",
+   "meaning": "huấn luyện",
+   "example": "警犬都是受过训练的。",
+   "exampleMeaning": "Chó nghiệp vụ đều phải trải qua sự huấn luyện.",
+   "emoji": "🚆",
+   "ipa": "",
+   "pinyin": "xùnliàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "部门",
+   "meaning": "khâu",
+   "example": "谁负责这个部门？",
+   "exampleMeaning": "Ai phụ trách khâu này?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùmén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "过程",
+   "meaning": "quá trình",
+   "example": "到了新地方要有一个适应的过程。",
+   "exampleMeaning": "Đến chỗ mới nên có quá trình thích ứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "深",
+   "meaning": "rất",
+   "example": "这里的河水只有三尺深。",
+   "exampleMeaning": "Nước sông ở đây chỉ sâu ba thước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "各",
+   "meaning": "mỗi",
+   "example": "近来各方面都有所改进。",
+   "exampleMeaning": "Gần đây tất cả đều được cải tiến toàn diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "选手",
+   "meaning": "tuyển thủ",
+   "example": "我们来学“选手”这个词。",
+   "exampleMeaning": "Cùng học từ “选手”: tuyển thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuǎnshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仍然",
+   "meaning": "lại",
+   "example": "他仍然还在教室里学习。",
+   "exampleMeaning": "Anh ấy vẫn còn đang học bài ở lớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "réngrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "显示",
+   "meaning": "hiển thị (thông qua thiết bị)",
+   "example": "显示巨大的威力。",
+   "exampleMeaning": "Biểu hiện uy lực to lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "属于",
+   "meaning": "thuộc về",
+   "example": "人生在世，不属于这个阶级就属于那个阶级。",
+   "exampleMeaning": "Người ta sống trên đời không thuộc về giai cấp này thì thuộc giai cấp khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǔyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "值得",
+   "meaning": "nên",
+   "example": "东西好，价钱又便宜，值得买。",
+   "exampleMeaning": "Đồ tốt, giá lại rẻ, nên mua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人类",
+   "meaning": "loài người",
+   "example": "人类起源",
+   "exampleMeaning": "Nguồn gốc loài người",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénlèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "亲",
+   "meaning": "cha",
+   "example": "她对大家都很亲切。",
+   "exampleMeaning": "Đối với mọi người, nó đều rất thân thiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "经历",
+   "meaning": "trải qua",
+   "example": "我从来经历过这种事情。",
+   "exampleMeaning": "Từ trước đến giờ tôi chưa từng gặp những chuyện như thế này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "仍",
+   "meaning": "vẫn",
+   "example": "仍须努力。",
+   "exampleMeaning": "Vẫn cần phải cố gắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "réng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "紧张",
+   "meaning": "căng thẳng",
+   "example": "球赛已经进入紧张阶段。",
+   "exampleMeaning": "Trận đấu đã bước vào giai đoạn căng thẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "仅",
+   "meaning": "gần",
+   "example": "士卒仅万人。",
+   "exampleMeaning": "Quân lính gần vạn người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挂",
+   "meaning": "phủ",
+   "example": "电话先不要挂，等我查一下。",
+   "exampleMeaning": "Đừng bỏ máy xuống vội, đợi tôi tra một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guà",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "事实",
+   "meaning": "sự thực",
+   "example": "事实证明了我们的担心是多余的。",
+   "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本来",
+   "meaning": "trước đây",
+   "example": "他本来身体很瘦弱，现在可结实了。",
+   "exampleMeaning": "Trước đây anh ấy ốm yếu lắm, giờ thì khoẻ nhiều rồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "仍然",
+    "还",
+    "在",
+    "教室",
+    "里",
+    "学习"
+   ],
+   "reading": "tā réngrán hái zài jiàoshì lǐ xuéxí",
+   "meaning": "Anh ấy vẫn còn đang học bài ở lớp."
+  },
+  {
+   "tokens": [
+    "那个",
+    "老人",
+    "非常",
+    "亲切"
+   ],
+   "reading": "nàge lǎorén fēicháng qīnqiè",
+   "meaning": "Ông già đó rất nhiệt tình."
+  },
+  {
+   "tokens": [
+    "他",
+    "不",
+    "是",
+    "我",
+    "父亲",
+    "他",
+    "是",
+    "我",
+    "叔叔"
+   ],
+   "reading": "tā bù shì wǒ fùqīn tā shì wǒ shūshu",
+   "meaning": "Ông ấy không phải ba tôi, ông ta là chú của tôi."
+  },
+  {
+   "tokens": [
+    "我们",
+    "也",
+    "同意"
+   ],
+   "reading": "wǒmen yě tóngyì",
+   "meaning": "Chúng tôi cũng đồng ý."
+  },
+  {
+   "tokens": [
+    "她",
+    "对",
+    "我们",
+    "很",
+    "亲切"
+   ],
+   "reading": "tā duì wǒmen hěn qīnqiè",
+   "meaning": "Nó rất thân thiết với chúng tôi."
+  }
+ ],
+ "issues": []
+}

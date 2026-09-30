@@ -1,0 +1,323 @@
+{
+ "lesson": 4,
+ "draft": true,
+ "words": [
+  {
+   "term": "need",
+   "meaning": "cần, phải",
+   "example": "do you need any help?",
+   "exampleMeaning": "Anh có cần sự giúp đỡ không?",
+   "emoji": "",
+   "ipa": "/niːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bye",
+   "meaning": "cái thứ yếu, cái phụ",
+   "example": "Let's learn the word \"bye\".",
+   "exampleMeaning": "Cùng học từ “bye”: cái thứ yếu, cái phụ.",
+   "emoji": "",
+   "ipa": "/ˈbaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "finish",
+   "meaning": "hoàn thành, kết thúc, làm xong",
+   "example": "to be in at the finish",
+   "exampleMeaning": "(săn) có mặt lúc hạ con cáo; có mặt lúc kết thúc",
+   "emoji": "",
+   "ipa": "/ˈfɪnɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bucket",
+   "meaning": "thùng, xô (để múc nước)",
+   "example": "Let's learn the word \"bucket\".",
+   "exampleMeaning": "Cùng học từ “bucket”: thùng, xô (để múc nước).",
+   "emoji": "🪣",
+   "ipa": "/ˈbəkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lady",
+   "meaning": "nữ, đàn bà",
+   "example": "The lady was jealous.",
+   "exampleMeaning": "Người phụ nữ đã ghen.",
+   "emoji": "",
+   "ipa": "/ˈleɪdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bike",
+   "meaning": "xe đạp",
+   "example": "I ride a bike to work.",
+   "exampleMeaning": "Tôi đi làm bằng xe đạp.",
+   "emoji": "",
+   "ipa": "/baɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "build",
+   "meaning": "xây, xây dựng, xây cất",
+   "example": "to be of the same build",
+   "exampleMeaning": "Cùng tầm vóc",
+   "emoji": "",
+   "ipa": "/bɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "use",
+   "meaning": "dùng, sử dụng",
+   "example": "to lose the use of one’s eyes",
+   "exampleMeaning": "Mất năng lực sử dụng con mắt",
+   "emoji": "",
+   "ipa": "/ˈjus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "away",
+   "meaning": "xa, xa cách, rời xa",
+   "example": "away with you!",
+   "exampleMeaning": "Cút đi! ra chỗ khác!",
+   "emoji": "",
+   "ipa": "/əˈweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "white",
+   "meaning": "trắng, màu trắng",
+   "example": "He has a white cat.",
+   "exampleMeaning": "Ông ấy có nuôi một con mèo trắng.",
+   "emoji": "",
+   "ipa": "/ˈhwaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "were",
+   "meaning": "thì, là",
+   "example": "We were tired.",
+   "exampleMeaning": "Chúng tôi mệt mỏi.",
+   "emoji": "",
+   "ipa": "/ˈwɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "easy",
+   "meaning": "dễ, dễ dàng",
+   "example": "to have on easy",
+   "exampleMeaning": "Nghỉ ngơi một lát",
+   "emoji": "",
+   "ipa": "/ˈiːzɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "player",
+   "meaning": "cầu thủ, đấu thủ",
+   "example": "Who is the world's most famous football player?",
+   "exampleMeaning": "Ai là cầu thủ bóng đá nổi tiếng nhất thế giới?",
+   "emoji": "",
+   "ipa": "/ˈpleɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "role",
+   "meaning": "vai, vai trò",
+   "example": "to play the leading role",
+   "exampleMeaning": "Thủ vai chính (trong vở kịch); đóng vai trò lãnh đạo",
+   "emoji": "",
+   "ipa": "/ˈroʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "yellow",
+   "meaning": "vàng",
+   "example": "These are yellow flowers.",
+   "exampleMeaning": "Đấy là hoa vàng.",
+   "emoji": "",
+   "ipa": "/ˈjɛ.ˌloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "with",
+   "meaning": "với, cùng, cùng với",
+   "example": "to be with someone on a point",
+   "exampleMeaning": "Đồng ý với người nào về một điểm",
+   "emoji": "",
+   "ipa": "/ˈwɪð/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "forty",
+   "meaning": "bốn mươi",
+   "example": "The fast lasts for forty days.",
+   "exampleMeaning": "Lần nhịn ăn kéo dài trong bốn mươi ngày.",
+   "emoji": "",
+   "ipa": "/ˈfɔrti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "February",
+   "meaning": "Tháng hai",
+   "example": "February is the coldest month of the year.",
+   "exampleMeaning": "Tháng hai là tháng lạnh nhất trong năm.",
+   "emoji": "",
+   "ipa": "/ˈfɛbjəˌwɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "song",
+   "meaning": "bài hát, điệu hát",
+   "example": "Who sings that song?",
+   "exampleMeaning": "Ai hát bài hát đó?",
+   "emoji": "",
+   "ipa": "/ˈsɔŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "there",
+   "meaning": "đó, đấy",
+   "example": "where there is oppression, there is struggle",
+   "exampleMeaning": "Ở đâu có áp bức, ở đó có đấu tranh",
+   "emoji": "",
+   "ipa": "/ˈðɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "easy",
+    "to",
+    "use"
+   ],
+   "reading": "",
+   "meaning": "Cái này dễ dùng."
+  },
+  {
+   "tokens": [
+    "There's",
+    "no",
+    "need",
+    "to",
+    "explain"
+   ],
+   "reading": "",
+   "meaning": "Không cần giải thích."
+  },
+  {
+   "tokens": [
+    "Who's",
+    "in",
+    "there",
+    "with",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Ai ở trong đó với bạn thế?"
+  },
+  {
+   "tokens": [
+    "There's",
+    "no",
+    "need",
+    "to",
+    "hide"
+   ],
+   "reading": "",
+   "meaning": "Không cần phải trốn."
+  },
+  {
+   "tokens": [
+    "They",
+    "were",
+    "there",
+    "for",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Họ đã ở bên cạnh tôi."
+  }
+ ],
+ "issues": []
+}

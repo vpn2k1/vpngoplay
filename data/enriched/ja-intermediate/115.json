@@ -1,0 +1,337 @@
+{
+ "lesson": 115,
+ "draft": true,
+ "words": [
+  {
+   "term": "作用",
+   "meaning": "hiệu lực, hiệu quả, tác dụng",
+   "example": "副作用としては、視力障害があります。",
+   "exampleMeaning": "Tác dụng phụ của nó là gây suy giảm thị lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "予て",
+   "meaning": "trước đây, đã, rồi",
+   "example": "「予て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予て”: trước đây, đã, rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "緩和",
+   "meaning": "sự giảm nhẹ, sự bớt đi",
+   "example": "「緩和」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “緩和”: sự giảm nhẹ, sự bớt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前例",
+   "meaning": "tiền lệ, lệ trước",
+   "example": "日本経済は当時、前例のない好況にあった。",
+   "exampleMeaning": "Vào thời điểm đó, nền kinh tế của Nhật Bản tốt chưa từng có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "賜る",
+   "meaning": "cho, ban (ơn), cấp",
+   "example": "「賜る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “賜る”: cho, ban (ơn), cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弓",
+   "meaning": "cái cung",
+   "example": "「弓」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弓”: cái cung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手遅れ",
+   "meaning": "sinh vật",
+   "example": "「手遅れ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手遅れ”: sinh vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "整える",
+   "meaning": "sắp xếp, sắp đặt, sửa soạn",
+   "example": "「整える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “整える”: sắp xếp, sắp đặt, sửa soạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温和",
+   "meaning": "hiền lành, dịu dàng, hoà nhã",
+   "example": "「温和」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “温和”: hiền lành, dịu dàng, hoà nhã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "細胞",
+   "meaning": "phòng nhỏ",
+   "example": "私たちの細胞の染色体は遺伝物質のすべてを含んでいる。",
+   "exampleMeaning": "Những nhiễm sắc thể trong tế bào của chúng ta chứa toàn bộ vật chất di truyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "果てる",
+   "meaning": "kết thúc",
+   "example": "「果てる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “果てる”: kết thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "比重",
+   "meaning": "trọng lượng riêng, tỷ trọng",
+   "example": "「比重」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “比重”: trọng lượng riêng, tỷ trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "趣",
+   "meaning": "hương vị, mùi vị, vị ngon",
+   "example": "私の趣味は買い物です。",
+   "exampleMeaning": "Sở thích của tôi là đi mua sắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "布告",
+   "meaning": "chỉ dụ, sắc lệnh",
+   "example": "「布告」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “布告”: chỉ dụ, sắc lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嘆く",
+   "meaning": "thở dài",
+   "example": "「嘆く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “嘆く”: thở dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アクセル",
+   "meaning": "người làm tăng tốc độ",
+   "example": "「アクセル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “アクセル”: người làm tăng tốc độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兆",
+   "meaning": "dấu, dấu hiệu, ký hiệu",
+   "example": "全ての兆候は彼女が回復しているということだ。",
+   "exampleMeaning": "Mọi dấu hiệu đã cho thấy cô ấy đang hồi phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暗殺",
+   "meaning": "sự ám sát",
+   "example": "「暗殺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暗殺”: sự ám sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受身",
+   "meaning": "bị động, thụ động",
+   "example": "「受身」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受身”: bị động, thụ động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部門",
+   "meaning": "giai cấp",
+   "example": "「部門」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “部門”: giai cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私の",
+    "趣味",
+    "は",
+    "古い",
+    "瓶",
+    "を",
+    "集める",
+    "こと",
+    "です"
+   ],
+   "reading": "わたしのしゅみはふるいびんをあつめることです",
+   "meaning": "Sở thích của tôi là sưu tập chai cũ."
+  },
+  {
+   "tokens": [
+    "私の",
+    "趣味",
+    "は",
+    "野",
+    "の",
+    "花",
+    "の",
+    "写真を撮る",
+    "こと",
+    "です"
+   ],
+   "reading": "わたしのしゅみはののはなのしゃしんをとることです",
+   "meaning": "Sở thích của tôi là chụp ảnh hoa dại."
+  },
+  {
+   "tokens": [
+    "日本経済",
+    "は",
+    "当時",
+    "前例",
+    "の",
+    "ない",
+    "好況",
+    "に",
+    "あった"
+   ],
+   "reading": "にっぽんけいざいはとうじぜんれいのないこうきょうにあった",
+   "meaning": "Vào thời điểm đó, nền kinh tế của Nhật Bản tốt chưa từng có."
+  },
+  {
+   "tokens": [
+    "水泳",
+    "は",
+    "私の",
+    "趣味",
+    "です"
+   ],
+   "reading": "すいえいはわたしのしゅみです",
+   "meaning": "Bơi lội là sở thích của tôi."
+  },
+  {
+   "tokens": [
+    "私の",
+    "趣味",
+    "は",
+    "買い物",
+    "です"
+   ],
+   "reading": "わたしのしゅみはかいものです",
+   "meaning": "Sở thích của tôi là đi mua sắm."
+  }
+ ],
+ "issues": []
+}

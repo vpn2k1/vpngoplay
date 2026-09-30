@@ -1,0 +1,339 @@
+{
+ "lesson": 77,
+ "draft": true,
+ "words": [
+  {
+   "term": "狭窄",
+   "meaning": "hẹp",
+   "example": "狭窄的小胡同。",
+   "exampleMeaning": "Ngõ hẹp; hẻm chật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiázhǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敬意",
+   "meaning": "sự tôn kính",
+   "example": "表达敬意",
+   "exampleMeaning": "Tỏ lòng tôn kính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "布局",
+   "meaning": "bố cục",
+   "example": "画面布局匀称",
+   "exampleMeaning": "Tranh vẽ được bố trí cân đối",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贪污",
+   "meaning": "tham ô",
+   "example": "贪污腐化。",
+   "exampleMeaning": "Tham ô hủ hoá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tānwū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自如",
+   "meaning": "thành thạo",
+   "example": "旋转自如",
+   "exampleMeaning": "Chuyển động thoải mái",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìrú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "金子",
+   "meaning": "vàng",
+   "example": "我们来学“金子”这个词。",
+   "exampleMeaning": "Cùng học từ “金子”: vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雇主",
+   "meaning": "người đi thuê",
+   "example": "我们来学“雇主”这个词。",
+   "exampleMeaning": "Cùng học từ “雇主”: người đi thuê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùzhǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "峡谷",
+   "meaning": "khe sâu",
+   "example": "我们来学“峡谷”这个词。",
+   "exampleMeaning": "Cùng học từ “峡谷”: khe sâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiágǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受理",
+   "meaning": "thụ lí",
+   "example": "我们来学“受理”这个词。",
+   "exampleMeaning": "Cùng học từ “受理”: thụ lí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòulǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重现",
+   "meaning": "tái hiện",
+   "example": "我们来学“重现”这个词。",
+   "exampleMeaning": "Cùng học từ “重现”: tái hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóngxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口腔",
+   "meaning": "khoang miệng",
+   "example": "我们来学“口腔”这个词。",
+   "exampleMeaning": "Cùng học từ “口腔”: khoang miệng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuqiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紊乱",
+   "meaning": "rối loạn",
+   "example": "秩序紊乱。",
+   "exampleMeaning": "Trật tự rối loạn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěnluàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "废墟",
+   "meaning": "đống hoang tàn",
+   "example": "大地震后，整个城市成了废墟。",
+   "exampleMeaning": "Sau trận động đất dữ dội, cả thành phố biến thành một đống hoang tàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèixū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "萎缩",
+   "meaning": "khô héo",
+   "example": "我们来学“萎缩”这个词。",
+   "exampleMeaning": "Cùng học từ “萎缩”: khô héo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěisuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扶持",
+   "meaning": "giúp đỡ",
+   "example": "老人没有子女，病中全靠街坊尽心扶持。",
+   "exampleMeaning": "Người già không con cái đều nhờ vào sự giúp đỡ tận tình của dân phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúchí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "真情",
+   "meaning": "chân tình",
+   "example": "真情实况",
+   "exampleMeaning": "Tình hình thực tế; tình huống thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人品",
+   "meaning": "phẩm chất con người",
+   "example": "我们来学“人品”这个词。",
+   "exampleMeaning": "Cùng học từ “人品”: phẩm chất con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平和",
+   "meaning": "ôn hoà",
+   "example": "我们来学“平和”这个词。",
+   "exampleMeaning": "Cùng học từ “平和”: ôn hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínghé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稍稍",
+   "meaning": "qua loa",
+   "example": "稍稍休息一下。",
+   "exampleMeaning": "Nghỉ tạm một lúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāoshāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沉迷",
+   "meaning": "mê muội",
+   "example": "我们来学“沉迷”这个词。",
+   "exampleMeaning": "Cùng học từ “沉迷”: mê muội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénmí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "抓",
+    "到",
+    "了",
+    "这个",
+    "男人",
+    "正在",
+    "偷",
+    "钱"
+   ],
+   "reading": "wǒ zhuā dào le zhège nánrén zhèngzài tōu qián",
+   "meaning": "Tôi đã bắt kịp thằng ăn cắp tiền này."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  },
+  {
+   "tokens": [
+    "他",
+    "提出",
+    "改革",
+    "研究",
+    "方法",
+    "的",
+    "意见"
+   ],
+   "reading": "tā tíchū gǎigé yánjiū fāngfǎ de yìjiàn",
+   "meaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  }
+ ],
+ "issues": []
+}

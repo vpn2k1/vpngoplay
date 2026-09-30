@@ -1,0 +1,329 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "urban",
+   "meaning": "thành phố, (thuộc) thành thị",
+   "example": "Let's learn the word \"urban\".",
+   "exampleMeaning": "Cùng học từ “urban”: thành phố, (thuộc) thành thị.",
+   "emoji": "",
+   "ipa": "/ˈɜrbən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overemphasize",
+   "meaning": "nhấn mạnh quá mức",
+   "example": "Let's learn the word \"overemphasize\".",
+   "exampleMeaning": "Cùng học từ “overemphasize”: nhấn mạnh quá mức.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˈɛmfəˌsaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aboriginal",
+   "meaning": "thổ dân",
+   "example": "tea is an aboriginal product of Phutho",
+   "exampleMeaning": "Chè là một đặc sản của Phú thọ",
+   "emoji": "",
+   "ipa": "/ˌæbɜrˈɪdʒənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "arch",
+   "meaning": "tinh nghịch, tinh quái, hóm",
+   "example": "an arch smile",
+   "exampleMeaning": "Nụ cười hóm hỉnh, nụ cười láu lỉnh",
+   "emoji": "",
+   "ipa": "/ˈɑrtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "breakdown",
+   "meaning": "sự tan vỡ, sự suy sụp, sự thất bại",
+   "example": "He drives a breakdown lorry.",
+   "exampleMeaning": "Anh ấy lái một chiếc xe tải tàn tạ.",
+   "emoji": "",
+   "ipa": "/ˈbreɪkˌdaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "flexible",
+   "meaning": "dẻo, mềm dẻo, dễ uốn",
+   "example": "Flexible work hours make employees more productive.",
+   "exampleMeaning": "Giờ làm việc cơ động giúp nhân viên năng suất hơn.",
+   "emoji": "",
+   "ipa": "/ˈflɛksəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pharmacist",
+   "meaning": "dược sĩ",
+   "example": "Let's learn the word \"pharmacist\".",
+   "exampleMeaning": "Cùng học từ “pharmacist”: dược sĩ.",
+   "emoji": "",
+   "ipa": "/ˈfɑrməsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hemp",
+   "meaning": "cây gai dầu",
+   "example": "Let's learn the word \"hemp\".",
+   "exampleMeaning": "Cùng học từ “hemp”: cây gai dầu.",
+   "emoji": "",
+   "ipa": "/ˈhɛmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "calmly",
+   "meaning": "yên lặng, êm ả, êm đềm",
+   "example": "Let's learn the word \"calmly\".",
+   "exampleMeaning": "Cùng học từ “calmly”: yên lặng, êm ả, êm đềm.",
+   "emoji": "",
+   "ipa": "/ˈkɑlmli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "de facto",
+   "meaning": "về thực tế (không chính thức)",
+   "example": "Let's learn the word \"de facto\".",
+   "exampleMeaning": "Cùng học từ “de facto”: về thực tế (không chính thức).",
+   "emoji": "",
+   "ipa": "/ˈdeɪ ˈfæktoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outsider",
+   "meaning": "người ngoài cuộc",
+   "example": "Let's learn the word \"outsider\".",
+   "exampleMeaning": "Cùng học từ “outsider”: người ngoài cuộc.",
+   "emoji": "",
+   "ipa": "/aʊtˈsaɪdɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "legislative",
+   "meaning": "làm luật, lập pháp",
+   "example": "a legislative body",
+   "exampleMeaning": "Hội đồng lập pháp",
+   "emoji": "",
+   "ipa": "/ˈlɛdʒəˌsleɪtɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "indispensable",
+   "meaning": "rất cần thiết, không thể thiếu được",
+   "example": "Her financial support is indispensable to this project of ours.",
+   "exampleMeaning": "Sự tài trợ của bà ấy là cần thiết cho dự án của chúng ta.",
+   "emoji": "",
+   "ipa": "/ˌɪndɪˈspɛnsəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "clothing",
+   "meaning": "quần áo, y phục",
+   "example": "Are clothes and clothing fashion important to you?",
+   "exampleMeaning": "Quần áo và thời trang quần áo có quan trọng với bạn không?",
+   "emoji": "",
+   "ipa": "/ˈkləʊðɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "eruption",
+   "meaning": "sự phun (núi lửa)",
+   "example": "Let's learn the word \"eruption\".",
+   "exampleMeaning": "Cùng học từ “eruption”: sự phun (núi lửa).",
+   "emoji": "",
+   "ipa": "/ˌiˈrəpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tiptoe",
+   "meaning": "nhón chân",
+   "example": "to stand on tiptoe; to be on tiptoe",
+   "exampleMeaning": "Nhón chân",
+   "emoji": "",
+   "ipa": "/ˈtɪpˌtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nomad",
+   "meaning": "dân du cư",
+   "example": "Let's learn the word \"nomad\".",
+   "exampleMeaning": "Cùng học từ “nomad”: dân du cư.",
+   "emoji": "",
+   "ipa": "/ˈnoʊˌmæd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chip",
+   "meaning": "làm sứt, làm mẻ",
+   "example": "to chip the edge of the glass",
+   "exampleMeaning": "Làm sứt mép gương",
+   "emoji": "",
+   "ipa": "/ˈtʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "corridor",
+   "meaning": "hành lang (nhà, toa xe lửa)",
+   "example": "Let's learn the word \"corridor\".",
+   "exampleMeaning": "Cùng học từ “corridor”: hành lang (nhà, toa xe lửa).",
+   "emoji": "",
+   "ipa": "/ˈkɔrədɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "funk",
+   "meaning": "sợ, sợ hãi, hoảng sợ",
+   "example": "to be in a funk",
+   "exampleMeaning": "Kinh sợ; rất đau khổ và tuyệt vọng.",
+   "emoji": "",
+   "ipa": "/ˈfəŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "is",
+    "a",
+    "pharmacist"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là một dược sĩ."
+  },
+  {
+   "tokens": [
+    "He",
+    "drives",
+    "a",
+    "breakdown",
+    "lorry"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy lái một chiếc xe tải tàn tạ."
+  },
+  {
+   "tokens": [
+    "We",
+    "just",
+    "met",
+    "in",
+    "the",
+    "corridor"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi mới vừa gặp nhau ở hành lang."
+  },
+  {
+   "tokens": [
+    "Flexible",
+    "work",
+    "hours",
+    "make",
+    "employees",
+    "more",
+    "productive"
+   ],
+   "reading": "",
+   "meaning": "Giờ làm việc cơ động giúp nhân viên năng suất hơn."
+  },
+  {
+   "tokens": [
+    "Did",
+    "you",
+    "put",
+    "a",
+    "chip",
+    "in",
+    "the",
+    "dog"
+   ],
+   "reading": "",
+   "meaning": "Bạn đã đặt chip lên con chó à?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,319 @@
+{
+ "lesson": 71,
+ "draft": true,
+ "words": [
+  {
+   "term": "passion",
+   "meaning": "say mê, yêu tha thiết, yêu nồng nàn",
+   "example": "To share one's passion is to live it fully.",
+   "exampleMeaning": "Chia sẻ đam mê của ai đó chính là sống thật trọn vẹn với nó.",
+   "emoji": "",
+   "ipa": "/ˈpæʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "vary",
+   "meaning": "làm cho khác nhau, thay đổi, biến đổi",
+   "example": "to vary from day to day",
+   "exampleMeaning": "Thay đổi mỗi ngày một khác",
+   "emoji": "",
+   "ipa": "/ˈvɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rearrange",
+   "meaning": "sắp xếp lại, bố trí lại, sắp đặt lại",
+   "example": "If I could rearrange the alphabet, I would put U and I together.",
+   "exampleMeaning": "Nếu tôi có thể xếp lại bảng chữ cái, tôi sẽ để U và I cạnh nhau.",
+   "emoji": "",
+   "ipa": "/ˌriɜrˈeɪndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "recording",
+   "meaning": "sự ghi",
+   "example": "Photography and video recording are prohibited.",
+   "exampleMeaning": "Cấm quay phim, chụp ảnh.",
+   "emoji": "",
+   "ipa": "/rəˈkɔrdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "laughter",
+   "meaning": "sự cười, tiếng cười",
+   "example": "Laughter is contagious.",
+   "exampleMeaning": "Tiếng cười thường lan toả.",
+   "emoji": "",
+   "ipa": "/ˈlæftɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "animation",
+   "meaning": "lòng hăng hái, nhiệt tình",
+   "example": "Let's learn the word \"animation\".",
+   "exampleMeaning": "Cùng học từ “animation”: lòng hăng hái, nhiệt tình.",
+   "emoji": "",
+   "ipa": "/ˌæn.ɪˈmeɪ.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bacteria",
+   "meaning": "vi khuẩn",
+   "example": "Let's learn the word \"bacteria\".",
+   "exampleMeaning": "Cùng học từ “bacteria”: vi khuẩn.",
+   "emoji": "",
+   "ipa": "/bækˈtɪriə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hopefully",
+   "meaning": "đầy hy vọng, phấn khởi",
+   "example": "Let's learn the word \"hopefully\".",
+   "exampleMeaning": "Cùng học từ “hopefully”: đầy hy vọng, phấn khởi.",
+   "emoji": "",
+   "ipa": "/ˈhoʊpfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "initiate",
+   "meaning": "người đã được vỡ lòng",
+   "example": "Let's learn the word \"initiate\".",
+   "exampleMeaning": "Cùng học từ “initiate”: người đã được vỡ lòng.",
+   "emoji": "",
+   "ipa": "/ˌɪˈnɪʃiˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vice",
+   "meaning": "thiếu sót, tật",
+   "example": "as firm as a vice",
+   "exampleMeaning": "Chắc như đinh",
+   "emoji": "",
+   "ipa": "/ˈvaɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "curve",
+   "meaning": "đường",
+   "example": "a curve of pursuit",
+   "exampleMeaning": "Đường đuôi",
+   "emoji": "",
+   "ipa": "/ˈkɜrv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "teaching",
+   "meaning": "sự dạy, sự giảng dạy",
+   "example": "We agreed on a teaching plan.",
+   "exampleMeaning": "Chúng tôi đã nhất trí về kế hoạch dạy học.",
+   "emoji": "",
+   "ipa": "/ˈtitʃɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lightning",
+   "meaning": "chớp, tia chớp",
+   "example": "as quick as lightning; like lightning; with lightning speed",
+   "exampleMeaning": "Nhanh như chớp, trong nháy mắt",
+   "emoji": "",
+   "ipa": "/ˈlaɪtnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mental",
+   "meaning": "tâm thần, (thuộc) tinh thần",
+   "example": "a mental patient",
+   "exampleMeaning": "Người mắc bệnh tâm thần",
+   "emoji": "",
+   "ipa": "/ˈmɛntəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "terminal",
+   "meaning": "theo từng quý",
+   "example": "by terminal payments",
+   "exampleMeaning": "Trả theo từng quý",
+   "emoji": "",
+   "ipa": "/ˈtərmɪnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "farming",
+   "meaning": "nông nghiệp",
+   "example": "a farming tool",
+   "exampleMeaning": "Dụng cụ nông nghiệp, nông cụ",
+   "emoji": "",
+   "ipa": "/ˈfɑrmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gain",
+   "meaning": "thu được, lấy được, giành được",
+   "example": "to gain the top of a mountain",
+   "exampleMeaning": "Tới đỉnh núi",
+   "emoji": "",
+   "ipa": "/ˈɡeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "assignment",
+   "meaning": "sự cho là, sự quy cho",
+   "example": "assignment of reason",
+   "exampleMeaning": "Sự cho là có lý do",
+   "emoji": "",
+   "ipa": "/əˈsaɪnmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wrist",
+   "meaning": "cổ tay",
+   "example": "Let's learn the word \"wrist\".",
+   "exampleMeaning": "Cùng học từ “wrist”: cổ tay.",
+   "emoji": "",
+   "ipa": "/ˈrɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "honestly",
+   "meaning": "lương thiện",
+   "example": "Let's learn the word \"honestly\".",
+   "exampleMeaning": "Cùng học từ “honestly”: lương thiện.",
+   "emoji": "",
+   "ipa": "/ˈɑnəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "like",
+    "teaching"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích dạy."
+  },
+  {
+   "tokens": [
+    "Teaching",
+    "is",
+    "learning"
+   ],
+   "reading": "",
+   "meaning": "Dạy cũng là học."
+  },
+  {
+   "tokens": [
+    "Chess",
+    "is",
+    "my",
+    "passion"
+   ],
+   "reading": "",
+   "meaning": "Cờ vua là đam mê của tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "finished",
+    "my",
+    "math",
+    "assignment"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã hoàn thành bài tập toán của tôi rồi."
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "like",
+    "teaching",
+    "French"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thích dạy tiếng Pháp."
+  }
+ ],
+ "issues": []
+}

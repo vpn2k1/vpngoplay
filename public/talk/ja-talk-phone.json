@@ -1,0 +1,98 @@
+{
+ "id": "ja-talk-phone",
+ "lang": "ja",
+ "order": 7,
+ "level": "N3",
+ "icon": "phone",
+ "title": "Gọi điện cho đối tác",
+ "scene": "Bạn gọi điện đến công ty đối tác để tìm anh Yamada.",
+ "roles": {
+  "A": "Nhân viên lễ tân",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "はい、さくら商事でございます。",
+   "reading": "はい、さくらしょうじでございます。",
+   "meaning": "Vâng, công ty Sakura xin nghe."
+  },
+  {
+   "role": "B",
+   "text": "お世話になっております。ハノイ貿易のグエンと申します。",
+   "reading": "おせわになっております。ハノイぼうえきのグエンともうします。",
+   "meaning": "Cảm ơn quý công ty đã luôn giúp đỡ. Tôi là Nguyễn, công ty Thương mại Hà Nội."
+  },
+  {
+   "role": "A",
+   "text": "いつもお世話になっております。",
+   "reading": "いつもおせわになっております。",
+   "meaning": "Chúng tôi cũng cảm ơn quý công ty."
+  },
+  {
+   "role": "B",
+   "text": "営業部の山田さんはいらっしゃいますか。",
+   "reading": "えいぎょうぶのやまださんはいらっしゃいますか。",
+   "meaning": "Anh Yamada phòng kinh doanh có ở đó không ạ?"
+  },
+  {
+   "role": "A",
+   "text": "申し訳ございません。山田はただいま会議中です。",
+   "reading": "もうしわけございません。やまだはただいまかいぎちゅうです。",
+   "meaning": "Thành thật xin lỗi. Yamada hiện đang họp."
+  },
+  {
+   "role": "B",
+   "text": "そうですか。では、伝言をお願いできますか。",
+   "reading": "そうですか。では、でんごんをおねがいできますか。",
+   "meaning": "Vậy ạ. Vậy tôi nhờ chị nhắn lại được không?"
+  },
+  {
+   "role": "A",
+   "text": "はい、どうぞ。",
+   "reading": "はい、どうぞ。",
+   "meaning": "Vâng, xin mời."
+  },
+  {
+   "role": "B",
+   "text": "来週の打ち合わせの件で、お電話をいただきたいとお伝えください。",
+   "reading": "らいしゅうのうちあわせのけんで、おでんわをいただきたいとおつたえください。",
+   "meaning": "Nhờ chị nhắn anh ấy gọi lại cho tôi về cuộc họp tuần sau."
+  },
+  {
+   "role": "A",
+   "text": "かしこまりました。山田に伝えます。",
+   "reading": "かしこまりました。やまだにつたえます。",
+   "meaning": "Vâng ạ. Tôi sẽ nhắn lại cho Yamada."
+  },
+  {
+   "role": "B",
+   "text": "よろしくお願いいたします。失礼いたします。",
+   "reading": "よろしくおねがいいたします。しつれいいたします。",
+   "meaning": "Nhờ chị giúp. Tôi xin phép cúp máy."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "お世話になっております。",
+   "reading": "おせわになっております。",
+   "meaning": "Cảm ơn anh chị đã luôn giúp đỡ.",
+   "note": "Câu chào mở đầu gần như bắt buộc khi gọi điện hay viết email công việc."
+  },
+  {
+   "text": "グエンと申します。",
+   "reading": "グエンともうします。",
+   "meaning": "Tôi tên là Nguyễn (cách nói khiêm nhường)."
+  },
+  {
+   "text": "伝言をお願いできますか。",
+   "reading": "でんごんをおねがいできますか。",
+   "meaning": "Tôi nhờ nhắn lại được không?"
+  },
+  {
+   "text": "失礼いたします。",
+   "reading": "しつれいいたします。",
+   "meaning": "Tôi xin phép (cúp máy, ra về)."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "ja-talk-directions",
+ "lang": "ja",
+ "order": 4,
+ "level": "N4",
+ "icon": "directions",
+ "title": "Hỏi đường",
+ "scene": "Bạn hỏi đường đến nhà ga ở Tokyo.",
+ "roles": {
+  "A": "Người đi đường",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "B",
+   "text": "すみません、ちょっといいですか。",
+   "reading": "すみません、ちょっといいですか。",
+   "meaning": "Xin lỗi, cho tôi hỏi một chút được không?"
+  },
+  {
+   "role": "A",
+   "text": "はい、何でしょうか。",
+   "reading": "はい、なんでしょうか。",
+   "meaning": "Vâng, có chuyện gì vậy?"
+  },
+  {
+   "role": "B",
+   "text": "駅はどこですか。",
+   "reading": "えきはどこですか。",
+   "meaning": "Nhà ga ở đâu ạ?"
+  },
+  {
+   "role": "A",
+   "text": "この道をまっすぐ行って、二つ目の角を右に曲がってください。",
+   "reading": "このみちをまっすぐいって、ふたつめのかどをみぎにまがってください。",
+   "meaning": "Đi thẳng đường này, rồi rẽ phải ở góc đường thứ hai."
+  },
+  {
+   "role": "B",
+   "text": "歩いて何分ぐらいかかりますか。",
+   "reading": "あるいてなんぷんぐらいかかりますか。",
+   "meaning": "Đi bộ mất khoảng mấy phút ạ?"
+  },
+  {
+   "role": "A",
+   "text": "五分ぐらいです。銀行の隣にありますよ。",
+   "reading": "ごふんぐらいです。ぎんこうのとなりにありますよ。",
+   "meaning": "Khoảng năm phút. Ga ở cạnh ngân hàng đấy."
+  },
+  {
+   "role": "B",
+   "text": "すみません、もう一度お願いします。",
+   "reading": "すみません、もういちどおねがいします。",
+   "meaning": "Xin lỗi, anh nói lại lần nữa được không?"
+  },
+  {
+   "role": "A",
+   "text": "まっすぐ行って、二つ目の角を右です。",
+   "reading": "まっすぐいって、ふたつめのかどをみぎです。",
+   "meaning": "Đi thẳng, đến góc thứ hai thì rẽ phải."
+  },
+  {
+   "role": "B",
+   "text": "わかりました。ありがとうございます。",
+   "reading": "わかりました。ありがとうございます。",
+   "meaning": "Tôi hiểu rồi. Cảm ơn anh nhiều."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "トイレはどこですか。",
+   "reading": "トイレはどこですか。",
+   "meaning": "Nhà vệ sinh ở đâu?",
+   "note": "Mẫu câu hỏi địa điểm: 〜はどこですか。"
+  },
+  {
+   "text": "まっすぐ行ってください。",
+   "reading": "まっすぐいってください。",
+   "meaning": "Hãy đi thẳng."
+  },
+  {
+   "text": "右に曲がってください。",
+   "reading": "みぎにまがってください。",
+   "meaning": "Hãy rẽ phải.",
+   "note": "Rẽ trái: 左（ひだり）に曲がってください。"
+  },
+  {
+   "text": "もう一度お願いします。",
+   "reading": "もういちどおねがいします。",
+   "meaning": "Làm ơn nói lại lần nữa."
+  }
+ ]
+}

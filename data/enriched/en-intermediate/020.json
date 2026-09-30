@@ -1,0 +1,321 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "embarrass",
+   "meaning": "làm lúng túng, làm ngượng nghịu",
+   "example": "Let's learn the word \"embarrass\".",
+   "exampleMeaning": "Cùng học từ “embarrass”: làm lúng túng, làm ngượng nghịu.",
+   "emoji": "",
+   "ipa": "/ɪmˈbɛrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whether",
+   "meaning": "có... không, có... chăng",
+   "example": "He asked me whether I like math.",
+   "exampleMeaning": "Anh ta hỏi tôi liệu có thích môn Toán không.",
+   "emoji": "",
+   "ipa": "/ˈhwɛðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "outer",
+   "meaning": "ngoài",
+   "example": "How do you find food in outer space?",
+   "exampleMeaning": "Làm sao để tìm được thức ăn khi đang ở ngoài không gian?",
+   "emoji": "",
+   "ipa": "/ˈaʊtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "infection",
+   "meaning": "sự nhiễm, sự làm nhiễm độc",
+   "example": "Syphilis is an infection that can be transmitted through sexual intercourse.",
+   "exampleMeaning": "Giang mai là một loại bệnh lây qua đường tình dục.",
+   "emoji": "",
+   "ipa": "/ɪnˈfɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "newcomer",
+   "meaning": "người mới đến",
+   "example": "Let's learn the word \"newcomer\".",
+   "exampleMeaning": "Cùng học từ “newcomer”: người mới đến.",
+   "emoji": "",
+   "ipa": "/ˈnuˌkəmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "waste",
+   "meaning": "phí",
+   "example": "it's a sheer waste of time",
+   "exampleMeaning": "Thật chỉ phí thì giờ",
+   "emoji": "",
+   "ipa": "/weɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "risk",
+   "meaning": "rủi ro",
+   "example": "at the risk of one's life",
+   "exampleMeaning": "Liều mạng",
+   "emoji": "",
+   "ipa": "/ˈrɪsk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "memorable",
+   "meaning": "đáng ghi nhớ, không quên được",
+   "example": "Let's learn the word \"memorable\".",
+   "exampleMeaning": "Cùng học từ “memorable”: đáng ghi nhớ, không quên được.",
+   "emoji": "",
+   "ipa": "/ˈmɛmɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "poet",
+   "meaning": "nhà thơ, thi sĩ",
+   "example": "Who's your favorite poet?",
+   "exampleMeaning": "Ai là nhà thơ mà bạn yêu thích?",
+   "emoji": "",
+   "ipa": "/ˈpəʊ.ɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "maintain",
+   "meaning": "giữ, duy trì, bảo vệ",
+   "example": "to maintain a large family",
+   "exampleMeaning": "Nuôi một gia đình đông con",
+   "emoji": "",
+   "ipa": "/meɪnˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "officially",
+   "meaning": "chính thức",
+   "example": "You’re officially on leave until further notice.",
+   "exampleMeaning": "Bạn chính thức được nghỉ phép cho đến khi có thông báo tiếp.",
+   "emoji": "",
+   "ipa": "/əˈfɪʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "derive",
+   "meaning": "từ (đâu mà ra), chuyển hoá từ",
+   "example": "to derive profit from...",
+   "exampleMeaning": "Thu lợi tức từ...",
+   "emoji": "",
+   "ipa": "/dɜrˈaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "edge",
+   "meaning": "cạnh, đường biên",
+   "example": "to edge one's way into a job",
+   "exampleMeaning": "Len lỏi vào một công việc gì",
+   "emoji": "",
+   "ipa": "/ˈɛdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "conclusion",
+   "meaning": "sự kết thúc, sự chấm dứt",
+   "example": "Let's learn the word \"conclusion\".",
+   "exampleMeaning": "Cùng học từ “conclusion”: sự kết thúc, sự chấm dứt.",
+   "emoji": "",
+   "ipa": "/kənˈkluʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bounce",
+   "meaning": "thình lình, bất chợt, vụt",
+   "example": "to bounce out of some place",
+   "exampleMeaning": "Nhảy vụt ra khỏi nơi nào",
+   "emoji": "",
+   "ipa": "/ˈbaʊns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accidentally",
+   "meaning": "tình cờ, ngẫu nhiên",
+   "example": "He accidentally put salt in your coffee.",
+   "exampleMeaning": "Anh ấy vô tình bỏ muối vào cà phê của bạn.",
+   "emoji": "",
+   "ipa": "/ˌæksəˈdɛnəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "animated",
+   "meaning": "đầy sức sống, đầy sinh khí",
+   "example": "Let's learn the word \"animated\".",
+   "exampleMeaning": "Cùng học từ “animated”: đầy sức sống, đầy sinh khí.",
+   "emoji": "",
+   "ipa": "/ˈænəˌmeɪtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "representative",
+   "meaning": "tiêu biểu, tượng trưng",
+   "example": "manuscripts representative of monastic life",
+   "exampleMeaning": "Những sách viết tay miêu tả cuộc đời tu hành",
+   "emoji": "",
+   "ipa": "/ˌrɛprəˈzɛnətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ironing",
+   "meaning": "sự là",
+   "example": "Let's learn the word \"ironing\".",
+   "exampleMeaning": "Cùng học từ “ironing”: sự là.",
+   "emoji": "",
+   "ipa": "/ˈaɪɜrnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brainstorming",
+   "meaning": "động não, thảo luận góp ý",
+   "example": "Let's learn the word \"brainstorming\".",
+   "exampleMeaning": "Cùng học từ “brainstorming”: động não, thảo luận góp ý.",
+   "emoji": "",
+   "ipa": "/ˈbreɪnˌstɔrmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Haste",
+    "makes",
+    "waste"
+   ],
+   "reading": "",
+   "meaning": "Dục tốc bất đạt."
+  },
+  {
+   "tokens": [
+    "Who's",
+    "your",
+    "favorite",
+    "poet"
+   ],
+   "reading": "",
+   "meaning": "Ai là nhà thơ mà bạn yêu thích?"
+  },
+  {
+   "tokens": [
+    "Don't",
+    "waste",
+    "your",
+    "time"
+   ],
+   "reading": "",
+   "meaning": "Đừng lãng phí thời gian."
+  },
+  {
+   "tokens": [
+    "It's",
+    "still",
+    "a",
+    "big",
+    "risk"
+   ],
+   "reading": "",
+   "meaning": "Đó vẫn là một rủi ro lớn."
+  },
+  {
+   "tokens": [
+    "Buy",
+    "cheap",
+    "and",
+    "waste",
+    "your",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Của rẻ là của ôi."
+  }
+ ],
+ "issues": []
+}

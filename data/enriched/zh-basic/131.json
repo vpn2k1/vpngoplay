@@ -1,0 +1,328 @@
+{
+ "lesson": 131,
+ "draft": true,
+ "words": [
+  {
+   "term": "过分",
+   "meaning": "quá",
+   "example": "这个箱子沉得过分了。",
+   "exampleMeaning": "Cái hòm này quá nặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "密",
+   "meaning": "kín đáo, thầm kín, bí mật",
+   "example": "密码是\"Muiriel\"。",
+   "exampleMeaning": "Mật mã là \"Muiriel\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "反而",
+   "meaning": "trái lại",
+   "example": "风不但没停，反而越来越大了。",
+   "exampleMeaning": "Gió không những không ngừng mà trái lại càng mạnh thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnér",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "街道",
+   "meaning": "đường",
+   "example": "街道工作。",
+   "exampleMeaning": "Công tác đường phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "培训",
+   "meaning": "huấn luyện",
+   "example": "培训技术人员。",
+   "exampleMeaning": "Đào tạo và huấn luyện nhân viên kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "péixùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "独自",
+   "meaning": "một mình",
+   "example": "就他一人独自在家。",
+   "exampleMeaning": "Chỉ có một mình anh ấy ở nhà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúzì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扩大",
+   "meaning": "mở rộng",
+   "example": "扩大耕地面积。",
+   "exampleMeaning": "Mở rộng diện tích trồng trọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuòdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大哥",
+   "meaning": "anh cả",
+   "example": "我们来学“大哥”这个词。",
+   "exampleMeaning": "Cùng học từ “大哥”: anh cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàgē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "此外",
+   "meaning": "ngoài ra",
+   "example": "院子里种着两棵玉米和两棵海棠，此外还有几丛月季。",
+   "exampleMeaning": "Trong vườn trồng hai cây bắp, hai cây hải đường, ngoài ra còn có mấy bụi hoa hồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奖金",
+   "meaning": "tiền thưởng",
+   "example": "我们来学“奖金”这个词。",
+   "exampleMeaning": "Cùng học từ “奖金”: tiền thưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盐",
+   "meaning": "muối",
+   "example": "酸式盐",
+   "exampleMeaning": "Muối a-xít",
+   "emoji": "🧂",
+   "ipa": "",
+   "pinyin": "yán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大众",
+   "meaning": "quần chúng",
+   "example": "劳苦大众",
+   "exampleMeaning": "Quần chúng lao động khổ cực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "迟到",
+   "meaning": "muộn",
+   "example": "我们来学“迟到”这个词。",
+   "exampleMeaning": "Cùng học từ “迟到”: muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chídào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怀念",
+   "meaning": "nhớ",
+   "example": "她怀念那些贫苦的孩子们。",
+   "exampleMeaning": "Cô ấy nhớ nhung những đứa trẻ nghèo khổ kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huáiniàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "假如",
+   "meaning": "nếu",
+   "example": "假如你没有这个程序，你现在就可以去下载。",
+   "exampleMeaning": "Nếu bạn không có chương trình này, bây giờ bạn có thể tải nó về",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎrú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "改善",
+   "meaning": "cải thiện",
+   "example": "我努力地改善我的成績。",
+   "exampleMeaning": "Tôi nổ lực cải thiện thành tích của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎishàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "晒",
+   "meaning": "nắng",
+   "example": "烈日晒得人头昏眼花。",
+   "exampleMeaning": "Nắng đến nỗi đầu váng mắt hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "减",
+   "meaning": "giảm, hạ (giá cả)",
+   "example": "他的工资被削减到最低程度。",
+   "exampleMeaning": "Lương của nó bị cắt giảm tới mức thấp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "官方",
+   "meaning": "nhà nước",
+   "example": "官方消息",
+   "exampleMeaning": "Tin chính thức; tin tức phía chính phủ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānfāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "引导",
+   "meaning": "hướng dẫn",
+   "example": "老师对学生要善于引导。",
+   "exampleMeaning": "Đối với học sinh giáo viên cần phải giỏi về cách hướng dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐndǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "它",
+    "有",
+    "改善",
+    "了"
+   ],
+   "reading": "tā yǒu gǎishàn le",
+   "meaning": "Nó đã được cải thiện rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "努力",
+    "地",
+    "改善",
+    "我",
+    "的",
+    "成绩"
+   ],
+   "reading": "wǒ nǔlì de gǎishàn wǒ de chéngjì",
+   "meaning": "Tôi nổ lực cải thiện thành tích của tôi."
+  },
+  {
+   "tokens": [
+    "阅读",
+    "改善",
+    "思想"
+   ],
+   "reading": "yuèdú gǎishàn sīxiǎng",
+   "meaning": "Đọc sách sẽ cải thiện suy nghĩ."
+  },
+  {
+   "tokens": [
+    "这个",
+    "箱子",
+    "沉",
+    "得",
+    "过分",
+    "了"
+   ],
+   "reading": "zhège xiāngzi chén de guòfèn le",
+   "meaning": "Cái hòm này quá nặng."
+  },
+  {
+   "tokens": [
+    "他",
+    "的",
+    "工资",
+    "被",
+    "削减",
+    "到",
+    "最",
+    "低",
+    "程度"
+   ],
+   "reading": "tā de gōngzī bèi xuējiǎn dào zuì dī chéngdù",
+   "meaning": "Lương của nó bị cắt giảm tới mức thấp nhất."
+  }
+ ],
+ "issues": []
+}

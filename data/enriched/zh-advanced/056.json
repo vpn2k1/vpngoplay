@@ -1,0 +1,347 @@
+{
+ "lesson": 56,
+ "draft": true,
+ "words": [
+  {
+   "term": "器材",
+   "meaning": "dụng cụ",
+   "example": "无线电器材。",
+   "exampleMeaning": "Dụng cụ vô tuyến điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìcái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "航行",
+   "meaning": "đi",
+   "example": "我们来学“航行”这个词。",
+   "exampleMeaning": "Cùng học từ “航行”: đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无穷",
+   "meaning": "vô cùng",
+   "example": "群众的智慧是无穷的。",
+   "exampleMeaning": "Trí tuệ của quần chúng là vô cùng vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúqióng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大选",
+   "meaning": "tổng tuyển cử",
+   "example": "我们来学“大选”这个词。",
+   "exampleMeaning": "Cùng học từ “大选”: tổng tuyển cử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàxuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前辈",
+   "meaning": "tiền bối",
+   "example": "我们来学“前辈”这个词。",
+   "exampleMeaning": "Cùng học từ “前辈”: tiền bối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánbèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "红灯",
+   "meaning": "đèn màu đỏ",
+   "example": "我们来学“红灯”这个词。",
+   "exampleMeaning": "Cùng học từ “红灯”: đèn màu đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngdēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "牢牢",
+   "meaning": "chắc chắn",
+   "example": "我们来学“牢牢”这个词。",
+   "exampleMeaning": "Cùng học từ “牢牢”: chắc chắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láoláo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "难以置信",
+   "meaning": "khó tin",
+   "example": "我们来学“难以置信”这个词。",
+   "exampleMeaning": "Cùng học từ “难以置信”: khó tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nányǐzhìxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "起草",
+   "meaning": "khởi thảo",
+   "example": "我们来学“起草”这个词。",
+   "exampleMeaning": "Cùng học từ “起草”: khởi thảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐcǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "麻木",
+   "meaning": "tê",
+   "example": "两腿有点麻木。",
+   "exampleMeaning": "Hai chân hơi tê tê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mámù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "重伤",
+   "meaning": "trọng thương",
+   "example": "我们来学“重伤”这个词。",
+   "exampleMeaning": "Cùng học từ “重伤”: trọng thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngshāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "青蛙",
+   "meaning": "ếch",
+   "example": "我们来学“青蛙”这个词。",
+   "exampleMeaning": "Cùng học từ “青蛙”: ếch.",
+   "emoji": "🐸",
+   "ipa": "",
+   "pinyin": "qīngwā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "葱",
+   "meaning": "hành tăm",
+   "example": "葱翠。",
+   "exampleMeaning": "Xanh biếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通风",
+   "meaning": "thoáng khí, thông khí, thoáng gió",
+   "example": "这屋子不通风，闹得很。",
+   "exampleMeaning": "Ngôi nhà này không thoáng gió, oi bức quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "减弱",
+   "meaning": "yếu đi",
+   "example": "风势减弱。",
+   "exampleMeaning": "Sức gió yếu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnruò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收视率",
+   "meaning": "tỉ lệ người xem truyền hình",
+   "example": "我们来学“收视率”这个词。",
+   "exampleMeaning": "Cùng học từ “收视率”: tỉ lệ người xem truyền hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōushìlǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "料到",
+   "meaning": "đoán được, dự liệu",
+   "example": "我们来学“料到”这个词。",
+   "exampleMeaning": "Cùng học từ “料到”: đoán được, dự liệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liàodào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "整合",
+   "meaning": "hội nhập",
+   "example": "我们来学“整合”这个词。",
+   "exampleMeaning": "Cùng học từ “整合”: hội nhập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěnghé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出众",
+   "meaning": "hơn người",
+   "example": "成绩出众。",
+   "exampleMeaning": "Thành tích hơn người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "合影",
+   "meaning": "chụp ảnh chung",
+   "example": "合影留念",
+   "exampleMeaning": "Chụp ảnh lưu niệm chung",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héyǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "他",
+    "想要",
+    "成功",
+    "即使",
+    "是以",
+    "他",
+    "的",
+    "健康",
+    "作为",
+    "代价"
+   ],
+   "reading": "tā xiǎngyào chénggōng jíshǐ shìyǐ tā de jiànkāng zuòwéi dàijià",
+   "meaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,328 @@
+{
+ "lesson": 80,
+ "draft": true,
+ "words": [
+  {
+   "term": "胜",
+   "meaning": "đẹp",
+   "example": "我爱你胜过其他任何一个人。",
+   "exampleMeaning": "Anh yêu thương em nhiều hơn ai hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "慢慢",
+   "meaning": "chậm rãi, chầm chậm, dần dần",
+   "example": "我们来学“慢慢”这个词。",
+   "exampleMeaning": "Cùng học từ “慢慢”: chậm rãi, chầm chậm, dần dần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mànmàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "压",
+   "meaning": "ép, nép, bóp",
+   "example": "我们来学“压”这个词。",
+   "exampleMeaning": "Cùng học từ “压”: ép, nép, bóp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yā",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "确保",
+   "meaning": "bảo đảm",
+   "example": "加强田间管理，确保粮食丰收。",
+   "exampleMeaning": "Tăng cường quản lí đồng ruộng, bảo đảm lương thực chắc chắn bội thu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quèbǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "建",
+   "meaning": "phúc Kiến",
+   "example": "这所房子不时进行扩建。",
+   "exampleMeaning": "Cô ấy rất sùng bái ông ta không chịu lắng nghe lời đánh giá của người khác về ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "队员",
+   "meaning": "đội viên",
+   "example": "我们来学“队员”这个词。",
+   "exampleMeaning": "Cùng học từ “队员”: đội viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "足够",
+   "meaning": "đủ",
+   "example": "已经有这么多了，足够了。",
+   "exampleMeaning": "Nhiều thế này rồi, đủ rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zúgòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "布",
+   "meaning": "bố trí",
+   "example": "这种布既便宜又结实。",
+   "exampleMeaning": "Thứ vải này đã rẽ lại bền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "咖啡",
+   "meaning": "cà phê (nước giải khát)",
+   "example": "来杯咖啡吗？",
+   "exampleMeaning": "Anh dùng thêm một ly cà phê nhé?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāfēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "采取",
+   "meaning": "áp dụng",
+   "example": "采取一切可能采取的手段。",
+   "exampleMeaning": "Dùng mọi thủ đoạn có thể áp dụng được",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎiqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "意外",
+   "meaning": "bất ngờ",
+   "example": "煤炉子一定要装烟筒，以免发生意外。",
+   "exampleMeaning": "Lò than nhất định phải lắp ống khói để tránh xảy ra điều bất trắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风险",
+   "meaning": "mạo hiểm",
+   "example": "冒着风险去搞试验。",
+   "exampleMeaning": "Mạo hiểm làm thí nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngxiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时刻",
+   "meaning": "luôn luôn",
+   "example": "时刻准备贡献出我们的力量。",
+   "exampleMeaning": "Chúng tôi luôn luôn chuẩn bị cống hiến sức lực của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "断",
+   "meaning": "đứt",
+   "example": "把对方的球断了下来。",
+   "exampleMeaning": "Chặn bóng của đối phương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "观察",
+   "meaning": "quan sát",
+   "example": "观察地形",
+   "exampleMeaning": "Quan sát địa hình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānchá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "千万",
+   "meaning": "nhất thiết",
+   "example": "大家干得正起劲，你千万不能泼冷水。",
+   "exampleMeaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānwàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "钟",
+   "meaning": "giờ",
+   "example": "才4点钟他就起床了。",
+   "exampleMeaning": "Vừa mới 4 giờ mà anh ấy đã dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "接近",
+   "meaning": "gần",
+   "example": "时间已接近半夜.",
+   "exampleMeaning": "Gần về khuya rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiējìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "重大",
+   "meaning": "lớn lao",
+   "example": "重大问题",
+   "exampleMeaning": "Vấn đề quan trọng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表明",
+   "meaning": "tỏ rõ",
+   "example": "他们的笑声表明他们幸福。",
+   "exampleMeaning": "Tiếng cười của họ thể hiện họ đang hạnh phúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎomíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "爱",
+    "你",
+    "胜过",
+    "其他",
+    "任何",
+    "一个人"
+   ],
+   "reading": "wǒ ài nǐ shèngguò qítā rènhé yīgèrén",
+   "meaning": "Anh yêu thương em nhiều hơn ai hết."
+  },
+  {
+   "tokens": [
+    "如果",
+    "你",
+    "喝",
+    "速溶咖啡",
+    "就",
+    "不",
+    "需要",
+    "咖啡壶",
+    "了"
+   ],
+   "reading": "rúguǒ nǐ hē sùróngkāfēi jiù bù xūyào kāfēihú le",
+   "meaning": "Nếu bạn uống cà phê uống liền, thì không cần đến bình cà phê."
+  },
+  {
+   "tokens": [
+    "来",
+    "杯",
+    "咖啡",
+    "吗"
+   ],
+   "reading": "lái bēi kāfēi ma",
+   "meaning": "Anh dùng thêm một ly cà phê nhé?"
+  },
+  {
+   "tokens": [
+    "现在",
+    "五",
+    "点钟"
+   ],
+   "reading": "xiànzài wǔ diǎnzhōng",
+   "meaning": "Hiện tại là năm giờ."
+  },
+  {
+   "tokens": [
+    "这种",
+    "布",
+    "既",
+    "便宜",
+    "又",
+    "结实"
+   ],
+   "reading": "zhèzhǒng bù jì piányi yòu jiēshí",
+   "meaning": "Thứ vải này đã rẽ lại bền."
+  }
+ ],
+ "issues": []
+}

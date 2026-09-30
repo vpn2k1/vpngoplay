@@ -1,0 +1,322 @@
+{
+ "lesson": 69,
+ "draft": true,
+ "words": [
+  {
+   "term": "障碍",
+   "meaning": "trở ngại",
+   "example": "排除障碍",
+   "exampleMeaning": "Gạt bỏ trở ngại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàngài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "全新",
+   "meaning": "tất cả đều mới",
+   "example": "我们来学“全新”这个词。",
+   "exampleMeaning": "Cùng học từ “全新”: tất cả đều mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "危机",
+   "meaning": "khủng hoảng",
+   "example": "危机四伏",
+   "exampleMeaning": "Chỗ nào cũng có nguy cơ; nguy cơ phục bốn phía; nguy cơ dồn dập bốn bề",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēijī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "护",
+   "meaning": "bao che",
+   "example": "叫救护车。",
+   "exampleMeaning": "Gọi cấp cứu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "精",
+   "meaning": "tinh",
+   "example": "他既精于数学又精于文学。",
+   "exampleMeaning": "Nó đã giỏi toán, còn giỏi cả văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毁",
+   "meaning": "phá, phá hoại, phá huỷ",
+   "example": "好好儿的一本书，让他给毁了。",
+   "exampleMeaning": "Một cuốn sách hay như vậy, lại để cho nó làm hư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "晕",
+   "meaning": "say",
+   "example": "听到消息，她晕倒了。",
+   "exampleMeaning": "Nghe được tin, nó liền té xỉu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yūn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "就算",
+   "meaning": "cho dù",
+   "example": "就算有困难，也不会太大。",
+   "exampleMeaning": "Cho dù có khó khăn cũng không có lớn quá đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùsuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "孤独",
+   "meaning": "cô đơn, cô độc, bơ vơ",
+   "example": "儿女都不在身边，他感到很孤独。",
+   "exampleMeaning": "Con cái không ở bên cạnh, ông ấy cảm thấy rất cô độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gūdú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贡献",
+   "meaning": "cống hiến",
+   "example": "为祖国贡献自己的一切。",
+   "exampleMeaning": "Cống hiến hết mình cho tổ quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赌",
+   "meaning": "đánh bạc",
+   "example": "你已经输了全部现金，别再赌了。",
+   "exampleMeaning": "Mày đã thua hết sạch tiền mặt rồi, đừng đánh bạc nữa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蒙",
+   "meaning": "che, phủ, bao phủ",
+   "example": "我们来学“蒙”这个词。",
+   "exampleMeaning": "Cùng học từ “蒙”: che, phủ, bao phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暴力",
+   "meaning": "bạo lực",
+   "example": "我们来学“暴力”这个词。",
+   "exampleMeaning": "Cùng học từ “暴力”: bạo lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàolì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物品",
+   "meaning": "hàng (dùng trong sinh hoạt)",
+   "example": "贵重物品。",
+   "exampleMeaning": "Vật phẩm quy; hàng đáng giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骄傲",
+   "meaning": "tự hào",
+   "example": "文理是我们青年人的骄傲。",
+   "exampleMeaning": "Văn Lý là niềm tự hào của lớp thanh niên chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "止",
+   "meaning": "ngăn lại",
+   "example": "停止大声说话。",
+   "exampleMeaning": "Cấm nói lớn tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "界",
+   "meaning": "giới",
+   "example": "世界語只有16個語法規則。",
+   "exampleMeaning": "Tiếng Esperanto chỉ có 16 quy tắc ngữ pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "平衡",
+   "meaning": "cân bằng",
+   "example": "产销平衡。",
+   "exampleMeaning": "Sản xuất và tiêu dùng ngang nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínghéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "偏",
+   "meaning": "cứ",
+   "example": "今天这个天气，可真是的，怎么偏在这时候下起雨来了。",
+   "exampleMeaning": "Hôm nay cái thời tiết này, thật là, sao lại cứ nhè cái lúc này mà mưa chứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "主持人",
+   "meaning": "mc, người dẫn chương trình",
+   "example": "我们来学“主持人”这个词。",
+   "exampleMeaning": "Cùng học từ “主持人”: mc, người dẫn chương trình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔchírén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "此处",
+    "禁止",
+    "停车"
+   ],
+   "reading": "cǐchù jìnzhǐ tíngchē",
+   "meaning": "Cấm đậu xe nơi đây."
+  },
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  }
+ ],
+ "issues": []
+}

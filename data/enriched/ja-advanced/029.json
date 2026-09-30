@@ -1,0 +1,336 @@
+{
+ "lesson": 29,
+ "draft": true,
+ "words": [
+  {
+   "term": "良好",
+   "meaning": "có thiện chí, thuận, tán thành",
+   "example": "「良好」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “良好”: có thiện chí, thuận, tán thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "終始",
+   "meaning": "đặc, chắc",
+   "example": "「終始」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “終始”: đặc, chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生かす",
+   "meaning": "dùng, sử dụng",
+   "example": "「生かす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生かす”: dùng, sử dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "規範",
+   "meaning": "kiểu, mẫu, mô hình",
+   "example": "「規範」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “規範”: kiểu, mẫu, mô hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気流",
+   "meaning": "dòng không khí",
+   "example": "飛行機が乱気流に近付いていたため操縦士は乗客にシートベルトを締めるよう呼びかけた。",
+   "exampleMeaning": "Lúc máy bay gặp gió xoáy, phi công yêu cầu hành khách thắt dây an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "快い",
+   "meaning": "vui vẻ, dễ thương (người... )",
+   "example": "「快い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “快い”: vui vẻ, dễ thương (người... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "作り",
+   "meaning": "bổ sung",
+   "example": "これは作り話なの？",
+   "exampleMeaning": "Đây là chuyện bịa phải không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "武装",
+   "meaning": "khí giới",
+   "example": "「武装」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “武装”: khí giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物体",
+   "meaning": "đồ vật, vật thể",
+   "example": "「物体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物体”: đồ vật, vật thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "とろける",
+   "meaning": "sự nấu chảy",
+   "example": "「とろける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “とろける”: sự nấu chảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "賑わう",
+   "meaning": "thịnh vượng, phồn vinh, thành công",
+   "example": "「賑わう」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “賑わう”: thịnh vượng, phồn vinh, thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "突っ突く",
+   "meaning": "xúi giục",
+   "example": "「突っ突く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “突っ突く”: xúi giục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妨害",
+   "meaning": "sự làm mất yên tĩnh, sự làm náo động",
+   "example": "「妨害」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “妨害”: sự làm mất yên tĩnh, sự làm náo động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "城下",
+   "meaning": "land near the castle (EN)",
+   "example": "「城下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “城下”: land near the castle (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "破裂",
+   "meaning": "sự nổ",
+   "example": "彼は脚にひどい毛細血管破裂を起こした。",
+   "exampleMeaning": "Anh ấy bị vỡ mao mạch chân nghiêm trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "処置",
+   "meaning": "sự đối xử, sự đối đãi",
+   "example": "「処置」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “処置”: sự đối xử, sự đối đãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本音",
+   "meaning": "vận động, chuyển động",
+   "example": "「大丈夫？ 傷ついてない？」「ううん、全然大丈夫だよ。むしろそうやって本音で話してくれるのすごく嬉しい」「そっか。よかった」",
+   "exampleMeaning": "\"Cậu có sao không? Có bị thương chỗ nào không?\" \"Không, không sao đâu. Ngược lại tớ còn thấy rất vui vì nhờ vậy, cậu đã nói chuyện một cách thật lòng với tớ.\" \"Vậy hả. Không sao là tốt rồi.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用品",
+   "meaning": "bài báo",
+   "example": "「用品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “用品”: bài báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ドライブイン",
+   "meaning": "đóng (đinh)",
+   "example": "「ドライブイン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ドライブイン”: đóng (đinh).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無断",
+   "meaning": "không có thông báo trước",
+   "example": "「無断」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無断”: không có thông báo trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "ボート",
+    "作り",
+    "の",
+    "過程",
+    "を",
+    "説明",
+    "した"
+   ],
+   "reading": "かれはボートづくりのかていをせつめいした",
+   "meaning": "Anh ấy giải thích quá trình xây dựng chiếc thuyền."
+  },
+  {
+   "tokens": [
+    "夫",
+    "は",
+    "家",
+    "を",
+    "作り",
+    "妻",
+    "は",
+    "家庭",
+    "を",
+    "作る"
+   ],
+   "reading": "おっとはいえをつくりつまはかていをつくる",
+   "meaning": "Đàn ông xây nhà, đàn bà xây tổ ấm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "話",
+    "は",
+    "作りごと",
+    "だった",
+    "と",
+    "わかった"
+   ],
+   "reading": "かれのはなしはつくりごとだったとわかった",
+   "meaning": "Tôi biết câu chuyện của anh ta là bịa đặt."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "うそつきの",
+    "名人",
+    "だ"
+   ],
+   "reading": "かれはうそつきのめいじんだ",
+   "meaning": "Anh ấy là một người giỏi nói dối."
+  },
+  {
+   "tokens": [
+    "私達",
+    "は",
+    "川",
+    "に",
+    "飛び込んだ"
+   ],
+   "reading": "わたしたちはかわにとびこんだ",
+   "meaning": "Chúng tôi đã nhảy xuống sông."
+  }
+ ],
+ "issues": []
+}

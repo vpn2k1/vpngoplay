@@ -1,0 +1,322 @@
+{
+ "lesson": 61,
+ "draft": true,
+ "words": [
+  {
+   "term": "否决",
+   "meaning": "bác bỏ",
+   "example": "提案被否决了。",
+   "exampleMeaning": "Đề án bị bác bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǒujué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中止",
+   "meaning": "bỏ dở",
+   "example": "刚做了一半就中止了。",
+   "exampleMeaning": "Vừa làm được một ít thì bỏ dở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "移交",
+   "meaning": "chuyển giao",
+   "example": "工程竣工后已移交使用单位。",
+   "exampleMeaning": "Công trình hoàn thành xong đã chuyển giao cho đơn vị sử dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíjiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挑衅",
+   "meaning": "gây hấn",
+   "example": "武装挑衅",
+   "exampleMeaning": "Khiêu khích quân sự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiǎoxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "功劳",
+   "meaning": "công lao",
+   "example": "绝不能把一切功劳归于自己。",
+   "exampleMeaning": "Tuyệt đối không được gom mọi công lao về mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngláo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有幸",
+   "meaning": "dịp may",
+   "example": "我有幸见到了海市蜃楼的奇妙景象。",
+   "exampleMeaning": "Tôi có dịp may nhìn thấy cảnh tượng kỳ diệu huyền ảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "复发",
+   "meaning": "tái phát",
+   "example": "我们来学“复发”这个词。",
+   "exampleMeaning": "Cùng học từ “复发”: tái phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùfā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丛林",
+   "meaning": "rừng cây",
+   "example": "飞机消失在丛林中。",
+   "exampleMeaning": "Máy bay biến mất vào trong rừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cónglín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "演变",
+   "meaning": "phát triển, mở mang, diễn biến",
+   "example": "宇宙间一切事物都是不断演变的。",
+   "exampleMeaning": "Mọi vật trong vũ trụ đều phát triển và thay đổi không ngừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnbiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "精华",
+   "meaning": "tinh hoa",
+   "example": "取其精华，去其糟粕。",
+   "exampleMeaning": "Chắt lấy cái tinh hoa, bỏ đi cái rác rưởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnghuá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火热",
+   "meaning": "thân mật",
+   "example": "两个人打得火热。",
+   "exampleMeaning": "Hai người đánh nhau rất hăng say.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒrè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "膨胀",
+   "meaning": "lạm phát",
+   "example": "通货膨胀。",
+   "exampleMeaning": "Nạn lạm phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "péngzhàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "更改",
+   "meaning": "thay đổi",
+   "example": "飞往上海的飞机中途遇雾，临时更改航线。",
+   "exampleMeaning": "Máy bay đi Thượng Hải nửa đường gặp sương mù, tạm thời phải thay đổi tuyến bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnggǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成千上万",
+   "meaning": "hàng ngàn hàng vạn",
+   "example": "这场演唱会吸引了成千上万的人前来观赏。",
+   "exampleMeaning": "Đại nhạc hội này đã thu hút hàng trăm hàng vạn người đến xem",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngqiānshàngwàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "丙",
+   "meaning": "b",
+   "example": "丙等。",
+   "exampleMeaning": "Hạng 3",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缺席",
+   "meaning": "vắng họp",
+   "example": "因事缺席。",
+   "exampleMeaning": "Vì bận nên không đi họp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quēxí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "标本",
+   "meaning": "tiêu bản",
+   "example": "标本兼治。",
+   "exampleMeaning": "Trị cả gốc đến ngọn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biāoběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伤势",
+   "meaning": "tình trạng vết thương",
+   "example": "伤势严重。",
+   "exampleMeaning": "Vết thương nặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挑起",
+   "meaning": "nhướn ( lông mày)",
+   "example": "我们来学“挑起”这个词。",
+   "exampleMeaning": "Cùng học từ “挑起”: nhướn ( lông mày).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiǎoqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "堤",
+   "meaning": "đê, con đê (đi qua chỗ lội)",
+   "example": "修堤筑坝",
+   "exampleMeaning": "Tu bổ đê điều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "要",
+    "把",
+    "他",
+    "射",
+    "下来"
+   ],
+   "reading": "wǒ yào bǎ tā shè xiàlai",
+   "meaning": "Tao sẽ bắn hạ nó."
+  },
+  {
+   "tokens": [
+    "自由",
+    "是",
+    "有",
+    "代价",
+    "的"
+   ],
+   "reading": "zìyóu shì yǒu dàijià de",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  }
+ ],
+ "issues": []
+}

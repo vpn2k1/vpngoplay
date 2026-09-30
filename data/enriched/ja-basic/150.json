@@ -1,0 +1,333 @@
+{
+ "lesson": 150,
+ "draft": true,
+ "words": [
+  {
+   "term": "謎",
+   "meaning": "điều bí ẩn, điều khó hiểu",
+   "example": "その殺人事件は依然として謎である。",
+   "exampleMeaning": "Vụ án giết người đó cho đến bây giờ vẫn còn là một ẩn số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "偶然",
+   "meaning": "tình cờ, ngẫu nhiên",
+   "example": "私は偶然彼に出会った。",
+   "exampleMeaning": "Tôi đã tình cờ gặp anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "姿",
+   "meaning": "vỏ ngoài, cái bọc ngoài, vẻ ngoài",
+   "example": "私は男の姿を見た。",
+   "exampleMeaning": "Tôi thấy bóng dáng của một người đàn ông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "破る",
+   "meaning": "xé, làm rách",
+   "example": "「破る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “破る”: xé, làm rách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "減少",
+   "meaning": "sự giảm đi, sự giảm sút",
+   "example": "「減少」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “減少”: sự giảm đi, sự giảm sút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鎖",
+   "meaning": "dây, xích",
+   "example": "この港は封鎖されうる。",
+   "exampleMeaning": "Cảng biển này có thể sẽ bị phong tỏa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "疑問",
+   "meaning": "câu hỏi",
+   "example": "「疑問」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “疑問”: câu hỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生える",
+   "meaning": "mọc, mọc lên (cây cối)",
+   "example": "「生える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生える”: mọc, mọc lên (cây cối).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "畳む",
+   "meaning": "gấp, gập",
+   "example": "「畳む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “畳む”: gấp, gập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "筋肉",
+   "meaning": "bắp thịt, cơ",
+   "example": "水泳は筋肉を発達させる。",
+   "exampleMeaning": "Bơi lội giúp cơ bắp phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "越える",
+   "meaning": "trội hơn",
+   "example": "「越える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “越える”: trội hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "適用",
+   "meaning": "gắn vào, áp vào, ghép vào",
+   "example": "「適用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “適用”: gắn vào, áp vào, ghép vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金額",
+   "meaning": "số tiền",
+   "example": "「金額」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金額”: số tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旅",
+   "meaning": "chuyến đi, cuộc hành trình, sự vượt biển",
+   "example": "旅は道連れ世は情け。",
+   "exampleMeaning": "Hành trình cần bạn đường, cuộc sống cần bạn đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "これら",
+   "meaning": "này",
+   "example": "これらは子供によくある病気です。",
+   "exampleMeaning": "Đây là một loại bệnh rất thường gặp ở trẻ em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同様",
+   "meaning": "giống, giống nhau, như nhau",
+   "example": "私と同様に彼もクラブのメンバーだった。",
+   "exampleMeaning": "Anh ấy cũng là một thành viên câu lạc bộ giống tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "灰",
+   "meaning": "tro",
+   "example": "「灰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “灰”: tro.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知識",
+   "meaning": "sự biết",
+   "example": "知識は力なり。",
+   "exampleMeaning": "Tri thức là sức mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "明らか",
+   "meaning": "rõ ràng, rành mạch, hiển nhiên",
+   "example": "明らかに君のミスだよ。",
+   "exampleMeaning": "Rõ ràng là em sai rồi đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "動かす",
+   "meaning": "chuyển, di chuyển, chuyển dịch",
+   "example": "トムが机を動かすのを手伝った。",
+   "exampleMeaning": "Tôi giúp Tom di chuyển cái bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "男",
+    "の",
+    "姿",
+    "を",
+    "見た"
+   ],
+   "reading": "わたしはおとこのすがたをみた",
+   "meaning": "Tôi thấy bóng dáng của một người đàn ông."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "一人旅",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "かれはひとりたびがすきです",
+   "meaning": "Anh ấy thích đi du lịch một mình."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "やましい",
+    "の",
+    "は",
+    "明らか",
+    "だ"
+   ],
+   "reading": "かれがやましいのはあきらかだ",
+   "meaning": "Rõ ràng là anh ấy đang cảm thấy tội lỗi."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "旅行",
+    "の",
+    "準備",
+    "に",
+    "忙しい"
+   ],
+   "reading": "かのじょはりょこうのじゅんびにいそがしい",
+   "meaning": "Cô ấy bận chuẩn bị cho chuyến du lịch."
+  },
+  {
+   "tokens": [
+    "一人で",
+    "旅行",
+    "する",
+    "の",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "ひとりでりょこうするのがすきです",
+   "meaning": "Tôi thích đi du lịch một mình."
+  }
+ ],
+ "issues": []
+}

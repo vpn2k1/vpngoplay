@@ -1,0 +1,327 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "尽头",
+   "meaning": "cuối",
+   "example": "胡同的尽头有一所新房子。",
+   "exampleMeaning": "Cuối hẻm có một căn nhà mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìntóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挽救",
+   "meaning": "cứu vãn",
+   "example": "挽救病人的生命。",
+   "exampleMeaning": "Cứu vãn sinh mệnh người bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnjiù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扩张",
+   "meaning": "mở rộng",
+   "example": "这种药能使血管扩张。",
+   "exampleMeaning": "Loại thuốc này làm giãn huyết quản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuòzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼下",
+   "meaning": "lúc này",
+   "example": "眼下最棘手的问题。",
+   "exampleMeaning": "Vấn đề rất nan giải lúc này",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剩余",
+   "meaning": "thừa ra",
+   "example": "不但没有亏欠，而且还有些剩余。",
+   "exampleMeaning": "Không những không thiếu mà còn thừa ra một số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèngyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歧视",
+   "meaning": "kỳ thị",
+   "example": "我们来学“歧视”这个词。",
+   "exampleMeaning": "Cùng học từ “歧视”: kỳ thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放过",
+   "meaning": "bỏ lỡ",
+   "example": "把好机会放过了。",
+   "exampleMeaning": "Bỏ lỡ cơ hội tốt rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "润",
+   "meaning": "bóng, mượt",
+   "example": "黑色很润。",
+   "exampleMeaning": "Đen bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无意",
+   "meaning": "không muốn",
+   "example": "他开荒时无意中发现了一枚古钱。",
+   "exampleMeaning": "Khi vỡ hoang, tình cờ ông ấy phát hiện được một đồng tiền cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "气味",
+   "meaning": "mùi",
+   "example": "丁香花的气味很好闻。",
+   "exampleMeaning": "Mùi hoa Đinh Hương rất thơm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推测",
+   "meaning": "suy đoán",
+   "example": "无从推测",
+   "exampleMeaning": "Không thể suy đoán",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīcè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "效力",
+   "meaning": "hiệu lực",
+   "example": "你的话对他没有发生效力。",
+   "exampleMeaning": "Lời nói của bạn không có hiệu lực gì với anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàolì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "思念",
+   "meaning": "tưởng niệm",
+   "example": "我们来学“思念”这个词。",
+   "exampleMeaning": "Cùng học từ “思念”: tưởng niệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīniàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "除此之外",
+   "meaning": "ngoài cái này / ngoài cái này",
+   "example": "除此之外，别无办法。",
+   "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chúcǐzhīwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "刹车",
+   "meaning": "phanh lại",
+   "example": "我们来学“刹车”这个词。",
+   "exampleMeaning": "Cùng học từ “刹车”: phanh lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "侵略",
+   "meaning": "xâm lược",
+   "example": "不管侵略者什么时候来, 都必被消灭。",
+   "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnlüè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腹部",
+   "meaning": "bụng",
+   "example": "我们来学“腹部”这个词。",
+   "exampleMeaning": "Cùng học từ “腹部”: bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宣称",
+   "meaning": "lên tiếng nói rằng",
+   "example": "这家报纸宣称它是拥护政府政策的。",
+   "exampleMeaning": "Bài báo này lên tiếng cho rằng nó ủng hộ chính sách của chính phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuānchēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "威力",
+   "meaning": "uy lực",
+   "example": "我们来学“威力”这个词。",
+   "exampleMeaning": "Cùng học từ “威力”: uy lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēilì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小区",
+   "meaning": "tiểu khu",
+   "example": "我们来学“小区”这个词。",
+   "exampleMeaning": "Cùng học từ “小区”: tiểu khu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  }
+ ],
+ "issues": []
+}

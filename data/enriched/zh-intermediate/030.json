@@ -1,0 +1,328 @@
+{
+ "lesson": 30,
+ "draft": true,
+ "words": [
+  {
+   "term": "绝望",
+   "meaning": "tuyệt vọng",
+   "example": "绝望地挣扎",
+   "exampleMeaning": "Giãy giụa một cách tuyệt vọng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "迷人",
+   "meaning": "mê hoặc lòng người",
+   "example": "我们来学“迷人”这个词。",
+   "exampleMeaning": "Cùng học từ “迷人”: mê hoặc lòng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mírén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "职位",
+   "meaning": "chức vị",
+   "example": "编制内的职位。",
+   "exampleMeaning": "Chức vị trong biên chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骗子",
+   "meaning": "tên lừa đảo",
+   "example": "我认为他是一个骗子。",
+   "exampleMeaning": "Tôi cho rằng hắn ta là một tên lừa bịp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piànzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "裁判",
+   "meaning": "trọng tài",
+   "example": "足球裁判。",
+   "exampleMeaning": "Trọng tài bóng đá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáipàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剧本",
+   "meaning": "kịch bản",
+   "example": "总的来说，这部电影从剧本到银幕是成功的。",
+   "exampleMeaning": "Nói tóm lại, bộ phim này từ kịch bản đến cách trình chiếu đều thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "干脆",
+   "meaning": "cứ",
+   "example": "那人不讲理，干脆别理他。",
+   "exampleMeaning": "Người đó không biết lý lẽ, cứ mặc kệ nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāncuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "干扰",
+   "meaning": "làm phiền",
+   "example": "排除干扰，坚持正确路线。",
+   "exampleMeaning": "Gạt bỏ sự quấy rối, kiên trì làm theo đường lối đúng đắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gānrǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "联络",
+   "meaning": "liên lạc",
+   "example": "他联络了一些人办了一个读书会。",
+   "exampleMeaning": "Anh ấy liên hệ với một số người, lập thành hội đọc sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánluò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "增强",
+   "meaning": "tăng cường",
+   "example": "实力大大增强",
+   "exampleMeaning": "Thực lực được tăng cường rất nhiều",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zēngqiáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "握",
+   "meaning": "nắm, giữ, ở (trong một tư thế nào đó)",
+   "example": "我们来学“握”这个词。",
+   "exampleMeaning": "Cùng học từ “握”: nắm, giữ, ở (trong một tư thế nào đó).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wò",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忍受",
+   "meaning": "chịu đựng",
+   "example": "无法忍受。",
+   "exampleMeaning": "Không còn cách nào chịu đựng nỗi.",
+   "emoji": "🐻",
+   "ipa": "",
+   "pinyin": "rěnshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扶",
+   "meaning": "cứu",
+   "example": "护士扶起伤员，给他换药。",
+   "exampleMeaning": "Y tá đỡ người bệnh dậy cho uống thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "漫画",
+   "meaning": "tranh châm biếm",
+   "example": "我们来学“漫画”这个词。",
+   "exampleMeaning": "Cùng học từ “漫画”: tranh châm biếm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mànhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不良",
+   "meaning": "xấu",
+   "example": "不良现象",
+   "exampleMeaning": "Hiện tượng không tốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùliáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "真诚",
+   "meaning": "chân thành",
+   "example": "真诚的心意。",
+   "exampleMeaning": "Tấm lòng chân thành",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "继承",
+   "meaning": "kế thừa",
+   "example": "继承先烈的遗业。",
+   "exampleMeaning": "Kế thừa sự nghiệp của các bậc tiền bối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "依据",
+   "meaning": "căn cứ",
+   "example": "我们来学“依据”这个词。",
+   "exampleMeaning": "Cùng học từ “依据”: căn cứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yījù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挣",
+   "meaning": "làm, chế tạo",
+   "example": "把捆绑的绳子挣开了。",
+   "exampleMeaning": "Thoát khỏi xiềng xích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暂停",
+   "meaning": "tạm dừng",
+   "example": "暂停施工",
+   "exampleMeaning": "Tạm dừng thi công",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàntíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "见到",
+    "了",
+    "王子",
+    "真人"
+   ],
+   "reading": "wǒ jiàndào le wángzǐ zhēnrén",
+   "meaning": "Tôi đã gặp Vương tử ngoài đời thật."
+  },
+  {
+   "tokens": [
+    "我",
+    "十分",
+    "反对",
+    "这个",
+    "项目"
+   ],
+   "reading": "wǒ shífēn fǎnduì zhège xiàngmù",
+   "meaning": "Tôi hoàn toàn phản đối kế hoạch."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

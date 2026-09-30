@@ -1,0 +1,331 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "study",
+   "meaning": "học",
+   "example": "to be lost in a brown study",
+   "exampleMeaning": "Đang suy nghĩ lung, đang trầm tư mặc tưởng",
+   "emoji": "",
+   "ipa": "/ˈstədi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "November",
+   "meaning": "Tháng mười một",
+   "example": "Let's learn the word \"November\".",
+   "exampleMeaning": "Cùng học từ “November”: Tháng mười một.",
+   "emoji": "",
+   "ipa": "/noʊˈvɛmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "live",
+   "meaning": "sống",
+   "example": "to live down a prejudice against one",
+   "exampleMeaning": "Bằng cách sống đứng đắn phá tan thành kiến của người ta đối với mình",
+   "emoji": "",
+   "ipa": "/ˈlaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "September",
+   "meaning": "tháng chín",
+   "example": "September 10 is World Suicide Prevention Day.",
+   "exampleMeaning": "Ngày 10 tháng 9 là ngày Thế giới Phòng chống Tự tử.",
+   "emoji": "",
+   "ipa": "/sɛpˈtɛmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "painting",
+   "meaning": "bức vẽ, bức tranh",
+   "example": "There's a painting over the bookcase.",
+   "exampleMeaning": "Có một bức tranh bên trên tủ sách.",
+   "emoji": "",
+   "ipa": "/ˈpeɪn.tɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "neighbor",
+   "meaning": "hàng xóm",
+   "example": "A close neighbor is better than a distant relative.",
+   "exampleMeaning": "Bán anh em xa mua láng giềng gần.",
+   "emoji": "",
+   "ipa": "/ˈneɪ.bər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grandparent",
+   "meaning": "ông bà (nội ngoại)",
+   "example": "Let's learn the word \"grandparent\".",
+   "exampleMeaning": "Cùng học từ “grandparent”: ông bà (nội ngoại).",
+   "emoji": "",
+   "ipa": "/ˈɡrændˌpɛrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "site",
+   "meaning": "nơi, chỗ, vị trí",
+   "example": "a good site for a picnic",
+   "exampleMeaning": "Một nơi đi chơi cắm trại tốt",
+   "emoji": "",
+   "ipa": "/ˈsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "factory",
+   "meaning": "nhà máy, xí nghiệp, xưởng",
+   "example": "So he works at this factory, does he?",
+   "exampleMeaning": "Cô ta làm ở xí nghiệp này đúng không?",
+   "emoji": "🏭",
+   "ipa": "/ˈfæk.tə.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "home",
+   "meaning": "nhà, gia đình, tổ ấm",
+   "example": "to have neither hearth nor home",
+   "exampleMeaning": "Không cửa không nhà",
+   "emoji": "",
+   "ipa": "/ˈhoʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "handsome",
+   "meaning": "đẹp",
+   "example": "a handsome man",
+   "exampleMeaning": "Người đẹp trai",
+   "emoji": "",
+   "ipa": "/ˈhænsəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rose",
+   "meaning": "hồng, màu hồng",
+   "example": "The city rose from the ashes.",
+   "exampleMeaning": "Thành phố mọc lên từ tro tàn.",
+   "emoji": "🌹",
+   "ipa": "/ˈroʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "Saturday",
+   "meaning": "thứ bảy",
+   "example": "Are you open on Saturday?",
+   "exampleMeaning": "Bạn có rảnh vào thứ Bảy không?",
+   "emoji": "",
+   "ipa": "/ˈsæˌtɪˌdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "first",
+   "meaning": "đầu tiên, lần đầu",
+   "example": "where did you see him first?",
+   "exampleMeaning": "Lần đầu anh gặp cậu ấy ở đâu?",
+   "emoji": "",
+   "ipa": "/ˈfɜrst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "saw",
+   "meaning": "cái cưa",
+   "example": "I saw one.",
+   "exampleMeaning": "Tôi thấy một cái.",
+   "emoji": "",
+   "ipa": "/ˈsɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "school",
+   "meaning": "trường",
+   "example": "he learnt his generalship in a serve school",
+   "exampleMeaning": "Ông ta đã học tập nghệ thuật chỉ huy quân sự trong một hiện trường rất ác liệt",
+   "emoji": "🏫",
+   "ipa": "/ˈskul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "who",
+   "meaning": "ai, người nào, kẻ nào",
+   "example": "Who am I?",
+   "exampleMeaning": "Tôi là ai?",
+   "emoji": "",
+   "ipa": "/ˈhu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "word",
+   "meaning": "từ",
+   "example": "to be as good as one's word",
+   "exampleMeaning": "Làm nhiều hơn đã hứa, nói ít làm nhiều",
+   "emoji": "",
+   "ipa": "/ˈwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "black",
+   "meaning": "đen",
+   "example": "to be in black",
+   "exampleMeaning": "Mặc quần áo đen; mặc áo tang",
+   "emoji": "",
+   "ipa": "/blæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mother",
+   "meaning": "mẹ, mẹ đẻ",
+   "example": "Is your mother at home?",
+   "exampleMeaning": "Mẹ của mày có ở nhà không?",
+   "emoji": "",
+   "ipa": "/ˈməðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "September",
+    "is",
+    "the",
+    "first",
+    "month",
+    "of",
+    "the",
+    "school",
+    "year",
+    "in",
+    "Israel"
+   ],
+   "reading": "",
+   "meaning": "Tháng Chín là tháng đầu tiên của năm học ở Israel."
+  },
+  {
+   "tokens": [
+    "Who",
+    "saw",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Ai đã thấy tôi?"
+  },
+  {
+   "tokens": [
+    "His",
+    "mother",
+    "was",
+    "a",
+    "school",
+    "teacher"
+   ],
+   "reading": "",
+   "meaning": "Mẹ anh ấy từng là một giáo viên."
+  },
+  {
+   "tokens": [
+    "He",
+    "doesn't",
+    "live",
+    "near",
+    "the",
+    "school"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy không sống gần ngôi trường."
+  },
+  {
+   "tokens": [
+    "It",
+    "was",
+    "him",
+    "who",
+    "I",
+    "saw"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là người mà tôi thấy."
+  }
+ ],
+ "issues": []
+}

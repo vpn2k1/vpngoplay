@@ -1,0 +1,316 @@
+{
+ "lesson": 21,
+ "draft": true,
+ "words": [
+  {
+   "term": "entirely",
+   "meaning": "toàn bộ, toàn vẹn, trọn vẹn",
+   "example": "Did you read it entirely?",
+   "exampleMeaning": "Bạn đã đọc hết chưa?",
+   "emoji": "",
+   "ipa": "/ɪnˈtaɪɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reality",
+   "meaning": "sự thực, thực tế, thực tại",
+   "example": "Reality isn't real.",
+   "exampleMeaning": "Thực tiễn không có thật.",
+   "emoji": "",
+   "ipa": "/riːˈælɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "demand",
+   "meaning": "đòi hỏi, yêu cầu",
+   "example": "law of supply and demand",
+   "exampleMeaning": "Luật cung cầu",
+   "emoji": "",
+   "ipa": "/dɪˈmænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nonsense",
+   "meaning": "vô nghĩa",
+   "example": "nonsense!, tuff and nonsense!",
+   "exampleMeaning": "Vô lý!, nói bậy!",
+   "emoji": "",
+   "ipa": "/ˈnɑnsɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "module",
+   "meaning": "đơn vị đo",
+   "example": "Let's learn the word \"module\".",
+   "exampleMeaning": "Cùng học từ “module”: đơn vị đo.",
+   "emoji": "",
+   "ipa": "/ˈmɑdʒul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "active",
+   "meaning": "tích cực, hoạt động",
+   "example": "It's no use talking, he wants active help.",
+   "exampleMeaning": "Nói mồm chẳng có ích gì, anh ấy cần sự giúp đỡ thiết thực cơ.",
+   "emoji": "",
+   "ipa": "/ˈæk.tɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recognize",
+   "meaning": "đoán, nhận, nhận ra",
+   "example": "to recognize a far remote relation",
+   "exampleMeaning": "Nhìn nhận một người bà con xa",
+   "emoji": "",
+   "ipa": "/ˈrɛkəɡˌnaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trustworthy",
+   "meaning": "đáng tin cậy",
+   "example": "Let's learn the word \"trustworthy\".",
+   "exampleMeaning": "Cùng học từ “trustworthy”: đáng tin cậy.",
+   "emoji": "",
+   "ipa": "/ˈtrəstˌwɜrði/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "avenue",
+   "meaning": "con đường (để tiến hoặc rút)",
+   "example": "The avenue is full of traffic lights.",
+   "exampleMeaning": "Đại lộ toàn là đèn giao thông.",
+   "emoji": "",
+   "ipa": "/ˈævəˌnu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rudely",
+   "meaning": "vô lễ",
+   "example": "rudely awakened by screams and shouts",
+   "exampleMeaning": "Đột ngột bị đánh thức bởi những tiếng kêu la, gào thét",
+   "emoji": "",
+   "ipa": "/ˈrudli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bathe",
+   "meaning": "tắm, đầm mình (đen & bóng)",
+   "example": "to bathe one's hands in blood",
+   "exampleMeaning": "Nhúng tay vào máu",
+   "emoji": "",
+   "ipa": "/ˈbeɪð/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "simplify",
+   "meaning": "làm đơn giản, đơn giản hoá",
+   "example": "Let's learn the word \"simplify\".",
+   "exampleMeaning": "Cùng học từ “simplify”: làm đơn giản, đơn giản hoá.",
+   "emoji": "",
+   "ipa": "/ˈsɪmpləˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "initially",
+   "meaning": "vào lúc đầu, ban đầu",
+   "example": "How did you meet Tom initially?",
+   "exampleMeaning": "Ban đầu bạn đã gặp Tom như thế nào?",
+   "emoji": "",
+   "ipa": "/ˌɪˈnɪʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "courgette",
+   "meaning": "bí xanh",
+   "example": "Let's learn the word \"courgette\".",
+   "exampleMeaning": "Cùng học từ “courgette”: bí xanh.",
+   "emoji": "",
+   "ipa": "/kɜːdʒˈɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "extreme",
+   "meaning": "cực, thái cực, mức cùng cực",
+   "example": "They like the extreme cold of Alaska.",
+   "exampleMeaning": "Họ thích thời tiết cực lạnh ở Alaska.",
+   "emoji": "",
+   "ipa": "/ɛkˈstrim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "disturbance",
+   "meaning": "sự làm mất yên tĩnh, sự làm náo động",
+   "example": "Let's learn the word \"disturbance\".",
+   "exampleMeaning": "Cùng học từ “disturbance”: sự làm mất yên tĩnh, sự làm náo động.",
+   "emoji": "",
+   "ipa": "/dɪˈstɜrbəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mankind",
+   "meaning": "loài người, nhân loại",
+   "example": "Do you think mankind will someday colonize the Moon?",
+   "exampleMeaning": "Bạn thực sự nghĩ rằng con người một ngày nào đó có thể định cư trên Mặt trăng không?",
+   "emoji": "",
+   "ipa": "/ˈmænˈkaɪnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "intention",
+   "meaning": "ý định, mục đích",
+   "example": "Tom had no intention of ever seeing Mary again.",
+   "exampleMeaning": "Tom không có ý định gặp lại Mary nữa.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛntʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "status",
+   "meaning": "tình trạng",
+   "example": "What's your marital status?",
+   "exampleMeaning": "Tình trạng hôn nhân của bạn là gì?",
+   "emoji": "",
+   "ipa": "/ˈstætəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "oily",
+   "meaning": "như dầu, nhờn như dầu, trơn như dầu",
+   "example": "Let's learn the word \"oily\".",
+   "exampleMeaning": "Cùng học từ “oily”: như dầu, nhờn như dầu, trơn như dầu.",
+   "emoji": "",
+   "ipa": "/ˈɔɪli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Reality",
+    "is",
+    "beautiful"
+   ],
+   "reading": "",
+   "meaning": "Thực tại là một thứ đẹp đẽ."
+  },
+  {
+   "tokens": [
+    "Stop",
+    "talking",
+    "nonsense"
+   ],
+   "reading": "",
+   "meaning": "Đừng nói vớ vẩn nữa."
+  },
+  {
+   "tokens": [
+    "Reality",
+    "isn't",
+    "real"
+   ],
+   "reading": "",
+   "meaning": "Thực tiễn không có thật."
+  },
+  {
+   "tokens": [
+    "Would",
+    "you",
+    "recognize",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể nhận ra anh ta không?"
+  },
+  {
+   "tokens": [
+    "That",
+    "wasn't",
+    "my",
+    "intention"
+   ],
+   "reading": "",
+   "meaning": "Đó không phải ý định của tôi"
+  }
+ ],
+ "issues": []
+}

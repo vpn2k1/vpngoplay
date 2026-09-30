@@ -1,0 +1,322 @@
+{
+ "lesson": 30,
+ "draft": true,
+ "words": [
+  {
+   "term": "虽然",
+   "meaning": "mặc dù",
+   "example": "这个计划虽然已经决定实施了，但是具体细节还需要从长计议。",
+   "exampleMeaning": "Kế hoạch này mặc dù đã được quyết định thực thi, nhưng mà các chi tiết cụ thể vẫn cần phải được cân nhắc kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suīrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "原因",
+   "meaning": "nguyên nhân",
+   "example": "检查生病的原因",
+   "exampleMeaning": "Kiểm tra nguyên nhân bị bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuányīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "只要",
+   "meaning": "chỉ cần",
+   "example": "只要功夫深，铁杵磨成针。",
+   "exampleMeaning": "Có công mài sắt, có ngày nên kim",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐyào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不同",
+   "meaning": "không giống nhau, bất đồng",
+   "example": "有一部分人不同意。",
+   "exampleMeaning": "Có một số người không đồng ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùtóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "进入",
+   "meaning": "vào",
+   "example": "进入新阶段。",
+   "exampleMeaning": "Bước vào giai đoạn mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有人",
+   "meaning": "người nào",
+   "example": "有人正在彈鋼琴。",
+   "exampleMeaning": "Có người nào đó đang chơi đàn piano.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒurén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分钟",
+   "meaning": "phút",
+   "example": "我们来学“分钟”这个词。",
+   "exampleMeaning": "Cùng học từ “分钟”: phút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接受",
+   "meaning": "chịu",
+   "example": "虚心接受批评。",
+   "exampleMeaning": "Khiêm tốn tiếp thu phê bình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "其中",
+   "meaning": "trong đó",
+   "example": "全社有果树五万棵，其中梨树占30%。",
+   "exampleMeaning": "Toàn hợp tác xã có năm vạn cây ăn quả, trong đó lê chiếm 30%.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qízhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人们",
+   "meaning": "người",
+   "example": "这些人想让人们跟着他们走。",
+   "exampleMeaning": "Những người ấy muốn ngưới ta đi theo họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénmen",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "道",
+   "meaning": "đạo",
+   "example": "我真的不知道。",
+   "exampleMeaning": "Tôi thật sự không biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "能够",
+   "meaning": "có thể",
+   "example": "她已经能够结婚了，也就是说，她是有夫之妇。",
+   "exampleMeaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nénggòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "拉",
+   "meaning": "lôi, kéo, giật",
+   "example": "我们来学“拉”这个词。",
+   "exampleMeaning": "Cùng học từ “拉”: lôi, kéo, giật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lā",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "完成",
+   "meaning": "hoàn thành",
+   "example": "要努力完成计划。",
+   "exampleMeaning": "Hãy ra sức hoàn thành kế hoạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "求",
+   "meaning": "tìm, đi tìm, tìm kiếm",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "帮助",
+   "meaning": "giúp",
+   "example": "你需要我们的帮助吗？",
+   "exampleMeaning": "Bạn có cần sự giúp đỡ của chúng tôi không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāngzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "变",
+   "meaning": "biến",
+   "example": "一切都不会改变。",
+   "exampleMeaning": "Không có gì thay đổi cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "加",
+   "meaning": "tăng",
+   "example": "学生人数一年比一年增加。",
+   "exampleMeaning": "Số học sinh mỗi năm một tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "当时",
+   "meaning": "lúc đó, hồi ấy, khi ấy",
+   "example": "当时我没想到这个问题。",
+   "exampleMeaning": "Lúc đó, tôi không nghĩ đến vấn đề này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "努力",
+   "meaning": "dự án, kế hoạch, nỗ lực",
+   "example": "我努力地改善我的成績。",
+   "exampleMeaning": "Tôi nổ lực cải thiện thành tích của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǔlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "要",
+    "努力",
+    "完成",
+    "计划"
+   ],
+   "reading": "yào nǔlì wánchéng jìhuà",
+   "meaning": "Hãy ra sức hoàn thành kế hoạch."
+  },
+  {
+   "tokens": [
+    "我",
+    "真",
+    "的",
+    "不",
+    "知道"
+   ],
+   "reading": "wǒ zhēn de bù zhīdào",
+   "meaning": "Tôi thật sự không biết."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "知道",
+    "这些"
+   ],
+   "reading": "wǒ zhǐ zhīdào zhèxiē",
+   "meaning": "Tôi chỉ biết thế thôi."
+  },
+  {
+   "tokens": [
+    "你",
+    "怎么",
+    "会",
+    "不",
+    "知道"
+   ],
+   "reading": "nǐ zěnme huì bù zhīdào",
+   "meaning": "Tại sao bạn lại có thể không biết được?"
+  },
+  {
+   "tokens": [
+    "什么",
+    "都",
+    "不",
+    "会",
+    "改变"
+   ],
+   "reading": "shénme dōu bù huì gǎibiàn",
+   "meaning": "Không có gì thay đổi cả."
+  }
+ ],
+ "issues": []
+}

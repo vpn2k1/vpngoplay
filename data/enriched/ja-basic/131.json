@@ -1,0 +1,327 @@
+{
+ "lesson": 131,
+ "draft": true,
+ "words": [
+  {
+   "term": "相手",
+   "meaning": "người cùng chung phần",
+   "example": "相手チームは鉄壁の守りを固めている。",
+   "exampleMeaning": "Đội đối phương đang củng cố hàng phòng ngự không thể xuyên phá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "秒",
+   "meaning": "thứ hai, thứ nhì",
+   "example": "はい。１００メートルを１２秒以内で走ることができます。",
+   "exampleMeaning": "Vâng, anh ta có thể chạy 100 mét trong vòng 12 giây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "誘う",
+   "meaning": "mời",
+   "example": "「誘う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “誘う”: mời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "根",
+   "meaning": "rễ (cây)",
+   "example": "トムは屋根の上にいる。",
+   "exampleMeaning": "Tom đang ở trên mái nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "警告",
+   "meaning": "sự báo trước",
+   "example": "日本大使館は日本人に対し、注意するよう警告している。",
+   "exampleMeaning": "Đại sứ quán Nhật Bản đã và đang cảnh báo người dân Nhật phải cẩn trọng.",
+   "emoji": "⚠",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "診察",
+   "meaning": "kiểm tra y học",
+   "example": "ある日彼は病院へ診察に行った。",
+   "exampleMeaning": "Một ngày nọ, anh ấy đã đến bệnh viện khám bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学期",
+   "meaning": "hạn, định hạn, thời hạn",
+   "example": "日本では新学期が四月に始まる。",
+   "exampleMeaning": "Ở Nhật Bản, học kỳ mới bắt đầu vào tháng 4.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "銀",
+   "meaning": "bạc",
+   "example": "雄弁は銀、沈黙は金。",
+   "exampleMeaning": "Im lặng là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "冒険",
+   "meaning": "phiêu lưu, mạo hiểm, liều",
+   "example": "子供の頃から冒険が好きだった。",
+   "exampleMeaning": "Từ thuở còn nhỏ tôi đã thích phiêu lưu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "制限",
+   "meaning": "sự hạn chế, sự thu hẹp, sự ngăn giữ",
+   "example": "「制限」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “制限”: sự hạn chế, sự thu hẹp, sự ngăn giữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知能",
+   "meaning": "sự hiểu biết",
+   "example": "予知能力とは霊力を使って、未来に起こることがらについて知ること。",
+   "exampleMeaning": "Năng lực tiên tri là năng lực sử dụng sức mạnh tâm linh để dự đoán những chuyện xảy ra trong tương lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "チーム",
+   "meaning": "đội, tổ",
+   "example": "彼はうちのチームのＭＶＰだ。",
+   "exampleMeaning": "Anh ta là người chơi xuất sắc nhất trong đội của chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大会",
+   "meaning": "hội nghị (chính trị)",
+   "example": "「大会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大会”: hội nghị (chính trị).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "だが",
+   "meaning": "còn, hãy còn, còn nữa",
+   "example": "だが宇宙は無限だ。",
+   "exampleMeaning": "Nhưng mà vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "譲る",
+   "meaning": "đảo",
+   "example": "「譲る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “譲る”: đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "左右",
+   "meaning": "ảnh hưởng, tác dụng",
+   "example": "トムを上下左右前後探したが見つからない。",
+   "exampleMeaning": "Tom đã tìm nó khắp nơi nhưng vẫn không tìm thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "修飾",
+   "meaning": "sự trang hoàng, sự trang trí",
+   "example": "「修飾」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “修飾”: sự trang hoàng, sự trang trí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "便り",
+   "meaning": "tin, tin tức",
+   "example": "「便り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “便り”: tin, tin tức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ミス",
+   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "example": "明らかに君のミスだよ。",
+   "exampleMeaning": "Rõ ràng là em sai rồi đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "承認",
+   "meaning": "sự tán thành, sự đồng ý, sự chấp thuận",
+   "example": "黙っていると事実上の承認とみなされます。",
+   "exampleMeaning": "Việc im lặng trên thực tế được coi là sự đồng ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "銀行",
+    "で",
+    "働いています"
+   ],
+   "reading": "かれはぎんこうではたらいています",
+   "meaning": "Tôi đang làm việc ở ngân hàng."
+  },
+  {
+   "tokens": [
+    "子供の頃",
+    "から",
+    "冒険",
+    "が",
+    "好き",
+    "だった"
+   ],
+   "reading": "こどものころからぼうけんがすきだった",
+   "meaning": "Từ thuở còn nhỏ tôi đã thích phiêu lưu."
+  },
+  {
+   "tokens": [
+    "金銭",
+    "は",
+    "すべての",
+    "あく",
+    "の",
+    "根",
+    "である"
+   ],
+   "reading": "きんせんはすべてのあくのねである",
+   "meaning": "Tiền là nguồn gốc của mọi tội ác."
+  },
+  {
+   "tokens": [
+    "金",
+    "は",
+    "銀",
+    "より",
+    "重い"
+   ],
+   "reading": "きんはぎんよりおもい",
+   "meaning": "Vàng nặng hơn bạc."
+  },
+  {
+   "tokens": [
+    "私の",
+    "父",
+    "は",
+    "銀行員",
+    "です"
+   ],
+   "reading": "わたしのちちはぎんこういんです",
+   "meaning": "Bố tôi là một nhân viên ngân hàng."
+  }
+ ],
+ "issues": []
+}

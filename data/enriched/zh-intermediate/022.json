@@ -1,0 +1,326 @@
+{
+ "lesson": 22,
+ "draft": true,
+ "words": [
+  {
+   "term": "专辑",
+   "meaning": "album",
+   "example": "我们来学“专辑”这个词。",
+   "exampleMeaning": "Cùng học từ “专辑”: album.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "虎",
+   "meaning": "hổ, cọp",
+   "example": "我们来学“虎”这个词。",
+   "exampleMeaning": "Cùng học từ “虎”: hổ, cọp.",
+   "emoji": "🐅",
+   "ipa": "",
+   "pinyin": "hǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "绕",
+   "meaning": "quanh quẩn",
+   "example": "一些问题绕在他的胸子里。",
+   "exampleMeaning": "Một số vấn đề cứ quanh quẩn trong đầu anh ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喷",
+   "meaning": "mùa (nông sản, hải sản)",
+   "example": "绿豆结二喷角了。",
+   "exampleMeaning": "Đậu xanh đã qua hai đợt rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抱怨",
+   "meaning": "oán trách",
+   "example": "他怎么敢抱怨？",
+   "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàoyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "卫星",
+   "meaning": "vệ tinh",
+   "example": "人造卫星从河内上空飞过。",
+   "exampleMeaning": "Vệ tinh nhân tạo đã bay qua Hà Nội.",
+   "emoji": "🛰",
+   "ipa": "",
+   "pinyin": "wèixīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "动手",
+   "meaning": "chạm vào",
+   "example": "展览品只许看，不许动手。",
+   "exampleMeaning": "Hàng triển lãm chỉ được xem, không được chạm vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "靠近",
+   "meaning": "kế",
+   "example": "轮船慢慢地靠近码头了。",
+   "exampleMeaning": "Thuyền từ từ cập bến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàojìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "邻居",
+   "meaning": "hàng xóm",
+   "example": "我们来学“邻居”这个词。",
+   "exampleMeaning": "Cùng học từ “邻居”: hàng xóm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línjū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "污染",
+   "meaning": "ô nhiễm",
+   "example": "污染水源",
+   "exampleMeaning": "Làm ô nhiễm nguồn nước; nhiễm bẩn nguồn nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wūrǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罚",
+   "meaning": "phạt, trừng phạt, trừng trị",
+   "example": "罚他喝一杯",
+   "exampleMeaning": "Phạt nó uống một ly.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fá",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时机",
+   "meaning": "thời cơ",
+   "example": "掌握时机。",
+   "exampleMeaning": "Nắm lấy thời cơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "治安",
+   "meaning": "an ninh trật tự",
+   "example": "治安保卫工作",
+   "exampleMeaning": "Công tác bảo vệ trị an",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "糟糕",
+   "meaning": "gay go",
+   "example": "真糟糕，把钥匙锁在屋里，进不去了。",
+   "exampleMeaning": "Gay go rồi, bỏ quên chìa khoá trong nhà rồi, không vào được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zāogāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "空中",
+   "meaning": "không trung",
+   "example": "云是天空中的水汽团。",
+   "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kōngzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "渴望",
+   "meaning": "khát khao",
+   "example": "同学们都渴望着 和这 位作家见面。",
+   "exampleMeaning": "Các bạn học đều tha thiết gặp mặt nhà văn này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "连接",
+   "meaning": "liên tiếp",
+   "example": "山岭连接。",
+   "exampleMeaning": "Núi liền núi.",
+   "emoji": "🔗",
+   "ipa": "",
+   "pinyin": "liánjiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拆",
+   "meaning": "phá",
+   "example": "把旧房子拆 了。",
+   "exampleMeaning": "Đập bỏ căn phòng cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "此时",
+   "meaning": "lúc này",
+   "example": "我们来学“此时”这个词。",
+   "exampleMeaning": "Cùng học từ “此时”: lúc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蛇",
+   "meaning": "con rắn",
+   "example": "我们来学“蛇”这个词。",
+   "exampleMeaning": "Cùng học từ “蛇”: con rắn.",
+   "emoji": "🐍",
+   "ipa": "",
+   "pinyin": "shé",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "木星",
+    "有",
+    "几个",
+    "卫星"
+   ],
+   "reading": "mùxīng yǒu jǐge wèixīng",
+   "meaning": "Sao Mộc có bao nhiêu mặt trăng?"
+  },
+  {
+   "tokens": [
+    "他",
+    "怎么",
+    "敢",
+    "抱怨"
+   ],
+   "reading": "tā zěnme gǎn bàoyuàn",
+   "meaning": "Sao anh ta lại dám phàn nàn cơ chứ?"
+  },
+  {
+   "tokens": [
+    "云",
+    "是",
+    "天空",
+    "中",
+    "的",
+    "水汽",
+    "团"
+   ],
+   "reading": "yún shì tiānkōng zhōng de shuǐqì tuán",
+   "meaning": "Mây là do hơi nước trong không trung tích tụ thành."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "来",
+    "我",
+    "见",
+    "我",
+    "征服"
+   ],
+   "reading": "wǒ lái wǒ jiàn wǒ zhēngfú",
+   "meaning": "Ta đến, ta thấy, ta chinh phục."
+  }
+ ],
+ "issues": []
+}

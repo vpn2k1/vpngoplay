@@ -1,0 +1,325 @@
+{
+ "lesson": 69,
+ "draft": true,
+ "words": [
+  {
+   "term": "金",
+   "meaning": "vàng",
+   "example": "时间就是金钱。",
+   "exampleMeaning": "Thời gian là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "社会",
+   "meaning": "xã hội",
+   "example": "做学生的时候一点苦也不能吃，将来到社会上一定要碰钉子。",
+   "exampleMeaning": "Khi là học sinh một chút khổ sở cũng không chịu nổi, tương lai bước vào xã hội nhất định sẽ gặp phải khó khăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下去",
+   "meaning": "xuống",
+   "example": "领导干部每月要下去几天。",
+   "exampleMeaning": "Cán bộ lãnh đạo hàng tháng phải xuống cơ sở vài ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "证明",
+   "meaning": "chứng minh",
+   "example": "事实证明了我们的担心是多余的。",
+   "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "记者",
+   "meaning": "phóng viên",
+   "example": "电视台的记者",
+   "exampleMeaning": "Phóng viên đài truyền hình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "确实",
+   "meaning": "chính xác",
+   "example": "他最近确实有些进步。",
+   "exampleMeaning": "Gần đây, anh ấy thực sự có tiến bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quèshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "力",
+   "meaning": "tài năng, năng lực, gắng sức",
+   "example": "我努力地改善我的成績。",
+   "exampleMeaning": "Tôi nổ lực cải thiện thành tích của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "发展",
+   "meaning": "phát triển",
+   "example": "贸易帮助国家发展。",
+   "exampleMeaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāzhǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "谈",
+   "meaning": "chuyện",
+   "example": "我只是随便谈谈自己不成熟的看法，无所谓有研究。",
+   "exampleMeaning": "Tôi chỉ là tùy tiện nói ra cách nghĩ còn chưa chín chắn lắm của mình, không đến mức gọi là có nghiên cứu gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "至少",
+   "meaning": "ít nhất",
+   "example": "今天到会的至少有三千人。",
+   "exampleMeaning": "Đến dự họp hôm nay ít nhất có 3.000 người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìshǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "负责",
+   "meaning": "phụ trách",
+   "example": "一个人要为他的行为负责。",
+   "exampleMeaning": "Một người phải có trách nhiệm với những hành động của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùzé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "首先",
+   "meaning": "trước tiên",
+   "example": "首先报名。",
+   "exampleMeaning": "Ghi tên đầu tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交易",
+   "meaning": "mua bán",
+   "example": "不能拿原则做交易。",
+   "exampleMeaning": "Đừng có đem nguyên tắc ra mua bán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "理解",
+   "meaning": "hiểu",
+   "example": "我想你能理解的。",
+   "exampleMeaning": "Tôi nghĩ anh có thể hiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "报道",
+   "meaning": "đưa tin",
+   "example": "他觉得必须报道这件事。",
+   "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàodào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "父母",
+   "meaning": "cha mẹ",
+   "example": "你该听你父母的话。",
+   "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùmǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "城",
+   "meaning": "thành",
+   "example": "哈巴羅夫斯克是俄羅斯遠東地區最大的城市之一。",
+   "exampleMeaning": "Khabarovsk là một trong những thành phố lớn nhất vùng Viễn Đông nước Nga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "安排",
+   "meaning": "thu xếp",
+   "example": "明天你有什么安排没有？",
+   "exampleMeaning": "Mai bạn có dự định gì không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānpái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "力量",
+   "meaning": "sức lực, lực lượng, tác dụng",
+   "example": "团结一切可以团结的力量。",
+   "exampleMeaning": "Đoàn kết mọi lực lường có thể đoàn kết được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìliang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "敢",
+   "meaning": "dám, dám đương đầu với",
+   "example": "他怎么敢抱怨？",
+   "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "团结",
+    "一切",
+    "可以",
+    "团结",
+    "的",
+    "力量"
+   ],
+   "reading": "tuánjié yīqiè kěyǐ tuánjié de lìliang",
+   "meaning": "Đoàn kết mọi lực lường có thể đoàn kết được."
+  },
+  {
+   "tokens": [
+    "这个",
+    "国家",
+    "的",
+    "军事力量",
+    "很",
+    "先进"
+   ],
+   "reading": "zhège guójiā de jūnshìlìliang hěn xiānjìn",
+   "meaning": "Lực lượng quân sự nước này rất hiện đại."
+  },
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "你",
+    "能",
+    "理解",
+    "的"
+   ],
+   "reading": "wǒ xiǎng nǐ néng lǐjiě de",
+   "meaning": "Tôi nghĩ anh có thể hiểu."
+  },
+  {
+   "tokens": [
+    "中国",
+    "很",
+    "快",
+    "地",
+    "发展"
+   ],
+   "reading": "zhōngguó hěn kuài de fāzhǎn",
+   "meaning": "Trung Quốc phát triển nhanh chóng."
+  }
+ ],
+ "issues": []
+}

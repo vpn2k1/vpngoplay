@@ -1,0 +1,336 @@
+{
+ "lesson": 111,
+ "draft": true,
+ "words": [
+  {
+   "term": "国民",
+   "meaning": "công dân, dân",
+   "example": "私たちは国民の祝日に旗を立てる。",
+   "exampleMeaning": "Chúng tôi treo cờ vào các ngày quốc lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "為る",
+   "meaning": "làm, thực hiện",
+   "example": "「為る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “為る”: làm, thực hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "射す",
+   "meaning": "sáng, bóng",
+   "example": "水は光を反射する。",
+   "exampleMeaning": "Nước phản chiếu ánh sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "天候",
+   "meaning": "thời tiết, tiết trời",
+   "example": "悪天候のため、出発できなかった。",
+   "exampleMeaning": "Vì thời tiết xấu tôi đã không thể xuất phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "単位",
+   "meaning": "sự cho vay, cho thiếu, cho chịu",
+   "example": "「単位」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “単位”: sự cho vay, cho thiếu, cho chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "比較",
+   "meaning": "sự so sánh",
+   "example": "価格.comというサイトでは、電化製品ごとに、その商品を出品している各店舗の価格を比較することができます。",
+   "exampleMeaning": "Ở một trang web gọi là kakaku.com, bạn có thể so sánh giá của mỗi sản phẩm điện máy được bày bán ở các cửa hàng khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "辞退",
+   "meaning": "sự từ chối, sự khước từ, sự cự tuyệt",
+   "example": "「辞退」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “辞退”: sự từ chối, sự khước từ, sự cự tuyệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "血管",
+   "meaning": "tĩnh mạch",
+   "example": "彼は脚にひどい毛細血管破裂を起こした。",
+   "exampleMeaning": "Anh ấy bị vỡ mao mạch chân nghiêm trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "尾",
+   "meaning": "đuôi (thú vật, chim, cá... )",
+   "example": "ウサギには長い耳と短い尾がある。",
+   "exampleMeaning": "Thỏ có tai dài và đuôi ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真剣",
+   "meaning": "tính chất đứng đắn",
+   "example": "真剣に話してる時に、からかうのはやめてよ。",
+   "exampleMeaning": "Lúc tôi đang nói chuyện nghiêm túc thì đừng có mà đùa cợt đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ホーム",
+   "meaning": "nền, bục, bệ",
+   "example": "ホームレスにお金を恵んであげました。",
+   "exampleMeaning": "Tôi đã đưa tiền cho người vô gia cư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小屋",
+   "meaning": "chuồng (trâu, bò, ngựa)",
+   "example": "この部屋はまるで豚小屋だな。",
+   "exampleMeaning": "Phòng này giống cái chuồng lợn quá.",
+   "emoji": "🛖",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "汚す",
+   "meaning": "làm ô uế, làm mất thiêng liêng",
+   "example": "「汚す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “汚す”: làm ô uế, làm mất thiêng liêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "図",
+   "meaning": "bản đồ",
+   "example": "図書室ではしゃべるな。",
+   "exampleMeaning": "Không được nói chuyện ở phòng đọc sách ở thư viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "私用",
+   "meaning": "công thương nghiệp tư doanh",
+   "example": "「私用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “私用”: công thương nghiệp tư doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世間",
+   "meaning": "thế giới, hoàn cầu, địa cầu",
+   "example": "彼は世間知らずだ。",
+   "exampleMeaning": "Cậu ta là tấm chiếu mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "再び",
+   "meaning": "lại, lần nữa, nữa",
+   "example": "トムは再び勝利を収めた。",
+   "exampleMeaning": "Tom đã lại thắng một lần nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "包み",
+   "meaning": "bó",
+   "example": "「包み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “包み”: bó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "包装",
+   "meaning": "bao bì",
+   "example": "「包装」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “包装”: bao bì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いけない",
+   "meaning": "xấu",
+   "example": "時間を無駄にしてはいけない。",
+   "exampleMeaning": "Đừng lãng phí thời gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "いつ",
+    "戻ります",
+    "か",
+    "天候",
+    "次第",
+    "です"
+   ],
+   "reading": "いつもどりますかてんこうしだいです",
+   "meaning": "\"Bao giờ bạn quay lại?\" \"Còn tùy vào thời tiết.\""
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "市立",
+    "図書館",
+    "で",
+    "本",
+    "を",
+    "借りています"
+   ],
+   "reading": "わたしはしりつとしょかんでほんをかりています",
+   "meaning": "Tôi đang mượn sách ở thư viện thành phố."
+  },
+  {
+   "tokens": [
+    "アメリカ",
+    "は",
+    "どの",
+    "町",
+    "にも",
+    "図書館",
+    "が",
+    "ある"
+   ],
+   "reading": "アメリカはどのまちにもとしょかんがある",
+   "meaning": "Thị trấn nào ở Mỹ cũng có thư viện."
+  },
+  {
+   "tokens": [
+    "全国民",
+    "が",
+    "その",
+    "ニュース",
+    "を",
+    "聞いて",
+    "喜んだ"
+   ],
+   "reading": "ぜんこくみんがそのニュースをきいてよろこんだ",
+   "meaning": "Toàn thể dân tộc vui mừng khi nghe tin ấy."
+  },
+  {
+   "tokens": [
+    "図書館",
+    "で",
+    "偶然",
+    "あなた",
+    "の",
+    "おかあさん",
+    "に",
+    "あいました"
+   ],
+   "reading": "としょかんでぐうぜんあなたのおかあさんにあいました",
+   "meaning": "Tôi tình cờ gặp mẹ bạn ở thư viện."
+  }
+ ],
+ "issues": []
+}

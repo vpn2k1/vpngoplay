@@ -1,0 +1,332 @@
+{
+ "lesson": 126,
+ "draft": true,
+ "words": [
+  {
+   "term": "公约",
+   "meaning": "quy ước",
+   "example": "北大西洋公约。",
+   "exampleMeaning": "Công ước Bắc Đại Tây Dương (NATO).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyuē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "悬挂",
+   "meaning": "treo",
+   "example": "悬挂国旗",
+   "exampleMeaning": "Treo quốc kỳ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuánguà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拖欠",
+   "meaning": "khất nợ",
+   "example": "拖欠房租",
+   "exampleMeaning": "Khất nợ tiền thuê nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuōqiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自发",
+   "meaning": "tự phát",
+   "example": "这个科研小组是他们几个人自发地组织起来的。",
+   "exampleMeaning": "Nhóm nghiên cứu khoa học này do họ tự tổ chức lấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìfā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高超",
+   "meaning": "cao siêu",
+   "example": "见解高超",
+   "exampleMeaning": "Kiến giải cao siêu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāochāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "垫底",
+   "meaning": "đáy",
+   "example": "我们来学“垫底”这个词。",
+   "exampleMeaning": "Cùng học từ “垫底”: đáy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàndǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "滚动",
+   "meaning": "lăn",
+   "example": "车轮在铁轨上滚动。",
+   "exampleMeaning": "Bánh xe lăn trên đường ray.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔndòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "民用",
+   "meaning": "dân dụng",
+   "example": "民用航空。",
+   "exampleMeaning": "Hàng không dân dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惨重",
+   "meaning": "nặng nề",
+   "example": "惨重的失败。",
+   "exampleMeaning": "Thất bại nặng nề",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎnzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "献血",
+   "meaning": "hiến máu",
+   "example": "我们来学“献血”这个词。",
+   "exampleMeaning": "Cùng học từ “献血”: hiến máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànxuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扣留",
+   "meaning": "giam",
+   "example": "由于违章，交通警扣留了他的驾驶证。",
+   "exampleMeaning": "Vì vi phạm luật, cảnh sát giao thông đã giam bằng lái xe của anh ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòuliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "超标",
+   "meaning": "quá đáng",
+   "example": "我们来学“超标”这个词。",
+   "exampleMeaning": "Cùng học từ “超标”: quá đáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāobiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反面",
+   "meaning": "mặt trái",
+   "example": "不但要看问题的正面，还要看问题的反面。",
+   "exampleMeaning": "Không những phải xét mặt phải của vấn đề mà còn phải xét mặt trái của nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "免除",
+   "meaning": "miễn trừ",
+   "example": "兴修水利，免除水旱灾害。",
+   "exampleMeaning": "Xây dựng công trình thuỷ lợi để tránh naṇ lụt lội, hạn hán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miǎnchú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调料",
+   "meaning": "đồ gia vị",
+   "example": "我们来学“调料”这个词。",
+   "exampleMeaning": "Cùng học từ “调料”: đồ gia vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáoliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "掌管",
+   "meaning": "quản lý",
+   "example": "各项事务都有专人掌管。",
+   "exampleMeaning": "Mọi công việc đều có người chuyên môn quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎngguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "构想",
+   "meaning": "cấu tứ",
+   "example": "提出体制改革的构想。",
+   "exampleMeaning": "Đề ra ý tưởng thể chế cải cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòuxiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "下游",
+   "meaning": "hạ du",
+   "example": "我们来学“下游”这个词。",
+   "exampleMeaning": "Cùng học từ “下游”: hạ du.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàyóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忌",
+   "meaning": "kiêng",
+   "example": "忌生冷。",
+   "exampleMeaning": "Kiêng ăn đồ lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逝世",
+   "meaning": "từ trần",
+   "example": "我们来学“逝世”这个词。",
+   "exampleMeaning": "Cùng học từ “逝世”: từ trần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "将",
+    "必须",
+    "为",
+    "大家",
+    "做饭"
+   ],
+   "reading": "tā jiāng bìxū wèi dàjiā zuòfàn",
+   "meaning": "Cô ấy sẽ phải nấu cơm cho tất cả mọi người."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "它",
+    "一定",
+    "是",
+    "个",
+    "生日",
+    "蛋糕"
+   ],
+   "reading": "tā yīdìng shì ge shēngrì dàngāo",
+   "meaning": "Đây chắc hẳn là một cái bánh sinh nhật."
+  },
+  {
+   "tokens": [
+    "你",
+    "关",
+    "了",
+    "客厅",
+    "的",
+    "灯",
+    "了",
+    "吗"
+   ],
+   "reading": "nǐ guān le kètīng de dēng le ma",
+   "meaning": "Anh đã tắt đèn phòng khách chưa?"
+  }
+ ],
+ "issues": []
+}

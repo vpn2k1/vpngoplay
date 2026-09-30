@@ -1,0 +1,325 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "勉強",
+   "meaning": "sự học tập",
+   "example": "彼は中国語を勉強する。",
+   "exampleMeaning": "Anh ấy học tiếng Trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消す",
+   "meaning": "xoá, xoá bỏ",
+   "example": "火を消すのを忘れるな。",
+   "exampleMeaning": "Đừng quên dập lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ネクタイ",
+   "meaning": "dây buộc, dây cột, dây trói",
+   "example": "「ネクタイ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ネクタイ”: dây buộc, dây cột, dây trói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吹く",
+   "meaning": "nở hoa",
+   "example": "いくら批判をされても、それはどこ吹く風として気にしない。",
+   "exampleMeaning": "Dù cho có bị phản đối bao nhiêu, tôi cũng không thèm để tâm đến chuyện đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夕飯",
+   "meaning": "bữa cơm (trưa, chiều)",
+   "example": "トムは私のために夕飯を作っている。",
+   "exampleMeaning": "Tom đang nấu bữa tối cho tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どなた",
+   "meaning": "ai, kẻ nào, người mà",
+   "example": "「どなた」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “どなた”: ai, kẻ nào, người mà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伯母さん",
+   "meaning": "cô, dì, thím",
+   "example": "「伯母さん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伯母さん”: cô, dì, thím.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "パーティー",
+   "meaning": "buổi liên hoan, những người cùng đi",
+   "example": "パーティーは楽しかった？",
+   "exampleMeaning": "Bữa tiệc có vui không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "靴下",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của sock",
+   "example": "トムは靴下を履いた。",
+   "exampleMeaning": "Tom đi tất vào.",
+   "emoji": "🧦",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "帰る",
+   "meaning": "trở về, về, trở lại",
+   "example": "私は家に帰る途中でにわか雨にあいました。",
+   "exampleMeaning": "Tôi gặp phải một cơn mưa rào khi đang đường về nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "片仮名",
+   "meaning": "katakana",
+   "example": "「片仮名」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “片仮名”: katakana.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "練習",
+   "meaning": "thực hành, thực tiễn",
+   "example": "練習問題の解答は巻末にまとめてあります。",
+   "exampleMeaning": "Đáp án của những câu hỏi ôn tập được tổng hợp ở cuối sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いつも",
+   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "example": "父はいつも冷静である。",
+   "exampleMeaning": "Cha tôi luôn luôn điềm tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "長い",
+   "meaning": "dài, xa (không gian), lâu (thời gian)",
+   "example": "夜はまだまだ長いぜ、だろ？",
+   "exampleMeaning": "Đêm cũng dài quá ha?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "池",
+   "meaning": "ao, chỉ rằng khai quật bởi người",
+   "example": "小池さんは、ラーメンが大好きです。",
+   "exampleMeaning": "Anh (chị) Koike rất thích mỳ ramen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初め",
+   "meaning": "phần đầu",
+   "example": "私は昨日初めて彼に会った。",
+   "exampleMeaning": "Hôm qua là lần đầu tiên tôi gặp ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どちら",
+   "meaning": "đâu, ở đâu, ở nơi nào",
+   "example": "どちらにお住まいですか。",
+   "exampleMeaning": "Ngài sống ở đâu vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "作る",
+   "meaning": "xây, xây dựng, xây cất",
+   "example": "彼はブドウからワインを作る。",
+   "exampleMeaning": "Ông ấy làm rượu vang từ nho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "頼む",
+   "meaning": "thỉnh cầu, yêu cầu, đề nghị",
+   "example": "友達にお金を貸してくれるように頼む。",
+   "exampleMeaning": "Tôi nói với bạn cho mình vay tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "図書館",
+   "meaning": "thư viện (tòa nhà)",
+   "example": "郵便局は図書館の隣にある。",
+   "exampleMeaning": "Bưu điện ở ngay sát thư viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "図書館",
+    "は",
+    "どこ",
+    "ですか"
+   ],
+   "reading": "としょかんはどこですか",
+   "meaning": "Cho hỏi thư viện ở đâu vậy?"
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "いつも",
+    "忙しい"
+   ],
+   "reading": "かのじょはいつもいそがしい",
+   "meaning": "Cô ấy lúc nào cũng bận."
+  },
+  {
+   "tokens": [
+    "火",
+    "を",
+    "消す",
+    "の",
+    "を",
+    "忘れる",
+    "な"
+   ],
+   "reading": "ひをけすのをわすれるな",
+   "meaning": "Đừng quên dập lửa."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "どちら",
+    "も",
+    "好き",
+    "です"
+   ],
+   "reading": "わたしはどちらもすきです",
+   "meaning": "Tôi thích cả hai cái."
+  },
+  {
+   "tokens": [
+    "母",
+    "は",
+    "いつも",
+    "朝早く",
+    "起きる"
+   ],
+   "reading": "はははいつもあさはやくおきる",
+   "meaning": "Mẹ tôi luôn luôn dậy sớm buổi sáng."
+  }
+ ],
+ "issues": []
+}

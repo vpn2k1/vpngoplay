@@ -1,5 +1,5 @@
-// Pre-generates TTS clips for every word, example and sentence (decks and course lessons)
-// and for the grammar & pronunciation section, so every browser on every device plays the
+// Pre-generates TTS clips for every word, example and sentence (decks and course lessons),
+// the grammar & pronunciation section, conversations and sentence packs, so every browser on every device plays the
 // same voice (the app falls back to the device's own voice for text without a clip).
 // Writes public/audio/<lang>/<hash>.mp3 and public/audio/manifest.json.
 //
@@ -59,6 +59,8 @@ const JOINER = { en: ' ', ja: '', zh: '' }
 const texts = { en: new Set(), ja: new Set(), zh: new Set() }
 for (const file of readdirSync(decksDir).filter((f) => f.endsWith('.json') && f !== 'index.json')) {
   const deck = JSON.parse(readFileSync(join(decksDir, file), 'utf8'))
+  // Lesson drafts (scripts/vocab/draft.mjs) use the device voice until they're rewritten and reviewed.
+  if (deck.draft) continue
   const add = (t) => t && texts[deck.lang].add(t)
   for (const w of deck.words) {
     add(w.term)
@@ -93,6 +95,18 @@ if (existsSync(grammarDir))
       for (const o of q.options) if (o.ipa) add(o.text)
     }
   }
+
+// Conversations ("Giao tiếp") and sentence packs ("Học theo câu"): every line, phrase and sentence
+// is spoken as written (src/routes/talk, src/games/RolePlay.tsx, src/games/SentencePack.tsx).
+for (const sub of ['talk', 'sentences']) {
+  const dir = join(root, sub)
+  if (!existsSync(dir)) continue
+  for (const file of readdirSync(dir).filter((f) => f.endsWith('.json') && f !== 'index.json')) {
+    const data = JSON.parse(readFileSync(join(dir, file), 'utf8'))
+    const add = (t) => t && texts[data.lang].add(t)
+    for (const item of [...(data.lines ?? []), ...(data.phrases ?? []), ...(data.sentences ?? [])]) add(item.text)
+  }
+}
 
 const manifestPath = join(audioDir, 'manifest.json')
 const previous = existsSync(manifestPath) ? JSON.parse(readFileSync(manifestPath, 'utf8')) : {}

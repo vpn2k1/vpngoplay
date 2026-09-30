@@ -1,0 +1,332 @@
+{
+ "lesson": 91,
+ "draft": true,
+ "words": [
+  {
+   "term": "愿望",
+   "meaning": "nguyện vọng",
+   "example": "他终于实现了上学的愿望。",
+   "exampleMeaning": "Ước muốn được đến trường của em cuối cùng cũng thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuànwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "长期",
+   "meaning": "dài hạn",
+   "example": "长期计划。",
+   "exampleMeaning": "Kế hoạch dài hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "数量",
+   "meaning": "số lượng",
+   "example": "要保证数量，也要保证质量。",
+   "exampleMeaning": "Phải đảm bảo số lượng, cũng phải đảm bảo chất lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保留",
+   "meaning": "giữ",
+   "example": "有意见尽量谈出来，不要保留",
+   "exampleMeaning": "Có ý kiến gì thì nói ra, đừng để lại trong lòng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相比",
+   "meaning": "so sánh",
+   "example": "我们来学“相比”这个词。",
+   "exampleMeaning": "Cùng học từ “相比”: so sánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngbǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "深入",
+   "meaning": "thấu đáo",
+   "example": "马克思主义深入人心。",
+   "exampleMeaning": "Chủ nghĩa Các-Mác đi sâu vào lòng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "石油",
+   "meaning": "dầu mỏ",
+   "example": "我们来学“石油”这个词。",
+   "exampleMeaning": "Cùng học từ “石油”: dầu mỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíyóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "情感",
+   "meaning": "tình cảm",
+   "example": "我们来学“情感”这个词。",
+   "exampleMeaning": "Cùng học từ “情感”: tình cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qínggǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "称为",
+   "meaning": "gọi là",
+   "example": "我们来学“称为”这个词。",
+   "exampleMeaning": "Cùng học từ “称为”: gọi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēngwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人群",
+   "meaning": "đám người",
+   "example": "他在人群里挤来挤去。",
+   "exampleMeaning": "Anh ấy len đi len lại trong đám người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénqún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "计算",
+   "meaning": "tính",
+   "example": "做事没计算。",
+   "exampleMeaning": "Làm việc không suy tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìsuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开发",
+   "meaning": "trả",
+   "example": "开发车钱。",
+   "exampleMeaning": "Trả tiền xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāifā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "始终",
+   "meaning": "từ đầu đến cuối",
+   "example": "始终不懈(自始至终不松懈)。",
+   "exampleMeaning": "Bền bỉ từ đầu đến cuối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǐzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "争",
+   "meaning": "tranh",
+   "example": "你别再跟他争吵了。",
+   "exampleMeaning": "Anh đừng cãi nhau với nó nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "订",
+   "meaning": "đóng (sách, vở)",
+   "example": "为什么我们不订披萨呢？",
+   "exampleMeaning": "Tại sao chúng ta không đặt bánh Pizza?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "卫生",
+   "meaning": "vệ sinh",
+   "example": "喝生水，不卫生",
+   "exampleMeaning": "Uống nước lã không vệ sinh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèishēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "富",
+   "meaning": "giàu, giàu có",
+   "example": "睛天的時候，就可以看見富士山了。",
+   "exampleMeaning": "Vào những ngày quang mây, người ta có thể trông thấy núi Phũ Sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "加强",
+   "meaning": "tăng cường",
+   "example": "加强政治思想教育。",
+   "exampleMeaning": "Tăng cường giáo dục tư tưởng chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāqiáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保安",
+   "meaning": "bảo hộ",
+   "example": "保安规程。",
+   "exampleMeaning": "Quy trình bảo hộ lao động",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歌手",
+   "meaning": "người hát, ca sĩ",
+   "example": "赛歌会上，歌手如云。",
+   "exampleMeaning": "Trong cuộc thi ca hát, người hát rất đông.",
+   "emoji": "🧑‍🎤",
+   "ipa": "",
+   "pinyin": "gēshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "为什么",
+    "我们",
+    "不",
+    "订",
+    "披萨",
+    "呢"
+   ],
+   "reading": "wèishénme wǒmen bù dìng pīsà ne",
+   "meaning": "Tại sao chúng ta không đặt bánh Pizza?"
+  },
+  {
+   "tokens": [
+    "睛",
+    "天",
+    "的",
+    "时候",
+    "就",
+    "可以",
+    "看见",
+    "富士",
+    "山",
+    "了"
+   ],
+   "reading": "jīng tiān de shíhou jiù kěyǐ kànjiàn fùshì shān le",
+   "meaning": "Vào những ngày quang mây, người ta có thể trông thấy núi Phũ Sĩ."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "那是",
+    "下个月",
+    "的",
+    "事"
+   ],
+   "reading": "nàshi xiàgèyuè de shì",
+   "meaning": "Đó là chuyện tháng sau."
+  },
+  {
+   "tokens": [
+    "你",
+    "这",
+    "房子",
+    "真",
+    "不",
+    "错"
+   ],
+   "reading": "nǐ zhè fángzi zhēn bù cuò",
+   "meaning": "Căn phòng này của bạn rất đẹp!"
+  }
+ ],
+ "issues": []
+}

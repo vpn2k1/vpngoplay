@@ -7,6 +7,7 @@ import { BackLabel, Button, SpeakButton, cx } from '../../components/ui'
 import { GrammarQuiz } from '../../games/GrammarQuiz'
 import { grammarTopicQuery } from '../../lib/api'
 import { grammarScoreKey } from '../../lib/grammar'
+import { useFollowLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
 import { GRAMMAR_GROUPS, type GrammarExample, type GrammarStructure, type GrammarTheory } from '../../lib/types'
 
@@ -163,6 +164,7 @@ function Theory({ theory }: { theory: GrammarTheory }) {
 function TopicPage() {
   const { topicId } = Route.useParams()
   const { data: topic } = useSuspenseQuery(grammarTopicQuery(topicId))
+  useFollowLang('en')
   const best = useProgress((s) => s.bestScores[grammarScoreKey(topicId)])
   const [practising, setPractising] = useState(false)
   const Icon = GRAMMAR_ICON[topic.group]

@@ -1,0 +1,333 @@
+{
+ "lesson": 112,
+ "draft": true,
+ "words": [
+  {
+   "term": "英雄",
+   "meaning": "người anh hùng",
+   "example": "私は英雄などではない。",
+   "exampleMeaning": "Tôi chẳng phải anh hùng hay gì đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "口吟む",
+   "meaning": "làm nhục, sỉ nhục",
+   "example": "「口吟む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “口吟む”: làm nhục, sỉ nhục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ほとり",
+   "meaning": "dòng sông",
+   "example": "「ほとり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ほとり”: dòng sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "購読",
+   "meaning": "sự đăng ký",
+   "example": "「購読」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “購読”: sự đăng ký.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "興じる",
+   "meaning": "vui, vui vẻ",
+   "example": "「興じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “興じる”: vui, vui vẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "動力",
+   "meaning": "khả năng, tài năng, năng lực",
+   "example": "「動力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “動力”: khả năng, tài năng, năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "傷付ける",
+   "meaning": "làm bị thương (cơ thể)",
+   "example": "「傷付ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “傷付ける”: làm bị thương (cơ thể).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貴族",
+   "meaning": "quý tộc, quý phái",
+   "example": "「貴族」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貴族”: quý tộc, quý phái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勤勉",
+   "meaning": "công nghiệp",
+   "example": "勤勉でなければ成功できない。",
+   "exampleMeaning": "Nếu không chăm chỉ thì không thể thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "近眼",
+   "meaning": "tật cận thị",
+   "example": "「近眼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “近眼”: tật cận thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "切れ目",
+   "meaning": "xe vực ngựa (tập cho ngựa kéo xe)",
+   "example": "「切れ目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “切れ目”: xe vực ngựa (tập cho ngựa kéo xe).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転勤",
+   "meaning": "sự di chuyển, sự dời chỗ",
+   "example": "「転勤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転勤”: sự di chuyển, sự dời chỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "武力",
+   "meaning": "gươm, kiếm",
+   "example": "「武力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “武力”: gươm, kiếm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小柄",
+   "meaning": "nhỏ, chật, yếu",
+   "example": "「小柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小柄”: nhỏ, chật, yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全盛",
+   "meaning": "height of prosperity (EN)",
+   "example": "ルネッサンス時代、ベニスの芸術は全盛期を迎えていました。",
+   "exampleMeaning": "Trong thời kỳ Phục hưng, nghệ thuật tại Venice đã bước vào thời kỳ hoàng kim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出世",
+   "meaning": "sự thăng chức, sự thăng cấp, sự đề bạt",
+   "example": "「出世」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出世”: sự thăng chức, sự thăng cấp, sự đề bạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "防火",
+   "meaning": "sự phòng hỏa",
+   "example": "「防火」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “防火”: sự phòng hỏa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "並列",
+   "meaning": "sự sắp xếp, sự sắp đặt, cái được sắp xếp",
+   "example": "「並列」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “並列”: sự sắp xếp, sự sắp đặt, cái được sắp xếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かさむ",
+   "meaning": "chất đống",
+   "example": "「かさむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “かさむ”: chất đống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "腫れる",
+   "meaning": "phồng lên, sưng lên, to lên",
+   "example": "「腫れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “腫れる”: phồng lên, sưng lên, to lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "自分",
+    "の",
+    "不注意",
+    "を",
+    "恥じた"
+   ],
+   "reading": "かのじょはじぶんのふちゅういをはじた",
+   "meaning": "Cô ấy xấu hổ vì sự sơ xuất của mình."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "カーテン",
+    "を",
+    "引き上げた"
+   ],
+   "reading": "かのじょはカーテンをひきあげた",
+   "meaning": "Cô ấy kéo màn lên."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "毎月",
+    "お金",
+    "を",
+    "貯金",
+    "している"
+   ],
+   "reading": "かれはまいつきおかねをちょきんしている",
+   "meaning": "Anh ta gửi tiền ngân hàng hàng tháng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "古い",
+    "車",
+    "を",
+    "新車",
+    "と",
+    "交換",
+    "した"
+   ],
+   "reading": "かれはふるいくるまをしんしゃとこうかんした",
+   "meaning": "Anh ta đổi chiếc xe cũ của mình với một chiếc mới."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "過労",
+    "の",
+    "ために",
+    "疲れている"
+   ],
+   "reading": "かれはかろうのためにつかれている",
+   "meaning": "Anh ta mệt mỏi vì làm việc quá sức."
+  }
+ ],
+ "issues": []
+}

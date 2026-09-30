@@ -1,0 +1,317 @@
+{
+ "lesson": 133,
+ "draft": true,
+ "words": [
+  {
+   "term": "rail",
+   "meaning": "chửi bới, măng nhiếc, xỉ vả",
+   "example": "to rail in (off) a piece of ground",
+   "exampleMeaning": "Rào một miếng đất lại",
+   "emoji": "",
+   "ipa": "/reɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "frost",
+   "meaning": "rắc đường lên",
+   "example": "There is frost on the grass.",
+   "exampleMeaning": "Có sương muối ở trên cỏ.",
+   "emoji": "",
+   "ipa": "/ˈfrɔst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wrap",
+   "meaning": "quấn, bọc quanh",
+   "example": "Please wrap it.",
+   "exampleMeaning": "Xin hãy bọc nó lại.",
+   "emoji": "",
+   "ipa": "/ˈræp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "magnificent",
+   "meaning": "tráng lệ, nguy nga, lộng lẫy",
+   "example": "Tomorrow, I'll fly over the magnificent Himalayas.",
+   "exampleMeaning": "Ngày mai, tôi sẽ bay qua dãy Himalaya hùng vĩ.",
+   "emoji": "",
+   "ipa": "/mæɡˈnɪfəsənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "selfish",
+   "meaning": "ích kỷ",
+   "example": "Don't be so selfish!",
+   "exampleMeaning": "Đừng ích kỉ như thế!",
+   "emoji": "",
+   "ipa": "/ˈsɛlfɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "connect",
+   "meaning": "nối, nối lại, chấp nối",
+   "example": "I can't connect to the Internet.",
+   "exampleMeaning": "Tôi không thể kết nối vào mạng.",
+   "emoji": "",
+   "ipa": "/kəˈnɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "civilization",
+   "meaning": "nền văn minh",
+   "example": "the civilization of mankind",
+   "exampleMeaning": "Nền văn minh của loài người",
+   "emoji": "",
+   "ipa": "/ˌsɪvəlɪˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "oneself",
+   "meaning": "bản thân mình, tự mình, chính mình",
+   "example": "to speak of oneself",
+   "exampleMeaning": "Nói về bản thân mình",
+   "emoji": "",
+   "ipa": "/ˌwənˈsɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "mash",
+   "meaning": "ngâm (hoa) vào nước nóng (để nấu rượu)",
+   "example": "Let's learn the word \"mash\".",
+   "exampleMeaning": "Cùng học từ “mash”: ngâm (hoa) vào nước nóng (để nấu rượu).",
+   "emoji": "",
+   "ipa": "/ˈmæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sponge",
+   "meaning": "bọt biển",
+   "example": "to sponge on someone for tobacco",
+   "exampleMeaning": "Hút chực thuốc của ai",
+   "emoji": "🧽",
+   "ipa": "/ˈspəndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "faithfully",
+   "meaning": "trung thành, chung thuỷ",
+   "example": "Let's learn the word \"faithfully\".",
+   "exampleMeaning": "Cùng học từ “faithfully”: trung thành, chung thuỷ.",
+   "emoji": "",
+   "ipa": "/ˈfeɪθfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "absent",
+   "meaning": "vắng mặt, đi vắng, nghỉ",
+   "example": "to answer in an absent way",
+   "exampleMeaning": "Trả lời một cách lơ đãng",
+   "emoji": "",
+   "ipa": "/ˈæbsənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "security",
+   "meaning": "sự bảo đảm, vật bảo đảm",
+   "example": "to lend money without security",
+   "exampleMeaning": "Cho vay không có vật bảo đảm",
+   "emoji": "",
+   "ipa": "/sɪˈkjʊərəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "growth",
+   "meaning": "sự lớn mạnh, sự phát triển",
+   "example": "wine of the 1954 growth",
+   "exampleMeaning": "Rượu vang vụ nho 1954",
+   "emoji": "",
+   "ipa": "/ˈɡroʊθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lodge",
+   "meaning": "gửi (ở ngân hàng... )",
+   "example": "to lodge a blow on someone's jaw",
+   "exampleMeaning": "Giáng một quả đấm vào quai hàn ai",
+   "emoji": "",
+   "ipa": "/ˈlɑdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "portfolio",
+   "meaning": "cặp (giấy tờ, hồ sơ)",
+   "example": "minister without portfolio",
+   "exampleMeaning": "Bộ trưởng không b",
+   "emoji": "",
+   "ipa": "/pɔrtˈfoʊliˌoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "comment",
+   "meaning": "bình luận",
+   "example": "Comment has been removed.",
+   "exampleMeaning": "Bình luận này đã bị xoá.",
+   "emoji": "",
+   "ipa": "/ˈkɑmɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "settlement",
+   "meaning": "sự giải quyết, sự dàn xếp, sự hoà giải",
+   "example": "Let's learn the word \"settlement\".",
+   "exampleMeaning": "Cùng học từ “settlement”: sự giải quyết, sự dàn xếp, sự hoà giải.",
+   "emoji": "",
+   "ipa": "/ˈsɛtəlmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thankful",
+   "meaning": "biết ơn, cám ơn",
+   "example": "We're thankful for your kindness.",
+   "exampleMeaning": "Chúng tôi biết ơn lòng tốt của bạn.",
+   "emoji": "",
+   "ipa": "/ˈθæŋkfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "calmness",
+   "meaning": "sự yên lặng, sự bình tĩnh, sự điềm tĩnh",
+   "example": "Let's learn the word \"calmness\".",
+   "exampleMeaning": "Cùng học từ “calmness”: sự yên lặng, sự bình tĩnh, sự điềm tĩnh.",
+   "emoji": "",
+   "ipa": "/ˈkɑlmnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Wrap",
+    "it",
+    "please"
+   ],
+   "reading": "",
+   "meaning": "Bọc nó lại đi ạ."
+  },
+  {
+   "tokens": [
+    "Please",
+    "wrap",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Xin hãy bọc nó lại."
+  },
+  {
+   "tokens": [
+    "Someone",
+    "liked",
+    "your",
+    "comment"
+   ],
+   "reading": "",
+   "meaning": "Có người đã thích bình luận của bạn."
+  },
+  {
+   "tokens": [
+    "Don't",
+    "be",
+    "so",
+    "selfish"
+   ],
+   "reading": "",
+   "meaning": "Đừng ích kỉ như thế!"
+  },
+  {
+   "tokens": [
+    "I've",
+    "deleted",
+    "my",
+    "comment"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã xoá bình luận của mình."
+  }
+ ],
+ "issues": []
+}

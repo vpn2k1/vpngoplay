@@ -1,0 +1,325 @@
+{
+ "lesson": 63,
+ "draft": true,
+ "words": [
+  {
+   "term": "附加",
+   "meaning": "thêm",
+   "example": "条文后面附加两项说明。",
+   "exampleMeaning": "Sau văn bản có kèm theo hai điều thuyết minh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "路程",
+   "meaning": "hành trình (xa gần)",
+   "example": "打听前面的路程。",
+   "exampleMeaning": "Hỏi thăm đoạn đường phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "粗糙",
+   "meaning": "thô",
+   "example": "这套衣服的手工很粗糙。",
+   "exampleMeaning": "Bộ đồ này may ẩu quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cūcāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "税务",
+   "meaning": "thuế vụ",
+   "example": "税务局。",
+   "exampleMeaning": "Cục thuế vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuìwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "破解",
+   "meaning": "bẻ khóa (crack)",
+   "example": "我们来学“破解”这个词。",
+   "exampleMeaning": "Cùng học từ “破解”: bẻ khóa (crack).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pòjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引入",
+   "meaning": "giới thiệu",
+   "example": "她已经把小火鸡引入围栏里。",
+   "exampleMeaning": "Chị ấy đã dẫn chú gà tây nhỏ vào chuồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "化验",
+   "meaning": "phân chất",
+   "example": "药品化验",
+   "exampleMeaning": "Phân chất dược phẩm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàyàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暗杀",
+   "meaning": "ám sát",
+   "example": "我们来学“暗杀”这个词。",
+   "exampleMeaning": "Cùng học từ “暗杀”: ám sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànshā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坦诚",
+   "meaning": "thẳng thắn thành khẩn",
+   "example": "坦诚相见。",
+   "exampleMeaning": "Cuộc gặp gỡ thành khẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǎnchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无私",
+   "meaning": "không vụ lợi, không cầu lợi, không ích kỷ",
+   "example": "无私的援助。",
+   "exampleMeaning": "Giúp đỡ vô tư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúsī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "劫持",
+   "meaning": "ép buộc",
+   "example": "我们来学“劫持”这个词。",
+   "exampleMeaning": "Cùng học từ “劫持”: ép buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéchí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "皮带",
+   "meaning": "dây cu-roa",
+   "example": "我们来学“皮带”这个词。",
+   "exampleMeaning": "Cùng học từ “皮带”: dây cu-roa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pídài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "声誉",
+   "meaning": "danh dự",
+   "example": "维护祖国的声誉。",
+   "exampleMeaning": "Bảo vệ danh dự của tổ quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "掺",
+   "meaning": "nắm chắc, túm chặt, ôm chặt",
+   "example": "我们来学“掺”这个词。",
+   "exampleMeaning": "Cùng học từ “掺”: nắm chắc, túm chặt, ôm chặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相伴",
+   "meaning": "chung sống",
+   "example": "多年相伴。",
+   "exampleMeaning": "Chung sống nhiều năm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngbàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "众所周知",
+   "meaning": "phổ biến rộng, mọi người đều biết",
+   "example": "我们来学“众所周知”这个词。",
+   "exampleMeaning": "Cùng học từ “众所周知”: phổ biến rộng, mọi người đều biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngsuǒzhōuzhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人造",
+   "meaning": "nhân tạo",
+   "example": "人造卫星从河内上空飞过。",
+   "exampleMeaning": "Vệ tinh nhân tạo đã bay qua Hà Nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénzào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "蚊子",
+   "meaning": "muỗi",
+   "example": "我们来学“蚊子”这个词。",
+   "exampleMeaning": "Cùng học từ “蚊子”: muỗi.",
+   "emoji": "🦟",
+   "ipa": "",
+   "pinyin": "wénzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "传染病",
+   "meaning": "bệnh truyền nhiễm",
+   "example": "我们来学“传染病”这个词。",
+   "exampleMeaning": "Cùng học từ “传染病”: bệnh truyền nhiễm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánrǎnbìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "现任",
+   "meaning": "đương nhiệm",
+   "example": "现任校长是原来的教导主任。",
+   "exampleMeaning": "Hiệu trưởng đương nhiệm nguyên là chủ nhiệm giáo vụ trước đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "突然",
+    "天下",
+    "起",
+    "雨",
+    "来"
+   ],
+   "reading": "tūrán tiānxià qǐ yǔ lái",
+   "meaning": "Bỗng nhiên trời mưa."
+  },
+  {
+   "tokens": [
+    "哪",
+    "间",
+    "卧室",
+    "都",
+    "干净"
+   ],
+   "reading": "nǎ jiān wòshì dōu gānjìng",
+   "meaning": "Phòng ngủ nào cũng sạch sẽ."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "木星",
+    "有",
+    "几个",
+    "卫星"
+   ],
+   "reading": "mùxīng yǒu jǐge wèixīng",
+   "meaning": "Sao Mộc có bao nhiêu mặt trăng?"
+  },
+  {
+   "tokens": [
+    "她",
+    "进",
+    "屋",
+    "前",
+    "擦",
+    "了",
+    "鞋"
+   ],
+   "reading": "tā jìn wū qián cā le xié",
+   "meaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch."
+  }
+ ],
+ "issues": []
+}

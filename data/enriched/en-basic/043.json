@@ -1,0 +1,328 @@
+{
+ "lesson": 43,
+ "draft": true,
+ "words": [
+  {
+   "term": "mine",
+   "meaning": "của tôi",
+   "example": "This mine is mine.",
+   "exampleMeaning": "Khu mỏ này là của tôi.",
+   "emoji": "",
+   "ipa": "/maɪ̯n/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fish",
+   "meaning": "cá",
+   "example": "to fish something out of water",
+   "exampleMeaning": "Kéo cái gì từ dưới nước lên",
+   "emoji": "🐟",
+   "ipa": "/fɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stone",
+   "meaning": "đá",
+   "example": "He cast a stone into the pond.",
+   "exampleMeaning": "Nó ném hòn đá xuống hồ",
+   "emoji": "",
+   "ipa": "/stəʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "knee",
+   "meaning": "đầu gối",
+   "example": "My knee hurts.",
+   "exampleMeaning": "Tôi đau đầu gối quá.",
+   "emoji": "",
+   "ipa": "/ˈni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "false",
+   "meaning": "sai, nhầm",
+   "example": "to play someone false",
+   "exampleMeaning": "Lừa ai, phản ai",
+   "emoji": "",
+   "ipa": "/fɔːls/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chocolate",
+   "meaning": "socola",
+   "example": "Who wants some hot chocolate?",
+   "exampleMeaning": "Ai muốn 1 chút socola nóng không",
+   "emoji": "",
+   "ipa": "/ˈtʃɔklət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "copy",
+   "meaning": "sao lại, chép lại",
+   "example": "To make a copy of a deed.",
+   "exampleMeaning": "Sao một chứng từ.",
+   "emoji": "",
+   "ipa": "/ˈkɒpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bring",
+   "meaning": "mang",
+   "example": "bring the matter forward at the next meeting!",
+   "exampleMeaning": "Cuộc họp sau đưa vấn đề đó ra",
+   "emoji": "",
+   "ipa": "/ˈbrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "swimming pool",
+   "meaning": "bể bơi, hồ bơi",
+   "example": "Thursday, we will go to a swimming pool.",
+   "exampleMeaning": "Vào thứ Năm, chúng tôi sẽ đi đến một bể bơi.",
+   "emoji": "",
+   "ipa": "/ˈswɪmɪŋ ˌpuːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fan",
+   "meaning": "quạt (thóc... )",
+   "example": "Tim is a huge fan of satirical comedy.",
+   "exampleMeaning": "Tim rất thích truyện cười mỉa mai.",
+   "emoji": "",
+   "ipa": "/ˈfæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "three",
+   "meaning": "ba",
+   "example": "I have three sisters.",
+   "exampleMeaning": "Tôi có ba người chị.",
+   "emoji": "",
+   "ipa": "/ˈθri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "foreigner",
+   "meaning": "người nước ngoài",
+   "example": "He has never spoken to a foreigner before.",
+   "exampleMeaning": "Anh ấy chưa bao giờ nói chuyện với người nước ngoài trước đây.",
+   "emoji": "",
+   "ipa": "/ˈfɑrənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "information",
+   "meaning": "thông tin",
+   "example": "Is this information true?",
+   "exampleMeaning": "Thông tin này có đúng không?",
+   "emoji": "ℹ",
+   "ipa": "/ˌɪn.fə.ˈmeɪ.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "leaf",
+   "meaning": "lá",
+   "example": "He used the banana leaf as a cover from the heat of the sun.",
+   "exampleMeaning": "Anh ấy đã dùng lá chuối để che đi cái nóng của mặt trời.",
+   "emoji": "",
+   "ipa": "/ˈlif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sport",
+   "meaning": "thể thao",
+   "example": "You're such a sport!",
+   "exampleMeaning": "Anh thật thẳng thắn!",
+   "emoji": "",
+   "ipa": "/ˈspɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "out",
+   "meaning": "ra",
+   "example": "have you read it out?",
+   "exampleMeaning": "Anh ta đã đọc hết cuốn sách đó chưa?",
+   "emoji": "",
+   "ipa": "/ˈaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "street",
+   "meaning": "phố, đường phố",
+   "example": "What street is this?",
+   "exampleMeaning": "Đây là đường gì?",
+   "emoji": "",
+   "ipa": "/ˈstrit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tooth",
+   "meaning": "răng",
+   "example": "My tooth is chipped.",
+   "exampleMeaning": "Răng tôi bị sứt.",
+   "emoji": "🦷",
+   "ipa": "/ˈtuːθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "boring",
+   "meaning": "buồn tẻ, nhàm chán, nhạt nhẽo",
+   "example": "The movie was boring so I slept.",
+   "exampleMeaning": "Bộ phim tẻ nhạt quá nên tôi đã ngủ thiếp đi.",
+   "emoji": "",
+   "ipa": "/ˈbɔrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "machine",
+   "meaning": "máy",
+   "example": "Who can operate this machine?",
+   "exampleMeaning": "Ai có thể vận hành cái máy này?",
+   "emoji": "",
+   "ipa": "/məˈʃin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "information",
+    "is",
+    "false"
+   ],
+   "reading": "",
+   "meaning": "Thông tin này sai sự thật."
+  },
+  {
+   "tokens": [
+    "I",
+    "build",
+    "houses",
+    "out",
+    "of",
+    "stone"
+   ],
+   "reading": "",
+   "meaning": "Tôi xây những ngôi nhà bằng đá."
+  },
+  {
+   "tokens": [
+    "The",
+    "rumor",
+    "turned",
+    "out",
+    "to",
+    "be",
+    "false"
+   ],
+   "reading": "",
+   "meaning": "Tin đồn hóa ra là không có thật."
+  },
+  {
+   "tokens": [
+    "I",
+    "got",
+    "kicked",
+    "out",
+    "of",
+    "school",
+    "three",
+    "months",
+    "ago"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã bị đuổi học cách đây ba tháng."
+  },
+  {
+   "tokens": [
+    "That",
+    "is",
+    "mine"
+   ],
+   "reading": "",
+   "meaning": "Cái đó là của tôi."
+  }
+ ],
+ "issues": []
+}

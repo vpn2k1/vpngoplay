@@ -1,0 +1,314 @@
+{
+ "lesson": 101,
+ "draft": true,
+ "words": [
+  {
+   "term": "leather",
+   "meaning": "da",
+   "example": "Tom wants to buy a leather belt.",
+   "exampleMeaning": "Tom muốn mua một chiếc thắt lưng da.",
+   "emoji": "",
+   "ipa": "/ˈlɛðə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "clerk",
+   "meaning": "thư ký",
+   "example": "to be no great clerk",
+   "exampleMeaning": "Là người không đọc thông viết thạo",
+   "emoji": "",
+   "ipa": "/ˈklɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sweat",
+   "meaning": "mồ hôi",
+   "example": "he cannot stand the sweat of it",
+   "exampleMeaning": "Anh ta không chịu được vất vả",
+   "emoji": "",
+   "ipa": "/ˈswɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "left-hand",
+   "meaning": "trái",
+   "example": "a left-hand blow",
+   "exampleMeaning": "Một cú đấm trái",
+   "emoji": "",
+   "ipa": "/ˌlɛftˈhænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "atom",
+   "meaning": "nguyên tử",
+   "example": "there is not an atom of evidence",
+   "exampleMeaning": "Không một chứng cớ nhỏ nào",
+   "emoji": "",
+   "ipa": "/ˈætəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ancient",
+   "meaning": "xưa, cổ",
+   "example": "The ancient grimoire contained forbidden black magic spells.",
+   "exampleMeaning": "Cuốn sách phù thuỷ cũ chứa đựng cấm thuật đen.",
+   "emoji": "",
+   "ipa": "/ˈeɪn.ʃənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "noun",
+   "meaning": "danh từ",
+   "example": "Let's learn the word \"noun\".",
+   "exampleMeaning": "Cùng học từ “noun”: danh từ.",
+   "emoji": "",
+   "ipa": "/ˈnaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cigarette",
+   "meaning": "thuốc lá",
+   "example": "Let's learn the word \"cigarette\".",
+   "exampleMeaning": "Cùng học từ “cigarette”: thuốc lá.",
+   "emoji": "🚬",
+   "ipa": "/ˌsɪɡɜrˈɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boil",
+   "meaning": "sôi",
+   "example": "to bring to the boil",
+   "exampleMeaning": "Đun sôi",
+   "emoji": "",
+   "ipa": "/bɔɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fast food",
+   "meaning": "đồ ăn nhanh, nhẹ, thuận tiện",
+   "example": "I'm tired of eating fast food.",
+   "exampleMeaning": "Tôi ngán thức ăn nhanh quá rồi.",
+   "emoji": "",
+   "ipa": "/ˈfæst ˈfud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pity",
+   "meaning": "thương hại, thương xót",
+   "example": "the pity is that...",
+   "exampleMeaning": "Điều đáng tiếc là...",
+   "emoji": "",
+   "ipa": "/ˈpɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wild",
+   "meaning": "hoang dã",
+   "example": "to be wild to do something",
+   "exampleMeaning": "Điên lên muốn làm việc gì",
+   "emoji": "",
+   "ipa": "/ˈwaɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enormous",
+   "meaning": "to lớn, khổng lồ",
+   "example": "An elephant is an enormous animal.",
+   "exampleMeaning": "Voi là một loài động vật to khổng lồ.",
+   "emoji": "",
+   "ipa": "/iˈnɔrməs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "represent",
+   "meaning": "thay mặt, đại diện",
+   "example": "to represent oneself as a writer",
+   "exampleMeaning": "Tự cho mình là một nhà văn",
+   "emoji": "",
+   "ipa": "/ˌrɛprɪˈzɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "law",
+   "meaning": "phép, phép tắc, luật",
+   "example": "• The Law of Cause and Effect",
+   "exampleMeaning": "Luật Nhân Quả",
+   "emoji": "",
+   "ipa": "/ˈlɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "surname",
+   "meaning": "tên họ, họ",
+   "example": "surname and name",
+   "exampleMeaning": "Họ và tên",
+   "emoji": "",
+   "ipa": "/ˈsɜrˌneɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sense",
+   "meaning": "ý nghĩa, tình cảm chung",
+   "example": "to labour under a sense of wrong",
+   "exampleMeaning": "Bị giày vò vì biết mình có lỗi",
+   "emoji": "",
+   "ipa": "/ˈsɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "writing",
+   "meaning": "tác phẩm, sách, bài báo",
+   "example": "Begin writing now.",
+   "exampleMeaning": "Bắt đầu viết đi.",
+   "emoji": "",
+   "ipa": "/ˈraɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "separate",
+   "meaning": "riêng rẽ, không dính với nhau, chia tay",
+   "example": "the two questions are essentially separate",
+   "exampleMeaning": "Về căn bản, hai vấn đề đó không dính với nhau",
+   "emoji": "",
+   "ipa": "/ˈsɛpɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "perfect",
+   "meaning": "hoàn hảo, hoàn toàn",
+   "example": "to perfect oneself in a foreign language",
+   "exampleMeaning": "Tự trau dồi cho thật giỏi về một ngoại ngữ",
+   "emoji": "",
+   "ipa": "/ˈpɜːfɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Don't",
+    "sweat",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Đừng làm ướt nó."
+  },
+  {
+   "tokens": [
+    "It's",
+    "the",
+    "law"
+   ],
+   "reading": "",
+   "meaning": "Đó là luật."
+  },
+  {
+   "tokens": [
+    "Practice",
+    "makes",
+    "perfect"
+   ],
+   "reading": "",
+   "meaning": "Có công mài sắt có ngày nên kim."
+  },
+  {
+   "tokens": [
+    "Nobody",
+    "is",
+    "perfect"
+   ],
+   "reading": "",
+   "meaning": "Không ai hoàn hảo cả."
+  },
+  {
+   "tokens": [
+    "Begin",
+    "writing",
+    "now"
+   ],
+   "reading": "",
+   "meaning": "Bắt đầu viết đi."
+  }
+ ],
+ "issues": []
+}

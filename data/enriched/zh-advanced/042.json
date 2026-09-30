@@ -1,0 +1,328 @@
+{
+ "lesson": 42,
+ "draft": true,
+ "words": [
+  {
+   "term": "未成年人",
+   "meaning": "trẻ vị thành niên",
+   "example": "我们来学“未成年人”这个词。",
+   "exampleMeaning": "Cùng học từ “未成年人”: trẻ vị thành niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèichéngniánrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "压制",
+   "meaning": "ép (một phương pháp chế tạo)",
+   "example": "压制不住自己的愤怒。",
+   "exampleMeaning": "Kiềm nén không được sự phẫn nộ của bản thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yāzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "香味",
+   "meaning": "hương vị",
+   "example": "苹果的香味。",
+   "exampleMeaning": "Mùi hương táo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "窜",
+   "meaning": "sửa chữa",
+   "example": "抱头鼠窜。",
+   "exampleMeaning": "Ôm đầu tháo chạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前任",
+   "meaning": "tiền nhiệm",
+   "example": "他是工会的前任主席。",
+   "exampleMeaning": "Anh ấy là chủ tịch trước của công đoàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "内涵",
+   "meaning": "nội hàm",
+   "example": "我们来学“内涵”这个词。",
+   "exampleMeaning": "Cùng học từ “内涵”: nội hàm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèihán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沙龙",
+   "meaning": "phòng khách",
+   "example": "我们来学“沙龙”这个词。",
+   "exampleMeaning": "Cùng học từ “沙龙”: phòng khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shālóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "起初",
+   "meaning": "lúc đầu",
+   "example": "起初他一个字也不认识，现在已经能看报写信了。",
+   "exampleMeaning": "Lúc đầu một chữ anh ấy cũng không biết, bây giờ đã có thể đọc báo được rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "备受",
+   "meaning": "để trải nghiệm đầy đủ (tốt hay xấu)",
+   "example": "我们来学“备受”这个词。",
+   "exampleMeaning": "Cùng học từ “备受”: để trải nghiệm đầy đủ (tốt hay xấu).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèishòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "头顶",
+   "meaning": "đỉnh đầu",
+   "example": "我们来学“头顶”这个词。",
+   "exampleMeaning": "Cùng học từ “头顶”: đỉnh đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóudǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "住处",
+   "meaning": "chỗ ở",
+   "example": "我不知道他的住处。",
+   "exampleMeaning": "Tôi không biết chỗ ở của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùchù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推翻",
+   "meaning": "phủ định",
+   "example": "推翻原有结论。",
+   "exampleMeaning": "Phủ định kết luận vốn có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīfān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弹性",
+   "meaning": "thay đổi",
+   "example": "弹性立场",
+   "exampleMeaning": "Thay đổi lập trường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tánxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "疏散",
+   "meaning": "sơ tán",
+   "example": "疏散的村落。",
+   "exampleMeaning": "Thôn xóm thưa thớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūsàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "境内",
+   "meaning": "lãnh thổ",
+   "example": "我们来学“境内”这个词。",
+   "exampleMeaning": "Cùng học từ “境内”: lãnh thổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngnèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "富裕",
+   "meaning": "giàu có",
+   "example": "农民一天天地富裕起来。",
+   "exampleMeaning": "Nông dân ngày càng giàu có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成年",
+   "meaning": "quanh năm",
+   "example": "成年累月。",
+   "exampleMeaning": "Quanh năm suốt tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "日益",
+   "meaning": "ngày càng",
+   "example": "生活日益改善。",
+   "exampleMeaning": "Cuộc sống ngày càng được cải thiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "庆典",
+   "meaning": "lễ mừng",
+   "example": "我们来学“庆典”这个词。",
+   "exampleMeaning": "Cùng học từ “庆典”: lễ mừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìngdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光彩",
+   "meaning": "vẻ vang",
+   "example": "橱窗里面摆着光彩夺目的各色丝绸。",
+   "exampleMeaning": "Trong tủ kính bày nhiều hàng tơ lụa màu sắc rất đẹp mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngcǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "相信",
+    "他",
+    "在",
+    "说实话",
+    "吗"
+   ],
+   "reading": "nǐ xiāngxìn tā zài shuōshíhuà ma",
+   "meaning": "Bạn có tin ông ta đang nói sự thật không?"
+  },
+  {
+   "tokens": [
+    "罪犯",
+    "们",
+    "密谋",
+    "抢劫",
+    "银行"
+   ],
+   "reading": "zuìfàn men mìmóu qiǎngjié yínháng",
+   "meaning": "Bọn tội phạm đang âm mưu cướp ngân hàng."
+  },
+  {
+   "tokens": [
+    "他",
+    "对生",
+    "活",
+    "感到",
+    "很",
+    "无奈"
+   ],
+   "reading": "tā duìshēng huó gǎndào hěn wúnài",
+   "meaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống."
+  },
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  }
+ ],
+ "issues": []
+}

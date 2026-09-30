@@ -1,0 +1,335 @@
+{
+ "lesson": 88,
+ "draft": true,
+ "words": [
+  {
+   "term": "呼びかけ",
+   "meaning": "tiếng kêu, tiếng la, tiếng gọi",
+   "example": "活動の資金を得るために広く世界に投資を呼びかけた。",
+   "exampleMeaning": "Đã kêu gọi đầu tư trên toàn thế giới để có kinh phí cho hoạt động này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中南米",
+   "meaning": "Central and South America (EN)",
+   "example": "「中南米」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中南米”: Central and South America (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日本銀行",
+   "meaning": "Bank of Japan (EN)",
+   "example": "「日本銀行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日本銀行”: Bank of Japan (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "官房長官",
+   "meaning": "thư ký điều hành",
+   "example": "「官房長官」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “官房長官”: thư ký điều hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放射性",
+   "meaning": "phóng xạ",
+   "example": "放射性廃棄物の問題は未解決のままである。",
+   "exampleMeaning": "Vấn đề chất thải phóng xạ vẫn còn chưa được giải quyết.",
+   "emoji": "☢",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "開き",
+   "meaning": "khe hở, lỗ",
+   "example": "このボタンを押せばドアは開きます。",
+   "exampleMeaning": "Khi bạn bấm nút này, cửa sẽ mở ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "能楽",
+   "meaning": "noh play (EN)",
+   "example": "「能楽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “能楽”: noh play (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主流",
+   "meaning": "xu hướng chủ đạo, xu thế chủ đạo",
+   "example": "彼のやり方は主流からは外れているけれど、悪くない仕事をしてると俺は思うよ。",
+   "exampleMeaning": "Cách làm của anh ấy mặc dù khác so với những cách thông thường, nhưng tôi cho rằng kết quả mà anh ấy đạt được cũng không tồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一塁",
+   "meaning": "điểm đầu tiên trong bốn điểm phải được chạm bóng",
+   "example": "「一塁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一塁”: điểm đầu tiên trong bốn điểm phải được chạm bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本店",
+   "meaning": "trụ sở chính",
+   "example": "「本店」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本店”: trụ sở chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陸上競技",
+   "meaning": "các môn điền kinh",
+   "example": "「陸上競技」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陸上競技”: các môn điền kinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "側近",
+   "meaning": "vùng lân cận, vùng xung quanh",
+   "example": "「側近」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “側近”: vùng lân cận, vùng xung quanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最長",
+   "meaning": "so sánh nhất của long",
+   "example": "「最長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “最長”: so sánh nhất của long.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金融機関",
+   "meaning": "chẳng hạn như ngân hàng",
+   "example": "「金融機関」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金融機関”: chẳng hạn như ngân hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日本海",
+   "meaning": "Sea of Japan (EN)",
+   "example": "「日本海」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日本海”: Sea of Japan (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二階建て",
+   "meaning": "two-storied building (EN)",
+   "example": "「二階建て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二階建て”: two-storied building (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政",
+   "meaning": "chính phủ, nội các",
+   "example": "私は政治に関心がない。",
+   "exampleMeaning": "Tôi không quan tâm đến chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "議席",
+   "meaning": "parliamentary seat (EN)",
+   "example": "「議席」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “議席”: parliamentary seat (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取締役会",
+   "meaning": "ban giám đốc/hội đồng quản trị",
+   "example": "「取締役会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取締役会”: ban giám đốc/hội đồng quản trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "為替相場",
+   "meaning": "tỉ giá hối đoái",
+   "example": "「為替相場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “為替相場”: tỉ giá hối đoái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "政治",
+    "に",
+    "関心",
+    "が",
+    "ない"
+   ],
+   "reading": "わたしはせいじにかんしんがない",
+   "meaning": "Tôi không quan tâm đến chính trị."
+  },
+  {
+   "tokens": [
+    "メアリー",
+    "は",
+    "政治",
+    "に",
+    "興味",
+    "が",
+    "ある"
+   ],
+   "reading": "メアリーはせいじにきょうみがある",
+   "meaning": "Mary có hứng thú về chính trị."
+  },
+  {
+   "tokens": [
+    "たぶん",
+    "工場",
+    "は",
+    "来週",
+    "閉鎖",
+    "される",
+    "だろう"
+   ],
+   "reading": "たぶんこうじょうはらいしゅうへいさされるだろう",
+   "meaning": "Có lẽ tuần sau công ty sẽ đóng cửa."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "健康な",
+    "赤ん坊",
+    "を",
+    "出産",
+    "しました"
+   ],
+   "reading": "かのじょはけんこうなあかんぼうをしゅっさんしました",
+   "meaning": "Cô ấy đã sinh ra một em bé khỏe mạnh."
+  },
+  {
+   "tokens": [
+    "哲学",
+    "は",
+    "難しい",
+    "と",
+    "見なされる",
+    "こと",
+    "が",
+    "多い"
+   ],
+   "reading": "てつがくはむずかしいとみなされることがおおい",
+   "meaning": "Triết học thường được xem là khó."
+  }
+ ],
+ "issues": []
+}

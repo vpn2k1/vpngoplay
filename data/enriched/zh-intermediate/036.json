@@ -1,0 +1,337 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "餐馆",
+   "meaning": "quán ăn",
+   "example": "我们来学“餐馆”这个词。",
+   "exampleMeaning": "Cùng học từ “餐馆”: quán ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cānguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "看待",
+   "meaning": "đối đãi",
+   "example": "把他当亲兄弟看待。",
+   "exampleMeaning": "Đối đãi với anh ấy như anh em ruột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàndài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打架",
+   "meaning": "đánh nhau",
+   "example": "有话好说，不能打架。",
+   "exampleMeaning": "Chuyện đâu còn có đó, không nên đánh nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "助手",
+   "meaning": "trợ lý",
+   "example": "得力助手",
+   "exampleMeaning": "Trợ lý đắc lực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "得以",
+   "meaning": "được",
+   "example": "必须放手发动群众，让群众的意见得以充分发表出来。",
+   "exampleMeaning": "Cần phát động quần chúng, để ý kiến của họ được phát biểu đầy đủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "déyǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "键",
+   "meaning": "chìa khoá",
+   "example": "我们来学“键”这个词。",
+   "exampleMeaning": "Cùng học từ “键”: chìa khoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "闲",
+   "meaning": "nhàn",
+   "example": "父亲常常在空闲时间读侦探小说。",
+   "exampleMeaning": "Bố thường đọc tiểu thuyết trinh thám vào lúc rảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xián",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真理",
+   "meaning": "chân lý",
+   "example": "我们来学“真理”这个词。",
+   "exampleMeaning": "Cùng học từ “真理”: chân lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "猜测",
+   "meaning": "đoán",
+   "example": "这件事非常复杂，而且一点儿线索也没有，叫人很难猜测。",
+   "exampleMeaning": "Chuyện này phức tạp vô cùng, mà lại chẳng có chút manh mối nào, khiến cho người ta rất khó đoán ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāicè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "典礼",
+   "meaning": "lễ",
+   "example": "开学典礼",
+   "exampleMeaning": "Lễ khai giảng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人间",
+   "meaning": "nhân gian",
+   "example": "旧社会是劳动人民的人间地狱。",
+   "exampleMeaning": "Xã hội cũ là địa ngục chốn nhân gian của nhân dân lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转向",
+   "meaning": "mất phương hướng",
+   "example": "我们来学“转向”这个词。",
+   "exampleMeaning": "Cùng học từ “转向”: mất phương hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放大",
+   "meaning": "phóng đại",
+   "example": "放大照片",
+   "exampleMeaning": "Phóng đại hình ảnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乘坐",
+   "meaning": "cưỡi",
+   "example": "我们来学“乘坐”这个词。",
+   "exampleMeaning": "Cùng học từ “乘坐”: cưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鼓",
+   "meaning": "phùng, cổ vũ, cái trống",
+   "example": "妈，怎么爸爸一批评我，你就敲边鼓！",
+   "exampleMeaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!",
+   "emoji": "🥁",
+   "ipa": "",
+   "pinyin": "gǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "过敏",
+   "meaning": "quá nhạy cảm",
+   "example": "你不要过敏，没人说你坏话。",
+   "exampleMeaning": "Anh đừng quá nhạy cảm, đâu ai nói xấu anh đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòmǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "现状",
+   "meaning": "hiện trạng",
+   "example": "打破现状。",
+   "exampleMeaning": "Phá vỡ hiện trạng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànzhuàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上级",
+   "meaning": "cấp trên",
+   "example": "完成上级交给的任务。",
+   "exampleMeaning": "Hoàn thành nhiệm vụ mà cấp trên giao phó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "例外",
+   "meaning": "ngoại lệ",
+   "example": "大家都得遵守规定， 谁也不能例外。",
+   "exampleMeaning": "Mọi người đều phải tuân theo qui định, không ngoại trừ một ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "从中",
+   "meaning": "giữa",
+   "example": "我们来学“从中”这个词。",
+   "exampleMeaning": "Cùng học từ “从中”: giữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "父亲",
+    "常常",
+    "在",
+    "空闲",
+    "时间",
+    "读",
+    "侦探",
+    "小说"
+   ],
+   "reading": "fùqin chángcháng zài kòngxián shíjiān dú zhēntàn xiǎoshuō",
+   "meaning": "Bố thường đọc tiểu thuyết trinh thám vào lúc rảnh."
+  },
+  {
+   "tokens": [
+    "妈",
+    "怎么",
+    "爸爸",
+    "一",
+    "批评",
+    "我",
+    "你",
+    "就",
+    "敲边鼓"
+   ],
+   "reading": "mā zěnme bàba yī pīpíng wǒ nǐ jiù qiāobiāngǔ",
+   "meaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!"
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "你",
+    "就",
+    "只",
+    "抄",
+    "了",
+    "这么",
+    "多",
+    "张",
+    "啊"
+   ],
+   "reading": "nǐ jiù zhǐ chāo le zhème duō zhāng ā",
+   "meaning": "Anh chỉ chép được có bây nhiêu trang thôi à?"
+  },
+  {
+   "tokens": [
+    "他",
+    "在",
+    "工作",
+    "上",
+    "遇到",
+    "了",
+    "麻烦"
+   ],
+   "reading": "tā zài gōngzuò shàng yùdào le máfan",
+   "meaning": "Nó gặp phải phiền toái khi làm việc."
+  }
+ ],
+ "issues": []
+}

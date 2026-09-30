@@ -1,0 +1,334 @@
+{
+ "lesson": 16,
+ "draft": true,
+ "words": [
+  {
+   "term": "黒",
+   "meaning": "đen",
+   "example": "あの黒ずくめの紳士は誰ですか。",
+   "exampleMeaning": "Quý ông ăn vận toàn màu đen kia là ai vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "台所",
+   "meaning": "phòng bếp, nhà bếp",
+   "example": "トムは台所のドアを閉めた。",
+   "exampleMeaning": "Tom đóng cửa nhà bếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "明るい",
+   "meaning": "sáng chói, tươi, vui mừng",
+   "example": "「明るい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明るい”: sáng chói, tươi, vui mừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "庭",
+   "meaning": "vườn",
+   "example": "家の犬は庭に骨を埋める。",
+   "exampleMeaning": "Con chó nhà tôi chôn xương ở trong vườn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "文章",
+   "meaning": "câu",
+   "example": "彼は以前はたくさんの文章を読んだものだ。",
+   "exampleMeaning": "Trước đây anh ấy từng đọc rất nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "タクシー",
+   "meaning": "xe tắc xi",
+   "example": "彼女はタクシーの運転手ですか。",
+   "exampleMeaning": "Cô ấy có phải là một tài xế taxi không?",
+   "emoji": "🚕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "今年",
+   "meaning": "năm này",
+   "example": "両親は私の今年の成績に満足した。",
+   "exampleMeaning": "Bố mẹ tôi thỏa mãn với thành tích năm nay của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "写真",
+   "meaning": "ảnh, bức ảnh",
+   "example": "それは最近の写真？",
+   "exampleMeaning": "Tấm hình này có mới không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "差す",
+   "meaning": "nâng lên, đỡ dậy",
+   "example": "「差す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “差す”: nâng lên, đỡ dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "花",
+   "meaning": "hoa, bông hoa, đoá hoa",
+   "example": "花見をしに来ました。",
+   "exampleMeaning": "Tôi đến để ngắm hoa anh đào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物",
+   "meaning": "cái, đồ, vật",
+   "example": "龍は空想の動物だ。",
+   "exampleMeaning": "Rồng là động vật không tưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "友達",
+   "meaning": "bạn, bầu bạn",
+   "example": "彼はだれの友達ですか。",
+   "exampleMeaning": "Anh ấy là bạn của ai vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "目",
+   "meaning": "mắt: cơ quan thị giác của con người hoặc con vật",
+   "example": "彼は三枚目だ。",
+   "exampleMeaning": "Anh ta là một diễn viên hài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "少し",
+   "meaning": "hơi, một chút, một tí",
+   "example": "少しくたびれた。",
+   "exampleMeaning": "Tôi hơi mệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "呼ぶ",
+   "meaning": "gọi (ai để làm gì)",
+   "example": "彼は私をピートと呼ぶ。",
+   "exampleMeaning": "Anh ấy gọi tôi là Pete.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "部屋",
+   "meaning": "buồng, phòng",
+   "example": "二人部屋をお願いします。",
+   "exampleMeaning": "Cho tôi một phòng hai người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ボールペン",
+   "meaning": "bút bi",
+   "example": "「ボールペン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ボールペン”: bút bi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "静か",
+   "meaning": "lặng, lặng lẽ, yên lặng",
+   "example": "君静かにしろよ。",
+   "exampleMeaning": "Mày im ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "木曜日",
+   "meaning": "thứ Năm",
+   "example": "「木曜日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “木曜日”: thứ Năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金曜日",
+   "meaning": "thứ Sáu",
+   "example": "やっと金曜日ですよ。",
+   "exampleMeaning": "Cuối cùng cũng đến thứ sáu rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "多く",
+    "の",
+    "植物",
+    "は",
+    "春",
+    "に",
+    "花",
+    "を",
+    "つける"
+   ],
+   "reading": "おおくのしょくぶつははるにはなをつける",
+   "meaning": "Rất nhiều thực vật nở hoa vào mùa Xuân."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "物価",
+    "を",
+    "注目",
+    "しなかった"
+   ],
+   "reading": "わたしたちはぶっかをちゅうもくしなかった",
+   "meaning": "Chúng tôi đã không quan tâm về vật giá."
+  },
+  {
+   "tokens": [
+    "今年",
+    "注目",
+    "している",
+    "選手",
+    "は",
+    "誰",
+    "ですか"
+   ],
+   "reading": "ことしちゅうもくしているせんしゅはだれですか",
+   "meaning": "Năm nay, tuyển thủ đang được chú ý là ai vậy?"
+  },
+  {
+   "tokens": [
+    "私の",
+    "趣味",
+    "は",
+    "野",
+    "の",
+    "花",
+    "の",
+    "写真を撮る",
+    "こと",
+    "です"
+   ],
+   "reading": "わたしのしゅみはののはなのしゃしんをとることです",
+   "meaning": "Sở thích của tôi là chụp ảnh hoa dại."
+  },
+  {
+   "tokens": [
+    "花",
+    "より",
+    "団子"
+   ],
+   "reading": "はなよりだんご",
+   "meaning": "Tốt gỗ hơn tốt nước sơn."
+  }
+ ],
+ "issues": []
+}

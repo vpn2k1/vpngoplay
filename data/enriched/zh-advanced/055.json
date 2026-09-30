@@ -1,0 +1,345 @@
+{
+ "lesson": 55,
+ "draft": true,
+ "words": [
+  {
+   "term": "猎人",
+   "meaning": "thợ săn",
+   "example": "我们来学“猎人”这个词。",
+   "exampleMeaning": "Cùng học từ “猎人”: thợ săn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丢脸",
+   "meaning": "mất mặt",
+   "example": "我们来学“丢脸”这个词。",
+   "exampleMeaning": "Cùng học từ “丢脸”: mất mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diūliǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慎重",
+   "meaning": "thận trọng",
+   "example": "慎重处理。",
+   "exampleMeaning": "Thận trọng xử lí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shènzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "医务",
+   "meaning": "tế",
+   "example": "医务工作者",
+   "exampleMeaning": "Nhân viên y tế",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水管",
+   "meaning": "ống nước",
+   "example": "我们来学“水管”这个词。",
+   "exampleMeaning": "Cùng học từ “水管”: ống nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "虚弱",
+   "meaning": "yếu",
+   "example": "病后身体很虚弱。",
+   "exampleMeaning": "Sau cơn bệnh cơ thể rất yếu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xūruò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火花",
+   "meaning": "đóm lửa",
+   "example": "烟火喷出灿烂的火花。",
+   "exampleMeaning": "Pháo hoa bắn ra những tia lửa rực rỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒhuā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "集装箱",
+   "meaning": "thùng đựng hàng",
+   "example": "我们来学“集装箱”这个词。",
+   "exampleMeaning": "Cùng học từ “集装箱”: thùng đựng hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jízhuāngxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全力以赴",
+   "meaning": "làm bằng mọi giá / nỗ lực hết mình",
+   "example": "我们来学“全力以赴”这个词。",
+   "exampleMeaning": "Cùng học từ “全力以赴”: làm bằng mọi giá / nỗ lực hết mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánlìyǐfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "航天",
+   "meaning": "hàng không",
+   "example": "航天技术",
+   "exampleMeaning": "Kỹ thuật hàng không",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángtiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "猜想",
+   "meaning": "đoán",
+   "example": "我猜想他同这件事有关。",
+   "exampleMeaning": "Tôi đoán anh ta có dính líu đến chuyện này",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāixiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "协作",
+   "meaning": "hiệp tác",
+   "example": "我们来学“协作”这个词。",
+   "exampleMeaning": "Cùng học từ “协作”: hiệp tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiézuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无线电",
+   "meaning": "vô tuyến điện",
+   "example": "无线电测向器",
+   "exampleMeaning": "Máy vô tuyến nhắm hướng",
+   "emoji": "🛜",
+   "ipa": "",
+   "pinyin": "wúxiàndiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大队",
+   "meaning": "đại đội",
+   "example": "我们来学“大队”这个词。",
+   "exampleMeaning": "Cùng học từ “大队”: đại đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "解读",
+   "meaning": "để giải mã",
+   "example": "我们来学“解读”这个词。",
+   "exampleMeaning": "Cùng học từ “解读”: để giải mã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiědú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "资讯",
+   "meaning": "thông tin, dữ liệu",
+   "example": "我们来学“资讯”这个词。",
+   "exampleMeaning": "Cùng học từ “资讯”: thông tin, dữ liệu.",
+   "emoji": "ℹ",
+   "ipa": "",
+   "pinyin": "zīxùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对准",
+   "meaning": "ngắm (đích)",
+   "example": "我们来学“对准”这个词。",
+   "exampleMeaning": "Cùng học từ “对准”: ngắm (đích).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìzhǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蹭",
+   "meaning": "ăn chực, ăn bám",
+   "example": "墨还没干，当心别蹭了。",
+   "exampleMeaning": "Mực chưa khô, cẩn thận đừng quệt vào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "误导",
+   "meaning": "gây hiểu lầm",
+   "example": "我们来学“误导”这个词。",
+   "exampleMeaning": "Cùng học từ “误导”: gây hiểu lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "孤立",
+   "meaning": "cô lập",
+   "example": "这个事件不是孤立的。",
+   "exampleMeaning": "Việc này không phải việc không liên hệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gūlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "她",
+    "拥抱",
+    "了",
+    "一下儿",
+    "子",
+    "然后",
+    "让",
+    "他",
+    "上床",
+    "睡觉"
+   ],
+   "reading": "tā yōngbào le yīxiàr zǐ ránhòu ràng tā shàngchuáng shuìjiào",
+   "meaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường."
+  },
+  {
+   "tokens": [
+    "既然",
+    "你",
+    "看得起",
+    "我",
+    "我",
+    "就",
+    "一定",
+    "热情",
+    "帮助",
+    "你"
+   ],
+   "reading": "jìrán nǐ kàndeqǐ wǒ wǒ jiù yīdìng rèqíng bāngzhù nǐ",
+   "meaning": "Nếu cậu đã coi trọng tôi, thì tôi nhất định nhiệt tình giúp đỡ cậu."
+  },
+  {
+   "tokens": [
+    "他",
+    "非常",
+    "担忧",
+    "自己",
+    "会",
+    "在",
+    "医院",
+    "度过",
+    "圣诞节"
+   ],
+   "reading": "tā fēicháng dānyōu zìjǐ huì zài yīyuàn dùguò shèngdànjié",
+   "meaning": "Anh ấy đã rất lo lắng về việc sẽ phải dành thời gian Giáng Sinh ở bệnh viện."
+  }
+ ],
+ "issues": []
+}

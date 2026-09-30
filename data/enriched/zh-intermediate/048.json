@@ -1,0 +1,344 @@
+{
+ "lesson": 48,
+ "draft": true,
+ "words": [
+  {
+   "term": "繁荣",
+   "meaning": "phát triển mạnh",
+   "example": "把祖国建设得繁荣富强。",
+   "exampleMeaning": "Xây dựng tổ quốc phồn vinh giàu mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fánróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "递给",
+   "meaning": "đưa cho",
+   "example": "我们来学“递给”这个词。",
+   "exampleMeaning": "Cùng học từ “递给”: đưa cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìgěi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "册",
+   "meaning": "sách",
+   "example": "我校图书馆藏书二百五十万册。",
+   "exampleMeaning": "Thư viện trường chúng tôi có hai triệu rưởi quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "长度",
+   "meaning": "độ dài",
+   "example": "我们来学“长度”这个词。",
+   "exampleMeaning": "Cùng học từ “长度”: độ dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "煤",
+   "meaning": "than đá",
+   "example": "我们来学“煤”这个词。",
+   "exampleMeaning": "Cùng học từ “煤”: than đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méi",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "摩擦",
+   "meaning": "mài",
+   "example": "我们来学“摩擦”这个词。",
+   "exampleMeaning": "Cùng học từ “摩擦”: mài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mócā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "形态",
+   "meaning": "hình thái",
+   "example": "意识形态。",
+   "exampleMeaning": "Hình thái ý thức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngtài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不曾",
+   "meaning": "chưa",
+   "example": "除此以外，不曾发现其他疑点。",
+   "exampleMeaning": "Ngoài chỗ đó ra, chưa hề phát hiện được chỗ đáng ngờ nào khác",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùcéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "摄像",
+   "meaning": "ghi hình",
+   "example": "我们来学“摄像”这个词。",
+   "exampleMeaning": "Cùng học từ “摄像”: ghi hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "签订",
+   "meaning": "kí kết",
+   "example": "两国签订了贸易议定书和支付协定。",
+   "exampleMeaning": "Hai nước đã kí kết nghị định thương mại và hiệp định chi trả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiāndìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鸭子",
+   "meaning": "con vịt",
+   "example": "我们来学“鸭子”这个词。",
+   "exampleMeaning": "Cùng học từ “鸭子”: con vịt.",
+   "emoji": "🦆",
+   "ipa": "",
+   "pinyin": "yāzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "间接",
+   "meaning": "gián tiếp",
+   "example": "间接传染。",
+   "exampleMeaning": "Truyền nhiễm gián tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànjiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "背包",
+   "meaning": "ba lô",
+   "example": "我们来学“背包”这个词。",
+   "exampleMeaning": "Cùng học từ “背包”: ba lô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēibāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "车主",
+   "meaning": "chủ xe",
+   "example": "我们来学“车主”这个词。",
+   "exampleMeaning": "Cùng học từ “车主”: chủ xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēzhǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "题材",
+   "meaning": "đề tài",
+   "example": "历史题材",
+   "exampleMeaning": "Đề tài lịch sử",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tícái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通用",
+   "meaning": "thông dụng",
+   "example": "国际单位制世界通用。",
+   "exampleMeaning": "Đơn vị đo lường quốc tế dùng phổ biến cho cả thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "用不着",
+   "meaning": "không cần / không sử dụng cho",
+   "example": "我们来学“用不着”这个词。",
+   "exampleMeaning": "Cùng học từ “用不着”: không cần / không sử dụng cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngbuzháo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大致",
+   "meaning": "khoảng chừng",
+   "example": "这项工程大致两年可以完工。",
+   "exampleMeaning": "Công trình này có thể hoàn thành trong vòng hai năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "当代",
+   "meaning": "đương đại",
+   "example": "当代文学",
+   "exampleMeaning": "Văn học đương đại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "配备",
+   "meaning": "phân phối (sức người, sức của)",
+   "example": "按地形配备火力。",
+   "exampleMeaning": "Căn cứ vào địa hình bố trí hoả lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pèibèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  },
+  {
+   "tokens": [
+    "他们",
+    "俩",
+    "工作",
+    "上",
+    "联系",
+    "多",
+    "经常",
+    "打交道"
+   ],
+   "reading": "tāmen liǎ gōngzuò shàng liánxì duō jīngcháng dǎjiāodào",
+   "meaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau."
+  },
+  {
+   "tokens": [
+    "羊",
+    "屁股",
+    "先生",
+    "可",
+    "没",
+    "告诉",
+    "我",
+    "还有",
+    "搭档"
+   ],
+   "reading": "yáng pìgu xiānsheng kě méi gàosu wǒ háiyǒu dādàng",
+   "meaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "花",
+    "点",
+    "时间",
+    "斟酌",
+    "斟酌",
+    "再",
+    "作",
+    "决定"
+   ],
+   "reading": "wǒ xiǎng huā diǎn shíjiān zhēnzhuó zhēnzhuó zài zuò juédìng",
+   "meaning": "Tôi cần một ít thời gian cân nhắc để có quyết định."
+  }
+ ],
+ "issues": []
+}

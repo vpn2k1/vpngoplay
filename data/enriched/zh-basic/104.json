@@ -1,0 +1,335 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "办理",
+   "meaning": "làm",
+   "example": "这些事情你可以斟酌办理",
+   "exampleMeaning": "Những chuyện này anh có thể cân nhắc mà giải quyết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "规范",
+   "meaning": "quy tắc",
+   "example": "这个词的用法不规范。",
+   "exampleMeaning": "Cách dùng từ này không hợp quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "可乐",
+   "meaning": "coca Cola",
+   "example": "我们来学“可乐”这个词。",
+   "exampleMeaning": "Cùng học từ “可乐”: coca Cola.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kělè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近期",
+   "meaning": "thời gian gần đây",
+   "example": "我们来学“近期”这个词。",
+   "exampleMeaning": "Cùng học từ “近期”: thời gian gần đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自主",
+   "meaning": "tự chủ",
+   "example": "独立自主",
+   "exampleMeaning": "Độc lập tự chủ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìzhǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歌迷",
+   "meaning": "mê ca nhạc",
+   "example": "我们来学“歌迷”这个词。",
+   "exampleMeaning": "Cùng học từ “歌迷”: mê ca nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēmí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "握手",
+   "meaning": "bắt tay",
+   "example": "我们来学“握手”这个词。",
+   "exampleMeaning": "Cùng học từ “握手”: bắt tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wòshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民间",
+   "meaning": "dân gian",
+   "example": "这个故事长久地在民间流传。",
+   "exampleMeaning": "Câu chuyện này lưu truyền trong dân gian rất lâu rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "题目",
+   "meaning": "đề mục",
+   "example": "考试题目",
+   "exampleMeaning": "Đề thi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tímù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解开",
+   "meaning": "đáp án",
+   "example": "你能解开这个谜语吗?",
+   "exampleMeaning": "Anh biết đáp án của câu đố này không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěkāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跑步",
+   "meaning": "chạy bộ",
+   "example": "她每天跑步，身体很好。",
+   "exampleMeaning": "Cô ấy chạy bộ mỗi ngày, sức khoẻ rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǎobù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初中",
+   "meaning": "trung học sơ cấp",
+   "example": "我们来学“初中”这个词。",
+   "exampleMeaning": "Cùng học từ “初中”: trung học sơ cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "将近",
+   "meaning": "gần",
+   "example": "本村民兵将近一百人。",
+   "exampleMeaning": "Dân binh trong thôn có đến gần một trăm người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāngjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卫生间",
+   "meaning": "buồng vệ sinh",
+   "example": "我们来学“卫生间”这个词。",
+   "exampleMeaning": "Cùng học từ “卫生间”: buồng vệ sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèishēngjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不光",
+   "meaning": "không những",
+   "example": "报名参加的不光是他一个人",
+   "exampleMeaning": "Ghi tên tham gia không chỉ một mình anh ta",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "子女",
+   "meaning": "con cái",
+   "example": "我们来学“子女”这个词。",
+   "exampleMeaning": "Cùng học từ “子女”: con cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǐnǚ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老太太",
+   "meaning": "bà",
+   "example": "他幫助一位老太太從位子上站起來。",
+   "exampleMeaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎotàitai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上衣",
+   "meaning": "áo ngoài",
+   "example": "我们来学“上衣”这个词。",
+   "exampleMeaning": "Cùng học từ “上衣”: áo ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建成",
+   "meaning": "xây dựng",
+   "example": "我们来学“建成”这个词。",
+   "exampleMeaning": "Cùng học từ “建成”: xây dựng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打听",
+   "meaning": "thăm dò",
+   "example": "打听同伴的下落。",
+   "exampleMeaning": "Thăm dò tung tích của người bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎting",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "每天",
+    "跑步",
+    "身体",
+    "很",
+    "好"
+   ],
+   "reading": "tā měitiān pǎobù shēntǐ hěn hǎo",
+   "meaning": "Cô ấy chạy bộ mỗi ngày, sức khoẻ rất tốt."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "我",
+    "是",
+    "在",
+    "日本",
+    "上",
+    "的",
+    "中学"
+   ],
+   "reading": "wǒ shì zài rìběn shàng de zhōngxué",
+   "meaning": "Tôi đã học trung học tại Nhật Bản."
+  },
+  {
+   "tokens": [
+    "这",
+    "工作",
+    "花",
+    "了",
+    "我",
+    "五",
+    "小时"
+   ],
+   "reading": "zhè gōngzuò huā le wǒ wǔ xiǎoshí",
+   "meaning": "Tôi đã tốn năm giờ đồng hồ cho công việc này."
+  },
+  {
+   "tokens": [
+    "我",
+    "现在",
+    "有",
+    "很",
+    "多事",
+    "要",
+    "做"
+   ],
+   "reading": "wǒ xiànzài yǒu hěn duōshì yào zuò",
+   "meaning": "Tôi có rất nhiều việc cần làm bây giờ."
+  }
+ ],
+ "issues": []
+}

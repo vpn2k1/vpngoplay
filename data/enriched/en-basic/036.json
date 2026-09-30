@@ -1,0 +1,333 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "are",
+   "meaning": "thì",
+   "example": "Are you OK?",
+   "exampleMeaning": "Bạn có sao không?",
+   "emoji": "",
+   "ipa": "/ˈɑr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "classroom",
+   "meaning": "phòng học",
+   "example": "He's still here in the classroom studying.",
+   "exampleMeaning": "Anh ấy vẫn còn đang học bài ở lớp.",
+   "emoji": "",
+   "ipa": "/ˈklæsˌrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hat",
+   "meaning": "mũ",
+   "example": "Tom had no hat on.",
+   "exampleMeaning": "Tom không đội mũ",
+   "emoji": "",
+   "ipa": "/hæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "practice",
+   "meaning": "thực hành, thực tiễn",
+   "example": "to buy the practice of...",
+   "exampleMeaning": "Mua lại phòng khám bệnh và khách hàng của...; mua lại phòng luật sư và khách hàng của...",
+   "emoji": "",
+   "ipa": "/ˈpræktəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ago",
+   "meaning": "trước đây, về trước",
+   "example": "five years ago",
+   "exampleMeaning": "Năm năm trước đây, đã năm năm nay",
+   "emoji": "",
+   "ipa": "/əˈɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "last name",
+   "meaning": "họ",
+   "example": "Do you know his last name?",
+   "exampleMeaning": "Bạn có biết họ của anh ấy không?",
+   "emoji": "",
+   "ipa": "/ˈlæs ˈneɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "yes",
+   "meaning": "có",
+   "example": "You didn't see him? - yes I did",
+   "exampleMeaning": "Anh không thấy nó à? có chứ",
+   "emoji": "",
+   "ipa": "/jɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "partner",
+   "meaning": "người cùng chung phần",
+   "example": "to partner someone with another",
+   "exampleMeaning": "Kết ai với ai thành một phe",
+   "emoji": "",
+   "ipa": "/ˈpɑrtnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "as",
+   "meaning": "như",
+   "example": "I'll do as you ask.",
+   "exampleMeaning": "Tôi sẽ làm như bạn yêu cầu.",
+   "emoji": "",
+   "ipa": "/ˈæs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "math",
+   "meaning": "toán",
+   "example": "He is a math teacher.",
+   "exampleMeaning": "Anh ấy là một giáo viên dạy toán.",
+   "emoji": "",
+   "ipa": "/ˈmæθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "glass",
+   "meaning": "kính",
+   "example": "Glass breaks easily.",
+   "exampleMeaning": "Thuỷ tinh dễ vỡ.",
+   "emoji": "",
+   "ipa": "/ˈɡlæs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enjoy",
+   "meaning": "thích thú, khoái (cái gì)",
+   "example": "to enjoy an interesting book",
+   "exampleMeaning": "Thích thú xem một cuốn sách hay",
+   "emoji": "",
+   "ipa": "/ɪnˈd͡ʒɔɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "top",
+   "meaning": "chóp, đỉnh, ngọn",
+   "example": "I can't top up my phone.",
+   "exampleMeaning": "Tôi không thể nạp tiền vào điện thoại.",
+   "emoji": "",
+   "ipa": "/ˈtɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "character",
+   "meaning": "nhân vật",
+   "example": "to have an excellent character for honesty",
+   "exampleMeaning": "Nổi tiếng về chân thật",
+   "emoji": "",
+   "ipa": "/ˈkɛrɪktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thirteen",
+   "meaning": "mười ba",
+   "example": "Thirteen passengers were hospitalized.",
+   "exampleMeaning": "Có 13 hành khách đã nhập viện.",
+   "emoji": "",
+   "ipa": "/ˈθɜrˈtin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "burger",
+   "meaning": "(thông tục) thị trấn, thị xã",
+   "example": "Let's learn the word \"burger\".",
+   "exampleMeaning": "Cùng học từ “burger”: (thông tục) thị trấn, thị xã.",
+   "emoji": "",
+   "ipa": "/ˈbɜrɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "medicine",
+   "meaning": "thuốc, dược liệu",
+   "example": "You must take the medicine!",
+   "exampleMeaning": "Bạn phải uống thuốc!",
+   "emoji": "",
+   "ipa": "/ˈmɛdəsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "map",
+   "meaning": "sắp xếp, sắp đặt, vạch ra",
+   "example": "The map is on the wall.",
+   "exampleMeaning": "Bản đồ ở trên tường.",
+   "emoji": "",
+   "ipa": "/ˈmæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "their",
+   "meaning": "của chúng, của chúng nó, của họ",
+   "example": "Their eyes met.",
+   "exampleMeaning": "Ánh mắt họ chạm nhau.",
+   "emoji": "",
+   "ipa": "/ˈðɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sixteen",
+   "meaning": "mười sáu",
+   "example": "When I was sixteen, I played tennis for the first time.",
+   "exampleMeaning": "Lần đầu tiên tôi chơi quần vợt là khi tôi 16 tuổi",
+   "emoji": "",
+   "ipa": "/ˈsɪkˈstin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They",
+    "are",
+    "flying",
+    "their",
+    "national",
+    "flag"
+   ],
+   "reading": "",
+   "meaning": "Họ đang treo quốc kỳ của họ."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "as",
+    "old",
+    "as",
+    "you",
+    "are"
+   ],
+   "reading": "",
+   "meaning": "Tôi bằng tuổi bạn."
+  },
+  {
+   "tokens": [
+    "You",
+    "are",
+    "as",
+    "tall",
+    "as",
+    "I",
+    "am"
+   ],
+   "reading": "",
+   "meaning": "Bạn cao bằng tôi."
+  },
+  {
+   "tokens": [
+    "They",
+    "are",
+    "not",
+    "happy",
+    "in",
+    "their",
+    "houses"
+   ],
+   "reading": "",
+   "meaning": "Họ không vui trong chính ngôi nhà của họ."
+  },
+  {
+   "tokens": [
+    "You",
+    "are",
+    "always",
+    "as",
+    "busy",
+    "as",
+    "a",
+    "bee"
+   ],
+   "reading": "",
+   "meaning": "Mày lúc nào cũng chăm chỉ như con ong."
+  }
+ ],
+ "issues": []
+}

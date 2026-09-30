@@ -1,0 +1,331 @@
+{
+ "lesson": 121,
+ "draft": true,
+ "words": [
+  {
+   "term": "緊急",
+   "meaning": "gấp, cần kíp, khẩn cấp",
+   "example": "緊急の場合は、１１９番に電話しなさい。",
+   "exampleMeaning": "Trong trường hợp khẩn cấp, hãy gọi 119.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "給食",
+   "meaning": "school lunch (EN)",
+   "example": "「給食」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “給食”: school lunch (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "間柄",
+   "meaning": "mối quan hệ, mối liên hệ",
+   "example": "「間柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “間柄”: mối quan hệ, mối liên hệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接続詞",
+   "meaning": "sự liên kết, sự kết hợp, sự tiếp hợp",
+   "example": "「接続詞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接続詞”: sự liên kết, sự kết hợp, sự tiếp hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捕虜",
+   "meaning": "người lính bị quân địch bắt giữ trong chiến tranh đến khi chiến tranh kết thúc",
+   "example": "「捕虜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “捕虜”: người lính bị quân địch bắt giữ trong chiến tranh đến khi chiến tranh kết thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アワー",
+   "meaning": "giờ, tiếng (đồng hồ)",
+   "example": "「アワー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “アワー”: giờ, tiếng (đồng hồ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "几帳面",
+   "meaning": "có phương pháp",
+   "example": "「几帳面」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “几帳面”: có phương pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一見",
+   "meaning": "cái nhìn, cái ngó, cái dòm",
+   "example": "百聞は一見に如かず。",
+   "exampleMeaning": "Trăm nghe không bằng một thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "フロント",
+   "meaning": "cái trán",
+   "example": "「フロント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “フロント”: cái trán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蕾",
+   "meaning": "chồi, nụ, lộc",
+   "example": "「蕾」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “蕾”: chồi, nụ, lộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小切手",
+   "meaning": "séc",
+   "example": "「小切手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小切手”: séc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "がっしり",
+   "meaning": "kiên quyết, một cách vững vàng và chắc chắn, liên tục",
+   "example": "「がっしり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “がっしり”: kiên quyết, một cách vững vàng và chắc chắn, liên tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "野外",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của field",
+   "example": "野外コンサートは嵐のために中止になった。",
+   "exampleMeaning": "Buổi hòa nhạc ngoài trời bị hoãn do cơn bão.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "追い込む",
+   "meaning": "dồn lại thành bầy",
+   "example": "「追い込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “追い込む”: dồn lại thành bầy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "収支",
+   "meaning": "income and expenditure (EN)",
+   "example": "「収支」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “収支”: income and expenditure (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "とぎれる",
+   "meaning": "tạm nghỉ, tạm ngừng",
+   "example": "「とぎれる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “とぎれる”: tạm nghỉ, tạm ngừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "覆す",
+   "meaning": "lật đổ, lật nhào, đạp đổ",
+   "example": "「覆す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “覆す”: lật đổ, lật nhào, đạp đổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生真面目",
+   "meaning": "đứng đắn, nghiêm trang, nghiêm nghị",
+   "example": "「生真面目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生真面目”: đứng đắn, nghiêm trang, nghiêm nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洪水",
+   "meaning": "lũ, lụt, nạn lụt",
+   "example": "「洪水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “洪水”: lũ, lụt, nạn lụt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発芽",
+   "meaning": "sự mọc mộng, sự nảy mầm",
+   "example": "「発芽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発芽”: sự mọc mộng, sự nảy mầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "気に入って",
+    "くれる",
+    "と",
+    "思ってた"
+   ],
+   "reading": "きにいってくれるとおもってた",
+   "meaning": "Tôi biết là bạn sẽ thích nó mà."
+  },
+  {
+   "tokens": [
+    "少年",
+    "は",
+    "その",
+    "鳥",
+    "を",
+    "網",
+    "で",
+    "捕まえた"
+   ],
+   "reading": "しょうねんはそのとりをあみでつかまえた",
+   "meaning": "Cậu bé đã bắt con chim đó bằng một tấm lưới."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "先月",
+    "結婚式",
+    "を",
+    "挙げました"
+   ],
+   "reading": "わたしはせんげつけっこんしきをあげました",
+   "meaning": "Tôi đã tổ chức đám cưới vào tháng trước."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "もう",
+    "宿題",
+    "を",
+    "済ませました"
+   ],
+   "reading": "かれはもうしゅくだいをすませました",
+   "meaning": "Anh ấy đã làm xong bài tập về nhà."
+  },
+  {
+   "tokens": [
+    "雨",
+    "が",
+    "降る",
+    "と",
+    "彼女",
+    "は",
+    "憂鬱",
+    "になる"
+   ],
+   "reading": "あめがふるとかのじょはゆううつになる",
+   "meaning": "Mỗi khi trời mưa, cô ấy lại trở nên buồn rầu."
+  }
+ ],
+ "issues": []
+}

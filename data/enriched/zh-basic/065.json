@@ -1,0 +1,328 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "当然",
+   "meaning": "đương nhiên",
+   "example": "消磨时间的最有效办法当然还是聊天吹牛侃大山。",
+   "exampleMeaning": "Biện pháp hiệu quả nhất để giết thời gian nhất đương nhiên vẫn là chuyện trò, chém gió, buôn chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "部",
+   "meaning": "bộ",
+   "example": "你看过那部电影吗？",
+   "exampleMeaning": "Anh đã xem phim ấy chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消息",
+   "meaning": "tin, tin tức",
+   "example": "听到消息，她晕倒了。",
+   "exampleMeaning": "Nghe được tin, nó liền té xỉu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāoxi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "表现",
+   "meaning": "biểu hiện",
+   "example": "他在工作中的表现很好。",
+   "exampleMeaning": "Biểu hiện của anh ta trong công việc rất tốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎoxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解决",
+   "meaning": "giải (một phương trình), tiêu diệt, tháo gỡ",
+   "example": "不立即解决，那桩事会马上告吹的。",
+   "exampleMeaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiějué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "成功",
+   "meaning": "thành công",
+   "example": "成功屬於耐心等待的人。",
+   "exampleMeaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénggōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "结束",
+   "meaning": "kết thúc",
+   "example": "代表团结束了对北京的访问。",
+   "exampleMeaning": "Đoàn đại biểu đã kết thúc chuyến đi phỏng vấn ở Bắc Kinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "者",
+   "meaning": "người",
+   "example": "改革者的目标是要改进政府。",
+   "exampleMeaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhě",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "转",
+   "meaning": "vòng",
+   "example": "轮子转得很快。",
+   "exampleMeaning": "Bánh xe quay rất nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调查",
+   "meaning": "điều tra",
+   "example": "大家事先要搞好调查研究，把方案设计得周密些，以便少走弯路。",
+   "exampleMeaning": "Mọi người trước tiên phải điều tra nghiên cứu kỹ đi, thiết kế phương án cẩn thận một chút, để bớt phải đi đường vòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàochá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "方式",
+   "meaning": "cách",
+   "example": "我很抱歉用这种方式把你请来。",
+   "exampleMeaning": "Tôi xin lỗi vì đã dùng cách này để đưa anh đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "处理",
+   "meaning": "soạn thảo",
+   "example": "处理品。",
+   "exampleMeaning": "Hàng thanh lí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǔlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "强",
+   "meaning": "bền, vững, chắc chắn",
+   "example": "强不知以为知。",
+   "exampleMeaning": "Không biết cố làm ra biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "能力",
+   "meaning": "khả năng, năng lực",
+   "example": "他经验丰富，有能力担当这项工作。",
+   "exampleMeaning": "Anh ấy kinh nghiệm phong phú, có khả năng đảm trách được công việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nénglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保护",
+   "meaning": "bảo hộ, bảo vệ",
+   "example": "保护亲人",
+   "exampleMeaning": "Bảo vệ người thân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎohù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "管",
+   "meaning": "quản",
+   "example": "不管侵略者什么时候来, 都必被消灭。",
+   "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支持",
+   "meaning": "ủng hộ",
+   "example": "累得支持不住了。",
+   "exampleMeaning": "Mệt không thể chịu nổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīchí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "注意",
+   "meaning": "chú ý",
+   "example": "注意安全",
+   "exampleMeaning": "Chú ý an toàn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "活",
+   "meaning": "sống",
+   "example": "他对生活感到很无奈。",
+   "exampleMeaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huó",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "拍",
+   "meaning": "đập",
+   "example": "拍掉身上的土。",
+   "exampleMeaning": "Phủi bụi trên người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  },
+  {
+   "tokens": [
+    "谁",
+    "负责",
+    "这个",
+    "部门"
+   ],
+   "reading": "shéi fùzé zhège bùmén",
+   "meaning": "Ai phụ trách khâu này?"
+  },
+  {
+   "tokens": [
+    "他们",
+    "生活",
+    "得",
+    "很",
+    "幸福"
+   ],
+   "reading": "tāmen shēnghuó de hěn xìngfú",
+   "meaning": "Họ đã có một cuộc sống hạnh phúc."
+  },
+  {
+   "tokens": [
+    "我",
+    "知道了",
+    "那个",
+    "消息"
+   ],
+   "reading": "wǒ zhīdàole nàge xiāoxi",
+   "meaning": "Tôi được biết tin đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "过",
+    "那",
+    "部",
+    "电影",
+    "吗"
+   ],
+   "reading": "nǐ kàn guo nà bù diànyǐng ma",
+   "meaning": "Anh đã xem phim ấy chưa?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,317 @@
+{
+ "lesson": 80,
+ "draft": true,
+ "words": [
+  {
+   "term": "mint",
+   "meaning": "mới, chưa dùng (tem, sách)",
+   "example": "to mint a new word",
+   "exampleMeaning": "Đặt ra một từ mới",
+   "emoji": "",
+   "ipa": "/ˈmɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shipping",
+   "meaning": "sự xếp hàng xuống tàu",
+   "example": "Let's learn the word \"shipping\".",
+   "exampleMeaning": "Cùng học từ “shipping”: sự xếp hàng xuống tàu.",
+   "emoji": "",
+   "ipa": "/ˈʃɪpɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unthinkably",
+   "meaning": "không thể nghĩ ra được",
+   "example": "Let's learn the word \"unthinkably\".",
+   "exampleMeaning": "Cùng học từ “unthinkably”: không thể nghĩ ra được.",
+   "emoji": "",
+   "ipa": "/ʌnθˈɪŋkəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dose",
+   "meaning": "liều",
+   "example": "a dose of the stick",
+   "exampleMeaning": "(từ lóng) trận đòn, trận roi",
+   "emoji": "",
+   "ipa": "/ˈdoʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "refresh",
+   "meaning": "làm cho tỉnh (người) lại",
+   "example": "to refresh oneself with a cup of tea",
+   "exampleMeaning": "Uống một chén trà cho tỉnh người lại",
+   "emoji": "",
+   "ipa": "/rɪˈfrɛʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prevail",
+   "meaning": "+ against, over) thắng thế, chiếm ưu thế",
+   "example": "to prevail upon somebody to do something",
+   "exampleMeaning": "Thuyết phục ai làm gì",
+   "emoji": "",
+   "ipa": "/priˈveɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "balanced",
+   "meaning": "được cân bằng",
+   "example": "Let's learn the word \"balanced\".",
+   "exampleMeaning": "Cùng học từ “balanced”: được cân bằng.",
+   "emoji": "",
+   "ipa": "/ˈbælənst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tender",
+   "meaning": "bỏ thầu",
+   "example": "to tender an oath to someone",
+   "exampleMeaning": "Bắt người nào thề",
+   "emoji": "",
+   "ipa": "/ˈtɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "microscopy",
+   "meaning": "sự dùng kính hiển vi",
+   "example": "Let's learn the word \"microscopy\".",
+   "exampleMeaning": "Cùng học từ “microscopy”: sự dùng kính hiển vi.",
+   "emoji": "",
+   "ipa": "/maɪˈkrəskəpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "magnify",
+   "meaning": "thổi phồng, tán dương quá đáng",
+   "example": "to magnify a trifling incident",
+   "exampleMeaning": "Thổi phồng một sự việc bình thường",
+   "emoji": "",
+   "ipa": "/ˈmæɡnəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "selective",
+   "meaning": "có lựa chọn, có chọn lọc, có tuyển lựa",
+   "example": "Let's learn the word \"selective\".",
+   "exampleMeaning": "Cùng học từ “selective”: có lựa chọn, có chọn lọc, có tuyển lựa.",
+   "emoji": "",
+   "ipa": "/səˈlɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sulfur",
+   "meaning": "lưu hùynh",
+   "example": "Let's learn the word \"sulfur\".",
+   "exampleMeaning": "Cùng học từ “sulfur”: lưu hùynh.",
+   "emoji": "",
+   "ipa": "/ˈsəlfɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "justification",
+   "meaning": "lý lẽ bào chữa",
+   "example": "Let's learn the word \"justification\".",
+   "exampleMeaning": "Cùng học từ “justification”: lý lẽ bào chữa.",
+   "emoji": "",
+   "ipa": "/ˌdʒəstəfəˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "quarrelsome",
+   "meaning": "hay cãi nhau",
+   "example": "Let's learn the word \"quarrelsome\".",
+   "exampleMeaning": "Cùng học từ “quarrelsome”: hay cãi nhau.",
+   "emoji": "",
+   "ipa": "/ˈkwɔrəlsəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "holocaust",
+   "meaning": "lễ toàn thiêu các vật tế thần",
+   "example": "Let's learn the word \"holocaust\".",
+   "exampleMeaning": "Cùng học từ “holocaust”: lễ toàn thiêu các vật tế thần.",
+   "emoji": "",
+   "ipa": "/ˈhɑləˌkɔst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "twisted",
+   "meaning": "vặn",
+   "example": "He twisted his ankle.",
+   "exampleMeaning": "Anh ấy vặn mắt cá chân của mình.",
+   "emoji": "",
+   "ipa": "/ˈtwɪstɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "corona",
+   "meaning": "tán mặt trăng, mặt trời",
+   "example": "Let's learn the word \"corona\".",
+   "exampleMeaning": "Cùng học từ “corona”: tán mặt trăng, mặt trời.",
+   "emoji": "",
+   "ipa": "/kɜrˈoʊnə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bestow",
+   "meaning": "để, đặt",
+   "example": "to bestow the luggage on the rack",
+   "exampleMeaning": "Để hành lý lên giá",
+   "emoji": "",
+   "ipa": "/bɪˈstoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "subtitle",
+   "meaning": "tiểu đề",
+   "example": "Let's learn the word \"subtitle\".",
+   "exampleMeaning": "Cùng học từ “subtitle”: tiểu đề.",
+   "emoji": "",
+   "ipa": "/ˈsəbˌtaɪtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "carve",
+   "meaning": "khắc, tạc, chạm",
+   "example": "Can you carve the chicken?",
+   "exampleMeaning": "Bạn có thể xẻ thịt gà không?",
+   "emoji": "",
+   "ipa": "/ˈkɑrv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "twisted",
+    "his",
+    "ankle"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy vặn mắt cá chân của mình."
+  },
+  {
+   "tokens": [
+    "Can",
+    "you",
+    "carve",
+    "the",
+    "chicken"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể xẻ thịt gà không?"
+  },
+  {
+   "tokens": [
+    "You",
+    "look",
+    "stupid"
+   ],
+   "reading": "",
+   "meaning": "Bạn nhìn ngốc quá."
+  },
+  {
+   "tokens": [
+    "Justice",
+    "is",
+    "expensive"
+   ],
+   "reading": "",
+   "meaning": "Công lý rất đắt."
+  },
+  {
+   "tokens": [
+    "Wash",
+    "your",
+    "feet"
+   ],
+   "reading": "",
+   "meaning": "Rửa chân đi."
+  }
+ ],
+ "issues": []
+}

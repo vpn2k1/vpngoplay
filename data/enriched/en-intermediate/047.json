@@ -1,0 +1,326 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "sidewalk",
+   "meaning": "vỉa hè, lề đường",
+   "example": "Let's learn the word \"sidewalk\".",
+   "exampleMeaning": "Cùng học từ “sidewalk”: vỉa hè, lề đường.",
+   "emoji": "",
+   "ipa": "/ˈsaɪdˌwɔk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "severely",
+   "meaning": "nghiêm khắc",
+   "example": "Let's learn the word \"severely\".",
+   "exampleMeaning": "Cùng học từ “severely”: nghiêm khắc.",
+   "emoji": "",
+   "ipa": "/səˈvɪrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "certainty",
+   "meaning": "điều chắc chắn",
+   "example": "imperialism will be abolished, that's a certainty",
+   "exampleMeaning": "Chủ nghĩa đế quốc sẽ bị tiêu diệt, đó là một điều chắc chắn",
+   "emoji": "",
+   "ipa": "/ˈsɜrtənti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "guitarist",
+   "meaning": "người chơi đàn ghi-ta",
+   "example": "Let's learn the word \"guitarist\".",
+   "exampleMeaning": "Cùng học từ “guitarist”: người chơi đàn ghi-ta.",
+   "emoji": "",
+   "ipa": "/ˌɡɪˈtɑrɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "philosopher",
+   "meaning": "nhà triết học",
+   "example": "When a philosopher answers me, I no longer understand my question.",
+   "exampleMeaning": "Khi một nhà triết học trả lời tôi, tôi không còn hiểu câu hỏi của mình nữa.",
+   "emoji": "",
+   "ipa": "/fəˈlɑsəfɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ration",
+   "meaning": "khẩu phần",
+   "example": "Let's learn the word \"ration\".",
+   "exampleMeaning": "Cùng học từ “ration”: khẩu phần.",
+   "emoji": "",
+   "ipa": "/ˈræʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "endanger",
+   "meaning": "gây tuyệt chủng",
+   "example": "Let's learn the word \"endanger\".",
+   "exampleMeaning": "Cùng học từ “endanger”: gây tuyệt chủng.",
+   "emoji": "",
+   "ipa": "/ɛnˈdeɪndʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "comedian",
+   "meaning": "diễn viên hài kịch",
+   "example": "Have you always been a comedian?",
+   "exampleMeaning": "Bạn làm diễn viên hài suốt à?",
+   "emoji": "",
+   "ipa": "/kəˈmidiən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "belief",
+   "meaning": "tin tưởng",
+   "example": "to have belief in something",
+   "exampleMeaning": "Tin tưởng ở cái gì",
+   "emoji": "",
+   "ipa": "/bɪˈliːf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sand",
+   "meaning": "cát",
+   "example": "I got some sand in my eye.",
+   "exampleMeaning": "Có ít cát trong mắt tôi.",
+   "emoji": "",
+   "ipa": "/sænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "deposit",
+   "meaning": "vật gửi, tiền gửi",
+   "example": "to leave some money as deposit",
+   "exampleMeaning": "Để tiền đặt cọc",
+   "emoji": "",
+   "ipa": "/dəˈpɑzɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "directly",
+   "meaning": "thẳng, trực tiếp",
+   "example": "Stop beating around the bush and tell me directly why you're so angry.",
+   "exampleMeaning": "Thôi đừng quanh co nữa, hãy nói thẳng cho tôi biết tại sao anh tức giận như vậy.",
+   "emoji": "",
+   "ipa": "/daɪˈrɛkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "discount",
+   "meaning": "trừ hao",
+   "example": "to take a story at a due discount",
+   "exampleMeaning": "Nghe câu chuyện có trừ hao đúng mức",
+   "emoji": "",
+   "ipa": "/ˈdɪskaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "seawater",
+   "meaning": "nước biển",
+   "example": "Seawater contains salt.",
+   "exampleMeaning": "Nước biển có chứa muối.",
+   "emoji": "",
+   "ipa": "/ˈsiˌwɑtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "biochemistry",
+   "meaning": "hoá sinh",
+   "example": "Let's learn the word \"biochemistry\".",
+   "exampleMeaning": "Cùng học từ “biochemistry”: hoá sinh.",
+   "emoji": "",
+   "ipa": "/ˌbaɪoʊˈkɛməstri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sunbathe",
+   "meaning": "tắm nắng",
+   "example": "Let's learn the word \"sunbathe\".",
+   "exampleMeaning": "Cùng học từ “sunbathe”: tắm nắng.",
+   "emoji": "",
+   "ipa": "/ˈsənˌbeɪð/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gravy",
+   "meaning": "nước thịt",
+   "example": "Let's learn the word \"gravy\".",
+   "exampleMeaning": "Cùng học từ “gravy”: nước thịt.",
+   "emoji": "",
+   "ipa": "/ˈɡreɪvi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "amount",
+   "meaning": "lượng",
+   "example": "what's the amount of this?",
+   "exampleMeaning": "Tổng số cái này là bao nhiêu?",
+   "emoji": "",
+   "ipa": "/əˈmaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "heater",
+   "meaning": "bếp lò, lò",
+   "example": "Let's learn the word \"heater\".",
+   "exampleMeaning": "Cùng học từ “heater”: bếp lò, lò.",
+   "emoji": "",
+   "ipa": "/ˈhitɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "first floor",
+   "meaning": "tầng hai, gác hai",
+   "example": "Let's learn the word \"first floor\".",
+   "exampleMeaning": "Cùng học từ “first floor”: tầng hai, gác hai.",
+   "emoji": "",
+   "ipa": "/ˈfɜrst ˈflɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Seawater",
+    "contains",
+    "salt"
+   ],
+   "reading": "",
+   "meaning": "Nước biển có chứa muối."
+  },
+  {
+   "tokens": [
+    "I",
+    "ate",
+    "sand"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã ăn cát."
+  },
+  {
+   "tokens": [
+    "Have",
+    "you",
+    "always",
+    "been",
+    "a",
+    "comedian"
+   ],
+   "reading": "",
+   "meaning": "Bạn làm diễn viên hài suốt à?"
+  },
+  {
+   "tokens": [
+    "I",
+    "got",
+    "some",
+    "sand",
+    "in",
+    "my",
+    "eye"
+   ],
+   "reading": "",
+   "meaning": "Có ít cát trong mắt tôi."
+  },
+  {
+   "tokens": [
+    "The",
+    "talented",
+    "comedian",
+    "Danny",
+    "Boon",
+    "is",
+    "a",
+    "Kabyle"
+   ],
+   "reading": "",
+   "meaning": "Danh hài tài năng Danny Boon là người Kabyle."
+  }
+ ],
+ "issues": []
+}

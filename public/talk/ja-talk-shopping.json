@@ -1,0 +1,98 @@
+{
+ "id": "ja-talk-shopping",
+ "lang": "ja",
+ "order": 3,
+ "level": "N4",
+ "icon": "shopping",
+ "title": "Mua giày",
+ "scene": "Bạn mua một đôi giày thể thao ở cửa hàng.",
+ "roles": {
+  "A": "Nhân viên",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "いらっしゃいませ。何かお探しですか。",
+   "reading": "いらっしゃいませ。なにかおさがしですか。",
+   "meaning": "Xin chào quý khách. Quý khách đang tìm gì ạ?"
+  },
+  {
+   "role": "B",
+   "text": "はい、白いスニーカーを探しています。",
+   "reading": "はい、しろいスニーカーをさがしています。",
+   "meaning": "Vâng, tôi đang tìm giày thể thao màu trắng."
+  },
+  {
+   "role": "A",
+   "text": "こちらはいかがですか。",
+   "reading": "こちらはいかがですか。",
+   "meaning": "Đôi này thì sao ạ?"
+  },
+  {
+   "role": "B",
+   "text": "いいですね。履いてみてもいいですか。",
+   "reading": "いいですね。はいてみてもいいですか。",
+   "meaning": "Đẹp đấy. Tôi đi thử được không?"
+  },
+  {
+   "role": "A",
+   "text": "どうぞ。サイズはいくつですか。",
+   "reading": "どうぞ。サイズはいくつですか。",
+   "meaning": "Xin mời. Cỡ của quý khách là bao nhiêu ạ?"
+  },
+  {
+   "role": "B",
+   "text": "二十五センチです。",
+   "reading": "にじゅうごセンチです。",
+   "meaning": "Cỡ 25 cm ạ."
+  },
+  {
+   "role": "A",
+   "text": "こちらが二十五センチです。",
+   "reading": "こちらがにじゅうごセンチです。",
+   "meaning": "Đây là cỡ 25 ạ."
+  },
+  {
+   "role": "B",
+   "text": "ちょうどいいです。これはいくらですか。",
+   "reading": "ちょうどいいです。これはいくらですか。",
+   "meaning": "Vừa khít. Đôi này bao nhiêu tiền?"
+  },
+  {
+   "role": "A",
+   "text": "八千円です。",
+   "reading": "はっせんえんです。",
+   "meaning": "8.000 yên ạ."
+  },
+  {
+   "role": "B",
+   "text": "じゃあ、これにします。カードで払えますか。",
+   "reading": "じゃあ、これにします。カードではらえますか。",
+   "meaning": "Vậy tôi lấy đôi này. Trả bằng thẻ được không?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "これはいくらですか。",
+   "reading": "これはいくらですか。",
+   "meaning": "Cái này bao nhiêu tiền?"
+  },
+  {
+   "text": "着てみてもいいですか。",
+   "reading": "きてみてもいいですか。",
+   "meaning": "Tôi mặc thử được không?",
+   "note": "Giày thì dùng 履く (はく): 履いてみてもいいですか。"
+  },
+  {
+   "text": "これにします。",
+   "reading": "これにします。",
+   "meaning": "Tôi chọn cái này."
+  },
+  {
+   "text": "カードで払えますか。",
+   "reading": "カードではらえますか。",
+   "meaning": "Trả bằng thẻ được không?"
+  }
+ ]
+}

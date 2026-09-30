@@ -1,0 +1,319 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "シャワー",
+   "meaning": "người chỉ, người cho xem, người dẫn",
+   "example": "シャワー浴びてきて。",
+   "exampleMeaning": "Tắm đi.",
+   "emoji": "🚿",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "それでは",
+   "meaning": "phun ra, vọt ra, tuôn ra (nước",
+   "example": "「それでは」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “それでは”: phun ra, vọt ra, tuôn ra (nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二十日",
+   "meaning": "ngày thứ hai mươi của tháng",
+   "example": "「二十日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二十日”: ngày thứ hai mươi của tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ラジオカセ",
+   "meaning": "radio cassette player (EN)",
+   "example": "「ラジオカセ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ラジオカセ”: radio cassette player (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "電車",
+   "meaning": "xe lửa",
+   "example": "１１時の電車に乗ります。",
+   "exampleMeaning": "Tôi sẽ lên chuyến tàu điện 11 giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "セーター",
+   "meaning": "người ra nhiều mồ hôi",
+   "example": "このセーターを着てみて。",
+   "exampleMeaning": "Hãy thử mặc chiếc áo len này xem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "牛肉",
+   "meaning": "thịt bò",
+   "example": "牛肉は高い。",
+   "exampleMeaning": "Thịt bò rất đắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "うるさい",
+   "meaning": "ồn ào, om sòm, huyên náo",
+   "example": "「うるさい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “うるさい”: ồn ào, om sòm, huyên náo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "若い",
+   "meaning": "trẻ, trẻ tuổi, thiếu niên",
+   "example": "私もそう思ってたよ、若い頃は。",
+   "exampleMeaning": "Hồi còn trẻ tôi cũng từng nghĩ như thế đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "二",
+   "meaning": "hai, đôi",
+   "example": "二度としません。",
+   "exampleMeaning": "Tôi sẽ không làm điều đó thêm lần nào nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "七つ",
+   "meaning": "bảy thứ [nhỏ hoặc không có bộ đếm]",
+   "example": "「七つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “七つ”: bảy thứ [nhỏ hoặc không có bộ đếm].",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忙しい",
+   "meaning": "bận rộn, bận",
+   "example": "彼女はいつも忙しい。",
+   "exampleMeaning": "Cô ấy lúc nào cũng bận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大好き",
+   "meaning": "thương mến, thương yêu, âu yếm",
+   "example": "この写真大好き。",
+   "exampleMeaning": "Tôi rất thích bức ảnh này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "起きる",
+   "meaning": "trở dậy, đứng dậy, thức dậy",
+   "example": "母はいつも朝早く起きる。",
+   "exampleMeaning": "Mẹ tôi luôn luôn dậy sớm buổi sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "渡す",
+   "meaning": "sự bàn giao (quyền lực, trách nhiệm)",
+   "example": "C言語では、関数にパラメータを渡す方法が二つある：変数によるものと参照によるもの。",
+   "exampleMeaning": "Trong ngôn ngữ lập trình C, có hai cách thức truyền tham số vào hàm: dựa vào biến hoặc là dựa vào tham chiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "入れる",
+   "meaning": "nhận, chấp nhận, chấp thuận",
+   "example": "犬を中に入れるな。",
+   "exampleMeaning": "Đừng cho chó vào trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "果物",
+   "meaning": "quả, trái cây",
+   "example": "彼は果物を売る。",
+   "exampleMeaning": "Anh ấy bán hoa quả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "水曜日",
+   "meaning": "thứ Tư",
+   "example": "「水曜日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “水曜日”: thứ Tư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "廊下",
+   "meaning": "hành lang (nhà, toa xe lửa)",
+   "example": "「廊下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “廊下”: hành lang (nhà, toa xe lửa).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かける",
+   "meaning": "cuộc đình công ngồi",
+   "example": "出かける前にヒゲを剃らなくては。",
+   "exampleMeaning": "Bạn phải cạo râu trước khi ra đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "大好き"
+   ],
+   "reading": "かれがだいすき",
+   "meaning": "Mình rất thích anh ấy."
+  },
+  {
+   "tokens": [
+    "この",
+    "写真",
+    "大好き"
+   ],
+   "reading": "このしゃしんだいすき",
+   "meaning": "Tôi rất thích bức ảnh này."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "ずっと",
+    "忙しい"
+   ],
+   "reading": "かれはずっといそがしい",
+   "meaning": "Anh ấy đã bận suốt."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "二重人格者",
+    "だ"
+   ],
+   "reading": "かれはにじゅうじんかくしゃだ",
+   "meaning": "Anh ấy có hai nhân cách."
+  },
+  {
+   "tokens": [
+    "犬",
+    "を",
+    "中",
+    "に",
+    "入れる",
+    "な"
+   ],
+   "reading": "いぬをなかにいれるな",
+   "meaning": "Đừng cho chó vào trong."
+  }
+ ],
+ "issues": []
+}

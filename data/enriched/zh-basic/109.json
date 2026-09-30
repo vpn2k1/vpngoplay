@@ -1,0 +1,345 @@
+{
+ "lesson": 109,
+ "draft": true,
+ "words": [
+  {
+   "term": "留学",
+   "meaning": "du học",
+   "example": "留学美国。",
+   "exampleMeaning": "Du học ở Mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "教材",
+   "meaning": "tài liệu giảng dạy",
+   "example": "我们来学“教材”这个词。",
+   "exampleMeaning": "Cùng học từ “教材”: tài liệu giảng dạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàocái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "书架",
+   "meaning": "giá sách",
+   "example": "我们来学“书架”这个词。",
+   "exampleMeaning": "Cùng học từ “书架”: giá sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "白菜",
+   "meaning": "Chinese cabbage (EN)",
+   "example": "我们来学“白菜”这个词。",
+   "exampleMeaning": "Cùng học từ “白菜”: Chinese cabbage (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "báicài",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "普及",
+   "meaning": "phổ cập",
+   "example": "这本书已经普及全国。",
+   "exampleMeaning": "Quyển sách này đã được phổ biến trên khắp đất nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǔjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "年初",
+   "meaning": "đầu năm",
+   "example": "去年年初",
+   "exampleMeaning": "Đầu năm ngoái",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "试题",
+   "meaning": "đề thi",
+   "example": "我们来学“试题”这个词。",
+   "exampleMeaning": "Cùng học từ “试题”: đề thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìtí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "积极性",
+   "meaning": "tính tích cực",
+   "example": "充分调动广大群众的积极性。",
+   "exampleMeaning": "Huy động hết mức tính tích cực của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jījíxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "初一",
+   "meaning": "lần đầu tiên",
+   "example": "我们来学“初一”这个词。",
+   "exampleMeaning": "Cùng học từ “初一”: lần đầu tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奶茶",
+   "meaning": "trà sữa",
+   "example": "我们来学“奶茶”这个词。",
+   "exampleMeaning": "Cùng học từ “奶茶”: trà sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎichá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "银牌",
+   "meaning": "giải thưởng bạc",
+   "example": "我们来学“银牌”这个词。",
+   "exampleMeaning": "Cùng học từ “银牌”: giải thưởng bạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yínpái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "红茶",
+   "meaning": "hồng trà",
+   "example": "两杯红茶",
+   "exampleMeaning": "Hai ly hồng trà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngchá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人民币",
+   "meaning": "nhân dân tệ (tiền Trung Quốc)",
+   "example": "我们来学“人民币”这个词。",
+   "exampleMeaning": "Cùng học từ “人民币”: nhân dân tệ (tiền Trung Quốc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénmínbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老头儿",
+   "meaning": "ông già",
+   "example": "我们来学“老头儿”这个词。",
+   "exampleMeaning": "Cùng học từ “老头儿”: ông già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎotóur",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "划船",
+   "meaning": "chèo thuyền",
+   "example": "我们来学“划船”这个词。",
+   "exampleMeaning": "Cùng học từ “划船”: chèo thuyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huáchuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交费",
+   "meaning": "đóng phí",
+   "example": "我们来学“交费”这个词。",
+   "exampleMeaning": "Cùng học từ “交费”: đóng phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāofèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凉水",
+   "meaning": "nước lạnh",
+   "example": "我们来学“凉水”这个词。",
+   "exampleMeaning": "Cùng học từ “凉水”: nước lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liángshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "跳高",
+   "meaning": "nhảy cao",
+   "example": "我们来学“跳高”这个词。",
+   "exampleMeaning": "Cùng học từ “跳高”: nhảy cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiàogāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衣架",
+   "meaning": "dáng người",
+   "example": "他的衣架好，穿上西服特别精神。",
+   "exampleMeaning": "Dáng người anh ấy rất đẹp, mặc đồ tây trông rất sáng sủa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yījià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外文",
+   "meaning": "ngoại văn",
+   "example": "我们来学“外文”这个词。",
+   "exampleMeaning": "Cùng học từ “外文”: ngoại văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàiwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "已经",
+    "住",
+    "在",
+    "这里",
+    "一",
+    "个",
+    "星期",
+    "了"
+   ],
+   "reading": "tā yǐjīng zhù zài zhèlǐ yī gè xīngqī le",
+   "meaning": "Anh ấy đã ở đây được một tuần rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "海上",
+    "已经",
+    "生活",
+    "了",
+    "好几",
+    "个",
+    "月"
+   ],
+   "reading": "wǒ zài hǎishàng yǐjīng shēnghuó le hǎojǐ gè yuè",
+   "meaning": "Tôi đã sống hàng tháng trên biển."
+  },
+  {
+   "tokens": [
+    "既然",
+    "你们",
+    "这么",
+    "说",
+    "那",
+    "让",
+    "我",
+    "再",
+    "想",
+    "想"
+   ],
+   "reading": "jìrán nǐmen zhème shuō nà ràng wǒ zài xiǎng xiǎng",
+   "meaning": "Các cậu đã nói thế, để tớ nghĩ xem đã."
+  },
+  {
+   "tokens": [
+    "孩子",
+    "你",
+    "为什么",
+    "哭",
+    "呀",
+    "说",
+    "给",
+    "我",
+    "听",
+    "听"
+   ],
+   "reading": "háizi nǐ wèishénme kū ya shuō gěi wǒ tīng tīng",
+   "meaning": "Làm sao con khóc? Nói cho ta nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "还是",
+    "个",
+    "孩子",
+    "犯不上",
+    "跟",
+    "他",
+    "生气"
+   ],
+   "reading": "tā háishi gè háizi fànbushàng gēn tā shēngqì",
+   "meaning": "Nó vẫn còn là đứa trẻ con, không đáng tức giận với nó."
+  }
+ ],
+ "issues": []
+}

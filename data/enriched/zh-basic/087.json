@@ -1,0 +1,328 @@
+{
+ "lesson": 87,
+ "draft": true,
+ "words": [
+  {
+   "term": "当中",
+   "meaning": "trong",
+   "example": "谈话当中流露出不满情绪。",
+   "exampleMeaning": "Trong khi nói chuyện đã thổ lộ rất nhiều thắc mắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "男子",
+   "meaning": "đàn ông",
+   "example": "我们来学“男子”这个词。",
+   "exampleMeaning": "Cùng học từ “男子”: đàn ông.",
+   "emoji": "👨",
+   "ipa": "",
+   "pinyin": "nánzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生存",
+   "meaning": "sinh tồn",
+   "example": "我们来学“生存”这个词。",
+   "exampleMeaning": "Cùng học từ “生存”: sinh tồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngcún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "胖",
+   "meaning": "mập",
+   "example": "他胖起来了。",
+   "exampleMeaning": "Nó tăng cân rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "土",
+   "meaning": "thô sơ",
+   "example": "今天下这么大的雨，土松着呢。",
+   "exampleMeaning": "Hôm nay mưa to thế này thì đất bở lắm đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "念",
+   "meaning": "đọc",
+   "example": "他把县委的指示念给大家听。",
+   "exampleMeaning": "Anh ấy đọc chỉ thị của huyện uỷ cho mọi người nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进步",
+   "meaning": "tiến bộ",
+   "example": "虚心使人进步，骄傲使人落后。",
+   "exampleMeaning": "Khiêm tốn làm cho người ta tiến bộ, kiêu ngạo làm cho người ta tụt hậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "对待",
+   "meaning": "đối xử",
+   "example": "要正确对待群众的批评。",
+   "exampleMeaning": "Phải đối xử đúng với phê bình của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "村",
+   "meaning": "làng, xã",
+   "example": "一个小村 儿。",
+   "exampleMeaning": "Một làng nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cūn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "现象",
+   "meaning": "hiện tượng",
+   "example": "向不良现象作斗争。",
+   "exampleMeaning": "Đấu tranh chống những hiện tượng không lành mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实力",
+   "meaning": "thực lực",
+   "example": "实力雄厚。",
+   "exampleMeaning": "Thực lực hùng hậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shílì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缺",
+   "meaning": "thiếu, không có",
+   "example": "不要看不起有缺点的人，因为每个人都会有缺点的。",
+   "exampleMeaning": "Đừng xem thường những người có khuyết điểm, bởi vì mỗi người đều có thể có khuyết điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "主动",
+   "meaning": "chủ động",
+   "example": "处于主动地位",
+   "exampleMeaning": "Ở địa vị chủ động",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "甜",
+   "meaning": "ngọt",
+   "example": "他睡得真甜。",
+   "exampleMeaning": "Anh ấy ngủ rất say. anh ấy ngủ rất ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tián",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "服装",
+   "meaning": "quần áo",
+   "example": "服装商店",
+   "exampleMeaning": "Cửa hàng quần áo; cửa hàng may mặc.",
+   "emoji": "👗",
+   "ipa": "",
+   "pinyin": "fúzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "形式",
+   "meaning": "hình thức",
+   "example": "组织形式。",
+   "exampleMeaning": "Hình thức tổ chức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "判断",
+   "meaning": "nhận định",
+   "example": "你判断得很正确。",
+   "exampleMeaning": "Anh nhận định rất đúng.",
+   "emoji": "🧑‍⚖",
+   "ipa": "",
+   "pinyin": "pànduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前往",
+   "meaning": "tiến về phía trước",
+   "example": "启程前往。",
+   "exampleMeaning": "Khởi hành tiến về phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相互",
+   "meaning": "nhau",
+   "example": "相互间的关系。",
+   "exampleMeaning": "Quan hệ qua lại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānghù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成立",
+   "meaning": "đứng vững được",
+   "example": "这个论点理由很充分，能成立。",
+   "exampleMeaning": "Luận điểm này lí do rất đầy đủ, có thể đứng vững được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "胖",
+    "起来",
+    "了"
+   ],
+   "reading": "tā pàng qǐlai le",
+   "meaning": "Nó tăng cân rồi."
+  },
+  {
+   "tokens": [
+    "今天",
+    "下",
+    "这么",
+    "大",
+    "的",
+    "雨",
+    "土",
+    "松",
+    "着呢"
+   ],
+   "reading": "jīntiān xià zhème dà de yǔ tǔ sōng zhene",
+   "meaning": "Hôm nay mưa to thế này thì đất bở lắm đấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "请",
+    "你",
+    "给",
+    "我",
+    "一",
+    "杯",
+    "水"
+   ],
+   "reading": "qǐng nǐ gěi wǒ yī bēi shuǐ",
+   "meaning": "Làm ơn cho tôi một cốc nước."
+  },
+  {
+   "tokens": [
+    "教授",
+    "微微",
+    "笑",
+    "了",
+    "笑"
+   ],
+   "reading": "jiàoshòu wēiwēi xiào le xiào",
+   "meaning": "Ông giáo sư mỉm cười."
+  }
+ ],
+ "issues": []
+}

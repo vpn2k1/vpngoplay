@@ -1,0 +1,322 @@
+{
+ "lesson": 31,
+ "draft": true,
+ "words": [
+  {
+   "term": "认知",
+   "meaning": "nhận thức",
+   "example": "我们来学“认知”这个词。",
+   "exampleMeaning": "Cùng học từ “认知”: nhận thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènzhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代理人",
+   "meaning": "người thay mặt",
+   "example": "我们来学“代理人”这个词。",
+   "exampleMeaning": "Cùng học từ “代理人”: người thay mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàilǐrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巨星",
+   "meaning": "ngôi sao khổng lồ",
+   "example": "我们来学“巨星”这个词。",
+   "exampleMeaning": "Cùng học từ “巨星”: ngôi sao khổng lồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùxīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名声",
+   "meaning": "thanh danh",
+   "example": "名声很坏。",
+   "exampleMeaning": "Tiếng tăm rất xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挪",
+   "meaning": "chuyển, di chuyển, chuyển dịch",
+   "example": "把桌子挪一下。",
+   "exampleMeaning": "Dịch chuyển cái bàn một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nuó",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "丑闻",
+   "meaning": "xì căng đan",
+   "example": "我们来学“丑闻”这个词。",
+   "exampleMeaning": "Cùng học từ “丑闻”: xì căng đan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǒuwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卸",
+   "meaning": "dỡ",
+   "example": "卸 牲口。",
+   "exampleMeaning": "Cởi ách cho súc vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "潜艇",
+   "meaning": "tàu ngầm",
+   "example": "我们来学“潜艇”这个词。",
+   "exampleMeaning": "Cùng học từ “潜艇”: tàu ngầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiántǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公关",
+   "meaning": "quan hệ xã hội",
+   "example": "公关部门",
+   "exampleMeaning": "Ngành quan hệ xã hội",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "以至于",
+   "meaning": "đến nỗi mà",
+   "example": "我们来学“以至于”这个词。",
+   "exampleMeaning": "Cùng học từ “以至于”: đến nỗi mà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐzhìyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "氛围",
+   "meaning": "bầu không khí",
+   "example": "人们在欢乐的氛围中迎来了新的一年。",
+   "exampleMeaning": "Mọi người đón năm mới trong bầu không khí nhộn nhịp tưng bừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "业绩",
+   "meaning": "công trạng",
+   "example": "我们来学“业绩”这个词。",
+   "exampleMeaning": "Cùng học từ “业绩”: công trạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "求婚",
+   "meaning": "cầu hôn",
+   "example": "我们来学“求婚”这个词。",
+   "exampleMeaning": "Cùng học từ “求婚”: cầu hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiúhūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "指南",
+   "meaning": "hướng dẫn",
+   "example": "行动指南",
+   "exampleMeaning": "Hành động hướng dẫn; hoạt động hướng dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐnán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "融",
+   "meaning": "tan",
+   "example": "春雪易融。",
+   "exampleMeaning": "Tuyết mùa xuân dễ tan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "信赖",
+   "meaning": "tin cậy",
+   "example": "我们来学“信赖”这个词。",
+   "exampleMeaning": "Cùng học từ “信赖”: tin cậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnlài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "澄清",
+   "meaning": "trong, trong trẻo, trong sạch",
+   "example": "这水太浑，澄清之后才能用。",
+   "exampleMeaning": "Nước này đục quá, sau khi lắng trong mới dùng được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngqīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "裂缝",
+   "meaning": "nứt",
+   "example": "墙上有一条裂缝。",
+   "exampleMeaning": "Trên tường có một vết nứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièfèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外星人",
+   "meaning": "người ngoài trái đất",
+   "example": "我发誓我看到了外星人。",
+   "exampleMeaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàixīngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上空",
+   "meaning": "vùng trời",
+   "example": "人造卫星从河内上空飞过。",
+   "exampleMeaning": "Vệ tinh nhân tạo đã bay qua Hà Nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngkōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "竞赛",
+    "是",
+    "爱国"
+   ],
+   "reading": "jìngsài shì àiguó",
+   "meaning": "Thi đua là yêu nước."
+  },
+  {
+   "tokens": [
+    "可惜",
+    "这",
+    "是",
+    "真",
+    "的"
+   ],
+   "reading": "kěxī zhè shì zhēn de",
+   "meaning": "Tiếc rằng cái đó là sự thật."
+  },
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "此处",
+    "禁止",
+    "停车"
+   ],
+   "reading": "cǐchù jìnzhǐ tíngchē",
+   "meaning": "Cấm đậu xe nơi đây."
+  }
+ ],
+ "issues": []
+}

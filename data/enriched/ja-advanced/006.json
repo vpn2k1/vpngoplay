@@ -1,0 +1,322 @@
+{
+ "lesson": 6,
+ "draft": true,
+ "words": [
+  {
+   "term": "戸締り",
+   "meaning": "closing up (EN)",
+   "example": "「戸締り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戸締り”: closing up (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眠たい",
+   "meaning": "buồn ngủ, ngái ngủ",
+   "example": "眠たいだけだよ。",
+   "exampleMeaning": "Tôi chỉ buồn ngủ thôi mà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "罰",
+   "meaning": "hình phạt, tiền phạt",
+   "example": "僕は罰を受けるだろう。",
+   "exampleMeaning": "Chắc tôi sẽ bị phạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脚色",
+   "meaning": "sự soạn thành kịch",
+   "example": "「脚色」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “脚色”: sự soạn thành kịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "映像",
+   "meaning": "sự phản chiếu, sự phản xạ, ánh phản chiếu",
+   "example": "「映像」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “映像”: sự phản chiếu, sự phản xạ, ánh phản chiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中継",
+   "meaning": "kíp ngựa",
+   "example": "「中継」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中継”: kíp ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "謹む",
+   "meaning": "cẩn thận, thận trọng, biết giữ gìn",
+   "example": "「謹む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “謹む”: cẩn thận, thận trọng, biết giữ gìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雨天",
+   "meaning": "thời tiết ẩm",
+   "example": "「雨天」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雨天”: thời tiết ẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名産",
+   "meaning": "noted product (EN)",
+   "example": "「名産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名産”: noted product (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冒頭",
+   "meaning": "phần đầu",
+   "example": "「冒頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冒頭”: phần đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確定",
+   "meaning": "đứng yên, bất động, cố định",
+   "example": "「確定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “確定”: đứng yên, bất động, cố định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "就業",
+   "meaning": "sự dùng, sự thuê làm (công... )",
+   "example": "「就業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “就業”: sự dùng, sự thuê làm (công... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綻びる",
+   "meaning": "lột bỏ, xé rách các vật mỏng như giấy",
+   "example": "「綻びる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “綻びる”: lột bỏ, xé rách các vật mỏng như giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沈める",
+   "meaning": "chìm",
+   "example": "「沈める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沈める”: chìm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阻む",
+   "meaning": "ngừng, nghỉ, thôi",
+   "example": "「阻む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “阻む”: ngừng, nghỉ, thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "申込",
+   "meaning": "sự gắn vào, sự áp vào, sự ghép vào",
+   "example": "「申込」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申込”: sự gắn vào, sự áp vào, sự ghép vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "法廷",
+   "meaning": "phòng xử án",
+   "example": "「法廷」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “法廷”: phòng xử án.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "介入",
+   "meaning": "sự xen vào, sự can thiệp",
+   "example": "このテーマに関するほとんどの研究では、立法府の介入が悪影響をもたらしたということが示されている。",
+   "exampleMeaning": "Hầu hết những nghiên cứu về chủ đề này đã chỉ ra rằng, sự can thiệp của cơ quan lập pháp đã gây ra ảnh hưởng xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "独裁",
+   "meaning": "chế độ độc tài",
+   "example": "「独裁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “独裁”: chế độ độc tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "超",
+   "meaning": "hơn hẳn",
+   "example": "５０歳は超えているはずだ。",
+   "exampleMeaning": "Ông ấy chắc phải hơn 50 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで"
+   ],
+   "reading": "きゅうきゅうしゃをよんで",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "私",
+    "だけ",
+    "が",
+    "残った"
+   ],
+   "reading": "わたしだけがのこった",
+   "meaning": "Chỉ còn lại một mình tôi."
+  },
+  {
+   "tokens": [
+    "龍",
+    "は",
+    "空想",
+    "の",
+    "動物",
+    "だ"
+   ],
+   "reading": "りゅうはくうそうのどうぶつだ",
+   "meaning": "Rồng là động vật không tưởng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "喫煙",
+    "を",
+    "やめた"
+   ],
+   "reading": "かれはきつえんをやめた",
+   "meaning": "Anh ấy đã bỏ thuốc."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "約束",
+    "に",
+    "背いた"
+   ],
+   "reading": "かれはやくそくにそむいた",
+   "meaning": "Anh ấy đã phản bội lời hứa của chính mình."
+  }
+ ],
+ "issues": []
+}

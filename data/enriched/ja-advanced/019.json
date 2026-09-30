@@ -1,0 +1,336 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "美",
+   "meaning": "vẻ đẹp, sắc đẹp, nhan sắc",
+   "example": "真実のみが美しい。",
+   "exampleMeaning": "Chỉ có sự thật là tốt đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "共稼ぎ",
+   "meaning": "working together (EN)",
+   "example": "「共稼ぎ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “共稼ぎ”: working together (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "結び付ける",
+   "meaning": "kết hợp, phối hợp",
+   "example": "理論と実際を結び付けるべきだ。",
+   "exampleMeaning": "Bạn cần phải gắn kết lý thuyết với thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "皇居",
+   "meaning": "cung điện nhà vua",
+   "example": "「皇居」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “皇居”: cung điện nhà vua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逃げ出す",
+   "meaning": "bỏ chạy, tháo chạy, chạy trốn",
+   "example": "「逃げ出す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “逃げ出す”: bỏ chạy, tháo chạy, chạy trốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改良",
+   "meaning": "sự cải tiến, sự cải thiện",
+   "example": "「改良」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “改良”: sự cải tiến, sự cải thiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下地",
+   "meaning": "nền",
+   "example": "「下地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下地”: nền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全快",
+   "meaning": "complete recovery of health (EN)",
+   "example": "「全快」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “全快”: complete recovery of health (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "獣",
+   "meaning": "động vật, thú vật",
+   "example": "ニューギニア島には、大型の肉食獣がいなかったためです。",
+   "exampleMeaning": "Đó là bởi vì ở đảo New Guinea không có động vật ăn thịt lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "汽船",
+   "meaning": "tàu chạy bằng hơi nước",
+   "example": "「汽船」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “汽船”: tàu chạy bằng hơi nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "身振り",
+   "meaning": "điệu bộ, cử chỉ",
+   "example": "我々はお互いに身振りで意見を伝えあった。",
+   "exampleMeaning": "Chúng tôi truyền đạt ý tưởng cho nhau bằng cử chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ミスプリント",
+   "meaning": "lỗi in",
+   "example": "「ミスプリント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ミスプリント”: lỗi in.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特技",
+   "meaning": "sự khéo léo, sự khéo tay, sự tinh xảo",
+   "example": "私の特技は、いつでもどこでも誰とでも友達になれちゃうことなの。",
+   "exampleMeaning": "Khả năng đặc biệt của tôi là có thể làm bạn với bất kỳ ai ở mọi lúc, mọi nơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "絶える",
+   "meaning": "chết hết, chết sạch",
+   "example": "「絶える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “絶える”: chết hết, chết sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "襟",
+   "meaning": "cổ áo",
+   "example": "見知らぬ男が私の襟をつかんだ。",
+   "exampleMeaning": "Một người đàn ông lạ mặt đã nắm lấy cổ áo tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "雨具",
+   "meaning": "rain gear (EN)",
+   "example": "「雨具」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雨具”: rain gear (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "審査",
+   "meaning": "quan toà, thẩm phán",
+   "example": "「審査」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “審査”: quan toà, thẩm phán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内蔵",
+   "meaning": "gắn liền",
+   "example": "「内蔵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内蔵”: gắn liền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "採択",
+   "meaning": "sự nhận làm con nuôi",
+   "example": "「採択」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “採択”: sự nhận làm con nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "案じる",
+   "meaning": "áy náy, lo âu, lo lắng",
+   "example": "「案じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “案じる”: áy náy, lo âu, lo lắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "何と",
+    "美しい",
+    "花",
+    "な",
+    "の",
+    "だろう"
+   ],
+   "reading": "なんとうつくしいはななのだろう",
+   "meaning": "Thật là một bông hoa đẹp!"
+  },
+  {
+   "tokens": [
+    "理論",
+    "と",
+    "実際",
+    "を",
+    "結び付ける",
+    "べき",
+    "だ"
+   ],
+   "reading": "りろんとじっさいをむすびつけるべきだ",
+   "meaning": "Bạn cần phải gắn kết lý thuyết với thực tế."
+  },
+  {
+   "tokens": [
+    "見知らぬ",
+    "男",
+    "が",
+    "私の",
+    "襟",
+    "を",
+    "つかんだ"
+   ],
+   "reading": "みしらぬおとこがわたしのえりをつかんだ",
+   "meaning": "Một người đàn ông lạ mặt đã nắm lấy cổ áo tôi."
+  },
+  {
+   "tokens": [
+    "この",
+    "画家",
+    "は",
+    "美しい",
+    "絵画",
+    "を",
+    "創作",
+    "する"
+   ],
+   "reading": "このがかはうつくしいかいがをそうさくする",
+   "meaning": "Người họa sĩ này vẽ nên những bức tranh đẹp."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "お互いに",
+    "身振り",
+    "で",
+    "意見",
+    "を",
+    "伝え",
+    "あった"
+   ],
+   "reading": "われわれはおたがいにみぶりでいけんをつたえあった",
+   "meaning": "Chúng tôi truyền đạt ý tưởng cho nhau bằng cử chỉ."
+  }
+ ],
+ "issues": []
+}

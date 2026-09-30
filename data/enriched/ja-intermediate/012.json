@@ -1,0 +1,323 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "ぴったり",
+   "meaning": "chính xác, đúng đắn",
+   "example": "「ぴったり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぴったり”: chính xác, đúng đắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感心",
+   "meaning": "sự ngắm nhìn một cách vui thích",
+   "example": "彼の記憶力にはほとほと感心する。",
+   "exampleMeaning": "Khả năng ghi nhớ của ông ấy khiến tôi vô cùng ấn tượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "禁止",
+   "meaning": "cấm, cấm chỉ",
+   "example": "学校で口紅は禁止されています。",
+   "exampleMeaning": "Ở trường cấm bôi son.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "盾",
+   "meaning": "cái mộc, cái khiên",
+   "example": "彼は盾と剣を買った。",
+   "exampleMeaning": "Anh ấy đã mua kiếm và khiên.",
+   "emoji": "🛡",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "居眠り",
+   "meaning": "tá",
+   "example": "彼は居眠り運転して事故を起こした。",
+   "exampleMeaning": "Anh ấy lái xe trong khi ngủ gật và gây ra một vụ tai nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "高価",
+   "meaning": "giá cao",
+   "example": "とても高価な陶器がめちゃめちゃに割れてしまった。",
+   "exampleMeaning": "Món đồ sứ vô giá đã bị vỡ thành nhiều mảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "退学",
+   "meaning": "sự giải tán",
+   "example": "トムは校則を破って退学になった。",
+   "exampleMeaning": "Tom bị đuổi học vì vi phạm nội quy nhà trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "倒す",
+   "meaning": "giết, giết chết, làm chết",
+   "example": "日本で初めてゴキブリを見たんですよ。卒倒するかと思った。",
+   "exampleMeaning": "Đó là lần đầu tiên tôi thấy gián ở Nhật đấy. Tôi cứ tưởng mình sắp ngất ngay ra đấy luôn rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "田",
+   "meaning": "ruộng nước",
+   "example": "田中さんは私たちの友人です。",
+   "exampleMeaning": "Ông Tanaka là một trong những người bạn của chúng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "別れ",
+   "meaning": "sự chia ly, sự chia tay, sự từ biệt",
+   "example": "私と別れるっていうこと？",
+   "exampleMeaning": "Em định chia tay với anh, có đúng không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "騙す",
+   "meaning": "lừa, đánh lừa, lừa gạt",
+   "example": "同僚を騙すのは良くないよ。",
+   "exampleMeaning": "Lừa đồng nghiệp không hay đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "反省",
+   "meaning": "sự phản chiếu, sự phản xạ, sự dội lại",
+   "example": "「反省」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反省”: sự phản chiếu, sự phản xạ, sự dội lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自殺",
+   "meaning": "sự tự sát, sự tự tử, sự tự vẫn",
+   "example": "彼は自殺をした。",
+   "exampleMeaning": "Anh ấy đã tự sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出会い",
+   "meaning": "cuộc mít tinh, cuộc biểu tình",
+   "example": "「出会い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出会い”: cuộc mít tinh, cuộc biểu tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "氷",
+   "meaning": "băng nước đá",
+   "example": "とても寒かったので、湖は一面氷に覆われた。",
+   "exampleMeaning": "Vì thời tiết quá lạnh cho nên nước trong hồ đã đông cứng lại.",
+   "emoji": "🧊",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会計",
+   "meaning": "sự tính toán",
+   "example": "お会計は1階レジにてお願いいたします。",
+   "exampleMeaning": "Quý khách hãy thanh toán ở quầy thu ngân tại tầng 1.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "維持",
+   "meaning": "sự giữ, sự duy trì",
+   "example": "私達は世界平和の維持のためにあらゆる努力をすべきだ。",
+   "exampleMeaning": "Chúng ta nên nỗ lực duy trì hòa bình thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "写る",
+   "meaning": "chụp ảnh (ai, cái gì)",
+   "example": "「写る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “写る”: chụp ảnh (ai, cái gì).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "考え",
+   "meaning": "ý kiến, quan điểm",
+   "example": "少し考えさせて。",
+   "exampleMeaning": "Hãy cho tôi suy nghĩ một lát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通貨",
+   "meaning": "sự lưu hành",
+   "example": "「通貨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通貨”: sự lưu hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "良い",
+    "考え",
+    "だ",
+    "ね"
+   ],
+   "reading": "よいかんがえだね",
+   "meaning": "Đó là một ý kiến hay!"
+  },
+  {
+   "tokens": [
+    "それ",
+    "は",
+    "良い",
+    "考え",
+    "です"
+   ],
+   "reading": "それはよいかんがえです",
+   "meaning": "Đó là một ý kiến hay!"
+  },
+  {
+   "tokens": [
+    "そう",
+    "深刻に",
+    "考える",
+    "な"
+   ],
+   "reading": "そうしんこくにかんがえるな",
+   "meaning": "Đừng suy nghĩ quá nghiêm túc như thế!"
+  },
+  {
+   "tokens": [
+    "同僚",
+    "を",
+    "騙す",
+    "の",
+    "は",
+    "良くない",
+    "よ"
+   ],
+   "reading": "どうりょうをだますのはよくないよ",
+   "meaning": "Lừa đồng nghiệp không hay đâu."
+  },
+  {
+   "tokens": [
+    "考える",
+    "だけ",
+    "でも",
+    "忌まわしい"
+   ],
+   "reading": "かんがえるだけでもいまわしい",
+   "meaning": "Chỉ nghĩ đến nó thôi là tôi đã thấy đáng sợ rồi."
+  }
+ ],
+ "issues": []
+}

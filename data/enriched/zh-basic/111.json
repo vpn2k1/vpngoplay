@@ -1,0 +1,330 @@
+{
+ "lesson": 111,
+ "draft": true,
+ "words": [
+  {
+   "term": "之前",
+   "meaning": "trước",
+   "example": "一个月之前我还遇到过他。",
+   "exampleMeaning": "Trước đây một tháng tôi còn gặp anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无法",
+   "meaning": "vô phương",
+   "example": "由于噪音，我们无法入睡。",
+   "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "对于",
+   "meaning": "đối với",
+   "example": "大家对于这个问题的意见是一致的。",
+   "exampleMeaning": "Mọi người đều nhất trí đối với vấn đề này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "处",
+   "meaning": "phòng",
+   "example": "这本书会对我们有很大用处。",
+   "exampleMeaning": "Quyển sách này rất hứu ích cho chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "政府",
+   "meaning": "chính phủ",
+   "example": "改革者的目标是要改进政府。",
+   "exampleMeaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngfǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "曾",
+   "meaning": "một lần",
+   "example": "他曾在河内工作过。",
+   "exampleMeaning": "Anh ấy từng làm việc ở Hà Nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "céng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "系统",
+   "meaning": "hệ thống",
+   "example": "组织系统。",
+   "exampleMeaning": "Hệ thống tổ chức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìtǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "是否",
+   "meaning": "hay không",
+   "example": "目前正在考虑是否由她来做这项工作。",
+   "exampleMeaning": "Trước mắt đang cân nhắc xem có để cho anh ta làm công việc này hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìfǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以及",
+   "meaning": "và",
+   "example": "院子里种着大丽花、矢车菊、夹竹桃以及其他的花木。",
+   "exampleMeaning": "Trong sân trồng hoa thược dược, trúc đào và các loại hoa cỏ khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自",
+   "meaning": "tự",
+   "example": "自由是有代价的。",
+   "exampleMeaning": "Tự do không đồng nghĩa với được tự do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "研究",
+   "meaning": "nghiên cứu",
+   "example": "他提出改革研究方法的意见。",
+   "exampleMeaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánjiū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "定",
+   "meaning": "định, xác định, định rõ",
+   "example": "这件事你自己决定就是了。",
+   "exampleMeaning": "Việc này cậu tự quyết định là được rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "考虑",
+   "meaning": "suy nghĩ",
+   "example": "你做这件事有点欠考虑。",
+   "exampleMeaning": "Bạn làm chuyện này có chút thiếu suy nghĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎolǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "些",
+   "meaning": "một vài, một ít",
+   "example": "你想买些什么？",
+   "exampleMeaning": "Anh muốn mua những gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "提供",
+   "meaning": "cung cấp",
+   "example": "为旅客提供方便。",
+   "exampleMeaning": "Dành cho du khách sự thuận tiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tígōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "首",
+   "meaning": "đầu",
+   "example": "这首歌也还可以吧？",
+   "exampleMeaning": "Bài hát ấy cũng hay đấy chứ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "治疗",
+   "meaning": "điều trị",
+   "example": "他的病必须住院治疗。",
+   "exampleMeaning": "Bệnh của anh ấy phải nhập viện điều trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìliáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "根据",
+   "meaning": "căn cứ",
+   "example": "根据气象台的预报，明天要下雨。",
+   "exampleMeaning": "Căn cứ vào dự báo của đài khí tượng thuỷ văn, ngày mai sẽ có mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "获得",
+   "meaning": "được",
+   "example": "获得宝贵的经验。",
+   "exampleMeaning": "Được kinh nghiệm quý báu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòdé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "法",
+   "meaning": "pháp",
+   "example": "我会说法语。",
+   "exampleMeaning": "Tôi biết nói tiếng Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "来自",
+    "法国"
+   ],
+   "reading": "wǒ láizì fǎguó",
+   "meaning": "Tôi đến từ nước Pháp"
+  },
+  {
+   "tokens": [
+    "这",
+    "件",
+    "事",
+    "你",
+    "自己",
+    "决定",
+    "就是",
+    "了"
+   ],
+   "reading": "zhè jiàn shì nǐ zìjǐ juédìng jiùshì le",
+   "meaning": "Việc này cậu tự quyết định là được rồi."
+  },
+  {
+   "tokens": [
+    "到",
+    "了",
+    "最",
+    "后",
+    "大家",
+    "一定要",
+    "靠",
+    "自己",
+    "学习"
+   ],
+   "reading": "dào le zuì hòu dàjiā yīdìngyào kào zìjǐ xuéxí",
+   "meaning": "Rốt cuộc, ai cũng phải tự học thôi."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "她",
+    "无法",
+    "回答",
+    "这个",
+    "问题"
+   ],
+   "reading": "tā wúfǎ huídá zhège wèntí",
+   "meaning": "Cô ấy đã không thể trả lời được câu hỏi đó."
+  }
+ ],
+ "issues": []
+}

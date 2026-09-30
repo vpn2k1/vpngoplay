@@ -1,0 +1,340 @@
+{
+ "lesson": 31,
+ "draft": true,
+ "words": [
+  {
+   "term": "有名",
+   "meaning": "nổi tiếng, nổi danh, trứ danh",
+   "example": "彼らは非常に有名だ。",
+   "exampleMeaning": "Họ rất nổi tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "さあ",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "さあ、吐いちまえ！",
+   "exampleMeaning": "Nào, nói đi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "今週",
+   "meaning": "tuần này",
+   "example": "今週はずっと大変忙しい。",
+   "exampleMeaning": "Tuần này tôi rất bận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ドア",
+   "meaning": "cửa, cửa ra vào (nhà, xe ô tô... )",
+   "example": "母親がドアをノックした。",
+   "exampleMeaning": "Mẹ của anh ta gõ cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "二十歳",
+   "meaning": "hai mươi",
+   "example": "ローリーは二十歳だ。",
+   "exampleMeaning": "Laurie năm nay 20 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ちょっと",
+   "meaning": "hơi, gọi là, một chút",
+   "example": "ま、ちょっと幸せだ。",
+   "exampleMeaning": "Ừm, tôi thấy cũng vui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "九つ",
+   "meaning": "chín thứ [nhỏ hoặc không có bộ đếm]",
+   "example": "「九つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “九つ”: chín thứ [nhỏ hoặc không có bộ đếm].",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浴びる",
+   "meaning": "tắm, đầm mình (đen & bóng)",
+   "example": "「浴びる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “浴びる”: tắm, đầm mình (đen & bóng).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "授業",
+   "meaning": "giai cấp",
+   "example": "もうすぐ授業が再開する。",
+   "exampleMeaning": "Sắp vô tiết rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "母",
+   "meaning": "mẹ, mẹ đẻ",
+   "example": "私の母も教師です。",
+   "exampleMeaning": "Mẹ tôi cũng là giáo viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "弱い",
+   "meaning": "yếu, yếu ớt",
+   "example": "「お酒嫌いなの？」「いや、好きなんだけどすごく弱いんだ」",
+   "exampleMeaning": "\"Bạn không thích uống rựu à?\" \"Không, tôi thích chứ nhưng tửu lượng lại yếu quá\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "両親",
+   "meaning": "cha",
+   "example": "両親には従うべきだ。",
+   "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "できる",
+   "meaning": "có thể, làm được",
+   "example": "彼は背泳ぎができる。",
+   "exampleMeaning": "Anh ấy biết bơi ngửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飲む",
+   "meaning": "uống (rượu, nước... )",
+   "example": "トムは飲むのが好きだ。",
+   "exampleMeaning": "Tom thích uống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お手洗い",
+   "meaning": "cầu tiêu",
+   "example": "歴史の試験中、彼女は気分が悪くなったのでお手洗いにたたせてもらった。",
+   "exampleMeaning": "Trong giờ kiểm tra môn Lịch sử, cô ấy cảm thấy không được khỏe, nên cô ấy đã được phép đi vệ sinh.",
+   "emoji": "🚽",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "する",
+   "meaning": "làm",
+   "example": "頭痛がする。",
+   "exampleMeaning": "Tôi bị nhức đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学校",
+   "meaning": "trường sở, phòng học",
+   "example": "学校まで歩きます。",
+   "exampleMeaning": "Tôi đi bộ đến trường.",
+   "emoji": "🏫",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "そう",
+   "meaning": "vâng, phải, dạ",
+   "example": "そうです。",
+   "exampleMeaning": "Đúng vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "病気",
+   "meaning": "bệnh",
+   "example": "彼は病気で休んでいる。",
+   "exampleMeaning": "Anh ấy đang nghỉ ốm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大切",
+   "meaning": "quan trọng, trọng đại, trọng yếu",
+   "example": "健康が富より大切なのは言うまでもない。",
+   "exampleMeaning": "Sức khỏe quan trọng hơn phú quý là điều không cần phải nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "母親",
+    "が",
+    "ドア",
+    "を",
+    "ノック",
+    "した"
+   ],
+   "reading": "ははおやがドアをノックした",
+   "meaning": "Mẹ của anh ta gõ cửa."
+  },
+  {
+   "tokens": [
+    "明日",
+    "の",
+    "授業",
+    "の",
+    "準備",
+    "を",
+    "するべき",
+    "だ"
+   ],
+   "reading": "あしたのじゅぎょうのじゅんびをするべきだ",
+   "meaning": "Bạn nên chuẩn bị cho những tiết học của ngày mai đi."
+  },
+  {
+   "tokens": [
+    "両親",
+    "は",
+    "私",
+    "が",
+    "留学",
+    "する",
+    "こと",
+    "に",
+    "反対",
+    "した"
+   ],
+   "reading": "りょうしんはわたしがりゅうがくすることにはんたいした",
+   "meaning": "Bố mẹ phản đối việc tôi đi du học."
+  },
+  {
+   "tokens": [
+    "学校",
+    "は",
+    "授業料",
+    "の",
+    "値上げ",
+    "を",
+    "発表",
+    "した"
+   ],
+   "reading": "がっこうはじゅぎょうりょうのねあげをはっぴょうした",
+   "meaning": "Nhà trường công bố tăng học phí."
+  },
+  {
+   "tokens": [
+    "クリス",
+    "は",
+    "理科",
+    "の",
+    "授業",
+    "で",
+    "落ちこぼれ",
+    "そう",
+    "です"
+   ],
+   "reading": "クリスはりかのじゅぎょうでおちこぼれそうです",
+   "meaning": "Dường như Chris đang không theo kịp giờ Khoa học."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,317 @@
+{
+ "lesson": 71,
+ "draft": true,
+ "words": [
+  {
+   "term": "concern",
+   "meaning": "việc, chuyện phải lo",
+   "example": "to notice with deep concern that...",
+   "exampleMeaning": "Rất lo ngại, thấy rằng...",
+   "emoji": "",
+   "ipa": "/kənˈsɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "importance",
+   "meaning": "sự quan trọng, tầm quan trọng",
+   "example": "Punctuality is of great importance in your new job.",
+   "exampleMeaning": "Đúng giờ là vô cùng quan trọng trong công việc mới của bạn.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɔrtəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fascinating",
+   "meaning": "làm mê, làm say mê, quyến rũ",
+   "example": "It's a fascinating read.",
+   "exampleMeaning": "Cái này đọc rất hay.",
+   "emoji": "",
+   "ipa": "/ˈfæsɪˌneɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "schedule",
+   "meaning": "thời hạn",
+   "example": "Tom explained the schedule to Mary.",
+   "exampleMeaning": "Tom đã giải thích lịch trình cho Mary.",
+   "emoji": "",
+   "ipa": "/ˈskɛdʒul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "composer",
+   "meaning": "người soạn nhạc",
+   "example": "I do not know the name of the composer who wrote this music.",
+   "exampleMeaning": "Tôi không biết tên của người nhạc sĩ viết ra bản nhạc này.",
+   "emoji": "",
+   "ipa": "/kəmˈpoʊzɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fit",
+   "meaning": "hợp, vừa",
+   "example": "to be as fit as a fiddle",
+   "exampleMeaning": "Khoẻ như vâm; rất sung sức",
+   "emoji": "",
+   "ipa": "/ˈfɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "liberty",
+   "meaning": "sự tự tiện, sự mạn phép, số nhiều) thái độ sỗ sàng",
+   "example": "to be at liberty to do something",
+   "exampleMeaning": "Được tự do làm gì",
+   "emoji": "",
+   "ipa": "/ˈlɪbɜrˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "north",
+   "meaning": "bắc, bấc",
+   "example": "to the north of",
+   "exampleMeaning": "Ở phía bắc của",
+   "emoji": "",
+   "ipa": "/nɔːθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sightseeing",
+   "meaning": "sự đi tham quan",
+   "example": "I want to get a sightseeing visa.",
+   "exampleMeaning": "Tôi muốn có một thị thực du lịch.",
+   "emoji": "",
+   "ipa": "/ˈsaɪtˈsiɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "post office",
+   "meaning": "bưu điện",
+   "example": "Is the post office open on Sunday?",
+   "exampleMeaning": "Bưu điện có mở cửa vào Chủ nhật không?",
+   "emoji": "🏤",
+   "ipa": "/ˈpoʊst ˈɔfɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "freedom",
+   "meaning": "sự miễn, sự khỏi phải",
+   "example": "to give a friend the freedom of one's house",
+   "exampleMeaning": "Cho một người bạn quyền tự do sử dụng nhà mình",
+   "emoji": "",
+   "ipa": "/ˈfridəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "skateboarding",
+   "meaning": "môn trượt ván",
+   "example": "I go skateboarding at the weekend.",
+   "exampleMeaning": "Tôi đi trượt ván vào cuối tuần.",
+   "emoji": "",
+   "ipa": "/ˈskeɪtˌbɔrdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chin",
+   "meaning": "cằm",
+   "example": "to be up to the chin",
+   "exampleMeaning": "Nước lên tới cằm",
+   "emoji": "",
+   "ipa": "/t͡ʃɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "possible",
+   "meaning": "có thể, có thể được, có thể làm được",
+   "example": "is it possible?",
+   "exampleMeaning": "Có thể được không?",
+   "emoji": "",
+   "ipa": "/ˈpɑsəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "screw",
+   "meaning": "cau (mặt), nheo (mắt), mím (môi)",
+   "example": "to screw the truth out of someone",
+   "exampleMeaning": "Bắt ép ai phải nói sự thật",
+   "emoji": "",
+   "ipa": "/ˈskru/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unimportant",
+   "meaning": "không quan trọng, không đáng kể",
+   "example": "Let's learn the word \"unimportant\".",
+   "exampleMeaning": "Cùng học từ “unimportant”: không quan trọng, không đáng kể.",
+   "emoji": "",
+   "ipa": "/ənɪmˈpɔrtənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vocabulary",
+   "meaning": "từ vựng",
+   "example": "It is about time you studied vocabulary!",
+   "exampleMeaning": "Đáng lẽ ra bạn đã phải học từ vựng rồi mới phải!",
+   "emoji": "",
+   "ipa": "/voʊˈkæbjəˌlɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wisdom",
+   "meaning": "tính khôn ngoan, trí tuệ",
+   "example": "Do wisdom teeth need to be removed?",
+   "exampleMeaning": "Có cần nhổ răng khôn không?",
+   "emoji": "",
+   "ipa": "/ˈwɪzdəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "verb",
+   "meaning": "động từ",
+   "example": "This verb is normally used only in the third person.",
+   "exampleMeaning": "Động từ này thường chỉ được dùng với ngôi thứ ba.",
+   "emoji": "",
+   "ipa": "/vɜːb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "panic",
+   "meaning": "cây tắc",
+   "example": "Let's learn the word \"panic\".",
+   "exampleMeaning": "Cùng học từ “panic”: cây tắc.",
+   "emoji": "",
+   "ipa": "/ˈpænɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "doesn't",
+    "fit"
+   ],
+   "reading": "",
+   "meaning": "Cái này không vừa."
+  },
+  {
+   "tokens": [
+    "That's",
+    "not",
+    "possible"
+   ],
+   "reading": "",
+   "meaning": "Điều đó là bất khả thi."
+  },
+  {
+   "tokens": [
+    "Freedom",
+    "is",
+    "not",
+    "free"
+   ],
+   "reading": "",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  },
+  {
+   "tokens": [
+    "It's",
+    "a",
+    "possible",
+    "story"
+   ],
+   "reading": "",
+   "meaning": "Đó là một chuyện có thể xảy ra."
+  },
+  {
+   "tokens": [
+    "It's",
+    "a",
+    "fascinating",
+    "read"
+   ],
+   "reading": "",
+   "meaning": "Cái này đọc rất hay."
+  }
+ ],
+ "issues": []
+}

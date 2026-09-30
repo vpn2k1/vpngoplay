@@ -1,0 +1,320 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "argument",
+   "meaning": "tranh luận",
+   "example": "The teacher puts up an argument about pollution for the students.",
+   "exampleMeaning": "Cô giáo đưa ra một cuộc tranh luận về sự ô nhiễm cho các học sinh.",
+   "emoji": "",
+   "ipa": "/ˈɑrɡjəmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "least",
+   "meaning": "tối thiểu, nhỏ nhất, ít nhất",
+   "example": "Can I at least hug you?",
+   "exampleMeaning": "Ít nhất tôi có thể ôm bạn được không?",
+   "emoji": "",
+   "ipa": "/ˈlist/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "musical",
+   "meaning": "nhạc, (thuộc) âm nhạc",
+   "example": "Tom comes from a musical family.",
+   "exampleMeaning": "Tom đến từ một gia đình có truyền thống âm nhạc.",
+   "emoji": "",
+   "ipa": "/ˈmjuzɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "framework",
+   "meaning": "cốt truyện",
+   "example": "framework of a novel",
+   "exampleMeaning": "Cốt truyện của một cuốn tiểu thuyết",
+   "emoji": "",
+   "ipa": "/ˈfreɪmˌwɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pleasing",
+   "meaning": "dễ chịu, thú vị, làm vui lòng",
+   "example": "I said so with a view to pleasing him.",
+   "exampleMeaning": "Tôi đã nói thế để làm anh ấy vui.",
+   "emoji": "",
+   "ipa": "/ˈplizɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "crown",
+   "meaning": "vòng hoa, vòng lá (đội trên đầu)",
+   "example": "to come to the crown",
+   "exampleMeaning": "Lên ngôi vua",
+   "emoji": "👑",
+   "ipa": "/ˈkraʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "winner",
+   "meaning": "người được cuộc, người thắng",
+   "example": "Let's learn the word \"winner\".",
+   "exampleMeaning": "Cùng học từ “winner”: người được cuộc, người thắng.",
+   "emoji": "",
+   "ipa": "/ˈwɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "metal",
+   "meaning": "kim loại",
+   "example": "Is it made of wood or metal?",
+   "exampleMeaning": "Cái này là làm từ gỗ hay là làm từ sắt?",
+   "emoji": "",
+   "ipa": "/ˈmɛtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "context",
+   "meaning": "văn cảnh, ngữ cảnh, mạch văn",
+   "example": "Depending on the context, both are possible.",
+   "exampleMeaning": "Tuỳ vào bối cảnh, cả hai đều có thể.",
+   "emoji": "",
+   "ipa": "/ˈkɑntɛkst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pea",
+   "meaning": "đậu Hà-lan",
+   "example": "Let's learn the word \"pea\".",
+   "exampleMeaning": "Cùng học từ “pea”: đậu Hà-lan.",
+   "emoji": "",
+   "ipa": "/ˈpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "west",
+   "meaning": "tây",
+   "example": "I'm from the West Coast.",
+   "exampleMeaning": "Tôi đến từ bờ biển phía tây.",
+   "emoji": "",
+   "ipa": "/wɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "independence",
+   "meaning": "độc lập",
+   "example": "Let's learn the word \"independence\".",
+   "exampleMeaning": "Cùng học từ “independence”: độc lập.",
+   "emoji": "",
+   "ipa": "/ˌɪndɪˈpɛndəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "style",
+   "meaning": "phong cách, cách, lối",
+   "example": "there is no style about her",
+   "exampleMeaning": "Cô ta trông không có gì xuất sắc",
+   "emoji": "",
+   "ipa": "/staɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bra",
+   "meaning": "((viết tắt) của brassière) cái nịt vú",
+   "example": "Let's learn the word \"bra\".",
+   "exampleMeaning": "Cùng học từ “bra”: ((viết tắt) của brassière) cái nịt vú.",
+   "emoji": "",
+   "ipa": "/ˈbrɑ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "petrol",
+   "meaning": "xăng",
+   "example": "The petrol station is at the entrance to the village.",
+   "exampleMeaning": "Trạm xăng ở đầu làng.",
+   "emoji": "",
+   "ipa": "/ˈpɛtroʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "midday",
+   "meaning": "trưa, buổi trưa",
+   "example": "Let's learn the word \"midday\".",
+   "exampleMeaning": "Cùng học từ “midday”: trưa, buổi trưa.",
+   "emoji": "",
+   "ipa": "/ˈmɪdˌdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "soap",
+   "meaning": "xà phòng",
+   "example": "Let's learn the word \"soap\".",
+   "exampleMeaning": "Cùng học từ “soap”: xà phòng.",
+   "emoji": "🧼",
+   "ipa": "/ˈsoʊp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prevent",
+   "meaning": "ngăn ngừa",
+   "example": "to prevent somebody from doing something",
+   "exampleMeaning": "Ngăn cản ai làm điều gì",
+   "emoji": "",
+   "ipa": "/priˈvɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "weak",
+   "meaning": "yếu, yếu ớt",
+   "example": "a weak team of volleyball players",
+   "exampleMeaning": "Một đội bóng chuyền kém",
+   "emoji": "",
+   "ipa": "/wiːk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "contact",
+   "meaning": "liên hệ",
+   "example": "our troops are in contact with the enemy",
+   "exampleMeaning": "Quân ta đã chạm với quân địch",
+   "emoji": "",
+   "ipa": "/ˈkɑːn.ˌtækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "are",
+    "weak"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi yếu."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "too",
+    "weak"
+   ],
+   "reading": "",
+   "meaning": "Nó yếu quá."
+  },
+  {
+   "tokens": [
+    "That",
+    "isn't",
+    "my",
+    "style"
+   ],
+   "reading": "",
+   "meaning": "Đấy không phải phong cách của tôi."
+  },
+  {
+   "tokens": [
+    "It",
+    "depends",
+    "on",
+    "the",
+    "context"
+   ],
+   "reading": "",
+   "meaning": "Cái đó tùy thuộc vào văn cảnh."
+  },
+  {
+   "tokens": [
+    "Our",
+    "people",
+    "thirst",
+    "for",
+    "independence"
+   ],
+   "reading": "",
+   "meaning": "Người dân của chúng tôi đang khát khao sự độc lập."
+  }
+ ],
+ "issues": []
+}

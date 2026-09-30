@@ -1,0 +1,335 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "蔓延",
+   "meaning": "lan tràn",
+   "example": "蔓延滋长。",
+   "exampleMeaning": "Cỏ mọc lan tràn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mànyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "巨人",
+   "meaning": "người to lớn",
+   "example": "我们来学“巨人”这个词。",
+   "exampleMeaning": "Cùng học từ “巨人”: người to lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "设法",
+   "meaning": "tìm cách",
+   "example": "设法克服困难。",
+   "exampleMeaning": "Tìm cách khắc phục khó khăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "强硬",
+   "meaning": "cứng rắn",
+   "example": "提出强硬抗议。",
+   "exampleMeaning": "Đưa ra kháng nghị cứng rắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心意",
+   "meaning": "tâm ý",
+   "example": "我们因为语言不通，只好用手势和其他方法来表达心意。",
+   "exampleMeaning": "Chúng tôi vì ngôn ngữ bất đồng, nên phải dùng tay và các cách khác để diễn tả ý muốn nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "道具",
+   "meaning": "đạo cụ",
+   "example": "我们来学“道具”这个词。",
+   "exampleMeaning": "Cùng học từ “道具”: đạo cụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàojù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "碳",
+   "meaning": "cacbon",
+   "example": "我们来学“碳”这个词。",
+   "exampleMeaning": "Cùng học từ “碳”: cacbon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不妨",
+   "meaning": "đừng ngại",
+   "example": "这种方法没有用过，不妨试试。",
+   "exampleMeaning": "Phương pháp này chưa hề dùng qua, có thể làm thử xem",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùfáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有益",
+   "meaning": "có ích, dùng được, làm ăn được",
+   "example": "运动对健康有益。",
+   "exampleMeaning": "Thể thao có lợi cho sức khoẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "靴子",
+   "meaning": "ủng",
+   "example": "我们来学“靴子”这个词。",
+   "exampleMeaning": "Cùng học từ “靴子”: ủng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuēzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辅导",
+   "meaning": "phụ đạo",
+   "example": "辅导学生学习基础知识。",
+   "exampleMeaning": "Phụ đạo học sinh những kiến thức cơ bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǔdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "终究",
+   "meaning": "chung quy",
+   "example": "一个人的力量终究有限。",
+   "exampleMeaning": "Chung quy sức lực của một người thì có hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngjiū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "会面",
+   "meaning": "gặp",
+   "example": "已经十年没会面了",
+   "exampleMeaning": "Đã mười năm rồi không gặp mặt nhau",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失落",
+   "meaning": "thất lạc",
+   "example": "我们来学“失落”这个词。",
+   "exampleMeaning": "Cùng học từ “失落”: thất lạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīluò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "急需",
+   "meaning": "cần gấp",
+   "example": "我们来学“急需”这个词。",
+   "exampleMeaning": "Cùng học từ “急需”: cần gấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíxū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建筑物",
+   "meaning": "vật kiến trúc",
+   "example": "我们来学“建筑物”这个词。",
+   "exampleMeaning": "Cùng học từ “建筑物”: vật kiến trúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzhùwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "解脱",
+   "meaning": "thoát khỏi",
+   "example": "资本主义制度本身带来的经济危机是无法解脱的。",
+   "exampleMeaning": "Bản thân chế độ tư bản chủ nghĩa đã mang đến những nguy cơ không lối thoát cho nền kinh tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiětuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "受益",
+   "meaning": "được lợi",
+   "example": "水库修好后，受益地区很大。",
+   "exampleMeaning": "Sau khi hồ chứa nước được xây dựng xong, khu vực này có rất nhiều ích lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòuyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "旅程",
+   "meaning": "hành trình",
+   "example": "万里旅程。",
+   "exampleMeaning": "Hành trình vạn dặm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小人",
+   "meaning": "tiểu nhân",
+   "example": "小人得志。",
+   "exampleMeaning": "Tiểu nhân đắc chí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎorén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "提出",
+    "改革",
+    "研究",
+    "方法",
+    "的",
+    "意见"
+   ],
+   "reading": "tā tíchū gǎigé yánjiū fāngfǎ de yìjiàn",
+   "meaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "他们",
+    "昨天",
+    "乘",
+    "巴士",
+    "去",
+    "了",
+    "动物园"
+   ],
+   "reading": "tāmen zuótiān chéng bāshì qù le dòngwùyuán",
+   "meaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  }
+ ],
+ "issues": []
+}

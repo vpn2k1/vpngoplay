@@ -1,0 +1,318 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "bag",
+   "meaning": "bao, túi, bị",
+   "example": "Is this your bag?",
+   "exampleMeaning": "Đó có phải là túi của bạn?",
+   "emoji": "",
+   "ipa": "/ˈbæɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "feel",
+   "meaning": "thấy, cảm thấy, có cảm giác",
+   "example": "if that's the way you feel about it",
+   "exampleMeaning": "Nếu anh cho là như thế, nếu ý anh là như thế",
+   "emoji": "",
+   "ipa": "/fiːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "apron",
+   "meaning": "tạp dề",
+   "example": "Let's learn the word \"apron\".",
+   "exampleMeaning": "Cùng học từ “apron”: tạp dề.",
+   "emoji": "",
+   "ipa": "/ˈeɪ.prən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hold",
+   "meaning": "cầm, nắm, giữ",
+   "example": "will this fine weather hold?",
+   "exampleMeaning": "Liệu thời tiết này có kéo dài mãi không?",
+   "emoji": "",
+   "ipa": "/həʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "yours",
+   "meaning": "cái của anh, cái của chị, cái của ngài",
+   "example": "Which cup is yours?",
+   "exampleMeaning": "Tách nào của bạn?",
+   "emoji": "",
+   "ipa": "/ˈjɔrz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "go",
+   "meaning": "đi, đánh, ra (quân bài)",
+   "example": "to go so far so to say...",
+   "exampleMeaning": "Nói đến mức là...",
+   "emoji": "",
+   "ipa": "/ˈɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grade",
+   "meaning": "dốc",
+   "example": "movement is on the up grade",
+   "exampleMeaning": "Phong trào đang phát triển, phong trào đang theo hướng đi lên",
+   "emoji": "",
+   "ipa": "/ˈɡreɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grandmother",
+   "meaning": "bà",
+   "example": "My grandmother is old but healthy.",
+   "exampleMeaning": "Bà tôi già nhưng khỏe mạnh.",
+   "emoji": "",
+   "ipa": "/ˈɡrændˌməðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nine",
+   "meaning": "chín",
+   "example": "What is the square root of nine?",
+   "exampleMeaning": "Căn bậc hai của chín là bao nhiêu?",
+   "emoji": "",
+   "ipa": "/ˈnaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "why",
+   "meaning": "sao",
+   "example": "why was he late?",
+   "exampleMeaning": "Sao anh ấy đến muộn?",
+   "emoji": "",
+   "ipa": "/ˈhwaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "house",
+   "meaning": "nhà, chuồng",
+   "example": "the first house starts at 8",
+   "exampleMeaning": "Buổi biểu diễn thứ nhất bắt đầu vào lúc 8 giờ",
+   "emoji": "🏠",
+   "ipa": "/ˈhaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "day",
+   "meaning": "ngày",
+   "example": "the sun gives us light during the day",
+   "exampleMeaning": "Ban ngày mặt trời cho ta ánh sáng",
+   "emoji": "",
+   "ipa": "/ˈdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "waiter",
+   "meaning": "người hầu bàn",
+   "example": "He is a waiter in a seaside restaurant.",
+   "exampleMeaning": "Anh ấy làm bồi bàn cho một nhà hàng bên bờ biển",
+   "emoji": "",
+   "ipa": "/ˈweɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "okay",
+   "meaning": "thích đáng, có phép, được",
+   "example": "Are you okay?",
+   "exampleMeaning": "Bạn có sao không?",
+   "emoji": "",
+   "ipa": "/ˌoʊˈkeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "book",
+   "meaning": "sách",
+   "example": "to book searts for the threatre",
+   "exampleMeaning": "Mua vé trước để đi xem hát",
+   "emoji": "",
+   "ipa": "/ˈbʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "coat",
+   "meaning": "áo",
+   "example": "A passing car splashed my coat with water.",
+   "exampleMeaning": "Một chiếc xe đi qua đã té nước vào áo khoác của tôi.",
+   "emoji": "🧥",
+   "ipa": "/koʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "come",
+   "meaning": "đến, tới, trở lại",
+   "example": "how did you come by this document?",
+   "exampleMeaning": "Làm sao mà anh kiếm được tài liệu này?",
+   "emoji": "",
+   "ipa": "/ˈkəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "real",
+   "meaning": "thật",
+   "example": "Is that real blood?",
+   "exampleMeaning": "Đó là máu thật đúng không?",
+   "emoji": "",
+   "ipa": "/ˈril/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dog",
+   "meaning": "chó",
+   "example": "My dog died.",
+   "exampleMeaning": "Con chó của tôi đã chết.",
+   "emoji": "🐕",
+   "ipa": "/dɒɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fine",
+   "meaning": "tốt, khả quan, hay",
+   "example": "a knife with a fine edge",
+   "exampleMeaning": "Con dao lưỡi sắc",
+   "emoji": "",
+   "ipa": "/ˈfaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Why",
+    "not",
+    "go"
+   ],
+   "reading": "",
+   "meaning": "Sao không đi?"
+  },
+  {
+   "tokens": [
+    "I",
+    "feel",
+    "just",
+    "fine"
+   ],
+   "reading": "",
+   "meaning": "Tôi cảm thấy bình thường."
+  },
+  {
+   "tokens": [
+    "Why",
+    "can't",
+    "he",
+    "come"
+   ],
+   "reading": "",
+   "meaning": "Sao anh ta không đến được?"
+  },
+  {
+   "tokens": [
+    "Is",
+    "that",
+    "house",
+    "yours"
+   ],
+   "reading": "",
+   "meaning": "Căn nhà đó là của bạn phải không?"
+  },
+  {
+   "tokens": [
+    "Why",
+    "didn't",
+    "Tom",
+    "come"
+   ],
+   "reading": "",
+   "meaning": "Tại sao Tom lại không đến?"
+  }
+ ],
+ "issues": []
+}

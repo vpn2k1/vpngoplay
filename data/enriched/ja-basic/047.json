@@ -1,0 +1,331 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "珍しい",
+   "meaning": "hiếm, hiếm có, ít có",
+   "example": "これは珍しいことなの？",
+   "exampleMeaning": "Đây có phải là một chuyện hiếm gặp không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飛行場",
+   "meaning": "sân bay, phi trường",
+   "example": "嵐のせいで、多くの飛行機が飛行場を飛びたてなかった。",
+   "exampleMeaning": "Do cơn bão, rất nhiều máy bay không thể cất cánh từ sân bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "意見",
+   "meaning": "ý kiến, quan điểm",
+   "example": "彼の意見には重みがある。",
+   "exampleMeaning": "Ý kiến của nó thật nặng đô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "盗む",
+   "meaning": "ăn cắp, ăn trộm",
+   "example": "「盗む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盗む”: ăn cắp, ăn trộm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丁寧",
+   "meaning": "lịch sự, nhã nhặn",
+   "example": "スーパーでアルバイトしてみて、客の中にも丁寧な人と、そうでない人がいることがわかった。",
+   "exampleMeaning": "Khi làm thêm trong siêu thị, tôi hiểu rằng trong số các khách hàng cũng có người lịch sự và người không lịch sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "なるべく",
+   "meaning": "càng thêm càng tốt, nhiều nhất có thể",
+   "example": "「なるべく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なるべく”: càng thêm càng tốt, nhiều nhất có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "匂い",
+   "meaning": "mùi (hương), mùi vị, hơi",
+   "example": "猟犬たちはキツネの匂いの跡をたどった。",
+   "exampleMeaning": "Những con chó săn đã lần theo mùi của con cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "素晴らしい",
+   "meaning": "xuất sắc, phi thường, đặc biệt",
+   "example": "彼は素晴らしい選手です。",
+   "exampleMeaning": "Anh ấy là một vận động viên xuất sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地震",
+   "meaning": "sự động đất",
+   "example": "大地震が東京を破壊したのは１９２０年代のことだった。",
+   "exampleMeaning": "Vào những năm 20 của thế kỷ 20, một trận động đất lớn đã phá hủy thành phố Tokyo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "向かう",
+   "meaning": "đương đầu, đối phó",
+   "example": "オークスを観ようと府中まで向かう電車の中でスリに遭った。",
+   "exampleMeaning": "Vì muốn ngắm nhìn những cây sồi cho nên tôi đã đi tàu điện đến Fuchu. Nhưng trên chuyến xe thì tôi bị móc túi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "決める",
+   "meaning": "quyết định",
+   "example": "そのことを決めるのは君の役目だ。",
+   "exampleMeaning": "Quyết định điều đó là trách nhiệm của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "糸",
+   "meaning": "chỉ, sợi chỉ, sợi dây",
+   "example": "「糸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “糸”: chỉ, sợi chỉ, sợi dây.",
+   "emoji": "🧵",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "久しぶり",
+   "meaning": "có từ lâu đời",
+   "example": "昨日は久しぶりに旧友に会った。",
+   "exampleMeaning": "Hôm qua, tôi đã gặp lại một người bạn cũ mà đã lâu tôi không gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "枝",
+   "meaning": "cành cây",
+   "example": "「枝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “枝”: cành cây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "警察",
+   "meaning": "cảnh sát, công an",
+   "example": "トムは警察車両を盗んだ。",
+   "exampleMeaning": "Tom đã trộm một chiếc xe cảnh sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生きる",
+   "meaning": "sống",
+   "example": "「生きる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生きる”: sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浅い",
+   "meaning": "nông, cạn",
+   "example": "「浅い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “浅い”: nông, cạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "電灯",
+   "meaning": "ánh sáng điện",
+   "example": "「電灯」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “電灯”: ánh sáng điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "パソコン",
+   "meaning": "máy tính, máy vi tính, máy điện toán",
+   "example": "このノートパソコン軽いなぁ。",
+   "exampleMeaning": "Cái laptop này nhẹ phết nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "花見",
+   "meaning": "ngắm hoa",
+   "example": "花見をしに来ました。",
+   "exampleMeaning": "Tôi đến để ngắm hoa anh đào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "警察",
+    "を",
+    "呼んで"
+   ],
+   "reading": "けいさつをよんで",
+   "meaning": "Gọi cảnh sát đi!"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "素晴らしい",
+    "選手",
+    "です"
+   ],
+   "reading": "かれはすばらしいせんしゅです",
+   "meaning": "Anh ấy là một vận động viên xuất sắc."
+  },
+  {
+   "tokens": [
+    "基本的に",
+    "あなた",
+    "の",
+    "意見",
+    "に",
+    "賛成",
+    "です"
+   ],
+   "reading": "きほんてきにあなたのいけんにさんせいです",
+   "meaning": "Về cơ bản, tôi đồng tình với quan điểm của bạn."
+  },
+  {
+   "tokens": [
+    "家族",
+    "が",
+    "いる",
+    "って",
+    "素晴らしい",
+    "こと",
+    "です"
+   ],
+   "reading": "かぞくがいるってすばらしいことです",
+   "meaning": "Thật tuyệt vời khi có một gia đình."
+  },
+  {
+   "tokens": [
+    "警察",
+    "は",
+    "その",
+    "事故",
+    "の",
+    "原因",
+    "を",
+    "調査",
+    "中",
+    "である"
+   ],
+   "reading": "けいさつはそのじこのげんいんをちょうさちゅうである",
+   "meaning": "Cảnh sát đang điều tra nguyên nhân của vụ tai nạn."
+  }
+ ],
+ "issues": []
+}

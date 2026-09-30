@@ -1,0 +1,332 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "特色",
+   "meaning": "đặc sắc",
+   "example": "他们的表演各有特色。",
+   "exampleMeaning": "Cách biểu diễn của mỗi người có đặc sắc riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "电视剧",
+   "meaning": "kịch truyền hình",
+   "example": "我们来学“电视剧”这个词。",
+   "exampleMeaning": "Cùng học từ “电视剧”: kịch truyền hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànshìjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "整体",
+   "meaning": "tổng thể",
+   "example": "把国家看成是一个由家庭构成的整体。",
+   "exampleMeaning": "Xem quốc gia là một chỉnh thể do các gia đình hợp thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěngtǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "身份证",
+   "meaning": "chứng minh thư",
+   "example": "我们来学“身份证”这个词。",
+   "exampleMeaning": "Cùng học từ “身份证”: chứng minh thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnfènzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "收费",
+   "meaning": "thu phí",
+   "example": "我们来学“收费”这个词。",
+   "exampleMeaning": "Cùng học từ “收费”: thu phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōufèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迎接",
+   "meaning": "đón",
+   "example": "迎接即将到来的战斗任务。",
+   "exampleMeaning": "Đón nhận nhiệm vụ chiến đấu sắp tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíngjiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "改进",
+   "meaning": "cải tiến, cải thiện, cải tạo",
+   "example": "近来各方面都有所改进。",
+   "exampleMeaning": "Gần đây tất cả đều được cải tiến toàn diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎijìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "建设",
+   "meaning": "xây dựng",
+   "example": "经济建设。",
+   "exampleMeaning": "Kiến thiết nền kinh tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànshè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文学",
+   "meaning": "văn học",
+   "example": "他既精于数学又精于文学。",
+   "exampleMeaning": "Nó đã giỏi toán, còn giỏi cả văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "难度",
+   "meaning": "độ khó",
+   "example": "我们来学“难度”这个词。",
+   "exampleMeaning": "Cùng học từ “难度”: độ khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nándù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "头脑",
+   "meaning": "đầu óc",
+   "example": "摸不着头脑(弄不清头绪)。",
+   "exampleMeaning": "Không lần ra đầu mối",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóunǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "屋子",
+   "meaning": "gian phòng",
+   "example": "一间屋子。",
+   "exampleMeaning": "Một gian phòng; một căn phòng",
+   "emoji": "🏠",
+   "ipa": "",
+   "pinyin": "wūzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "铁路",
+   "meaning": "đường sắt",
+   "example": "我们来学“铁路”这个词。",
+   "exampleMeaning": "Cùng học từ “铁路”: đường sắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiělù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通信",
+   "meaning": "thông tin",
+   "example": "数字通信",
+   "exampleMeaning": "Thông tin mã số",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缺少",
+   "meaning": "thiếu",
+   "example": "缺少零件。",
+   "exampleMeaning": "Thiếu linh kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quēshǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "环保",
+   "meaning": "bảo vệ môi trường",
+   "example": "砍掉那片树不利于环保。",
+   "exampleMeaning": "Chặt phá mảng rừng đó sẽ gây hại cho môi trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huánbǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "家乡",
+   "meaning": "quê nhà",
+   "example": "我们来学“家乡”这个词。",
+   "exampleMeaning": "Cùng học từ “家乡”: quê nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发送",
+   "meaning": "đưa tang",
+   "example": "我们来学“发送”这个词。",
+   "exampleMeaning": "Cùng học từ “发送”: đưa tang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāsòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "播出",
+   "meaning": "tung ra khắp nơi",
+   "example": "与此同时，电台也播出了这条消息。",
+   "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bōchū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "读者",
+   "meaning": "độc giả",
+   "example": "供读者使用的房间。",
+   "exampleMeaning": "Phòng dành cho độc giả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "改革者",
+    "的",
+    "目标",
+    "是",
+    "要",
+    "改进",
+    "政府"
+   ],
+   "reading": "gǎigézhě de mùbiāo shì yào gǎijìn zhèngfǔ",
+   "meaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "这",
+    "首",
+    "歌",
+    "也",
+    "还",
+    "可以",
+    "吧"
+   ],
+   "reading": "zhè shǒu gē yě hái kěyǐ ba",
+   "meaning": "Bài hát ấy cũng hay đấy chứ?"
+  },
+  {
+   "tokens": [
+    "他",
+    "今天",
+    "不见得",
+    "会",
+    "来"
+   ],
+   "reading": "tā jīntiān bùjiànde huì lái",
+   "meaning": "Anh ấy hôm nay chưa chắc sẽ đến."
+  }
+ ],
+ "issues": []
+}

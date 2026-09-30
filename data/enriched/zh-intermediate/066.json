@@ -1,0 +1,322 @@
+{
+ "lesson": 66,
+ "draft": true,
+ "words": [
+  {
+   "term": "联盟",
+   "meaning": "liên minh (giữa hai hay nhiều nước)",
+   "example": "工农联盟。",
+   "exampleMeaning": "Liên minh công nông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánméng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "母",
+   "meaning": "cái",
+   "example": "我父亲会游泳但我母亲不会。",
+   "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仪式",
+   "meaning": "nghi thức",
+   "example": "仪式隆重",
+   "exampleMeaning": "Nghi lễ long trọng; nghi thức long trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "能否",
+   "meaning": "có thể hay không",
+   "example": "我们来学“能否”这个词。",
+   "exampleMeaning": "Cùng học từ “能否”: có thể hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "néngfǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "进攻",
+   "meaning": "tiến công quân thù",
+   "example": "我们来学“进攻”这个词。",
+   "exampleMeaning": "Cùng học từ “进攻”: tiến công quân thù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "再说",
+   "meaning": "vả lại",
+   "example": "这事先搁一搁，过两天再说。",
+   "exampleMeaning": "Việc này hãy tạm gác lại, hai ngày nữa sẽ bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàishuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "除",
+   "meaning": "trừ",
+   "example": "除此之外，别无办法。",
+   "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "负",
+   "meaning": "cầm, vác, khuân",
+   "example": "一个人要为他的行为负责。",
+   "exampleMeaning": "Một người phải có trách nhiệm với những hành động của mình.",
+   "emoji": "🐻",
+   "ipa": "",
+   "pinyin": "fù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本身",
+   "meaning": "ta",
+   "example": "是单位本身问题。",
+   "exampleMeaning": "Là vấn đề của chính đơn vị ta",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "端",
+   "meaning": "đem",
+   "example": "把问题都端出来讨论。",
+   "exampleMeaning": "Đem vấn đề ra thảo luận",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不见",
+   "meaning": "không gặp",
+   "example": "药吃多了，对身体不见得好。",
+   "exampleMeaning": "Uống nhiều thuốc không hẳn là tốt cho sức khỏe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "扣",
+   "meaning": "đổ tội",
+   "example": "把 犯人扣起 来。",
+   "exampleMeaning": "Giam phạm nhân lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "球员",
+   "meaning": "cầu thủ",
+   "example": "我们来学“球员”这个词。",
+   "exampleMeaning": "Cùng học từ “球员”: cầu thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiúyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挖",
+   "meaning": "đào",
+   "example": "挖 洞。",
+   "exampleMeaning": "Khoét lỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "要么",
+   "meaning": "hoặc là",
+   "example": "要么他来，要么我去，明天总得当面谈一谈。",
+   "exampleMeaning": "Hoặc là anh ấy đến hoặc là tôi đi, ngày mai thế nào cũng phải gặp nhau để nói chuyện cho rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàome",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "将军",
+   "meaning": "chiếu tướng (trong đánh cờ)",
+   "example": "我们来学“将军”这个词。",
+   "exampleMeaning": "Cùng học từ “将军”: chiếu tướng (trong đánh cờ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāngjūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "透露",
+   "meaning": "để lộ (tin tức, ý tứ)",
+   "example": "真相透露出来了。",
+   "exampleMeaning": "Đã lộ chân tướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòulù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "侧",
+   "meaning": "bên, cạnh, tựa",
+   "example": "我们来学“侧”这个词。",
+   "exampleMeaning": "Cùng học từ “侧”: bên, cạnh, tựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cè",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "团队",
+   "meaning": "đoàn",
+   "example": "组织旅游团队",
+   "exampleMeaning": "Tổ chức đoàn du lịch",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuánduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "闭",
+   "meaning": "bí, nhắm, ngậm",
+   "example": "闭口无言。",
+   "exampleMeaning": "Ngậm miệng không nói",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "他",
+    "说",
+    "的",
+    "不见得",
+    "对"
+   ],
+   "reading": "tā shuō de bùjiànde duì",
+   "meaning": "Anh ấy nói chưa chắc đã đúng."
+  },
+  {
+   "tokens": [
+    "谁",
+    "负责",
+    "这个",
+    "部门"
+   ],
+   "reading": "shéi fùzé zhège bùmén",
+   "meaning": "Ai phụ trách khâu này?"
+  },
+  {
+   "tokens": [
+    "他",
+    "今天",
+    "不见得",
+    "会",
+    "来"
+   ],
+   "reading": "tā jīntiān bùjiànde huì lái",
+   "meaning": "Anh ấy hôm nay chưa chắc sẽ đến."
+  },
+  {
+   "tokens": [
+    "你",
+    "该",
+    "听",
+    "你",
+    "父母",
+    "的话"
+   ],
+   "reading": "nǐ gāi tīng nǐ fùmǔ dehuà",
+   "meaning": "Bạn nên nghe lời cha mẹ."
+  }
+ ],
+ "issues": []
+}

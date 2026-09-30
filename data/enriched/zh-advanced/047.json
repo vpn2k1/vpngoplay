@@ -1,0 +1,334 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "付款",
+   "meaning": "trả tiền",
+   "example": "我们来学“付款”这个词。",
+   "exampleMeaning": "Cùng học từ “付款”: trả tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùkuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忍耐",
+   "meaning": "nhẫn nại",
+   "example": "我们来学“忍耐”这个词。",
+   "exampleMeaning": "Cùng học từ “忍耐”: nhẫn nại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rěnnài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "削",
+   "meaning": "cắt, gọt, đẽo",
+   "example": "他的工资被削减到最低程度。",
+   "exampleMeaning": "Lương của nó bị cắt giảm tới mức thấp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "铲",
+   "meaning": "xẻng",
+   "example": "把地铲平了。",
+   "exampleMeaning": "Đã dùng xẻng san bằng đất rồi.",
+   "emoji": "🪏",
+   "ipa": "",
+   "pinyin": "chǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奖杯",
+   "meaning": "cúp",
+   "example": "我们来学“奖杯”这个词。",
+   "exampleMeaning": "Cùng học từ “奖杯”: cúp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngbēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "破碎",
+   "meaning": "rách nát",
+   "example": "这纸年代太久，都破碎了。",
+   "exampleMeaning": "Loại giấy này lâu năm quá, rách nát cả rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pòsuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "除去",
+   "meaning": "bỏ",
+   "example": "我们来学“除去”这个词。",
+   "exampleMeaning": "Cùng học từ “除去”: bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chúqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恐龙",
+   "meaning": "khủng long",
+   "example": "我们来学“恐龙”这个词。",
+   "exampleMeaning": "Cùng học từ “恐龙”: khủng long.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒnglóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "土壤",
+   "meaning": "thổ nhưỡng",
+   "example": "我们来学“土壤”这个词。",
+   "exampleMeaning": "Cùng học từ “土壤”: thổ nhưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǔrǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通宵",
+   "meaning": "suốt đêm",
+   "example": "通宵达旦(从天黑到天亮)。",
+   "exampleMeaning": "Suốt đêm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngxiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "值钱",
+   "meaning": "đáng giá",
+   "example": "把值钱的东西交给柜台保管。",
+   "exampleMeaning": "Đem đồ đạc có giá giao quầy hàng giữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眉毛",
+   "meaning": "lông mày",
+   "example": "我们来学“眉毛”这个词。",
+   "exampleMeaning": "Cùng học từ “眉毛”: lông mày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méimao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理会",
+   "meaning": "để ý",
+   "example": "这段话的意思不难理会。",
+   "exampleMeaning": "Ý nghĩa của đoạn văn này không khó hiểu lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "南瓜",
+   "meaning": "bí đỏ",
+   "example": "我们来学“南瓜”这个词。",
+   "exampleMeaning": "Cùng học từ “南瓜”: bí đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nánguā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发热",
+   "meaning": "không bình tĩnh (do đầu óc không tỉnh táo)",
+   "example": "恒星本身发光发热。",
+   "exampleMeaning": "Hằng tinh tự phát sáng và toả nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fārè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抵制",
+   "meaning": "ngăn chặn",
+   "example": "抵制会议的召开",
+   "exampleMeaning": "Ngăn chặn triệu tập hội nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǐzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "境地",
+   "meaning": "cảnh ngộ",
+   "example": "处于孤立的境地。",
+   "exampleMeaning": "Rơi vào cảnh ngộ cô đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贪婪",
+   "meaning": "lòng tham không đáy",
+   "example": "我们来学“贪婪”这个词。",
+   "exampleMeaning": "Cùng học từ “贪婪”: lòng tham không đáy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tānlán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逆",
+   "meaning": "trái ngược, nghịch",
+   "example": "倒行逆施。",
+   "exampleMeaning": "Làm ngược lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学历",
+   "meaning": "quá trình học",
+   "example": "我们来学“学历”这个词。",
+   "exampleMeaning": "Cùng học từ “学历”: quá trình học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuélì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "的",
+    "工资",
+    "被",
+    "削减",
+    "到",
+    "最",
+    "低",
+    "程度"
+   ],
+   "reading": "tā de gōngzī bèi xuējiǎn dào zuì dī chéngdù",
+   "meaning": "Lương của nó bị cắt giảm tới mức thấp nhất."
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "我",
+    "看见",
+    "了",
+    "马",
+    "库",
+    "斯",
+    "的",
+    "房子"
+   ],
+   "reading": "wǒ kànjiàn le mǎ kù sī de fángzi",
+   "meaning": "Tôi đã thấy nhà của Marcus."
+  },
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "拒绝",
+    "他",
+    "吃",
+    "晚饭",
+    "的",
+    "邀请"
+   ],
+   "reading": "wǒ huì jùjué tā chī wǎnfàn de yāoqǐng",
+   "meaning": "Tôi từ chối lời mời cơm tối của anh ấy."
+  }
+ ],
+ "issues": []
+}

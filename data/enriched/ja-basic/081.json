@@ -1,0 +1,332 @@
+{
+ "lesson": 81,
+ "draft": true,
+ "words": [
+  {
+   "term": "誤り",
+   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "example": "私は自分の誤りを認める。",
+   "exampleMeaning": "Tôi thừa nhận sai lầm của chính mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "選択",
+   "meaning": "sự lựa, sự chọn, sự lựa chọn",
+   "example": "他にどんな選択肢があるの？",
+   "exampleMeaning": "Tôi còn có sự chọn lựa nào khác nữa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "過去",
+   "meaning": "quá",
+   "example": "過去の動作については過去形を用います。",
+   "exampleMeaning": "Thì quá khứ được sử dụng khi nói về những hành động trong quá khứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一人一人",
+   "meaning": "mỗi",
+   "example": "国民の一人一人が今日ほど政治といふものに関心をもつてゐる時代は未だ嘗てないだらうと思ふ。",
+   "exampleMeaning": "Tôi cho rằng thời đại mà mỗi người dân đều quan tâm đến chính trị như bây giờ, là chưa từng có tiền lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "哀れ",
+   "meaning": "không tự lo liệu được, không tự lực được",
+   "example": "「哀れ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “哀れ”: không tự lo liệu được, không tự lực được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喜び",
+   "meaning": "niềm vui",
+   "example": "他人の悲しみや喜びが本当にわかる人はいない。",
+   "exampleMeaning": "Không có người nào thật sự hiểu được niềm vui và nỗi buồn của người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暖まる",
+   "meaning": "làm nóng",
+   "example": "「暖まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暖まる”: làm nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "疑う",
+   "meaning": "nghi ngờ, ngờ vực",
+   "example": "「疑う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “疑う”: nghi ngờ, ngờ vực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "炊く",
+   "meaning": "sôi",
+   "example": "「炊く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “炊く”: sôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救助",
+   "meaning": "sự giảm nhẹ, sự bớt đi",
+   "example": "「救助」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “救助”: sự giảm nhẹ, sự bớt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "等しい",
+   "meaning": "ngang, bằng",
+   "example": "「等しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “等しい”: ngang, bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伸ばす",
+   "meaning": "duỗi thẳng (tay, chân... )",
+   "example": "「伸ばす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伸ばす”: duỗi thẳng (tay, chân... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "礼",
+   "meaning": "cái cung",
+   "example": "衣食足りて礼節を知る。",
+   "exampleMeaning": "Phú quý sinh lễ nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "残す",
+   "meaning": "để lại, bỏ lại, bỏ quên",
+   "example": "「残す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “残す”: để lại, bỏ lại, bỏ quên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中身",
+   "meaning": "nội dung",
+   "example": "箱の中身は何？",
+   "exampleMeaning": "Bên trong cái hộp có gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "桜",
+   "meaning": "hoa anh đào",
+   "example": "桜の花を見に来ました。",
+   "exampleMeaning": "Tôi đến để ngắm hoa anh đào.",
+   "emoji": "🌸",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "女子",
+   "meaning": "đàn bà, phụ nữ",
+   "example": "私たちの先生は女子だけをえこひいきする。",
+   "exampleMeaning": "Giáo viên của chúng tôi chỉ thiên vị những học sinh nữ.",
+   "emoji": "👩",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全員",
+   "meaning": "tất cả mọi người, ai ai",
+   "example": "社長は僕たち全員に一日休みをくれた。",
+   "exampleMeaning": "Giám đốc cho tất cả chúng tôi nghỉ một ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "最中",
+   "meaning": "giữa",
+   "example": "私の妻が、貧乏の最中、子供を産んで、寝ている時、私が、幾日か、飯菜を作って、その料理の種類の豊富さと味のよさとに、びっくりさせたものである。",
+   "exampleMeaning": "Vợ tôi sinh con trong lúc chúng tôi nghèo khổ nhất. Trong lúc vợ tôi ngủ, tôi nấu ăn trong vài ngày, và khiến vợ tôi ngạc nhiên bởi sự đa dạng các món ăn cũng như mùi vị của chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "肌",
+   "meaning": "da, bì",
+   "example": "２０歳を過ぎたらお肌の曲がり角って知らないの？毎日のお手入れを怠ったらだめよ。",
+   "exampleMeaning": "Cậu có biết là quá 20 tuổi thì da sẽ bắt đầu lão hóa không? Cậu phải chú ý chăm sóc da hàng ngày, không được bỏ bê đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "自分",
+    "の",
+    "誤りを認める"
+   ],
+   "reading": "わたしはじぶんのあやまりをみとめる",
+   "meaning": "Tôi thừa nhận sai lầm của chính mình."
+  },
+  {
+   "tokens": [
+    "失礼",
+    "です",
+    "が",
+    "この",
+    "席",
+    "は",
+    "空いています",
+    "か"
+   ],
+   "reading": "しつれいですがこのせきはあいていますか",
+   "meaning": "Cho hỏi chỗ này có ai ngồi chưa?"
+  },
+  {
+   "tokens": [
+    "君",
+    "が",
+    "とても",
+    "失礼",
+    "だから",
+    "殴って",
+    "やり",
+    "たい",
+    "よ"
+   ],
+   "reading": "きみがとてもしつれいだからなぐってやりたいよ",
+   "meaning": "Bạn cực kỳ thô lỗ, nên tôi muốn đấm bạn lắm rồi đấy."
+  },
+  {
+   "tokens": [
+    "誰か",
+    "を",
+    "じろじろ見る",
+    "こと",
+    "は",
+    "失礼な",
+    "こと",
+    "です"
+   ],
+   "reading": "だれかをじろじろみることはしつれいなことです",
+   "meaning": "Nhìn chằm chằm vào ai đó là một hành vi thô lỗ."
+  },
+  {
+   "tokens": [
+    "座り",
+    "な",
+    "よ"
+   ],
+   "reading": "すわりなよ",
+   "meaning": "Cứ ngồi nhé."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,342 @@
+{
+ "lesson": 63,
+ "draft": true,
+ "words": [
+  {
+   "term": "直流",
+   "meaning": "dòng điện một chiều",
+   "example": "「直流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “直流”: dòng điện một chiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用途",
+   "meaning": "sự dùng",
+   "example": "「用途」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “用途”: sự dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高等学校",
+   "meaning": "phòng nghỉ cho học sinh",
+   "example": "「高等学校」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “高等学校”: phòng nghỉ cho học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着替える",
+   "meaning": "đổi, thay, thay đổi",
+   "example": "「着替える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “着替える”: đổi, thay, thay đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ハンドル",
+   "meaning": "cán, tay cầm, móc quai",
+   "example": "「ハンドル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ハンドル”: cán, tay cầm, móc quai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分数",
+   "meaning": "phân số",
+   "example": "「分数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分数”: phân số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アイデア",
+   "meaning": "quan niệm, tư tưởng, ý tưởng",
+   "example": "それはいいアイデアだ。",
+   "exampleMeaning": "Đó là một ý kiến hay!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あれこれ",
+   "meaning": "xung quanh",
+   "example": "「あれこれ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “あれこれ”: xung quanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "素人",
+   "meaning": "thường dân",
+   "example": "「素人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素人”: thường dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "占う",
+   "meaning": "nói trước",
+   "example": "「占う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “占う”: nói trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "姪",
+   "meaning": "cháu gái (con của anh, chị, em)",
+   "example": "最前列で絵を描いている女の子は私の姪です。",
+   "exampleMeaning": "Cô gái đang vẽ tranh ở hàng đầu tiên là cháu gái của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "農薬",
+   "meaning": "sản phẩm nông hóa học",
+   "example": "「農薬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農薬”: sản phẩm nông hóa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "懸命",
+   "meaning": "sự ham, sự háo hức, sự hâm hở",
+   "example": "君は一生懸命に努力しさえすればよい。",
+   "exampleMeaning": "Chỉ cần em cố gắng một cách nghiêm túc là được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "液体",
+   "meaning": "lỏng",
+   "example": "この透明な液体には毒が含まれている。",
+   "exampleMeaning": "Thứ chất lỏng trong suốt này có độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学術",
+   "meaning": "khoa học",
+   "example": "「学術」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学術”: khoa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真っ白",
+   "meaning": "để trống, để trắng (tờ giấy...)",
+   "example": "「真っ白」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真っ白”: để trống, để trắng (tờ giấy...).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "灰色",
+   "meaning": "xám",
+   "example": "「灰色」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “灰色”: xám.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "プログラム",
+   "meaning": "chương trình",
+   "example": "このプログラムはＤＯＳモードでは作動しません。",
+   "exampleMeaning": "Chương trình này không thể chạy ở chế độ DOS.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "補う",
+   "meaning": "bù, đền bù, bồi thường",
+   "example": "「補う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “補う”: bù, đền bù, bồi thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気圧",
+   "meaning": "áp suất khí quyển",
+   "example": "「気圧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気圧”: áp suất khí quyển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "透明な",
+    "液体",
+    "には",
+    "毒",
+    "が",
+    "含まれている"
+   ],
+   "reading": "このとうめいなえきたいにはどくがふくまれている",
+   "meaning": "Thứ chất lỏng trong suốt này có độc."
+  },
+  {
+   "tokens": [
+    "今後",
+    "もっと",
+    "一生懸命",
+    "勉強する",
+    "と",
+    "決意",
+    "した"
+   ],
+   "reading": "こんごもっといっしょうけんめいべんきょうするとけついした",
+   "meaning": "Tôi đã quyết định kể từ bây giờ sẽ học chăm chỉ hơn."
+  },
+  {
+   "tokens": [
+    "最前列",
+    "で",
+    "絵",
+    "を",
+    "描いている",
+    "女の子",
+    "は",
+    "私の",
+    "姪",
+    "です"
+   ],
+   "reading": "さいぜんれつでえをかいているおんなのこはわたしのめいです",
+   "meaning": "Cô gái đang vẽ tranh ở hàng đầu tiên là cháu gái của tôi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "試験",
+    "に",
+    "合格",
+    "する",
+    "ために",
+    "一生懸命",
+    "勉強した"
+   ],
+   "reading": "かれはしけんにごうかくするためにいっしょうけんめいべんきょうした",
+   "meaning": "Để có thể đỗ kỳ thi, anh ấy đã học hành chăm chỉ."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "もっと",
+    "一生懸命",
+    "勉強する",
+    "ように",
+    "弟",
+    "を",
+    "説得",
+    "した"
+   ],
+   "reading": "わたしはもっといっしょうけんめいべんきょうするようにおとうとをせっとくした",
+   "meaning": "Tôi đã thuyết phục em trai cố gắn học hơn nữa."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,322 @@
+{
+ "lesson": 145,
+ "draft": true,
+ "words": [
+  {
+   "term": "幸好",
+   "meaning": "may mà",
+   "example": "幸好人人动手，卫生才搞得这么好。",
+   "exampleMeaning": "May mà mọi người chung tay vấn đề vệ sinh mới làm tốt như vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnghǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "香水",
+   "meaning": "nước hoa",
+   "example": "我们来学“香水”这个词。",
+   "exampleMeaning": "Cùng học từ “香水”: nước hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "多余",
+   "meaning": "thừa, vô dụng, không cần thiết",
+   "example": "事实证明了我们的担心是多余的。",
+   "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "货物",
+   "meaning": "hàng",
+   "example": "我们来学“货物”这个词。",
+   "exampleMeaning": "Cùng học từ “货物”: hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "走廊",
+   "meaning": "hành lang (dải đất hẹp)",
+   "example": "河西走廊",
+   "exampleMeaning": "Hành lang Hà Tây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒuláng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人质",
+   "meaning": "con tin",
+   "example": "我们来学“人质”这个词。",
+   "exampleMeaning": "Cùng học từ “人质”: con tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嘴唇",
+   "meaning": "môi",
+   "example": "我们来学“嘴唇”这个词。",
+   "exampleMeaning": "Cùng học từ “嘴唇”: môi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǐchún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "训",
+   "meaning": "chuẩn mực",
+   "example": "训了他一顿。",
+   "exampleMeaning": "Dạy cho nó một trận",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "强制",
+   "meaning": "cưỡng chế",
+   "example": "强制执行。",
+   "exampleMeaning": "Cưỡng chế chấp hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiángzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "愚蠢",
+   "meaning": "ngu xuẩn",
+   "example": "这种做法太愚蠢。",
+   "exampleMeaning": "Cách làm này quá ngu xuẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúchǔn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "盗窃",
+   "meaning": "trộm cắp",
+   "example": "盗窃公物",
+   "exampleMeaning": "Trộm cắp của công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàoqiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "设定",
+   "meaning": "đề ra",
+   "example": "我们来学“设定”这个词。",
+   "exampleMeaning": "Cùng học từ “设定”: đề ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奔",
+   "meaning": "chạy",
+   "example": "他順着小道直奔那山头",
+   "exampleMeaning": "Anh ta theo con đường nhỏ đến thẳng ngọn núi đó",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自私",
+   "meaning": "ích kỷ",
+   "example": "他有时也可能是自私的和卑鄙的。",
+   "exampleMeaning": "Anh ta có lúc cũng là người ích kỷ đê tiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìsī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凑",
+   "meaning": "sáp đến, tụ tập, tập hợp",
+   "example": "大家凑到这里来听他讲故事。",
+   "exampleMeaning": "Mọi người tụ tập đến đây nghe anh ta kể chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "còu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "警惕",
+   "meaning": "cảnh giác",
+   "example": "提高警惕，保卫祖国。",
+   "exampleMeaning": "Đề cao cảnh giác, bảo vệ tổ quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐngtì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "降临",
+   "meaning": "buông xuống",
+   "example": "夜色降临。",
+   "exampleMeaning": "Màn đêm buông xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànglín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "截",
+   "meaning": "chặn, ngăn chặn",
+   "example": "快把马截住，别让它跑了。",
+   "exampleMeaning": "Nhanh chặn con ngựa lại, đừng để nó chạy nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jié",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生死",
+   "meaning": "sống chết",
+   "example": "生死与共(形容情谊很深)。",
+   "exampleMeaning": "Sống chết có nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngsǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "膝盖",
+   "meaning": "đầu gối",
+   "example": "我们来学“膝盖”这个词。",
+   "exampleMeaning": "Cùng học từ “膝盖”: đầu gối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīgài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "竞赛",
+    "是",
+    "爱国"
+   ],
+   "reading": "jìngsài shì àiguó",
+   "meaning": "Thi đua là yêu nước."
+  },
+  {
+   "tokens": [
+    "冬季",
+    "快",
+    "来",
+    "了"
+   ],
+   "reading": "dōngjì kuài lái le",
+   "meaning": "Mùa đông đang tới."
+  },
+  {
+   "tokens": [
+    "您",
+    "要",
+    "赶快",
+    "些"
+   ],
+   "reading": "nín yào gǎnkuài xiē",
+   "meaning": "Bạn phải nhanh lên."
+  },
+  {
+   "tokens": [
+    "我",
+    "爱好",
+    "翻译"
+   ],
+   "reading": "wǒ àihào fānyì",
+   "meaning": "Mình rất thích dịch thuật."
+  }
+ ],
+ "issues": []
+}

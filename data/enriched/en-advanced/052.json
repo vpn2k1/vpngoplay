@@ -1,0 +1,327 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "sack",
+   "meaning": "bao",
+   "example": "It is hard for an empty sack to stand straight.",
+   "exampleMeaning": "Phú quý sinh lễ nghĩa.",
+   "emoji": "",
+   "ipa": "/ˈsæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "assault",
+   "meaning": "cuộc tấn công, cuộc đột kích",
+   "example": "to take (carry) a post by assault",
+   "exampleMeaning": "Tấn công, chiếm đồn",
+   "emoji": "",
+   "ipa": "/əˈsɔlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "presumably",
+   "meaning": "có thể đoán chừng",
+   "example": "Let's learn the word \"presumably\".",
+   "exampleMeaning": "Cùng học từ “presumably”: có thể đoán chừng.",
+   "emoji": "",
+   "ipa": "/prəˈzuməbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "knowingly",
+   "meaning": "chủ tâm, cố ý, có dụng ý",
+   "example": "Let's learn the word \"knowingly\".",
+   "exampleMeaning": "Cùng học từ “knowingly”: chủ tâm, cố ý, có dụng ý.",
+   "emoji": "",
+   "ipa": "/ˈnoʊɪŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lobby",
+   "meaning": "hành lang",
+   "example": "Meet me at the lobby of the Imperial Hotel at 6:30 p.m.",
+   "exampleMeaning": "Gặp tôi tại hành lang của khách sạn Hoàng Gia vào lúc 6:30 tối.",
+   "emoji": "",
+   "ipa": "/ˈlɑbi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cord",
+   "meaning": "dây thừng nhỏ",
+   "example": "Let's learn the word \"cord\".",
+   "exampleMeaning": "Cùng học từ “cord”: dây thừng nhỏ.",
+   "emoji": "",
+   "ipa": "/ˈkɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cooperative",
+   "meaning": "hợp tác",
+   "example": "Let's learn the word \"cooperative\".",
+   "exampleMeaning": "Cùng học từ “cooperative”: hợp tác.",
+   "emoji": "",
+   "ipa": "/koʊˈɑpɜrˌeɪtɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "simultaneous",
+   "meaning": "đồng thời, cùng một lúc",
+   "example": "Simultaneous translation broke linguistic walls.",
+   "exampleMeaning": "Dịch tức thời đã phá vỡ bức tường ngôn ngữ.",
+   "emoji": "",
+   "ipa": "/ˌsaɪməlˈteɪniəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lawmaker",
+   "meaning": "người lập pháp, người làm luật",
+   "example": "Let's learn the word \"lawmaker\".",
+   "exampleMeaning": "Cùng học từ “lawmaker”: người lập pháp, người làm luật.",
+   "emoji": "",
+   "ipa": "/ˈlɔˌmeɪkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "walker",
+   "meaning": "người đi bộ",
+   "example": "Let's learn the word \"walker\".",
+   "exampleMeaning": "Cùng học từ “walker”: người đi bộ.",
+   "emoji": "",
+   "ipa": "/ˈwɔkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "adorn",
+   "meaning": "trang trí",
+   "example": "I like to adorn my room with flowers.",
+   "exampleMeaning": "Tôi thích trang trí phòng bằng hoa.",
+   "emoji": "",
+   "ipa": "/əˈdɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "correspond",
+   "meaning": "xứng, tương ứng, phù hợp",
+   "example": "expenses do not correspond to income",
+   "exampleMeaning": "Chi tiêu không phù hợp với thu nhập",
+   "emoji": "",
+   "ipa": "/ˌkɔrəˈspɑnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "competence",
+   "meaning": "năng lực, khả năng",
+   "example": "this does not fall within the competence of the cow!",
+   "exampleMeaning": "Việc này không thuộc thẩm quyền của toà",
+   "emoji": "",
+   "ipa": "/ˈkɑmpətɪns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "impressed",
+   "meaning": "gây ấn tượng",
+   "example": "I was greatly impressed by the speech.",
+   "exampleMeaning": "Tôi rất ấn tượng về bài thuyết trình đó.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈprɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rocket",
+   "meaning": "tên lửa",
+   "example": "The rocket put a communications satellite into orbit.",
+   "exampleMeaning": "Tên lửa đã đưa vệ tinh viễn thông vào quỹ đạo.",
+   "emoji": "🚀",
+   "ipa": "/ˈrɒk.ɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reinforce",
+   "meaning": "tăng cường, củng cố",
+   "example": "to reinforce troops at the from",
+   "exampleMeaning": "Tăng viện cho mặt trận",
+   "emoji": "",
+   "ipa": "/ˌriɪnˈfɔrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "syllable",
+   "meaning": "âm tiết",
+   "example": "not a syllable!",
+   "exampleMeaning": "Không được hé răng!, không được nói tí gì!",
+   "emoji": "",
+   "ipa": "/ˈsɪləbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tuition",
+   "meaning": "sự dạy học, sự giảng dạy",
+   "example": "Let's learn the word \"tuition\".",
+   "exampleMeaning": "Cùng học từ “tuition”: sự dạy học, sự giảng dạy.",
+   "emoji": "",
+   "ipa": "/tjuˈɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disapproval",
+   "meaning": "sự không tán thành, sự phản đối",
+   "example": "Let's learn the word \"disapproval\".",
+   "exampleMeaning": "Cùng học từ “disapproval”: sự không tán thành, sự phản đối.",
+   "emoji": "",
+   "ipa": "/dɪsəˈpruvəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dropout",
+   "meaning": "chữ ngoài",
+   "example": "Let's learn the word \"dropout\".",
+   "exampleMeaning": "Cùng học từ “dropout”: chữ ngoài.",
+   "emoji": "",
+   "ipa": "/ˈdrɑˌpaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "very",
+    "impressed"
+   ],
+   "reading": "",
+   "meaning": "Tôi rất ấn tượng."
+  },
+  {
+   "tokens": [
+    "The",
+    "rocket",
+    "went",
+    "up",
+    "smoothly"
+   ],
+   "reading": "",
+   "meaning": "Tên lửa êm ái bay lên."
+  },
+  {
+   "tokens": [
+    "Simultaneous",
+    "translation",
+    "broke",
+    "linguistic",
+    "walls"
+   ],
+   "reading": "",
+   "meaning": "Dịch tức thời đã phá vỡ bức tường ngôn ngữ."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "greatly",
+    "impressed",
+    "by",
+    "the",
+    "speech"
+   ],
+   "reading": "",
+   "meaning": "Tôi rất ấn tượng về bài thuyết trình đó."
+  },
+  {
+   "tokens": [
+    "The",
+    "rocket",
+    "put",
+    "a",
+    "communications",
+    "satellite",
+    "into",
+    "orbit"
+   ],
+   "reading": "",
+   "meaning": "Tên lửa đã đưa vệ tinh viễn thông vào quỹ đạo."
+  }
+ ],
+ "issues": []
+}

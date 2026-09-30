@@ -1,0 +1,327 @@
+{
+ "lesson": 4,
+ "draft": true,
+ "words": [
+  {
+   "term": "臨む",
+   "meaning": "sự giám thị",
+   "example": "「臨む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “臨む”: sự giám thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "駆ける",
+   "meaning": "chạy",
+   "example": "「駆ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “駆ける”: chạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遂に",
+   "meaning": "cuối cùng, sau cùng",
+   "example": "何年も女遊びをした後、トムは遂にメアリーと結婚して身を落ち着けた。",
+   "exampleMeaning": "Sau nhiều năm sống lăng nhăng, Tom cuối cùng đã kết hôn và ổn định cuộc sống với Mary.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "他人",
+   "meaning": "người lạ mặt, người xa lạ",
+   "example": "遠い親戚より近くの他人。",
+   "exampleMeaning": "Bán anh em xa mua láng giềng gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "それとも",
+   "meaning": "hoặc, hay là",
+   "example": "先生ですか？それとも生徒？",
+   "exampleMeaning": "Bạn là giáo viên hay là học sinh?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "見舞い",
+   "meaning": "sự đi thăm, sự thăm hỏi, sự thăm viếng",
+   "example": "私は妻を見舞いに病院に行った。",
+   "exampleMeaning": "Tôi đã đến bệnh viện thăm vợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支出",
+   "meaning": "sự tiêu dùng",
+   "example": "「支出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “支出”: sự tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "滅多に",
+   "meaning": "hiếm, hiếm có, ít có",
+   "example": "「滅多に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “滅多に”: hiếm, hiếm có, ít có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生年月日",
+   "meaning": "ngày tháng năm sinh",
+   "example": "「生年月日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生年月日”: ngày tháng năm sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "野党",
+   "meaning": "sự đối lập, sự đối nhau",
+   "example": "「野党」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “野党”: sự đối lập, sự đối nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "骨折",
+   "meaning": "bone fracture (EN)",
+   "example": "「骨折」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “骨折”: bone fracture (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接ぐ",
+   "meaning": "nối lại, chắp, ghép",
+   "example": "「接ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接ぐ”: nối lại, chắp, ghép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "インク",
+   "meaning": "mực (để viết, in)",
+   "example": "「インク」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “インク”: mực (để viết, in).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最高",
+   "meaning": "tối cao",
+   "example": "彼は紛れもなく村の最高齢者です。",
+   "exampleMeaning": "Chắc chắn ông ta là người cao tuổi nhất thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "額",
+   "meaning": "mày, lông mày",
+   "example": "彼は額に手を当てた。",
+   "exampleMeaning": "Anh ấy chạm tay lên trán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "タイプライター",
+   "meaning": "máy chữ",
+   "example": "「タイプライター」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “タイプライター”: máy chữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "整理",
+   "meaning": "sự tuyển chọn",
+   "example": "「整理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “整理”: sự tuyển chọn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省く",
+   "meaning": "bỏ sót, bỏ quên, bỏ đi (một từ... )",
+   "example": "「省く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “省く”: bỏ sót, bỏ quên, bỏ đi (một từ... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成年",
+   "meaning": "phần lớn, phần đông, đa số",
+   "example": "この映画は大人向けで未成年禁止です。",
+   "exampleMeaning": "Bộ phim này chỉ dành cho người lớn, cấm trẻ vị thành niên xem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "度",
+   "meaning": "thời, thời buổi, mùa",
+   "example": "今度は彼は成功した。",
+   "exampleMeaning": "Lần này anh ta đã thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他人",
+    "より",
+    "身内"
+   ],
+   "reading": "たにんよりみうち",
+   "meaning": "Một giọt máu đào hơn ao nước lã."
+  },
+  {
+   "tokens": [
+    "今度",
+    "は",
+    "彼",
+    "は",
+    "成功",
+    "した"
+   ],
+   "reading": "こんどはかれはせいこうした",
+   "meaning": "Lần này anh ta đã thành công."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "額",
+    "に",
+    "手",
+    "を",
+    "当てた"
+   ],
+   "reading": "かれはひたいにてをあてた",
+   "meaning": "Anh ấy chạm tay lên trán."
+  },
+  {
+   "tokens": [
+    "ほんの",
+    "一度",
+    "会った",
+    "だけ"
+   ],
+   "reading": "ほんのいちどあっただけ",
+   "meaning": "Tôi chỉ gặp anh ta có một lần."
+  },
+  {
+   "tokens": [
+    "多額",
+    "の",
+    "金",
+    "が",
+    "その",
+    "橋",
+    "に",
+    "費やされた"
+   ],
+   "reading": "たがくのきんがそのはしについやされた",
+   "meaning": "Một số lượng lớn đã được đổ vào cây cầu đó."
+  }
+ ],
+ "issues": []
+}

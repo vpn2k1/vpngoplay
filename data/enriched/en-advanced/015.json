@@ -1,0 +1,332 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "tuberculosis",
+   "meaning": "bệnh lao",
+   "example": "Let's learn the word \"tuberculosis\".",
+   "exampleMeaning": "Cùng học từ “tuberculosis”: bệnh lao.",
+   "emoji": "",
+   "ipa": "/təˌbɜrkjəˈloʊsɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "optimist",
+   "meaning": "người lạc quan",
+   "example": "Let's learn the word \"optimist\".",
+   "exampleMeaning": "Cùng học từ “optimist”: người lạc quan.",
+   "emoji": "",
+   "ipa": "/ˈɑptəmɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stagger",
+   "meaning": "sự lảo đảo",
+   "example": "Let's learn the word \"stagger\".",
+   "exampleMeaning": "Cùng học từ “stagger”: sự lảo đảo.",
+   "emoji": "",
+   "ipa": "/ˈstæɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "contaminate",
+   "meaning": "làm bẩn, làm ô uế",
+   "example": "Let's learn the word \"contaminate\".",
+   "exampleMeaning": "Cùng học từ “contaminate”: làm bẩn, làm ô uế.",
+   "emoji": "",
+   "ipa": "/kənˈtæməˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hospitalize",
+   "meaning": "đưa vào bệnh viện, nằm bệnh viện",
+   "example": "Let's learn the word \"hospitalize\".",
+   "exampleMeaning": "Cùng học từ “hospitalize”: đưa vào bệnh viện, nằm bệnh viện.",
+   "emoji": "",
+   "ipa": "/ˈhɔˌspɪtəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trivial",
+   "meaning": "thường, bình thường, tầm thường",
+   "example": "He easily gets angry at trivial things.",
+   "exampleMeaning": "Anh ta dễ nổi cáu vì những chuyện vặt.",
+   "emoji": "",
+   "ipa": "/ˈtrɪviəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prefect",
+   "meaning": "quận trưởng",
+   "example": "Let's learn the word \"prefect\".",
+   "exampleMeaning": "Cùng học từ “prefect”: quận trưởng.",
+   "emoji": "",
+   "ipa": "/ˈpriˌfɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unwise",
+   "meaning": "không khôn ngoan, khờ, dại dột",
+   "example": "Let's learn the word \"unwise\".",
+   "exampleMeaning": "Cùng học từ “unwise”: không khôn ngoan, khờ, dại dột.",
+   "emoji": "",
+   "ipa": "/ənˈwaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lick",
+   "meaning": "liếm",
+   "example": "You absolutely must not lick the floor.",
+   "exampleMeaning": "Tuyệt đối không được liếm sàn.",
+   "emoji": "",
+   "ipa": "/lɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "leopard",
+   "meaning": "con báo",
+   "example": "A leopard can't change his spots.",
+   "exampleMeaning": "Nhân gian dễ đổi, bản tính khó rời.",
+   "emoji": "🐆",
+   "ipa": "/ˈlɛpɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "preindustrial",
+   "meaning": "tiền công nghiệp",
+   "example": "Let's learn the word \"preindustrial\".",
+   "exampleMeaning": "Cùng học từ “preindustrial”: tiền công nghiệp.",
+   "emoji": "",
+   "ipa": "/ˈpriˌɪnˈdəstriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shatter",
+   "meaning": "làm tan vỡ, làm tiêu tan",
+   "example": "to shatter somebody's hope",
+   "exampleMeaning": "Làm tiêu tan hy vọng của ai",
+   "emoji": "",
+   "ipa": "/ˈʃætɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "penalty",
+   "meaning": "hình phạt, tiền phạt",
+   "example": "Let's learn the word \"penalty\".",
+   "exampleMeaning": "Cùng học từ “penalty”: hình phạt, tiền phạt.",
+   "emoji": "",
+   "ipa": "/ˈpɛnəlti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outrage",
+   "meaning": "sự xúc phạm, sự làm phương hại",
+   "example": "an outrage upon justice",
+   "exampleMeaning": "Sự vi phạm công lý một cách trắng trợn",
+   "emoji": "",
+   "ipa": "/ˈaʊˌtreɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nourish",
+   "meaning": "nuôi, nuôi nấng, nuôi dưỡng",
+   "example": "Let's learn the word \"nourish\".",
+   "exampleMeaning": "Cùng học từ “nourish”: nuôi, nuôi nấng, nuôi dưỡng.",
+   "emoji": "",
+   "ipa": "/ˈnɜrɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "emphatically",
+   "meaning": "thật sự là",
+   "example": "to be most emphatically a poet",
+   "exampleMeaning": "Thật sự là một nhà thơ",
+   "emoji": "",
+   "ipa": "/ɛmˈfætɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deduce",
+   "meaning": "suy ra, luận ra, suy luận",
+   "example": "Let's learn the word \"deduce\".",
+   "exampleMeaning": "Cùng học từ “deduce”: suy ra, luận ra, suy luận.",
+   "emoji": "",
+   "ipa": "/dɪˈdus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "relaxation",
+   "meaning": "sự dịu đi, sự bớt căng thẳng",
+   "example": "to beg for a relaxation of punishment",
+   "exampleMeaning": "Xin giảm nhẹ hình phạt",
+   "emoji": "",
+   "ipa": "/ˌrilækˈseɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "greatness",
+   "meaning": "sự to lớn",
+   "example": "Let's learn the word \"greatness\".",
+   "exampleMeaning": "Cùng học từ “greatness”: sự to lớn.",
+   "emoji": "",
+   "ipa": "/ˈɡreɪtnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "taunt",
+   "meaning": "lời mắng nhiếc, lời quở trách",
+   "example": "he became a taunt to his mates",
+   "exampleMeaning": "Nó trở thành cái đích để bạn bè chế giễu",
+   "emoji": "",
+   "ipa": "/ˈtɔnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "died",
+    "from",
+    "tuberculosis"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã chết vì bệnh lao."
+  },
+  {
+   "tokens": [
+    "A",
+    "leopard",
+    "can't",
+    "change",
+    "his",
+    "spots"
+   ],
+   "reading": "",
+   "meaning": "Nhân gian dễ đổi, bản tính khó rời."
+  },
+  {
+   "tokens": [
+    "He",
+    "easily",
+    "gets",
+    "angry",
+    "at",
+    "trivial",
+    "things"
+   ],
+   "reading": "",
+   "meaning": "Anh ta dễ nổi cáu vì những chuyện vặt."
+  },
+  {
+   "tokens": [
+    "You",
+    "absolutely",
+    "must",
+    "not",
+    "lick",
+    "the",
+    "floor"
+   ],
+   "reading": "",
+   "meaning": "Tuyệt đối không được liếm sàn."
+  },
+  {
+   "tokens": [
+    "Exercise",
+    "can",
+    "help",
+    "with",
+    "relaxation",
+    "and",
+    "improve",
+    "sleep",
+    "quality"
+   ],
+   "reading": "",
+   "meaning": "Tập thể dục có thể giúp thư giãn và cải thiện chất lượng giấc ngủ."
+  }
+ ],
+ "issues": []
+}

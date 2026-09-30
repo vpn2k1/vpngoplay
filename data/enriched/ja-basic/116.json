@@ -1,0 +1,330 @@
+{
+ "lesson": 116,
+ "draft": true,
+ "words": [
+  {
+   "term": "碁",
+   "meaning": "đi, đi đến, đi tới",
+   "example": "「碁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “碁”: đi, đi đến, đi tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酸化",
+   "meaning": "sự oxy hoá",
+   "example": "二酸化炭素の量は１０％増加している。",
+   "exampleMeaning": "Lượng khí CO2 đã tăng 10 phần trăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "券",
+   "meaning": "vé",
+   "example": "「券」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “券”: vé.",
+   "emoji": "🎫",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直ちに",
+   "meaning": "*thành ngữ at",
+   "example": "こんな無意味な口論は、直ちにやめにしよう。",
+   "exampleMeaning": "Chúng ta nên dừng cuộc tranh cãi vô nghĩa này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "測る",
+   "meaning": "đo, đo lường",
+   "example": "「測る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “測る”: đo, đo lường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国語",
+   "meaning": "ngôn ngữ quốc gia",
+   "example": "外国語を学ぶのは難しい。",
+   "exampleMeaning": "Việc học một ngoại ngữ là một việc khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "虫歯",
+   "meaning": "sâu răng",
+   "example": "歯をきちんと手入れしていれば虫歯にはならない。",
+   "exampleMeaning": "Nếu chúng ta chăm sóc răng miệng thật cẩn thận thì chúng ta sẽ không bị sâu răng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "示す",
+   "meaning": "cho xem, cho thấy, trưng bày",
+   "example": "「示す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “示す”: cho xem, cho thấy, trưng bày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一度に",
+   "meaning": "cùng một lúc",
+   "example": "「一度に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一度に”: cùng một lúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かゆい",
+   "meaning": "ngứa",
+   "example": "先生、アソコがかゆいんです。",
+   "exampleMeaning": "Thầy ơi, em bị ngứa \"chỗ đó\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "劣る",
+   "meaning": "dưới",
+   "example": "「劣る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “劣る”: dưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "愛情",
+   "meaning": "lòng yêu, tình thương",
+   "example": "「愛情」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “愛情”: lòng yêu, tình thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "可",
+   "meaning": "cho phép",
+   "example": "水は生命に必要不可欠です。",
+   "exampleMeaning": "Nước không thể thiếu đối với cuộc sống chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "感情",
+   "meaning": "sự cảm động, sự xúc động, sự xúc cảm",
+   "example": "彼には人間的な感情がまったくかけている。",
+   "exampleMeaning": "Anh ta hoàn toàn vô cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "混ぜる",
+   "meaning": "trộn, trộn lẫn, pha lẫn",
+   "example": "「混ぜる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “混ぜる”: trộn, trộn lẫn, pha lẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正",
+   "meaning": "thật, thực, đúng",
+   "example": "いま、ちょうど正午です。",
+   "exampleMeaning": "Bây giờ là đúng giữa trưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "留学",
+   "meaning": "studying abroad (EN)",
+   "example": "彼女は留学する事に決めた。",
+   "exampleMeaning": "Cô ấy đã quyết định là sẽ đi du học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物音",
+   "meaning": "âm, âm thanh, tiếng",
+   "example": "「物音」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物音”: âm, âm thanh, tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清潔",
+   "meaning": "sạch, sạch sẽ",
+   "example": "「清潔」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “清潔”: sạch, sạch sẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当てる",
+   "meaning": "đánh, đấm trúng, bắn trúng",
+   "example": "「当てる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “当てる”: đánh, đấm trúng, bắn trúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "いま",
+    "ちょうど",
+    "正午",
+    "です"
+   ],
+   "reading": "いまちょうどしょうごです",
+   "meaning": "Bây giờ là đúng giữa trưa."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "留学",
+    "する",
+    "事",
+    "に",
+    "決めた"
+   ],
+   "reading": "かのじょはりゅうがくすることにきめた",
+   "meaning": "Cô ấy đã quyết định là sẽ đi du học."
+  },
+  {
+   "tokens": [
+    "先生",
+    "アソコ",
+    "が",
+    "かゆいんです"
+   ],
+   "reading": "せんせいアソコがかゆいんです",
+   "meaning": "Thầy ơi, em bị ngứa \"chỗ đó\"."
+  },
+  {
+   "tokens": [
+    "レッド",
+    "先生",
+    "が",
+    "私",
+    "に",
+    "国語",
+    "を",
+    "教え",
+    "てく",
+    "れた"
+   ],
+   "reading": "レッドせんせいがわたしにこくごをおしえてくれた",
+   "meaning": "Cô Red dạy tôi tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "水",
+    "は",
+    "生命",
+    "に",
+    "必要不可欠",
+    "です"
+   ],
+   "reading": "みずはせいめいにひつようふかけつです",
+   "meaning": "Nước không thể thiếu đối với cuộc sống chúng ta."
+  }
+ ],
+ "issues": []
+}

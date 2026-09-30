@@ -1,0 +1,332 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "局",
+   "meaning": "cục, nha, vụ",
+   "example": "郵便局は図書館の隣にある。",
+   "exampleMeaning": "Bưu điện ở ngay sát thư viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "組織",
+   "meaning": "sự tổ chức, sự cấu tạo",
+   "example": "「組織」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “組織”: sự tổ chức, sự cấu tạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "学者",
+   "meaning": "nhà khoa học",
+   "example": "鈴木氏は偉大な科学者だ。",
+   "exampleMeaning": "Ông Suzuki là một nhà khoa học vĩ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "援助",
+   "meaning": "sự cứu giúp, sự viện trợ, người giúp đỡ",
+   "example": "我々は援助しなかったので彼は自力でやり遂げた。",
+   "exampleMeaning": "Chúng tôi đã không giúp anh ta, thế nên anh ta đã tự làm điều đó một mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "血液",
+   "meaning": "máu, huyết",
+   "example": "血液型何型？",
+   "exampleMeaning": "Nhóm máu của bạn là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "未来",
+   "meaning": "tương lai",
+   "example": "予知能力とは霊力を使って、未来に起こることがらについて知ること。",
+   "exampleMeaning": "Năng lực tiên tri là năng lực sử dụng sức mạnh tâm linh để dự đoán những chuyện xảy ra trong tương lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "姓",
+   "meaning": "tên họ, họ",
+   "example": "「姓」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “姓”: tên họ, họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "湾",
+   "meaning": "vịnh",
+   "example": "湾岸諸国は常に戦争の脅威にさらされている。",
+   "exampleMeaning": "Các nước vùng vịnh luôn bị chiến tranh đe dọa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "延ばす",
+   "meaning": "duỗi thẳng (tay, chân... )",
+   "example": "「延ばす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “延ばす”: duỗi thẳng (tay, chân... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稲",
+   "meaning": "rice-plant (EN)",
+   "example": "「稲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “稲”: rice-plant (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綴じる",
+   "meaning": "trói, buộc, bó lại",
+   "example": "「綴じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “綴じる”: trói, buộc, bó lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活動",
+   "meaning": "hoạt động",
+   "example": "彼は慈善活動で忙しい。",
+   "exampleMeaning": "Anh ấy bận rộn tham gia các hoạt động từ thiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "合図",
+   "meaning": "dấu, dấu hiệu, ký hiệu",
+   "example": "「合図」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合図”: dấu, dấu hiệu, ký hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "単に",
+   "meaning": "chỉ là",
+   "example": "リストのデータは、自動集計機能を使って簡単に集計することができます。",
+   "exampleMeaning": "Dữ liệu list có thể dễ dàng được tổng hợp bằng cách sử dụng chức năng tổng hợp tự động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "瞬間",
+   "meaning": "chốc, lúc, lát",
+   "example": "彼は、何かをするとき最後の瞬間まで待つというのが好きではない。",
+   "exampleMeaning": "Anh ấy không thích nước đến chân mới nhảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "プラス",
+   "meaning": "cộng: (về toán học) sự đọc của dấu +",
+   "example": "「プラス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “プラス”: cộng: (về toán học) sự đọc của dấu +.",
+   "emoji": "➕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "あいにく",
+   "meaning": "một cách đáng tiếc, không may",
+   "example": "あいにく私はお金を持っていない。",
+   "exampleMeaning": "Rất tiếc là tôi không mang tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脳",
+   "meaning": "óc, não",
+   "example": "私は脳挫傷を起こした。",
+   "exampleMeaning": "Tôi bị giập não.",
+   "emoji": "🧠",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "我々",
+   "meaning": "chúng tôi, chúng ta",
+   "example": "牛は我々に牛乳を供給する。",
+   "exampleMeaning": "Bò cho chúng ta sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毛布",
+   "meaning": "mền, chăn",
+   "example": "「毛布」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “毛布”: mền, chăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "慈善",
+    "活動",
+    "で",
+    "忙しい"
+   ],
+   "reading": "かれはじぜんかつどうでいそがしい",
+   "meaning": "Anh ấy bận rộn tham gia các hoạt động từ thiện."
+  },
+  {
+   "tokens": [
+    "鈴木",
+    "氏",
+    "は",
+    "偉大",
+    "な",
+    "科学",
+    "者",
+    "だ"
+   ],
+   "reading": "すずきしはいだいなかがくしゃだ",
+   "meaning": "Ông Suzuki là một nhà khoa học vĩ đại."
+  },
+  {
+   "tokens": [
+    "牛",
+    "は",
+    "我々",
+    "に",
+    "牛乳",
+    "を",
+    "供給",
+    "する"
+   ],
+   "reading": "うしはわれわれにぎゅうにゅうをきょうきゅうする",
+   "meaning": "Bò cho chúng ta sữa."
+  },
+  {
+   "tokens": [
+    "あいにく",
+    "私",
+    "は",
+    "お金",
+    "を",
+    "持っていない"
+   ],
+   "reading": "あいにくわたしはおかねをもっていない",
+   "meaning": "Rất tiếc là tôi không mang tiền."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "あちらこちら",
+    "に",
+    "走り回った"
+   ],
+   "reading": "われわれはあちらこちらにはしりまわった",
+   "meaning": "Chúng tôi đã chạy đi chạy lại."
+  }
+ ],
+ "issues": []
+}

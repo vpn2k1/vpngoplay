@@ -1,0 +1,319 @@
+{
+ "lesson": 75,
+ "draft": true,
+ "words": [
+  {
+   "term": "vehicle",
+   "meaning": "xe, xe cộ",
+   "example": "Her husband died in a tragic motor vehicle accident.",
+   "exampleMeaning": "Chồng cô ấy chết trong một vụ tai nạn xe cơ giới thảm khốc.",
+   "emoji": "",
+   "ipa": "/ˈviː.ɪ.kəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "maple",
+   "meaning": "cây thích, cây phong",
+   "example": "sugar maple tree",
+   "exampleMeaning": "Cây phong đường.",
+   "emoji": "",
+   "ipa": "/ˈmeɪpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wizard",
+   "meaning": "kỳ lạ",
+   "example": "I am no wizard",
+   "exampleMeaning": "Tôi có tài cán gì đâu",
+   "emoji": "",
+   "ipa": "/ˈwɪz.əd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pain",
+   "meaning": "đau",
+   "example": "does your tooth pain you?",
+   "exampleMeaning": "Răng anh có làm anh đau không?",
+   "emoji": "",
+   "ipa": "/ˈpeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "entity",
+   "meaning": "thực thể",
+   "example": "Let's learn the word \"entity\".",
+   "exampleMeaning": "Cùng học từ “entity”: thực thể.",
+   "emoji": "",
+   "ipa": "/ˈɛntəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tornado",
+   "meaning": "vòi rồng, bão táp",
+   "example": "tornado of cheers",
+   "exampleMeaning": "Tiếng hoan hô như bão táp, tiếng hoan hô như sấm dậy",
+   "emoji": "🌪",
+   "ipa": "/tɔː(r)ˈneɪ.dəʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "assign",
+   "meaning": "ấn định, định",
+   "example": "to assign the day for a journey",
+   "exampleMeaning": "Ấn định ngày cho cuộc hành trình",
+   "emoji": "",
+   "ipa": "/əˈsaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "overwork",
+   "meaning": "làm việc quá sức",
+   "example": "Let's learn the word \"overwork\".",
+   "exampleMeaning": "Cùng học từ “overwork”: làm việc quá sức.",
+   "emoji": "",
+   "ipa": "/ˌoʊvɜrˈwɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "triumph",
+   "meaning": "chiến thắng, giành thắng lợi lớn",
+   "example": "great was his triumph on hearing...",
+   "exampleMeaning": "Nó rất hân hoan khi được tin...",
+   "emoji": "",
+   "ipa": "/ˈtraɪəmf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lessen",
+   "meaning": "làm nhỏ đi, làm bé đi, làm giảm đi",
+   "example": "to lessen the strain",
+   "exampleMeaning": "Giảm sự căng thẳng",
+   "emoji": "",
+   "ipa": "/ˈlɛsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disappointment",
+   "meaning": "sự chán ngán, sự thất vọng",
+   "example": "Let's learn the word \"disappointment\".",
+   "exampleMeaning": "Cùng học từ “disappointment”: sự chán ngán, sự thất vọng.",
+   "emoji": "",
+   "ipa": "/ˌdɪsəˈpɔɪntmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "murderer",
+   "meaning": "kẻ giết người",
+   "example": "The murderer was convicted and sentenced to life in prison.",
+   "exampleMeaning": "Thằng giết người bị xử tù chung thân.",
+   "emoji": "",
+   "ipa": "/ˈmɜrdɜrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sex",
+   "meaning": "giới đàn ông, giới phụ nữ",
+   "example": "without distinction of age and sex",
+   "exampleMeaning": "Không phân biệt tuổi tác và nam nữ",
+   "emoji": "",
+   "ipa": "/ˈsɛks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "butcher",
+   "meaning": "người hàng thịt",
+   "example": "The butcher packs the meat in paper.",
+   "exampleMeaning": "Người bán thịt gói thịt trong giấy.",
+   "emoji": "",
+   "ipa": "/ˈbʊtʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "airline",
+   "meaning": "công ty hàng không",
+   "example": "This morning, my friend and I went to buy airline tickets.",
+   "exampleMeaning": "Sáng nay, tôi cùng bạn tôi đi mua vé máy bay.",
+   "emoji": "",
+   "ipa": "/ˈɛrˌlaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "accidental",
+   "meaning": "tình cờ, ngẫu nhiên",
+   "example": "Let's learn the word \"accidental\".",
+   "exampleMeaning": "Cùng học từ “accidental”: tình cờ, ngẫu nhiên.",
+   "emoji": "",
+   "ipa": "/ˌæksəˈdɛnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fitness",
+   "meaning": "sự thích hợp, sự phù hợp, sự vừa vặn",
+   "example": "Let's learn the word \"fitness\".",
+   "exampleMeaning": "Cùng học từ “fitness”: sự thích hợp, sự phù hợp, sự vừa vặn.",
+   "emoji": "",
+   "ipa": "/ˈfɪtnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "workshop",
+   "meaning": "xưởng",
+   "example": "Let's learn the word \"workshop\".",
+   "exampleMeaning": "Cùng học từ “workshop”: xưởng.",
+   "emoji": "",
+   "ipa": "/ˈwɜrkˌʃɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stun",
+   "meaning": "làm choáng váng, làm bất tỉnh nhân sự",
+   "example": "Let's learn the word \"stun\".",
+   "exampleMeaning": "Cùng học từ “stun”: làm choáng váng, làm bất tỉnh nhân sự.",
+   "emoji": "",
+   "ipa": "/ˈstən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "contribution",
+   "meaning": "góp",
+   "example": "to lay under contribution",
+   "exampleMeaning": "Bắt đóng góp",
+   "emoji": "",
+   "ipa": "/ˌkɑːn.trɪˈbjuː.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "in",
+    "pain",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị đau ở chỗ này."
+  },
+  {
+   "tokens": [
+    "Police",
+    "searched",
+    "Sami's",
+    "vehicle"
+   ],
+   "reading": "",
+   "meaning": "Cảnh sát lục soát xe của Sami."
+  },
+  {
+   "tokens": [
+    "He",
+    "died",
+    "from",
+    "overwork"
+   ],
+   "reading": "",
+   "meaning": "Ông ấy đã chết vì làm việc quá nhiều."
+  },
+  {
+   "tokens": [
+    "Exercise",
+    "can",
+    "reduce",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Tập thể dục có thể làm giảm đau."
+  },
+  {
+   "tokens": [
+    "I",
+    "have",
+    "back",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị đau lưng."
+  }
+ ],
+ "issues": []
+}

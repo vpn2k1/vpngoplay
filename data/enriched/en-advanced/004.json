@@ -1,0 +1,322 @@
+{
+ "lesson": 4,
+ "draft": true,
+ "words": [
+  {
+   "term": "obsession",
+   "meaning": "ám ảnh",
+   "example": "Let's learn the word \"obsession\".",
+   "exampleMeaning": "Cùng học từ “obsession”: ám ảnh.",
+   "emoji": "",
+   "ipa": "/əbˈsɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "utterly",
+   "meaning": "hoàn toàn",
+   "example": "The rule is utterly inflexible.",
+   "exampleMeaning": "Luật lệ khó nói.",
+   "emoji": "",
+   "ipa": "/ˈətɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unfashionable",
+   "meaning": "không đúng mốt, không hợp thời trang",
+   "example": "Let's learn the word \"unfashionable\".",
+   "exampleMeaning": "Cùng học từ “unfashionable”: không đúng mốt, không hợp thời trang.",
+   "emoji": "",
+   "ipa": "/ənˈfæʃənəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "testify",
+   "meaning": "khai, làm chứng, chứng nhân",
+   "example": "to testify against",
+   "exampleMeaning": "Làm chứng chống, làm chứng buộc tội",
+   "emoji": "",
+   "ipa": "/ˈtɛstəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chronic",
+   "meaning": "mạn, mãn tính, kinh niên",
+   "example": "Exercise can reduce your risk of chronic disease.",
+   "exampleMeaning": "Tập thể dục có thể làm giảm nguy cơ mắc bệnh mãn tính.",
+   "emoji": "",
+   "ipa": "/ˈkrɑnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "desktop",
+   "meaning": "mặt bàn",
+   "example": "GNOME is a desktop environment.",
+   "exampleMeaning": "GNOME là một môi trường desktop.",
+   "emoji": "",
+   "ipa": "/ˈdɛskˌtɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "copper",
+   "meaning": "đồng (đỏ)",
+   "example": "Copper is found in abundance there.",
+   "exampleMeaning": "Đồng được tìm thấy với trữ lượng lớn ở đó.",
+   "emoji": "",
+   "ipa": "/ˈkɑː.pɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fabric",
+   "meaning": "giàn khung, kết cấu",
+   "example": "the whole fabric of society",
+   "exampleMeaning": "Toàn bộ cơ cấu xã hội",
+   "emoji": "",
+   "ipa": "/ˈfæb.rɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "literally",
+   "meaning": "thật vậy, đúng là",
+   "example": "\"Itadakimasu\" is a Japanese phrase that literally means \"I humbly receive.\"",
+   "exampleMeaning": "\"Itadakimasu\" là một cụm từ tiếng Nhật có nghĩa đen là \"Tôi xin nhận\".",
+   "emoji": "",
+   "ipa": "/ˈlɪtɜrəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "swift",
+   "meaning": "mau, nhanh",
+   "example": "to have a swift wit",
+   "exampleMeaning": "Nhanh trí",
+   "emoji": "",
+   "ipa": "/ˈswɪft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "warship",
+   "meaning": "tàu chiến",
+   "example": "Let's learn the word \"warship\".",
+   "exampleMeaning": "Cùng học từ “warship”: tàu chiến.",
+   "emoji": "",
+   "ipa": "/ˈwɔrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inherit",
+   "meaning": "hưởng, thừa hưởng, thừa kế",
+   "example": "Let's learn the word \"inherit\".",
+   "exampleMeaning": "Cùng học từ “inherit”: hưởng, thừa hưởng, thừa kế.",
+   "emoji": "",
+   "ipa": "/ɪnˈhɛrɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "withdraw",
+   "meaning": "rút, rút khỏi",
+   "example": "to withdraw the hand from the pocket",
+   "exampleMeaning": "Rút tay ra khỏi túi",
+   "emoji": "",
+   "ipa": "/wɪðˈdrɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "virtual reality",
+   "meaning": "hiện thực ảo giác",
+   "example": "Let's learn the word \"virtual reality\".",
+   "exampleMeaning": "Cùng học từ “virtual reality”: hiện thực ảo giác.",
+   "emoji": "",
+   "ipa": "/ˈvɜrtʃuəl ˌriˈæləˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tickle",
+   "meaning": "cù",
+   "example": "to give someone a tickle",
+   "exampleMeaning": "Cù người nào",
+   "emoji": "",
+   "ipa": "/ˈtɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "insure",
+   "meaning": "bảo hiểm (tài sản, tính mệnh)",
+   "example": "Let's learn the word \"insure\".",
+   "exampleMeaning": "Cùng học từ “insure”: bảo hiểm (tài sản, tính mệnh).",
+   "emoji": "",
+   "ipa": "/ˌɪnˈʃʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "popularity",
+   "meaning": "tính phổ biến",
+   "example": "the popularity of table tennis",
+   "exampleMeaning": "Tính phổ biến của môn bóng đá",
+   "emoji": "",
+   "ipa": "/ˌpɑpjəˈlɛrəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "roam",
+   "meaning": "đi lang thang",
+   "example": "to roam about the country",
+   "exampleMeaning": "Đi lang thang khắp vùng",
+   "emoji": "",
+   "ipa": "/ˈroʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "profile",
+   "meaning": "hồ sơ",
+   "example": "I changed my profile picture.",
+   "exampleMeaning": "Tôi đã thay đổi ảnh avatar của mình.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌfaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "considering",
+   "meaning": "xét cho kỹ, xét cho đến cùng",
+   "example": "Tom is seriously considering that.",
+   "exampleMeaning": "Tom đang cân nhắn một cách nghiêm túc.",
+   "emoji": "",
+   "ipa": "/kənˈsɪdɜrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "utterly",
+    "ridiculous"
+   ],
+   "reading": "",
+   "meaning": "Nó hoàn toàn lố bịch."
+  },
+  {
+   "tokens": [
+    "I",
+    "utterly",
+    "despise",
+    "formal",
+    "writing"
+   ],
+   "reading": "",
+   "meaning": "Tôi rất ghét phải viết theo khuôn mẫu!"
+  },
+  {
+   "tokens": [
+    "I've",
+    "changed",
+    "my",
+    "profile",
+    "picture"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã thay đổi ảnh đại diện của mình."
+  },
+  {
+   "tokens": [
+    "I",
+    "changed",
+    "my",
+    "profile",
+    "picture"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã thay đổi ảnh avatar của mình."
+  },
+  {
+   "tokens": [
+    "Is",
+    "it",
+    "made",
+    "of",
+    "copper"
+   ],
+   "reading": "",
+   "meaning": "Nó được làm bằng đồng sao?"
+  }
+ ],
+ "issues": []
+}

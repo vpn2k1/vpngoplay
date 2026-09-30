@@ -1,0 +1,326 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "殴打",
+   "meaning": "đánh người",
+   "example": "互相殴打。",
+   "exampleMeaning": "Đánh lộn nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ōudǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "支票",
+   "meaning": "séc",
+   "example": "我要把这张旅行支票换成现金。",
+   "exampleMeaning": "Tôi muốn đổi tờ séc du lịch này thành tiền mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīpiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "领土",
+   "meaning": "lãnh thổ",
+   "example": "保卫国家的领土完整。",
+   "exampleMeaning": "Bảo vệ toàn vẹn lãnh thổ của đất nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐngtǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生前",
+   "meaning": "lúc còn sống",
+   "example": "我们来学“生前”这个词。",
+   "exampleMeaning": "Cùng học từ “生前”: lúc còn sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窄",
+   "meaning": "hẹp, chật hẹp, eo hẹp",
+   "example": "他家的日子过得挺窄。",
+   "exampleMeaning": "Cuộc sống của gia đình anh ấy rất chật vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "反馈",
+   "meaning": "phản hồi",
+   "example": "市场销售情况的信息不断反馈到工厂。",
+   "exampleMeaning": "Thông tin về tình hình tiêu thụ của thị trường không ngừng phản hồi về nhà máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnkuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "下落",
+   "meaning": "tăm tích",
+   "example": "下落不明。",
+   "exampleMeaning": "Không rõ tăm tích; ở đâu không rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàluò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无能为力",
+   "meaning": "bất lực",
+   "example": "此罪至重，微我难解脱，即释迦牟尼亦无能为力也。",
+   "exampleMeaning": "Tội này nặng lắm, ta khó mà giải thoát được, cho dù là Phật Tổ thì cũng bất lực mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúnéngwéilì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "点心",
+   "meaning": "bánh ngọt",
+   "example": "我们来学“点心”这个词。",
+   "exampleMeaning": "Cùng học từ “点心”: bánh ngọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnxin",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老人家",
+   "meaning": "cụ",
+   "example": "你们老人家今年有七十了吗?",
+   "exampleMeaning": "Ông bà cụ nhà anh năm nay chắc đã bảy mươi tuổi rồi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎorénjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "比喻",
+   "meaning": "ví dụ",
+   "example": "我们来学“比喻”这个词。",
+   "exampleMeaning": "Cùng học từ “比喻”: ví dụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "跳跃",
+   "meaning": "nhảy",
+   "example": "跳跃前进",
+   "exampleMeaning": "Nhảy về phía trước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiàoyuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挫折",
+   "meaning": "ngăn trở",
+   "example": "我们来学“挫折”这个词。",
+   "exampleMeaning": "Cùng học từ “挫折”: ngăn trở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuòzhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坠",
+   "meaning": "rơi, rủ xuống, xoã xuống (tóc…)",
+   "example": "石榴把树枝坠得弯弯的。",
+   "exampleMeaning": "Những quả thạch lựu làm trĩu cả cành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "本性",
+   "meaning": "tự nhiên, thiên nhiên, tạo hóa",
+   "example": "江山易改，本性难移",
+   "exampleMeaning": "Giang sơn dễ đổi bản tính khó dời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnxìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相识",
+   "meaning": "người quen",
+   "example": "成了相识。",
+   "exampleMeaning": "Trở thành bạn bè quen biết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不可避免",
+   "meaning": "không thể tránh khỏi",
+   "example": "我们来学“不可避免”这个词。",
+   "exampleMeaning": "Cùng học từ “不可避免”: không thể tránh khỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùkěbìmiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惯例",
+   "meaning": "thông lệ",
+   "example": "打破惯例",
+   "exampleMeaning": "Phá bỏ lệ cũ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guànlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "储蓄",
+   "meaning": "để dành",
+   "example": "家家有储蓄。",
+   "exampleMeaning": "Nhà nào cũng có tiền để dành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǔxù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "必定",
+   "meaning": "nhất định",
+   "example": "共产主义必定胜利。",
+   "exampleMeaning": "Chủ nghĩa cộng sản nhất định thắng lợi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "贸易",
+    "帮助",
+    "国家",
+    "发展"
+   ],
+   "reading": "màoyì bāngzhù guójiā fāzhǎn",
+   "meaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "你",
+    "要",
+    "再",
+    "来",
+    "一块",
+    "蛋糕",
+    "吗"
+   ],
+   "reading": "nǐ yào zài lái yīkuài dàngāo ma",
+   "meaning": "Anh có muốn miếng bánh ngọt khác không?"
+  }
+ ],
+ "issues": []
+}

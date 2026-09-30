@@ -1,0 +1,314 @@
+{
+ "lesson": 94,
+ "draft": true,
+ "words": [
+  {
+   "term": "pilgrim",
+   "meaning": "người hành hương",
+   "example": "Let's learn the word \"pilgrim\".",
+   "exampleMeaning": "Cùng học từ “pilgrim”: người hành hương.",
+   "emoji": "",
+   "ipa": "/ˈpɪlɡrəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "attitude",
+   "meaning": "thái độ, quan điểm",
+   "example": "one's attitude towards a question",
+   "exampleMeaning": "Quan điểm đối với một vấn đề",
+   "emoji": "",
+   "ipa": "/ˈætəˌtud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "escape",
+   "meaning": "trốn thoát, thoát",
+   "example": "to escape death",
+   "exampleMeaning": "Thoát chết",
+   "emoji": "",
+   "ipa": "/ɪˈskeɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "freeze",
+   "meaning": "đóng băng",
+   "example": "It may freeze next week.",
+   "exampleMeaning": "Nó có thể đóng băng vào tuần tới",
+   "emoji": "",
+   "ipa": "/ˈfriz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rugby",
+   "meaning": "môn bóng bầu dục ((cũng) rugby fooball)",
+   "example": "Let's learn the word \"rugby\".",
+   "exampleMeaning": "Cùng học từ “rugby”: môn bóng bầu dục ((cũng) rugby fooball).",
+   "emoji": "",
+   "ipa": "/ˈrəɡbi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "battery",
+   "meaning": "pin",
+   "example": "The watch battery was dead.",
+   "exampleMeaning": "Đồng hồ hết pin rồi.",
+   "emoji": "🔋",
+   "ipa": "/ˈbætɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "earthquake",
+   "meaning": "động đất",
+   "example": "The earthquake leveled the town.",
+   "exampleMeaning": "Trận động đất đã san phẳng cả thị trấn.",
+   "emoji": "",
+   "ipa": "/ˈɜrθˌkweɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "entertainment",
+   "meaning": "giải trí",
+   "example": "Let's learn the word \"entertainment\".",
+   "exampleMeaning": "Cùng học từ “entertainment”: giải trí.",
+   "emoji": "",
+   "ipa": "/ˌɛnɜrˈteɪnmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "notice",
+   "meaning": "chú ý, để ý, nhận biết",
+   "example": "to put a notice in the papers",
+   "exampleMeaning": "Đăng thông cáo trên báo",
+   "emoji": "",
+   "ipa": "/ˈnoʊtəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "human",
+   "meaning": "con người, (thuộc) loài người",
+   "example": "I'm a human just like you.",
+   "exampleMeaning": "Tôi cũng là con người giống như bạn mà thôi.",
+   "emoji": "",
+   "ipa": "/ˈhjumən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "against",
+   "meaning": "chống lại, ngược lại, phản đối",
+   "example": "to keep provisions against rainy days",
+   "exampleMeaning": "Dự trữ thực phẩm đề phòng những ngày mưa",
+   "emoji": "",
+   "ipa": "/əˈɡeɪnst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "model",
+   "meaning": "kiểu, mẫu, mô hình",
+   "example": "to model a man's head in clay",
+   "exampleMeaning": "Làm mô hình đầu người bằng đất sét",
+   "emoji": "",
+   "ipa": "/ˈmɑdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "alarm clock",
+   "meaning": "đồng hồ báo thức",
+   "example": "Let's learn the word \"alarm clock\".",
+   "exampleMeaning": "Cùng học từ “alarm clock”: đồng hồ báo thức.",
+   "emoji": "⏰",
+   "ipa": "/əˈlɑrm ˈklɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "happiness",
+   "meaning": "sự sung sướng, hạnh phúc",
+   "example": "Wishing you peace and happiness at Christmas.",
+   "exampleMeaning": "Chúc bạn bình an và hạnh phúc nhân mùa giáng sinh.",
+   "emoji": "",
+   "ipa": "/ˈhæpinəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "official",
+   "meaning": "chính thức",
+   "example": "German is the official language of Germany.",
+   "exampleMeaning": "Tiếng Đức là ngôn ngữ chính thức của Đức.",
+   "emoji": "",
+   "ipa": "/əˈfɪʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "invite",
+   "meaning": "mời",
+   "example": "I will invite you.",
+   "exampleMeaning": "Tôi sẽ mời bạn.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "handle",
+   "meaning": "quản lý, xử lý",
+   "example": "to carry a bucket by the handle",
+   "exampleMeaning": "Xách thùng ở quai",
+   "emoji": "",
+   "ipa": "/ˈhændəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pleased",
+   "meaning": "hài lòng",
+   "example": "She was pleased to see the results.",
+   "exampleMeaning": "Cô ấy đã hài lòng khi nhìn thấy những kết quả.",
+   "emoji": "",
+   "ipa": "/ˈplizd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bug",
+   "meaning": "lỗi, sửa lỗi, con rệp",
+   "example": "Which bug hurt you?",
+   "exampleMeaning": "Ấy bị con gì cắn à?",
+   "emoji": "🐛",
+   "ipa": "/bʌɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "steal",
+   "meaning": "lẻn, đi lén",
+   "example": "To steal out of the room.",
+   "exampleMeaning": "Lẻn ra khỏi phòng.",
+   "emoji": "",
+   "ipa": "/stiːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "battery",
+    "died"
+   ],
+   "reading": "",
+   "meaning": "Pin chết."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "human"
+   ],
+   "reading": "",
+   "meaning": "Tôi là con người."
+  },
+  {
+   "tokens": [
+    "Handle",
+    "with",
+    "care"
+   ],
+   "reading": "",
+   "meaning": "Xử lý cẩn thận nhé!"
+  },
+  {
+   "tokens": [
+    "What",
+    "is",
+    "happiness"
+   ],
+   "reading": "",
+   "meaning": "Hạnh phúc là gì?"
+  },
+  {
+   "tokens": [
+    "Nobody",
+    "would",
+    "notice"
+   ],
+   "reading": "",
+   "meaning": "Không ai sẽ chú ý."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,317 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "punishment",
+   "meaning": "sự phạt, sự trừng phạt, sự trừng trị",
+   "example": "What will be Tom's punishment?",
+   "exampleMeaning": "Hình phạt của Tom sẽ là gì?",
+   "emoji": "",
+   "ipa": "/ˈpʌnɪʃmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "per",
+   "meaning": "mỗi",
+   "example": "a shilling per man",
+   "exampleMeaning": "Mỗi người một silinh",
+   "emoji": "",
+   "ipa": "/ˈpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "necklace",
+   "meaning": "vòng, vòng cổ",
+   "example": "She's wearing a necklace on her neck.",
+   "exampleMeaning": "Cô ấy đang đeo một sợi dây chuyền trên cổ.",
+   "emoji": "",
+   "ipa": "/ˈnɛkləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "principle",
+   "meaning": "nguyên lý, nguyên tắc, quy tắc",
+   "example": "to lay down as a principle",
+   "exampleMeaning": "Đặt thành nguyên tắc",
+   "emoji": "",
+   "ipa": "/ˈprɪnsəpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "county",
+   "meaning": "hạt, tỉnh",
+   "example": "Let's learn the word \"county\".",
+   "exampleMeaning": "Cùng học từ “county”: hạt, tỉnh.",
+   "emoji": "",
+   "ipa": "/ˈkaʊni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dolphin",
+   "meaning": "cá heo",
+   "example": "Have you ever touched a dolphin?",
+   "exampleMeaning": "Bạn đã bao giờ chạm vào một con cá heo chưa?",
+   "emoji": "🐬",
+   "ipa": "/ˈdɑːl.fən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "phoenix",
+   "meaning": "chim phượng hoàng lửa",
+   "example": "Let's learn the word \"phoenix\".",
+   "exampleMeaning": "Cùng học từ “phoenix”: chim phượng hoàng lửa.",
+   "emoji": "🐦‍🔥",
+   "ipa": "/ˈfinɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "participle",
+   "meaning": "động tính từ",
+   "example": "Let's learn the word \"participle\".",
+   "exampleMeaning": "Cùng học từ “participle”: động tính từ.",
+   "emoji": "",
+   "ipa": "/ˈpɑrtɪˌsɪpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "useless",
+   "meaning": "vô ích, vô dụng",
+   "example": "These are useless objects.",
+   "exampleMeaning": "Đây là những đồ vật vô dụng.",
+   "emoji": "",
+   "ipa": "/ˈjuːs.ləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "retain",
+   "meaning": "giữ, cầm lại",
+   "example": "to retain control of...",
+   "exampleMeaning": "Vẫn nắm quyền kiểm soát..., vẫn làm chủ...",
+   "emoji": "",
+   "ipa": "/riˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unusually",
+   "meaning": "cực kỳ",
+   "example": "This is an unusually long sentence.",
+   "exampleMeaning": "Đây là một câu dài bất thường.",
+   "emoji": "",
+   "ipa": "/ənˈjuˌʒuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "doc",
+   "meaning": "thầy thuốc",
+   "example": "Let's learn the word \"doc\".",
+   "exampleMeaning": "Cùng học từ “doc”: thầy thuốc.",
+   "emoji": "",
+   "ipa": "/ˈdɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "giggle",
+   "meaning": "tiếng cười rúc rích",
+   "example": "Let's learn the word \"giggle\".",
+   "exampleMeaning": "Cùng học từ “giggle”: tiếng cười rúc rích.",
+   "emoji": "",
+   "ipa": "/ˈɡɪɡəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "soul",
+   "meaning": "hồn, sức sống, sức truyền cảm",
+   "example": "he cannot call his soul his own",
+   "exampleMeaning": "Nó bị người khác khống chế",
+   "emoji": "",
+   "ipa": "/ˈsoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tropical",
+   "meaning": "nhiệt đới",
+   "example": "Let's learn the word \"tropical\".",
+   "exampleMeaning": "Cùng học từ “tropical”: nhiệt đới.",
+   "emoji": "",
+   "ipa": "/ˈtrɑpɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bound",
+   "meaning": "sắp đi, đi, đi hướng về",
+   "example": "We are bound to obey laws.",
+   "exampleMeaning": "Chúng tôi buộc phải tuân theo luật.",
+   "emoji": "",
+   "ipa": "/ˈbaʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sports",
+   "meaning": "thể thao",
+   "example": "Do you like playing sports?",
+   "exampleMeaning": "Bạn có thích chơi thể thao không?",
+   "emoji": "",
+   "ipa": "/ˈspɔrts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "whisper",
+   "meaning": "tiếng nói thầm",
+   "example": "to talk in whispers (in a whisper)",
+   "exampleMeaning": "Nói chuyện thì thầm",
+   "emoji": "",
+   "ipa": "/ˈhwɪspɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "lay",
+   "meaning": "đẻ (chim)",
+   "example": "Turtles lay eggs.",
+   "exampleMeaning": "Rùa đẻ trứng.",
+   "emoji": "",
+   "ipa": "/ˈleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "flock",
+   "meaning": "bầy, cụm, túm (bông, len)",
+   "example": "the teacher and his flock",
+   "exampleMeaning": "Giáo viên và học sinh của ông",
+   "emoji": "",
+   "ipa": "/flɒk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Am",
+    "I",
+    "useless"
+   ],
+   "reading": "",
+   "meaning": "Có phải tôi vô dụng không?"
+  },
+  {
+   "tokens": [
+    "Turtles",
+    "lay",
+    "eggs"
+   ],
+   "reading": "",
+   "meaning": "Rùa đẻ trứng."
+  },
+  {
+   "tokens": [
+    "These",
+    "are",
+    "useless",
+    "objects"
+   ],
+   "reading": "",
+   "meaning": "Đây là những đồ vật vô dụng."
+  },
+  {
+   "tokens": [
+    "We",
+    "talked",
+    "about",
+    "sports"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi nói chuyện về thể thao."
+  },
+  {
+   "tokens": [
+    "It's",
+    "beautiful",
+    "but",
+    "useless"
+   ],
+   "reading": "",
+   "meaning": "Nó đẹp nhưng vô dụng."
+  }
+ ],
+ "issues": []
+}

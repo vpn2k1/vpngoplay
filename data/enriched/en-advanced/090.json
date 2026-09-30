@@ -1,0 +1,328 @@
+{
+ "lesson": 90,
+ "draft": true,
+ "words": [
+  {
+   "term": "mutually",
+   "meaning": "lẫn nhau, qua lại",
+   "example": "Let's learn the word \"mutually\".",
+   "exampleMeaning": "Cùng học từ “mutually”: lẫn nhau, qua lại.",
+   "emoji": "",
+   "ipa": "/ˈmjutʃuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "retrace",
+   "meaning": "trở lại (con đường cũ)",
+   "example": "to retrace one's step (way)",
+   "exampleMeaning": "Thoái lui; trở lại ý kiến trước",
+   "emoji": "",
+   "ipa": "/riˈtreɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recharge",
+   "meaning": "nạp lại",
+   "example": "to recharge a revolver",
+   "exampleMeaning": "Nạp đạn lại một khẩu súng lục",
+   "emoji": "",
+   "ipa": "/riˈtʃɑrdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reap",
+   "meaning": "thu về, thu hoạch, hưởng",
+   "example": "to reap laurels",
+   "exampleMeaning": "Công thành danh toại, thắng trận",
+   "emoji": "",
+   "ipa": "/ˈrip/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "aesthetic",
+   "meaning": "mỹ học, thẩm mỹ",
+   "example": "Let's learn the word \"aesthetic\".",
+   "exampleMeaning": "Cùng học từ “aesthetic”: mỹ học, thẩm mỹ.",
+   "emoji": "",
+   "ipa": "/ɛsˈθɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "otter",
+   "meaning": "con rái cá",
+   "example": "Let's learn the word \"otter\".",
+   "exampleMeaning": "Cùng học từ “otter”: con rái cá.",
+   "emoji": "🦦",
+   "ipa": "/ˈɑtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "restoration",
+   "meaning": "sự khôi phục, sự hồi phục",
+   "example": "the restoration of health",
+   "exampleMeaning": "Sự hồi phục sức khoẻ",
+   "emoji": "",
+   "ipa": "/ˌrɛstɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "synthetically",
+   "meaning": "tổng hợp",
+   "example": "Let's learn the word \"synthetically\".",
+   "exampleMeaning": "Cùng học từ “synthetically”: tổng hợp.",
+   "emoji": "",
+   "ipa": "/sɪnˈθɛtɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spartan",
+   "meaning": "xpác-tơ",
+   "example": "Let's learn the word \"spartan\".",
+   "exampleMeaning": "Cùng học từ “spartan”: xpác-tơ.",
+   "emoji": "",
+   "ipa": "/ˈspɑrtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "parasite",
+   "meaning": "kẻ ăn bám",
+   "example": "Let's learn the word \"parasite\".",
+   "exampleMeaning": "Cùng học từ “parasite”: kẻ ăn bám.",
+   "emoji": "",
+   "ipa": "/ˈpɛrəˌsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conserve",
+   "meaning": "giữ gìn, duy trì, bảo tồn",
+   "example": "We need to conserve water.",
+   "exampleMeaning": "Chúng ta phải tiết kiệm nước.",
+   "emoji": "",
+   "ipa": "/kənˈsɜrv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "victoriously",
+   "meaning": "trạng từ",
+   "example": "Let's learn the word \"victoriously\".",
+   "exampleMeaning": "Cùng học từ “victoriously”: trạng từ.",
+   "emoji": "",
+   "ipa": "/vɪktˈɔːrɪəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "legacy",
+   "meaning": "tài sản kế thừa, gia tài, di sản",
+   "example": "to come into a legacy",
+   "exampleMeaning": "Được thừa hưởng một gia tài",
+   "emoji": "",
+   "ipa": "/ˈlɛɡəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "impede",
+   "meaning": "làm trở ngại, ngăn cản, cản trở",
+   "example": "Let's learn the word \"impede\".",
+   "exampleMeaning": "Cùng học từ “impede”: làm trở ngại, ngăn cản, cản trở.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "urine",
+   "meaning": "nước đái, nước tiểu",
+   "example": "Let's learn the word \"urine\".",
+   "exampleMeaning": "Cùng học từ “urine”: nước đái, nước tiểu.",
+   "emoji": "",
+   "ipa": "/ˈjɜrən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "acidic",
+   "meaning": "có tính chất axit",
+   "example": "Let's learn the word \"acidic\".",
+   "exampleMeaning": "Cùng học từ “acidic”: có tính chất axit.",
+   "emoji": "",
+   "ipa": "/əˈsɪdɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dismal",
+   "meaning": "buồn nản, u sầu, phiền muộn",
+   "example": "a dismal mood",
+   "exampleMeaning": "Tâm trạng u sầu buồn nản",
+   "emoji": "",
+   "ipa": "/ˈdɪzməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stuffy",
+   "meaning": "thiếu không khí, ngột ngạt",
+   "example": "It's very stuffy in here.",
+   "exampleMeaning": "Ở đây ngột ngạt quá.",
+   "emoji": "",
+   "ipa": "/ˈstəfi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "robust",
+   "meaning": "khoẻ mạnh, tráng kiện, cường tráng",
+   "example": "Let's learn the word \"robust\".",
+   "exampleMeaning": "Cùng học từ “robust”: khoẻ mạnh, tráng kiện, cường tráng.",
+   "emoji": "",
+   "ipa": "/roʊˈbəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exhilarating",
+   "meaning": "làm vui vẻ, làm hồ hởi",
+   "example": "Let's learn the word \"exhilarating\".",
+   "exampleMeaning": "Cùng học từ “exhilarating”: làm vui vẻ, làm hồ hởi.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɪlɜrˌeɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "very",
+    "stuffy",
+    "in",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Ở đây ngột ngạt quá."
+  },
+  {
+   "tokens": [
+    "We",
+    "need",
+    "to",
+    "conserve",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta phải tiết kiệm nước."
+  },
+  {
+   "tokens": [
+    "Will",
+    "you",
+    "open",
+    "the",
+    "window",
+    "and",
+    "air",
+    "out",
+    "this",
+    "stuffy",
+    "room"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể giúp tôi mở cửa sổ để phòng này bớt bí hơn được không?"
+  },
+  {
+   "tokens": [
+    "My",
+    "nose",
+    "is",
+    "stuffy"
+   ],
+   "reading": "",
+   "meaning": "Mũi tôi bị nghẹt."
+  },
+  {
+   "tokens": [
+    "Embrace",
+    "challenges",
+    "as",
+    "opportunities"
+   ],
+   "reading": "",
+   "meaning": "Hãy xem thử thách là cơ hội."
+  }
+ ],
+ "issues": []
+}

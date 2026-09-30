@@ -1,0 +1,319 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "返す",
+   "meaning": "trở lại",
+   "example": "お言葉を返すようで、申し訳ありませんが。",
+   "exampleMeaning": "Tôi xin lỗi vì đã phản bác lại bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "橋",
+   "meaning": "brit",
+   "example": "あの橋は大変美しい。",
+   "exampleMeaning": "Cây cầu kia rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "冷たい",
+   "meaning": "lạnh, lạnh lẽo, nguội",
+   "example": "床は冷たい感じがする。",
+   "exampleMeaning": "Sàn nhà có cảm giác mát lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "答える",
+   "meaning": "trả lời, đáp lại",
+   "example": "私はその質問に答えることを拒否する。",
+   "exampleMeaning": "Tôi từ chối trả lời câu hỏi đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "曇り",
+   "meaning": "mây, đám mây",
+   "example": "昨日は曇りだった。",
+   "exampleMeaning": "Hôm qua trời nhiều mây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "こっち",
+   "meaning": "ở đây, ở chỗ này, nơi đây",
+   "example": "こっちに来いよ。",
+   "exampleMeaning": "Lại đây đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "立つ",
+   "meaning": "đứng",
+   "example": "冷蔵庫は食べ物を保存するのに役立つ。",
+   "exampleMeaning": "Tủ lạnh giúp bảo quản thức ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "テレビ",
+   "meaning": "truyền hình",
+   "example": "彼等はテレビを見ていた。",
+   "exampleMeaning": "Lúc đó họ đang xem TV.",
+   "emoji": "📺",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "声",
+   "meaning": "tiếng, tiếng nói",
+   "example": "トムは銃声を数発聞いた。",
+   "exampleMeaning": "Tom đã nghe thấy vài tiếng súng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "靴",
+   "meaning": "giày, hài",
+   "example": "靴を脱いで下さい。",
+   "exampleMeaning": "Hãy cởi giày ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昼御飯",
+   "meaning": "bữa ăn trưa",
+   "example": "「昼御飯」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “昼御飯”: bữa ăn trưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厚い",
+   "meaning": "loài giống, loại, hạng",
+   "example": "この本はとても厚い。",
+   "exampleMeaning": "Cuốn sách dày thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "買い物",
+   "meaning": "sự đi mua hàng",
+   "example": "私の趣味は買い物です。",
+   "exampleMeaning": "Sở thích của tôi là đi mua sắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昼",
+   "meaning": "trưa, buổi trưa",
+   "example": "トムはもう昼食を食べた。",
+   "exampleMeaning": "Tom đã ăn trưa rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "左",
+   "meaning": "phía bên trái",
+   "example": "彼女は左手をやけどした。",
+   "exampleMeaning": "Cô ấy đã bị bỏng tay trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "古い",
+   "meaning": "xưa, cổ xưa, cũ kỹ",
+   "example": "彼は古い車を新車と交換した。",
+   "exampleMeaning": "Anh ta đổi chiếc xe cũ của mình với một chiếc mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "着く",
+   "meaning": "đến, tới nơi",
+   "example": "あと何時間で着くのよ？",
+   "exampleMeaning": "Còn mấy tiếng nữa thì bạn đến vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鍵",
+   "meaning": "khóa, ổ khóa",
+   "example": "鍵を右に回しなさい。",
+   "exampleMeaning": "Hãy xoay chìa khóa sang bên phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "風",
+   "meaning": "gió",
+   "example": "台風で川が氾濫した。",
+   "exampleMeaning": "Cơn bão làm nước sông bị tràn ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おととし",
+   "meaning": "year before last (EN)",
+   "example": "「おととし」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おととし”: year before last (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "靴ひも",
+    "が",
+    "とけた"
+   ],
+   "reading": "くつひもがとけた",
+   "meaning": "Dây giày tôi bị tuột ra."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "風邪をひいた"
+   ],
+   "reading": "わたしはかぜをひいた",
+   "meaning": "Tôi bị cúm."
+  },
+  {
+   "tokens": [
+    "靴",
+    "を",
+    "脱いで",
+    "下さい"
+   ],
+   "reading": "くつをぬいでください",
+   "meaning": "Hãy cởi giày ra."
+  },
+  {
+   "tokens": [
+    "昨日",
+    "は",
+    "曇り",
+    "だった"
+   ],
+   "reading": "きのうはくもりだった",
+   "meaning": "Hôm qua trời nhiều mây."
+  },
+  {
+   "tokens": [
+    "あれ",
+    "は",
+    "誰",
+    "の",
+    "靴",
+    "ですか"
+   ],
+   "reading": "あれはだれのくつですか",
+   "meaning": "Đó là giày của ai vậy?"
+  }
+ ],
+ "issues": []
+}

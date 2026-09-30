@@ -1,0 +1,331 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "凶猛",
+   "meaning": "hung dữ mạnh mẽ (khí thế, lực lượng)",
+   "example": "虎豹都是凶猛的野兽。",
+   "exampleMeaning": "Hổ báo đều là những dã thú hung dữ mạnh mẽ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiōngměng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "这会儿",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "你这会儿又上哪儿去呀？",
+   "exampleMeaning": "Bây giờ anh lại đi đâu nữa đấy？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèhuìr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "留心",
+   "meaning": "chú ý",
+   "example": "留心听讲。",
+   "exampleMeaning": "Chú ý nghe giảng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "低谷",
+   "meaning": "thung lũng",
+   "example": "我们来学“低谷”这个词。",
+   "exampleMeaning": "Cùng học từ “低谷”: thung lũng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīgǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外貌",
+   "meaning": "bên ngoài",
+   "example": "我们来学“外貌”这个词。",
+   "exampleMeaning": "Cùng học từ “外貌”: bên ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàimào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "如实",
+   "meaning": "đúng sự thật",
+   "example": "如实汇报。",
+   "exampleMeaning": "Báo cáo lại đúng sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rúshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "顿时",
+   "meaning": "liền",
+   "example": "喜讯传来，人们顿时欢呼起来。",
+   "exampleMeaning": "Tin vui truyền đến mọi người liền hoan hô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dùnshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "向着",
+   "meaning": "hướng về",
+   "example": "哥哥怪妈妈凡事向着小弟弟。",
+   "exampleMeaning": "Người anh trách mẹ việc gì cũng bênh em trai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngzhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风范",
+   "meaning": "khí phách",
+   "example": "大家风范",
+   "exampleMeaning": "Khí phách của mọi người",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弟子",
+   "meaning": "đồ đệ",
+   "example": "我们来学“弟子”这个词。",
+   "exampleMeaning": "Cùng học từ “弟子”: đồ đệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喷泉",
+   "meaning": "suối phun",
+   "example": "我们来学“喷泉”这个词。",
+   "exampleMeaning": "Cùng học từ “喷泉”: suối phun.",
+   "emoji": "⛲",
+   "ipa": "",
+   "pinyin": "pēnquán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "贯彻",
+   "meaning": "quán triệt",
+   "example": "贯彻增产节约的方针。",
+   "exampleMeaning": "Quán triệt phương châm tăng gia sản xuất và tiết kiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guànchè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "谋生",
+   "meaning": "mưu sinh",
+   "example": "我们来学“谋生”这个词。",
+   "exampleMeaning": "Cùng học từ “谋生”: mưu sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "móushēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "灵敏",
+   "meaning": "nhạy",
+   "example": "玩这些电脑游戏要反应灵敏。",
+   "exampleMeaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língmǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "落下",
+   "meaning": "để thả",
+   "example": "我们来学“落下”这个词。",
+   "exampleMeaning": "Cùng học từ “落下”: để thả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luòxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名副其实",
+   "meaning": "danh xứng với thực",
+   "example": "久闻她的琴艺非凡，今日亲自聆听，果真名副其实。",
+   "exampleMeaning": "Đã lâu nghe qua tài đánh đàn của cô ta lạ thường, hôm nay tận tai nghe thấy quả đúng là danh xứng với thực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngfùqíshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "比起",
+   "meaning": "so sánh với",
+   "example": "我们来学“比起”这个词。",
+   "exampleMeaning": "Cùng học từ “比起”: so sánh với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "科目",
+   "meaning": "khoa",
+   "example": "我们来学“科目”这个词。",
+   "exampleMeaning": "Cùng học từ “科目”: khoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kēmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妥当",
+   "meaning": "ổn thoả",
+   "example": "这句话中有一个词用得不妥当。",
+   "exampleMeaning": "Trong câu này có một chữ dùng không ổn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuǒdang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "裸露",
+   "meaning": "lộ ra",
+   "example": "裸露在地面上的煤层。",
+   "exampleMeaning": "Vỉa than lộ ra trên mặt đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luǒlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  },
+  {
+   "tokens": [
+    "他",
+    "打扮",
+    "得",
+    "像",
+    "女人",
+    "一样"
+   ],
+   "reading": "tā dǎban de xiàng nǚrén yīyàng",
+   "meaning": "Anh ấy đã đóng giả làm con gái."
+  },
+  {
+   "tokens": [
+    "已经",
+    "没",
+    "人",
+    "来",
+    "拜访",
+    "我",
+    "了"
+   ],
+   "reading": "yǐjīng méi rén lái bàifǎng wǒ le",
+   "meaning": "Không ai tới thăm tôi nữa."
+  }
+ ],
+ "issues": []
+}

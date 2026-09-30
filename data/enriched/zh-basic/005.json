@@ -1,0 +1,323 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "喜欢",
+   "meaning": "thích",
+   "example": "你喜欢唱歌吗？",
+   "exampleMeaning": "Bạn thích hát không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐhuan",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "吃",
+   "meaning": "chịu",
+   "example": "你吃過日本料理嗎？",
+   "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chī",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "谁",
+   "meaning": "ai, người nào, kẻ nào",
+   "example": "我正在跟谁讲话？",
+   "exampleMeaning": "Tôi đang nói chuyện với ai đây?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shéi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新",
+   "meaning": "mới, mới mẻ, mới lạ",
+   "example": "我买到了一辆新摩托车。",
+   "exampleMeaning": "Tôi mua được một cái mô-tô mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "找",
+   "meaning": "tìm",
+   "example": "有谁来找我，你就说我出去了。",
+   "exampleMeaning": "Có ai đến tìm tôi thì anh bảo tôi đi vắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "打",
+   "meaning": "đánh, đập",
+   "example": "他打扮得像女人一樣。",
+   "exampleMeaning": "Anh ấy đã đóng giả làm con gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "还有",
+   "meaning": "còn có, hơn nữa, vả lại",
+   "example": "羊屁股先生可没告诉我还有搭档。",
+   "exampleMeaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háiyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "快",
+   "meaning": "nhanh, nhanh chóng, mau lẹ",
+   "example": "聖誕節快樂！",
+   "exampleMeaning": "Chúc mừng giáng sinh!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "比",
+   "meaning": "tỉ số",
+   "example": "学生人数一年比一年增加。",
+   "exampleMeaning": "Số học sinh mỗi năm một tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "今天",
+   "meaning": "hôm nay, ngày này, ngày hôm nay",
+   "example": "我今天玩得很開心。",
+   "exampleMeaning": "Hôm nay tôi rất vui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīntiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "话",
+   "meaning": "chuyện, tiếng, ngôn ngữ",
+   "example": "你该听你父母的话。",
+   "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "还是",
+   "meaning": "hay",
+   "example": "您赞成还是反对他的想法？",
+   "exampleMeaning": "Ông tán thành hay phản đối ý kiến của nó?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háishi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "觉得",
+   "meaning": "cảm thấy, thấy rằng, cho rằng",
+   "example": "他觉得必须报道这件事。",
+   "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月",
+   "meaning": "tháng",
+   "example": "他到这里已经半个月了。",
+   "exampleMeaning": "Ang ấy đến đây đã nửa tháng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "看到",
+   "meaning": "hiểu rõ, nhận ra",
+   "example": "我发誓我看到了外星人。",
+   "exampleMeaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàndào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "起来",
+   "meaning": "đứng dậy, ngủ dậy, ngồi dậy",
+   "example": "他说完就站起来走了。",
+   "exampleMeaning": "Nói xong,anh đứng dậy ra về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qilai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一起",
+   "meaning": "cùng",
+   "example": "我想和你一起去。",
+   "exampleMeaning": "Tôi muốn đi cùng với bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "起",
+   "meaning": "nhận, xây dựng, dựng",
+   "example": "他胖起来了。",
+   "exampleMeaning": "Nó tăng cân rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "几",
+   "meaning": "mấy (hỏi số)",
+   "example": "这几条狗，它们灵着呢。",
+   "exampleMeaning": "Mấy con chó này chúng nó khôn lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "见",
+   "meaning": "được",
+   "example": "那是一个好意见。",
+   "exampleMeaning": "Đấy là một ý kiến hay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "一起",
+    "来",
+    "吧"
+   ],
+   "reading": "yīqǐ lái ba",
+   "meaning": "Cùng nhau tới nhé."
+  },
+  {
+   "tokens": [
+    "主人",
+    "听到",
+    "那",
+    "句",
+    "话",
+    "不由得",
+    "哈哈大笑",
+    "起来"
+   ],
+   "reading": "zhǔrén tīngdào nà jù huà bùyóude hāhādàxiào qǐlai",
+   "meaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn."
+  },
+  {
+   "tokens": [
+    "他",
+    "胖",
+    "起来",
+    "了"
+   ],
+   "reading": "tā pàng qǐlai le",
+   "meaning": "Nó tăng cân rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "正在",
+    "跟",
+    "谁",
+    "讲话"
+   ],
+   "reading": "wǒ zhèngzài gēn shéi jiǎnghuà",
+   "meaning": "Tôi đang nói chuyện với ai đây?"
+  },
+  {
+   "tokens": [
+    "现在",
+    "我",
+    "想起来",
+    "了"
+   ],
+   "reading": "xiànzài wǒ xiǎngqilai le",
+   "meaning": "Hiện tại tôi nhớ ra rồi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,176 @@
+{
+ "id": "zh-idioms-chengyu",
+ "lang": "zh",
+ "track": "exam",
+ "category": "idioms",
+ "level": "HSK4–6",
+ "title": "Thành ngữ 成语 thông dụng",
+ "description": "12 thành ngữ bốn chữ hay gặp, kèm âm Hán Việt và câu tương đương tiếng Việt.",
+ "words": [
+  {
+   "id": "yijuliangde",
+   "term": "一举两得",
+   "reading": "yì jǔ liǎng dé",
+   "meaning": "một công đôi việc (nhất cử lưỡng đắc)",
+   "emoji": "🐦",
+   "example": "骑自行车上班既省钱又锻炼身体，真是一举两得。",
+   "exampleMeaning": "Đạp xe đi làm vừa tiết kiệm vừa rèn luyện sức khoẻ, đúng là một công đôi việc."
+  },
+  {
+   "id": "mamahuhu",
+   "term": "马马虎虎",
+   "reading": "mǎmǎhūhū",
+   "meaning": "qua loa đại khái; tàm tạm",
+   "emoji": "🐴",
+   "example": "他做事总是马马虎虎的。",
+   "exampleMeaning": "Anh ta làm gì cũng qua loa đại khái."
+  },
+  {
+   "id": "ruxiangsuisu",
+   "term": "入乡随俗",
+   "reading": "rù xiāng suí sú",
+   "meaning": "nhập gia tùy tục",
+   "answers": [
+    "nhap gia tuy tuc"
+   ],
+   "emoji": "🏠",
+   "example": "入乡随俗，在日本要脱鞋进屋。",
+   "exampleMeaning": "Nhập gia tùy tục, ở Nhật phải cởi giày khi vào nhà."
+  },
+  {
+   "id": "bantuerfei",
+   "term": "半途而废",
+   "reading": "bàn tú ér fèi",
+   "meaning": "bỏ dở giữa chừng (bán đồ nhi phế)",
+   "emoji": "🚧",
+   "example": "学习汉语不能半途而废。",
+   "exampleMeaning": "Học tiếng Trung không được bỏ dở giữa chừng."
+  },
+  {
+   "id": "yilushunfeng",
+   "term": "一路顺风",
+   "reading": "yí lù shùn fēng",
+   "meaning": "thượng lộ bình an",
+   "emoji": "✈️",
+   "example": "祝你一路顺风！",
+   "exampleMeaning": "Chúc bạn thượng lộ bình an!"
+  },
+  {
+   "id": "huashetianzu",
+   "term": "画蛇添足",
+   "reading": "huà shé tiān zú",
+   "meaning": "vẽ rắn thêm chân (làm thừa hỏng việc)",
+   "emoji": "🐍",
+   "example": "这句话已经很清楚了，再解释就是画蛇添足。",
+   "exampleMeaning": "Câu này đã rõ rồi, giải thích thêm là vẽ rắn thêm chân."
+  },
+  {
+   "id": "duiniutanqin",
+   "term": "对牛弹琴",
+   "reading": "duì niú tán qín",
+   "meaning": "đàn gảy tai trâu",
+   "emoji": "🐂",
+   "example": "跟他讲道理就是对牛弹琴。",
+   "exampleMeaning": "Nói lý lẽ với anh ta đúng là đàn gảy tai trâu."
+  },
+  {
+   "id": "jingdizhiwa",
+   "term": "井底之蛙",
+   "reading": "jǐng dǐ zhī wā",
+   "meaning": "ếch ngồi đáy giếng",
+   "emoji": "🐸",
+   "example": "多出去看看，别做井底之蛙。",
+   "exampleMeaning": "Hãy ra ngoài nhìn ngắm nhiều hơn, đừng làm ếch ngồi đáy giếng."
+  },
+  {
+   "id": "shouzhudaitu",
+   "term": "守株待兔",
+   "reading": "shǒu zhū dài tù",
+   "meaning": "ôm cây đợi thỏ",
+   "emoji": "🐇",
+   "example": "找工作要主动，不能守株待兔。",
+   "exampleMeaning": "Tìm việc phải chủ động, không thể ôm cây đợi thỏ."
+  },
+  {
+   "id": "zixiangmaodun",
+   "term": "自相矛盾",
+   "reading": "zì xiāng máo dùn",
+   "meaning": "tự mâu thuẫn",
+   "emoji": "🛡️",
+   "example": "他说的话前后自相矛盾。",
+   "exampleMeaning": "Lời anh ta nói trước sau tự mâu thuẫn."
+  },
+  {
+   "id": "shunengshengqiao",
+   "term": "熟能生巧",
+   "reading": "shú néng shēng qiǎo",
+   "meaning": "quen tay hay việc",
+   "emoji": "🎹",
+   "example": "多练习吧，熟能生巧。",
+   "exampleMeaning": "Luyện nhiều vào, quen tay hay việc."
+  },
+  {
+   "id": "sanxineryi",
+   "term": "三心二意",
+   "reading": "sān xīn èr yì",
+   "meaning": "không chuyên tâm (tam tâm nhị ý)",
+   "emoji": "🌀",
+   "example": "学习的时候不要三心二意。",
+   "exampleMeaning": "Khi học đừng có không chuyên tâm."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "我们",
+    "要",
+    "入乡随俗"
+   ],
+   "reading": "wǒmen yào rù xiāng suí sú",
+   "meaning": "Chúng ta phải nhập gia tùy tục."
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "祝",
+    "你",
+    "一路顺风"
+   ],
+   "reading": "zhù nǐ yí lù shùn fēng",
+   "meaning": "Chúc bạn thượng lộ bình an."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "学习",
+    "不能",
+    "半途而废"
+   ],
+   "reading": "xuéxí bù néng bàn tú ér fèi",
+   "meaning": "Học tập không được bỏ dở giữa chừng."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "多",
+    "练习",
+    "熟能生巧"
+   ],
+   "reading": "duō liànxí shú néng shēng qiǎo",
+   "meaning": "Luyện nhiều thì quen tay hay việc."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "这",
+    "是",
+    "一举两得",
+    "的",
+    "事"
+   ],
+   "reading": "zhè shì yì jǔ liǎng dé de shì",
+   "meaning": "Đây là chuyện một công đôi việc."
+  }
+ ]
+}

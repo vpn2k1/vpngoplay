@@ -8,6 +8,7 @@ import { COURSE_ICON, FLAG, MASCOT, ThinkingFace } from '../../components/icons'
 import { BackLabel, ProgressBar, SpeakButton, cx } from '../../components/ui'
 import { normalizeAnswer } from '../../lib/utils'
 import { courseQuery, courseWordsQuery } from '../../lib/api'
+import { useFollowLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
 import { COURSE_LABEL, LANGS, type CourseData, type CourseLevel } from '../../lib/types'
 
@@ -230,6 +231,7 @@ function CoursePage() {
   const { courseId } = Route.useParams()
   const { tab = 'lessons' } = Route.useSearch()
   const { data: course } = useSuspenseQuery(courseQuery(courseId))
+  useFollowLang(course.lang)
   const srs = useProgress((s) => s.srs)
   const level = courseId.split('-')[1] as CourseLevel
   const LevelIcon = COURSE_ICON[level]
@@ -253,6 +255,7 @@ function CoursePage() {
 
   const totalWords = course.lessons.reduce((n, l) => n + l.wordCount, 0)
   const readyCount = course.lessons.filter((l) => l.ready).length
+  const draftCount = course.lessons.filter((l) => l.draft).length
   const learned = [...stats.values()].reduce((n, s) => n + s.learned, 0)
   const due = [...stats.values()].reduce((n, s) => n + s.due, 0)
   const readyLessons = course.lessons.filter((l) => l.ready)
@@ -265,7 +268,7 @@ function CoursePage() {
 
   return (
     <div className="space-y-6">
-      <Link to="/" search={{ lang: course.lang }}>
+      <Link to="/">
         <BackLabel>Trang chủ</BackLabel>
       </Link>
 
@@ -291,6 +294,11 @@ function CoursePage() {
         {readyCount < course.lessons.length && (
           <p className="relative mt-2 inline-flex rounded-full bg-black/20 px-3 py-1 text-xs font-bold">
             Đã soạn {readyCount}/{course.lessons.length} bài — các bài còn lại đang được soạn
+          </p>
+        )}
+        {draftCount > 0 && (
+          <p className="relative mt-2 max-w-[75%] rounded-2xl bg-amber-400/90 px-3 py-1.5 text-xs font-bold text-amber-950">
+            {draftCount} bài là bản nháp soạn tự động từ từ điển mở: nghĩa và câu ví dụ có thể chưa chuẩn.
           </p>
         )}
         <div className="relative mt-5 max-w-[62%] sm:max-w-sm">

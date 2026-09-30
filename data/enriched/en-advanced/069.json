@@ -1,0 +1,319 @@
+{
+ "lesson": 69,
+ "draft": true,
+ "words": [
+  {
+   "term": "notable",
+   "meaning": "có tiếng, trứ danh",
+   "example": "Chemistry has made notable progress in recent years.",
+   "exampleMeaning": "Trong những năm gần đây, hóa học đã đạt được những thành tựu đáng kinh ngạc.",
+   "emoji": "",
+   "ipa": "/ˈnoʊtəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "quarry",
+   "meaning": "moi, tìm tòi",
+   "example": "to quarry in old manuscripts",
+   "exampleMeaning": "Tìm tòi trong các bản thảo cũ",
+   "emoji": "",
+   "ipa": "/ˈkwɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wary",
+   "meaning": "thận trọng, cẩn thận, cảnh giác",
+   "example": "to be wary of",
+   "exampleMeaning": "Coi chừng, đề phòng",
+   "emoji": "",
+   "ipa": "/ˈwɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blankness",
+   "meaning": "chỗ để trống, khoảng trống",
+   "example": "Let's learn the word \"blankness\".",
+   "exampleMeaning": "Cùng học từ “blankness”: chỗ để trống, khoảng trống.",
+   "emoji": "",
+   "ipa": "/blˈæŋknəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "climactic",
+   "meaning": "theo phép tiến dần",
+   "example": "Let's learn the word \"climactic\".",
+   "exampleMeaning": "Cùng học từ “climactic”: theo phép tiến dần.",
+   "emoji": "",
+   "ipa": "/klaɪˈmæktɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "saloon",
+   "meaning": "phòng khách lớn",
+   "example": "Let's learn the word \"saloon\".",
+   "exampleMeaning": "Cùng học từ “saloon”: phòng khách lớn.",
+   "emoji": "",
+   "ipa": "/səˈlun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "estimation",
+   "meaning": "sự đánh giá",
+   "example": "to hold someone in estimation",
+   "exampleMeaning": "Kính mến ai, quý trọng ai",
+   "emoji": "",
+   "ipa": "/ˌɛstəˈmeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wrench",
+   "meaning": "cờ lê",
+   "example": "he gave a wrench to his ankle",
+   "exampleMeaning": "Anh ta trật mắt cá",
+   "emoji": "🔧",
+   "ipa": "/ˈrɛntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "anticlimactic",
+   "meaning": "hạ xuống từ cực điểm",
+   "example": "Let's learn the word \"anticlimactic\".",
+   "exampleMeaning": "Cùng học từ “anticlimactic”: hạ xuống từ cực điểm.",
+   "emoji": "",
+   "ipa": "/ˌæntiklaɪˈmæktɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "amateur",
+   "meaning": "tài tử",
+   "example": "an amateur painter",
+   "exampleMeaning": "Hoạ sĩ tài tử",
+   "emoji": "",
+   "ipa": "/ˈæməˌtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "duration",
+   "meaning": "thời gian",
+   "example": "for the duration of the war",
+   "exampleMeaning": "Trong thời gian chiến tranh",
+   "emoji": "",
+   "ipa": "/ˈdʊˈreɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vitality",
+   "meaning": "sức sống, sinh khí",
+   "example": "an artificial language has no vitality",
+   "exampleMeaning": "Một ngôn ngữ giả tạo không thể tồn tại lâu dài",
+   "emoji": "",
+   "ipa": "/vaɪˈtæləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sarcastic",
+   "meaning": "chế nhạo, mỉa mai, châm biếm",
+   "example": "Let's learn the word \"sarcastic\".",
+   "exampleMeaning": "Cùng học từ “sarcastic”: chế nhạo, mỉa mai, châm biếm.",
+   "emoji": "",
+   "ipa": "/sɑrˈkæstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "waterfront",
+   "meaning": "bến tàu",
+   "example": "Let's learn the word \"waterfront\".",
+   "exampleMeaning": "Cùng học từ “waterfront”: bến tàu.",
+   "emoji": "",
+   "ipa": "/ˈwɔtɜrˌfrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impoverished",
+   "meaning": "đã làm nghèo",
+   "example": "Let's learn the word \"impoverished\".",
+   "exampleMeaning": "Cùng học từ “impoverished”: đã làm nghèo.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɑvrɪʃt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "verdict",
+   "meaning": "lời tuyên án, lời phán quyết",
+   "example": "verdict of not guilty",
+   "exampleMeaning": "Sự tuyên án vô tội",
+   "emoji": "",
+   "ipa": "/ˈvɜrdɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lethargy",
+   "meaning": "trạng thái hôn mê",
+   "example": "Let's learn the word \"lethargy\".",
+   "exampleMeaning": "Cùng học từ “lethargy”: trạng thái hôn mê.",
+   "emoji": "",
+   "ipa": "/ˈlɛθɜrdʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transatlantic",
+   "meaning": "vượt Đại tây dương",
+   "example": "a transatlantic flight",
+   "exampleMeaning": "Cuộc bay vượt Đại tây dương",
+   "emoji": "",
+   "ipa": "/ˌtrænzətˈlænɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "expire",
+   "meaning": "thở ra",
+   "example": "Let's learn the word \"expire\".",
+   "exampleMeaning": "Cùng học từ “expire”: thở ra.",
+   "emoji": "",
+   "ipa": "/ɪkˈspaɪə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "taut",
+   "meaning": "kéo căng, căng (dây thừng, chão)",
+   "example": "Let's learn the word \"taut\".",
+   "exampleMeaning": "Cùng học từ “taut”: kéo căng, căng (dây thừng, chão).",
+   "emoji": "",
+   "ipa": "/ˈtɔt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Chemistry",
+    "has",
+    "made",
+    "notable",
+    "progress",
+    "in",
+    "recent",
+    "years"
+   ],
+   "reading": "",
+   "meaning": "Trong những năm gần đây, hóa học đã đạt được những thành tựu đáng kinh ngạc."
+  },
+  {
+   "tokens": [
+    "I",
+    "expected",
+    "worse"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã mong chờ điều tệ hơn."
+  },
+  {
+   "tokens": [
+    "Wipe",
+    "your",
+    "eyes"
+   ],
+   "reading": "",
+   "meaning": "Lau mắt đi."
+  },
+  {
+   "tokens": [
+    "I",
+    "tickled",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã cù lét Tom."
+  },
+  {
+   "tokens": [
+    "Humans",
+    "are",
+    "parasites"
+   ],
+   "reading": "",
+   "meaning": "Con người là kí sinh trùng."
+  }
+ ],
+ "issues": []
+}

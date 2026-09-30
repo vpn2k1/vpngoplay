@@ -1,0 +1,317 @@
+{
+ "lesson": 32,
+ "draft": true,
+ "words": [
+  {
+   "term": "possibility",
+   "meaning": "sự có thể, tình trạng có thể, khả năng",
+   "example": "to be within the bounds of possibility",
+   "exampleMeaning": "Trong phạm vi khả năng",
+   "emoji": "",
+   "ipa": "/ˌpɑsəˈbɪləˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fond",
+   "meaning": "yêu mến quá đỗi, yêu dấu",
+   "example": "to be fond of music",
+   "exampleMeaning": "Thích nhạc",
+   "emoji": "",
+   "ipa": "/ˈfɑnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "meaningful",
+   "meaning": "đầy ý nghĩa, có ý nghĩa",
+   "example": "Let's learn the word \"meaningful\".",
+   "exampleMeaning": "Cùng học từ “meaningful”: đầy ý nghĩa, có ý nghĩa.",
+   "emoji": "",
+   "ipa": "/ˈminɪŋfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accurately",
+   "meaning": "đúng đắn, chính xác, xác đáng",
+   "example": "Let's learn the word \"accurately\".",
+   "exampleMeaning": "Cùng học từ “accurately”: đúng đắn, chính xác, xác đáng.",
+   "emoji": "",
+   "ipa": "/ˈækjɜrətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boot",
+   "meaning": "giày ống",
+   "example": "Let's learn the word \"boot\".",
+   "exampleMeaning": "Cùng học từ “boot”: giày ống.",
+   "emoji": "",
+   "ipa": "/buːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ecosystem",
+   "meaning": "hệ sinh thái",
+   "example": "Let's learn the word \"ecosystem\".",
+   "exampleMeaning": "Cùng học từ “ecosystem”: hệ sinh thái.",
+   "emoji": "",
+   "ipa": "/ˈikoʊˌsɪstəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "discrimination",
+   "meaning": "phân biệt",
+   "example": "Discrimination on grounds of race will not be tolerated.",
+   "exampleMeaning": "Sự phân biệt đối xử vì lí do chủng tộc sẽ không được dung thứ.",
+   "emoji": "",
+   "ipa": "/dɪsˌkrɪməˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grill",
+   "meaning": "tra hỏi, tra khảo",
+   "example": "to grill a prisoner",
+   "exampleMeaning": "Tra hỏi người tù",
+   "emoji": "",
+   "ipa": "/ˈɡrɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "faint",
+   "meaning": "yếu ớt",
+   "example": "a faint show of resistance",
+   "exampleMeaning": "Một sự chống cự yếu ớt",
+   "emoji": "",
+   "ipa": "/ˈfeɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "telegram",
+   "meaning": "bức điện, bức điện tín",
+   "example": "to send a telegram",
+   "exampleMeaning": "Đánh một bức điện tín",
+   "emoji": "",
+   "ipa": "/ˈtɛləˌɡræm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "acquaintance",
+   "meaning": "sự biết, sự hiểu biết",
+   "example": "to have a good acquaintance with Vietnam",
+   "exampleMeaning": "Hiểu biết rất rõ về Việt Nam",
+   "emoji": "",
+   "ipa": "/əˈkweɪntəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "schoolmate",
+   "meaning": "bạn học",
+   "example": "Let's learn the word \"schoolmate\".",
+   "exampleMeaning": "Cùng học từ “schoolmate”: bạn học.",
+   "emoji": "",
+   "ipa": "/ˈskulˌmeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "informative",
+   "meaning": "cung cấp nhiều tin tức",
+   "example": "Let's learn the word \"informative\".",
+   "exampleMeaning": "Cùng học từ “informative”: cung cấp nhiều tin tức.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈfɔrmətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "significance",
+   "meaning": "giá trị, sự quan trọng, sự đáng chú ý",
+   "example": "a look of deep significance",
+   "exampleMeaning": "Cái nhìn đầy ý nghĩa",
+   "emoji": "",
+   "ipa": "/səɡˈnɪfɪkəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "continuously",
+   "meaning": "liên tục, liên tiếp",
+   "example": "Let's learn the word \"continuously\".",
+   "exampleMeaning": "Cùng học từ “continuously”: liên tục, liên tiếp.",
+   "emoji": "",
+   "ipa": "/kənˈtɪnjuəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whichever",
+   "meaning": "nào, bất cứ... nào",
+   "example": "Take whichever flower you like.",
+   "exampleMeaning": "Lấy bất cứ bông hoa nào bạn thích.",
+   "emoji": "",
+   "ipa": "/hwɪˈtʃɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "slot",
+   "meaning": "đường đi của hươu nai",
+   "example": "Let's learn the word \"slot\".",
+   "exampleMeaning": "Cùng học từ “slot”: đường đi của hươu nai.",
+   "emoji": "",
+   "ipa": "/ˈslɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "property",
+   "meaning": "quyền sở hữu, tài sản, của cải",
+   "example": "I own some property in Australia.",
+   "exampleMeaning": "Tôi sở hữu một số tài sản ở Úc.",
+   "emoji": "",
+   "ipa": "/ˈprɒp.ə.ti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "violence",
+   "meaning": "bạo lực, sự cưỡng bức",
+   "example": "to do violence to one's principles",
+   "exampleMeaning": "Làm ngược lại với nguyên tắc mình đề ra",
+   "emoji": "",
+   "ipa": "/ˈvaɪələns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whale",
+   "meaning": "cá voi",
+   "example": "The whale is a very large mammal that lives in the sea.",
+   "exampleMeaning": "Cá voi là một loài động vật có vú khổng lồ sống ở biển.",
+   "emoji": "🐋",
+   "ipa": "/ˈhweɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Poverty",
+    "is",
+    "violence"
+   ],
+   "reading": "",
+   "meaning": "Nghèo khổ là bạo lực."
+  },
+  {
+   "tokens": [
+    "We",
+    "reject",
+    "violence"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi từ chối bạo lực."
+  },
+  {
+   "tokens": [
+    "Children",
+    "aren't",
+    "property"
+   ],
+   "reading": "",
+   "meaning": "Trẻ em không phải là tài sản."
+  },
+  {
+   "tokens": [
+    "What",
+    "is",
+    "this",
+    "discrimination"
+   ],
+   "reading": "",
+   "meaning": "Cái gì đây, phân biệt đối xử à?"
+  },
+  {
+   "tokens": [
+    "Take",
+    "whichever",
+    "flower",
+    "you",
+    "like"
+   ],
+   "reading": "",
+   "meaning": "Lấy bất cứ bông hoa nào bạn thích."
+  }
+ ],
+ "issues": []
+}

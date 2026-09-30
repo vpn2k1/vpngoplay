@@ -6,7 +6,7 @@ import { ArcadeShell } from '../../arcade/ArcadeShell'
 import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
 import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
 import { Bookmark, Dices, GraduationCap } from 'lucide-react'
-import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, TRACK_ICON } from '../../components/icons'
+import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, Scroll, TRACK_ICON } from '../../components/icons'
 import { cx } from '../../components/ui'
 import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery } from '../../lib/api'
 import {
@@ -21,12 +21,12 @@ import {
   savedWordsOf,
   type ReviewSource,
 } from '../../lib/review'
+import { useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
-import { COURSE_LABEL, LANGS, TRACKS, type Deck, type Lang } from '../../lib/types'
+import { COURSE_LABEL, TRACKS, type Deck } from '../../lib/types'
 
 export const Route = createFileRoute('/games/$gameId')({
   validateSearch: z.object({
-    lang: z.enum(['en', 'ja', 'zh']).optional(),
     /** a topic deck id, a course id (all its words), "all" for every topic deck of the language,
      *  or a review set: "saved" (word book) / "learned" (every studied word) */
     deck: z.string().optional(),
@@ -57,7 +57,8 @@ function GamePage() {
   const search = Route.useSearch()
   const game: ArcadeGame = ARCADE_GAMES[gameId as ArcadeGameId]
   const profile = useProgress((s) => s.profile)
-  const lang: Lang = search.lang ?? profile?.langs[0] ?? 'en'
+  const { lang, info } = useLang()
+  const LangFlag = FLAG[lang]
 
   const { data: catalog } = useSuspenseQuery(catalogQuery)
   const { data: courses } = useSuspenseQuery(coursesQuery)
@@ -116,32 +117,16 @@ function GamePage() {
         <Link
           to="/games/$gameId"
           params={{ gameId: nextGame }}
-          search={{ lang, deck: choice }}
+          search={{ deck: choice }}
           className="flex items-center justify-center gap-2 rounded-2xl bg-amber-100 px-4 py-2.5 text-sm font-bold text-amber-800 transition hover:bg-amber-200 dark:bg-amber-950 dark:text-amber-200"
         >
           <Dices className="size-5" /> Đổi sang trò ngẫu nhiên khác
         </Link>
       )}
-      <fieldset>
-        <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Ngôn ngữ</legend>
-        <div className="grid grid-cols-3 gap-2">
-          {(Object.keys(LANGS) as Lang[]).map((l) => {
-            const Flag = FLAG[l]
-            return (
-              <Link
-                key={l}
-                to="/games/$gameId"
-                params={{ gameId }}
-                search={{ lang: l }}
-                replace
-                className={chip(l === lang)}
-              >
-                <Flag className="size-6 shrink-0" /> <span className="truncate">{LANGS[l].label}</span>
-              </Link>
-            )
-          })}
-        </div>
-      </fieldset>
+      <p className="flex items-center gap-2 text-sm font-bold">
+        <LangFlag className="size-6 shrink-0" /> {info.label}
+        <span className="font-medium text-slate-400">· đổi ngôn ngữ ở lá cờ trên cùng</span>
+      </p>
       {usesDeck && (
         <fieldset>
           <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Bộ từ</legend>
@@ -165,7 +150,7 @@ function GamePage() {
                   key={id}
                   to="/games/$gameId"
                   params={{ gameId }}
-                  search={{ lang, deck: id }}
+                  search={{ deck: id }}
                   replace
                   className={chip(choice === id)}
                 >
@@ -184,7 +169,7 @@ function GamePage() {
                   key={c.id}
                   to="/games/$gameId"
                   params={{ gameId }}
-                  search={{ lang, deck: c.id }}
+                  search={{ deck: c.id }}
                   replace
                   className={chip(choice === c.id)}
                 >
@@ -201,7 +186,7 @@ function GamePage() {
             <Link
               to="/games/$gameId"
               params={{ gameId }}
-              search={{ lang, deck: ALL_WORDS }}
+              search={{ deck: ALL_WORDS }}
               replace
               className={chip(choice === ALL_WORDS)}
             >
@@ -211,13 +196,13 @@ function GamePage() {
               </span>
             </Link>
             {langDecks.map((d) => {
-              const Track = TRACK_ICON[d.track]
+              const Track = d.category === 'idioms' ? Scroll : TRACK_ICON[d.track]
               return (
                 <Link
                   key={d.id}
                   to="/games/$gameId"
                   params={{ gameId }}
-                  search={{ lang, deck: d.id }}
+                  search={{ deck: d.id }}
                   replace
                   className={chip(choice === d.id)}
                 >
@@ -225,7 +210,7 @@ function GamePage() {
                   <span className="min-w-0">
                     <span className="block truncate">{d.title}</span>
                     <span className="block text-xs font-medium text-slate-500">
-                      {TRACKS[d.track].label} · {d.level} · {d.wordCount} từ
+                      {d.category === 'idioms' ? 'Thành ngữ' : TRACKS[d.track].label} · {d.level} · {d.wordCount} từ
                     </span>
                   </span>
                 </Link>
@@ -243,7 +228,7 @@ function GamePage() {
         <p className="text-lg font-bold">
           Chưa đủ từ để chơi ({deck.words.length}/{MIN_REVIEW_WORDS}).
         </p>
-        <Link to="/review" search={{ lang }} className="mt-3 inline-block text-indigo-600 hover:underline">
+        <Link to="/review" className="mt-3 inline-block text-indigo-600 hover:underline">
           Về trang Ôn tập
         </Link>
       </div>

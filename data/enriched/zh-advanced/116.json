@@ -1,0 +1,325 @@
+{
+ "lesson": 116,
+ "draft": true,
+ "words": [
+  {
+   "term": "新奇",
+   "meaning": "mới lạ",
+   "example": "他初到工厂，处处觉得新奇。",
+   "exampleMeaning": "Lần đầu anh ấy đến xí nghiệp, chỗ nào cũng cảm thấy mới lạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小气",
+   "meaning": "keo kiệt",
+   "example": "我们来学“小气”这个词。",
+   "exampleMeaning": "Cùng học từ “小气”: keo kiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "越发",
+   "meaning": "càng",
+   "example": "过了中秋，天气越发凉快了。",
+   "exampleMeaning": "Qua Trung Thu, thời tiết càng mát mẻ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèfā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进而",
+   "meaning": "tiến tới",
+   "example": "把这些术语的含义弄清楚以后才能进而讨论文件的内容。",
+   "exampleMeaning": "Sau khi làm rõ hàm nghĩa của những thuật ngữ này mới có thể tiến tới thảo luận nội dung của văn kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnér",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "炭",
+   "meaning": "than đá",
+   "example": "山查炭",
+   "exampleMeaning": "Than cây sơn tra",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "简化",
+   "meaning": "đơn giản hoá",
+   "example": "简化手续。",
+   "exampleMeaning": "Đơn giản hoá thủ tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "针灸",
+   "meaning": "châm cứu",
+   "example": "我们来学“针灸”这个词。",
+   "exampleMeaning": "Cùng học từ “针灸”: châm cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnjiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "懒惰",
+   "meaning": "lười biếng",
+   "example": "这人太懒惰了，在家里什么事都不愿意干 。",
+   "exampleMeaning": "Anh ấy thật là lười biếng, ở trong nhà chẳng chịu làm gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎnduò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回首",
+   "meaning": "nhớ lại",
+   "example": "屡屡回首，不忍离去。",
+   "exampleMeaning": "Không đành lòng ra đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "可口",
+   "meaning": "ngon miệng",
+   "example": "吃着家乡风味的菜，觉得很可口。",
+   "exampleMeaning": "Thưởng thức những món ăn mang hương vị đồng quê, cảm thấy rất ngon miệng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "酗酒",
+   "meaning": "say rượu",
+   "example": "酗酒滋事",
+   "exampleMeaning": "Say rượu gây chuyện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùjiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "错觉",
+   "meaning": "ảo giác",
+   "example": "我们来学“错觉”这个词。",
+   "exampleMeaning": "Cùng học từ “错觉”: ảo giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuòjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陶醉",
+   "meaning": "say sưa",
+   "example": "陶醉于山川景色之中。",
+   "exampleMeaning": "Ngây ngất trước cảnh đẹp sông núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táozuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进出口",
+   "meaning": "xuất nhập khẩu",
+   "example": "我们来学“进出口”这个词。",
+   "exampleMeaning": "Cùng học từ “进出口”: xuất nhập khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnchūkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未免",
+   "meaning": "có phần",
+   "example": "你的顾虑未免多了一些。",
+   "exampleMeaning": "Những lo lắng của anh có hơi nhiều quá đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèimiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "池塘",
+   "meaning": "ao",
+   "example": "我们来学“池塘”这个词。",
+   "exampleMeaning": "Cùng học từ “池塘”: ao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chítáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名言",
+   "meaning": "nhận xét nổi tiếng",
+   "example": "我们来学“名言”这个词。",
+   "exampleMeaning": "Cùng học từ “名言”: nhận xét nổi tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "审批",
+   "meaning": "phê duyệt",
+   "example": "我们来学“审批”这个词。",
+   "exampleMeaning": "Cùng học từ “审批”: phê duyệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěnpī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "示意",
+   "meaning": "ra hiệu",
+   "example": "护士指了指门，示意他把门关上。",
+   "exampleMeaning": "Người y tá chỉ ra ngoài cửa, ra hiệu cho anh ấy đóng cửa lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海面",
+   "meaning": "mặt biển",
+   "example": "离海面一千米。",
+   "exampleMeaning": "Cách mặt biển 1.000 mét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎimiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "要",
+    "把",
+    "他",
+    "射",
+    "下来"
+   ],
+   "reading": "wǒ yào bǎ tā shè xiàlai",
+   "meaning": "Tao sẽ bắn hạ nó."
+  },
+  {
+   "tokens": [
+    "自由",
+    "是",
+    "有",
+    "代价",
+    "的"
+   ],
+   "reading": "zìyóu shì yǒu dàijià de",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  },
+  {
+   "tokens": [
+    "他",
+    "昨天",
+    "抵达",
+    "东京"
+   ],
+   "reading": "tā zuótiān dǐdá dōngjīng",
+   "meaning": "Anh ấy đã đến Tokyo hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "的",
+    "身体",
+    "太",
+    "瘦",
+    "了"
+   ],
+   "reading": "tā de shēntǐ tài shòu le",
+   "meaning": "Mình anh ta gầy quá."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "vocalist",
+   "meaning": "người hát",
+   "example": "Let's learn the word \"vocalist\".",
+   "exampleMeaning": "Cùng học từ “vocalist”: người hát.",
+   "emoji": "",
+   "ipa": "/ˈvoʊkəlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hyperbole",
+   "meaning": "phép ngoa dụ",
+   "example": "Let's learn the word \"hyperbole\".",
+   "exampleMeaning": "Cùng học từ “hyperbole”: phép ngoa dụ.",
+   "emoji": "",
+   "ipa": "/haɪˈpɜrbəˌli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "legislature",
+   "meaning": "cơ quan lập pháp",
+   "example": "Let's learn the word \"legislature\".",
+   "exampleMeaning": "Cùng học từ “legislature”: cơ quan lập pháp.",
+   "emoji": "",
+   "ipa": "/ˈlɛdʒəˌsleɪtʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clause",
+   "meaning": "mệnh đề",
+   "example": "Let's learn the word \"clause\".",
+   "exampleMeaning": "Cùng học từ “clause”: mệnh đề.",
+   "emoji": "",
+   "ipa": "/klɔːz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chancellor",
+   "meaning": "đại pháp quan",
+   "example": "The Lord Chancellor of England; the Lord High Chancellor.",
+   "exampleMeaning": "Đại pháp quan Anh.",
+   "emoji": "",
+   "ipa": "/ˈtʃɑːnsələ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "correspondent",
+   "meaning": "xứng với, tương ứng với",
+   "example": "to be correspondent to (with) something",
+   "exampleMeaning": "Xứng với vật gì; phù hợp với vật gì, đúng với vật gì",
+   "emoji": "",
+   "ipa": "/ˌkɔrəˈspɑndənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mango",
+   "meaning": "quả xoài",
+   "example": "What does mango taste like?",
+   "exampleMeaning": "Quả xoài có vị gì?",
+   "emoji": "🥭",
+   "ipa": "/ˈmæŋɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "altitude",
+   "meaning": "độ cao, đường cao",
+   "example": "altitude gauge (measurer)",
+   "exampleMeaning": "Máy đo độ cao",
+   "emoji": "",
+   "ipa": "/ˈæltəˌtud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "funky",
+   "meaning": "khiếp đảm",
+   "example": "Let's learn the word \"funky\".",
+   "exampleMeaning": "Cùng học từ “funky”: khiếp đảm.",
+   "emoji": "",
+   "ipa": "/ˈfəŋki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "carbon",
+   "meaning": "cacbon",
+   "example": "There is no life without carbon dioxide.",
+   "exampleMeaning": "Sự sống không thể tồn tại nếu thiếu cacbon điôxit.",
+   "emoji": "",
+   "ipa": "/ˈkɑrbən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "micrometer",
+   "meaning": "cái đo vi, trắc vi kế",
+   "example": "Let's learn the word \"micrometer\".",
+   "exampleMeaning": "Cùng học từ “micrometer”: cái đo vi, trắc vi kế.",
+   "emoji": "",
+   "ipa": "/maɪˈkrɑmətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "catalyst",
+   "meaning": "vật xúc tác, chất xúc tác",
+   "example": "Let's learn the word \"catalyst\".",
+   "exampleMeaning": "Cùng học từ “catalyst”: vật xúc tác, chất xúc tác.",
+   "emoji": "",
+   "ipa": "/ˈkætələst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bitterly",
+   "meaning": "bitter",
+   "example": "Let's learn the word \"bitterly\".",
+   "exampleMeaning": "Cùng học từ “bitterly”: bitter.",
+   "emoji": "",
+   "ipa": "/ˈbɪtɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unmistakably",
+   "meaning": "không thể lầm lẫn được",
+   "example": "Let's learn the word \"unmistakably\".",
+   "exampleMeaning": "Cùng học từ “unmistakably”: không thể lầm lẫn được.",
+   "emoji": "",
+   "ipa": "/ˌənmɪˈsteɪkəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "motion",
+   "meaning": "sự vận động, sự chuyển động, sự di động",
+   "example": "to motion someone to go out",
+   "exampleMeaning": "Ra hiệu cho ai đi ra",
+   "emoji": "",
+   "ipa": "/ˈmoʊʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "descriptive",
+   "meaning": "diễn tả, mô tả, miêu tả",
+   "example": "a descriptive writing",
+   "exampleMeaning": "Bài văn miêu tả",
+   "emoji": "",
+   "ipa": "/dɪsˈkrɪptɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enterprise",
+   "meaning": "doanh nghiệp",
+   "example": "Let's learn the word \"enterprise\".",
+   "exampleMeaning": "Cùng học từ “enterprise”: doanh nghiệp.",
+   "emoji": "",
+   "ipa": "/ˈɛnɜrˌpraɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overly",
+   "meaning": "quá, thái quá, quá mức",
+   "example": "Let's learn the word \"overly\".",
+   "exampleMeaning": "Cùng học từ “overly”: quá, thái quá, quá mức.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "audit",
+   "meaning": "sự kiểm tra (sổ sách)",
+   "example": "Let's learn the word \"audit\".",
+   "exampleMeaning": "Cùng học từ “audit”: sự kiểm tra (sổ sách).",
+   "emoji": "",
+   "ipa": "/ˈɔdɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fulfill",
+   "meaning": "thực hiện, hoàn thành",
+   "example": "to fulfill one's hopes",
+   "exampleMeaning": "Thực hiện nguyện vọng của mình",
+   "emoji": "",
+   "ipa": "/fʊlˈfɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "is",
+    "a",
+    "good",
+    "correspondent"
+   ],
+   "reading": "",
+   "meaning": "Anh ta là một phóng viên giỏi."
+  },
+  {
+   "tokens": [
+    "What",
+    "does",
+    "mango",
+    "taste",
+    "like"
+   ],
+   "reading": "",
+   "meaning": "Quả xoài có vị gì?"
+  },
+  {
+   "tokens": [
+    "What",
+    "does",
+    "mango",
+    "smell",
+    "like"
+   ],
+   "reading": "",
+   "meaning": "Quả xoài có mùi gì?"
+  },
+  {
+   "tokens": [
+    "There",
+    "is",
+    "no",
+    "life",
+    "without",
+    "carbon",
+    "dioxide"
+   ],
+   "reading": "",
+   "meaning": "Sự sống không thể tồn tại nếu thiếu cacbon điôxit."
+  },
+  {
+   "tokens": [
+    "He",
+    "played",
+    "an",
+    "important",
+    "part",
+    "in",
+    "the",
+    "enterprise"
+   ],
+   "reading": "",
+   "meaning": "Ông ấy đóng một vai trò quan trọng trong doanh nghiệp."
+  }
+ ],
+ "issues": []
+}

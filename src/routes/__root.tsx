@@ -4,6 +4,7 @@ import { Settings, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
 import { BookmarkTabs, Books, Compass, Fire, GlowingStar, Joystick } from '../components/icons'
 import { CloudSync } from '../components/CloudSync'
+import { LanguageSwitcher } from '../components/LanguageSwitcher'
 import { cx } from '../components/ui'
 import { useProgress, useStreak } from '../lib/store'
 
@@ -44,7 +45,7 @@ function SectionTabs() {
           key={tab.id}
           to={tab.to}
           className={cx(
-            'relative rounded-xl px-3 py-1.5 text-sm font-bold transition-colors sm:px-4',
+            'relative rounded-xl px-2 py-1.5 text-sm font-bold transition-colors sm:px-4',
             section === tab.id
               ? 'text-slate-900 dark:text-white'
               : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300',
@@ -79,12 +80,14 @@ function RootLayout() {
   const streak = useStreak()
 
   return (
-    <div className="min-h-dvh bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
+    // overflow-x-clip: slide-in animations never cause sideways scrolling (clip keeps the sticky header working).
+    <div className="min-h-dvh overflow-x-clip bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
       <header className="sticky top-0 z-10 border-b border-slate-200 bg-white/80 backdrop-blur dark:border-slate-800 dark:bg-slate-950/80">
-        <div className="mx-auto flex max-w-3xl items-center justify-between gap-2 px-4 py-2.5">
+        <div className="mx-auto flex max-w-3xl items-center justify-between gap-1.5 px-3 py-2.5 sm:gap-2 sm:px-4">
+          {/* Below 360px the logo gives way to the tabs ("Học tập" also leads home). */}
           <Link
             to="/"
-            className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight"
+            className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight max-[359px]:hidden"
             aria-label="VpngoPlay"
           >
             <span className="flex size-9 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-500 to-fuchsia-500 shadow-md shadow-indigo-500/30">
@@ -98,11 +101,12 @@ function RootLayout() {
             </span>
           </Link>
           <SectionTabs />
-          <div className="flex shrink-0 items-center gap-1.5 text-sm font-semibold">
+          <div className="flex shrink-0 items-center gap-0.5 text-sm font-semibold sm:gap-1.5">
+            <LanguageSwitcher />
             {hasProfile && (
               <>
                 <span
-                  className="inline-flex items-center gap-1 rounded-full bg-orange-100 py-1 pr-2.5 pl-1.5 text-orange-700 dark:bg-orange-950 dark:text-orange-300"
+                  className="inline-flex items-center gap-1 rounded-full bg-orange-100 py-1 pr-2 pl-1 text-orange-700 sm:pr-2.5 sm:pl-1.5 dark:bg-orange-950 dark:text-orange-300"
                   title="Chuỗi ngày học"
                 >
                   <Fire className="size-5" /> {streak}
@@ -121,14 +125,14 @@ function RootLayout() {
             )}
             <Link
               to="/leaderboard"
-              className="rounded-xl p-2 text-slate-500 transition hover:bg-slate-200 hover:text-amber-500 dark:hover:bg-slate-800"
+              className="rounded-xl p-1.5 text-slate-500 transition hover:bg-slate-200 hover:text-amber-500 sm:p-2 dark:hover:bg-slate-800"
               aria-label="Bảng xếp hạng"
             >
               <Trophy className="size-5" />
             </Link>
             <Link
               to="/settings"
-              className="rounded-xl p-2 text-slate-500 transition hover:rotate-45 hover:bg-slate-200 hover:text-slate-700 dark:hover:bg-slate-800 dark:hover:text-slate-200"
+              className="rounded-xl p-1.5 text-slate-500 transition hover:rotate-45 hover:bg-slate-200 hover:text-slate-700 sm:p-2 dark:hover:bg-slate-800 dark:hover:text-slate-200"
               aria-label="Cài đặt"
             >
               <Settings className="size-5" />

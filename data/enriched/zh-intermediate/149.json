@@ -1,0 +1,328 @@
+{
+ "lesson": 149,
+ "draft": true,
+ "words": [
+  {
+   "term": "顺着",
+   "meaning": "dọc theo",
+   "example": "我们来学“顺着”这个词。",
+   "exampleMeaning": "Cùng học từ “顺着”: dọc theo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùnzhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伴随",
+   "meaning": "đi đôi với",
+   "example": "伴随着生产的大发展，必将出现一个文化高潮。",
+   "exampleMeaning": "Cùng với sự phát triển mạnh mẽ của sản xuất, tất nhiên phải xuất hiện cao trào văn hoá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànsuí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扬",
+   "meaning": "nâng lên, đỡ dậy",
+   "example": "把种子晒干扬净。",
+   "exampleMeaning": "Đem hạt giống phơi khô rê sạch",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "悲哀",
+   "meaning": "thương tâm",
+   "example": "一种幻灭似的悲哀，抓住了他的心灵。",
+   "exampleMeaning": "Một nỗi thương tâm nát tan xiết lấy tâm hồn anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēiāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "欢呼",
+   "meaning": "hoan hô",
+   "example": "他作为英雄而受到欢呼。",
+   "exampleMeaning": "Anh ấy là anh hùng nên nhận được sự hoan hô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huānhū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阳性",
+   "meaning": "dương tính",
+   "example": "我们来学“阳性”这个词。",
+   "exampleMeaning": "Cùng học từ “阳性”: dương tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壮",
+   "meaning": "dân tộc Choang",
+   "example": "中国广西壮族自治区。",
+   "exampleMeaning": "Khu tự trị dân tộc Choang Quảng Tây, Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辞",
+   "meaning": "từ",
+   "example": "不辞辛苦。",
+   "exampleMeaning": "Không ngại gian khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cí",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预定",
+   "meaning": "dự định",
+   "example": "这项工程预定在明年完成。",
+   "exampleMeaning": "Công trình này dự định sang năm hoàn thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "审",
+   "meaning": "khám xét, xem xét, thẩm tra",
+   "example": "审如其言。",
+   "exampleMeaning": "Quả đúng như đã nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "称呼",
+   "meaning": "xưng hô",
+   "example": "你说我该怎么称呼她?",
+   "exampleMeaning": "Anh bảo tôi nên xưng hô như thế nào với cô ta?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēnghu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "倒数",
+   "meaning": "số nghịch đảo",
+   "example": "我们来学“倒数”这个词。",
+   "exampleMeaning": "Cùng học từ “倒数”: số nghịch đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàoshǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "说道",
+   "meaning": "bàn bạc",
+   "example": "我跟他说说道道再作决定。",
+   "exampleMeaning": "Tôi bàn bạc với anh ấy rồi mới quyết định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "屋顶",
+   "meaning": "mái nhà",
+   "example": "我们来学“屋顶”这个词。",
+   "exampleMeaning": "Cùng học từ “屋顶”: mái nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wūdǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "临",
+   "meaning": "sắp",
+   "example": "事先打个招呼，别叫我临时抓瞎。",
+   "exampleMeaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lín",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "指引",
+   "meaning": "chỉ dẫn",
+   "example": "猎人指引他通过了林区。",
+   "exampleMeaning": "Được người thợ săn chỉ dẫn anh ấy qua khỏi khu rừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐyǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "嘲笑",
+   "meaning": "chế giễu",
+   "example": "我们来学“嘲笑”这个词。",
+   "exampleMeaning": "Cùng học từ “嘲笑”: chế giễu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cháoxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公积金",
+   "meaning": "công quỹ",
+   "example": "我们来学“公积金”这个词。",
+   "exampleMeaning": "Cùng học từ “公积金”: công quỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngjījīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "罩",
+   "meaning": "khoác",
+   "example": "汤姆脱了口罩。",
+   "exampleMeaning": "Tom đã tháo mặt nạ ra rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新生",
+   "meaning": "mới xuất hiện",
+   "example": "新生力量。",
+   "exampleMeaning": "Lực lượng mới xuất hiện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "汤姆",
+    "脱",
+    "了",
+    "口罩"
+   ],
+   "reading": "tāngmǔ tuō le kǒuzhào",
+   "meaning": "Tom đã tháo mặt nạ ra rồi đấy."
+  },
+  {
+   "tokens": [
+    "事先",
+    "打",
+    "个",
+    "招呼",
+    "别",
+    "叫",
+    "我",
+    "临时",
+    "抓瞎"
+   ],
+   "reading": "shìxiān dǎ gè zhāohu bié jiào wǒ línshí zhuāxiā",
+   "meaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng."
+  },
+  {
+   "tokens": [
+    "我",
+    "睡",
+    "了",
+    "个",
+    "好",
+    "觉"
+   ],
+   "reading": "wǒ shuì le gè hǎo jiào",
+   "meaning": "Tôi đã có một giấc ngủ ngon."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "表",
+    "被",
+    "偷",
+    "了"
+   ],
+   "reading": "wǒ de biǎo bèi tōu le",
+   "meaning": "Đồng hồ của tôi bị trộm mất rồi."
+  },
+  {
+   "tokens": [
+    "他",
+    "怎么",
+    "敢",
+    "抱怨"
+   ],
+   "reading": "tā zěnme gǎn bàoyuàn",
+   "meaning": "Sao anh ta lại dám phàn nàn cơ chứ?"
+  }
+ ],
+ "issues": []
+}

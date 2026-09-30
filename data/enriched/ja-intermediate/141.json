@@ -1,0 +1,333 @@
+{
+ "lesson": 141,
+ "draft": true,
+ "words": [
+  {
+   "term": "生臭い",
+   "meaning": "cá",
+   "example": "「生臭い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生臭い”: cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うつむく",
+   "meaning": "cúi rạp xuống",
+   "example": "「うつむく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “うつむく”: cúi rạp xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "簡素",
+   "meaning": "tính đơn giản",
+   "example": "「簡素」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “簡素”: tính đơn giản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心掛け",
+   "meaning": "sự sẵn sàng (làm việc gì)",
+   "example": "「心掛け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “心掛け”: sự sẵn sàng (làm việc gì).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ゼリー",
+   "meaning": "rau câu",
+   "example": "彼の好きなのはゼリーです。",
+   "exampleMeaning": "Thứ anh ấy thích là món thạch rau câu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "独自",
+   "meaning": "gốc, (thuộc) nguồn gốc",
+   "example": "「独自」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “独自”: gốc, (thuộc) nguồn gốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教訓",
+   "meaning": "bài học",
+   "example": "彼の失敗は私にとって良い教訓になりました。",
+   "exampleMeaning": "Thất bại của anh ta là một bài học hay đối với tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "イェス",
+   "meaning": "vâng, phải, dạ",
+   "example": "「イェス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “イェス”: vâng, phải, dạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対決",
+   "meaning": "sự chạm trán, sự đương đầu",
+   "example": "「対決」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対決”: sự chạm trán, sự đương đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "微塵",
+   "meaning": "chút, tí chút",
+   "example": "「微塵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “微塵”: chút, tí chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ガイドブック",
+   "meaning": "sách hướng dẫn du lịch",
+   "example": "「ガイドブック」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ガイドブック”: sách hướng dẫn du lịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対抗",
+   "meaning": "sự đối lập, sự đối nhau",
+   "example": "「対抗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対抗”: sự đối lập, sự đối nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "染みる",
+   "meaning": "ngâm, nhúng",
+   "example": "「染みる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “染みる”: ngâm, nhúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "背く",
+   "meaning": "đi ngược",
+   "example": "「背く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “背く”: đi ngược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "必然",
+   "meaning": "không thể tránh được, chắc chắn xảy ra",
+   "example": "「必然」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “必然”: không thể tránh được, chắc chắn xảy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国定",
+   "meaning": "dân tộc",
+   "example": "「国定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国定”: dân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貝殻",
+   "meaning": "vỏ: cấu trúc rỗng và cứng nói chung",
+   "example": "「貝殻」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貝殻”: vỏ: cấu trúc rỗng và cứng nói chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "襲撃",
+   "meaning": "sự tấn công, sự công kích",
+   "example": "「襲撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “襲撃”: sự tấn công, sự công kích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕上げる",
+   "meaning": "hoàn thành, làm xong",
+   "example": "「仕上げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕上げる”: hoàn thành, làm xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提示",
+   "meaning": "sự bày ra, sự phô ra",
+   "example": "「提示」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “提示”: sự bày ra, sự phô ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "好きな",
+    "の",
+    "は",
+    "ゼリー",
+    "です"
+   ],
+   "reading": "かれのすきなのはゼリーです",
+   "meaning": "Thứ anh ấy thích là món thạch rau câu."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "死後",
+    "の",
+    "こと",
+    "には",
+    "興味",
+    "が",
+    "ない"
+   ],
+   "reading": "わたしはしごのことにはきょうみがない",
+   "meaning": "Tôi không hứng thú với chuyện kiếp sau."
+  },
+  {
+   "tokens": [
+    "子供の頃",
+    "から",
+    "冒険",
+    "が",
+    "好き",
+    "だった"
+   ],
+   "reading": "こどものころからぼうけんがすきだった",
+   "meaning": "Từ thuở còn nhỏ tôi đã thích phiêu lưu."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ほか",
+    "ならぬ",
+    "大統領",
+    "に",
+    "会った"
+   ],
+   "reading": "わたしはほかならぬだいとうりょうにあった",
+   "meaning": "Tôi đã gặp mặt chính ngài tổng thống."
+  },
+  {
+   "tokens": [
+    "その",
+    "老人",
+    "は",
+    "先週",
+    "なくなりました"
+   ],
+   "reading": "そのろうじんはせんしゅうなくなりました",
+   "meaning": "Ông lão đó đã qua đời tuần trước."
+  }
+ ],
+ "issues": []
+}

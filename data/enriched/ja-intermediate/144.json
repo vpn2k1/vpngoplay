@@ -1,0 +1,341 @@
+{
+ "lesson": 144,
+ "draft": true,
+ "words": [
+  {
+   "term": "のどか",
+   "meaning": "lặng lẽ, yên lặng, yên tĩnh",
+   "example": "「のどか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “のどか”: lặng lẽ, yên lặng, yên tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "増強",
+   "meaning": "tăng cường, củng cố",
+   "example": "「増強」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “増強”: tăng cường, củng cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天災",
+   "meaning": "thiên tai",
+   "example": "「天災」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “天災”: thiên tai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隔週",
+   "meaning": "every other week (EN)",
+   "example": "私の両親は離婚してるので、隔週末だけお父さんと過ごします。",
+   "exampleMeaning": "Vì bố mẹ tôi ly hôn rồi, nên tôi chỉ dành thời gian với bố tôi vào các ngày cuối tuần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鉱山",
+   "meaning": "mỏ",
+   "example": "「鉱山」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鉱山”: mỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成熟",
+   "meaning": "tính chín",
+   "example": "「成熟」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “成熟”: tính chín.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いじる",
+   "meaning": "chạm, đụng, sờ",
+   "example": "「いじる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いじる”: chạm, đụng, sờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正義",
+   "meaning": "sự công bằng",
+   "example": "正義が行動によって表される。",
+   "exampleMeaning": "Sự chính nghĩa được thể hiện qua hành động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "振り出し",
+   "meaning": "căn nguyên, điểm bắt đầu",
+   "example": "「振り出し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “振り出し”: căn nguyên, điểm bắt đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伝達",
+   "meaning": "sự chuyển giao, sự truyền",
+   "example": "そういった活動を通じて、ユネスコ認定の遺産をはじめ、ベトナムにおけるそのほかの自然文化財の保護、修復や価値伝達に関する知識、経験などの共有をしていきたいです。",
+   "exampleMeaning": "Qua đó chúng ta có thể học hỏi những bài học và kiến thức về bảo vệ, bảo tồn di sản và phát huy giá trị di sản, tự nhiên, cũng như các loại hình, danh hiệu khác của UNESCO tại Việt Nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "基金",
+   "meaning": "quỹ",
+   "example": "彼は難民救済基金に１万ドルを寄付した。",
+   "exampleMeaning": "Anh ấy đã quyên góp 10 nghìn Đô-la cho quỹ hỗ trợ người tị nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "見通し",
+   "meaning": "quan điểm, góc nhìn",
+   "example": "「見通し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見通し”: quan điểm, góc nhìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "運輸",
+   "meaning": "sự chuyên chở, sự vận tải",
+   "example": "「運輸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “運輸”: sự chuyên chở, sự vận tải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冷蔵",
+   "meaning": "sự làm lạnh",
+   "example": "冷蔵庫に残り物があります。",
+   "exampleMeaning": "Trong tủ lạnh còn đồ ăn thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "襲う",
+   "meaning": "tấn công, công kích",
+   "example": "「襲う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “襲う”: tấn công, công kích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分子",
+   "meaning": "người đếm, người tính",
+   "example": "「分子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分子”: người đếm, người tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ドライバー",
+   "meaning": "người lái xe ô tô",
+   "example": "「ドライバー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ドライバー”: người lái xe ô tô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合唱",
+   "meaning": "hợp xướng, đồng ca",
+   "example": "「合唱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合唱”: hợp xướng, đồng ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "報酬",
+   "meaning": "sự thưởng, sự trả công, sự đền đáp",
+   "example": "「報酬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “報酬”: sự thưởng, sự trả công, sự đền đáp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拒否",
+   "meaning": "sự từ chối, sự khước từ",
+   "example": "彼女が拒否したらどうしよう。",
+   "exampleMeaning": "Nhỡ cô ấy từ chối thì sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "その",
+    "質問",
+    "に",
+    "答える",
+    "こと",
+    "を",
+    "拒否",
+    "する"
+   ],
+   "reading": "わたしはそのしつもんにこたえることをきょひする",
+   "meaning": "Tôi từ chối trả lời câu hỏi đó."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "その",
+    "金",
+    "を",
+    "受け取る",
+    "こと",
+    "を",
+    "拒否",
+    "した"
+   ],
+   "reading": "かのじょはそのきんをうけとることをきょひした",
+   "meaning": "Cô ấy đã từ chối nhận tiền."
+  },
+  {
+   "tokens": [
+    "冷蔵庫",
+    "を",
+    "開けて",
+    "みたら",
+    "肉",
+    "が",
+    "腐っている",
+    "のに",
+    "気付いた"
+   ],
+   "reading": "れいぞうこをあけてみたらにくがくさっているのにきづいた",
+   "meaning": "Khi tôi mở tủ lạnh ra, tôi để ý thấy thịt trong tủ lạnh đã thiu rồi."
+  },
+  {
+   "tokens": [
+    "正義",
+    "が",
+    "行動",
+    "によって",
+    "表される"
+   ],
+   "reading": "せいぎがこうどうによってあらわされる",
+   "meaning": "Sự chính nghĩa được thể hiện qua hành động."
+  },
+  {
+   "tokens": [
+    "ぼく",
+    "は",
+    "この",
+    "点",
+    "を",
+    "特に",
+    "強調",
+    "したい"
+   ],
+   "reading": "ぼくはこのてんをとくにきょうちょうしたい",
+   "meaning": "Tôi muốn nhấn mạnh vào điểm này."
+  }
+ ],
+ "issues": []
+}

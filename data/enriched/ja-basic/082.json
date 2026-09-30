@@ -1,0 +1,332 @@
+{
+ "lesson": 82,
+ "draft": true,
+ "words": [
+  {
+   "term": "冷ます",
+   "meaning": "làm mát, làm nguội, trở mát",
+   "example": "「冷ます」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冷ます”: làm mát, làm nguội, trở mát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盛り",
+   "meaning": "sự giúp đỡ",
+   "example": "女体盛りとは、女性の裸体に刺身など食べ物を盛り付けることを言う。",
+   "exampleMeaning": "\"Sushi khỏa thân\" là một từ chỉ việc bày trí các món ăn như sashimi lên cơ thể người phụ nữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "裏切る",
+   "meaning": "bội phản đem nộp cho",
+   "example": "「裏切る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裏切る”: bội phản đem nộp cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地方",
+   "meaning": "diện tích, bề mặt",
+   "example": "「地方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地方”: diện tích, bề mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仮定",
+   "meaning": "sự mặc định (là đúng)",
+   "example": "１０年経って、世界に石油が不足すると仮定しよう。工業国に何が起こるだろうか。",
+   "exampleMeaning": "Hãy giả sử là sau mười năm, thế giới sẽ thiếu dầu. Vậy điều gì sẽ xảy ra với các nước công nghiệp?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "唯",
+   "meaning": "thường, thông thường, bình thường",
+   "example": "彼女は私の唯一の友達だった。",
+   "exampleMeaning": "Cô ấy là người bạn duy nhất của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "品",
+   "meaning": "hàng hoá, của cải, động sản",
+   "example": "その店は全品値上げした。",
+   "exampleMeaning": "Giá của tất cả các mặt hàng trong cửa hàng đó đều đã tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "笑顔",
+   "meaning": "mỉm cười, cười tủm tỉm",
+   "example": "彼女は加藤先生に笑顔であいさつした。",
+   "exampleMeaning": "Cô ấy đã mỉm cười chào thầy Kato.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "扱う",
+   "meaning": "đối xử, đối đãi, cư xử",
+   "example": "「扱う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “扱う”: đối xử, đối đãi, cư xử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "求める",
+   "meaning": "thỉnh cầu, yêu cầu, đề nghị",
+   "example": "「求める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “求める”: thỉnh cầu, yêu cầu, đề nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ボーイ",
+   "meaning": "người khuân vác hành lí (ở khách sạn)",
+   "example": "彼は海辺のレストランのボーイである。",
+   "exampleMeaning": "Anh ấy làm bồi bàn cho một nhà hàng bên bờ biển",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "修正",
+   "meaning": "sự cải tà quy chính",
+   "example": "「修正」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “修正”: sự cải tà quy chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "者",
+   "meaning": "con người, người",
+   "example": "彼女は初心者だ。",
+   "exampleMeaning": "Cô ấy là người mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学問",
+   "meaning": "sự học rộng, sự uyên thâm, sự uyên bác",
+   "example": "「学問」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学問”: sự học rộng, sự uyên thâm, sự uyên bác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "級",
+   "meaning": "dãy, năm, giai cấp",
+   "example": "トムとメアリーは高級ホテルに宿泊した。",
+   "exampleMeaning": "Tom và Mary đã ở trong một khách sạn cao cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "独り",
+   "meaning": "một mình, trơ trọi, cô độc",
+   "example": "彼は独り言を言いました。",
+   "exampleMeaning": "Anh ấy đã nói chuyện một mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "単純",
+   "meaning": "đơn, đơn giản",
+   "example": "彼女は子供のように単純だ。",
+   "exampleMeaning": "Cô ta có một tâm hồn giản đơn như một đứa trẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "揚げる",
+   "meaning": "giơ lên, nhấc lên, nâng lên",
+   "example": "「揚げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “揚げる”: giơ lên, nhấc lên, nâng lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "離婚",
+   "meaning": "ly hôn, ly dị",
+   "example": "両親が離婚した。",
+   "exampleMeaning": "Bố mẹ tôi đã ly hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "確実",
+   "meaning": "chắc, chắc chắn",
+   "example": "昨年は経済的に不確実な時代でした。",
+   "exampleMeaning": "Năm ngoái là một thời kỳ không chắc chắn của nền kinh tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "拾った",
+    "者",
+    "が",
+    "持ち主"
+   ],
+   "reading": "ひろったものがもちぬし",
+   "meaning": "Ai tìm thấy thì được hưởng, ai làm mất thì ráng chịu."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "子供",
+    "のように",
+    "単純",
+    "だ"
+   ],
+   "reading": "かのじょはこどものようにたんじゅんだ",
+   "meaning": "Cô ta có một tâm hồn giản đơn như một đứa trẻ."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "私",
+    "を",
+    "医者",
+    "だ",
+    "と",
+    "思った"
+   ],
+   "reading": "かのじょはわたしをいしゃだとおもった",
+   "meaning": "Cô ấy đã cho rằng tôi là một bác sỹ."
+  },
+  {
+   "tokens": [
+    "患者",
+    "の",
+    "症状",
+    "は",
+    "日ごとに",
+    "変化",
+    "する"
+   ],
+   "reading": "かんじゃのしょうじょうはひごとにへんかする",
+   "meaning": "Triệu chứng của bệnh nhân thay đổi theo từng ngày."
+  },
+  {
+   "tokens": [
+    "贅沢品",
+    "の",
+    "市場",
+    "は",
+    "急速",
+    "に",
+    "成長",
+    "している"
+   ],
+   "reading": "ぜいたくひんのしじょうはきゅうそくにせいちょうしている",
+   "meaning": "Thị trường sản phẩm cao cấp đang phát triển một cách nhanh chóng."
+  }
+ ],
+ "issues": []
+}

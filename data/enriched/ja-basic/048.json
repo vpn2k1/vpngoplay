@@ -1,0 +1,328 @@
+{
+ "lesson": 48,
+ "draft": true,
+ "words": [
+  {
+   "term": "決して",
+   "meaning": "bao giờ",
+   "example": "値段は決して高くない。",
+   "exampleMeaning": "Giá cả chưa bao giờ đắt cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "彼",
+   "meaning": "nó, anh ấy, ông ấy",
+   "example": "彼寝てる？",
+   "exampleMeaning": "Anh ấy ngủ chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "育てる",
+   "meaning": "dạy, dạy dỗ, rèn luyện",
+   "example": "親たる者は、子供をしっかり育てるべきである。",
+   "exampleMeaning": "Đã là bậc cha mẹ thì phải biết nuôi dạy con cái cẩn thận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小学校",
+   "meaning": "trường sơ cấp",
+   "example": "「小学校」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小学校”: trường sơ cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壊す",
+   "meaning": "làm gãy, bẻ gãy, làm đứt",
+   "example": "「壊す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “壊す”: làm gãy, bẻ gãy, làm đứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文化",
+   "meaning": "sự mở mang, sự tu dưỡng, sự trao đổi",
+   "example": "日本文化に造詣深いことはいいことです。",
+   "exampleMeaning": "Việc hiểu biết chuyên sâu về văn hóa Nhật Bản là một điều tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "喜ぶ",
+   "meaning": "làm cho vui mừng, làm cho hoan hỉ",
+   "example": "彼は君に会えば喜ぶでしょう。",
+   "exampleMeaning": "Anh ấy sẽ vui nếu có thể gặp được bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "入院",
+   "meaning": "sự đưa vào bệnh viện",
+   "example": "トムって、入院中なの？",
+   "exampleMeaning": "Tom đang nhập viện có đúng không vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "気",
+   "meaning": "tâm, tâm trí, tinh thần",
+   "example": "やあ！元気？",
+   "exampleMeaning": "Ê! Khỏe không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "具合",
+   "meaning": "điều kiện",
+   "example": "「具合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “具合”: điều kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真面目",
+   "meaning": "siêng năng, chuyên cần, cần cù",
+   "example": "「真面目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真面目”: siêng năng, chuyên cần, cần cù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "運動",
+   "meaning": "thể dục, sự rèn luyện thân thể",
+   "example": "運動してもいいですか？",
+   "exampleMeaning": "Tôi tập thể dục có được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "はっきり",
+   "meaning": "rõ ràng, sáng sủa, sáng tỏ",
+   "example": "彼が来るかどうかは、はっきりしない。",
+   "exampleMeaning": "Anh ấy không nói rõ là anh ấy có đến hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大体",
+   "meaning": "khoảng chừng, độ chừng",
+   "example": "「大体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大体”: khoảng chừng, độ chừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反対",
+   "meaning": "chống đối, phản đối",
+   "example": "トムは反対したの？",
+   "exampleMeaning": "Tom có phản đối không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "できるだけ",
+   "meaning": "càng thêm càng tốt, nhiều nhất có thể",
+   "example": "できるだけ早く来ます。",
+   "exampleMeaning": "Tôi sẽ đến sớm nhất có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "美しい",
+   "meaning": "đẹp",
+   "example": "あの橋は大変美しい。",
+   "exampleMeaning": "Cây cầu kia rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "贈り物",
+   "meaning": "quà",
+   "example": "「贈り物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “贈り物”: quà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "畳",
+   "meaning": "tatami mat (EN)",
+   "example": "トムは傘を畳んだ。",
+   "exampleMeaning": "Tom gập ô lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ワープロ",
+   "meaning": "máy xử lý văn bản, trình xử lý văn bản",
+   "example": "「ワープロ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ワープロ”: máy xử lý văn bản, trình xử lý văn bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "急に",
+    "病気になった"
+   ],
+   "reading": "かれはきゅうにびょうきになった",
+   "meaning": "Anh ta đột nhiên ngã bệnh."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "病気",
+    "で",
+    "休んでいる"
+   ],
+   "reading": "かれはびょうきでやすんでいる",
+   "meaning": "Anh ấy đang nghỉ ốm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私の",
+    "病気",
+    "を",
+    "治した"
+   ],
+   "reading": "かれはわたしのびょうきをなおした",
+   "meaning": "Anh ấy đã chữa khỏi căn bệnh của tôi."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "が",
+    "病気",
+    "だ",
+    "と",
+    "思った"
+   ],
+   "reading": "わたしはかれがびょうきだとおもった",
+   "meaning": "Tôi tưởng anh ấy bị ốm."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "美しい",
+    "ドレス",
+    "を",
+    "着た"
+   ],
+   "reading": "かのじょはうつくしいドレスをきた",
+   "meaning": "Cô ấy đã mặc một chiếc váy xinh đẹp."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,347 @@
+{
+ "lesson": 29,
+ "draft": true,
+ "words": [
+  {
+   "term": "啃",
+   "meaning": "gặm, ăn mòn",
+   "example": "啃老玉米。",
+   "exampleMeaning": "Gặm bắp già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吸取",
+   "meaning": "rút ra",
+   "example": "吸取经验教训",
+   "exampleMeaning": "Rút ra bài học kinh nghiệm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "帐篷",
+   "meaning": "lều vải",
+   "example": "我们来学“帐篷”这个词。",
+   "exampleMeaning": "Cùng học từ “帐篷”: lều vải.",
+   "emoji": "⛺",
+   "ipa": "",
+   "pinyin": "zhàngpeng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低估",
+   "meaning": "đánh giá thấp",
+   "example": "不要低估群众的力量。",
+   "exampleMeaning": "Không nên đánh giá thấp lực lượng quần chúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīgū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "话语",
+   "meaning": "lời nói",
+   "example": "他话语不多，可句句中听。",
+   "exampleMeaning": "Anh ấy nói không nhiều, nhưng câu nào cũng xuôi tai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "偏偏",
+   "meaning": "lại",
+   "example": "星期天她来找我，偏偏我不在家。",
+   "exampleMeaning": "Chủ nhật cô ấy đến tìm tôi, nhưng tôi lại không có nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piānpiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "股市",
+   "meaning": "thị trường chứng khoán",
+   "example": "香港股市",
+   "exampleMeaning": "Thị trường chứng khoán Hồng Kông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上映",
+   "meaning": "chiếu phim",
+   "example": "我们来学“上映”这个词。",
+   "exampleMeaning": "Cùng học từ “上映”: chiếu phim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "统统",
+   "meaning": "tất cả",
+   "example": "我们来学“统统”这个词。",
+   "exampleMeaning": "Cùng học từ “统统”: tất cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒngtǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主编",
+   "meaning": "tổng biên tập",
+   "example": "他是这本语文杂志的主编。",
+   "exampleMeaning": "Anh ấy là tổng biên tập của tạp chí ngữ văn này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔbiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "要命",
+   "meaning": "liều mạng",
+   "example": "这人真要命，火车都快开了，他还不来。",
+   "exampleMeaning": "Thằng này liều mạng thật, xe lửa sắp chạy mà nó vẫn chưa đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàomìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "至关重要",
+   "meaning": "cốt yếu",
+   "example": "我们来学“至关重要”这个词。",
+   "exampleMeaning": "Cùng học từ “至关重要”: cốt yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìguānzhòngyào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "颤抖",
+   "meaning": "rung rung",
+   "example": "树枝在寒风中颤抖。",
+   "exampleMeaning": "Cành cây rung rung trong gió rét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chàndǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打倒",
+   "meaning": "lật đổ",
+   "example": "那个腐败的政府很快被打倒。",
+   "exampleMeaning": "Chính phủ thối nát này sẽ bị lật đổ nhanh thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "充实",
+   "meaning": "tăng cường",
+   "example": "文字流畅，内容充实。",
+   "exampleMeaning": "Lời văn trôi chảy, nội dung phong phú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "董事",
+   "meaning": "đổng sự",
+   "example": "董事长。",
+   "exampleMeaning": "Chủ tịch hội đồng quản trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǒngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解剖",
+   "meaning": "giải phẫu",
+   "example": "我们来学“解剖”这个词。",
+   "exampleMeaning": "Cùng học từ “解剖”: giải phẫu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěpōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "风情",
+   "meaning": "phong thổ nhân tình",
+   "example": "别有一番风情。",
+   "exampleMeaning": "Quả nhiên có một thứ tình cảm riêng biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雕塑",
+   "meaning": "điêu khắc",
+   "example": "我们来学“雕塑”这个词。",
+   "exampleMeaning": "Cùng học từ “雕塑”: điêu khắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diāosù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同类",
+   "meaning": "cùng loại",
+   "example": "同类作品",
+   "exampleMeaning": "Tác phẩm cùng loại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tónglèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "他",
+    "想要",
+    "成功",
+    "即使",
+    "是以",
+    "他",
+    "的",
+    "健康",
+    "作为",
+    "代价"
+   ],
+   "reading": "tā xiǎngyào chénggōng jíshǐ shìyǐ tā de jiànkāng zuòwéi dàijià",
+   "meaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  }
+ ],
+ "issues": []
+}

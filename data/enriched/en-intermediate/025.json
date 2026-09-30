@@ -1,0 +1,322 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "politics",
+   "meaning": "chính trị",
+   "example": "what are your politics?",
+   "exampleMeaning": "Chính kiến của anh thế nào?",
+   "emoji": "",
+   "ipa": "/ˈpɒl.ɪ.tɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "forth",
+   "meaning": "về phía trước, ra phía trước, lộ ra",
+   "example": "to go back and forth",
+   "exampleMeaning": "Đi đi lại lại, đi tới đi lui",
+   "emoji": "",
+   "ipa": "/ˈfɔrθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "summit",
+   "meaning": "đỉnh, chỏm, chóp",
+   "example": "Let's learn the word \"summit\".",
+   "exampleMeaning": "Cùng học từ “summit”: đỉnh, chỏm, chóp.",
+   "emoji": "",
+   "ipa": "/ˈsəmət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "horrify",
+   "meaning": "làm khiếp sợ, làm kinh khiếp",
+   "example": "Let's learn the word \"horrify\".",
+   "exampleMeaning": "Cùng học từ “horrify”: làm khiếp sợ, làm kinh khiếp.",
+   "emoji": "",
+   "ipa": "/ˈhɔrəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "twist",
+   "meaning": "bóp méo, làm sai đi, xuyên tạc",
+   "example": "to twist one's way through the crowd",
+   "exampleMeaning": "Lách (len lỏi) qua đám đông",
+   "emoji": "",
+   "ipa": "/ˈtwɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "organization",
+   "meaning": "tổ chức, cơ quan",
+   "example": "Have you heard anything about the organization?",
+   "exampleMeaning": "Bạn có biết gì về tổ chức này không?",
+   "emoji": "",
+   "ipa": "/ˌɔrɡənəˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "circus",
+   "meaning": "rạp xiếc",
+   "example": "Let's learn the word \"circus\".",
+   "exampleMeaning": "Cùng học từ “circus”: rạp xiếc.",
+   "emoji": "",
+   "ipa": "/ˈsɜrkəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stretch",
+   "meaning": "lợi dụng, lạm dụng",
+   "example": "to stretch a wire across the road",
+   "exampleMeaning": "Căng dây qua đường",
+   "emoji": "",
+   "ipa": "/ˈstrɛtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hang",
+   "meaning": "treo, mắc",
+   "example": "to get the hang of something",
+   "exampleMeaning": "Hiểu rõ cái gì",
+   "emoji": "",
+   "ipa": "/ˈhæŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pork",
+   "meaning": "thịt lợn",
+   "example": "Is pork or beef healthier?",
+   "exampleMeaning": "Thịt bò hay thịt lợn lành mạnh hơn?",
+   "emoji": "",
+   "ipa": "/ˈpɔrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "jade",
+   "meaning": "ngọc bích",
+   "example": "Let's learn the word \"jade\".",
+   "exampleMeaning": "Cùng học từ “jade”: ngọc bích.",
+   "emoji": "",
+   "ipa": "/ˈdʒeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ambitious",
+   "meaning": "có nhiều hoài bão, có nhiều khát vọng",
+   "example": "Let's learn the word \"ambitious\".",
+   "exampleMeaning": "Cùng học từ “ambitious”: có nhiều hoài bão, có nhiều khát vọng.",
+   "emoji": "",
+   "ipa": "/æmˈbɪʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fashionable",
+   "meaning": "đúng mốt, hợp thời trang",
+   "example": "He has a fashionable style.",
+   "exampleMeaning": "Anh ấy có một gu thời trang tốt.",
+   "emoji": "",
+   "ipa": "/ˈfæʃənəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "historical",
+   "meaning": "lịch sử, (thuộc) lịch sử",
+   "example": "I like to carry out historical research.",
+   "exampleMeaning": "Tôi thích nghiên cứu lịch sử.",
+   "emoji": "",
+   "ipa": "/hɪˈstɒrɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "northern",
+   "meaning": "bắc",
+   "example": "Hokkaido is located in northern Japan.",
+   "exampleMeaning": "Hokkaido nằm ở phía bắc Nhật Bản.",
+   "emoji": "",
+   "ipa": "/ˈnɔrðɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "concentration",
+   "meaning": "sự cô",
+   "example": "Tom's grandfather was a concentration camp survivor.",
+   "exampleMeaning": "Ông Tom là một người đã từng sống sót trong trại tập trung.",
+   "emoji": "",
+   "ipa": "/ˌkɑnsənˈtreɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hammer",
+   "meaning": "búa",
+   "example": "to hammer a piece of metal flat",
+   "exampleMeaning": "Đập bẹp mảnh kim loại",
+   "emoji": "🔨",
+   "ipa": "/ˈhæmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "command",
+   "meaning": "chế ngự, kiềm chế, lệnh",
+   "example": "to command a vast sum of money",
+   "exampleMeaning": "Có sẵn một món tiền lớn",
+   "emoji": "",
+   "ipa": "/kəˈmænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "definite article",
+   "meaning": "mạo từ hạn định",
+   "example": "Let's learn the word \"definite article\".",
+   "exampleMeaning": "Cùng học từ “definite article”: mạo từ hạn định.",
+   "emoji": "",
+   "ipa": "/ˈdɛfənət ˈɑrtəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ice hockey",
+   "meaning": "băng cầu, khúc côn cầu trên băng",
+   "example": "Let's learn the word \"ice hockey\".",
+   "exampleMeaning": "Cùng học từ “ice hockey”: băng cầu, khúc côn cầu trên băng.",
+   "emoji": "🏒",
+   "ipa": "/ɑɪs.hɑː.ki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Hang",
+    "on",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Chờ chút, Tom."
+  },
+  {
+   "tokens": [
+    "I",
+    "hate",
+    "talking",
+    "about",
+    "politics"
+   ],
+   "reading": "",
+   "meaning": "Tôi ghét nói về chính trị."
+  },
+  {
+   "tokens": [
+    "Can",
+    "I",
+    "borrow",
+    "your",
+    "hammer"
+   ],
+   "reading": "",
+   "meaning": "Tôi có thể mượn cái búa của bạn được không?"
+  },
+  {
+   "tokens": [
+    "We",
+    "avoid",
+    "talking",
+    "about",
+    "politics"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi tránh nói chuyện về chính trị."
+  },
+  {
+   "tokens": [
+    "Is",
+    "pork",
+    "or",
+    "beef",
+    "healthier"
+   ],
+   "reading": "",
+   "meaning": "Thịt bò hay thịt lợn lành mạnh hơn?"
+  }
+ ],
+ "issues": []
+}

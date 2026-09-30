@@ -1,0 +1,337 @@
+{
+ "lesson": 78,
+ "draft": true,
+ "words": [
+  {
+   "term": "票房",
+   "meaning": "phòng bán vé",
+   "example": "我们来学“票房”这个词。",
+   "exampleMeaning": "Cùng học từ “票房”: phòng bán vé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piàofáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寿命",
+   "meaning": "tuổi thọ",
+   "example": "延长机车的寿命。",
+   "exampleMeaning": "Kéo dài tuổi thọ của xe máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòumìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "反驳",
+   "meaning": "phản bác",
+   "example": "我们来学“反驳”这个词。",
+   "exampleMeaning": "Cùng học từ “反驳”: phản bác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnbó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重量级",
+   "meaning": "hạng nặng (quyền anh, vv)",
+   "example": "我们来学“重量级”这个词。",
+   "exampleMeaning": "Cùng học từ “重量级”: hạng nặng (quyền anh, vv).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngliàngjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "去向",
+   "meaning": "hướng đi",
+   "example": "不知去向。",
+   "exampleMeaning": "Không biết hướng đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qùxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开办",
+   "meaning": "mở",
+   "example": "开办商店",
+   "exampleMeaning": "Mở cửa hàng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāibàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脱颖而出",
+   "meaning": "cây kim trong bọc có ngày lòi ra",
+   "example": "我们来学“脱颖而出”这个词。",
+   "exampleMeaning": "Cùng học từ “脱颖而出”: cây kim trong bọc có ngày lòi ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuōyǐngérchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "亮点",
+   "meaning": "điểm sáng",
+   "example": "我们来学“亮点”这个词。",
+   "exampleMeaning": "Cùng học từ “亮点”: điểm sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liàngdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "牵挂",
+   "meaning": "bận tâm",
+   "example": "爸爸妈妈嘱咐他在外边要好好工作，家里的事不用牵挂。",
+   "exampleMeaning": "Ba mẹ dặn dò ở bên ngoài phải công tác tốt, đừng bận tâm đến chuyện gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānguà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不理",
+   "meaning": "phớt lờ",
+   "example": "他不理我",
+   "exampleMeaning": "Hắn phớt lờ tôi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火山",
+   "meaning": "núi lửa",
+   "example": "我们来学“火山”这个词。",
+   "exampleMeaning": "Cùng học từ “火山”: núi lửa.",
+   "emoji": "🌋",
+   "ipa": "",
+   "pinyin": "huǒshān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "环绕",
+   "meaning": "xoay quanh",
+   "example": "村庄四周有竹林环绕。",
+   "exampleMeaning": "Rừng trúc bao quanh thôn trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huánrào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驱逐",
+   "meaning": "đuổi",
+   "example": "驱逐出境。",
+   "exampleMeaning": "Đuổi ra khỏi biên giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qūzhú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "踹",
+   "meaning": "giẫm",
+   "example": "没留神一脚踹 在水沟里。",
+   "exampleMeaning": "Không để ý, giẫm một chân xuống rãnh nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "苛刻",
+   "meaning": "ngặt nghèo",
+   "example": "对方提出的条件苛刻，使人难以接受。",
+   "exampleMeaning": "Đối phương đưa ra điều kiện quá ngặt nghèo, mọi người không thể chấp nhận được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kēkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不知不觉",
+   "meaning": "thấm thoát",
+   "example": "时间过得可真快, 不知不觉, 我们都大学毕业了。",
+   "exampleMeaning": "Thời gian trôi qua rất mau, thấm thoát thì chúng ta đã tốt nghiệp đại học rồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzhībùjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "梳",
+   "meaning": "chải (tóc, len, ngựa... )",
+   "example": "她梳着两根粗辫子。",
+   "exampleMeaning": "Chị ta chải đôi đuôi bím tóc to.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "裁定",
+   "meaning": "quyết định",
+   "example": "法院裁定",
+   "exampleMeaning": "Toà án quyết định; toà án phán quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáidìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地域",
+   "meaning": "địa phương",
+   "example": "地域辽阔",
+   "exampleMeaning": "Khu vực rộng lớn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "圆形",
+   "meaning": "tròn / tròn",
+   "example": "我们来学“圆形”这个词。",
+   "exampleMeaning": "Cùng học từ “圆形”: tròn / tròn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "他们",
+    "昨天",
+    "乘",
+    "巴士",
+    "去",
+    "了",
+    "动物园"
+   ],
+   "reading": "tāmen zuótiān chéng bāshì qù le dòngwùyuán",
+   "meaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "这",
+    "本",
+    "书",
+    "会",
+    "对",
+    "我们",
+    "有",
+    "很",
+    "大",
+    "用处"
+   ],
+   "reading": "zhè běn shū huì duì wǒmen yǒu hěn dà yòngchu",
+   "meaning": "Quyển sách này rất hứu ích cho chúng ta."
+  },
+  {
+   "tokens": [
+    "你",
+    "应该",
+    "学习",
+    "控制",
+    "自己",
+    "的",
+    "情绪"
+   ],
+   "reading": "nǐ yīnggāi xuéxí kòngzhì zìjǐ de qíngxù",
+   "meaning": "Bạn nên học cách kiểm soát cảm xúc của mình."
+  }
+ ],
+ "issues": []
+}

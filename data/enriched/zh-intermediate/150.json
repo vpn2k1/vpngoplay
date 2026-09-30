@@ -1,0 +1,322 @@
+{
+ "lesson": 150,
+ "draft": true,
+ "words": [
+  {
+   "term": "爵士",
+   "meaning": "tước sĩ",
+   "example": "我们来学“爵士”这个词。",
+   "exampleMeaning": "Cùng học từ “爵士”: tước sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "留意",
+   "meaning": "chú ý",
+   "example": "路面很滑， 一不留意， 就会摔跤。",
+   "exampleMeaning": "Đường rất trơn, nếu không chú ý, thì sẽ bị té.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "遥远",
+   "meaning": "xa, cách, xa cách",
+   "example": "遥远的将来",
+   "exampleMeaning": "Tương lai xa vời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáoyuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "棉花",
+   "meaning": "cây bông",
+   "example": "我们来学“棉花”这个词。",
+   "exampleMeaning": "Cùng học từ “棉花”: cây bông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miánhua",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "神圣",
+   "meaning": "thiêng liêng",
+   "example": "神圣的使命。",
+   "exampleMeaning": "Sứ mệnh thiêng liêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shénshèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "恶化",
+   "meaning": "chuyển biến xấu",
+   "example": "防止病情恶化。",
+   "exampleMeaning": "Ngăn ngừa bệnh tình chuyển biến xấu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "口气",
+   "meaning": "giọng",
+   "example": "他的口气真不小。",
+   "exampleMeaning": "Giọng anh ấy thật không nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捧",
+   "meaning": "vốc",
+   "example": "双手捧住孩子的脸。",
+   "exampleMeaning": "Hai tay nâng mặt đứa bé lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pěng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指令",
+   "meaning": "mệnh lệnh",
+   "example": "我们来学“指令”这个词。",
+   "exampleMeaning": "Cùng học từ “指令”: mệnh lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐlìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勾",
+   "meaning": "hút",
+   "example": "我们来学“勾”这个词。",
+   "exampleMeaning": "Cùng học từ “勾”: hút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出局",
+   "meaning": "bị loại",
+   "example": "今天下午进行的初赛中红队有两名选手出局，有三名选手进入复赛。",
+   "exampleMeaning": "Trong vòng đầu diễn ra chiều nay, đội đỏ có hai tuyển thủ bị loại và ba tuyển thủ vào vòng sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūjú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贵族",
+   "meaning": "quý tộc",
+   "example": "我们来学“贵族”这个词。",
+   "exampleMeaning": "Cùng học từ “贵族”: quý tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guìzú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "制服",
+   "meaning": "đồng phục",
+   "example": "被空袭所制服",
+   "exampleMeaning": "Bị tập kích bằng đường hàng không",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吉他",
+   "meaning": "đàn ghi-ta",
+   "example": "我们来学“吉他”这个词。",
+   "exampleMeaning": "Cùng học từ “吉他”: đàn ghi-ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jítā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "癌",
+   "meaning": "bệnh ung thư",
+   "example": "我们来学“癌”这个词。",
+   "exampleMeaning": "Cùng học từ “癌”: bệnh ung thư.",
+   "emoji": "♋",
+   "ipa": "",
+   "pinyin": "ái",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勉强",
+   "meaning": "cố lắm",
+   "example": "他不去算了，不要勉强他了。",
+   "exampleMeaning": "Anh ấy không ̣đi thì thôi, đừng ép anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miǎnqiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "证人",
+   "meaning": "người chứng nhận",
+   "example": "叫证人来证明他的人品。",
+   "exampleMeaning": "Kêu người chứng nhận đến chứng minh nhân phẩm của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大地",
+   "meaning": "đất, đất liền, mặt đất",
+   "example": "阳光普照大地",
+   "exampleMeaning": "Mặt trời chiếu rọi khắp nơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "砖",
+   "meaning": "gạch",
+   "example": "我们来学“砖”这个词。",
+   "exampleMeaning": "Cùng học từ “砖”: gạch.",
+   "emoji": "🧱",
+   "ipa": "",
+   "pinyin": "zhuān",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清新",
+   "meaning": "trong lành",
+   "example": "刚下过雨，空气清新。",
+   "exampleMeaning": "Qua cơn mưa, không khí trong lành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "和",
+    "我",
+    "约会",
+    "好",
+    "吗"
+   ],
+   "reading": "hé wǒ yuēhuì hǎo ma",
+   "meaning": "Em có thể đi hẹn hò với tôi không?"
+  },
+  {
+   "tokens": [
+    "我",
+    "要",
+    "把",
+    "他",
+    "射",
+    "下来"
+   ],
+   "reading": "wǒ yào bǎ tā shè xiàlai",
+   "meaning": "Tao sẽ bắn hạ nó."
+  },
+  {
+   "tokens": [
+    "自由",
+    "是",
+    "有",
+    "代价",
+    "的"
+   ],
+   "reading": "zìyóu shì yǒu dàijià de",
+   "meaning": "Tự do không đồng nghĩa với được tự do."
+  }
+ ],
+ "issues": []
+}

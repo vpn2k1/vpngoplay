@@ -1,0 +1,338 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "主義者",
+   "meaning": "người biện hộ, người bào chữa",
+   "example": "トムは独身主義者だ。",
+   "exampleMeaning": "Tom là một người sống theo chủ nghĩa độc thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消滅",
+   "meaning": "sự dập tắt",
+   "example": "「消滅」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “消滅”: sự dập tắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "差益",
+   "meaning": "lợi nhuận cận biên",
+   "example": "「差益」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “差益”: lợi nhuận cận biên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "開票",
+   "meaning": "sự kiểm điểm (hàng hoá, tên... )",
+   "example": "「開票」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “開票”: sự kiểm điểm (hàng hoá, tên... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "昨春",
+   "meaning": "sự nhảy trước",
+   "example": "「昨春」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “昨春”: sự nhảy trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活性",
+   "meaning": "sự tích cực, sự hoạt động, sự nhanh nhẹn",
+   "example": "「活性」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “活性”: sự tích cực, sự hoạt động, sự nhanh nhẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "時代劇",
+   "meaning": "phim lịch sử, phim cổ trang",
+   "example": "「時代劇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “時代劇”: phim lịch sử, phim cổ trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "懇談",
+   "meaning": "hội nghị bán chính thức",
+   "example": "「懇談」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “懇談”: hội nghị bán chính thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主力",
+   "meaning": "chủ lực",
+   "example": "「主力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主力”: chủ lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受注",
+   "meaning": "accepting an order (EN)",
+   "example": "「受注」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受注”: accepting an order (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "派閥",
+   "meaning": "bọn, phường, tụi",
+   "example": "「派閥」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “派閥”: bọn, phường, tụi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王座",
+   "meaning": "ngai, ngai vàng",
+   "example": "「王座」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “王座”: ngai, ngai vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "虐殺",
+   "meaning": "sự giết thịt, sự mổ thịt (bò, lợn... )",
+   "example": "「虐殺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “虐殺”: sự giết thịt, sự mổ thịt (bò, lợn... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一夜",
+   "meaning": "thâu đêm suốt sáng, suốt đêm",
+   "example": "「一夜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一夜”: thâu đêm suốt sáng, suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政令",
+   "meaning": "government ordinance (EN)",
+   "example": "「政令」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政令”: government ordinance (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出方",
+   "meaning": "thái độ, quan điểm",
+   "example": "「出方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出方”: thái độ, quan điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会費",
+   "meaning": "membership fee (EN)",
+   "example": "「会費」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “会費”: membership fee (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国体",
+   "meaning": "national polity (EN)",
+   "example": "「国体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国体”: national polity (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世話人",
+   "meaning": "cha đỡ đầu, mẹ đỡ đầu",
+   "example": "「世話人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “世話人”: cha đỡ đầu, mẹ đỡ đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "専務",
+   "meaning": "giám đốc chấp hành",
+   "example": "「専務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “専務”: giám đốc chấp hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "なんと",
+    "言って",
+    "よい",
+    "か",
+    "分からなかった"
+   ],
+   "reading": "かのじょはなんといってよいかわからなかった",
+   "meaning": "Cô ấy không biết mình nên nói gì thì được."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "硬貨",
+    "を",
+    "数枚",
+    "私の",
+    "ポケット",
+    "に",
+    "つっこんだ"
+   ],
+   "reading": "かれはこうかをすうまいわたしのポケットにつっこんだ",
+   "meaning": "Anh ấy dúi vài đồng xu vào túi tôi."
+  },
+  {
+   "tokens": [
+    "その",
+    "ニュース",
+    "を",
+    "聞いて",
+    "彼",
+    "は",
+    "ぼうぜんと",
+    "した"
+   ],
+   "reading": "そのニュースをきいてかれはぼうぜんとした",
+   "meaning": "Anh ta chết lặng khi nghe tin đó."
+  },
+  {
+   "tokens": [
+    "黙っている",
+    "と",
+    "事実上の",
+    "承認",
+    "と",
+    "みなされます"
+   ],
+   "reading": "だまっているとじじつじょうのしょうにんとみなされます",
+   "meaning": "Việc im lặng trên thực tế được coi là sự đồng ý."
+  },
+  {
+   "tokens": [
+    "クリス",
+    "は",
+    "理科",
+    "の",
+    "授業",
+    "で",
+    "落ちこぼれ",
+    "そう",
+    "です"
+   ],
+   "reading": "クリスはりかのじゅぎょうでおちこぼれそうです",
+   "meaning": "Dường như Chris đang không theo kịp giờ Khoa học."
+  }
+ ],
+ "issues": []
+}

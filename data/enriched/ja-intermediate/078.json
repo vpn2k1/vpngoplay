@@ -1,0 +1,328 @@
+{
+ "lesson": 78,
+ "draft": true,
+ "words": [
+  {
+   "term": "ストップ",
+   "meaning": "sự ngừng lại, sư dừng, sự đỗ lại",
+   "example": "列車は名古屋までノンストップで走ります。",
+   "exampleMeaning": "Tàu chạy một mạch đến Nagoya.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "食塩",
+   "meaning": "muối nhà ăn",
+   "example": "「食塩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “食塩”: muối nhà ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改めて",
+   "meaning": "lại, lần nữa, nữa",
+   "example": "壊れたラジオを修理していて、回路の動作原理を理解できていないことに改めて気がつきます。",
+   "exampleMeaning": "Khi tôi sửa chiếc đài bị hỏng, một lần nữa tôi nhận ra là tôi không thể hiểu nổi nguyên lý hoạt động của các mạch điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一昨昨日",
+   "meaning": "ba ngày trước, hôm kìa",
+   "example": "「一昨昨日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一昨昨日”: ba ngày trước, hôm kìa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引き止める",
+   "meaning": "ngăn ngừa",
+   "example": "「引き止める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引き止める”: ngăn ngừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水産",
+   "meaning": "hải sản",
+   "example": "「水産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “水産”: hải sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "形式",
+   "meaning": "hình, hình thể, hình dạng",
+   "example": "マイクロソフトオフィスがパソコンに入っています。添付ファイルを送るときには、このファイル形式を使って下さい。",
+   "exampleMeaning": "Phần mềm Microsoft Office đã được cài đặt sẵn trong laptop. Khi gửi file đính kèm, hãy sử dụng loại file này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "振り向く",
+   "meaning": "sự khởi sắc",
+   "example": "「振り向く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “振り向く”: sự khởi sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洗面",
+   "meaning": "vật giạt vào bờ",
+   "example": "「洗面」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “洗面”: vật giạt vào bờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "快晴",
+   "meaning": "good weather (EN)",
+   "example": "１０月には快晴の日が多い。",
+   "exampleMeaning": "Tháng 10 có nhiều ngày thời tiết đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "残らず",
+   "meaning": "hoàn toàn, đầy đủ, trọn vẹn",
+   "example": "「残らず」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “残らず”: hoàn toàn, đầy đủ, trọn vẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "御無沙汰",
+   "meaning": "not writing or contacting for a while (EN)",
+   "example": "「御無沙汰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “御無沙汰”: not writing or contacting for a while (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "助教授",
+   "meaning": "assistant professor (EN)",
+   "example": "「助教授」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “助教授”: assistant professor (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "潜る",
+   "meaning": "nhảy lao đầu xuống (nước... )",
+   "example": "「潜る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “潜る”: nhảy lao đầu xuống (nước... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まあまあ",
+   "meaning": "oK!",
+   "example": "「まあまあ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “まあまあ”: oK!.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "免税",
+   "meaning": "miễn thuế",
+   "example": "免税店では何も買わなかったよ。",
+   "exampleMeaning": "Tôi có mua gì ở cửa hàng miễn thuế đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日課",
+   "meaning": "công việc thường ngày",
+   "example": "「日課」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日課”: công việc thường ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遡る",
+   "meaning": "trở về, về, lui",
+   "example": "「遡る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遡る”: trở về, về, lui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "木材",
+   "meaning": "gỗ xẻ, gỗ làm nhà",
+   "example": "「木材」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “木材”: gỗ xẻ, gỗ làm nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勇ましい",
+   "meaning": "chiến sĩ da đỏ",
+   "example": "「勇ましい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勇ましい”: chiến sĩ da đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "僕",
+    "が",
+    "彼",
+    "を",
+    "励まし",
+    "に",
+    "行こう"
+   ],
+   "reading": "ぼくがかれをはげましにいこう",
+   "meaning": "Tôi sẽ đi cổ vũ anh ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "犬",
+    "を",
+    "一匹",
+    "飼ってます"
+   ],
+   "reading": "わたしはいぬをいっぴきかってます",
+   "meaning": "Tôi có nuôi một chú chó."
+  },
+  {
+   "tokens": [
+    "健康",
+    "ほど",
+    "貴重な",
+    "物",
+    "は",
+    "ない"
+   ],
+   "reading": "けんこうほどきちょうなものはない",
+   "meaning": "Không gì quý hơn sức khỏe."
+  },
+  {
+   "tokens": [
+    "細かいこと",
+    "に",
+    "こだわる",
+    "な"
+   ],
+   "reading": "こまかいことにこだわるな",
+   "meaning": "Đừng để ý những chuyện nhỏ nhặt."
+  },
+  {
+   "tokens": [
+    "何と",
+    "美しい",
+    "花",
+    "な",
+    "の",
+    "だろう"
+   ],
+   "reading": "なんとうつくしいはななのだろう",
+   "meaning": "Thật là một bông hoa đẹp!"
+  }
+ ],
+ "issues": []
+}

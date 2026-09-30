@@ -1,0 +1,327 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "医院",
+   "meaning": "viện",
+   "example": "他现在在医院。",
+   "exampleMeaning": "Bây giờ anh ấy đang ở trong bệnh viện.",
+   "emoji": "🏥",
+   "ipa": "",
+   "pinyin": "yīyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "重",
+   "meaning": "nặng",
+   "example": "变量的声明在C和C++中极其重要。",
+   "exampleMeaning": "Khai báo biến trong C/C++ vô cùng quan trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真的",
+   "meaning": "thực, thật, thực ra",
+   "example": "可惜这是真的。",
+   "exampleMeaning": "Tiếc rằng cái đó là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "子",
+   "meaning": "con",
+   "example": "我要养一大家子。",
+   "exampleMeaning": "Tôi phải nuôi sống một gia đình đông người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "远",
+   "meaning": "xa, xa xôi, xa xăm",
+   "example": "我永远记得那件事。",
+   "exampleMeaning": "Tôi nhớ mãi việc ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "口",
+   "meaning": "khẩu",
+   "example": "汤姆脱了口罩。",
+   "exampleMeaning": "Tom đã tháo mặt nạ ra rồi đấy.",
+   "emoji": "👄",
+   "ipa": "",
+   "pinyin": "kǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学生",
+   "meaning": "học sinh",
+   "example": "学生人数一年比一年增加。",
+   "exampleMeaning": "Số học sinh mỗi năm một tăng.",
+   "emoji": "🧑‍🎓",
+   "ipa": "",
+   "pinyin": "xuésheng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "二",
+   "meaning": "hai, đôi",
+   "example": "现在我来讲第二个问题。",
+   "exampleMeaning": "Bây giờ tôi sẽ trình bày vấn đề thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èr",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "儿子",
+   "meaning": "người con (dùng đối với cha mẹ)",
+   "example": "她拥抱了一下儿子,然后让他上床睡觉。",
+   "exampleMeaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "érzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "明白",
+   "meaning": "thông minh",
+   "example": "有意见就明白提出来。",
+   "exampleMeaning": "Có ý kiến gì thì công khai nói ra đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngbai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "杯",
+   "meaning": "cốc",
+   "example": "请你给我一杯水。",
+   "exampleMeaning": "Làm ơn cho tôi một cốc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "记得",
+   "meaning": "nhớ",
+   "example": "这件事不记得是在哪一年了。",
+   "exampleMeaning": "Chuyện này không nhớ là chuyện hồi năm nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歌",
+   "meaning": "ca hát, bài hát, điệu hát",
+   "example": "我们想学一些日文歌曲。",
+   "exampleMeaning": "Chúng tôi muốn học những bài hát tiếng Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "半",
+   "meaning": "nửa, phân chia đôi",
+   "example": "他半夜打了个电话给我。",
+   "exampleMeaning": "Anh ấy đã gọi cho tôi một cuộc vào lúc nửa đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "身体",
+   "meaning": "sức khoẻ",
+   "example": "她每天跑步，身体很好。",
+   "exampleMeaning": "Cô ấy chạy bộ mỗi ngày, sức khoẻ rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēntǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "元",
+   "meaning": "đơn vị tiền tệ",
+   "example": "我想把日元換成美元。",
+   "exampleMeaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "哪里",
+   "meaning": "đâu",
+   "example": "我朋友哪里买过什么东西！",
+   "exampleMeaning": "Bạn tôi có mua gì đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "包",
+   "meaning": "bao, bao bọc, bao phủ",
+   "example": "我爸爸每天抽一包烟。",
+   "exampleMeaning": "Mỗi ngày bố tôi hút một bao thuốc lá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "楼",
+   "meaning": "lầu",
+   "example": "一楼(平地的一层)。",
+   "exampleMeaning": "Tầng trệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lóu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "那里",
+   "meaning": "nơi ấy",
+   "example": "那里出产香蕉和荔枝。",
+   "exampleMeaning": "Nơi ấy trồng chuối và vải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàli",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "永远",
+    "记得",
+    "那",
+    "件",
+    "事"
+   ],
+   "reading": "wǒ yǒngyuǎn jìde nà jiàn shì",
+   "meaning": "Tôi nhớ mãi việc ấy."
+  },
+  {
+   "tokens": [
+    "她",
+    "拥抱",
+    "了",
+    "一下儿",
+    "子",
+    "然后",
+    "让",
+    "他",
+    "上床",
+    "睡觉"
+   ],
+   "reading": "tā yōngbào le yīxiàr zǐ ránhòu ràng tā shàngchuáng shuìjiào",
+   "meaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường."
+  },
+  {
+   "tokens": [
+    "哪里",
+    "有",
+    "问题"
+   ],
+   "reading": "nǎlǐ yǒu wèntí",
+   "meaning": "Vấn đề ở đâu?"
+  },
+  {
+   "tokens": [
+    "来",
+    "杯",
+    "咖啡",
+    "吗"
+   ],
+   "reading": "lái bēi kāfēi ma",
+   "meaning": "Anh dùng thêm một ly cà phê nhé?"
+  },
+  {
+   "tokens": [
+    "一",
+    "二",
+    "三",
+    "四",
+    "五"
+   ],
+   "reading": "yī èr sān sì wǔ",
+   "meaning": "Một, hai, ba, bốn, năm."
+  }
+ ],
+ "issues": []
+}

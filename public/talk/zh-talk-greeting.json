@@ -1,0 +1,98 @@
+{
+ "id": "zh-talk-greeting",
+ "lang": "zh",
+ "order": 1,
+ "level": "HSK1",
+ "icon": "greeting",
+ "title": "Làm quen bạn mới",
+ "scene": "Bạn làm quen với Lý Na, một bạn học người Bắc Kinh.",
+ "roles": {
+  "A": "Lý Na",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "你好！我叫李娜。你叫什么名字？",
+   "reading": "Nǐ hǎo! Wǒ jiào Lǐ Nà. Nǐ jiào shénme míngzi?",
+   "meaning": "Chào bạn! Mình tên là Lý Na. Bạn tên là gì?"
+  },
+  {
+   "role": "B",
+   "text": "你好！我叫阿明。",
+   "reading": "Nǐ hǎo! Wǒ jiào Ā Míng.",
+   "meaning": "Chào bạn! Mình tên là Minh."
+  },
+  {
+   "role": "A",
+   "text": "你是哪国人？",
+   "reading": "Nǐ shì nǎ guó rén?",
+   "meaning": "Bạn là người nước nào?"
+  },
+  {
+   "role": "B",
+   "text": "我是越南人。你呢？",
+   "reading": "Wǒ shì Yuènán rén. Nǐ ne?",
+   "meaning": "Mình là người Việt Nam. Còn bạn?"
+  },
+  {
+   "role": "A",
+   "text": "我是中国人，我是北京人。",
+   "reading": "Wǒ shì Zhōngguó rén, wǒ shì Běijīng rén.",
+   "meaning": "Mình là người Trung Quốc, người Bắc Kinh."
+  },
+  {
+   "role": "B",
+   "text": "认识你很高兴！",
+   "reading": "Rènshi nǐ hěn gāoxìng!",
+   "meaning": "Rất vui được làm quen với bạn!"
+  },
+  {
+   "role": "A",
+   "text": "我也很高兴。你的汉语很好！",
+   "reading": "Wǒ yě hěn gāoxìng. Nǐ de Hànyǔ hěn hǎo!",
+   "meaning": "Mình cũng rất vui. Tiếng Trung của bạn tốt quá!"
+  },
+  {
+   "role": "B",
+   "text": "哪里哪里，我还在学习。",
+   "reading": "Nǎlǐ nǎlǐ, wǒ hái zài xuéxí.",
+   "meaning": "Đâu có đâu, mình vẫn đang học mà."
+  },
+  {
+   "role": "A",
+   "text": "我们一起学习吧！",
+   "reading": "Wǒmen yìqǐ xuéxí ba!",
+   "meaning": "Chúng mình cùng học nhé!"
+  },
+  {
+   "role": "B",
+   "text": "好啊，谢谢你！",
+   "reading": "Hǎo a, xièxie nǐ!",
+   "meaning": "Được chứ, cảm ơn bạn!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "你叫什么名字？",
+   "reading": "Nǐ jiào shénme míngzi?",
+   "meaning": "Bạn tên là gì?"
+  },
+  {
+   "text": "认识你很高兴。",
+   "reading": "Rènshi nǐ hěn gāoxìng.",
+   "meaning": "Rất vui được làm quen với bạn."
+  },
+  {
+   "text": "你是哪国人？",
+   "reading": "Nǐ shì nǎ guó rén?",
+   "meaning": "Bạn là người nước nào?"
+  },
+  {
+   "text": "哪里哪里。",
+   "reading": "Nǎlǐ nǎlǐ.",
+   "meaning": "Đâu có, bạn quá khen.",
+   "note": "Cách đáp khiêm tốn khi được khen."
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": "ja-talk-restaurant",
+ "lang": "ja",
+ "order": 2,
+ "level": "N5",
+ "icon": "restaurant",
+ "title": "Gọi món ở quán ăn",
+ "scene": "Bạn vào một quán ăn Nhật và gọi món.",
+ "roles": {
+  "A": "Nhân viên",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "いらっしゃいませ。何名様ですか。",
+   "reading": "いらっしゃいませ。なんめいさまですか。",
+   "meaning": "Xin mời vào. Quý khách đi mấy người ạ?"
+  },
+  {
+   "role": "B",
+   "text": "二人です。",
+   "reading": "ふたりです。",
+   "meaning": "Hai người."
+  },
+  {
+   "role": "A",
+   "text": "こちらへどうぞ。メニューです。",
+   "reading": "こちらへどうぞ。メニューです。",
+   "meaning": "Mời đi lối này. Thực đơn đây ạ."
+  },
+  {
+   "role": "B",
+   "text": "すみません、おすすめは何ですか。",
+   "reading": "すみません、おすすめはなんですか。",
+   "meaning": "Cho tôi hỏi, món nào được gợi ý vậy?"
+  },
+  {
+   "role": "A",
+   "text": "天ぷら定食が人気です。",
+   "reading": "てんぷらていしょくがにんきです。",
+   "meaning": "Suất cơm tempura được ưa chuộng ạ."
+  },
+  {
+   "role": "B",
+   "text": "じゃあ、それを二つお願いします。",
+   "reading": "じゃあ、それをふたつおねがいします。",
+   "meaning": "Vậy cho tôi hai suất đó."
+  },
+  {
+   "role": "A",
+   "text": "お飲み物はいかがですか。",
+   "reading": "おのみものはいかがですか。",
+   "meaning": "Quý khách dùng đồ uống gì ạ?"
+  },
+  {
+   "role": "B",
+   "text": "お茶をください。",
+   "reading": "おちゃをください。",
+   "meaning": "Cho tôi trà."
+  },
+  {
+   "role": "A",
+   "text": "かしこまりました。少々お待ちください。",
+   "reading": "かしこまりました。しょうしょうおまちください。",
+   "meaning": "Vâng ạ. Xin vui lòng đợi một chút."
+  },
+  {
+   "role": "B",
+   "text": "ごちそうさまでした。お会計をお願いします。",
+   "reading": "ごちそうさまでした。おかいけいをおねがいします。",
+   "meaning": "Cảm ơn vì bữa ăn. Cho tôi thanh toán."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "水をください。",
+   "reading": "みずをください。",
+   "meaning": "Cho tôi nước.",
+   "note": "Mẫu câu gọi đồ: 〜をください。"
+  },
+  {
+   "text": "おすすめは何ですか。",
+   "reading": "おすすめはなんですか。",
+   "meaning": "Món nào được gợi ý?"
+  },
+  {
+   "text": "お会計をお願いします。",
+   "reading": "おかいけいをおねがいします。",
+   "meaning": "Cho tôi thanh toán."
+  },
+  {
+   "text": "いただきます。",
+   "reading": "いただきます。",
+   "meaning": "Mời mọi người (trước khi ăn).",
+   "note": "Ăn xong thì nói ごちそうさまでした。"
+  }
+ ]
+}

@@ -170,6 +170,27 @@ export function speak(text: string, lang: Lang, rate = 1) {
   })
 }
 
+/**
+ * Speaks `text` and resolves once it has finished (or was interrupted), for reading lines one after
+ * another. Resolves after a length-based timeout too, in case the browser never reports the end.
+ */
+export function speakAndWait(text: string, lang: Lang, rate = 1) {
+  return new Promise<void>((resolve) => {
+    let started = false
+    const done = () => {
+      unsubscribe()
+      clearTimeout(timer)
+      resolve()
+    }
+    const unsubscribe = speaking.subscribe(() => {
+      if (speaking.get()) started = true
+      else if (started) done()
+    })
+    const timer = setTimeout(done, 2500 + text.length * 180)
+    speak(text, lang, rate)
+  })
+}
+
 /** Preview a specific browser voice (used by the settings page). */
 export function previewVoice(voice: SpeechSynthesisVoice | undefined, lang: Lang) {
   stopSpeaking()

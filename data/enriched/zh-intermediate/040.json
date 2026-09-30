@@ -1,0 +1,334 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "等候",
+   "meaning": "chờ, đợi chờ, hầu bàn",
+   "example": "等候远方归来的亲人。",
+   "exampleMeaning": "Đợi người thân ở phương xa trở về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "děnghòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "盒子",
+   "meaning": "hộp",
+   "example": "放在盒子里",
+   "exampleMeaning": "Để trong hộp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hézi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "终止",
+   "meaning": "kết thúc",
+   "example": "终止伙伴关系",
+   "exampleMeaning": "Kết thúc quan hệ bạn bè",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "彩票",
+   "meaning": "vé xổ số",
+   "example": "我们来学“彩票”这个词。",
+   "exampleMeaning": "Cùng học từ “彩票”: vé xổ số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎipiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "桃",
+   "meaning": "quả đào",
+   "example": "我们来学“桃”这个词。",
+   "exampleMeaning": "Cùng học từ “桃”: quả đào.",
+   "emoji": "🍑",
+   "ipa": "",
+   "pinyin": "táo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "法规",
+   "meaning": "pháp quy",
+   "example": "我们来学“法规”这个词。",
+   "exampleMeaning": "Cùng học từ “法规”: pháp quy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎguī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "广泛",
+   "meaning": "phổ biến",
+   "example": "人民享受广泛的民主。",
+   "exampleMeaning": "Nhân dân được hưởng quyền dân chủ rộng rãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎngfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阻碍",
+   "meaning": "cản trở",
+   "example": "旧的生产关系阻碍生产力的发展。",
+   "exampleMeaning": "Quan hệ sản xuất cũ cản trở lực lượng sản xuất phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "近来",
+   "meaning": "gần đây",
+   "example": "近来各方面都有所改进。",
+   "exampleMeaning": "Gần đây tất cả đều được cải tiến toàn diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "相应",
+   "meaning": "rẻ",
+   "example": "我们来学“相应”这个词。",
+   "exampleMeaning": "Cùng học từ “相应”: rẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沟",
+   "meaning": "kênh rạch",
+   "example": "小河沟儿。",
+   "exampleMeaning": "Sông nhỏ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地带",
+   "meaning": "vùng",
+   "example": "丘陵地带",
+   "exampleMeaning": "Vùng gò đồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "违规",
+   "meaning": "hư hỏng",
+   "example": "我们来学“违规”这个词。",
+   "exampleMeaning": "Cùng học từ “违规”: hư hỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéiguī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "品种",
+   "meaning": "loại",
+   "example": "增加花色品种。",
+   "exampleMeaning": "Tăng thêm kiểu dáng, chủng loại sản phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǐnzhǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "礼貌",
+   "meaning": "lễ phép",
+   "example": "礼貌待人。",
+   "exampleMeaning": "Đối xử lễ phép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐmào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "悄悄",
+   "meaning": "lặng lẽ",
+   "example": "部队在深夜里悄悄地出了村。",
+   "exampleMeaning": "Trong đêm khuya, bộ đội lặng lẽ đi ra khỏi làng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiāoqiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "差距",
+   "meaning": "chỗ thua kém",
+   "example": "学先进，找差距",
+   "exampleMeaning": "Học tiên tiến, tìm ra chỗ thua kém",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chājù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分成",
+   "meaning": "chia",
+   "example": "四六分成",
+   "exampleMeaning": "Chia bốn sáu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专利",
+   "meaning": "độc quyền",
+   "example": "我们来学“专利”这个词。",
+   "exampleMeaning": "Cùng học từ “专利”: độc quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "证书",
+   "meaning": "giấy chứng nhận",
+   "example": "结婚证书",
+   "exampleMeaning": "Giấy chứng nhận kết hôn; giấy đăng ký kết hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngshū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  },
+  {
+   "tokens": [
+    "他",
+    "故意",
+    "做出",
+    "不",
+    "在乎",
+    "的",
+    "样子"
+   ],
+   "reading": "tā gùyì zuòchū bù zàihu de yàngzi",
+   "meaning": "Anh ta làm ra vẻ không quan tâm."
+  }
+ ],
+ "issues": []
+}

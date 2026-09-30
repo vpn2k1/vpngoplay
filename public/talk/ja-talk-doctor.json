@@ -1,0 +1,98 @@
+{
+ "id": "ja-talk-doctor",
+ "lang": "ja",
+ "order": 6,
+ "level": "N3",
+ "icon": "doctor",
+ "title": "Đi khám bệnh",
+ "scene": "Bạn bị ốm và đến phòng khám.",
+ "roles": {
+  "A": "Bác sĩ",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "今日はどうしましたか。",
+   "reading": "きょうはどうしましたか。",
+   "meaning": "Hôm nay bạn bị làm sao?"
+  },
+  {
+   "role": "B",
+   "text": "昨日から喉が痛くて、熱もあります。",
+   "reading": "きのうからのどがいたくて、ねつもあります。",
+   "meaning": "Từ hôm qua tôi bị đau họng, lại còn sốt nữa."
+  },
+  {
+   "role": "A",
+   "text": "熱は何度ありますか。",
+   "reading": "ねつはなんどありますか。",
+   "meaning": "Sốt bao nhiêu độ?"
+  },
+  {
+   "role": "B",
+   "text": "三十八度ぐらいです。",
+   "reading": "さんじゅうはちどぐらいです。",
+   "meaning": "Khoảng 38 độ."
+  },
+  {
+   "role": "A",
+   "text": "咳は出ますか。",
+   "reading": "せきはでますか。",
+   "meaning": "Có bị ho không?"
+  },
+  {
+   "role": "B",
+   "text": "少し出ます。それに、体がだるいです。",
+   "reading": "すこしでます。それに、からだがだるいです。",
+   "meaning": "Hơi ho. Thêm nữa, người tôi uể oải."
+  },
+  {
+   "role": "A",
+   "text": "風邪ですね。薬を出しますから、一日三回飲んでください。",
+   "reading": "かぜですね。くすりをだしますから、いちにちさんかいのんでください。",
+   "meaning": "Bạn bị cảm rồi. Tôi kê thuốc, ngày uống ba lần nhé."
+  },
+  {
+   "role": "B",
+   "text": "食事の後に飲めばいいですか。",
+   "reading": "しょくじのあとにのめばいいですか。",
+   "meaning": "Tôi uống sau bữa ăn là được ạ?"
+  },
+  {
+   "role": "A",
+   "text": "はい。それから、ゆっくり休んでくださいね。",
+   "reading": "はい。それから、ゆっくりやすんでくださいね。",
+   "meaning": "Đúng rồi. Ngoài ra hãy nghỉ ngơi cho khoẻ nhé."
+  },
+  {
+   "role": "B",
+   "text": "わかりました。ありがとうございました。",
+   "reading": "わかりました。ありがとうございました。",
+   "meaning": "Tôi hiểu rồi. Cảm ơn bác sĩ."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "喉が痛いです。",
+   "reading": "のどがいたいです。",
+   "meaning": "Tôi bị đau họng."
+  },
+  {
+   "text": "熱があります。",
+   "reading": "ねつがあります。",
+   "meaning": "Tôi bị sốt."
+  },
+  {
+   "text": "頭が痛いです。",
+   "reading": "あたまがいたいです。",
+   "meaning": "Tôi bị đau đầu."
+  },
+  {
+   "text": "一日三回飲んでください。",
+   "reading": "いちにちさんかいのんでください。",
+   "meaning": "Hãy uống ngày ba lần.",
+   "note": "Uống thuốc dùng động từ 飲む, giống uống nước."
+  }
+ ]
+}

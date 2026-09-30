@@ -1,0 +1,334 @@
+{
+ "lesson": 106,
+ "draft": true,
+ "words": [
+  {
+   "term": "听众",
+   "meaning": "người nghe",
+   "example": "我们来学“听众”这个词。",
+   "exampleMeaning": "Cùng học từ “听众”: người nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīngzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "变为",
+   "meaning": "thay đổi thành",
+   "example": "我们来学“变为”这个词。",
+   "exampleMeaning": "Cùng học từ “变为”: thay đổi thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "邮箱",
+   "meaning": "hòm thư",
+   "example": "我们来学“邮箱”这个词。",
+   "exampleMeaning": "Cùng học từ “邮箱”: hòm thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "标题",
+   "meaning": "đầu đề",
+   "example": "我们来学“标题”这个词。",
+   "exampleMeaning": "Cùng học từ “标题”: đầu đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biāotí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预报",
+   "meaning": "dự báo",
+   "example": "天气预报",
+   "exampleMeaning": "Dự báo thời tiết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "整齐",
+   "meaning": "đều",
+   "example": "山下有一排整齐的瓦房。",
+   "exampleMeaning": "Dưới chân núi có một dãy nhà ngói ngay ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěngqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "志愿",
+   "meaning": "chí hướng và nguyện vọng",
+   "example": "他的志愿是当个教师。",
+   "exampleMeaning": "Chí hướng và nguyện vọng của anh ấy là làm thầy giáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "职工",
+   "meaning": "thợ, công nhân viên, công nhân viên chức",
+   "example": "本厂共有两千职工。",
+   "exampleMeaning": "Nhà máy này có khoảng hai ngàn công nhân viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhígōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "木头",
+   "meaning": "gỗ",
+   "example": "一块木头。",
+   "exampleMeaning": "Một miếng gỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùtou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "熟人",
+   "meaning": "người quen",
+   "example": "我们来学“熟人”这个词。",
+   "exampleMeaning": "Cùng học từ “熟人”: người quen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shúrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "报到",
+   "meaning": "báo trình diện",
+   "example": "新生已开始报到",
+   "exampleMeaning": "Người mới đến đã báo trình diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàodào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "景色",
+   "meaning": "cảnh",
+   "example": "日出的时候景色特别美丽。",
+   "exampleMeaning": "Lúc mặt trời mọc cảnh sắc vô cùng đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐngsè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表格",
+   "meaning": "bản khai",
+   "example": "填写表格",
+   "exampleMeaning": "Điền vào bản khai",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎogé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "功课",
+   "meaning": "bài tập",
+   "example": "他在学校里每门功课都很好。",
+   "exampleMeaning": "Ở trường môn nào nó cũng học rất giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美术",
+   "meaning": "mỹ thuật tạo hình",
+   "example": "我们来学“美术”这个词。",
+   "exampleMeaning": "Cùng học từ “美术”: mỹ thuật tạo hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měishù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "故乡",
+   "meaning": "cố hương",
+   "example": "我们来学“故乡”这个词。",
+   "exampleMeaning": "Cùng học từ “故乡”: cố hương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùxiāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "认得",
+   "meaning": "biết được",
+   "example": "我不认得这是什么花?",
+   "exampleMeaning": "Tôi không biết đây là hoa gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "邮票",
+   "meaning": "tem",
+   "example": "我们来学“邮票”这个词。",
+   "exampleMeaning": "Cùng học từ “邮票”: tem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóupiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "房租",
+   "meaning": "tiền thuê nhà",
+   "example": "我们来学“房租”这个词。",
+   "exampleMeaning": "Cùng học từ “房租”: tiền thuê nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángzū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "武术",
+   "meaning": "võ thuật",
+   "example": "我们来学“武术”这个词。",
+   "exampleMeaning": "Cùng học từ “武术”: võ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "当时",
+    "我",
+    "没想到",
+    "这个",
+    "问题"
+   ],
+   "reading": "dāngshí wǒ méixiǎngdào zhège wèntí",
+   "meaning": "Lúc đó, tôi không nghĩ đến vấn đề này."
+  },
+  {
+   "tokens": [
+    "我",
+    "是",
+    "必须",
+    "去",
+    "做",
+    "这",
+    "事",
+    "的",
+    "人"
+   ],
+   "reading": "wǒ shì bìxū qù zuò zhè shì de rén",
+   "meaning": "Tôi là người buộc phải đi làm việc này."
+  },
+  {
+   "tokens": [
+    "这里",
+    "是",
+    "爸爸",
+    "工作",
+    "的",
+    "地方"
+   ],
+   "reading": "zhèlǐ shì bàba gōngzuò de dìfang",
+   "meaning": "Đây là nơi làm việc của bố tôi."
+  },
+  {
+   "tokens": [
+    "他",
+    "童年",
+    "时",
+    "去",
+    "过",
+    "巴黎",
+    "三次"
+   ],
+   "reading": "tā tóngnián shí qù guo bālí sāncì",
+   "meaning": "Hồi nhỏ, anh ta đã đi Paris ba lần."
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "才",
+    "好"
+   ],
+   "reading": "wǒ bù zhīdào yīnggāi shuō shénme cái hǎo",
+   "meaning": "Tôi hết lời để nói."
+  }
+ ],
+ "issues": []
+}

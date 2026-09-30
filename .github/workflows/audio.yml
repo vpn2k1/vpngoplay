@@ -12,6 +12,8 @@ on:
     paths:
       - public/decks/**
       - public/grammar/**
+      - public/talk/**
+      - public/sentences/**
       - scripts/generate-audio.mjs
       - scripts/tts/**
       - .github/workflows/audio.yml

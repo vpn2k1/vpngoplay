@@ -18,7 +18,8 @@ export function clozeOf(word: Word, lang: Lang): Cloze | null {
   const example = word.example
   if (!example) return null
   if (lang === 'en') {
-    const match = new RegExp(`\\b${escapeRegExp(word.term)}\\b`, 'i').exec(example)
+    // Lookarounds instead of \\b so terms ending in punctuation ("p.m.") match too.
+    const match = new RegExp(`(?<!\\w)${escapeRegExp(word.term)}(?!\\w)`, 'i').exec(example)
     if (!match) return null
     return {
       before: example.slice(0, match.index),

@@ -1,0 +1,327 @@
+{
+ "lesson": 73,
+ "draft": true,
+ "words": [
+  {
+   "term": "播",
+   "meaning": "gieo",
+   "example": "与此同时，电台也播出了这条消息。",
+   "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bō",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "作战",
+   "meaning": "trận chiến",
+   "example": "我们在拂晓开始作战。",
+   "exampleMeaning": "Chúng tôi bắt đầu trận chiến từ sáng sớm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòzhàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "税",
+   "meaning": "thuế",
+   "example": "农业税。",
+   "exampleMeaning": "Thuế nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "当天",
+   "meaning": "trong ngày",
+   "example": "路不远，早晨动身，当天就能赶回来。",
+   "exampleMeaning": "Đường gần, sáng đi sớm có thể trở về trong ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngtiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "井",
+   "meaning": "giếng",
+   "example": "井井有条。",
+   "exampleMeaning": "Ngay ngắn rõ ràng; ngăn nắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赚钱",
+   "meaning": "kiếm tiền",
+   "example": "我们来学“赚钱”这个词。",
+   "exampleMeaning": "Cùng học từ “赚钱”: kiếm tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuànqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王子",
+   "meaning": "vương tử",
+   "example": "我见到了王子真人。",
+   "exampleMeaning": "Tôi đã gặp Vương tử ngoài đời thật.",
+   "emoji": "🤴",
+   "ipa": "",
+   "pinyin": "wángzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "钻",
+   "meaning": "kim cương",
+   "example": "我们不能让对方钻空子。",
+   "exampleMeaning": "Chúng ta không thể để đối phương thừa cơ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "被告",
+   "meaning": "bị cáo",
+   "example": "我们来学“被告”这个词。",
+   "exampleMeaning": "Cùng học từ “被告”: bị cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèigào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大街",
+   "meaning": "phố lớn",
+   "example": "我们来学“大街”这个词。",
+   "exampleMeaning": "Cùng học từ “大街”: phố lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàjiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "收藏",
+   "meaning": "thu thập bảo tồn",
+   "example": "收藏文物。",
+   "exampleMeaning": "Thu thập bảo tồn đồ cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōucáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "佛",
+   "meaning": "làm trái ý",
+   "example": "我们来学“佛”这个词。",
+   "exampleMeaning": "Cùng học từ “佛”: làm trái ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幻想",
+   "meaning": "ảo tưởng",
+   "example": "幻想成为一名月球上的公民。",
+   "exampleMeaning": "Ảo tưởng trở thành người dân sống trên mặt trăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànxiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一番",
+   "meaning": "một phiên",
+   "example": "我们来学“一番”这个词。",
+   "exampleMeaning": "Cùng học từ “一番”: một phiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìfān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暴露",
+   "meaning": "để lộ",
+   "example": "暴露目标",
+   "exampleMeaning": "Để lộ mục tiêu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàolù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机械",
+   "meaning": "cứng nhắc",
+   "example": "工作方法太机械。",
+   "exampleMeaning": "Phương pháp công tác quá cứng nhắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīxiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伤口",
+   "meaning": "vết thương",
+   "example": "我们来学“伤口”这个词。",
+   "exampleMeaning": "Cùng học từ “伤口”: vết thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电力",
+   "meaning": "điện lực",
+   "example": "我们来学“电力”这个词。",
+   "exampleMeaning": "Cùng học từ “电力”: điện lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "设计师",
+   "meaning": "nhà thiết kế",
+   "example": "我们来学“设计师”这个词。",
+   "exampleMeaning": "Cùng học từ “设计师”: nhà thiết kế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèjìshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "协助",
+   "meaning": "giúp đỡ",
+   "example": "我们来学“协助”这个词。",
+   "exampleMeaning": "Cùng học từ “协助”: giúp đỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiézhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "见到",
+    "了",
+    "王子",
+    "真人"
+   ],
+   "reading": "wǒ jiàndào le wángzǐ zhēnrén",
+   "meaning": "Tôi đã gặp Vương tử ngoài đời thật."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "我们",
+    "不",
+    "能",
+    "让",
+    "对方",
+    "钻空子"
+   ],
+   "reading": "wǒmen bù néng ràng duìfāng zuānkòngzi",
+   "meaning": "Chúng ta không thể để đối phương thừa cơ được."
+  },
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "贸易",
+    "帮助",
+    "国家",
+    "发展"
+   ],
+   "reading": "màoyì bāngzhù guójiā fāzhǎn",
+   "meaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia."
+  }
+ ],
+ "issues": []
+}

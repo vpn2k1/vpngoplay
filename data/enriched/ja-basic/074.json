@@ -1,0 +1,324 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "覗く",
+   "meaning": "hé nhìn, lé nhìn",
+   "example": "「覗く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “覗く”: hé nhìn, lé nhìn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "できれば",
+   "meaning": "if possible… (EN)",
+   "example": "できれば飛行機では行きたくない。",
+   "exampleMeaning": "Nếu được thì tôi không muốn đi bằng máy bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "碑",
+   "meaning": "bia (có để khắc)",
+   "example": "「碑」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “碑”: bia (có để khắc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不思議",
+   "meaning": "điều huyền bí, điều thần bí",
+   "example": "「不思議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不思議”: điều huyền bí, điều thần bí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "苦",
+   "meaning": "đau đớn, đau khổ, khổ não",
+   "example": "僕は水泳が苦手です。",
+   "exampleMeaning": "Tôi bơi không giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "愛",
+   "meaning": "cảm thấy rất vui, yêu",
+   "example": "愛は存在しない。",
+   "exampleMeaning": "Tình yêu không tồn tại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "札",
+   "meaning": "cái kéo liềm (để tỉa cành cây trên cao)",
+   "example": "トムは名札を付けてるよ。",
+   "exampleMeaning": "Tom đang đeo thẻ tên đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "預ける",
+   "meaning": "gửi (tiền, đồ vật... )",
+   "example": "「預ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “預ける”: gửi (tiền, đồ vật... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "信仰",
+   "meaning": "sự tin tưởng, sự tin cậy",
+   "example": "「信仰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “信仰”: sự tin tưởng, sự tin cậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地",
+   "meaning": "đất liền, mặt đất, đất trồng",
+   "example": "彼は百地三太夫です。",
+   "exampleMeaning": "Anh ấy là Momochi Sandayu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "憲法",
+   "meaning": "hiến pháp",
+   "example": "憲法裁判所は、今日の朝の内に判決を下すだろう。",
+   "exampleMeaning": "Tòa án Hiến pháp sẽ đưa ra phán quyết trong sáng nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "範囲",
+   "meaning": "khoảng rộng",
+   "example": "「範囲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “範囲”: khoảng rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "他",
+   "meaning": "khác",
+   "example": "他に質問はある？",
+   "exampleMeaning": "Bạn còn câu hỏi gì không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "証明",
+   "meaning": "chứng, chứng cớ, bằng chứng",
+   "example": "これは証明済みの事実だ。",
+   "exampleMeaning": "Đây là sự thật đã được kiểm chứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "酸素",
+   "meaning": "oxy",
+   "example": "空気中の酸素は水に溶解する。",
+   "exampleMeaning": "Oxy trong không khí tan trong nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "専攻",
+   "meaning": "major subject (EN)",
+   "example": "何を専攻していますか。",
+   "exampleMeaning": "Chuyên ngành của bạn là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "批判",
+   "meaning": "sự phê bình, sự phê phán, sự bình phẩm",
+   "example": "彼の批判は犬の遠吠えだ。",
+   "exampleMeaning": "Anh ta chỉ có thể phê bình những người khác đằng sau lưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "代る",
+   "meaning": "thay thế",
+   "example": "「代る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代る”: thay thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新た",
+   "meaning": "mới, mới mẻ, mới lạ",
+   "example": "「新た」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新た”: mới, mới mẻ, mới lạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "食う",
+   "meaning": "ăn",
+   "example": "働かざる者食うべからず。",
+   "exampleMeaning": "Ai không làm thì đừng có ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "を",
+    "愛",
+    "してる"
+   ],
+   "reading": "わたしをあいしてる",
+   "meaning": "Bạn có yêu tôi không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "友愛会",
+    "の",
+    "会員",
+    "だ"
+   ],
+   "reading": "かれはゆうあいかいのかいいんだ",
+   "meaning": "Anh ta là thành viên của hội anh em."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "百",
+    "地",
+    "三太夫",
+    "です"
+   ],
+   "reading": "かれはひゃくちさんだゆうです",
+   "meaning": "Anh ấy là Momochi Sandayu."
+  },
+  {
+   "tokens": [
+    "何",
+    "を",
+    "専攻",
+    "しています",
+    "か"
+   ],
+   "reading": "なにをせんこうしていますか",
+   "meaning": "Chuyên ngành của bạn là gì?"
+  },
+  {
+   "tokens": [
+    "他の",
+    "を",
+    "見せて",
+    "ください"
+   ],
+   "reading": "たのをみせてください",
+   "meaning": "Anh có thể cho em xem cái khác có được không ạ?"
+  }
+ ],
+ "issues": []
+}

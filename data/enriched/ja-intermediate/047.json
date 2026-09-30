@@ -1,0 +1,324 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "森林",
+   "meaning": "rừng",
+   "example": "カナダは森林資源が豊富である。",
+   "exampleMeaning": "Canada sở hữu tài nguyên rừng giàu có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "手前",
+   "meaning": "trước, đằng trước",
+   "example": "「手前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手前”: trước, đằng trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "付近",
+   "meaning": "hàng xóm",
+   "example": "人間の体温は37度付近で上下している。",
+   "exampleMeaning": "Nhiệt độ cơ thể của con người dao động trên dưới mức 37 độ C.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "もやす",
+   "meaning": "đốt cháy",
+   "example": "「もやす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “もやす”: đốt cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "神様",
+   "meaning": "thần",
+   "example": "「神様!誰がこの人達を選んだの？」「神様がこの人達を選んだんだよ」",
+   "exampleMeaning": "\"Hỡi thần linh! Ai đã chọn lựa những người này?\" \"Thần linh đã chọn lựa những người này đấy.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "膨らむ",
+   "meaning": "mở rộng, trải ra",
+   "example": "「膨らむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “膨らむ”: mở rộng, trải ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鈍い",
+   "meaning": "chậm hiểu, tối dạ, ngu đần",
+   "example": "「鈍い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鈍い”: chậm hiểu, tối dạ, ngu đần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "電流",
+   "meaning": "dòng điện",
+   "example": "「電流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “電流”: dòng điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中指",
+   "meaning": "ngón tay giữa",
+   "example": "「中指」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中指”: ngón tay giữa.",
+   "emoji": "🖕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "欧米",
+   "meaning": "hướng tây, phương tây, phía tây",
+   "example": "「欧米」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “欧米”: hướng tây, phương tây, phía tây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "突き当たり",
+   "meaning": "sự kết thúc",
+   "example": "「突き当たり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “突き当たり”: sự kết thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "初歩",
+   "meaning": "phần tử",
+   "example": "「初歩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “初歩”: phần tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "測量",
+   "meaning": "kích thước, khuôn khổ, bề (rộng",
+   "example": "「測量」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “測量”: kích thước, khuôn khổ, bề (rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "祭日",
+   "meaning": "national holiday (EN)",
+   "example": "「祭日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “祭日”: national holiday (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物差し",
+   "meaning": "người thống trị, người chuyên quyền",
+   "example": "「物差し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物差し”: người thống trị, người chuyên quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不規則",
+   "meaning": "tính không đều",
+   "example": "不規則動詞の勉強は好きではない。",
+   "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "観測",
+   "meaning": "sự quan sát, sự để ý, sự chú ý",
+   "example": "「観測」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “観測”: sự quan sát, sự để ý, sự chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "農産物",
+   "meaning": "nông sản phẩm",
+   "example": "「農産物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農産物”: nông sản phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水曜",
+   "meaning": "ngày thứ tư",
+   "example": "来週の水曜までにレポートを出さなきゃいけないの。",
+   "exampleMeaning": "Tôi phải nộp báo cáo trước thứ 4 tuần sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "献立",
+   "meaning": "thực đơn",
+   "example": "「献立」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “献立”: thực đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "僕",
+    "は",
+    "水泳",
+    "が",
+    "苦手",
+    "です"
+   ],
+   "reading": "ぼくはすいえいがにがてです",
+   "meaning": "Tôi bơi không giỏi."
+  },
+  {
+   "tokens": [
+    "弟",
+    "は",
+    "よく",
+    "徹夜",
+    "を",
+    "する"
+   ],
+   "reading": "おとうとはよくてつやをする",
+   "meaning": "Em trai tôi hay thức đêm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "絵",
+    "を",
+    "かいている"
+   ],
+   "reading": "かれはえをかいている",
+   "meaning": "Anh ấy đang vẽ tranh."
+  },
+  {
+   "tokens": [
+    "気温",
+    "が",
+    "急に",
+    "下がった"
+   ],
+   "reading": "きおんがきゅうにさがった",
+   "meaning": "Nhiệt độ đột nhiên giảm."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで",
+    "くれ"
+   ],
+   "reading": "きゅうきゅうしゃをよんでくれ",
+   "meaning": "Gọi cấp cứu đi."
+  }
+ ],
+ "issues": []
+}

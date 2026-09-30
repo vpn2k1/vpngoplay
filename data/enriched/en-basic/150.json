@@ -1,0 +1,324 @@
+{
+ "lesson": 150,
+ "draft": true,
+ "words": [
+  {
+   "term": "tuna",
+   "meaning": "cá ngừ đại dương (hay còn gọi là cá bò gù)",
+   "example": "Let's learn the word \"tuna\".",
+   "exampleMeaning": "Cùng học từ “tuna”: cá ngừ đại dương (hay còn gọi là cá bò gù).",
+   "emoji": "",
+   "ipa": "/ˈtʃuː.nə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reduction",
+   "meaning": "sự giáng cấp (một sĩ quan... )",
+   "example": "reduction to the ranks",
+   "exampleMeaning": "Sự giáng cấp xuống làm lính thường",
+   "emoji": "",
+   "ipa": "/rəˈdəkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reduce",
+   "meaning": "giảm bớt, hạ, làm cho",
+   "example": "to reduce an officer to the ranks",
+   "exampleMeaning": "Giáng cấp một sĩ quan xuống làm lính thường",
+   "emoji": "",
+   "ipa": "/rɪˈdjuːs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "investigation",
+   "meaning": "điều tra",
+   "example": "We conducted our investigation with the greatest care.",
+   "exampleMeaning": "Chúng tôi đã tiến hành cuộc điều tra của mình với sự cẩn trọng cao nhất.",
+   "emoji": "",
+   "ipa": "/ˌɪnˌvɛstəˈɡeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "knit",
+   "meaning": "dệt, đan",
+   "example": "a closely knit argument",
+   "exampleMeaning": "Lý lẽ chặt chẽ",
+   "emoji": "",
+   "ipa": "/ˈnɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "calculator",
+   "meaning": "máy tính",
+   "example": "You are allowed to bring your calculator to class.",
+   "exampleMeaning": "Bạn được phép mang theo máy tính của mình đến lớp.",
+   "emoji": "",
+   "ipa": "/ˈkæl.kjə.leɪ.tə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nevertheless",
+   "meaning": "tuy nhiên, tuy thế mà",
+   "example": "Let's learn the word \"nevertheless\".",
+   "exampleMeaning": "Cùng học từ “nevertheless”: tuy nhiên, tuy thế mà.",
+   "emoji": "",
+   "ipa": "/ˌnɛvɜrðəˈlɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "assume",
+   "meaning": "mang, khoác, có",
+   "example": "to assume a look of innocence",
+   "exampleMeaning": "Làm ra vẻ ngây thơ",
+   "emoji": "",
+   "ipa": "/əˈsum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "aggregate",
+   "meaning": "toàn bộ, toàn thể, tổng số",
+   "example": "these armies aggregate 500,000 men",
+   "exampleMeaning": "Những đạo quân ấy tổng số lên đến 500, 000 người",
+   "emoji": "",
+   "ipa": "/ˈæɡrəɡeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "electrical",
+   "meaning": "điện",
+   "example": "We need an electrical engineer for this job.",
+   "exampleMeaning": "Bọn mình cần thợ điện để làm việc này.",
+   "emoji": "",
+   "ipa": "/ɪˈlɛktrɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unheard",
+   "meaning": "không nghe thấy, không ai nghe",
+   "example": "it is unjust to condemn a prisoner unheard",
+   "exampleMeaning": "Không nghe một tù nhân biện bạch mà đã kết án là không công bằng",
+   "emoji": "",
+   "ipa": "/ənˈhɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "smoker",
+   "meaning": "người hút thuốc, người nghiện thuốc",
+   "example": "He's a heavy smoker, isn't he?",
+   "exampleMeaning": "Anh ấy nghiện thuốc lá nặng phải không?",
+   "emoji": "",
+   "ipa": "/ˈsmoʊkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "equality",
+   "meaning": "tính bằng, tính ngang bằng",
+   "example": "Let's learn the word \"equality\".",
+   "exampleMeaning": "Cùng học từ “equality”: tính bằng, tính ngang bằng.",
+   "emoji": "",
+   "ipa": "/ɪˈkwɑləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sparkle",
+   "meaning": "sự lấp lánh, sự lóng lánh",
+   "example": "I count the sparkle of constellations to foretell the future of my love.",
+   "exampleMeaning": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình.",
+   "emoji": "❇",
+   "ipa": "/ˈspɑrkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "railway",
+   "meaning": "đường sắt, đường xe lửa, đường ray",
+   "example": "I'm sitting in the railway station.",
+   "exampleMeaning": "Tôi đang ngồi trong nhà ga.",
+   "emoji": "",
+   "ipa": "/ˈreɪlˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "habitat",
+   "meaning": "môi trường sống",
+   "example": "Let's learn the word \"habitat\".",
+   "exampleMeaning": "Cùng học từ “habitat”: môi trường sống.",
+   "emoji": "",
+   "ipa": "/ˈhæbəˌtæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "earache",
+   "meaning": "sự đau tai",
+   "example": "Let's learn the word \"earache\".",
+   "exampleMeaning": "Cùng học từ “earache”: sự đau tai.",
+   "emoji": "",
+   "ipa": "/ˈiəreɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "southwest",
+   "meaning": "tây nam",
+   "example": "Let's learn the word \"southwest\".",
+   "exampleMeaning": "Cùng học từ “southwest”: tây nam.",
+   "emoji": "",
+   "ipa": "/ˌsaʊθˈwɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jazz",
+   "meaning": "nhạc ja",
+   "example": "Does jazz hold any appeal for you?",
+   "exampleMeaning": "Nhạc jazz có hấp dẫn anh chút nào không?",
+   "emoji": "",
+   "ipa": "/ˈdʒæz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bronze",
+   "meaning": "đồng thiếc, đồng đỏ",
+   "example": "the bronze age",
+   "exampleMeaning": "Thời kỳ đồng thiếc",
+   "emoji": "",
+   "ipa": "/ˈbrɑnz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "like",
+    "jazz"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích nhạc jazz."
+  },
+  {
+   "tokens": [
+    "Exercise",
+    "can",
+    "reduce",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Tập thể dục có thể làm giảm đau."
+  },
+  {
+   "tokens": [
+    "I",
+    "assume",
+    "you're",
+    "talking",
+    "about",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Bạn có lẽ đang nói về Tom có đúng không?"
+  },
+  {
+   "tokens": [
+    "He's",
+    "a",
+    "heavy",
+    "smoker",
+    "isn't",
+    "he"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy nghiện thuốc lá nặng phải không?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "sitting",
+    "in",
+    "the",
+    "railway",
+    "station"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang ngồi trong nhà ga."
+  }
+ ],
+ "issues": []
+}

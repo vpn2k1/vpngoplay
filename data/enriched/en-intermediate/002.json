@@ -1,0 +1,324 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "extinct",
+   "meaning": "tuyệt giống, tuyệt chủng",
+   "example": "The species will be made extinct by the end of this century.",
+   "exampleMeaning": "Nhiều loài sẽ bị tuyệt chủng vào cuối thế kỷ này",
+   "emoji": "",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "owing",
+   "meaning": "nhờ có, do bởi, vì",
+   "example": "Owing to the storm, they arrived late.",
+   "exampleMeaning": "Vì cơn bão nên họ đã đến muộn.",
+   "emoji": "",
+   "ipa": "/ˈəʊ.ɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "worth",
+   "meaning": "đáng, bõ công",
+   "example": "is it worth while?",
+   "exampleMeaning": "Điều đó có bõ công không?, điều đó có đáng làm không?",
+   "emoji": "",
+   "ipa": "/ˈwɜrθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tasteless",
+   "meaning": "không phân biệt được mùi vị",
+   "example": "in a tasteless state",
+   "exampleMeaning": "Trong trạng thái không phân biệt được mùi vị",
+   "emoji": "",
+   "ipa": "/ˈteɪstləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "racial",
+   "meaning": "dòng giống, (thuộc) chủng tộc",
+   "example": "Let's learn the word \"racial\".",
+   "exampleMeaning": "Cùng học từ “racial”: dòng giống, (thuộc) chủng tộc.",
+   "emoji": "",
+   "ipa": "/ˈreɪʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "athletic",
+   "meaning": "có tính chất lực sĩ, lực lưỡng",
+   "example": "Let's learn the word \"athletic\".",
+   "exampleMeaning": "Cùng học từ “athletic”: có tính chất lực sĩ, lực lưỡng.",
+   "emoji": "",
+   "ipa": "/æθˈlɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "barrel",
+   "meaning": "thùng (lượng chứa trong thùng)",
+   "example": "I'll change out of my diving suit and find something to open the barrel with.",
+   "exampleMeaning": "Tôi sẽ thay bộ đồ lặn của mình ra và tìm thứ gì đó để mở cái thùng.",
+   "emoji": "",
+   "ipa": "/ˈbærəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "manuscript",
+   "meaning": "chưa in",
+   "example": "poems still in manuscript",
+   "exampleMeaning": "Những bài thơ chưa in",
+   "emoji": "",
+   "ipa": "/ˈmæn.jəˌskrɪpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "observation",
+   "meaning": "khả năng quan sát, năng lực quan sát",
+   "example": "to keep someone under observation",
+   "exampleMeaning": "Theo dõi ai",
+   "emoji": "",
+   "ipa": "/ˌɑbzɜrˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "paddle",
+   "meaning": "vầy, vọc, nghịch bằng ngón tay",
+   "example": "to paddle in (on, about) something",
+   "exampleMeaning": "Vầy một vật gì",
+   "emoji": "",
+   "ipa": "/ˈpædəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "irregular",
+   "meaning": "bất quy tắc, không theo quy tắc",
+   "example": "My hobby: inventing irregular forms of verbs.",
+   "exampleMeaning": "Sở thích của tôi: sáng tạo ra các dạng bất quy tắc của động từ.",
+   "emoji": "",
+   "ipa": "/ˌɪˈrɛɡjəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "commonly",
+   "meaning": "thường thường, thông thường, bình thường",
+   "example": "Let's learn the word \"commonly\".",
+   "exampleMeaning": "Cùng học từ “commonly”: thường thường, thông thường, bình thường.",
+   "emoji": "",
+   "ipa": "/ˈkɑmənli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chat show",
+   "meaning": "chương trình phỏng vấn trên tivi",
+   "example": "Let's learn the word \"chat show\".",
+   "exampleMeaning": "Cùng học từ “chat show”: chương trình phỏng vấn trên tivi.",
+   "emoji": "",
+   "ipa": "/ˈtʃæt ˈʃoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "heart attack",
+   "meaning": "cơn đau tim",
+   "example": "You just had a heart attack.",
+   "exampleMeaning": "Bạn vừa bị nhồi máu cơ tim.",
+   "emoji": "",
+   "ipa": "/ˈhɑrt əˈtæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "antonym",
+   "meaning": "từ trái nghĩa",
+   "example": "Let's learn the word \"antonym\".",
+   "exampleMeaning": "Cùng học từ “antonym”: từ trái nghĩa.",
+   "emoji": "",
+   "ipa": "/ˈæntənˌɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "groom",
+   "meaning": "chuẩn bị",
+   "example": "to groom someone for stardom",
+   "exampleMeaning": "Chuẩn bị cho ai trở thành diễn viên điện ảnh",
+   "emoji": "",
+   "ipa": "/ˈɡrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "secure",
+   "meaning": "chắc chắn, bảo đảm",
+   "example": "to secure a town with wall",
+   "exampleMeaning": "Xây tường thành để củng cố thành phố",
+   "emoji": "",
+   "ipa": "/sɪkˈjʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flunk",
+   "meaning": "hỏng (thi)",
+   "example": "to flunk the examination",
+   "exampleMeaning": "Hỏng thi, thi trượt",
+   "emoji": "",
+   "ipa": "/ˈfləŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "intense",
+   "meaning": "mạnh, có cường độ lớn",
+   "example": "Due to the intense sunlight, his back was sunburnt.",
+   "exampleMeaning": "Lưng anh ấy bị cháy nắng vì ánh nắng mặt trời gay gắt.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sportsmanship",
+   "meaning": "tinh thần thể thao",
+   "example": "Let's learn the word \"sportsmanship\".",
+   "exampleMeaning": "Cùng học từ “sportsmanship”: tinh thần thể thao.",
+   "emoji": "",
+   "ipa": "/ˈspɔrtsmənˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It",
+    "wasn't",
+    "worth",
+    "the",
+    "wait"
+   ],
+   "reading": "",
+   "meaning": "Nó không đáng để chờ đợi."
+  },
+  {
+   "tokens": [
+    "It",
+    "isn't",
+    "worth",
+    "crying",
+    "over"
+   ],
+   "reading": "",
+   "meaning": "Không đáng để mà khóc lóc đâu."
+  },
+  {
+   "tokens": [
+    "You",
+    "make",
+    "life",
+    "worth",
+    "living"
+   ],
+   "reading": "",
+   "meaning": "Bạn làm cho cuộc đời đáng sống."
+  },
+  {
+   "tokens": [
+    "We",
+    "should",
+    "make",
+    "humans",
+    "extinct"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta nên làm cho con người tuyệt chủng."
+  },
+  {
+   "tokens": [
+    "This",
+    "car",
+    "isn't",
+    "worth",
+    "repairing"
+   ],
+   "reading": "",
+   "meaning": "Xe này sửa thì không đáng."
+  }
+ ],
+ "issues": []
+}

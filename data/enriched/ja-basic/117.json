@@ -1,0 +1,330 @@
+{
+ "lesson": 117,
+ "draft": true,
+ "words": [
+  {
+   "term": "予測",
+   "meaning": "sự nói trước",
+   "example": "「予測」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予測”: sự nói trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知恵",
+   "meaning": "tính khôn ngoan, trí tuệ",
+   "example": "酒が入れば知恵が出ていく。",
+   "exampleMeaning": "Rượu vào lời ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "パイロット",
+   "meaning": "người lái (máy bay), phi công",
+   "example": "彼はパイロットになる決意をした。",
+   "exampleMeaning": "Anh ấy đã hạ quyết tâm trở thành một phi công.",
+   "emoji": "🧑‍✈",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "貸し",
+   "meaning": "tiền cho mượn",
+   "example": "１ドル貸してくれないか。",
+   "exampleMeaning": "Bạn cho tôi vay 1 Đô-la có được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嗅ぐ",
+   "meaning": "ngửi, hít vào",
+   "example": "「嗅ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “嗅ぐ”: ngửi, hít vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "被害",
+   "meaning": "hại, tai hại, tổn hao",
+   "example": "核戦争が起きれば、全人類が被害を受けるだろう。",
+   "exampleMeaning": "Nếu chiến tranh hạt nhân xảy ra, toàn bộ loài người sẽ phải hứng chịu thiệt hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スキー",
+   "meaning": "trượt tuyết",
+   "example": "スキーブーツを買いたい。",
+   "exampleMeaning": "Tôi muốn mua giày trượt tuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あちこち",
+   "meaning": "toàn diện, giỏi nhiều môn",
+   "example": "「あちこち」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “あちこち”: toàn diện, giỏi nhiều môn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ありがとう",
+   "meaning": "cám ơn",
+   "example": "ありがとうございます！",
+   "exampleMeaning": "Cám ơn bạn nhiều nghe!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "粋",
+   "meaning": "sự sang trọng, sự lịch sự",
+   "example": "日本人離れしたこの美しい相貌からもわかるように、優奈は実は生粋の日本人じゃない。西洋人をおばあちゃんに持つ、クォーターだったりする。",
+   "exampleMeaning": "Sở hữu một vẻ ngoài xinh đẹp, khác biệt so với những người Nhật khác, như bạn có thể nhận thấy, Yuna thực ra không phải là một người Nhật thuần chủng. Cô sở hữu một phần tư gen người phương Tây từ người bà của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "完了",
+   "meaning": "hoàn tất",
+   "example": "アメリカ軍はイラクでの戦闘任務を完了することを発表した。",
+   "exampleMeaning": "Quân đội Mỹ tuyên bố đã hoàn thành nhiệm vụ chiến đấu tại Iraq.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "課程",
+   "meaning": "tiến trình, dòng",
+   "example": "博士課程を卒業しても職がないので、インドに行ってお坊さんになります。",
+   "exampleMeaning": "Vì sau khi tốt nghiệp thạc sĩ xong không có việc làm, nên tôi đã đi tu ở Ấn Độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分かれる",
+   "meaning": "chia nhánh",
+   "example": "「分かれる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分かれる”: chia nhánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "財産",
+   "meaning": "quyền sở hữu, tài sản, của cải",
+   "example": "彼は叔父の財産をついだ。",
+   "exampleMeaning": "Anh ta được thừa kế tài sản từ người chú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "濠",
+   "meaning": "hào (xung quanh thành trì... )",
+   "example": "「濠」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “濠”: hào (xung quanh thành trì... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "四角",
+   "meaning": "vuông",
+   "example": "「四角」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “四角”: vuông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "速度",
+   "meaning": "sự mau lẹ",
+   "example": "「速度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “速度”: sự mau lẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "達する",
+   "meaning": "chìa ra, đưa (tay) ra",
+   "example": "２、３年でフランス語に熟達するのはきわめて難しい。",
+   "exampleMeaning": "Rất là khó để thành thạo tiếng Pháp trong hai hay ba năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生まれ",
+   "meaning": "sự sinh đẻ",
+   "example": "信じて。生まれ変わるよ。",
+   "exampleMeaning": "Tin tôi đi. Tôi bây đã lột xác thành người mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学歴",
+   "meaning": "academic background (EN)",
+   "example": "「学歴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学歴”: academic background (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "知恵",
+    "の",
+    "ある",
+    "人",
+    "だ"
+   ],
+   "reading": "かれはちえのあるひとだ",
+   "meaning": "Anh ấy là một người hiểu biết."
+  },
+  {
+   "tokens": [
+    "傘",
+    "を",
+    "貸して",
+    "くれます",
+    "か"
+   ],
+   "reading": "かさをかしてくれますか",
+   "meaning": "Bạn có thể cho tôi mượn cái ô không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "叔父",
+    "の",
+    "財産",
+    "を",
+    "つい",
+    "だ"
+   ],
+   "reading": "かれはおじのざいさんをついだ",
+   "meaning": "Anh ta được thừa kế tài sản từ người chú."
+  },
+  {
+   "tokens": [
+    "酒",
+    "が",
+    "入れば",
+    "知恵",
+    "が",
+    "出ていく"
+   ],
+   "reading": "さけがはいればちえがでていく",
+   "meaning": "Rượu vào lời ra."
+  },
+  {
+   "tokens": [
+    "車",
+    "を",
+    "貸して",
+    "いただけません",
+    "か"
+   ],
+   "reading": "くるまをかしていただけませんか",
+   "meaning": "Bạn cho tôi mượn xe ô tô được không?"
+  }
+ ],
+ "issues": []
+}

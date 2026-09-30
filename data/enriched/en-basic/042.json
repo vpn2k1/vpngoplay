@@ -1,0 +1,339 @@
+{
+ "lesson": 42,
+ "draft": true,
+ "words": [
+  {
+   "term": "different",
+   "meaning": "khác, khác biệt, khác nhau",
+   "example": "Let's try a different one.",
+   "exampleMeaning": "Thử cái khác xem sao.",
+   "emoji": "",
+   "ipa": "/ˈdɪfər(ə)nt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "climb",
+   "meaning": "leo, trèo, leo trèo",
+   "example": "Dogs can't climb up walls.",
+   "exampleMeaning": "Chó không thế trèo lên tường",
+   "emoji": "",
+   "ipa": "/klaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "almost",
+   "meaning": "hầu (như), gần (như), suýt nữa",
+   "example": "I'm almost done.",
+   "exampleMeaning": "Tôi sắp xong rồi.",
+   "emoji": "",
+   "ipa": "/ˈɔlˌmoʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mom",
+   "meaning": "mẹ",
+   "example": "My mom is the best!",
+   "exampleMeaning": "Mẹ tôi là nhất!",
+   "emoji": "",
+   "ipa": "/mɒm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sale",
+   "meaning": "bán",
+   "example": "This land is not for sale because it is sacred and forbidden.",
+   "exampleMeaning": "Vùng đất này không bán vì nó là đất thánh và là đất cấm.",
+   "emoji": "",
+   "ipa": "/ˈseɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "business",
+   "meaning": "việc",
+   "example": "you have no business to do that",
+   "exampleMeaning": "Anh không có quyền làm như vậy",
+   "emoji": "",
+   "ipa": "/ˈbɪznəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "weather",
+   "meaning": "thời tiết, tiết trời",
+   "example": "The weather is bad.",
+   "exampleMeaning": "Thời tiết xấu.",
+   "emoji": "",
+   "ipa": "/ˈwɛð.ə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "something",
+   "meaning": "một điều gì đó, một việc gì đó",
+   "example": "we can learn something from his talk",
+   "exampleMeaning": "Chúng tôi có thể học tập được một điều gì đó ở bài nói chuyện của anh ta",
+   "emoji": "",
+   "ipa": "/ˈsəmθɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "park",
+   "meaning": "vườn hoa, công viên",
+   "example": "There is a park there too.",
+   "exampleMeaning": "Ở kia cũng có một cái công viên.",
+   "emoji": "",
+   "ipa": "/ˈpɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rice",
+   "meaning": "lúa",
+   "example": "Do you eat rice every day?",
+   "exampleMeaning": "Bạn có ăn cơm hằng ngày không?",
+   "emoji": "",
+   "ipa": "/raɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "color",
+   "meaning": "màu",
+   "example": "Do you like this color?",
+   "exampleMeaning": "Bạn có thích màu này không?",
+   "emoji": "",
+   "ipa": "/ˈkʌl.ə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lovely",
+   "meaning": "đẹp đẽ, xinh, đáng yêu",
+   "example": "It's a lovely idea.",
+   "exampleMeaning": "Một ý tưởng đáng yêu.",
+   "emoji": "",
+   "ipa": "/ˈləvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "Mr.",
+   "meaning": "ông, anh (xưng hô)",
+   "example": "Let's learn the word \"Mr.\".",
+   "exampleMeaning": "Cùng học từ “Mr.”: ông, anh (xưng hô).",
+   "emoji": "",
+   "ipa": "/ˈmɪstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "knife",
+   "meaning": "dao",
+   "example": "Do you have a knife?",
+   "exampleMeaning": "Bạn có dao không?",
+   "emoji": "",
+   "ipa": "/naɪf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bottle",
+   "meaning": "chai, lọ",
+   "example": "to be brought up on the bottle",
+   "exampleMeaning": "Nuôi bằng sữa ngoài, không cho bú mẹ",
+   "emoji": "",
+   "ipa": "/ˈbɑtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "potato",
+   "meaning": "được, ổn, chu",
+   "example": "such behaviour is not quite the potato",
+   "exampleMeaning": "Cách cư xử như thế không ổn",
+   "emoji": "🥔",
+   "ipa": "/pəˈteɪˌtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "him",
+   "meaning": "nó, hắn, ông ấy",
+   "example": "Let him do it.",
+   "exampleMeaning": "Để anh ấy làm đi.",
+   "emoji": "",
+   "ipa": "/ˈhɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "excellent",
+   "meaning": "hơn hẳn, trội hơn",
+   "example": "Tom is an excellent father.",
+   "exampleMeaning": "Tom là một người cha tuyệt vời.",
+   "emoji": "",
+   "ipa": "/ˈɛksələnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "woman",
+   "meaning": "nữ, đàn bà, gái",
+   "example": "something of the woman in his character",
+   "exampleMeaning": "Một cái gì có tính chất đàn bà trong tính tình của anh ta",
+   "emoji": "👩",
+   "ipa": "/ˈwʊmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "living",
+   "meaning": "sống, đang sống, đang tồn tại",
+   "example": "to earn (get, make) one's living",
+   "exampleMeaning": "Kiếm sống",
+   "emoji": "",
+   "ipa": "/ˈlɪvɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We're",
+    "still",
+    "living",
+    "on",
+    "Park",
+    "Street"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi vẫn đang sống ở phố Park."
+  },
+  {
+   "tokens": [
+    "She",
+    "tried",
+    "to",
+    "cook",
+    "something",
+    "for",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã cố nấu thứ gì đó cho anh ấy ăn."
+  },
+  {
+   "tokens": [
+    "Speaking",
+    "of",
+    "Mr",
+    "Tanaka",
+    "have",
+    "you",
+    "seen",
+    "him",
+    "lately"
+   ],
+   "reading": "",
+   "meaning": "Nói về ông Tanaka, anh có trông thấy ông ta gần đây không?"
+  },
+  {
+   "tokens": [
+    "Try",
+    "to",
+    "slice",
+    "the",
+    "meat",
+    "with",
+    "a",
+    "different",
+    "knife"
+   ],
+   "reading": "",
+   "meaning": "Bạn hãy thử thái miếng thịt bằng một con dao khác đi."
+  },
+  {
+   "tokens": [
+    "There's",
+    "something",
+    "about",
+    "him",
+    "that",
+    "I",
+    "don't",
+    "quite",
+    "trust"
+   ],
+   "reading": "",
+   "meaning": "Có điều gì đó ở anh ấy mà tôi không tin tưởng cho lắm."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,345 @@
+{
+ "lesson": 83,
+ "draft": true,
+ "words": [
+  {
+   "term": "点火",
+   "meaning": "gây chuyện",
+   "example": "上午七点整，火箭发动机点火。",
+   "exampleMeaning": "Đúng bảy giờ sáng, kích hoạt động cơ phóng tên lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnhuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "订购",
+   "meaning": "đặt mua",
+   "example": "订购机票",
+   "exampleMeaning": "Đặt mua vé máy bay",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìnggòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "急于",
+   "meaning": "muốn làm ngay",
+   "example": "他急于回厂，准备今天就走。",
+   "exampleMeaning": "Anh ấy vội về nhà máy, chuẩn bị hôm nay đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不算",
+   "meaning": "xí xoá",
+   "example": "我们来学“不算”这个词。",
+   "exampleMeaning": "Cùng học từ “不算”: xí xoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùsuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雪山",
+   "meaning": "núi tuyết",
+   "example": "我们来学“雪山”这个词。",
+   "exampleMeaning": "Cùng học từ “雪山”: núi tuyết.",
+   "emoji": "🏔",
+   "ipa": "",
+   "pinyin": "xuěshān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毫不犹豫",
+   "meaning": "không một chút do dự",
+   "example": "我们来学“毫不犹豫”这个词。",
+   "exampleMeaning": "Cùng học từ “毫不犹豫”: không một chút do dự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háobùyóuyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沸腾",
+   "meaning": "nhốn nháo",
+   "example": "群情激愤，人声沸腾。",
+   "exampleMeaning": "Quần chúng đang phẫn nộ, tiếng người nhốn nháo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèiténg",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "满怀",
+   "meaning": "chạm trán",
+   "example": "跟他撞了一个满怀。",
+   "exampleMeaning": "Chạm trán với anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎnhuái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "君子",
+   "meaning": "quân tử",
+   "example": "以小人之心度君子之腹。",
+   "exampleMeaning": "Lấy tâm của kẻ tiểu nhân mà đo lòng người quân tử; lấy bụng ta suy bụng người..",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnzǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "势头",
+   "meaning": "thế",
+   "example": "我们来学“势头”这个词。",
+   "exampleMeaning": "Cùng học từ “势头”: thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìtóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拎",
+   "meaning": "xách",
+   "example": "他拎了个木桶到河边去打水。",
+   "exampleMeaning": "Anh ấy xách thùng gỗ ra sông múc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "līn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小心翼翼",
+   "meaning": "cẩn thận từng li từng tí",
+   "example": "我们来学“小心翼翼”这个词。",
+   "exampleMeaning": "Cùng học từ “小心翼翼”: cẩn thận từng li từng tí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoxīnyìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "风采",
+   "meaning": "phong thái",
+   "example": "风采动人",
+   "exampleMeaning": "Phong thái nho nhã",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngcǎi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "插手",
+   "meaning": "nhúng tay",
+   "example": "我们来学“插手”这个词。",
+   "exampleMeaning": "Cùng học từ “插手”: nhúng tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直奔",
+   "meaning": "đi thẳng đến",
+   "example": "我们来学“直奔”这个词。",
+   "exampleMeaning": "Cùng học từ “直奔”: đi thẳng đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíbèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合伙",
+   "meaning": "hùn vốn",
+   "example": "合伙干坏事",
+   "exampleMeaning": "Kết bè kết đảng làm chuyện xấu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héhuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前台",
+   "meaning": "trước sân khấu",
+   "example": "我们来学“前台”这个词。",
+   "exampleMeaning": "Cùng học từ “前台”: trước sân khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiántái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全心全意",
+   "meaning": "hết lòng hết dạ",
+   "example": "全心全意为人民服务。",
+   "exampleMeaning": "Hết lòng hết dạ phục vụ nhân dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánxīnquányì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驾驭",
+   "meaning": "chi phối",
+   "example": "一匹难以驾驭的马",
+   "exampleMeaning": "Một con ngựa khó điều khiển",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "共鸣",
+   "meaning": "đồng cảm",
+   "example": "诗人的爱国主义思想感染了读者，引起了他们的共鸣。",
+   "exampleMeaning": "Tư tưởng yêu nước của nhà thơ đã truyền cho người đọc và tạo nên sự đồng cảm giữa họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "她",
+    "拥抱",
+    "了",
+    "一下儿",
+    "子",
+    "然后",
+    "让",
+    "他",
+    "上床",
+    "睡觉"
+   ],
+   "reading": "tā yōngbào le yīxiàr zǐ ránhòu ràng tā shàngchuáng shuìjiào",
+   "meaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường."
+  },
+  {
+   "tokens": [
+    "既然",
+    "你",
+    "看得起",
+    "我",
+    "我",
+    "就",
+    "一定",
+    "热情",
+    "帮助",
+    "你"
+   ],
+   "reading": "jìrán nǐ kàndeqǐ wǒ wǒ jiù yīdìng rèqíng bāngzhù nǐ",
+   "meaning": "Nếu cậu đã coi trọng tôi, thì tôi nhất định nhiệt tình giúp đỡ cậu."
+  },
+  {
+   "tokens": [
+    "他",
+    "非常",
+    "担忧",
+    "自己",
+    "会",
+    "在",
+    "医院",
+    "度过",
+    "圣诞节"
+   ],
+   "reading": "tā fēicháng dānyōu zìjǐ huì zài yīyuàn dùguò shèngdànjié",
+   "meaning": "Anh ấy đã rất lo lắng về việc sẽ phải dành thời gian Giáng Sinh ở bệnh viện."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,325 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "repertory",
+   "meaning": "kho (tài liệu, tin tức)",
+   "example": "a repertory of useful information",
+   "exampleMeaning": "Một kho tin tức có ích",
+   "emoji": "",
+   "ipa": "/ˈrɛpɜrˌtɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "synthetic",
+   "meaning": "tổng hợp, hoá hợp",
+   "example": "Are those synthetic or cultured pearls?",
+   "exampleMeaning": "Những cái kia là ngọc trai tổng hợp hay là ngọc trai nuôi cấy?",
+   "emoji": "",
+   "ipa": "/sɪnˈθɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "acceleration",
+   "meaning": "gia tốc",
+   "example": "acceleration of gravity",
+   "exampleMeaning": "(vật lý) gia tốc của trọng lực",
+   "emoji": "",
+   "ipa": "/ˌækˌsɛlɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exterior",
+   "meaning": "bề ngoài",
+   "example": "Let's learn the word \"exterior\".",
+   "exampleMeaning": "Cùng học từ “exterior”: bề ngoài.",
+   "emoji": "",
+   "ipa": "/ɪkˈstɪriɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perceptive",
+   "meaning": "nhận thức được, cảm thụ được",
+   "example": "Let's learn the word \"perceptive\".",
+   "exampleMeaning": "Cùng học từ “perceptive”: nhận thức được, cảm thụ được.",
+   "emoji": "",
+   "ipa": "/pɜrˈsɛptɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "radius",
+   "meaning": "phạm vi, vòng",
+   "example": "within a radius of 5 kilometers from Hanoi",
+   "exampleMeaning": "Trong phạm vi cách Hà-nội 5 kilômét",
+   "emoji": "",
+   "ipa": "/ˈreɪdiəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "instinctive",
+   "meaning": "thuộc bản năng",
+   "example": "Let's learn the word \"instinctive\".",
+   "exampleMeaning": "Cùng học từ “instinctive”: thuộc bản năng.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈstɪŋktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bribery",
+   "meaning": "sự đút lót, sự hối lộ, sự mua chuộc",
+   "example": "Let's learn the word \"bribery\".",
+   "exampleMeaning": "Cùng học từ “bribery”: sự đút lót, sự hối lộ, sự mua chuộc.",
+   "emoji": "",
+   "ipa": "/ˈbraɪbɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "testament",
+   "meaning": "di chúc",
+   "example": "to make one's testament",
+   "exampleMeaning": "Làm di chúc",
+   "emoji": "",
+   "ipa": "/ˈtɛstəmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "adjoin",
+   "meaning": "nối liền, tiếp vào",
+   "example": "to adjoin one thing to another",
+   "exampleMeaning": "Nối liền vật này với vật khác",
+   "emoji": "",
+   "ipa": "/əˈdʒɔɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "linear",
+   "meaning": "nét kẻ, thuộc đường kẻ",
+   "example": "Let's learn the word \"linear\".",
+   "exampleMeaning": "Cùng học từ “linear”: nét kẻ, thuộc đường kẻ.",
+   "emoji": "",
+   "ipa": "/ˈlɪniɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "succession",
+   "meaning": "tràng, dãy, chuỗi",
+   "example": "three great victories in succession",
+   "exampleMeaning": "Ba thắng lợi to lớn liên tiếp",
+   "emoji": "",
+   "ipa": "/səkˈsɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "physique",
+   "meaning": "cơ thể vóc người, dạng người",
+   "example": "Let's learn the word \"physique\".",
+   "exampleMeaning": "Cùng học từ “physique”: cơ thể vóc người, dạng người.",
+   "emoji": "",
+   "ipa": "/fəˈzik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "repute",
+   "meaning": "tiếng, lời đồn, cho là",
+   "example": "to know a man by repute",
+   "exampleMeaning": "Biết tiếng người nào",
+   "emoji": "",
+   "ipa": "/ripˈjut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "telltale",
+   "meaning": "mách lẻo, hớt lẻo",
+   "example": "Let's learn the word \"telltale\".",
+   "exampleMeaning": "Cùng học từ “telltale”: mách lẻo, hớt lẻo.",
+   "emoji": "",
+   "ipa": "/ˈtɛlˌteɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stamina",
+   "meaning": "sức chịu đựng",
+   "example": "I don't have the stamina to do that.",
+   "exampleMeaning": "Tôi không có sức chịu đựng để làm điều đó.",
+   "emoji": "",
+   "ipa": "/ˈstæmənə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sedately",
+   "meaning": "điềm tựnh, bình thản",
+   "example": "Let's learn the word \"sedately\".",
+   "exampleMeaning": "Cùng học từ “sedately”: điềm tựnh, bình thản.",
+   "emoji": "",
+   "ipa": "/sɪˈdeɪtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scoff",
+   "meaning": "chế giễu, đùa cợt, chê cười",
+   "example": "Let's learn the word \"scoff\".",
+   "exampleMeaning": "Cùng học từ “scoff”: chế giễu, đùa cợt, chê cười.",
+   "emoji": "",
+   "ipa": "/ˈskɔf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "renown",
+   "meaning": "danh tiếng",
+   "example": "a man of great renown",
+   "exampleMeaning": "Người có danh tiếng lớn",
+   "emoji": "",
+   "ipa": "/rɪˈnaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "credibility",
+   "meaning": "sự tín nhiệm",
+   "example": "Let's learn the word \"credibility\".",
+   "exampleMeaning": "Cùng học từ “credibility”: sự tín nhiệm.",
+   "emoji": "",
+   "ipa": "/ˌkrɛdəˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "those",
+    "synthetic",
+    "or",
+    "cultured",
+    "pearls"
+   ],
+   "reading": "",
+   "meaning": "Những cái kia là ngọc trai tổng hợp hay là ngọc trai nuôi cấy?"
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "have",
+    "the",
+    "stamina",
+    "to",
+    "do",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Tôi không có sức chịu đựng để làm điều đó."
+  },
+  {
+   "tokens": [
+    "Two",
+    "cubed",
+    "is",
+    "eight"
+   ],
+   "reading": "",
+   "meaning": "Hai mũ ba là tám."
+  },
+  {
+   "tokens": [
+    "The",
+    "place",
+    "isn't",
+    "relevant"
+   ],
+   "reading": "",
+   "meaning": "Địa điểm không quan trọng."
+  },
+  {
+   "tokens": [
+    "She",
+    "teased",
+    "him",
+    "endlessly"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy cứ trêu anh ấy suốt thôi."
+  }
+ ],
+ "issues": []
+}

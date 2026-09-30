@@ -1,0 +1,332 @@
+{
+ "lesson": 33,
+ "draft": true,
+ "words": [
+  {
+   "term": "宿題",
+   "meaning": "bài tập về nhà (cho học sinh)",
+   "example": "やばい、宿題やってない。",
+   "exampleMeaning": "Ôi không, tôi chưa làm bài tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "七日",
+   "meaning": "ngày thứ bảy của tháng",
+   "example": "「七日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “七日”: ngày thứ bảy của tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "降る",
+   "meaning": "rơi, rơi xuống",
+   "example": "たぶん雨が降るでしょう。",
+   "exampleMeaning": "Chắc là trời sẽ mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "人",
+   "meaning": "người, con người",
+   "example": "他人より身内。",
+   "exampleMeaning": "Một giọt máu đào hơn ao nước lã.",
+   "emoji": "👨",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お姉さん",
+   "meaning": "chị gái",
+   "example": "和子さんはお姉さんによく似ています。",
+   "exampleMeaning": "Anh/chị Kazuko rất giống với chị của anh/chị ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大勢",
+   "meaning": "great number of people (EN)",
+   "example": "アルメニアには外国人が大勢いますか。",
+   "exampleMeaning": "Ở Armenia có nhiều người nước ngoài không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お父さん",
+   "meaning": "ba, cha, bố",
+   "example": "お父さん、何してるの？",
+   "exampleMeaning": "Bố ơi, bố đang làm gì thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "去年",
+   "meaning": "năm ngoái, năm trước, năm rồi",
+   "example": "彼らは去年京都へ行った。",
+   "exampleMeaning": "Họ đã đi Kyoto năm ngoái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一月",
+   "meaning": "tháng Một (dương lịch)",
+   "example": "「一月」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一月”: tháng Một (dương lịch).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公園",
+   "meaning": "vườn hoa, công viên",
+   "example": "公園でHしたことある？",
+   "exampleMeaning": "Bạn đã từng làm tình trong công viên chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "カメラ",
+   "meaning": "máy ảnh, máy chụp hình, máy hình",
+   "example": "カメラは持ってないんだ。",
+   "exampleMeaning": "Tôi không có máy ảnh.",
+   "emoji": "📷",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "悪い",
+   "meaning": "xấu",
+   "example": "トムは機嫌が悪い。",
+   "exampleMeaning": "Tom đang không được vui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小さな",
+   "meaning": "nhỏ, bé, chật",
+   "example": "私は、奈良の小さな町で生まれた。",
+   "exampleMeaning": "Tôi được sinh ra ở một thị trấn nhỏ thuộc tỉnh Nara.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "曇る",
+   "meaning": "có mây phủ, đầy mây",
+   "example": "「曇る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “曇る”: có mây phủ, đầy mây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "学生",
+   "meaning": "học sinh đại học, sinh viên",
+   "example": "学生証は、ありますか？",
+   "exampleMeaning": "Bạn có thẻ sinh viên không?",
+   "emoji": "🧑‍🎓",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "兄",
+   "meaning": "anh trai",
+   "example": "彼らは私の兄弟です。",
+   "exampleMeaning": "Họ là anh em của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "誰",
+   "meaning": "ai, người nào, kẻ nào",
+   "example": "これ誰の本？",
+   "exampleMeaning": "Sách của ai thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "先生",
+   "meaning": "giáo viên, cán bộ giảng dạy",
+   "example": "彼は先生におじぎした。",
+   "exampleMeaning": "Anh ấy đã cúi đầu với thầy giáo.",
+   "emoji": "🧑‍🏫",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ポスト",
+   "meaning": "hòm thư",
+   "example": "「ポスト」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ポスト”: hòm thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同じ",
+   "meaning": "cùng một",
+   "example": "君は僕と同じ背の高さです。",
+   "exampleMeaning": "Bạn cao bằng tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "誰か",
+    "この",
+    "単語",
+    "を",
+    "発音",
+    "できる",
+    "人",
+    "は",
+    "います",
+    "か"
+   ],
+   "reading": "だれかこのたんごをはつおんできるひとはいますか",
+   "meaning": "Có ai phát âm được từ này không?"
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "何人",
+    "兄弟",
+    "が",
+    "います",
+    "か"
+   ],
+   "reading": "あなたはなんにんきょうだいがいますか",
+   "meaning": "Bạn có mấy anh chị em?"
+  },
+  {
+   "tokens": [
+    "この",
+    "条件",
+    "に",
+    "該当",
+    "する",
+    "人",
+    "は",
+    "誰も",
+    "いない"
+   ],
+   "reading": "このじょうけんにがいとうするひとはだれもいない",
+   "meaning": "Không một ai đáp ứng được những điều kiện này."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "誰"
+   ],
+   "reading": "かれはだれ",
+   "meaning": "Anh ấy là ai?"
+  },
+  {
+   "tokens": [
+    "これ",
+    "誰",
+    "の",
+    "本"
+   ],
+   "reading": "これだれのほん",
+   "meaning": "Sách của ai thế?"
+  }
+ ],
+ "issues": []
+}

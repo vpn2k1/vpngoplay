@@ -1,0 +1,338 @@
+{
+ "lesson": 140,
+ "draft": true,
+ "words": [
+  {
+   "term": "ドリル",
+   "meaning": "mũi khoan",
+   "example": "「ドリル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ドリル”: mũi khoan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "担架",
+   "meaning": "người căng, người kéo",
+   "example": "「担架」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “担架”: người căng, người kéo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断言",
+   "meaning": "sự đòi (quyền lợi... )",
+   "example": "「断言」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “断言”: sự đòi (quyền lợi... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手引",
+   "meaning": "sự chỉ đạo, sự hướng dẫn",
+   "example": "「手引」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手引”: sự chỉ đạo, sự hướng dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口頭",
+   "meaning": "bằng lời nói, nói miệng",
+   "example": "「口頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “口頭”: bằng lời nói, nói miệng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真珠",
+   "meaning": "hạt trai, ngọc trai",
+   "example": "この真珠は本物そっくりだ。",
+   "exampleMeaning": "Những viên ngọc trai này trông rất giống thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月謝",
+   "meaning": "monthly tuition fee (EN)",
+   "example": "「月謝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “月謝”: monthly tuition fee (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "張り紙",
+   "meaning": "thông tri, yết thị, thông cáo",
+   "example": "「張り紙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “張り紙”: thông tri, yết thị, thông cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "色彩",
+   "meaning": "màu sắc",
+   "example": "「色彩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “色彩”: màu sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無線",
+   "meaning": "không dây, rađiô",
+   "example": "「無線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無線”: không dây, rađiô.",
+   "emoji": "🛜",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "移住",
+   "meaning": "sự di trú",
+   "example": "彼らはアメリカに移住するつもりです。",
+   "exampleMeaning": "Họ định di cư sang Mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無茶苦茶",
+   "meaning": "lẫn lộn, lộn xộn, rối rắm",
+   "example": "「無茶苦茶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無茶苦茶”: lẫn lộn, lộn xộn, rối rắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本国",
+   "meaning": "bản quốc",
+   "example": "「本国」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本国”: bản quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "解剖",
+   "meaning": "sự cắt ra từng mảnh",
+   "example": "「解剖」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “解剖”: sự cắt ra từng mảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "安静",
+   "meaning": "sự nghỉ ngơi",
+   "example": "お医者さんが、熱が下がるまでは安静にするようにって言ってたでしょ？",
+   "exampleMeaning": "Bác sĩ đã nói là bạn phải nghỉ ngơi cho đến khi đỡ sốt có phải không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "戦術",
+   "meaning": "chiến thuật",
+   "example": "「戦術」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戦術”: chiến thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立ち寄る",
+   "meaning": "ngừng, nghỉ, thôi",
+   "example": "時間があまりないので、ファーストフード店に立ち寄るつもりです。",
+   "exampleMeaning": "Thời gian không còn nhiều nên tôi dự định đi tới quán ăn nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "匹敵",
+   "meaning": "so, đối chiếu",
+   "example": "「匹敵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “匹敵”: so, đối chiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無礼",
+   "meaning": "vô lễ",
+   "example": "「無礼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無礼”: vô lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "賄う",
+   "meaning": "trả (tiền lương... )",
+   "example": "「賄う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “賄う”: trả (tiền lương... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "アメリカ",
+    "に",
+    "移住",
+    "する",
+    "つもり",
+    "です"
+   ],
+   "reading": "かれらはアメリカにいじゅうするつもりです",
+   "meaning": "Họ định di cư sang Mỹ."
+  },
+  {
+   "tokens": [
+    "この",
+    "真珠",
+    "は",
+    "本物",
+    "そっくり",
+    "だ"
+   ],
+   "reading": "このしんじゅはほんものそっくりだ",
+   "meaning": "Những viên ngọc trai này trông rất giống thật."
+  },
+  {
+   "tokens": [
+    "妹",
+    "の",
+    "誕生日",
+    "に",
+    "真珠",
+    "の",
+    "ネックレス",
+    "を",
+    "贈った"
+   ],
+   "reading": "いもうとのたんじょうびにしんじゅのネックレスをおくった",
+   "meaning": "Tôi tặng em gái tôi dây chuyền châu vào ngày sinh nhật của nó."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "私たち",
+    "の",
+    "提案",
+    "を",
+    "拒絶",
+    "した"
+   ],
+   "reading": "かのじょはわたしたちのていあんをきょぜつした",
+   "meaning": "Cô ta từ chối đề án của chúng tôi."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "だいたい",
+    "私",
+    "と",
+    "同じ",
+    "年頃",
+    "だ"
+   ],
+   "reading": "かのじょはだいたいわたしとおなじとしごろだ",
+   "meaning": "Cô ấy tuổi cỡ ngang tôi."
+  }
+ ],
+ "issues": []
+}

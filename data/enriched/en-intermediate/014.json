@@ -1,0 +1,328 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "aboard",
+   "meaning": "dọc theo",
+   "example": "to fall aboard of a ship",
+   "exampleMeaning": "Va phải một chiếc tàu khác",
+   "emoji": "",
+   "ipa": "/əˈbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mud",
+   "meaning": "bùn",
+   "example": "to fling mud at somebody",
+   "exampleMeaning": "Ném bùn vào ai; (nghĩa bóng) nói xấu ai, bôi nhọ ai",
+   "emoji": "",
+   "ipa": "/mʌd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "auction",
+   "meaning": "bán đấu giá",
+   "example": "to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction",
+   "exampleMeaning": "Bán đấu giá",
+   "emoji": "",
+   "ipa": "/ˈɑkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "obvious",
+   "meaning": "rành mạch",
+   "example": "It's obvious why you have a stomachache.",
+   "exampleMeaning": "Thật dễ thấy tại sao bạn bị đau bụng.",
+   "emoji": "",
+   "ipa": "/ˈɑbviəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "compose",
+   "meaning": "soạn, sáng tác, làm",
+   "example": "to compose a piece of music",
+   "exampleMeaning": "Soạn một bản nhạc",
+   "emoji": "",
+   "ipa": "/kəmˈpoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "attraction",
+   "meaning": "sự hú",
+   "example": "Let's learn the word \"attraction\".",
+   "exampleMeaning": "Cùng học từ “attraction”: sự hú.",
+   "emoji": "",
+   "ipa": "/əˈtrækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "monk",
+   "meaning": "thầy tu, thầy tăng",
+   "example": "I want to be a monk in an ancient monastery.",
+   "exampleMeaning": "Tôi muốn trở thành một nhà sư trong một tu viện cổ.",
+   "emoji": "",
+   "ipa": "/ˈməŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wherever",
+   "meaning": "ở nơi nào",
+   "example": "If you speak a lot of languages, you can develop yourself wherever you go.",
+   "exampleMeaning": "Nếu nói được nhiều ngôn ngữ, bạn có thể phát triển bản thân ở bất cứ nơi đâu.",
+   "emoji": "",
+   "ipa": "/hwɛˈrɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thump",
+   "meaning": "đấm, thụi, thoi",
+   "example": "to thump the door",
+   "exampleMeaning": "Đấm cửa",
+   "emoji": "",
+   "ipa": "/ˈθəmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blog",
+   "meaning": "nhật ký trên Internet",
+   "example": "How do I monetize my blog?",
+   "exampleMeaning": "Làm sao để kiếm tiền bằng blog của tôi?",
+   "emoji": "",
+   "ipa": "/ˈblɔɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "extraordinary",
+   "meaning": "lạ thường, khác thường",
+   "example": "Let's learn the word \"extraordinary\".",
+   "exampleMeaning": "Cùng học từ “extraordinary”: lạ thường, khác thường.",
+   "emoji": "",
+   "ipa": "/ˌɛkstrəˈɔrdəˌnɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reasonable",
+   "meaning": "có lý, hợp lý",
+   "example": "a reasonable proposal",
+   "exampleMeaning": "Một đề nghị hợp lý",
+   "emoji": "",
+   "ipa": "/ˈrizənəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "notorious",
+   "meaning": "ai cũng biết, nổi danh, nổi tiếng",
+   "example": "it is notorious that...",
+   "exampleMeaning": "Thiên hạ ai cũng biết là...",
+   "emoji": "",
+   "ipa": "/noʊˈtɔriəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chariot",
+   "meaning": "xe ngựa",
+   "example": "Let's learn the word \"chariot\".",
+   "exampleMeaning": "Cùng học từ “chariot”: xe ngựa.",
+   "emoji": "",
+   "ipa": "/ˈtʃɛriət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "regarding",
+   "meaning": "đối với (vấn đề... )",
+   "example": "They have a different opinion regarding your problem.",
+   "exampleMeaning": "Họ có cách nhìn khác về vấn đề của ấy.",
+   "emoji": "",
+   "ipa": "/rɪˈɡɑrdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "acknowledge",
+   "meaning": "nhận, thừa nhận, công nhận",
+   "example": "to acknowledge one's error",
+   "exampleMeaning": "Nhận là mắc sai lầm",
+   "emoji": "",
+   "ipa": "/ækˈnɑlɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "advert",
+   "meaning": "quảng cáo",
+   "example": "Let's learn the word \"advert\".",
+   "exampleMeaning": "Cùng học từ “advert”: quảng cáo.",
+   "emoji": "",
+   "ipa": "/ˈædvɜːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "desire",
+   "meaning": "đề nghị, yêu cầu",
+   "example": "to express a desire to do something",
+   "exampleMeaning": "Tỏ lòng mong muốn làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈzaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "universe",
+   "meaning": "vũ trụ, vạn vật",
+   "example": "What is the origin of the universe?",
+   "exampleMeaning": "Nguồn gốc của vũ trụ là gì?",
+   "emoji": "",
+   "ipa": "/ˈjunəˌvɜrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "attachment",
+   "meaning": "tịch biên",
+   "example": "to entertain an attachment for someone",
+   "exampleMeaning": "Gắn bó với ai, quyến luyến với ai",
+   "emoji": "",
+   "ipa": "/əˈtætʃmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "That",
+    "much",
+    "is",
+    "obvious"
+   ],
+   "reading": "",
+   "meaning": "Đó là điều quá hiển nhiên rồi."
+  },
+  {
+   "tokens": [
+    "But",
+    "the",
+    "universe",
+    "is",
+    "infinite"
+   ],
+   "reading": "",
+   "meaning": "Nhưng mà vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "I",
+    "think",
+    "Tom",
+    "would",
+    "be",
+    "reasonable"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghĩ Tom sẽ hợp lý."
+  },
+  {
+   "tokens": [
+    "It's",
+    "obvious",
+    "why",
+    "you",
+    "have",
+    "a",
+    "stomachache"
+   ],
+   "reading": "",
+   "meaning": "Thật dễ thấy tại sao bạn bị đau bụng."
+  },
+  {
+   "tokens": [
+    "She",
+    "allowed",
+    "that",
+    "my",
+    "offer",
+    "was",
+    "reasonable"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy thừa nhận rằng yêu cầu của tôi là chính đáng."
+  }
+ ],
+ "issues": []
+}

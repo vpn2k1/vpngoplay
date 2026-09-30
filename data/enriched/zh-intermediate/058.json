@@ -1,0 +1,325 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "物价",
+   "meaning": "giá cả",
+   "example": "物价稳定。",
+   "exampleMeaning": "Giá cả ổn định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汇款",
+   "meaning": "tiền gửi",
+   "example": "他到邮局汇款去了。",
+   "exampleMeaning": "Anh ấy đến bưu điện gửi tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìkuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "农产品",
+   "meaning": "nông sản",
+   "example": "我们来学“农产品”这个词。",
+   "exampleMeaning": "Cùng học từ “农产品”: nông sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngchǎnpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "书桌",
+   "meaning": "bàn học",
+   "example": "我们来学“书桌”这个词。",
+   "exampleMeaning": "Cùng học từ “书桌”: bàn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūzhuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "实惠",
+   "meaning": "lợi ích thực tế",
+   "example": "你送他实用的东西比送陈设品要实惠些。",
+   "exampleMeaning": "Bạn tặng anh ấy những gì dùng được, có ích hơn những đồ để trưng bày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "桃花",
+   "meaning": "hoa đào",
+   "example": "我们来学“桃花”这个词。",
+   "exampleMeaning": "Cùng học từ “桃花”: hoa đào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táohuā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不易",
+   "meaning": "không dễ dàng để làm cái gì đó, không thay đổi, gay",
+   "example": "我们来学“不易”这个词。",
+   "exampleMeaning": "Cùng học từ “不易”: không dễ dàng để làm cái gì đó, không thay đổi, gay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宽度",
+   "meaning": "độ rộng",
+   "example": "我们来学“宽度”这个词。",
+   "exampleMeaning": "Cùng học từ “宽度”: độ rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuāndù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年前",
+   "meaning": "trước tết",
+   "example": "我在两年前吃过一次。",
+   "exampleMeaning": "Tôi đã ăn một lần vào khoảng hai năm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "平坦",
+   "meaning": "bằng phẳng",
+   "example": "宽阔平坦的马路。",
+   "exampleMeaning": "Đường cái rộng rãi bằng phẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngtǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钢笔",
+   "meaning": "bút máy",
+   "example": "我们来学“钢笔”这个词。",
+   "exampleMeaning": "Cùng học từ “钢笔”: bút máy.",
+   "emoji": "🖋",
+   "ipa": "",
+   "pinyin": "gāngbǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "工艺品",
+   "meaning": "hàng mỹ nghệ",
+   "example": "我们来学“工艺品”这个词。",
+   "exampleMeaning": "Cùng học từ “工艺品”: hàng mỹ nghệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyìpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鼠标",
+   "meaning": "con chuột máy tính",
+   "example": "我们来学“鼠标”这个词。",
+   "exampleMeaning": "Cùng học từ “鼠标”: con chuột máy tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǔbiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天文",
+   "meaning": "thiên văn",
+   "example": "我们来学“天文”这个词。",
+   "exampleMeaning": "Cùng học từ “天文”: thiên văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岸上",
+   "meaning": "lên bờ",
+   "example": "我们来学“岸上”这个词。",
+   "exampleMeaning": "Cùng học từ “岸上”: lên bờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朗读",
+   "meaning": "đọc diễn cảm",
+   "example": "朗读课文。",
+   "exampleMeaning": "Đọc diễn cảm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎngdú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大纲",
+   "meaning": "đề cương",
+   "example": "教学大纲",
+   "exampleMeaning": "Đề cương giảng dạy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàgāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胶水",
+   "meaning": "nhựa cao su",
+   "example": "我们来学“胶水”这个词。",
+   "exampleMeaning": "Cùng học từ “胶水”: nhựa cao su.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "共计",
+   "meaning": "cùng bàn chuyện",
+   "example": "共计三千万元",
+   "exampleMeaning": "Tổng cộng 30.000.000 đồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时事",
+   "meaning": "thời sự",
+   "example": "时事报告。",
+   "exampleMeaning": "Báo cáo thời sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  },
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "昨天",
+    "抵达",
+    "东京"
+   ],
+   "reading": "tā zuótiān dǐdá dōngjīng",
+   "meaning": "Anh ấy đã đến Tokyo hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "的",
+    "身体",
+    "太",
+    "瘦",
+    "了"
+   ],
+   "reading": "tā de shēntǐ tài shòu le",
+   "meaning": "Mình anh ta gầy quá."
+  }
+ ],
+ "issues": []
+}

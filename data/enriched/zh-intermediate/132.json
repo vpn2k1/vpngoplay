@@ -1,0 +1,336 @@
+{
+ "lesson": 132,
+ "draft": true,
+ "words": [
+  {
+   "term": "怪物",
+   "meaning": "quái vật (trong thần thoại)",
+   "example": "我们来学“怪物”这个词。",
+   "exampleMeaning": "Cùng học từ “怪物”: quái vật (trong thần thoại).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàiwu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "登陆",
+   "meaning": "đổ bộ",
+   "example": "登陆演习",
+   "exampleMeaning": "Diễn tập đổ bộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēnglù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "灵感",
+   "meaning": "linh cảm",
+   "example": "我们来学“灵感”这个词。",
+   "exampleMeaning": "Cùng học từ “灵感”: linh cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línggǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抹",
+   "meaning": "loanh quanh",
+   "example": "转弯抹角。",
+   "exampleMeaning": "Nói loanh quanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "假装",
+   "meaning": "giả vờ",
+   "example": "他假装什么都不知道。",
+   "exampleMeaning": "Anh ấy giả vờ không biết gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎzhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "牙齿",
+   "meaning": "răng",
+   "example": "我们来学“牙齿”这个词。",
+   "exampleMeaning": "Cùng học từ “牙齿”: răng.",
+   "emoji": "🦷",
+   "ipa": "",
+   "pinyin": "yáchǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "来临",
+   "meaning": "đến",
+   "example": "暴风雨即将来临。",
+   "exampleMeaning": "Mưa bão sắp đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láilín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敬",
+   "meaning": "kính",
+   "example": "王院长为人正派，办事公道，没给人穿过小鞋，大家都尊敬他。",
+   "exampleMeaning": "Viện trưởng Vương xử sự ngay thẳng, làm việc công minh, chưa từng gây khó dễ cho ai, mọi người đều tôn kính ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "别墅",
+   "meaning": "biệt thự",
+   "example": "城市周围建有不少的别墅",
+   "exampleMeaning": "Xung quanh thành phố người ta xây rất nhiều biệt thự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biéshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缝",
+   "meaning": "khe",
+   "example": "缭缝儿。",
+   "exampleMeaning": "Khâu vắt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奖品",
+   "meaning": "phần thưởng",
+   "example": "我们来学“奖品”这个词。",
+   "exampleMeaning": "Cùng học từ “奖品”: phần thưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngpǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "钻石",
+   "meaning": "đá kim cương",
+   "example": "我们来学“钻石”这个词。",
+   "exampleMeaning": "Cùng học từ “钻石”: đá kim cương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuànshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有意",
+   "meaning": "cố ý",
+   "example": "他这是有意跟我作对。",
+   "exampleMeaning": "Anh ấy cố ý đối đầu với tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "烫",
+   "meaning": "hâm",
+   "example": "烫酒(用热水暖酒)。",
+   "exampleMeaning": "Hâm rượu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "裸",
+   "meaning": "trần, trần truồng, khoả thân",
+   "example": "裸露。",
+   "exampleMeaning": "Lộ ra; trần trụi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "统治",
+   "meaning": "thống trị",
+   "example": "统治阶级",
+   "exampleMeaning": "Giai cấp thống trị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "甜蜜",
+   "meaning": "vui tươi",
+   "example": "孩子们笑得那么甜蜜。",
+   "exampleMeaning": "Bọn trẻ cười vui tươi biết mấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiánmì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不可思议",
+   "meaning": "không tưởng tượng được",
+   "example": "古埃及人用什么方法建筑起金字塔；至今仍让人不可思议。",
+   "exampleMeaning": "Người Ai Cập cổ dùng cách nào để xây dựng Kim Tự Tháp cho đến ngày cũng không thể khiến cho người ta giải thích được",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùkěsīyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宁愿",
+   "meaning": "thà",
+   "example": "宁愿牺牲，也不退却。",
+   "exampleMeaning": "Thà hy sinh chứ không chịu rút lui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nìngyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拼命",
+   "meaning": "liều mạng",
+   "example": "可能你工作得太拼命？",
+   "exampleMeaning": "Có lẽ anh đang làm việc quá liều mạng?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pīnmìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "喜欢",
+    "学习",
+    "不",
+    "规则",
+    "动词"
+   ],
+   "reading": "wǒ bù xǐhuan xuéxí bù guīzé dòngcí",
+   "meaning": "Tôi không thích học các động từ bất quy tắc."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "她",
+    "邀请",
+    "我们",
+    "去",
+    "她",
+    "的",
+    "生日",
+    "派对"
+   ],
+   "reading": "tā yāoqǐng wǒmen qù tā de shēngrì pàiduì",
+   "meaning": "Cô ấy mời chúng tôi đến dự buổi tiệc sinh nhật của cô ấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "正好",
+    "赶上",
+    "了",
+    "最",
+    "后",
+    "一",
+    "班",
+    "火车"
+   ],
+   "reading": "wǒ zhènghǎo gǎnshàng le zuì hòu yī bān huǒchē",
+   "meaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng."
+  }
+ ],
+ "issues": []
+}

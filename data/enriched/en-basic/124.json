@@ -1,0 +1,320 @@
+{
+ "lesson": 124,
+ "draft": true,
+ "words": [
+  {
+   "term": "injury",
+   "meaning": "sự làm hại, sự làm tổn hại, sự làm hỏng",
+   "example": "Let's learn the word \"injury\".",
+   "exampleMeaning": "Cùng học từ “injury”: sự làm hại, sự làm tổn hại, sự làm hỏng.",
+   "emoji": "",
+   "ipa": "/ˈɪndʒɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "achievement",
+   "meaning": "thành tích, thành tựu",
+   "example": "the achievement of independence",
+   "exampleMeaning": "Sự giành được độc lập",
+   "emoji": "",
+   "ipa": "/əˈtʃivmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enthusiastic",
+   "meaning": "hăng hái, nhiệt tình",
+   "example": "Let's learn the word \"enthusiastic\".",
+   "exampleMeaning": "Cùng học từ “enthusiastic”: hăng hái, nhiệt tình.",
+   "emoji": "",
+   "ipa": "/ɪnˌθuziˈæstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "illness",
+   "meaning": "bệnh",
+   "example": "I heard that his illness is serious.",
+   "exampleMeaning": "Tôi nghe nói rằng căn bệnh của anh ấy nghiêm trọng đấy.",
+   "emoji": "",
+   "ipa": "/ˈɪlnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "restore",
+   "meaning": "phục (chức)",
+   "example": "to restore someone to his former post",
+   "exampleMeaning": "Phục hồi lại chức vị cho người nào",
+   "emoji": "",
+   "ipa": "/rɪˈstɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "remainder",
+   "meaning": "dư, số dư",
+   "example": "the remainder of his life",
+   "exampleMeaning": "Quâng đời còn lại của ông ta",
+   "emoji": "",
+   "ipa": "/riˈmeɪndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "construct",
+   "meaning": "làm xây dựng (nhà cửa... )",
+   "example": "Let's learn the word \"construct\".",
+   "exampleMeaning": "Cùng học từ “construct”: làm xây dựng (nhà cửa... ).",
+   "emoji": "",
+   "ipa": "/ˈkɑnstrəkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "capsule",
+   "meaning": "quả nang",
+   "example": "Let's learn the word \"capsule\".",
+   "exampleMeaning": "Cùng học từ “capsule”: quả nang.",
+   "emoji": "",
+   "ipa": "/ˈkæpsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "awesome",
+   "meaning": "đáng kinh sợ",
+   "example": "The book \"A Sportsman's Sketches\" is freaking awesome!",
+   "exampleMeaning": "Quyển \"Bút kí người đi săn\" không chê vào đâu được!",
+   "emoji": "",
+   "ipa": "/ˈɔː.səm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "punish",
+   "meaning": "phạt, trừng phạt, trừng trị",
+   "example": "They want to punish Tom.",
+   "exampleMeaning": "Họ muốn trừng phạt Tom.",
+   "emoji": "",
+   "ipa": "/ˈpənɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "conscious",
+   "meaning": "biết rõ, thấy rõ, tỉnh",
+   "example": "to be conscious of one's guilt",
+   "exampleMeaning": "Biết (rõ) tội của mình",
+   "emoji": "",
+   "ipa": "/ˈkɑnʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "climate",
+   "meaning": "khí hậu, thời tiết",
+   "example": "Climate change is real.",
+   "exampleMeaning": "Biến đổi khí hậu là có thật.",
+   "emoji": "",
+   "ipa": "/ˈklaɪ.mɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "relationship",
+   "meaning": "quan hệ",
+   "example": "to be in relationship with someone",
+   "exampleMeaning": "Đi lại giao thiệp với ai",
+   "emoji": "",
+   "ipa": "/riˈleɪʃənˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sympathy",
+   "meaning": "sự thông cảm",
+   "example": "We felt sympathy for her.",
+   "exampleMeaning": "Chúng tôi đồng cảm với cô ấy.",
+   "emoji": "",
+   "ipa": "/ˈsɪmpəθi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unfairly",
+   "meaning": "không đúng, không công bằng, bất công",
+   "example": "Let's learn the word \"unfairly\".",
+   "exampleMeaning": "Cùng học từ “unfairly”: không đúng, không công bằng, bất công.",
+   "emoji": "",
+   "ipa": "/ənˈfɛrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "isle",
+   "meaning": "hòn đảo nhỏ",
+   "example": "Let's learn the word \"isle\".",
+   "exampleMeaning": "Cùng học từ “isle”: hòn đảo nhỏ.",
+   "emoji": "",
+   "ipa": "/ˈaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "minimal",
+   "meaning": "rất nhỏ li ti",
+   "example": "Let's learn the word \"minimal\".",
+   "exampleMeaning": "Cùng học từ “minimal”: rất nhỏ li ti.",
+   "emoji": "",
+   "ipa": "/ˈmɪnəməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "noisily",
+   "meaning": "ồn ào, huyên náo",
+   "example": "Let's learn the word \"noisily\".",
+   "exampleMeaning": "Cùng học từ “noisily”: ồn ào, huyên náo.",
+   "emoji": "",
+   "ipa": "/ˈnɔɪzəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "detective",
+   "meaning": "thám tử",
+   "example": "a detective novel",
+   "exampleMeaning": "Tiểu thuyết trinh thám",
+   "emoji": "🕵",
+   "ipa": "/dɪˈtɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "organism",
+   "meaning": "cơ thể",
+   "example": "Let's learn the word \"organism\".",
+   "exampleMeaning": "Cùng học từ “organism”: cơ thể.",
+   "emoji": "",
+   "ipa": "/ˈɔrɡəˌnɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "an",
+    "achievement"
+   ],
+   "reading": "",
+   "meaning": "Đó là một thành tựu."
+  },
+  {
+   "tokens": [
+    "Climate",
+    "change",
+    "is",
+    "real"
+   ],
+   "reading": "",
+   "meaning": "Biến đổi khí hậu là có thật."
+  },
+  {
+   "tokens": [
+    "He",
+    "cured",
+    "my",
+    "illness"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã chữa khỏi căn bệnh của tôi."
+  },
+  {
+   "tokens": [
+    "We",
+    "felt",
+    "sympathy",
+    "for",
+    "her"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đồng cảm với cô ấy."
+  },
+  {
+   "tokens": [
+    "They",
+    "want",
+    "to",
+    "punish",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Họ muốn trừng phạt Tom."
+  }
+ ],
+ "issues": []
+}

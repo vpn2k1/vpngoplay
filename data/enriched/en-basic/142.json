@@ -1,0 +1,317 @@
+{
+ "lesson": 142,
+ "draft": true,
+ "words": [
+  {
+   "term": "robot",
+   "meaning": "người máy",
+   "example": "The movements of this robot are awkward.",
+   "exampleMeaning": "Con robot này chuyển động rất gượng.",
+   "emoji": "🤖",
+   "ipa": "/ˈroʊˌbɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "juicy",
+   "meaning": "có nhiều nước (quả, thịt, rau... )",
+   "example": "Let's learn the word \"juicy\".",
+   "exampleMeaning": "Cùng học từ “juicy”: có nhiều nước (quả, thịt, rau... ).",
+   "emoji": "",
+   "ipa": "/ˈdʒusi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subconscious",
+   "meaning": "tiềm thức",
+   "example": "Let's learn the word \"subconscious\".",
+   "exampleMeaning": "Cùng học từ “subconscious”: tiềm thức.",
+   "emoji": "",
+   "ipa": "/səbˈkɑnʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "renew",
+   "meaning": "làm lại, nối lại, nói lại",
+   "example": "to renew the water in a vase",
+   "exampleMeaning": "Thay nước mới ở bình",
+   "emoji": "",
+   "ipa": "/rɪˈnu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vague",
+   "meaning": "mơ hồ, lờ mờ, mập mờ",
+   "example": "to have a vague idea of",
+   "exampleMeaning": "Có ý kiến mơ hồ; nhớ mang máng; biết mập mờ",
+   "emoji": "",
+   "ipa": "/ˈveɪɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "suspect",
+   "meaning": "ngờ, nghi ngờ, người khả nghi",
+   "example": "to suspect the authenticity of the evidence",
+   "exampleMeaning": "Hoài nghi tính xác thực của chứng cớ",
+   "emoji": "",
+   "ipa": "/ˈsəsˌpɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "carpet",
+   "meaning": "thảm (cỏ, hoa, rêu... )",
+   "example": "to lay a carpet",
+   "exampleMeaning": "Trải thảm",
+   "emoji": "",
+   "ipa": "/ˈkɑrpət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "regulation",
+   "meaning": "quy chế, quy tắc, quy định",
+   "example": "To exceed the regulation speed.",
+   "exampleMeaning": "Vượt quá tốc độ đã quy định.",
+   "emoji": "",
+   "ipa": "/ˌrɛɡjʊˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "farther",
+   "meaning": "xa hơn",
+   "example": "As I recall, Tom's house is a little farther in from the main road.",
+   "exampleMeaning": "Theo mình nhớ thì nhà của Tom hơi xa đường cái.",
+   "emoji": "",
+   "ipa": "/ˈfɑrðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fake",
+   "meaning": "giả, giả mạo",
+   "example": "Let's learn the word \"fake\".",
+   "exampleMeaning": "Cùng học từ “fake”: giả, giả mạo.",
+   "emoji": "",
+   "ipa": "/feɪ̯k/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "marble",
+   "meaning": "đá hoa, cẩm thạch",
+   "example": "Let's learn the word \"marble\".",
+   "exampleMeaning": "Cùng học từ “marble”: đá hoa, cẩm thạch.",
+   "emoji": "",
+   "ipa": "/ˈmɑrbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "decision",
+   "meaning": "quyết định",
+   "example": "to come to (arrive at) a decision",
+   "exampleMeaning": "Đi tới một quyết định",
+   "emoji": "",
+   "ipa": "/dɪˈsɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "amendment",
+   "meaning": "bổ sung",
+   "example": "to move an amendment to a bill",
+   "exampleMeaning": "Đề nghị bổ sung một đạo luật",
+   "emoji": "",
+   "ipa": "/əˈmɛndmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "specially",
+   "meaning": "đặc biệt, riêng biệt",
+   "example": "This is a store that caters specially to students.",
+   "exampleMeaning": "Cửa hàng này chỉ phục vụ học sinh sinh viên.",
+   "emoji": "",
+   "ipa": "/ˈspɛʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "identity",
+   "meaning": "tính đồng nhất",
+   "example": "a case of mistaken identity",
+   "exampleMeaning": "Trường hợp nhầm lẫn hai người vì giống hệt",
+   "emoji": "",
+   "ipa": "/aɪˈdɛntɪˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ecstasy",
+   "meaning": "trạng thái mê ly",
+   "example": "an ecstasy of happiness",
+   "exampleMeaning": "Sự sướng mê",
+   "emoji": "",
+   "ipa": "/ˈɛkstəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "old-fashioned",
+   "meaning": "lỗi thời",
+   "example": "Let's learn the word \"old-fashioned\".",
+   "exampleMeaning": "Cùng học từ “old-fashioned”: lỗi thời.",
+   "emoji": "",
+   "ipa": "/ˌoʊldˈfæʃənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "absence",
+   "meaning": "sự thiếu, sự không có",
+   "example": "to have a long absence from school",
+   "exampleMeaning": "Nghỉ học lâu",
+   "emoji": "",
+   "ipa": "/ˈæbsəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "intend",
+   "meaning": "định, có ý định, có ý muốn",
+   "example": "We intend to fight to the end.",
+   "exampleMeaning": "Chúng tôi dự định sẽ chiến đấu đến cùng.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "distinguish",
+   "meaning": "phân biệt",
+   "example": "to distinguish one thing from another",
+   "exampleMeaning": "Phân biệt vật này với vật khác",
+   "emoji": "",
+   "ipa": "/dɪˈstɪŋɡwɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Make",
+    "a",
+    "decision"
+   ],
+   "reading": "",
+   "meaning": "Hãy quyết định đi!"
+  },
+  {
+   "tokens": [
+    "Space",
+    "is",
+    "fake"
+   ],
+   "reading": "",
+   "meaning": "Không gian không có thật."
+  },
+  {
+   "tokens": [
+    "She",
+    "questioned",
+    "a",
+    "suspect"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã tra hỏi một nghi phạm."
+  },
+  {
+   "tokens": [
+    "I",
+    "made",
+    "my",
+    "decision"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã có quyết định của mình"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "not",
+    "a",
+    "robot"
+   ],
+   "reading": "",
+   "meaning": "Tôi không phải là robot."
+  }
+ ],
+ "issues": []
+}

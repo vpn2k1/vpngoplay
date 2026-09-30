@@ -1,0 +1,320 @@
+{
+ "lesson": 46,
+ "draft": true,
+ "words": [
+  {
+   "term": "林",
+   "meaning": "rừng",
+   "example": "林檎の芯は食べないよ。",
+   "exampleMeaning": "Tôi không ăn lõi táo đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "もし",
+   "meaning": "nếu, nếu như",
+   "example": "彼は天才かもしれない。",
+   "exampleMeaning": "Anh ấy có thể là một thiên tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "太る",
+   "meaning": "béo, mập, béo phì",
+   "example": "食べ過ぎると太る。",
+   "exampleMeaning": "Ăn quá nhiều sẽ béo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "なるほど",
+   "meaning": "thực vậy, thực sự, thực mà",
+   "example": "「なるほど」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なるほど”: thực vậy, thực sự, thực mà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大事",
+   "meaning": "quan trọng, trọng đại, trọng yếu",
+   "example": "第一印象が大事である。",
+   "exampleMeaning": "Ấn tượng đầu tiên là một điều quan trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "立てる",
+   "meaning": "đặt, thiết lập, ráp",
+   "example": "僕は機械を組み立てるのが好きだ。",
+   "exampleMeaning": "Tôi thích lắp ráp máy móc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暖房",
+   "meaning": "sự đốt nóng, sự đun nóng",
+   "example": "トムは暖房をつけた。",
+   "exampleMeaning": "Tom bật máy sưởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "折る",
+   "meaning": "táp (chó), đớp",
+   "example": "「折る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “折る”: táp (chó), đớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "片付ける",
+   "meaning": "sắp xếp",
+   "example": "「片付ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “片付ける”: sắp xếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社会",
+   "meaning": "xã hội",
+   "example": "経済社会を取り巻く環境の変化が著しい。",
+   "exampleMeaning": "Sự thay đổi bối cảnh xã hội rất rõ rệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会話",
+   "meaning": "bàn chuyện, tán gẫu, trò chuyện",
+   "example": "彼は偶然その会話を耳にした。",
+   "exampleMeaning": "Anh ấy đã tình cờ nghe được cuộc nói chuyện đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寺",
+   "meaning": "đền, điện, miếu",
+   "example": "その寺院は丘の天辺にある。",
+   "exampleMeaning": "Ngôi đền đó nằm trên đỉnh đồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昼休み",
+   "meaning": "lunch break (EN)",
+   "example": "僕はあまりに疲れていたので昼休みにひと眠りした。",
+   "exampleMeaning": "Vào giờ nghỉ trưa, vì quá mệt nên tôi đã chợp mắt một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "間",
+   "meaning": "thời gian",
+   "example": "世間は厳しい。",
+   "exampleMeaning": "Cuộc đời là một thứ khắc nghiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "指輪",
+   "meaning": "cái nhẫn",
+   "example": "この指輪、いかほどですか？",
+   "exampleMeaning": "Chiếc nhẫn này có giá bao nhiêu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "血",
+   "meaning": "máu, huyết",
+   "example": "床は血だらけだった。",
+   "exampleMeaning": "Trên sàn nhà toàn máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おかしい",
+   "meaning": "lạ, xa lạ, không quen biết",
+   "example": "郵便屋さんがまだ来てないなんて、おかしいな。",
+   "exampleMeaning": "Thật lạ là người đưa thư vẫn chưa đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無くなる",
+   "meaning": "biến đi, biến mất",
+   "example": "「無くなる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無くなる”: biến đi, biến mất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空気",
+   "meaning": "không khí, bầu không khí",
+   "example": "空気が暖かくなった。",
+   "exampleMeaning": "Không khí đã ấm hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "景色",
+   "meaning": "phong cảnh, cảnh vật, quang cảnh",
+   "example": "アルプスの景色はわたしの胸に刻まれた。",
+   "exampleMeaning": "Phong cảnh của dãy Alps đã để lại trong tôi một ấn tượng khó phai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "貧血",
+    "で",
+    "倒れました"
+   ],
+   "reading": "ひんけつでたおれました",
+   "meaning": "Tôi ngã gục xuống vì thiếu máu."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "世間知らず",
+    "だ"
+   ],
+   "reading": "かれはせけんしらずだ",
+   "meaning": "Cậu ta là tấm chiếu mới."
+  },
+  {
+   "tokens": [
+    "もっと",
+    "時間",
+    "が",
+    "必要",
+    "だ"
+   ],
+   "reading": "もっとじかんがひつようだ",
+   "meaning": "Tôi cần thêm thì giờ."
+  },
+  {
+   "tokens": [
+    "床",
+    "は",
+    "血",
+    "だらけ",
+    "だった"
+   ],
+   "reading": "ゆかはちだらけだった",
+   "meaning": "Trên sàn nhà toàn máu."
+  },
+  {
+   "tokens": [
+    "空気",
+    "が",
+    "暖かく",
+    "なった"
+   ],
+   "reading": "くうきがあたたかくなった",
+   "meaning": "Không khí đã ấm hơn."
+  }
+ ],
+ "issues": []
+}

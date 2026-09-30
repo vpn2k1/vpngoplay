@@ -1,0 +1,335 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "上等",
+   "meaning": "cao, cao cấp",
+   "example": "ケンは父親の誕生日に上等なワインを買った。",
+   "exampleMeaning": "Nhân dịp sinh nhật bố mình, Ken đã mua cho ông ấy một chai rượu vang cao cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ボート",
+   "meaning": "thuyền chèo",
+   "example": "彼はボート作りの過程を説明した。",
+   "exampleMeaning": "Anh ấy giải thích quá trình xây dựng chiếc thuyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "需要",
+   "meaning": "sự đòi hỏi, sự yêu cầu",
+   "example": "「需要」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “需要”: sự đòi hỏi, sự yêu cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うがい",
+   "meaning": "thuốc súc miệng, thuốc súc họng",
+   "example": "運動した後は休憩したほうがいいよ。",
+   "exampleMeaning": "Sau khi tập thể dục, bạn nên nghỉ ngơi một chút thì tốt hơn đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真似",
+   "meaning": "sự bắt chước, tài bắt chước",
+   "example": "「真似」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真似”: sự bắt chước, tài bắt chước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "備える",
+   "meaning": "sửa soạn sắm sửa, chuẩn bị, dự bị",
+   "example": "最悪の事態に備えるべきです。",
+   "exampleMeaning": "Bạn cần phải chuẩn bị cho tình huống xấu nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "機能",
+   "meaning": "chức năng",
+   "example": "リストのデータは、自動集計機能を使って簡単に集計することができます。",
+   "exampleMeaning": "Dữ liệu list có thể dễ dàng được tổng hợp bằng cách sử dụng chức năng tổng hợp tự động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "著す",
+   "meaning": "viết",
+   "example": "「著す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “著す”: viết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "基本",
+   "meaning": "cơ bản, cơ sở",
+   "example": "基本的にあなたの意見に賛成です。",
+   "exampleMeaning": "Về cơ bản, tôi đồng tình với quan điểm của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "引用",
+   "meaning": "sự trích dẫn",
+   "example": "「引用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引用”: sự trích dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "覚める",
+   "meaning": "thức giấc, thức dậy, tỉnh dậy",
+   "example": "「覚める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “覚める”: thức giấc, thức dậy, tỉnh dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "節約",
+   "meaning": "tiết kiệm, sử dụng tối đa",
+   "example": "「節約」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “節約”: tiết kiệm, sử dụng tối đa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建設",
+   "meaning": "sự xây dựng",
+   "example": "「建設」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “建設”: sự xây dựng.",
+   "emoji": "🚧",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "超える",
+   "meaning": "trội hơn",
+   "example": "「超える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “超える”: trội hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年寄",
+   "meaning": "làm cho già đi",
+   "example": "目が見えない看護婦は年寄りの世話をすることに一身を捧げた。",
+   "exampleMeaning": "Người nữ y tá mù đã cống hiến thân mình cho việc chăm sóc người cao tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暮らし",
+   "meaning": "cuộc sống sinh hoạt",
+   "example": "トムは一人暮らしなの？",
+   "exampleMeaning": "Tom sống một mình à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "羽",
+   "meaning": "cánh (chim, sâu bọ",
+   "example": "二羽のからすが空を飛んでいます。",
+   "exampleMeaning": "Trên trời có hai con quạ đang bay.",
+   "emoji": "🪽",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "掃く",
+   "meaning": "lướt nhanh, vút nhanh",
+   "example": "「掃く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “掃く”: lướt nhanh, vút nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保護",
+   "meaning": "sự chăm sóc, sự chăm nom, sự giữ gìn",
+   "example": "このシステムには、保護回路が組み込まれています。",
+   "exampleMeaning": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "実は",
+   "meaning": "thực ra",
+   "example": "実は、私たちは昨年結婚しました。",
+   "exampleMeaning": "Thực ra, chúng tôi đã kết hôn vào năm ngoái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今日",
+    "は",
+    "傘",
+    "を",
+    "持って",
+    "いった",
+    "ほうがいい",
+    "よ"
+   ],
+   "reading": "きょうはかさをもっていったほうがいいよ",
+   "meaning": "Bạn nên mang theo một cái ô hôm nay."
+  },
+  {
+   "tokens": [
+    "基本的に",
+    "あなた",
+    "の",
+    "意見",
+    "に",
+    "賛成",
+    "です"
+   ],
+   "reading": "きほんてきにあなたのいけんにさんせいです",
+   "meaning": "Về cơ bản, tôi đồng tình với quan điểm của bạn."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "ボート",
+    "作り",
+    "の",
+    "過程",
+    "を",
+    "説明",
+    "した"
+   ],
+   "reading": "かれはボートづくりのかていをせつめいした",
+   "meaning": "Anh ấy giải thích quá trình xây dựng chiếc thuyền."
+  },
+  {
+   "tokens": [
+    "実は",
+    "私たち",
+    "は",
+    "昨年",
+    "結婚しました"
+   ],
+   "reading": "じつはわたしたちはさくねんけっこんしました",
+   "meaning": "Thực ra, chúng tôi đã kết hôn vào năm ngoái."
+  },
+  {
+   "tokens": [
+    "この",
+    "システム",
+    "には",
+    "保護",
+    "回路",
+    "が",
+    "組み込まれています"
+   ],
+   "reading": "このシステムにはほごかいろがくみこまれています",
+   "meaning": "Với hệ thống này, mạch bảo vệ đã được thiết kế tích hợp bên trong."
+  }
+ ],
+ "issues": []
+}

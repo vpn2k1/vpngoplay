@@ -1,0 +1,335 @@
+{
+ "lesson": 99,
+ "draft": true,
+ "words": [
+  {
+   "term": "扣除",
+   "meaning": "khấu trừ",
+   "example": "扣除伙食费还有节余。",
+   "exampleMeaning": "Khấu trừ tiền ăn thì vẫn còn tiền dư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòuchú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "素材",
+   "meaning": "tư liệu sống",
+   "example": "我们来学“素材”这个词。",
+   "exampleMeaning": "Cùng học từ “素材”: tư liệu sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùcái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "催眠",
+   "meaning": "thôi miên",
+   "example": "我们来学“催眠”这个词。",
+   "exampleMeaning": "Cùng học từ “催眠”: thôi miên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuīmián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伺候",
+   "meaning": "hầu hạ",
+   "example": "我们来学“伺候”这个词。",
+   "exampleMeaning": "Cùng học từ “伺候”: hầu hạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cìhou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丢弃",
+   "meaning": "bỏ",
+   "example": "虽是旧衣服，他也舍不得丢弃。",
+   "exampleMeaning": "Mặc dù là đồ cũ, nhưng anh ấy không nỡ vứt đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diūqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出人意料",
+   "meaning": "không ngờ",
+   "example": "我们来学“出人意料”这个词。",
+   "exampleMeaning": "Cùng học từ “出人意料”: không ngờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūrényìliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "掏钱",
+   "meaning": "bỏ tiền túi",
+   "example": "我们来学“掏钱”这个词。",
+   "exampleMeaning": "Cùng học từ “掏钱”: bỏ tiền túi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāoqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鼻涕",
+   "meaning": "nước mũi",
+   "example": "我们来学“鼻涕”这个词。",
+   "exampleMeaning": "Cùng học từ “鼻涕”: nước mũi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bítì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "融洽",
+   "meaning": "hoà hợp",
+   "example": "我们来学“融洽”这个词。",
+   "exampleMeaning": "Cùng học từ “融洽”: hoà hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngqià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搭乘",
+   "meaning": "đi",
+   "example": "搭乘末班车回家。",
+   "exampleMeaning": "Đi chuyến xe cuối cùng về nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "切割",
+   "meaning": "cắt kim loại",
+   "example": "我们来学“切割”这个词。",
+   "exampleMeaning": "Cùng học từ “切割”: cắt kim loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiēgē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "潜能",
+   "meaning": "tiềm năng",
+   "example": "我们来学“潜能”这个词。",
+   "exampleMeaning": "Cùng học từ “潜能”: tiềm năng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "海域",
+   "meaning": "vùng biển",
+   "example": "南海海域",
+   "exampleMeaning": "Vùng biển Nam Hải",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎiyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "徒步",
+   "meaning": "đi bộ",
+   "example": "徒步旅行",
+   "exampleMeaning": "Du lịch bộ hành",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "túbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纪录片",
+   "meaning": "phim phóng sự",
+   "example": "我们来学“纪录片”这个词。",
+   "exampleMeaning": "Cùng học từ “纪录片”: phim phóng sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìlùpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "汗水",
+   "meaning": "mồ hôi",
+   "example": "汗水湿透衣衫。",
+   "exampleMeaning": "Lưng áo đẫm mồ hôi; mồ hôi ướt đẫm cả áo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hànshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "邮政",
+   "meaning": "bưu chính",
+   "example": "我们来学“邮政”这个词。",
+   "exampleMeaning": "Cùng học từ “邮政”: bưu chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天桥",
+   "meaning": "cầu vượt",
+   "example": "我们来学“天桥”这个词。",
+   "exampleMeaning": "Cùng học từ “天桥”: cầu vượt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānqiáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "姥姥",
+   "meaning": "bà ngoại",
+   "example": "我们来学“姥姥”这个词。",
+   "exampleMeaning": "Cùng học từ “姥姥”: bà ngoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎolao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迁",
+   "meaning": "dời",
+   "example": "事过境迁。",
+   "exampleMeaning": "Thời gian trôi qua, sự việc đổi thay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "它",
+    "一定",
+    "是",
+    "个",
+    "生日",
+    "蛋糕"
+   ],
+   "reading": "tā yīdìng shì ge shēngrì dàngāo",
+   "meaning": "Đây chắc hẳn là một cái bánh sinh nhật."
+  },
+  {
+   "tokens": [
+    "你",
+    "关",
+    "了",
+    "客厅",
+    "的",
+    "灯",
+    "了",
+    "吗"
+   ],
+   "reading": "nǐ guān le kètīng de dēng le ma",
+   "meaning": "Anh đã tắt đèn phòng khách chưa?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "把",
+    "我",
+    "当成",
+    "正常",
+    "人"
+   ],
+   "reading": "bù yào zài bǎ wǒ dàngchéng zhèngcháng rén",
+   "meaning": "Đừng coi tôi như người \"bình thường\"!"
+  }
+ ],
+ "issues": []
+}

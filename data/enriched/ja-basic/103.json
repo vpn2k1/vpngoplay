@@ -1,0 +1,319 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "関心",
+   "meaning": "sự liên quan đến, sự dính líu đến",
+   "example": "私は政治に関心がない。",
+   "exampleMeaning": "Tôi không quan tâm đến chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "交ぜる",
+   "meaning": "lẫn lộn, pha trộn, ô hợp",
+   "example": "「交ぜる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交ぜる”: lẫn lộn, pha trộn, ô hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旧",
+   "meaning": "cũ, cổ, cổ đại",
+   "example": "私は、偶然旧友に会った。",
+   "exampleMeaning": "Tôi tình cờ gặp lại người bạn cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "紐",
+   "meaning": "dây, băng, dải",
+   "example": "トムは紐の梯子を上った。",
+   "exampleMeaning": "Tom đã trèo lên cái thang dây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "離す",
+   "meaning": "chia thành từng phần, chia làm đôi",
+   "example": "「離す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “離す”: chia thành từng phần, chia làm đôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "載る",
+   "meaning": "xuất hiện, hiện ra, ló ra",
+   "example": "「載る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “載る”: xuất hiện, hiện ra, ló ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "青年",
+   "meaning": "tuổi trẻ, tuổi xuân, tuổi thanh niên",
+   "example": "「青年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “青年”: tuổi trẻ, tuổi xuân, tuổi thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "土",
+   "meaning": "đất liền, mặt đất, vết bẩn",
+   "example": "私はロシア全土を旅した。",
+   "exampleMeaning": "Tôi đã du lịch vòng quanh nước Nga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地位",
+   "meaning": "địa vị, thân phận, thân thế",
+   "example": "この地域では医者の地位がかなり高い。",
+   "exampleMeaning": "Ở vùng này, địa vị của những bác sĩ là khá cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "金",
+   "meaning": "tiền, tiền tệ",
+   "example": "時は金なり。",
+   "exampleMeaning": "Thời gian là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "機嫌",
+   "meaning": "tâm trạng",
+   "example": "トムは機嫌が悪い。",
+   "exampleMeaning": "Tom đang không được vui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "それでも",
+   "meaning": "nếu không",
+   "example": "「それでも」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “それでも”: nếu không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "詩",
+   "meaning": "bài thơ, vật đẹp như bài thơ, cái nên thơ",
+   "example": "彼女の詩をどう思いますか。",
+   "exampleMeaning": "Bạn nghĩ sao về bài thơ của cô ấy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "巨大",
+   "meaning": "to lớn, đồ sộ, khổng lồ",
+   "example": "象は巨大な動物である。",
+   "exampleMeaning": "Voi là một loài động vật to khổng lồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "方々",
+   "meaning": "con người, người",
+   "example": "「方々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “方々”: con người, người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "そこで",
+   "meaning": "rồi, rồi thì, sau đó",
+   "example": "私達はそこで不快な経験をした。",
+   "exampleMeaning": "Chúng tôi đã có một trải nghiệm không mấy dễ chịu ở đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "わがまま",
+   "meaning": "tính ích kỷ",
+   "example": "「わがまま」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “わがまま”: tính ích kỷ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "河",
+   "meaning": "dòng sông",
+   "example": "河豚は食いたし命は惜しし。",
+   "exampleMeaning": "Hoa hồng nào mà chẳng có gai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "記憶",
+   "meaning": "sự nhớ, trí nhớ, ký ức",
+   "example": "私の弟は記憶力がよい。",
+   "exampleMeaning": "Anh trai tôi có trí nhớ tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "住民",
+   "meaning": "người ở, người cư trú, dân cư",
+   "example": "「住民」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “住民”: người ở, người cư trú, dân cư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "お金",
+    "を",
+    "盗まれた"
+   ],
+   "reading": "おかねをぬすまれた",
+   "meaning": "Tôi bị trộm mất tiền."
+  },
+  {
+   "tokens": [
+    "お金",
+    "は",
+    "いりません"
+   ],
+   "reading": "おかねはいりません",
+   "meaning": "Tôi không cần tiền."
+  },
+  {
+   "tokens": [
+    "お金",
+    "を",
+    "少し",
+    "ください"
+   ],
+   "reading": "おかねをすこしください",
+   "meaning": "Hãy cho tôi chút tiền."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "お金",
+    "に",
+    "困っている"
+   ],
+   "reading": "かれはおかねにこまっている",
+   "meaning": "Anh ấy đang cần tiền."
+  },
+  {
+   "tokens": [
+    "象",
+    "は",
+    "巨大な",
+    "動物",
+    "である"
+   ],
+   "reading": "ぞうはきょだいなどうぶつである",
+   "meaning": "Voi là một loài động vật to khổng lồ."
+  }
+ ],
+ "issues": []
+}

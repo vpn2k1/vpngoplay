@@ -1,0 +1,325 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "球场",
+   "meaning": "sân bóng",
+   "example": "我们来学“球场”这个词。",
+   "exampleMeaning": "Cùng học từ “球场”: sân bóng.",
+   "emoji": "🏟",
+   "ipa": "",
+   "pinyin": "qiúchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "住院",
+   "meaning": "nhập viện",
+   "example": "住院治疗",
+   "exampleMeaning": "Nhập viện điều trị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùyuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "教学",
+   "meaning": "dạy",
+   "example": "她很擅长英语教学。",
+   "exampleMeaning": "Cô ấy dạy tiếng anh rất giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàoxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "椅子",
+   "meaning": "ghế tựa, ghế dựa, chức giáo sư đại học",
+   "example": "既然买了桌子就一并把椅子也买了吧。",
+   "exampleMeaning": "Đã mua cái bàn thì mua luôn cái ghế.",
+   "emoji": "🪑",
+   "ipa": "",
+   "pinyin": "yǐzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "座位",
+   "meaning": "chỗ ngồi",
+   "example": "他把座位讓給了老人。",
+   "exampleMeaning": "Nó nhường chỗ cho người lớn tuổi.",
+   "emoji": "💺",
+   "ipa": "",
+   "pinyin": "zuòwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "忽然",
+   "meaning": "bỗng nhiên",
+   "example": "他正要出去，忽然下起大雨来。",
+   "exampleMeaning": "Lúc anh ấy sắp đi, thi trời bỗng nhiên đổ mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "假期",
+   "meaning": "kỳ nghỉ",
+   "example": "我们来学“假期”这个词。",
+   "exampleMeaning": "Cùng học từ “假期”: kỳ nghỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "游客",
+   "meaning": "du khách",
+   "example": "我们来学“游客”这个词。",
+   "exampleMeaning": "Cùng học từ “游客”: du khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóukè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "报名",
+   "meaning": "đăng ký",
+   "example": "报名投考",
+   "exampleMeaning": "Ghi tên dự thi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàomíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拿到",
+   "meaning": "cầm được",
+   "example": "我们来学“拿到”这个词。",
+   "exampleMeaning": "Cùng học từ “拿到”: cầm được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nádào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脏",
+   "meaning": "tạng",
+   "example": "他心脏停止了跳动, 随即死亡。",
+   "exampleMeaning": "Tim ông ta ngừng đập và chết ngay sau đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全家",
+   "meaning": "toàn gia",
+   "example": "我们来学“全家”这个词。",
+   "exampleMeaning": "Cùng học từ “全家”: toàn gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "从小",
+   "meaning": "từ nhỏ",
+   "example": "他从小就爱运动。",
+   "exampleMeaning": "Từ nhỏ nó đã thích thể thao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngxiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饱",
+   "meaning": "thoả thuê",
+   "example": "我饱 了，一点也吃不下了",
+   "exampleMeaning": "Tôi no rồi, không ăn thêm được chút nào nữa đâu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一共",
+   "meaning": "tổng cộng",
+   "example": "三个小组一共是十七个人。",
+   "exampleMeaning": "Tổng cộng ba nhóm có mười bảy người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīgòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "月亮",
+   "meaning": "mặt trăng",
+   "example": "我们来学“月亮”这个词。",
+   "exampleMeaning": "Cùng học từ “月亮”: mặt trăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèliang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公斤",
+   "meaning": "ki-lô-gam",
+   "example": "我们来学“公斤”这个词。",
+   "exampleMeaning": "Cùng học từ “公斤”: ki-lô-gam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "北方",
+   "meaning": "phương Bắc",
+   "example": "我们来学“北方”这个词。",
+   "exampleMeaning": "Cùng học từ “北方”: phương Bắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běifāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平等",
+   "meaning": "bình quyền",
+   "example": "平等互利。",
+   "exampleMeaning": "Bình đẳng cùng có lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngděng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打工",
+   "meaning": "làm thuê",
+   "example": "他从小就给财主家打工。",
+   "exampleMeaning": "Từ nhỏ nó đã làm thuê cho gia đình giàu có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎgōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "把",
+    "座位",
+    "让",
+    "给",
+    "了",
+    "老人"
+   ],
+   "reading": "tā bǎ zuòwèi ràng gěi le lǎorén",
+   "meaning": "Nó nhường chỗ cho người lớn tuổi."
+  },
+  {
+   "tokens": [
+    "她",
+    "很",
+    "擅长",
+    "英语",
+    "教学"
+   ],
+   "reading": "tā hěn shàncháng yīngyǔ jiàoxué",
+   "meaning": "Cô ấy dạy tiếng anh rất giỏi."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "我",
+    "今晚",
+    "有空"
+   ],
+   "reading": "wǒ jīnwǎn yǒukòng",
+   "meaning": "Đêm nay tôi rảnh rỗi."
+  },
+  {
+   "tokens": [
+    "他",
+    "太",
+    "多事",
+    "了"
+   ],
+   "reading": "tā tài duōshì le",
+   "meaning": "Anh ấy lắm chuyện quá."
+  }
+ ],
+ "issues": []
+}

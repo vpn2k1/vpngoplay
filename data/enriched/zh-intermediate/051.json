@@ -1,0 +1,342 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "硕士",
+   "meaning": "thạc sĩ",
+   "example": "我们来学“硕士”这个词。",
+   "exampleMeaning": "Cùng học từ “硕士”: thạc sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuòshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窗帘",
+   "meaning": "rèm cửa sổ",
+   "example": "我们来学“窗帘”这个词。",
+   "exampleMeaning": "Cùng học từ “窗帘”: rèm cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānglián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "胜负",
+   "meaning": "thắng bại",
+   "example": "从长远看，战争的胜负决定于战争的性质。",
+   "exampleMeaning": "Nhìn về lâu dài thì sự thắng bại của cuộc chiến này còn phụ thuộc vào tính chất của cuộc chiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèngfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开幕式",
+   "meaning": "lễ khai mạc",
+   "example": "我们来学“开幕式”这个词。",
+   "exampleMeaning": "Cùng học từ “开幕式”: lễ khai mạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāimùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特有",
+   "meaning": "độc đáo",
+   "example": "我们来学“特有”这个词。",
+   "exampleMeaning": "Cùng học từ “特有”: độc đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "领带",
+   "meaning": "ca vát, cà vạt",
+   "example": "她给了她父亲一条领带。",
+   "exampleMeaning": "Cô ấy đã đưa cho bố cô một chiếc cà vạt.",
+   "emoji": "👔",
+   "ipa": "",
+   "pinyin": "lǐngdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "主观",
+   "meaning": "chủ quan",
+   "example": "看问题不要主观片面。",
+   "exampleMeaning": "Xem xét vấn đề không nên chủ quan phiến diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "依法",
+   "meaning": "theo pháp luật",
+   "example": "依法炮制",
+   "exampleMeaning": "Bào chế thuốc theo lệ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "先后",
+   "meaning": "lần lượt",
+   "example": "要办的事情很多，应该分个先后缓急。",
+   "exampleMeaning": "Việc cần làm nhiều lắm, phải phân rõ trước sau khẩn hoãn。",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "摩托",
+   "meaning": "mô-tơ",
+   "example": "我买到了一辆新摩托车。",
+   "exampleMeaning": "Tôi mua được một cái mô-tô mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mótuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "烤肉",
+   "meaning": "thịt quay",
+   "example": "我们来学“烤肉”这个词。",
+   "exampleMeaning": "Cùng học từ “烤肉”: thịt quay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎoròu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天然气",
+   "meaning": "khí thiên nhiên",
+   "example": "我们来学“天然气”这个词。",
+   "exampleMeaning": "Cùng học từ “天然气”: khí thiên nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānránqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对应",
+   "meaning": "xứng, tương ứng, phù hợp",
+   "example": "对应措施",
+   "exampleMeaning": "Biện pháp tương ứng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明亮",
+   "meaning": "sáng, sáng chói",
+   "example": "小姑娘有一双明亮的眼睛。",
+   "exampleMeaning": "Cô gái có đôi mắt sáng ngời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "总数",
+   "meaning": "tổng số",
+   "example": "与会人员总数不足一百。",
+   "exampleMeaning": "Tổng số người dự họp không đến 100 người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剪刀",
+   "meaning": "kéo",
+   "example": "我们来学“剪刀”这个词。",
+   "exampleMeaning": "Cùng học từ “剪刀”: kéo.",
+   "emoji": "✂",
+   "ipa": "",
+   "pinyin": "jiǎndāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大于",
+   "meaning": "to hơn",
+   "example": "我们来学“大于”这个词。",
+   "exampleMeaning": "Cùng học từ “大于”: to hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迷信",
+   "meaning": "mê tín",
+   "example": "破除迷信，解放思想。",
+   "exampleMeaning": "Bài trừ mê tín, giải phóng tư tưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水库",
+   "meaning": "đập chứa nước",
+   "example": "我们来学“水库”这个词。",
+   "exampleMeaning": "Cùng học từ “水库”: đập chứa nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐkù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成效",
+   "meaning": "công hiệu",
+   "example": "这种药消灭棉蚜虫，很有成效。",
+   "exampleMeaning": "Loại thuốc này diệt sâu bông rất công hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngxiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "给",
+    "了",
+    "她",
+    "父亲",
+    "一",
+    "条",
+    "领带"
+   ],
+   "reading": "tā gěi le tā fùqīn yī tiáo lǐngdài",
+   "meaning": "Cô ấy đã đưa cho bố cô một chiếc cà vạt."
+  },
+  {
+   "tokens": [
+    "我",
+    "买",
+    "到",
+    "了",
+    "一",
+    "辆",
+    "新",
+    "摩托车"
+   ],
+   "reading": "wǒ mǎi dào le yī liàng xīn mótuōchē",
+   "meaning": "Tôi mua được một cái mô-tô mới."
+  },
+  {
+   "tokens": [
+    "他",
+    "非常",
+    "担忧",
+    "自己",
+    "会",
+    "在",
+    "医院",
+    "度过",
+    "圣诞节"
+   ],
+   "reading": "tā fēicháng dānyōu zìjǐ huì zài yīyuàn dùguò shèngdànjié",
+   "meaning": "Anh ấy đã rất lo lắng về việc sẽ phải dành thời gian Giáng Sinh ở bệnh viện."
+  },
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,332 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "著しい",
+   "meaning": "đáng chú ý",
+   "example": "経済社会を取り巻く環境の変化が著しい。",
+   "exampleMeaning": "Sự thay đổi bối cảnh xã hội rất rõ rệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "はまる",
+   "meaning": "vào, vào trong",
+   "example": "この部屋はまるで豚小屋だな。",
+   "exampleMeaning": "Phòng này giống cái chuồng lợn quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "征服",
+   "meaning": "sự xâm chiếm, sự chinh phục",
+   "example": "「征服」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “征服”: sự xâm chiếm, sự chinh phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "視察",
+   "meaning": "sự xem xét kỹ, sự kiểm tra, sự thanh tra",
+   "example": "「視察」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “視察”: sự xem xét kỹ, sự kiểm tra, sự thanh tra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "産休",
+   "meaning": "phép nghỉ đẻ, thời gian nghỉ đẻ",
+   "example": "「産休」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “産休”: phép nghỉ đẻ, thời gian nghỉ đẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "禁物",
+   "meaning": "điều cấm kỵ, sự kiêng kỵ",
+   "example": "「禁物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “禁物”: điều cấm kỵ, sự kiêng kỵ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反する",
+   "meaning": "mâu thuẫn nhau, trái nhau",
+   "example": "「反する」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反する”: mâu thuẫn nhau, trái nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ストロボ",
+   "meaning": "đèn chớp",
+   "example": "「ストロボ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ストロボ”: đèn chớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "登録",
+   "meaning": "sự đăng ký, sự ghi tên, sự vào sổ",
+   "example": "「登録」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “登録”: sự đăng ký, sự ghi tên, sự vào sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合致",
+   "meaning": "hiệp định, hiệp nghị",
+   "example": "「合致」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合致”: hiệp định, hiệp nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内部",
+   "meaning": "ở trong, nội bộ",
+   "example": "日本人の経営者は内部昇進でかつ技術系の出身者である。",
+   "exampleMeaning": "Người đứng đầu doanh nghiệp Nhật Bản thường thăng tiến từ trong nội bộ và xuất thân từ ngành kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "民俗",
+   "meaning": "cách hành xử hay cách sống theo truyền thống của một cộng đồng hay một nhóm người",
+   "example": "「民俗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “民俗”: cách hành xử hay cách sống theo truyền thống của một cộng đồng hay một nhóm người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大空",
+   "meaning": "thiên đường, thiên đàng",
+   "example": "「大空」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大空”: thiên đường, thiên đàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弁護",
+   "meaning": "defence",
+   "example": "弁護士はみんな嘘つきだ。",
+   "exampleMeaning": "Đám luật sư đứa nào cũng nói dối cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飽和",
+   "meaning": "sự no, sự bão hoà, trạng thái bão hoà",
+   "example": "「飽和」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “飽和”: sự no, sự bão hoà, trạng thái bão hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接触",
+   "meaning": "chạm, đụng, đạt tới",
+   "example": "「接触」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接触”: chạm, đụng, đạt tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陳列",
+   "meaning": "cuộc triển lãm cuộc trưng bày",
+   "example": "「陳列」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陳列”: cuộc triển lãm cuộc trưng bày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉱業",
+   "meaning": "công nghiệp khai mỏ",
+   "example": "「鉱業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鉱業”: công nghiệp khai mỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合議",
+   "meaning": "sự hỏi ý kiến",
+   "example": "「合議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合議”: sự hỏi ý kiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "干し物",
+   "meaning": "dried washing (clothes (EN)",
+   "example": "「干し物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “干し物”: dried washing (clothes (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "書類",
+    "を",
+    "弁護士",
+    "に",
+    "預けた"
+   ],
+   "reading": "かれはしょるいをべんごしにあづけた",
+   "meaning": "Anh ta đã giao hồ sơ cho luật sư."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "弁護士",
+    "としては",
+    "無能",
+    "だ"
+   ],
+   "reading": "かれはべんごしとしてはむのうだ",
+   "meaning": "Anh ta không phải là một luật sư giỏi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "娘",
+    "を",
+    "弁護士",
+    "に",
+    "嫁がせた"
+   ],
+   "reading": "かれはむすめをべんごしにとつがせた",
+   "meaning": "Ông ấy đã gả con gái mình cho một luật sư."
+  },
+  {
+   "tokens": [
+    "この",
+    "部屋",
+    "は",
+    "まるで",
+    "豚小屋",
+    "だ",
+    "な"
+   ],
+   "reading": "このへやはまるでぶたこやだな",
+   "meaning": "Phòng này giống cái chuồng lợn quá."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "刑法",
+    "の",
+    "権威",
+    "だ"
+   ],
+   "reading": "かれはけいほうのけんいだ",
+   "meaning": "Ông ấy là một nhà chức trách thực thi pháp luật về hình sự."
+  }
+ ],
+ "issues": []
+}

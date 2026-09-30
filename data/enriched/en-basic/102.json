@@ -1,0 +1,314 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "meaning",
+   "meaning": "nghĩa, ý nghĩa",
+   "example": "What is the meaning of this word?",
+   "exampleMeaning": "Từ này nghĩa là gì?",
+   "emoji": "",
+   "ipa": "/ˈmi.niɳ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pull",
+   "meaning": "lôi, kéo, giật",
+   "example": "to give a pull at the belt",
+   "exampleMeaning": "Giật chuông một cái",
+   "emoji": "",
+   "ipa": "/ˈpʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exist",
+   "meaning": "tồn tại, sống",
+   "example": "Do you think I wanted to exist?",
+   "exampleMeaning": "Bạn nghĩ tôi có muốn tồn tại không?",
+   "emoji": "",
+   "ipa": "/ɛɡˈzɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "especially",
+   "meaning": "đặc biệt là, nhất là",
+   "example": "Let's learn the word \"especially\".",
+   "exampleMeaning": "Cùng học từ “especially”: đặc biệt là, nhất là.",
+   "emoji": "",
+   "ipa": "/əˈspɛʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "uncertain",
+   "meaning": "không chắc, còn ngờ",
+   "example": "He is uncertain about his future.",
+   "exampleMeaning": "Anh ấy không chắc chắn về tương lai của mình.",
+   "emoji": "",
+   "ipa": "/ənˈsɜrtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "disappear",
+   "meaning": "biến (mất)",
+   "example": "Where did all the children disappear?",
+   "exampleMeaning": "Bọn trẻ biến đâu mất rồi?",
+   "emoji": "",
+   "ipa": "/ˌdɪsəˈpir/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "storm",
+   "meaning": "bão",
+   "example": "to storm somebody with questions",
+   "exampleMeaning": "Chất vấn ai dồn dập",
+   "emoji": "",
+   "ipa": "/stɔːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flea",
+   "meaning": "bọ chét",
+   "example": "Let's learn the word \"flea\".",
+   "exampleMeaning": "Cùng học từ “flea”: bọ chét.",
+   "emoji": "",
+   "ipa": "/ˈfliː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "die",
+   "meaning": "chết, mất, từ trần",
+   "example": "to die the death of a hero",
+   "exampleMeaning": "Cái chết của một người anh hùng",
+   "emoji": "",
+   "ipa": "/ˈdaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "million",
+   "meaning": "triệu",
+   "example": "There are a million people in Auckland.",
+   "exampleMeaning": "Có một triệu người ở Auckland.",
+   "emoji": "",
+   "ipa": "/ˈmɪljən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "indeed",
+   "meaning": "thực vậy, thực mà, quả thực",
+   "example": "he spoke to me about you indeed - Oh, indeed!",
+   "exampleMeaning": "Ông ta nói với tôi về anh ồ, thực vậy ư!",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pill",
+   "meaning": "điều cay đắng, điều tủi nhục",
+   "example": "to swallow the pill",
+   "exampleMeaning": "Ngậm bồ hòn làm ngọt",
+   "emoji": "💊",
+   "ipa": "/ˈpɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thief",
+   "meaning": "kẻ trộm, kẻ cắp",
+   "example": "Once a thief, always a thief.",
+   "exampleMeaning": "Ăn cắp quen tay, ngủ ngày quen mắt.",
+   "emoji": "",
+   "ipa": "/ˈθif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rate",
+   "meaning": "giá, suất, mức (lương... )",
+   "example": "to value something at a low rate",
+   "exampleMeaning": "Đánh giá thấp cái gì",
+   "emoji": "",
+   "ipa": "/reɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "used",
+   "meaning": "từng",
+   "example": "I used to smoke.",
+   "exampleMeaning": "Tôi đã từng hút thuốc.",
+   "emoji": "",
+   "ipa": "/ˈjuzd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "no one",
+   "meaning": "không người nào, không ai",
+   "example": "Trust no one.",
+   "exampleMeaning": "Đừng tin một ai.",
+   "emoji": "",
+   "ipa": "/ˈnoʊ ˈwən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "harvest",
+   "meaning": "thu hoạch, vụ gặt",
+   "example": "Let's learn the word \"harvest\".",
+   "exampleMeaning": "Cùng học từ “harvest”: thu hoạch, vụ gặt.",
+   "emoji": "",
+   "ipa": "/ˈhɑr.vəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "passenger",
+   "meaning": "hành khách (đi tàu xe... )",
+   "example": "a passenger boat",
+   "exampleMeaning": "Tàu thuỷ chở hành khách",
+   "emoji": "",
+   "ipa": "/ˈpæsəndʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "decide",
+   "meaning": "quyết định",
+   "example": "to decide in favour of somebody",
+   "exampleMeaning": "Phân xử cho ai được (kiện)",
+   "emoji": "",
+   "ipa": "/dɪˈsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soft drink",
+   "meaning": "đồ uống không có rượu",
+   "example": "Let's learn the word \"soft drink\".",
+   "exampleMeaning": "Cùng học từ “soft drink”: đồ uống không có rượu.",
+   "emoji": "",
+   "ipa": "/ˈsɑft ˈdrɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "must",
+    "die"
+   ],
+   "reading": "",
+   "meaning": "Anh ta phải chết."
+  },
+  {
+   "tokens": [
+    "Everybody",
+    "will",
+    "die"
+   ],
+   "reading": "",
+   "meaning": "Ai rồi cũng sẽ chết."
+  },
+  {
+   "tokens": [
+    "No",
+    "one",
+    "called"
+   ],
+   "reading": "",
+   "meaning": "Không ai gọi cả."
+  },
+  {
+   "tokens": [
+    "The",
+    "storm",
+    "started"
+   ],
+   "reading": "",
+   "meaning": "Cơn bão đã bắt đầu."
+  },
+  {
+   "tokens": [
+    "The",
+    "storm",
+    "continued"
+   ],
+   "reading": "",
+   "meaning": "Cơn bão tiếp tục."
+  }
+ ],
+ "issues": []
+}

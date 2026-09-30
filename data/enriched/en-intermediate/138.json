@@ -1,0 +1,323 @@
+{
+ "lesson": 138,
+ "draft": true,
+ "words": [
+  {
+   "term": "secondary",
+   "meaning": "chuyển hoá",
+   "example": "secondary meaning of a words",
+   "exampleMeaning": "Nghĩa chuyển hoá của một từ",
+   "emoji": "",
+   "ipa": "/ˈsɛkənˌdɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unlock",
+   "meaning": "mở, mở khoá",
+   "example": "to unlock a door",
+   "exampleMeaning": "Mở cửa",
+   "emoji": "",
+   "ipa": "/ənˈlɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deputy",
+   "meaning": "người được uỷ quyền, người thay quyền",
+   "example": "Let's learn the word \"deputy\".",
+   "exampleMeaning": "Cùng học từ “deputy”: người được uỷ quyền, người thay quyền.",
+   "emoji": "",
+   "ipa": "/ˈdɛpjəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "loosely",
+   "meaning": "lỏng, lỏng lẻo, lòng thòng",
+   "example": "Let's learn the word \"loosely\".",
+   "exampleMeaning": "Cùng học từ “loosely”: lỏng, lỏng lẻo, lòng thòng.",
+   "emoji": "",
+   "ipa": "/ˈlusli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exhaustion",
+   "meaning": "sự hút, sự hút hết",
+   "example": "Let's learn the word \"exhaustion\".",
+   "exampleMeaning": "Cùng học từ “exhaustion”: sự hút, sự hút hết.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɔstʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tan",
+   "meaning": "vỏ dà, vỏ thuộc da",
+   "example": "Let's learn the word \"tan\".",
+   "exampleMeaning": "Cùng học từ “tan”: vỏ dà, vỏ thuộc da.",
+   "emoji": "",
+   "ipa": "/ˈtæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "haste",
+   "meaning": "sự vội vàng, sự vội vã, sự gấp rút",
+   "example": "More haste, less speed.",
+   "exampleMeaning": "Dục tốc bất đạt.",
+   "emoji": "",
+   "ipa": "/ˈheɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "clay",
+   "meaning": "đất sét, sét",
+   "example": "Let's learn the word \"clay\".",
+   "exampleMeaning": "Cùng học từ “clay”: đất sét, sét.",
+   "emoji": "",
+   "ipa": "/ˈkleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "darling",
+   "meaning": "thân yêu, yêu quý, được yêu mến",
+   "example": "what a darling little dog!",
+   "exampleMeaning": "Con chó nhỏ đáng yêu làm sao!",
+   "emoji": "",
+   "ipa": "/ˈdɑrlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "Olympiad",
+   "meaning": "thời kỳ bốn năm",
+   "example": "Let's learn the word \"Olympiad\".",
+   "exampleMeaning": "Cùng học từ “Olympiad”: thời kỳ bốn năm.",
+   "emoji": "",
+   "ipa": "/oʊˈlɪmpiˌæd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "glamorous",
+   "meaning": "đẹp say đắm, đẹp quyến rũ",
+   "example": "Let's learn the word \"glamorous\".",
+   "exampleMeaning": "Cùng học từ “glamorous”: đẹp say đắm, đẹp quyến rũ.",
+   "emoji": "",
+   "ipa": "/ˈɡlæmɜrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mobility",
+   "meaning": "tính chuyển động, tính di động",
+   "example": "Let's learn the word \"mobility\".",
+   "exampleMeaning": "Cùng học từ “mobility”: tính chuyển động, tính di động.",
+   "emoji": "",
+   "ipa": "/moʊˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transcript",
+   "meaning": "bản sao, bản chép lại",
+   "example": "Let's learn the word \"transcript\".",
+   "exampleMeaning": "Cùng học từ “transcript”: bản sao, bản chép lại.",
+   "emoji": "",
+   "ipa": "/ˈtrænsˌkrɪpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rocky",
+   "meaning": "như đá, vững như đá, cứng như đá",
+   "example": "Let's learn the word \"rocky\".",
+   "exampleMeaning": "Cùng học từ “rocky”: như đá, vững như đá, cứng như đá.",
+   "emoji": "",
+   "ipa": "/ˈrɑki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "alcoholism",
+   "meaning": "tác hại của rượu (đối với cơ thể)",
+   "example": "Let's learn the word \"alcoholism\".",
+   "exampleMeaning": "Cùng học từ “alcoholism”: tác hại của rượu (đối với cơ thể).",
+   "emoji": "",
+   "ipa": "/ˈælkəˌhɔˌlɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "endeavor",
+   "meaning": "endeavour",
+   "example": "Let's learn the word \"endeavor\".",
+   "exampleMeaning": "Cùng học từ “endeavor”: endeavour.",
+   "emoji": "",
+   "ipa": "/ɪnˈdɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "horizontal",
+   "meaning": "chân trời",
+   "example": "Let's learn the word \"horizontal\".",
+   "exampleMeaning": "Cùng học từ “horizontal”: chân trời.",
+   "emoji": "",
+   "ipa": "/ˌhɒr.ɪˈzɒn.təl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pentagon",
+   "meaning": "hình năm cạnh (ngũ giác)",
+   "example": "Let's learn the word \"pentagon\".",
+   "exampleMeaning": "Cùng học từ “pentagon”: hình năm cạnh (ngũ giác).",
+   "emoji": "",
+   "ipa": "/ˈpɛnɪˌɡɑn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trio",
+   "meaning": "bộ ba",
+   "example": "Let's learn the word \"trio\".",
+   "exampleMeaning": "Cùng học từ “trio”: bộ ba.",
+   "emoji": "",
+   "ipa": "/ˈtriˌoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inventor",
+   "meaning": "nhà phát minh",
+   "example": "Let's learn the word \"inventor\".",
+   "exampleMeaning": "Cùng học từ “inventor”: nhà phát minh.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛntɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Unlock",
+    "the",
+    "doors"
+   ],
+   "reading": "",
+   "meaning": "Mở khoá cửa đi."
+  },
+  {
+   "tokens": [
+    "More",
+    "haste",
+    "less",
+    "speed"
+   ],
+   "reading": "",
+   "meaning": "Dục tốc bất đạt."
+  },
+  {
+   "tokens": [
+    "Darling",
+    "what",
+    "time",
+    "is",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Cưng ơi, mấy giờ rồi?"
+  },
+  {
+   "tokens": [
+    "They",
+    "believe",
+    "he's",
+    "a",
+    "good",
+    "inventor"
+   ],
+   "reading": "",
+   "meaning": "Họ tin rằng ông ấy là một nhà phát minh giỏi."
+  },
+  {
+   "tokens": [
+    "He",
+    "shaped",
+    "the",
+    "statue",
+    "from",
+    "clay"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy tạo dáng cho bức tượng từ đất sét."
+  }
+ ],
+ "issues": []
+}

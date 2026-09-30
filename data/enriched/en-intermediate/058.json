@@ -1,0 +1,314 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "shift",
+   "meaning": "ca, kíp",
+   "example": "to shift off the responsibility",
+   "exampleMeaning": "Trút bỏ trách nhiệm; trút trách nhiệm (cho ai)",
+   "emoji": "",
+   "ipa": "/ˈʃɪft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shopper",
+   "meaning": "người đi mua hàng",
+   "example": "Let's learn the word \"shopper\".",
+   "exampleMeaning": "Cùng học từ “shopper”: người đi mua hàng.",
+   "emoji": "",
+   "ipa": "/ˈʃɑpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lighter",
+   "meaning": "người thắp đèn",
+   "example": "Let's learn the word \"lighter\".",
+   "exampleMeaning": "Cùng học từ “lighter”: người thắp đèn.",
+   "emoji": "",
+   "ipa": "/ˈlaɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "involved",
+   "meaning": "rắc rối, phức tạp",
+   "example": "Do you think we should get involved?",
+   "exampleMeaning": "Chúng ta có nên can thiệp không?",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɑlvd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unless",
+   "meaning": "trừ phi, trừ khi, nếu không",
+   "example": "unless you try, you will never succeed",
+   "exampleMeaning": "Nếu không cố gắng, anh sẽ chẳng bao giờ thành công",
+   "emoji": "",
+   "ipa": "/ənˈlɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "partial",
+   "meaning": "mê thích",
+   "example": "The math teacher explained the concept of partial differentiation.",
+   "exampleMeaning": "Giảng viên toán giải thích về khái niệm đạo hàm riêng.",
+   "emoji": "",
+   "ipa": "/ˈpɑrʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bare",
+   "meaning": "trần, trần truồng, trọc",
+   "example": "to have one's head bare",
+   "exampleMeaning": "Để đầu trần",
+   "emoji": "",
+   "ipa": "/ˈbɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disastrous",
+   "meaning": "tai hại, thảm khốc",
+   "example": "Let's learn the word \"disastrous\".",
+   "exampleMeaning": "Cùng học từ “disastrous”: tai hại, thảm khốc.",
+   "emoji": "",
+   "ipa": "/dɪˈzæstrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sacred",
+   "meaning": "thiêng liêng, bất khả xâm phạm",
+   "example": "This land is not for sale because it is sacred and forbidden.",
+   "exampleMeaning": "Vùng đất này không bán vì nó là đất thánh và là đất cấm.",
+   "emoji": "",
+   "ipa": "/ˈseɪkrəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "aggressive",
+   "meaning": "hay tấn công, gây sự, gây gổ",
+   "example": "He is so aggressive that others avoid him.",
+   "exampleMeaning": "Hắn hung hăn đến nổi người ta né tránh hắn.",
+   "emoji": "",
+   "ipa": "/əˈɡrɛsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "naturally",
+   "meaning": "vốn, tự nhiên",
+   "example": "She can naturally speak English.",
+   "exampleMeaning": "Cô ấy có thể nói tiếng Anh một cách tự nhiên.",
+   "emoji": "",
+   "ipa": "/ˈnætʃɜrəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "efficient",
+   "meaning": "hiệu quả",
+   "example": "Let's learn the word \"efficient\".",
+   "exampleMeaning": "Cùng học từ “efficient”: hiệu quả.",
+   "emoji": "",
+   "ipa": "/ɪˈfɪʃənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reproduce",
+   "meaning": "sao chép, sao lại, mô phỏng",
+   "example": "can lizards reproduce their tails?",
+   "exampleMeaning": "Thằn lằn có thể mọc lại đuôi không?",
+   "emoji": "",
+   "ipa": "/ˌriprəˈdus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "windsurfing",
+   "meaning": "[[|]] môn lướt ván buồm",
+   "example": "Let's learn the word \"windsurfing\".",
+   "exampleMeaning": "Cùng học từ “windsurfing”: [[|]] môn lướt ván buồm.",
+   "emoji": "",
+   "ipa": "/wˈɪndsɜːfɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "calm",
+   "meaning": "bình tĩnh, điềm tĩnh",
+   "example": "OK, calm down.",
+   "exampleMeaning": "OK, bình tĩnh nào.",
+   "emoji": "",
+   "ipa": "/ˈkɑlm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prefix",
+   "meaning": "tiền tố",
+   "example": "to prefix a chapter to a book",
+   "exampleMeaning": "Thêm một chương vào đầu cuốn sách",
+   "emoji": "",
+   "ipa": "/ˈprifɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "broccoli",
+   "meaning": "cây bông cải xanh",
+   "example": "Let's learn the word \"broccoli\".",
+   "exampleMeaning": "Cùng học từ “broccoli”: cây bông cải xanh.",
+   "emoji": "🥦",
+   "ipa": "/ˈbrɑkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "beard",
+   "meaning": "râu (người)",
+   "example": "Can I touch your beard?",
+   "exampleMeaning": "Tôi có thể sờ râu của ông được không?",
+   "emoji": "",
+   "ipa": "/ˈbɪrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "despite",
+   "meaning": "dù, mặc dù, không kể",
+   "example": "Despite his voluble nature, Tom rarely reveals anything personal.",
+   "exampleMeaning": "Dù là người hay ba hoa, Tom hiếm khi để lộ những thứ về bản thân.",
+   "emoji": "",
+   "ipa": "/dɪˈspaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "postcard",
+   "meaning": "bưu thiếp",
+   "example": "What does a stamp for a postcard to Germany cost?",
+   "exampleMeaning": "Một cái tem để gửi bưu thiếp đến Đức có giá bao nhiêu tiền?",
+   "emoji": "",
+   "ipa": "/ˈpoʊˌskɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "wasn't",
+    "involved"
+   ],
+   "reading": "",
+   "meaning": "Tôi không liên quan."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "stayed",
+    "calm"
+   ],
+   "reading": "",
+   "meaning": "Tất cả mọi người bình tĩnh."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "stay",
+    "calm"
+   ],
+   "reading": "",
+   "meaning": "Tất cả bình tĩnh!"
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "calm",
+    "down"
+   ],
+   "reading": "",
+   "meaning": "Mọi người, bình tĩnh đi."
+  },
+  {
+   "tokens": [
+    "OK",
+    "calm",
+    "down"
+   ],
+   "reading": "",
+   "meaning": "OK, bình tĩnh nào."
+  }
+ ],
+ "issues": []
+}

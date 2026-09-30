@@ -1,0 +1,326 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "竹",
+   "meaning": "cây tre",
+   "example": "除夜の爆竹は、結婚式の爆竹のようである。",
+   "exampleMeaning": "Pháo nổ giao thừa như pháo cưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "学力",
+   "meaning": "sự học rộng, sự uyên thâm, sự uyên bác",
+   "example": "「学力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学力”: sự học rộng, sự uyên thâm, sự uyên bác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "過半数",
+   "meaning": "phần lớn, phần đông, đa số",
+   "example": "「過半数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “過半数”: phần lớn, phần đông, đa số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伯母",
+   "meaning": "cô, dì, thím",
+   "example": "「伯母」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伯母”: cô, dì, thím.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行方",
+   "meaning": "ở đâu vậy, ở phía nào, ở ni nào",
+   "example": "「行方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行方”: ở đâu vậy, ở phía nào, ở ni nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先程",
+   "meaning": "a little while ago (EN)",
+   "example": "「先程」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先程”: a little while ago (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "催促",
+   "meaning": "sự đòi hỏi, sự yêu cầu",
+   "example": "「催促」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “催促”: sự đòi hỏi, sự yêu cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ゼミ",
+   "meaning": "xêmina, hội nghị chuyên đề",
+   "example": "「ゼミ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ゼミ”: xêmina, hội nghị chuyên đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坊っちゃん",
+   "meaning": "con trai",
+   "example": "「坊っちゃん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “坊っちゃん”: con trai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "続々",
+   "meaning": "liên tục",
+   "example": "「続々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “続々”: liên tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "チョーク",
+   "meaning": "đá phấn",
+   "example": "「チョーク」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “チョーク”: đá phấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "塩辛い",
+   "meaning": "muối",
+   "example": "「塩辛い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “塩辛い”: muối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "月末",
+   "meaning": "cuối tháng",
+   "example": "「月末」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “月末”: cuối tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "測定",
+   "meaning": "sự đo lường",
+   "example": "「測定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “測定”: sự đo lường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "スマート",
+   "meaning": "sự đau đớn, sự nhức nhối",
+   "example": "「スマート」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “スマート”: sự đau đớn, sự nhức nhối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通知",
+   "meaning": "thông tri, yết thị, thông cáo",
+   "example": "「通知」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通知”: thông tri, yết thị, thông cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "四捨五入",
+   "meaning": "sự lượn tròn",
+   "example": "「四捨五入」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “四捨五入”: sự lượn tròn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仮名遣い",
+   "meaning": "kana orthography (EN)",
+   "example": "「仮名遣い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仮名遣い”: kana orthography (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "売り切れる",
+   "meaning": "to be sold out (EN)",
+   "example": "「売り切れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売り切れる”: to be sold out (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "やかん",
+   "meaning": "ấm đun nước",
+   "example": "「やかん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “やかん”: ấm đun nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "犬",
+    "を",
+    "庭",
+    "に",
+    "放した"
+   ],
+   "reading": "かれはいぬをにわにはなした",
+   "meaning": "Anh ta thả chó ra vườn."
+  },
+  {
+   "tokens": [
+    "床",
+    "は",
+    "血",
+    "だらけ",
+    "だった"
+   ],
+   "reading": "ゆかはちだらけだった",
+   "meaning": "Trên sàn nhà toàn máu."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "すぐに",
+    "決心",
+    "した"
+   ],
+   "reading": "かれはすぐにけっしんした",
+   "meaning": "Anh ấy hạ quyết tâm ngay lập tức."
+  },
+  {
+   "tokens": [
+    "雄弁",
+    "は",
+    "銀",
+    "沈黙",
+    "は",
+    "金"
+   ],
+   "reading": "ゆうべんはぎんちんもくはきん",
+   "meaning": "Im lặng là vàng."
+  },
+  {
+   "tokens": [
+    "この",
+    "肉",
+    "は",
+    "腐っている"
+   ],
+   "reading": "このにくはくさっている",
+   "meaning": "Thịt này thiu rồi."
+  }
+ ],
+ "issues": []
+}

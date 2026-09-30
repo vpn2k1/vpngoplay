@@ -1,0 +1,323 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "面白い",
+   "meaning": "làm quan tâm, làm chú ý, thú vị",
+   "example": "野球って何が面白いの？",
+   "exampleMeaning": "Bóng chày thì có gì hay?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ナイフ",
+   "meaning": "con dao",
+   "example": "このナイフは切れ味が悪い。",
+   "exampleMeaning": "Cái dao này bị cùn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一日",
+   "meaning": "một ngày, 24 giờ",
+   "example": "昨日は一日中寝ていた。",
+   "exampleMeaning": "Hôm qua tôi ngủ cả ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "階段",
+   "meaning": "cầu thang",
+   "example": "なんて狭い階段なんだ！",
+   "exampleMeaning": "Cầu thang hẹp thật!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月曜日",
+   "meaning": "thứ hai",
+   "example": "月曜日で大丈夫？",
+   "exampleMeaning": "Thứ hai OK không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "後",
+   "meaning": "sau, ở đằng sau",
+   "example": "後で取りに来ます。",
+   "exampleMeaning": "Tôi sẽ đi lấy nó sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夕方",
+   "meaning": "buổi chiều, buổi tối, tối đêm",
+   "example": "私はたいてい夕方シャワーを浴びます。",
+   "exampleMeaning": "Tôi thường tắm vào buổi tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飛行機",
+   "meaning": "máy bay, tàu bay",
+   "example": "私のは６時の飛行機です。",
+   "exampleMeaning": "Chuyến bay của tôi sẽ khởi hành lúc 6 giờ.",
+   "emoji": "✈",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アパート",
+   "meaning": "căn phòng, buồng",
+   "example": "彼はアパートに一人で住んでいます。",
+   "exampleMeaning": "Anh ấy đang sống một mình ở trong một căn hộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寝る",
+   "meaning": "ngủ",
+   "example": "寝る前に歯を磨きなさい。",
+   "exampleMeaning": "Hãy đánh răng trước khi ngủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ああ",
+   "meaning": "a!, chà!, chao!",
+   "example": "ああ恥ずかしい！",
+   "exampleMeaning": "A a, ngượng chết đi mất!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "売る",
+   "meaning": "bán, đổi (hàng hoá) để lấy tiền",
+   "example": "私は家を売るつもりです。",
+   "exampleMeaning": "Tôi định bán nhà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お兄さん",
+   "meaning": "anh trai",
+   "example": "君はお兄さんにそっくりだよ。",
+   "exampleMeaning": "Em trông giống hệt anh trai mình đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "締める",
+   "meaning": "thắt",
+   "example": "運転手はベルトを締めるべきだ。",
+   "exampleMeaning": "Những người lái xe phải thắt dây an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "白",
+   "meaning": "trắng, bạch, bạc",
+   "example": "面白い噂を耳にした。",
+   "exampleMeaning": "Tôi đã nghe được một tin đồn thú vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "丁度",
+   "meaning": "công bằng",
+   "example": "「丁度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “丁度”: công bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毎日",
+   "meaning": "hằng ngày, dùng hàng ngày",
+   "example": "彼は毎日野球をします。",
+   "exampleMeaning": "Anh ấy mỗi ngày đều chơi bóng chày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "マッチ",
+   "meaning": "diêm",
+   "example": "彼はマッチをすった。",
+   "exampleMeaning": "Anh ấy đã quẹt diêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "箱",
+   "meaning": "hộp, thùng, tráp",
+   "example": "その箱は木でできてるんだ。",
+   "exampleMeaning": "Cái hộp đó được làm từ gỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "七",
+   "meaning": "bảy",
+   "example": "トムさんの享年は九十七歳です。",
+   "exampleMeaning": "Tom đã mất vào năm 97 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "英語",
+    "は",
+    "簡単",
+    "でない",
+    "しかし",
+    "面白い"
+   ],
+   "reading": "えいごはかんたんでないしかしおもしろい",
+   "meaning": "Tiếng Anh không đơn giản nhưng rất thú vị."
+  },
+  {
+   "tokens": [
+    "この",
+    "本",
+    "は",
+    "あの",
+    "本",
+    "より",
+    "ずっと",
+    "面白い"
+   ],
+   "reading": "このほんはあのほんよりずっとおもしろい",
+   "meaning": "Cuốn sách này hay hơn cuốn sách đó nhiều."
+  },
+  {
+   "tokens": [
+    "飛行機",
+    "が",
+    "見えた"
+   ],
+   "reading": "ひこうきがみえた",
+   "meaning": "Tôi trông thấy máy bay."
+  },
+  {
+   "tokens": [
+    "後で",
+    "知らせる",
+    "よ"
+   ],
+   "reading": "あとでしらせるよ",
+   "meaning": "Tôi sẽ báo cho bạn sau."
+  },
+  {
+   "tokens": [
+    "後で",
+    "取り",
+    "に",
+    "来ます"
+   ],
+   "reading": "あとでとりにきます",
+   "meaning": "Tôi sẽ đi lấy nó sau."
+  }
+ ],
+ "issues": []
+}

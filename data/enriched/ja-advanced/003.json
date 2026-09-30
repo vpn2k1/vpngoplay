@@ -1,0 +1,324 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "副",
+   "meaning": "đặc biệt là, nhất là",
+   "example": "副作用としては、視力障害があります。",
+   "exampleMeaning": "Tác dụng phụ của nó là gây suy giảm thị lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大水",
+   "meaning": "lũ, lụt, nạn lụt",
+   "example": "「大水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大水”: lũ, lụt, nạn lụt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先だって",
+   "meaning": "gần đây, mới đây",
+   "example": "「先だって」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先だって”: gần đây, mới đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怪獣",
+   "meaning": "quái vật, yêu quái",
+   "example": "「怪獣」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “怪獣”: quái vật, yêu quái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "レッスン",
+   "meaning": "bài học",
+   "example": "「レッスン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “レッスン”: bài học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進呈",
+   "meaning": "sự bày ra, sự phô ra",
+   "example": "「進呈」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進呈”: sự bày ra, sự phô ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "破壊",
+   "meaning": "sự phá hoại, sự phá huỷ, sự tiêu diệt",
+   "example": "大地震が東京を破壊したのは１９２０年代のことだった。",
+   "exampleMeaning": "Vào những năm 20 của thế kỷ 20, một trận động đất lớn đã phá hủy thành phố Tokyo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "秘書",
+   "meaning": "thư ký, bí thư",
+   "example": "ジェーンは社長秘書です。",
+   "exampleMeaning": "Jane là thư ký giám đốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "華奢",
+   "meaning": "thon, ít ỏi, nghèo nàn",
+   "example": "「華奢」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “華奢”: thon, ít ỏi, nghèo nàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弱",
+   "meaning": "yếu, yếu ớt",
+   "example": "心熱けれど肉体は弱し。",
+   "exampleMeaning": "Lực bất tòng tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中断",
+   "meaning": "sự gián đoạn",
+   "example": "「中断」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中断”: sự gián đoạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "愛想",
+   "meaning": "tính dễ gần, tính dễ chan hoà",
+   "example": "「愛想」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “愛想”: tính dễ gần, tính dễ chan hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "売り出し",
+   "meaning": "sự bán",
+   "example": "「売り出し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売り出し”: sự bán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "半端",
+   "meaning": "mảnh, mảnh vỡ",
+   "example": "「半端」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “半端”: mảnh, mảnh vỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所定",
+   "meaning": "đứng yên, bất động, cố định",
+   "example": "「所定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “所定”: đứng yên, bất động, cố định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ぞんざい",
+   "meaning": "khiếm nhã, bất lịch sự, vô lễ",
+   "example": "「ぞんざい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぞんざい”: khiếm nhã, bất lịch sự, vô lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "臆病",
+   "meaning": "tính nhát gan, tính nhút nhát",
+   "example": "おまえらはみんな臆病者だ。",
+   "exampleMeaning": "Tất cả chúng mày đều là đồ nhát cáy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "悪化",
+   "meaning": "sự làm hư hỏng",
+   "example": "「悪化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “悪化”: sự làm hư hỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ユニーク",
+   "meaning": "độc nhất",
+   "example": "「ユニーク」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ユニーク”: độc nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "竿",
+   "meaning": "cái que, cái gậy, cái cần",
+   "example": "「竿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “竿”: cái que, cái gậy, cái cần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "心",
+    "熱",
+    "けれど",
+    "肉体",
+    "は",
+    "弱し"
+   ],
+   "reading": "こころねつけれどにくたいはよわし",
+   "meaning": "Lực bất tòng tâm."
+  },
+  {
+   "tokens": [
+    "ジェーン",
+    "は",
+    "社長",
+    "秘書",
+    "です"
+   ],
+   "reading": "ジェーンはしゃちょうひしょです",
+   "meaning": "Jane là thư ký giám đốc."
+  },
+  {
+   "tokens": [
+    "秘書",
+    "に",
+    "その",
+    "手紙",
+    "を",
+    "タイプ",
+    "させた"
+   ],
+   "reading": "ひしょにそのてがみをタイプさせた",
+   "meaning": "Tôi giao cho thư kí đánh bức thư đó."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "弱",
+    "すぎる"
+   ],
+   "reading": "かのじょはよわすぎる",
+   "meaning": "Cô ấy quá yếu."
+  },
+  {
+   "tokens": [
+    "採点",
+    "しました",
+    "か"
+   ],
+   "reading": "さいてんしましたか",
+   "meaning": "Bạn chấm bài chưa?"
+  }
+ ],
+ "issues": []
+}

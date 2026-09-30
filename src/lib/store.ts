@@ -31,6 +31,8 @@ export interface SavedWord {
 
 interface ProgressState {
   profile: Profile | null
+  /** Language being studied, picked from the header; null = the profile's first language (see useLang) */
+  lang: Lang | null
   settings: Settings
   xp: number
   streak: { count: number; lastDay: string | null }
@@ -39,6 +41,7 @@ interface ProgressState {
   bestScores: Record<string, number>
   saved: Record<string, SavedWord>
   setProfile: (profile: Profile) => void
+  setLang: (lang: Lang) => void
   updateSettings: (patch: Partial<Settings>) => void
   addXp: (amount: number) => void
   review: (key: string, grade: Grade) => void
@@ -78,6 +81,7 @@ const defaultSettings: Settings = { voices: {}, rate: 1, sound: true, gameSpeed:
 
 const initial = {
   profile: null,
+  lang: null as Lang | null,
   settings: defaultSettings,
   xp: 0,
   streak: { count: 0, lastDay: null },
@@ -92,7 +96,21 @@ export const useProgress = create<ProgressState>()(
   persist(
     (set, get) => ({
       ...initial,
-      setProfile: (profile) => set({ profile }),
+      // Keep the current language when it's still among the profile's languages.
+      setProfile: (profile) =>
+        set((s) => ({
+          profile,
+          lang: s.lang && profile.langs.includes(s.lang) ? s.lang : (profile.langs[0] ?? s.lang),
+        })),
+      // The profile remembers every language studied (voice settings list them).
+      setLang: (lang) =>
+        set((s) => ({
+          lang,
+          profile:
+            s.profile && !s.profile.langs.includes(lang)
+              ? { ...s.profile, langs: [...s.profile.langs, lang] }
+              : s.profile,
+        })),
       updateSettings: (patch) => set((s) => ({ settings: { ...s.settings, ...patch } })),
       addXp: (amount) =>
         set((s) => {
@@ -123,7 +141,7 @@ export const useProgress = create<ProgressState>()(
           const { [key]: _removed, ...saved } = s.saved
           return { saved }
         }),
-      reset: () => set((s) => ({ ...initial, settings: s.settings })),
+      reset: () => set((s) => ({ ...initial, settings: s.settings, lang: s.lang })),
     }),
     {
       name: STORAGE_KEY,

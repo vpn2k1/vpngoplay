@@ -1,0 +1,334 @@
+{
+ "lesson": 90,
+ "draft": true,
+ "words": [
+  {
+   "term": "温暖",
+   "meaning": "ấm",
+   "example": "他深深地感到革命大家庭的温暖。",
+   "exampleMeaning": "Anh ấy cảm nhận một cách sâu sắc sự ấm áp của đại gia đình Cách mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēnnuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "齐",
+   "meaning": "ngang",
+   "example": "向日葵都齐了房檐了。",
+   "exampleMeaning": "Hoa hướng dương cao ngang mái hiên rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qí",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表面",
+   "meaning": "bề ngoài",
+   "example": "你不能只看事情的表面。",
+   "exampleMeaning": "Anh không thể chỉ nhìn bề ngoài của sự việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎomiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "领先",
+   "meaning": "dẫn đầu",
+   "example": "他迈开大步，领先登上了山顶。",
+   "exampleMeaning": "Anh ấy bước một bước dài, dẫn đầu lên đỉnh núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐngxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "作者",
+   "meaning": "tác giả",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上升",
+   "meaning": "lên cao",
+   "example": "一缕炊烟袅袅上升。",
+   "exampleMeaning": "Một làn khói bếp từ từ bay lên cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "声明",
+   "meaning": "tuyên bố",
+   "example": "变量的声明在C和C++中极其重要。",
+   "exampleMeaning": "Khai báo biến trong C/C++ vô cùng quan trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "围",
+   "meaning": "vây quanh, bao quanh, bao vây",
+   "example": "我们来学“围”这个词。",
+   "exampleMeaning": "Cùng học từ “围”: vây quanh, bao quanh, bao vây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéi",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "路线",
+   "meaning": "đường lối",
+   "example": "坚持群众路线。",
+   "exampleMeaning": "Đường lối kiên trì của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "完整",
+   "meaning": "toàn vẹn",
+   "example": "这套书是完整的。",
+   "exampleMeaning": "Bộ sách này rất hoàn chỉnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánzhěng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "谈判",
+   "meaning": "đàm phán",
+   "example": "和平谈判",
+   "exampleMeaning": "Đàm phán hoà bình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tánpàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "飞行",
+   "meaning": "bay",
+   "example": "低空飞行",
+   "exampleMeaning": "Bay thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēixíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "较",
+   "meaning": "rõ ràng",
+   "example": "北京的秋天一般地说气候比较凉爽。",
+   "exampleMeaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "纪念",
+   "meaning": "kỷ niệm, tưởng nhớ, tưởng niệm",
+   "example": "这张照片给你做个纪念吧。",
+   "exampleMeaning": "Bức ảnh này tặng anh làm kỷ niệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìniàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "福",
+   "meaning": "sự sung sướng, hạnh phúc",
+   "example": "他们生活得很幸福。",
+   "exampleMeaning": "Họ đã có một cuộc sống hạnh phúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "补",
+   "meaning": "bổ",
+   "example": "亡羊补牢。",
+   "exampleMeaning": "Muộn còn hơn không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "赶到",
+   "meaning": "khi",
+   "example": "赶到明儿个,可就误事了。",
+   "exampleMeaning": "Chờ đến ngày mai, e là hỏng việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎndào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公民",
+   "meaning": "công dân, dân",
+   "example": "公民投票",
+   "exampleMeaning": "Trưng cầu dân ý",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngmín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "当初",
+   "meaning": "lúc đầu",
+   "example": "当初这里是一片汪洋。",
+   "exampleMeaning": "Xưa kia nơi này là vùng nước mênh mông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分别",
+   "meaning": "phân biệt",
+   "example": "暂时分别，不久就能见面。",
+   "exampleMeaning": "Tạm thời xa cách, chẳng bao lâu sẽ được gặp nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "生活",
+    "得",
+    "很",
+    "幸福"
+   ],
+   "reading": "tāmen shēnghuó de hěn xìngfú",
+   "meaning": "Họ đã có một cuộc sống hạnh phúc."
+  },
+  {
+   "tokens": [
+    "周围",
+    "的",
+    "地区",
+    "非常",
+    "安静"
+   ],
+   "reading": "zhōuwéi de dìqū fēicháng ānjìng",
+   "meaning": "Khu vực xung quanh đây rất yên tĩnh."
+  },
+  {
+   "tokens": [
+    "北京",
+    "的",
+    "秋天",
+    "一般",
+    "地",
+    "说",
+    "气候",
+    "比较",
+    "凉爽"
+   ],
+   "reading": "běijīng de qiūtiān yībān de shuō qìhòu bǐjiào liángshuǎng",
+   "meaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "她",
+    "又",
+    "在",
+    "说",
+    "这",
+    "说",
+    "那"
+   ],
+   "reading": "tā yòu zài shuō zhè shuō nà",
+   "meaning": "Bà ta lại nói này nói nọ."
+  }
+ ],
+ "issues": []
+}

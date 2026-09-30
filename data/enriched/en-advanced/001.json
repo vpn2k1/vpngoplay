@@ -1,0 +1,337 @@
+{
+ "lesson": 1,
+ "draft": true,
+ "words": [
+  {
+   "term": "ambiguous",
+   "meaning": "không rõ ràng, mơ hồ",
+   "example": "Let's learn the word \"ambiguous\".",
+   "exampleMeaning": "Cùng học từ “ambiguous”: không rõ ràng, mơ hồ.",
+   "emoji": "",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "functionality",
+   "meaning": "tính năng, chức năng",
+   "example": "Let's learn the word \"functionality\".",
+   "exampleMeaning": "Cùng học từ “functionality”: tính năng, chức năng.",
+   "emoji": "",
+   "ipa": "/ˌfəŋkʃəˈnælɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grieve",
+   "meaning": "đau buồn, đau lòng",
+   "example": "to grieve at the death of",
+   "exampleMeaning": "Đau buồn vì cái chết của (ai)",
+   "emoji": "",
+   "ipa": "/ˈɡriv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bossy",
+   "meaning": "có bướu lồi ra",
+   "example": "Let's learn the word \"bossy\".",
+   "exampleMeaning": "Cùng học từ “bossy”: có bướu lồi ra.",
+   "emoji": "",
+   "ipa": "/ˈbɔsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "zip",
+   "meaning": "rít, vèo (như đạn bay)",
+   "example": "I realized that my zip was undone.",
+   "exampleMeaning": "Tôi nhận ra rằng khóa quần mình chưa được kéo lên.",
+   "emoji": "",
+   "ipa": "/ˈzɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "emergence",
+   "meaning": "sự nổi lên, sự hiện ra, sự lòi ra",
+   "example": "Let's learn the word \"emergence\".",
+   "exampleMeaning": "Cùng học từ “emergence”: sự nổi lên, sự hiện ra, sự lòi ra.",
+   "emoji": "",
+   "ipa": "/ˈimɜrdʒəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "originate",
+   "meaning": "bắt đầu, khởi đầu",
+   "example": "Let's learn the word \"originate\".",
+   "exampleMeaning": "Cùng học từ “originate”: bắt đầu, khởi đầu.",
+   "emoji": "",
+   "ipa": "/ɜrˈɪdʒəˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lava",
+   "meaning": "dung nham",
+   "example": "Let's learn the word \"lava\".",
+   "exampleMeaning": "Cùng học từ “lava”: dung nham.",
+   "emoji": "",
+   "ipa": "/ˈlɑvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sonnet",
+   "meaning": "bài thơ xonê, bài thơ 14 câu",
+   "example": "Let's learn the word \"sonnet\".",
+   "exampleMeaning": "Cùng học từ “sonnet”: bài thơ xonê, bài thơ 14 câu.",
+   "emoji": "",
+   "ipa": "/ˈsɑnɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "doubly",
+   "meaning": "nước đôi, lá mặt lá trái",
+   "example": "to deal doubly",
+   "exampleMeaning": "Chơi nước đôi chơi lá mặt lá trái",
+   "emoji": "",
+   "ipa": "/ˈdəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "adjustment",
+   "meaning": "sự sửa lại cho đúng, sự điều chỉnh",
+   "example": "Adjustment in direction.",
+   "exampleMeaning": "Sự điều chỉnh hướng.",
+   "emoji": "",
+   "ipa": "/əˈd͡ʒʌst.mənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "optimistic",
+   "meaning": "lạc quan",
+   "example": "We're cautiously optimistic about the outcome.",
+   "exampleMeaning": "Chúng tôi lạc quan một cách thận trọng về kết quả.",
+   "emoji": "",
+   "ipa": "/ˌɑptəˈmɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thermometer",
+   "meaning": "nhiệt kế, nhiệt biểu",
+   "example": "The thermometer fell to zero last night.",
+   "exampleMeaning": "Nhiệt kế xuống tới 0 độ hồi tối qua.",
+   "emoji": "🌡",
+   "ipa": "/θəˈmɒmɪtə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "exhaust",
+   "meaning": "làm kiệt quệ, làm rỗng, làm cạn",
+   "example": "to exhaust a well",
+   "exampleMeaning": "Làm cạn một cái giếng",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɔst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reaction",
+   "meaning": "phản ứng",
+   "example": "When acid touches metal, a chemical reaction happens.",
+   "exampleMeaning": "Khi axít tiếp xúc với kim loại, một phản ứng hóa học sẽ xảy ra.",
+   "emoji": "",
+   "ipa": "/riˈækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "commonwealth",
+   "meaning": "toàn thể nhân dân (của một nước)",
+   "example": "Let's learn the word \"commonwealth\".",
+   "exampleMeaning": "Cùng học từ “commonwealth”: toàn thể nhân dân (của một nước).",
+   "emoji": "",
+   "ipa": "/ˈkɑmənˌwɛlθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "portion",
+   "meaning": "phần, phần chia",
+   "example": "to portion something to somebody",
+   "exampleMeaning": "Chia phần cái gì cho ai",
+   "emoji": "",
+   "ipa": "/ˈpɔrʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "eastward",
+   "meaning": "hướng đông",
+   "example": "Let's learn the word \"eastward\".",
+   "exampleMeaning": "Cùng học từ “eastward”: hướng đông.",
+   "emoji": "",
+   "ipa": "/ˈistwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dissident",
+   "meaning": "người bất đồng, người bất đồng quan điểm",
+   "example": "Let's learn the word \"dissident\".",
+   "exampleMeaning": "Cùng học từ “dissident”: người bất đồng, người bất đồng quan điểm.",
+   "emoji": "",
+   "ipa": "/ˈdɪsədənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gradual",
+   "meaning": "dần dần, từ từ, từng bước một",
+   "example": "a gradual change",
+   "exampleMeaning": "Sự thay đổi từ từ",
+   "emoji": "",
+   "ipa": "/ˈɡrædʒuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We're",
+    "cautiously",
+    "optimistic",
+    "about",
+    "the",
+    "outcome"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi lạc quan một cách thận trọng về kết quả."
+  },
+  {
+   "tokens": [
+    "The",
+    "thermometer",
+    "fell",
+    "to",
+    "zero",
+    "last",
+    "night"
+   ],
+   "reading": "",
+   "meaning": "Nhiệt kế xuống tới 0 độ hồi tối qua."
+  },
+  {
+   "tokens": [
+    "I",
+    "just",
+    "wanted",
+    "to",
+    "test",
+    "Tom's",
+    "reaction"
+   ],
+   "reading": "",
+   "meaning": "Tôi chỉ muốn thử phản ứng của Tom thôi mà."
+  },
+  {
+   "tokens": [
+    "When",
+    "acid",
+    "touches",
+    "metal",
+    "a",
+    "chemical",
+    "reaction",
+    "happens"
+   ],
+   "reading": "",
+   "meaning": "Khi axít tiếp xúc với kim loại, một phản ứng hóa học sẽ xảy ra."
+  },
+  {
+   "tokens": [
+    "A",
+    "chemical",
+    "reaction",
+    "takes",
+    "place",
+    "in",
+    "one",
+    "or",
+    "more",
+    "steps"
+   ],
+   "reading": "",
+   "meaning": "Phản ứng hóa học xảy từng bước hoặc nhiều bước."
+  }
+ ],
+ "issues": []
+}

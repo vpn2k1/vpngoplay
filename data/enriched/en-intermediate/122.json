@@ -1,0 +1,327 @@
+{
+ "lesson": 122,
+ "draft": true,
+ "words": [
+  {
+   "term": "preventive",
+   "meaning": "ngăn ngừa, phòng ngừa",
+   "example": "Let's learn the word \"preventive\".",
+   "exampleMeaning": "Cùng học từ “preventive”: ngăn ngừa, phòng ngừa.",
+   "emoji": "",
+   "ipa": "/priˈvɛnɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cylinder",
+   "meaning": "trụ, hình trụ",
+   "example": "Let's learn the word \"cylinder\".",
+   "exampleMeaning": "Cùng học từ “cylinder”: trụ, hình trụ.",
+   "emoji": "",
+   "ipa": "/ˈsɪləndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "facilitate",
+   "meaning": "làm cho dễ dàng",
+   "example": "Let's learn the word \"facilitate\".",
+   "exampleMeaning": "Cùng học từ “facilitate”: làm cho dễ dàng.",
+   "emoji": "",
+   "ipa": "/fəˈsɪləˌteɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "recommendation",
+   "meaning": "thư giới thiệu",
+   "example": "to writer in recommendation of someone",
+   "exampleMeaning": "Viết thư giới thiệu ai",
+   "emoji": "",
+   "ipa": "/ˌrɛkəmənˈdeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mimic",
+   "meaning": "người có tài bắt chước",
+   "example": "Let's learn the word \"mimic\".",
+   "exampleMeaning": "Cùng học từ “mimic”: người có tài bắt chước.",
+   "emoji": "",
+   "ipa": "/ˈmɪmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reasonably",
+   "meaning": "hợp lý",
+   "example": "to discuss the matter calmly and reasonably",
+   "exampleMeaning": "Thảo luận vấn đề một cách bình tĩnh và hợp lý",
+   "emoji": "",
+   "ipa": "/ˈrizənəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peg",
+   "meaning": "cớ, lý do, cơ hội",
+   "example": "to peg someone down to his work",
+   "exampleMeaning": "Ghim chặt ai vào công việc",
+   "emoji": "",
+   "ipa": "/ˈpɛɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "respiratory",
+   "meaning": "sự thở, (thuộc) hô hấp",
+   "example": "Let's learn the word \"respiratory\".",
+   "exampleMeaning": "Cùng học từ “respiratory”: sự thở, (thuộc) hô hấp.",
+   "emoji": "",
+   "ipa": "/ˈrɛspɜrəˌtɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exile",
+   "meaning": "sự đày ải, sự đi đày hay sự lưu đày",
+   "example": "Let's learn the word \"exile\".",
+   "exampleMeaning": "Cùng học từ “exile”: sự đày ải, sự đi đày hay sự lưu đày.",
+   "emoji": "",
+   "ipa": "/ˈɛɡˌzaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "astronomy",
+   "meaning": "thiên văn học",
+   "example": "Let's learn the word \"astronomy\".",
+   "exampleMeaning": "Cùng học từ “astronomy”: thiên văn học.",
+   "emoji": "",
+   "ipa": "/əˈstrɑnəmi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "factor",
+   "meaning": "hệ số",
+   "example": "factor of safety",
+   "exampleMeaning": "Hệ số an toàn",
+   "emoji": "",
+   "ipa": "/ˈfæk.tɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ironically",
+   "meaning": "mỉa mai, trớ trêu",
+   "example": "Let's learn the word \"ironically\".",
+   "exampleMeaning": "Cùng học từ “ironically”: mỉa mai, trớ trêu.",
+   "emoji": "",
+   "ipa": "/aɪˈrɑnɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hospitable",
+   "meaning": "mến khách, hiếu khách",
+   "example": "Let's learn the word \"hospitable\".",
+   "exampleMeaning": "Cùng học từ “hospitable”: mến khách, hiếu khách.",
+   "emoji": "",
+   "ipa": "/ˈhɑˈspɪtəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tutor",
+   "meaning": "gia sư, thầy giáo kèm riêng",
+   "example": "Is AI a reliable tutor?",
+   "exampleMeaning": "AI có phải là gia sư đáng tin cậy hay không?",
+   "emoji": "",
+   "ipa": "/ˈtutɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cozy",
+   "meaning": "ấm cúng, thoải mái dễ chịu",
+   "example": "Let's learn the word \"cozy\".",
+   "exampleMeaning": "Cùng học từ “cozy”: ấm cúng, thoải mái dễ chịu.",
+   "emoji": "",
+   "ipa": "/ˈkoʊzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pee",
+   "meaning": "đi đái, đi giải, đi tiểu",
+   "example": "How many times do you pee in a day?",
+   "exampleMeaning": "Bạn đi tiểu mấy lần một ngày?",
+   "emoji": "",
+   "ipa": "/ˈpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "revenue",
+   "meaning": "doanh thu",
+   "example": "A budget deficit will occur because of a revenue shortfall.",
+   "exampleMeaning": "Thâm hụt ngân sách sẽ xảy ra do sự sụ giảm doanh thu.",
+   "emoji": "",
+   "ipa": "/ˈrɛvəˌnu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "exclusion",
+   "meaning": "sự không cho vào (một nơi nào... )",
+   "example": "Let's learn the word \"exclusion\".",
+   "exampleMeaning": "Cùng học từ “exclusion”: sự không cho vào (một nơi nào... ).",
+   "emoji": "",
+   "ipa": "/ɪkˈskluʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impressionist",
+   "meaning": "người theo trường phái ấn tượng",
+   "example": "Let's learn the word \"impressionist\".",
+   "exampleMeaning": "Cùng học từ “impressionist”: người theo trường phái ấn tượng.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈprɛʃənəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sandstone",
+   "meaning": "đá cát kết, sa thạch",
+   "example": "Let's learn the word \"sandstone\".",
+   "exampleMeaning": "Cùng học từ “sandstone”: đá cát kết, sa thạch.",
+   "emoji": "",
+   "ipa": "/ˈsændˌstəʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "need",
+    "to",
+    "pee"
+   ],
+   "reading": "",
+   "meaning": "Tôi cần đi tiểu."
+  },
+  {
+   "tokens": [
+    "The",
+    "locals",
+    "are",
+    "very",
+    "hospitable"
+   ],
+   "reading": "",
+   "meaning": "Dân địa phương rất hiếu khách."
+  },
+  {
+   "tokens": [
+    "The",
+    "Vietnamese",
+    "are",
+    "very",
+    "hospitable"
+   ],
+   "reading": "",
+   "meaning": "Người Việt Nam rất hiếu khách."
+  },
+  {
+   "tokens": [
+    "Is",
+    "AI",
+    "a",
+    "reliable",
+    "tutor"
+   ],
+   "reading": "",
+   "meaning": "AI có phải là gia sư đáng tin cậy hay không?"
+  },
+  {
+   "tokens": [
+    "How",
+    "many",
+    "times",
+    "do",
+    "you",
+    "pee",
+    "in",
+    "a",
+    "day"
+   ],
+   "reading": "",
+   "meaning": "Bạn đi tiểu mấy lần một ngày?"
+  }
+ ],
+ "issues": []
+}

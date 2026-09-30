@@ -1,0 +1,330 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "经过",
+   "meaning": "đã được",
+   "example": "屋子经过打扫，干净多了。",
+   "exampleMeaning": "Nhà đã được quét dọn, sạch sẽ nhiều rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "只能",
+   "meaning": "duy nhất",
+   "example": "我们来学“只能”这个词。",
+   "exampleMeaning": "Cùng học từ “只能”: duy nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "哭",
+   "meaning": "khóc, khóc lóc",
+   "example": "她一整晚都在哭。",
+   "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "怕",
+   "meaning": "sợ, hãi, hoảng",
+   "example": "怕傷害了他的感情，我沒有告訴他真相。",
+   "exampleMeaning": "Vì sợ làm tổn thương cảm xúc của anh ấy nên tôi đã không nói sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pà",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "离",
+   "meaning": "thiếu",
+   "example": "综上所述，我们认为离婚是一种不道德的行为。",
+   "exampleMeaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "漂亮",
+   "meaning": "đẹp",
+   "example": "这里你可以看到漂亮的颜色组合。",
+   "exampleMeaning": "Bạn có thể thấy một tổ hợp màu rất đẹp ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piàoliang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "重新",
+   "meaning": "lại, lần nữa, nữa",
+   "example": "他重新来到战斗过的地方。",
+   "exampleMeaning": "Anh ấy một lần nữa lại đến những nơi đã từng chiến đấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóngxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "提",
+   "meaning": "nhắc",
+   "example": "他那个样子啊，别提了！",
+   "exampleMeaning": "Cái bộ dạng đó của anh ta, đừng nhắc đến nữa!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "度",
+   "meaning": "trải qua, tiêu, tiêu pha",
+   "example": "在某種程度上我能了解你。",
+   "exampleMeaning": "Tôi có thể hiểu bạn ở mức độ nào đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "经常",
+   "meaning": "thường xuyên",
+   "example": "他们俩工作上联系多，经常打交道。",
+   "exampleMeaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "面前",
+   "meaning": "trước mắt",
+   "example": "艰巨的任务摆在我们面前。",
+   "exampleMeaning": "Nhiệm vụ gian nan đang ở trước mắt chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miànqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "低",
+   "meaning": "dưới (cấp, bậc)",
+   "example": "他的工资被削减到最低程度。",
+   "exampleMeaning": "Lương của nó bị cắt giảm tới mức thấp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dī",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "节目",
+   "meaning": "tiết mục",
+   "example": "今天晚会的节目很精彩。",
+   "exampleMeaning": "Tiết mục buổi dạ hội hôm nay rất đặc sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiémù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "健康",
+   "meaning": "khoẻ mạnh",
+   "example": "他想要成功，即使是以他的健康作为代价。",
+   "exampleMeaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànkāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "弄",
+   "meaning": "thực hiện, làm cho, gây cho",
+   "example": "这件事总得弄出个结果来才成。",
+   "exampleMeaning": "Việc này phải làm cho ra kết quả mới được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "作用",
+   "meaning": "tác dụng",
+   "example": "他刚才说的那些话是有作用的。",
+   "exampleMeaning": "Những lời anh ấy vừa nói là có dụng ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "满",
+   "meaning": "đầy, đầy đủ, thoả mãn",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "说明",
+   "meaning": "thuyết minh, giải thích, nói rõ",
+   "example": "我们再进一步说明一下，便于同志们了解。",
+   "exampleMeaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "许多",
+   "meaning": "nhiều cái, nhiều người, rất nhiều",
+   "example": "我们有许多年没见面了。",
+   "exampleMeaning": "Nhiều năm rồi chúng tôi không gặp nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǔduō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "同样",
+   "meaning": "giống nhau, như nhau, không thay đổi",
+   "example": "他们几位做同样的工作。",
+   "exampleMeaning": "Những vị kia làm công việc giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "的",
+    "工资",
+    "被",
+    "削减",
+    "到",
+    "最",
+    "低",
+    "程度"
+   ],
+   "reading": "tā de gōngzī bèi xuējiǎn dào zuì dī chéngdù",
+   "meaning": "Lương của nó bị cắt giảm tới mức thấp nhất."
+  },
+  {
+   "tokens": [
+    "我",
+    "经常",
+    "遇见",
+    "他"
+   ],
+   "reading": "wǒ jīngcháng yùjiàn tā",
+   "meaning": "Tôi gặp anh ấy luôn."
+  },
+  {
+   "tokens": [
+    "她",
+    "哭",
+    "了",
+    "一",
+    "整",
+    "晚"
+   ],
+   "reading": "tā kū le yī zhěng wǎn",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "程度",
+    "的",
+    "问题"
+   ],
+   "reading": "zhè shì chéngdù de wèntí",
+   "meaning": "Đây là vấn đề về mức độ."
+  },
+  {
+   "tokens": [
+    "她",
+    "一",
+    "整",
+    "晚",
+    "都",
+    "在",
+    "哭"
+   ],
+   "reading": "tā yī zhěng wǎn dōu zài kū",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  }
+ ],
+ "issues": []
+}

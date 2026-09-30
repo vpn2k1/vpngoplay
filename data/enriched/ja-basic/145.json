@@ -1,0 +1,327 @@
+{
+ "lesson": 145,
+ "draft": true,
+ "words": [
+  {
+   "term": "創造",
+   "meaning": "sự tạo thành, sự sáng tạo (thế giới)",
+   "example": "神は天と地を創造した。",
+   "exampleMeaning": "Chúa đã tạo ra \"Trời\" và \"Đất\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "かもしれない",
+   "meaning": "có thể, có lẽ",
+   "example": "彼は天才かもしれない。",
+   "exampleMeaning": "Anh ấy có thể là một thiên tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "希望",
+   "meaning": "hy vọng",
+   "example": "「希望」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “希望”: hy vọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "関連",
+   "meaning": "liên quan",
+   "example": "最近はほとんどいつもIT関連の検定試験を受けようと勉強しています。",
+   "exampleMeaning": "Dạo này tôi đang học để thi lấy các chứng chỉ liên quan đến ngành IT.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "代金",
+   "meaning": "giá cả",
+   "example": "彼女はその本の代金を支払わねばならない。",
+   "exampleMeaning": "Cô ấy phải trả tiền cho cuốn sách đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嵐",
+   "meaning": "bão, dông tố",
+   "example": "嵐はいつまで続くのだろうか。",
+   "exampleMeaning": "Cơn bão sẽ kéo dài đến bao giờ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "気体",
+   "meaning": "vapour",
+   "example": "「気体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気体”: vapour.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刺激",
+   "meaning": "sự kích thích",
+   "example": "「刺激」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “刺激”: sự kích thích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抵抗",
+   "meaning": "sự chống cự, sự kháng cự, sự đề kháng",
+   "example": "このビタミンは病気に対する抵抗力を強めます。",
+   "exampleMeaning": "Vitamin này sẽ giúp tăng cường sức đề kháng với bệnh tật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "衛星",
+   "meaning": "vệ tinh",
+   "example": "月は地球の唯一の衛星である。",
+   "exampleMeaning": "Mặt Trăng là vệ tinh duy nhất của Trái Đất.",
+   "emoji": "🛰",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "申告",
+   "meaning": "bản báo cáo",
+   "example": "「申告」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申告”: bản báo cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "摘む",
+   "meaning": "nhổ, bức hái",
+   "example": "「摘む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “摘む”: nhổ, bức hái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "裁く",
+   "meaning": "xét xử, phân xử",
+   "example": "「裁く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裁く”: xét xử, phân xử.",
+   "emoji": "🧑‍⚖",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "給料",
+   "meaning": "tiền lương",
+   "example": "彼らは給料のアップを求めた。",
+   "exampleMeaning": "Họ đòi tăng lương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "独立",
+   "meaning": "sự độc lập",
+   "example": "私は親から経済的に独立している。",
+   "exampleMeaning": "Tôi không lệ thuộc tài chính vào cha mẹ tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "周囲",
+   "meaning": "vùng phụ cận, vùng xung quanh",
+   "example": "惑星は太陽の周囲を回転する。",
+   "exampleMeaning": "Các hành tinh quay xung quanh mặt trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "児童",
+   "meaning": "đứa bé, đứa trẻ",
+   "example": "それは厚生省中央児童福祉審議会特別推薦図書である。",
+   "exampleMeaning": "Đó là một cuốn sách được Hội đồng Trung ương về Phúc lợi Trẻ em thuộc bộ Y tế và Phúc lợi Nhật Bản đặc biệt tuyển chọn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アンケート",
+   "meaning": "bản câu hỏi",
+   "example": "「アンケート」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “アンケート”: bản câu hỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "論じる",
+   "meaning": "chứng tỏ, chỉ rõ",
+   "example": "「論じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “論じる”: chứng tỏ, chỉ rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "非行",
+   "meaning": "tội, tội lỗi",
+   "example": "「非行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “非行”: tội, tội lỗi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "嵐",
+    "になり",
+    "そう",
+    "です"
+   ],
+   "reading": "あらしになりそうです",
+   "meaning": "Một cơn bão sắp đến."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "今日",
+    "来る",
+    "かもしれない",
+    "よ"
+   ],
+   "reading": "かれはきょうくるかもしれないよ",
+   "meaning": "Có lẽ hôm nay anh ấy sẽ đến đấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼の",
+    "気持ち",
+    "を",
+    "傷付けた",
+    "かもしれない"
+   ],
+   "reading": "わたしはかれのきもちをきずつけたかもしれない",
+   "meaning": "Có lẽ tôi đã làm tổn thương cảm xúc của anh ta rồi."
+  },
+  {
+   "tokens": [
+    "神",
+    "は",
+    "天と地",
+    "を",
+    "創造",
+    "した"
+   ],
+   "reading": "かみはてんとちをそうぞうした",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "明日",
+    "死ぬ",
+    "かもしれない"
+   ],
+   "reading": "わたしはあしたしぬかもしれない",
+   "meaning": "Có lẽ ngày mai tôi sẽ chết."
+  }
+ ],
+ "issues": []
+}

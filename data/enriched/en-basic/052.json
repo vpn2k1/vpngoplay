@@ -1,0 +1,331 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "butter",
+   "meaning": "lời nịnh hót, phết bơ vào",
+   "example": "Did you remember to buy butter?",
+   "exampleMeaning": "Bạn có nhớ mua bơ không đấy?",
+   "emoji": "🧈",
+   "ipa": "/ˈbʌtər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "social",
+   "meaning": "có tính chất xã hội",
+   "example": "man is a social animal",
+   "exampleMeaning": "Người là một con vật xã hội",
+   "emoji": "",
+   "ipa": "/ˈsəʊ.ʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "beef",
+   "meaning": "thịt bò",
+   "example": "Beef stew should be nice and thick.",
+   "exampleMeaning": "Bò hầm nên tinh tế và dày.",
+   "emoji": "",
+   "ipa": "/ˈbif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pretty",
+   "meaning": "đẹp, hay, cừ",
+   "example": "a pretty mess you have made!",
+   "exampleMeaning": "Anh làm được cái việc hay ho gớm!",
+   "emoji": "",
+   "ipa": "/ˈprɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "smile",
+   "meaning": "nụ cười",
+   "example": "to give a faint smile",
+   "exampleMeaning": "Cười nửa miệng",
+   "emoji": "",
+   "ipa": "/ˈsmaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "purple",
+   "meaning": "hoa mỹ, văn hoa (văn...)",
+   "example": "to be born of the purple",
+   "exampleMeaning": "Là dòng dõi vương giả",
+   "emoji": "",
+   "ipa": "/ˈpɜː(r).pəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "poster",
+   "meaning": "áp phích",
+   "example": "Let's learn the word \"poster\".",
+   "exampleMeaning": "Cùng học từ “poster”: áp phích.",
+   "emoji": "",
+   "ipa": "/ˈpoʊstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "another",
+   "meaning": "khác",
+   "example": "you will never see such another man",
+   "exampleMeaning": "Anh sẽ không bao giờ được thấy một người như thế nữa",
+   "emoji": "",
+   "ipa": "/ə.ˈnə.ðɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "an",
+   "meaning": "nếu",
+   "example": "I'm an actor.",
+   "exampleMeaning": "Tôi là một diễn viên.",
+   "emoji": "",
+   "ipa": "/ˈæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cousin",
+   "meaning": "anh (em họ)",
+   "example": "Let's learn the word \"cousin\".",
+   "exampleMeaning": "Cùng học từ “cousin”: anh (em họ).",
+   "emoji": "",
+   "ipa": "/ˈkəzən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "good morning",
+   "meaning": "chào buổi sáng",
+   "example": "Good morning, Tom.",
+   "exampleMeaning": "Chào buổi sáng, Tom.",
+   "emoji": "",
+   "ipa": "/ˈɡʊd ˈmɔrnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lesson",
+   "meaning": "học (môn gì)",
+   "example": "to learn one's lesson by heart",
+   "exampleMeaning": "Học thuộc lòng bài học",
+   "emoji": "",
+   "ipa": "/ˈlɛsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "front",
+   "meaning": "đằng trước, phía trước",
+   "example": "to have the front to do something",
+   "exampleMeaning": "Dám trơ trẽn làm một việc gì",
+   "emoji": "",
+   "ipa": "/ˈfrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "busy",
+   "meaning": "bận rộn, bận",
+   "example": "to be busy with (over) one's work",
+   "exampleMeaning": "Bận rộn với công việc của mình",
+   "emoji": "",
+   "ipa": "/ˈbɪzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "health",
+   "meaning": "sức khỏe",
+   "example": "to be broken in health",
+   "exampleMeaning": "Thể chất suy nhược; sức khoẻ suy nhược",
+   "emoji": "",
+   "ipa": "/hɛlθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "warm",
+   "meaning": "ấm",
+   "example": "Today is a warm day.",
+   "exampleMeaning": "Hôm nay là một ngày ấm áp.",
+   "emoji": "",
+   "ipa": "/ˈwɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "item",
+   "meaning": "khoản (ghi số... )",
+   "example": "Let's learn the word \"item\".",
+   "exampleMeaning": "Cùng học từ “item”: khoản (ghi số... ).",
+   "emoji": "",
+   "ipa": "/ˈaɪtəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sure",
+   "meaning": "chắc, chắc chắn",
+   "example": "so it is, to be sure!",
+   "exampleMeaning": "Đấy, thật là như thế!",
+   "emoji": "",
+   "ipa": "/ˈʃʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "worker",
+   "meaning": "công nhân, người lao động, nhân viên",
+   "example": "He is a worker at a car factory.",
+   "exampleMeaning": "Anh ấy là công nhân tại một nhà máy ô tô.",
+   "emoji": "",
+   "ipa": "/ˈwɜrkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "carefully",
+   "meaning": "cẩn thận, chu đáo",
+   "example": "My mother carefully opened the door.",
+   "exampleMeaning": "Mẹ tôi cẩn thận mở cửa.",
+   "emoji": "",
+   "ipa": "/ˈkɛrfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "pretty",
+    "warm",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Hôm nay trời khá ấm."
+  },
+  {
+   "tokens": [
+    "It",
+    "is",
+    "pretty",
+    "warm",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Hôm nay trời khá ấm."
+  },
+  {
+   "tokens": [
+    "You'll",
+    "never",
+    "forget",
+    "it",
+    "I'm",
+    "pretty",
+    "sure"
+   ],
+   "reading": "",
+   "meaning": "Tôi khá chắc rằng bạn sẽ không bao giờ quên nó."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "pretty",
+    "sure",
+    "that",
+    "Tom",
+    "can't",
+    "speak",
+    "French"
+   ],
+   "reading": "",
+   "meaning": "Tôi khá chắc chấn rằng Tom không thể nói tiếng Pháp."
+  },
+  {
+   "tokens": [
+    "I",
+    "learned",
+    "an",
+    "interesting",
+    "lesson",
+    "at",
+    "school",
+    "today"
+   ],
+   "reading": "",
+   "meaning": "Hôm nay tôi đã học được một bài học thú vị ở trường."
+  }
+ ],
+ "issues": []
+}

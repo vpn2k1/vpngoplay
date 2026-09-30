@@ -1,0 +1,322 @@
+{
+ "lesson": 141,
+ "draft": true,
+ "words": [
+  {
+   "term": "包含",
+   "meaning": "chứa",
+   "example": "这个法案包含几条新条款。",
+   "exampleMeaning": "Bản luật dự thảo này ó mấy điều khoản mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāohán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诚实",
+   "meaning": "thành thực",
+   "example": "我们来学“诚实”这个词。",
+   "exampleMeaning": "Cùng học từ “诚实”: thành thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毛衣",
+   "meaning": "áo len đan",
+   "example": "我们来学“毛衣”这个词。",
+   "exampleMeaning": "Cùng học từ “毛衣”: áo len đan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "máoyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "男士",
+   "meaning": "quý ông",
+   "example": "我们来学“男士”这个词。",
+   "exampleMeaning": "Cùng học từ “男士”: quý ông.",
+   "emoji": "👨",
+   "ipa": "",
+   "pinyin": "nánshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "总理",
+   "meaning": "tổng lý",
+   "example": "分公司的总理",
+   "exampleMeaning": "Tổng lý chi nhánh công ty",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒnglǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骨头",
+   "meaning": "châm biếm",
+   "example": "话里有骨头",
+   "exampleMeaning": "Lời nói châm biếm",
+   "emoji": "🦴",
+   "ipa": "",
+   "pinyin": "gǔtou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上门",
+   "meaning": "đến cửa",
+   "example": "送货上门。",
+   "exampleMeaning": "Đưa hàng đến tận nhà người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngmén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "集合",
+   "meaning": "tập hợp",
+   "example": "民兵已经在村前集合了。",
+   "exampleMeaning": "Dân quân đã tập hợp ở đầu làng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宝贵",
+   "meaning": "quý báu",
+   "example": "这是一些十分宝贵的出土文物",
+   "exampleMeaning": "Đây là một số tài sản văn hoá đào được vô cùng quý báu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoguì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "童年",
+   "meaning": "thời thơ ấu",
+   "example": "他童年時去過巴黎三次。",
+   "exampleMeaning": "Hồi nhỏ, anh ta đã đi Paris ba lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "进口",
+   "meaning": "nhập khẩu",
+   "example": "进口货。",
+   "exampleMeaning": "Hàng nhập khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沉重",
+   "meaning": "nặng",
+   "example": "他这两天的心情特别沉重。",
+   "exampleMeaning": "Hai ngày hôm nay, lòng anh ấy vô cùng nặng trĩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "市区",
+   "meaning": "khu vực thành thị",
+   "example": "我们来学“市区”这个词。",
+   "exampleMeaning": "Cùng học từ “市区”: khu vực thành thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "封闭",
+   "meaning": "gắn xi",
+   "example": "大雪封闭了道路。",
+   "exampleMeaning": "Tuyết nhiều phủ kín con đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "遗传",
+   "meaning": "di truyền",
+   "example": "我们来学“遗传”这个词。",
+   "exampleMeaning": "Cùng học từ “遗传”: di truyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíchuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "孙子",
+   "meaning": "cháu trai",
+   "example": "我们来学“孙子”这个词。",
+   "exampleMeaning": "Cùng học từ “孙子”: cháu trai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sūnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "期限",
+   "meaning": "kỳ hạn",
+   "example": "限你五天期限。",
+   "exampleMeaning": "Kỳ hạn cho anh năm ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "参考",
+   "meaning": "tham khảo",
+   "example": "作者写这本书，参考了几十种书刊。",
+   "exampleMeaning": "Tác giả viết quyển sách này, đã tham khảo mấy chục loại sách báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cānkǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "泪",
+   "meaning": "nước mắt",
+   "example": "泪如雨下。",
+   "exampleMeaning": "Lệ tuôn như mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "重量",
+   "meaning": "trọng lượng",
+   "example": "我们来学“重量”这个词。",
+   "exampleMeaning": "Cùng học từ “重量”: trọng lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "童年",
+    "时",
+    "去",
+    "过",
+    "巴黎",
+    "三次"
+   ],
+   "reading": "tā tóngnián shí qù guo bālí sāncì",
+   "meaning": "Hồi nhỏ, anh ta đã đi Paris ba lần."
+  },
+  {
+   "tokens": [
+    "我们",
+    "没有",
+    "鱼"
+   ],
+   "reading": "wǒmen méiyǒu yú",
+   "meaning": "Chúng tôi không có cá."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "说",
+    "法语"
+   ],
+   "reading": "wǒ huì shuō fǎyǔ",
+   "meaning": "Tôi biết nói tiếng Pháp."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "选",
+    "一下"
+   ],
+   "reading": "wǒ xiǎng xuǎn yīxià",
+   "meaning": "Tôi muốn chọn một chút."
+  },
+  {
+   "tokens": [
+    "一",
+    "二",
+    "三",
+    "四",
+    "五"
+   ],
+   "reading": "yī èr sān sì wǔ",
+   "meaning": "Một, hai, ba, bốn, năm."
+  }
+ ],
+ "issues": []
+}

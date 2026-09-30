@@ -1,0 +1,325 @@
+{
+ "lesson": 61,
+ "draft": true,
+ "words": [
+  {
+   "term": "球鞋",
+   "meaning": "giầy đá bóng",
+   "example": "我们来学“球鞋”这个词。",
+   "exampleMeaning": "Cùng học từ “球鞋”: giầy đá bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiúxié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "流利",
+   "meaning": "lưu loát, trôi chảy, viết lưu loát",
+   "example": "钢笔尖在纸上流利地滑动着。",
+   "exampleMeaning": "Ngòi bút viết trôi chảy trên trang giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交朋友",
+   "meaning": "kết bạn",
+   "example": "我们来学“交朋友”这个词。",
+   "exampleMeaning": "Cùng học từ “交朋友”: kết bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāopéngyou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一路顺风",
+   "meaning": "thuận buồm xuôi gió",
+   "example": "我们这次出门旅行真是一路顺风，沿途一点儿也没有耽误。",
+   "exampleMeaning": "Chuyến đi chơi lần này của chúng tôi rất thuận buồm xuôi gió, suốt dọc đường không xảy ra sơ suất nào cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīlùshùnfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "晚报",
+   "meaning": "báo chiều",
+   "example": "我们来学“晚报”这个词。",
+   "exampleMeaning": "Cùng học từ “晚报”: báo chiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "难听",
+   "meaning": "chướng tai (lời nói)",
+   "example": "这种事情说出去多难听！",
+   "exampleMeaning": "Việc này nói ra chẳng hay ho gì！",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nántīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "药水",
+   "meaning": "thuốc nước",
+   "example": "我们来学“药水”这个词。",
+   "exampleMeaning": "Cùng học từ “药水”: thuốc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàoshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坏处",
+   "meaning": "chỗ hỏng",
+   "example": "这么做一点坏处也没有。",
+   "exampleMeaning": "Làm như thế không chỗ nào hỏng cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàichu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前年",
+   "meaning": "năm kia",
+   "example": "我们来学“前年”这个词。",
+   "exampleMeaning": "Cùng học từ “前年”: năm kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "词典",
+   "meaning": "từ điển",
+   "example": "昨天你买了一本新出版的越南词典，是吗？",
+   "exampleMeaning": "Hôm qua anh mua được một quyển từ điển mới xuất bản phải không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cídiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "千克",
+   "meaning": "ki-lô-gam (Kg)",
+   "example": "我们来学“千克”这个词。",
+   "exampleMeaning": "Cùng học từ “千克”: ki-lô-gam (Kg).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "问路",
+   "meaning": "để hỏi đường",
+   "example": "我们来学“问路”这个词。",
+   "exampleMeaning": "Cùng học từ “问路”: để hỏi đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wènlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叫作",
+   "meaning": "được gọi là",
+   "example": "我们来学“叫作”这个词。",
+   "exampleMeaning": "Cùng học từ “叫作”: được gọi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàozuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凉快",
+   "meaning": "mát",
+   "example": "坐下凉快凉快再接着干。",
+   "exampleMeaning": "Ngồi hóng mát rồi tiếp tục làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liángkuai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "午睡",
+   "meaning": "ngủ trưa",
+   "example": "大家都午睡了，说话请小声一些。",
+   "exampleMeaning": "Mọi người đều ngủ trưa hết rồi, nói chuyện xin nhỏ tiếng một tý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔshuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "药片",
+   "meaning": "thuốc viên",
+   "example": "我们来学“药片”这个词。",
+   "exampleMeaning": "Cùng học từ “药片”: thuốc viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàopiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "音节",
+   "meaning": "âm tiết",
+   "example": "我们来学“音节”这个词。",
+   "exampleMeaning": "Cùng học từ “音节”: âm tiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中级",
+   "meaning": "trung cấp",
+   "example": "中级人民法院。",
+   "exampleMeaning": "Toà án nhân dân trung cấp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一点点",
+   "meaning": "chút xíu",
+   "example": "我们来学“一点点”这个词。",
+   "exampleMeaning": "Cùng học từ “一点点”: chút xíu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīdiǎndiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "留学生",
+   "meaning": "du học sinh",
+   "example": "我们来学“留学生”这个词。",
+   "exampleMeaning": "Cùng học từ “留学生”: du học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúxuéshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "看",
+    "了",
+    "他",
+    "的",
+    "书"
+   ],
+   "reading": "wǒ kàn le tā de shū",
+   "meaning": "Tôi đã xem sách của ổng."
+  },
+  {
+   "tokens": [
+    "你",
+    "家里",
+    "都",
+    "有",
+    "谁"
+   ],
+   "reading": "nǐ jiālǐ dōu yǒu shéi",
+   "meaning": "Nhà anh có những ai?"
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "写",
+    "了",
+    "两",
+    "行"
+   ],
+   "reading": "wǒ zhǐ xiě le liǎng xíng",
+   "meaning": "Tôi viết có hai dòng thôi."
+  },
+  {
+   "tokens": [
+    "没",
+    "一个人",
+    "来",
+    "过"
+   ],
+   "reading": "méi yīgèrén lái guo",
+   "meaning": "Chẳng ai đến cả."
+  },
+  {
+   "tokens": [
+    "他",
+    "是",
+    "我",
+    "的",
+    "手下"
+   ],
+   "reading": "tā shì wǒ de shǒuxià",
+   "meaning": "Nó là thuộc hạ của tôi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,333 @@
+{
+ "lesson": 9,
+ "draft": true,
+ "words": [
+  {
+   "term": "too",
+   "meaning": "quá",
+   "example": "he was a poet and a musician too",
+   "exampleMeaning": "Anh ấy là một nhà thơ và cũng là một nhạc sĩ",
+   "emoji": "",
+   "ipa": "/ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "band",
+   "meaning": "dải, băng, đai",
+   "example": "Let's learn the word \"band\".",
+   "exampleMeaning": "Cùng học từ “band”: dải, băng, đai.",
+   "emoji": "",
+   "ipa": "/bænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "arm",
+   "meaning": "tay (ghế)",
+   "example": "He broke his arm when he fell.",
+   "exampleMeaning": "Anh ấy đã bị gãy tay khi anh ấy ngã.",
+   "emoji": "",
+   "ipa": "/ɑːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fifty",
+   "meaning": "năm mươi",
+   "example": "There were fifty entries for the race.",
+   "exampleMeaning": "Có 20 thí sinh trong cuộc cạnh tranh.",
+   "emoji": "",
+   "ipa": "/ˈfɪfti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "summer",
+   "meaning": "mùa hạ, mùa hè",
+   "example": "Where will you go next summer?",
+   "exampleMeaning": "Mùa hè năm sau bạn sẽ đi đâu?",
+   "emoji": "",
+   "ipa": "/ˈsʌmə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "its",
+   "meaning": "của cái đó, của điều đó, của con vật đó",
+   "example": "It broke on its own.",
+   "exampleMeaning": "Nó tự vỡ.",
+   "emoji": "",
+   "ipa": "/ˈɪts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "floor",
+   "meaning": "sàn (nhà, cầu... )",
+   "example": "to floor a room with pine boards",
+   "exampleMeaning": "Lát sàn bằng ván gỗ thông",
+   "emoji": "",
+   "ipa": "/ˈflɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "farmer",
+   "meaning": "người nông dân",
+   "example": "The farmer will scatter seeds on the ground.",
+   "exampleMeaning": "Nông dân sẽ rải hạt giống xuống đất.",
+   "emoji": "🧑‍🌾",
+   "ipa": "/ˈfɑrmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "baseball",
+   "meaning": "bóng chày",
+   "example": "Bill is a baseball player.",
+   "exampleMeaning": "Bill là một cầu thủ bóng chày.",
+   "emoji": "⚾",
+   "ipa": "/ˈbeɪs.bɔːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "river",
+   "meaning": "sông",
+   "example": "to sail up the river",
+   "exampleMeaning": "Đi thuyền ngược dòng sông",
+   "emoji": "",
+   "ipa": "/ˈrɪvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "above",
+   "meaning": "trên, ở trên, kể trên",
+   "example": "to value independence and freedom above all",
+   "exampleMeaning": "Quý độc lập và tự do hơn tất cả",
+   "emoji": "",
+   "ipa": "/əˈbʌv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "more",
+   "meaning": "nhiều hơn, nữa, lớn hơn",
+   "example": "the story gets more and more exciting",
+   "exampleMeaning": "Câu chuyện càng ngày càng hấp dẫn",
+   "emoji": "",
+   "ipa": "/ˈmɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "call",
+   "meaning": "gọi, kêu to, la to",
+   "example": "there's no call for you to hurry",
+   "exampleMeaning": "Chẳng có việc gì cần thiết mà anh phải vội",
+   "emoji": "",
+   "ipa": "/ˈkɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "same",
+   "meaning": "cùng với, cùng nhau, cùng một",
+   "example": "he is the same age as I",
+   "exampleMeaning": "Anh ấy cùng tuổi với tôi",
+   "emoji": "",
+   "ipa": "/ˈseɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sentence",
+   "meaning": "câu",
+   "example": "to sentence someone to a month's imprisonment",
+   "exampleMeaning": "Kết án ai một tháng tù",
+   "emoji": "",
+   "ipa": "/ˈsɛntəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sky",
+   "meaning": "trời, bầu trời",
+   "example": "The sky darkened.",
+   "exampleMeaning": "Bầu trời tối sầm lại.",
+   "emoji": "",
+   "ipa": "/skaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "spy",
+   "meaning": "do thám, dò xét, theo dõi",
+   "example": "to be a spy on somebody's conduct",
+   "exampleMeaning": "Theo dõi hành động của ai",
+   "emoji": "",
+   "ipa": "/ˈspaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wish",
+   "meaning": "ước",
+   "example": "to have a great wish to",
+   "exampleMeaning": "Ước ao được",
+   "emoji": "",
+   "ipa": "/ˈwɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "left",
+   "meaning": "trái",
+   "example": "Tom felt left out.",
+   "exampleMeaning": "Tom cảm thấy bị cho ra rìa",
+   "emoji": "",
+   "ipa": "/ˈlɛft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bird",
+   "meaning": "chim",
+   "example": "The bird is in the sky.",
+   "exampleMeaning": "Chú chim lượn trên bầu trời.",
+   "emoji": "🐦",
+   "ipa": "/ˈbɜːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "wish",
+    "we",
+    "had",
+    "more",
+    "time"
+   ],
+   "reading": "",
+   "meaning": "Tôi ước gì chúng ta có thêm thời gian."
+  },
+  {
+   "tokens": [
+    "I",
+    "wish",
+    "I",
+    "had",
+    "more",
+    "time"
+   ],
+   "reading": "",
+   "meaning": "Tôi ước gì tôi có thêm thời gian."
+  },
+  {
+   "tokens": [
+    "The",
+    "bird",
+    "is",
+    "in",
+    "the",
+    "sky"
+   ],
+   "reading": "",
+   "meaning": "Chú chim lượn trên bầu trời."
+  },
+  {
+   "tokens": [
+    "I",
+    "wish",
+    "we",
+    "could",
+    "spend",
+    "more",
+    "time",
+    "together"
+   ],
+   "reading": "",
+   "meaning": "Anh ước gì chúng ta có thể có nhiều thời gian bên nhau."
+  },
+  {
+   "tokens": [
+    "I",
+    "wish",
+    "I",
+    "could",
+    "eat",
+    "steak",
+    "more",
+    "often"
+   ],
+   "reading": "",
+   "meaning": "Tôi ước tôi có thể ăn bít tết thường xuyên hơn."
+  }
+ ],
+ "issues": []
+}

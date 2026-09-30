@@ -1,0 +1,329 @@
+{
+ "lesson": 129,
+ "draft": true,
+ "words": [
+  {
+   "term": "女優",
+   "meaning": "nữ diễn viên, đào hát",
+   "example": "彼は女優と結婚した。",
+   "exampleMeaning": "Anh ấy kết hôn với một nữ diễn viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "遅れ",
+   "meaning": "sự chậm trễ",
+   "example": "彼女は起きるのが遅れた。",
+   "exampleMeaning": "Cô ấy đã dậy muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新鮮",
+   "meaning": "tươi",
+   "example": "私たちは夕食後に新鮮なフルーツを食べた。",
+   "exampleMeaning": "Chúng tôi đã ăn hoa quả tươi sau bữa tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "主に",
+   "meaning": "chính, chủ yếu",
+   "example": "のろいはのろい主に返る。",
+   "exampleMeaning": "Ác giả ác báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "思わず",
+   "meaning": "không cố ý, không chủ tâm",
+   "example": "彼の髪形を見て思わず笑ってしまった。",
+   "exampleMeaning": "Tôi không thể nhịn cười khi nhìn thấy kiểu tóc của anh ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "留める",
+   "meaning": "buộc chặt, trói chặt",
+   "example": "「留める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “留める”: buộc chặt, trói chặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "強力",
+   "meaning": "hùng mạnh, hùng cường, mạnh mẽ",
+   "example": "「強力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “強力”: hùng mạnh, hùng cường, mạnh mẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "指導",
+   "meaning": "sự lãnh đạo",
+   "example": "「指導」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “指導”: sự lãnh đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "付ける",
+   "meaning": "gắn, dán, trói buộc",
+   "example": "理論と実際を結び付けるべきだ。",
+   "exampleMeaning": "Bạn cần phải gắn kết lý thuyết với thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "次々",
+   "meaning": "lần lượt từng người một, từng cái một",
+   "example": "私は次々とページをめくった。",
+   "exampleMeaning": "Tôi lật hết trang này sang trang khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ところで",
+   "meaning": "nhân tiện, nhân thể, nhân đây",
+   "example": "ここは私の寝るところです。",
+   "exampleMeaning": "Đây là nơi tôi ngủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "禅",
+   "meaning": "phái Zen, phái Thiền",
+   "example": "「禅」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “禅”: phái Zen, phái Thiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "缶",
+   "meaning": "bình, bi đông, lon",
+   "example": "「缶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “缶”: bình, bi đông, lon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "永久",
+   "meaning": "tính vĩnh viễn, tính bất diệt",
+   "example": "宇宙も地球も永久に存在するとは限らない。",
+   "exampleMeaning": "Vũ trụ cũng như là trái đất chưa chắc sẽ tồn tại mãi mãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "現場",
+   "meaning": "trường",
+   "example": "５台の消防車が火事の現場に駆けつけた。",
+   "exampleMeaning": "Có năm xe cứu hỏa đã đến hiện trường vụ cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "建つ",
+   "meaning": "đứng",
+   "example": "「建つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “建つ”: đứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改善",
+   "meaning": "sự làm tốt hơn, sự cải tiến",
+   "example": "君には仕事への姿勢を改善してもらいたい。",
+   "exampleMeaning": "Tôi muốn bạn chấn chỉnh lại thái độ làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "尊敬",
+   "meaning": "sự tôn trọng, sự kính trọng",
+   "example": "子どもが父親を尊敬の眼差しで見上げている。",
+   "exampleMeaning": "Đứa trẻ đó đang nhìn cha mình với một ánh mắt tôn trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "コーチ",
+   "meaning": "xe ngựa bốn bánh ((thường) bốn ngựa)",
+   "example": "トムは臨時ヘッドコーチに指名された。",
+   "exampleMeaning": "Tom được đề cử làm huấn luyện viên trưởng tạm thời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ずれる",
+   "meaning": "sự chuyển động, sự di chuyển, sự xê dịch",
+   "example": "「ずれる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ずれる”: sự chuyển động, sự di chuyển, sự xê dịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "起きる",
+    "の",
+    "が",
+    "遅れた"
+   ],
+   "reading": "かのじょはおきるのがおくれた",
+   "meaning": "Cô ấy đã dậy muộn."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "次々と",
+    "ページ",
+    "を",
+    "めくった"
+   ],
+   "reading": "わたしはつぎつぎとページをめくった",
+   "meaning": "Tôi lật hết trang này sang trang khác."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "いつもの通り",
+    "遅れて",
+    "きた"
+   ],
+   "reading": "かれはいつものとおりおくれてきた",
+   "meaning": "Anh ấy đi muộn như mọi khi."
+  },
+  {
+   "tokens": [
+    "嵐",
+    "の",
+    "ため",
+    "彼ら",
+    "は",
+    "遅れて",
+    "着いた"
+   ],
+   "reading": "あらしのためかれらはおくれてついた",
+   "meaning": "Vì cơn bão nên họ đã đến muộn."
+  },
+  {
+   "tokens": [
+    "月曜日",
+    "には",
+    "バス",
+    "は",
+    "たいてい",
+    "遅れる"
+   ],
+   "reading": "げつようびにはバスはたいていおくれる",
+   "meaning": "Xe buýt hay đến trễ vào ngày thứ hai."
+  }
+ ],
+ "issues": []
+}

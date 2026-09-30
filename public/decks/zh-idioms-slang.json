@@ -1,0 +1,182 @@
+{
+ "id": "zh-idioms-slang",
+ "lang": "zh",
+ "track": "exam",
+ "category": "idioms",
+ "level": "HSK3–5",
+ "title": "Quán dụng ngữ 惯用语",
+ "description": "12 cách nói khẩu ngữ người Trung Quốc dùng hằng ngày, nghĩa bóng khác hẳn nghĩa đen.",
+ "words": [
+  {
+   "id": "jiayou",
+   "term": "加油",
+   "reading": "jiāyóu",
+   "meaning": "cố lên",
+   "emoji": "💪",
+   "example": "考试加油！",
+   "exampleMeaning": "Thi tốt nhé, cố lên!"
+  },
+  {
+   "id": "chicu",
+   "term": "吃醋",
+   "reading": "chīcù",
+   "meaning": "ghen tuông",
+   "answers": [
+    "ghen"
+   ],
+   "emoji": "🍶",
+   "example": "她看到男朋友和别的女孩说话就吃醋了。",
+   "exampleMeaning": "Cô ấy thấy bạn trai nói chuyện với cô gái khác là ghen tuông."
+  },
+  {
+   "id": "paimapi",
+   "term": "拍马屁",
+   "reading": "pāi mǎpì",
+   "meaning": "nịnh bợ",
+   "answers": [
+    "ninh hot"
+   ],
+   "emoji": "🐎",
+   "example": "他很会拍马屁。",
+   "exampleMeaning": "Anh ta rất giỏi nịnh bợ."
+  },
+  {
+   "id": "zouhoumen",
+   "term": "走后门",
+   "reading": "zǒu hòumén",
+   "meaning": "đi cửa sau",
+   "emoji": "🚪",
+   "example": "找工作不能靠走后门。",
+   "exampleMeaning": "Tìm việc không thể dựa vào đi cửa sau."
+  },
+  {
+   "id": "chaoyouyu",
+   "term": "炒鱿鱼",
+   "reading": "chǎo yóuyú",
+   "meaning": "đuổi việc",
+   "answers": [
+    "sa thai"
+   ],
+   "emoji": "🦑",
+   "example": "他上班总迟到，被老板炒鱿鱼了。",
+   "exampleMeaning": "Anh ta đi làm hay đến muộn nên bị sếp đuổi việc."
+  },
+  {
+   "id": "kaiyeche",
+   "term": "开夜车",
+   "reading": "kāi yèchē",
+   "meaning": "thức đêm học bài; thức đêm làm việc",
+   "emoji": "🌃",
+   "example": "为了准备考试，他昨天开夜车了。",
+   "exampleMeaning": "Để chuẩn bị thi, hôm qua anh ấy thức đêm học bài."
+  },
+  {
+   "id": "banbiantian",
+   "term": "半边天",
+   "reading": "bànbiāntiān",
+   "meaning": "phụ nữ (nửa bầu trời)",
+   "emoji": "👩",
+   "example": "妇女能顶半边天。",
+   "exampleMeaning": "Phụ nữ gánh vác nửa bầu trời."
+  },
+  {
+   "id": "madaha",
+   "term": "马大哈",
+   "reading": "mǎdàhā",
+   "meaning": "người đểnh đoảng",
+   "emoji": "🙃",
+   "example": "他是个马大哈，经常丢东西。",
+   "exampleMeaning": "Anh ta là người đểnh đoảng, hay làm mất đồ."
+  },
+  {
+   "id": "fanggezi",
+   "term": "放鸽子",
+   "reading": "fàng gēzi",
+   "meaning": "cho leo cây",
+   "emoji": "🕊️",
+   "example": "说好的见面，他却放鸽子了。",
+   "exampleMeaning": "Đã hẹn gặp rồi mà anh ta lại cho leo cây."
+  },
+  {
+   "id": "pengdingzi",
+   "term": "碰钉子",
+   "reading": "pèng dīngzi",
+   "meaning": "bị từ chối thẳng thừng",
+   "emoji": "📌",
+   "example": "他去借钱，结果碰钉子了。",
+   "exampleMeaning": "Anh ta đi vay tiền, kết quả bị từ chối thẳng thừng."
+  },
+  {
+   "id": "xiaocaiyidie",
+   "term": "小菜一碟",
+   "reading": "xiǎocài yì dié",
+   "meaning": "dễ như ăn cháo",
+   "emoji": "🥢",
+   "example": "这个问题对他来说是小菜一碟。",
+   "exampleMeaning": "Vấn đề này với anh ấy dễ như ăn cháo."
+  },
+  {
+   "id": "aimianzi",
+   "term": "爱面子",
+   "reading": "ài miànzi",
+   "meaning": "sĩ diện",
+   "emoji": "😤",
+   "example": "他很爱面子，不愿意承认错误。",
+   "exampleMeaning": "Anh ta rất sĩ diện, không muốn nhận lỗi."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "明天",
+    "考试",
+    "加油"
+   ],
+   "reading": "míngtiān kǎoshì jiāyóu",
+   "meaning": "Mai thi rồi, cố lên!"
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "他",
+    "被",
+    "炒鱿鱼",
+    "了"
+   ],
+   "reading": "tā bèi chǎo yóuyú le",
+   "meaning": "Anh ấy bị đuổi việc rồi."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "这",
+    "是",
+    "小菜一碟"
+   ],
+   "reading": "zhè shì xiǎocài yì dié",
+   "meaning": "Chuyện này dễ như ăn cháo."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "她",
+    "很",
+    "爱面子"
+   ],
+   "reading": "tā hěn ài miànzi",
+   "meaning": "Cô ấy rất sĩ diện."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "昨天",
+    "我",
+    "开夜车",
+    "了"
+   ],
+   "reading": "zuótiān wǒ kāi yèchē le",
+   "meaning": "Hôm qua tôi thức đêm."
+  }
+ ]
+}

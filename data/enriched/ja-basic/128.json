@@ -1,0 +1,335 @@
+{
+ "lesson": 128,
+ "draft": true,
+ "words": [
+  {
+   "term": "銃",
+   "meaning": "súng",
+   "example": "トムは銃声を数発聞いた。",
+   "exampleMeaning": "Tom đã nghe thấy vài tiếng súng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "解く",
+   "meaning": "mở, cởi, tháo",
+   "example": "「解く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “解く”: mở, cởi, tháo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "予想",
+   "meaning": "sự mong chờ, sự chờ đợi, sự ngóng chờ",
+   "example": "そのことは全く予想していませんでした。",
+   "exampleMeaning": "Tôi cũng không đoán được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大陸",
+   "meaning": "tiết độ, điều độ",
+   "example": "「大陸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大陸”: tiết độ, điều độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "電子",
+   "meaning": "một hạt hạ nguyên tử, hay hạt sơ cấp",
+   "example": "電子工学にいくつかの新しい発見が見られる。",
+   "exampleMeaning": "Có thể thấy một vài phát kiến mới trong kỹ thuật điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "親友",
+   "meaning": "(thông tục) bạn thân",
+   "example": "トムは私の親友だ。",
+   "exampleMeaning": "Tom là bạn thân của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "働き",
+   "meaning": "sự làm việc",
+   "example": "彼は働きすぎで死んだ。",
+   "exampleMeaning": "Ông ấy đã chết vì làm việc quá nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "過程",
+   "meaning": "quá trình, sự tiến triển",
+   "example": "彼はボート作りの過程を説明した。",
+   "exampleMeaning": "Anh ấy giải thích quá trình xây dựng chiếc thuyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "哲学",
+   "meaning": "triết học",
+   "example": "宗教と哲学は何が違うのですか？",
+   "exampleMeaning": "Tôn giáo và triết học khác nhau ở điểm nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "デザイン",
+   "meaning": "đề cương, bản phác thảo, phác hoạ",
+   "example": "トムのデザインは非常に独創的だ。",
+   "exampleMeaning": "Thiết kế của Tom vô cùng độc đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "正体",
+   "meaning": "màu thực",
+   "example": "「正体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “正体”: màu thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "道路",
+   "meaning": "con đường",
+   "example": "まず車の来ないのを確かめてからじゃないと、絶対に道路を渡ってはいけません。",
+   "exampleMeaning": "Không bao giờ được qua đường mà không kiểm tra xem có xe ô tô nào đến không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ボール",
+   "meaning": "quả cầu, hình cầu",
+   "example": "その子は猫をボール箱の中へ閉じ込めた。",
+   "exampleMeaning": "Đứa trẻ đó nhốt con mèo vào trong một cái thùng các tông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "順番",
+   "meaning": "sự quay",
+   "example": "「順番」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “順番”: sự quay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "渦",
+   "meaning": "chỗ nước xoáy, chỗ nước cuộn",
+   "example": "「渦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “渦”: chỗ nước xoáy, chỗ nước cuộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "変更",
+   "meaning": "sự thay đổi, sự biến đổi, trăng non",
+   "example": "プロフィール写真を変更したよ。",
+   "exampleMeaning": "Tôi đã thay đổi ảnh đại diện của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "驚き",
+   "meaning": "sự ngạc nhiên",
+   "example": "私は驚きのあまり口もきけなかった。",
+   "exampleMeaning": "Tôi đã không thể nói nên lời vì quá ngạc nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一生",
+   "meaning": "cả cuộc đời, một tên dành cho nam, suốt đời",
+   "example": "彼女の一生の夢がついに叶った。",
+   "exampleMeaning": "Giấc mơ cả đời của cô ấy cuối cùng đã trở thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一方",
+   "meaning": "một",
+   "example": "二つの道どちらか一方が駅に通じている。",
+   "exampleMeaning": "Một trong hai con đường này sẽ dẫn đến nhà ga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "観察",
+   "meaning": "sự quan sát, sự để ý, sự chú ý",
+   "example": "「観察」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “観察”: sự quan sát, sự để ý, sự chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "働きすぎ",
+    "で",
+    "死んだ"
+   ],
+   "reading": "かれははたらきすぎでしんだ",
+   "meaning": "Ông ấy đã chết vì làm việc quá nhiều."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "一生懸命に",
+    "努力",
+    "し",
+    "さえすれば",
+    "よい"
+   ],
+   "reading": "きみはいっしょうけんめいにどりょくしさえすればよい",
+   "meaning": "Chỉ cần em cố gắng một cách nghiêm túc là được."
+  },
+  {
+   "tokens": [
+    "驚き",
+    "の",
+    "余り",
+    "話す",
+    "力",
+    "が",
+    "なくなって",
+    "しまった"
+   ],
+   "reading": "おどろきのあまりはなすちからがなくなってしまった",
+   "meaning": "Vì quá ngạc nhiên, tôi đã không thể nói nên lời."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "試験",
+    "に",
+    "合格",
+    "する",
+    "ために",
+    "一生懸命",
+    "勉強した"
+   ],
+   "reading": "かれはしけんにごうかくするためにいっしょうけんめいべんきょうした",
+   "meaning": "Để có thể đỗ kỳ thi, anh ấy đã học hành chăm chỉ."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "一生懸命",
+    "英語",
+    "を",
+    "勉強し",
+    "なければならない"
+   ],
+   "reading": "あなたはいっしょうけんめいえいごをべんきょうしなければならない",
+   "meaning": "Bạn phải học tiếng Anh thật chăm chỉ."
+  }
+ ],
+ "issues": []
+}

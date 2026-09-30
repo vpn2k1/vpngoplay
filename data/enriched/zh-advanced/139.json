@@ -1,0 +1,318 @@
+{
+ "lesson": 139,
+ "draft": true,
+ "words": [
+  {
+   "term": "宣泄",
+   "meaning": "thổ lộ (tâm tình)",
+   "example": "低洼地区由于雨水无法宣泄，往往造成内涝。",
+   "exampleMeaning": "Vùng đất thấp vì nước mưa không tháo đi đâu được, thường thường gây ra ngập úng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuānxiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上岗",
+   "meaning": "được giao một công việc",
+   "example": "我们来学“上岗”这个词。",
+   "exampleMeaning": "Cùng học từ “上岗”: được giao một công việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shànggǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教养",
+   "meaning": "dạy dỗ",
+   "example": "教养子女",
+   "exampleMeaning": "Dạy dỗ con cái",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàoyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "透支",
+   "meaning": "khoản tiền vượt được lĩnh ở ngân hàng",
+   "example": "我们来学“透支”这个词。",
+   "exampleMeaning": "Cùng học từ “透支”: khoản tiền vượt được lĩnh ở ngân hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòuzhī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杂技",
+   "meaning": "tạp kỹ",
+   "example": "我们来学“杂技”这个词。",
+   "exampleMeaning": "Cùng học từ “杂技”: tạp kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zájì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "秃",
+   "meaning": "cùn (lưỡi dao, kéo... )",
+   "example": "这篇文章煞尾处显得有点秃。",
+   "exampleMeaning": "Bài văn này phần cuối không hoàn chỉnh.",
+   "emoji": "🦲",
+   "ipa": "",
+   "pinyin": "tū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "同年",
+   "meaning": "cùng năm",
+   "example": "她大約跟我同年紀。",
+   "exampleMeaning": "Cô ấy tầm tuổi tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "展览会",
+   "meaning": "nơi triển lãm",
+   "example": "我们来学“展览会”这个词。",
+   "exampleMeaning": "Cùng học từ “展览会”: nơi triển lãm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnlǎnhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "修订",
+   "meaning": "chỉnh lý (sách, kế hoạch...)",
+   "example": "修订教学计划。",
+   "exampleMeaning": "Chỉnh lý kế hoạch giảng dạy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "液晶",
+   "meaning": "tinh thể lỏng",
+   "example": "我们来学“液晶”这个词。",
+   "exampleMeaning": "Cùng học từ “液晶”: tinh thể lỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "响亮",
+   "meaning": "vang dội",
+   "example": "歌声响亮。",
+   "exampleMeaning": "Tiếng hát vang dội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎngliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "附带",
+   "meaning": "thêm",
+   "example": "附带声明一句",
+   "exampleMeaning": "Nói thêm một câu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "土匪",
+   "meaning": "thổ phỉ",
+   "example": "我们来学“土匪”这个词。",
+   "exampleMeaning": "Cùng học từ “土匪”: thổ phỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǔfěi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开发商",
+   "meaning": "nhà phát triển",
+   "example": "我们来学“开发商”这个词。",
+   "exampleMeaning": "Cùng học từ “开发商”: nhà phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāifāshāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "优化",
+   "meaning": "ưu hoá",
+   "example": "优化产品结构",
+   "exampleMeaning": "Ưu hoá kết cấu sản phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōuhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风水",
+   "meaning": "phong thuỷ",
+   "example": "风水宝地(风水好的地方)。",
+   "exampleMeaning": "Nơi có phong thuỷ tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "磨难",
+   "meaning": "gặp khó khăn",
+   "example": "我们来学“磨难”这个词。",
+   "exampleMeaning": "Cùng học từ “磨难”: gặp khó khăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mónàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幸存",
+   "meaning": "may mắn sống sốt",
+   "example": "我们来学“幸存”这个词。",
+   "exampleMeaning": "Cùng học từ “幸存”: may mắn sống sốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngcún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "庄稼",
+   "meaning": "hoa màu",
+   "example": "庄稼长势良好",
+   "exampleMeaning": "Hoa màu sinh trưởng rất tốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāngjia",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乃至",
+   "meaning": "thậm chí",
+   "example": "他的逝世， 引起了全市乃至全国人民的哀悼。",
+   "exampleMeaning": "Cái chết của ông ấy khiến cho nhân dân trong thành phố, thậm chí nhân dân cả nước đều thương tiếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎizhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "大约",
+    "跟",
+    "我",
+    "同",
+    "年纪"
+   ],
+   "reading": "tā dàyuē gēn wǒ tóng niánjì",
+   "meaning": "Cô ấy tầm tuổi tôi."
+  },
+  {
+   "tokens": [
+    "别",
+    "逼",
+    "我"
+   ],
+   "reading": "bié bī wǒ",
+   "meaning": "Đừng ép tôi!"
+  },
+  {
+   "tokens": [
+    "他",
+    "疯",
+    "了"
+   ],
+   "reading": "tā fēng le",
+   "meaning": "Anh ta điên rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,326 @@
+{
+ "lesson": 121,
+ "draft": true,
+ "words": [
+  {
+   "term": "一部",
+   "meaning": "one part (EN)",
+   "example": "彼の話の一部は本当だ。",
+   "exampleMeaning": "Một phần trong câu chuyện của ông là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "週休",
+   "meaning": "weekly holiday (EN)",
+   "example": "「週休」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “週休”: weekly holiday (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風速",
+   "meaning": "tốc độ gió",
+   "example": "ハリケーンの種類は風速によって決まります。",
+   "exampleMeaning": "Bão xoáy được phân loại dựa trên tốc độ gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "可能性",
+   "meaning": "sự có thể, tình trạng có thể, khả năng",
+   "example": "そういった国家は、お役所仕事に陥る可能性がある。",
+   "exampleMeaning": "Những quốc gia đó có khả năng rơi vào tình trạng quan liêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "営業所",
+   "meaning": "địa điểm kinh doanh",
+   "example": "「営業所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “営業所”: địa điểm kinh doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "儀",
+   "meaning": "nghi thức, nghi lễ",
+   "example": "母は私に行儀よくするようにと言った。",
+   "exampleMeaning": "Mẹ bảo tôi phải cư xử cho đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "選手権",
+   "meaning": "chức vô địch",
+   "example": "「選手権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選手権”: chức vô địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "債務",
+   "meaning": "nợ",
+   "example": "「債務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “債務”: nợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中前",
+   "meaning": "front of center field (EN)",
+   "example": "「中前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中前”: front of center field (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歌劇",
+   "meaning": "danh từ, số nhiều của opus",
+   "example": "「歌劇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歌劇”: danh từ, số nhiều của opus.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雇用",
+   "meaning": "sự dùng, sự thuê làm (công... )",
+   "example": "「雇用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雇用”: sự dùng, sự thuê làm (công... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "評議",
+   "meaning": "hội nghị",
+   "example": "「評議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “評議”: hội nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "核燃料",
+   "meaning": "nhiên liệu hạt nhân",
+   "example": "「核燃料」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “核燃料”: nhiên liệu hạt nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "満塁",
+   "meaning": "bases loaded (EN)",
+   "example": "「満塁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “満塁”: bases loaded (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大西洋",
+   "meaning": "đại Tây Dương",
+   "example": "「大西洋」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大西洋”: đại Tây Dương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "東側",
+   "meaning": "khu đông Nữu-ước",
+   "example": "「東側」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “東側”: khu đông Nữu-ước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "席上",
+   "meaning": "at the meeting (EN)",
+   "example": "「席上」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “席上”: at the meeting (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "準決勝",
+   "meaning": "bán kết",
+   "example": "パスタ会社が主催したのど自慢コンクールに参加して、準決勝戦まで到達しました。",
+   "exampleMeaning": "Tôi đã tham gia một cuộc thi hát do một công ty sản xuất mì pasta tổ chức, và tôi đã được đi đến vòng bán kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "十七",
+   "meaning": "mười bảy",
+   "example": "トムさんの享年は九十七歳です。",
+   "exampleMeaning": "Tom đã mất vào năm 97 tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支援",
+   "meaning": "sự ủng hộ",
+   "example": "邦人帰国支援が始まる。",
+   "exampleMeaning": "Việc hỗ trợ người Nhật sinh sống và làm việc ở nước ngoài đã được bắt đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼の",
+    "話",
+    "の",
+    "一部",
+    "は",
+    "本当",
+    "だ"
+   ],
+   "reading": "かれのはなしのいちぶはほんとうだ",
+   "meaning": "Một phần trong câu chuyện của ông là sự thật."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ジャズ",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "わたしはジャズがすきです",
+   "meaning": "Tôi thích nhạc jazz."
+  },
+  {
+   "tokens": [
+    "禁煙席",
+    "を",
+    "お願いします"
+   ],
+   "reading": "きんえんせきをおねがいします",
+   "meaning": "Xin cho tôi ghế không hút thuốc"
+  },
+  {
+   "tokens": [
+    "首相",
+    "は",
+    "国会",
+    "を",
+    "解散",
+    "した"
+   ],
+   "reading": "しゅしょうはこっかいをかいさんした",
+   "meaning": "Thủ tướng cho giải tán phiên họp Quốc hội."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "東京",
+    "に",
+    "引っ越した"
+   ],
+   "reading": "かれはとうきょうにひっこした",
+   "meaning": "Anh ta đã chuyển nhà tới Tokyo."
+  }
+ ],
+ "issues": []
+}

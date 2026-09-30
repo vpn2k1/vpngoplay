@@ -1,0 +1,326 @@
+{
+ "lesson": 136,
+ "draft": true,
+ "words": [
+  {
+   "term": "単なる",
+   "meaning": "chỉ là",
+   "example": "それは単なる偶然なの？",
+   "exampleMeaning": "Đó có đơn giản chỉ là một sự trùng hợp ngẫu nhiên hay không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "官僚",
+   "meaning": "quan lại, công chức",
+   "example": "「官僚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “官僚”: quan lại, công chức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "センター",
+   "meaning": "centre",
+   "example": "リンカーンセンターへの行き方を教えてください。",
+   "exampleMeaning": "Bạn có thể chỉ cho tôi đường đến Lincoln Center được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "菌",
+   "meaning": "mộng, mầm, thai",
+   "example": "「菌」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “菌”: mộng, mầm, thai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "審判",
+   "meaning": "(pháp lý) trọng tài",
+   "example": "試合後のインタビューで、監督は審判への不満を口にした。",
+   "exampleMeaning": "Trong bài phỏng vấn sau trận đấu, vị huấn luyện viên đã bày tỏ sự bất mãn với trọng tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "平等",
+   "meaning": "tính bằng, tính ngang bằng",
+   "example": "そのお金は彼ら二人で平等に分けられるでしょう。",
+   "exampleMeaning": "Số tiền đó sẽ được chia đều cho hai người họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "苦労",
+   "meaning": "sự gian khổ, sự thử thách gay go",
+   "example": "「苦労」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “苦労”: sự gian khổ, sự thử thách gay go.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "そのまま",
+   "meaning": "without change (EN)",
+   "example": "「そのまま」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “そのまま”: without change (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "加わる",
+   "meaning": "nối lại, chắp, ghép",
+   "example": "「加わる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加わる”: nối lại, chắp, ghép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "克服",
+   "meaning": "sự xâm chiếm, sự chinh phục",
+   "example": "「克服」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “克服”: sự xâm chiếm, sự chinh phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確認",
+   "meaning": "sự khẳng định, sự xác nhận",
+   "example": "「確認」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “確認”: sự khẳng định, sự xác nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "湧く",
+   "meaning": "sôi",
+   "example": "「湧く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “湧く”: sôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "椀",
+   "meaning": "cái bát",
+   "example": "「椀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “椀”: cái bát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "タイトル",
+   "meaning": "tựa đề, tiêu đề",
+   "example": "「タイトル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “タイトル”: tựa đề, tiêu đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当たる",
+   "meaning": "đánh, đấm trúng, bắn trúng",
+   "example": "犬も歩けば棒に当たる。",
+   "exampleMeaning": "Ai giàu ba họ, ai khó ba đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "影",
+   "meaning": "hình, hình ảnh, ảnh (trong gương... )",
+   "example": "私はあの木の後ろで影の動きを見た。",
+   "exampleMeaning": "Tôi nhìn thấy một cái bóng di chuyển ở sau cái cây kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "状況",
+   "meaning": "tình thế, tình cảnh, hoàn cảnh",
+   "example": "此の状況を利用すべきだ。",
+   "exampleMeaning": "Chúng ta nên lợi dụng tình thế này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "機関",
+   "meaning": "tổ chức, cơ quan",
+   "example": "彼女はフランスの諜報機関のために働いている。",
+   "exampleMeaning": "Cô ấy đang làm việc cho cơ quan tình báo Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "産む",
+   "meaning": "cứu, cứu khỏi, giải thoát",
+   "example": "「産む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “産む”: cứu, cứu khỏi, giải thoát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最終",
+   "meaning": "kết thúc, cuối cùng",
+   "example": "最終成績に関しては、君の最終試験によります。",
+   "exampleMeaning": "Thành tích cuối cùng của bạn tùy thuộc vào bài kiểm tra cuối cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "お金",
+    "は",
+    "彼ら",
+    "二人",
+    "で",
+    "平等に",
+    "分けられる",
+    "でしょう"
+   ],
+   "reading": "そのおかねはかれらふたりでびょうどうにわけられるでしょう",
+   "meaning": "Số tiền đó sẽ được chia đều cho hai người họ."
+  },
+  {
+   "tokens": [
+    "犬",
+    "も",
+    "歩けば",
+    "棒",
+    "に",
+    "当たる"
+   ],
+   "reading": "いぬもあるけばぼうにあたる",
+   "meaning": "Ai giàu ba họ, ai khó ba đời."
+  },
+  {
+   "tokens": [
+    "私",
+    "も",
+    "行った"
+   ],
+   "reading": "わたしもいった",
+   "meaning": "Tôi cũng đã đi."
+  },
+  {
+   "tokens": [
+    "何",
+    "が",
+    "問題",
+    "な",
+    "の"
+   ],
+   "reading": "なにがもんだいなの",
+   "meaning": "Vấn đề ở đâu?"
+  },
+  {
+   "tokens": [
+    "何",
+    "を",
+    "作った",
+    "の"
+   ],
+   "reading": "なにをつくったの",
+   "meaning": "Bạn tạo ra cái gì vậy?"
+  }
+ ],
+ "issues": []
+}

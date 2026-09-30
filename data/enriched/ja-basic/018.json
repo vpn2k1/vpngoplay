@@ -1,0 +1,326 @@
+{
+ "lesson": 18,
+ "draft": true,
+ "words": [
+  {
+   "term": "自分",
+   "meaning": "tôi, tao, bản thân mình",
+   "example": "自分でも解ってる。",
+   "exampleMeaning": "Tôi có thể tự giải được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "元気",
+   "meaning": "sức khoẻ",
+   "example": "やあ！元気？",
+   "exampleMeaning": "Ê! Khỏe không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消える",
+   "meaning": "biến mất, lẩn mất, biến dần",
+   "example": "雪はすぐに消えるだろう。",
+   "exampleMeaning": "Tuyết sẽ sớm tan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大使館",
+   "meaning": "chức đại sứ, hàm đại sứ",
+   "example": "日本大使館は日本人に対し、注意するよう警告している。",
+   "exampleMeaning": "Đại sứ quán Nhật Bản đã và đang cảnh báo người dân Nhật phải cẩn trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "葉書",
+   "meaning": "bưu thiếp",
+   "example": "「葉書」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “葉書”: bưu thiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉛筆",
+   "meaning": "bút chì",
+   "example": "色鉛筆が要ります。",
+   "exampleMeaning": "Tôi cần bút chì màu.",
+   "emoji": "✏",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おばあさん",
+   "meaning": "bà",
+   "example": "彼女は彼女のおばあさんに育てられた。",
+   "exampleMeaning": "Cô ấy được bà của cô ấy nuôi lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いい",
+   "meaning": "tốt, được",
+   "example": "かわいいなー。",
+   "exampleMeaning": "Xinh quá!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "食べる",
+   "meaning": "ăn",
+   "example": "何か食べるものがほしい。",
+   "exampleMeaning": "Tôi muốn một thứ gì đó để ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "六日",
+   "meaning": "ngày thứ sáu của tháng",
+   "example": "「六日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “六日”: ngày thứ sáu của tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "始まる",
+   "meaning": "bắt đầu, khởi đầu, mở đầu",
+   "example": "学校は８時半から始まる。",
+   "exampleMeaning": "Giờ học bắt đầu lúc 8 giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "全部",
+   "meaning": "tất cả, hết thảy, toàn bộ",
+   "example": "席は全部ふさがっている。",
+   "exampleMeaning": "Tất cả những chiếc ghế đều đã có người ngồi rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小さい",
+   "meaning": "nhỏ, bé, chật",
+   "example": "この本の方が小さい。",
+   "exampleMeaning": "Quyển sách này nhỏ hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "時間",
+   "meaning": "thời gian, thì giờ",
+   "example": "英語は３時間目だ。",
+   "exampleMeaning": "Anh văn là tiết thứ 3.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "地図",
+   "meaning": "bản đồ, địa đồ",
+   "example": "それってトムがくれた地図？",
+   "exampleMeaning": "Đấy là cái bản đồ Tom đưa cho bạn à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "女の子",
+   "meaning": "con gái",
+   "example": "あなたが女の子だからよ。",
+   "exampleMeaning": "Cái đó là tại vì bạn là phụ nữ.",
+   "emoji": "👧",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "二人",
+   "meaning": "đôi, cặp",
+   "example": "二人部屋をお願いします。",
+   "exampleMeaning": "Cho tôi một phòng hai người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "そちら",
+   "meaning": "đó, đấy",
+   "example": "すぐそちらへまいります。",
+   "exampleMeaning": "Tôi sẽ đến đó ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "余り",
+   "meaning": "số dư, số thừa, số thặng dư",
+   "example": "驚きの余り話す力がなくなってしまった。",
+   "exampleMeaning": "Vì quá ngạc nhiên, tôi đã không thể nói nên lời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大きな",
+   "meaning": "rộng, lớn, to lớn",
+   "example": "ドイツは大きな国だ。",
+   "exampleMeaning": "Đức là một nước lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "もっと",
+    "時間",
+    "が",
+    "あったら",
+    "いい",
+    "のだ",
+    "が"
+   ],
+   "reading": "もっとじかんがあったらいいのだが",
+   "meaning": "Tôi ước gì chúng ta có thêm thời gian."
+  },
+  {
+   "tokens": [
+    "僕",
+    "の",
+    "クラス",
+    "で",
+    "リンダ",
+    "より",
+    "かわいい",
+    "女の子",
+    "はいない"
+   ],
+   "reading": "ぼくのクラスでリンダよりかわいいおんなのこはいない",
+   "meaning": "Trong lớp tôi, không có một đứa con gái nào dễ thương hơn Linda."
+  },
+  {
+   "tokens": [
+    "元気",
+    "そう",
+    "だ",
+    "ね"
+   ],
+   "reading": "げんきそうだね",
+   "meaning": "Bạn trông khỏe nhỉ."
+  },
+  {
+   "tokens": [
+    "まだ",
+    "時間",
+    "が",
+    "ある"
+   ],
+   "reading": "まだじかんがある",
+   "meaning": "Vẫn còn thời gian."
+  },
+  {
+   "tokens": [
+    "眠った",
+    "方がいい",
+    "よ"
+   ],
+   "reading": "ねむったほうがいいよ",
+   "meaning": "Bạn nên đi ngủ đi."
+  }
+ ],
+ "issues": []
+}

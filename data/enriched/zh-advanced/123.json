@@ -1,0 +1,331 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "当日",
+   "meaning": "hôm ấy",
+   "example": "当日事，当日做完。",
+   "exampleMeaning": "Việc hôm nào làm xong hôm ấy; việc hôm nay chớ để ngày mai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "遵照",
+   "meaning": "theo",
+   "example": "遵照政策办事。",
+   "exampleMeaning": "Theo chính sách làm việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zūnzhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "花瓣",
+   "meaning": "cánh hoa",
+   "example": "我们来学“花瓣”这个词。",
+   "exampleMeaning": "Cùng học từ “花瓣”: cánh hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huābàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年夜饭",
+   "meaning": "cơm tất niên",
+   "example": "我们来学“年夜饭”这个词。",
+   "exampleMeaning": "Cùng học từ “年夜饭”: cơm tất niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niányèfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "性情",
+   "meaning": "tính tình",
+   "example": "性情急躁",
+   "exampleMeaning": "Tính tình nóng nảy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "豆子",
+   "meaning": "cây đậu",
+   "example": "我们来学“豆子”这个词。",
+   "exampleMeaning": "Cùng học từ “豆子”: cây đậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòuzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "腺",
+   "meaning": "tuyến",
+   "example": "我们来学“腺”这个词。",
+   "exampleMeaning": "Cùng học từ “腺”: tuyến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "羞愧",
+   "meaning": "cảm thấy nhục nhã hổ thẹn",
+   "example": "我们来学“羞愧”这个词。",
+   "exampleMeaning": "Cùng học từ “羞愧”: cảm thấy nhục nhã hổ thẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūkuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "聘用",
+   "meaning": "thuê",
+   "example": "我们来学“聘用”这个词。",
+   "exampleMeaning": "Cùng học từ “聘用”: thuê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pìnyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小看",
+   "meaning": "coi khinh",
+   "example": "我们来学“小看”这个词。",
+   "exampleMeaning": "Cùng học từ “小看”: coi khinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎokàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坚硬",
+   "meaning": "cứng",
+   "example": "坚硬的山石。",
+   "exampleMeaning": "Núi đá cứng chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānyìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "负有",
+   "meaning": "chịu trách nhiệm về",
+   "example": "我们来学“负有”这个词。",
+   "exampleMeaning": "Cùng học từ “负有”: chịu trách nhiệm về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "莫过于",
+   "meaning": "không gì có thể vượt qua",
+   "example": "我们来学“莫过于”这个词。",
+   "exampleMeaning": "Cùng học từ “莫过于”: không gì có thể vượt qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mòguòyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当众",
+   "meaning": "trước đám đông",
+   "example": "当众宣布结果。",
+   "exampleMeaning": "Công bố kết quả trước công chúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好意",
+   "meaning": "lòng tốt",
+   "example": "真不好意思，让您久等了。",
+   "exampleMeaning": "Thật ngại quá, để ông chờ lâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "技艺",
+   "meaning": "tài nghệ",
+   "example": "我们来学“技艺”这个词。",
+   "exampleMeaning": "Cùng học từ “技艺”: tài nghệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光泽",
+   "meaning": "rực rỡ",
+   "example": "脸盘红润而有光泽。",
+   "exampleMeaning": "Gương mặt hồng hào rực rỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngzé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "演练",
+   "meaning": "luyện tập",
+   "example": "小演员们加紧演练，为国庆献礼。",
+   "exampleMeaning": "Các diễn viên nhí tích cực luyện tập cho buổi lễ quốc khánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnliàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专卖店",
+   "meaning": "cửa hàng đặc sản",
+   "example": "我们来学“专卖店”这个词。",
+   "exampleMeaning": "Cùng học từ “专卖店”: cửa hàng đặc sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānmàidiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "停顿",
+   "meaning": "ngừng lại (sự việc, công việc…)",
+   "example": "他停顿了一下，又继续往下说。",
+   "exampleMeaning": "Anh ấy ngừng lại một chút, lại tiếp tục nói tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíngdùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  },
+  {
+   "tokens": [
+    "真",
+    "不",
+    "好意思",
+    "让",
+    "您",
+    "久等",
+    "了"
+   ],
+   "reading": "zhēn bù hǎoyìsi ràng nín jiǔděng le",
+   "meaning": "Thật ngại quá, để ông chờ lâu."
+  },
+  {
+   "tokens": [
+    "人人",
+    "都",
+    "积极",
+    "参加",
+    "劳动"
+   ],
+   "reading": "rénrén dōu jījí cānjiā láodòng",
+   "meaning": "Ai ai cũng hăng hái tham gia lao động."
+  },
+  {
+   "tokens": [
+    "你",
+    "去",
+    "就",
+    "免得",
+    "我",
+    "再",
+    "去",
+    "了"
+   ],
+   "reading": "nǐ qù jiù miǎnde wǒ zài qù le",
+   "meaning": "Anh đi thì tôi khỏi đi."
+  },
+  {
+   "tokens": [
+    "每",
+    "件",
+    "事",
+    "都",
+    "要",
+    "依靠",
+    "群众"
+   ],
+   "reading": "měi jiàn shì dōu yào yīkào qúnzhòng",
+   "meaning": "Mỗi việc đều phải dựa vào quần chúng."
+  }
+ ],
+ "issues": []
+}

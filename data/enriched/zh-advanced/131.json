@@ -1,0 +1,333 @@
+{
+ "lesson": 131,
+ "draft": true,
+ "words": [
+  {
+   "term": "孵化",
+   "meaning": "ấp trứng nở",
+   "example": "我们来学“孵化”这个词。",
+   "exampleMeaning": "Cùng học từ “孵化”: ấp trứng nở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fūhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "包扎",
+   "meaning": "băng bó",
+   "example": "待运的仪器都包扎好了",
+   "exampleMeaning": "Máy móc chờ chuyển đi đều đã đóng gói cả rồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāozā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冲浪",
+   "meaning": "vùng vẫy",
+   "example": "我们来学“冲浪”这个词。",
+   "exampleMeaning": "Cùng học từ “冲浪”: vùng vẫy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōnglàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肩负",
+   "meaning": "gánh vác",
+   "example": "我们肩负着建设社会主义社会的伟大任务。",
+   "exampleMeaning": "Chúng tôi gánh vác nhiệm vụ vĩ đại xây dựng chủ nghĩa xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānfù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "陈旧",
+   "meaning": "cũ",
+   "example": "陈旧的观念，应该抛弃。",
+   "exampleMeaning": "Nên xoá bỏ những quan niệm lỗi thời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénjiù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纪念碑",
+   "meaning": "bia tưởng niệm",
+   "example": "人民英雄纪念碑。",
+   "exampleMeaning": "Bia tưởng niệm nhân dân anh hùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìniànbēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直视",
+   "meaning": "nhìn thẳng vào",
+   "example": "我们来学“直视”这个词。",
+   "exampleMeaning": "Cùng học từ “直视”: nhìn thẳng vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "收留",
+   "meaning": "thu nhận và giúp đỡ",
+   "example": "我们来学“收留”这个词。",
+   "exampleMeaning": "Cùng học từ “收留”: thu nhận và giúp đỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōuliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偷看",
+   "meaning": "để nhìn trộm",
+   "example": "我们来学“偷看”这个词。",
+   "exampleMeaning": "Cùng học từ “偷看”: để nhìn trộm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōukàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分割",
+   "meaning": "tách rời",
+   "example": "民主和集中这两方面，任何时候都不能分割开。",
+   "exampleMeaning": "Hai mặt dân chủ và tập trung trong bất cứ lúc nào cũng không thể tách rời ra được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "耽搁",
+   "meaning": "trì hoãn",
+   "example": "事情再忙也不要耽搁治病。",
+   "exampleMeaning": "Công việc có bận rộn cũng không nên trì hoãn việc trị bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānge",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冰山",
+   "meaning": "núi băng",
+   "example": "我们来学“冰山”这个词。",
+   "exampleMeaning": "Cùng học từ “冰山”: núi băng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīngshān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "烟火",
+   "meaning": "pháo hoa",
+   "example": "我们来学“烟火”这个词。",
+   "exampleMeaning": "Cùng học từ “烟火”: pháo hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yānhuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "淘气",
+   "meaning": "nghịch",
+   "example": "这孩子很聪明，就是有些淘气。",
+   "exampleMeaning": "Đứa bé này rất thông minh, nhưng hơi tinh nghịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táoqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表述",
+   "meaning": "thuyết minh",
+   "example": "一位外科医生表述了阑尾炎的情况。",
+   "exampleMeaning": "Vị bác sĩ ngoại khoa trình bày tình hình bệnh viêm ruột thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎoshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回味",
+   "meaning": "dư vị (sau khi ăn)",
+   "example": "我们来学“回味”这个词。",
+   "exampleMeaning": "Cùng học từ “回味”: dư vị (sau khi ăn).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "顺畅",
+   "meaning": "thông thuận",
+   "example": "我们来学“顺畅”这个词。",
+   "exampleMeaning": "Cùng học từ “顺畅”: thông thuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùnchàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "棍子",
+   "meaning": "gậy",
+   "example": "一只手拿着棍子,一只手拿着帽子。",
+   "exampleMeaning": "Một tay cầm gậy, một tay cầm nón.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "飞速",
+   "meaning": "nhanh",
+   "example": "飞速发展",
+   "exampleMeaning": "Phát triển nhanh; phát triển đến chóng mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēisù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "曙光",
+   "meaning": "rực rỡ",
+   "example": "胜利的曙光。",
+   "exampleMeaning": "Thắng lợi rực rỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǔguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我",
+    "很",
+    "抱歉",
+    "在",
+    "这个",
+    "时候",
+    "打扰"
+   ],
+   "reading": "wǒ hěn bàoqiàn zài zhège shíhou dǎrǎo",
+   "meaning": "Tôi rất xin lỗi vì làm phiền vào lúc này."
+  },
+  {
+   "tokens": [
+    "我",
+    "再也",
+    "不",
+    "知道",
+    "该",
+    "信",
+    "什么",
+    "了"
+   ],
+   "reading": "wǒ zàiyě bù zhīdào gāi xìn shénme le",
+   "meaning": "Tôi không còn biết tin vào cái gì nữa."
+  },
+  {
+   "tokens": [
+    "他们",
+    "不得不",
+    "整天",
+    "呆",
+    "在",
+    "家里"
+   ],
+   "reading": "tāmen bùdébù zhěngtiān dāi zài jiālǐ",
+   "meaning": "Họ đã phải ở trong nhà suốt cả ngày."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  }
+ ],
+ "issues": []
+}

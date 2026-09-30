@@ -1,0 +1,340 @@
+{
+ "lesson": 87,
+ "draft": true,
+ "words": [
+  {
+   "term": "牢",
+   "meaning": "tù",
+   "example": "亡羊补牢。",
+   "exampleMeaning": "Muộn còn hơn không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同胞",
+   "meaning": "đồng bào",
+   "example": "告全国同胞书",
+   "exampleMeaning": "Đọc thư tuyên bố với đồng bào cả nước; ngỏ lời với đồng bào cả nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngbāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "变形",
+   "meaning": "biến dạng",
+   "example": "这个零件已经变形。",
+   "exampleMeaning": "Linh kiện này đã bị biến dạng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大力",
+   "meaning": "ra sức",
+   "example": "大力支持",
+   "exampleMeaning": "Ra sức ủng hộ; hết sức ủng hộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "种种",
+   "meaning": "các loại",
+   "example": "克服种种困难。",
+   "exampleMeaning": "Khắc phục mọi khó khăn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǒngzhǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "长久",
+   "meaning": "lâu dài",
+   "example": "我们来学“长久”这个词。",
+   "exampleMeaning": "Cùng học từ “长久”: lâu dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángjiǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "决策",
+   "meaning": "quyết định sách lược",
+   "example": "运筹决策。",
+   "exampleMeaning": "Tính toán sách lược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juécè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贫困",
+   "meaning": "nghèo khó",
+   "example": "我们来学“贫困”这个词。",
+   "exampleMeaning": "Cùng học từ “贫困”: nghèo khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínkùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家园",
+   "meaning": "nhà làm",
+   "example": "重建家园。",
+   "exampleMeaning": "Xây dựng lại quê hương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清洗",
+   "meaning": "rửa sạch",
+   "example": "保养类的面膜 可以不清洗。",
+   "exampleMeaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngxǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "传出",
+   "meaning": "efferent (thần kinh)",
+   "example": "我们来学“传出”这个词。",
+   "exampleMeaning": "Cùng học từ “传出”: efferent (thần kinh).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上台",
+   "meaning": "lên sân khấu",
+   "example": "上台表演。",
+   "exampleMeaning": "Lên sân khấu biểu diễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不仅仅",
+   "meaning": "không chỉ",
+   "example": "我们来学“不仅仅”这个词。",
+   "exampleMeaning": "Cùng học từ “不仅仅”: không chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjǐnjǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对外",
+   "meaning": "bên ngoài",
+   "example": "我们来学“对外”这个词。",
+   "exampleMeaning": "Cùng học từ “对外”: bên ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "渡",
+   "meaning": "qua, đi qua, vượt",
+   "example": "请您把我们渡过河去。",
+   "exampleMeaning": "Xin ông chở chúng tôi qua sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "杂",
+   "meaning": "lẫn lộn, pha trộn, ô hợp",
+   "example": "草丛中还杂有粉红色的野花。",
+   "exampleMeaning": "Trong đám cỏ có xen lẫn những đoá hoa dại màu hồng phấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zá",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捉",
+   "meaning": "bắt giữ, bắt",
+   "example": "捉襟见肘",
+   "exampleMeaning": "Quần áo rách rưới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打断",
+   "meaning": "cắt ngang",
+   "example": "这一击打断了他的手臂。",
+   "exampleMeaning": "Cú đánh này làm gãy xương tay của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "懒",
+   "meaning": "lười",
+   "example": "身子发懒，大概是感冒了。",
+   "exampleMeaning": "Người thấy mệt mỏi, chắc bị cảm rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "撤销",
+   "meaning": "huỷ bỏ",
+   "example": "我们来学“撤销”这个词。",
+   "exampleMeaning": "Cùng học từ “撤销”: huỷ bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chèxiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  },
+  {
+   "tokens": [
+    "她",
+    "邀请",
+    "我们",
+    "去",
+    "她",
+    "的",
+    "生日",
+    "派对"
+   ],
+   "reading": "tā yāoqǐng wǒmen qù tā de shēngrì pàiduì",
+   "meaning": "Cô ấy mời chúng tôi đến dự buổi tiệc sinh nhật của cô ấy."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "担心",
+    "我",
+    "会",
+    "一直",
+    "在",
+    "你",
+    "身边"
+   ],
+   "reading": "bù yào dānxīn wǒ huì yīzhí zài nǐ shēnbiān",
+   "meaning": "Đừng lo lắng, anh sẽ luôn ở bên em."
+  },
+  {
+   "tokens": [
+    "我",
+    "抓",
+    "到",
+    "了",
+    "这个",
+    "男人",
+    "正在",
+    "偷",
+    "钱"
+   ],
+   "reading": "wǒ zhuā dào le zhège nánrén zhèngzài tōu qián",
+   "meaning": "Tôi đã bắt kịp thằng ăn cắp tiền này."
+  },
+  {
+   "tokens": [
+    "你",
+    "既然",
+    "已经",
+    "知道",
+    "了",
+    "还",
+    "问",
+    "什么"
+   ],
+   "reading": "nǐ jìrán yǐjīng zhīdào le hái wèn shénme",
+   "meaning": "Mày đã biết rồi còn phải hỏi gì nữa?"
+  }
+ ],
+ "issues": []
+}

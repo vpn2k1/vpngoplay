@@ -1,0 +1,336 @@
+{
+ "lesson": 84,
+ "draft": true,
+ "words": [
+  {
+   "term": "今や",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "今やらなくてもいいんだよ。",
+   "exampleMeaning": "Bây giờ chúng ta chưa cần làm việc đó đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "非公開",
+   "meaning": "tư, riêng, riêng tư",
+   "example": "「非公開」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “非公開”: tư, riêng, riêng tư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "富士山",
+   "meaning": "Mount Fuji (EN)",
+   "example": "彼らは先週富士山に登った。",
+   "exampleMeaning": "Tuần trước họ đã leo núi Phú Sĩ.",
+   "emoji": "🗻",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飛ばし",
+   "meaning": "selling or divesting in unwanted stocks (EN)",
+   "example": "「飛ばし」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “飛ばし”: selling or divesting in unwanted stocks (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心から",
+   "meaning": "vui vẻ, thân mật, nồng nhiệt",
+   "example": "「心から」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “心から”: vui vẻ, thân mật, nồng nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打ち上げ",
+   "meaning": "xuồng lớn",
+   "example": "「打ち上げ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “打ち上げ”: xuồng lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不祥事",
+   "meaning": "sự tai tiếng",
+   "example": "「不祥事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不祥事”: sự tai tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "訪中",
+   "meaning": "visit to China (EN)",
+   "example": "「訪中」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “訪中”: visit to China (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一本",
+   "meaning": "nhiều hơn nữa, vân vân (khi liệt kê)",
+   "example": "赤ワインが一本だけ残ってます。",
+   "exampleMeaning": "Chỉ còn một chai rượu vang đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "聞かす",
+   "meaning": "nói, nói với, nói lên",
+   "example": "「聞かす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “聞かす”: nói, nói với, nói lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "油田",
+   "meaning": "mỏ dầu hỏa",
+   "example": "「油田」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “油田”: mỏ dầu hỏa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原子力",
+   "meaning": "năng lượng nguyên tử",
+   "example": "「原子力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原子力”: năng lượng nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日本人",
+   "meaning": "người Nhật",
+   "example": "大部分の日本人が増税に反対した。",
+   "exampleMeaning": "Đại bộ phận người dân Nhật phản đối việc tăng thuế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日報",
+   "meaning": "báo cáo hằng ngày",
+   "example": "「日報」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日報”: báo cáo hằng ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不透明",
+   "meaning": "mờ đục, không trong suốt",
+   "example": "「不透明」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不透明”: mờ đục, không trong suốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下院",
+   "meaning": "hạ nghị viện",
+   "example": "スキャンダルが発覚したとき、その下院議員の支持者たちは激怒しました。",
+   "exampleMeaning": "Khi vụ việc của nghị sĩ Hạ viện đó bị bại lộ, những người ủng hộ người này đã vô cùng phẫn nộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "人数",
+   "meaning": "the number of people (EN)",
+   "example": "「人数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人数”: the number of people (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "震源",
+   "meaning": "điểm trên mặt đất ngay dưới vụ nổ nguyên tử",
+   "example": "「震源」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “震源”: điểm trên mặt đất ngay dưới vụ nổ nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公明党",
+   "meaning": "Komeito (EN)",
+   "example": "「公明党」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公明党”: Komeito (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有害",
+   "meaning": "gây tai hại, có hại",
+   "example": "運動も過度になると有害無益である。",
+   "exampleMeaning": "Tập thể dục cũng vậy, nếu làm quá sức sẽ lợi bất cập hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "日本人",
+    "は",
+    "あまり",
+    "宗教",
+    "には",
+    "こだわらない"
+   ],
+   "reading": "にほんじんはあまりしゅうきょうにはこだわらない",
+   "meaning": "Người Nhật không quá câu nệ tôn giáo."
+  },
+  {
+   "tokens": [
+    "毎年",
+    "多く",
+    "の",
+    "日本人",
+    "が",
+    "海外",
+    "へ",
+    "旅行",
+    "する"
+   ],
+   "reading": "まいとしおおくのにほんじんがかいがいへりょこうする",
+   "meaning": "Mỗi năm có nhiều người Nhật đi du lịch nước ngoài."
+  },
+  {
+   "tokens": [
+    "晴れた",
+    "日",
+    "には",
+    "富士山",
+    "が",
+    "見える"
+   ],
+   "reading": "はれたひにはふじさんがみえる",
+   "meaning": "Vào những ngày quang mây, người ta có thể trông thấy núi Phũ Sĩ."
+  },
+  {
+   "tokens": [
+    "大部分",
+    "の",
+    "日本人",
+    "が",
+    "増税",
+    "に",
+    "反対",
+    "した"
+   ],
+   "reading": "だいぶぶんのにっぽんじんがぞうぜいにはんたいした",
+   "meaning": "Đại bộ phận người dân Nhật phản đối việc tăng thuế."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "が",
+    "日本人",
+    "だ",
+    "と",
+    "私",
+    "は",
+    "思っていた"
+   ],
+   "reading": "あなたがにっぽんじんだとわたしはおもっていた",
+   "meaning": "Tôi cứ tưởng bạn là người Nhật."
+  }
+ ],
+ "issues": []
+}

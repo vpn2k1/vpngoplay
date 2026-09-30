@@ -1,0 +1,318 @@
+{
+ "lesson": 86,
+ "draft": true,
+ "words": [
+  {
+   "term": "search",
+   "meaning": "dò, thăm dò",
+   "example": "to search the house for weapons",
+   "exampleMeaning": "Khám nhà tìm vũ khí",
+   "emoji": "",
+   "ipa": "/ˈsɜrtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "overweight",
+   "meaning": "quá trọng lượng hợp lệ",
+   "example": "Sixty-nine percent of adult Americans are either overweight or obese.",
+   "exampleMeaning": "Có 69% người lớn ở Mỹ bị thừa cân hoặc béo phì.",
+   "emoji": "",
+   "ipa": "/ˌoʊvɜrˈweɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "comic",
+   "meaning": "hài hước, khôi hài",
+   "example": "I like to read comic books.",
+   "exampleMeaning": "Tôi thích đọc truyện tranh.",
+   "emoji": "",
+   "ipa": "/ˈkɑmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mix",
+   "meaning": "trộn, trộn lẫn, pha lẫn",
+   "example": "to mix a dish of salad",
+   "exampleMeaning": "Trộn món rau xà lách",
+   "emoji": "",
+   "ipa": "/ˈmɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "quietly",
+   "meaning": "yên lặng, yên tĩnh, êm ả",
+   "example": "Tom and Mary spoke quietly so they wouldn't wake the baby.",
+   "exampleMeaning": "Tom và Mary nói chuyện nhỏ nhẹ để không làm em bé thức giấc.",
+   "emoji": "",
+   "ipa": "/ˈkwaɪətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hug",
+   "meaning": "ôm, ôm chặt",
+   "example": "to hug oneself over something",
+   "exampleMeaning": "Thích thú một cái gì",
+   "emoji": "",
+   "ipa": "/ˈhəɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "detail",
+   "meaning": "chi tiết, tiểu tiết",
+   "example": "to detail someone dor some duty",
+   "exampleMeaning": "Cắt cử ai làm một nhiệm vụ gì",
+   "emoji": "",
+   "ipa": "/ˈditeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "capital letter",
+   "meaning": "chữ hoa",
+   "example": "Let's learn the word \"capital letter\".",
+   "exampleMeaning": "Cùng học từ “capital letter”: chữ hoa.",
+   "emoji": "",
+   "ipa": "/ˈkæpətəl ˈlɛtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "return",
+   "meaning": "về (nhà...)",
+   "example": "to return a book to the shelf",
+   "exampleMeaning": "Để một cuốn sách vào chỗ cũ ở trên giá",
+   "emoji": "",
+   "ipa": "/riˈtɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "barber",
+   "meaning": "thợ cạo, thợ cắt tóc",
+   "example": "Let's learn the word \"barber\".",
+   "exampleMeaning": "Cùng học từ “barber”: thợ cạo, thợ cắt tóc.",
+   "emoji": "",
+   "ipa": "/ˈbɑrbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tights",
+   "meaning": "quần chật ống",
+   "example": "Let's learn the word \"tights\".",
+   "exampleMeaning": "Cùng học từ “tights”: quần chật ống.",
+   "emoji": "",
+   "ipa": "/ˈtaɪts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gentle",
+   "meaning": "hiền lành, dịu dàng, hoà nhã",
+   "example": "a gentle nature",
+   "exampleMeaning": "Bản chất hiền lành hoà nhã",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sleepless",
+   "meaning": "thức, không ngủ",
+   "example": "a sleepless night",
+   "exampleMeaning": "Một đêm không ngủ",
+   "emoji": "",
+   "ipa": "/ˈslipləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inspiration",
+   "meaning": "sự hít vào, sự thở vào",
+   "example": "The days he spent in the village gave him the inspiration to write his novel.",
+   "exampleMeaning": "Những ngày tháng anh ấy ở ngôi làng đã cho anh cảm hứng viết tiểu thuyết.",
+   "emoji": "",
+   "ipa": "/ˌɪnspɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "additional",
+   "meaning": "thêm vào, phụ vào, tăng thêm",
+   "example": "an additional charge",
+   "exampleMeaning": "Phần tiền phải trả thêm",
+   "emoji": "",
+   "ipa": "/əˈdɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ambition",
+   "meaning": "lòng tham, tham vọng",
+   "example": "He has an ambition to get a Nobel Prize.",
+   "exampleMeaning": "Anh ấy có tham vọng đạt giải Nobel.",
+   "emoji": "",
+   "ipa": "/æmˈbɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "handicapped",
+   "meaning": "người bị tật nguyền, người tàn tật",
+   "example": "Let's learn the word \"handicapped\".",
+   "exampleMeaning": "Cùng học từ “handicapped”: người bị tật nguyền, người tàn tật.",
+   "emoji": "",
+   "ipa": "/ˈhændiˌkæpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unit",
+   "meaning": "đơn vị",
+   "example": "a unit of length",
+   "exampleMeaning": "Đơn vị đo chiều dài",
+   "emoji": "",
+   "ipa": "/ˈjuː.nɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mineral water",
+   "meaning": "nước khoáng",
+   "example": "I prefer mineral water.",
+   "exampleMeaning": "Tôi thích nước khoáng hơn.",
+   "emoji": "",
+   "ipa": "/ˈmɪnɜrəl ˈwɔtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "apartment",
+   "meaning": "căn hộ",
+   "example": "The new apartment is comfortable.",
+   "exampleMeaning": "Căn hộ mới thật thoải mái.",
+   "emoji": "",
+   "ipa": "/əˈpɑrtmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Hug",
+    "a",
+    "tree"
+   ],
+   "reading": "",
+   "meaning": "Ôm một cái cây."
+  },
+  {
+   "tokens": [
+    "When",
+    "did",
+    "Tom",
+    "return"
+   ],
+   "reading": "",
+   "meaning": "Tom về khi nào thế?"
+  },
+  {
+   "tokens": [
+    "I",
+    "lost",
+    "my",
+    "inspiration"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã mất hứng."
+  },
+  {
+   "tokens": [
+    "Buy",
+    "me",
+    "an",
+    "apartment"
+   ],
+   "reading": "",
+   "meaning": "Mua cho tôi một cái căn hộ đi."
+  },
+  {
+   "tokens": [
+    "What",
+    "a",
+    "beautiful",
+    "apartment"
+   ],
+   "reading": "",
+   "meaning": "Căn hộ mới đẹp làm sao!"
+  }
+ ],
+ "issues": []
+}

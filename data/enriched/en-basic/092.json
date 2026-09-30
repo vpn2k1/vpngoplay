@@ -1,0 +1,318 @@
+{
+ "lesson": 92,
+ "draft": true,
+ "words": [
+  {
+   "term": "association",
+   "meaning": "hội, hội liên hiệp",
+   "example": "The association was founded in nineteen ninety.",
+   "exampleMeaning": "Hiệp hội được thành lập vào thế kỉ mười chín.",
+   "emoji": "",
+   "ipa": "/əˌsəʊʃiˈeɪʃn̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "expect",
+   "meaning": "mong chờ, chờ đợi, ngóng chờ",
+   "example": "What did you expect to see?",
+   "exampleMeaning": "Bạn đã mong chờ thấy điều gì?",
+   "emoji": "",
+   "ipa": "/ɪkˈspɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "slave",
+   "meaning": "người nô lệ (đen & bóng)",
+   "example": "to slave from dawn until midnight",
+   "exampleMeaning": "Làm việc đầu tắt mặt tối từ sáng sớm đến khuya",
+   "emoji": "",
+   "ipa": "/ˈsleɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "splash",
+   "meaning": "té, văng, làm bắn toé",
+   "example": "to splash across a muddy field",
+   "exampleMeaning": "Lội lõm bõm qua đồng lầy",
+   "emoji": "",
+   "ipa": "/ˈsplæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "country",
+   "meaning": "nước, quốc gia",
+   "example": "this is unknown country to me",
+   "exampleMeaning": "Đó là một vùng mà tôi chưa đi qua; (nghĩa bóng) đó là một lĩnh vực xa lạ đối với tôi",
+   "emoji": "",
+   "ipa": "/ˈkən.tri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "public",
+   "meaning": "chung, công, công cộng",
+   "example": "to make a public protest",
+   "exampleMeaning": "Phản đối công khai",
+   "emoji": "",
+   "ipa": "/ˈpəblɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "forest",
+   "meaning": "rừng",
+   "example": "The forest was covered with snow.",
+   "exampleMeaning": "Khu rừng bị tuyết che phủ.",
+   "emoji": "",
+   "ipa": "/ˈfɔrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "situation",
+   "meaning": "tình huống",
+   "example": "to find a situation",
+   "exampleMeaning": "Tìm được việc làm",
+   "emoji": "",
+   "ipa": "/ˌsɪtʃuˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "range",
+   "meaning": "dãy, hàng",
+   "example": "to range a gun on an enemy ship",
+   "exampleMeaning": "Bắn đại bác để tính tầm xa của một tàu địch",
+   "emoji": "",
+   "ipa": "/ˈreɪndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shade",
+   "meaning": "bóng",
+   "example": "They sat in the shade of that big tree.",
+   "exampleMeaning": "Họ ngồi dưới bóng râm của cái cây to kia.",
+   "emoji": "",
+   "ipa": "/ˈʃeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hey",
+   "meaning": "này",
+   "example": "Hey, I said I was sorry.",
+   "exampleMeaning": "Này, tôi đã nói xin lỗi rồi.",
+   "emoji": "",
+   "ipa": "/ˈheɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "expression",
+   "meaning": "sự vắt, sự ép, sự bóp",
+   "example": "to give expression to one's feelings",
+   "exampleMeaning": "Biểu lộ tình cảm",
+   "emoji": "",
+   "ipa": "/əkˈsprɛʃ.n̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "discussion",
+   "meaning": "thảo luận",
+   "example": "the question is under discussion",
+   "exampleMeaning": "Vấn đề đang được thảo luận",
+   "emoji": "",
+   "ipa": "/dɪˈskəʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stranger",
+   "meaning": "người lạ mặt, người xa lạ",
+   "example": "to make a stranger of somebody",
+   "exampleMeaning": "Đối đãi với ai như người xa lạ",
+   "emoji": "",
+   "ipa": "/ˈstreɪndʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "budget",
+   "meaning": "ngân sách, ngân quỹ",
+   "example": "We're facing a budget crisis.",
+   "exampleMeaning": "Chúng ta đang đối mặt với khủng hoảng ngân sách.",
+   "emoji": "",
+   "ipa": "/ˈbədʒɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "elderly",
+   "meaning": "sắp già",
+   "example": "Let's learn the word \"elderly\".",
+   "exampleMeaning": "Cùng học từ “elderly”: sắp già.",
+   "emoji": "",
+   "ipa": "/ˈɛldɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "web page",
+   "meaning": "trang web",
+   "example": "Let's learn the word \"web page\".",
+   "exampleMeaning": "Cùng học từ “web page”: trang web.",
+   "emoji": "",
+   "ipa": "/ˈwɛb ˈpeɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tour guide",
+   "meaning": "người hướng đạo",
+   "example": "I'm working as a tour guide.",
+   "exampleMeaning": "Tôi đang làm hướng dẫn viên du lịch.",
+   "emoji": "",
+   "ipa": "/ˈtʊr ˈɡaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ourselves",
+   "meaning": "chúng tôi, chúng mình",
+   "example": "we ourselves will see to it",
+   "exampleMeaning": "Bản thân chúng tôi sẽ chăm lo việc đó",
+   "emoji": "",
+   "ipa": "/aʊɜrˈsɛlvz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "bake",
+   "meaning": "nung",
+   "example": "I'm going to bake a cake for Tom's birthday.",
+   "exampleMeaning": "Tôi sẽ làm một chiếc bánh cho sinh nhật của Tom.",
+   "emoji": "",
+   "ipa": "/beɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Hey",
+    "it's",
+    "snowing"
+   ],
+   "reading": "",
+   "meaning": "A, có tuyết kìa!"
+  },
+  {
+   "tokens": [
+    "What",
+    "should",
+    "we",
+    "expect"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta nên trông đợi điều gì?"
+  },
+  {
+   "tokens": [
+    "Never",
+    "trust",
+    "a",
+    "stranger"
+   ],
+   "reading": "",
+   "meaning": "Đừng tin người lạ."
+  },
+  {
+   "tokens": [
+    "We'll",
+    "do",
+    "it",
+    "ourselves"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi sẽ tự làm."
+  },
+  {
+   "tokens": [
+    "Hey",
+    "wait",
+    "a",
+    "second"
+   ],
+   "reading": "",
+   "meaning": "Này, chờ tí đã."
+  }
+ ],
+ "issues": []
+}

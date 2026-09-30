@@ -1,0 +1,332 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "注定",
+   "meaning": "đã định trước",
+   "example": "命中注定",
+   "exampleMeaning": "Thiên định; số mệnh đã định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùdìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诉讼",
+   "meaning": "kiện tụng",
+   "example": "我们来学“诉讼”这个词。",
+   "exampleMeaning": "Cùng học từ “诉讼”: kiện tụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùsòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脖子",
+   "meaning": "cái cổ",
+   "example": "我们来学“脖子”这个词。",
+   "exampleMeaning": "Cùng học từ “脖子”: cái cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bózi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夜晚",
+   "meaning": "buổi tối",
+   "example": "我们来学“夜晚”这个词。",
+   "exampleMeaning": "Cùng học từ “夜晚”: buổi tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèwǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "联邦",
+   "meaning": "liên bang",
+   "example": "我们来学“联邦”这个词。",
+   "exampleMeaning": "Cùng học từ “联邦”: liên bang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánbāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "董事会",
+   "meaning": "ban giám đốc",
+   "example": "我们来学“董事会”这个词。",
+   "exampleMeaning": "Cùng học từ “董事会”: ban giám đốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǒngshìhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寂寞",
+   "meaning": "cô đơn, bơ vơ, trống vắng",
+   "example": "我很疑惑为什么冷的时候会寂寞得想找个人聊聊天。",
+   "exampleMeaning": "Tôi tự hỏi không biết tại sao mỗi khi trời lạnh là tôi lại cảm thấy cô đơn như thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìmò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "堂",
+   "meaning": "đường (thường dùng làm tên gọi)",
+   "example": "同仁堂(北京的一家药店)。",
+   "exampleMeaning": "Đồng Nhân Đường (tên một hiệu thuốc ở Bắc Kinh.)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人体",
+   "meaning": "nhân thể",
+   "example": "人体的组织是由细胞构成的。",
+   "exampleMeaning": "Cấu tạo cơ thể người là do các tế bào tạo thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "réntǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "桶",
+   "meaning": "thùng, xô (để múc nước)",
+   "example": "汽油桶",
+   "exampleMeaning": "Thùng xăng",
+   "emoji": "🪣",
+   "ipa": "",
+   "pinyin": "tǒng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "港",
+   "meaning": "danh từ & động từ",
+   "example": "我们来学“港”这个词。",
+   "exampleMeaning": "Cùng học từ “港”: danh từ & động từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寻",
+   "meaning": "nhìn để tìm, sờ để tìm",
+   "example": "我们来学“寻”这个词。",
+   "exampleMeaning": "Cùng học từ “寻”: nhìn để tìm, sờ để tìm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xún",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "豪华",
+   "meaning": "sang trọng, lộng lẫy",
+   "example": "室内摆设非常豪华。",
+   "exampleMeaning": "Trong phòng bày trí rất sang trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háohuá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "改革开放",
+   "meaning": "đề cập đến các chính sách của Đặng Tiểu Bình từ khoảng năm 1980",
+   "example": "我们来学“改革开放”这个词。",
+   "exampleMeaning": "Cùng học từ “改革开放”: đề cập đến các chính sách của Đặng Tiểu Bình từ khoảng năm 1980.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎigékāifàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "独",
+   "meaning": "một, dù là một",
+   "example": "大伙儿都齐了，独有他还没来。",
+   "exampleMeaning": "Mọi người đều đến cả rồi, chỉ một mình nó vẫn chưa đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dú",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "判决",
+   "meaning": "kết án",
+   "example": "判决无期徒刑",
+   "exampleMeaning": "Kết án tù chung thân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pànjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "粘",
+   "meaning": "dán (bằng hồ)",
+   "example": "麦芽糖粘在一块儿了。",
+   "exampleMeaning": "Kẹo mạch nha dính lại thành một cục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "荣誉",
+   "meaning": "vinh dự",
+   "example": "爱护集体的荣誉。",
+   "exampleMeaning": "Bảo vệ danh dự tập thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "甩",
+   "meaning": "ném, vứt, quăng",
+   "example": "袖子一甩就走了。",
+   "exampleMeaning": "Vẫy tay áo rồi đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǎi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相对",
+   "meaning": "tương đối",
+   "example": "相对稳定。",
+   "exampleMeaning": "Ổn định tương đối",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "我",
+    "不",
+    "喜欢",
+    "独处"
+   ],
+   "reading": "wǒ bù xǐhuan dúchǔ",
+   "meaning": "Tôi không thích ở một mình."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "灯光",
+    "太",
+    "暗",
+    "了",
+    "我",
+    "没法",
+    "阅读"
+   ],
+   "reading": "dēngguāng tài àn le wǒ méifǎ yuèdú",
+   "meaning": "Đèn tối quá, tôi không thể đọc sách."
+  },
+  {
+   "tokens": [
+    "她",
+    "给",
+    "了",
+    "她",
+    "父亲",
+    "一",
+    "条",
+    "领带"
+   ],
+   "reading": "tā gěi le tā fùqīn yī tiáo lǐngdài",
+   "meaning": "Cô ấy đã đưa cho bố cô một chiếc cà vạt."
+  }
+ ],
+ "issues": []
+}

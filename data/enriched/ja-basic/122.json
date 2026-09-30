@@ -1,0 +1,323 @@
+{
+ "lesson": 122,
+ "draft": true,
+ "words": [
+  {
+   "term": "記入",
+   "meaning": "sự đi vào",
+   "example": "次にあなたがしなければならないことは、この申し込み用紙に記入することです。",
+   "exampleMeaning": "Việc tiếp theo mà bạn cần làm là điền vào đơn đăng ký này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どうしても",
+   "meaning": "bằng mọi cách",
+   "example": "彼女はどうしても自分の思い通りにしようとする。",
+   "exampleMeaning": "Cô ta nhất định phải làm theo ý mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "営業",
+   "meaning": "việc buôn bán, việc kinh doanh",
+   "example": "トムは車の営業マンだ。",
+   "exampleMeaning": "Tom là một người bán ô tô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "硬い",
+   "meaning": "cứng, rắn",
+   "example": "「硬い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “硬い”: cứng, rắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代える",
+   "meaning": "đổi, đổi chác, trao đổi",
+   "example": "「代える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代える”: đổi, đổi chác, trao đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表情",
+   "meaning": "biểu cảm khuôn mặt",
+   "example": "彼女の表情から怒っているのを察した。",
+   "exampleMeaning": "Nhìn biểu cảm khuôn mặt của cô ấy, tôi đoán là cô ấy đang tức giận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "徹底",
+   "meaning": "tính hoàn toàn, tính hoàn hảo",
+   "example": "「徹底」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “徹底”: tính hoàn toàn, tính hoàn hảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理想",
+   "meaning": "quan niệm, (thuộc) tư tưởng",
+   "example": "彼女の理想のタイプは安住アナらしいよ。",
+   "exampleMeaning": "Tuýp người lý tưởng của cô ấy là những người như phát thanh viên Azumi Shinichiro.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ダイヤ",
+   "meaning": "kim cương",
+   "example": "それって、本物のダイヤモンド？",
+   "exampleMeaning": "Cái đó có phải là kim cương thật không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以来",
+   "meaning": "từ lâu",
+   "example": "10月以来、トムとは会ってないよ。",
+   "exampleMeaning": "Tôi đã không gặp Tom kể từ tháng 10.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いただきます",
+   "meaning": "cám ơn",
+   "example": "「いただきます」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いただきます”: cám ơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "課",
+   "meaning": "cục",
+   "example": "放課後にテニスをしましょう。",
+   "exampleMeaning": "Chúng ta hãy đi chơi tennis sau giờ học nhé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "神",
+   "meaning": "thần",
+   "example": "神は天と地を創造した。",
+   "exampleMeaning": "Chúa đã tạo ra \"Trời\" và \"Đất\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "目上",
+   "meaning": "nhiều tuổi hơn, cao cấp hơn, lâu năm hơn",
+   "example": "「目上」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目上”: nhiều tuổi hơn, cao cấp hơn, lâu năm hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恐ろしい",
+   "meaning": "dễ sợ, ghê gớm, khủng khiếp",
+   "example": "それは恐ろしい事件だった。",
+   "exampleMeaning": "Đó là một vụ việc đáng sợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "機械",
+   "meaning": "máy móc, cơ giới",
+   "example": "僕は機械を組み立てるのが好きだ。",
+   "exampleMeaning": "Tôi thích lắp ráp máy móc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "裸",
+   "meaning": "trần, trần truồng, khoả thân",
+   "example": "子供たちは裸で泳いでいた。",
+   "exampleMeaning": "Bọn trẻ đã bơi khỏa thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支店",
+   "meaning": "cửa hàng chi nhánh",
+   "example": "「支店」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “支店”: cửa hàng chi nhánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恩",
+   "meaning": "thiện ý",
+   "example": "「恩」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “恩”: thiện ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名",
+   "meaning": "tên, danh",
+   "example": "彼は有名になった。",
+   "exampleMeaning": "Anh ấy đã trở nên nổi tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "有名",
+    "になった"
+   ],
+   "reading": "かれはゆうめいになった",
+   "meaning": "Anh ấy đã trở nên nổi tiếng."
+  },
+  {
+   "tokens": [
+    "触らぬ",
+    "神",
+    "に",
+    "祟り",
+    "なし"
+   ],
+   "reading": "さわらぬかみにたたりなし",
+   "meaning": "Tránh voi chả xấu mặt nào."
+  },
+  {
+   "tokens": [
+    "神",
+    "は",
+    "天と地",
+    "を",
+    "創造",
+    "した"
+   ],
+   "reading": "かみはてんとちをそうぞうした",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "放課後",
+    "に",
+    "テニス",
+    "を",
+    "しましょう"
+   ],
+   "reading": "ほうかごにテニスをしましょう",
+   "meaning": "Chúng ta hãy đi chơi tennis sau giờ học nhé."
+  },
+  {
+   "tokens": [
+    "彼らの",
+    "名前",
+    "が",
+    "思い出せなかった"
+   ],
+   "reading": "かれらのなまえがおもいだせなかった",
+   "meaning": "Tôi không thể nhớ nổi tên của họ."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,327 @@
+{
+ "lesson": 77,
+ "draft": true,
+ "words": [
+  {
+   "term": "わざと",
+   "meaning": "cố ý, cố tình",
+   "example": "わざとやったのね！",
+   "exampleMeaning": "Bạn cố ý làm phải không!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無し",
+   "meaning": "không, không có",
+   "example": "君無しでは生きられない。",
+   "exampleMeaning": "Tôi không thể sống thiếu em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "外交",
+   "meaning": "thuật ngoại giao",
+   "example": "その会議には百五十名の外交官が来ました。",
+   "exampleMeaning": "Đã có một trăm năm mươi nhà ngoại giao đã đến tham dự hội nghị đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "活用",
+   "meaning": "sự kết hợp",
+   "example": "チャンスを最大限に活用してみるべきだよ。",
+   "exampleMeaning": "Bạn nên cố tận dụng tối đa những cơ hội mà mình có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ただ",
+   "meaning": "chỉ có một, duy nhất",
+   "example": "はい、いただきましたー！",
+   "exampleMeaning": "Vâng, tôi nhận được rồi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "発達",
+   "meaning": "phát triển",
+   "example": "水泳は筋肉を発達させる。",
+   "exampleMeaning": "Bơi lội giúp cơ bắp phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "航海",
+   "meaning": "tàu, thuyền",
+   "example": "タイタニック号は処女航海で沈没した。",
+   "exampleMeaning": "Tàu Titanic đã chìm trong chuyến ra khơi đầu tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "伝わる",
+   "meaning": "chuyển giao, truyền",
+   "example": "「伝わる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伝わる”: chuyển giao, truyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "広がる",
+   "meaning": "duỗi thẳng (tay, chân... ), kéo dài (thời hạn... ), gia hạn",
+   "example": "世紀末の頃に技術的な変更の影響は一般的な生活にも広がる一方でした。",
+   "exampleMeaning": "Ảnh hưởng của sự cải tiến về kỹ thuật vào thời điểm cuối thế kỷ đã có khuynh hướng lan rộng ra đời sống bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "限界",
+   "meaning": "giới hạn, hạn độ",
+   "example": "そろそろ我慢の限界だよ。",
+   "exampleMeaning": "Tôi sắp không chịu được nữa rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消費",
+   "meaning": "sự tiêu thụ, sự tiêu dùng",
+   "example": "今日では大量の紙が毎日消費されている。",
+   "exampleMeaning": "Ngày nay, giấy được dùng nhiều mỗi ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "友",
+   "meaning": "bạn, bầu bạn",
+   "example": "トムは私の親友だ。",
+   "exampleMeaning": "Tom là bạn thân của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上司",
+   "meaning": "ông chủ, thủ trưởng",
+   "example": "彼の反抗的な態度に上司は腹を立てた。",
+   "exampleMeaning": "Thái độ thách đố của anh ta khiến thủ trưởng tức giận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "叩く",
+   "meaning": "đánh, đập",
+   "example": "「叩く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “叩く”: đánh, đập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "意志",
+   "meaning": "ý chí, chí, ý định",
+   "example": "君は意志が強いな。",
+   "exampleMeaning": "Bạn là một người mạnh mẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "挙げる",
+   "meaning": "nâng lên, đỡ dậy",
+   "example": "「挙げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “挙げる”: nâng lên, đỡ dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "個人",
+   "meaning": "riêng, riêng lẻ, cá nhân",
+   "example": "個人的に、あなたは正しいと思う。",
+   "exampleMeaning": "Cá nhân tôi nghĩ rằng bạn đúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "治療",
+   "meaning": "cách chữa bệnh, cách điều trị",
+   "example": "癌の効果的な治療法はまだ発見されていない。",
+   "exampleMeaning": "Hiện tại vẫn chưa tìm ra cách điều trị hiệu quả bệnh ung thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "身長",
+   "meaning": "chiều cao, bề cao",
+   "example": "トムは私より身長が高いです。",
+   "exampleMeaning": "Tom cao hơn tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "琴",
+   "meaning": "đàn kôtô (13 dây của Nhật)",
+   "example": "彼女は琴を弾くことがとても好きだ。",
+   "exampleMeaning": "Bà ấy rất thích chơi đàn tranh koto.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "だれ",
+    "の",
+    "友達",
+    "ですか"
+   ],
+   "reading": "かれはだれのともだちですか",
+   "meaning": "Anh ấy là bạn của ai vậy?"
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "偶然",
+    "旧友",
+    "に",
+    "会った"
+   ],
+   "reading": "わたしはぐうぜんきゅうゆうにあった",
+   "meaning": "Tôi tình cờ gặp lại người bạn cũ."
+  },
+  {
+   "tokens": [
+    "君",
+    "無しで",
+    "は",
+    "生きられない"
+   ],
+   "reading": "きみなしではいきられない",
+   "meaning": "Tôi không thể sống thiếu em."
+  },
+  {
+   "tokens": [
+    "友情",
+    "ほど",
+    "貴重な",
+    "もの",
+    "は",
+    "ない"
+   ],
+   "reading": "ゆうじょうほどきちょうなものはない",
+   "meaning": "Không gì quan trọng hơn tình bạn."
+  },
+  {
+   "tokens": [
+    "友情",
+    "ほど",
+    "重要な",
+    "もの",
+    "は",
+    "ない"
+   ],
+   "reading": "ゆうじょうほどじゅうようなものはない",
+   "meaning": "Không gì quan trọng hơn tình bạn."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,320 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "嘘",
+   "meaning": "nói dối, nói bịa",
+   "example": "嘘も方便。",
+   "exampleMeaning": "Mục đích biện minh cho phương tiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "研究室",
+   "meaning": "phòng thí nghiệm",
+   "example": "「研究室」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “研究室”: phòng thí nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直す",
+   "meaning": "sửa, sửa chữa, sửa chữa đúng",
+   "example": "壊れていないなら直すな。",
+   "exampleMeaning": "Nếu nó không bị hỏng thì đừng sửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "輸出",
+   "meaning": "hàng xuất khẩu",
+   "example": "「輸出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “輸出”: hàng xuất khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "失礼",
+   "meaning": "sự bất lịch sự, sự thiếu lễ độ",
+   "example": "失礼ですが、この席は空いていますか。",
+   "exampleMeaning": "Cho hỏi chỗ này có ai ngồi chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "危険",
+   "meaning": "sự nguy hiểm, mối hiểm nghèo",
+   "example": "この湖で泳ぐのは危険だ。",
+   "exampleMeaning": "Bơi trong cái hồ này rất nguy hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あげる",
+   "meaning": "cho, tặng (người khác)",
+   "example": "私の車、貸してあげるよ。",
+   "exampleMeaning": "Tôi sẽ cho bạn mượn ô tô của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "工場",
+   "meaning": "nhà máy, xí nghiệp, xưởng",
+   "example": "彼は工場で働いている。",
+   "exampleMeaning": "Anh ấy đang làm việc trong nhà máy.",
+   "emoji": "🏭",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "米",
+   "meaning": "cây lúa, đinh kẹp, má kẹp (hình chữ U)",
+   "example": "英語を巧みに話す米人は日本語で、日本語を巧みに話す日本人は英語で話す。",
+   "exampleMeaning": "Người Mỹ nói giỏi tiếng Anh thì nói tiếng Nhật, còn người Nhật nói giỏi tiếng Nhật thì nói tiếng Anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "十分",
+   "meaning": "đầy đủ, thích đáng",
+   "example": "それは十分ではありません。",
+   "exampleMeaning": "Đó là chưa đủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "沸かす",
+   "meaning": "sôi",
+   "example": "「沸かす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沸かす”: sôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尋ねる",
+   "meaning": "hỏi",
+   "example": "私だったら彼に尋ねるでしょう。",
+   "exampleMeaning": "Nếu tôi là bạn, tôi sẽ hỏi anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "足りる",
+   "meaning": "có khả năng, số đủ dùng, lượng đủ dùng",
+   "example": "このCDを買うに足りるお金を私たちは持っています。",
+   "exampleMeaning": "Chúng tôi có đủ tiền để mua chiếc CD này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "火",
+   "meaning": "ánh lửa, ngọn lửa, sự cháy",
+   "example": "火事だ！逃げろ！",
+   "exampleMeaning": "Cháy! Mau chạy đi!",
+   "emoji": "🔥",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どんどん",
+   "meaning": "tiếng lộp độp đều đều",
+   "example": "「どんどん」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “どんどん”: tiếng lộp độp đều đều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "さっき",
+   "meaning": "a little while ago (EN)",
+   "example": "さっきメアリーが君を探していたよ。",
+   "exampleMeaning": "Vừa nãy Mary tìm bạn đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ごちそう",
+   "meaning": "bữa tiệc, yến tiệc",
+   "example": "「ごちそう」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ごちそう”: bữa tiệc, yến tiệc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "石",
+   "meaning": "đá, một loài vật chất trên đất",
+   "example": "石鹸がありません。",
+   "exampleMeaning": "Tôi không có xà phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "触る",
+   "meaning": "chạm, đụng, sờ",
+   "example": "「触る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “触る”: chạm, đụng, sờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歴史",
+   "meaning": "sử, sử học, lịch sử",
+   "example": "アジアの歴史に興味があります。",
+   "exampleMeaning": "Tôi có hứng thú với lịch sử châu Á.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "石鹸",
+    "が",
+    "ありません"
+   ],
+   "reading": "せっけんがありません",
+   "meaning": "Tôi không có xà phòng."
+  },
+  {
+   "tokens": [
+    "火災報知器",
+    "が",
+    "鳴った"
+   ],
+   "reading": "かさいほうちきがなった",
+   "meaning": "Chuông báo cháy đã vang lên."
+  },
+  {
+   "tokens": [
+    "私",
+    "に",
+    "嘘",
+    "を",
+    "言わないで"
+   ],
+   "reading": "わたしにうそをいわないで",
+   "meaning": "Đừng nói dối tôi."
+  },
+  {
+   "tokens": [
+    "遠く",
+    "に",
+    "灯火",
+    "が",
+    "見えた"
+   ],
+   "reading": "とおくにともしびがみえた",
+   "meaning": "Ở đằng xa, tôi nhìn thấy một ngọn lửa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "工場",
+    "で",
+    "働いている"
+   ],
+   "reading": "かれはこうじょうではたらいている",
+   "meaning": "Anh ấy đang làm việc trong nhà máy."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,314 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "divide",
+   "meaning": "chia, phân chia",
+   "example": "divide by zero",
+   "exampleMeaning": "Chia cho không",
+   "emoji": "➗",
+   "ipa": "/dɪˈvaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dangerous",
+   "meaning": "nguy hiểm",
+   "example": "a dangerous man",
+   "exampleMeaning": "Một người nham hiểm",
+   "emoji": "",
+   "ipa": "/ˈdeɪnd͡ʒ(ə)rəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disagree",
+   "meaning": "bất đồng, không đồng ý",
+   "example": "to disagree with someone on something",
+   "exampleMeaning": "Không đồng ý với ai về cái gì",
+   "emoji": "",
+   "ipa": "/dɪsəˈɡri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "appreciate",
+   "meaning": "đánh giá",
+   "example": "to appreciate the value of...",
+   "exampleMeaning": "Đánh giá đúng giá trị của...",
+   "emoji": "",
+   "ipa": "/əˈpriʃiˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "PC",
+   "meaning": "máy tính cá nhân",
+   "example": "I wanna try building a gaming PC without using Intel, AMD or Nvidia.",
+   "exampleMeaning": "Tôi muốn thử lắp một bộ PC gaming mà không dùng Intel, AMD hoặc Nvidia.",
+   "emoji": "",
+   "ipa": "/ˈpiˈsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "attack",
+   "meaning": "cơn (bệnh)",
+   "example": "to make an attack on enemy positions",
+   "exampleMeaning": "Tấn công các vị trí địch",
+   "emoji": "",
+   "ipa": "/əˈtæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cooler",
+   "meaning": "máy ướp lạnh, thùng lạnh",
+   "example": "a wine cooler",
+   "exampleMeaning": "Máy ướp lạnh rượu vang",
+   "emoji": "",
+   "ipa": "/ˈkulɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "roast",
+   "meaning": "quay, nướng (thịt)",
+   "example": "I'm going to roast some chestnuts.",
+   "exampleMeaning": "Tôi sẽ nướng một ít hạt dẻ.",
+   "emoji": "",
+   "ipa": "/ˈroʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "road",
+   "meaning": "đường",
+   "example": "there is no royal road to...",
+   "exampleMeaning": "Không có cách nào dễ dàng để đạt tới...",
+   "emoji": "",
+   "ipa": "/ˈroʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "yeah",
+   "meaning": "vâng, ừ",
+   "example": "Yeah, I understand.",
+   "exampleMeaning": "Ừ, tôi hiểu.",
+   "emoji": "",
+   "ipa": "/ˈjæ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "progressive",
+   "meaning": "cấp tiến",
+   "example": "Let's learn the word \"progressive\".",
+   "exampleMeaning": "Cùng học từ “progressive”: cấp tiến.",
+   "emoji": "",
+   "ipa": "/prəˈɡrɛsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "punctuation",
+   "meaning": "sự chấm câu",
+   "example": "Let's learn the word \"punctuation\".",
+   "exampleMeaning": "Cùng học từ “punctuation”: sự chấm câu.",
+   "emoji": "",
+   "ipa": "/ˌpəŋktʃuˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wealth",
+   "meaning": "tài sản",
+   "example": "a painting with a wealth of details",
+   "exampleMeaning": "Một bức hoạ phong phú về chi tiết",
+   "emoji": "",
+   "ipa": "/ˈwɛlθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "skating",
+   "meaning": "môn trượt băng",
+   "example": "No one wanted to go ice skating with me.",
+   "exampleMeaning": "Không ai muốn đi trượt băng với tôi.",
+   "emoji": "",
+   "ipa": "/ˈskeɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "committee",
+   "meaning": "ủy ban",
+   "example": "Are you on the committee?",
+   "exampleMeaning": "Bạn có ở trong hội đồng không?",
+   "emoji": "",
+   "ipa": "/kəˈmɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "statue",
+   "meaning": "tượng",
+   "example": "He shaped the statue from clay.",
+   "exampleMeaning": "Anh ấy tạo dáng cho bức tượng từ đất sét.",
+   "emoji": "",
+   "ipa": "/ˈstæt͡ʃ.uː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "singular",
+   "meaning": "số ít",
+   "example": "all and singular",
+   "exampleMeaning": "Tất cả",
+   "emoji": "",
+   "ipa": "/ˈsɪŋɡjəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "familiar",
+   "meaning": "quen thuộc",
+   "example": "This song is familiar to us.",
+   "exampleMeaning": "Bài hát này quen thuộc đối với chúng tôi.",
+   "emoji": "",
+   "ipa": "/fəˈmɪljɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "toward",
+   "meaning": "về phía, hướng về",
+   "example": "Our place is over toward the station.",
+   "exampleMeaning": "Chỗ ở của chúng tôi ở gần nhà ga.",
+   "emoji": "",
+   "ipa": "/ˈtɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "software",
+   "meaning": "phần mềm",
+   "example": "He works for a software company.",
+   "exampleMeaning": "Anh ấy làm việc cho một công ty phần mềm.",
+   "emoji": "",
+   "ipa": "/ˈsɒf(t)ˌwɛə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Fire",
+    "is",
+    "dangerous"
+   ],
+   "reading": "",
+   "meaning": "Hỏa hoạn là nguy hiểm."
+  },
+  {
+   "tokens": [
+    "The",
+    "road",
+    "narrowed"
+   ],
+   "reading": "",
+   "meaning": "Con đường hẹp lại."
+  },
+  {
+   "tokens": [
+    "Yeah",
+    "I",
+    "understand"
+   ],
+   "reading": "",
+   "meaning": "Ừ, tôi hiểu."
+  },
+  {
+   "tokens": [
+    "Cross",
+    "the",
+    "road"
+   ],
+   "reading": "",
+   "meaning": "Đi sang đường đi."
+  },
+  {
+   "tokens": [
+    "The",
+    "road",
+    "flooded"
+   ],
+   "reading": "",
+   "meaning": "Con đường bị ngập."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,330 @@
+{
+ "lesson": 111,
+ "draft": true,
+ "words": [
+  {
+   "term": "乐曲",
+   "meaning": "tác phẩm âm nhạc",
+   "example": "我们来学“乐曲”这个词。",
+   "exampleMeaning": "Cùng học từ “乐曲”: tác phẩm âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "母鸡",
+   "meaning": "gà Mái",
+   "example": "我们来学“母鸡”这个词。",
+   "exampleMeaning": "Cùng học từ “母鸡”: gà Mái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酒水",
+   "meaning": "đồ uống",
+   "example": "我们来学“酒水”这个词。",
+   "exampleMeaning": "Cùng học từ “酒水”: đồ uống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新兴",
+   "meaning": "mới trỗi dậy",
+   "example": "新兴的工业城市。",
+   "exampleMeaning": "Thành phố công nghiệp mới ra đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发炎",
+   "meaning": "sưng",
+   "example": "我们来学“发炎”这个词。",
+   "exampleMeaning": "Cùng học từ “发炎”: sưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发怒",
+   "meaning": "tức giận",
+   "example": "我们来学“发怒”这个词。",
+   "exampleMeaning": "Cùng học từ “发怒”: tức giận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fānù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叹气",
+   "meaning": "than thở",
+   "example": "唉声叹气",
+   "exampleMeaning": "Thở than; thở vắn than dài",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tànqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赶不上",
+   "meaning": "không bằng",
+   "example": "他已经走远了，赶不上了。",
+   "exampleMeaning": "Anh ấy đã đi xa rồi, không đuổi kịp đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnbùshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "台灯",
+   "meaning": "đèn bàn",
+   "example": "我们来学“台灯”这个词。",
+   "exampleMeaning": "Cùng học từ “台灯”: đèn bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táidēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小费",
+   "meaning": "tiền buộc-boa",
+   "example": "我们来学“小费”这个词。",
+   "exampleMeaning": "Cùng học từ “小费”: tiền buộc-boa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎofèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反问",
+   "meaning": "hỏi lại",
+   "example": "我等他把所有的问题都提完了，反问他一句，'你说这些问题该怎么解决呢？'",
+   "exampleMeaning": "Tôi đợi anh ấy nói hết mọi vấn đề rồi hỏi lại một câu, 'anh nói mấy vấn đề này nên giải quyết thế nào'？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnwèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "国产",
+   "meaning": "sản phẩm trong nước",
+   "example": "国产汽车",
+   "exampleMeaning": "Xe hơi sản xuất trong nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guóchǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热水器",
+   "meaning": "bộ đun nước, bình nóng lạnh",
+   "example": "我们来学“热水器”这个词。",
+   "exampleMeaning": "Cùng học từ “热水器”: bộ đun nước, bình nóng lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèshuǐqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同期",
+   "meaning": "cùng khoá",
+   "example": "产量超过历史同期最高水平。",
+   "exampleMeaning": "Sản lượng vượt mức cao nhất cùng thời kỳ lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngqī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "常年",
+   "meaning": "hàng năm",
+   "example": "这儿小麦常年亩产五百斤。",
+   "exampleMeaning": "Hàng năm sản lượng lúa mì ở đây là năm trăm cân một mẫu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "快车",
+   "meaning": "xe tốc hành",
+   "example": "我们来学“快车”这个词。",
+   "exampleMeaning": "Cùng học từ “快车”: xe tốc hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàichē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无边",
+   "meaning": "vô biên",
+   "example": "我们来学“无边”这个词。",
+   "exampleMeaning": "Cùng học từ “无边”: vô biên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúbiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "山峰",
+   "meaning": "đỉnh núi",
+   "example": "我们来学“山峰”这个词。",
+   "exampleMeaning": "Cùng học từ “山峰”: đỉnh núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shānfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民工",
+   "meaning": "dân công",
+   "example": "我们来学“民工”这个词。",
+   "exampleMeaning": "Cùng học từ “民工”: dân công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "整治",
+   "meaning": "làm",
+   "example": "机器出了毛病都是他自己整治。",
+   "exampleMeaning": "Máy móc bị hư đều do anh ấy tự sửa chữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhěngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "十分",
+    "反对",
+    "这个",
+    "项目"
+   ],
+   "reading": "wǒ shífēn fǎnduì zhège xiàngmù",
+   "meaning": "Tôi hoàn toàn phản đối kế hoạch."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "你",
+    "要",
+    "再",
+    "来",
+    "一块",
+    "蛋糕",
+    "吗"
+   ],
+   "reading": "nǐ yào zài lái yīkuài dàngāo ma",
+   "meaning": "Anh có muốn miếng bánh ngọt khác không?"
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

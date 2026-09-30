@@ -1,0 +1,339 @@
+{
+ "lesson": 57,
+ "draft": true,
+ "words": [
+  {
+   "term": "battlefield",
+   "meaning": "chiến trường",
+   "example": "Let's learn the word \"battlefield\".",
+   "exampleMeaning": "Cùng học từ “battlefield”: chiến trường.",
+   "emoji": "",
+   "ipa": "/ˈbætəlˌfild/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hairy",
+   "meaning": "có tóc, có lông",
+   "example": "Let's learn the word \"hairy\".",
+   "exampleMeaning": "Cùng học từ “hairy”: có tóc, có lông.",
+   "emoji": "",
+   "ipa": "/ˈheə.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "paperwork",
+   "meaning": "công việc giấy tờ",
+   "example": "Let's learn the word \"paperwork\".",
+   "exampleMeaning": "Cùng học từ “paperwork”: công việc giấy tờ.",
+   "emoji": "",
+   "ipa": "/ˈpeɪpɜrˌwɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "kerosene",
+   "meaning": "dầu lửa, dầu hỏa",
+   "example": "Let's learn the word \"kerosene\".",
+   "exampleMeaning": "Cùng học từ “kerosene”: dầu lửa, dầu hỏa.",
+   "emoji": "",
+   "ipa": "/ˈkɛrəsiːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unease",
+   "meaning": "sự bất ổn",
+   "example": "Let's learn the word \"unease\".",
+   "exampleMeaning": "Cùng học từ “unease”: sự bất ổn.",
+   "emoji": "",
+   "ipa": "/əˈniz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "expedition",
+   "meaning": "cuộc viễn chinh",
+   "example": "Let's learn the word \"expedition\".",
+   "exampleMeaning": "Cùng học từ “expedition”: cuộc viễn chinh.",
+   "emoji": "",
+   "ipa": "/ˌɛkspəˈdɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "query",
+   "meaning": "thử hỏi, chẳng biết",
+   "example": "query (qu.), has the letter been answered?",
+   "exampleMeaning": "Chẳng biết bức thư đó đã được trả lời hay chưa?",
+   "emoji": "",
+   "ipa": "/ˈkwiri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "transparency",
+   "meaning": "tính trong suốt",
+   "example": "Let's learn the word \"transparency\".",
+   "exampleMeaning": "Cùng học từ “transparency”: tính trong suốt.",
+   "emoji": "",
+   "ipa": "/trænˈspɛrənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "affordable",
+   "meaning": "không đắt: nice clothes at affordable prices",
+   "example": "Let's learn the word \"affordable\".",
+   "exampleMeaning": "Cùng học từ “affordable”: không đắt: nice clothes at affordable prices.",
+   "emoji": "",
+   "ipa": "/əˈfɔrdəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "versus",
+   "meaning": "chống, chống lại, đấu với",
+   "example": "When would you use a graph database versus a relational database?",
+   "exampleMeaning": "Khi nào thì bạn nên dùng một cơ sở dữ liệu đồ thị thay cho cơ sở dữ liệu quan hệ?",
+   "emoji": "",
+   "ipa": "/ˈvɜrsəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unattractive",
+   "meaning": "ít hấp dẫn, không lôi cuốn",
+   "example": "Laura is an unattractive woman.",
+   "exampleMeaning": "Laura là một phụ nữ không hấp dẫn.",
+   "emoji": "",
+   "ipa": "/ˌənəˈtræktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "remains",
+   "meaning": "đồ thừa, cái còn lại",
+   "example": "The event still remains vivid in my memory.",
+   "exampleMeaning": "Chuyện đó vẫn còn in sâu trong đầu tôi.",
+   "emoji": "",
+   "ipa": "/riˈmeɪnz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "offhand",
+   "meaning": "không suy nghĩ trước, ngay tức khắc",
+   "example": "he was rather offhand with me",
+   "exampleMeaning": "Anh ta hơi quá thân mật đối với tôi",
+   "emoji": "",
+   "ipa": "/ˈɔfˈhænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "crease",
+   "meaning": "nếp nhăn, nếp gấp",
+   "example": "Let's learn the word \"crease\".",
+   "exampleMeaning": "Cùng học từ “crease”: nếp nhăn, nếp gấp.",
+   "emoji": "",
+   "ipa": "/ˈkris/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "optimal",
+   "meaning": "tốt nhất",
+   "example": "Let's learn the word \"optimal\".",
+   "exampleMeaning": "Cùng học từ “optimal”: tốt nhất.",
+   "emoji": "",
+   "ipa": "/ˈɑptəməl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spellbound",
+   "meaning": "mê, say mê",
+   "example": "to hold one's audience spellbound",
+   "exampleMeaning": "Làm cho thính giả phải say mê",
+   "emoji": "",
+   "ipa": "/ˈspɛlˌbaʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "overbook",
+   "meaning": "đăng ký trước quá nhiều",
+   "example": "Let's learn the word \"overbook\".",
+   "exampleMeaning": "Cùng học từ “overbook”: đăng ký trước quá nhiều.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌbʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unrealistic",
+   "meaning": "không chân thật, phi hiện thực",
+   "example": "Let's learn the word \"unrealistic\".",
+   "exampleMeaning": "Cùng học từ “unrealistic”: không chân thật, phi hiện thực.",
+   "emoji": "",
+   "ipa": "/ənˌriˈlɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "flawless",
+   "meaning": "không có vết, không rạn nứt",
+   "example": "Let's learn the word \"flawless\".",
+   "exampleMeaning": "Cùng học từ “flawless”: không có vết, không rạn nứt.",
+   "emoji": "",
+   "ipa": "/ˈflɔləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "globally",
+   "meaning": "toàn bộ, tổng thể",
+   "example": "Let's learn the word \"globally\".",
+   "exampleMeaning": "Cùng học từ “globally”: toàn bộ, tổng thể.",
+   "emoji": "",
+   "ipa": "/ˈɡloʊbəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "suspect",
+    "remains",
+    "at",
+    "large"
+   ],
+   "reading": "",
+   "meaning": "Kẻ tình nghi vẫn tự do."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "my",
+    "work",
+    "to",
+    "be",
+    "flawless"
+   ],
+   "reading": "",
+   "meaning": "Tôi muốn công việc của mình được thuận lợi."
+  },
+  {
+   "tokens": [
+    "The",
+    "event",
+    "still",
+    "remains",
+    "vivid",
+    "in",
+    "my",
+    "memory"
+   ],
+   "reading": "",
+   "meaning": "Chuyện đó vẫn còn in sâu trong đầu tôi."
+  },
+  {
+   "tokens": [
+    "She",
+    "spends",
+    "over",
+    "a",
+    "third",
+    "of",
+    "her",
+    "time",
+    "doing",
+    "paperwork"
+   ],
+   "reading": "",
+   "meaning": "Cô ta dành một phần ba đời mình để làm công việc giấy tờ."
+  },
+  {
+   "tokens": [
+    "The",
+    "existence",
+    "of",
+    "the",
+    "soul",
+    "remains",
+    "a",
+    "question",
+    "for",
+    "scientists"
+   ],
+   "reading": "",
+   "meaning": "Sự tồn tại của linh hồn vẫn còn là một câu hỏi đối với các nhà khoa học."
+  }
+ ],
+ "issues": []
+}

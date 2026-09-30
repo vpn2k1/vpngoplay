@@ -1,0 +1,189 @@
+{
+ "id": "en-idioms-work",
+ "lang": "en",
+ "track": "exam",
+ "category": "idioms",
+ "level": "B2–C1",
+ "title": "Thành ngữ công sở & IELTS",
+ "description": "Thành ngữ hay gặp trong công việc và giúp ghi điểm IELTS Speaking.",
+ "words": [
+  {
+   "id": "think-outside-the-box",
+   "term": "think outside the box",
+   "reading": "/ˌθɪŋk ˌaʊtsaɪd ðə ˈbɑːks/",
+   "meaning": "tư duy sáng tạo",
+   "emoji": "📦",
+   "example": "We need to think outside the box.",
+   "exampleMeaning": "Chúng ta cần tư duy sáng tạo."
+  },
+  {
+   "id": "on-the-same-page",
+   "term": "on the same page",
+   "reading": "/ɑːn ðə ˌseɪm ˈpeɪdʒ/",
+   "meaning": "cùng quan điểm",
+   "answers": [
+    "dong quan diem"
+   ],
+   "emoji": "📄",
+   "example": "Let's make sure we're on the same page.",
+   "exampleMeaning": "Hãy đảm bảo chúng ta cùng quan điểm."
+  },
+  {
+   "id": "back-to-square-one",
+   "term": "back to square one",
+   "reading": "/ˌbæk tə ˌskwer ˈwʌn/",
+   "meaning": "quay lại vạch xuất phát",
+   "emoji": "🔙",
+   "example": "The plan failed, so we're back to square one.",
+   "exampleMeaning": "Kế hoạch thất bại nên chúng ta quay lại vạch xuất phát."
+  },
+  {
+   "id": "cut-corners",
+   "term": "cut corners",
+   "reading": "/ˌkʌt ˈkɔːrnərz/",
+   "meaning": "làm ẩu cho nhanh",
+   "emoji": "✂️",
+   "example": "Don't cut corners on safety.",
+   "exampleMeaning": "Đừng làm ẩu cho nhanh khi liên quan đến an toàn."
+  },
+  {
+   "id": "get-the-ball-rolling",
+   "term": "get the ball rolling",
+   "reading": "/ˌɡet ðə ˌbɔːl ˈroʊlɪŋ/",
+   "meaning": "khởi động công việc",
+   "emoji": "⚽",
+   "example": "Let's get the ball rolling with a quick meeting.",
+   "exampleMeaning": "Hãy khởi động công việc bằng một cuộc họp nhanh."
+  },
+  {
+   "id": "touch-base",
+   "term": "touch base",
+   "reading": "/ˌtʌtʃ ˈbeɪs/",
+   "meaning": "liên lạc trao đổi nhanh",
+   "emoji": "📞",
+   "example": "Let's touch base next week.",
+   "exampleMeaning": "Tuần sau mình liên lạc trao đổi nhanh nhé."
+  },
+  {
+   "id": "learn-the-ropes",
+   "term": "learn the ropes",
+   "reading": "/ˌlɜːrn ðə ˈroʊps/",
+   "meaning": "làm quen với công việc mới",
+   "emoji": "🪢",
+   "example": "It takes time to learn the ropes.",
+   "exampleMeaning": "Cần thời gian để làm quen với công việc mới."
+  },
+  {
+   "id": "up-in-the-air",
+   "term": "up in the air",
+   "reading": "/ˌʌp ɪn ði ˈer/",
+   "meaning": "chưa chắc chắn",
+   "answers": [
+    "chua chot"
+   ],
+   "emoji": "🎈",
+   "example": "Our travel plans are still up in the air.",
+   "exampleMeaning": "Kế hoạch du lịch của chúng tôi vẫn chưa chắc chắn."
+  },
+  {
+   "id": "burn-the-midnight-oil",
+   "term": "burn the midnight oil",
+   "reading": "/ˌbɜːrn ðə ˌmɪdnaɪt ˈɔɪl/",
+   "meaning": "thức khuya làm việc",
+   "emoji": "🕯️",
+   "example": "She had to burn the midnight oil to finish the report.",
+   "exampleMeaning": "Cô ấy phải thức khuya làm việc để xong báo cáo."
+  },
+  {
+   "id": "go-the-extra-mile",
+   "term": "go the extra mile",
+   "reading": "/ˌɡoʊ ði ˌekstrə ˈmaɪl/",
+   "meaning": "nỗ lực hơn mong đợi",
+   "emoji": "🏃",
+   "example": "Good employees go the extra mile for customers.",
+   "exampleMeaning": "Nhân viên giỏi luôn nỗ lực hơn mong đợi vì khách hàng."
+  },
+  {
+   "id": "steep-learning-curve",
+   "term": "steep learning curve",
+   "reading": "/ˌstiːp ˈlɜːrnɪŋ ˌkɜːrv/",
+   "meaning": "phải học nhiều trong thời gian ngắn",
+   "emoji": "📈",
+   "example": "The new software has a steep learning curve.",
+   "exampleMeaning": "Phần mềm mới đòi hỏi phải học nhiều trong thời gian ngắn."
+  },
+  {
+   "id": "in-a-nutshell",
+   "term": "in a nutshell",
+   "reading": "/ɪn ə ˈnʌtʃel/",
+   "meaning": "nói tóm lại",
+   "emoji": "🥜",
+   "example": "In a nutshell, the project was a success.",
+   "exampleMeaning": "Nói tóm lại, dự án đã thành công."
+  }
+ ],
+ "sentences": [
+  {
+   "id": "s1",
+   "tokens": [
+    "We",
+    "are",
+    "on",
+    "the",
+    "same",
+    "page"
+   ],
+   "meaning": "Chúng ta cùng quan điểm."
+  },
+  {
+   "id": "s2",
+   "tokens": [
+    "Let's",
+    "think",
+    "outside",
+    "the",
+    "box"
+   ],
+   "meaning": "Hãy tư duy sáng tạo."
+  },
+  {
+   "id": "s3",
+   "tokens": [
+    "The",
+    "date",
+    "is",
+    "still",
+    "up",
+    "in",
+    "the",
+    "air"
+   ],
+   "meaning": "Ngày vẫn chưa được chốt."
+  },
+  {
+   "id": "s4",
+   "tokens": [
+    "In",
+    "a",
+    "nutshell",
+    "we",
+    "need",
+    "more",
+    "time"
+   ],
+   "meaning": "Nói tóm lại, chúng ta cần thêm thời gian."
+  },
+  {
+   "id": "s5",
+   "tokens": [
+    "She",
+    "always",
+    "goes",
+    "the",
+    "extra",
+    "mile"
+   ],
+   "meaning": "Cô ấy luôn nỗ lực hơn mong đợi."
+  }
+ ]
+}

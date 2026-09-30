@@ -1,0 +1,334 @@
+{
+ "lesson": 55,
+ "draft": true,
+ "words": [
+  {
+   "term": "最善",
+   "meaning": "xa nhất, cuối cùng",
+   "example": "これは真に最善の方法だ。",
+   "exampleMeaning": "Đây là phương pháp thích hợp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "荷",
+   "meaning": "hành lý",
+   "example": "私は重い荷物を空港まで引きずって行った。",
+   "exampleMeaning": "Tôi kéo lê túi hành lý nặng đến sân bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "比例",
+   "meaning": "sự cân xứng, sự cân đối",
+   "example": "「比例」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “比例”: sự cân xứng, sự cân đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "並びに",
+   "meaning": "và, cùng, với",
+   "example": "「並びに」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “並びに”: và, cùng, với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "振り返る",
+   "meaning": "sự khởi sắc",
+   "example": "「振り返る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “振り返る”: sự khởi sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "融資",
+   "meaning": "sự cấp vốn",
+   "example": "「融資」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “融資”: sự cấp vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怯える",
+   "meaning": "hoảng sợ, khiếp đảm",
+   "example": "ニューヨーク州バッファロー出身の水牛に怯える同じ出身の水牛は、同時に同じ州の別の水牛を怯えさせている。",
+   "exampleMeaning": "Chính mấy con bò bison tại Buffalo mà bị mấy con bò bison tại Buffalo khác ăn hiếp, lại ăn hiếp mấy con bò bison tại Buffalo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "軍事",
+   "meaning": "military affairs (EN)",
+   "example": "「軍事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “軍事”: military affairs (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紡績",
+   "meaning": "sự xe chỉ",
+   "example": "「紡績」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紡績”: sự xe chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "加工",
+   "meaning": "sự sản xuất",
+   "example": "「加工」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加工”: sự sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "農耕",
+   "meaning": "công việc đồng áng, công việc trồng trọt",
+   "example": "「農耕」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農耕”: công việc đồng áng, công việc trồng trọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気まぐれ",
+   "meaning": "ý chợt nảy ra",
+   "example": "「気まぐれ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気まぐれ”: ý chợt nảy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "フィルタ",
+   "meaning": "cái lọc, máy lọc (xăng, không khí)",
+   "example": "「フィルタ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “フィルタ”: cái lọc, máy lọc (xăng, không khí).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "悟る",
+   "meaning": "hiểu, nắm được ý, biết",
+   "example": "「悟る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “悟る”: hiểu, nắm được ý, biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "堂々",
+   "meaning": "tráng lệ, nguy nga, lộng lẫy",
+   "example": "「堂々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “堂々”: tráng lệ, nguy nga, lộng lẫy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "バット",
+   "meaning": "gậy (đánh bóng chày, crikê)",
+   "example": "「バット」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “バット”: gậy (đánh bóng chày, crikê).",
+   "emoji": "🦇",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理性",
+   "meaning": "lý do, lẽ",
+   "example": "「理性」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “理性”: lý do, lẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沼",
+   "meaning": "ao",
+   "example": "空気中の水分の内90%は海洋、湖沼、河川から蒸発したものだ。",
+   "exampleMeaning": "90% lượng nước trong không khí bao gồm nước bay hơi từ các đại dương, các ao đầm sông suối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "負債",
+   "meaning": "tiêu sản",
+   "example": "「負債」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “負債”: tiêu sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出品",
+   "meaning": "vật trưng bày, vật triển lãm",
+   "example": "価格.comというサイトでは、電化製品ごとに、その商品を出品している各店舗の価格を比較することができます。",
+   "exampleMeaning": "Ở một trang web gọi là kakaku.com, bạn có thể so sánh giá của mỗi sản phẩm điện máy được bày bán ở các cửa hàng khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "重い",
+    "荷物",
+    "を",
+    "空港",
+    "まで",
+    "引きずって",
+    "行った"
+   ],
+   "reading": "わたしはおもいにもつをくうこうまでひきずっていった",
+   "meaning": "Tôi kéo lê túi hành lý nặng đến sân bay."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "真に",
+    "最善",
+    "の",
+    "方法",
+    "だ"
+   ],
+   "reading": "これはしんにさいぜんのほうほうだ",
+   "meaning": "Đây là phương pháp thích hợp nhất."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "彼女の",
+    "意見",
+    "を",
+    "採用",
+    "した"
+   ],
+   "reading": "かれはかのじょのいけんをさいようした",
+   "meaning": "Anh ấy đã làm theo ý kiến của cô ấy."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "好きな",
+    "の",
+    "は",
+    "ゼリー",
+    "です"
+   ],
+   "reading": "かれのすきなのはゼリーです",
+   "meaning": "Thứ anh ấy thích là món thạch rau câu."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "カーテン",
+    "を",
+    "引き上げた"
+   ],
+   "reading": "かのじょはカーテンをひきあげた",
+   "meaning": "Cô ấy kéo màn lên."
+  }
+ ],
+ "issues": []
+}

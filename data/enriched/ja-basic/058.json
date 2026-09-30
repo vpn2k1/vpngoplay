@@ -1,0 +1,331 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "規則",
+   "meaning": "phép tắc, quy tắc, nguyên tắc",
+   "example": "不規則動詞の勉強は好きではない。",
+   "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "光",
+   "meaning": "ánh sáng, ánh sáng mặt trời",
+   "example": "月は自分では光らない。",
+   "exampleMeaning": "Mặt trăng không tự phát sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "息子",
+   "meaning": "con trai",
+   "example": "父も父なら、息子も息子。",
+   "exampleMeaning": "Con vua thì lại làm vua. Con sãi ở chùa thì quét lá đa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "随分",
+   "meaning": "vô cùng, tột bực, tột bậc",
+   "example": "「随分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “随分”: vô cùng, tột bực, tột bậc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公務員",
+   "meaning": "người giữ một chức trách trong bộ máy chính quyền (do bầu cử hoặc bổ nhiệm)",
+   "example": "「公務員」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公務員”: người giữ một chức trách trong bộ máy chính quyền (do bầu cử hoặc bổ nhiệm).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "終わり",
+   "meaning": "sự kết thúc",
+   "example": "ミーティングは終わりました。",
+   "exampleMeaning": "Cuộc họp đã kết thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "格好",
+   "meaning": "sự xuất hiện, sự hiện ra sự ló ra",
+   "example": "私が格好いいと思いますか。",
+   "exampleMeaning": "Bạn có nghĩ tôi ngầu không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "細かい",
+   "meaning": "nhỏ, bé, chật",
+   "example": "細かいことにこだわるな。",
+   "exampleMeaning": "Đừng để ý những chuyện nhỏ nhặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "泥棒",
+   "meaning": "kẻ trộm, kẻ cắp",
+   "example": "どうやら泥棒は窓から入ったみたいだ。",
+   "exampleMeaning": "Có vẻ như tên trộm đã đột nhập qua cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "都合",
+   "meaning": "hoàn cảnh",
+   "example": "明日仕事を始めるのはご都合がよいでしょうか。",
+   "exampleMeaning": "Ngày mai bắt đầu làm việc có tiện không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "今度",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "今度は彼は成功した。",
+   "exampleMeaning": "Lần này anh ta đã thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "この間",
+   "meaning": "day",
+   "example": "「この歌って、この間トムが口ずさんでた歌だよね」「そうだよ。いま話題の曲だよ」",
+   "exampleMeaning": "\"Cái bài này là cái bài mà hôm nọ Tom đã ngân nga có phải không nhỉ?\" \"Đúng đấy. Bài này bây giờ đang hot đấy.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "変える",
+   "meaning": "đổi, thay, thay đổi",
+   "example": "あなたの考えを変えることができると思っていました。",
+   "exampleMeaning": "Tôi đã tưởng là tôi có thể thay đổi suy nghĩ của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "工業",
+   "meaning": "công nghiệp",
+   "example": "１０年経って、世界に石油が不足すると仮定しよう。工業国に何が起こるだろうか。",
+   "exampleMeaning": "Hãy giả sử là sau mười năm, thế giới sẽ thiếu dầu. Vậy điều gì sẽ xảy ra với các nước công nghiệp?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下宿",
+   "meaning": "chỗ trọ, chỗ tạm trú",
+   "example": "「下宿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下宿”: chỗ trọ, chỗ tạm trú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乗り物",
+   "meaning": "xe, xe cộ",
+   "example": "「乗り物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乗り物”: xe, xe cộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "すっかり",
+   "meaning": "tất cả, hết thảy, toàn bộ",
+   "example": "彼はすっかりばてていたが、働き続けなければならなかった。",
+   "exampleMeaning": "Mặc dù anh ta đã mệt lử người, anh ta vẫn phải tiếp tục làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "動く",
+   "meaning": "hoạt động (máy... )",
+   "example": "どういうふうに動くか見せてください。",
+   "exampleMeaning": "Hãy cho tôi xem nó hoạt động thế nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特に",
+   "meaning": "đặc biệt, cá biệt, riêng biệt",
+   "example": "僕はこの点を特に強調したい。",
+   "exampleMeaning": "Tôi muốn đặc biệt nhấn mạnh điểm này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "背中",
+   "meaning": "lưng (người, vật)",
+   "example": "彼女は彼の背中を刺した。",
+   "exampleMeaning": "Cô ấy đâm sau lưng anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今度",
+    "は",
+    "彼",
+    "は",
+    "成功",
+    "した"
+   ],
+   "reading": "こんどはかれはせいこうした",
+   "meaning": "Lần này anh ta đã thành công."
+  },
+  {
+   "tokens": [
+    "父",
+    "も",
+    "父",
+    "なら",
+    "息子",
+    "も",
+    "息子"
+   ],
+   "reading": "ちちもちちならむすこもむすこ",
+   "meaning": "Con vua thì lại làm vua. Con sãi ở chùa thì quét lá đa."
+  },
+  {
+   "tokens": [
+    "今度",
+    "は",
+    "あなた",
+    "が",
+    "運転",
+    "する",
+    "番",
+    "だ"
+   ],
+   "reading": "こんどはあなたがうんてんするばんだ",
+   "meaning": "Lần này đến lượt bạn lái."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "息子",
+    "を",
+    "誇りに思っている"
+   ],
+   "reading": "わたしはむすこをほこりにおもっている",
+   "meaning": "Tôi tự hào về con trai tôi."
+  },
+  {
+   "tokens": [
+    "星",
+    "が",
+    "空",
+    "で",
+    "きらきら",
+    "光っていた"
+   ],
+   "reading": "ほしがそらできらきらひかっていた",
+   "meaning": "Các vì sao đang lấp lánh trên bầu trời."
+  }
+ ],
+ "issues": []
+}

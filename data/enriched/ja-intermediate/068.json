@@ -1,0 +1,337 @@
+{
+ "lesson": 68,
+ "draft": true,
+ "words": [
+  {
+   "term": "激増",
+   "meaning": "sudden increase (EN)",
+   "example": "「激増」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “激増”: sudden increase (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "曲げる",
+   "meaning": "cúi xuống",
+   "example": "「曲げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “曲げる”: cúi xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ファスナー",
+   "meaning": "người buộc, người đóng",
+   "example": "「ファスナー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ファスナー”: người buộc, người đóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見下ろす",
+   "meaning": "trông nom, giám sát",
+   "example": "「見下ろす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見下ろす”: trông nom, giám sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "望遠鏡",
+   "meaning": "kính thiên văn",
+   "example": "「望遠鏡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “望遠鏡”: kính thiên văn.",
+   "emoji": "🔭",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "くっつける",
+   "meaning": "gắn, dán, trói buộc",
+   "example": "「くっつける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “くっつける”: gắn, dán, trói buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直通",
+   "meaning": "kết nối trực tiếp",
+   "example": "「直通」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “直通”: kết nối trực tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発",
+   "meaning": "rời khỏi, ra đi, khởi hành",
+   "example": "喘息の発作が起きました。",
+   "exampleMeaning": "Tôi bị lên cơn hen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "角度",
+   "meaning": "góc",
+   "example": "「角度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “角度”: góc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "耕す",
+   "meaning": "trồng trọt, cày cấy",
+   "example": "「耕す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “耕す”: trồng trọt, cày cấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酒場",
+   "meaning": "barơ (đơn vị áp suất)",
+   "example": "「酒場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “酒場”: barơ (đơn vị áp suất).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り入れる",
+   "meaning": "gặt hái",
+   "example": "「取り入れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り入れる”: gặt hái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温室",
+   "meaning": "nhà kính (trồng rau, hoa)",
+   "example": "彼らは温室でいちごを栽培している。",
+   "exampleMeaning": "Họ đang trồng dâu tây trong nhà kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "売店",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "「売店」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売店”: cửa hàng, cửa hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凸凹",
+   "meaning": "tình trạng không phẳng",
+   "example": "「凸凹」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “凸凹”: tình trạng không phẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "その他",
+   "meaning": "ngoài ra, hơn nữa, vả lại",
+   "example": "その他購入するものはありますでしょうか。",
+   "exampleMeaning": "Quý khách có mua gì thêm nữa không ạ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "比較的",
+   "meaning": "tương đối",
+   "example": "「比較的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “比較的”: tương đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捜す",
+   "meaning": "tìm, đi tìm, tìm kiếm",
+   "example": "私は金を必要としません、私は究極的な真実を捜すだけです。",
+   "exampleMeaning": "Tôi không cần tiền bạc, tôi chỉ tìm kiếm chân lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "断水",
+   "meaning": "water outage (EN)",
+   "example": "水道が断水しました。",
+   "exampleMeaning": "Nước bị cắt rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "強化",
+   "meaning": "làm cho mạnh",
+   "example": "「強化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “強化”: làm cho mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "喘息",
+    "の",
+    "発作",
+    "が",
+    "起きました"
+   ],
+   "reading": "ぜんそくのほっさがおきました",
+   "meaning": "Tôi bị lên cơn hen."
+  },
+  {
+   "tokens": [
+    "水泳",
+    "は",
+    "筋肉",
+    "を",
+    "発達",
+    "させる"
+   ],
+   "reading": "すいえいはきんにくをはったつさせる",
+   "meaning": "Bơi lội giúp cơ bắp phát triển."
+  },
+  {
+   "tokens": [
+    "誰",
+    "が",
+    "ラジウム",
+    "を",
+    "発見",
+    "した",
+    "の",
+    "です",
+    "か"
+   ],
+   "reading": "だれがラジウムをはっけんしたのですか",
+   "meaning": "Ai phát hiện ra nguyên tố Radium vậy?"
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "温室",
+    "で",
+    "いちご",
+    "を",
+    "栽培",
+    "している"
+   ],
+   "reading": "かれらはおんしつでいちごをさいばいしている",
+   "meaning": "Họ đang trồng dâu tây trong nhà kính."
+  },
+  {
+   "tokens": [
+    "誰か",
+    "この",
+    "単語",
+    "を",
+    "発音",
+    "できる",
+    "人",
+    "は",
+    "います",
+    "か"
+   ],
+   "reading": "だれかこのたんごをはつおんできるひとはいますか",
+   "meaning": "Có ai phát âm được từ này không?"
+  }
+ ],
+ "issues": []
+}

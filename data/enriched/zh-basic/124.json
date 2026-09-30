@@ -1,0 +1,324 @@
+{
+ "lesson": 124,
+ "draft": true,
+ "words": [
+  {
+   "term": "维持",
+   "meaning": "duy trì",
+   "example": "维持秩序",
+   "exampleMeaning": "Giữ trật tự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéichí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "迅速",
+   "meaning": "nhanh chóng",
+   "example": "工業發展迅速。",
+   "exampleMeaning": "Công nghiệp phát triển nhanh chóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùnsù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "有趣",
+   "meaning": "thú vị",
+   "example": "这孩子活泼有趣。",
+   "exampleMeaning": "Đứa bé này hoạt bát đáng yêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "似的",
+   "meaning": "dường như",
+   "example": "他仿佛睡着了似的。",
+   "exampleMeaning": "Dường như anh ấy ngủ rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出席",
+   "meaning": "dự, có mặt",
+   "example": "這位朋友沒有出席。",
+   "exampleMeaning": "Bạn này không có mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūxí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "婚礼",
+   "meaning": "lễ cưới",
+   "example": "发出参加婚礼的请帖",
+   "exampleMeaning": "Phát thiệp mời đám cưới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūnlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "财产",
+   "meaning": "tài sản",
+   "example": "国家财产",
+   "exampleMeaning": "Tài sản quốc gia",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáichǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刺",
+   "meaning": "đâm",
+   "example": "手上扎了个刺 。",
+   "exampleMeaning": "Giằm đâm vào tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "工程",
+   "meaning": "công trình",
+   "example": "菜篮子工程(指解决城镇蔬菜、副食供应问题的规划和措施)。",
+   "exampleMeaning": "Công trình rau xanh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肥",
+   "meaning": "bón",
+   "example": "棉袄的袖子太肥了。",
+   "exampleMeaning": "Ống tay áo rộng quá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "féi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "镜头",
+   "meaning": "pô (chụp ảnh)",
+   "example": "照了两个镜头",
+   "exampleMeaning": "Chụp hai pô ảnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngtóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实施",
+   "meaning": "thực thi (pháp lệnh, chính sách)",
+   "example": "这个计划虽然已经决定实施了，但是具体细节还需要从长计议。",
+   "exampleMeaning": "Kế hoạch này mặc dù đã được quyết định thực thi, nhưng mà các chi tiết cụ thể vẫn cần phải được cân nhắc kỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "湿",
+   "meaning": "ẩm",
+   "example": "衣服给雨淋湿了。",
+   "exampleMeaning": "Quần áo bị mưa ướt cả rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暗",
+   "meaning": "tối, tối tăm, tối mò",
+   "example": "灯光太暗了，我没法阅读。",
+   "exampleMeaning": "Đèn tối quá, tôi không thể đọc sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "诗",
+   "meaning": "bài thơ",
+   "example": "我们来学“诗”这个词。",
+   "exampleMeaning": "Cùng học từ “诗”: bài thơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shī",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "类型",
+   "meaning": "loại hình",
+   "example": "我们来学“类型”这个词。",
+   "exampleMeaning": "Cùng học từ “类型”: loại hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèixíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自信",
+   "meaning": "tự tin",
+   "example": "自信能够完成这个任务。",
+   "exampleMeaning": "Tự tin có thể hoàn thành nhiệm vụ này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìxìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "守",
+   "meaning": "đề phòng, phòng, giữ gìn",
+   "example": "守着水的地方，可多种稻子。",
+   "exampleMeaning": "Gần nơi có nước, có thể trồng được nhiều lúa.",
+   "emoji": "💂",
+   "ipa": "",
+   "pinyin": "shǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "操作",
+   "meaning": "thao tác",
+   "example": "在家帮助母亲操作。",
+   "exampleMeaning": "Ở nhà giúp mẹ làm việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāozuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "新鲜",
+   "meaning": "tươi (món ăn mới làm)",
+   "example": "电视机已经不算什么新鲜东西啦。",
+   "exampleMeaning": "Ti vi này không còn là cái gì mới mẻ nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这位",
+    "朋友",
+    "没有",
+    "出席"
+   ],
+   "reading": "zhèwèi péngyou méiyǒu chūxí",
+   "meaning": "Bạn này không có mặt."
+  },
+  {
+   "tokens": [
+    "灯光",
+    "太",
+    "暗",
+    "了",
+    "我",
+    "没法",
+    "阅读"
+   ],
+   "reading": "dēngguāng tài àn le wǒ méifǎ yuèdú",
+   "meaning": "Đèn tối quá, tôi không thể đọc sách."
+  },
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "我们",
+    "的",
+    "眼睛",
+    "需要",
+    "时间",
+    "来",
+    "适应",
+    "黑暗"
+   ],
+   "reading": "wǒmen de yǎnjing xūyào shíjiān lái shìyìng hēiàn",
+   "meaning": "Mắt của chúng ta cần thời gian để điều chỉnh với bóng tối."
+  },
+  {
+   "tokens": [
+    "今天",
+    "很",
+    "热"
+   ],
+   "reading": "jīntiān hěn rè",
+   "meaning": "Hôm nay cực nóng."
+  }
+ ],
+ "issues": []
+}

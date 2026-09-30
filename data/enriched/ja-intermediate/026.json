@@ -1,0 +1,321 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "匙",
+   "meaning": "cái thìa",
+   "example": "「匙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “匙”: cái thìa.",
+   "emoji": "🥄",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "領事",
+   "meaning": "lãnh sự",
+   "example": "「領事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “領事”: lãnh sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坊や",
+   "meaning": "con trai, thiếu niên",
+   "example": "「坊や」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “坊や”: con trai, thiếu niên.",
+   "emoji": "👦",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怒鳴る",
+   "meaning": "la hét, hò hét, reo hò",
+   "example": "「怒鳴る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “怒鳴る”: la hét, hò hét, reo hò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "針路",
+   "meaning": "tiến trình, dòng",
+   "example": "「針路」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “針路”: tiến trình, dòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先端",
+   "meaning": "tiền boa",
+   "example": "リトマス紙で溶液の液性（酸性、中性、塩基性）を調べるときは、リトマス紙をすべて溶液に浸すのではなく、紙の先端の部分だけを浸します。",
+   "exampleMeaning": "Khi đo độ pH của một chất lỏng (tính axít, tính trung tính, tính kiềm) bằng giấy quỳ tím, đừng nhúng toàn bộ tờ giấy vào trong chất lỏng đó, mà hãy chỉ nhúng phần đầu của tờ giấy mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仲直り",
+   "meaning": "sự hoà giải, sự giảng hoà",
+   "example": "「仲直り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仲直り”: sự hoà giải, sự giảng hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "商店",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "「商店」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “商店”: cửa hàng, cửa hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "屋外",
+   "meaning": "ở ngoài trời, ở ngoài nhà",
+   "example": "「屋外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “屋外”: ở ngoài trời, ở ngoài nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見詰める",
+   "meaning": "nhìn chòng chọc, nhìn chằm chằm",
+   "example": "「見詰める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見詰める”: nhìn chòng chọc, nhìn chằm chằm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有難い",
+   "meaning": "biết ơn",
+   "example": "「有難い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “有難い”: biết ơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉢",
+   "meaning": "cái bát",
+   "example": "庭にあった鉢植えをどけたら、小さな虫がうじゃうじゃといて、思わず悲鳴をあげてしまった。",
+   "exampleMeaning": "Khi tôi nhấc bồn cây trong vườn, thì thấy có một đám côn trùng nhỏ nhung nhúc, và tôi bất giác hét lên một tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ダイヤモンド",
+   "meaning": "kim cương",
+   "example": "それって、本物のダイヤモンド？",
+   "exampleMeaning": "Cái đó có phải là kim cương thật không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "重役",
+   "meaning": "giám đốc, người điều khiển",
+   "example": "「重役」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “重役”: giám đốc, người điều khiển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕上がる",
+   "meaning": "hết, đã hoàn thành, đã kết thúc",
+   "example": "「仕上がる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕上がる”: hết, đã hoàn thành, đã kết thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冠",
+   "meaning": "mũ miện, vương miện",
+   "example": "その王様はいつも王冠をかぶっている。",
+   "exampleMeaning": "Vị vua đó lúc nào cũng đeo một chiếc vương miện.",
+   "emoji": "👑",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "素質",
+   "meaning": "tài, tài ba, tài năng",
+   "example": "「素質」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素質”: tài, tài ba, tài năng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "輸血",
+   "meaning": "sự truyền máu",
+   "example": "「輸血」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “輸血”: sự truyền máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吐き気",
+   "meaning": "sự buồn nôn",
+   "example": "「吐き気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “吐き気”: sự buồn nôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "給与",
+   "meaning": "tiền lương",
+   "example": "「給与」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “給与”: tiền lương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "王様",
+    "は",
+    "いつも",
+    "王冠",
+    "を",
+    "かぶっている"
+   ],
+   "reading": "そのおうさまはいつもおうかんをかぶっている",
+   "meaning": "Vị vua đó lúc nào cũng đeo một chiếc vương miện."
+  },
+  {
+   "tokens": [
+    "御",
+    "注目",
+    "ください"
+   ],
+   "reading": "ごちゅうもくください",
+   "meaning": "Xin hãy chú ý!"
+  },
+  {
+   "tokens": [
+    "採点",
+    "しました",
+    "か"
+   ],
+   "reading": "さいてんしましたか",
+   "meaning": "Bạn chấm bài chưa?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "癌",
+    "で",
+    "死んだ"
+   ],
+   "reading": "かれはがんでしんだ",
+   "meaning": "Tom đã chết vì bệnh ung thư."
+  },
+  {
+   "tokens": [
+    "形勢",
+    "は",
+    "逆転",
+    "した"
+   ],
+   "reading": "けいせいはぎゃくてんした",
+   "meaning": "Tình thế đã đảo ngược."
+  }
+ ],
+ "issues": []
+}

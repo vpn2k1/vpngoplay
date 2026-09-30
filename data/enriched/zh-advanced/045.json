@@ -1,0 +1,328 @@
+{
+ "lesson": 45,
+ "draft": true,
+ "words": [
+  {
+   "term": "绅士",
+   "meaning": "thân sĩ",
+   "example": "我们来学“绅士”这个词。",
+   "exampleMeaning": "Cùng học từ “绅士”: thân sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引领",
+   "meaning": "dẫn dắt",
+   "example": "由当地人引领，穿过丛林。",
+   "exampleMeaning": "Do người địa phương dẫn đường, đi xuyên qua rừng rậm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnlǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开张",
+   "meaning": "khai trương",
+   "example": "这家药店明日开张。",
+   "exampleMeaning": "Tiệm thuốc này ngày mai khai trương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāizhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抗拒",
+   "meaning": "chống cự",
+   "example": "奋力抗拒。",
+   "exampleMeaning": "Chống cự mạnh mẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kàngjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "评判",
+   "meaning": "trọng tài",
+   "example": "评判公允。",
+   "exampleMeaning": "Phán xét công bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngpàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不堪",
+   "meaning": "không thể (thường dùng chỉ việc xấu)",
+   "example": "他这个人太不堪了。",
+   "exampleMeaning": "Cái con người này quá quắt quá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùkān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "别扭",
+   "meaning": "hục hặc",
+   "example": "他刚来时，生活感到别扭。",
+   "exampleMeaning": "Lúc anh ấy mới đến, cảm thấy sống chưa quen",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bièniu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大片",
+   "meaning": "kéo ra",
+   "example": "我们来学“大片”这个词。",
+   "exampleMeaning": "Cùng học từ “大片”: kéo ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "轰炸",
+   "meaning": "oanh tạc",
+   "example": "轮番轰炸",
+   "exampleMeaning": "Luân phiên oanh tạc",
+   "emoji": "💣",
+   "ipa": "",
+   "pinyin": "hōngzhà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "融化",
+   "meaning": "tan",
+   "example": "我们来学“融化”这个词。",
+   "exampleMeaning": "Cùng học từ “融化”: tan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rónghuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盏",
+   "meaning": "ngọn (lượng từ, dùng cho đèn)",
+   "example": "一盏电灯",
+   "exampleMeaning": "Một ngọn đèn điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "款式",
+   "meaning": "kiểu",
+   "example": "这个书柜的款式很好。",
+   "exampleMeaning": "Tủ sách này kiểu dáng rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuǎnshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "揉",
+   "meaning": "nhào",
+   "example": "把纸都揉碎了。",
+   "exampleMeaning": "Vò nát cả giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "感性",
+   "meaning": "cảm tính",
+   "example": "难道理智会屈服于单纯的感性吗?",
+   "exampleMeaning": "Lẽ nào lí trí chịu khuất phục trước cảm tính đơn thuần sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流程",
+   "meaning": "tiến trình, dòng",
+   "example": "我们算计着改革生产流程。",
+   "exampleMeaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "探险",
+   "meaning": "thám hiểm",
+   "example": "到南极去探险",
+   "exampleMeaning": "Đi thám hiểm Nam Cực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tànxiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "在线",
+   "meaning": "trực tuyến",
+   "example": "我们来学“在线”这个词。",
+   "exampleMeaning": "Cùng học từ “在线”: trực tuyến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàixiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "完蛋",
+   "meaning": "đi đứt",
+   "example": "我们来学“完蛋”这个词。",
+   "exampleMeaning": "Cùng học từ “完蛋”: đi đứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wándàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "河流",
+   "meaning": "sông",
+   "example": "我们来学“河流”这个词。",
+   "exampleMeaning": "Cùng học từ “河流”: sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héliú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "呼唤",
+   "meaning": "gào to",
+   "example": "祖国在呼唤我们！",
+   "exampleMeaning": "Tổ quốc đang kêu gọi chúng ta！",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūhuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "鼻子",
+    "没办法",
+    "呼吸",
+    "了"
+   ],
+   "reading": "wǒ de bízi méibànfǎ hūxī le",
+   "meaning": "Tôi không thể thở bằng mũi."
+  },
+  {
+   "tokens": [
+    "爱国",
+    "竞赛",
+    "的",
+    "目的",
+    "是",
+    "什么"
+   ],
+   "reading": "àiguó jìngsài de mùdì shì shénme",
+   "meaning": "Mục đích thi đua ái quốc là gì?"
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  }
+ ],
+ "issues": []
+}

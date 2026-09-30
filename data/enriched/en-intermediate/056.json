@@ -1,0 +1,324 @@
+{
+ "lesson": 56,
+ "draft": true,
+ "words": [
+  {
+   "term": "entire",
+   "meaning": "toàn bộ, toàn thể, toàn vẹn",
+   "example": "The entire class stared at Tom.",
+   "exampleMeaning": "Cả lớp đã trố mắt nhìn Tom.",
+   "emoji": "",
+   "ipa": "/ɪnˈtaɪə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "magical",
+   "meaning": "ma thuật, (thuộc) yêu thuật",
+   "example": "Have I accidentally created a magical elixir?",
+   "exampleMeaning": "Có phải tôi đã tình cờ tạo ra một loại thuốc ma thuật không?",
+   "emoji": "",
+   "ipa": "/ˈmædʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "checkout",
+   "meaning": "sự phát hiện lỗi",
+   "example": "Let's learn the word \"checkout\".",
+   "exampleMeaning": "Cùng học từ “checkout”: sự phát hiện lỗi.",
+   "emoji": "",
+   "ipa": "/ˈtʃɛˌkaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "beneath",
+   "meaning": "ở dưới",
+   "example": "Tom is sitting beneath the tree.",
+   "exampleMeaning": "Tom đang ngồi dưới gốc cây.",
+   "emoji": "",
+   "ipa": "/bɪˈniθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "faithful",
+   "meaning": "trung thực, chính xác",
+   "example": "a faithful report",
+   "exampleMeaning": "Báo cáo trung thực, báo cáo chính xác",
+   "emoji": "",
+   "ipa": "/ˈfeɪθfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pace",
+   "meaning": "bước chân, bước",
+   "example": "to go at a foat's (walking) pace",
+   "exampleMeaning": "Đi từng bước",
+   "emoji": "",
+   "ipa": "/ˈpeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "straw",
+   "meaning": "rơm",
+   "example": "Where's my straw hat?",
+   "exampleMeaning": "Cái mũ rơm của tôi đâu?",
+   "emoji": "",
+   "ipa": "/ˈstrɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "freshman",
+   "meaning": "học sinh đại học năm thứ nhất",
+   "example": "Are you a freshman, too?",
+   "exampleMeaning": "Anh cũng là người mới à?",
+   "emoji": "",
+   "ipa": "/ˈfrɛʃmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "outweigh",
+   "meaning": "nặng hơn",
+   "example": "Let's learn the word \"outweigh\".",
+   "exampleMeaning": "Cùng học từ “outweigh”: nặng hơn.",
+   "emoji": "",
+   "ipa": "/ˈaʊtˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "promotion",
+   "meaning": "thăng chức",
+   "example": "to win (obtain, gain, earn) promotion",
+   "exampleMeaning": "Được thăng chức, được thăng cấp",
+   "emoji": "",
+   "ipa": "/pɜrˈmoʊʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "complicate",
+   "meaning": "làm phức tạp, làm rắc rối",
+   "example": "That'll complicate matters more.",
+   "exampleMeaning": "Điều đó sẽ làm vấn đề thêm phức tạp hơn.",
+   "emoji": "",
+   "ipa": "/ˈkɑmpləˌkeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "formally",
+   "meaning": "chính thức",
+   "example": "Let's learn the word \"formally\".",
+   "exampleMeaning": "Cùng học từ “formally”: chính thức.",
+   "emoji": "",
+   "ipa": "/ˈfɔrməli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seaweed",
+   "meaning": "tảo biển",
+   "example": "Let's learn the word \"seaweed\".",
+   "exampleMeaning": "Cùng học từ “seaweed”: tảo biển.",
+   "emoji": "",
+   "ipa": "/ˈsiˌwid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "despair",
+   "meaning": "hết hy vọng, thất vọng, tuyệt vọng",
+   "example": "to drive someone to fall into despair",
+   "exampleMeaning": "Làm ai thất vọng",
+   "emoji": "",
+   "ipa": "/dɪˈspɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "alcohol",
+   "meaning": "rượu",
+   "example": "Tom drinks alcohol even though he shouldn't.",
+   "exampleMeaning": "Tom uống rượu dù không nên.",
+   "emoji": "",
+   "ipa": "/ˈælkəˌhɑl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wire",
+   "meaning": "đánh điện",
+   "example": "to wire a house for electricity",
+   "exampleMeaning": "Mắc điện cho một ngôi nhà",
+   "emoji": "",
+   "ipa": "/ˈwaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "delightful",
+   "meaning": "thích thú, thú vị",
+   "example": "a delightful holiday",
+   "exampleMeaning": "Một ngày nghỉ thú vị",
+   "emoji": "",
+   "ipa": "/dɪˈlaɪtfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "comparable",
+   "meaning": "có thể so sánh được",
+   "example": "Let's learn the word \"comparable\".",
+   "exampleMeaning": "Cùng học từ “comparable”: có thể so sánh được.",
+   "emoji": "",
+   "ipa": "/ˈkɑmpɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "skeleton",
+   "meaning": "bộ xương",
+   "example": "Let's learn the word \"skeleton\".",
+   "exampleMeaning": "Cùng học từ “skeleton”: bộ xương.",
+   "emoji": "",
+   "ipa": "/ˈskɛlətən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anyhow",
+   "meaning": "thế nào cũng được, cách nào cũng được",
+   "example": "pay me anyhow, but do pay me",
+   "exampleMeaning": "Anh trả tôi thế nào cũng được nhưng phải trả tôi",
+   "emoji": "",
+   "ipa": "/ˈɛniˌhaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Where's",
+    "my",
+    "straw",
+    "hat"
+   ],
+   "reading": "",
+   "meaning": "Cái mũ rơm của tôi đâu?"
+  },
+  {
+   "tokens": [
+    "That'll",
+    "complicate",
+    "matters",
+    "more"
+   ],
+   "reading": "",
+   "meaning": "Điều đó sẽ làm vấn đề thêm phức tạp hơn."
+  },
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "a",
+    "freshman",
+    "too"
+   ],
+   "reading": "",
+   "meaning": "Anh cũng là người mới à?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "not",
+    "allowed",
+    "to",
+    "drink",
+    "alcohol"
+   ],
+   "reading": "",
+   "meaning": "Tôi không được phép uống rượu."
+  },
+  {
+   "tokens": [
+    "She",
+    "congratulated",
+    "him",
+    "on",
+    "his",
+    "promotion"
+   ],
+   "reading": "",
+   "meaning": "Cổ chúc mừng ảnh được thăng chức."
+  }
+ ],
+ "issues": []
+}

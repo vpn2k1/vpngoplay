@@ -1,0 +1,321 @@
+{
+ "lesson": 97,
+ "draft": true,
+ "words": [
+  {
+   "term": "事后",
+   "meaning": "sau",
+   "example": "我们来学“事后”这个词。",
+   "exampleMeaning": "Cùng học từ “事后”: sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不怎么",
+   "meaning": "không đặc biệt",
+   "example": "我们来学“不怎么”这个词。",
+   "exampleMeaning": "Cùng học từ “不怎么”: không đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzěnme",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "往来",
+   "meaning": "đi lại, thăm viếng, lai vãng",
+   "example": "大街上往来的车辆很多",
+   "exampleMeaning": "Trên đường phố xe cộ qua lại tấp nập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnglái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "此处",
+   "meaning": "đây (văn học)",
+   "example": "此处禁止停车。",
+   "exampleMeaning": "Cấm đậu xe nơi đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐchù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "来往",
+   "meaning": "giao thiệp, sự đi đi lại lại, sự đi tới đi lui",
+   "example": "他常跟社员们来往。",
+   "exampleMeaning": "Anh ấy thường hay qua lại với xã viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láiwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "动画",
+   "meaning": "hoạt hình",
+   "example": "我们来学“动画”这个词。",
+   "exampleMeaning": "Cùng học từ “动画”: hoạt hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dònghuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "关爱",
+   "meaning": "yêu mến",
+   "example": "老师的关爱使他很受感动。",
+   "exampleMeaning": "Lòng yêu mến của thầy giáo làm cho anh ấy vô cùng cảm động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凡是",
+   "meaning": "phàm là",
+   "example": "凡是新生的事物总是在同旧事物的斗争中成长起来的。",
+   "exampleMeaning": "Phàm là những cái mới bao giờ cũng lớn lên trong cuộc đấu tranh chống lại cái cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fánshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小麦",
+   "meaning": "tiểu mạch",
+   "example": "我们来学“小麦”这个词。",
+   "exampleMeaning": "Cùng học từ “小麦”: tiểu mạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎomài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "氧气",
+   "meaning": "khí ô-xy",
+   "example": "我们来学“氧气”这个词。",
+   "exampleMeaning": "Cùng học từ “氧气”: khí ô-xy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎngqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保健",
+   "meaning": "bảo vệ sức khoẻ",
+   "example": "我们来学“保健”这个词。",
+   "exampleMeaning": "Cùng học từ “保健”: bảo vệ sức khoẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎojiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "野生",
+   "meaning": "hoang dại",
+   "example": "野生植物",
+   "exampleMeaning": "Thực vật hoang dại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yěshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "就是说",
+   "meaning": "đó là, chính là nói",
+   "example": "她已经能够结婚了，也就是说，她是有夫之妇。",
+   "exampleMeaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùshìshuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "出行",
+   "meaning": "xuất hành",
+   "example": "我们来学“出行”这个词。",
+   "exampleMeaning": "Cùng học từ “出行”: xuất hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "残疾",
+   "meaning": "tàn tật",
+   "example": "他的左腿没有治好，落下残疾。",
+   "exampleMeaning": "Chân trái của anh ấy không trị tốt, để lại khuyết tật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cánjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "长远",
+   "meaning": "lâu dài",
+   "example": "长远打算。",
+   "exampleMeaning": "Tính toán dài lâu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángyuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明日",
+   "meaning": "ngày mai",
+   "example": "我们来学“明日”这个词。",
+   "exampleMeaning": "Cùng học từ “明日”: ngày mai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "去掉",
+   "meaning": "vứt đi, bỏ đi",
+   "example": "我们来学“去掉”这个词。",
+   "exampleMeaning": "Cùng học từ “去掉”: vứt đi, bỏ đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qùdiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巧妙",
+   "meaning": "tài tình",
+   "example": "巧妙的计策。",
+   "exampleMeaning": "Kế sách tài tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiǎomiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "传媒",
+   "meaning": "người phổ biến",
+   "example": "我们来学“传媒”这个词。",
+   "exampleMeaning": "Cùng học từ “传媒”: người phổ biến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánméi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "此处",
+    "禁止",
+    "停车"
+   ],
+   "reading": "cǐchù jìnzhǐ tíngchē",
+   "meaning": "Cấm đậu xe nơi đây."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "好",
+    "疼",
+    "停下"
+   ],
+   "reading": "hǎo téng tíngxià",
+   "meaning": "Đau quá! Dừng lại!"
+  },
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  }
+ ],
+ "issues": []
+}

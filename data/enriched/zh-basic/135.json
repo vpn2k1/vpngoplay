@@ -1,0 +1,329 @@
+{
+ "lesson": 135,
+ "draft": true,
+ "words": [
+  {
+   "term": "棵",
+   "meaning": "cây",
+   "example": "他們在那棵大樹的樹蔭下坐了下來。",
+   "exampleMeaning": "Họ ngồi dưới bóng râm của cái cây to kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kē",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "粗",
+   "meaning": "thô",
+   "example": "别拿他当粗人，他的心可细呢!",
+   "exampleMeaning": "Đừng nghĩ anh ta là người lỗ mãng, anh ta tế nhị lắm đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "综合",
+   "meaning": "tổng hợp",
+   "example": "戏剧是一种综合艺术，它包括文学、美术、音乐、建筑各种艺术的成分。",
+   "exampleMeaning": "Kịch là một loại hình nghệ thuật tổng hợp, nó bao gồm các loại hình nghệ thuật văn học, mỹ thuật, âm nhạc, kiến trúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zōnghé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "多年",
+   "meaning": "nhiều năm",
+   "example": "这次到北京来，一方面想游览北京的名胜古迹，另一方面也想看看多年不见的老朋友。",
+   "exampleMeaning": "Lần này đến Bắc Kinh, một mặt là muốn du ngoạn các danh lam thắng cảnh của Bắc Kinh, mặt khác thì là cũng muốn gặp những người bạn cũ đã lâu không gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "形容",
+   "meaning": "tả, diễn tả, mô tả",
+   "example": "他高兴的心情是无法形容的。",
+   "exampleMeaning": "Nỗi vui mừng của anh ấy không thể nào tả được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "青春",
+   "meaning": "thanh xuân",
+   "example": "把青春献给祖国。",
+   "exampleMeaning": "Hiến dâng tuổi thanh xuân cho đất nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngchūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "列车",
+   "meaning": "đoàn tàu",
+   "example": "本次列车开往中山公园。",
+   "exampleMeaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "喜爱",
+   "meaning": "yêu thích",
+   "example": "由港人推举最喜爱的十首唐诗。10",
+   "exampleMeaning": "Bài thơ Đường được người Hồng Công bình chọn là yêu thích nhất",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吸收",
+   "meaning": "giảm",
+   "example": "植物的根吸收水和无机盐。",
+   "exampleMeaning": "Rễ thực vật hút nước và muối vô cơ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīshōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "败",
+   "meaning": "bại",
+   "example": "我担心他会失败。",
+   "exampleMeaning": "Tôi e rằng ông ấy sẽ thất bại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小伙子",
+   "meaning": "chàng trai",
+   "example": "这小伙子既能干又积极，真是没说的。",
+   "exampleMeaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎohuǒzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "舒适",
+   "meaning": "dễ chịu",
+   "example": "我们来学“舒适”这个词。",
+   "exampleMeaning": "Cùng học từ “舒适”: dễ chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会计",
+   "meaning": "kế toán",
+   "example": "我们来学“会计”这个词。",
+   "exampleMeaning": "Cùng học từ “会计”: kế toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàijì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好友",
+   "meaning": "cánh hẩu",
+   "example": "我们来学“好友”这个词。",
+   "exampleMeaning": "Cùng học từ “好友”: cánh hẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尺",
+   "meaning": "người thống trị, người chuyên quyền",
+   "example": "丁字尺 。",
+   "exampleMeaning": "Thước chữ T.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胖子",
+   "meaning": "người mập",
+   "example": "我们来学“胖子”这个词。",
+   "exampleMeaning": "Cùng học từ “胖子”: người mập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pàngzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阅读",
+   "meaning": "đọc",
+   "example": "灯光太暗了，我没法阅读。",
+   "exampleMeaning": "Đèn tối quá, tôi không thể đọc sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèdú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "阿姨",
+   "meaning": "cô, dì",
+   "example": "我的阿姨給了我一台攝影機。",
+   "exampleMeaning": "Dì của tôi đã gửi cho tôi một cái máy quay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āyí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "穷",
+   "meaning": "cùng",
+   "example": "改变一穷二白的面貌。",
+   "exampleMeaning": "Biến đổi bộ mặt nghèo rớt mồng tơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qióng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奋斗",
+   "meaning": "phấn đấu",
+   "example": "为实现伟大理想而奋斗。",
+   "exampleMeaning": "Phấn đấu thực hiện lý tưởng vĩ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèndòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "的",
+    "阿姨",
+    "给",
+    "了",
+    "我",
+    "一",
+    "台",
+    "摄影机"
+   ],
+   "reading": "wǒ de āyí gěi le wǒ yī tái shèyǐngjī",
+   "meaning": "Dì của tôi đã gửi cho tôi một cái máy quay."
+  },
+  {
+   "tokens": [
+    "我",
+    "担心",
+    "他",
+    "会",
+    "失败"
+   ],
+   "reading": "wǒ dānxīn tā huì shībài",
+   "meaning": "Tôi e rằng ông ấy sẽ thất bại."
+  },
+  {
+   "tokens": [
+    "灯光",
+    "太",
+    "暗",
+    "了",
+    "我",
+    "没法",
+    "阅读"
+   ],
+   "reading": "dēngguāng tài àn le wǒ méifǎ yuèdú",
+   "meaning": "Đèn tối quá, tôi không thể đọc sách."
+  },
+  {
+   "tokens": [
+    "阅读",
+    "改善",
+    "思想"
+   ],
+   "reading": "yuèdú gǎishàn sīxiǎng",
+   "meaning": "Đọc sách sẽ cải thiện suy nghĩ."
+  },
+  {
+   "tokens": [
+    "本",
+    "次",
+    "列车",
+    "开往",
+    "中山",
+    "公园"
+   ],
+   "reading": "běn cì lièchē kāiwǎng zhōngshān gōngyuán",
+   "meaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan."
+  }
+ ],
+ "issues": []
+}

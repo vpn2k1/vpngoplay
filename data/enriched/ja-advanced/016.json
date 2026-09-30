@@ -1,0 +1,333 @@
+{
+ "lesson": 16,
+ "draft": true,
+ "words": [
+  {
+   "term": "原子",
+   "meaning": "nguyên tử",
+   "example": "「原子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原子”: nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "根気",
+   "meaning": "tính kiên nhẫn, tính nhẫn nại",
+   "example": "「根気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “根気”: tính kiên nhẫn, tính nhẫn nại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ダース",
+   "meaning": "tá (mười hai)",
+   "example": "卵１ダース、買ってきたよ。",
+   "exampleMeaning": "Tôi đã mua một tá trứng rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "満月",
+   "meaning": "tuần trăng tròn",
+   "example": "「満月」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “満月”: tuần trăng tròn.",
+   "emoji": "🌕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕掛ける",
+   "meaning": "xếp, để, đặt",
+   "example": "「仕掛ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕掛ける”: xếp, để, đặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対話",
+   "meaning": "sự nói chuyện",
+   "example": "「対話」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対話”: sự nói chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夕暮れ",
+   "meaning": "buổi chiều, buổi tối, tối đêm",
+   "example": "「夕暮れ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夕暮れ”: buổi chiều, buổi tối, tối đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年輪",
+   "meaning": "vòng sinh trưởng (của cây từng năm)",
+   "example": "「年輪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年輪”: vòng sinh trưởng (của cây từng năm).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敗北",
+   "meaning": "sự thất bại (của một kế hoạch... )",
+   "example": "「敗北」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “敗北”: sự thất bại (của một kế hoạch... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "飼育",
+   "meaning": "sự sinh sản",
+   "example": "彼は牛と馬を飼育している。",
+   "exampleMeaning": "Anh ta nuôi bò và ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "顔付き",
+   "meaning": "biểu cảm khuôn mặt",
+   "example": "「顔付き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “顔付き”: biểu cảm khuôn mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文書",
+   "meaning": "văn kiện",
+   "example": "「文書」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “文書”: văn kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部下",
+   "meaning": "phụ, phụ thuộc, lệ thuộc",
+   "example": "「部下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “部下”: phụ, phụ thuộc, lệ thuộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未熟",
+   "meaning": "sự thiếu kinh nghiệm",
+   "example": "トムは未熟児で生まれた。",
+   "exampleMeaning": "Tom là một người sinh non.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "軌道",
+   "meaning": "ổ mắt",
+   "example": "「軌道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “軌道”: ổ mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "結成",
+   "meaning": "sự hình thành, sự tạo thành, sự lập nên",
+   "example": "「結成」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “結成”: sự hình thành, sự tạo thành, sự lập nên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短波",
+   "meaning": "sóng ngắn",
+   "example": "「短波」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “短波”: sóng ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "淑やか",
+   "meaning": "có duyên, duyên dáng, yêu kiều",
+   "example": "「淑やか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “淑やか”: có duyên, duyên dáng, yêu kiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芝",
+   "meaning": "vải batit (một thứ vải gai mịn)",
+   "example": "母は私に芝を刈るように言った。",
+   "exampleMeaning": "Mẹ tôi bảo tôi đi cắt cỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "橋渡し",
+   "meaning": "sự điều đình, sự hoà giải, sự dàn xếp",
+   "example": "「橋渡し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “橋渡し”: sự điều đình, sự hoà giải, sự dàn xếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "牛",
+    "と",
+    "馬",
+    "を",
+    "飼育",
+    "している"
+   ],
+   "reading": "かれはうしとうまをしいくしている",
+   "meaning": "Anh ta nuôi bò và ngựa."
+  },
+  {
+   "tokens": [
+    "母",
+    "は",
+    "私",
+    "に",
+    "芝",
+    "を",
+    "刈る",
+    "ように",
+    "言った"
+   ],
+   "reading": "はははわたしにしばをかるようにいった",
+   "meaning": "Mẹ tôi bảo tôi đi cắt cỏ."
+  },
+  {
+   "tokens": [
+    "朝食",
+    "は",
+    "何",
+    "を",
+    "食べた",
+    "の"
+   ],
+   "reading": "ちょうしょくはなにをたべたの",
+   "meaning": "Bữa sáng bạn ăn gì?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "大佐",
+    "に",
+    "昇進",
+    "した"
+   ],
+   "reading": "かれはたいさにしょうしんした",
+   "meaning": "Anh ấy được thăng cấp lên Đại tá."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "油絵",
+    "を",
+    "始めた"
+   ],
+   "reading": "かのじょはあぶらえをはじめた",
+   "meaning": "Cô ấy đã bắt đầu vẽ tranh sơn dầu."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,314 @@
+{
+ "lesson": 82,
+ "draft": true,
+ "words": [
+  {
+   "term": "angel",
+   "meaning": "thiên thần, thiên sứ",
+   "example": "the angel of death",
+   "exampleMeaning": "Thiên thần báo tử",
+   "emoji": "",
+   "ipa": "/ˈeɪndʒəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tourist",
+   "meaning": "nhà du lịch, khách du lịch",
+   "example": "I would like a tourist visa.",
+   "exampleMeaning": "Tôi muốn có một thị thực du lịch.",
+   "emoji": "",
+   "ipa": "/ˈtʊrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "challenge",
+   "meaning": "thách, thách thức",
+   "example": "to take up (accept) a challenge",
+   "exampleMeaning": "Nhận lời thách thức",
+   "emoji": "",
+   "ipa": "/ˈt͡ʃæl.ɪnd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "description",
+   "meaning": "hạng, loại",
+   "example": "a person of such description",
+   "exampleMeaning": "Người thuộc hạng như thế ấy",
+   "emoji": "",
+   "ipa": "/dɪsˈkrɪpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slim",
+   "meaning": "mảnh khảnh, mảnh dẻ, thon",
+   "example": "Let's learn the word \"slim\".",
+   "exampleMeaning": "Cùng học từ “slim”: mảnh khảnh, mảnh dẻ, thon.",
+   "emoji": "",
+   "ipa": "/ˈslɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "salt",
+   "meaning": "muối",
+   "example": "to salt one's conversation with wit",
+   "exampleMeaning": "Làm cho câu chuyện thêm ý nhị bằng những câu nói hóm hỉnh",
+   "emoji": "🧂",
+   "ipa": "/ˈsɔlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "snowboarding",
+   "meaning": "tấm chắn tuyết",
+   "example": "Let's learn the word \"snowboarding\".",
+   "exampleMeaning": "Cùng học từ “snowboarding”: tấm chắn tuyết.",
+   "emoji": "",
+   "ipa": "/snˈəʊbɔːdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bay",
+   "meaning": "ngựa hồng",
+   "example": "a bay horse",
+   "exampleMeaning": "Ngựa hồng",
+   "emoji": "",
+   "ipa": "/ˈbeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "brake",
+   "meaning": "phanh",
+   "example": "He pressed the brake pedal.",
+   "exampleMeaning": "Ông ấy đã đạp phanh.",
+   "emoji": "",
+   "ipa": "/ˈbreɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "energetic",
+   "meaning": "mạnh mẽ, mãnh liệt, đầy nghị lực",
+   "example": "Let's learn the word \"energetic\".",
+   "exampleMeaning": "Cùng học từ “energetic”: mạnh mẽ, mãnh liệt, đầy nghị lực.",
+   "emoji": "",
+   "ipa": "/ˌɛnɜrˈdʒɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "feather",
+   "meaning": "lông vũ, lông (chim)",
+   "example": "could have knocked him down with a feather",
+   "exampleMeaning": "Chạm nhẹ một cái nó cũng có thể ngã được",
+   "emoji": "🪶",
+   "ipa": "/ˈfɛðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thunderstorm",
+   "meaning": "bão tố có sấm sét",
+   "example": "Let's learn the word \"thunderstorm\".",
+   "exampleMeaning": "Cùng học từ “thunderstorm”: bão tố có sấm sét.",
+   "emoji": "",
+   "ipa": "/ˈθəndɜrˌstɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boiled",
+   "meaning": "nhọt, đinh",
+   "example": "Would you prefer chips or boiled potatoes?",
+   "exampleMeaning": "Bạn muốn khoai tây chiên hay khoai tây luộc hơn?",
+   "emoji": "",
+   "ipa": "/ˈbɔɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pilot",
+   "meaning": "người lái (máy bay), phi công",
+   "example": "The pilot of an airliner is responsible for the safety of passengers.",
+   "exampleMeaning": "Phi công của máy bay dân dụng là người chịu trách nhiệm cho sự an toàn của hành khách.",
+   "emoji": "🧑‍✈",
+   "ipa": "/ˈpaɪlət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "terrify",
+   "meaning": "làm khiếp sợ, làm kinh hãi",
+   "example": "Let's learn the word \"terrify\".",
+   "exampleMeaning": "Cùng học từ “terrify”: làm khiếp sợ, làm kinh hãi.",
+   "emoji": "",
+   "ipa": "/ˈtɛrəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pride",
+   "meaning": "đàn, bầy",
+   "example": "in the full pride of youth",
+   "exampleMeaning": "Ở tuổi thanh xuân phơi phới",
+   "emoji": "",
+   "ipa": "/ˈpraɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "natural",
+   "meaning": "tự nhiên, đương nhiên, tất nhiên",
+   "example": "it is natural that you should think so",
+   "exampleMeaning": "Lẽ tất nhiên là anh phải nghĩ như vậy",
+   "emoji": "",
+   "ipa": "/ˈnætʃɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "agent",
+   "meaning": "người đại lý",
+   "example": "Let's learn the word \"agent\".",
+   "exampleMeaning": "Cùng học từ “agent”: người đại lý.",
+   "emoji": "",
+   "ipa": "/ˈeɪ.d͡ʒənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "attempt",
+   "meaning": "sự mưu hại, sự xâm phạm, sự phạm đến",
+   "example": "to fail in one's attempt",
+   "exampleMeaning": "Thử làm nhưng thất bại",
+   "emoji": "",
+   "ipa": "/əˈtɛmpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bride",
+   "meaning": "cô dâu",
+   "example": "The bride is wearing a white wedding dress.",
+   "exampleMeaning": "Cô dâu đang mặc một chiếc váy cưới màu trắng.",
+   "emoji": "",
+   "ipa": "/ˈbraɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Don't",
+    "brake",
+    "suddenly"
+   ],
+   "reading": "",
+   "meaning": "Đừng phanh đột ngột."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "snowboarding"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích trượt ván trên tuyết."
+  },
+  {
+   "tokens": [
+    "Seawater",
+    "contains",
+    "salt"
+   ],
+   "reading": "",
+   "meaning": "Nước biển có chứa muối."
+  },
+  {
+   "tokens": [
+    "The",
+    "challenge",
+    "began"
+   ],
+   "reading": "",
+   "meaning": "Thử thách đã bắt đầu."
+  },
+  {
+   "tokens": [
+    "Who'll",
+    "challenge",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Ai sẽ thách thức tôi?"
+  }
+ ],
+ "issues": []
+}

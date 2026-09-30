@@ -1,0 +1,329 @@
+{
+ "lesson": 114,
+ "draft": true,
+ "words": [
+  {
+   "term": "貫禄",
+   "meaning": "sự có mặt",
+   "example": "「貫禄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貫禄”: sự có mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "云々",
+   "meaning": "vân vân",
+   "example": "「云々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “云々”: vân vân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "経路",
+   "meaning": "con đường, đường đi, đường lối",
+   "example": "パリへの最短経路に従って",
+   "exampleMeaning": "Theo con đường ngắn nhất để tới Paris.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小売",
+   "meaning": "sự bán lẻ",
+   "example": "「小売」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小売”: sự bán lẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "探検",
+   "meaning": "sự thăm dò, sự thám hiểm",
+   "example": "「探検」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “探検”: sự thăm dò, sự thám hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "コントラスト",
+   "meaning": "sự tương phản, sự trái ngược (giữa)",
+   "example": "「コントラスト」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “コントラスト”: sự tương phản, sự trái ngược (giữa).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纏まり",
+   "meaning": "sự kết thúc, sự chấm dứt",
+   "example": "「纏まり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “纏まり”: sự kết thúc, sự chấm dứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "殺人",
+   "meaning": "giết, ám sát",
+   "example": "その殺人事件は依然として謎である。",
+   "exampleMeaning": "Vụ án giết người đó cho đến bây giờ vẫn còn là một ẩn số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "詐欺",
+   "meaning": "sự gian lận, sự gian trá",
+   "example": "「詐欺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “詐欺”: sự gian lận, sự gian trá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "制する",
+   "meaning": "điều khiển, chỉ huy, làm chủ",
+   "example": "「制する」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “制する”: điều khiển, chỉ huy, làm chủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分配",
+   "meaning": "sự chia",
+   "example": "「分配」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分配”: sự chia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分散",
+   "meaning": "sự giải tán, sự phân tán",
+   "example": "「分散」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分散”: sự giải tán, sự phân tán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "骨董品",
+   "meaning": "vật hiếm có, của quý (đồ mỹ thuật)",
+   "example": "「骨董品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “骨董品”: vật hiếm có, của quý (đồ mỹ thuật).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "治安",
+   "meaning": "trật tự công cộng",
+   "example": "「治安」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “治安”: trật tự công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "激励",
+   "meaning": "sự làm can đảm, sự làm mạnh dạn",
+   "example": "「激励」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “激励”: sự làm can đảm, sự làm mạnh dạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脈",
+   "meaning": "mạch",
+   "example": "それは文脈による。",
+   "exampleMeaning": "Cái đó tùy thuộc vào văn cảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "きっかり",
+   "meaning": "chính xác, đúng đắn",
+   "example": "「きっかり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “きっかり”: chính xác, đúng đắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "濯ぐ",
+   "meaning": "+ out) súc, rửa",
+   "example": "「濯ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “濯ぐ”: + out) súc, rửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "措置",
+   "meaning": "sự đo, sự đo lường",
+   "example": "「措置」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “措置”: sự đo, sự đo lường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "複合",
+   "meaning": "hợp lại",
+   "example": "「複合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “複合”: hợp lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "その",
+    "とき",
+    "急いでいた"
+   ],
+   "reading": "わたしたちはそのときいそいでいた",
+   "meaning": "Lúc đó chúng tôi đang rất vội."
+  },
+  {
+   "tokens": [
+    "殺害",
+    "の",
+    "動機",
+    "は",
+    "明らか",
+    "ではない"
+   ],
+   "reading": "さつがいのどうきはあきらかではない",
+   "meaning": "Động cơ của vụ án mạng chưa được làm rõ."
+  },
+  {
+   "tokens": [
+    "健康",
+    "が",
+    "私",
+    "にとって",
+    "すべて",
+    "です"
+   ],
+   "reading": "けんこうがわたしにとってすべてです",
+   "meaning": "Sức khỏe là tất cả đối với tôi."
+  },
+  {
+   "tokens": [
+    "つまらない",
+    "試合",
+    "に",
+    "飽きて",
+    "きた"
+   ],
+   "reading": "つまらないしあいにあきてきた",
+   "meaning": "Tôi nản cái trận đấu nhàm chán này lắm rồi."
+  },
+  {
+   "tokens": [
+    "その",
+    "建物",
+    "は",
+    "三年",
+    "前",
+    "に",
+    "崩壊",
+    "した"
+   ],
+   "reading": "そのたてものはさんねんまえにほうかいした",
+   "meaning": "Tòa nhà đó sập đổ 3 năm trước."
+  }
+ ],
+ "issues": []
+}

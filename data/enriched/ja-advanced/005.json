@@ -1,0 +1,329 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "あやふや",
+   "meaning": "không chắc, còn ngờ",
+   "example": "「あやふや」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “あやふや”: không chắc, còn ngờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重複",
+   "meaning": "sự sao lại, sự sao lục",
+   "example": "「重複」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “重複”: sự sao lại, sự sao lục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ありふれる",
+   "meaning": "chung, công, công cộng",
+   "example": "「ありふれる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ありふれる”: chung, công, công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "親善",
+   "meaning": "tình bạn",
+   "example": "「親善」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “親善”: tình bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不服",
+   "meaning": "sự không bằng lòng, sự không hài lòng",
+   "example": "「不服」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不服”: sự không bằng lòng, sự không hài lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発育",
+   "meaning": "sự lớn mạnh, sự phát triển",
+   "example": "「発育」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発育”: sự lớn mạnh, sự phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対等",
+   "meaning": "tương đương",
+   "example": "「対等」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対等”: tương đương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ぼやく",
+   "meaning": "càu nhàu, cằn nhằn",
+   "example": "「ぼやく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぼやく”: càu nhàu, cằn nhằn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正常",
+   "meaning": "normality, trạng thái thường, tính chất bình thường",
+   "example": "全てが正常に戻りつつある。",
+   "exampleMeaning": "Mọi thứ đang trở lại bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "境遇",
+   "meaning": "môi trường, hoàn cảnh",
+   "example": "「境遇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “境遇”: môi trường, hoàn cảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "君主",
+   "meaning": "người thống trị, người chuyên quyền",
+   "example": "「君主」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “君主”: người thống trị, người chuyên quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "湿気る",
+   "meaning": "làm ẩm, thấm ướt",
+   "example": "「湿気る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “湿気る”: làm ẩm, thấm ướt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "走行",
+   "meaning": "cuộc chạy đua",
+   "example": "走行中の箱乗りはご遠慮下さい！",
+   "exampleMeaning": "Xin quý khách không thò đầu ra cửa sổ khi xe đang chạy!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "錯誤",
+   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "example": "「錯誤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “錯誤”: lỗi, sai lầm, lỗi lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "施設",
+   "meaning": "sự thành lập, sự thiết lập, sự kiến lập",
+   "example": "「施設」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “施設”: sự thành lập, sự thiết lập, sự kiến lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "はかない",
+   "meaning": "ngắn, tồn tại trong một thời gian ngắn",
+   "example": "「はかない」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “はかない”: ngắn, tồn tại trong một thời gian ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密集",
+   "meaning": "đám đông",
+   "example": "そこは新しい家が密集する地域だ。",
+   "exampleMeaning": "Khu vực đó đầy rẫy nhà mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "欺く",
+   "meaning": "lừa dối, đánh lừa, lừa đảo",
+   "example": "「欺く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “欺く”: lừa dối, đánh lừa, lừa đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "つねる",
+   "meaning": "vấu, véo, kẹp",
+   "example": "「つねる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “つねる”: vấu, véo, kẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乏しい",
+   "meaning": "gầy còm, gầy gò, khẳng khiu",
+   "example": "「乏しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乏しい”: gầy còm, gầy gò, khẳng khiu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "そこ",
+    "は",
+    "新しい",
+    "家",
+    "が",
+    "密集",
+    "する",
+    "地域",
+    "だ"
+   ],
+   "reading": "そこはあたらしいいえがみっしゅうするちいきだ",
+   "meaning": "Khu vực đó đầy rẫy nhà mới."
+  },
+  {
+   "tokens": [
+    "形勢",
+    "は",
+    "逆転",
+    "した"
+   ],
+   "reading": "けいせいはぎゃくてんした",
+   "meaning": "Tình thế đã đảo ngược."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "法",
+    "を",
+    "犯した"
+   ],
+   "reading": "かれはほうをおかした",
+   "meaning": "Anh ấy đã vi phạm pháp luật."
+  },
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "薬",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "こうのくすりはおつのどく",
+   "meaning": "Cái sướng cho người này là cái khổ cho người khác."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "穴",
+    "を",
+    "掘った"
+   ],
+   "reading": "かれはあなをほった",
+   "meaning": "Anh ấy đã đào một cái hố."
+  }
+ ],
+ "issues": []
+}

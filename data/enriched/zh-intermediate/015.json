@@ -1,0 +1,325 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "一辈子",
+   "meaning": "suốt đời",
+   "example": "这件事我一辈子也忘不了。",
+   "exampleMeaning": "Suốt đời tôi cũng không quên được việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yībèizi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "全世界",
+   "meaning": "toàn bộ thế giới",
+   "example": "我们来学“全世界”这个词。",
+   "exampleMeaning": "Cùng học từ “全世界”: toàn bộ thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánshìjiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "说法",
+   "meaning": "cách nói",
+   "example": "你会说法语吗？",
+   "exampleMeaning": "Cậu có biết nói tiếng Pháp không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōfa",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "评论",
+   "meaning": "bình luận",
+   "example": "评论好坏。",
+   "exampleMeaning": "Bình luận tốt xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínglùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "物质",
+   "meaning": "vật chất",
+   "example": "物质生活。",
+   "exampleMeaning": "Cuộc sống vật chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "躲",
+   "meaning": "tránh, tránh xa",
+   "example": "明枪易躲，暗箭难防。",
+   "exampleMeaning": "Tránh được mũi giáo trước mặt, khó phòng tên ngầm sau lưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冒",
+   "meaning": "phát ra (ánh sáng, nhiệt...), bốc ra",
+   "example": "我们来学“冒”这个词。",
+   "exampleMeaning": "Cùng học từ “冒”: phát ra (ánh sáng, nhiệt...), bốc ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mào",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "烂",
+   "meaning": "nát",
+   "example": "樱桃和葡萄容易烂。",
+   "exampleMeaning": "Đào và nho dễ thối rữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "làn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尤其",
+   "meaning": "đặc biệt là",
+   "example": "我喜欢图画，尤其喜欢中国画。",
+   "exampleMeaning": "Tôi thích tranh vẽ, đặc biệt là tranh vẽ Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuqí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "醉",
+   "meaning": "say",
+   "example": "醉得不省人事。",
+   "exampleMeaning": "Say đến bất tỉnh nhân sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扔",
+   "meaning": "ném, vứt, quăng",
+   "example": "这条鱼臭了，把它扔了吧。",
+   "exampleMeaning": "Vứt con cá ương này đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时光",
+   "meaning": "thời gian",
+   "example": "我们来学“时光”这个词。",
+   "exampleMeaning": "Cùng học từ “时光”: thời gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "礼",
+   "meaning": "lễ, lễ nghi, nghi thức",
+   "example": "送你一点礼物。",
+   "exampleMeaning": "Biếu chị một chút quà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "博士",
+   "meaning": "tiến sĩ",
+   "example": "文学博士",
+   "exampleMeaning": "Tiến sĩ văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bóshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "或是",
+   "meaning": "hoặc / hoặc một trong hai",
+   "example": "我们来学“或是”这个词。",
+   "exampleMeaning": "Cùng học từ “或是”: hoặc / hoặc một trong hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浪漫",
+   "meaning": "lãng mạn",
+   "example": "富有浪漫色彩。",
+   "exampleMeaning": "Mang đầy vẻ lãng mạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "làngmàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "道德",
+   "meaning": "đạo đức",
+   "example": "综上所述，我们认为离婚是一种不道德的行为。",
+   "exampleMeaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàodé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "编辑",
+   "meaning": "biên tập",
+   "example": "编辑工作。",
+   "exampleMeaning": "Công tác biên tập",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biānjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "私人",
+   "meaning": "tư, riêng, riêng tư",
+   "example": "私人企业。",
+   "exampleMeaning": "Xí nghiệp tư nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辛苦",
+   "meaning": "vất vả",
+   "example": "这事儿还得您辛苦一趟。",
+   "exampleMeaning": "Việc này vẫn phải anh vất vả một chuyến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnkǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  },
+  {
+   "tokens": [
+    "她",
+    "说",
+    "法语"
+   ],
+   "reading": "tā shuō fǎyǔ",
+   "meaning": "Cô ấy nói tiếng Pháp."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "说",
+    "法语"
+   ],
+   "reading": "wǒ huì shuō fǎyǔ",
+   "meaning": "Tôi biết nói tiếng Pháp."
+  },
+  {
+   "tokens": [
+    "送",
+    "你",
+    "一点",
+    "礼物"
+   ],
+   "reading": "sòng nǐ yīdiǎn lǐwù",
+   "meaning": "Biếu chị một chút quà."
+  },
+  {
+   "tokens": [
+    "你",
+    "会",
+    "说",
+    "法语",
+    "吗"
+   ],
+   "reading": "nǐ huì shuō fǎyǔ ma",
+   "meaning": "Cậu có biết nói tiếng Pháp không?"
+  }
+ ],
+ "issues": []
+}

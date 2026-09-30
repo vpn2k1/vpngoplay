@@ -1,0 +1,325 @@
+{
+ "lesson": 64,
+ "draft": true,
+ "words": [
+  {
+   "term": "deadline",
+   "meaning": "hạn chót",
+   "example": "The deadline is tomorrow afternoon at 2:30.",
+   "exampleMeaning": "Hạn chót là chiều mai lúc 2:30.",
+   "emoji": "",
+   "ipa": "/ˈdɛdˌlaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adorable",
+   "meaning": "đáng kính yêu, đáng quý mến, đáng yêu",
+   "example": "Let's learn the word \"adorable\".",
+   "exampleMeaning": "Cùng học từ “adorable”: đáng kính yêu, đáng quý mến, đáng yêu.",
+   "emoji": "",
+   "ipa": "/əˈdɔrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "liver",
+   "meaning": "người sống",
+   "example": "to have a liver",
+   "exampleMeaning": "Bị đau gan",
+   "emoji": "",
+   "ipa": "/ˈlɪvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "application",
+   "meaning": "đơn xin",
+   "example": "the application of a plaster to a wound",
+   "exampleMeaning": "Sự đắp thuốc vào vết thương",
+   "emoji": "",
+   "ipa": "/ˌæpləˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "preparation",
+   "meaning": "sự soạn, sự sửa soạn, sự chuẩn bị",
+   "example": "Let's learn the word \"preparation\".",
+   "exampleMeaning": "Cùng học từ “preparation”: sự soạn, sự sửa soạn, sự chuẩn bị.",
+   "emoji": "",
+   "ipa": "/ˌprɛpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nail",
+   "meaning": "đinh",
+   "example": "to nail someone down to his promise",
+   "exampleMeaning": "Bắt ai phải giữ lời hứa",
+   "emoji": "",
+   "ipa": "/neɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "congratulate",
+   "meaning": "chúc mừng, khen ngợi",
+   "example": "Let's congratulate them.",
+   "exampleMeaning": "Hãy chúc mừng họ.",
+   "emoji": "",
+   "ipa": "/kənˈɡrætʃəˌleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "apology",
+   "meaning": "lời biện bạch, lời biện giải",
+   "example": "a mere apology for a dinner",
+   "exampleMeaning": "Một bữa ăn tồi, thế mà cũng gọi là cơm",
+   "emoji": "",
+   "ipa": "/əˈpɑləˌdʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "immigrate",
+   "meaning": "nhập cư",
+   "example": "Let's learn the word \"immigrate\".",
+   "exampleMeaning": "Cùng học từ “immigrate”: nhập cư.",
+   "emoji": "",
+   "ipa": "/ˈɪməˌɡreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ordinary",
+   "meaning": "thường, thông thường, bình thường",
+   "example": "an ordinary day's work",
+   "exampleMeaning": "Công việc bình thường",
+   "emoji": "",
+   "ipa": "/ˈɔrdəˌnɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reputation",
+   "meaning": "tiếng (xấu, tốt... )",
+   "example": "he had the reputation of raching his tenants",
+   "exampleMeaning": "Lâo ta có tiếng về bóc lột tận xương tuỷ tá điền của lão",
+   "emoji": "",
+   "ipa": "/ˌrɛpjəˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "postman",
+   "meaning": "người đưa thư",
+   "example": "Let's learn the word \"postman\".",
+   "exampleMeaning": "Cùng học từ “postman”: người đưa thư.",
+   "emoji": "",
+   "ipa": "/ˈpoʊsmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lecture",
+   "meaning": "la mắng, quở trách",
+   "example": "His lecture had a large audience.",
+   "exampleMeaning": "Buổi thuyết giảng của anh ta có rất đông khán giả.",
+   "emoji": "",
+   "ipa": "/ˈlɛktʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "addressee",
+   "meaning": "người nhận (thư... )",
+   "example": "Let's learn the word \"addressee\".",
+   "exampleMeaning": "Cùng học từ “addressee”: người nhận (thư... ).",
+   "emoji": "",
+   "ipa": "/ˌædrɛˈsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "upload",
+   "meaning": "tải lên",
+   "example": "I can't figure out how to upload an image.",
+   "exampleMeaning": "Tôi không biết cách đăng một bức ảnh.",
+   "emoji": "",
+   "ipa": "/ˈəˌploʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "central heating",
+   "meaning": "hệ thống sưởi ấm một toà nhà từ một nguồn duy nhất bằng nước nóng hoặc hơi nóngluân chuyển qua các đường ống hoặc bằng các lò sưởi nối liền với nguồn đó",
+   "example": "Let's learn the word \"central heating\".",
+   "exampleMeaning": "Cùng học từ “central heating”: hệ thống sưởi ấm một toà nhà từ một nguồn duy nhất bằng nước nóng hoặc hơi nóngluân chuyển qua các đường ống hoặc bằng các lò sưởi nối liền với nguồn đó.",
+   "emoji": "",
+   "ipa": "/ˈsɛntrəl ˈhitɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ignore",
+   "meaning": "phớt lờ",
+   "example": "to ignore someone",
+   "exampleMeaning": "Lờ ai đi",
+   "emoji": "",
+   "ipa": "/ˌɪɡˈnɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "neutral",
+   "meaning": "trung lập",
+   "example": "to be (remain) neutral",
+   "exampleMeaning": "Đứng trung lập, giữ thái độ trung lập",
+   "emoji": "",
+   "ipa": "/ˈnutrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "damp",
+   "meaning": "rấm (lửa)",
+   "example": "to strike a damp into a gathering",
+   "exampleMeaning": "Làm cho buổi họp mặt mất vui",
+   "emoji": "",
+   "ipa": "/ˈdæmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "invest",
+   "meaning": "đầu tư",
+   "example": "The government doesn't invest much in education.",
+   "exampleMeaning": "Chính phủ không đầu tư nhiều vào giáo dục.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Let's",
+    "congratulate",
+    "them"
+   ],
+   "reading": "",
+   "meaning": "Hãy chúc mừng họ."
+  },
+  {
+   "tokens": [
+    "He's",
+    "just",
+    "an",
+    "ordinary",
+    "student"
+   ],
+   "reading": "",
+   "meaning": "Cậu ta chỉ là một học sinh bình thường."
+  },
+  {
+   "tokens": [
+    "Please",
+    "fill",
+    "in",
+    "this",
+    "application",
+    "form"
+   ],
+   "reading": "",
+   "meaning": "Xin điền vào đơn này."
+  },
+  {
+   "tokens": [
+    "His",
+    "lecture",
+    "had",
+    "a",
+    "large",
+    "audience"
+   ],
+   "reading": "",
+   "meaning": "Buổi thuyết giảng của anh ta có rất đông khán giả."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "just",
+    "an",
+    "ordinary",
+    "girl"
+   ],
+   "reading": "",
+   "meaning": "Cô ta chỉ là một cô gái bình thường"
+  }
+ ],
+ "issues": []
+}

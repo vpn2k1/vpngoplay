@@ -1,0 +1,346 @@
+{
+ "lesson": 136,
+ "draft": true,
+ "words": [
+  {
+   "term": "梳理",
+   "meaning": "chải (râu, tóc...)",
+   "example": "梳理头发。",
+   "exampleMeaning": "Chải đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "攀升",
+   "meaning": "tăng",
+   "example": "我们来学“攀升”这个词。",
+   "exampleMeaning": "Cùng học từ “攀升”: tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pānshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心得",
+   "meaning": "tâm đắc",
+   "example": "参观的心得。",
+   "exampleMeaning": "Tâm đắc qua tham quan",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīndé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高额",
+   "meaning": "kếch xù",
+   "example": "高额利润。",
+   "exampleMeaning": "Món lãi kếch xù",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转达",
+   "meaning": "chuyển",
+   "example": "我对老人的心意请你代为转达。",
+   "exampleMeaning": "Tấm lòng của tôi đối với người già xin anh truyền đạt giùm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎndá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "僵局",
+   "meaning": "tình thế bế tắc",
+   "example": "陷入僵局。",
+   "exampleMeaning": "Rơi vào tình thế bế tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāngjú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "黏",
+   "meaning": "dính",
+   "example": "胶水很黏。",
+   "exampleMeaning": "Keo rất dính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nián",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "定向",
+   "meaning": "định hướng",
+   "example": "定向台(装有特种接收设备，能测定被测电台电波发射方向的无线电台)。",
+   "exampleMeaning": "Đài định hướng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìngxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "私立",
+   "meaning": "tư (trường học, bệnh viện…)",
+   "example": "私立学校。",
+   "exampleMeaning": "Trường tư; trường dân lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相当于",
+   "meaning": "tương đương với",
+   "example": "我们来学“相当于”这个词。",
+   "exampleMeaning": "Cùng học từ “相当于”: tương đương với.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngdāngyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "私营",
+   "meaning": "tư doanh",
+   "example": "私营企业。",
+   "exampleMeaning": "Xí nghiệp tư nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīyíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吊销",
+   "meaning": "thu hồi",
+   "example": "吊销营业执照",
+   "exampleMeaning": "Thu hồi giấy phép kinh doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàoxiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "定做",
+   "meaning": "làm theo yêu cầu",
+   "example": "我们来学“定做”这个词。",
+   "exampleMeaning": "Cùng học từ “定做”: làm theo yêu cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìngzuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遏制",
+   "meaning": "ngăn chặn",
+   "example": "历史的潮流不可遏制",
+   "exampleMeaning": "Không thể ngăn chặn dòng chảy lịch sử",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "稳固",
+   "meaning": "củng cố (làm cho vững chắc)",
+   "example": "基础稳固。",
+   "exampleMeaning": "Nền tảng vững chắc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěngù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "少有",
+   "meaning": "không thường xuyên",
+   "example": "我们来学“少有”这个词。",
+   "exampleMeaning": "Cùng học từ “少有”: không thường xuyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎoyǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "索取",
+   "meaning": "tìm lấy",
+   "example": "向大自然索取财富。",
+   "exampleMeaning": "Tìm lấy của cải trong thiên nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "延缓",
+   "meaning": "trì hoãn",
+   "example": "延缓一年付款",
+   "exampleMeaning": "Trì hoãn trả tiền một năm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánhuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "恭维",
+   "meaning": "nịnh",
+   "example": "我们来学“恭维”这个词。",
+   "exampleMeaning": "Cùng học từ “恭维”: nịnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngwei",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "财经",
+   "meaning": "kinh tế tài chính",
+   "example": "财经学院",
+   "exampleMeaning": "Trường cao đẳng kinh tế tài chính; đại học kinh tế tài chính; học viện kinh tế và tài chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáijīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "羊",
+    "屁股",
+    "先生",
+    "可",
+    "没",
+    "告诉",
+    "我",
+    "还有",
+    "搭档"
+   ],
+   "reading": "yáng pìgu xiānsheng kě méi gàosu wǒ háiyǒu dādàng",
+   "meaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "花",
+    "点",
+    "时间",
+    "斟酌",
+    "斟酌",
+    "再",
+    "作",
+    "决定"
+   ],
+   "reading": "wǒ xiǎng huā diǎn shíjiān zhēnzhuó zhēnzhuó zài zuò juédìng",
+   "meaning": "Tôi cần một ít thời gian cân nhắc để có quyết định."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  }
+ ],
+ "issues": []
+}

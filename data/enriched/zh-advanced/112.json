@@ -1,0 +1,322 @@
+{
+ "lesson": 112,
+ "draft": true,
+ "words": [
+  {
+   "term": "老化",
+   "meaning": "lạc hậu",
+   "example": "领导班子老化。",
+   "exampleMeaning": "Bộ phận lãnh đạo bị lão hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎohuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "议程",
+   "meaning": "chương trình hội nghị",
+   "example": "我们来学“议程”这个词。",
+   "exampleMeaning": "Cùng học từ “议程”: chương trình hội nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "晒太阳",
+   "meaning": "đắm mình trong ánh mặt trời, tắm nắng",
+   "example": "我们来学“晒太阳”这个词。",
+   "exampleMeaning": "Cùng học từ “晒太阳”: đắm mình trong ánh mặt trời, tắm nắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàitàiyáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敬佩",
+   "meaning": "kính phục",
+   "example": "我们来学“敬佩”这个词。",
+   "exampleMeaning": "Cùng học từ “敬佩”: kính phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngpèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宽恕",
+   "meaning": "khoan dung",
+   "example": "我们来学“宽恕”这个词。",
+   "exampleMeaning": "Cùng học từ “宽恕”: khoan dung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuānshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "热衷",
+   "meaning": "ham mê",
+   "example": "我们来学“热衷”这个词。",
+   "exampleMeaning": "Cùng học từ “热衷”: ham mê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知己",
+   "meaning": "biết mình",
+   "example": "海内存知己，天涯若比邻。",
+   "exampleMeaning": "Năm châu bốn bể đều là anh em; trong nước có người biết mình, chân trời có láng giềng với mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhījǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捣乱",
+   "meaning": "quấy rối",
+   "example": "我们来学“捣乱”这个词。",
+   "exampleMeaning": "Cùng học từ “捣乱”: quấy rối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎoluàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改名",
+   "meaning": "cải danh",
+   "example": "我们来学“改名”这个词。",
+   "exampleMeaning": "Cùng học từ “改名”: cải danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎimíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公共场所",
+   "meaning": "nơi công cộng",
+   "example": "我们来学“公共场所”这个词。",
+   "exampleMeaning": "Cùng học từ “公共场所”: nơi công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōnggòngchǎngsuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "堪称",
+   "meaning": "có thể được đánh giá là",
+   "example": "我们来学“堪称”这个词。",
+   "exampleMeaning": "Cùng học từ “堪称”: có thể được đánh giá là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kānchēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "过早",
+   "meaning": "sớm",
+   "example": "过早的进入青春期",
+   "exampleMeaning": "Dậy thì sớm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòzǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "着实",
+   "meaning": "ra trò (ngôn ngữ, hành động)",
+   "example": "这孩子着实讨人喜欢。",
+   "exampleMeaning": "Đứa bé này thật là dễ thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuóshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "淹",
+   "meaning": "ngập",
+   "example": "胳肢窝被汗淹得难受。",
+   "exampleMeaning": "Nách đầy mồ hôi rất khó chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "优异",
+   "meaning": "xuất sắc nhất",
+   "example": "成绩优异",
+   "exampleMeaning": "Thành tích xuất sắc nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōuyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "媳妇",
+   "meaning": "cháu dâu",
+   "example": "村里年青的媳妇。",
+   "exampleMeaning": "Phụ nữ trẻ có gia đình trong thôn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xífù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "腹泻",
+   "meaning": "đi tả",
+   "example": "我们来学“腹泻”这个词。",
+   "exampleMeaning": "Cùng học từ “腹泻”: đi tả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùxiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "超速",
+   "meaning": "vượt quá tốc độ",
+   "example": "我们来学“超速”这个词。",
+   "exampleMeaning": "Cùng học từ “超速”: vượt quá tốc độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāosù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "劣势",
+   "meaning": "hoàn cảnh xấu",
+   "example": "变劣势为优势。",
+   "exampleMeaning": "Biến tình thế bất lợi thành lợi thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胶囊",
+   "meaning": "bao con nhộng (dược học)",
+   "example": "我们来学“胶囊”这个词。",
+   "exampleMeaning": "Cùng học từ “胶囊”: bao con nhộng (dược học).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāonáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  },
+  {
+   "tokens": [
+    "别",
+    "逼",
+    "我"
+   ],
+   "reading": "bié bī wǒ",
+   "meaning": "Đừng ép tôi!"
+  },
+  {
+   "tokens": [
+    "他",
+    "疯",
+    "了"
+   ],
+   "reading": "tā fēng le",
+   "meaning": "Anh ta điên rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  }
+ ],
+ "issues": []
+}

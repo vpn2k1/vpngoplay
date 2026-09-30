@@ -1,0 +1,321 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "毛皮",
+   "meaning": "bằng da lông thú",
+   "example": "「毛皮」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “毛皮”: bằng da lông thú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特殊",
+   "meaning": "đặc biệt, riêng biệt",
+   "example": "「訓練と戦闘以外の仕事で、特殊部隊は何をする？」「訓練」。",
+   "exampleMeaning": "\"Ngoài công tác huấn luyện và chiến đấu, những lực lượng đặc nhiệm làm gì?\" \"Huấn luyện\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "キャンパス",
+   "meaning": "khu sân bãi, khuôn viên trường",
+   "example": "「キャンパス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “キャンパス”: khu sân bãi, khuôn viên trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風呂敷",
+   "meaning": "wrapping cloth (EN)",
+   "example": "「風呂敷」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風呂敷”: wrapping cloth (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り消す",
+   "meaning": "bỏ, xoá bỏ, huỷ bỏ",
+   "example": "「取り消す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り消す”: bỏ, xoá bỏ, huỷ bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "からかう",
+   "meaning": "đùa, nói đùa đùa cợt",
+   "example": "真剣に話してる時に、からかうのはやめてよ。",
+   "exampleMeaning": "Lúc tôi đang nói chuyện nghiêm túc thì đừng có mà đùa cợt đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恩恵",
+   "meaning": "phúc lành",
+   "example": "「恩恵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “恩恵”: phúc lành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "しょうがない",
+   "meaning": "không thể tránh được",
+   "example": "朝からセミがミンミンと、うるさくてしょうがない。",
+   "exampleMeaning": "Từ sáng đến giờ ve cứ kêu ve ve nhức đầu chết đi được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "梯子",
+   "meaning": "thang ((nghĩa đen) & (nghĩa bóng))",
+   "example": "トムは紐の梯子を上った。",
+   "exampleMeaning": "Tom đã trèo lên cái thang dây.",
+   "emoji": "🪜",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "連合",
+   "meaning": "sự hợp nhất, sự kết hợp, sự liên kết",
+   "example": "ＡＳＥＡＮという文字は東南アジア諸国連合を表します。",
+   "exampleMeaning": "ASEAN là viết tắt của Hiệp hội các quốc gia Đông Nam Á.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お参り",
+   "meaning": "sự thờ cúng, sự cúng bái",
+   "example": "「お参り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お参り”: sự thờ cúng, sự cúng bái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "探る",
+   "meaning": "nhìn để tìm, sờ để tìm",
+   "example": "「探る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “探る”: nhìn để tìm, sờ để tìm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伝記",
+   "meaning": "tiểu sử",
+   "example": "「伝記」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伝記”: tiểu sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引算",
+   "meaning": "sự trừ",
+   "example": "「引算」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引算”: sự trừ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お邪魔します",
+   "meaning": "Excuse me for disturbing you (EN)",
+   "example": "「お邪魔します」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お邪魔します”: Excuse me for disturbing you (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教養",
+   "meaning": "sự mở mang, sự tu dưỡng, sự trao đổi",
+   "example": "「教養」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教養”: sự mở mang, sự tu dưỡng, sự trao đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "売上",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của proceed",
+   "example": "「売上」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売上”: động từ chia ở ngôi thứ ba số ít của proceed.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "童話",
+   "meaning": "chuyện tiên, chuyện thần kỳ",
+   "example": "「童話」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “童話”: chuyện tiên, chuyện thần kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鈴",
+   "meaning": "tiếng chuông",
+   "example": "鈴木氏は偉大な科学者だ。",
+   "exampleMeaning": "Ông Suzuki là một nhà khoa học vĩ đại.",
+   "emoji": "🔔",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ジャーナリスト",
+   "meaning": "nhà báo",
+   "example": "「ジャーナリスト」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ジャーナリスト”: nhà báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "鈴木",
+    "氏",
+    "は",
+    "偉大",
+    "な",
+    "科学",
+    "者",
+    "だ"
+   ],
+   "reading": "すずきしはいだいなかがくしゃだ",
+   "meaning": "Ông Suzuki là một nhà khoa học vĩ đại."
+  },
+  {
+   "tokens": [
+    "他",
+    "に",
+    "ご用",
+    "は"
+   ],
+   "reading": "ほかにごようは",
+   "meaning": "Bạn có cần gí nữa không?"
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "幸せ",
+    "だ"
+   ],
+   "reading": "わたしはしあわせだ",
+   "meaning": "Tôi hạnh phúc."
+  },
+  {
+   "tokens": [
+    "よい",
+    "質問",
+    "だ"
+   ],
+   "reading": "よいしつもんだ",
+   "meaning": "Đó là một câu hỏi hay."
+  },
+  {
+   "tokens": [
+    "煙",
+    "で",
+    "むせた"
+   ],
+   "reading": "けむりでむせた",
+   "meaning": "Tôi bị ngạt khói."
+  }
+ ],
+ "issues": []
+}

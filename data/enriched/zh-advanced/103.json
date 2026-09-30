@@ -1,0 +1,333 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "仪表",
+   "meaning": "dáng vẻ",
+   "example": "仪表堂堂",
+   "exampleMeaning": "Dáng vẻ đường đường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíbiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "庄严",
+   "meaning": "trang nghiêm",
+   "example": "雄伟、庄严的人民英雄纪念碑。",
+   "exampleMeaning": "Bia kỷ niệm nhân dân anh hùng hùng vỹ trang nghiêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāngyán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蹬",
+   "meaning": "bước, bước đi",
+   "example": "我们来学“蹬”这个词。",
+   "exampleMeaning": "Cùng học từ “蹬”: bước, bước đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "集结",
+   "meaning": "tập kết",
+   "example": "集结待命。",
+   "exampleMeaning": "Tập kết đợi lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主人公",
+   "meaning": "nhân vật chính",
+   "example": "我们来学“主人公”这个词。",
+   "exampleMeaning": "Cùng học từ “主人公”: nhân vật chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔréngōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冷淡",
+   "meaning": "nhạt nhẽo",
+   "example": "他强打着精神说话，怕冷淡了朋友。",
+   "exampleMeaning": "Anh ấy gắng gượng chuyện trò, sợ nhạt nhẽo với bạn bè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngdàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "图表",
+   "meaning": "biểu đồ",
+   "example": "我们来学“图表”这个词。",
+   "exampleMeaning": "Cùng học từ “图表”: biểu đồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "túbiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吉祥物",
+   "meaning": "vật biểu tượng",
+   "example": "我们来学“吉祥物”这个词。",
+   "exampleMeaning": "Cùng học từ “吉祥物”: vật biểu tượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíxiángwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "草案",
+   "meaning": "bản dự thảo",
+   "example": "交通管理条例草案。",
+   "exampleMeaning": "Bản phác thảo điều lệ về quản lý giao thông",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎoàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "取暖",
+   "meaning": "sưởi ấm",
+   "example": "取暖设备。",
+   "exampleMeaning": "Thiết bị sưởi ấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔnuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过关",
+   "meaning": "qua được",
+   "example": "产品质量不合标准就不能过关。",
+   "exampleMeaning": "Chất lượng sản phẩm không hợp tiêu chuẩn sẽ không qua được (khâu kiểm tra chất lượng).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "所作所为",
+   "meaning": "tất cả những gì làm ra",
+   "example": "我一生所作所为，大都光明磊落，没有不可告人之事。",
+   "exampleMeaning": "Cả đời tôi làm việc gì cũng đều quang minh lỗi lạc, không có gì không thể cho người khác biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒzuòsuǒwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "珍藏",
+   "meaning": "cất giấu kỹ",
+   "example": "把家中的珍藏献给博物馆。",
+   "exampleMeaning": "Đem những vật quý báu trong nhà tặng cho viện bảo tàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēncáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抵御",
+   "meaning": "chống",
+   "example": "抵御风沙侵袭",
+   "exampleMeaning": "Chống lại gió cát xâm nhập",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǐyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失利",
+   "meaning": "thất bại",
+   "example": "青年足球队初战失利。",
+   "exampleMeaning": "Đội bóng thanh niên thất bại ngay trong trận đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "安稳",
+   "meaning": "vững",
+   "example": "这个船大，即使刮点风，也很安稳。",
+   "exampleMeaning": "Chiếc thuyền to chắc này, dù có gặp gió bão cũng rất vững",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānwěn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流露",
+   "meaning": "để lộ, tỏ ra, biểu lộ",
+   "example": "流露出真情。",
+   "exampleMeaning": "Bộc lộ tấm chân tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扑克",
+   "meaning": "bài tú-lơ-khơ",
+   "example": "我们来学“扑克”这个词。",
+   "exampleMeaning": "Cùng học từ “扑克”: bài tú-lơ-khơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pūkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "别看",
+   "meaning": "chớ có thấy, chớ có cho rằng, đừng xem",
+   "example": "我们来学“别看”这个词。",
+   "exampleMeaning": "Cùng học từ “别看”: chớ có thấy, chớ có cho rằng, đừng xem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biékàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冤枉",
+   "meaning": "không đáng",
+   "example": "把这过错加在我头上，真是冤枉。",
+   "exampleMeaning": "Đổ tội cho tôi, thật là oan uổng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuānwang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我",
+    "很",
+    "抱歉",
+    "在",
+    "这个",
+    "时候",
+    "打扰"
+   ],
+   "reading": "wǒ hěn bàoqiàn zài zhège shíhou dǎrǎo",
+   "meaning": "Tôi rất xin lỗi vì làm phiền vào lúc này."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "再也",
+    "不",
+    "知道",
+    "该",
+    "信",
+    "什么",
+    "了"
+   ],
+   "reading": "wǒ zàiyě bù zhīdào gāi xìn shénme le",
+   "meaning": "Tôi không còn biết tin vào cái gì nữa."
+  }
+ ],
+ "issues": []
+}

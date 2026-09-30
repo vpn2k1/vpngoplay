@@ -1,0 +1,332 @@
+{
+ "lesson": 82,
+ "draft": true,
+ "words": [
+  {
+   "term": "资金",
+   "meaning": "vốn",
+   "example": "我们来学“资金”这个词。",
+   "exampleMeaning": "Cùng học từ “资金”: vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zījīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "员工",
+   "meaning": "công nhân",
+   "example": "铁路员工",
+   "exampleMeaning": "Công nhân viên chức đường sắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuángōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "全球",
+   "meaning": "toàn cầu",
+   "example": "名震全球。",
+   "exampleMeaning": "Danh tiếng toàn cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "升",
+   "meaning": "lên, thăng",
+   "example": "东方红，太阳升。",
+   "exampleMeaning": "Phương đông màu đỏ, mặt trời lên cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "经营",
+   "meaning": "kinh doanh",
+   "example": "这个展览会是煞费经营的。",
+   "exampleMeaning": "Cuộc triển lãm này tổ chức sẽ tốn kém lắm đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngyíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "困",
+   "meaning": "mệt",
+   "example": "天不早了，快点困吧。",
+   "exampleMeaning": "Không còn sớm nữa, mau đi ngủ thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "初",
+   "meaning": "đầu",
+   "example": "初 次见面。",
+   "exampleMeaning": "Lần đầu gặp mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "员",
+   "meaning": "con người, người",
+   "example": "由此可见，她是很有前途的电影演员。",
+   "exampleMeaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ.",
+   "emoji": "🧑",
+   "ipa": "",
+   "pinyin": "yuán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "立刻",
+   "meaning": "ngay",
+   "example": "请大家立刻到会议室去!",
+   "exampleMeaning": "Mời mọi người đến phòng họp ngay lập tức!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìkè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实验",
+   "meaning": "thực nghiệm",
+   "example": "科学实验。",
+   "exampleMeaning": "Khoa học thực nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíyàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "取消",
+   "meaning": "xoá bỏ",
+   "example": "取消不合理的规章制度。",
+   "exampleMeaning": "Xoá những quy chế bất hợp lí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔxiāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通常",
+   "meaning": "thông thường",
+   "example": "他通常六点钟就起床。",
+   "exampleMeaning": "Anh ấy thường thức dậy lúc sáu giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngcháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "对象",
+   "meaning": "đối tượng",
+   "example": "他有对象了。",
+   "exampleMeaning": "Anh ấy có người yêu rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "浪费",
+   "meaning": "lãng phí",
+   "example": "反对浪费，提倡节约。",
+   "exampleMeaning": "Phản đối lãng phí, đề xướng tiết kiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "làngfèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "合理",
+   "meaning": "hợp lý",
+   "example": "他说的话很合理。",
+   "exampleMeaning": "Anh ấy nói rất hợp lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hélǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "任",
+   "meaning": "tuỳ ý",
+   "example": "我爱你胜过其他任何一个人。",
+   "exampleMeaning": "Anh yêu thương em nhiều hơn ai hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "香",
+   "meaning": "nhang",
+   "example": "这种货物在农村很香 。",
+   "exampleMeaning": "Loại hàng này ở nông thôn rất được ưa chuộng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成熟",
+   "meaning": "chín, thành thực, trưởng thành",
+   "example": "我只是随便谈谈自己不成熟的看法，无所谓有研究。",
+   "exampleMeaning": "Tôi chỉ là tùy tiện nói ra cách nghĩ còn chưa chín chắn lắm của mình, không đến mức gọi là có nghiên cứu gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngshú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "文章",
+   "meaning": "bài văn",
+   "example": "这篇文章很好。",
+   "exampleMeaning": "Bài văn này rất hay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "信任",
+   "meaning": "tín nhiệm",
+   "example": "我们来学“信任”这个词。",
+   "exampleMeaning": "Cùng học từ “信任”: tín nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnrèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "如果",
+    "你",
+    "需要",
+    "任何",
+    "东西",
+    "让",
+    "我",
+    "知道"
+   ],
+   "reading": "rúguǒ nǐ xūyào rènhé dōngxi ràng wǒ zhīdào",
+   "meaning": "Nếu bạn cần bất cứ thứ gì, cứ nói với tôi."
+  },
+  {
+   "tokens": [
+    "这",
+    "篇",
+    "文章",
+    "很",
+    "好"
+   ],
+   "reading": "zhè piān wénzhāng hěn hǎo",
+   "meaning": "Bài văn này rất hay."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "没",
+    "跟",
+    "任何人",
+    "结婚"
+   ],
+   "reading": "tāngmǔ méi gēn rènhérén jiéhūn",
+   "meaning": "Tom không có lấy bất cứ ai."
+  },
+  {
+   "tokens": [
+    "我",
+    "爱",
+    "你",
+    "胜过",
+    "其他",
+    "任何",
+    "一个人"
+   ],
+   "reading": "wǒ ài nǐ shèngguò qítā rènhé yīgèrén",
+   "meaning": "Anh yêu thương em nhiều hơn ai hết."
+  },
+  {
+   "tokens": [
+    "我",
+    "从",
+    "昨天",
+    "起",
+    "没有",
+    "吃",
+    "任何",
+    "东西"
+   ],
+   "reading": "wǒ cóng zuótiān qǐ méiyǒu chī rènhé dōngxi",
+   "meaning": "Từ hôm qua tới giờ tôi chưa ăn bất kì thứ gì."
+  }
+ ],
+ "issues": []
+}

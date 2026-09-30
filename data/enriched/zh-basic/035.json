@@ -1,0 +1,328 @@
+{
+ "lesson": 35,
+ "draft": true,
+ "words": [
+  {
+   "term": "气",
+   "meaning": "khí",
+   "example": "天气真好 ！",
+   "exampleMeaning": "Thời tiết thật đẹp!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "倒",
+   "meaning": "lại",
+   "example": "听到消息，她晕倒了。",
+   "exampleMeaning": "Nghe được tin, nó liền té xỉu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "酒",
+   "meaning": "rượu vang",
+   "example": "我们来学“酒”这个词。",
+   "exampleMeaning": "Cùng học từ “酒”: rượu vang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原来",
+   "meaning": "thì ra",
+   "example": "他还住在原来的地方。",
+   "exampleMeaning": "Anh ấy vẫn ở chỗ cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánlái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "它们",
+   "meaning": "chúng",
+   "example": "这几条狗，它们灵着呢。",
+   "exampleMeaning": "Mấy con chó này chúng nó khôn lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāmen",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "红",
+   "meaning": "thắng lợi",
+   "example": "这顶红帽子很衬她的裙子。",
+   "exampleMeaning": "Chiếc mũ đỏ này rất hợp với chiếc váy của cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "欢迎",
+   "meaning": "hoan nghênh",
+   "example": "新产品很受消费者的欢迎。",
+   "exampleMeaning": "Sản phẩm mới rất được sự hoan nghênh của người tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huānyíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一般",
+   "meaning": "một thứ",
+   "example": "湯姆和瑪莉跑得一般快。",
+   "exampleMeaning": "Tom có thể chạy nhanh như Mary vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yībān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "可爱",
+   "meaning": "đáng yêu",
+   "example": "可爱的孩子。",
+   "exampleMeaning": "Đứa trẻ đáng yêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "边",
+   "meaning": "vừa",
+   "example": "不要担心，我会一直在你身边。",
+   "exampleMeaning": "Đừng lo lắng, anh sẽ luôn ở bên em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新闻",
+   "meaning": "tin tức",
+   "example": "新闻记者。",
+   "exampleMeaning": "Phóng viên tin tức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnwén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼睛",
+   "meaning": "mắt: cơ quan thị giác của con người hoặc con vật, lỗ",
+   "example": "我们的眼睛需要时间来适应黑暗。",
+   "exampleMeaning": "Mắt của chúng ta cần thời gian để điều chỉnh với bóng tối.",
+   "emoji": "👁",
+   "ipa": "",
+   "pinyin": "yǎnjing",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "做到",
+   "meaning": "để thực hiện",
+   "example": "我们来学“做到”这个词。",
+   "exampleMeaning": "Cùng học từ “做到”: để thực hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòdào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近",
+   "meaning": "gần, cận",
+   "example": "那是一张近照吗？",
+   "exampleMeaning": "Tấm hình này có mới không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "怎样",
+   "meaning": "thế nào",
+   "example": "步兵和炮兵怎样配合作战？",
+   "exampleMeaning": "Bộ binh và pháo binh phối hợp tác chiến như thế nào？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zěnyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收",
+   "meaning": "chấp nhận, chấp thuận, thu hoạch",
+   "example": "昨天，我收到一封用英语写的信。",
+   "exampleMeaning": "Hôm qua, tôi có nhận một bức thư viết bằng tiếng Anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "声音",
+   "meaning": "tiếng, tiếng nói",
+   "example": "不要再调大电视的声音了。",
+   "exampleMeaning": "Đừng bật to tiếng TV nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngyīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "数",
+   "meaning": "nhiều lần",
+   "example": "学生人数一年比一年增加。",
+   "exampleMeaning": "Số học sinh mỗi năm một tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "变成",
+   "meaning": "trở thành",
+   "example": "大家一条心，黄土变成金。",
+   "exampleMeaning": "Mọi người cùng một lòng, đất hoang sẽ hoá thành vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "受到",
+   "meaning": "nhận được",
+   "example": "我们来学“受到”这个词。",
+   "exampleMeaning": "Cùng học từ “受到”: nhận được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòudào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "北京",
+    "的",
+    "秋天",
+    "一般",
+    "地",
+    "说",
+    "气候",
+    "比较",
+    "凉爽"
+   ],
+   "reading": "běijīng de qiūtiān yībān de shuō qìhòu bǐjiào liángshuǎng",
+   "meaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "发出",
+    "声音"
+   ],
+   "reading": "bù yào fāchū shēngyīn",
+   "meaning": "Đừng tạo tiếng động."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "张",
+    "近照",
+    "吗"
+   ],
+   "reading": "nàshi yī zhāng jìnzhào ma",
+   "meaning": "Tấm hình này có mới không?"
+  },
+  {
+   "tokens": [
+    "这",
+    "附近",
+    "有",
+    "医院",
+    "吗"
+   ],
+   "reading": "zhè fùjìn yǒu yīyuàn ma",
+   "meaning": "Gần đây có bệnh viện không?"
+  },
+  {
+   "tokens": [
+    "数学",
+    "是",
+    "所有",
+    "科学",
+    "的",
+    "基础"
+   ],
+   "reading": "shùxué shì suǒyǒu kēxué de jīchǔ",
+   "meaning": "Toán học là nền tảng của tất cả các môn khoa học"
+  }
+ ],
+ "issues": []
+}

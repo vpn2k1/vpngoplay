@@ -1,0 +1,330 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "提供",
+   "meaning": "đề nghị",
+   "example": "この番組は、ご覧のスポンサーの提供でお送りしました。",
+   "exampleMeaning": "Chương trình này được tài trợ bởi những đơn vị như trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "天国",
+   "meaning": "thiên đường, thiên đàng",
+   "example": "結婚生活は夫婦仲が良ければ天国であり、夫婦仲が悪ければこの世の地獄である。",
+   "exampleMeaning": "Nếu quan hệ vợ chồng mà tốt đẹp, thì cuộc sống hôn nhân sẽ là thiên đường. Nếu quan hệ vợ chồng mà tồi tệ, thì cuộc sống hôn nhân sẽ trở thành địa ngục trần gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嘲笑う",
+   "meaning": "cười khinh bỉ, cười chế nhạo",
+   "example": "「嘲笑う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “嘲笑う”: cười khinh bỉ, cười chế nhạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "待ち遠しい",
+   "meaning": "looking forward to (EN)",
+   "example": "明日が待ち遠しいよ。",
+   "exampleMeaning": "Tôi mong đợi đến ngày mai quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "紛争",
+   "meaning": "cuộc bàn cãi, cuộc tranh luận",
+   "example": "その紛争を解決するのは不可能だ。",
+   "exampleMeaning": "Việc giải quyết tranh chấp đó là bất khả thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "素っ気無い",
+   "meaning": "lạnh, lạnh lẽo, nguội",
+   "example": "「素っ気無い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素っ気無い”: lạnh, lạnh lẽo, nguội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目録",
+   "meaning": "bản liệt kê mục lục",
+   "example": "「目録」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目録”: bản liệt kê mục lục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隠居",
+   "meaning": "sự ẩn dật",
+   "example": "「隠居」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “隠居”: sự ẩn dật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反応",
+   "meaning": "sự phản tác dụng, sự phản ứng lại",
+   "example": "それは、良い反応です。",
+   "exampleMeaning": "Đó là một phản ứng tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "杯",
+   "meaning": "wine cup (EN)",
+   "example": "この機会に乾杯すべきだ。",
+   "exampleMeaning": "Nhân dịp này, chúng ta cụng ly đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日夜",
+   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "example": "「日夜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日夜”: luôn luôn, lúc nào cũng, bao giờ cũng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "私有",
+   "meaning": "chế độ tư hữu",
+   "example": "「私有」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “私有”: chế độ tư hữu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不評",
+   "meaning": "tình trạng bị ghét bỏ",
+   "example": "「不評」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不評”: tình trạng bị ghét bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主催",
+   "meaning": "cơ quan, cấu tạo, sự cấu tạo",
+   "example": "パスタ会社が主催したのど自慢コンクールに参加して、準決勝戦まで到達しました。",
+   "exampleMeaning": "Tôi đã tham gia một cuộc thi hát do một công ty sản xuất mì pasta tổ chức, và tôi đã được đi đến vòng bán kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一様",
+   "meaning": "đồng dạng, cùng một kiểu, giống nhau",
+   "example": "「一様」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一様”: đồng dạng, cùng một kiểu, giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "担う",
+   "meaning": "mang, cầm, vác",
+   "example": "「担う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “担う”: mang, cầm, vác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "根拠",
+   "meaning": "nền tảng, cơ sở",
+   "example": "「根拠」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “根拠”: nền tảng, cơ sở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蓄積",
+   "meaning": "sự chất đống, sự chồng chất, sự tích luỹ",
+   "example": "「蓄積」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “蓄積”: sự chất đống, sự chồng chất, sự tích luỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転任",
+   "meaning": "change of post (EN)",
+   "example": "「転任」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転任”: change of post (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "和やか",
+   "meaning": "nhẹ",
+   "example": "「和やか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “和やか”: nhẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "機会",
+    "に",
+    "乾杯",
+    "すべき",
+    "だ"
+   ],
+   "reading": "このきかいにかんぱいすべきだ",
+   "meaning": "Nhân dịp này, chúng ta cụng ly đi."
+  },
+  {
+   "tokens": [
+    "その",
+    "紛争",
+    "を",
+    "解決",
+    "する",
+    "の",
+    "は",
+    "不可能",
+    "だ"
+   ],
+   "reading": "そのふんそうをかいけつするのはふかのうだ",
+   "meaning": "Việc giải quyết tranh chấp đó là bất khả thi."
+  },
+  {
+   "tokens": [
+    "水",
+    "を",
+    "一杯",
+    "下",
+    "さい"
+   ],
+   "reading": "みずをいっぱいください",
+   "meaning": "Làm ơn cho tôi một cốc nước."
+  },
+  {
+   "tokens": [
+    "コーヒー",
+    "を",
+    "一杯",
+    "いかが",
+    "ですか"
+   ],
+   "reading": "コーヒーをいっぱいいかがですか",
+   "meaning": "Chị dùng thêm một ly cà phê nhé?"
+  },
+  {
+   "tokens": [
+    "鳥",
+    "は",
+    "昆虫",
+    "の",
+    "天敵",
+    "です"
+   ],
+   "reading": "とりはこんちゅうのてんてきです",
+   "meaning": "Chim là thiên địch của côn trùng."
+  }
+ ],
+ "issues": []
+}

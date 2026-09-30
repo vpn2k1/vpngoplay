@@ -1,0 +1,329 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "饺子",
+   "meaning": "bánh chẻo",
+   "example": "我们来学“饺子”这个词。",
+   "exampleMeaning": "Cùng học từ “饺子”: bánh chẻo.",
+   "emoji": "🥟",
+   "ipa": "",
+   "pinyin": "jiǎozi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开机",
+   "meaning": "khởi động máy",
+   "example": "我们来学“开机”这个词。",
+   "exampleMeaning": "Cùng học từ “开机”: khởi động máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāijī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公共汽车",
+   "meaning": "xe buýt",
+   "example": "赶快点，否则要错过公共汽车了。",
+   "exampleMeaning": "Nhanh lên không bạn lỡ xe buýt.",
+   "emoji": "🚌",
+   "ipa": "",
+   "pinyin": "gōnggòngqìchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "碰见",
+   "meaning": "gặp",
+   "example": "昨天我在街上碰见他。",
+   "exampleMeaning": "Hôm qua tôi gặp anh ấy ở ngoài đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pèngjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "字典",
+   "meaning": "tự điển",
+   "example": "这是我的字典。",
+   "exampleMeaning": "Đây là từ điển của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìdiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "排球",
+   "meaning": "bóng chuyền",
+   "example": "我们来学“排球”这个词。",
+   "exampleMeaning": "Cùng học từ “排球”: bóng chuyền.",
+   "emoji": "🏐",
+   "ipa": "",
+   "pinyin": "páiqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "干杯",
+   "meaning": "cạn ly",
+   "example": "为客人们的健康而干杯。",
+   "exampleMeaning": "Vì sức khoẻ của mọi người cạn ly.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gānbēi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过年",
+   "meaning": "sang năm",
+   "example": "这孩子过年该上学了。",
+   "exampleMeaning": "Đứa bé này sang năm phải đi học rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guònián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "零下",
+   "meaning": "dưới 0, âm",
+   "example": "我们来学“零下”这个词。",
+   "exampleMeaning": "Cùng học từ “零下”: dưới 0, âm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拿出",
+   "meaning": "đưa ra (bằng chứng)",
+   "example": "把那两本书拿出来！",
+   "exampleMeaning": "Lấy hai quyển sách ấy ra!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "náchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中餐",
+   "meaning": "cơm Tàu",
+   "example": "我们来学“中餐”这个词。",
+   "exampleMeaning": "Cùng học từ “中餐”: cơm Tàu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngcān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "晴天",
+   "meaning": "im trời",
+   "example": "我们来学“晴天”这个词。",
+   "exampleMeaning": "Cùng học từ “晴天”: im trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíngtiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "普通话",
+   "meaning": "tiếng phổ thông",
+   "example": "我们来学“普通话”这个词。",
+   "exampleMeaning": "Cùng học từ “普通话”: tiếng phổ thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǔtōnghuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全年",
+   "meaning": "suốt năm",
+   "example": "我们来学“全年”这个词。",
+   "exampleMeaning": "Cùng học từ “全年”: suốt năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爬山",
+   "meaning": "leo núi / leo núi / đi bộ đường dài / leo núi",
+   "example": "我们来学“爬山”这个词。",
+   "exampleMeaning": "Cùng học từ “爬山”: leo núi / leo núi / đi bộ đường dài / leo núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "páshān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "那会儿",
+   "meaning": "lúc ấy",
+   "example": "记得那会儿他还是个不懂事的孩子。",
+   "exampleMeaning": "Nhớ lúc bấy giờ anh ấy còn là một đứa trẻ không biết gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàhuìr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "黑板",
+   "meaning": "bảng đen",
+   "example": "我们来学“黑板”这个词。",
+   "exampleMeaning": "Cùng học từ “黑板”: bảng đen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hēibǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外卖",
+   "meaning": "mang ra ngoài",
+   "example": "我们来学“外卖”这个词。",
+   "exampleMeaning": "Cùng học từ “外卖”: mang ra ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàimài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "方便面",
+   "meaning": "mì ăn liền",
+   "example": "我们来学“方便面”这个词。",
+   "exampleMeaning": "Cùng học từ “方便面”: mì ăn liền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngbiànmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "饭馆",
+   "meaning": "tiệm cơm",
+   "example": "我们来学“饭馆”这个词。",
+   "exampleMeaning": "Cùng học từ “饭馆”: tiệm cơm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fànguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "的",
+    "字典"
+   ],
+   "reading": "zhè shì wǒ de zìdiǎn",
+   "meaning": "Đây là từ điển của tôi."
+  },
+  {
+   "tokens": [
+    "把",
+    "那",
+    "两",
+    "本",
+    "书",
+    "拿出",
+    "来"
+   ],
+   "reading": "bǎ nà liǎng běn shū náchū lái",
+   "meaning": "Lấy hai quyển sách ấy ra!"
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "你",
+    "想",
+    "买",
+    "些",
+    "什么"
+   ],
+   "reading": "nǐ xiǎng mǎi xiē shénme",
+   "meaning": "Anh muốn mua những gì?"
+  },
+  {
+   "tokens": [
+    "我",
+    "看",
+    "了",
+    "一",
+    "本",
+    "书"
+   ],
+   "reading": "wǒ kàn le yī běn shū",
+   "meaning": "Tôi đã xem một quyển sách."
+  }
+ ],
+ "issues": []
+}

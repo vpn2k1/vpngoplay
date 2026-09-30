@@ -1,0 +1,338 @@
+{
+ "lesson": 59,
+ "draft": true,
+ "words": [
+  {
+   "term": "last",
+   "meaning": "vừa qua, qua, trước",
+   "example": "when did you see him last?",
+   "exampleMeaning": "Lần cuối cùng anh gặp hắn là khi nào?",
+   "emoji": "",
+   "ipa": "/ˈlæs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "angrily",
+   "meaning": "tức giận, giận dữ",
+   "example": "Tom angrily closed the door.",
+   "exampleMeaning": "Tom đã đóng cửa một cách giận dữ.",
+   "emoji": "",
+   "ipa": "/ˈæŋɡrəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "serve",
+   "meaning": "phục vụ, phụng sự",
+   "example": "whose serve is it?",
+   "exampleMeaning": "Đến lượt ai giao bóng?",
+   "emoji": "",
+   "ipa": "/ˈsɜrv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "campus",
+   "meaning": "khu sân bãi, khuôn viên trường",
+   "example": "Tom walked around campus looking for his notebook.",
+   "exampleMeaning": "Tom đi vòng quanh khuôn viên trường để tìm quyển vở của cậu ta.",
+   "emoji": "",
+   "ipa": "/ˈkæmpəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "raw",
+   "meaning": "non nớt, chưa có kinh nghiệm",
+   "example": "to touch somebody on the raw",
+   "exampleMeaning": "(nghĩa bóng) chạm nọc ai, chạm tự ái của ai, làm động lòng ai",
+   "emoji": "",
+   "ipa": "/ˈrɑ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "banking",
+   "meaning": "công việc ngân hàng",
+   "example": "Let's learn the word \"banking\".",
+   "exampleMeaning": "Cùng học từ “banking”: công việc ngân hàng.",
+   "emoji": "",
+   "ipa": "/ˈbæŋkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "affair",
+   "meaning": "việc",
+   "example": "this motor-cycle is a very complicated affair",
+   "exampleMeaning": "Cái mô tô này thật là một món phức tạp quá",
+   "emoji": "",
+   "ipa": "/əˈfɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tour",
+   "meaning": "đi, đi du lịch",
+   "example": "to go for a tour round the town",
+   "exampleMeaning": "Đi dạo chơi thăm thành phố",
+   "emoji": "",
+   "ipa": "/ˈtʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ankle",
+   "meaning": "mắt cá chân",
+   "example": "Let's learn the word \"ankle\".",
+   "exampleMeaning": "Cùng học từ “ankle”: mắt cá chân.",
+   "emoji": "",
+   "ipa": "/ˈæŋkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rather",
+   "meaning": "đúng hơn, Hơn là",
+   "example": "I'm a doctor, or rather, a surgeon.",
+   "exampleMeaning": "Tôi là bác sĩ, hay đúng hơn, là bác sĩ phẫu thuật.",
+   "emoji": "",
+   "ipa": "/ˈræðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "since",
+   "meaning": "từ, từ khi",
+   "example": "I have been his friend ever since.",
+   "exampleMeaning": "Suốt từ ngày đó tôi vẫn là bạn của anh ta.",
+   "emoji": "",
+   "ipa": "/sɪn(t)s/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "video game",
+   "meaning": "trò chơi điện tử",
+   "example": "He is a graphic designer for a video game company.",
+   "exampleMeaning": "Anh ấy là một người thiết kế đồ họa cho một công ty game.",
+   "emoji": "🎮",
+   "ipa": "/ˈvɪdioʊ ˈɡeɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "till",
+   "meaning": "đến, tới",
+   "example": "Stay at home till noon.",
+   "exampleMeaning": "Ở nhà cho đến trưa.",
+   "emoji": "",
+   "ipa": "/tɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "somebody",
+   "meaning": "ông này ông nọ",
+   "example": "somebody told me so",
+   "exampleMeaning": "Có người nói với tôi như vậy",
+   "emoji": "",
+   "ipa": "/ˈsəmˌbɑdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unforgettable",
+   "meaning": "không thể quên được",
+   "example": "That trip is an unforgettable memory.",
+   "exampleMeaning": "Chuyến đi đó là kỉ niệm không thể nào quên.",
+   "emoji": "",
+   "ipa": "/ˌənfɜrˈɡɛtəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "round",
+   "meaning": "quanh, vòng quanh, loanh quanh",
+   "example": "he had not fired a single round",
+   "exampleMeaning": "Nó không bắn một phát nào",
+   "emoji": "",
+   "ipa": "/ˈraʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mosque",
+   "meaning": "nhà thờ Hồi giáo",
+   "example": "Let's learn the word \"mosque\".",
+   "exampleMeaning": "Cùng học từ “mosque”: nhà thờ Hồi giáo.",
+   "emoji": "🕌",
+   "ipa": "/ˈmɑsk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dishonest",
+   "meaning": "không lương thiện, bất lương",
+   "example": "Let's learn the word \"dishonest\".",
+   "exampleMeaning": "Cùng học từ “dishonest”: không lương thiện, bất lương.",
+   "emoji": "",
+   "ipa": "/dɪˈsɑnəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "purpose",
+   "meaning": "mục đích, ý định",
+   "example": "for the purpose of...",
+   "exampleMeaning": "Nhằm mục đích...",
+   "emoji": "",
+   "ipa": "/ˈpɜrpəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fisherman",
+   "meaning": "người đánh cá, thuyền chài",
+   "example": "Let's learn the word \"fisherman\".",
+   "exampleMeaning": "Cùng học từ “fisherman”: người đánh cá, thuyền chài.",
+   "emoji": "",
+   "ipa": "/ˈfɪʃɜrˌmæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They",
+    "have",
+    "been",
+    "married",
+    "since",
+    "last",
+    "year"
+   ],
+   "reading": "",
+   "meaning": "Họ đã kết hôn từ năm ngoái."
+  },
+  {
+   "tokens": [
+    "It's",
+    "been",
+    "three",
+    "years",
+    "since",
+    "I",
+    "was",
+    "last",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Đã ba năm kể từ lần cuối tôi ở đây."
+  },
+  {
+   "tokens": [
+    "It's",
+    "been",
+    "over",
+    "a",
+    "week",
+    "since",
+    "I",
+    "last",
+    "saw",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Đã hơn một tuần kể từ lần cuối cùng tôi gặp Tom."
+  },
+  {
+   "tokens": [
+    "It's",
+    "been",
+    "a",
+    "long",
+    "time",
+    "since",
+    "I",
+    "last",
+    "saw",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Cũng lâu rồi kể từ khi tôi gặp bạn lần cuối."
+  },
+  {
+   "tokens": [
+    "I'd",
+    "rather",
+    "not"
+   ],
+   "reading": "",
+   "meaning": "Tôi thà không."
+  }
+ ],
+ "issues": []
+}

@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as IdiomsRouteImport } from './routes/idioms'
 import { Route as LeaderboardRouteImport } from './routes/leaderboard'
 import { Route as ReviewRouteImport } from './routes/review'
 import { Route as SettingsRouteImport } from './routes/settings'
@@ -19,6 +20,10 @@ import { Route as GamesIndexRouteImport } from './routes/games/index'
 import { Route as GamesGameIdRouteImport } from './routes/games/$gameId'
 import { Route as GrammarIndexRouteImport } from './routes/grammar/index'
 import { Route as GrammarTopicIdRouteImport } from './routes/grammar/$topicId'
+import { Route as SentencesIndexRouteImport } from './routes/sentences/index'
+import { Route as SentencesPackIdRouteImport } from './routes/sentences/$packId'
+import { Route as TalkIndexRouteImport } from './routes/talk/index'
+import { Route as TalkDialogueIdRouteImport } from './routes/talk/$dialogueId'
 import { Route as DecksDeckIdIndexRouteImport } from './routes/decks/$deckId/index'
 import { Route as DecksDeckIdClozeRouteImport } from './routes/decks/$deckId/cloze'
 import { Route as DecksDeckIdDictationRouteImport } from './routes/decks/$deckId/dictation'
@@ -31,6 +36,11 @@ import { Route as DecksDeckIdSentenceRouteImport } from './routes/decks/$deckId/
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const IdiomsRoute = IdiomsRouteImport.update({
+  id: '/idioms',
+  path: '/idioms',
   getParentRoute: () => rootRouteImport,
 } as any)
 const LeaderboardRoute = LeaderboardRouteImport.update({
@@ -78,6 +88,26 @@ const GrammarTopicIdRoute = GrammarTopicIdRouteImport.update({
   path: '/grammar/$topicId',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SentencesIndexRoute = SentencesIndexRouteImport.update({
+  id: '/sentences/',
+  path: '/sentences/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SentencesPackIdRoute = SentencesPackIdRouteImport.update({
+  id: '/sentences/$packId',
+  path: '/sentences/$packId',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TalkIndexRoute = TalkIndexRouteImport.update({
+  id: '/talk/',
+  path: '/talk/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TalkDialogueIdRoute = TalkDialogueIdRouteImport.update({
+  id: '/talk/$dialogueId',
+  path: '/talk/$dialogueId',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const DecksDeckIdIndexRoute = DecksDeckIdIndexRouteImport.update({
   id: '/',
   path: '/',
@@ -121,6 +151,7 @@ const DecksDeckIdSentenceRoute = DecksDeckIdSentenceRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
@@ -128,8 +159,12 @@ export interface FileRoutesByFullPath {
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/sentences/$packId': typeof SentencesPackIdRoute
+  '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games/': typeof GamesIndexRoute
   '/grammar/': typeof GrammarIndexRoute
+  '/sentences/': typeof SentencesIndexRoute
+  '/talk/': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
   '/decks/$deckId/dictation': typeof DecksDeckIdDictationRoute
   '/decks/$deckId/flashcard': typeof DecksDeckIdFlashcardRoute
@@ -141,14 +176,19 @@ export interface FileRoutesByFullPath {
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/sentences/$packId': typeof SentencesPackIdRoute
+  '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games': typeof GamesIndexRoute
   '/grammar': typeof GrammarIndexRoute
+  '/sentences': typeof SentencesIndexRoute
+  '/talk': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
   '/decks/$deckId/dictation': typeof DecksDeckIdDictationRoute
   '/decks/$deckId/flashcard': typeof DecksDeckIdFlashcardRoute
@@ -161,6 +201,7 @@ export interface FileRoutesByTo {
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
@@ -168,8 +209,12 @@ export interface FileRoutesById {
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/sentences/$packId': typeof SentencesPackIdRoute
+  '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games/': typeof GamesIndexRoute
   '/grammar/': typeof GrammarIndexRoute
+  '/sentences/': typeof SentencesIndexRoute
+  '/talk/': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
   '/decks/$deckId/dictation': typeof DecksDeckIdDictationRoute
   '/decks/$deckId/flashcard': typeof DecksDeckIdFlashcardRoute
@@ -183,6 +228,7 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/idioms'
     | '/leaderboard'
     | '/review'
     | '/settings'
@@ -190,8 +236,12 @@ export interface FileRouteTypes {
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/sentences/$packId'
+    | '/talk/$dialogueId'
     | '/games/'
     | '/grammar/'
+    | '/sentences/'
+    | '/talk/'
     | '/decks/$deckId/cloze'
     | '/decks/$deckId/dictation'
     | '/decks/$deckId/flashcard'
@@ -203,14 +253,19 @@ export interface FileRouteTypes {
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/idioms'
     | '/leaderboard'
     | '/review'
     | '/settings'
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/sentences/$packId'
+    | '/talk/$dialogueId'
     | '/games'
     | '/grammar'
+    | '/sentences'
+    | '/talk'
     | '/decks/$deckId/cloze'
     | '/decks/$deckId/dictation'
     | '/decks/$deckId/flashcard'
@@ -222,6 +277,7 @@ export interface FileRouteTypes {
   id:
     | '__root__'
     | '/'
+    | '/idioms'
     | '/leaderboard'
     | '/review'
     | '/settings'
@@ -229,8 +285,12 @@ export interface FileRouteTypes {
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/sentences/$packId'
+    | '/talk/$dialogueId'
     | '/games/'
     | '/grammar/'
+    | '/sentences/'
+    | '/talk/'
     | '/decks/$deckId/cloze'
     | '/decks/$deckId/dictation'
     | '/decks/$deckId/flashcard'
@@ -243,6 +303,7 @@ export interface FileRouteTypes {
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  IdiomsRoute: typeof IdiomsRoute
   LeaderboardRoute: typeof LeaderboardRoute
   ReviewRoute: typeof ReviewRoute
   SettingsRoute: typeof SettingsRoute
@@ -250,8 +311,12 @@ export interface RootRouteChildren {
   CoursesCourseIdRoute: typeof CoursesCourseIdRoute
   GamesGameIdRoute: typeof GamesGameIdRoute
   GrammarTopicIdRoute: typeof GrammarTopicIdRoute
+  SentencesPackIdRoute: typeof SentencesPackIdRoute
+  TalkDialogueIdRoute: typeof TalkDialogueIdRoute
   GamesIndexRoute: typeof GamesIndexRoute
   GrammarIndexRoute: typeof GrammarIndexRoute
+  SentencesIndexRoute: typeof SentencesIndexRoute
+  TalkIndexRoute: typeof TalkIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -261,6 +326,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/idioms': {
+      id: '/idioms'
+      path: '/idioms'
+      fullPath: '/idioms'
+      preLoaderRoute: typeof IdiomsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/leaderboard': {
@@ -324,6 +396,34 @@ declare module '@tanstack/react-router' {
       path: '/grammar/$topicId'
       fullPath: '/grammar/$topicId'
       preLoaderRoute: typeof GrammarTopicIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sentences/': {
+      id: '/sentences/'
+      path: '/sentences'
+      fullPath: '/sentences/'
+      preLoaderRoute: typeof SentencesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sentences/$packId': {
+      id: '/sentences/$packId'
+      path: '/sentences/$packId'
+      fullPath: '/sentences/$packId'
+      preLoaderRoute: typeof SentencesPackIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/talk/': {
+      id: '/talk/'
+      path: '/talk'
+      fullPath: '/talk/'
+      preLoaderRoute: typeof TalkIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/talk/$dialogueId': {
+      id: '/talk/$dialogueId'
+      path: '/talk/$dialogueId'
+      fullPath: '/talk/$dialogueId'
+      preLoaderRoute: typeof TalkDialogueIdRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/decks/$deckId/': {
@@ -412,6 +512,7 @@ const DecksDeckIdRouteRouteWithChildren =
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  IdiomsRoute: IdiomsRoute,
   LeaderboardRoute: LeaderboardRoute,
   ReviewRoute: ReviewRoute,
   SettingsRoute: SettingsRoute,
@@ -419,8 +520,12 @@ const rootRouteChildren: RootRouteChildren = {
   CoursesCourseIdRoute: CoursesCourseIdRoute,
   GamesGameIdRoute: GamesGameIdRoute,
   GrammarTopicIdRoute: GrammarTopicIdRoute,
+  SentencesPackIdRoute: SentencesPackIdRoute,
+  TalkDialogueIdRoute: TalkDialogueIdRoute,
   GamesIndexRoute: GamesIndexRoute,
   GrammarIndexRoute: GrammarIndexRoute,
+  SentencesIndexRoute: SentencesIndexRoute,
+  TalkIndexRoute: TalkIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

@@ -1,0 +1,327 @@
+{
+ "lesson": 59,
+ "draft": true,
+ "words": [
+  {
+   "term": "ひとりでに",
+   "meaning": "tự nó",
+   "example": "「ひとりでに」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ひとりでに”: tự nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "缶詰",
+   "meaning": "đồ hộp",
+   "example": "「缶詰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “缶詰”: đồ hộp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "受験",
+   "meaning": "taking an examination (EN)",
+   "example": "「受験」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受験”: taking an examination (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立ち止まる",
+   "meaning": "ngừng, nghỉ, thôi",
+   "example": "「立ち止まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “立ち止まる”: ngừng, nghỉ, thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "周辺",
+   "meaning": "đường tròn",
+   "example": "「周辺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “周辺”: đường tròn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "散らかす",
+   "meaning": "làm lộn xộn, làm mất trật tự, xáo lộn",
+   "example": "「散らかす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “散らかす”: làm lộn xộn, làm mất trật tự, xáo lộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "モーター",
+   "meaning": "động cơ mô tô",
+   "example": "「モーター」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “モーター”: động cơ mô tô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "スライド",
+   "meaning": "sự trượt",
+   "example": "「スライド」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “スライド”: sự trượt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "こくせき",
+   "meaning": "tính chất dân tộc",
+   "example": "「こくせき」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “こくせき”: tính chất dân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無沙汰",
+   "meaning": "neglecting to stay in contact (EN)",
+   "example": "「無沙汰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無沙汰”: neglecting to stay in contact (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仮名",
+   "meaning": "kana (EN)",
+   "example": "「仮名」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仮名”: kana (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "器具",
+   "meaning": "dụng cụ ((nghĩa đen) & (nghĩa bóng))",
+   "example": "「器具」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “器具”: dụng cụ ((nghĩa đen) & (nghĩa bóng)).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定期券",
+   "meaning": "vé suốt mùa",
+   "example": "「定期券」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定期券”: vé suốt mùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確率",
+   "meaning": "sự có thể có, sự chắc hẳn",
+   "example": "「確率」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “確率”: sự có thể có, sự chắc hẳn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弟子",
+   "meaning": "học trò, học sinh",
+   "example": "「弟子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弟子”: học trò, học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "採る",
+   "meaning": "nhận làm con nuôi",
+   "example": "「採る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “採る”: nhận làm con nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引受る",
+   "meaning": "làm, thực hiện",
+   "example": "「引受る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引受る”: làm, thực hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "掘る",
+   "meaning": "đào bới, xới, thúc",
+   "example": "「掘る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “掘る”: đào bới, xới, thúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紅葉",
+   "meaning": "fall colors (EN)",
+   "example": "「紅葉」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紅葉”: fall colors (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "消極的",
+   "meaning": "bị động, thụ động",
+   "example": "「消極的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “消極的”: bị động, thụ động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "と",
+    "結婚",
+    "したいんだ"
+   ],
+   "reading": "かのじょとけっこんしたいんだ",
+   "meaning": "Tôi muốn kết hôn với cô ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "馬",
+    "に",
+    "乗れる",
+    "んだ",
+    "よ"
+   ],
+   "reading": "わたしはうまにのれるんだよ",
+   "meaning": "Tôi có thể cưỡi ngựa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私",
+    "を",
+    "ピート",
+    "と",
+    "呼ぶ"
+   ],
+   "reading": "かれはわたしをピートとよぶ",
+   "meaning": "Anh ấy gọi tôi là Pete."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "失敗",
+    "を",
+    "恥じている"
+   ],
+   "reading": "かれはしっぱいをはじている",
+   "meaning": "Anh ấy cảm thấy xấu hổ về thất bại của mình."
+  },
+  {
+   "tokens": [
+    "朱",
+    "に",
+    "交われば",
+    "赤く",
+    "なる"
+   ],
+   "reading": "しゅにまじわればあかくなる",
+   "meaning": "Gần mực thì đen, gần đèn thì sáng."
+  }
+ ],
+ "issues": []
+}

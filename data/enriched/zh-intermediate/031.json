@@ -1,0 +1,331 @@
+{
+ "lesson": 31,
+ "draft": true,
+ "words": [
+  {
+   "term": "大胆",
+   "meaning": "mạnh dạn",
+   "example": "大胆革新",
+   "exampleMeaning": "Mạnh dạn cải tiến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàdǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "改革",
+   "meaning": "cải cách",
+   "example": "我们算计着改革生产流程。",
+   "exampleMeaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎigé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "也好",
+   "meaning": "tốt",
+   "example": "让他们自己干一干也好。",
+   "exampleMeaning": "Để họ tự mình làm cũng tốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yěhǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "偷偷",
+   "meaning": "vụng trộm",
+   "example": "趁人不注意，他偷偷儿地溜走了。",
+   "exampleMeaning": "Thừa lúc mọi người không chú ý, nó đã lén chuồn đi rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōutōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卧室",
+   "meaning": "phòng ngủ",
+   "example": "哪间卧室都干净。",
+   "exampleMeaning": "Phòng ngủ nào cũng sạch sẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wòshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "众多",
+   "meaning": "đông, đông đảo, nhiều",
+   "example": "我取得了众多可观的成就。",
+   "exampleMeaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngduō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "失误",
+   "meaning": "sai sót",
+   "example": "我们来学“失误”这个词。",
+   "exampleMeaning": "Cùng học từ “失误”: sai sót.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "决不",
+   "meaning": "không bao giờ",
+   "example": "我们来学“决不”这个词。",
+   "exampleMeaning": "Cùng học từ “决不”: không bao giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juébù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尊敬",
+   "meaning": "kính trọng",
+   "example": "王院长为人正派，办事公道，没给人穿过小鞋，大家都尊敬他。",
+   "exampleMeaning": "Viện trưởng Vương xử sự ngay thẳng, làm việc công minh, chưa từng gây khó dễ cho ai, mọi người đều tôn kính ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zūnjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "依旧",
+   "meaning": "như cũ",
+   "example": "别人都走了，他依旧坐在那里看书。",
+   "exampleMeaning": "Mọi người đều đi cả rồi, anh ấy vẫn cứ ngồi xem sách ở đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yījiù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "包装",
+   "meaning": "đóng gói",
+   "example": "我们来学“包装”这个词。",
+   "exampleMeaning": "Cùng học từ “包装”: đóng gói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāozhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "强迫",
+   "meaning": "ép buộc",
+   "example": "个人意见不要强迫别人接受。",
+   "exampleMeaning": "Ý kiến của cá nhân không nên ép buộc người khác phải chấp nhận",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiǎngpò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "增",
+   "meaning": "tăng",
+   "example": "学生人数一年比一年增加。",
+   "exampleMeaning": "Số học sinh mỗi năm một tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "回顾",
+   "meaning": "nhìn lại",
+   "example": "回顾过去，瞻望未来。",
+   "exampleMeaning": "Nhìn lại quá khứ, nhìn về tương lai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huígù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肩",
+   "meaning": "vai",
+   "example": "身肩大任。",
+   "exampleMeaning": "Gánh vác nhiệm vụ lớn lao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "模仿",
+   "meaning": "bắt chước, làm theo",
+   "example": "用口哨模仿布谷鸟叫。",
+   "exampleMeaning": "Huýt sáo bắt chước theo tiếng chim cuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mófǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前提",
+   "meaning": "tiền đề",
+   "example": "我们来学“前提”这个词。",
+   "exampleMeaning": "Cùng học từ “前提”: tiền đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiántí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自豪",
+   "meaning": "tự hào",
+   "example": "他对自己的成就感到自豪。",
+   "exampleMeaning": "Anh ấy cảm thấy tự hào về thành tích của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìháo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "福利",
+   "meaning": "phúc lợi",
+   "example": "发展生产，福利人民。",
+   "exampleMeaning": "Phát triển sản xuất, mang lại lợi ích cho nhân dân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手法",
+   "meaning": "thủ đoạn",
+   "example": "两面手法。",
+   "exampleMeaning": "Thủ đoạn hai mặt; con dao hai lưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒufǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "改革者",
+    "的",
+    "目标",
+    "是",
+    "要",
+    "改进",
+    "政府"
+   ],
+   "reading": "gǎigézhě de mùbiāo shì yào gǎijìn zhèngfǔ",
+   "meaning": "Mục tiêu của các nhà cải cách là cải thiện chính phủ."
+  },
+  {
+   "tokens": [
+    "他",
+    "提出",
+    "改革",
+    "研究",
+    "方法",
+    "的",
+    "意见"
+   ],
+   "reading": "tā tíchū gǎigé yánjiū fāngfǎ de yìjiàn",
+   "meaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+  },
+  {
+   "tokens": [
+    "哪",
+    "间",
+    "卧室",
+    "都",
+    "干净"
+   ],
+   "reading": "nǎ jiān wòshì dōu gānjìng",
+   "meaning": "Phòng ngủ nào cũng sạch sẽ."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  }
+ ],
+ "issues": []
+}

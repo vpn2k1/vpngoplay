@@ -1,0 +1,333 @@
+{
+ "lesson": 49,
+ "draft": true,
+ "words": [
+  {
+   "term": "元素",
+   "meaning": "nguyên tố",
+   "example": "イリジウムは最も希少な元素のひとつだ。",
+   "exampleMeaning": "Iridi là một trong những nguyên tố hóa học hiếm nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "看護",
+   "meaning": "sự chăm sóc bệnh nhân, sự điều dưỡng",
+   "example": "看護婦は泣く子をなだめた。",
+   "exampleMeaning": "Người y tá dỗ dành đứa trẻ đang khóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真実",
+   "meaning": "sự thật, lẽ phải, chân lý",
+   "example": "彼はそれを真実だと認めた。",
+   "exampleMeaning": "Anh ta thừa nhận rằng đó là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "領海",
+   "meaning": "vùng lãnh hải",
+   "example": "「領海」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “領海”: vùng lãnh hải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "法案",
+   "meaning": "cái kéo liềm (để tỉa cành cây trên cao)",
+   "example": "君はその法案に賛成なのか反対なのか。",
+   "exampleMeaning": "Anh có đồng ý với đề án đó không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "取扱",
+   "meaning": "sự đối xử, sự đối đãi",
+   "example": "あなたは熱交換器の取扱説明書をこちらでダウンロードできます。",
+   "exampleMeaning": "Bạn có thể tải hướng dẫn sử dụng của bộ trao đổi nhiệt tại đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "警部",
+   "meaning": "police inspector (EN)",
+   "example": "「警部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “警部”: police inspector (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相対",
+   "meaning": "có liên quan",
+   "example": "「相対」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “相対”: có liên quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政権",
+   "meaning": "chính phủ, chính quyền",
+   "example": "「政権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政権”: chính phủ, chính quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無駄遣い",
+   "meaning": "bỏ hoang, hoang vu (đất)",
+   "example": "「無駄遣い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無駄遣い”: bỏ hoang, hoang vu (đất).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "応募",
+   "meaning": "sự quyên góp (tiền)",
+   "example": "彼はその仕事に応募し、採用された。",
+   "exampleMeaning": "Anh ấy đã ứng tuyển công việc đó, và đã được nhận vào làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "孤独",
+   "meaning": "sự cô lập",
+   "example": "「孤独」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “孤独”: sự cô lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "レンジ",
+   "meaning": "dãy, hàng",
+   "example": "私はオレンジが大好きです。",
+   "exampleMeaning": "Tôi rất thích quả cam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "肉体",
+   "meaning": "thân thể, thể xác",
+   "example": "心熱けれど肉体は弱し。",
+   "exampleMeaning": "Lực bất tòng tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同封",
+   "meaning": "sự rào lại (đất đai... )",
+   "example": "「同封」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同封”: sự rào lại (đất đai... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理屈",
+   "meaning": "thuyết, học thuyết",
+   "example": "お前の屁理屈はもう聞き飽きたよ。",
+   "exampleMeaning": "Tao đã chán ngấy những lời biện hộ của mày rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "賃金",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của wage",
+   "example": "「賃金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “賃金”: động từ chia ở ngôi thứ ba số ít của wage.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余地",
+   "meaning": "nơi, chỗ, địa điểm",
+   "example": "宇宙が無限であるということに疑いの余地はない。",
+   "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ファイル",
+   "meaning": "cái giũa",
+   "example": "このファイルは削除して下さい。",
+   "exampleMeaning": "Hãy xóa file này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "進展",
+   "meaning": "sự tiến tới, sự tiến bộ",
+   "example": "「進展」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進展”: sự tiến tới, sự tiến bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "ファイル",
+    "は",
+    "削除",
+    "して",
+    "下さい"
+   ],
+   "reading": "このファイルはさくじょしてください",
+   "meaning": "Hãy xóa file này."
+  },
+  {
+   "tokens": [
+    "結局",
+    "法案",
+    "は",
+    "提出",
+    "断念",
+    "に",
+    "追い込まれた",
+    "のだった"
+   ],
+   "reading": "けっきょくほうあんはていしゅつだんねんにおいこまれたのだった",
+   "meaning": "Cuối cùng, dự thảo luật đó đã bị buộc phải bãi bỏ."
+  },
+  {
+   "tokens": [
+    "心",
+    "熱",
+    "けれど",
+    "肉体",
+    "は",
+    "弱し"
+   ],
+   "reading": "こころねつけれどにくたいはよわし",
+   "meaning": "Lực bất tòng tâm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "それ",
+    "を",
+    "真実",
+    "だ",
+    "と",
+    "認めた"
+   ],
+   "reading": "かれはそれをしんじつだとみとめた",
+   "meaning": "Anh ta thừa nhận rằng đó là sự thật."
+  },
+  {
+   "tokens": [
+    "看護婦",
+    "は",
+    "泣く",
+    "子",
+    "を",
+    "なだめた"
+   ],
+   "reading": "かんごふはなくこをなだめた",
+   "meaning": "Người y tá dỗ dành đứa trẻ đang khóc."
+  }
+ ],
+ "issues": []
+}

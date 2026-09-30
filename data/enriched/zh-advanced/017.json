@@ -1,0 +1,331 @@
+{
+ "lesson": 17,
+ "draft": true,
+ "words": [
+  {
+   "term": "古怪",
+   "meaning": "cổ quái",
+   "example": "脾气古怪",
+   "exampleMeaning": "Tính nết kỳ lạ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔguài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "岩石",
+   "meaning": "nham thạch",
+   "example": "我们来学“岩石”这个词。",
+   "exampleMeaning": "Cùng học từ “岩石”: nham thạch.",
+   "emoji": "🪨",
+   "ipa": "",
+   "pinyin": "yánshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "裹",
+   "meaning": "bú (sữa)",
+   "example": "小孩儿一生下来就会裹奶。",
+   "exampleMeaning": "Trẻ con vừa sinh ra đã biết bú sữa ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "克隆",
+   "meaning": "nhân bản (vô tính)",
+   "example": "我们来学“克隆”这个词。",
+   "exampleMeaning": "Cùng học từ “克隆”: nhân bản (vô tính).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kèlóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "皱",
+   "meaning": "cau, nhăn nheo, nếp nhăn",
+   "example": "上了年纪脸上就会起皱。",
+   "exampleMeaning": "Khi có tuổi trên mặt sẽ có nếp nhăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "豹",
+   "meaning": "con báo",
+   "example": "我们来学“豹”这个词。",
+   "exampleMeaning": "Cùng học từ “豹”: con báo.",
+   "emoji": "🐆",
+   "ipa": "",
+   "pinyin": "bào",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "进度",
+   "meaning": "tiến độ",
+   "example": "工程的进度大大地加快了。",
+   "exampleMeaning": "Tiến độ của công trình tăng khá nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìndù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流泪",
+   "meaning": "rơi nước mắt",
+   "example": "我们来学“流泪”这个词。",
+   "exampleMeaning": "Cùng học từ “流泪”: rơi nước mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúlèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精致",
+   "meaning": "tinh xảo",
+   "example": "展览会上的工艺品件件都很精致。",
+   "exampleMeaning": "Hàng công nghệ ở triển lãm cái nào cũng tinh xảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直至",
+   "meaning": "cho đến",
+   "example": "我们来学“直至”这个词。",
+   "exampleMeaning": "Cùng học từ “直至”: cho đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhízhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出身",
+   "meaning": "xuất thân",
+   "example": "工人家庭出身。",
+   "exampleMeaning": "Xuất thân từ gia đình công nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "柔软",
+   "meaning": "mềm, dẻo, dễ uốn",
+   "example": "柔软的毛皮。",
+   "exampleMeaning": "Lông da mềm mại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róuruǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "何处",
+   "meaning": "chỗ nào",
+   "example": "我们来学“何处”这个词。",
+   "exampleMeaning": "Cùng học từ “何处”: chỗ nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héchù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "头号",
+   "meaning": "tốt nhất",
+   "example": "头号新闻",
+   "exampleMeaning": "Tin tức số một.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóuhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "王国",
+   "meaning": "vương quốc",
+   "example": "从必然王国到自由。",
+   "exampleMeaning": "Từ vương quốc tất nhiên đến vương quốc tự do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wángguó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "墨",
+   "meaning": "mực",
+   "example": "墨洋(墨西哥银元)。",
+   "exampleMeaning": "Đồng bạc trắng của Mê-hi-cô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mò",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "丢掉",
+   "meaning": "mất",
+   "example": "不小心把钥匙丢掉了。",
+   "exampleMeaning": "Không cẩn thận làm mất chìa khoá rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diūdiào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "动静",
+   "meaning": "động tĩnh",
+   "example": "一有动静，要马上报告。",
+   "exampleMeaning": "Nếu có động tĩnh gì, thì sẽ lập tức báo cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòngjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "授予",
+   "meaning": "trao tặng",
+   "example": "我们来学“授予”这个词。",
+   "exampleMeaning": "Cùng học từ “授予”: trao tặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòuyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赴",
+   "meaning": "đi, đi đến, đi tới",
+   "example": "我们来学“赴”这个词。",
+   "exampleMeaning": "Cùng học từ “赴”: đi, đi đến, đi tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fù",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "已经",
+    "没",
+    "人",
+    "来",
+    "拜访",
+    "我",
+    "了"
+   ],
+   "reading": "yǐjīng méi rén lái bàifǎng wǒ le",
+   "meaning": "Không ai tới thăm tôi nữa."
+  },
+  {
+   "tokens": [
+    "她",
+    "将",
+    "必须",
+    "为",
+    "大家",
+    "做饭"
+   ],
+   "reading": "tā jiāng bìxū wèi dàjiā zuòfàn",
+   "meaning": "Cô ấy sẽ phải nấu cơm cho tất cả mọi người."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "两",
+    "年前",
+    "吃",
+    "过",
+    "一次"
+   ],
+   "reading": "wǒ zài liǎng niánqián chī guo yīcì",
+   "meaning": "Tôi đã ăn một lần vào khoảng hai năm trước."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "它",
+    "一定",
+    "是",
+    "个",
+    "生日",
+    "蛋糕"
+   ],
+   "reading": "tā yīdìng shì ge shēngrì dàngāo",
+   "meaning": "Đây chắc hẳn là một cái bánh sinh nhật."
+  }
+ ],
+ "issues": []
+}

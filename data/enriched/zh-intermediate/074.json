@@ -1,0 +1,331 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "防守",
+   "meaning": "phòng thủ",
+   "example": "这个队不仅防守严密，而且能抓住机会快速反击。",
+   "exampleMeaning": "Đội này không những phòng thủ nghiêm ngặt, mà phản công cũng rất nhanh khi có cơ hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主角",
+   "meaning": "nhân vật chính",
+   "example": "那次事变的几个主角已先后去世。",
+   "exampleMeaning": "Mấy nhân vật chính của biến cố đó lần lượt qua đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "潜力",
+   "meaning": "tiềm lực",
+   "example": "挖掘潜力。",
+   "exampleMeaning": "Khai thác tiềm lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "总部",
+   "meaning": "văn phòng chính",
+   "example": "该公司总部设在纽约市。",
+   "exampleMeaning": "Văn phòng chính của công ty này ở thành phố New York.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "笑容",
+   "meaning": "dáng tươi cười",
+   "example": "笑容满面。",
+   "exampleMeaning": "Nét mặt tươi cười vui vẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàoróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地板",
+   "meaning": "mặt nền",
+   "example": "水磨石地板",
+   "exampleMeaning": "Mặt nền granito.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìbǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罢了",
+   "meaning": "thôi",
+   "example": "我不过作了我应该做的事罢了",
+   "exampleMeaning": "Chẳng qua là tôi chỉ làm chuyện mình phải làm mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàle",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通讯",
+   "meaning": "thông tin",
+   "example": "无线电通讯",
+   "exampleMeaning": "Thông tin vô tuyến điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngxùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "隐藏",
+   "meaning": "ẩn núp",
+   "example": "隐藏在树林中。",
+   "exampleMeaning": "Ẩn núp trong rừng rậm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐncáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "算了",
+   "meaning": "bỏ qua đi, để nó trôi qua, quên nó đi",
+   "example": "我们来学“算了”这个词。",
+   "exampleMeaning": "Cùng học từ “算了”: bỏ qua đi, để nó trôi qua, quên nó đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suànle",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "狠",
+   "meaning": "nghiêm khắc",
+   "example": "狠 狠打击各种犯罪分子。",
+   "exampleMeaning": "Nghiêm khắc đánh vào các phần tử tội phạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "策划",
+   "meaning": "trù hoạch",
+   "example": "这部影片怎么个拍法，请你来策划一下。",
+   "exampleMeaning": "Cách trình chiếu phát hành bộ phim này như thế nào, xin anh đến bàn kế hoạch một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cèhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蹲",
+   "meaning": "ngồi xổm, ngồi chồm chỗm",
+   "example": "他整天蹲在家里不出门。",
+   "exampleMeaning": "Suốt ngày anh ấy ngồi nhà không đi đâu cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dūn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "牵",
+   "meaning": "dắt",
+   "example": "牵着一头牛往地里走。",
+   "exampleMeaning": "Dắt bò ra đồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "账户",
+   "meaning": "tài khoản",
+   "example": "我们来学“账户”这个词。",
+   "exampleMeaning": "Cùng học từ “账户”: tài khoản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànghù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当成",
+   "meaning": "cho rằng",
+   "example": "不要再把我当成“正常”人！",
+   "exampleMeaning": "Đừng coi tôi như người \"bình thường\"!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "远离",
+   "meaning": "tránh xa",
+   "example": "我们来学“远离”这个词。",
+   "exampleMeaning": "Cùng học từ “远离”: tránh xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuǎnlí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天下",
+   "meaning": "thiên hạ",
+   "example": "今天下这么大的雨，土松着呢。",
+   "exampleMeaning": "Hôm nay mưa to thế này thì đất bở lắm đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "适当",
+   "meaning": "thích hợp",
+   "example": "适当的机会。",
+   "exampleMeaning": "Dịp thích hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìdàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "和谐",
+   "meaning": "êm dịu",
+   "example": "这张画的颜色很和谐。",
+   "exampleMeaning": "Bức tranh này màu sắc rất hài hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héxié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "把",
+    "我",
+    "当成",
+    "正常",
+    "人"
+   ],
+   "reading": "bù yào zài bǎ wǒ dàngchéng zhèngcháng rén",
+   "meaning": "Đừng coi tôi như người \"bình thường\"!"
+  },
+  {
+   "tokens": [
+    "今天",
+    "下",
+    "这么",
+    "大",
+    "的",
+    "雨",
+    "土",
+    "松",
+    "着呢"
+   ],
+   "reading": "jīntiān xià zhème dà de yǔ tǔ sōng zhene",
+   "meaning": "Hôm nay mưa to thế này thì đất bở lắm đấy."
+  },
+  {
+   "tokens": [
+    "突然",
+    "天下",
+    "起",
+    "雨",
+    "来"
+   ],
+   "reading": "tūrán tiānxià qǐ yǔ lái",
+   "meaning": "Bỗng nhiên trời mưa."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "我",
+    "十分",
+    "反对",
+    "这个",
+    "项目"
+   ],
+   "reading": "wǒ shífēn fǎnduì zhège xiàngmù",
+   "meaning": "Tôi hoàn toàn phản đối kế hoạch."
+  }
+ ],
+ "issues": []
+}

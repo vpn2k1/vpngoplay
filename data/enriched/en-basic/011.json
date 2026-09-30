@@ -1,0 +1,347 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "CD player",
+   "meaning": "máy hát đĩa compact",
+   "example": "Let's learn the word \"CD player\".",
+   "exampleMeaning": "Cùng học từ “CD player”: máy hát đĩa compact.",
+   "emoji": "",
+   "ipa": "/ˌsiˈdi ˈpleɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "banana",
+   "meaning": "quả chuối",
+   "example": "My mother is on a banana diet.",
+   "exampleMeaning": "Mẹ tôi đang giảm cân bằng chuối.",
+   "emoji": "🍌",
+   "ipa": "/bəˈnɑː.nə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ask",
+   "meaning": "hỏi",
+   "example": "to ask a favour of someone",
+   "exampleMeaning": "Xin ai một đặc ân",
+   "emoji": "",
+   "ipa": "/ˈæsk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tennis",
+   "meaning": "quần vợt",
+   "example": "He is a good tennis player.",
+   "exampleMeaning": "Anh ấy là người chơi quần vợt giỏi.",
+   "emoji": "🎾",
+   "ipa": "/ˈtɛnɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "man",
+   "meaning": "đàn ông, nam nhi",
+   "example": "Hurry up man, we are late!",
+   "exampleMeaning": "Nhanh lên cậu cả, muộn rồi!",
+   "emoji": "👨",
+   "ipa": "/ˈmæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "point",
+   "meaning": "điểm, vấn đề, mặt",
+   "example": "the point of the jaw; the point",
+   "exampleMeaning": "(quyền Anh) mỏm cắm, chốt cắm (chỗ đánh dễ bị đo ván)",
+   "emoji": "",
+   "ipa": "/pɔɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "other",
+   "meaning": "khác",
+   "example": "it was none other than Nam",
+   "exampleMeaning": "Không phải ai khác mà chính là Nam",
+   "emoji": "",
+   "ipa": "/ˈə.ðɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "up",
+   "meaning": "lên, ngược (đi về hướng bắc)",
+   "example": "whe are you going up to London?",
+   "exampleMeaning": "Khi nào anh đi Luân Đôn?",
+   "emoji": "",
+   "ipa": "/ˈəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "happen",
+   "meaning": "xảy đến, xảy ra",
+   "example": "It'll happen, I'm sure of it.",
+   "exampleMeaning": "Nó sẽ xảy ra, tôi chắc chắn đấy.",
+   "emoji": "",
+   "ipa": "/ˈhæpən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "box",
+   "meaning": "hộp, thùng, tráp",
+   "example": "to be in the wrong box",
+   "exampleMeaning": "Lâm vào hoàn cảnh khó xử",
+   "emoji": "",
+   "ipa": "/bɒks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "ours",
+   "meaning": "cái của chúng ta, cái của chúng tôi",
+   "example": "That's not our car. Ours is white.",
+   "exampleMeaning": "Đấy không phải ô tô của chúng tôi. Của chúng tôi màu trắng cơ.",
+   "emoji": "",
+   "ipa": "/ˈaʊɜrz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "four",
+   "meaning": "bốn",
+   "example": "the cases are not an all four",
+   "exampleMeaning": "Những hòm này không giống nhau",
+   "emoji": "",
+   "ipa": "/ˈfɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "soccer",
+   "meaning": "môn bóng đá",
+   "example": "I enjoy watching soccer on TV.",
+   "exampleMeaning": "Tôi thích xem đá bóng trên ti vi.",
+   "emoji": "",
+   "ipa": "/ˈsɑkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "afraid",
+   "meaning": "sợ, hãi, hoảng",
+   "example": "I'm afraid not.",
+   "exampleMeaning": "Tớ e là không.",
+   "emoji": "",
+   "ipa": "/əˈfreɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hill",
+   "meaning": "vun đất (vào gốc cây), cồn, gò",
+   "example": "If the trees on that hill are cut down, you'll see erosion pretty quickly.",
+   "exampleMeaning": "Nếu cây trên ngọn đồi đó bị chặt đi, bạn sẽ thấy sự xói mòn xảy ra khá nhanh.",
+   "emoji": "",
+   "ipa": "/ˈhɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sofa",
+   "meaning": "ghế sofa",
+   "example": "There is a big sofa in the living room.",
+   "exampleMeaning": "Có một chiếc ghế sofa lớn trong phòng khách.",
+   "emoji": "",
+   "ipa": "/ˈsoʊfə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pair",
+   "meaning": "cặp, chiếc, một đôi",
+   "example": "where is the pair to this sock?",
+   "exampleMeaning": "Chiếc tất kia đâu rồi?",
+   "emoji": "",
+   "ipa": "/ˈpɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "these",
+   "meaning": "này",
+   "example": "These are roses.",
+   "exampleMeaning": "Kia là hoa hồng.",
+   "emoji": "",
+   "ipa": "/ˈðiz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "science",
+   "meaning": "khoa học",
+   "example": "Science is very exciting.",
+   "exampleMeaning": "Khoa học rất thú vị",
+   "emoji": "",
+   "ipa": "/ˈsaɪ.əns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "body",
+   "meaning": "nhóm, đoàn, thân",
+   "example": "sound in mind and body",
+   "exampleMeaning": "Lành mạnh cả tâm hồn lẫn thể xác",
+   "emoji": "",
+   "ipa": "/ˈbɑdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "These",
+    "things",
+    "happen",
+    "on",
+    "a",
+    "daily",
+    "basis"
+   ],
+   "reading": "",
+   "meaning": "Những việc này xảy ra hằng ngày."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "afraid",
+    "that",
+    "something",
+    "like",
+    "that",
+    "would",
+    "happen"
+   ],
+   "reading": "",
+   "meaning": "Tôi sợ rằng điều gì đó tương tự sẽ xảy ra."
+  },
+  {
+   "tokens": [
+    "Some",
+    "of",
+    "these",
+    "people",
+    "look",
+    "a",
+    "lot",
+    "like",
+    "each",
+    "other"
+   ],
+   "reading": "",
+   "meaning": "Một số người trông rất giống nhau."
+  },
+  {
+   "tokens": [
+    "When",
+    "other",
+    "people",
+    "point",
+    "out",
+    "my",
+    "mistakes",
+    "I",
+    "blame",
+    "myself"
+   ],
+   "reading": "",
+   "meaning": "Khi người khác chỉ ra những sai lầm của tôi, tôi tự trách bản thân mình."
+  },
+  {
+   "tokens": [
+    "I",
+    "had",
+    "to",
+    "study",
+    "hard",
+    "to",
+    "keep",
+    "up",
+    "with",
+    "the",
+    "other",
+    "students"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã phải học tập chăm chỉ để theo kịp các bạn học sinh khác."
+  }
+ ],
+ "issues": []
+}

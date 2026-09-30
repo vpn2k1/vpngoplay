@@ -1,0 +1,330 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "うんと",
+   "meaning": "thăm, việc rút thăm",
+   "example": "今日はうんと働いた。",
+   "exampleMeaning": "Hôm nay tôi đã làm việc rất nhiều",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ぼろ",
+   "meaning": "giẻ, giẻ rách",
+   "example": "「ぼろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぼろ”: giẻ, giẻ rách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "彫る",
+   "meaning": "khắc, tạc, tạo",
+   "example": "「彫る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “彫る”: khắc, tạc, tạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "研修",
+   "meaning": "sự dạy dỗ, sự rèn luyện",
+   "example": "「研修」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “研修”: sự dạy dỗ, sự rèn luyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かたづく",
+   "meaning": "sắp đặt, sắp xếp, bố trí",
+   "example": "「かたづく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “かたづく”: sắp đặt, sắp xếp, bố trí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "百科事典",
+   "meaning": "bách khoa toàn thư",
+   "example": "「百科事典」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “百科事典”: bách khoa toàn thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公害",
+   "meaning": "sự vi phạm trật tự công cộng",
+   "example": "「公害」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公害”: sự vi phạm trật tự công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かるた",
+   "meaning": "quân bài",
+   "example": "「かるた」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “かるた”: quân bài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "のろのろ",
+   "meaning": "chầm chậm, từ từ, chậm chạp",
+   "example": "「のろのろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “のろのろ”: chầm chậm, từ từ, chậm chạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "火山",
+   "meaning": "núi lửa",
+   "example": "「火山」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “火山”: núi lửa.",
+   "emoji": "🌋",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通ずる",
+   "meaning": "buộc chì",
+   "example": "「通ずる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通ずる”: buộc chì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寝台",
+   "meaning": "cái giường: cái đồ gỗ cho ngủ",
+   "example": "「寝台」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “寝台”: cái giường: cái đồ gỗ cho ngủ.",
+   "emoji": "🛏",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活力",
+   "meaning": "sức sống, sinh khí",
+   "example": "「活力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “活力”: sức sống, sinh khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理科",
+   "meaning": "khoa học",
+   "example": "クリスは理科の授業で落ちこぼれそうです。",
+   "exampleMeaning": "Dường như Chris đang không theo kịp giờ Khoa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "足る",
+   "meaning": "đủ",
+   "example": "人は足るを知らねばならぬ。",
+   "exampleMeaning": "Con người cần biết thỏa mãn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "つまずく",
+   "meaning": "vấp, sẩy chân, trượt chân",
+   "example": "「つまずく」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “つまずく”: vấp, sẩy chân, trượt chân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所々",
+   "meaning": "here and there (EN)",
+   "example": "「所々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “所々”: here and there (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "道順",
+   "meaning": "hành trình, con đường đi",
+   "example": "「道順」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “道順”: hành trình, con đường đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "四角い",
+   "meaning": "vuông",
+   "example": "「四角い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “四角い”: vuông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "作者",
+   "meaning": "tác giả",
+   "example": "「作者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “作者”: tác giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "クリス",
+    "は",
+    "理科",
+    "の",
+    "授業",
+    "で",
+    "落ちこぼれ",
+    "そう",
+    "です"
+   ],
+   "reading": "クリスはりかのじゅぎょうでおちこぼれそうです",
+   "meaning": "Dường như Chris đang không theo kịp giờ Khoa học."
+  },
+  {
+   "tokens": [
+    "何か",
+    "お飲み",
+    "になります",
+    "か"
+   ],
+   "reading": "なにかおのみになりますか",
+   "meaning": "Bạn có muốn uống cái gì không?"
+  },
+  {
+   "tokens": [
+    "それ",
+    "は",
+    "僕",
+    "自身",
+    "で",
+    "やり",
+    "たい"
+   ],
+   "reading": "それはぼくじしんでやりたい",
+   "meaning": "Tôi muốn tự mình làm chuyện đó."
+  },
+  {
+   "tokens": [
+    "うわさ",
+    "は",
+    "本当",
+    "だ",
+    "と",
+    "思う",
+    "よ"
+   ],
+   "reading": "うわさはほんとうだとおもうよ",
+   "meaning": "Tôi nghĩ tin đồn đó là thật."
+  },
+  {
+   "tokens": [
+    "いま",
+    "ちょうど",
+    "正午",
+    "です"
+   ],
+   "reading": "いまちょうどしょうごです",
+   "meaning": "Bây giờ là đúng giữa trưa."
+  }
+ ],
+ "issues": []
+}

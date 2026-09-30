@@ -1,0 +1,333 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "过度",
+   "meaning": "quá",
+   "example": "过度的睡眠",
+   "exampleMeaning": "Quá buồn ngủ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明明",
+   "meaning": "rành rành, một cách rõ ràng, hy vọng",
+   "example": "这话明明是她说的，用不着问了。",
+   "exampleMeaning": "Câu này rõ ràng là anh ấy nói, không cần hỏi lại nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "群众",
+   "meaning": "quần chúng",
+   "example": "每件事都要依靠群众。",
+   "exampleMeaning": "Mỗi việc đều phải dựa vào quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qúnzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "无疑",
+   "meaning": "không nghi ngờ gì",
+   "example": "宇宙毫无疑问是无限的。",
+   "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúyí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "按摩",
+   "meaning": "xoa bóp",
+   "example": "我们来学“按摩”这个词。",
+   "exampleMeaning": "Cùng học từ “按摩”: xoa bóp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànmó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电池",
+   "meaning": "pin",
+   "example": "我们来学“电池”这个词。",
+   "exampleMeaning": "Cùng học từ “电池”: pin.",
+   "emoji": "🔋",
+   "ipa": "",
+   "pinyin": "diànchí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "产业",
+   "meaning": "công nghiệp",
+   "example": "产业工人。",
+   "exampleMeaning": "Công nhân công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敲",
+   "meaning": "đánh, đấm trúng, bắn trúng",
+   "example": "妈，怎么爸爸一批评我，你就敲边鼓！",
+   "exampleMeaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "迟",
+   "meaning": "muộn, chậm, trễ",
+   "example": "有几个人来迟了。",
+   "exampleMeaning": "Một vài người đã tới muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脾气",
+   "meaning": "nóng nảy",
+   "example": "她的脾气很好，从来不急躁。",
+   "exampleMeaning": "Tính của cô ấy rất hay, chẳng bao giờ nóng nảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píqi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "涨",
+   "meaning": "dư ra",
+   "example": "他的脸涨得通红。",
+   "exampleMeaning": "Mặt anh ấy đỏ gay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吨",
+   "meaning": "tấn",
+   "example": "我们来学“吨”这个词。",
+   "exampleMeaning": "Cùng học từ “吨”: tấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dūn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "广",
+   "meaning": "rộng, rộng lớn",
+   "example": "我刚到广州时，因不懂广州话，常常闹笑话。",
+   "exampleMeaning": "Khi tôi mới đến Quảng Châu, vì không hiểu tiếng Quảng Châu, nên thường làm trò cười cho người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "情形",
+   "meaning": "tình hình",
+   "example": "村里的情形。",
+   "exampleMeaning": "Tình hình của thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíngxing",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "起码",
+   "meaning": "tối thiểu",
+   "example": "我这次出差，起码要一个月才能回来。",
+   "exampleMeaning": "Tôi đi công tác lần này, ít nhất một tháng mới quay trở về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐmǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宿舍",
+   "meaning": "ký túc xá",
+   "example": "我们来学“宿舍”这个词。",
+   "exampleMeaning": "Cùng học từ “宿舍”: ký túc xá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùshè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合并",
+   "meaning": "hợp lại",
+   "example": "这三个提议合并讨论。",
+   "exampleMeaning": "Ba đề nghị ấy hợp lại làm một mà thảo luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hébìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "以往",
+   "meaning": "trước kia",
+   "example": "这个地方以往是一片荒野。",
+   "exampleMeaning": "Vùng này trước kia là một bãi hoang dã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乡村",
+   "meaning": "nông thôn",
+   "example": "我们来学“乡村”这个词。",
+   "exampleMeaning": "Cùng học từ “乡村”: nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngcūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忍不住",
+   "meaning": "không thể giúp đỡ / không thể chịu đựng",
+   "example": "看到他那可笑的样子，大家忍不住笑了。",
+   "exampleMeaning": "Nhìn thấy dáng vẻ buồn cười đó của anh ấy, mọi người không nhịn được mà cười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rěnbuzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "每",
+    "件",
+    "事",
+    "都",
+    "要",
+    "依靠",
+    "群众"
+   ],
+   "reading": "měi jiàn shì dōu yào yīkào qúnzhòng",
+   "meaning": "Mỗi việc đều phải dựa vào quần chúng."
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "有",
+    "几",
+    "个",
+    "人",
+    "来",
+    "迟了"
+   ],
+   "reading": "yǒu jǐ ge rén lái chíle",
+   "meaning": "Một vài người đã tới muộn."
+  },
+  {
+   "tokens": [
+    "妈",
+    "怎么",
+    "爸爸",
+    "一",
+    "批评",
+    "我",
+    "你",
+    "就",
+    "敲边鼓"
+   ],
+   "reading": "mā zěnme bàba yī pīpíng wǒ nǐ jiù qiāobiāngǔ",
+   "meaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!"
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  }
+ ],
+ "issues": []
+}

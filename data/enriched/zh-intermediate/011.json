@@ -1,0 +1,332 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "呆",
+   "meaning": "trơ mặt ra",
+   "example": "他们不得不整天呆在家里。",
+   "exampleMeaning": "Họ đã phải ở trong nhà suốt cả ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鬼",
+   "meaning": "ma, quỷ",
+   "example": "这鬼地方连棵草都不长。",
+   "exampleMeaning": "Cái nơi quái quỷ này đến ngọn cỏ cũng không mọc được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "版",
+   "meaning": "trang",
+   "example": "昨天你买了一本新出版的越南词典，是吗？",
+   "exampleMeaning": "Hôm qua anh mua được một quyển từ điển mới xuất bản phải không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "协议",
+   "meaning": "thoả thuận (đạt được sau đàm phán)",
+   "example": "双方协议，提高收购价格。",
+   "exampleMeaning": "Hai bên thương lượng với nhau nâng giá thu mua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiéyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "竞争",
+   "meaning": "cạnh tranh",
+   "example": "贸易竞争。",
+   "exampleMeaning": "Cạnh tranh mậu dịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngzhēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "估计",
+   "meaning": "đoán",
+   "example": "最近几天估计不会下雨。",
+   "exampleMeaning": "Dự đoán mấy ngày gần đây trời sẽ không mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gūjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "意味着",
+   "meaning": "có nghĩa là",
+   "example": "生产率的提高意味着劳动力的节省。",
+   "exampleMeaning": "Nâng cao năng suất có nghĩa là tiết kiệm sức lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìwèizhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "俱乐部",
+   "meaning": "câu lạc bộ",
+   "example": "汉语俱乐部",
+   "exampleMeaning": "Câu lạc bộ tiếng hoa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùlèbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "之中",
+   "meaning": "ở giữa",
+   "example": "我们来学“之中”这个词。",
+   "exampleMeaning": "Cùng học từ “之中”: ở giữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建筑",
+   "meaning": "kiến trúc",
+   "example": "这座礼堂建筑得非常坚固。",
+   "exampleMeaning": "Hội trường này được xây dựng rất kiên cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzhù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "丢",
+   "meaning": "bỏ",
+   "example": "技术丢久了就生疏了。",
+   "exampleMeaning": "Kỹ thuật bỏ lâu rồi thì hơi thiếu kinh nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "疯狂",
+   "meaning": "điên cuồng",
+   "example": "打退敌人的疯狂进攻。",
+   "exampleMeaning": "Đẩy lui cuộc tiến công điên cuồng của địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngkuáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "幅",
+   "meaning": "khổ (vải vóc)",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "舞",
+   "meaning": "múa",
+   "example": "跳了一个舞。",
+   "exampleMeaning": "Múa một điệu múa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "邀请",
+   "meaning": "mời",
+   "example": "我会拒绝他吃晚饭的邀请。",
+   "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yāoqǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "加上",
+   "meaning": "cộng / để đưa vào / thêm / thêm vào / thêm vào / thêm vào / trên đó",
+   "example": "我们来学“加上”这个词。",
+   "exampleMeaning": "Cùng học từ “加上”: cộng / để đưa vào / thêm / thêm vào / thêm vào / thêm vào / trên đó.",
+   "emoji": "➕",
+   "ipa": "",
+   "pinyin": "jiāshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拍摄",
+   "meaning": "quay phim",
+   "example": "我们来学“拍摄”这个词。",
+   "exampleMeaning": "Cùng học từ “拍摄”: quay phim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pāishè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "区域",
+   "meaning": "khu vực",
+   "example": "区域自治。",
+   "exampleMeaning": "Khu vực tự trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qūyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "愿",
+   "meaning": "muốn, mong, hy vọng",
+   "example": "所以别人都不愿意和你合作。",
+   "exampleMeaning": "Vì vậy họ đều không muốn hợp tác với anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恨",
+   "meaning": "hận",
+   "example": "我們是相見恨晚。",
+   "exampleMeaning": "Chúng ta gặp nhau quá muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "不得不",
+    "整天",
+    "呆",
+    "在",
+    "家里"
+   ],
+   "reading": "tāmen bùdébù zhěngtiān dāi zài jiālǐ",
+   "meaning": "Họ đã phải ở trong nhà suốt cả ngày."
+  },
+  {
+   "tokens": [
+    "她",
+    "邀请",
+    "我们",
+    "去",
+    "她",
+    "的",
+    "生日",
+    "派对"
+   ],
+   "reading": "tā yāoqǐng wǒmen qù tā de shēngrì pàiduì",
+   "meaning": "Cô ấy mời chúng tôi đến dự buổi tiệc sinh nhật của cô ấy."
+  },
+  {
+   "tokens": [
+    "人人",
+    "都",
+    "愿意",
+    "相信",
+    "美",
+    "梦",
+    "可以",
+    "成真"
+   ],
+   "reading": "rénrén dōu yuànyì xiāngxìn měi mèng kěyǐ chéngzhēn",
+   "meaning": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "拒绝",
+    "他",
+    "吃",
+    "晚饭",
+    "的",
+    "邀请"
+   ],
+   "reading": "wǒ huì jùjué tā chī wǎnfàn de yāoqǐng",
+   "meaning": "Tôi từ chối lời mời cơm tối của anh ấy."
+  },
+  {
+   "tokens": [
+    "我们",
+    "是",
+    "相见恨晚"
+   ],
+   "reading": "wǒmen shì xiāngjiànhènwǎn",
+   "meaning": "Chúng ta gặp nhau quá muộn."
+  }
+ ],
+ "issues": []
+}

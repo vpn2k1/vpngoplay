@@ -58,9 +58,9 @@ interface ArcadeShellProps {
 
 type Phase = 'menu' | 'playing' | 'over'
 
-function BackToGames({ lang, children, className }: { lang: Deck['lang']; children: ReactNode; className?: string }) {
+function BackToGames({ children, className }: { children: ReactNode; className?: string }) {
   return (
-    <Link to="/games" search={{ lang }} className={className}>
+    <Link to="/games" className={className}>
       {children}
     </Link>
   )
@@ -142,7 +142,7 @@ export function ArcadeShell({
   if (phase === 'menu') {
     return (
       <div className="space-y-5">
-        <BackToGames lang={deck.lang} className="inline-block">
+        <BackToGames className="inline-block">
           <BackLabel>Tất cả trò chơi</BackLabel>
         </BackToGames>
         <motion.div
@@ -259,7 +259,7 @@ export function ArcadeShell({
           stats={[...result.stats, ['Kỷ lục', Math.max(best, result.score)]]}
           onRestart={start}
           back={
-            <BackToGames lang={deck.lang} className="contents">
+            <BackToGames className="contents">
               <Button variant="ghost">Game khác</Button>
             </BackToGames>
           }

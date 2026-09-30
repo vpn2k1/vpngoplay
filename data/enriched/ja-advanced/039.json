@@ -1,0 +1,325 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "ずぶぬれ",
+   "meaning": "hoàn toàn ướt",
+   "example": "私はずぶぬれになった。",
+   "exampleMeaning": "Người tôi trở nên ướt đẫm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "統率",
+   "meaning": "lệnh, mệnh lệnh",
+   "example": "「統率」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “統率”: lệnh, mệnh lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首飾り",
+   "meaning": "chuỗi hạt (vàng, ngọc)",
+   "example": "「首飾り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “首飾り”: chuỗi hạt (vàng, ngọc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "詳細",
+   "meaning": "chi tiết, tiểu tiết",
+   "example": "詳細については、ギセルさんに連絡してください。",
+   "exampleMeaning": "Hãy liên lạc với Giselle để biết thêm chi tiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腿",
+   "meaning": "bắp đùi, bắp vế",
+   "example": "「腿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “腿”: bắp đùi, bắp vế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "きっぱり",
+   "meaning": "hoàn toàn",
+   "example": "タバコは３ヵ月前にきっぱりやめたんだよ。",
+   "exampleMeaning": "Ba tháng trước tôi đã bỏ thuốc lá hoàn toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おおげさ",
+   "meaning": "vĩ đại, hùng vĩ, lớn lao",
+   "example": "「おおげさ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おおげさ”: vĩ đại, hùng vĩ, lớn lao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "束縛",
+   "meaning": "sự ngăn giữ, sự kiềm chế",
+   "example": "「束縛」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “束縛”: sự ngăn giữ, sự kiềm chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "つぶら",
+   "meaning": "tròn",
+   "example": "「つぶら」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “つぶら”: tròn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ひょっと",
+   "meaning": "có lẽ, có thể",
+   "example": "僕ひょっとしたら女性が好きなんじゃなくて女性の声が好きなだけなのかも。",
+   "exampleMeaning": "Chắc có lẽ là tôi không thích phụ nữ, mà chỉ thích giọng phụ nữ mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "規格",
+   "meaning": "tiêu chuẩn, chuẩn, cờ hiệu",
+   "example": "「規格」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “規格”: tiêu chuẩn, chuẩn, cờ hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定年",
+   "meaning": "tuổi về hưu",
+   "example": "株式市場の暴落で、定年退職者の多くが労働市場に戻らざるを得なかった。",
+   "exampleMeaning": "Thị trường chứng khoán sụp đổ đã khiến rất nhiều người nghỉ hưu phải quay trở lại thị trường lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "オリエンテーション",
+   "meaning": "sự định hướng",
+   "example": "「オリエンテーション」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “オリエンテーション”: sự định hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手掛かり",
+   "meaning": "lời gợi ý",
+   "example": "「手掛かり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手掛かり”: lời gợi ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "単一",
+   "meaning": "một, dù là một",
+   "example": "彼の見地によれば、英語による支配は人類の遺産を脅かす。「単一の言語」は、カネと消費主義に取り憑かれた「単一の考え方」に導くという、より悪しき危険をもたらす。",
+   "exampleMeaning": "Theo quan điểm của anh ấy, sự thống trị của tiếng Anh đang đe dọa đến những di sản của loài người. Điều này còn gây ra một rủi ro xấu hơn: thứ \"ngôn ngữ duy nhất\" này sẽ dẫn đến một \"cách suy nghĩ duy nhất\" - cách suy nghĩ mà khiến chúng ta bị ám ảnh bởi đồng tiền và chủ nghĩa tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "着色",
+   "meaning": "sự nhuộm",
+   "example": "「着色」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “着色”: sự nhuộm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朗読",
+   "meaning": "sự kể lại, sự kể lể",
+   "example": "「朗読」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “朗読”: sự kể lại, sự kể lể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眉",
+   "meaning": "lông mày",
+   "example": "それらは自然文学の白眉ともいうべき傑作です。",
+   "exampleMeaning": "Những tác phẩm đó cũng đáng được coi là kiệt tác đỉnh cao của văn học về tự nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "教科",
+   "meaning": "chủ đề",
+   "example": "あなたの古い教科書を誰にあげたか教えてください。",
+   "exampleMeaning": "Hãy nói cho tôi biết bạn đã cho ai quyển sách giáo khoa cũ của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "居住",
+   "meaning": "sự ở, sự cư trú, sự trú ngụ",
+   "example": "「居住」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “居住”: sự ở, sự cư trú, sự trú ngụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ずぶぬれ",
+    "になった"
+   ],
+   "reading": "わたしはずぶぬれになった",
+   "meaning": "Người tôi trở nên ướt đẫm."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "右手",
+    "を",
+    "やけど",
+    "した"
+   ],
+   "reading": "かのじょはみぎてをやけどした",
+   "meaning": "Cô ấy bị bỏng ở tay phải."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "野球",
+    "に",
+    "熱中",
+    "している"
+   ],
+   "reading": "かれはやきゅうにねっちゅうしている",
+   "meaning": "Anh ấy cực kỳ mê bóng chày."
+  },
+  {
+   "tokens": [
+    "まもなく",
+    "雨",
+    "になる",
+    "だろう"
+   ],
+   "reading": "まもなくあめになるだろう",
+   "meaning": "Có lẽ là trời sắp mưa."
+  },
+  {
+   "tokens": [
+    "まもなく",
+    "雨",
+    "が",
+    "降り",
+    "そう",
+    "だ"
+   ],
+   "reading": "まもなくあめがふりそうだ",
+   "meaning": "Có lẽ là trời sắp mưa."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,324 @@
+{
+ "lesson": 143,
+ "draft": true,
+ "words": [
+  {
+   "term": "加班",
+   "meaning": "tăng ca",
+   "example": "我们来学“加班”这个词。",
+   "exampleMeaning": "Cùng học từ “加班”: tăng ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiābān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "征服",
+   "meaning": "chinh phục",
+   "example": "我来，我见，我征服。",
+   "exampleMeaning": "Ta đến, ta thấy, ta chinh phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "途中",
+   "meaning": "trên đường",
+   "example": "我们来学“途中”这个词。",
+   "exampleMeaning": "Cùng học từ “途中”: trên đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "túzhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "数码",
+   "meaning": "số",
+   "example": "这次进货的数码比以前大得多。",
+   "exampleMeaning": "Số hàng nhập vào lần này nhiều hơn lần trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùmǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "延续",
+   "meaning": "tiếp diễn",
+   "example": "我们来学“延续”这个词。",
+   "exampleMeaning": "Cùng học từ “延续”: tiếp diễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánxù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "性质",
+   "meaning": "tính chất",
+   "example": "我们来学“性质”这个词。",
+   "exampleMeaning": "Cùng học từ “性质”: tính chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电源",
+   "meaning": "nguồn điện",
+   "example": "我们来学“电源”这个词。",
+   "exampleMeaning": "Cùng học từ “电源”: nguồn điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "考察",
+   "meaning": "quan sát tỉ mỉ",
+   "example": "他们到各地考察水利工程。",
+   "exampleMeaning": "Bọn họ đã đi đến nhiều nơi để khảo sát các công trình thuỷ lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎochá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "神话",
+   "meaning": "thần thoại",
+   "example": "我们来学“神话”这个词。",
+   "exampleMeaning": "Cùng học từ “神话”: thần thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shénhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鲜",
+   "meaning": "ít",
+   "example": "鲜见。",
+   "exampleMeaning": "Ít thấy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "避",
+   "meaning": "tránh, tránh xa",
+   "example": "避而不谈。",
+   "exampleMeaning": "Tránh không bàn đến; đánh trống lãng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热闹",
+   "meaning": "náo nhiệt",
+   "example": "到了节日大家热闹热闹吧!",
+   "exampleMeaning": "Đến ngày lễ rồi, mọi người hãy sôi nổi lên nào!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机遇",
+   "meaning": "cơ hội",
+   "example": "千载难逢的机遇",
+   "exampleMeaning": "Dịp may hiếm có; cơ hội ngàn năm có một",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伞",
+   "meaning": "ô, dù",
+   "example": "一把伞。",
+   "exampleMeaning": "Một cái ô; một cây dù.",
+   "emoji": "☂",
+   "ipa": "",
+   "pinyin": "sǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "营业",
+   "meaning": "doanh nghiệp",
+   "example": "开始营业",
+   "exampleMeaning": "Lập doanh nghiệp; lập công ty.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíngyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "含义",
+   "meaning": "ý nghĩa",
+   "example": "这句话的含义。",
+   "exampleMeaning": "Ý nghĩa của câu nói này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hányì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "问候",
+   "meaning": "thăm hỏi sức khoẻ",
+   "example": "我们来学“问候”这个词。",
+   "exampleMeaning": "Cùng học từ “问候”: thăm hỏi sức khoẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wènhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紧密",
+   "meaning": "chặt chẽ",
+   "example": "枪声十分紧密。",
+   "exampleMeaning": "Tiếng súng liên hồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnmì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诗人",
+   "meaning": "nhà thơ",
+   "example": "我们来学“诗人”这个词。",
+   "exampleMeaning": "Cùng học từ “诗人”: nhà thơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "顺序",
+   "meaning": "thứ tự",
+   "example": "顺序前进。",
+   "exampleMeaning": "Tiến lên theo thứ tự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùnxù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "来",
+    "我",
+    "见",
+    "我",
+    "征服"
+   ],
+   "reading": "wǒ lái wǒ jiàn wǒ zhēngfú",
+   "meaning": "Ta đến, ta thấy, ta chinh phục."
+  },
+  {
+   "tokens": [
+    "你",
+    "学",
+    "得很",
+    "快"
+   ],
+   "reading": "nǐ xué dehěn kuài",
+   "meaning": "Bạn học rất nhanh."
+  },
+  {
+   "tokens": [
+    "我",
+    "该",
+    "去",
+    "睡觉",
+    "了"
+   ],
+   "reading": "wǒ gāi qù shuìjiào le",
+   "meaning": "Tôi phải đi ngủ."
+  },
+  {
+   "tokens": [
+    "你",
+    "在",
+    "干",
+    "什麼",
+    "啊"
+   ],
+   "reading": "nǐ zài gàn shénme ā",
+   "meaning": "Bạn đang làm gì đây?"
+  },
+  {
+   "tokens": [
+    "我",
+    "以前",
+    "在",
+    "山",
+    "里"
+   ],
+   "reading": "wǒ yǐqián zài shān lǐ",
+   "meaning": "Tôi từ trên núi xuống."
+  }
+ ],
+ "issues": []
+}

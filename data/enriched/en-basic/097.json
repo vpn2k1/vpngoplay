@@ -1,0 +1,318 @@
+{
+ "lesson": 97,
+ "draft": true,
+ "words": [
+  {
+   "term": "commitment",
+   "meaning": "sự tận tụy, sự tận tâm, sự cam kết",
+   "example": "Let's learn the word \"commitment\".",
+   "exampleMeaning": "Cùng học từ “commitment”: sự tận tụy, sự tận tâm, sự cam kết.",
+   "emoji": "",
+   "ipa": "/kəˈmɪtmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deal",
+   "meaning": "đối xử, đối đãi, ăn ở",
+   "example": "to do (make) a deal with somebody",
+   "exampleMeaning": "Giao dịch mua bán với ai",
+   "emoji": "",
+   "ipa": "/ˈdil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "planet",
+   "meaning": "hành tinh",
+   "example": "Who will save the planet?",
+   "exampleMeaning": "Ai sẽ cứu hành tinh này?",
+   "emoji": "",
+   "ipa": "/ˈplænət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sleepy",
+   "meaning": "buồn ngủ, ngái ngủ",
+   "example": "We were very sleepy the next morning.",
+   "exampleMeaning": "Buổi sáng hôm sau, chúng tôi rất buồn ngủ.",
+   "emoji": "",
+   "ipa": "/ˈslipi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "forever",
+   "meaning": "mãi mãi, vĩnh viễn",
+   "example": "I waited forever, and finally, John came.",
+   "exampleMeaning": "Tôi đợi mãi, cuối cùng, John đã tới.",
+   "emoji": "",
+   "ipa": "/fɜrˈɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "appropriate",
+   "meaning": "thích hợp, thích đáng",
+   "example": "Let's learn the word \"appropriate\".",
+   "exampleMeaning": "Cùng học từ “appropriate”: thích hợp, thích đáng.",
+   "emoji": "",
+   "ipa": "/əˈprəʊ.pri.eɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intelligence",
+   "meaning": "sự hiểu biết",
+   "example": "Will artificial intelligence grow to kill humankind?",
+   "exampleMeaning": "Liệu trí tuệ nhân tạo sau này có huỷ diệt nhân loại không?",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛlədʒəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "research",
+   "meaning": "nghiên cứu",
+   "example": "to carry out a research into something",
+   "exampleMeaning": "Tiến hành nghiên cứu vấn đề gì",
+   "emoji": "",
+   "ipa": "/ˈrisɜrtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "branch",
+   "meaning": "nhánh (sông)",
+   "example": "The company aims to branch out into China.",
+   "exampleMeaning": "Công ty hướng đến việc lập chi nhánh ở Trung Quốc.",
+   "emoji": "",
+   "ipa": "/ˈbræntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "common",
+   "meaning": "chung, công, công cộng",
+   "example": "it is common knowledge that...",
+   "exampleMeaning": "Điều phổ biến là..., mọi người đều biết rằng...",
+   "emoji": "",
+   "ipa": "/ˈkɑmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "few",
+   "meaning": "ít, số ít, vài",
+   "example": "to go away for a few days",
+   "exampleMeaning": "Đi xa trong một vài ngày",
+   "emoji": "",
+   "ipa": "/ˈfju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unfortunately",
+   "meaning": "một cách đáng tiếc, không may",
+   "example": "Unfortunately our time is up.",
+   "exampleMeaning": "Không may, thời gian của chúng ta đã hết.",
+   "emoji": "",
+   "ipa": "/ənˈfɔrtʃənətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hundred",
+   "meaning": "trăm",
+   "example": "This is a hundred dollar bill.",
+   "exampleMeaning": "Đây là một tờ 100 Đô-la.",
+   "emoji": "",
+   "ipa": "/ˈhəndɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cheek",
+   "meaning": "má",
+   "example": "no more of your cheek!",
+   "exampleMeaning": "Im ngay cái lối ăn nói láo xược ấy đi!; hỗn vừa chứ!",
+   "emoji": "",
+   "ipa": "/t͡ʃiːk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "toast",
+   "meaning": "bánh mì nướng",
+   "example": "I always have coffee and toast for breakfast.",
+   "exampleMeaning": "Tôi luôn dùng cà phê và bánh mì nướng trong bữa sáng.",
+   "emoji": "",
+   "ipa": "/ˈtoʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "kilogram",
+   "meaning": "kilôgam",
+   "example": "Let's learn the word \"kilogram\".",
+   "exampleMeaning": "Cùng học từ “kilogram”: kilôgam.",
+   "emoji": "",
+   "ipa": "/ˈkɪləˌɡræm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mainly",
+   "meaning": "chính, chủ yếu",
+   "example": "Let's learn the word \"mainly\".",
+   "exampleMeaning": "Cùng học từ “mainly”: chính, chủ yếu.",
+   "emoji": "",
+   "ipa": "/ˈmeɪnli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "herself",
+   "meaning": "chính nó, chính cô ta, chính chị ta",
+   "example": "She warmed herself by the fire.",
+   "exampleMeaning": "Cô ấy tự sưởi ấm bằng lửa.",
+   "emoji": "",
+   "ipa": "/hɜrˈsɛlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "transaction",
+   "meaning": "sự thực hiện",
+   "example": "to spend much time on the transaction of the business",
+   "exampleMeaning": "Mất nhiều thì giờ vào việc giải quyết công việc",
+   "emoji": "",
+   "ipa": "/trænˈzækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "generation",
+   "meaning": "thế hệ, đời",
+   "example": "The third generation Japanese communication methods are W-CDMA and CDMA2000.",
+   "exampleMeaning": "Các hệ thống thông tin di động thế hệ thứ 3 của Nhật Bản đó là mạng W-CDMA và mạng CDMA2000.",
+   "emoji": "",
+   "ipa": "/ˌdʒɛnɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Love",
+    "you",
+    "forever"
+   ],
+   "reading": "",
+   "meaning": "Mãi yêu bạn."
+  },
+  {
+   "tokens": [
+    "It",
+    "is",
+    "unfortunately",
+    "true"
+   ],
+   "reading": "",
+   "meaning": "Tiếc rằng cái đó là sự thật."
+  },
+  {
+   "tokens": [
+    "It's",
+    "a",
+    "serious",
+    "commitment"
+   ],
+   "reading": "",
+   "meaning": "Đó là một sự cam kết nghiêm túc."
+  },
+  {
+   "tokens": [
+    "You",
+    "must",
+    "be",
+    "sleepy"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang buồn ngủ có phải không?"
+  },
+  {
+   "tokens": [
+    "She",
+    "tried",
+    "it",
+    "herself"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã thử làm việc đó một mình."
+  }
+ ],
+ "issues": []
+}

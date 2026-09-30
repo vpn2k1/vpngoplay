@@ -1,0 +1,331 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "瞧",
+   "meaning": "nhìn",
+   "example": "他瞧亲戚去了。",
+   "exampleMeaning": "Anh ấy đi thăm họ hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiáo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "搜索",
+   "meaning": "lùng tìm",
+   "example": "搜索残敌。",
+   "exampleMeaning": "Lùng tìm tàn quân địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sōusuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胃",
+   "meaning": "dạ dày",
+   "example": "我们来学“胃”这个词。",
+   "exampleMeaning": "Cùng học từ “胃”: dạ dày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèi",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厨房",
+   "meaning": "nhà bếp",
+   "example": "我们来学“厨房”这个词。",
+   "exampleMeaning": "Cùng học từ “厨房”: nhà bếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chúfáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "之内",
+   "meaning": "bên trong, trong vòng, trong khoảng",
+   "example": "我们来学“之内”这个词。",
+   "exampleMeaning": "Cùng học từ “之内”: bên trong, trong vòng, trong khoảng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīnèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注册",
+   "meaning": "đăng ký",
+   "example": "新生报到注册从9月1日开始。",
+   "exampleMeaning": "Học sinh mới bắt đầu ghi danh từ ngày 1 tháng 9.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùcè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "厅",
+   "meaning": "ty",
+   "example": "办公厅",
+   "exampleMeaning": "Văn phòng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "随着",
+   "meaning": "cùng với, khi, trong trào lưu với",
+   "example": "我无奈只得跟随着她。",
+   "exampleMeaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suízhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "回报",
+   "meaning": "báo thù",
+   "example": "做好事不图回报。",
+   "exampleMeaning": "Làm việc tốt không cần báo đáp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "展现",
+   "meaning": "hiện ra",
+   "example": "走进大门，展现在眼前的是一个宽广的庭院。",
+   "exampleMeaning": "Đi vào cửa chính, trước mắt hiện ra một khoảng sân rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "评估",
+   "meaning": "thẩm định",
+   "example": "我们来学“评估”这个词。",
+   "exampleMeaning": "Cùng học từ “评估”: thẩm định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínggū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全都",
+   "meaning": "đều",
+   "example": "去年种的树全都活了。",
+   "exampleMeaning": "Cây trồng năm ngoái đều sống cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quándōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "环节",
+   "meaning": "khâu",
+   "example": "主要环节",
+   "exampleMeaning": "Khâu quan trọng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huánjié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "餐厅",
+   "meaning": "phòng ăn",
+   "example": "我们来学“餐厅”这个词。",
+   "exampleMeaning": "Cùng học từ “餐厅”: phòng ăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāntīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "违反",
+   "meaning": "vi phạm (phép tắc, quy trình...), vi phạm, xâm phạm",
+   "example": "违反社会发展规律。",
+   "exampleMeaning": "Trái với quy luật phát triển xã hội",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéifǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "活力",
+   "meaning": "sức sống",
+   "example": "身上充满了青春的活力。",
+   "exampleMeaning": "Cơ thể tràn trề sức sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huólì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "委托",
+   "meaning": "nhờ",
+   "example": "这件事就委托你了。",
+   "exampleMeaning": "Việc này phải nhờ anh thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěituō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "软",
+   "meaning": "mềm, dẻo, dễ uốn",
+   "example": "软话说得很。",
+   "exampleMeaning": "Nói năng nhẹ nhàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "签名",
+   "meaning": "ký tên",
+   "example": "我们来学“签名”这个词。",
+   "exampleMeaning": "Cùng học từ “签名”: ký tên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "摄影",
+   "meaning": "chụp ảnh",
+   "example": "我们来学“摄影”这个词。",
+   "exampleMeaning": "Cùng học từ “摄影”: chụp ảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèyǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "无奈",
+    "只得",
+    "跟随",
+    "着",
+    "她"
+   ],
+   "reading": "wǒ wúnài zhǐdé gēnsuí zhe tā",
+   "meaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy."
+  },
+  {
+   "tokens": [
+    "你",
+    "关",
+    "了",
+    "客厅",
+    "的",
+    "灯",
+    "了",
+    "吗"
+   ],
+   "reading": "nǐ guān le kètīng de dēng le ma",
+   "meaning": "Anh đã tắt đèn phòng khách chưa?"
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "阿姨",
+    "给",
+    "了",
+    "我",
+    "一",
+    "台",
+    "摄影机"
+   ],
+   "reading": "wǒ de āyí gěi le wǒ yī tái shèyǐngjī",
+   "meaning": "Dì của tôi đã gửi cho tôi một cái máy quay."
+  },
+  {
+   "tokens": [
+    "沸水",
+    "蒸发",
+    "成",
+    "气体"
+   ],
+   "reading": "fèishuǐ zhēngfā chéng qìtǐ",
+   "meaning": "Nước sôi bốc thành hơi."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,321 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "mosquito",
+   "meaning": "con muỗi",
+   "example": "Let's learn the word \"mosquito\".",
+   "exampleMeaning": "Cùng học từ “mosquito”: con muỗi.",
+   "emoji": "🦟",
+   "ipa": "/məˈskitoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rational",
+   "meaning": "có lý, phải lẽ",
+   "example": "to be quite rational",
+   "exampleMeaning": "Hoàn toàn có lý trí; có đầy đủ lý trí",
+   "emoji": "",
+   "ipa": "/ˈræʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "penniless",
+   "meaning": "không tiền, không một đồng xu dính túi",
+   "example": "Let's learn the word \"penniless\".",
+   "exampleMeaning": "Cùng học từ “penniless”: không tiền, không một đồng xu dính túi.",
+   "emoji": "",
+   "ipa": "/ˈpɛniləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "assist",
+   "meaning": "giúp, giúp đỡ",
+   "example": "to assist someone in doing something",
+   "exampleMeaning": "Giúp ai làm việc gì",
+   "emoji": "",
+   "ipa": "/əˈsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "subsequent",
+   "meaning": "đến sau, theo sau, xảy ra sau",
+   "example": "Let's learn the word \"subsequent\".",
+   "exampleMeaning": "Cùng học từ “subsequent”: đến sau, theo sau, xảy ra sau.",
+   "emoji": "",
+   "ipa": "/ˈsəbsəkwənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thirst",
+   "meaning": "thèm khát, khao khát",
+   "example": "to thirst after (for) something",
+   "exampleMeaning": "Thèm khát (khao khát) cái gì",
+   "emoji": "",
+   "ipa": "/ˈθɜrst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "middle-aged",
+   "meaning": "trung niên",
+   "example": "Let's learn the word \"middle-aged\".",
+   "exampleMeaning": "Cùng học từ “middle-aged”: trung niên.",
+   "emoji": "",
+   "ipa": "/ˈmɪdəˌleɪɡd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "technique",
+   "meaning": "phương pháp kỹ thuật, kỹ thuật",
+   "example": "the technique of weaving",
+   "exampleMeaning": "Kỹ thuật dệt",
+   "emoji": "",
+   "ipa": "/tɛkˈnik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "beloved",
+   "meaning": "được yêu mến, được yêu quý",
+   "example": "beloved of all",
+   "exampleMeaning": "Được mọi người yêu mến",
+   "emoji": "",
+   "ipa": "/bɪˈləvd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unexpectedly",
+   "meaning": "bất ngờ, thình lình, đột xuất",
+   "example": "I unexpectedly met my teacher at the restaurant last night.",
+   "exampleMeaning": "Tôi tình cờ gặp thầy giáo của tôi tại nhà hàng đêm qua.",
+   "emoji": "",
+   "ipa": "/ˌənɪkˈspɛktɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "select",
+   "meaning": "chọn",
+   "example": "Select your character.",
+   "exampleMeaning": "Hãy chọn nhân vật của bạn.",
+   "emoji": "",
+   "ipa": "/səˈlɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "transitional",
+   "meaning": "chuyển tiếp, quá độ",
+   "example": "a transitional movement",
+   "exampleMeaning": "Chuyển động chuyển tiếp",
+   "emoji": "",
+   "ipa": "/trænˈsɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "boredom",
+   "meaning": "nỗi buồn tẻ, nỗi buồn chán",
+   "example": "Let's learn the word \"boredom\".",
+   "exampleMeaning": "Cùng học từ “boredom”: nỗi buồn tẻ, nỗi buồn chán.",
+   "emoji": "",
+   "ipa": "/ˈbɔrdəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "turning",
+   "meaning": "sự quay, sự xoay",
+   "example": "When are you turning thirty?",
+   "exampleMeaning": "Khi nào bạn bước sang tuổi ba mươi?",
+   "emoji": "",
+   "ipa": "/ˈtɜrnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pub",
+   "meaning": "quán rượu, tiệm rượu",
+   "example": "Let's learn the word \"pub\".",
+   "exampleMeaning": "Cùng học từ “pub”: quán rượu, tiệm rượu.",
+   "emoji": "",
+   "ipa": "/ˈpəb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "adopt",
+   "meaning": "theo, làm theo, thái dụng",
+   "example": "The couple decided to adopt an orphan.",
+   "exampleMeaning": "Cặp vợ chồng quyết định nhận một đứa con nuôi.",
+   "emoji": "",
+   "ipa": "/əˈdɑpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tissue",
+   "meaning": "vải mỏng",
+   "example": "Let's learn the word \"tissue\".",
+   "exampleMeaning": "Cùng học từ “tissue”: vải mỏng.",
+   "emoji": "",
+   "ipa": "/ˈtɪsˌju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inhale",
+   "meaning": "nuốt (khói thuốc lá... )",
+   "example": "do you inhale when smoking?",
+   "exampleMeaning": "Anh có nuốt khói khi hút không?",
+   "emoji": "",
+   "ipa": "/ˌɪnˈheɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fortunate",
+   "meaning": "tốt, thuận lợi",
+   "example": "a fortunate omen",
+   "exampleMeaning": "Điểm tốt",
+   "emoji": "",
+   "ipa": "/ˈfɔrtʃənət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hurriedly",
+   "meaning": "vội vàng, hối hả, hấp tấp",
+   "example": "Let's learn the word \"hurriedly\".",
+   "exampleMeaning": "Cùng học từ “hurriedly”: vội vàng, hối hả, hấp tấp.",
+   "emoji": "",
+   "ipa": "/ˈhɜridli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Select",
+    "your",
+    "character"
+   ],
+   "reading": "",
+   "meaning": "Hãy chọn nhân vật của bạn."
+  },
+  {
+   "tokens": [
+    "I",
+    "won't",
+    "assist",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Tôi không giúp bạn đâu."
+  },
+  {
+   "tokens": [
+    "Our",
+    "people",
+    "thirst",
+    "for",
+    "independence"
+   ],
+   "reading": "",
+   "meaning": "Người dân của chúng tôi đang khát khao sự độc lập."
+  },
+  {
+   "tokens": [
+    "Mosquito's",
+    "bite",
+    "can",
+    "cause",
+    "malaria"
+   ],
+   "reading": "",
+   "meaning": "Vết cắn của muỗi có thể gây sốt rét."
+  },
+  {
+   "tokens": [
+    "When",
+    "are",
+    "you",
+    "turning",
+    "thirty"
+   ],
+   "reading": "",
+   "meaning": "Khi nào bạn bước sang tuổi ba mươi?"
+  }
+ ],
+ "issues": []
+}

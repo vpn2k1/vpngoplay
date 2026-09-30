@@ -1,0 +1,329 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "優秀",
+   "meaning": "sự cao hơn (chức vị)",
+   "example": "「優秀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “優秀”: sự cao hơn (chức vị).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "板",
+   "meaning": "tấm ván",
+   "example": "鉄板焼きって食べたことある？",
+   "exampleMeaning": "Bạn đã ăn Teppanyaki bao giờ chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "松",
+   "meaning": "cây thông",
+   "example": "それは松の木です。",
+   "exampleMeaning": "Đó là một cây thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "伝統",
+   "meaning": "sự truyền miệng, truyền khẩu",
+   "example": "「伝統」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伝統”: sự truyền miệng, truyền khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勘",
+   "meaning": "sự nhận thức",
+   "example": "「トムさんて、背が高くて逞しいのね。こっちにきてキスしてくださらない？」「すんません、勘弁してください。自分、結婚してるんで」",
+   "exampleMeaning": "\"Anh Tom này, anh trông cao to nhỉ. Anh đến đây hôn tôi một cái có được không?\" \"Tôi xin lỗi, cho tôi xin kiếu. Tôi đã kết hôn rồi.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "増す",
+   "meaning": "tăng lên, tăng thêm, lớn thêm",
+   "example": "暗さがもっとも増すときに、人々は星を見る。",
+   "exampleMeaning": "Mọi người ngắm sao khi trời tối hơn nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "詰める",
+   "meaning": "gói, bọc lại, buộc lại",
+   "example": "「詰める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “詰める”: gói, bọc lại, buộc lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敵",
+   "meaning": "kẻ thù, kẻ địch, địch thủ",
+   "example": "鳥は昆虫の天敵です。",
+   "exampleMeaning": "Chim là thiên địch của côn trùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "金庫",
+   "meaning": "chạn (đựng đồ ăn)",
+   "example": "トムは金庫を開けた。",
+   "exampleMeaning": "Tom mở cửa két sắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日本",
+   "meaning": "nhật Bản",
+   "example": "日本の家は小さい。",
+   "exampleMeaning": "Nhà ở Nhật nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "容器",
+   "meaning": "cái đựng, cái chứa, vật chứa",
+   "example": "「容器」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “容器”: cái đựng, cái chứa, vật chứa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地域",
+   "meaning": "vùng, khu vực",
+   "example": "そこは新しい家が密集する地域だ。",
+   "exampleMeaning": "Khu vực đó đầy rẫy nhà mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "梅雨",
+   "meaning": "mùa mưa",
+   "example": "「梅雨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “梅雨”: mùa mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "オフィス",
+   "meaning": "sự giúp đỡ",
+   "example": "マイクロソフトオフィスがパソコンに入っています。添付ファイルを送るときには、このファイル形式を使って下さい。",
+   "exampleMeaning": "Phần mềm Microsoft Office đã được cài đặt sẵn trong laptop. Khi gửi file đính kèm, hãy sử dụng loại file này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "野",
+   "meaning": "đồng ruộng, cánh đồng",
+   "example": "野菜を食べなさい。",
+   "exampleMeaning": "Ăn rau đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "身体",
+   "meaning": "con người, người",
+   "example": "読書が精神に対するのは、食物が身体に対するようなものである。",
+   "exampleMeaning": "Việc đọc sách đối với tinh thần cũng giống như thức ăn đối với cơ thể vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "巻く",
+   "meaning": "đánh hơi",
+   "example": "経済社会を取り巻く環境の変化が著しい。",
+   "exampleMeaning": "Sự thay đổi bối cảnh xã hội rất rõ rệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "沿う",
+   "meaning": "đi theo sau",
+   "example": "「沿う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沿う”: đi theo sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感じる",
+   "meaning": "thấy, cảm thấy, có cảm giác",
+   "example": "自分の気持ちをちゃんと伝えられない時、もどかしさを感じる。",
+   "exampleMeaning": "Mỗi khi mà tôi không truyền tải được cảm xúc của mình một cách cẩn thận, tôi sẽ cảm thấy khó chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脇",
+   "meaning": "mặt, bên",
+   "example": "脇へ寄ってくださいませんか。",
+   "exampleMeaning": "Bạn đứng sang một bên có được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "野球選手",
+    "だ"
+   ],
+   "reading": "かれはやきゅうせんしゅだ",
+   "meaning": "Anh ấy là một tuyển thủ bóng chày."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "日本",
+    "一周",
+    "旅行",
+    "を",
+    "した"
+   ],
+   "reading": "かのじょはにっぽんいっしゅうりょこうをした",
+   "meaning": "Cô ấy đã đi du lịch vòng quanh Nhật Bản."
+  },
+  {
+   "tokens": [
+    "その",
+    "店",
+    "は",
+    "野菜",
+    "を",
+    "売っている"
+   ],
+   "reading": "そのみせはやさいをうっている",
+   "meaning": "Cửa hàng đó bán rau."
+  },
+  {
+   "tokens": [
+    "脇",
+    "へ",
+    "寄って",
+    "くださいません",
+    "か"
+   ],
+   "reading": "わきへよってくださいませんか",
+   "meaning": "Bạn đứng sang một bên có được không?"
+  },
+  {
+   "tokens": [
+    "初めて",
+    "日本",
+    "に",
+    "来た",
+    "の",
+    "は",
+    "いつ",
+    "なの"
+   ],
+   "reading": "はじめてにほんにきたのはいつなの",
+   "meaning": "Lần đầu tiên bạn đến Nhật Bản là vào khi nào?"
+  }
+ ],
+ "issues": []
+}

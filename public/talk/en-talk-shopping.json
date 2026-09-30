@@ -1,0 +1,84 @@
+{
+ "id": "en-talk-shopping",
+ "lang": "en",
+ "order": 3,
+ "level": "A2",
+ "icon": "shopping",
+ "title": "Mua quần áo",
+ "scene": "Bạn mua một chiếc áo khoác, hỏi cỡ và giá.",
+ "roles": {
+  "A": "Nhân viên bán hàng",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Hi there! Can I help you?",
+   "meaning": "Xin chào! Tôi giúp gì được anh chị?"
+  },
+  {
+   "role": "B",
+   "text": "Yes, I'm looking for a jacket.",
+   "meaning": "Vâng, tôi đang tìm một chiếc áo khoác."
+  },
+  {
+   "role": "A",
+   "text": "What size do you wear?",
+   "meaning": "Anh chị mặc cỡ nào?"
+  },
+  {
+   "role": "B",
+   "text": "Medium, I think. Can I try this one on?",
+   "meaning": "Chắc là cỡ M. Tôi mặc thử cái này được không?"
+  },
+  {
+   "role": "A",
+   "text": "Of course. The fitting room is over there.",
+   "meaning": "Tất nhiên rồi. Phòng thử đồ ở đằng kia."
+  },
+  {
+   "role": "B",
+   "text": "It's a bit small. Do you have a large?",
+   "meaning": "Hơi chật. Bạn có cỡ L không?"
+  },
+  {
+   "role": "A",
+   "text": "Here you are. How does it fit?",
+   "meaning": "Đây ạ. Mặc có vừa không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "It fits well. How much is it?",
+   "meaning": "Vừa lắm. Cái này bao nhiêu tiền?"
+  },
+  {
+   "role": "A",
+   "text": "It's forty dollars. It's on sale today.",
+   "meaning": "Bốn mươi đô ạ. Hôm nay đang giảm giá."
+  },
+  {
+   "role": "B",
+   "text": "Great, I'll take it. Can I pay by card?",
+   "meaning": "Tuyệt, tôi lấy cái này. Tôi trả bằng thẻ được không?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "I'm looking for a gift.",
+   "meaning": "Tôi đang tìm một món quà."
+  },
+  {
+   "text": "Can I try this on?",
+   "meaning": "Tôi mặc thử cái này được không?"
+  },
+  {
+   "text": "How much is it?",
+   "meaning": "Cái này bao nhiêu tiền?",
+   "note": "Hỏi nhiều món: How much are they?"
+  },
+  {
+   "text": "I'll take it.",
+   "meaning": "Tôi lấy cái này."
+  }
+ ]
+}

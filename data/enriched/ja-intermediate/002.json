@@ -1,0 +1,328 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "さっぱり",
+   "meaning": "sạch gọn, ngăn nắp",
+   "example": "眼鏡をかけないと彼はさっぱり見えない。",
+   "exampleMeaning": "Không có kính thì ông ấy sẽ không nhìn thấy gì cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通す",
+   "meaning": "trông nom, giám sát",
+   "example": "「通す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通す”: trông nom, giám sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慌てる",
+   "meaning": "lẫn lộn, lộn xộn, rối rắm",
+   "example": "慌てる必要はありません！",
+   "exampleMeaning": "Đừng hoảng!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "体育",
+   "meaning": "thể dục, giáo dục thể chất",
+   "example": "「体育」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “体育”: thể dục, giáo dục thể chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "判",
+   "meaning": "kích thước, độ lớn",
+   "example": "彼の批判は犬の遠吠えだ。",
+   "exampleMeaning": "Anh ta chỉ có thể phê bình những người khác đằng sau lưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "眺め",
+   "meaning": "cái nhìn thấy, cảnh, quang cảnh",
+   "example": "山頂からの眺めは壮観だった。",
+   "exampleMeaning": "Quang cảnh nhìn từ trên đỉnh núi xuống rất ngoạn mục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "家具",
+   "meaning": "đồ nội thất",
+   "example": "そのトラックは家具を積んでいる。",
+   "exampleMeaning": "Chiếc xe tải đó đang chất đầy nội thất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "堀",
+   "meaning": "hào (xung quanh thành trì... )",
+   "example": "「堀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “堀”: hào (xung quanh thành trì... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "アップ",
+   "meaning": "ở trên, lên trên, lên",
+   "example": "彼らは給料のアップを求めた。",
+   "exampleMeaning": "Họ đòi tăng lương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通じる",
+   "meaning": "chạy",
+   "example": "「通じる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通じる”: chạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弾",
+   "meaning": "đạn (súng trường, súng lục)",
+   "example": "彼女はバッハ弾きです。",
+   "exampleMeaning": "Cô ấy chơi nhạc Bach.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "約",
+   "meaning": "lời hứa, điều hứa, điều hẹn ước",
+   "example": "彼は約束に背いた。",
+   "exampleMeaning": "Anh ấy đã phản bội lời hứa của chính mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "声明",
+   "meaning": "sự tuyên bố",
+   "example": "「声明」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “声明”: sự tuyên bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "任せる",
+   "meaning": "để lại, bỏ lại, bỏ quên",
+   "example": "「任せる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “任せる”: để lại, bỏ lại, bỏ quên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "エンジン",
+   "meaning": "máy động cơ",
+   "example": "「エンジン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “エンジン”: máy động cơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最低",
+   "meaning": "xấu nhất, tồi nhất, tệ nhất",
+   "example": "いままで試してきた他の政治形態を除いて考えると、民主主義とは最低の政治形態だ。",
+   "exampleMeaning": "Trong tất cả các loại hình chính phủ, dân chủ là tệ nhất, trừ mọi chính phủ mà đã tồn tại từ xưa đến giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "温暖",
+   "meaning": "hơi nóng (lửa, mặt trời), nhiệt",
+   "example": "地球温暖化は二酸化炭素の排出と直接関係があると言われている。",
+   "exampleMeaning": "Sự nóng lên toàn cầu được cho là có quan hệ trực tiếp đến sự thải khí cacbon đioxit.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "温度",
+   "meaning": "nhiệt độ",
+   "example": "「温度」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “温度”: nhiệt độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寧ろ",
+   "meaning": "đúng hơn, Hơn là",
+   "example": "「寧ろ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “寧ろ”: đúng hơn, Hơn là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "パーセント",
+   "meaning": "phần trăm",
+   "example": "「パーセント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “パーセント”: phần trăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "約束",
+    "に",
+    "背いた"
+   ],
+   "reading": "かれはやくそくにそむいた",
+   "meaning": "Anh ấy đã phản bội lời hứa của chính mình."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "婚約",
+    "を",
+    "破棄",
+    "した"
+   ],
+   "reading": "かれらはこんやくをはきした",
+   "meaning": "Họ đã hủy bỏ hôn ước."
+  },
+  {
+   "tokens": [
+    "約束",
+    "は",
+    "守った",
+    "方がいい"
+   ],
+   "reading": "やくそくはまもったほうがいい",
+   "meaning": "Bạn nên giữ lời hứa của mình."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "批判",
+    "は",
+    "犬",
+    "の",
+    "遠吠え",
+    "だ"
+   ],
+   "reading": "かれのひはんはいぬのとおぼえだ",
+   "meaning": "Anh ta chỉ có thể phê bình những người khác đằng sau lưng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "たばこを吸わない",
+    "と",
+    "約束",
+    "した"
+   ],
+   "reading": "かれはたばこをすわないとやくそくした",
+   "meaning": "Anh ấy đã hứa là sẽ không hút thuốc lá."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,335 @@
+{
+ "lesson": 101,
+ "draft": true,
+ "words": [
+  {
+   "term": "手本",
+   "meaning": "kiểu, mẫu, mô hình",
+   "example": "「手本」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手本”: kiểu, mẫu, mô hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "作戦",
+   "meaning": "chiến thuật",
+   "example": "「作戦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “作戦”: chiến thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物議",
+   "meaning": "sự tranh cãi, cuộc tranh luận",
+   "example": "「物議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物議”: sự tranh cãi, cuộc tranh luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "据える",
+   "meaning": "để, đặt",
+   "example": "「据える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “据える”: để, đặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "審議",
+   "meaning": "sự suy nghĩ cân nhắc kỹ",
+   "example": "それは厚生省中央児童福祉審議会特別推薦図書である。",
+   "exampleMeaning": "Đó là một cuốn sách được Hội đồng Trung ương về Phúc lợi Trẻ em thuộc bộ Y tế và Phúc lợi Nhật Bản đặc biệt tuyển chọn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "助け",
+   "meaning": "sự giúp đỡ",
+   "example": "私はあなたを助けた。",
+   "exampleMeaning": "Tôi đã cứu được anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "矢",
+   "meaning": "tên, mũi tên",
+   "example": "私は矢を的に当てた。",
+   "exampleMeaning": "Tôi bắn mũi tên trúng đích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "葬る",
+   "meaning": "chôn, chôn cất",
+   "example": "「葬る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “葬る”: chôn, chôn cất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "今更",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "「今更」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “今更”: bây giờ, lúc này, giờ đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "もしかして",
+   "meaning": "có lẽ, có thể",
+   "example": "「もしかして」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “もしかして”: có lẽ, có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "街頭",
+   "meaning": "bên lề đường",
+   "example": "「街頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “街頭”: bên lề đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "学芸",
+   "meaning": "khoa học xã hội",
+   "example": "「学芸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学芸”: khoa học xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文語",
+   "meaning": "ngôn ngữ văn học",
+   "example": "「文語」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “文語”: ngôn ngữ văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "悪しからず",
+   "meaning": "nếu không",
+   "example": "「悪しからず」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “悪しからず”: nếu không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "関税",
+   "meaning": "thuế đánh vào hàng nhập từ nước ngoài vào",
+   "example": "「関税」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “関税”: thuế đánh vào hàng nhập từ nước ngoài vào.",
+   "emoji": "🛃",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "否決",
+   "meaning": "sự không chấp nhận, sự bác bỏ",
+   "example": "「否決」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “否決”: sự không chấp nhận, sự bác bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夕焼け",
+   "meaning": "lúc mặt trời lặn",
+   "example": "「夕焼け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夕焼け”: lúc mặt trời lặn.",
+   "emoji": "🌇",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "申し分",
+   "meaning": "sự phản đối, sự chống đối",
+   "example": "「申し分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “申し分”: sự phản đối, sự chống đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "カンニング",
+   "meaning": "sự xảo quyệt, sự xảo trá, sự gian giảo",
+   "example": "その女の先生は私がカンニングをしていると思って、私から目を放さなかった。",
+   "exampleMeaning": "Cô giáo đó đã không dời mắt khỏi tôi vì nghĩ tôi đang gian lận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "余興",
+   "meaning": "cuộc biểu diễn phụ",
+   "example": "「余興」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “余興”: cuộc biểu diễn phụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "なぜなら",
+    "私",
+    "は",
+    "病気の",
+    "人々",
+    "を",
+    "助け",
+    "たい",
+    "から",
+    "です"
+   ],
+   "reading": "なぜならわたしはびょうきのひとびとをたすけたいからです",
+   "meaning": "Đó là bởi vì tôi muốn cứu giúp những người bị ốm đau."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "矢",
+    "を",
+    "的",
+    "に",
+    "当てた"
+   ],
+   "reading": "わたしはやをてきにあてた",
+   "meaning": "Tôi bắn mũi tên trúng đích."
+  },
+  {
+   "tokens": [
+    "僕",
+    "は",
+    "彼女",
+    "と",
+    "結婚",
+    "したいんだ"
+   ],
+   "reading": "ぼくはかのじょとけっこんしたいんだ",
+   "meaning": "Tôi muốn kết hôn với cô ấy."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "やましい",
+    "の",
+    "は",
+    "明らか",
+    "だ"
+   ],
+   "reading": "かれがやましいのはあきらかだ",
+   "meaning": "Rõ ràng là anh ấy đang cảm thấy tội lỗi."
+  },
+  {
+   "tokens": [
+    "友情",
+    "ほど",
+    "貴重な",
+    "もの",
+    "は",
+    "ない"
+   ],
+   "reading": "ゆうじょうほどきちょうなものはない",
+   "meaning": "Không gì quan trọng hơn tình bạn."
+  }
+ ],
+ "issues": []
+}

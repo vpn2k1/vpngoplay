@@ -1,0 +1,97 @@
+{
+ "id": "ja-talk-hotel",
+ "lang": "ja",
+ "order": 5,
+ "level": "N4",
+ "icon": "hotel",
+ "title": "Nhận phòng khách sạn",
+ "scene": "Bạn đến khách sạn ở Osaka và làm thủ tục nhận phòng.",
+ "roles": {
+  "A": "Lễ tân",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "いらっしゃいませ。チェックインですか。",
+   "reading": "いらっしゃいませ。チェックインですか。",
+   "meaning": "Xin chào quý khách. Quý khách nhận phòng ạ?"
+  },
+  {
+   "role": "B",
+   "text": "はい。グエンの名前で予約しています。",
+   "reading": "はい。グエンのなまえでよやくしています。",
+   "meaning": "Vâng. Tôi đã đặt phòng dưới tên Nguyễn."
+  },
+  {
+   "role": "A",
+   "text": "グエン様ですね。三泊でございますね。",
+   "reading": "グエンさまですね。さんぱくでございますね。",
+   "meaning": "Quý khách Nguyễn ạ. Ba đêm phải không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "はい、そうです。朝ご飯は付いていますか。",
+   "reading": "はい、そうです。あさごはんはついていますか。",
+   "meaning": "Vâng, đúng vậy. Có kèm bữa sáng không ạ?"
+  },
+  {
+   "role": "A",
+   "text": "はい、七時から十時までです。",
+   "reading": "はい、しちじからじゅうじまでです。",
+   "meaning": "Có ạ, từ bảy giờ đến mười giờ."
+  },
+  {
+   "role": "B",
+   "text": "チェックアウトは何時ですか。",
+   "reading": "チェックアウトはなんじですか。",
+   "meaning": "Mấy giờ trả phòng ạ?"
+  },
+  {
+   "role": "A",
+   "text": "十一時です。こちらがお部屋の鍵です。",
+   "reading": "じゅういちじです。こちらがおへやのかぎです。",
+   "meaning": "Mười một giờ ạ. Đây là chìa khoá phòng."
+  },
+  {
+   "role": "B",
+   "text": "荷物を預かってもらえますか。",
+   "reading": "にもつをあずかってもらえますか。",
+   "meaning": "Có thể giữ hành lý giúp tôi không?"
+  },
+  {
+   "role": "A",
+   "text": "はい、もちろんです。",
+   "reading": "はい、もちろんです。",
+   "meaning": "Vâng, tất nhiên ạ."
+  },
+  {
+   "role": "B",
+   "text": "ありがとうございます。助かります。",
+   "reading": "ありがとうございます。たすかります。",
+   "meaning": "Cảm ơn. Thật may quá."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "ランの名前で予約しています。",
+   "reading": "ランのなまえでよやくしています。",
+   "meaning": "Tôi đã đặt phòng dưới tên Lan."
+  },
+  {
+   "text": "朝ご飯は付いていますか。",
+   "reading": "あさごはんはついていますか。",
+   "meaning": "Có kèm bữa sáng không?"
+  },
+  {
+   "text": "チェックアウトは何時ですか。",
+   "reading": "チェックアウトはなんじですか。",
+   "meaning": "Mấy giờ trả phòng?"
+  },
+  {
+   "text": "荷物を預かってもらえますか。",
+   "reading": "にもつをあずかってもらえますか。",
+   "meaning": "Giữ hành lý giúp tôi được không?"
+  }
+ ]
+}

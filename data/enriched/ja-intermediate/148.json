@@ -1,0 +1,332 @@
+{
+ "lesson": 148,
+ "draft": true,
+ "words": [
+  {
+   "term": "厳密",
+   "meaning": "chính xác, đúng",
+   "example": "厳密に言うと、トマトは果物です。",
+   "exampleMeaning": "Nói đúng ra, cà chua là một loại quả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ばかばかしい",
+   "meaning": "ngu dại, ngu đần, đần độn",
+   "example": "「ばかばかしい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ばかばかしい”: ngu dại, ngu đần, đần độn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "予言",
+   "meaning": "sự nói trước",
+   "example": "私は私の愛の予言を告げる星座たちの光の数を数えた。",
+   "exampleMeaning": "Tôi đếm tia sáng những chòm sao như một lời tiên đoán cho tình yêu của mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "納入",
+   "meaning": "sự trả tiền, sự nộp tiền",
+   "example": "「納入」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “納入”: sự trả tiền, sự nộp tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "もはや",
+   "meaning": "đã, rồi",
+   "example": "私はもはや飢えていません。",
+   "exampleMeaning": "Tôi không đói nữa rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "清らか",
+   "meaning": "sạch, sạch sẽ",
+   "example": "「清らか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “清らか”: sạch, sạch sẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "味わい",
+   "meaning": "hương vị, mùi vị, vị ngon",
+   "example": "「味わい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “味わい”: hương vị, mùi vị, vị ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勝手",
+   "meaning": "phòng bếp, nhà bếp",
+   "example": "自分勝手にするつもりはない。",
+   "exampleMeaning": "Tôi không có ý định ích kỷ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "試み",
+   "meaning": "thí nghiệm, thử",
+   "example": "トムは一緒に教会に行くようメアリーへの説得を試みた。",
+   "exampleMeaning": "Tom đã thử thuyết phục Mary đi đến nhà thờ cùng mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不調",
+   "meaning": "rối loạn, bệnh",
+   "example": "「不調」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不調”: rối loạn, bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "格差",
+   "meaning": "sự khác nhau, tình trạng khác nhau",
+   "example": "「格差」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “格差”: sự khác nhau, tình trạng khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "調理",
+   "meaning": "nấu nướng, nấu ăn",
+   "example": "ガスで調理しますか、あるいは電気ですか。",
+   "exampleMeaning": "Bạn nấu ăn bằng ga hay là bằng điện?",
+   "emoji": "🍳",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "既婚",
+   "meaning": "cưới, kết hôn, thành lập gia đình",
+   "example": "「既婚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “既婚”: cưới, kết hôn, thành lập gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無言",
+   "meaning": "sự lặng thinh, sự nín lặng",
+   "example": "「無言」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無言”: sự lặng thinh, sự nín lặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "津波",
+   "meaning": "sóng lớn",
+   "example": "「津波」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “津波”: sóng lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教材",
+   "meaning": "teaching materials (EN)",
+   "example": "「教材」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教材”: teaching materials (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "還暦",
+   "meaning": "60th birthday (EN)",
+   "example": "「還暦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “還暦”: 60th birthday (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "控除",
+   "meaning": "tiền cấp",
+   "example": "「控除」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “控除”: tiền cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肝腎",
+   "meaning": "cần thiết, thiết yếu, cốt yếu",
+   "example": "「肝腎」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肝腎”: cần thiết, thiết yếu, cốt yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "華々しい",
+   "meaning": "sáng rực đến lóa mắt, sáng chói, rực rỡ",
+   "example": "「華々しい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “華々しい”: sáng rực đến lóa mắt, sáng chói, rực rỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "ガス",
+    "で",
+    "調理",
+    "します",
+    "か",
+    "あるいは",
+    "電気",
+    "ですか"
+   ],
+   "reading": "ガスでちょうりしますかあるいはでんきですか",
+   "meaning": "Bạn nấu ăn bằng ga hay là bằng điện?"
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "私の",
+    "腕",
+    "を",
+    "きつく",
+    "つねった"
+   ],
+   "reading": "かのじょはわたしのうでをきつくつねった",
+   "meaning": "Cô ấy cấu mạnh vào tay tôi."
+  },
+  {
+   "tokens": [
+    "壁",
+    "から",
+    "ペンキ",
+    "が",
+    "剥げ",
+    "始めていた"
+   ],
+   "reading": "かべからペンキがはげはじめていた",
+   "meaning": "Sơn bắt đầu bị bong tróc ra khỏi tường."
+  },
+  {
+   "tokens": [
+    "何時",
+    "だろう",
+    "か",
+    "と",
+    "彼",
+    "は",
+    "思った"
+   ],
+   "reading": "なんじだろうかとかれはおもった",
+   "meaning": "Anh ấy tự hỏi \"Bây giờ là mấy giờ rồi\"."
+  },
+  {
+   "tokens": [
+    "美術",
+    "に",
+    "凝っている",
+    "わけ",
+    "でもない"
+   ],
+   "reading": "びじゅつにこっているわけでもない",
+   "meaning": "Tôi không quá đam mê mỹ thuật."
+  }
+ ],
+ "issues": []
+}

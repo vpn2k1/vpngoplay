@@ -1,0 +1,335 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "gauge",
+   "meaning": "đánh giá",
+   "example": "to gauge the contents of a barrel",
+   "exampleMeaning": "Đo dung tích của một cái thùng",
+   "emoji": "",
+   "ipa": "/ˈɡeɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deliberate",
+   "meaning": "có tính toán, cố ý, chủ tâm",
+   "example": "to deliberate an (upon, over, about) a matter",
+   "exampleMeaning": "Bàn bạc kỹ lưỡng về một vấn đề gì",
+   "emoji": "",
+   "ipa": "/dɪˈlɪbɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ethnic",
+   "meaning": "thuộc dân tộc, thuộc tộc người",
+   "example": "Let's learn the word \"ethnic\".",
+   "exampleMeaning": "Cùng học từ “ethnic”: thuộc dân tộc, thuộc tộc người.",
+   "emoji": "",
+   "ipa": "/ˈɛθnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mortal",
+   "meaning": "nguy đến tính mạng, tử",
+   "example": "for ten mortal hours",
+   "exampleMeaning": "Trong mười tiếng đồng hồ dài dằng dặc",
+   "emoji": "",
+   "ipa": "/ˈmɔrtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dowry",
+   "meaning": "của hồi môn",
+   "example": "Let's learn the word \"dowry\".",
+   "exampleMeaning": "Cùng học từ “dowry”: của hồi môn.",
+   "emoji": "",
+   "ipa": "/ˈdaʊəri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overturn",
+   "meaning": "lật đổ, lật nhào, đạp đổ",
+   "example": "Let's learn the word \"overturn\".",
+   "exampleMeaning": "Cùng học từ “overturn”: lật đổ, lật nhào, đạp đổ.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌtɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subjunctive",
+   "meaning": "lối cầu khẩn",
+   "example": "Let's learn the word \"subjunctive\".",
+   "exampleMeaning": "Cùng học từ “subjunctive”: lối cầu khẩn.",
+   "emoji": "",
+   "ipa": "/sˈʌbdʒəŋktˌɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disappearance",
+   "meaning": "sự biến đi, sự biến mất",
+   "example": "Let's learn the word \"disappearance\".",
+   "exampleMeaning": "Cùng học từ “disappearance”: sự biến đi, sự biến mất.",
+   "emoji": "",
+   "ipa": "/ˌdɪsəˈpirəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "corporation",
+   "meaning": "công ty cổ phần, tập đoàn",
+   "example": "This corporation is well known for its communication equipment.",
+   "exampleMeaning": "Tập đoàn này nổi tiếng vì trang thiết bị thông tin của nó.",
+   "emoji": "",
+   "ipa": "/ˌkɔrpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "artificially",
+   "meaning": "giả tạo, không tự nhiên, gượng gạo",
+   "example": "Let's learn the word \"artificially\".",
+   "exampleMeaning": "Cùng học từ “artificially”: giả tạo, không tự nhiên, gượng gạo.",
+   "emoji": "",
+   "ipa": "/ˌɑrtəˈfɪʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "immerse",
+   "meaning": "nhúng, nhận chìm, ngâm",
+   "example": "Let's learn the word \"immerse\".",
+   "exampleMeaning": "Cùng học từ “immerse”: nhúng, nhận chìm, ngâm.",
+   "emoji": "",
+   "ipa": "/ˌɪˈmɜrs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jealously",
+   "meaning": "ganh tị, đố kỵ",
+   "example": "Let's learn the word \"jealously\".",
+   "exampleMeaning": "Cùng học từ “jealously”: ganh tị, đố kỵ.",
+   "emoji": "",
+   "ipa": "/ˈdʒɛləsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stylist",
+   "meaning": "nhà tạo mẫu",
+   "example": "Let's learn the word \"stylist\".",
+   "exampleMeaning": "Cùng học từ “stylist”: nhà tạo mẫu.",
+   "emoji": "",
+   "ipa": "/ˈstaɪlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "radical",
+   "meaning": "căn",
+   "example": "radical of an algebra",
+   "exampleMeaning": "Căn của một đại số",
+   "emoji": "",
+   "ipa": "/ˈrædəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "geographic",
+   "meaning": "địa lý",
+   "example": "a geographic map",
+   "exampleMeaning": "Bản đồ địa lý",
+   "emoji": "",
+   "ipa": "/ˌdʒiəˈɡræfɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "economically",
+   "meaning": "về phương diện kinh tế, về mặt kinh tế",
+   "example": "I am economically independent of my parents.",
+   "exampleMeaning": "Tôi không phụ thuộc chuyện tiền bạc vào bố mẹ tôi",
+   "emoji": "",
+   "ipa": "/ˌɛkəˈnɑmɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "proponent",
+   "meaning": "người đề nghị, người đề xuất",
+   "example": "Let's learn the word \"proponent\".",
+   "exampleMeaning": "Cùng học từ “proponent”: người đề nghị, người đề xuất.",
+   "emoji": "",
+   "ipa": "/prəˈpoʊnənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "comprehension",
+   "meaning": "sự hiểu, sự lĩnh hội, sự nhận thức",
+   "example": "a term of wide comprehension",
+   "exampleMeaning": "Một thuật ngữ bao hàm nhiều khái niệm",
+   "emoji": "",
+   "ipa": "/ˌkɑmpriˈhɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peach",
+   "meaning": "quả đào",
+   "example": "Let's learn the word \"peach\".",
+   "exampleMeaning": "Cùng học từ “peach”: quả đào.",
+   "emoji": "🍑",
+   "ipa": "/ˈpitʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dread",
+   "meaning": "kinh sợ, kinh hãi, khiếp sợ",
+   "example": "to dread that...",
+   "exampleMeaning": "Sợ rằng...",
+   "emoji": "",
+   "ipa": "/ˈdrɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "is",
+    "deliberate",
+    "in",
+    "his",
+    "action"
+   ],
+   "reading": "",
+   "meaning": "Ông ta cố ý trong hành động của mình."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "economically",
+    "independent",
+    "of",
+    "my",
+    "parents"
+   ],
+   "reading": "",
+   "meaning": "Tôi không phụ thuộc tài chính vào bố mẹ tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "am",
+    "economically",
+    "independent",
+    "of",
+    "my",
+    "parents"
+   ],
+   "reading": "",
+   "meaning": "Tôi không phụ thuộc chuyện tiền bạc vào bố mẹ tôi"
+  },
+  {
+   "tokens": [
+    "People",
+    "are",
+    "mortal",
+    "Loved",
+    "ones",
+    "though",
+    "are",
+    "immortal"
+   ],
+   "reading": "",
+   "meaning": "Con người không bất tử. Những người được yêu thương, lại là bất tử."
+  },
+  {
+   "tokens": [
+    "This",
+    "corporation",
+    "is",
+    "well",
+    "known",
+    "for",
+    "its",
+    "communication",
+    "equipment"
+   ],
+   "reading": "",
+   "meaning": "Tập đoàn này nổi tiếng vì trang thiết bị thông tin của nó."
+  }
+ ],
+ "issues": []
+}

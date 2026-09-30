@@ -1,0 +1,334 @@
+{
+ "lesson": 109,
+ "draft": true,
+ "words": [
+  {
+   "term": "ミセス",
+   "meaning": "vt của mistress",
+   "example": "「ミセス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ミセス”: vt của mistress.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "かつて",
+   "meaning": "một lần",
+   "example": "ここにはかつて古いお寺がありました。",
+   "exampleMeaning": "Ở đây từng có một ngôi chùa cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "センス",
+   "meaning": "giác quan",
+   "example": "トムはファッションセンスがゼロだ。",
+   "exampleMeaning": "Tom không có khiếu thời trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同級",
+   "meaning": "the same grade (EN)",
+   "example": "「同級」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同級”: the same grade (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "象徴",
+   "meaning": "vật tượng trưng",
+   "example": "「象徴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “象徴”: vật tượng trưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "様式",
+   "meaning": "cột đồng hồ mặt trời",
+   "example": "「様式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “様式”: cột đồng hồ mặt trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衣装",
+   "meaning": "quần áo, y phục",
+   "example": "「衣装」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “衣装”: quần áo, y phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "レース",
+   "meaning": "nòi",
+   "example": "足をけがしていたので彼はレースに勝てなかった。",
+   "exampleMeaning": "Anh ấy đã không thể giành chiến thắng trong cuộc đua vì chân anh ấy bị thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "しぶとい",
+   "meaning": "dai, bền, bám chặt",
+   "example": "「しぶとい」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “しぶとい”: dai, bền, bám chặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短気",
+   "meaning": "tính hay cáu, tính nóng",
+   "example": "「短気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “短気”: tính hay cáu, tính nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全滅",
+   "meaning": "sự tiêu diệt, sự tiêu hủy, sự huỷ diệt",
+   "example": "「全滅」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “全滅”: sự tiêu diệt, sự tiêu hủy, sự huỷ diệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弁解",
+   "meaning": "sự giảng, sự giảng giải, sự giải nghĩa",
+   "example": "「弁解」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弁解”: sự giảng, sự giảng giải, sự giải nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "魂",
+   "meaning": "linh hồn",
+   "example": "「魂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “魂”: linh hồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "負かす",
+   "meaning": "đánh thắng, đánh bại",
+   "example": "「負かす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “負かす”: đánh thắng, đánh bại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眼球",
+   "meaning": "cầu mắt, nhãn cầu",
+   "example": "「眼球」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “眼球”: cầu mắt, nhãn cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "バッテリー",
+   "meaning": "khẩu đội (pháo)",
+   "example": "カメラ用バッテリーをいくつかいただけませんか？",
+   "exampleMeaning": "Ngài có thể cho tôi vài cục pin máy ảnh được không?",
+   "emoji": "🔋",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "片言",
+   "meaning": "gãy, bể",
+   "example": "トムは片言のフランス語しか話せない。",
+   "exampleMeaning": "Tom chỉ biết nói tiếng Pháp bập bõm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "見せ物",
+   "meaning": "sự bày tỏ",
+   "example": "「見せ物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見せ物”: sự bày tỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心地",
+   "meaning": "sự sờ mó, sự bắt mạch",
+   "example": "横になってみると、そのベッドはとても寝心地がよかった。",
+   "exampleMeaning": "Khi thử nằm xuống, chúng tôi thấy rằng chiếc giường đó nằm rất thoải mái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ぼやける",
+   "meaning": "làm mờ, làm tối mờ mờ",
+   "example": "「ぼやける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぼやける”: làm mờ, làm tối mờ mờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "かつて",
+    "は",
+    "地球",
+    "が",
+    "宇宙",
+    "の",
+    "中心",
+    "である",
+    "と",
+    "思われていた"
+   ],
+   "reading": "かつてはちきゅうがうちゅうのちゅうしんであるとおもわれていた",
+   "meaning": "Trái Đất đã từng được cho là trung tâm của vũ trụ."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "電話",
+    "で",
+    "ピザ",
+    "を",
+    "注文",
+    "した"
+   ],
+   "reading": "わたしはでんわでピザをちゅうもんした",
+   "meaning": "Tôi đã gọi pizza qua điện thoại."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "提案",
+    "を",
+    "どう",
+    "思います",
+    "か"
+   ],
+   "reading": "かれのていあんをどうおもいますか",
+   "meaning": "Bạn nghĩ sao về đề xuất của anh ấy?"
+  },
+  {
+   "tokens": [
+    "彼女の",
+    "詩",
+    "を",
+    "どう",
+    "思います",
+    "か"
+   ],
+   "reading": "かのじょのしをどうおもいますか",
+   "meaning": "Bạn nghĩ sao về bài thơ của cô ấy?"
+  },
+  {
+   "tokens": [
+    "この",
+    "テーブル",
+    "を",
+    "どけ",
+    "なさい"
+   ],
+   "reading": "このテーブルをどけなさい",
+   "meaning": "Để cái bàn này ra chỗ khác đi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,347 @@
+{
+ "lesson": 84,
+ "draft": true,
+ "words": [
+  {
+   "term": "绷",
+   "meaning": "tét",
+   "example": "绷了一道缝儿。",
+   "exampleMeaning": "Tét một đường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "假冒",
+   "meaning": "giả danh, thể hiện dưới dạng người, nhân cách hoá",
+   "example": "谨防假冒",
+   "exampleMeaning": "Đề phòng giả mạo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎmào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "扳",
+   "meaning": "lôi, kéo, giật",
+   "example": "我们来学“扳”这个词。",
+   "exampleMeaning": "Cùng học từ “扳”: lôi, kéo, giật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bān",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乞丐",
+   "meaning": "ăn xin",
+   "example": "我们来学“乞丐”这个词。",
+   "exampleMeaning": "Cùng học từ “乞丐”: ăn xin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐgài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高空",
+   "meaning": "trên cao",
+   "example": "高空飞行",
+   "exampleMeaning": "Bay cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāokōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敬请",
+   "meaning": "làm ơn (làm cái gì đó) (biểu mẫu)",
+   "example": "我们来学“敬请”这个词。",
+   "exampleMeaning": "Cùng học từ “敬请”: làm ơn (làm cái gì đó) (biểu mẫu).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngqǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放纵",
+   "meaning": "hỗn láo",
+   "example": "放纵不管",
+   "exampleMeaning": "Bỏ mặc; mặc kệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngzòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "申报",
+   "meaning": "trình báo",
+   "example": "我们来学“申报”这个词。",
+   "exampleMeaning": "Cùng học từ “申报”: trình báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冒充",
+   "meaning": "đội lốt, giả làm, giả vờ",
+   "example": "冒充内行。",
+   "exampleMeaning": "Giả mạo ngành nghề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màochōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流失",
+   "meaning": "trôi mất",
+   "example": "建造水库蓄积汛期的河水， 以免流失。",
+   "exampleMeaning": "Xây dựng hồ chứa nước để giữ nước sông trong mùa nước lại, tránh bị trôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúshī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高雅",
+   "meaning": "thanh cao",
+   "example": "房间里的一切陈设都很高雅",
+   "exampleMeaning": "Tất cả đồ đạc trong căn phòng này được bày trí rất tao nhã",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoyǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来源于",
+   "meaning": "bắt nguồn từ",
+   "example": "我们来学“来源于”这个词。",
+   "exampleMeaning": "Cùng học từ “来源于”: bắt nguồn từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láiyuányú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事态",
+   "meaning": "tình thế",
+   "example": "事态有所暖和。",
+   "exampleMeaning": "Tình thế có phần dịu bớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìtài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驱动",
+   "meaning": "trình điều khiển thiết bị (phần mềm máy tính)",
+   "example": "我们来学“驱动”这个词。",
+   "exampleMeaning": "Cùng học từ “驱动”: trình điều khiển thiết bị (phần mềm máy tính).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qūdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恶性",
+   "meaning": "ác tính",
+   "example": "恶性循环。",
+   "exampleMeaning": "Tuần hoàn ác tính (sự vật biến chuyển liên tục ngày càng xấu).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "担当",
+   "meaning": "đảm đương",
+   "example": "再艰巨的工作，他也勇于担当。",
+   "exampleMeaning": "Trong công việc khó khăn nặng nề, anh ấy dũng cảm gánh vác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāndāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "差错",
+   "meaning": "nhầm lẫn",
+   "example": "精神不集中，就会出差错。",
+   "exampleMeaning": "Tinh thần không tập trung, thì sẽ bị nhầm lẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chācuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罐头",
+   "meaning": "hộp",
+   "example": "鱼肉罐头",
+   "exampleMeaning": "Cá hộp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàntou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "路面",
+   "meaning": "mặt đường",
+   "example": "路面平整。",
+   "exampleMeaning": "Mặt đường bằng phẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "攒",
+   "meaning": "tập hợp lại",
+   "example": "把节省下来的钱攒起来。",
+   "exampleMeaning": "Gom góp tiền tiết kiệm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "他",
+    "想要",
+    "成功",
+    "即使",
+    "是以",
+    "他",
+    "的",
+    "健康",
+    "作为",
+    "代价"
+   ],
+   "reading": "tā xiǎngyào chénggōng jíshǐ shìyǐ tā de jiànkāng zuòwéi dàijià",
+   "meaning": "Anh ấy muốn thành công tới mức đánh đổi cả sức khỏe của mình."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  }
+ ],
+ "issues": []
+}

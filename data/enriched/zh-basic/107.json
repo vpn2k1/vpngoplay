@@ -1,0 +1,338 @@
+{
+ "lesson": 107,
+ "draft": true,
+ "words": [
+  {
+   "term": "推开",
+   "meaning": "từ chối",
+   "example": "我们来学“推开”这个词。",
+   "exampleMeaning": "Cùng học từ “推开”: từ chối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīkāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短裤",
+   "meaning": "quần soóc",
+   "example": "我们来学“短裤”这个词。",
+   "exampleMeaning": "Cùng học từ “短裤”: quần soóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǎnkù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "房东",
+   "meaning": "chủ cho thuê nhà",
+   "example": "我们来学“房东”这个词。",
+   "exampleMeaning": "Cùng học từ “房东”: chủ cho thuê nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángdōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "广大",
+   "meaning": "đông",
+   "example": "拖拉机在广大的田野上耕作。",
+   "exampleMeaning": "Máy cày đang cày trên cánh đồng rộng lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎngdà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收音机",
+   "meaning": "máy thu thanh",
+   "example": "我们来学“收音机”这个词。",
+   "exampleMeaning": "Cùng học từ “收音机”: máy thu thanh.",
+   "emoji": "📻",
+   "ipa": "",
+   "pinyin": "shōuyīnjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "收听",
+   "meaning": "nghe, lắng nghe",
+   "example": "收听天气预报。",
+   "exampleMeaning": "Nghe dự báo thời tiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōutīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "电子邮件",
+   "meaning": "thư điện tử, email",
+   "example": "我们来学“电子邮件”这个词。",
+   "exampleMeaning": "Cùng học từ “电子邮件”: thư điện tử, email.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànzǐyóujiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "初级",
+   "meaning": "sơ cấp",
+   "example": "初级读本。",
+   "exampleMeaning": "Sách học sơ cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "听力",
+   "meaning": "khả năng nghe",
+   "example": "我们来学“听力”这个词。",
+   "exampleMeaning": "Cùng học từ “听力”: khả năng nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tīnglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "信封",
+   "meaning": "phong thư",
+   "example": "我们来学“信封”这个词。",
+   "exampleMeaning": "Cùng học từ “信封”: phong thư.",
+   "emoji": "✉",
+   "ipa": "",
+   "pinyin": "xìnfēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衬衣",
+   "meaning": "áo trong",
+   "example": "我们来学“衬衣”这个词。",
+   "exampleMeaning": "Cùng học từ “衬衣”: áo trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chènyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "结实",
+   "meaning": "tráng kiện",
+   "example": "这种布既便宜又结实。",
+   "exampleMeaning": "Thứ vải này đã rẽ lại bền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēshi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "班级",
+   "meaning": "lớp",
+   "example": "我们来学“班级”这个词。",
+   "exampleMeaning": "Cùng học từ “班级”: lớp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bānjí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "现代化",
+   "meaning": "hiện đại hoá",
+   "example": "现代化的工业和农业。",
+   "exampleMeaning": "Nền công nghiệp và nông nghiệp hiện đại hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàndàihuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专题",
+   "meaning": "chuyên đề",
+   "example": "专题报告会",
+   "exampleMeaning": "Hội nghị báo cáo chuyên đề",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāntí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "工夫",
+   "meaning": "khi",
+   "example": "他三天工夫就学会了游泳。",
+   "exampleMeaning": "Nó học ba ngày là biết bơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "创业",
+   "meaning": "lập nên sự nghiệp",
+   "example": "不要忘记前人创业的艰难。",
+   "exampleMeaning": "Đừng quên đi những gian khổ của lớp người đi trước lập nên sự nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuàngyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "本领",
+   "meaning": "bản lĩnh",
+   "example": "本领高强",
+   "exampleMeaning": "Bản lĩnh mạnh mẽ; bản lĩnh cao cường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnlǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "旅行社",
+   "meaning": "cơ quan du lịch",
+   "example": "我们来学“旅行社”这个词。",
+   "exampleMeaning": "Cùng học từ “旅行社”: cơ quan du lịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚxíngshè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "话剧",
+   "meaning": "kịch nói",
+   "example": "我们来学“话剧”这个词。",
+   "exampleMeaning": "Cùng học từ “话剧”: kịch nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这种",
+    "布",
+    "既",
+    "便宜",
+    "又",
+    "结实"
+   ],
+   "reading": "zhèzhǒng bù jì piányi yòu jiēshí",
+   "meaning": "Thứ vải này đã rẽ lại bền."
+  },
+  {
+   "tokens": [
+    "我",
+    "朋友",
+    "哪里",
+    "买",
+    "过",
+    "什么",
+    "东西"
+   ],
+   "reading": "wǒ péngyou nǎlǐ mǎi guo shénme dōngxi",
+   "meaning": "Bạn tôi có mua gì đâu?"
+  },
+  {
+   "tokens": [
+    "这",
+    "件",
+    "事",
+    "你",
+    "自己",
+    "决定",
+    "就是",
+    "了"
+   ],
+   "reading": "zhè jiàn shì nǐ zìjǐ juédìng jiùshì le",
+   "meaning": "Việc này cậu tự quyết định là được rồi."
+  },
+  {
+   "tokens": [
+    "药",
+    "吃",
+    "多",
+    "了",
+    "对",
+    "身体",
+    "不见得",
+    "好"
+   ],
+   "reading": "yào chī duō le duì shēntǐ bùjiànde hǎo",
+   "meaning": "Uống nhiều thuốc không hẳn là tốt cho sức khỏe."
+  },
+  {
+   "tokens": [
+    "我",
+    "该",
+    "走",
+    "这",
+    "条",
+    "路",
+    "还是",
+    "那",
+    "条",
+    "路"
+   ],
+   "reading": "wǒ gāi zǒu zhè tiáo lù háishi nà tiáo lù",
+   "meaning": "Tôi nên đi đường này hay đi đường kia?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,322 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "对话",
+   "meaning": "lời thoại",
+   "example": "对话要符合人物的性格。",
+   "exampleMeaning": "Lời thoại phải phù hợp với tính cách nhân vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "停车",
+   "meaning": "ngừng chạy",
+   "example": "此处禁止停车。",
+   "exampleMeaning": "Cấm đậu xe nơi đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíngchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "冬天",
+   "meaning": "mùa đông",
+   "example": "我们来学“冬天”这个词。",
+   "exampleMeaning": "Cùng học từ “冬天”: mùa đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngtiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "云",
+   "meaning": "vân Nam",
+   "example": "云是天空中的水汽团。",
+   "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yún",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "青年",
+   "meaning": "thanh niên",
+   "example": "青年时代。",
+   "exampleMeaning": "Thời tuổi trẻ; thời đại thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngnián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好人",
+   "meaning": "người tốt",
+   "example": "你真是个大好人！",
+   "exampleMeaning": "Bạn đúng là người tốt bụng!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎorén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大声",
+   "meaning": "lớn tiếng",
+   "example": "停止大声说话。",
+   "exampleMeaning": "Cấm nói lớn tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分开",
+   "meaning": "tách biệt",
+   "example": "弟兄两人分开已经三年了。",
+   "exampleMeaning": "Hai anh em xa nhau đã ba năm rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnkāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "校长",
+   "meaning": "hiệu trưởng",
+   "example": "我们来学“校长”这个词。",
+   "exampleMeaning": "Cùng học từ “校长”: hiệu trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàozhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市长",
+   "meaning": "thị trưởng",
+   "example": "我们来学“市长”这个词。",
+   "exampleMeaning": "Cùng học từ “市长”: thị trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìzhǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自行车",
+   "meaning": "xe đạp",
+   "example": "小时候我没有自行车。",
+   "exampleMeaning": "Hồi nhỏ tôi không có xe đạp.",
+   "emoji": "🚲",
+   "ipa": "",
+   "pinyin": "zìxíngchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "相机",
+   "meaning": "máy ảnh, máy chụp hình, máy hình",
+   "example": "这个照相机是德国制造的。",
+   "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "花园",
+   "meaning": "hoa viên",
+   "example": "我们来学“花园”这个词。",
+   "exampleMeaning": "Cùng học từ “花园”: hoa viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "影片",
+   "meaning": "phim",
+   "example": "科学教育影片",
+   "exampleMeaning": "Phim khoa học giáo dục",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐngpiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "温度",
+   "meaning": "nhiệt độ",
+   "example": "室内温度",
+   "exampleMeaning": "Nhiệt độ trong phòng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēndù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "等于",
+   "meaning": "như",
+   "example": "五乘二等于十。",
+   "exampleMeaning": "Năm nhân hai bằng mười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "děngyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "周年",
+   "meaning": "đầy năm",
+   "example": "建国三十周年。",
+   "exampleMeaning": "Ba mươi năm thành lập nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōunián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "节日",
+   "meaning": "ngày lễ",
+   "example": "国庆节日",
+   "exampleMeaning": "Ngày quốc khánh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiérì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "例如",
+   "meaning": "ví dụ",
+   "example": "田径运动的项目很多，例如跳高、跳远、百米赛跑等。",
+   "exampleMeaning": "Hạng mục điền kinh rất nhiều, ví dụ như nhảy cao, nhảy xa, chạy trăm mét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìrú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "重视",
+   "meaning": "coi trọng",
+   "example": "重视群众的发明创造。",
+   "exampleMeaning": "Xem trọng những phát minh sáng tạo của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "真是",
+    "个",
+    "大",
+    "好",
+    "人"
+   ],
+   "reading": "nǐ zhēnshi gè dà hǎo rén",
+   "meaning": "Bạn đúng là người tốt bụng!"
+  },
+  {
+   "tokens": [
+    "云",
+    "是",
+    "天空",
+    "中",
+    "的",
+    "水汽",
+    "团"
+   ],
+   "reading": "yún shì tiānkōng zhōng de shuǐqì tuán",
+   "meaning": "Mây là do hơi nước trong không trung tích tụ thành."
+  },
+  {
+   "tokens": [
+    "停止",
+    "大声",
+    "说话"
+   ],
+   "reading": "tíngzhǐ dàshēng shuōhuà",
+   "meaning": "Cấm nói lớn tiếng."
+  },
+  {
+   "tokens": [
+    "小时候",
+    "我",
+    "没有",
+    "自行车"
+   ],
+   "reading": "xiǎoshíhou wǒ méiyǒu zìxíngchē",
+   "meaning": "Hồi nhỏ tôi không có xe đạp."
+  },
+  {
+   "tokens": [
+    "此处",
+    "禁止",
+    "停车"
+   ],
+   "reading": "cǐchù jìnzhǐ tíngchē",
+   "meaning": "Cấm đậu xe nơi đây."
+  }
+ ],
+ "issues": []
+}

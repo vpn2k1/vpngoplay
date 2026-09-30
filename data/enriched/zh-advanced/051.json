@@ -1,0 +1,335 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "树木",
+   "meaning": "cây cối",
+   "example": "我们来学“树木”这个词。",
+   "exampleMeaning": "Cùng học từ “树木”: cây cối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "崛起",
+   "meaning": "nổi dậy",
+   "example": "平地上崛起一座青翠的山峰。",
+   "exampleMeaning": "Trên đất bằng nổi lên một hòn núi xanh biếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "点子",
+   "meaning": "điểm",
+   "example": "这个病抓点子药吃就好了。",
+   "exampleMeaning": "Bệnh này hốt một ít thuốc uống là khỏi ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "苍蝇",
+   "meaning": "ruồi",
+   "example": "苍蝇不叮没缝的鸡蛋",
+   "exampleMeaning": "Ruồi chỉ hút trứng có vết nứt; làm việc không sơ hở thì không bao giờ bị lợi dụng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāngying",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "平面",
+   "meaning": "mặt bằng",
+   "example": "我们来学“平面”这个词。",
+   "exampleMeaning": "Cùng học từ “平面”: mặt bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "过头",
+   "meaning": "quá mức",
+   "example": "他对自己的估计有点儿过头。",
+   "exampleMeaning": "Dự tính của anh ấy hơi quá mức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòtóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "煤矿",
+   "meaning": "quặng than",
+   "example": "我们来学“煤矿”这个词。",
+   "exampleMeaning": "Cùng học từ “煤矿”: quặng than.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méikuàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搂",
+   "meaning": "ôm",
+   "example": "妈妈把孩子搂在怀里。",
+   "exampleMeaning": "Mẹ ôm con vào lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "葬礼",
+   "meaning": "tang lễ",
+   "example": "举行葬礼",
+   "exampleMeaning": "Tổ chức tang lễ; cử hành tang lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zànglǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "包袱",
+   "meaning": "gánh nặng (tư tưởng)",
+   "example": "思想包袱",
+   "exampleMeaning": "Gánh nặng về tư tưởng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāofu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "引人注目",
+   "meaning": "gây sự chú ý cho người khác",
+   "example": "他胸前佩戴着闪闪发光的奖章，很引人注目。",
+   "exampleMeaning": "Anh ta đeo tấm huy chương chớp chớp sáng sáng trước ngực, khiến người ta phải chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnrénzhùmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发脾气",
+   "meaning": "phát cáu",
+   "example": "我们来学“发脾气”这个词。",
+   "exampleMeaning": "Cùng học từ “发脾气”: phát cáu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāpíqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "要点",
+   "meaning": "cứ điểm quan trọng",
+   "example": "战略要点",
+   "exampleMeaning": "Cứ điểm quan trọng có tính chất chiến lược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàodiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缴",
+   "meaning": "người giao bóng",
+   "example": "我们来学“缴”这个词。",
+   "exampleMeaning": "Cùng học từ “缴”: người giao bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "核实",
+   "meaning": "thẩm tra",
+   "example": "核实情况",
+   "exampleMeaning": "Thẩm tra tình hình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乡下",
+   "meaning": "ở nông thôn",
+   "example": "我们来学“乡下”这个词。",
+   "exampleMeaning": "Cùng học từ “乡下”: ở nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngxia",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "咽",
+   "meaning": "họng, cuống họng",
+   "example": "我们来学“咽”这个词。",
+   "exampleMeaning": "Cùng học từ “咽”: họng, cuống họng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yān",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冷冻",
+   "meaning": "đông lạnh",
+   "example": "把鲜菜冷冻起来。",
+   "exampleMeaning": "Làm lạnh mấy thứ rau tươi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "畸形",
+   "meaning": "bất thường",
+   "example": "畸形发育。",
+   "exampleMeaning": "Phát dục bất thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鸽子",
+   "meaning": "bồ câu",
+   "example": "鸽子是和平的象征。",
+   "exampleMeaning": "Chim bồ câu là biểu tượng của hoà bình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "提出",
+    "改革",
+    "研究",
+    "方法",
+    "的",
+    "意见"
+   ],
+   "reading": "tā tíchū gǎigé yánjiū fāngfǎ de yìjiàn",
+   "meaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu."
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "他们",
+    "昨天",
+    "乘",
+    "巴士",
+    "去",
+    "了",
+    "动物园"
+   ],
+   "reading": "tāmen zuótiān chéng bāshì qù le dòngwùyuán",
+   "meaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  }
+ ],
+ "issues": []
+}

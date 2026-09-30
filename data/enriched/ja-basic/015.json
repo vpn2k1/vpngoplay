@@ -1,0 +1,322 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "欲しい",
+   "meaning": "thiếu, không có",
+   "example": "君は何が欲しいの？",
+   "exampleMeaning": "Bạn muốn gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "犬",
+   "meaning": "chó",
+   "example": "犬が吠えている。",
+   "exampleMeaning": "Con chó đang sủa.",
+   "emoji": "🐕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "茶色",
+   "meaning": "nâu",
+   "example": "私が一番好きな色は茶色です。",
+   "exampleMeaning": "Màu mà tôi thích nhất là màu nâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "上",
+   "meaning": "trên",
+   "example": "料理が上手ですね。",
+   "exampleMeaning": "Bạn giỏi nấu ăn nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お菓子",
+   "meaning": "kẹo",
+   "example": "トムはお菓子をねだりに行くには大きすぎるよ。",
+   "exampleMeaning": "Tom quá lớn để đi xin kẹo rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "りっぱ",
+   "meaning": "rực rỡ, tráng lệ, lộng lẫy",
+   "example": "「りっぱ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “りっぱ”: rực rỡ, tráng lệ, lộng lẫy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ラジオ",
+   "meaning": "rađiô",
+   "example": "ラジオを聞いています。",
+   "exampleMeaning": "Tôi đang nghe ra-đi-ô.",
+   "emoji": "📻",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "貸す",
+   "meaning": "cho vay, cho mượn",
+   "example": "「貸す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貸す”: cho vay, cho mượn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嫌い",
+   "meaning": "không ưa, không thích, ghét",
+   "example": "私は勉強が嫌いだ。",
+   "exampleMeaning": "Tôi không ưa việc học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スプーン",
+   "meaning": "cái thìa",
+   "example": "スプーンとフォークとナイフがいります。どうもありがとう。",
+   "exampleMeaning": "Tôi cần thìa, dĩa và dao. Cảm ơn bạn rất nhiều.",
+   "emoji": "🥄",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どれ",
+   "meaning": "cái mà, mà",
+   "example": "どれほど恥ずかしくか知ってるか？",
+   "exampleMeaning": "Bạn có biết bạn làm tôi xấu hổ đến mức nào không hả?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鳥",
+   "meaning": "chim",
+   "example": "鳥は昆虫の天敵です。",
+   "exampleMeaning": "Chim là thiên địch của côn trùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ボタン",
+   "meaning": "cái khuy, cái cúc (áo)",
+   "example": "このボタンを押せばドアは開きます。",
+   "exampleMeaning": "Khi bạn bấm nút này, cửa sẽ mở ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "歌",
+   "meaning": "bài hát, điệu hát",
+   "example": "私はその歌を歌いたい。",
+   "exampleMeaning": "Tôi muốn hát bài đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "入る",
+   "meaning": "vào, đi vào",
+   "example": "私は彼が部屋に入るのを見た。",
+   "exampleMeaning": "Tôi đã thấy anh ấy bước vào phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "洗濯",
+   "meaning": "sự tắm rửa, sự tắm gội, sự rửa ráy",
+   "example": "鬼の居ぬ間に洗濯。",
+   "exampleMeaning": "Vắng chủ nhà gà mọc đuôi tôm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "紙",
+   "meaning": "giấy",
+   "example": "彼女は手紙を読み終えた。",
+   "exampleMeaning": "Cô ấy đã đọc xong bức thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あなた",
+   "meaning": "ấy, đó, kia",
+   "example": "あなたは誰ですか。",
+   "exampleMeaning": "Bạn là ai?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ゼロ",
+   "meaning": "không",
+   "example": "トムはファッションセンスがゼロだ。",
+   "exampleMeaning": "Tom không có khiếu thời trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "春",
+   "meaning": "mùa xuân (đen & bóng)",
+   "example": "私は季節の中で春が好きだ。",
+   "exampleMeaning": "Mùa xuân là mùa tôi thích nhất trong các mùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "何",
+    "が",
+    "欲しい",
+    "ですか",
+    "犬",
+    "が",
+    "欲しい",
+    "です"
+   ],
+   "reading": "あなたはなにがほしいですかいぬがほしいです",
+   "meaning": "\"Bạn muốn gì?\" \"Tôi muốn một chú chó.\""
+  },
+  {
+   "tokens": [
+    "鳥",
+    "が",
+    "囀る"
+   ],
+   "reading": "とりがさえずる",
+   "meaning": "Chim hót."
+  },
+  {
+   "tokens": [
+    "鳥",
+    "は",
+    "飛ぶ"
+   ],
+   "reading": "とりはとぶ",
+   "meaning": "Chim thì bay lượn."
+  },
+  {
+   "tokens": [
+    "犬",
+    "が",
+    "吠えている"
+   ],
+   "reading": "いぬがほえている",
+   "meaning": "Con chó đang sủa."
+  },
+  {
+   "tokens": [
+    "あの",
+    "鞄",
+    "が",
+    "欲しい"
+   ],
+   "reading": "あのかばんがほしい",
+   "meaning": "Tôi muốn cái cặp đó."
+  }
+ ],
+ "issues": []
+}

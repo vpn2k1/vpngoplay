@@ -1,0 +1,331 @@
+{
+ "lesson": 42,
+ "draft": true,
+ "words": [
+  {
+   "term": "juror",
+   "meaning": "hội thẩm, bồi thẩm",
+   "example": "Let's learn the word \"juror\".",
+   "exampleMeaning": "Cùng học từ “juror”: hội thẩm, bồi thẩm.",
+   "emoji": "",
+   "ipa": "/ˈdʒʊrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "adversity",
+   "meaning": "sự bất hạnh",
+   "example": "Let's learn the word \"adversity\".",
+   "exampleMeaning": "Cùng học từ “adversity”: sự bất hạnh.",
+   "emoji": "",
+   "ipa": "/ædˈvɜrsɪˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prick",
+   "meaning": "mũi nhọn, cái giùi, cái gai",
+   "example": "to have got a prick in one's finger",
+   "exampleMeaning": "Bị một cái gai đâm vào ngón tay",
+   "emoji": "",
+   "ipa": "/prɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "indignity",
+   "meaning": "sự sỉ nhục, sự làm nhục",
+   "example": "to treat somebody with indignity",
+   "exampleMeaning": "Làm nhục ai",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdɪɡnəˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "expectation",
+   "meaning": "sự tính trước, sự dự tính",
+   "example": "contrary to expectation",
+   "exampleMeaning": "Ngược lại với sự dự tính",
+   "emoji": "",
+   "ipa": "/ˌɛkspɛkˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dense",
+   "meaning": "dày đặc, chặt",
+   "example": "a dense forest",
+   "exampleMeaning": "Rừng rậm",
+   "emoji": "",
+   "ipa": "/ˈdɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "genius",
+   "meaning": "thiên tài, thiên tư",
+   "example": "to have a genius for mathematics",
+   "exampleMeaning": "Có thiên tài về toán học",
+   "emoji": "",
+   "ipa": "/ˈdʒinjəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "paintbrush",
+   "meaning": "chổi sơn",
+   "example": "Let's learn the word \"paintbrush\".",
+   "exampleMeaning": "Cùng học từ “paintbrush”: chổi sơn.",
+   "emoji": "🖌",
+   "ipa": "/ˈpeɪntˌbrəʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "convergence",
+   "meaning": "sự hội tụ",
+   "example": "Let's learn the word \"convergence\".",
+   "exampleMeaning": "Cùng học từ “convergence”: sự hội tụ.",
+   "emoji": "",
+   "ipa": "/kənˈvɜrdʒəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "remaining",
+   "meaning": "còn lại",
+   "example": "You oughtn't to go out with the little boy remaining alone.",
+   "exampleMeaning": "Anh không được ra ngoài mà để thằng bé ở nhà một mình như vậy được.",
+   "emoji": "",
+   "ipa": "/riˈmeɪnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "aluminum",
+   "meaning": "chính tả tiêu chuẩn ở Mỹ và Canada của aluminium",
+   "example": "Let's learn the word \"aluminum\".",
+   "exampleMeaning": "Cùng học từ “aluminum”: chính tả tiêu chuẩn ở Mỹ và Canada của aluminium.",
+   "emoji": "",
+   "ipa": "/əˈlumənəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interpretation",
+   "meaning": "sự giải thích, sự làm sáng tỏ",
+   "example": "Let's learn the word \"interpretation\".",
+   "exampleMeaning": "Cùng học từ “interpretation”: sự giải thích, sự làm sáng tỏ.",
+   "emoji": "",
+   "ipa": "/ˌɪnˌtɜrprɪˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stopover",
+   "meaning": "sự dừng lại trong một chuyến đi (nhất là qua đêm)",
+   "example": "Let's learn the word \"stopover\".",
+   "exampleMeaning": "Cùng học từ “stopover”: sự dừng lại trong một chuyến đi (nhất là qua đêm).",
+   "emoji": "",
+   "ipa": "/ˈstɑˌpoʊvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "generously",
+   "meaning": "rộng lượng, hào hiệp, hào phóng",
+   "example": "Let's learn the word \"generously\".",
+   "exampleMeaning": "Cùng học từ “generously”: rộng lượng, hào hiệp, hào phóng.",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnɜrəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boiling",
+   "meaning": "sôi, đang sôi",
+   "example": "The witch threw a live rat into the boiling potion.",
+   "exampleMeaning": "Phù thuỷ ném con chuột sống vào thuốc phép đang sôi.",
+   "emoji": "",
+   "ipa": "/ˈbɔɪlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "collector",
+   "meaning": "người thu thập, người sưu tầm",
+   "example": "Let's learn the word \"collector\".",
+   "exampleMeaning": "Cùng học từ “collector”: người thu thập, người sưu tầm.",
+   "emoji": "",
+   "ipa": "/kəˈlɛktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wed",
+   "meaning": "kết hợp, hoà hợp",
+   "example": "rock star wed top model.",
+   "exampleMeaning": "Ngôi sao nhạc rốc kết hôn với người mẫu số một",
+   "emoji": "",
+   "ipa": "/ˈwɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "imply",
+   "meaning": "ý nói",
+   "example": "do you imply that I am not telling the truth?",
+   "exampleMeaning": "Ý anh muốn nói rằng tôi không kể sự thực phải không?",
+   "emoji": "",
+   "ipa": "/ˌɪmˈplaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "keystroke",
+   "meaning": "gõ phím, nhấn phím",
+   "example": "Let's learn the word \"keystroke\".",
+   "exampleMeaning": "Cùng học từ “keystroke”: gõ phím, nhấn phím.",
+   "emoji": "",
+   "ipa": "/ˈkiˌstroʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conversely",
+   "meaning": "ngược lại",
+   "example": "Let's learn the word \"conversely\".",
+   "exampleMeaning": "Cùng học từ “conversely”: ngược lại.",
+   "emoji": "",
+   "ipa": "/ˈkɑnvɜrsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We're",
+    "boiling",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đang đun nước."
+  },
+  {
+   "tokens": [
+    "The",
+    "kettle",
+    "is",
+    "boiling"
+   ],
+   "reading": "",
+   "meaning": "Ấm nước đang sôi."
+  },
+  {
+   "tokens": [
+    "You",
+    "are",
+    "not",
+    "a",
+    "genius"
+   ],
+   "reading": "",
+   "meaning": "Bạn không phải thiên tài."
+  },
+  {
+   "tokens": [
+    "It",
+    "is",
+    "no",
+    "exaggeration",
+    "to",
+    "call",
+    "him",
+    "a",
+    "genius"
+   ],
+   "reading": "",
+   "meaning": "Nếu gọi anh ấy là thiên tài thì cũng không phải là nói quá."
+  },
+  {
+   "tokens": [
+    "You",
+    "oughtn't",
+    "to",
+    "go",
+    "out",
+    "with",
+    "the",
+    "little",
+    "boy",
+    "remaining",
+    "alone"
+   ],
+   "reading": "",
+   "meaning": "Anh không được ra ngoài mà để thằng bé ở nhà một mình như vậy được."
+  }
+ ],
+ "issues": []
+}

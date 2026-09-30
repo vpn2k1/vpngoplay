@@ -1,0 +1,317 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "critically",
+   "meaning": "chỉ trích, trách cứ",
+   "example": "Let's learn the word \"critically\".",
+   "exampleMeaning": "Cùng học từ “critically”: chỉ trích, trách cứ.",
+   "emoji": "",
+   "ipa": "/ˈkrɪtɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accessibility",
+   "meaning": "tính có thể tới được",
+   "example": "Let's learn the word \"accessibility\".",
+   "exampleMeaning": "Cùng học từ “accessibility”: tính có thể tới được.",
+   "emoji": "",
+   "ipa": "/ˌæksɛsəˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "refinery",
+   "meaning": "nhà máy luyện tinh (kim loại)",
+   "example": "Let's learn the word \"refinery\".",
+   "exampleMeaning": "Cùng học từ “refinery”: nhà máy luyện tinh (kim loại).",
+   "emoji": "",
+   "ipa": "/rɪˈfaɪnɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "metaphor",
+   "meaning": "phép ẩn dụ",
+   "example": "Let's learn the word \"metaphor\".",
+   "exampleMeaning": "Cùng học từ “metaphor”: phép ẩn dụ.",
+   "emoji": "",
+   "ipa": "/ˈmɛtəfɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conveniently",
+   "meaning": "tiện lợi, thuận tiện",
+   "example": "Let's learn the word \"conveniently\".",
+   "exampleMeaning": "Cùng học từ “conveniently”: tiện lợi, thuận tiện.",
+   "emoji": "",
+   "ipa": "/kənˈvinjəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "polish",
+   "meaning": "nước bóng, nước láng",
+   "example": "The Polish alphabet consists of 32 letters.",
+   "exampleMeaning": "Bảng chữ cái tiếng Ba Lan có 32 chữ cái.",
+   "emoji": "",
+   "ipa": "/ˈpɑlɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "expected",
+   "meaning": "kỳ vọng",
+   "example": "No one expected Tom to win.",
+   "exampleMeaning": "Chẳng ai ngờ rằng Tom sẽ thắng.",
+   "emoji": "",
+   "ipa": "/ɪkˈspɛktəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "saleswoman",
+   "meaning": "chị bán hàng",
+   "example": "Let's learn the word \"saleswoman\".",
+   "exampleMeaning": "Cùng học từ “saleswoman”: chị bán hàng.",
+   "emoji": "",
+   "ipa": "/ˈseɪlzˌwʊmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "compensate",
+   "meaning": "bù, đền bù, bồi thường",
+   "example": "to compensate someone for something",
+   "exampleMeaning": "Đền bù (bồi thường) cho ai về cái gì",
+   "emoji": "",
+   "ipa": "/ˈkɑmpənˌseɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "semicolon",
+   "meaning": "dấu chấm phẩy",
+   "example": "Let's learn the word \"semicolon\".",
+   "exampleMeaning": "Cùng học từ “semicolon”: dấu chấm phẩy.",
+   "emoji": "",
+   "ipa": "/sˌɛmɪkˈəʊlən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "handout",
+   "meaning": "của bố thí cho ăn mày",
+   "example": "Let's learn the word \"handout\".",
+   "exampleMeaning": "Cùng học từ “handout”: của bố thí cho ăn mày.",
+   "emoji": "",
+   "ipa": "/ˈhænˌdaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conception",
+   "meaning": "quan niệm, nhận thức",
+   "example": "to have a clear conception of",
+   "exampleMeaning": "Có một quan niệm rõ ràng về",
+   "emoji": "",
+   "ipa": "/kənˈsɛpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "snore",
+   "meaning": "ngáy",
+   "example": "to snore oneself into a nightmare",
+   "exampleMeaning": "Vừa nằm mê vừa ngáy khò khò",
+   "emoji": "",
+   "ipa": "/ˈsnɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "aircrew",
+   "meaning": "toàn thể người lái và nhân viên trên máy bay",
+   "example": "Let's learn the word \"aircrew\".",
+   "exampleMeaning": "Cùng học từ “aircrew”: toàn thể người lái và nhân viên trên máy bay.",
+   "emoji": "",
+   "ipa": "/ˈɛrˌkru/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hygiene",
+   "meaning": "vệ sinh",
+   "example": "Let's learn the word \"hygiene\".",
+   "exampleMeaning": "Cùng học từ “hygiene”: vệ sinh.",
+   "emoji": "",
+   "ipa": "/ˈhaɪˌdʒin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "imagery",
+   "meaning": "hình tượng",
+   "example": "Shakespeare's poetry is rich in imagery",
+   "exampleMeaning": "Thơ Sếch-xpia giàu hình tượng",
+   "emoji": "",
+   "ipa": "/ˈɪmədʒri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "partition",
+   "meaning": "vùng",
+   "example": "Let's learn the word \"partition\".",
+   "exampleMeaning": "Cùng học từ “partition”: vùng.",
+   "emoji": "",
+   "ipa": "/pɑrˈtɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reed",
+   "meaning": "sậy",
+   "example": "Let's learn the word \"reed\".",
+   "exampleMeaning": "Cùng học từ “reed”: sậy.",
+   "emoji": "",
+   "ipa": "/riːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reflective",
+   "meaning": "phản chiếu (nhất là ánh sáng)",
+   "example": "Let's learn the word \"reflective\".",
+   "exampleMeaning": "Cùng học từ “reflective”: phản chiếu (nhất là ánh sáng).",
+   "emoji": "",
+   "ipa": "/rɪˈflɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jaw",
+   "meaning": "hàm, quai hàm",
+   "example": "Let's learn the word \"jaw\".",
+   "exampleMeaning": "Cùng học từ “jaw”: hàm, quai hàm.",
+   "emoji": "",
+   "ipa": "/ˈdʒɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Do",
+    "I",
+    "snore"
+   ],
+   "reading": "",
+   "meaning": "Tôi có ngáy không?"
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "snore"
+   ],
+   "reading": "",
+   "meaning": "Bạn ngáy đúng không?"
+  },
+  {
+   "tokens": [
+    "I",
+    "expected",
+    "worse"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã mong chờ điều tệ hơn."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "Polish",
+    "horse"
+   ],
+   "reading": "",
+   "meaning": "Tôi là một con ngựa Ba Lan."
+  },
+  {
+   "tokens": [
+    "Showers",
+    "are",
+    "expected",
+    "on",
+    "Tuesday"
+   ],
+   "reading": "",
+   "meaning": "Dự kiến có mưa rào vào thứ Ba."
+  }
+ ],
+ "issues": []
+}

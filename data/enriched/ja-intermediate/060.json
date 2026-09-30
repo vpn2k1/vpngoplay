@@ -1,0 +1,326 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "先々週",
+   "meaning": "2 weeks before (EN)",
+   "example": "「先々週」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先々週”: 2 weeks before (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "東西",
+   "meaning": "East and West (EN)",
+   "example": "「東西」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “東西”: East and West (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "力強い",
+   "meaning": "hùng mạnh, hùng cường, mạnh mẽ",
+   "example": "「力強い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “力強い”: hùng mạnh, hùng cường, mạnh mẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "しっぽ",
+   "meaning": "đuôi (thú vật, chim, cá... )",
+   "example": "「しっぽ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “しっぽ”: đuôi (thú vật, chim, cá... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出勤",
+   "meaning": "sự dự, sự có mặt",
+   "example": "列車で出勤しますか？",
+   "exampleMeaning": "Bạn có thể đến văn phòng bằng xe hỏa không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "執筆",
+   "meaning": "sự viết, sự viết tay, sự viết lách",
+   "example": "「執筆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “執筆”: sự viết, sự viết tay, sự viết lách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "クーラー",
+   "meaning": "máy điều hòa không khí",
+   "example": "クーラーが故障してしまった。",
+   "exampleMeaning": "Cái điều hòa hỏng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "裏返す",
+   "meaning": "đảo",
+   "example": "「裏返す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裏返す”: đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全般",
+   "meaning": "bình an vô sự, không suy suyển",
+   "example": "「全般」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “全般”: bình an vô sự, không suy suyển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中年",
+   "meaning": "trung niên",
+   "example": "「中年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中年”: trung niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "折角",
+   "meaning": "chờ đợi đã lâu",
+   "example": "「折角」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “折角”: chờ đợi đã lâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "リットル",
+   "meaning": "lít",
+   "example": "「リットル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “リットル”: lít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "白髪",
+   "meaning": "white or grey hair (EN)",
+   "example": "店の外では白髪の男性がアコーディオンを弾いていました。",
+   "exampleMeaning": "Bên ngoài cửa hàng, có một người đàn ông tóc trắng đang chơi đàn ác-coóc-đê-ông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "にこにこ",
+   "meaning": "trong thư điện tử và các nhóm tin máy tính",
+   "example": "「にこにこ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “にこにこ”: trong thư điện tử và các nhóm tin máy tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手首",
+   "meaning": "cổ tay",
+   "example": "「手首」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “手首”: cổ tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直前",
+   "meaning": "just before (EN)",
+   "example": "私が家を出る直前に、小雨が降り始めた。",
+   "exampleMeaning": "Ngay trước khi tôi ra khỏi nhà thì trời đã bắt đầu có mưa nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "名物",
+   "meaning": "đặc sản",
+   "example": "「名物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名物”: đặc sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "サイレン",
+   "meaning": "tiên chim (thần thoại Hy lạp)",
+   "example": "サイレントムービーは嫌いです。",
+   "exampleMeaning": "Tôi ghét phim câm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物語る",
+   "meaning": "nói, nói với, nói lên",
+   "example": "「物語る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物語る”: nói, nói với, nói lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目立つ",
+   "meaning": "dễ thấy, rõ ràng, đập ngay vào mắt",
+   "example": "「目立つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目立つ”: dễ thấy, rõ ràng, đập ngay vào mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "クーラー",
+    "が",
+    "故障",
+    "して",
+    "しまった"
+   ],
+   "reading": "クーラーがこしょうしてしまった",
+   "meaning": "Cái điều hòa hỏng rồi."
+  },
+  {
+   "tokens": [
+    "空腹に",
+    "まずい",
+    "もの",
+    "なし"
+   ],
+   "reading": "くうふくにまずいものなし",
+   "meaning": "Khi đói thì ăn gì cũng ngon."
+  },
+  {
+   "tokens": [
+    "犬",
+    "も",
+    "歩けば",
+    "棒",
+    "に",
+    "当たる"
+   ],
+   "reading": "いぬもあるけばぼうにあたる",
+   "meaning": "Ai giàu ba họ, ai khó ba đời."
+  },
+  {
+   "tokens": [
+    "情け",
+    "は",
+    "人",
+    "の",
+    "ため",
+    "ならず"
+   ],
+   "reading": "なさけはひとのためならず",
+   "meaning": "Thiện giả thiện báo, ác giả ác báo."
+  },
+  {
+   "tokens": [
+    "君",
+    "には",
+    "嘘",
+    "は",
+    "つけない",
+    "よ"
+   ],
+   "reading": "きみにはうそはつけないよ",
+   "meaning": "Tôi không thể nói dối bạn được đâu."
+  }
+ ],
+ "issues": []
+}

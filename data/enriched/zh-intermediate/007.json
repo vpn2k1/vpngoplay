@@ -1,0 +1,323 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "网址",
+   "meaning": "địa chỉ website",
+   "example": "我们来学“网址”这个词。",
+   "exampleMeaning": "Cùng học từ “网址”: địa chỉ website.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngzhǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吸管",
+   "meaning": "pi-pép",
+   "example": "我们来学“吸管”这个词。",
+   "exampleMeaning": "Cùng học từ “吸管”: pi-pép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窗台",
+   "meaning": "bệ cửa sổ",
+   "example": "我们来学“窗台”这个词。",
+   "exampleMeaning": "Cùng học từ “窗台”: bệ cửa sổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuāngtái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "松树",
+   "meaning": "cây thông / cây thông",
+   "example": "我们来学“松树”这个词。",
+   "exampleMeaning": "Cùng học từ “松树”: cây thông / cây thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sōngshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "多样",
+   "meaning": "nhiều loại",
+   "example": "多种多样",
+   "exampleMeaning": "Nhiều kiểu nhiều loại; nhiều mẫu mã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学年",
+   "meaning": "năm học",
+   "example": "我们来学“学年”这个词。",
+   "exampleMeaning": "Cùng học từ “学年”: năm học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuénián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "售货员",
+   "meaning": "người bán hàng",
+   "example": "我们来学“售货员”这个词。",
+   "exampleMeaning": "Cùng học từ “售货员”: người bán hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòuhuòyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电灯",
+   "meaning": "đèn điện",
+   "example": "好像我成电灯泡了。我该走了。",
+   "exampleMeaning": "Tôi là người thứ ba rùi, vậy phải đi thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàndēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "口语",
+   "meaning": "khẩu ngữ",
+   "example": "这样做，一来可以认识更多的中国朋友，二来可以锻炼你的口语。",
+   "exampleMeaning": "Làm thế này, một là có thể biết nhiều bạn bè Trung Quốc, hai là có thể luyện khẩu ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "近代",
+   "meaning": "cận đại",
+   "example": "我们来学“近代”这个词。",
+   "exampleMeaning": "Cùng học từ “近代”: cận đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìndài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "疗养",
+   "meaning": "an dưỡng",
+   "example": "他在海滨疗养了半年。",
+   "exampleMeaning": "Anh ấy ở Hải Định an dưỡng nửa năm trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liáoyǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寒假",
+   "meaning": "nghỉ đông",
+   "example": "寒假放两个多礼拜",
+   "exampleMeaning": "Nghỉ đông hơn hai tuần",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hánjià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "矮小",
+   "meaning": "thấp bé",
+   "example": "身材矮小。",
+   "exampleMeaning": "Dáng người thấp bé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ǎixiǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "粗心",
+   "meaning": "sơ ý",
+   "example": "粗心大意。",
+   "exampleMeaning": "Sơ ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cūxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刷子",
+   "meaning": "bàn chải",
+   "example": "一把刷子。",
+   "exampleMeaning": "Một cái bàn chải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毫米",
+   "meaning": "milimét",
+   "example": "我们来学“毫米”这个词。",
+   "exampleMeaning": "Cùng học từ “毫米”: milimét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háomǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厘米",
+   "meaning": "centimeter",
+   "example": "我们来学“厘米”这个词。",
+   "exampleMeaning": "Cùng học từ “厘米”: centimeter.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "límǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高铁",
+   "meaning": "đường sắt cao tốc",
+   "example": "我们来学“高铁”这个词。",
+   "exampleMeaning": "Cùng học từ “高铁”: đường sắt cao tốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāotiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电动车",
+   "meaning": "xe đạp điện",
+   "example": "我们来学“电动车”这个词。",
+   "exampleMeaning": "Cùng học từ “电动车”: xe đạp điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàndòngchē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毫升",
+   "meaning": "mi li lít",
+   "example": "我们来学“毫升”这个词。",
+   "exampleMeaning": "Cùng học từ “毫升”: mi li lít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "háoshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "好像",
+    "我",
+    "成",
+    "电灯泡",
+    "了",
+    "我",
+    "该",
+    "走",
+    "了"
+   ],
+   "reading": "hǎoxiàng wǒ chéng diàndēngpào le wǒ gāi zǒu le",
+   "meaning": "Tôi là người thứ ba rùi, vậy phải đi thôi."
+  },
+  {
+   "tokens": [
+    "他们",
+    "彼此",
+    "相爱"
+   ],
+   "reading": "tāmen bǐcǐ xiāngài",
+   "meaning": "Hai người họ yêu nhau."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "和",
+    "我",
+    "约会",
+    "好",
+    "吗"
+   ],
+   "reading": "hé wǒ yuēhuì hǎo ma",
+   "meaning": "Em có thể đi hẹn hò với tôi không?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,328 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "determined",
+   "meaning": "nhất định, nhất quyết, quả quyết",
+   "example": "He was determined to finish the work at any cost.",
+   "exampleMeaning": "Tiếng việt",
+   "emoji": "",
+   "ipa": "/dɪˈtɜrmənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "modernization",
+   "meaning": "sự hiện đại hoá",
+   "example": "Let's learn the word \"modernization\".",
+   "exampleMeaning": "Cùng học từ “modernization”: sự hiện đại hoá.",
+   "emoji": "",
+   "ipa": "/ˌmɑdɜrnaɪˈzeɪʃə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "route",
+   "meaning": "lệnh hành quân",
+   "example": "to give the route",
+   "exampleMeaning": "Ra lệnh hành quân",
+   "emoji": "",
+   "ipa": "/ˈraʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prospect",
+   "meaning": "hứa hẹn (mỏ)",
+   "example": "this opened a new prospect to his mind",
+   "exampleMeaning": "Cái đó mở ra một viễn tượng mới trong trí nó",
+   "emoji": "",
+   "ipa": "/ˈprɑspɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inert",
+   "meaning": "(hoá học) trơ",
+   "example": "Let's learn the word \"inert\".",
+   "exampleMeaning": "Cùng học từ “inert”: (hoá học) trơ.",
+   "emoji": "",
+   "ipa": "/ˌɪˈnɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "squad",
+   "meaning": "tổ, đội",
+   "example": "Let's learn the word \"squad\".",
+   "exampleMeaning": "Cùng học từ “squad”: tổ, đội.",
+   "emoji": "",
+   "ipa": "/ˈskwɑd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bun",
+   "meaning": "bánh bao nhân nho",
+   "example": "Let's learn the word \"bun\".",
+   "exampleMeaning": "Cùng học từ “bun”: bánh bao nhân nho.",
+   "emoji": "",
+   "ipa": "/ˈbən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entertaining",
+   "meaning": "giải trí, vui thú, thú vị",
+   "example": "Let's learn the word \"entertaining\".",
+   "exampleMeaning": "Cùng học từ “entertaining”: giải trí, vui thú, thú vị.",
+   "emoji": "",
+   "ipa": "/ˌɛntərˈteɪnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "integrate",
+   "meaning": "hợp thành một thể thống nhất",
+   "example": "Let's learn the word \"integrate\".",
+   "exampleMeaning": "Cùng học từ “integrate”: hợp thành một thể thống nhất.",
+   "emoji": "",
+   "ipa": "/ˈɪnəˌɡreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "programming",
+   "meaning": "lập trình",
+   "example": "PHP is a web programming language.",
+   "exampleMeaning": "PHP là một ngôn ngữ lập trình web.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌɡræmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "contradict",
+   "meaning": "cãi lại, phủ nhận",
+   "example": "the statements of the witnessess contradict each other",
+   "exampleMeaning": "Lời khai của các nhân chứng mâu thuẫn nhau",
+   "emoji": "",
+   "ipa": "/ˌkɑntrəˈdɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tough",
+   "meaning": "khó, hắc búa, gay go (vấn đề",
+   "example": "a tough spirit",
+   "exampleMeaning": "Một tinh thần bất khuất",
+   "emoji": "",
+   "ipa": "/ˈtəf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dwarf",
+   "meaning": "lùn, lùn tịt",
+   "example": "Let's learn the word \"dwarf\".",
+   "exampleMeaning": "Cùng học từ “dwarf”: lùn, lùn tịt.",
+   "emoji": "",
+   "ipa": "/ˈdwɔrf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "respectably",
+   "meaning": "một cách đáng trọng, một cách đáng kính",
+   "example": "Let's learn the word \"respectably\".",
+   "exampleMeaning": "Cùng học từ “respectably”: một cách đáng trọng, một cách đáng kính.",
+   "emoji": "",
+   "ipa": "/riˈspɛktəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "irrelevant",
+   "meaning": "không thích đáng",
+   "example": "Let's learn the word \"irrelevant\".",
+   "exampleMeaning": "Cùng học từ “irrelevant”: không thích đáng.",
+   "emoji": "",
+   "ipa": "/ˌɪˈrɛləvənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ceiling",
+   "meaning": "trần (nhà... )",
+   "example": "If you don't have anything to do, look at the ceiling of your room.",
+   "exampleMeaning": "Nếu bạn không có việc gì để làm, hãy nhìn lên trần nhà phòng bạn.",
+   "emoji": "",
+   "ipa": "/ˈsilɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ideology",
+   "meaning": "ý thức hệ, tư tưởng",
+   "example": "Let's learn the word \"ideology\".",
+   "exampleMeaning": "Cùng học từ “ideology”: ý thức hệ, tư tưởng.",
+   "emoji": "",
+   "ipa": "/ˌaɪdiˈɑlədʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "determiner",
+   "meaning": "từ hạn định",
+   "example": "Let's learn the word \"determiner\".",
+   "exampleMeaning": "Cùng học từ “determiner”: từ hạn định.",
+   "emoji": "",
+   "ipa": "/dɪˈtɜrˌmaɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "broadband",
+   "meaning": "dải sóng rộng",
+   "example": "Let's learn the word \"broadband\".",
+   "exampleMeaning": "Cùng học từ “broadband”: dải sóng rộng.",
+   "emoji": "",
+   "ipa": "/ˈbrɔdˌbænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "epidemic",
+   "meaning": "dịch",
+   "example": "an epidemic disease",
+   "exampleMeaning": "Bệnh dịch",
+   "emoji": "",
+   "ipa": "/ˌɛpəˈdɛmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It'll",
+    "be",
+    "tough"
+   ],
+   "reading": "",
+   "meaning": "Nó sẽ khó khăn đấy."
+  },
+  {
+   "tokens": [
+    "This",
+    "is",
+    "the",
+    "shortest",
+    "route"
+   ],
+   "reading": "",
+   "meaning": "Đây là tuyến đường ngắn nhất."
+  },
+  {
+   "tokens": [
+    "The",
+    "restaurant",
+    "has",
+    "a",
+    "white",
+    "ceiling"
+   ],
+   "reading": "",
+   "meaning": "Nhà hàng này có trần nhà màu trắng."
+  },
+  {
+   "tokens": [
+    "The",
+    "programming",
+    "language",
+    "Java",
+    "is",
+    "highly",
+    "versatile"
+   ],
+   "reading": "",
+   "meaning": "Ngôn ngữ lập trình Java rất đa năng."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "getting",
+    "pretty",
+    "good",
+    "at",
+    "programming",
+    "in",
+    "JavaScript"
+   ],
+   "reading": "",
+   "meaning": "Tôi khá giỏi trong việc lập trình JavaScript."
+  }
+ ],
+ "issues": []
+}

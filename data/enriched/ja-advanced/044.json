@@ -1,0 +1,332 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "取り替え",
+   "meaning": "sự trao đổi, sự đổi chác",
+   "example": "古いタイヤを新しいのと取り替えて。",
+   "exampleMeaning": "Hãy thay lốp cũ bằng lốp mới đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "情け",
+   "meaning": "sự thông cảm",
+   "example": "情けは人のためならず。",
+   "exampleMeaning": "Thiện giả thiện báo, ác giả ác báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "苗",
+   "meaning": "cây trồng từ hạt",
+   "example": "「苗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “苗”: cây trồng từ hạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うんざり",
+   "meaning": "chán ngắt, tẻ, nhạt nhẽo",
+   "example": "君にはうんざりしたよ。",
+   "exampleMeaning": "Tôi chán ngấy anh rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "取り調べる",
+   "meaning": "điều tra nghiên cứu",
+   "example": "「取り調べる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り調べる”: điều tra nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "なんだかんだ",
+   "meaning": "something or other (EN)",
+   "example": "「なんだかんだ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なんだかんだ”: something or other (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "畜産",
+   "meaning": "ngành chăn nuôi",
+   "example": "「畜産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “畜産”: ngành chăn nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扱い",
+   "meaning": "sự đối xử, sự đối đãi",
+   "example": "この問題をどうやって扱いましょうか。",
+   "exampleMeaning": "Chúng ta giải quyết vấn đề này như thế nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "赤らむ",
+   "meaning": "đỏ",
+   "example": "「赤らむ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “赤らむ”: đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り巻く",
+   "meaning": "bao quanh, vây quanh",
+   "example": "経済社会を取り巻く環境の変化が著しい。",
+   "exampleMeaning": "Sự thay đổi bối cảnh xã hội rất rõ rệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "及ぶ",
+   "meaning": "chìa ra, đưa (tay) ra",
+   "example": "「及ぶ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “及ぶ”: chìa ra, đưa (tay) ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "構える",
+   "meaning": "đặt",
+   "example": "「構える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “構える”: đặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "緩める",
+   "meaning": "nới ra, làm lỏng ra, làm long ra",
+   "example": "「緩める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “緩める”: nới ra, làm lỏng ra, làm long ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "パチンコ",
+   "meaning": "súng cao su",
+   "example": "「パチンコ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “パチンコ”: súng cao su.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保養",
+   "meaning": "sự hồi phục (sức khoẻ)",
+   "example": "「保養」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “保養”: sự hồi phục (sức khoẻ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "縁側",
+   "meaning": "hiên, hè",
+   "example": "「縁側」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “縁側”: hiên, hè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進み",
+   "meaning": "sự tiến tới, sự tiến bộ",
+   "example": "「進み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進み”: sự tiến tới, sự tiến bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内訳",
+   "meaning": "tin tức, sự hỏng máy (ô tô, xe lửa), sự sút sức",
+   "example": "「内訳」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内訳”: tin tức, sự hỏng máy (ô tô, xe lửa), sự sút sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "学説",
+   "meaning": "thuyết, học thuyết",
+   "example": "「学説」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学説”: thuyết, học thuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "セクション",
+   "meaning": "mục (trong \"mục lục\")",
+   "example": "「セクション」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “セクション”: mục (trong \"mục lục\").",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ここ",
+    "で",
+    "働く",
+    "の",
+    "もう",
+    "うんざり",
+    "だ"
+   ],
+   "reading": "わたしはここではたらくのもううんざりだ",
+   "meaning": "Tôi đã chán làm việc ở đây rồi."
+  },
+  {
+   "tokens": [
+    "旅",
+    "は",
+    "道連れ",
+    "世",
+    "は",
+    "情け"
+   ],
+   "reading": "たびはみちづれよはなさけ",
+   "meaning": "Hành trình cần bạn đường, cuộc sống cần bạn đời."
+  },
+  {
+   "tokens": [
+    "君",
+    "には",
+    "うんざり",
+    "した",
+    "よ"
+   ],
+   "reading": "きみにはうんざりしたよ",
+   "meaning": "Tôi chán ngấy anh rồi."
+  },
+  {
+   "tokens": [
+    "情け",
+    "は",
+    "人",
+    "の",
+    "ため",
+    "ならず"
+   ],
+   "reading": "なさけはひとのためならず",
+   "meaning": "Thiện giả thiện báo, ác giả ác báo."
+  },
+  {
+   "tokens": [
+    "古い",
+    "タイヤ",
+    "を",
+    "新しい",
+    "の",
+    "と",
+    "取り替えて"
+   ],
+   "reading": "ふるいタイヤをあたらしいのととりかえて",
+   "meaning": "Hãy thay lốp cũ bằng lốp mới đi."
+  }
+ ],
+ "issues": []
+}

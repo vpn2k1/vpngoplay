@@ -1,0 +1,328 @@
+{
+ "lesson": 73,
+ "draft": true,
+ "words": [
+  {
+   "term": "状态",
+   "meaning": "trạng thái",
+   "example": "病人处于昏迷状态",
+   "exampleMeaning": "Bệnh nhân ở vào tình trạng hôn mê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàngtài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "群",
+   "meaning": "bầy, đàn (vật nuôi)",
+   "example": "每件事都要依靠群众。",
+   "exampleMeaning": "Mỗi việc đều phải dựa vào quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qún",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "照",
+   "meaning": "theo, theo như",
+   "example": "这个照相机是德国制造的。",
+   "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "环境",
+   "meaning": "môi trường, cảnh vật chung quanh, sự bao quanh",
+   "example": "环境优美",
+   "exampleMeaning": "Cảnh vật chung quanh tươi đẹp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huánjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火",
+   "meaning": "nóng",
+   "example": "我正好赶上了最后一班火车。",
+   "exampleMeaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng.",
+   "emoji": "🔥",
+   "ipa": "",
+   "pinyin": "huǒ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "建立",
+   "meaning": "xây dựng",
+   "example": "建立新的工业基地。",
+   "exampleMeaning": "Xây dựng khu vực công nghiệp mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "更加",
+   "meaning": "càng",
+   "example": "公家的书，应该更加爱护。",
+   "exampleMeaning": "Sách công càng cần phải giữ gìn tốt hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gèngjiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "老板",
+   "meaning": "ông chủ",
+   "example": "他被工厂的老板解雇。",
+   "exampleMeaning": "Anh ấy đã bị ông chủ công xưởng sa thải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎobǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "市场",
+   "meaning": "thị trường",
+   "example": "悲观主义的论调，越来越没有市场。",
+   "exampleMeaning": "Luận điệu của chủ nghĩa bi quan ngày càng không có trên thị trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "必要",
+   "meaning": "cần thiết",
+   "example": "开展批评和自我批评是十分必要的。",
+   "exampleMeaning": "Thúc đẩy phê bình và tự phê bình là vô cùng cần thiết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìyào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "祝",
+   "meaning": "chúc",
+   "example": "我祝你考試順利。",
+   "exampleMeaning": "Tôi chúc bạn thi cử thuận lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "危险",
+   "meaning": "nguy hiểm",
+   "example": "山路又陡又窄，攀登的时候非常危险。",
+   "exampleMeaning": "Đường núi vừa dốc vừa hẹp, rất nguy hiểm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēixiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "管理",
+   "meaning": "trông coi",
+   "example": "管理国家大事",
+   "exampleMeaning": "Quản lý quốc gia đại sự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎnlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "乱",
+   "meaning": "loạn",
+   "example": "会场内，掌声、哨声、喊声、笑声乱成了一锅粥。",
+   "exampleMeaning": "Trong hội trường, tiếng vỗ tay, tiếng còi, tiếng hò hét, tiếng cười hỗn loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "适合",
+   "meaning": "phù hợp",
+   "example": "过去的经验未必全都适合当前的情况。",
+   "exampleMeaning": "Những kinh nghiệm đã qua chưa chắc đã phù hợp với tình hình hiện tại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "正式",
+   "meaning": "chính thức",
+   "example": "正式工作人员",
+   "exampleMeaning": "Nhân viên làm việc chính thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "救",
+   "meaning": "cứu, cứu thoát, cứu nguy",
+   "example": "叫救护车。",
+   "exampleMeaning": "Gọi cấp cứu đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "从来",
+   "meaning": "chưa hề",
+   "example": "这种事我从来没听说过。",
+   "exampleMeaning": "Việc như thế này trước nay tôi chưa hề nghe thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cónglái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "图",
+   "meaning": "bức tranh, bức ảnh, bức vẽ",
+   "example": "汤姆问了玛丽谁画了图片。",
+   "exampleMeaning": "Tom đã hỏi mary ai đã vẽ bức tranh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "实际上",
+   "meaning": "như một vấn đề của thực tế",
+   "example": "我们来学“实际上”这个词。",
+   "exampleMeaning": "Cùng học từ “实际上”: như một vấn đề của thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíjìshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "状态",
+    "真",
+    "的",
+    "很",
+    "好"
+   ],
+   "reading": "tā zhuàngtài zhēn de hěn hǎo",
+   "meaning": "Anh ta có một cơ thể thật đẹp."
+  },
+  {
+   "tokens": [
+    "今晚",
+    "我",
+    "要",
+    "和",
+    "我",
+    "的",
+    "老板",
+    "吃饭"
+   ],
+   "reading": "jīnwǎn wǒ yào hé wǒ de lǎobǎn chīfàn",
+   "meaning": "Tối nay tôi muốn cùng sếp ăn cơm."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "张",
+    "近照",
+    "吗"
+   ],
+   "reading": "nàshi yī zhāng jìnzhào ma",
+   "meaning": "Tấm hình này có mới không?"
+  },
+  {
+   "tokens": [
+    "我",
+    "祝",
+    "你",
+    "考试",
+    "顺利"
+   ],
+   "reading": "wǒ zhù nǐ kǎoshì shùnlì",
+   "meaning": "Tôi chúc bạn thi cử thuận lợi."
+  },
+  {
+   "tokens": [
+    "他",
+    "才",
+    "从",
+    "图书馆",
+    "回来"
+   ],
+   "reading": "tā cái cóng túshūguǎn huílai",
+   "meaning": "Anh ấy vừa mới ở thư viện về."
+  }
+ ],
+ "issues": []
+}

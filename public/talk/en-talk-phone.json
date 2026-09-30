@@ -1,0 +1,83 @@
+{
+ "id": "en-talk-phone",
+ "lang": "en",
+ "order": 7,
+ "level": "B1",
+ "icon": "phone",
+ "title": "Gọi điện hẹn gặp",
+ "scene": "Bạn gọi điện đến một công ty để hẹn gặp chị Smith.",
+ "roles": {
+  "A": "Thư ký",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Good morning, Bright Solutions. How can I help you?",
+   "meaning": "Chào buổi sáng, công ty Bright Solutions xin nghe. Tôi giúp gì được ạ?"
+  },
+  {
+   "role": "B",
+   "text": "Hello, this is Minh from ABC Company. May I speak to Ms Smith?",
+   "meaning": "Xin chào, tôi là Minh ở công ty ABC. Cho tôi nói chuyện với chị Smith được không?"
+  },
+  {
+   "role": "A",
+   "text": "I'm sorry, she's in a meeting right now.",
+   "meaning": "Rất tiếc, chị ấy đang họp."
+  },
+  {
+   "role": "B",
+   "text": "I see. Could I leave a message?",
+   "meaning": "Tôi hiểu rồi. Tôi để lại lời nhắn được không?"
+  },
+  {
+   "role": "A",
+   "text": "Of course. Go ahead.",
+   "meaning": "Tất nhiên. Anh cứ nói."
+  },
+  {
+   "role": "B",
+   "text": "I'd like to arrange a meeting next week.",
+   "meaning": "Tôi muốn sắp xếp một cuộc gặp vào tuần sau."
+  },
+  {
+   "role": "A",
+   "text": "Is Tuesday afternoon convenient for you?",
+   "meaning": "Chiều thứ Ba có tiện cho anh không?"
+  },
+  {
+   "role": "B",
+   "text": "Tuesday works for me. How about two o'clock?",
+   "meaning": "Thứ Ba được. Hai giờ thì sao?"
+  },
+  {
+   "role": "A",
+   "text": "Two o'clock is fine. I'll let her know.",
+   "meaning": "Hai giờ được ạ. Tôi sẽ báo lại chị ấy."
+  },
+  {
+   "role": "B",
+   "text": "Thank you. I look forward to it.",
+   "meaning": "Cảm ơn. Tôi rất mong đến buổi gặp."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "May I speak to Ms Smith?",
+   "meaning": "Cho tôi nói chuyện với chị Smith."
+  },
+  {
+   "text": "Could I leave a message?",
+   "meaning": "Tôi để lại lời nhắn được không?"
+  },
+  {
+   "text": "Is Tuesday convenient for you?",
+   "meaning": "Thứ Ba có tiện cho bạn không?"
+  },
+  {
+   "text": "I'll let her know.",
+   "meaning": "Tôi sẽ báo lại cho cô ấy."
+  }
+ ]
+}

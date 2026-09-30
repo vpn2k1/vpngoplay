@@ -1,0 +1,332 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "灭",
+   "meaning": "tắt",
+   "example": "不管侵略者什么时候来, 都必被消灭。",
+   "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支援",
+   "meaning": "chi viện",
+   "example": "支援灾区",
+   "exampleMeaning": "Chi viện cho vùng bị nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "线路",
+   "meaning": "tuyến",
+   "example": "公共汽车线路。",
+   "exampleMeaning": "Tuyến xe buýt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "血管",
+   "meaning": "huyết quản",
+   "example": "我们来学“血管”这个词。",
+   "exampleMeaning": "Cùng học từ “血管”: huyết quản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuèguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "热线",
+   "meaning": "tuyến hồng ngoại",
+   "example": "我们来学“热线”这个词。",
+   "exampleMeaning": "Cùng học từ “热线”: tuyến hồng ngoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "娃娃",
+   "meaning": "em bé",
+   "example": "我们来学“娃娃”这个词。",
+   "exampleMeaning": "Cùng học từ “娃娃”: em bé.",
+   "emoji": "👶",
+   "ipa": "",
+   "pinyin": "wáwa",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "关联",
+   "meaning": "liên quan",
+   "example": "这可是关联着生命安全的大事。",
+   "exampleMeaning": "Việc lớn này thật sự có liên quan đến sự an toàn tính mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānlián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "捡",
+   "meaning": "nhặt",
+   "example": "捡了东西要送交招领处。",
+   "exampleMeaning": "Nhặt được của rơi phải giao cho phòng giữ đồ đánh mất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "金钱",
+   "meaning": "tiền bạc",
+   "example": "时间就是金钱。",
+   "exampleMeaning": "Thời gian là vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "消灭",
+   "meaning": "diệt vong, làm cho diệt vong, trừ",
+   "example": "在今年头3个月中，我军消灭敌军五万五。",
+   "exampleMeaning": "Trong 3 tháng đầu năm nay, quân ta đã diệt 5 vạn rưởi quân địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāomiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "街头",
+   "meaning": "đầu phố",
+   "example": "十字街头。",
+   "exampleMeaning": "Ngã tư đầu phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiētóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惊人",
+   "meaning": "giật gân",
+   "example": "惊人的消息。",
+   "exampleMeaning": "Tin động trời; tin giật gân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "路过",
+   "meaning": "đi qua",
+   "example": "从北京到上海，路过济南。",
+   "exampleMeaning": "Từ bắc Kinh đi đến Thượng Hải phải đi qua Tế Nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海洋",
+   "meaning": "biển",
+   "example": "海洋渔业。",
+   "exampleMeaning": "Nghề đánh cá biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎiyáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "金融",
+   "meaning": "tài chính",
+   "example": "我们来学“金融”这个词。",
+   "exampleMeaning": "Cùng học từ “金融”: tài chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首席",
+   "meaning": "cấp cao nhất",
+   "example": "首席代表。",
+   "exampleMeaning": "Đại biểu cấp cao nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuxí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成分",
+   "meaning": "thành phần",
+   "example": "减轻了心里不安的成分。",
+   "exampleMeaning": "Giảm bớt những nỗi bất an trong lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "同一",
+   "meaning": "chung",
+   "example": "向同一目标前进。",
+   "exampleMeaning": "Tiến lên theo mục tiêu chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "循环",
+   "meaning": "tuần hoàn",
+   "example": "血液循环",
+   "exampleMeaning": "Sự tuần hoàn của máu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xúnhuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "从没",
+   "meaning": "không bao giờ (trong quá khứ) / không bao giờ làm",
+   "example": "我们来学“从没”这个词。",
+   "exampleMeaning": "Cùng học từ “从没”: không bao giờ (trong quá khứ) / không bao giờ làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngméi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "管",
+    "侵略者",
+    "什么时候",
+    "来",
+    "都",
+    "必",
+    "被",
+    "消灭"
+   ],
+   "reading": "bù guǎn qīnlüèzhě shénmeshíhou lái dōu bì bèi xiāomiè",
+   "meaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt"
+  },
+  {
+   "tokens": [
+    "时间",
+    "就是",
+    "金钱"
+   ],
+   "reading": "shíjiān jiùshì jīnqián",
+   "meaning": "Thời gian là vàng."
+  },
+  {
+   "tokens": [
+    "每",
+    "件",
+    "事",
+    "都",
+    "要",
+    "依靠",
+    "群众"
+   ],
+   "reading": "měi jiàn shì dōu yào yīkào qúnzhòng",
+   "meaning": "Mỗi việc đều phải dựa vào quần chúng."
+  },
+  {
+   "tokens": [
+    "她",
+    "既",
+    "学",
+    "越语",
+    "又",
+    "学",
+    "英语"
+   ],
+   "reading": "tā jì xué yuèyǔ yòu xué yīngyǔ",
+   "meaning": "Chị ấy đã học tiếng Việt lại học cả tiếng Anh nữa."
+  },
+  {
+   "tokens": [
+    "这些",
+    "蚕",
+    "的",
+    "吐丝",
+    "量",
+    "很",
+    "大"
+   ],
+   "reading": "zhèxiē cán de tǔsī liáng hěn dà",
+   "meaning": "Lượng tơ nhả ra của những con tằm này rất lớn."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,325 @@
+{
+ "lesson": 92,
+ "draft": true,
+ "words": [
+  {
+   "term": "相差",
+   "meaning": "khác nhau",
+   "example": "我与他长的相差不多。",
+   "exampleMeaning": "Tôi và anh ấy lớn lên không khác nhau mấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngchà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "电网",
+   "meaning": "hàng rào điện",
+   "example": "我们来学“电网”这个词。",
+   "exampleMeaning": "Cùng học từ “电网”: hàng rào điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "师范",
+   "meaning": "gương sáng",
+   "example": "为世师范。",
+   "exampleMeaning": "Nêu gương sáng cho đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīfàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "友善",
+   "meaning": "thân mật",
+   "example": "素相友善",
+   "exampleMeaning": "Từ trước đến giờ luôn thân mật với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒushàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出走",
+   "meaning": "trốn ra",
+   "example": "我们来学“出走”这个词。",
+   "exampleMeaning": "Cùng học từ “出走”: trốn ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浮现",
+   "meaning": "hiện ra",
+   "example": "往事又浮现在眼前。",
+   "exampleMeaning": "Chuyện xưa lại hiện ra trước mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "兴奋剂",
+   "meaning": "thuốc kích thích",
+   "example": "我们来学“兴奋剂”这个词。",
+   "exampleMeaning": "Cùng học từ “兴奋剂”: thuốc kích thích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīngfènjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "站立",
+   "meaning": "đứng",
+   "example": "他默默地站立在烈士墓前。",
+   "exampleMeaning": "Anh ấy đứng trầm lặng trước mộ các liệt sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惊慌",
+   "meaning": "hoang mang",
+   "example": "惊慌失措。",
+   "exampleMeaning": "Hoang mang không biết làm thế nào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnghuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "账单",
+   "meaning": "hoá đơn",
+   "example": "按账单付款",
+   "exampleMeaning": "Trả tiền theo hoá đơn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàngdān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肥料",
+   "meaning": "phân",
+   "example": "化学肥料",
+   "exampleMeaning": "Phân bón hoá học",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "féiliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "执照",
+   "meaning": "giấy phép",
+   "example": "施工执照",
+   "exampleMeaning": "Giấy phép thi công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhízhào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "短缺",
+   "meaning": "thiếu",
+   "example": "物资短缺",
+   "exampleMeaning": "Thiếu hụt vật tư",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duǎnquē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "菊花",
+   "meaning": "cây hoa cúc",
+   "example": "我们来学“菊花”这个词。",
+   "exampleMeaning": "Cùng học từ “菊花”: cây hoa cúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "júhuā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "滋润",
+   "meaning": "tưới đều",
+   "example": "雨后初晴，空气滋润。",
+   "exampleMeaning": "Sau cơn mưa trời sáng, không khí ẩm ướt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zīrùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "书写",
+   "meaning": "viết",
+   "example": "书写标语。",
+   "exampleMeaning": "Viết biểu ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūxiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寄托",
+   "meaning": "gửi gắm",
+   "example": "把孩子寄托在邻居家里。",
+   "exampleMeaning": "Gởi nhờ con bên nhà hàng xóm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìtuō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手术室",
+   "meaning": "phòng mổ",
+   "example": "我们来学“手术室”这个词。",
+   "exampleMeaning": "Cùng học từ “手术室”: phòng mổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒushùshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "趁着",
+   "meaning": "tận dụng lợi thế của",
+   "example": "我们来学“趁着”这个词。",
+   "exampleMeaning": "Cùng học từ “趁着”: tận dụng lợi thế của.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chènzhe",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歉意",
+   "meaning": "áy náy",
+   "example": "深致歉意。",
+   "exampleMeaning": "Thật sự áy náy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiànyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "拥抱",
+    "汤姆"
+   ],
+   "reading": "nǐ zhēn de yōngbào tāngmǔ",
+   "meaning": "Cậu thật sự ôm Tom?"
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "应该",
+    "放弃"
+   ],
+   "reading": "kěnéng nǐ yīnggāi fàngqì",
+   "meaning": "Có lẽ bạn nên bỏ cuộc."
+  },
+  {
+   "tokens": [
+    "他",
+    "放弃",
+    "了",
+    "所有",
+    "希望"
+   ],
+   "reading": "tā fàngqì le suǒyǒu xīwàng",
+   "meaning": "Anh ta từ bỏ mọi hy vọng"
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  }
+ ],
+ "issues": []
+}

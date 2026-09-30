@@ -1,0 +1,329 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "进",
+   "meaning": "vào, đi vào",
+   "example": "她进屋前擦了鞋。",
+   "exampleMeaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "写",
+   "meaning": "viết",
+   "example": "昨天，我收到一封用英语写的信。",
+   "exampleMeaning": "Hôm qua, tôi có nhận một bức thư viết bằng tiếng Anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiě",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "国家",
+   "meaning": "nước, quốc gia",
+   "example": "这个国家的军事力量很先进。",
+   "exampleMeaning": "Lực lượng quân sự nước này rất hiện đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guójiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "您",
+   "meaning": "anh, chị, ông",
+   "example": "您可以随便去哪儿。",
+   "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nín",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "电话",
+   "meaning": "điện thoại",
+   "example": "他半夜打了个电话给我。",
+   "exampleMeaning": "Anh ấy đã gọi cho tôi một cuộc vào lúc nửa đêm.",
+   "emoji": "☎",
+   "ipa": "",
+   "pinyin": "diànhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "女",
+   "meaning": "đàn bà con gái, nữ",
+   "example": "为女儿婚事，很伤脑筋。",
+   "exampleMeaning": "Vì chuyện hôn sự của con gái mà rất đau đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǚ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "送",
+   "meaning": "cho, biếu, tặng",
+   "example": "何不送给她一些花?",
+   "exampleMeaning": "Sao bạn không thử tặng cho cô ấy ít hoa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "分",
+   "meaning": "lường trước",
+   "example": "我十分反对这个项目。",
+   "exampleMeaning": "Tôi hoàn toàn phản đối kế hoạch.",
+   "emoji": "➗",
+   "ipa": "",
+   "pinyin": "fēn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "笑",
+   "meaning": "cười, cười vui, cười cợt",
+   "example": "這是我聽過最好笑的笑話。",
+   "exampleMeaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "女人",
+   "meaning": "đàn bà, phụ nữ",
+   "example": "他把自己化裝成一個女人。",
+   "exampleMeaning": "Anh ấy đã đóng giả làm con gái.",
+   "emoji": "👩",
+   "ipa": "",
+   "pinyin": "nǚrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "小时",
+   "meaning": "giờ, tiếng (đồng hồ)",
+   "example": "这工作花了我五小时。",
+   "exampleMeaning": "Tôi đã tốn năm giờ đồng hồ cho công việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎoshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "有些",
+   "meaning": "có",
+   "example": "我有些旧书想捐给图书馆。",
+   "exampleMeaning": "Tôi có một ít sách cũ muốn tặng cho thư viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuxiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "帮",
+   "meaning": "giúp, giúp đỡ",
+   "example": "贸易帮助国家发展。",
+   "exampleMeaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "日",
+   "meaning": "ngày",
+   "example": "它一定是個生日蛋糕。",
+   "exampleMeaning": "Đây chắc hẳn là một cái bánh sinh nhật.",
+   "emoji": "☀",
+   "ipa": "",
+   "pinyin": "rì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "别人",
+   "meaning": "người khác",
+   "example": "他只是责怪别人，从不自责。",
+   "exampleMeaning": "Anh chỉ trách người chứ không trách mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biéren",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "站",
+   "meaning": "trạm, điểm, đồn",
+   "example": "他说完就站起来走了。",
+   "exampleMeaning": "Nói xong,anh đứng dậy ra về.",
+   "emoji": "🚉",
+   "ipa": "",
+   "pinyin": "zhàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "路",
+   "meaning": "loại, mạch, tuyến đường",
+   "example": "我该走这条路，还是那条路？",
+   "exampleMeaning": "Tôi nên đi đường này hay đi đường kia?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "男人",
+   "meaning": "đàn ông",
+   "example": "我抓到了這個男人正在偷錢。",
+   "exampleMeaning": "Tôi đã bắt kịp thằng ăn cắp tiền này.",
+   "emoji": "👨",
+   "ipa": "",
+   "pinyin": "nánrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "正在",
+   "meaning": "đang",
+   "example": "我正在跟谁讲话？",
+   "exampleMeaning": "Tôi đang nói chuyện với ai đây?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngzài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "门",
+   "meaning": "môn (học cùng một thầy)",
+   "example": "办事的时候走后门，是很不好的。",
+   "exampleMeaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mén",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "正在",
+    "学",
+    "日文"
+   ],
+   "reading": "wǒ zhèngzài xué rìwén",
+   "meaning": "Tôi đang học tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "他",
+    "把",
+    "自己",
+    "化装",
+    "成",
+    "一",
+    "个",
+    "女人"
+   ],
+   "reading": "tā bǎ zìjǐ huàzhuāng chéng yī gè nǚrén",
+   "meaning": "Anh ấy đã đóng giả làm con gái."
+  },
+  {
+   "tokens": [
+    "这个",
+    "国家",
+    "的",
+    "军事力量",
+    "很",
+    "先进"
+   ],
+   "reading": "zhège guójiā de jūnshìlìliang hěn xiānjìn",
+   "meaning": "Lực lượng quân sự nước này rất hiện đại."
+  },
+  {
+   "tokens": [
+    "他",
+    "对",
+    "日",
+    "本",
+    "的",
+    "历史",
+    "十分",
+    "有兴趣"
+   ],
+   "reading": "tā duì rì běn de lìshǐ shífēn yǒuxìngqù",
+   "meaning": "Anh ấy cực kì quan tâm tới lịch sử Nhật Bản."
+  },
+  {
+   "tokens": [
+    "贸易",
+    "帮助",
+    "国家",
+    "发展"
+   ],
+   "reading": "màoyì bāngzhù guójiā fāzhǎn",
+   "meaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia."
+  }
+ ],
+ "issues": []
+}

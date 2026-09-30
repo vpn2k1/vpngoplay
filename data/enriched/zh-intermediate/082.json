@@ -1,0 +1,335 @@
+{
+ "lesson": 82,
+ "draft": true,
+ "words": [
+  {
+   "term": "看好",
+   "meaning": "khả quan",
+   "example": "旅游市场的前景看好。",
+   "exampleMeaning": "Thị trường du lịch có vẻ khả quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kānhǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "占据",
+   "meaning": "chiếm",
+   "example": "占据地盘",
+   "exampleMeaning": "Chiếm địa bàn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哲学",
+   "meaning": "triết học",
+   "example": "我们来学“哲学”这个词。",
+   "exampleMeaning": "Cùng học từ “哲学”: triết học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhéxué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管道",
+   "meaning": "ống dẫn",
+   "example": "管道系统。",
+   "exampleMeaning": "Hệ thống ống dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎndào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "薯条",
+   "meaning": "khoai tây chiên",
+   "example": "我们来学“薯条”这个词。",
+   "exampleMeaning": "Cùng học từ “薯条”: khoai tây chiên.",
+   "emoji": "🍟",
+   "ipa": "",
+   "pinyin": "shǔtiáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凶手",
+   "meaning": "hung thủ",
+   "example": "我们来学“凶手”这个词。",
+   "exampleMeaning": "Cùng học từ “凶手”: hung thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiōngshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赶上",
+   "meaning": "kịp",
+   "example": "我正好赶上了最后一班火车。",
+   "exampleMeaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嘉宾",
+   "meaning": "khách quý",
+   "example": "嘉宾满座",
+   "exampleMeaning": "Khách quí ngồi kín hết chỗ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiābīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时装",
+   "meaning": "trang phục mốt",
+   "example": "我们来学“时装”这个词。",
+   "exampleMeaning": "Cùng học từ “时装”: trang phục mốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shízhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "掏",
+   "meaning": "móc",
+   "example": "在墙上掏一个洞。",
+   "exampleMeaning": "Khoét một lỗ trên tường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赌博",
+   "meaning": "canh bạc",
+   "example": "政治赌博",
+   "exampleMeaning": "Canh bạc chính trị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǔbó",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "本质",
+   "meaning": "tính cách (của con người)",
+   "example": "他本质很好。",
+   "exampleMeaning": "Tính cách anh ấy rất tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "股东",
+   "meaning": "cổ đông",
+   "example": "我们来学“股东”这个词。",
+   "exampleMeaning": "Cùng học từ “股东”: cổ đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔdōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "残酷",
+   "meaning": "tàn khốc",
+   "example": "手段十分残酷。",
+   "exampleMeaning": "Thủ đoạn vô cùng tàn khốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cánkù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实践",
+   "meaning": "thực tiễn",
+   "example": "实践出真知。",
+   "exampleMeaning": "Có thực tiễn mới thực sự hiểu biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好转",
+   "meaning": "chuyển biến tốt đẹp",
+   "example": "形势好转。",
+   "exampleMeaning": "Tình hình chuyển biến tốt đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎozhuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "窗口",
+   "meaning": "cánh cửa",
+   "example": "了解世界的窗口",
+   "exampleMeaning": "Cánh cửa nhìn ra thế giới",
+   "emoji": "🪟",
+   "ipa": "",
+   "pinyin": "chuāngkǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "债",
+   "meaning": "nợ",
+   "example": "血债要用血来偿。",
+   "exampleMeaning": "Nợ máu phải trả bằng máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指数",
+   "meaning": "luỹ thừa",
+   "example": "我们来学“指数”这个词。",
+   "exampleMeaning": "Cùng học từ “指数”: luỹ thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "极端",
+   "meaning": "vô cùng",
+   "example": "各走极端。",
+   "exampleMeaning": "Mỗi người mỗi ngã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíduān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "正好",
+    "赶上",
+    "了",
+    "最",
+    "后",
+    "一",
+    "班",
+    "火车"
+   ],
+   "reading": "wǒ zhènghǎo gǎnshàng le zuì hòu yī bān huǒchē",
+   "meaning": "Tôi vừa kịp lúc bắt chuyến xe lửa cuối cùng."
+  },
+  {
+   "tokens": [
+    "我",
+    "努力",
+    "地",
+    "改善",
+    "我",
+    "的",
+    "成绩"
+   ],
+   "reading": "wǒ nǔlì de gǎishàn wǒ de chéngjì",
+   "meaning": "Tôi nổ lực cải thiện thành tích của tôi."
+  },
+  {
+   "tokens": [
+    "灯光",
+    "太",
+    "暗",
+    "了",
+    "我",
+    "没法",
+    "阅读"
+   ],
+   "reading": "dēngguāng tài àn le wǒ méifǎ yuèdú",
+   "meaning": "Đèn tối quá, tôi không thể đọc sách."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "我们",
+    "想",
+    "学",
+    "一些",
+    "日文",
+    "歌曲"
+   ],
+   "reading": "wǒmen xiǎng xué yīxiē rìwén gēqǔ",
+   "meaning": "Chúng tôi muốn học những bài hát tiếng Nhật."
+  }
+ ],
+ "issues": []
+}

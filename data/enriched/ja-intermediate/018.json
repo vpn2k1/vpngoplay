@@ -1,0 +1,330 @@
+{
+ "lesson": 18,
+ "draft": true,
+ "words": [
+  {
+   "term": "切れ",
+   "meaning": "vải",
+   "example": "ネタ切れになりそうだよ。",
+   "exampleMeaning": "Tôi sắp cạn ý tưởng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無事",
+   "meaning": "sự an toàn, sự chắc chắn",
+   "example": "トム！無事でよかった！",
+   "exampleMeaning": "Tom! May là bạn không sao!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "罹る",
+   "meaning": "chịu, bị",
+   "example": "「罹る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “罹る”: chịu, bị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面",
+   "meaning": "mặt",
+   "example": "それは面白い。",
+   "exampleMeaning": "Cái đó nhìn hấp dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "至る",
+   "meaning": "đến, tới, đi đến",
+   "example": "「至る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “至る”: đến, tới, đi đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "案外",
+   "meaning": "bất ngờ, thình lình, đột xuất",
+   "example": "「案外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “案外”: bất ngờ, thình lình, đột xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "越す",
+   "meaning": "đi qua, vượt",
+   "example": "「越す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “越す”: đi qua, vượt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "砂漠",
+   "meaning": "công lao, giá trị",
+   "example": "「砂漠」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “砂漠”: công lao, giá trị.",
+   "emoji": "🏜",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "借り",
+   "meaning": "nợ",
+   "example": "ハンマー借りてもいい？",
+   "exampleMeaning": "Cho tôi mượn cái búa được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "調子",
+   "meaning": "điều kiện",
+   "example": "オッケー。いいよ、その調子だ。",
+   "exampleMeaning": "OK. Được rồi, cứ vậy mà tiếp tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "引越し",
+   "meaning": "hoạt động, cảm động, gợi mối thương tâm",
+   "example": "「引越し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引越し”: hoạt động, cảm động, gợi mối thương tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "共通",
+   "meaning": "chung",
+   "example": "英語は世界共通語のようなものだ。",
+   "exampleMeaning": "Tiếng Anh cứ như thể là ngôn ngữ chung của thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "宿泊",
+   "meaning": "chỗ trọ, chỗ tạm trú",
+   "example": "トムとメアリーは高級ホテルに宿泊した。",
+   "exampleMeaning": "Tom và Mary đã ở trong một khách sạn cao cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "掲示",
+   "meaning": "thông tri, yết thị, thông cáo",
+   "example": "「掲示」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “掲示”: thông tri, yết thị, thông cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "したがって",
+   "meaning": "bởi vậy, cho nên, vì thế",
+   "example": "トムは離婚したがっていた。",
+   "exampleMeaning": "Tom đã muốn ly hôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "引退",
+   "meaning": "sự ẩn dật",
+   "example": "「引退」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引退”: sự ẩn dật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "急速",
+   "meaning": "nhanh, nhanh chóng, mau lẹ",
+   "example": "日本経済は急速に成長した。",
+   "exampleMeaning": "Kinh tế Nhật Bản đang phát triển nhanh chóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "感じ",
+   "meaning": "tri giác, cảm giác",
+   "example": "私は自由だと感じている。",
+   "exampleMeaning": "Tôi cảm thấy mình rất tự do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "馬鹿",
+   "meaning": "dại dột, ngu xuẩn",
+   "example": "トムは馬鹿じゃない。",
+   "exampleMeaning": "Tom không ngu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "氏",
+   "meaning": "họ",
+   "example": "鈴木氏は偉大な科学者だ。",
+   "exampleMeaning": "Ông Suzuki là một nhà khoa học vĩ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "地面",
+    "は",
+    "雪",
+    "で",
+    "覆われている"
+   ],
+   "reading": "じめんはゆきでおおわれている",
+   "meaning": "Mặt đất đang phủ đầy tuyết."
+  },
+  {
+   "tokens": [
+    "日本経済",
+    "は",
+    "急速に",
+    "成長",
+    "した"
+   ],
+   "reading": "にっぽんけいざいはきゅうそくにせいちょうした",
+   "meaning": "Kinh tế Nhật Bản đang phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "良心",
+    "の",
+    "とがめ",
+    "を",
+    "感じた"
+   ],
+   "reading": "かれはりょうしんのとがめをかんじた",
+   "meaning": "Anh ta cắn rứt lương tâm."
+  },
+  {
+   "tokens": [
+    "君の",
+    "言う",
+    "こと",
+    "に",
+    "全面的に",
+    "賛成",
+    "だ"
+   ],
+   "reading": "きみのいうことにぜんめんてきにさんせいだ",
+   "meaning": "Tôi hoàn toàn tán thành điều bạn nói."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "そんな",
+    "馬鹿な",
+    "こと",
+    "は",
+    "しない"
+   ],
+   "reading": "かれはそんなばかなことはしない",
+   "meaning": "Anh ấy sẽ không làm chuyện ngu xuẩn như thế."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,334 @@
+{
+ "lesson": 71,
+ "draft": true,
+ "words": [
+  {
+   "term": "登机",
+   "meaning": "lên máy bay",
+   "example": "我们来学“登机”这个词。",
+   "exampleMeaning": "Cùng học từ “登机”: lên máy bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēngjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉴别",
+   "meaning": "phân biệt",
+   "example": "鉴别古物。",
+   "exampleMeaning": "Giám định đồ cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "背面",
+   "meaning": "mặt trái",
+   "example": "我们来学“背面”这个词。",
+   "exampleMeaning": "Cùng học từ “背面”: mặt trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèimiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恰恰相反",
+   "meaning": "hoàn toàn trái ngược",
+   "example": "我们来学“恰恰相反”这个词。",
+   "exampleMeaning": "Cùng học từ “恰恰相反”: hoàn toàn trái ngược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiàqiàxiāngfǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直径",
+   "meaning": "đường kính",
+   "example": "我们来学“直径”这个词。",
+   "exampleMeaning": "Cùng học từ “直径”: đường kính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíjìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "过往",
+   "meaning": "qua lại",
+   "example": "他们俩是老同学，过往很密。",
+   "exampleMeaning": "Hai người họ là bạn học cũ, qua lại rất thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòwǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "换取",
+   "meaning": "đổi lấy",
+   "example": "用工业品换取农产品。",
+   "exampleMeaning": "Dùng hàng công nghiệp đổi lấy hàng nông sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好评",
+   "meaning": "khen ngợi",
+   "example": "这次演出获得观众的好评。",
+   "exampleMeaning": "Lần diễn này được khán giả khen ngợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎopíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "忽悠",
+   "meaning": "chập chờn",
+   "example": "渔船上的灯火忽悠 忽悠的。",
+   "exampleMeaning": "Ánh đèn trên thuyền đánh cá cứ chập chờn.",
+   "emoji": "🪨",
+   "ipa": "",
+   "pinyin": "hūyou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心血",
+   "meaning": "tâm huyết",
+   "example": "费尽心血。",
+   "exampleMeaning": "Dốc hết tâm huyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "忧虑",
+   "meaning": "lo lắng",
+   "example": "他们为日常生活开支高昂而忧虑。",
+   "exampleMeaning": "Họ lo lắng vì giá cả sinh hoạt hàng ngày đắt đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōulǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "显而易见",
+   "meaning": "rõ ràng dễ thấy",
+   "example": "我们来学“显而易见”这个词。",
+   "exampleMeaning": "Cùng học từ “显而易见”: rõ ràng dễ thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnéryìjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "防卫",
+   "meaning": "phòng vệ",
+   "example": "加强防卫力量",
+   "exampleMeaning": "Tăng cường lực lượng phòng vệ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "养老金",
+   "meaning": "hưu bổng",
+   "example": "我们来学“养老金”这个词。",
+   "exampleMeaning": "Cùng học từ “养老金”: hưu bổng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnglǎojīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预先",
+   "meaning": "trước",
+   "example": "预先声明",
+   "exampleMeaning": "Tuyên bố trước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùxiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人气",
+   "meaning": "nhân khí",
+   "example": "我们来学“人气”这个词。",
+   "exampleMeaning": "Cùng học từ “人气”: nhân khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénqì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "墓地",
+   "meaning": "bãi tha ma",
+   "example": "我们来学“墓地”这个词。",
+   "exampleMeaning": "Cùng học từ “墓地”: bãi tha ma.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùdì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "看样子",
+   "meaning": "ra mòi",
+   "example": "我们来学“看样子”这个词。",
+   "exampleMeaning": "Cùng học từ “看样子”: ra mòi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànyàngzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "侵害",
+   "meaning": "làm hại",
+   "example": "防止害虫侵害农作物。",
+   "exampleMeaning": "Phòng chống sâu bệnh làm hại hoa màu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnhài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "表白",
+   "meaning": "bày tỏ",
+   "example": "表白诚意",
+   "exampleMeaning": "Bày tỏ thành ý",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎobái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "关",
+    "了",
+    "客厅",
+    "的",
+    "灯",
+    "了",
+    "吗"
+   ],
+   "reading": "nǐ guān le kètīng de dēng le ma",
+   "meaning": "Anh đã tắt đèn phòng khách chưa?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "把",
+    "我",
+    "当成",
+    "正常",
+    "人"
+   ],
+   "reading": "bù yào zài bǎ wǒ dàngchéng zhèngcháng rén",
+   "meaning": "Đừng coi tôi như người \"bình thường\"!"
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  }
+ ],
+ "issues": []
+}

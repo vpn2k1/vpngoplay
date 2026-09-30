@@ -1,0 +1,334 @@
+{
+ "lesson": 132,
+ "draft": true,
+ "words": [
+  {
+   "term": "見事",
+   "meaning": "rực rỡ, tráng lệ, lộng lẫy",
+   "example": "その翻訳は原作に見事に忠実であった。",
+   "exampleMeaning": "Bản dịch đó rất sát với nguyên tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "必ずしも",
+   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "example": "正直は必ずしも最上の策とは限らない。",
+   "exampleMeaning": "Thật thà không phải lúc nào cũng là cha quỷ quái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "契機",
+   "meaning": "cơ hội, thời cơ",
+   "example": "「契機」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “契機”: cơ hội, thời cơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ラケット",
+   "meaning": "racquet",
+   "example": "私はこのラケットを２ヶ月前に買った。",
+   "exampleMeaning": "Tôi mua cái vợt này 2 tháng trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "絶滅",
+   "meaning": "sự phá hoại, sự phá huỷ, sự tiêu diệt",
+   "example": "これらの動物は、絶滅の危機に瀕しています。",
+   "exampleMeaning": "Những loài động vật này đang đứng trên bờ vực tuyệt chủng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "表現",
+   "meaning": "sự vắt, sự ép, sự bóp",
+   "example": "彼女の魅力は言葉では表現できない。",
+   "exampleMeaning": "KHông gì có thể tả xiết sức hấp dẫn của cô ấy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "隠れる",
+   "meaning": "lột da",
+   "example": "「隠れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “隠れる”: lột da.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "思い出",
+   "meaning": "kỷ niệm, sự tưởng nhớ",
+   "example": "彼らの名前が思い出せなかった。",
+   "exampleMeaning": "Tôi không thể nhớ nổi tên của họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スター",
+   "meaning": "sao, ngôi sao, tinh tú",
+   "example": "好きな映画スターは誰？",
+   "exampleMeaning": "Ngôi sao điện ảnh mà bạn yêu thích là ai?",
+   "emoji": "⭐",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "向ける",
+   "meaning": "vót nhọn (bút chì... )",
+   "example": "「向ける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “向ける”: vót nhọn (bút chì... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逮捕",
+   "meaning": "sự bắt giữ",
+   "example": "トムは月曜日の朝に逮捕された。",
+   "exampleMeaning": "Tom bị bắt vào sáng thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "夫人",
+   "meaning": "vợ",
+   "example": "「夫人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夫人”: vợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発射",
+   "meaning": "sự đốt cháy",
+   "example": "「発射」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発射”: sự đốt cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "訓",
+   "meaning": "bài học",
+   "example": "私はその犬を芸当ができるように訓練した。",
+   "exampleMeaning": "Tôi đã dạy chú chó đó làm trò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飽きる",
+   "meaning": "chán, ngán",
+   "example": "「飽きる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “飽きる”: chán, ngán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いらいら",
+   "meaning": "sự làm phát cáu, sự chọc tức",
+   "example": "君は僕をいらいらさせる。",
+   "exampleMeaning": "Mày làm tao tức quá!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "方法",
+   "meaning": "phương pháp, cách thức",
+   "example": "これは真に最善の方法だ。",
+   "exampleMeaning": "Đây là phương pháp thích hợp nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "助手",
+   "meaning": "người giúp đỡ",
+   "example": "朝鮮語のできる助手が必要です。",
+   "exampleMeaning": "Tôi cần một trợ lý biết nói tiếng Triều Tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暖める",
+   "meaning": "nóng: có nhiệt độ cao",
+   "example": "「暖める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暖める”: nóng: có nhiệt độ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "資源",
+   "meaning": "của cải",
+   "example": "カナダは森林資源が豊富である。",
+   "exampleMeaning": "Canada sở hữu tài nguyên rừng giàu có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "いつ",
+    "帰れる",
+    "か",
+    "必ずしも",
+    "よく",
+    "は",
+    "わからない"
+   ],
+   "reading": "いつかえれるかかならずしもよくはわからない",
+   "meaning": "Tôi không rõ khi nào tôi sẽ quay trở lại."
+  },
+  {
+   "tokens": [
+    "彼らの",
+    "名前",
+    "が",
+    "思い出せなかった"
+   ],
+   "reading": "かれらのなまえがおもいだせなかった",
+   "meaning": "Tôi không thể nhớ nổi tên của họ."
+  },
+  {
+   "tokens": [
+    "彼女の",
+    "魅力",
+    "は",
+    "言葉",
+    "で",
+    "は",
+    "表現",
+    "できない"
+   ],
+   "reading": "かのじょのみりょくはことばではひょうげんできない",
+   "meaning": "KHông gì có thể tả xiết sức hấp dẫn của cô ấy"
+  },
+  {
+   "tokens": [
+    "禁煙",
+    "する",
+    "ために",
+    "どんな",
+    "方法",
+    "を",
+    "使いました",
+    "か"
+   ],
+   "reading": "きんえんするためにどんなほうほうをつかいましたか",
+   "meaning": "Bạn đã dùng cách nào để cai thuốc lá?"
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "車",
+    "の",
+    "運転",
+    "方法",
+    "を",
+    "知らない"
+   ],
+   "reading": "わたしはくるまのうんてんほうほうをしらない",
+   "meaning": "Tôi không biết lái xe."
+  }
+ ],
+ "issues": []
+}

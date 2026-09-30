@@ -1,0 +1,84 @@
+{
+ "id": "en-talk-doctor",
+ "lang": "en",
+ "order": 6,
+ "level": "B1",
+ "icon": "doctor",
+ "title": "Đi khám bệnh",
+ "scene": "Bạn bị ốm và đến gặp bác sĩ.",
+ "roles": {
+  "A": "Bác sĩ",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Hello. What seems to be the problem?",
+   "meaning": "Chào bạn. Bạn thấy không khoẻ ở đâu?"
+  },
+  {
+   "role": "B",
+   "text": "I have a sore throat and a headache.",
+   "meaning": "Tôi bị đau họng và đau đầu."
+  },
+  {
+   "role": "A",
+   "text": "How long have you felt like this?",
+   "meaning": "Bạn bị như vậy bao lâu rồi?"
+  },
+  {
+   "role": "B",
+   "text": "Since yesterday morning.",
+   "meaning": "Từ sáng hôm qua."
+  },
+  {
+   "role": "A",
+   "text": "Do you have a fever?",
+   "meaning": "Bạn có bị sốt không?"
+  },
+  {
+   "role": "B",
+   "text": "Yes, a little. I also feel very tired.",
+   "meaning": "Có, hơi sốt. Tôi cũng thấy rất mệt."
+  },
+  {
+   "role": "A",
+   "text": "It looks like a cold. Take this medicine twice a day.",
+   "meaning": "Có vẻ là bị cảm. Uống thuốc này ngày hai lần."
+  },
+  {
+   "role": "B",
+   "text": "Should I take it after meals?",
+   "meaning": "Tôi có nên uống sau bữa ăn không?"
+  },
+  {
+   "role": "A",
+   "text": "Yes. And drink plenty of water and get some rest.",
+   "meaning": "Có. Uống nhiều nước và nghỉ ngơi nhé."
+  },
+  {
+   "role": "B",
+   "text": "Thank you, doctor.",
+   "meaning": "Cảm ơn bác sĩ."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "I have a sore throat.",
+   "meaning": "Tôi bị đau họng."
+  },
+  {
+   "text": "I have a fever.",
+   "meaning": "Tôi bị sốt."
+  },
+  {
+   "text": "I feel dizzy.",
+   "meaning": "Tôi thấy chóng mặt."
+  },
+  {
+   "text": "Take this medicine twice a day.",
+   "meaning": "Uống thuốc này ngày hai lần.",
+   "note": "Uống thuốc là “take medicine”, không dùng “drink”."
+  }
+ ]
+}

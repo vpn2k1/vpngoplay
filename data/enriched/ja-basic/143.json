@@ -1,0 +1,324 @@
+{
+ "lesson": 143,
+ "draft": true,
+ "words": [
+  {
+   "term": "案",
+   "meaning": "quan niệm, tư tưởng, ý tưởng",
+   "example": "君の案はよさそうだね。",
+   "exampleMeaning": "Ý kiến của bạn nghe được đấy nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "決心",
+   "meaning": "sự xác định, sự định rõ",
+   "example": "彼はすぐに決心した。",
+   "exampleMeaning": "Anh ấy hạ quyết tâm ngay lập tức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "停留所",
+   "meaning": "sự ngừng lại, sư dừng, sự đỗ lại",
+   "example": "「停留所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “停留所”: sự ngừng lại, sư dừng, sự đỗ lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取り上げる",
+   "meaning": "đảm nhiệm",
+   "example": "「取り上げる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り上げる”: đảm nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "馴らす",
+   "meaning": "làm cho hợp thuỷ thổ (cây... )",
+   "example": "「馴らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “馴らす”: làm cho hợp thuỷ thổ (cây... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宿",
+   "meaning": "nhà, chuồng",
+   "example": "やばい、宿題やってない。",
+   "exampleMeaning": "Ôi không, tôi chưa làm bài tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "処理",
+   "meaning": "sự chế biến, sự gia công",
+   "example": "「処理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “処理”: sự chế biến, sự gia công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "添う",
+   "meaning": "đi theo, đi cùng, đi kèm",
+   "example": "「添う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “添う”: đi theo, đi cùng, đi kèm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ジェット機",
+   "meaning": "máy bay phản lực",
+   "example": "「ジェット機」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ジェット機”: máy bay phản lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ピン",
+   "meaning": "ghim, đinh ghim",
+   "example": "ピントがズレている。",
+   "exampleMeaning": "Ảnh này bị out nét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集団",
+   "meaning": "nhóm",
+   "example": "「集団」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “集団”: nhóm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有能",
+   "meaning": "có năng lực, có tài",
+   "example": "「有能」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “有能”: có năng lực, có tài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "影響",
+   "meaning": "ảnh hưởng, tác dụng",
+   "example": "その考え方はかなりの人に影響を考えました。",
+   "exampleMeaning": "Cách suy nghĩ đó đã gây ảnh hưởng tới khá nhiều người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "革",
+   "meaning": "da thuộc",
+   "example": "革張りのソファにするか？布張りのソファにするか？",
+   "exampleMeaning": "Chúng ta chọn loại ghế sofa nào đây? Sofa da hay là sofa vải?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "衣料",
+   "meaning": "quần áo, y phục",
+   "example": "「衣料」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “衣料”: quần áo, y phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原",
+   "meaning": "đồng bằng",
+   "example": "最高裁は原判決をくつがえしました。",
+   "exampleMeaning": "Tòa án Tối cao đã đảo ngược phán quyết ban đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "広まる",
+   "meaning": "trải, căng, giăng ra",
+   "example": "「広まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “広まる”: trải, căng, giăng ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "サービス",
+   "meaning": "ban, vụ, sở",
+   "example": "サービスにはご満足いただけましたか？",
+   "exampleMeaning": "Quý khách có hài lòng với dịch vụ của chúng tôi không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "酒",
+   "meaning": "cồn",
+   "example": "酒が入れば知恵が出ていく。",
+   "exampleMeaning": "Rượu vào lời ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恋人",
+   "meaning": "người yêu, người ham thích",
+   "example": "トムとは友達以上恋人未満の関係です。",
+   "exampleMeaning": "Tom với tôi có mối quan hệ trên tình bạn dưới tình yêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "ピント",
+    "が",
+    "ズレている"
+   ],
+   "reading": "ピントがズレている",
+   "meaning": "Ảnh này bị out nét."
+  },
+  {
+   "tokens": [
+    "宿題",
+    "が",
+    "たくさん",
+    "ある"
+   ],
+   "reading": "しゅくだいがたくさんある",
+   "meaning": "Tôi có nhiều bài tập."
+  },
+  {
+   "tokens": [
+    "君の",
+    "案",
+    "は",
+    "よさそう",
+    "だ",
+    "ね"
+   ],
+   "reading": "きみのあんはよさそうだね",
+   "meaning": "Ý kiến của bạn nghe được đấy nhỉ."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "私の",
+    "宿題",
+    "を",
+    "しています"
+   ],
+   "reading": "わたしはわたしのしゅくだいをしています",
+   "meaning": "Tôi đang làm bài tập về nhà."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "もう",
+    "宿題",
+    "を",
+    "済ませました"
+   ],
+   "reading": "かれはもうしゅくだいをすませました",
+   "meaning": "Anh ấy đã làm xong bài tập về nhà."
+  }
+ ],
+ "issues": []
+}

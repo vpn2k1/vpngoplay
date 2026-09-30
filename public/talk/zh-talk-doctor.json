@@ -1,0 +1,98 @@
+{
+ "id": "zh-talk-doctor",
+ "lang": "zh",
+ "order": 6,
+ "level": "HSK3",
+ "icon": "doctor",
+ "title": "Đi khám bệnh",
+ "scene": "Bạn bị ốm và đến bệnh viện khám.",
+ "roles": {
+  "A": "Bác sĩ",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "你哪儿不舒服？",
+   "reading": "Nǐ nǎr bù shūfu?",
+   "meaning": "Bạn thấy khó chịu ở đâu?"
+  },
+  {
+   "role": "B",
+   "text": "我头疼，嗓子也疼。",
+   "reading": "Wǒ tóu téng, sǎngzi yě téng.",
+   "meaning": "Tôi đau đầu, họng cũng đau."
+  },
+  {
+   "role": "A",
+   "text": "发烧吗？",
+   "reading": "Fāshāo ma?",
+   "meaning": "Có sốt không?"
+  },
+  {
+   "role": "B",
+   "text": "有一点儿发烧，三十八度。",
+   "reading": "Yǒu yìdiǎnr fāshāo, sānshíbā dù.",
+   "meaning": "Hơi sốt, 38 độ."
+  },
+  {
+   "role": "A",
+   "text": "这种情况多长时间了？",
+   "reading": "Zhè zhǒng qíngkuàng duō cháng shíjiān le?",
+   "meaning": "Tình trạng này bao lâu rồi?"
+  },
+  {
+   "role": "B",
+   "text": "从昨天晚上开始的。",
+   "reading": "Cóng zuótiān wǎnshang kāishǐ de.",
+   "meaning": "Bắt đầu từ tối hôm qua."
+  },
+  {
+   "role": "A",
+   "text": "你感冒了。这个药一天吃三次，饭后吃。",
+   "reading": "Nǐ gǎnmào le. Zhège yào yì tiān chī sān cì, fàn hòu chī.",
+   "meaning": "Bạn bị cảm rồi. Thuốc này một ngày uống ba lần, uống sau bữa ăn."
+  },
+  {
+   "role": "B",
+   "text": "我需要打针吗？",
+   "reading": "Wǒ xūyào dǎzhēn ma?",
+   "meaning": "Tôi có cần tiêm không?"
+  },
+  {
+   "role": "A",
+   "text": "不用。多喝水，好好儿休息。",
+   "reading": "Búyòng. Duō hē shuǐ, hǎohāor xiūxi.",
+   "meaning": "Không cần. Uống nhiều nước, nghỉ ngơi cho tốt."
+  },
+  {
+   "role": "B",
+   "text": "谢谢医生！",
+   "reading": "Xièxie yīshēng!",
+   "meaning": "Cảm ơn bác sĩ!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "我头疼。",
+   "reading": "Wǒ tóu téng.",
+   "meaning": "Tôi đau đầu."
+  },
+  {
+   "text": "我发烧了。",
+   "reading": "Wǒ fāshāo le.",
+   "meaning": "Tôi bị sốt rồi."
+  },
+  {
+   "text": "一天吃三次。",
+   "reading": "Yì tiān chī sān cì.",
+   "meaning": "Một ngày uống ba lần.",
+   "note": "Tiếng Trung nói “ăn thuốc” (吃药) chứ không nói “uống thuốc”."
+  },
+  {
+   "text": "我对青霉素过敏。",
+   "reading": "Wǒ duì qīngméisù guòmǐn.",
+   "meaning": "Tôi bị dị ứng penicillin."
+  }
+ ]
+}

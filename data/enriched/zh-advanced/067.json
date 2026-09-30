@@ -1,0 +1,328 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "破案",
+   "meaning": "phá án",
+   "example": "限期破案。",
+   "exampleMeaning": "Kỳ hạn phá án.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pòàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "外公",
+   "meaning": "ông ngoại",
+   "example": "我们来学“外公”这个词。",
+   "exampleMeaning": "Cùng học từ “外公”: ông ngoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàigōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丧生",
+   "meaning": "mất mạng",
+   "example": "我们来学“丧生”这个词。",
+   "exampleMeaning": "Cùng học từ “丧生”: mất mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sàngshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乒乓球",
+   "meaning": "bóng bàn",
+   "example": "我们来学“乒乓球”这个词。",
+   "exampleMeaning": "Cùng học từ “乒乓球”: bóng bàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pīngpāngqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平淡",
+   "meaning": "vô vị",
+   "example": "平淡无奇。",
+   "exampleMeaning": "Tầm thường không có gì lạ.",
+   "emoji": "♭",
+   "ipa": "",
+   "pinyin": "píngdàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高压",
+   "meaning": "đàn áp",
+   "example": "反动政权的高压政策。",
+   "exampleMeaning": "Chính sách đàn áp của chính quyền phản động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoyā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "管用",
+   "meaning": "hữu hiệu",
+   "example": "这种药挺管用，吃了就见好。",
+   "exampleMeaning": "Loại thuốc này rất hữu hiệu, uống vào sẽ thấy đỡ ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎnyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推理",
+   "meaning": "suy lý",
+   "example": "我们来学“推理”这个词。",
+   "exampleMeaning": "Cùng học từ “推理”: suy lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "礼仪",
+   "meaning": "lễ nghi",
+   "example": "我们来学“礼仪”这个词。",
+   "exampleMeaning": "Cùng học từ “礼仪”: lễ nghi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐyí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "潜水",
+   "meaning": "lặn",
+   "example": "潜水衣。",
+   "exampleMeaning": "Áo lặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "深情",
+   "meaning": "thâm tình",
+   "example": "无限深情。",
+   "exampleMeaning": "Vô cùng thâm tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凹",
+   "meaning": "chán nản, thất vọng, ngã lòng",
+   "example": "我们来学“凹”这个词。",
+   "exampleMeaning": "Cùng học từ “凹”: chán nản, thất vọng, ngã lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "唠叨",
+   "meaning": "lải nhải",
+   "example": "唠叨半天。",
+   "exampleMeaning": "Lải nhải suốt cả buổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láodao",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "新手",
+   "meaning": "tay mới",
+   "example": "我们来学“新手”这个词。",
+   "exampleMeaning": "Cùng học từ “新手”: tay mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "简短",
+   "meaning": "ngắn gọn",
+   "example": "壁报的文章要简短生动。",
+   "exampleMeaning": "Bài viết của tờ báo tường phải ngắn gọn, sinh động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnduǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风尚",
+   "meaning": "nếp sống",
+   "example": "时代风尚",
+   "exampleMeaning": "Nếp sống thời đại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngshàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转播",
+   "meaning": "tiếp sóng",
+   "example": "转播中央电视台《新闻联播》节目。",
+   "exampleMeaning": "Tiếp sóng chương trình thời sự của đài truyền hình trung ương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnbō",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "积蓄",
+   "meaning": "tích góp",
+   "example": "月月都有积蓄。",
+   "exampleMeaning": "Tháng nào cũng để dành tiền cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīxù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "展出",
+   "meaning": "triển lãm",
+   "example": "我们来学“展出”这个词。",
+   "exampleMeaning": "Cùng học từ “展出”: triển lãm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎnchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管辖",
+   "meaning": "quản lý",
+   "example": "直辖市由国务院直接管辖。",
+   "exampleMeaning": "Thành phố trực thuộc trung ương do Quốc Vụ Viện trực tiếp cai quản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎnxiá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "贸易",
+    "帮助",
+    "国家",
+    "发展"
+   ],
+   "reading": "màoyì bāngzhù guójiā fāzhǎn",
+   "meaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "你",
+    "要",
+    "再",
+    "来",
+    "一块",
+    "蛋糕",
+    "吗"
+   ],
+   "reading": "nǐ yào zài lái yīkuài dàngāo ma",
+   "meaning": "Anh có muốn miếng bánh ngọt khác không?"
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

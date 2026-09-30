@@ -1,0 +1,319 @@
+{
+ "lesson": 49,
+ "draft": true,
+ "words": [
+  {
+   "term": "gene",
+   "meaning": "gen",
+   "example": "Let's learn the word \"gene\".",
+   "exampleMeaning": "Cùng học từ “gene”: gen.",
+   "emoji": "",
+   "ipa": "/ˈdʒin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "terribly",
+   "meaning": "rất",
+   "example": "My puppy died, and I'm terribly upset.",
+   "exampleMeaning": "Vì chú cún của tôi chết rồi cho nên tôi vô cùng đau buồn.",
+   "emoji": "",
+   "ipa": "/ˈtɛrəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "accustom",
+   "meaning": "làm cho quen, tập cho quen",
+   "example": "She found it necessary to accustom her child to getting up early.",
+   "exampleMeaning": "Cô ấy nhận ra điều cần thiết là tập cho bọn trẻ của cô ấy thức dậy sớm.",
+   "emoji": "",
+   "ipa": "/əˈkəstəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "insane",
+   "meaning": "điên, điên cuồng, mất trí",
+   "example": "What do I do if I'm insane?",
+   "exampleMeaning": "Tôi sẽ làm gì nếu tôi phát điên?",
+   "emoji": "",
+   "ipa": "/ˌɪnˈseɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nervousness",
+   "meaning": "tính nóng nảy",
+   "example": "Let's learn the word \"nervousness\".",
+   "exampleMeaning": "Cùng học từ “nervousness”: tính nóng nảy.",
+   "emoji": "",
+   "ipa": "/ˈnɜrvəsnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "frying pan",
+   "meaning": "cái chảo, chảo rán",
+   "example": "Let's learn the word \"frying pan\".",
+   "exampleMeaning": "Cùng học từ “frying pan”: cái chảo, chảo rán.",
+   "emoji": "",
+   "ipa": "/ˈfraɪɪŋ ˈpæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "written",
+   "meaning": "viết ra, được thảo ra",
+   "example": "The letter was written by Tom.",
+   "exampleMeaning": "Lá thư được viết bởi Tom.",
+   "emoji": "",
+   "ipa": "/ˈrɪtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bias",
+   "meaning": "khuynh hướng, sự thiên về",
+   "example": "to have a bias in favour of something",
+   "exampleMeaning": "Có khuynh hướng thiên về cái gì",
+   "emoji": "",
+   "ipa": "/ˈbaɪəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tightly",
+   "meaning": "chặt chẽ",
+   "example": "Let's learn the word \"tightly\".",
+   "exampleMeaning": "Cùng học từ “tightly”: chặt chẽ.",
+   "emoji": "",
+   "ipa": "/ˈtaɪtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "revise",
+   "meaning": "đọc lại, xem lại, duyệt lại",
+   "example": "Let's learn the word \"revise\".",
+   "exampleMeaning": "Cùng học từ “revise”: đọc lại, xem lại, duyệt lại.",
+   "emoji": "",
+   "ipa": "/riˈvaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "emperor",
+   "meaning": "hoàng đế, vua (thiên tử)",
+   "example": "The Emperor prayed for the souls of the deceased.",
+   "exampleMeaning": "Hoàng đế cầu nguyện cho những linh hồn đã khuất.",
+   "emoji": "",
+   "ipa": "/ˈɛmpɜrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dirt",
+   "meaning": "đồ bẩn thỉu, đồ dơ bẩn, đồ dơ dáy",
+   "example": "hands igrained with dirt",
+   "exampleMeaning": "Tay cáu ghét",
+   "emoji": "",
+   "ipa": "/dɜːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "collapse",
+   "meaning": "đổ, sập, sụp",
+   "example": "Let's learn the word \"collapse\".",
+   "exampleMeaning": "Cùng học từ “collapse”: đổ, sập, sụp.",
+   "emoji": "",
+   "ipa": "/kəˈlæps/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "holy",
+   "meaning": "thần thánh",
+   "example": "to live a holy life",
+   "exampleMeaning": "Sống trong sạch",
+   "emoji": "",
+   "ipa": "/ˈhoʊli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "loop",
+   "meaning": "vòng lặp, vòng luân chu",
+   "example": "Let's learn the word \"loop\".",
+   "exampleMeaning": "Cùng học từ “loop”: vòng lặp, vòng luân chu.",
+   "emoji": "",
+   "ipa": "/luːp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gallon",
+   "meaning": "galông",
+   "example": "Let's learn the word \"gallon\".",
+   "exampleMeaning": "Cùng học từ “gallon”: galông.",
+   "emoji": "",
+   "ipa": "/ˈɡælən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "discourage",
+   "meaning": "làm mất hết can đảm, làm chán nản",
+   "example": "Let's learn the word \"discourage\".",
+   "exampleMeaning": "Cùng học từ “discourage”: làm mất hết can đảm, làm chán nản.",
+   "emoji": "",
+   "ipa": "/dɪˈskɜrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thorough",
+   "meaning": "hoàn toàn, hoàn bị, hoàn hảo",
+   "example": "to take a thorough rest",
+   "exampleMeaning": "Hoàn toàn nghỉ ngơi",
+   "emoji": "",
+   "ipa": "/ˈθɜroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "according to",
+   "meaning": "theo, theo như",
+   "example": "Cats are very important, according to cats.",
+   "exampleMeaning": "Theo những chú mèo, mèo rất là quan trọng.",
+   "emoji": "",
+   "ipa": "/əˈkɔrdɪŋ ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "eastern",
+   "meaning": "đông",
+   "example": "Matthew visited eastern and central Algeria.",
+   "exampleMeaning": "Matthew đã ghé thăm miền đông và miền trung của nước Algeria.",
+   "emoji": "",
+   "ipa": "/ˈistɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Society",
+    "is",
+    "insane"
+   ],
+   "reading": "",
+   "meaning": "Xã hội này điên rồi."
+  },
+  {
+   "tokens": [
+    "Her",
+    "skirt",
+    "fits",
+    "tightly"
+   ],
+   "reading": "",
+   "meaning": "Chiếc váy cô ấy mặc khá chật."
+  },
+  {
+   "tokens": [
+    "I've",
+    "missed",
+    "you",
+    "terribly"
+   ],
+   "reading": "",
+   "meaning": "Tôi cực kỳ nhớ cậu."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "terribly",
+    "lonely"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã cực kì cô đơn."
+  },
+  {
+   "tokens": [
+    "I've",
+    "already",
+    "written",
+    "three",
+    "letters"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã viết ba chữ cái rồi."
+  }
+ ],
+ "issues": []
+}

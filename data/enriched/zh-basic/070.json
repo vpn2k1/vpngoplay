@@ -1,0 +1,337 @@
+{
+ "lesson": 70,
+ "draft": true,
+ "words": [
+  {
+   "term": "造成",
+   "meaning": "tạo thành",
+   "example": "我们来学“造成”这个词。",
+   "exampleMeaning": "Cùng học từ “造成”: tạo thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàochéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "某",
+   "meaning": "nào đó",
+   "example": "在某種程度上我能了解你。",
+   "exampleMeaning": "Tôi có thể hiểu bạn ở mức độ nào đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "随",
+   "meaning": "tuỳ",
+   "example": "您可以随便去哪儿。",
+   "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suí",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "支",
+   "meaning": "đội",
+   "example": "他用两手支着头正在想什么。",
+   "exampleMeaning": "Anh ấy hai tay chống cằm đang suy nghĩ gì đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人生",
+   "meaning": "đời người",
+   "example": "人生在世，不属于这个阶级就属于那个阶级。",
+   "exampleMeaning": "Người ta sống trên đời không thuộc về giai cấp này thì thuộc giai cấp khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会议",
+   "meaning": "hội nghị",
+   "example": "中国人民政治协商会议。",
+   "exampleMeaning": "Hội nghị hiệp thương chính trị nhân dân Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "幸福",
+   "meaning": "hạnh phúc",
+   "example": "他们生活得很幸福。",
+   "exampleMeaning": "Họ đã có một cuộc sống hạnh phúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自然",
+   "meaning": "tự nhiên",
+   "example": "如果人類不好好保護大自然，大自然說不定會反過來把人類毀滅。",
+   "exampleMeaning": "Nếu loài người không quan tâm chăm sóc môi trường, môi trường sẽ hủy diệt loài người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìrán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "责任",
+   "meaning": "trách nhiệm",
+   "example": "追究责任",
+   "exampleMeaning": "Truy cứu trách nhiệm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zérèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失去",
+   "meaning": "mất",
+   "example": "失去知觉。",
+   "exampleMeaning": "Mất tri giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赢",
+   "meaning": "thắng",
+   "example": "你是绝对赢不了我的。",
+   "exampleMeaning": "Mày sẽ không bao giờ có thể thắng tao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "报",
+   "meaning": "báo, loan báo, thông tri",
+   "example": "他觉得必须报道这件事。",
+   "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "人民",
+   "meaning": "nhân dân",
+   "example": "他想，如果不好好学习，怎么对得起祖国的人民呢？",
+   "exampleMeaning": "Anh ấy nghĩ, nếu như không học tập cho tốt, làm sao có thể xứng đáng với nhân dân của Tổ quốc đây?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénmín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "步",
+   "meaning": "bước, bước đi",
+   "example": "我军似潮水般大踏步前进。",
+   "exampleMeaning": "Quân ta tiến mạnh như vữ bão.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bù",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "面对",
+   "meaning": "đối mặt",
+   "example": "我们来学“面对”这个词。",
+   "exampleMeaning": "Cùng học từ “面对”: đối mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miànduì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事件",
+   "meaning": "sự kiện",
+   "example": "我们来学“事件”这个词。",
+   "exampleMeaning": "Cùng học từ “事件”: sự kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "压力",
+   "meaning": "áp lực",
+   "example": "舆论的压力",
+   "exampleMeaning": "Áp lực của dư luận",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yālì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "结婚",
+   "meaning": "kết hôn",
+   "example": "汤姆没跟任何人结婚。",
+   "exampleMeaning": "Tom không có lấy bất cứ ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéhūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "由于",
+   "meaning": "bởi, bởi vì, dựa trên",
+   "example": "由于噪音，我们无法入睡。",
+   "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "母亲",
+   "meaning": "mẹ",
+   "example": "我父亲会游泳但我母亲不会。",
+   "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔqīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "赢",
+    "了",
+    "三",
+    "等",
+    "奬"
+   ],
+   "reading": "tā yíng le sān děng jiǎng",
+   "meaning": "Anh ấy đã giành được giải ba."
+  },
+  {
+   "tokens": [
+    "她",
+    "每天",
+    "跑步",
+    "身体",
+    "很",
+    "好"
+   ],
+   "reading": "tā měitiān pǎobù shēntǐ hěn hǎo",
+   "meaning": "Cô ấy chạy bộ mỗi ngày, sức khoẻ rất tốt."
+  },
+  {
+   "tokens": [
+    "在",
+    "某种",
+    "程度",
+    "上",
+    "我",
+    "能",
+    "了解",
+    "你"
+   ],
+   "reading": "zài mǒuzhǒng chéngdù shàng wǒ néng liǎojiě nǐ",
+   "meaning": "Tôi có thể hiểu bạn ở mức độ nào đó."
+  },
+  {
+   "tokens": [
+    "我",
+    "父亲",
+    "会",
+    "游泳",
+    "但",
+    "我",
+    "母亲",
+    "不",
+    "会"
+   ],
+   "reading": "wǒ fùqīn huì yóuyǒng dàn wǒ mǔqīn bù huì",
+   "meaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không."
+  },
+  {
+   "tokens": [
+    "玛丽亚",
+    "带",
+    "着",
+    "她",
+    "的",
+    "狗",
+    "散步",
+    "去",
+    "了"
+   ],
+   "reading": "mǎlìyà dài zhe tā de gǒu sànbù qù le",
+   "meaning": "Maria dắt con chó của cô ấy đi đạo rồi."
+  }
+ ],
+ "issues": []
+}

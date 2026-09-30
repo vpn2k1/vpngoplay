@@ -1,0 +1,320 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "開ける",
+   "meaning": "mở, bắt đầu, khai mạc",
+   "example": "彼はその箱を開けることができなかった。",
+   "exampleMeaning": "Anh ấy đã không thể mở chiếc hộp đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "遅い",
+   "meaning": "muộn, chậm, trễ",
+   "example": "起きなさい、もう遅いよ。",
+   "exampleMeaning": "Dậy đi, muộn rồi đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "車",
+   "meaning": "xe, xe cộ",
+   "example": "彼は車を止めた。",
+   "exampleMeaning": "Anh ta dừng xe lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会社",
+   "meaning": "công ty",
+   "example": "大学を出た後、父の会社に職を得た。",
+   "exampleMeaning": "Sau khi ra trường, tôi đã có được một công việc trong công ty của bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本当",
+   "meaning": "thật, thực, đúng",
+   "example": "本当にごめんなさい。",
+   "exampleMeaning": "Tôi thực sự rất xin lỗi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "向こう",
+   "meaning": "ở xa, ở phía bên kia",
+   "example": "彼女は背が低すぎて塀の向こうがみえなかった。",
+   "exampleMeaning": "Cô ta quá lùn nên không nhìn qua hàng rào được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "牛乳",
+   "meaning": "sữa",
+   "example": "牛乳をいっぱいください。",
+   "exampleMeaning": "Hãy cho tôi nhiều sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "汚い",
+   "meaning": "bẩn thỉu, dơ bẩn, dơ dáy",
+   "example": "その汚い少年は変装した王子だとわかった。",
+   "exampleMeaning": "Hóa ra cậu bé bẩn thỉu đó là một hoàng tử đang cải trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鳴く",
+   "meaning": "kêu, vang tiếng, kêu vang",
+   "example": "「鳴く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鳴く”: kêu, vang tiếng, kêu vang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "石鹸",
+   "meaning": "xà phòng",
+   "example": "石鹸がありません。",
+   "exampleMeaning": "Tôi không có xà phòng.",
+   "emoji": "🧼",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大丈夫",
+   "meaning": "chạn (đựng đồ ăn), tủ sắt, két bạc",
+   "example": "大丈夫ですよ。",
+   "exampleMeaning": "Tôi không sao đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "百",
+   "meaning": "trăm",
+   "example": "百聞は一見に如かず。",
+   "exampleMeaning": "Trăm nghe không bằng một thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おじいさん",
+   "meaning": "ông",
+   "example": "これは、私が小さいときに、村の茂平というおじいさんからきいたお話です。",
+   "exampleMeaning": "Đây là câu chuyện mà tôi được ông cụ Mohei sống trong làng kể cho nghe hồi nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "結構",
+   "meaning": "rực rỡ, tráng lệ, lộng lẫy",
+   "example": "お金は結構です。",
+   "exampleMeaning": "Tôi không cần tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "プール",
+   "meaning": "bể bơi, hồ bơi",
+   "example": "「プール」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “プール”: bể bơi, hồ bơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "たばこ",
+   "meaning": "thuốc lá",
+   "example": "たばこは健康に害がある。",
+   "exampleMeaning": "Thuốc lá có hại cho sức khỏe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "番号",
+   "meaning": "số",
+   "example": "番号が間違っています。",
+   "exampleMeaning": "Bạn đã nhầm số rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "本棚",
+   "meaning": "giá sách, kệ sách",
+   "example": "本棚に英和辞典がありますか。",
+   "exampleMeaning": "Trên giá sách có cuốn từ điển Anh - Nhật nào không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "コップ",
+   "meaning": "cốc thủy tinh (chứa nước)",
+   "example": "「コップ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “コップ”: cốc thủy tinh (chứa nước).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いくら",
+   "meaning": "bao nhiêu",
+   "example": "時間はいくらでも作れる。",
+   "exampleMeaning": "Một người luôn luôn có thể kiếm thêm thì giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "大丈夫",
+    "です",
+    "よ"
+   ],
+   "reading": "だいじょうぶですよ",
+   "meaning": "Tôi không sao đâu."
+  },
+  {
+   "tokens": [
+    "牛乳",
+    "が",
+    "腐った"
+   ],
+   "reading": "ぎゅうにゅうがくさった",
+   "meaning": "Sữa bị thiu rồi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "車",
+    "を",
+    "止めた"
+   ],
+   "reading": "かれはくるまをとめた",
+   "meaning": "Anh ta dừng xe lại."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "車",
+    "に",
+    "轢かれた"
+   ],
+   "reading": "かれはくるまにひかれた",
+   "meaning": "Anh ta đã bị xe cán."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "車",
+    "は",
+    "最新式",
+    "だ"
+   ],
+   "reading": "かれのくるまはさいしんしきだ",
+   "meaning": "Chiếc xe của anh ta là model mới nhất."
+  }
+ ],
+ "issues": []
+}

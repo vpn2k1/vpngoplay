@@ -1,0 +1,325 @@
+{
+ "lesson": 53,
+ "draft": true,
+ "words": [
+  {
+   "term": "fat",
+   "meaning": "béo, mập, béo phì",
+   "example": "Are you fat?",
+   "exampleMeaning": "Bạn có béo không?",
+   "emoji": "",
+   "ipa": "/fæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "special",
+   "meaning": "đặc biệt, riêng biệt",
+   "example": "word used in a special sense",
+   "exampleMeaning": "Từ dùng theo nghĩa đặc biệt",
+   "emoji": "",
+   "ipa": "/ˈspɛʃl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ghost",
+   "meaning": "ma",
+   "example": "to put on a ghost of a smile",
+   "exampleMeaning": "Thoáng mỉm cười",
+   "emoji": "👻",
+   "ipa": "/ˈɡoʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "drum",
+   "meaning": "gõ gõ, đập đập, gõ liên hồi",
+   "example": "to drum one's finger on the tuble",
+   "exampleMeaning": "Gõ gõ ngón tay xuống bàn",
+   "emoji": "🥁",
+   "ipa": "/ˈdrəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "station",
+   "meaning": "ga",
+   "example": "Where is the bus station?",
+   "exampleMeaning": "Bến xe buýt ở đâu?",
+   "emoji": "🚉",
+   "ipa": "/ˈsteɪ.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "movie",
+   "meaning": "điện ảnh",
+   "example": "The movie is a true story.",
+   "exampleMeaning": "Bộ phim là một câu chuyện có thật.",
+   "emoji": "",
+   "ipa": "/ˈmuːvi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "flower",
+   "meaning": "hoa, bông hoa, đoá hoa",
+   "example": "the flower of the country's youth",
+   "exampleMeaning": "Tinh hoa của thanh niên đất nước, những phần tử ưu tú của thanh niên đất nước",
+   "emoji": "",
+   "ipa": "/ˈflɑʊ.ər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "describe",
+   "meaning": "tả, diễn tả, mô tả",
+   "example": "Can you describe that strange guy?",
+   "exampleMeaning": "Anh có thể mô tả gã đàn ông lạ mặt đó không?",
+   "emoji": "",
+   "ipa": "/dɪsˈkraɪb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "around",
+   "meaning": "xung quanh, vòng quanh",
+   "example": "the tree measures two meters around",
+   "exampleMeaning": "Thân cây đo vòng quanh được hai mét",
+   "emoji": "",
+   "ipa": "/ɜrˈaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "month",
+   "meaning": "tháng",
+   "example": "In a month, I'll be in Paris.",
+   "exampleMeaning": "Một tháng nữa tôi sẽ ở Paris.",
+   "emoji": "",
+   "ipa": "/ˈməntθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "television",
+   "meaning": "tivi",
+   "example": "I must get the television fixed.",
+   "exampleMeaning": "Tôi cần kêu thợ sửa cái TV này.",
+   "emoji": "📺",
+   "ipa": "/ˈtɛləˌvɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "coach",
+   "meaning": "huấn luyện viên",
+   "example": "The coach praised the team for a good game.",
+   "exampleMeaning": "Huấn luyện viên đã khen ngợi đội vì một trận đấu tốt.",
+   "emoji": "",
+   "ipa": "/ˈkoʊtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "red",
+   "meaning": "đỏ",
+   "example": "to become red in the face",
+   "exampleMeaning": "Đỏ mặt",
+   "emoji": "",
+   "ipa": "/ˈrɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shoulder",
+   "meaning": "vai",
+   "example": "My shoulder hurts when I lift my arm.",
+   "exampleMeaning": "Vai tôi đau khi tôi nhấc cánh tay của mình lên.",
+   "emoji": "",
+   "ipa": "/ˈʃəʊldə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bottom",
+   "meaning": "đáy",
+   "example": "to be a good man at bottom",
+   "exampleMeaning": "Bản chất là người tốt",
+   "emoji": "",
+   "ipa": "/ˈbɒ.təm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "father",
+   "meaning": "cha, bố",
+   "example": "the wish is father to the thought",
+   "exampleMeaning": "Ước vọng sinh ra sự tin tưởng",
+   "emoji": "",
+   "ipa": "/ˈfɑðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hot",
+   "meaning": "nóng, nóng bức",
+   "example": "Today, it is so hot!",
+   "exampleMeaning": "Hôm nay, trời nóng quá!",
+   "emoji": "",
+   "ipa": "/hɒt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "album",
+   "meaning": "tập ảnh, quyển album",
+   "example": "She gave me an album as a birthday present.",
+   "exampleMeaning": "Cô ấy đã tặng tôi một cuốn album làm quà sinh nhật.",
+   "emoji": "",
+   "ipa": "/ˈælbəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ticket",
+   "meaning": "bông, phiếu",
+   "example": "ticket for soup",
+   "exampleMeaning": "Phiếu cháo",
+   "emoji": "🎫",
+   "ipa": "/ˈtɪkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reading",
+   "meaning": "đọc",
+   "example": "what is your reading of the facts?",
+   "exampleMeaning": "Ý kiến anh về các việc ấy như thế nào?",
+   "emoji": "",
+   "ipa": "/ˈrɛdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "reading",
+    "Turn",
+    "the",
+    "television",
+    "off"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang đọc sách. Tắt tivi đi."
+  },
+  {
+   "tokens": [
+    "My",
+    "father",
+    "will",
+    "be",
+    "back",
+    "at",
+    "the",
+    "beginning",
+    "of",
+    "next",
+    "month"
+   ],
+   "reading": "",
+   "meaning": "Cha tôi sẽ trở lại vào đầu tháng tới."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "so",
+    "fat"
+   ],
+   "reading": "",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "getting",
+    "hot"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang nóng."
+  },
+  {
+   "tokens": [
+    "How's",
+    "your",
+    "father"
+   ],
+   "reading": "",
+   "meaning": "Ba của bạn sao rồi?"
+  }
+ ],
+ "issues": []
+}

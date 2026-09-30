@@ -1,0 +1,330 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "パート",
+   "meaning": "phần, bộ phận, tập (sách)",
+   "example": "彼はアパートに一人で住んでいます。",
+   "exampleMeaning": "Anh ấy đang sống một mình ở trong một căn hộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あべこべ",
+   "meaning": "trái ngược, nghịch",
+   "example": "「あべこべ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “あべこべ”: trái ngược, nghịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "婉曲",
+   "meaning": "nói trại, (thuộc) uyển ngữ",
+   "example": "「婉曲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “婉曲”: nói trại, (thuộc) uyển ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勝利",
+   "meaning": "chiến thắng",
+   "example": "これはあなた方の勝利だ。",
+   "exampleMeaning": "Đây là chiến thắng của bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "打ち切る",
+   "meaning": "ngừng, nghỉ, chặn",
+   "example": "「打ち切る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “打ち切る”: ngừng, nghỉ, chặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "即座に",
+   "meaning": "ngay lập tức, tức thì",
+   "example": "「即座に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “即座に”: ngay lập tức, tức thì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "業績",
+   "meaning": "thành tích, thành tựu",
+   "example": "「業績」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “業績”: thành tích, thành tựu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知性",
+   "meaning": "khả năng hiểu biết, trí thông minh",
+   "example": "友は容姿、知人は性格で選び、敵は知性で選ぶ。敵を選ぶときには、いくら注意しても注意しすぎるということはない。",
+   "exampleMeaning": "Tôi chọn bạn vì vẻ bề ngoài, người quen vì tính cách, và kẻ địch nhờ trí thông minh. Khi chọn kẻ địch, cẩn thận không bao giờ thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "刑罰",
+   "meaning": "sự xét xử",
+   "example": "シンガポールでは、刑罰の一つに鞭打ちがある。",
+   "exampleMeaning": "Ở Singapore, đánh bằng roi là một hình thức trừng phạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "足し算",
+   "meaning": "tính cộng",
+   "example": "「足し算」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “足し算”: tính cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "燃焼",
+   "meaning": "sự đốt, sự thiêu, sự khê",
+   "example": "「燃焼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “燃焼”: sự đốt, sự thiêu, sự khê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ガレージ",
+   "meaning": "ga ra, nhà để ô tô",
+   "example": "「ガレージ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ガレージ”: ga ra, nhà để ô tô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立法",
+   "meaning": "làm luật, lập pháp",
+   "example": "このテーマに関するほとんどの研究では、立法府の介入が悪影響をもたらしたということが示されている。",
+   "exampleMeaning": "Hầu hết những nghiên cứu về chủ đề này đã chỉ ra rằng, sự can thiệp của cơ quan lập pháp đã gây ra ảnh hưởng xấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "行進",
+   "meaning": "tháng ba",
+   "example": "「行進」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行進”: tháng ba.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赴く",
+   "meaning": "đi, đi đến, đi tới",
+   "example": "「赴く」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “赴く”: đi, đi đến, đi tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "局限",
+   "meaning": "giới hạn, hạn độ",
+   "example": "「局限」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “局限”: giới hạn, hạn độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "他動詞",
+   "meaning": "ngoại động từ, động từ ngoại hướng",
+   "example": "「他動詞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “他動詞”: ngoại động từ, động từ ngoại hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "殿様",
+   "meaning": "người quý tộc, người quý phái",
+   "example": "「殿様」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “殿様”: người quý tộc, người quý phái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没落",
+   "meaning": "sự đổ nát, sự suy đồi",
+   "example": "「没落」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “没落”: sự đổ nát, sự suy đồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "取締り",
+   "meaning": "quyền hành, quyền lực, quyền chỉ huy",
+   "example": "「取締り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取締り”: quyền hành, quyền lực, quyền chỉ huy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "アパート",
+    "に",
+    "一人で",
+    "住んでいます"
+   ],
+   "reading": "かれはアパートにひとりですんでいます",
+   "meaning": "Anh ấy đang sống một mình ở trong một căn hộ."
+  },
+  {
+   "tokens": [
+    "部長",
+    "が",
+    "提案",
+    "を",
+    "受け入れました"
+   ],
+   "reading": "ぶちょうがていあんをうけいれました",
+   "meaning": "Trưởng phòng đã chấp nhận đề xuất."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "才能",
+    "には",
+    "おそれいった",
+    "よ"
+   ],
+   "reading": "かれのさいのうにはおそれいったよ",
+   "meaning": "Tôi ngưỡng mộ tài năng của anh ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "つもり",
+    "だった"
+   ],
+   "reading": "わたしはきょうしになるつもりだった",
+   "meaning": "Tôi có ý định trở thành giáo viên."
+  },
+  {
+   "tokens": [
+    "叔父",
+    "が",
+    "私",
+    "に",
+    "本",
+    "を",
+    "買って",
+    "くれた"
+   ],
+   "reading": "おじがわたしにほんをかってくれた",
+   "meaning": "Chú tôi đã mua cho tôi sách."
+  }
+ ],
+ "issues": []
+}

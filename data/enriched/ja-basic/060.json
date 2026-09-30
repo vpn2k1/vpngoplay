@@ -1,0 +1,325 @@
+{
+ "lesson": 60,
+ "draft": true,
+ "words": [
+  {
+   "term": "指",
+   "meaning": "ngón tay",
+   "example": "この指輪、いかほどですか？",
+   "exampleMeaning": "Chiếc nhẫn này có giá bao nhiêu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嬉しい",
+   "meaning": "vui sướng",
+   "example": "お会いできてとても嬉しいです。",
+   "exampleMeaning": "Tôi rất vui vì gặp được bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "引っ越す",
+   "meaning": "chuyển, di chuyển, chuyển dịch",
+   "example": "「引っ越す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引っ越す”: chuyển, di chuyển, chuyển dịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漫画",
+   "meaning": "hài hước, khôi hài",
+   "example": "最近の漫画は暴力や性の描写が多すぎる。",
+   "exampleMeaning": "Manga dạo này có quá nhiều cảnh bạo lực và gợi dục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "焼く",
+   "meaning": "bỏ lò, nướng bằng lò",
+   "example": "トムはメアリーの世話を焼く。",
+   "exampleMeaning": "Tom chăm sóc Mary.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "試験",
+   "meaning": "sự khám xét kỹ, sự xem xét kỹ",
+   "example": "彼は試験でしくじった。",
+   "exampleMeaning": "Anh ấy đã trượt bài kiểm tra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "卒業",
+   "meaning": "sự chia độ",
+   "example": "やっと中学を卒業しました。",
+   "exampleMeaning": "Cuối cùng tôi đã tốt nghiệp cấp hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "売り場",
+   "meaning": "điểm bán",
+   "example": "「売り場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売り場”: điểm bán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うまい",
+   "meaning": "giỏi, tài giỏi, khéo léo",
+   "example": "彼女は料理がうまいそうだ。",
+   "exampleMeaning": "Nghe nói anh ta nấu ăn khá ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "建て",
+   "meaning": "được ca ngợi thành truyện",
+   "example": "あのビルは何階建てですか。",
+   "exampleMeaning": "Cái tòa nhà kia có bao nhiêu tầng?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "気分",
+   "meaning": "sự sờ mó, sự bắt mạch",
+   "example": "今泣きたい気分です。",
+   "exampleMeaning": "Bây giờ tôi thấy muốn khóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "始める",
+   "meaning": "bắt đầu (đi, làm việc...)",
+   "example": "彼女はピアノを弾き始めるところだ。",
+   "exampleMeaning": "Cô ấy mới bắt đầu chơi piano.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "再来月",
+   "meaning": "the month after next (EN)",
+   "example": "「再来月」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再来月”: the month after next (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ソフト",
+   "meaning": "mềm, dẻo, dễ uốn",
+   "example": "海賊版のソフトを使っちゃダメだってば。",
+   "exampleMeaning": "Bạn không được dùng phần mềm lậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アフリカ",
+   "meaning": "châu Phi",
+   "example": "アフリカで飢えに苦しんでいる人々に、早急な援助が必要である。",
+   "exampleMeaning": "Những người chịu nạn đói ở châu Phi cần sự trợ giúp khẩn cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "道具",
+   "meaning": "công cụ",
+   "example": "言語は人間社会にとって欠くことのできない道具である。",
+   "exampleMeaning": "Ngôn ngữ là một công cụ không thể thiếu trong xã hội loài người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "事故",
+   "meaning": "sự rủi ro, tai nạn, tai biến",
+   "example": "彼は仕事中に事故にあった。",
+   "exampleMeaning": "Anh ta gặp tai nạn trong khi làm việc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "会議室",
+   "meaning": "hội trường",
+   "example": "「会議室」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “会議室”: hội trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "予習",
+   "meaning": "preparation of lessons (EN)",
+   "example": "「予習」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予習”: preparation of lessons (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中学校",
+   "meaning": "trung học cơ sở, trung học",
+   "example": "「中学校」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中学校”: trung học cơ sở, trung học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "試験",
+    "は",
+    "全て",
+    "終わった"
+   ],
+   "reading": "しけんはすべておわった",
+   "meaning": "Bài kiểm tra đã kết thúc hoàn toàn."
+  },
+  {
+   "tokens": [
+    "今",
+    "泣き",
+    "たい",
+    "気分",
+    "です"
+   ],
+   "reading": "いまなきたいきぶんです",
+   "meaning": "Bây giờ tôi thấy muốn khóc."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "料理",
+    "が",
+    "うまい"
+   ],
+   "reading": "かのじょはりょうりがうまい",
+   "meaning": "Cô ấy giỏi nấu ăn."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "料理",
+    "が",
+    "うまい",
+    "そうだ"
+   ],
+   "reading": "かのじょはりょうりがうまいそうだ",
+   "meaning": "Nghe nói anh ta nấu ăn khá ngon."
+  },
+  {
+   "tokens": [
+    "事故",
+    "は",
+    "しばしば",
+    "不注意",
+    "から",
+    "生じる"
+   ],
+   "reading": "じこはしばしばふちゅういからしょうじる",
+   "meaning": "Tai nạn thường xảy ra do sự bất cẩn."
+  }
+ ],
+ "issues": []
+}

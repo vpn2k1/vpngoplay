@@ -1,0 +1,332 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "ブル",
+   "meaning": "bò đực",
+   "example": "このテーブルをどけなさい。",
+   "exampleMeaning": "Để cái bàn này ra chỗ khác đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "利子",
+   "meaning": "sự quan tâm, sự thích thú",
+   "example": "「利子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “利子”: sự quan tâm, sự thích thú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遺跡",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của remain",
+   "example": "「遺跡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遺跡”: động từ chia ở ngôi thứ ba số ít của remain.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "団扇",
+   "meaning": "người hâm mộ, người say mê",
+   "example": "「団扇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “団扇”: người hâm mộ, người say mê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出費",
+   "meaning": "chi phí",
+   "example": "「出費」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出費”: chi phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕入れる",
+   "meaning": "kiếm, thu được, mua được (vật gì)",
+   "example": "「仕入れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕入れる”: kiếm, thu được, mua được (vật gì).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仰ぐ",
+   "meaning": "phát đạt",
+   "example": "「仰ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仰ぐ”: phát đạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "要請",
+   "meaning": "sự cho là",
+   "example": "「要請」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “要請”: sự cho là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ほっぺた",
+   "meaning": "má",
+   "example": "「ほっぺた」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ほっぺた”: má.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "痛切",
+   "meaning": "bài hát tang",
+   "example": "「痛切」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “痛切”: bài hát tang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本場",
+   "meaning": "nhà, chỗ ở",
+   "example": "「本場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本場”: nhà, chỗ ở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冴える",
+   "meaning": "làm trong sạch, lọc trong",
+   "example": "「冴える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冴える”: làm trong sạch, lọc trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "素早い",
+   "meaning": "chắc chắn",
+   "example": "「素早い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素早い”: chắc chắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一括",
+   "meaning": "mẻ (bánh)",
+   "example": "「一括」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一括”: mẻ (bánh).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "うたた寝",
+   "meaning": "tá",
+   "example": "「うたた寝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “うたた寝”: tá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "値する",
+   "meaning": "đáng, bõ công",
+   "example": "彼の理論は一考に値する。",
+   "exampleMeaning": "Lý thuyết của ông ấy đáng được xem xét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "増進",
+   "meaning": "thăng chức, thăng cấp, đề bạt",
+   "example": "「増進」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “増進”: thăng chức, thăng cấp, đề bạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定義",
+   "meaning": "định nghĩa",
+   "example": "「定義」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定義”: định nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遠回り",
+   "meaning": "khúc ngoặt, chỗ quanh co, đường vòng",
+   "example": "「遠回り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遠回り”: khúc ngoặt, chỗ quanh co, đường vòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "類推",
+   "meaning": "sự tương tự, sự giống nhau",
+   "example": "「類推」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “類推”: sự tương tự, sự giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "テーブル",
+    "に",
+    "猫",
+    "の",
+    "足跡",
+    "が",
+    "付いている"
+   ],
+   "reading": "テーブルにねこのあしあとがついている",
+   "meaning": "Trên bàn có dấu chân mèo."
+  },
+  {
+   "tokens": [
+    "テーブル",
+    "が",
+    "きしむ",
+    "ほど",
+    "食物",
+    "が",
+    "たくさん",
+    "あった"
+   ],
+   "reading": "テーブルがきしむほどしょくもつがたくさんあった",
+   "meaning": "Trên bàn có nhiều đồ ăn đến nỗi cái bàn kêu lên cót két."
+  },
+  {
+   "tokens": [
+    "この",
+    "テーブル",
+    "を",
+    "どけ",
+    "なさい"
+   ],
+   "reading": "このテーブルをどけなさい",
+   "meaning": "Để cái bàn này ra chỗ khác đi."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "理論",
+    "は",
+    "一考",
+    "に",
+    "値する"
+   ],
+   "reading": "かれのりろんはいっこうにあたいする",
+   "meaning": "Lý thuyết của ông ấy đáng được xem xét."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "その",
+    "問題",
+    "を",
+    "論議",
+    "した"
+   ],
+   "reading": "かれらはそのもんだいをろんぎした",
+   "meaning": "Họ đã thảo luận vấn đề đó."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,336 @@
+{
+ "lesson": 144,
+ "draft": true,
+ "words": [
+  {
+   "term": "simulation",
+   "meaning": "sự giả vờ, sự giả cách",
+   "example": "Let's learn the word \"simulation\".",
+   "exampleMeaning": "Cùng học từ “simulation”: sự giả vờ, sự giả cách.",
+   "emoji": "",
+   "ipa": "/ˌsɪmjəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sexuality",
+   "meaning": "bản năng giới tính",
+   "example": "Let's learn the word \"sexuality\".",
+   "exampleMeaning": "Cùng học từ “sexuality”: bản năng giới tính.",
+   "emoji": "",
+   "ipa": "/ˌsɛkʃuˈæləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anguish",
+   "meaning": "nỗi đau đớn, nỗi thống khổ",
+   "example": "anguish of body and mind",
+   "exampleMeaning": "Nỗi đau khổ về thể xác và tinh thần",
+   "emoji": "",
+   "ipa": "/ˈæŋɡwɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "knot",
+   "meaning": "nút, nơ",
+   "example": "to make a knot",
+   "exampleMeaning": "Thắt nút, buộc nơ",
+   "emoji": "🪢",
+   "ipa": "/ˈnɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "instantly",
+   "meaning": "ngay khi",
+   "example": "I came instantly I saw the need",
+   "exampleMeaning": "Ngay khi thấy sự cần thiết tôi đến ngay",
+   "emoji": "",
+   "ipa": "/ˈɪnstəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "compact",
+   "meaning": "chật ních, chen chúc",
+   "example": "a man compact of suspicion",
+   "exampleMeaning": "Một người đầy hoài nghi",
+   "emoji": "",
+   "ipa": "/ˈkɑmpækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "repress",
+   "meaning": "dẹp, đàn áp, trấn áp",
+   "example": "to repress a rebellion",
+   "exampleMeaning": "Dẹp một cuộc nổi loạn",
+   "emoji": "",
+   "ipa": "/riˈprɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "barbershop",
+   "meaning": "hiệu cắt tóc",
+   "example": "Let's learn the word \"barbershop\".",
+   "exampleMeaning": "Cùng học từ “barbershop”: hiệu cắt tóc.",
+   "emoji": "",
+   "ipa": "/ˈbɑrbɜrˌʃɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "paratrooper",
+   "meaning": "lính nhảy dù",
+   "example": "Let's learn the word \"paratrooper\".",
+   "exampleMeaning": "Cùng học từ “paratrooper”: lính nhảy dù.",
+   "emoji": "",
+   "ipa": "/ˈpɛrəˌtrupɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "soybean",
+   "meaning": "đậu nành",
+   "example": "Let's learn the word \"soybean\".",
+   "exampleMeaning": "Cùng học từ “soybean”: đậu nành.",
+   "emoji": "",
+   "ipa": "/ˈsɔɪˌbin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mill",
+   "meaning": "xay, nghiền, cán",
+   "example": "to put someone through the mill",
+   "exampleMeaning": "Bắt ai chịu những thử thách gay go, bắt ai chịu những nỗi cực khổ; bắt ai tập luyện gian khổ",
+   "emoji": "",
+   "ipa": "/ˈmɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tulip",
+   "meaning": "cây uất kim hương",
+   "example": "Let's learn the word \"tulip\".",
+   "exampleMeaning": "Cùng học từ “tulip”: cây uất kim hương.",
+   "emoji": "🌷",
+   "ipa": "/ˈtuləp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "label",
+   "meaning": "nhãn, nhãn hiệu",
+   "example": "Please stick this label to your baggage.",
+   "exampleMeaning": "Vui lòng dán nhãn vào hành lý của bạn.",
+   "emoji": "🏷",
+   "ipa": "/ˈleɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reverence",
+   "meaning": "tôn kính",
+   "example": "to hold someone in reverence; to feel reverence for someone",
+   "exampleMeaning": "Tôn kính ai",
+   "emoji": "",
+   "ipa": "/ˈrɛvɜrəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "humanize",
+   "meaning": "làm cho có lòng nhân đạo",
+   "example": "to humanize cow's milk",
+   "exampleMeaning": "Làm cho sữa bò giống như sữa người",
+   "emoji": "",
+   "ipa": "/ˈhjuməˌnaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "malaria",
+   "meaning": "sốt rét",
+   "example": "Let's learn the word \"malaria\".",
+   "exampleMeaning": "Cùng học từ “malaria”: sốt rét.",
+   "emoji": "",
+   "ipa": "/məˈlɛriə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grain",
+   "meaning": "thớ (gỗ)",
+   "example": "without a grain of love",
+   "exampleMeaning": "Không một mảy may yêu thương",
+   "emoji": "",
+   "ipa": "/ˈɡreɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dimension",
+   "meaning": "chiều, kích thước, khổ",
+   "example": "Let's learn the word \"dimension\".",
+   "exampleMeaning": "Cùng học từ “dimension”: chiều, kích thước, khổ.",
+   "emoji": "",
+   "ipa": "/dɪˈmɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grid",
+   "meaning": "hệ thống đường dây",
+   "example": "Let's learn the word \"grid\".",
+   "exampleMeaning": "Cùng học từ “grid”: hệ thống đường dây.",
+   "emoji": "",
+   "ipa": "/ˈɡrɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rattle",
+   "meaning": "cái trống lắc",
+   "example": "to rattle a bill through the House",
+   "exampleMeaning": "Vội vã đem ra nghị viện thông qua một dự luật",
+   "emoji": "",
+   "ipa": "/ˈrætəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Please",
+    "stick",
+    "this",
+    "label",
+    "to",
+    "your",
+    "baggage"
+   ],
+   "reading": "",
+   "meaning": "Vui lòng dán nhãn vào hành lý của bạn."
+  },
+  {
+   "tokens": [
+    "She",
+    "takes",
+    "a",
+    "new",
+    "lover",
+    "while",
+    "he",
+    "is",
+    "in",
+    "anguish"
+   ],
+   "reading": "",
+   "meaning": "Trong khi anh ta đang đau khổ thì cô ta có người yêu mới."
+  },
+  {
+   "tokens": [
+    "He",
+    "was",
+    "hit",
+    "by",
+    "a",
+    "falling",
+    "rock",
+    "and",
+    "died",
+    "instantly"
+   ],
+   "reading": "",
+   "meaning": "Ông ta đã tử vong tại chỗ do bị một tảng đá rơi trúng người."
+  },
+  {
+   "tokens": [
+    "I",
+    "can't",
+    "untie",
+    "this",
+    "knot"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thể tháo được nút thắt này."
+  },
+  {
+   "tokens": [
+    "Mosquito's",
+    "bite",
+    "can",
+    "cause",
+    "malaria"
+   ],
+   "reading": "",
+   "meaning": "Vết cắn của muỗi có thể gây sốt rét."
+  }
+ ],
+ "issues": []
+}

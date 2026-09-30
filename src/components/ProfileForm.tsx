@@ -3,6 +3,7 @@ import { CircleCheck, Rocket, UserRound } from 'lucide-react'
 import type { ReactNode } from 'react'
 import { Controller, useForm } from 'react-hook-form'
 import { z } from 'zod'
+import { useLang } from '../lib/lang'
 import type { Profile } from '../lib/store'
 import { LANGS, TRACKS, type Lang, type Track } from '../lib/types'
 import { Bullseye, FLAG, Fire, HighVoltage, TRACK_ICON } from './icons'
@@ -18,12 +19,15 @@ function Checked() {
   return <CircleCheck className="ml-auto hidden size-5 shrink-0 text-indigo-500 group-has-checked:block" />
 }
 
+// The language isn't a form field: it is the one picked from the header flag (useLang), so
+// choosing it here or there is the same choice and never has to be made twice.
 const profileSchema = z.object({
   name: z.string().trim().max(30, 'Tối đa 30 ký tự'),
-  langs: z.array(z.enum(['en', 'ja', 'zh'])).min(1, 'Chọn ít nhất 1 ngôn ngữ'),
   track: z.enum(['kids', 'work', 'exam']),
   dailyGoal: z.number().int().positive(),
 })
+
+type ProfileFields = z.infer<typeof profileSchema>
 
 const chip =
   'group flex cursor-pointer items-center gap-3 rounded-2xl border-2 border-b-4 p-3 transition has-checked:border-indigo-500 has-checked:bg-indigo-50 dark:has-checked:bg-indigo-950/60 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 has-focus-visible:ring-4 has-focus-visible:ring-indigo-300'
@@ -39,18 +43,23 @@ export function ProfileForm({
   submitIcon?: ReactNode
   onSubmit: (profile: Profile) => void
 }) {
+  const { lang, setLang } = useLang()
   const {
     register,
     control,
     handleSubmit,
     formState: { errors },
-  } = useForm<Profile>({
+  } = useForm<ProfileFields>({
     resolver: zodResolver(profileSchema),
-    defaultValues: defaultValues ?? { name: '', langs: [], track: 'work', dailyGoal: 50 },
+    defaultValues: defaultValues ?? { name: '', track: 'work', dailyGoal: 50 },
   })
 
+  // The current language goes first; languages studied before are kept.
+  const submit = (fields: ProfileFields) =>
+    onSubmit({ ...fields, langs: [lang, ...(defaultValues?.langs ?? []).filter((l) => l !== lang)] })
+
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
+    <form onSubmit={handleSubmit(submit)} className="space-y-6">
       <div>
         <label htmlFor="name" className="mb-1.5 block font-bold">
           Tên của bạn <span className="font-normal text-slate-400">(không bắt buộc)</span>
@@ -70,19 +79,26 @@ export function ProfileForm({
       <fieldset>
         <legend className="mb-1.5 font-bold">Bạn muốn học ngôn ngữ nào?</legend>
         <div className="grid gap-2 sm:grid-cols-3">
-          {(Object.keys(LANGS) as Lang[]).map((lang) => {
-            const Flag = FLAG[lang]
+          {(Object.keys(LANGS) as Lang[]).map((l) => {
+            const Flag = FLAG[l]
             return (
-              <label key={lang} className={chip}>
-                <input type="checkbox" value={lang} {...register('langs')} className="sr-only" />
+              <label key={l} className={chip}>
+                <input
+                  type="radio"
+                  name="lang"
+                  value={l}
+                  checked={l === lang}
+                  onChange={() => setLang(l)}
+                  className="sr-only"
+                />
                 <Flag className="size-8 shrink-0" />
-                <span className="font-bold">{LANGS[lang].label}</span>
+                <span className="font-bold">{LANGS[l].label}</span>
                 <Checked />
               </label>
             )
           })}
         </div>
-        {errors.langs && <p className="mt-1 text-sm text-rose-500">{errors.langs.message}</p>}
+        <p className="mt-1.5 text-xs text-slate-500">Cũng là lá cờ trên cùng: đổi ở đâu thì cả app đổi theo.</p>
       </fieldset>
 
       <fieldset>

@@ -1,0 +1,314 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "express",
+   "meaning": "nhanh, hoả tốc, tốc hành",
+   "example": "his express reason for going...",
+   "exampleMeaning": "Lý do đặc biệt để đi... của anh ta",
+   "emoji": "",
+   "ipa": "/ɪkˈsprɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inner",
+   "meaning": "bên trong",
+   "example": "Let's learn the word \"inner\".",
+   "exampleMeaning": "Cùng học từ “inner”: bên trong.",
+   "emoji": "",
+   "ipa": "/ˈɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blanket",
+   "meaning": "mền, chăn",
+   "example": "a blanket of snow",
+   "exampleMeaning": "Một lớp tuyết phủ",
+   "emoji": "",
+   "ipa": "/ˈblæŋkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "popular",
+   "meaning": "phổ biến",
+   "example": "a popular song",
+   "exampleMeaning": "Bài hát phổ biến",
+   "emoji": "",
+   "ipa": "/ˈpɑpjəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "policewoman",
+   "meaning": "nữ cảnh sát",
+   "example": "Let's learn the word \"policewoman\".",
+   "exampleMeaning": "Cùng học từ “policewoman”: nữ cảnh sát.",
+   "emoji": "",
+   "ipa": "/pəˈliˌswʊmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "patient",
+   "meaning": "kiên nhẫn, nhẫn nại, bền chí",
+   "example": "Be patient please. It takes time.",
+   "exampleMeaning": "Làm ơn kiên nhẫn một chút đi, cái này phải tốn thì giờ.",
+   "emoji": "",
+   "ipa": "/ˈpeɪʃənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "principal",
+   "meaning": "giám đốc, hiệu trưởng",
+   "example": "Let's learn the word \"principal\".",
+   "exampleMeaning": "Cùng học từ “principal”: giám đốc, hiệu trưởng.",
+   "emoji": "",
+   "ipa": "/ˈprɪnsəpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unknown",
+   "meaning": "không biết, chưa từng ai biết, lạ",
+   "example": "This is unknown country to me.",
+   "exampleMeaning": "Đó là một vùng mà tôi chưa đi qua.",
+   "emoji": "",
+   "ipa": "/ənˈnoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "difficulty",
+   "meaning": "sự khó khăn, nỗi khó khăn, nỗi gay go",
+   "example": "I have difficulty believing that.",
+   "exampleMeaning": "Tôi thấy điều này khó tin quá.",
+   "emoji": "",
+   "ipa": "/ˈdɪfəkəlti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "performance",
+   "meaning": "hiệu năng",
+   "example": "This engine has passed all performance evaluations.",
+   "exampleMeaning": "Động cơ này đã vượt qua mọi bài đánh giá hiệu năng.",
+   "emoji": "",
+   "ipa": "/pɜrˈfɔrməns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "playful",
+   "meaning": "hay vui đùa, hay đùa, hay nghịch",
+   "example": "Let's learn the word \"playful\".",
+   "exampleMeaning": "Cùng học từ “playful”: hay vui đùa, hay đùa, hay nghịch.",
+   "emoji": "",
+   "ipa": "/ˈpleɪfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "oppose",
+   "meaning": "chống đối, phản đối",
+   "example": "We'll oppose it!",
+   "exampleMeaning": "Chúng tôi sẽ phản đối!",
+   "emoji": "",
+   "ipa": "/əˈpoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bonus",
+   "meaning": "tiền thưởng",
+   "example": "Let's learn the word \"bonus\".",
+   "exampleMeaning": "Cùng học từ “bonus”: tiền thưởng.",
+   "emoji": "",
+   "ipa": "/ˈboʊnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "experience",
+   "meaning": "trải nghiệm",
+   "example": "to learn by experience",
+   "exampleMeaning": "Rút kinh nghiệm",
+   "emoji": "",
+   "ipa": "/ɪkˈspɪə.rɪəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sock",
+   "meaning": "để, gửi",
+   "example": "to hit someone sock in the eye",
+   "exampleMeaning": "Đánh trúng vào mắt ai",
+   "emoji": "",
+   "ipa": "/ˈsɑk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cruise",
+   "meaning": "cuộc đi chơi biển (bằng tàu thuỷ)",
+   "example": "Let's learn the word \"cruise\".",
+   "exampleMeaning": "Cùng học từ “cruise”: cuộc đi chơi biển (bằng tàu thuỷ).",
+   "emoji": "",
+   "ipa": "/ˈkruz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "frightening",
+   "meaning": "kinh khủng, khủng khiếp",
+   "example": "You're frightening me.",
+   "exampleMeaning": "Bạn đang làm tôi sợ đấy.",
+   "emoji": "",
+   "ipa": "/ˈfraɪtənɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "alive",
+   "meaning": "sống, còn sống, đang sống",
+   "example": "man alive what are you doing?",
+   "exampleMeaning": "Trời ơi! anh làm cái gì thế?",
+   "emoji": "",
+   "ipa": "/əˈlaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fantastic",
+   "meaning": "vô cùng to lớn",
+   "example": "a fantastic sum of money",
+   "exampleMeaning": "Một món tiền vô cùng to lớn",
+   "emoji": "",
+   "ipa": "/fænˈtæstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "helpful",
+   "meaning": "giúp đỡ",
+   "example": "Let's learn the word \"helpful\".",
+   "exampleMeaning": "Cùng học từ “helpful”: giúp đỡ.",
+   "emoji": "",
+   "ipa": "/ˈhɛlpfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You're",
+    "frightening",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang làm tôi sợ đấy."
+  },
+  {
+   "tokens": [
+    "You're",
+    "very",
+    "patient"
+   ],
+   "reading": "",
+   "meaning": "Bạn rất kiên nhẫn."
+  },
+  {
+   "tokens": [
+    "Share",
+    "your",
+    "experience"
+   ],
+   "reading": "",
+   "meaning": "Hãy chia sẻ trải nghiệm của bạn."
+  },
+  {
+   "tokens": [
+    "Everybody",
+    "is",
+    "alive"
+   ],
+   "reading": "",
+   "meaning": "Tất cả mọi người đều đang sống."
+  },
+  {
+   "tokens": [
+    "We'll",
+    "oppose",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi sẽ phản đối!"
+  }
+ ],
+ "issues": []
+}

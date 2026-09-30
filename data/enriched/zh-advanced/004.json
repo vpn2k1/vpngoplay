@@ -1,0 +1,325 @@
+{
+ "lesson": 4,
+ "draft": true,
+ "words": [
+  {
+   "term": "首要",
+   "meaning": "hàng đầu",
+   "example": "首要任务。",
+   "exampleMeaning": "Nhiệm vụ hàng đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuyào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "曲线",
+   "meaning": "đường cong",
+   "example": "我们来学“曲线”这个词。",
+   "exampleMeaning": "Cùng học từ “曲线”: đường cong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qūxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伪装",
+   "meaning": "nguỵ trang",
+   "example": "伪装进步",
+   "exampleMeaning": "Tiến bộ giả tạo; làm ra vẻ tiến bộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěizhuāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喘",
+   "meaning": "thở hổn hển",
+   "example": "我们来学“喘”这个词。",
+   "exampleMeaning": "Cùng học từ “喘”: thở hổn hển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "独家",
+   "meaning": "độc nhất vô nhị",
+   "example": "独家经营",
+   "exampleMeaning": "Chỉ có một nhà kinh doanh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dújiā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "恶劣",
+   "meaning": "tồi tệ",
+   "example": "行为恶劣。",
+   "exampleMeaning": "Hành vi tồi tệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èliè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "任意",
+   "meaning": "bất kì",
+   "example": "任意三角形。",
+   "exampleMeaning": "Tam giác bất kì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开除",
+   "meaning": "khai trừ",
+   "example": "他被公司开除了。",
+   "exampleMeaning": "Anh ấy bị công ty sa thải rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāichú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拽",
+   "meaning": "lôi kéo",
+   "example": "我们来学“拽”这个词。",
+   "exampleMeaning": "Cùng học từ “拽”: lôi kéo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yè",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忙碌",
+   "meaning": "bận rộn",
+   "example": "为了大伙儿的事情， 他一天到晚忙碌。",
+   "exampleMeaning": "Vì công việc chung anh ấy bận rộn từ sáng đến tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mánglù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "陷",
+   "meaning": "bị đánh chiếm",
+   "example": "病了几天，眼睛都陷 进去了。",
+   "exampleMeaning": "Mới bệnh có mấy ngày mà hai mắt đã trũng xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "废话",
+   "meaning": "lời vô ích",
+   "example": "别废话，快干你的事去。",
+   "exampleMeaning": "Đừng nói lời vô ích, mau làm chuyện của anh đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèihuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "激光",
+   "meaning": "tia la-de",
+   "example": "我在检查这里有没有激光警报装置。",
+   "exampleMeaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīguāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "抖",
+   "meaning": "vạch trần",
+   "example": "他如今当了官，抖起来了。",
+   "exampleMeaning": "Hiện nay nó được làm quan, vênh mặt lên rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǒu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "时空",
+   "meaning": "thời không, thời gian và không gian",
+   "example": "我们来学“时空”这个词。",
+   "exampleMeaning": "Cùng học từ “时空”: thời không, thời gian và không gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíkōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "损",
+   "meaning": "hại, tai hại, tổn hao",
+   "example": "损人利己。",
+   "exampleMeaning": "Hại người ích ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǔn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "霜",
+   "meaning": "sương",
+   "example": "霜鬓(两鬓的白发)。",
+   "exampleMeaning": "Tóc mai điểm sương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流血",
+   "meaning": "đổ máu",
+   "example": "流血斗争。",
+   "exampleMeaning": "Cuộc đấu tranh đổ máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúxuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "销量",
+   "meaning": "lượng tiêu thụ",
+   "example": "我们来学“销量”这个词。",
+   "exampleMeaning": "Cùng học từ “销量”: lượng tiêu thụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāoliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "八卦",
+   "meaning": "bát quái. (Một nhóm ký hiệu mang ý nghĩa tượng trưng ở thời Cổ đại. Gồm 8 quẻ: Càn",
+   "example": "我们来学“八卦”这个词。",
+   "exampleMeaning": "Cùng học từ “八卦”: bát quái. (Một nhóm ký hiệu mang ý nghĩa tượng trưng ở thời Cổ đại. Gồm 8 quẻ: Càn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāguà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "五",
+    "乘",
+    "二等",
+    "于",
+    "十"
+   ],
+   "reading": "wǔ chéng èrděng yú shí",
+   "meaning": "Năm nhân hai bằng mười."
+  },
+  {
+   "tokens": [
+    "时间",
+    "就是",
+    "金钱"
+   ],
+   "reading": "shíjiān jiùshì jīnqián",
+   "meaning": "Thời gian là vàng."
+  },
+  {
+   "tokens": [
+    "你",
+    "有",
+    "什么",
+    "症状"
+   ],
+   "reading": "nǐ yǒu shénme zhèngzhuàng",
+   "meaning": "Bạn có triệu chứng gì?"
+  },
+  {
+   "tokens": [
+    "我",
+    "睡",
+    "了",
+    "个",
+    "好",
+    "觉"
+   ],
+   "reading": "wǒ shuì le gè hǎo jiào",
+   "meaning": "Tôi đã có một giấc ngủ ngon."
+  }
+ ],
+ "issues": []
+}

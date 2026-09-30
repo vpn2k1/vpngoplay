@@ -1,0 +1,327 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "达到",
+   "meaning": "đạt được",
+   "example": "达到国际水平。",
+   "exampleMeaning": "Đạt trình độ quốc tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dádào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "现实",
+   "meaning": "hiện thực",
+   "example": "考虑问题，不能脱离现实。",
+   "exampleMeaning": "Suy nghĩ vấn đề, không thể xa rời hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不断",
+   "meaning": "không ngừng",
+   "example": "新生事物不断涌现",
+   "exampleMeaning": "Sự việc mới nảy sinh liên tục",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùduàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "媒体",
+   "meaning": "truyền thông",
+   "example": "我们来学“媒体”这个词。",
+   "exampleMeaning": "Cùng học từ “媒体”: truyền thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méitǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "内容",
+   "meaning": "nội dung",
+   "example": "这次谈话的内容牵涉的面很广。",
+   "exampleMeaning": "Nội dung của cuộc nói chuyện lần này đề cập đến một khía cạnh rất rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèiróng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上面",
+   "meaning": "trên",
+   "example": "小河上面跨着一座石桥。",
+   "exampleMeaning": "Một chiếc cầu đá bắc ngang qua sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "痛",
+   "meaning": "đau, nhức, nhức nhối",
+   "example": "伤口很痛",
+   "exampleMeaning": "Vết thương rất đau nhức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tòng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "感情",
+   "meaning": "tình cảm",
+   "example": "怕傷害了他的感情，我沒有告訴他真相。",
+   "exampleMeaning": "Vì sợ làm tổn thương cảm xúc của anh ấy nên tôi đã không nói sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "观众",
+   "meaning": "khán giả",
+   "example": "演出结束，观众起立鼓掌。",
+   "exampleMeaning": "Kết thúc buổi diễn, khán giả đứng dậy vỗ tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "变化",
+   "meaning": "đổi, thay đổi, đổi chác",
+   "example": "化学变化。",
+   "exampleMeaning": "Biến đổi hoá học",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànhuà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美丽",
+   "meaning": "đẹp",
+   "example": "美丽祖国的山河是多么庄严美丽!",
+   "exampleMeaning": "Non sông đất nước uy nghiêm tươi đẹp biết bao!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měilì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "追",
+   "meaning": "đuổi, xua đuổi",
+   "example": "一定要把这事的根底追出来。",
+   "exampleMeaning": "Nhất định phải tìm cho ra gốc gác chuyện này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "经验",
+   "meaning": "kinh nghiệm",
+   "example": "你有工作经验吗?",
+   "exampleMeaning": "Anh có kinh nghiệm chuyên môn không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngyàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集中",
+   "meaning": "tập trung",
+   "example": "集中优势兵力，各个歼灭敌人。",
+   "exampleMeaning": "Tập trung binh lực lại, tiêu diệt địch từng bộ phận một.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jízhōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "破",
+   "meaning": "đánh bại",
+   "example": "历览前贤国与家，成由勤俭破由奢。",
+   "exampleMeaning": "Xem xét các bậc tiền bối trong nước và gia đình, thành công là nhờ chăm chỉ và tiết kiệm, còn thất bại là do xa hoa và lãng phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pò",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "理由",
+   "meaning": "lý do",
+   "example": "理由充足。",
+   "exampleMeaning": "Đầy đủ lý do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐyóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刀",
+   "meaning": "dao",
+   "example": "他买了一把特别大的屠刀，拿出来不停地磨呀抢呀。",
+   "exampleMeaning": "Anh ta mua một con dao bầu thật to, đem ra cứ mài mài liếc liếc mãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāo",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "感受",
+   "meaning": "nhận (ảnh hưởng)",
+   "example": "汤姆不能把他的真实感受告诉玛丽。",
+   "exampleMeaning": "Tom không nói được với Mary cảm xúc thực sự của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "完美",
+   "meaning": "tốt đẹp hoàn toàn",
+   "example": "完美无疵。",
+   "exampleMeaning": "Tốt đẹp hoàn toàn không chút tỳ vết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wánměi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直到",
+   "meaning": "mãi đến",
+   "example": "这事直到今天我才知道。",
+   "exampleMeaning": "Việc này mãi đến hôm nay tôi mới biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhídào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "有",
+    "工作",
+    "经验",
+    "吗"
+   ],
+   "reading": "nǐ yǒu gōngzuò jīngyàn ma",
+   "meaning": "Anh có kinh nghiệm chuyên môn không?"
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "不",
+    "能",
+    "把",
+    "他",
+    "的",
+    "真实",
+    "感受",
+    "告诉",
+    "玛丽"
+   ],
+   "reading": "tāngmǔ bù néng bǎ tā de zhēnshí gǎnshòu gàosu mǎlì",
+   "meaning": "Tom không nói được với Mary cảm xúc thực sự của anh ấy."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "脱",
+    "了",
+    "口罩"
+   ],
+   "reading": "tāngmǔ tuō le kǒuzhào",
+   "meaning": "Tom đã tháo mặt nạ ra rồi đấy."
+  },
+  {
+   "tokens": [
+    "我",
+    "要",
+    "环游",
+    "世界"
+   ],
+   "reading": "wǒ yào huányóu shìjiè",
+   "meaning": "Tôi muốn đi vòng quanh thế giới."
+  },
+  {
+   "tokens": [
+    "你",
+    "会",
+    "说",
+    "法语",
+    "吗"
+   ],
+   "reading": "nǐ huì shuō fǎyǔ ma",
+   "meaning": "Cậu có biết nói tiếng Pháp không?"
+  }
+ ],
+ "issues": []
+}

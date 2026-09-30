@@ -1,0 +1,327 @@
+{
+ "lesson": 121,
+ "draft": true,
+ "words": [
+  {
+   "term": "率",
+   "meaning": "thẳng thắn",
+   "example": "班长率本班战士出击。",
+   "exampleMeaning": "Tiểu đội trưởng dẫn đầu các chiến sĩ xuất binh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "半场",
+   "meaning": "một nửa của trò chơi hoặc cuộc thi",
+   "example": "我们来学“半场”这个词。",
+   "exampleMeaning": "Cùng học từ “半场”: một nửa của trò chơi hoặc cuộc thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吻",
+   "meaning": "cái hôn",
+   "example": "我们来学“吻”这个词。",
+   "exampleMeaning": "Cùng học từ “吻”: cái hôn.",
+   "emoji": "💏",
+   "ipa": "",
+   "pinyin": "wěn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主义",
+   "meaning": "chủ nghĩa",
+   "example": "马克思列宁主义",
+   "exampleMeaning": "Chủ nghĩa Mác - Lê Nin",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "从未",
+   "meaning": "chẳng bao giờ",
+   "example": "我们来学“从未”这个词。",
+   "exampleMeaning": "Cùng học từ “从未”: chẳng bao giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "业",
+   "meaning": "nghiệp",
+   "example": "她把所有的业余时间都用在钓鱼上了。",
+   "exampleMeaning": "Cô ấy sử dụng thời gian rảnh rỗi để câu cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "码",
+   "meaning": "việc, xếp, mã",
+   "example": "密码是\"Muiriel\"。",
+   "exampleMeaning": "Mật mã là \"Muiriel\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "惊",
+   "meaning": "động",
+   "example": "胆战心惊。",
+   "exampleMeaning": "Sợ hãi; sợ sệt; hoảng sợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "情报",
+   "meaning": "tình báo",
+   "example": "科学技术情报。",
+   "exampleMeaning": "Tình báo khoa học kỹ thuật.",
+   "emoji": "ℹ",
+   "ipa": "",
+   "pinyin": "qíngbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尿",
+   "meaning": "đi đái, đi tiểu",
+   "example": "小孩儿又尿(",
+   "exampleMeaning": "Niào)了一泡尿。đứa bé tè một đống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "金属",
+   "meaning": "kim loại",
+   "example": "我们来学“金属”这个词。",
+   "exampleMeaning": "Cùng học từ “金属”: kim loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnshǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眼神",
+   "meaning": "ánh mắt",
+   "example": "我们来学“眼神”这个词。",
+   "exampleMeaning": "Cùng học từ “眼神”: ánh mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnshén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "灰",
+   "meaning": "bụi",
+   "example": "把桌子上的灰掸掉。",
+   "exampleMeaning": "Lau bụi trên bàn đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "计",
+   "meaning": "kế",
+   "example": "我们算计着改革生产流程。",
+   "exampleMeaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jì",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "斗",
+   "meaning": "chắp",
+   "example": "这件小袄儿是用各色花布斗起来的。",
+   "exampleMeaning": "Cái áo cộc này chắp bằng các thứ vải hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公寓",
+   "meaning": "nhà trọ",
+   "example": "我们来学“公寓”这个词。",
+   "exampleMeaning": "Cùng học từ “公寓”: nhà trọ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "产",
+   "meaning": "sản",
+   "example": "我国是一个人口众多，物产丰富的国家。",
+   "exampleMeaning": "Nước tôi là một nước đông người nhiều của.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "基因",
+   "meaning": "gien",
+   "example": "显性基因",
+   "exampleMeaning": "Tính trội (trong di truyền)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīyīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "革命",
+   "meaning": "cải cách triệt để",
+   "example": "越南八月革命是一次民族解放革命。",
+   "exampleMeaning": "Cách mạng tháng tám Việt Nam là một cuộc cách mạng giải phóng dân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gémìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "官员",
+   "meaning": "nhân viên",
+   "example": "大小官员上千人。",
+   "exampleMeaning": "Nhân viên lớn nhỏ hơn ngàn người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "工业",
+    "发展",
+    "迅速"
+   ],
+   "reading": "gōngyè fāzhǎn xùnsù",
+   "meaning": "Công nghiệp phát triển nhanh chóng."
+  },
+  {
+   "tokens": [
+    "要",
+    "努力",
+    "完成",
+    "计划"
+   ],
+   "reading": "yào nǔlì wánchéng jìhuà",
+   "meaning": "Hãy ra sức hoàn thành kế hoạch."
+  },
+  {
+   "tokens": [
+    "我",
+    "的",
+    "鼻子",
+    "没办法",
+    "呼吸",
+    "了"
+   ],
+   "reading": "wǒ de bízi méibànfǎ hūxī le",
+   "meaning": "Tôi không thể thở bằng mũi."
+  },
+  {
+   "tokens": [
+    "你",
+    "就",
+    "只",
+    "抄",
+    "了",
+    "这么",
+    "多",
+    "张",
+    "啊"
+   ],
+   "reading": "nǐ jiù zhǐ chāo le zhème duō zhāng ā",
+   "meaning": "Anh chỉ chép được có bây nhiêu trang thôi à?"
+  }
+ ],
+ "issues": []
+}

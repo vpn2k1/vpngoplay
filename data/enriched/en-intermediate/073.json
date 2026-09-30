@@ -1,0 +1,325 @@
+{
+ "lesson": 73,
+ "draft": true,
+ "words": [
+  {
+   "term": "candle",
+   "meaning": "nến",
+   "example": "Tom is holding a lit candle in his right hand.",
+   "exampleMeaning": "Tom đang cầm một cây nến cháy sáng bằng tay phải.",
+   "emoji": "🕯",
+   "ipa": "/ˈkændəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "leading",
+   "meaning": "thế lực, ảnh hưởng",
+   "example": "men of light and leading",
+   "exampleMeaning": "Những người có uy tín và thế lực",
+   "emoji": "",
+   "ipa": "/ˈlidɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gesture",
+   "meaning": "động thái, động tác",
+   "example": "his speech is a gesture of friendship",
+   "exampleMeaning": "Lời nói của anh ta là một biểu hiện của tình hữu nghị",
+   "emoji": "",
+   "ipa": "/ˈdʒɛstʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tumble",
+   "meaning": "ngã, sụp đổ, đổ nhào",
+   "example": "the house is going to tumble down",
+   "exampleMeaning": "Căn nhà sắp đổ sụp",
+   "emoji": "",
+   "ipa": "/ˈtəmbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prison",
+   "meaning": "nhà tù, nhà lao, nhà giam",
+   "example": "How long were you in prison?",
+   "exampleMeaning": "Ngươi đã ở trong tù bao lâu?",
+   "emoji": "",
+   "ipa": "/ˈprɪzən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adolescent",
+   "meaning": "đang tuổi thiếu niên, trẻ",
+   "example": "Let's learn the word \"adolescent\".",
+   "exampleMeaning": "Cùng học từ “adolescent”: đang tuổi thiếu niên, trẻ.",
+   "emoji": "",
+   "ipa": "/ˌædəˈlɛsənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vessel",
+   "meaning": "bình, chậu, lọ",
+   "example": "Let's learn the word \"vessel\".",
+   "exampleMeaning": "Cùng học từ “vessel”: bình, chậu, lọ.",
+   "emoji": "",
+   "ipa": "/ˈvɛsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "characteristic",
+   "meaning": "đặc tính, đặc điểm",
+   "example": "the characteristic of a society",
+   "exampleMeaning": "Đặc điểm của một xã hội",
+   "emoji": "",
+   "ipa": "/ˌkɛrəktɜrˈɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "housework",
+   "meaning": "công việc trong nhà (nấu ăn, giặt",
+   "example": "I left the housework undone.",
+   "exampleMeaning": "Tôi chưa làm việc nhà.",
+   "emoji": "",
+   "ipa": "/ˈhaʊˌswɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bet",
+   "meaning": "đánh cược, đánh cá",
+   "example": "to lay (make) a bet",
+   "exampleMeaning": "Đánh cược",
+   "emoji": "",
+   "ipa": "/ˈbɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "campsite",
+   "meaning": "địa điểm cắm trại",
+   "example": "Let's learn the word \"campsite\".",
+   "exampleMeaning": "Cùng học từ “campsite”: địa điểm cắm trại.",
+   "emoji": "",
+   "ipa": "/ˈkæmpˌsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "religion",
+   "meaning": "tôn giáo, đạo",
+   "example": "to make a religion of something",
+   "exampleMeaning": "Sùng bái cái gì; coi cái gì như là việc có nghĩa vụ phải làm",
+   "emoji": "",
+   "ipa": "/riˈlɪdʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inhabitant",
+   "meaning": "người ở, người cư trú, dân cư",
+   "example": "Let's learn the word \"inhabitant\".",
+   "exampleMeaning": "Cùng học từ “inhabitant”: người ở, người cư trú, dân cư.",
+   "emoji": "",
+   "ipa": "/ɪnˈhæbətənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aim",
+   "meaning": "nhắm, chĩa",
+   "example": "to aim one's gun at the enemy",
+   "exampleMeaning": "Chĩa súng vào quân thù, nhắm bắn quân thù",
+   "emoji": "",
+   "ipa": "/ˈeɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "surprisingly",
+   "meaning": "làm ngạc nhiên, làm kinh ngạc",
+   "example": "Let's learn the word \"surprisingly\".",
+   "exampleMeaning": "Cùng học từ “surprisingly”: làm ngạc nhiên, làm kinh ngạc.",
+   "emoji": "",
+   "ipa": "/səˈpraɪzɪŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outdoor",
+   "meaning": "ngoài trời, ở ngoài",
+   "example": "an outdoor class",
+   "exampleMeaning": "Một lớp học ngoài trời",
+   "emoji": "",
+   "ipa": "/ˈaʊtˌdɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "comparison",
+   "meaning": "so sánh",
+   "example": "to bear (stand) comparison with",
+   "exampleMeaning": "Có thể so sánh với",
+   "emoji": "",
+   "ipa": "/kəmˈpɛrəsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "locate",
+   "meaning": "xác định đúng vị trí, xác định đúng chỗ",
+   "example": "Let's learn the word \"locate\".",
+   "exampleMeaning": "Cùng học từ “locate”: xác định đúng vị trí, xác định đúng chỗ.",
+   "emoji": "",
+   "ipa": "/ˈloʊˌkeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "insist",
+   "meaning": "cứ nhất định",
+   "example": "Why do you insist? I already said no!",
+   "exampleMeaning": "Tại sao bạn cứ nài nỉ? Tôi đã nói là không!",
+   "emoji": "",
+   "ipa": "/ˌɪnˈsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "situate",
+   "meaning": "đặt ở vị trí, đặt chỗ cho",
+   "example": "Let's learn the word \"situate\".",
+   "exampleMeaning": "Cùng học từ “situate”: đặt ở vị trí, đặt chỗ cho.",
+   "emoji": "",
+   "ipa": "/ˈsɪtʃuˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "insist",
+    "that",
+    "I'm",
+    "innocent"
+   ],
+   "reading": "",
+   "meaning": "Tôi khẳng định rằng tôi vô tội."
+  },
+  {
+   "tokens": [
+    "That",
+    "religion",
+    "has",
+    "now",
+    "disappeared"
+   ],
+   "reading": "",
+   "meaning": "Tôn giáo đó hiện nay không còn nữa."
+  },
+  {
+   "tokens": [
+    "The",
+    "Earth",
+    "is",
+    "a",
+    "prison"
+   ],
+   "reading": "",
+   "meaning": "Trái Đất là một nhà tù."
+  },
+  {
+   "tokens": [
+    "I",
+    "met",
+    "him",
+    "in",
+    "prison"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã gặp anh ấy trong tù."
+  },
+  {
+   "tokens": [
+    "She",
+    "has",
+    "no",
+    "opinion",
+    "about",
+    "religion"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy chẳng biết gì về tôn giáo."
+  }
+ ],
+ "issues": []
+}

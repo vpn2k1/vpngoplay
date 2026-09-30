@@ -1,0 +1,329 @@
+{
+ "lesson": 38,
+ "draft": true,
+ "words": [
+  {
+   "term": "stir",
+   "meaning": "khuấy, quấy",
+   "example": "to give one's coffec a stir",
+   "exampleMeaning": "Khuấy cà phê",
+   "emoji": "",
+   "ipa": "/ˈstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "voyage",
+   "meaning": "đi du lịch xa bằng đường biển",
+   "example": "to go on a voyage",
+   "exampleMeaning": "Đi du lịch xa bằng đường biển",
+   "emoji": "",
+   "ipa": "/ˈvɔɪədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "emphasize",
+   "meaning": "nhấn mạnh",
+   "example": "I want to emphasize this point in particular.",
+   "exampleMeaning": "Tôi muốn đặc biệt nhấn mạnh điểm này.",
+   "emoji": "",
+   "ipa": "/ˈɛmfəˌsaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "transformation",
+   "meaning": "sự thay đổi, sự biến đổi",
+   "example": "Let's learn the word \"transformation\".",
+   "exampleMeaning": "Cùng học từ “transformation”: sự thay đổi, sự biến đổi.",
+   "emoji": "",
+   "ipa": "/ˌtrænsfɜrˈmeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "settle",
+   "meaning": "giải quyết, ổn định tư tưởng, dàn xếp",
+   "example": "to settle a unit in a village",
+   "exampleMeaning": "Bố trí đơn vị ở một làng",
+   "emoji": "",
+   "ipa": "/ˈsɛtl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "massive",
+   "meaning": "to lớn, đồ sộ",
+   "example": "a massive pillar",
+   "exampleMeaning": "Một cái cột đồ sộ",
+   "emoji": "",
+   "ipa": "/ˈmæsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "palm",
+   "meaning": "đánh lừa, đánh lộn sòng, đánh tráo",
+   "example": "to palm off something upon (on) somebody",
+   "exampleMeaning": "Đánh lừa mà tống cái gì cho ai",
+   "emoji": "",
+   "ipa": "/ˈpɑlm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gifted",
+   "meaning": "có tài, thiên tài, có năng khiếu",
+   "example": "a gifted musician",
+   "exampleMeaning": "Một nhạc sĩ có tài",
+   "emoji": "",
+   "ipa": "/ˈɡɪftəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "naked",
+   "meaning": "trần, trần truồng, khoả thân",
+   "example": "A naked man fears no pickpocket.",
+   "exampleMeaning": "Kẻ trần truồng không sợ bọn móc túi.",
+   "emoji": "",
+   "ipa": "/ˈneɪkəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unclear",
+   "meaning": "không rõ, không sáng",
+   "example": "Let's learn the word \"unclear\".",
+   "exampleMeaning": "Cùng học từ “unclear”: không rõ, không sáng.",
+   "emoji": "",
+   "ipa": "/ənˈklɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pocket money",
+   "meaning": "tiền túi",
+   "example": "Tom bought a LaWS with his pocket money.",
+   "exampleMeaning": "Tom đã mua LaWS bằng tiền túi của mình.",
+   "emoji": "",
+   "ipa": "/ˈpɑkət ˈməni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "insight",
+   "meaning": "sự nhìn thấu được bên trong sự vật",
+   "example": "Let's learn the word \"insight\".",
+   "exampleMeaning": "Cùng học từ “insight”: sự nhìn thấu được bên trong sự vật.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cell",
+   "meaning": "tế bào",
+   "example": "I'm gonna get a cell phone tomorrow!",
+   "exampleMeaning": "Ngày mai tôi sẽ mua một chiếc điện thoại di động.",
+   "emoji": "",
+   "ipa": "/ˈsɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "handwriting",
+   "meaning": "chữ viết tay",
+   "example": "Do you know whose handwriting this is?",
+   "exampleMeaning": "Bạn có biết đây là chữ của ai không?",
+   "emoji": "",
+   "ipa": "/ˈhænˌdraɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sequence",
+   "meaning": "dãy",
+   "example": "important events occur in rapid sequence",
+   "exampleMeaning": "Những sự kiện quan trọng xảy ra liên tiếp",
+   "emoji": "",
+   "ipa": "/ˈsikwəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "unbelievable",
+   "meaning": "không thể tin được, khó tin (sự việc)",
+   "example": "Let's learn the word \"unbelievable\".",
+   "exampleMeaning": "Cùng học từ “unbelievable”: không thể tin được, khó tin (sự việc).",
+   "emoji": "",
+   "ipa": "/ˌənbəˈlivəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "comma",
+   "meaning": "dấu phẩy",
+   "example": "A comma isn't needed here.",
+   "exampleMeaning": "Không cần dấu phẩy ở đây.",
+   "emoji": "",
+   "ipa": "/ˈkɑmə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "innovator",
+   "meaning": "người đưa vào những cái mới",
+   "example": "Let's learn the word \"innovator\".",
+   "exampleMeaning": "Cùng học từ “innovator”: người đưa vào những cái mới.",
+   "emoji": "",
+   "ipa": "/ˈɪnəˌveɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thunderous",
+   "meaning": "âm ấm, vang như sấm",
+   "example": "a thunderous voice",
+   "exampleMeaning": "Giọng vang như sấm",
+   "emoji": "",
+   "ipa": "/ˈθəndɜrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wristwatch",
+   "meaning": "đồng hồ đeo tay",
+   "example": "He's lost his wristwatch and now he's looking for them.",
+   "exampleMeaning": "Anh ấy bị mất đồng hồ đeo tay và giờ đang tìm nó.",
+   "emoji": "",
+   "ipa": "/ˈrɪstˌwɑtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "A",
+    "comma",
+    "isn't",
+    "needed",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Không cần dấu phẩy ở đây."
+  },
+  {
+   "tokens": [
+    "My",
+    "brother",
+    "is",
+    "very",
+    "gifted"
+   ],
+   "reading": "",
+   "meaning": "Anh trai tôi rất tài năng."
+  },
+  {
+   "tokens": [
+    "Their",
+    "scope",
+    "and",
+    "shape",
+    "is",
+    "unclear"
+   ],
+   "reading": "",
+   "meaning": "Phạm vi và hình dạng của chúng là không rõ ràng."
+  },
+  {
+   "tokens": [
+    "We'll",
+    "settle",
+    "this",
+    "when",
+    "I",
+    "get",
+    "back"
+   ],
+   "reading": "",
+   "meaning": "Bọn mình sẽ giải quyết việc này khi tớ về."
+  },
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "know",
+    "whose",
+    "handwriting",
+    "this",
+    "is"
+   ],
+   "reading": "",
+   "meaning": "Bạn có biết đây là chữ của ai không?"
+  }
+ ],
+ "issues": []
+}

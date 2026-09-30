@@ -1,0 +1,328 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "运送",
+   "meaning": "chuyên chở",
+   "example": "运送肥料",
+   "exampleMeaning": "Chuyên chở phân bón",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùnsòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "使者",
+   "meaning": "sứ giả",
+   "example": "我们来学“使者”这个词。",
+   "exampleMeaning": "Cùng học từ “使者”: sứ giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǐzhě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打仗",
+   "meaning": "đánh trận",
+   "example": "我们来学“打仗”这个词。",
+   "exampleMeaning": "Cùng học từ “打仗”: đánh trận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎzhàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "龟",
+   "meaning": "rùa ((thường) chỉ rùa ở cạn)",
+   "example": "我们来学“龟”这个词。",
+   "exampleMeaning": "Cùng học từ “龟”: rùa ((thường) chỉ rùa ở cạn).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guī",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "决议",
+   "meaning": "nghị quyết",
+   "example": "党中央的决议",
+   "exampleMeaning": "Nghị quyết của trung ương đảng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "期盼",
+   "meaning": "hy vọng và mong đợi",
+   "example": "我们来学“期盼”这个词。",
+   "exampleMeaning": "Cùng học từ “期盼”: hy vọng và mong đợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīpàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "把手",
+   "meaning": "bắt tay",
+   "example": "我们来学“把手”这个词。",
+   "exampleMeaning": "Cùng học từ “把手”: bắt tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎshou",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余",
+   "meaning": "hơn",
+   "example": "事实证明了我们的担心是多余的。",
+   "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "过错",
+   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "example": "这不是你的过错。",
+   "exampleMeaning": "Đây không phải là lỗi của anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòcuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "软弱",
+   "meaning": "yếu, yếu ớt",
+   "example": "病后身体软弱。",
+   "exampleMeaning": "Bệnh xong, người yếu ớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruǎnruò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "和解",
+   "meaning": "hoà giải",
+   "example": "他们的争执已经得到和解。",
+   "exampleMeaning": "Sự tranh chấp của họ đã được hoà giải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抑郁",
+   "meaning": "uất ức",
+   "example": "心情抑郁",
+   "exampleMeaning": "Phiền muộn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "报社",
+   "meaning": "toà soạn",
+   "example": "我们来学“报社”这个词。",
+   "exampleMeaning": "Cùng học từ “报社”: toà soạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàoshè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "解散",
+   "meaning": "giải tán",
+   "example": "队伍解散后，大家都在操场上休息喝水。",
+   "exampleMeaning": "Sau khi giải tán đội ngũ, mọi người nghỉ ngơi uống nước trên thao trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěsàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "筹备",
+   "meaning": "trù bị",
+   "example": "筹备委员会。",
+   "exampleMeaning": "Uỷ viên ban trù bị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóubèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "装扮",
+   "meaning": "trang trí",
+   "example": "节日的广场装扮得分外美丽。",
+   "exampleMeaning": "Quãng trường vào những ngày lễ được trang trí rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuāngbàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "良",
+   "meaning": "rất",
+   "example": "呻吟未止忘良医。",
+   "exampleMeaning": "Chưa khỏi rên đã quên thầy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "结尾",
+   "meaning": "giai đoạn kết thúc",
+   "example": "结尾工程。",
+   "exampleMeaning": "Giai đoạn kết thúc công trình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéwěi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "严密",
+   "meaning": "chặt chẽ",
+   "example": "这篇小说的结构十分严密。",
+   "exampleMeaning": "Kết cấu của tiểu thuyết này rất chặt chẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánmì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "排斥",
+   "meaning": "bài xích",
+   "example": "带同种电荷的物体相排斥。",
+   "exampleMeaning": "Hai vật nhiễm điện cùng cực thì đẩy nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "páichì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "昨天",
+    "抵达",
+    "东京"
+   ],
+   "reading": "tā zuótiān dǐdá dōngjīng",
+   "meaning": "Anh ấy đã đến Tokyo hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "的",
+    "身体",
+    "太",
+    "瘦",
+    "了"
+   ],
+   "reading": "tā de shēntǐ tài shòu le",
+   "meaning": "Mình anh ta gầy quá."
+  }
+ ],
+ "issues": []
+}

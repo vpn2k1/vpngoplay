@@ -1,0 +1,329 @@
+{
+ "lesson": 143,
+ "draft": true,
+ "words": [
+  {
+   "term": "扩散",
+   "meaning": "lan rộng",
+   "example": "浓烟扩散到村庄的上空。",
+   "exampleMeaning": "Khói mịt mù phủ khắp vòm trời trong thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuòsàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "条款",
+   "meaning": "điều khoản",
+   "example": "法律条款",
+   "exampleMeaning": "Các điều khoản luật pháp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáokuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心思",
+   "meaning": "ý nghĩ",
+   "example": "想心思(转念头)。",
+   "exampleMeaning": "Rà soát lại ý nghĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnsi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "贿赂",
+   "meaning": "đút lót, hối lộ, mua chuộc",
+   "example": "贿赂上司",
+   "exampleMeaning": "Hối lộ cấp trên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìlù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "硬盘",
+   "meaning": "phần cứng",
+   "example": "我们来学“硬盘”这个词。",
+   "exampleMeaning": "Cùng học từ “硬盘”: phần cứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìngpán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无线",
+   "meaning": "không dây",
+   "example": "我们来学“无线”这个词。",
+   "exampleMeaning": "Cùng học từ “无线”: không dây.",
+   "emoji": "🛜",
+   "ipa": "",
+   "pinyin": "wúxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "封锁",
+   "meaning": "phong toả, bao vây",
+   "example": "经济封锁",
+   "exampleMeaning": "Bao vây kinh tế",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngsuǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "命名",
+   "meaning": "đặt tên",
+   "example": "命名典礼。",
+   "exampleMeaning": "Lễ đặt tên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìngmíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "部署",
+   "meaning": "sắp xếp",
+   "example": "总体部署",
+   "exampleMeaning": "Sắp xếp lại tổng thể",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùshǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "样本",
+   "meaning": "hàng mẫu",
+   "example": "我们来学“样本”这个词。",
+   "exampleMeaning": "Cùng học từ “样本”: hàng mẫu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàngběn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赋予",
+   "meaning": "trao cho",
+   "example": "这是历史赋予我们的重任。",
+   "exampleMeaning": "Đây là nhiệm vụ quan trọng mà lịch sử đã trao cho chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùyǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进程",
+   "meaning": "tiến trình",
+   "example": "历史的进程。",
+   "exampleMeaning": "Dòng lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "氧",
+   "meaning": "oxy",
+   "example": "我们来学“氧”这个词。",
+   "exampleMeaning": "Cùng học từ “氧”: oxy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "见证",
+   "meaning": "chứng kiến",
+   "example": "见证人。",
+   "exampleMeaning": "Người chứng kiến; nhân chứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "血压",
+   "meaning": "huyết áp",
+   "example": "我们来学“血压”这个词。",
+   "exampleMeaning": "Cùng học từ “血压”: huyết áp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuèyā",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "钩",
+   "meaning": "móc",
+   "example": "把掉在井里头的东西钩上来。",
+   "exampleMeaning": "Móc vật rơi dưới giếng lên.",
+   "emoji": "🪝",
+   "ipa": "",
+   "pinyin": "gōu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "盗",
+   "meaning": "cướp, cướp đoạt",
+   "example": "欺世盗名",
+   "exampleMeaning": "Trộm danh bịp đời (bịp thiên hạ bằng danh xưng mà mình không có)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "识别",
+   "meaning": "phân biệt",
+   "example": "识别真伪.",
+   "exampleMeaning": "Phân biệt thật giả。",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "异性",
+   "meaning": "khác giới",
+   "example": "异性的电互相吸引，同性的电互相排斥。",
+   "exampleMeaning": "Điện khác dấu thì hút nhau, điện cùng dấu thì đẩy nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "颇",
+   "meaning": "rất",
+   "example": "颇不以为然。",
+   "exampleMeaning": "Có phần không hài lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "穿",
+    "衣服",
+    "一向",
+    "很",
+    "随便",
+    "颜色",
+    "样式",
+    "都",
+    "无所谓"
+   ],
+   "reading": "tā chuān yīfu yīxiàng hěn suíbiàn yánsè yàngshì dōu wúsuǒwèi",
+   "meaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được."
+  },
+  {
+   "tokens": [
+    "综上所述",
+    "我们",
+    "认为",
+    "离婚",
+    "是",
+    "一种",
+    "不",
+    "道德",
+    "的",
+    "行为"
+   ],
+   "reading": "zōngshàngsuǒshù wǒmen rènwéi líhūn shì yīzhǒng bù dàodé de xíngwéi",
+   "meaning": "Nói tóm lại, chúng tôi cho rằng ly hôn là một hành vi không có đạo đức."
+  },
+  {
+   "tokens": [
+    "别",
+    "逼",
+    "我"
+   ],
+   "reading": "bié bī wǒ",
+   "meaning": "Đừng ép tôi!"
+  },
+  {
+   "tokens": [
+    "他",
+    "疯",
+    "了"
+   ],
+   "reading": "tā fēng le",
+   "meaning": "Anh ta điên rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  }
+ ],
+ "issues": []
+}

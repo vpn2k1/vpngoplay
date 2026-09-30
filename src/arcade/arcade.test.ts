@@ -81,7 +81,8 @@ describe.each(decks.map((d) => [d.id, d] as const))('arcade challenges — %s', 
     for (const w of deck.words) {
       const ch = makeChallenge(w, deck.lang, 'write')
       const hint = typingHint(ch, '', false)!
-      const shown = hint.replace(/[\s_＿]/g, '')
+      // Hyphens, dots and apostrophes ("well-known", "p.m.") are shown as structure, like spaces.
+      const shown = hint.replace(/[\s_＿]/g, '').replace(/[^\p{L}\p{N}]/gu, '')
       expect(shown.length, `${w.id}: ${hint}`).toBe(1)
       expect(hint).not.toContain(w.term.length > 1 ? w.term : '\u0000')
     }
@@ -139,9 +140,11 @@ describe.each(langs)('combineDecks — %s', (lang) => {
   })
 
   it('misses are scheduled in the source deck, not the combined one', () => {
+    // A map, not find(): with the 3,000-word courses a language has ~9,000 words.
+    const bySrsKey = new Map(all.words.map((x) => [x.srsKey, x]))
     for (const d of own)
       for (const w of d.words) {
-        const merged = all.words.find((x) => x.srsKey === cardKey(d.id, w.id))
+        const merged = bySrsKey.get(cardKey(d.id, w.id))
         expect(merged, `${d.id}/${w.id}`).toBeDefined()
         expect(wordCardKey(all.id, merged!)).toBe(cardKey(d.id, w.id))
       }

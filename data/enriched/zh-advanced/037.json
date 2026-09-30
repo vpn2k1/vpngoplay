@@ -1,0 +1,326 @@
+{
+ "lesson": 37,
+ "draft": true,
+ "words": [
+  {
+   "term": "末日",
+   "meaning": "ngày diệt vong",
+   "example": "我们来学“末日”这个词。",
+   "exampleMeaning": "Cùng học từ “末日”: ngày diệt vong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mòrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鄙视",
+   "meaning": "khinh",
+   "example": "鄙视他因为他是胆小鬼。",
+   "exampleMeaning": "Xem thường anh ấy vì anh ấy quá nhát gan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "元首",
+   "meaning": "nguyên thủ",
+   "example": "国家元首",
+   "exampleMeaning": "Nguyên thủ quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纱",
+   "meaning": "sợi (sợi bông, chỉ bông), vải gạt, sợi bông",
+   "example": "塑料纱。",
+   "exampleMeaning": "Lưới nhựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阶级",
+   "meaning": "giai cấp",
+   "example": "人生在世，不属于这个阶级就属于那个阶级。",
+   "exampleMeaning": "Người ta sống trên đời không thuộc về giai cấp này thì thuộc giai cấp khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiējí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "头晕",
+   "meaning": "chóng mặt",
+   "example": "我们来学“头晕”这个词。",
+   "exampleMeaning": "Cùng học từ “头晕”: chóng mặt.",
+   "emoji": "💫",
+   "ipa": "",
+   "pinyin": "tóuyūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中途",
+   "meaning": "giữa đường",
+   "example": "在回家的中途下开了大雨。",
+   "exampleMeaning": "Trên đường về nhà, giữa đường gặp mưa to.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngtú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "映",
+   "meaning": "sáng, bóng",
+   "example": "垂柳倒映在水里。",
+   "exampleMeaning": "Cây liễu rủ soi bóng trên mặt nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "独一无二",
+   "meaning": "độc nhất vô nhị",
+   "example": "我们来学“独一无二”这个词。",
+   "exampleMeaning": "Cùng học từ “独一无二”: độc nhất vô nhị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúyīwúèr",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "经受",
+   "meaning": "trải qua",
+   "example": "她经受得够多了。",
+   "exampleMeaning": "Nó đã trải qua rất nhiều chuyện rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "亮相",
+   "meaning": "làm nổi bật tâm tư của nhân vật (trong hí khúc)",
+   "example": "我们来学“亮相”这个词。",
+   "exampleMeaning": "Cùng học từ “亮相”: làm nổi bật tâm tư của nhân vật (trong hí khúc).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liàngxiàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "懒得",
+   "meaning": "chẳng muốn, chẳng thích (làm việc)",
+   "example": "天太热，我懒得上街。",
+   "exampleMeaning": "Trời nóng bức quá, tôi lười chẳng muốn ra phố nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎndé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "少量",
+   "meaning": "chút ít",
+   "example": "我们来学“少量”这个词。",
+   "exampleMeaning": "Cùng học từ “少量”: chút ít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎoliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捐献",
+   "meaning": "tặng, cho, biếu",
+   "example": "为该计划捐献10万元。",
+   "exampleMeaning": "Đóng góp 10 ngàn cho kế hoạch này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juānxiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "接手",
+   "meaning": "tiếp nhận",
+   "example": "他走后， 俱乐部工作由你接手。",
+   "exampleMeaning": "Sau khi cậu ấy đi, công tác của câu lạc bộ do anh tiếp nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "即可",
+   "meaning": "là được rồi",
+   "example": "我们来学“即可”这个词。",
+   "exampleMeaning": "Cùng học từ “即可”: là được rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíkě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小品",
+   "meaning": "tiểu phẩm (văn học, nghệ thuật)",
+   "example": "表演练习小品。",
+   "exampleMeaning": "Biểu diễn tiểu phẩm luyện tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎopǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "线条",
+   "meaning": "đường nét",
+   "example": "这幅画的线条非常柔和。",
+   "exampleMeaning": "Đường nét của bức tranh này hết sức hài hoà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàntiáo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "栽",
+   "meaning": "ngã",
+   "example": "栽上了罪名。",
+   "exampleMeaning": "Gán tội cho người khác",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "取胜",
+   "meaning": "giành thắng lợi",
+   "example": "我们来学“取胜”这个词。",
+   "exampleMeaning": "Cùng học từ “取胜”: giành thắng lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔshèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "拥抱",
+    "汤姆"
+   ],
+   "reading": "nǐ zhēn de yōngbào tāngmǔ",
+   "meaning": "Cậu thật sự ôm Tom?"
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "应该",
+    "放弃"
+   ],
+   "reading": "kěnéng nǐ yīnggāi fàngqì",
+   "meaning": "Có lẽ bạn nên bỏ cuộc."
+  },
+  {
+   "tokens": [
+    "他",
+    "放弃",
+    "了",
+    "所有",
+    "希望"
+   ],
+   "reading": "tā fàngqì le suǒyǒu xīwàng",
+   "meaning": "Anh ta từ bỏ mọi hy vọng"
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  }
+ ],
+ "issues": []
+}

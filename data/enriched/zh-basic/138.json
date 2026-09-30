@@ -1,0 +1,327 @@
+{
+ "lesson": 138,
+ "draft": true,
+ "words": [
+  {
+   "term": "淡",
+   "meaning": "nhạt",
+   "example": "淡 淡地答应了一声。",
+   "exampleMeaning": "Đáp một tiếng hờ hững.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "江",
+   "meaning": "giang",
+   "example": "黑龙江。",
+   "exampleMeaning": "Hắc Long Giang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "办事",
+   "meaning": "làm việc",
+   "example": "办事的时候走后门，是很不好的。",
+   "exampleMeaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "塑料",
+   "meaning": "nhựa",
+   "example": "我们来学“塑料”这个词。",
+   "exampleMeaning": "Cùng học từ “塑料”: nhựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sùliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "做梦",
+   "meaning": "nằm mơ",
+   "example": "白日做梦",
+   "exampleMeaning": "Nằm mơ giữa ban ngày",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòmèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分散",
+   "meaning": "phân tán",
+   "example": "山村的人家住得很分散。",
+   "exampleMeaning": "Nhà cửa trong thôn rất tản mác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnsàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "器官",
+   "meaning": "khí quan",
+   "example": "我们来学“器官”这个词。",
+   "exampleMeaning": "Cùng học từ “器官”: khí quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前途",
+   "meaning": "tiền đồ",
+   "example": "由此可见，她是很有前途的电影演员。",
+   "exampleMeaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiántú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "被迫",
+   "meaning": "bị ép",
+   "example": "敌人被迫放下武器",
+   "exampleMeaning": "Kẻ địch bị ép phải bỏ vũ khí xuống",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèipò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "误会",
+   "meaning": "hiểu lầm",
+   "example": "我误会了他的意思。",
+   "exampleMeaning": "Tôi đã hiểu lầm ý anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùhuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "说服",
+   "meaning": "thuyết phục",
+   "example": "我们来学“说服”这个词。",
+   "exampleMeaning": "Cùng học từ “说服”: thuyết phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōfú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "台上",
+   "meaning": "trên sân khấu",
+   "example": "我们来学“台上”这个词。",
+   "exampleMeaning": "Cùng học từ “台上”: trên sân khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táishàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保守",
+   "meaning": "bảo thủ",
+   "example": "计划定得有些保守，要重新制定",
+   "exampleMeaning": "Kế hoạch đã lập ra hơi bảo thủ, nên lập kế hoạch mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoshǒu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "获取",
+   "meaning": "thu được",
+   "example": "获取情报",
+   "exampleMeaning": "Thu được tình báo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòqǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "暗示",
+   "meaning": "ra hiệu ngầm",
+   "example": "他用眼睛暗示我，让我走去",
+   "exampleMeaning": "Anh ta đưa mắt ra hiệu ngầm bảo tôi lảng ra chỗ khác",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "成人",
+   "meaning": "đã trưởng thành",
+   "example": "长大成人。",
+   "exampleMeaning": "Đã trưởng thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngrén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汽油",
+   "meaning": "xăng",
+   "example": "我们来学“汽油”这个词。",
+   "exampleMeaning": "Cùng học từ “汽油”: xăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìyóu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浓",
+   "meaning": "đậm",
+   "example": "兴趣很浓。",
+   "exampleMeaning": "Hứng thú cực độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "担保",
+   "meaning": "đảm bảo",
+   "example": "交给他办，担保错不了。",
+   "exampleMeaning": "Giao cho anh ấy làm, đảm bảo không sai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānbǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弯",
+   "meaning": "cong, oằn, vặn vẹo",
+   "example": "大家事先要搞好调查研究，把方案设计得周密些，以便少走弯路。",
+   "exampleMeaning": "Mọi người trước tiên phải điều tra nghiên cứu kỹ đi, thiết kế phương án cẩn thận một chút, để bớt phải đi đường vòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "办事",
+    "的",
+    "时候",
+    "走后门",
+    "是",
+    "很",
+    "不",
+    "好",
+    "的"
+   ],
+   "reading": "bànshì de shíhou zǒuhòumén shì hěn bù hǎo de",
+   "meaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt."
+  },
+  {
+   "tokens": [
+    "由此可见",
+    "她",
+    "是",
+    "很",
+    "有",
+    "前途",
+    "的",
+    "电影演员"
+   ],
+   "reading": "yóucǐkějiàn tā shì hěn yǒu qiántú de diànyǐngyǎnyuán",
+   "meaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ."
+  },
+  {
+   "tokens": [
+    "时间",
+    "不",
+    "等",
+    "人"
+   ],
+   "reading": "shíjiān bù děng rén",
+   "meaning": "Thời gian không chờ đợi một ai."
+  },
+  {
+   "tokens": [
+    "今天",
+    "有点",
+    "冷"
+   ],
+   "reading": "jīntiān yǒudiǎn lěng",
+   "meaning": "Hôm nay trời hơi lạnh."
+  },
+  {
+   "tokens": [
+    "可是",
+    "太",
+    "贵",
+    "了"
+   ],
+   "reading": "kěshì tài guì le",
+   "meaning": "Nhưng mà nó đắt quá!"
+  }
+ ],
+ "issues": []
+}

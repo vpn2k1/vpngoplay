@@ -1,0 +1,330 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "占领",
+   "meaning": "chiếm",
+   "example": "开拓和占领新的科技领域。",
+   "exampleMeaning": "Mở ra và thâm nhập vào lĩnh vực khoa học kỹ thuật mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànlǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "争议",
+   "meaning": "tranh luận",
+   "example": "我们来学“争议”这个词。",
+   "exampleMeaning": "Cùng học từ “争议”: tranh luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紫",
+   "meaning": "tím",
+   "example": "玫瑰紫",
+   "exampleMeaning": "Hoa hồng tím",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肠",
+   "meaning": "ruột",
+   "example": "我们来学“肠”这个词。",
+   "exampleMeaning": "Cùng học từ “肠”: ruột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cháng",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "终身",
+   "meaning": "cả đời",
+   "example": "终身大事(关系一生的大事情，多指婚姻)。",
+   "exampleMeaning": "Việc lớn cả đời; hôn nhân; chuyện dựng vợ gả chồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回避",
+   "meaning": "tránh",
+   "example": "回避要害问题。",
+   "exampleMeaning": "Tránh vấn đề mấu chốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíbì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "指甲",
+   "meaning": "móng tay",
+   "example": "我们来学“指甲”这个词。",
+   "exampleMeaning": "Cùng học từ “指甲”: móng tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐjia",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "铃",
+   "meaning": "cái chuông",
+   "example": "哑铃。",
+   "exampleMeaning": "Quả tạ tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "líng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "体力",
+   "meaning": "thể lực",
+   "example": "他体力好，能耐久。",
+   "exampleMeaning": "Sức khoẻ anh ấy tốt, dẻo dai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "气体",
+   "meaning": "thể khí",
+   "example": "沸水蒸发成气体。",
+   "exampleMeaning": "Nước sôi bốc thành hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìtǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "层次",
+   "meaning": "cấp (cơ cấu)",
+   "example": "举行高层次领导人会谈。",
+   "exampleMeaning": "Tiến hành cuộc hội đàm giữa các lãnh đạo cao cấp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "céngcì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "国民",
+   "meaning": "quốc dân",
+   "example": "国民经济",
+   "exampleMeaning": "Kinh tế quốc dân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guómín",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "视为",
+   "meaning": "để xem như / để xem như / coi là / coi như",
+   "example": "我们来学“视为”这个词。",
+   "exampleMeaning": "Cùng học từ “视为”: để xem như / để xem như / coi là / coi như.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "服从",
+   "meaning": "phục tùng",
+   "example": "个人利益服从集体利益。",
+   "exampleMeaning": "Lợi ích cá nhân phải phục tùng lợi ích tập thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúcóng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "低于",
+   "meaning": "phía dưới",
+   "example": "我们来学“低于”这个词。",
+   "exampleMeaning": "Cùng học từ “低于”: phía dưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīyú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洒",
+   "meaning": "tưới, rải, rắc",
+   "example": "我们来学“洒”这个词。",
+   "exampleMeaning": "Cùng học từ “洒”: tưới, rải, rắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǎ",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注重",
+   "meaning": "chú trọng",
+   "example": "注重对孩子的教育。",
+   "exampleMeaning": "Chú trọng giáo dục trẻ em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "夜间",
+   "meaning": "ban đêm",
+   "example": "我们来学“夜间”这个词。",
+   "exampleMeaning": "Cùng học từ “夜间”: ban đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèjiān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会谈",
+   "meaning": "hội đàm",
+   "example": "两国会谈",
+   "exampleMeaning": "Hội đàm giữa hai nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìtán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "传达",
+   "meaning": "truyền đạt",
+   "example": "传达上级的指示。",
+   "exampleMeaning": "Truyền đạt chỉ thị của cấp trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuándá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "沸水",
+    "蒸发",
+    "成",
+    "气体"
+   ],
+   "reading": "fèishuǐ zhēngfā chéng qìtǐ",
+   "meaning": "Nước sôi bốc thành hơi."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "他",
+    "童年",
+    "时",
+    "去",
+    "过",
+    "巴黎",
+    "三次"
+   ],
+   "reading": "tā tóngnián shí qù guo bālí sāncì",
+   "meaning": "Hồi nhỏ, anh ta đã đi Paris ba lần."
+  },
+  {
+   "tokens": [
+    "下一个",
+    "节假日",
+    "正好",
+    "是",
+    "周日"
+   ],
+   "reading": "xiàyīge jiéjiàrì zhènghǎo shì zhōurì",
+   "meaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật."
+  }
+ ],
+ "issues": []
+}

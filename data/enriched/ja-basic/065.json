@@ -1,0 +1,323 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "予約",
+   "meaning": "sự hạn chế",
+   "example": "彼女は部屋を予約した。",
+   "exampleMeaning": "Cô ấy đã đặt phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "テニス",
+   "meaning": "quần vợt",
+   "example": "私とテニスをしませんか。",
+   "exampleMeaning": "Bạn có muốn chơi tennis với tôi không?",
+   "emoji": "🎾",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下る",
+   "meaning": "xuống (cầu thang... )",
+   "example": "「下る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下る”: xuống (cầu thang... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鏡",
+   "meaning": "gương",
+   "example": "ちょっと鏡を見てごらん。",
+   "exampleMeaning": "Nhìn vào gương một chút đi.",
+   "emoji": "🪞",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昼間",
+   "meaning": "thời gian giữa lúc mặt trời mọc và mặt trời lặn",
+   "example": "「昼間」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “昼間”: thời gian giữa lúc mặt trời mọc và mặt trời lặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特急",
+   "meaning": "chuyến xe tốc hành đặc biệt",
+   "example": "「特急」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特急”: chuyến xe tốc hành đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "落す",
+   "meaning": "mất không còn nữa, mất, mất hút",
+   "example": "飛行機は墜落する前に地面すれすれに飛んだ。",
+   "exampleMeaning": "Chiếc máy bay đã bay sát mặt trước khi nó đâm sầm xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "興味",
+   "meaning": "sự quan tâm, sự chú ý",
+   "example": "メアリーは政治に興味がある。",
+   "exampleMeaning": "Mary có hứng thú về chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "済む",
+   "meaning": "hoàn thành, kết thúc, làm xong",
+   "example": "「済む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “済む”: hoàn thành, kết thúc, làm xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建てる",
+   "meaning": "xây, xây dựng, xây cất",
+   "example": "それを建てるのに何年もかかった。",
+   "exampleMeaning": "Người ta đã mất nhiều năm để xây nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "アルバイト",
+   "meaning": "nghề phụ (gia đình)",
+   "example": "スーパーでアルバイトしてみて、客の中にも丁寧な人と、そうでない人がいることがわかった。",
+   "exampleMeaning": "Khi làm thêm trong siêu thị, tôi hiểu rằng trong số các khách hàng cũng có người lịch sự và người không lịch sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "くれる",
+   "meaning": "cho (mình)",
+   "example": "ねえ、僕と結婚してくれる？",
+   "exampleMeaning": "Em ơi, cưới anh nhé?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "帰り",
+   "meaning": "sự trở lại, sự trở về, sự quay trở lại",
+   "example": "家に帰りましょうか。",
+   "exampleMeaning": "Sao mình không đi về đi?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "おっしゃる",
+   "meaning": "nói (kính ngữ)",
+   "example": "先生のおっしゃることをもっと注意して聞くべきだ。",
+   "exampleMeaning": "Bạn nên chú ý nghe giáo viên nói gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "講堂",
+   "meaning": "phòng thính giả, giảng đường",
+   "example": "「講堂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “講堂”: phòng thính giả, giảng đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ピアノ",
+   "meaning": "đàn piano",
+   "example": "誰かがピアノを弾いている。",
+   "exampleMeaning": "Có ai đó đang đánh piano.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お金持ち",
+   "meaning": "rich person (EN)",
+   "example": "「お金持ち」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お金持ち”: rich person (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ベル",
+   "meaning": "cái chuông",
+   "example": "私はラベルを読みます。",
+   "exampleMeaning": "Tôi đọc nhãn.·",
+   "emoji": "🔔",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "調べる",
+   "meaning": "cản, cản trở",
+   "example": "リトマス紙で溶液の液性（酸性、中性、塩基性）を調べるときは、リトマス紙をすべて溶液に浸すのではなく、紙の先端の部分だけを浸します。",
+   "exampleMeaning": "Khi đo độ pH của một chất lỏng (tính axít, tính trung tính, tính kiềm) bằng giấy quỳ tím, đừng nhúng toàn bộ tờ giấy vào trong chất lỏng đó, mà hãy chỉ nhúng phần đầu của tờ giấy mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "揺れる",
+   "meaning": "rung, lắc, làm rung",
+   "example": "「揺れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “揺れる”: rung, lắc, làm rung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "家",
+    "へ",
+    "帰りましょう"
+   ],
+   "reading": "いえへかえりましょう",
+   "meaning": "Chúng ta về nhà thôi."
+  },
+  {
+   "tokens": [
+    "家",
+    "に",
+    "帰り",
+    "ましょうか"
+   ],
+   "reading": "いえにかえりましょうか",
+   "meaning": "Sao mình không đi về đi?"
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "部屋",
+    "を",
+    "予約",
+    "した"
+   ],
+   "reading": "かのじょはへやをよやくした",
+   "meaning": "Cô ấy đã đặt phòng."
+  },
+  {
+   "tokens": [
+    "私",
+    "と",
+    "テニス",
+    "を",
+    "しません",
+    "か"
+   ],
+   "reading": "わたしとテニスをしませんか",
+   "meaning": "Bạn có muốn chơi tennis với tôi không?"
+  },
+  {
+   "tokens": [
+    "ちょっと",
+    "鏡",
+    "を",
+    "見て",
+    "ごらん"
+   ],
+   "reading": "ちょっとかがみをみてごらん",
+   "meaning": "Nhìn vào gương một chút đi."
+  }
+ ],
+ "issues": []
+}

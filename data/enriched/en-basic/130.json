@@ -1,0 +1,326 @@
+{
+ "lesson": 130,
+ "draft": true,
+ "words": [
+  {
+   "term": "boast",
+   "meaning": "khoe khoang, khoác lác",
+   "example": "to make boast of something",
+   "exampleMeaning": "Khoe khoang cái gì",
+   "emoji": "",
+   "ipa": "/ˈboʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tempt",
+   "meaning": "xúi, xúi giục",
+   "example": "to tempt someone to evil",
+   "exampleMeaning": "Xúi ai làm điều ác",
+   "emoji": "",
+   "ipa": "/ˈtɛmpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "breed",
+   "meaning": "gây giống",
+   "example": "birds breed in spring",
+   "exampleMeaning": "Chim sinh sản vào mùa xuân",
+   "emoji": "",
+   "ipa": "/briːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "capture",
+   "meaning": "bắt giữ, bắt",
+   "example": "Pawns capture and move differently.",
+   "exampleMeaning": "Quân tốt bắt quân và di chuyển không giống nhau.",
+   "emoji": "",
+   "ipa": "/ˈkæptʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "depression",
+   "meaning": "trầm cảm",
+   "example": "This novel includes depictions of death, depression, suicide, and pregnancy.",
+   "exampleMeaning": "Tiểu thuyết này có miêu tả cái chết, trầm cảm, tự tử và mang thai.",
+   "emoji": "",
+   "ipa": "/dɪˈprɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "empire",
+   "meaning": "đế quốc",
+   "example": "Let's learn the word \"empire\".",
+   "exampleMeaning": "Cùng học từ “empire”: đế quốc.",
+   "emoji": "",
+   "ipa": "/ˈɛm.paɪ̯ə̯/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hand-held",
+   "meaning": "cầm tay",
+   "example": "Let's learn the word \"hand-held\".",
+   "exampleMeaning": "Cùng học từ “hand-held”: cầm tay.",
+   "emoji": "",
+   "ipa": "/ˈhændˌhɛld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "furthermore",
+   "meaning": "hơn nữa, vả lại",
+   "example": "Let's learn the word \"furthermore\".",
+   "exampleMeaning": "Cùng học từ “furthermore”: hơn nữa, vả lại.",
+   "emoji": "",
+   "ipa": "/ˈfɜrðɜrˌmɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "misery",
+   "meaning": "cảnh nghèo khổ, cảnh khổ cực",
+   "example": "to live in misery and want",
+   "exampleMeaning": "Sống trong cảnh nghèo khổ, thiếu thốn",
+   "emoji": "",
+   "ipa": "/ˈmɪzɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unique",
+   "meaning": "kỳ cục, lạ đời, dị thường",
+   "example": "You have a unique sense of humor.",
+   "exampleMeaning": "Bạn có khiếu hài hước độc đáo.",
+   "emoji": "",
+   "ipa": "/juˈnik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "procrastination",
+   "meaning": "sự trì hoãn",
+   "example": "Let's learn the word \"procrastination\".",
+   "exampleMeaning": "Cùng học từ “procrastination”: sự trì hoãn.",
+   "emoji": "",
+   "ipa": "/prəˌkræstəˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "protest",
+   "meaning": "giấy chứng",
+   "example": "to pay a sum under protest",
+   "exampleMeaning": "Miễn cưỡng phải trả một món tiền; vừa trả một món tiền vừa phản kháng lại",
+   "emoji": "",
+   "ipa": "/ˈproʊˌtɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "president",
+   "meaning": "tổng thống",
+   "example": "The president proposed a new plan.",
+   "exampleMeaning": "Ngài tổng thống đã đề xuất một chương trình mới.",
+   "emoji": "",
+   "ipa": "/ˈprɛzəˌdɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "curriculum",
+   "meaning": "chương trình giảng dạy",
+   "example": "Let's learn the word \"curriculum\".",
+   "exampleMeaning": "Cùng học từ “curriculum”: chương trình giảng dạy.",
+   "emoji": "",
+   "ipa": "/kɜrˈɪkjələm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "honesty",
+   "meaning": "tính lương thiện",
+   "example": "Honesty is not always the best policy.",
+   "exampleMeaning": "Thật thà không phải lúc nào cũng là cha quỷ quái.",
+   "emoji": "",
+   "ipa": "/ˈɒn.ə.sti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "out-of-date",
+   "meaning": "không còn đúng mốt nữa, lỗi thời",
+   "example": "Let's learn the word \"out-of-date\".",
+   "exampleMeaning": "Cùng học từ “out-of-date”: không còn đúng mốt nữa, lỗi thời.",
+   "emoji": "",
+   "ipa": "/ˈaʊt ˈəv ˈdeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "slope",
+   "meaning": "nghiêng, dốc",
+   "example": "to slope the neck of a dress",
+   "exampleMeaning": "Khoét cổ áo dài",
+   "emoji": "",
+   "ipa": "/ˈsloʊp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "repay",
+   "meaning": "trả lại, đáp lại, hoàn lại",
+   "example": "to repay someone for his kindness",
+   "exampleMeaning": "Đền đáp lại lòng tử tế của ai",
+   "emoji": "",
+   "ipa": "/riˈpeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "establishment",
+   "meaning": "sự thành lập, sự thiết lập, sự kiến lập",
+   "example": "Let's learn the word \"establishment\".",
+   "exampleMeaning": "Cùng học từ “establishment”: sự thành lập, sự thiết lập, sự kiến lập.",
+   "emoji": "",
+   "ipa": "/ɪˈstæblɪʃmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "analysis",
+   "meaning": "phân tích",
+   "example": "in the last analysis",
+   "exampleMeaning": "Phân tích cho đến cùng; rút cục, cuối cùng",
+   "emoji": "",
+   "ipa": "/əˈnæləsəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Where's",
+    "the",
+    "president"
+   ],
+   "reading": "",
+   "meaning": "Giám đốc đang ở đâu thế ạ?"
+  },
+  {
+   "tokens": [
+    "They",
+    "are",
+    "living",
+    "in",
+    "misery"
+   ],
+   "reading": "",
+   "meaning": "Họ đang sống trong nghèo khổ."
+  },
+  {
+   "tokens": [
+    "The",
+    "president's",
+    "death",
+    "caused",
+    "great",
+    "sorrow"
+   ],
+   "reading": "",
+   "meaning": "Cái chết của vị tổng thống đã gây ra nỗi đau buồn lớn"
+  },
+  {
+   "tokens": [
+    "I",
+    "will",
+    "be",
+    "a",
+    "peace",
+    "president"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ là một chủ tịch hoà bình."
+  },
+  {
+   "tokens": [
+    "Honesty",
+    "is",
+    "not",
+    "always",
+    "the",
+    "best",
+    "policy"
+   ],
+   "reading": "",
+   "meaning": "Thật thà không phải lúc nào cũng là cha quỷ quái."
+  }
+ ],
+ "issues": []
+}

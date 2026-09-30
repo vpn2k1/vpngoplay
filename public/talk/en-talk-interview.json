@@ -1,0 +1,84 @@
+{
+ "id": "en-talk-interview",
+ "lang": "en",
+ "order": 8,
+ "level": "B2",
+ "icon": "interview",
+ "title": "Phỏng vấn xin việc",
+ "scene": "Bạn phỏng vấn vị trí nhân viên marketing.",
+ "roles": {
+  "A": "Người phỏng vấn",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Thanks for coming in. Could you tell me a little about yourself?",
+   "meaning": "Cảm ơn bạn đã đến. Bạn giới thiệu đôi chút về bản thân được không?"
+  },
+  {
+   "role": "B",
+   "text": "Sure. I graduated in business and have two years of marketing experience.",
+   "meaning": "Vâng. Tôi tốt nghiệp ngành kinh doanh và có hai năm kinh nghiệm marketing."
+  },
+  {
+   "role": "A",
+   "text": "Why do you want to work for us?",
+   "meaning": "Vì sao bạn muốn làm việc cho chúng tôi?"
+  },
+  {
+   "role": "B",
+   "text": "I really admire your products, and I want to grow with a creative team.",
+   "meaning": "Tôi rất thích sản phẩm của công ty và muốn phát triển cùng một đội ngũ sáng tạo."
+  },
+  {
+   "role": "A",
+   "text": "What would you say is your greatest strength?",
+   "meaning": "Bạn nghĩ điểm mạnh lớn nhất của mình là gì?"
+  },
+  {
+   "role": "B",
+   "text": "I'm good at working under pressure and meeting deadlines.",
+   "meaning": "Tôi làm việc tốt dưới áp lực và luôn kịp hạn chót."
+  },
+  {
+   "role": "A",
+   "text": "And what about your weaknesses?",
+   "meaning": "Còn điểm yếu của bạn thì sao?"
+  },
+  {
+   "role": "B",
+   "text": "I used to be nervous about presenting, but I've practised a lot.",
+   "meaning": "Trước đây tôi hay run khi thuyết trình, nhưng tôi đã luyện tập rất nhiều."
+  },
+  {
+   "role": "A",
+   "text": "Do you have any questions for us?",
+   "meaning": "Bạn có câu hỏi nào cho chúng tôi không?"
+  },
+  {
+   "role": "B",
+   "text": "Yes. What does a typical day look like in this role?",
+   "meaning": "Có ạ. Một ngày làm việc điển hình ở vị trí này như thế nào?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "Could you tell me about yourself?",
+   "meaning": "Bạn giới thiệu về bản thân được không?"
+  },
+  {
+   "text": "I'm good at working under pressure.",
+   "meaning": "Tôi làm việc tốt dưới áp lực."
+  },
+  {
+   "text": "I have two years of experience in marketing.",
+   "meaning": "Tôi có hai năm kinh nghiệm trong ngành marketing."
+  },
+  {
+   "text": "Do you have any questions for us?",
+   "meaning": "Bạn có câu hỏi nào cho chúng tôi không?",
+   "note": "Nên chuẩn bị sẵn một, hai câu hỏi để thể hiện sự quan tâm."
+  }
+ ]
+}

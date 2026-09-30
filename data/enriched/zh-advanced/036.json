@@ -1,0 +1,328 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "探测",
+   "meaning": "thăm dò",
+   "example": "探测对方心里的秘密。",
+   "exampleMeaning": "Thăm dò bí mật tâm lý của đối phương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàncè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "位子",
+   "meaning": "chỗ",
+   "example": "他幫助一位老太太從位子上站起來。",
+   "exampleMeaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèizi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "演戏",
+   "meaning": "diễn kịch",
+   "example": "禁止在教堂和公墓中演戏。",
+   "exampleMeaning": "Cấm diễn kịch trong nhà thờ hoặc nghĩa trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnxì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "零件",
+   "meaning": "linh liện",
+   "example": "我们来学“零件”这个词。",
+   "exampleMeaning": "Cùng học từ “零件”: linh liện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夺冠",
+   "meaning": "đoạt giải quán quân",
+   "example": "我们来学“夺冠”这个词。",
+   "exampleMeaning": "Cùng học từ “夺冠”: đoạt giải quán quân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duóguàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自尊",
+   "meaning": "tự tôn",
+   "example": "我们来学“自尊”这个词。",
+   "exampleMeaning": "Cùng học từ “自尊”: tự tôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìzūn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瘫痪",
+   "meaning": "liệt",
+   "example": "他得了伤寒病，卧床五个多月，尽管活下来了，但左腿瘫痪了。",
+   "exampleMeaning": "Ông bị bệnh thương hàn, nằm điều trị mất hơn năm tháng, mặc dù thoát chết, nhưng chân trái bị liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tānhuàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雇佣",
+   "meaning": "dùng, thuê (ai) (làm gì)",
+   "example": "雇佣工人",
+   "exampleMeaning": "Công nhân làm thuê",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùyōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逮",
+   "meaning": "đến",
+   "example": "力有未逮",
+   "exampleMeaning": "Sức không đạt đến; còn kém.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上报",
+   "meaning": "báo cáo (lên cấp trên)",
+   "example": "年终决算要及时填表上报。",
+   "exampleMeaning": "Quyết toán cuối năm phải lập kịp thời, báo cáo lên cấp trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngbào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "低下",
+   "meaning": "cúi xuống",
+   "example": "小公牛低下头吃草。",
+   "exampleMeaning": "Con bê đực cúi xuống gặm cỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīxià",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大臣",
+   "meaning": "đại thần",
+   "example": "我们来学“大臣”这个词。",
+   "exampleMeaning": "Cùng học từ “大臣”: đại thần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàchén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迫使",
+   "meaning": "buộc",
+   "example": "我们来学“迫使”这个词。",
+   "exampleMeaning": "Cùng học từ “迫使”: buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pòshǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阴性",
+   "meaning": "âm tính",
+   "example": "我们来学“阴性”这个词。",
+   "exampleMeaning": "Cùng học từ “阴性”: âm tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnxìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "钙",
+   "meaning": "canxi",
+   "example": "我们来学“钙”这个词。",
+   "exampleMeaning": "Cùng học từ “钙”: canxi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gài",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高尔夫球",
+   "meaning": "gôn",
+   "example": "我们来学“高尔夫球”这个词。",
+   "exampleMeaning": "Cùng học từ “高尔夫球”: gôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoěrfūqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "招待",
+   "meaning": "chiêu đãi",
+   "example": "记者招待会。",
+   "exampleMeaning": "Buổi họp báo; tiệc chiêu đãi các nhà báo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāodài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敷",
+   "meaning": "đủ",
+   "example": "入不敷出",
+   "exampleMeaning": "Thu không đủ chi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fū",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "欣慰",
+   "meaning": "mừng vui thanh thản",
+   "example": "我们来学“欣慰”这个词。",
+   "exampleMeaning": "Cùng học từ “欣慰”: mừng vui thanh thản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俊",
+   "meaning": "tuấn",
+   "example": "这个孩子长得好俊呀!",
+   "exampleMeaning": "Đứa bé này thật khôi ngô tuấn tú!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "木星",
+    "有",
+    "几个",
+    "卫星"
+   ],
+   "reading": "mùxīng yǒu jǐge wèixīng",
+   "meaning": "Sao Mộc có bao nhiêu mặt trăng?"
+  },
+  {
+   "tokens": [
+    "她",
+    "进",
+    "屋",
+    "前",
+    "擦",
+    "了",
+    "鞋"
+   ],
+   "reading": "tā jìn wū qián cā le xié",
+   "meaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch."
+  },
+  {
+   "tokens": [
+    "有人",
+    "正在",
+    "弹",
+    "钢琴"
+   ],
+   "reading": "yǒurén zhèngzài tán gāngqín",
+   "meaning": "Có người nào đó đang chơi đàn piano."
+  },
+  {
+   "tokens": [
+    "万",
+    "幸",
+    "没",
+    "乘客",
+    "受伤"
+   ],
+   "reading": "wàn xìng méi chéngkè shòushāng",
+   "meaning": "Rất may, không có hành khách nào bị thương."
+  }
+ ],
+ "issues": []
+}

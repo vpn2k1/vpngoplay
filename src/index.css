@@ -23,3 +23,9 @@
 html {
   color-scheme: light dark;
 }
+
+/* Grid children default to min-width: auto, so a truncated title or a long word would widen its
+   column past a small screen. Zero specificity: an explicit min-w-* class still wins. */
+:where(.grid) > * {
+  min-width: 0;
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 18,
+ "draft": true,
+ "words": [
+  {
+   "term": "dye",
+   "meaning": "nhuộm",
+   "example": "a crime of the blackest dye",
+   "exampleMeaning": "Tội ác đen tối nhất",
+   "emoji": "",
+   "ipa": "/ˈdaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lark",
+   "meaning": "vui đùa, đùa nghịch, bông đùa",
+   "example": "what a lark!",
+   "exampleMeaning": "Vui nhỉ!, hay nhỉ!",
+   "emoji": "",
+   "ipa": "/ˈlɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ample",
+   "meaning": "rộng, lụng thụng",
+   "example": "to have ample time",
+   "exampleMeaning": "Có dư (rộng) thời gian",
+   "emoji": "",
+   "ipa": "/ˈæmpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "translator",
+   "meaning": "người dịch, người phiên dịch",
+   "example": "At that time, Google Translator didn't exist yet.",
+   "exampleMeaning": "Lúc đó làm gì đã có Google Dịch.",
+   "emoji": "",
+   "ipa": "/trænˈsleɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "understandable",
+   "meaning": "có thể hiểu được",
+   "example": "Let's learn the word \"understandable\".",
+   "exampleMeaning": "Cùng học từ “understandable”: có thể hiểu được.",
+   "emoji": "",
+   "ipa": "/ˌəndɜrˈstændəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hourly",
+   "meaning": "hằng giờ, từng giờ, mỗi giờ một lần",
+   "example": "an hourly service of trains",
+   "exampleMeaning": "Xe lửa chạy mỗi giờ một chuyến",
+   "emoji": "",
+   "ipa": "/ˈaʊrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "smash",
+   "meaning": "phá, phá tan",
+   "example": "the car ran smash into the tram",
+   "exampleMeaning": "Chiếc ô tô đâm đánh sầm một cái vào xe điện",
+   "emoji": "",
+   "ipa": "/ˈsmæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unsafe",
+   "meaning": "không an toàn, không chắc chắn",
+   "example": "Let's learn the word \"unsafe\".",
+   "exampleMeaning": "Cùng học từ “unsafe”: không an toàn, không chắc chắn.",
+   "emoji": "",
+   "ipa": "/ənˈseɪf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gangster",
+   "meaning": "kẻ cướp, dân giang hồ, dân xã hội đen",
+   "example": "Let's learn the word \"gangster\".",
+   "exampleMeaning": "Cùng học từ “gangster”: kẻ cướp, dân giang hồ, dân xã hội đen.",
+   "emoji": "",
+   "ipa": "/ˈɡæŋstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ballot",
+   "meaning": "lá phiếu",
+   "example": "Let's learn the word \"ballot\".",
+   "exampleMeaning": "Cùng học từ “ballot”: lá phiếu.",
+   "emoji": "",
+   "ipa": "/ˈbælət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "immigrant",
+   "meaning": "nhập cư (dân... )",
+   "example": "Let's learn the word \"immigrant\".",
+   "exampleMeaning": "Cùng học từ “immigrant”: nhập cư (dân... ).",
+   "emoji": "",
+   "ipa": "/ˈɪməɡrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bio",
+   "meaning": "hệ vào/ra cơ sở",
+   "example": "Let's learn the word \"bio\".",
+   "exampleMeaning": "Cùng học từ “bio”: hệ vào/ra cơ sở.",
+   "emoji": "",
+   "ipa": "/ˌbaɪˈoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "falter",
+   "meaning": "ấp úng nói ra, ngập ngừng nói ra",
+   "example": "to falter out",
+   "exampleMeaning": "Ấp úng nói ra, ấp úng thốt ra",
+   "emoji": "",
+   "ipa": "/ˈfɔltɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consultant",
+   "meaning": "người hỏi ý kiến",
+   "example": "Let's learn the word \"consultant\".",
+   "exampleMeaning": "Cùng học từ “consultant”: người hỏi ý kiến.",
+   "emoji": "",
+   "ipa": "/kənˈsəltənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "approximate",
+   "meaning": "giống với, giống hệt với",
+   "example": "Let's learn the word \"approximate\".",
+   "exampleMeaning": "Cùng học từ “approximate”: giống với, giống hệt với.",
+   "emoji": "",
+   "ipa": "/əˈprɒk.sɪ.mət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "repetition",
+   "meaning": "sự bắt chước",
+   "example": "a mere repetition",
+   "exampleMeaning": "Chỉ là một sự bắt chước",
+   "emoji": "",
+   "ipa": "/ˌrɛpəˈtɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "medication",
+   "meaning": "sự bốc thuốc, sự cho thuốc",
+   "example": "Let's learn the word \"medication\".",
+   "exampleMeaning": "Cùng học từ “medication”: sự bốc thuốc, sự cho thuốc.",
+   "emoji": "",
+   "ipa": "/ˌmɛdəˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dearly",
+   "meaning": "đắt",
+   "example": "Let's learn the word \"dearly\".",
+   "exampleMeaning": "Cùng học từ “dearly”: đắt.",
+   "emoji": "",
+   "ipa": "/ˈdɪrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "crossly",
+   "meaning": "cáu kỉnh, gắt gỏng",
+   "example": "Let's learn the word \"crossly\".",
+   "exampleMeaning": "Cùng học từ “crossly”: cáu kỉnh, gắt gỏng.",
+   "emoji": "",
+   "ipa": "/krˈɒsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "involvement",
+   "meaning": "sự tham gia",
+   "example": "Tom denied any involvement in the killing.",
+   "exampleMeaning": "Tôi chối bỏ bất cứ liên quan nào đến vụ giết người.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɑlvmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "need",
+    "a",
+    "translator"
+   ],
+   "reading": "",
+   "meaning": "Tôi cần một người dịch."
+  },
+  {
+   "tokens": [
+    "You're",
+    "a",
+    "skilled",
+    "translator"
+   ],
+   "reading": "",
+   "meaning": "Bạn là một dịch giả tài giỏi."
+  },
+  {
+   "tokens": [
+    "At",
+    "that",
+    "time",
+    "Google",
+    "Translator",
+    "didn't",
+    "exist",
+    "yet"
+   ],
+   "reading": "",
+   "meaning": "Lúc đó làm gì đã có Google Dịch."
+  },
+  {
+   "tokens": [
+    "My",
+    "dream",
+    "is",
+    "to",
+    "become",
+    "a",
+    "translator",
+    "because",
+    "I",
+    "love",
+    "languages"
+   ],
+   "reading": "",
+   "meaning": "Ước mơ của tôi là trở thành một biên dịch viên, bởi vì tôi thích các ngôn ngữ."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "sue",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Hãy kiện cậu ta."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,323 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "tighten",
+   "meaning": "chặt, căng, khít lại",
+   "example": "to tighten the bonds of solidarity",
+   "exampleMeaning": "Thắt chặt tình đoàn kết",
+   "emoji": "",
+   "ipa": "/ˈtaɪtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prize",
+   "meaning": "giải thưởng, phần thưởng",
+   "example": "to make prize of...",
+   "exampleMeaning": "Tịch thu (tàu bè, tài sản... ở biển) làm chiến lợi phẩm",
+   "emoji": "",
+   "ipa": "/praɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chaos",
+   "meaning": "thời đại hỗn nguyên, thời đại hỗn mang",
+   "example": "Let's learn the word \"chaos\".",
+   "exampleMeaning": "Cùng học từ “chaos”: thời đại hỗn nguyên, thời đại hỗn mang.",
+   "emoji": "",
+   "ipa": "/ˈkeɪɑs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cure",
+   "meaning": "chữa (thói xấu, tật xấu)",
+   "example": "his cure took six weeks",
+   "exampleMeaning": "Việc điều trị của anh ta mất sáu tuần lễ",
+   "emoji": "",
+   "ipa": "/ˈkjʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "question mark",
+   "meaning": "dấu hỏi",
+   "example": "Let's learn the word \"question mark\".",
+   "exampleMeaning": "Cùng học từ “question mark”: dấu hỏi.",
+   "emoji": "",
+   "ipa": "/ˈkwɛstʃən ˈmɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chase",
+   "meaning": "đuổi, xua đuổi",
+   "example": "go chase yourself!",
+   "exampleMeaning": "Hãy chuồn cho mau",
+   "emoji": "",
+   "ipa": "/ˈtʃeɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "thriller",
+   "meaning": "câu chuyện cảm động",
+   "example": "Our new serial thriller begins at 7.30 this evening.",
+   "exampleMeaning": "Câu chuyện mới ly kỳ của chúng tôi phát làm nhiều buổi sẽ bắt đầu lúc bảy giờ rưỡi tối nay.",
+   "emoji": "",
+   "ipa": "/ˈθrɪlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "syndrome",
+   "meaning": "hội chứng",
+   "example": "Let's learn the word \"syndrome\".",
+   "exampleMeaning": "Cùng học từ “syndrome”: hội chứng.",
+   "emoji": "",
+   "ipa": "/ˈsɪnˌdroʊm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "iron",
+   "meaning": "sắt",
+   "example": "Strike while the iron is hot.",
+   "exampleMeaning": "Việc hôm nay chớ để ngày mai.",
+   "emoji": "",
+   "ipa": "/ˈɑɪ.ərn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "proclaim",
+   "meaning": "công bố, tuyên bố",
+   "example": "to proclaim a meeting",
+   "exampleMeaning": "Tuyên bố cấm một cuộc họp",
+   "emoji": "",
+   "ipa": "/proʊˈkleɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "marine",
+   "meaning": "biển",
+   "example": "Lobsters belong to a class of marine animals.",
+   "exampleMeaning": "Tôm hùm thuộc lớp động vật biển.",
+   "emoji": "",
+   "ipa": "/mɜrˈin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "highlight",
+   "meaning": "làm nổi bật, nêu bật",
+   "example": "Let's learn the word \"highlight\".",
+   "exampleMeaning": "Cùng học từ “highlight”: làm nổi bật, nêu bật.",
+   "emoji": "",
+   "ipa": "/ˈhaɪlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "handy",
+   "meaning": "thuận tiện, tiện tay, vừa tầm tay",
+   "example": "Let's learn the word \"handy\".",
+   "exampleMeaning": "Cùng học từ “handy”: thuận tiện, tiện tay, vừa tầm tay.",
+   "emoji": "",
+   "ipa": "/ˈhændi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sticky",
+   "meaning": "hết sức khó chịu, rất đau đớn",
+   "example": "to be very sticky about something",
+   "exampleMeaning": "Làm khó làm dễ cái gì 3 (từ lóng)",
+   "emoji": "",
+   "ipa": "/ˈstɪki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "depressing",
+   "meaning": "làm chán nản, làm thất vọng",
+   "example": "Let's learn the word \"depressing\".",
+   "exampleMeaning": "Cùng học từ “depressing”: làm chán nản, làm thất vọng.",
+   "emoji": "",
+   "ipa": "/dɪˈprɛsɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "simultaneously",
+   "meaning": "đồng thời, xảy ra cùng một lúc",
+   "example": "Let's learn the word \"simultaneously\".",
+   "exampleMeaning": "Cùng học từ “simultaneously”: đồng thời, xảy ra cùng một lúc.",
+   "emoji": "",
+   "ipa": "/ˌsaɪməlˈteɪniəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pipe",
+   "meaning": "thổi còi",
+   "example": "to pipe the crew up to meal",
+   "exampleMeaning": "Thổi còi tập họp tất cả các thuỷ thủ đi ăn cơm",
+   "emoji": "",
+   "ipa": "/ˈpaɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flavor",
+   "meaning": "hương vị, mùi vị, vị ngon",
+   "example": "Let's learn the word \"flavor\".",
+   "exampleMeaning": "Cùng học từ “flavor”: hương vị, mùi vị, vị ngon.",
+   "emoji": "",
+   "ipa": "/ˈfleɪvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aborigine",
+   "meaning": "thổ dân",
+   "example": "Let's learn the word \"aborigine\".",
+   "exampleMeaning": "Cùng học từ “aborigine”: thổ dân.",
+   "emoji": "",
+   "ipa": "/ˌæbɜrˈɪdʒəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shortly",
+   "meaning": "không lâu nữa, chẳng mấy chốc",
+   "example": "Let's learn the word \"shortly\".",
+   "exampleMeaning": "Cùng học từ “shortly”: không lâu nữa, chẳng mấy chốc.",
+   "emoji": "",
+   "ipa": "/ˈʃɔrtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "tape",
+    "isn't",
+    "sticky"
+   ],
+   "reading": "",
+   "meaning": "Tiu bendo ne gluecas."
+  },
+  {
+   "tokens": [
+    "Prevention",
+    "is",
+    "better",
+    "than",
+    "cure"
+   ],
+   "reading": "",
+   "meaning": "Phòng bệnh hơn chữa bệnh."
+  },
+  {
+   "tokens": [
+    "He",
+    "won",
+    "the",
+    "third",
+    "prize"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã giành được giải ba."
+  },
+  {
+   "tokens": [
+    "Luckily",
+    "I",
+    "won",
+    "first",
+    "prize"
+   ],
+   "reading": "",
+   "meaning": "Thật may mắn, tôi đã chiến thắng giải nhất."
+  },
+  {
+   "tokens": [
+    "We",
+    "need",
+    "an",
+    "iron",
+    "bar"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta cần một thanh sắt."
+  }
+ ],
+ "issues": []
+}

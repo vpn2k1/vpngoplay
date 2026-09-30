@@ -1,0 +1,98 @@
+{
+ "id": "ja-talk-interview",
+ "lang": "ja",
+ "order": 8,
+ "level": "N2",
+ "icon": "interview",
+ "title": "Phỏng vấn xin việc",
+ "scene": "Bạn phỏng vấn vào một công ty Nhật.",
+ "roles": {
+  "A": "Người phỏng vấn",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "では、自己紹介をお願いします。",
+   "reading": "では、じこしょうかいをおねがいします。",
+   "meaning": "Vậy mời bạn tự giới thiệu."
+  },
+  {
+   "role": "B",
+   "text": "グエン・ランと申します。ハノイの大学で経済を専攻しました。",
+   "reading": "グエン・ランともうします。ハノイのだいがくでけいざいをせんこうしました。",
+   "meaning": "Tôi là Nguyễn Lan. Tôi học chuyên ngành kinh tế ở một trường đại học tại Hà Nội."
+  },
+  {
+   "role": "A",
+   "text": "当社を志望した理由を教えてください。",
+   "reading": "とうしゃをしぼうしたりゆうをおしえてください。",
+   "meaning": "Hãy cho biết lý do bạn ứng tuyển vào công ty chúng tôi."
+  },
+  {
+   "role": "B",
+   "text": "御社の製品は品質が高く、海外でも評価されているからです。",
+   "reading": "おんしゃのせいひんはひんしつがたかく、かいがいでもひょうかされているからです。",
+   "meaning": "Vì sản phẩm của quý công ty có chất lượng cao và được đánh giá tốt cả ở nước ngoài."
+  },
+  {
+   "role": "A",
+   "text": "あなたの長所は何ですか。",
+   "reading": "あなたのちょうしょはなんですか。",
+   "meaning": "Điểm mạnh của bạn là gì?"
+  },
+  {
+   "role": "B",
+   "text": "責任感が強く、最後まであきらめないところです。",
+   "reading": "せきにんかんがつよく、さいごまであきらめないところです。",
+   "meaning": "Tôi có tinh thần trách nhiệm cao và không bao giờ bỏ cuộc giữa chừng."
+  },
+  {
+   "role": "A",
+   "text": "日本で働くことについて、不安はありますか。",
+   "reading": "にほんではたらくことについて、ふあんはありますか。",
+   "meaning": "Bạn có lo lắng gì về việc làm việc ở Nhật không?"
+  },
+  {
+   "role": "B",
+   "text": "敬語はまだ勉強中ですが、毎日練習しています。",
+   "reading": "けいごはまだべんきょうちゅうですが、まいにちれんしゅうしています。",
+   "meaning": "Tôi vẫn đang học kính ngữ, nhưng ngày nào cũng luyện tập."
+  },
+  {
+   "role": "A",
+   "text": "最後に、何か質問はありますか。",
+   "reading": "さいごに、なにかしつもんはありますか。",
+   "meaning": "Cuối cùng, bạn có câu hỏi gì không?"
+  },
+  {
+   "role": "B",
+   "text": "はい。入社までに勉強しておくべきことはありますか。",
+   "reading": "はい。にゅうしゃまでにべんきょうしておくべきことはありますか。",
+   "meaning": "Có ạ. Trước khi vào công ty, tôi nên học trước những gì ạ?"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "自己紹介をお願いします。",
+   "reading": "じこしょうかいをおねがいします。",
+   "meaning": "Mời bạn tự giới thiệu."
+  },
+  {
+   "text": "御社を志望しました。",
+   "reading": "おんしゃをしぼうしました。",
+   "meaning": "Tôi đã ứng tuyển vào quý công ty.",
+   "note": "Khi nói dùng 御社, khi viết (CV, email) dùng 貴社."
+  },
+  {
+   "text": "最後まであきらめません。",
+   "reading": "さいごまであきらめません。",
+   "meaning": "Tôi sẽ không bỏ cuộc giữa chừng."
+  },
+  {
+   "text": "何か質問はありますか。",
+   "reading": "なにかしつもんはありますか。",
+   "meaning": "Bạn có câu hỏi gì không?"
+  }
+ ]
+}

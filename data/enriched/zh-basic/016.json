@@ -1,0 +1,318 @@
+{
+ "lesson": 16,
+ "draft": true,
+ "words": [
+  {
+   "term": "衣服",
+   "meaning": "quần áo",
+   "example": "这件衣服真漂亮。",
+   "exampleMeaning": "Bộ đồ này rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīfu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "饿",
+   "meaning": "đói, cảm thấy đói, ra vẻ đói ăn",
+   "example": "咱们吃吧！我饿死了。",
+   "exampleMeaning": "Chúng ta ăn thôi. Tôi sắp chết vì đói rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "è",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "树",
+   "meaning": "cây",
+   "example": "十年树木，百年树人。",
+   "exampleMeaning": "Mười năm trồng cây, trăm năm trồng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "右",
+   "meaning": "hướng tây, phương tây, phía tây",
+   "example": "山右(太行山以西的地方，后专指山西)。",
+   "exampleMeaning": "Phía tây núi (phía tây Thái Hành Sơn, sau chỉ Sơn Tây.)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上班",
+   "meaning": "đi làm",
+   "example": "我父親開車去上班。",
+   "exampleMeaning": "Ba tui đi làm bằng xe hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngbān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生日",
+   "meaning": "sinh nhật",
+   "example": "生日快乐，Muiriel！",
+   "exampleMeaning": "Chúc mừng sinh nhật, Muiriel!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "东",
+   "meaning": "chủ nhà",
+   "example": "我朋友哪里买过什么东西！",
+   "exampleMeaning": "Bạn tôi có mua gì đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "姐姐",
+   "meaning": "chị gái",
+   "example": "学学你姐姐。",
+   "exampleMeaning": "Mày học chị mày đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiějie",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "课",
+   "meaning": "thuế",
+   "example": "这 本教科书共有二十五课。",
+   "exampleMeaning": "Cuốn sách giáo khoa này có tất cả hai mươi lăm bài。",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "国",
+   "meaning": "nước, quốc gia",
+   "example": "他是法国人。",
+   "exampleMeaning": "Anh ấy là người Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guó",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "饭",
+   "meaning": "cơm",
+   "example": "我会拒绝他吃晚饭的邀请。",
+   "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
+   "emoji": "🍚",
+   "ipa": "",
+   "pinyin": "fàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一半",
+   "meaning": "phân nửa",
+   "example": "把菜子分给他们一半儿，咱们有一半儿也就多了。",
+   "exampleMeaning": "Đem rau chia cho họ phân nửa, chúng ta có phân nửa cũng đủ rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yībàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "家人",
+   "meaning": "thành viên trong gia đình",
+   "example": "家人团聚",
+   "exampleMeaning": "Người nhà đoàn tụ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiārén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有时",
+   "meaning": "có lúc",
+   "example": "那里的天气，有时冷，有时热。",
+   "exampleMeaning": "Thời tiết ở đó, khi lạnh khi nóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒushí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小姐",
+   "meaning": "tiểu thư",
+   "example": "我们来学“小姐”这个词。",
+   "exampleMeaning": "Cùng học từ “小姐”: tiểu thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎojie",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对不起",
+   "meaning": "xin lỗi",
+   "example": "对不起,请把盐递给我。",
+   "exampleMeaning": "Xin lỗi, xin đưa muối cho tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìbuqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进去",
+   "meaning": "vào (từ phía ngoài vào trong)",
+   "example": "瓶口很大，手都伸得进去。",
+   "exampleMeaning": "Miệng bình rất to, thò tay vào trong được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnqù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哥哥",
+   "meaning": "anh",
+   "example": "她哥哥很认真学习。",
+   "exampleMeaning": "Anh trai của cô ấy học rất nghiêm túc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēge",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "没什么",
+   "meaning": "không sao",
+   "example": "碰破了一点儿皮，没什么。",
+   "exampleMeaning": "Xước da một tý thôi không sao đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méishénme",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "路上",
+   "meaning": "trên đường",
+   "example": "这条路上的车辆不多。",
+   "exampleMeaning": "Con đường này không có nhiều xe đi lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùshang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "学",
+    "学",
+    "你",
+    "姐姐"
+   ],
+   "reading": "xué xué nǐ jiějie",
+   "meaning": "Mày học chị mày đi."
+  },
+  {
+   "tokens": [
+    "我",
+    "来自",
+    "法国"
+   ],
+   "reading": "wǒ láizì fǎguó",
+   "meaning": "Tôi đến từ nước Pháp"
+  },
+  {
+   "tokens": [
+    "他",
+    "是",
+    "法国人"
+   ],
+   "reading": "tā shì fǎguórén",
+   "meaning": "Anh ấy là người Pháp."
+  },
+  {
+   "tokens": [
+    "这",
+    "件",
+    "衣服",
+    "真",
+    "漂亮"
+   ],
+   "reading": "zhè jiàn yīfu zhēn piàoliang",
+   "meaning": "Bộ đồ này rất đẹp."
+  },
+  {
+   "tokens": [
+    "中国",
+    "发展",
+    "得很",
+    "快"
+   ],
+   "reading": "zhōngguó fāzhǎn dehěn kuài",
+   "meaning": "Trung Quốc phát triển rất nhanh."
+  }
+ ],
+ "issues": []
+}

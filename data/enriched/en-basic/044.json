@@ -1,0 +1,323 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "think",
+   "meaning": "nghĩ, tưởng, tưởng tượng",
+   "example": "to you think him brave?",
+   "exampleMeaning": "Anh có cho nó là dũng cảm không?",
+   "emoji": "",
+   "ipa": "/ˈθɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ugly",
+   "meaning": "xấu, xấu xí",
+   "example": "as ugly as sin",
+   "exampleMeaning": "Xấu như ma",
+   "emoji": "",
+   "ipa": "/ˈʌɡli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "credit card",
+   "meaning": "thẻ tín dụng",
+   "example": "I'd like to pay with a credit card.",
+   "exampleMeaning": "Tôi muốn thanh toán bằng thẻ tín dụng.",
+   "emoji": "💳",
+   "ipa": "/ˈkrɛdət ˈkɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tool",
+   "meaning": "công cụ",
+   "example": "to make a tool of someone",
+   "exampleMeaning": "Lợi dụng ai, sử dụng ai làm tay sai",
+   "emoji": "",
+   "ipa": "/ˈtul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "doctor",
+   "meaning": "tiến sĩ",
+   "example": "Has the doctor eaten?",
+   "exampleMeaning": "Bác sĩ đã ăn chưa?",
+   "emoji": "",
+   "ipa": "/ˈdɑktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "future",
+   "meaning": "tương lai",
+   "example": "I fear for the future of mankind.",
+   "exampleMeaning": "Tôi lo lắng cho tương lai của loài người.",
+   "emoji": "",
+   "ipa": "/ˈfjuː.t͡ʃə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sugar",
+   "meaning": "đường",
+   "example": "Is sugar a poison?",
+   "exampleMeaning": "Đường có phải chất độc không?",
+   "emoji": "",
+   "ipa": "/ˈʃʊɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thin",
+   "meaning": "mỏng, mảnh",
+   "example": "a thin sheet of paper",
+   "exampleMeaning": "Tờ giấy mỏng",
+   "emoji": "",
+   "ipa": "/ˈθɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kill",
+   "meaning": "giết, giết chết, làm chết",
+   "example": "got up (dolled up, dressed) to kill",
+   "exampleMeaning": "Diện choáng người làm cho thiên hạ phục lăn",
+   "emoji": "",
+   "ipa": "/kɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "jewelry",
+   "meaning": "đồ châu báu",
+   "example": "Do you like to wear jewelry?",
+   "exampleMeaning": "Bạn có muốn đeo đồ trang sức không?",
+   "emoji": "",
+   "ipa": "/ˈdʒuəlri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "picnic",
+   "meaning": "cuộc đi chơi và ăn ngoài trời",
+   "example": "Picnic on a sunny day is a good idea.",
+   "exampleMeaning": "Dã ngoại vào một ngày nắng là một ý kiến hay.",
+   "emoji": "",
+   "ipa": "/ˈpɪkˌnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bicycle",
+   "meaning": "xe đạp",
+   "example": "Ken painted his bicycle white.",
+   "exampleMeaning": "Ken sơn xe đạp của cậu ấy màu trắng.",
+   "emoji": "🚲",
+   "ipa": "/ˈbɑɪ.sɪ.kəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "newspaper",
+   "meaning": "báo, báo chí",
+   "example": "It's a newspaper like all the others.",
+   "exampleMeaning": "Nó là một tờ báo giống như mọi tờ báo khác.",
+   "emoji": "📰",
+   "ipa": "/ˈnjuːsˌpeɪpə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "monkey",
+   "meaning": "khỉ",
+   "example": "Evolution? Are you calling me a monkey?",
+   "exampleMeaning": "Tiến hoá? Bạn bảo tôi là khỉ à?",
+   "emoji": "🐒",
+   "ipa": "/ˈməŋki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "basketball",
+   "meaning": "bóng rổ",
+   "example": "Our basketball team is recruiting tall boys.",
+   "exampleMeaning": "Câu lạc bộ bóng rổ của chúng tôi đang tuyển những bạn nam cao lớn.",
+   "emoji": "🏀",
+   "ipa": "/ˈbæskətˌbɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chicken",
+   "meaning": "gà, gà con, gà giò",
+   "example": "Can you catch the chicken?",
+   "exampleMeaning": "Bạn có thể bắt gà không?",
+   "emoji": "🐔",
+   "ipa": "/ˈt͡ʃɪkɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "greet",
+   "meaning": "chào, chào hỏi, đón chào",
+   "example": "to greet somebody with a smile",
+   "exampleMeaning": "Mỉm cười chào ai",
+   "emoji": "",
+   "ipa": "/ˈɡrit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "alone",
+   "meaning": "một mình, trơ trọi, cô độc",
+   "example": "I'm not alone in this opinion",
+   "exampleMeaning": "Không phải chỉ riêng tôi có ý kiến này.",
+   "emoji": "",
+   "ipa": "/əˈloʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "actor",
+   "meaning": "diễn viên",
+   "example": "That famous actor is in many movies.",
+   "exampleMeaning": "Nam diễn viên nổi tiếng đó có mặt trong nhiều bộ phim.",
+   "emoji": "",
+   "ipa": "/ˈæktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "field",
+   "meaning": "lĩnh vực (hoạt động)",
+   "example": "a wide field of vision",
+   "exampleMeaning": "Nhãn quan rộng rãi",
+   "emoji": "",
+   "ipa": "/fiːld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Do",
+    "you",
+    "think",
+    "I'm",
+    "ugly"
+   ],
+   "reading": "",
+   "meaning": "Bạn có nghĩ tôi xấu không?"
+  },
+  {
+   "tokens": [
+    "I",
+    "think",
+    "that",
+    "house",
+    "looks",
+    "really",
+    "ugly",
+    "and",
+    "not",
+    "pretty"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghĩ ngôi nhà đó trông thực sự xấu và không được đẹp."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "alone"
+   ],
+   "reading": "",
+   "meaning": "Anh ta sống một mình."
+  },
+  {
+   "tokens": [
+    "Leave",
+    "me",
+    "alone"
+   ],
+   "reading": "",
+   "meaning": "Để tôi một mình."
+  },
+  {
+   "tokens": [
+    "He",
+    "lives",
+    "alone"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy sống một mình."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,332 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "开展",
+   "meaning": "nhân rộng",
+   "example": "开展科学技术交流活动。",
+   "exampleMeaning": "Triển khai hoạt động giao lưu khoa học kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāizhǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美食",
+   "meaning": "món ngon",
+   "example": "我们来学“美食”这个词。",
+   "exampleMeaning": "Cùng học từ “美食”: món ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měishí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "推广",
+   "meaning": "phổ biến",
+   "example": "推广先进经验",
+   "exampleMeaning": "Phổ biến kinh nghiệm tiên tiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīguǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "古代",
+   "meaning": "cổ đại",
+   "example": "古代建筑",
+   "exampleMeaning": "Kiến trúc cổ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "散步",
+   "meaning": "đi, đi bộ",
+   "example": "瑪麗亞帶著她的狗散步去了。",
+   "exampleMeaning": "Maria dắt con chó của cô ấy đi đạo rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sànbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "农业",
+   "meaning": "nông nghiệp",
+   "example": "我们来学“农业”这个词。",
+   "exampleMeaning": "Cùng học từ “农业”: nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大夫",
+   "meaning": "bác sĩ",
+   "example": "我们来学“大夫”这个词。",
+   "exampleMeaning": "Cùng học từ “大夫”: bác sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàifu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "面积",
+   "meaning": "diện tích",
+   "example": "棉花种植面积。",
+   "exampleMeaning": "Diện tích trồng bông",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "miànjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "前后",
+   "meaning": "trước sau",
+   "example": "村子的前后各有一条公路。",
+   "exampleMeaning": "Đầu thôn cuối thôn đều có đường cái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "加工",
+   "meaning": "gia công",
+   "example": "加工订货",
+   "exampleMeaning": "Gia công đặt hàng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāgōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学费",
+   "meaning": "chi phí (học tập)",
+   "example": "缴付一个孩子的学费",
+   "exampleMeaning": "Nộp chi phí cho con",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuéfèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中部",
+   "meaning": "đoạn giữa",
+   "example": "列车的中部。",
+   "exampleMeaning": "Đoạn giữa của đoàn tàu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歌声",
+   "meaning": "tiếng ca",
+   "example": "欢乐的歌声",
+   "exampleMeaning": "Giọng hát vui mừng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "束",
+   "meaning": "búi, chùm, bó",
+   "example": "腰束皮带。",
+   "exampleMeaning": "Thắt dây nịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "否定",
+   "meaning": "phủ định, phủ nhận",
+   "example": "全盘否定",
+   "exampleMeaning": "Phủ nhận toàn bộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǒudìng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主张",
+   "meaning": "quan niệm",
+   "example": "这两种主张都有理由。",
+   "exampleMeaning": "Hai chủ trương này đều có lý do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔzhāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "认出",
+   "meaning": "sự công nhận",
+   "example": "我们来学“认出”这个词。",
+   "exampleMeaning": "Cùng học từ “认出”: sự công nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènchū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "性别",
+   "meaning": "tính",
+   "example": "我们来学“性别”这个词。",
+   "exampleMeaning": "Cùng học từ “性别”: tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìngbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "亲切",
+   "meaning": "thân thiết",
+   "example": "那个老人非常 亲切。",
+   "exampleMeaning": "Ông già đó rất nhiệt tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnqiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "气候",
+   "meaning": "khí hậu",
+   "example": "北京的秋天一般地说气候比较凉爽。",
+   "exampleMeaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìhòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "那个",
+    "老人",
+    "非常",
+    "亲切"
+   ],
+   "reading": "nàge lǎorén fēicháng qīnqiè",
+   "meaning": "Ông già đó rất nhiệt tình."
+  },
+  {
+   "tokens": [
+    "她",
+    "对",
+    "大家",
+    "都",
+    "很",
+    "亲切"
+   ],
+   "reading": "tā duì dàjiā dōu hěn qīnqiè",
+   "meaning": "Đối với mọi người, nó đều rất thân thiết."
+  },
+  {
+   "tokens": [
+    "玛丽亚",
+    "带",
+    "着",
+    "她",
+    "的",
+    "狗",
+    "散步",
+    "去",
+    "了"
+   ],
+   "reading": "mǎlìyà dài zhe tā de gǒu sànbù qù le",
+   "meaning": "Maria dắt con chó của cô ấy đi đạo rồi."
+  },
+  {
+   "tokens": [
+    "她",
+    "对",
+    "我们",
+    "很",
+    "亲切"
+   ],
+   "reading": "tā duì wǒmen hěn qīnqiè",
+   "meaning": "Nó rất thân thiết với chúng tôi."
+  },
+  {
+   "tokens": [
+    "北京",
+    "的",
+    "秋天",
+    "一般",
+    "地",
+    "说",
+    "气候",
+    "比较",
+    "凉爽"
+   ],
+   "reading": "běijīng de qiūtiān yībān de shuō qìhòu bǐjiào liángshuǎng",
+   "meaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu."
+  }
+ ],
+ "issues": []
+}

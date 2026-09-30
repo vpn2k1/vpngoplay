@@ -1,0 +1,326 @@
+{
+ "lesson": 32,
+ "draft": true,
+ "words": [
+  {
+   "term": "出題",
+   "meaning": "proposing a question (EN)",
+   "example": "「出題」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出題”: proposing a question (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "連中",
+   "meaning": "bạn đồng nghiệp, bạn đồng sự",
+   "example": "「連中」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “連中”: bạn đồng nghiệp, bạn đồng sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "スポーツカー",
+   "meaning": "xe thể thao",
+   "example": "トムはスポーツカーを運転する。",
+   "exampleMeaning": "Tom lái một chiếc xe ô tô thể thao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "杖",
+   "meaning": "can, ba toong, gậy",
+   "example": "喧嘩のそば杖を食った。",
+   "exampleMeaning": "Tôi bị dính vào cuộc tranh cãi của người khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同調",
+   "meaning": "sự thông cảm",
+   "example": "「同調」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同調”: sự thông cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余暇",
+   "meaning": "thì giờ rỗi rãi, lúc thư nhàn",
+   "example": "「余暇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “余暇”: thì giờ rỗi rãi, lúc thư nhàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浸す",
+   "meaning": "ngâm, nhúng",
+   "example": "リトマス紙で溶液の液性（酸性、中性、塩基性）を調べるときは、リトマス紙をすべて溶液に浸すのではなく、紙の先端の部分だけを浸します。",
+   "exampleMeaning": "Khi đo độ pH của một chất lỏng (tính axít, tính trung tính, tính kiềm) bằng giấy quỳ tím, đừng nhúng toàn bộ tờ giấy vào trong chất lỏng đó, mà hãy chỉ nhúng phần đầu của tờ giấy mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "戸籍",
+   "meaning": "sự điều tra số dân",
+   "example": "「戸籍」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戸籍”: sự điều tra số dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "到底",
+   "meaning": "có lẽ, có thể",
+   "example": "「到底」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “到底”: có lẽ, có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "タイピスト",
+   "meaning": "người đánh máy",
+   "example": "「タイピスト」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “タイピスト”: người đánh máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "結び",
+   "meaning": "sự kết thúc, sự chấm dứt",
+   "example": "理論と実際を結び付けるべきだ。",
+   "exampleMeaning": "Bạn cần phải gắn kết lý thuyết với thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暴露",
+   "meaning": "sự mở ra",
+   "example": "「暴露」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暴露”: sự mở ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紳士",
+   "meaning": "người hào hoa phong nhã",
+   "example": "彼は完壁な紳士だ。",
+   "exampleMeaning": "Anh ấy là một quý ông hoàn hảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "身の回り",
+   "meaning": "sự lân cận, sự tiếp cận",
+   "example": "「身の回り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “身の回り”: sự lân cận, sự tiếp cận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "揺らぐ",
+   "meaning": "đu đưa, đong đưa, đung đưa",
+   "example": "「揺らぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “揺らぐ”: đu đưa, đong đưa, đung đưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主体",
+   "meaning": "chủ đề",
+   "example": "「主体」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主体”: chủ đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乳",
+   "meaning": "sữa",
+   "example": "牛乳をいっぱいください。",
+   "exampleMeaning": "Hãy cho tôi nhiều sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "タイマー",
+   "meaning": "người bấm giờ",
+   "example": "「タイマー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “タイマー”: người bấm giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反感",
+   "meaning": "ác cảm",
+   "example": "「反感」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反感”: ác cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "おんぶ",
+   "meaning": "tin, tin cậy, dựa vào",
+   "example": "「おんぶ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “おんぶ”: tin, tin cậy, dựa vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "理論",
+    "を",
+    "実践",
+    "と",
+    "結び付ける",
+    "こと",
+    "が",
+    "重要",
+    "である"
+   ],
+   "reading": "りろんをじっせんとむすびつけることがじゅうようである",
+   "meaning": "Cần phải kết hợp giữa lý thuyết và thực hành."
+  },
+  {
+   "tokens": [
+    "転ばぬ",
+    "先の",
+    "杖"
+   ],
+   "reading": "ころばぬさきのつえ",
+   "meaning": "Phòng bệnh hơn chữa bệnh."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "完壁な",
+    "紳士",
+    "だ"
+   ],
+   "reading": "かれはかんかべなしんしだ",
+   "meaning": "Anh ấy là một quý ông hoàn hảo."
+  },
+  {
+   "tokens": [
+    "理論",
+    "と",
+    "実際",
+    "を",
+    "結び付ける",
+    "べき",
+    "だ"
+   ],
+   "reading": "りろんとじっさいをむすびつけるべきだ",
+   "meaning": "Bạn cần phải gắn kết lý thuyết với thực tế."
+  },
+  {
+   "tokens": [
+    "牛乳",
+    "が",
+    "腐った"
+   ],
+   "reading": "ぎゅうにゅうがくさった",
+   "meaning": "Sữa bị thiu rồi."
+  }
+ ],
+ "issues": []
+}

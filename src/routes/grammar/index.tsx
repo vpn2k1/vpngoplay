@@ -6,6 +6,7 @@ import { GRAMMAR_ICON, OpenBook } from '../../components/icons'
 import { BackLabel, ProgressBar, cx } from '../../components/ui'
 import { grammarIndexQuery } from '../../lib/api'
 import { grammarScoreKey } from '../../lib/grammar'
+import { useFollowLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
 import { GRAMMAR_GROUPS, type GrammarGroup } from '../../lib/types'
 
@@ -16,12 +17,13 @@ export const Route = createFileRoute('/grammar/')({
 
 function GrammarHub() {
   const { data: topics } = useSuspenseQuery(grammarIndexQuery)
+  useFollowLang('en')
   const bestScores = useProgress((s) => s.bestScores)
   const done = topics.filter((t) => (bestScores[grammarScoreKey(t.id)] ?? 0) >= 80).length
 
   return (
     <div className="space-y-6">
-      <Link to="/" search={{ lang: 'en' }}>
+      <Link to="/">
         <BackLabel>Tiếng Anh</BackLabel>
       </Link>
 

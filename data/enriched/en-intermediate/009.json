@@ -1,0 +1,317 @@
+{
+ "lesson": 9,
+ "draft": true,
+ "words": [
+  {
+   "term": "stress",
+   "meaning": "nhấn mạnh (một âm, một điểm... )",
+   "example": "to lay stress on something",
+   "exampleMeaning": "Nhấn mạnh một điều gì",
+   "emoji": "",
+   "ipa": "/strɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "various",
+   "meaning": "khác nhau",
+   "example": "known under various names",
+   "exampleMeaning": "Được biết dưới nhiều tên khác nhau",
+   "emoji": "",
+   "ipa": "/ˈvɛriəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slightly",
+   "meaning": "mỏng mảnh, yếu ớt",
+   "example": "the patient is slightly better today",
+   "exampleMeaning": "Hôm nay người bệnh đã hơi khá hơn",
+   "emoji": "",
+   "ipa": "/ˈslaɪtli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "allergic",
+   "meaning": "dị ứng",
+   "example": "I think Tom is allergic to cats.",
+   "exampleMeaning": "Tôi nghĩ Tom bị dị ứng với mèo.",
+   "emoji": "",
+   "ipa": "/əˈlɜrdʒɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "monster",
+   "meaning": "to lớn, khổng lồ",
+   "example": "It's a monster storm.",
+   "exampleMeaning": "Nó là một cơn bão khủng khiếp.",
+   "emoji": "",
+   "ipa": "/ˈmɑnstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reserve",
+   "meaning": "để dành, dự trữ",
+   "example": "with all reserve; with all proper reserves",
+   "exampleMeaning": "Với tất cả những sự dè dặt",
+   "emoji": "",
+   "ipa": "/riˈzɜrv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "recommend",
+   "meaning": "giới thiệu, tiến cử (người, vật... )",
+   "example": "can you recommend me a good English dictionary?",
+   "exampleMeaning": "Anh có thể giới thiệu cho tôi cuốn tự điển Anh ngữ tốt không?",
+   "emoji": "",
+   "ipa": "/ˌrɛkəˈmɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "firmly",
+   "meaning": "vững chắc",
+   "example": "Let's learn the word \"firmly\".",
+   "exampleMeaning": "Cùng học từ “firmly”: vững chắc.",
+   "emoji": "",
+   "ipa": "/ˈfɜrmli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "complicated",
+   "meaning": "phức tạp, rắc rối",
+   "example": "It's too complicated for me.",
+   "exampleMeaning": "Nó quá phức tạp với tôi.",
+   "emoji": "",
+   "ipa": "/ˈkɑmpləˌkeɪtəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "untidy",
+   "meaning": "xốc xếch, lôi thôi",
+   "example": "Let's learn the word \"untidy\".",
+   "exampleMeaning": "Cùng học từ “untidy”: xốc xếch, lôi thôi.",
+   "emoji": "",
+   "ipa": "/ənˈtaɪdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dare",
+   "meaning": "dám, dám đương đầu với",
+   "example": "how dare you speak like this?",
+   "exampleMeaning": "Tại sao anh dám nói như vậy?",
+   "emoji": "",
+   "ipa": "/ˈdɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "limited",
+   "meaning": "có hạn, hạn chế, hạn định",
+   "example": "Let's learn the word \"limited\".",
+   "exampleMeaning": "Cùng học từ “limited”: có hạn, hạn chế, hạn định.",
+   "emoji": "",
+   "ipa": "/ˈlɪmɪtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "appreciation",
+   "meaning": "sự đánh giá",
+   "example": "to have an appreciation of music",
+   "exampleMeaning": "Biết thưởng thức âm nhạc",
+   "emoji": "",
+   "ipa": "/əˌpriʃiˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tide",
+   "meaning": "triều, thuỷ triều, con nước",
+   "example": "to swim with (down) the tide",
+   "exampleMeaning": "Gió chiều nào theo chiều ấy, theo thời",
+   "emoji": "",
+   "ipa": "/ˈtaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mayor",
+   "meaning": "thị trưởng",
+   "example": "The mayor presented the prizes in person.",
+   "exampleMeaning": "Thị trưởng tự mình trao giải thưởng.",
+   "emoji": "",
+   "ipa": "/ˈmeɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "council",
+   "meaning": "hội đồng",
+   "example": "the council of minister",
+   "exampleMeaning": "Hội đồng bộ trưởng",
+   "emoji": "",
+   "ipa": "/ˈkaʊnsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "contribute",
+   "meaning": "đóng góp, góp phần",
+   "example": "If you're bored, you can contribute to Tatoeba.",
+   "exampleMeaning": "Nếu bạn chán, bạn có thể đóng góp cho Tatoeba.",
+   "emoji": "",
+   "ipa": "/kənˈtrɪbjut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "consume",
+   "meaning": "tiêu phí",
+   "example": "to consume one's time",
+   "exampleMeaning": "Tiêu phí thời giờ",
+   "emoji": "",
+   "ipa": "/kənˈsum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "delivery",
+   "meaning": "giao",
+   "example": "the delivery of the lecture took three hours",
+   "exampleMeaning": "Đọc bài thuyết minh mất ba tiếng",
+   "emoji": "",
+   "ipa": "/dɪˈlɪvɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vet",
+   "meaning": "của veteran",
+   "example": "to vet an article",
+   "exampleMeaning": "Hiệu đính một bài báo",
+   "emoji": "",
+   "ipa": "/ˈvɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "dare"
+   ],
+   "reading": "",
+   "meaning": "Tôi không dám."
+  },
+  {
+   "tokens": [
+    "This",
+    "is",
+    "complicated"
+   ],
+   "reading": "",
+   "meaning": "Cái này phức tạp đấy."
+  },
+  {
+   "tokens": [
+    "I",
+    "want",
+    "to",
+    "contribute"
+   ],
+   "reading": "",
+   "meaning": "Tôi muốn đóng góp."
+  },
+  {
+   "tokens": [
+    "How",
+    "dare",
+    "he",
+    "complain"
+   ],
+   "reading": "",
+   "meaning": "Sao anh ta lại dám phàn nàn cơ chứ?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "allergic",
+    "to",
+    "penicillin"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị dị ứng với penicillin."
+  }
+ ],
+ "issues": []
+}

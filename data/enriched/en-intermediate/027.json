@@ -1,0 +1,331 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "stripe",
+   "meaning": "sọc, vằn",
+   "example": "black with a red stripe",
+   "exampleMeaning": "Đen có đường sọc đỏ",
+   "emoji": "",
+   "ipa": "/ˈstraɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "parrot",
+   "meaning": "con vẹt ((nghĩa đen) & (nghĩa bóng))",
+   "example": "Let's learn the word \"parrot\".",
+   "exampleMeaning": "Cùng học từ “parrot”: con vẹt ((nghĩa đen) & (nghĩa bóng)).",
+   "emoji": "🦜",
+   "ipa": "/ˈpɛrət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "damaged",
+   "meaning": "hỏng",
+   "example": "Let's learn the word \"damaged\".",
+   "exampleMeaning": "Cùng học từ “damaged”: hỏng.",
+   "emoji": "",
+   "ipa": "/ˈdæmədʒd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interaction",
+   "meaning": "tương tác, sự ảnh hưởng lẫn nhau",
+   "example": "Let's learn the word \"interaction\".",
+   "exampleMeaning": "Cùng học từ “interaction”: tương tác, sự ảnh hưởng lẫn nhau.",
+   "emoji": "",
+   "ipa": "/ˌɪnɜrˈækʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "encouragement",
+   "meaning": "sự làm can đảm, sự làm mạnh dạn",
+   "example": "Let's learn the word \"encouragement\".",
+   "exampleMeaning": "Cùng học từ “encouragement”: sự làm can đảm, sự làm mạnh dạn.",
+   "emoji": "",
+   "ipa": "/ɛnˈkɜrɪdʒmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "option",
+   "meaning": "lựa chọn",
+   "example": "to make one's option",
+   "exampleMeaning": "Lựa chọn",
+   "emoji": "",
+   "ipa": "/ˈɑpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spectrum",
+   "meaning": "hình ảnh",
+   "example": "Let's learn the word \"spectrum\".",
+   "exampleMeaning": "Cùng học từ “spectrum”: hình ảnh.",
+   "emoji": "",
+   "ipa": "/ˈspɛktrəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "extend",
+   "meaning": "kéo dài (thời hạn... ), gia hạn, mở rộng",
+   "example": "to extend the best wishes to...",
+   "exampleMeaning": "Gửi những lời chúc tốt đẹp nhất tới (ai...)",
+   "emoji": "",
+   "ipa": "/ɪkˈstɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "loud",
+   "meaning": "to, lớn (nói)",
+   "example": "to be loud in the praise of somebody",
+   "exampleMeaning": "Nhiệt liệt ca ngợi ai",
+   "emoji": "",
+   "ipa": "/ˈlaʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "undress",
+   "meaning": "cởi quần áo",
+   "example": "Let's learn the word \"undress\".",
+   "exampleMeaning": "Cùng học từ “undress”: cởi quần áo.",
+   "emoji": "",
+   "ipa": "/ənˈdrɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "improvement",
+   "meaning": "sự cải tiến, sự cải thiện",
+   "example": "there's a marked improvement in his health",
+   "exampleMeaning": "Sức khoẻ anh ta khá hơn rõ rệt",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpruvmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hearty",
+   "meaning": "vui vẻ, thân mật, nồng nhiệt",
+   "example": "to be hale and hearty",
+   "exampleMeaning": "Còn khoẻ mạnh tráng kiện",
+   "emoji": "",
+   "ipa": "/ˈhɑrti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deliver",
+   "meaning": "đọc, phát biểu, giãi bày",
+   "example": "to deliver an assault on the enemy",
+   "exampleMeaning": "Mở cuộc tấn công quân địch",
+   "emoji": "",
+   "ipa": "/dɪˈlɪvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "uncertainty",
+   "meaning": "sự không chắc chắn",
+   "example": "Heisenberg uncertainty principle",
+   "exampleMeaning": "Nguyên lý bất định Hai-den-béc",
+   "emoji": "",
+   "ipa": "/ənˈsɜrtənti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gee",
+   "meaning": "khuấy thán từ",
+   "example": "Let's learn the word \"gee\".",
+   "exampleMeaning": "Cùng học từ “gee”: khuấy thán từ.",
+   "emoji": "",
+   "ipa": "/ˈdʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bump",
+   "meaning": "đâm vào, đâm sầm vào",
+   "example": "to bump one's head against the door",
+   "exampleMeaning": "Va đầu vào cửa",
+   "emoji": "",
+   "ipa": "/ˈbəmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "turbulence",
+   "meaning": "sự hỗn loạn",
+   "example": "Let's learn the word \"turbulence\".",
+   "exampleMeaning": "Cùng học từ “turbulence”: sự hỗn loạn.",
+   "emoji": "",
+   "ipa": "/ˈtɜrbjələns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "quantity",
+   "meaning": "lượng, số lượng, đại lượng",
+   "example": "We import a large quantity of food.",
+   "exampleMeaning": "Chúng tôi nhập khẩu một lượng lớn thực phẩm.",
+   "emoji": "",
+   "ipa": "/ˈkwɑntəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hopeful",
+   "meaning": "đầy hứa hẹn, có triển vọng",
+   "example": "The future seems very hopeful.",
+   "exampleMeaning": "Tương lai có vẻ hứa hẹn lắm.",
+   "emoji": "",
+   "ipa": "/ˈhoʊpfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "examination",
+   "meaning": "sự khám xét kỹ, sự xem xét kỹ",
+   "example": "to go in for an examination",
+   "exampleMeaning": "Đi thi",
+   "emoji": "",
+   "ipa": "/ɪɡˌzæməˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Don't",
+    "speak",
+    "so",
+    "loud"
+   ],
+   "reading": "",
+   "meaning": "Đừng nói to quá."
+  },
+  {
+   "tokens": [
+    "I",
+    "put",
+    "quantity",
+    "after",
+    "quality"
+   ],
+   "reading": "",
+   "meaning": "Tôi đặt số lượng sau chất lượng."
+  },
+  {
+   "tokens": [
+    "We",
+    "import",
+    "a",
+    "large",
+    "quantity",
+    "of",
+    "food"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi nhập khẩu một lượng lớn thực phẩm."
+  },
+  {
+   "tokens": [
+    "Today",
+    "paper",
+    "is",
+    "used",
+    "in",
+    "quantity",
+    "every",
+    "day"
+   ],
+   "reading": "",
+   "meaning": "Ngày nay, giấy được dùng nhiều mỗi ngày."
+  },
+  {
+   "tokens": [
+    "Did",
+    "you",
+    "really",
+    "have",
+    "to",
+    "yell",
+    "that",
+    "loud"
+   ],
+   "reading": "",
+   "meaning": "Bạn có cần phải hét to thế không?"
+  }
+ ],
+ "issues": []
+}

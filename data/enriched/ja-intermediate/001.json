@@ -1,0 +1,333 @@
+{
+ "lesson": 1,
+ "draft": true,
+ "words": [
+  {
+   "term": "都市",
+   "meaning": "thành phố, thành thị, đô thị",
+   "example": "私たちは大都市に住んでいる。",
+   "exampleMeaning": "Chúng tôi sống ở một thành phố lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生る",
+   "meaning": "to bear fruit (EN)",
+   "example": "「生る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生る”: to bear fruit (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平和",
+   "meaning": "sự hoà thuận, sự trật tự an ninh, sự hài hoà",
+   "example": "誰もが世界平和を望んでいる。",
+   "exampleMeaning": "Ai cũng mong muốn hòa bình thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "就職",
+   "meaning": "finding employment (EN)",
+   "example": "大学へ行くか就職するか、まだ決めていません。",
+   "exampleMeaning": "Tôi chưa quyết định được là nên đi học đại học hay là đi tìm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "粉",
+   "meaning": "bột mì, rắc bột (mì), thuốc bột",
+   "example": "私は紙を粉々に引き裂いた。",
+   "exampleMeaning": "Tôi đã xé tờ giấy đó ra thành từng mảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "溺れる",
+   "meaning": "bị ngập nước",
+   "example": "「溺れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “溺れる”: bị ngập nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "既に",
+   "meaning": "đã, rồi",
+   "example": "「既に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “既に”: đã, rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "減る",
+   "meaning": "sự giảm đi, sự giảm sút",
+   "example": "「減る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “減る”: sự giảm đi, sự giảm sút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "やや",
+   "meaning": "nhỏ bé, bé bỏng",
+   "example": "「やや」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “やや”: nhỏ bé, bé bỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瓶",
+   "meaning": "chai, lọ",
+   "example": "この壊れた花瓶の修理は不可能だ。",
+   "exampleMeaning": "Cái bình hoa vỡ này không thể sửa được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "飼う",
+   "meaning": "giữ, giữ lại",
+   "example": "インコを飼うために必要なものを揃えましょう。",
+   "exampleMeaning": "Chúng ta hãy chuẩn bị những thứ cần thiết để nuôi vẹt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "のんびり",
+   "meaning": "vô tư lự, thảnh thơi",
+   "example": "退職後は田舎でのんびり暮したい。",
+   "exampleMeaning": "Lúc nghỉ hưu tôi muốn sống một cách thảnh thơi tại vùng nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "間違い",
+   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "example": "それは全く間違いです。",
+   "exampleMeaning": "Điều đó là hoàn toàn sai lầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "化粧",
+   "meaning": "đồ hoá trang, son phấn (để tô điểm)",
+   "example": "化粧品にかぶれました。",
+   "exampleMeaning": "Tôi bị viêm da do mỹ phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "存在",
+   "meaning": "sự tồn tại, sự sống, sự sống còn",
+   "example": "プライバシーなんて存在しない。",
+   "exampleMeaning": "Trên đời không có thứ gì gọi là \"sự riêng tư\".",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "批評",
+   "meaning": "sự phê bình, sự phê phán, sự bình phẩm",
+   "example": "「批評」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “批評”: sự phê bình, sự phê phán, sự bình phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "記念",
+   "meaning": "kỷ niệm, sự tưởng nhớ",
+   "example": "今日は両親の結婚記念日です。",
+   "exampleMeaning": "Hôm nay là ngày kỷ niệm lễ cưới của cha mẹ tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "異なる",
+   "meaning": "khác, khác biệt, khác nhau",
+   "example": "食習慣は国により異なる。",
+   "exampleMeaning": "Văn hóa ăn uống khác nhau ở mỗi nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "押える",
+   "meaning": "ngừng, nghỉ, thôi",
+   "example": "「押える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “押える”: ngừng, nghỉ, thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "許可",
+   "meaning": "phép",
+   "example": "私は彼が私の家で寝ることを許可した。",
+   "exampleMeaning": "Tôi cho phép anh ta ngủ lại nhà tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "それ",
+    "は",
+    "全く",
+    "間違い",
+    "です"
+   ],
+   "reading": "それはまったくまちがいです",
+   "meaning": "Điều đó là hoàn toàn sai lầm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "試験",
+    "に",
+    "受かる",
+    "の",
+    "は",
+    "間違いない"
+   ],
+   "reading": "かれがしけんにうかるのはまちがいない",
+   "meaning": "Tôi chắc chắn anh ta sẽ làm bài kiểm tra."
+  },
+  {
+   "tokens": [
+    "退職後",
+    "は",
+    "田舎",
+    "で",
+    "のんびり",
+    "暮し",
+    "たい"
+   ],
+   "reading": "たいしょくごはいなかでのんびりくらしたい",
+   "meaning": "Lúc nghỉ hưu tôi muốn sống một cách thảnh thơi tại vùng nông thôn."
+  },
+  {
+   "tokens": [
+    "この",
+    "壊れた",
+    "花瓶",
+    "の",
+    "修理",
+    "は",
+    "不可能",
+    "だ"
+   ],
+   "reading": "このこわれたかびんのしゅうりはふかのうだ",
+   "meaning": "Cái bình hoa vỡ này không thể sửa được."
+  },
+  {
+   "tokens": [
+    "ここ",
+    "で",
+    "なら",
+    "平和に",
+    "暮らせる",
+    "だろう"
+   ],
+   "reading": "ここでならへいわにくらせるだろう",
+   "meaning": "Tôi có thể sống yên bình ở đây."
+  }
+ ],
+ "issues": []
+}

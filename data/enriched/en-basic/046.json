@@ -1,0 +1,330 @@
+{
+ "lesson": 46,
+ "draft": true,
+ "words": [
+  {
+   "term": "bear",
+   "meaning": "chịu, chịu đựng",
+   "example": "to bear a part of the expenses",
+   "exampleMeaning": "Chịu một phần các khoản chi",
+   "emoji": "🐻",
+   "ipa": "/ˈbɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cloud",
+   "meaning": "mây, đám mây",
+   "example": "a cloud of dust",
+   "exampleMeaning": "Đám bụi",
+   "emoji": "☁",
+   "ipa": "/klaʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "story",
+   "meaning": "chuyện, câu chuyện",
+   "example": "oh you story!",
+   "exampleMeaning": "Nói dối!, điêu!",
+   "emoji": "",
+   "ipa": "/ˈstɔː.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "leg",
+   "meaning": "chân, cẳng (người, thú... )",
+   "example": "My leg hurts.",
+   "exampleMeaning": "Chân tôi đau.",
+   "emoji": "🦵",
+   "ipa": "/lɛɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "brown",
+   "meaning": "nâu",
+   "example": "I have brown eyes.",
+   "exampleMeaning": "Tôi có mắt nâu.",
+   "emoji": "",
+   "ipa": "/braʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "file",
+   "meaning": "tệp",
+   "example": "In which folder did you save the file?",
+   "exampleMeaning": "Bạn đã lưu tệp vào thư mục nào rồi?",
+   "emoji": "",
+   "ipa": "/ˈfaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "birth",
+   "meaning": "sinh",
+   "example": "My wife gave birth three days ago.",
+   "exampleMeaning": "Vợ tôi vừa sinh ba hôm trước.",
+   "emoji": "",
+   "ipa": "/ˈbɜrθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bee",
+   "meaning": "nhà thơ, người bận nhiều việc, buổi vui chơi tập thể",
+   "example": "The bee flew to the flower and drank the nectar.",
+   "exampleMeaning": "Con ong đã bay vào hoa, rồi hút mật.",
+   "emoji": "",
+   "ipa": "/ˈbiː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fast",
+   "meaning": "nhanh",
+   "example": "a stake fast in the ground",
+   "exampleMeaning": "Cọc đóng chắc xuống đất",
+   "emoji": "",
+   "ipa": "/fɑːst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dig",
+   "meaning": "đào",
+   "example": "to dig a stick into the sand",
+   "exampleMeaning": "Ấn sâu cái gậy xuống cát",
+   "emoji": "",
+   "ipa": "/dɪɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "library",
+   "meaning": "thư viện, phòng đọc sách",
+   "example": "Are you in the library?",
+   "exampleMeaning": "Bạn đang ở trong thư viện phải không?",
+   "emoji": "",
+   "ipa": "/ˈlaɪbrɛˌri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reporter",
+   "meaning": "người báo cáo",
+   "example": "Let's learn the word \"reporter\".",
+   "exampleMeaning": "Cùng học từ “reporter”: người báo cáo.",
+   "emoji": "",
+   "ipa": "/rɪˈpɔrtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "repeat",
+   "meaning": "nhắc lại, lặp lại",
+   "example": "to repeat an action",
+   "exampleMeaning": "Làm lại một hành động",
+   "emoji": "",
+   "ipa": "/riˈpit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "read",
+   "meaning": "đọc",
+   "example": "It is intended to be read...",
+   "exampleMeaning": "Điều đó phải được hiểu là...",
+   "emoji": "",
+   "ipa": "/ˈrɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "size",
+   "meaning": "cỡ, khổ, số",
+   "example": "what's your size?",
+   "exampleMeaning": "Anh cao bao nhiêu?",
+   "emoji": "",
+   "ipa": "/saɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mouse",
+   "meaning": "chuột",
+   "example": "The mouse is cute.",
+   "exampleMeaning": "Con chuột này dễ thương.",
+   "emoji": "🐁",
+   "ipa": "/ˈmaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "drop",
+   "meaning": "giọt (nước, máu, thuốc... )",
+   "example": "to have a drop in one's eye",
+   "exampleMeaning": "Có vẻ say rồi",
+   "emoji": "",
+   "ipa": "/drɒp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "turkey",
+   "meaning": "gà tây",
+   "example": "Let's learn the word \"turkey\".",
+   "exampleMeaning": "Cùng học từ “turkey”: gà tây.",
+   "emoji": "🦃",
+   "ipa": "/ˈtɜrki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clothes",
+   "meaning": "quần áo",
+   "example": "Where do you buy clothes?",
+   "exampleMeaning": "Ấy mua bộ đồ này ở đâu thế?",
+   "emoji": "",
+   "ipa": "/ˈkloʊðz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "beside",
+   "meaning": "so với",
+   "example": "My foot is small beside yours.",
+   "exampleMeaning": "Chân tôi nhỏ hơn chân bạn.",
+   "emoji": "",
+   "ipa": "/ˌbiˈsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Yesterday",
+    "I",
+    "read",
+    "a",
+    "really",
+    "interesting",
+    "story"
+   ],
+   "reading": "",
+   "meaning": "Hôm qua, tôi đã đọc được một câu chuyện rất thú vị."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "to",
+    "read",
+    "books",
+    "at",
+    "the",
+    "library"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích đọc sách ở thư viện."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "to",
+    "go",
+    "to",
+    "the",
+    "library",
+    "and",
+    "read",
+    "books"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích đi đến thư viện và đọc sách."
+  },
+  {
+   "tokens": [
+    "I",
+    "can",
+    "read"
+   ],
+   "reading": "",
+   "meaning": "Tôi đọc được."
+  },
+  {
+   "tokens": [
+    "Can",
+    "you",
+    "repeat"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể nhắc lại không?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,314 @@
+{
+ "lesson": 93,
+ "draft": true,
+ "words": [
+  {
+   "term": "part",
+   "meaning": "phần, bộ phận, tập (sách)",
+   "example": "it was not my part to interfere",
+   "exampleMeaning": "Tôi không có nhiệm vụ can thiệp vào",
+   "emoji": "",
+   "ipa": "/ˈpɑːrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ID",
+   "meaning": "ít (đơn vị chất giống)",
+   "example": "Sentences past this ID are sentences added by contributors of Tatoeba Project.",
+   "exampleMeaning": "Những câu từ ID này trở đi là những câu do những người đóng góp dự án Tatoeba thêm vào.",
+   "emoji": "",
+   "ipa": "/ˈaɪˈdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "folder",
+   "meaning": "thư mục",
+   "example": "In which folder did you save the file?",
+   "exampleMeaning": "Bạn đã lưu tệp vào thư mục nào rồi?",
+   "emoji": "",
+   "ipa": "/ˈfoʊldɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grateful",
+   "meaning": "biết ơn",
+   "example": "I can't tell you how grateful I am.",
+   "exampleMeaning": "Tôi biết ơn không sao kể hết.",
+   "emoji": "",
+   "ipa": "/ˈɡreɪtfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "someday",
+   "meaning": "một ngày nào đó",
+   "example": "Someday I'll run like the wind.",
+   "exampleMeaning": "Sẽ có một ngày tôi sẽ chạy nhanh như gió.",
+   "emoji": "",
+   "ipa": "/ˈsəmˌdeɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "feature",
+   "meaning": "tính năng",
+   "example": "This thing has a safety feature built in, I'll bet.",
+   "exampleMeaning": "Tôi cá rằng thứ này có tính năng an toàn bên trong.",
+   "emoji": "",
+   "ipa": "/ˈfi.tʃɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "modern",
+   "meaning": "hiện đại",
+   "example": "Modern jazz is not my line.",
+   "exampleMeaning": "Nhạc jazz hiện đại không phải chuyên môn của tôi.",
+   "emoji": "",
+   "ipa": "/ˈmɑdɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "runner",
+   "meaning": "người tuỳ phái (ở ngân hàng)",
+   "example": "Let's learn the word \"runner\".",
+   "exampleMeaning": "Cùng học từ “runner”: người tuỳ phái (ở ngân hàng).",
+   "emoji": "",
+   "ipa": "/ˈrənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pursue",
+   "meaning": "theo, đuổi theo, đuổi bắt",
+   "example": "to pursue the policy of peace",
+   "exampleMeaning": "Theo đuổi chính sách hoà bình",
+   "emoji": "",
+   "ipa": "/pɜrˈsu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cab",
+   "meaning": "xe tắc xi",
+   "example": "The cab driver was Muslim.",
+   "exampleMeaning": "Người tài xế taxi đó là người Hồi giáo.",
+   "emoji": "",
+   "ipa": "/ˈkæb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "thought",
+   "meaning": "ý nghĩ, tư tưởng",
+   "example": "I thought about Tom.",
+   "exampleMeaning": "Tôi đã nghĩ về Tom.",
+   "emoji": "",
+   "ipa": "/ˈθɔt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "loose",
+   "meaning": "lỏng, không chặt, chùng",
+   "example": "to give a loose to one's feelings",
+   "exampleMeaning": "Trút hết tình cảm, để tình cảm tuôn ra",
+   "emoji": "",
+   "ipa": "/ˈlus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "view",
+   "meaning": "thấy, nhìn, xem",
+   "example": "to view a matter from one's standpoint",
+   "exampleMeaning": "Nhìn vấn đề theo quan điểm của mình",
+   "emoji": "",
+   "ipa": "/ˈvju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chef",
+   "meaning": "đầu bếp",
+   "example": "Let's learn the word \"chef\".",
+   "exampleMeaning": "Cùng học từ “chef”: đầu bếp.",
+   "emoji": "",
+   "ipa": "/ˈʃɛf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "menu",
+   "meaning": "thực đơn",
+   "example": "Let's learn the word \"menu\".",
+   "exampleMeaning": "Cùng học từ “menu”: thực đơn.",
+   "emoji": "",
+   "ipa": "/ˈmɛnju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "account",
+   "meaning": "khoản, tài khoản",
+   "example": "to find one's account in...",
+   "exampleMeaning": "Tìm thấy điều lợi ở...; được hưởng lợi ở...",
+   "emoji": "",
+   "ipa": "/əˈkaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hit",
+   "meaning": "đánh, đấm trúng, bắn trúng",
+   "example": "hit hard!; hit out!",
+   "exampleMeaning": "Đánh mạnh vào",
+   "emoji": "",
+   "ipa": "/hɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "textbook",
+   "meaning": "điển hình",
+   "example": "This history textbook is intended for high school students.",
+   "exampleMeaning": "Cuốn sách lịch sử này được viết cho học sinh cấp ba.",
+   "emoji": "",
+   "ipa": "/ˈtɛkstˌbʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "downstairs",
+   "meaning": "xuống cầu thang, xuống gác",
+   "example": "Come downstairs, Tom.",
+   "exampleMeaning": "Xuống dưới tầng đi, Tom.",
+   "emoji": "",
+   "ipa": "/ˈdaʊnˈstɛrz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "value",
+   "meaning": "giá trị",
+   "example": "to set a low value on something",
+   "exampleMeaning": "Coi rẻ vật gì",
+   "emoji": "",
+   "ipa": "/ˈvælju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Hold",
+    "that",
+    "thought"
+   ],
+   "reading": "",
+   "meaning": "Dừng lại đây đã."
+  },
+  {
+   "tokens": [
+    "He",
+    "hit",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã đánh tôi."
+  },
+  {
+   "tokens": [
+    "Come",
+    "downstairs",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Xuống dưới tầng đi, Tom."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "dies",
+    "someday"
+   ],
+   "reading": "",
+   "meaning": "Ai rồi cũng sẽ chết vào một ngày nào đó."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "thought",
+    "so"
+   ],
+   "reading": "",
+   "meaning": "Mọi người đều nghĩ vậy."
+  }
+ ],
+ "issues": []
+}

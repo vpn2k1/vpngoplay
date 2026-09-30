@@ -1,0 +1,323 @@
+{
+ "lesson": 49,
+ "draft": true,
+ "words": [
+  {
+   "term": "touch",
+   "meaning": "chạm, đụng, sờ",
+   "example": "Nothing you can say will touch him.",
+   "exampleMeaning": "Tất cả những điều anh có thể nói sẽ chả có tác dụng gì đối với nó.",
+   "emoji": "",
+   "ipa": "/tʌt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "subway",
+   "meaning": "tàu điện ngầm, Đường xe lửa ngầm",
+   "example": "Subway is a train that goes underground.",
+   "exampleMeaning": "Tàu điện ngầm là tàu chạy dưới lòng đất.",
+   "emoji": "",
+   "ipa": "/ˈsəbˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bar",
+   "meaning": "thanh, thỏi",
+   "example": "to be tried at [the] bar",
+   "exampleMeaning": "Bị xử tại toà",
+   "emoji": "",
+   "ipa": "/ˈbɑr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "door",
+   "meaning": "cửa, cửa ra vào (nhà, xe ô tô... )",
+   "example": "Keep the door closed.",
+   "exampleMeaning": "Bạn đóng cửa đi nào.",
+   "emoji": "🚪",
+   "ipa": "/ˈdɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "good afternoon",
+   "meaning": "chào buổi chiều",
+   "example": "Let's learn the word \"good afternoon\".",
+   "exampleMeaning": "Cùng học từ “good afternoon”: chào buổi chiều.",
+   "emoji": "",
+   "ipa": "/ˈɡʊd ˌæftɜrˈnun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pig",
+   "meaning": "lợn, heo",
+   "example": "The pig is really fat.",
+   "exampleMeaning": "Con heo béo thật đấy.",
+   "emoji": "🐖",
+   "ipa": "/ˈpɪɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "he",
+   "meaning": "nó, anh ấy, ông ấy...",
+   "example": "Is he Tom?",
+   "exampleMeaning": "Đó là Tom à?",
+   "emoji": "",
+   "ipa": "/ˈhi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "towel",
+   "meaning": "khăn lau",
+   "example": "Mary came out of the bathroom with only a towel on.",
+   "exampleMeaning": "Mary bước ra khỏi nhà tắm chỉ với khăn tắm trên người.",
+   "emoji": "",
+   "ipa": "/ˈtaʊəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "celebrate",
+   "meaning": "kỷ niệm, làm lễ kỷ niệm",
+   "example": "Let's celebrate the anniversary of our first kiss.",
+   "exampleMeaning": "Hãy ăn mừng kỷ niệm ngày chúng ta hôn nhau lần đầu.",
+   "emoji": "",
+   "ipa": "/ˈsɛləˌbreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "son",
+   "meaning": "con trai",
+   "example": "His son is dead.",
+   "exampleMeaning": "Con trai của anh ấy đã chết.",
+   "emoji": "",
+   "ipa": "/ˈsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "six",
+   "meaning": "sáu",
+   "example": "twice six is twelve",
+   "exampleMeaning": "Hai lần sáu là mười hai",
+   "emoji": "",
+   "ipa": "/ˈsɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "technology",
+   "meaning": "công nghệ",
+   "example": "Why didn't modern technology develop in China?",
+   "exampleMeaning": "Tại sao công nghệ hiện đại lại không phát triển ở Trung Quốc?",
+   "emoji": "",
+   "ipa": "/tɛkˈnɒl.ə.d͡ʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hope",
+   "meaning": "hy vọng",
+   "example": "to be past (beyond) hope",
+   "exampleMeaning": "Không còn hy vọng gì nữa",
+   "emoji": "",
+   "ipa": "/ˈhoʊp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grammar",
+   "meaning": "văn phạm, ngữ pháp",
+   "example": "This language's grammar is very difficult.",
+   "exampleMeaning": "Ngữ pháp của ngôn ngữ này rất khó.",
+   "emoji": "",
+   "ipa": "/ˈɡræm.ə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sum",
+   "meaning": "số tiền",
+   "example": "the sum of two and three is five",
+   "exampleMeaning": "Tổng của hai và ba là năm",
+   "emoji": "",
+   "ipa": "/ˈsəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hospital",
+   "meaning": "bệnh viện, nhà thương",
+   "example": "He is in the hospital at present.",
+   "exampleMeaning": "Hiện tại, anh ấy đang ở trong bệnh viện.",
+   "emoji": "🏥",
+   "ipa": "/ˈhɒs.pɪ.tl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "living room",
+   "meaning": "phòng sinh hoạt",
+   "example": "They are talking in the living room.",
+   "exampleMeaning": "Họ đang nói chuyện trong phòng khách.",
+   "emoji": "",
+   "ipa": "/ˈlɪvɪŋ ˈrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "classmate",
+   "meaning": "bạn cùng lớp",
+   "example": "Let's learn the word \"classmate\".",
+   "exampleMeaning": "Cùng học từ “classmate”: bạn cùng lớp.",
+   "emoji": "",
+   "ipa": "/ˈklæsˌmeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "January",
+   "meaning": "tháng Một",
+   "example": "How many days does January have?",
+   "exampleMeaning": "Tháng Một có bao nhiêu ngày?",
+   "emoji": "",
+   "ipa": "/ˈdʒænjuˌɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "swimming",
+   "meaning": "bơi",
+   "example": "Is the dog swimming?",
+   "exampleMeaning": "Con chó đang bơi?",
+   "emoji": "",
+   "ipa": "/ˈswɪmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "returned",
+    "at",
+    "six"
+   ],
+   "reading": "",
+   "meaning": "Anh ta quay trở lại vào lúc 6 giờ."
+  },
+  {
+   "tokens": [
+    "He",
+    "got",
+    "back",
+    "at",
+    "six"
+   ],
+   "reading": "",
+   "meaning": "Anh ta quay trở lại vào lúc 6 giờ."
+  },
+  {
+   "tokens": [
+    "Did",
+    "he",
+    "touch",
+    "your",
+    "breasts"
+   ],
+   "reading": "",
+   "meaning": "Có phải là anh ta đã sờ vú bạn không?"
+  },
+  {
+   "tokens": [
+    "He",
+    "went",
+    "home",
+    "at",
+    "six"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã về nhà lúc 6 giờ."
+  },
+  {
+   "tokens": [
+    "He",
+    "knocked",
+    "at",
+    "the",
+    "door"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy gõ cửa."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,324 @@
+{
+ "lesson": 148,
+ "draft": true,
+ "words": [
+  {
+   "term": "奖学金",
+   "meaning": "học bổng",
+   "example": "我们来学“奖学金”这个词。",
+   "exampleMeaning": "Cùng học từ “奖学金”: học bổng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngxuéjīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "泪水",
+   "meaning": "nước mắt",
+   "example": "我们来学“泪水”这个词。",
+   "exampleMeaning": "Cùng học từ “泪水”: nước mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèishuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "英勇",
+   "meaning": "anh dũng",
+   "example": "英勇的战士",
+   "exampleMeaning": "Chiến sĩ anh dũng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīngyǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "加油站",
+   "meaning": "trạm xăng dầu",
+   "example": "我们来学“加油站”这个词。",
+   "exampleMeaning": "Cùng học từ “加油站”: trạm xăng dầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāyóuzhàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "步行",
+   "meaning": "đi bộ",
+   "example": "与其挤车，不如步行",
+   "exampleMeaning": "Thà cuốc bộ còn hơn là chen chúc trên xe",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "热心",
+   "meaning": "nhiệt tình",
+   "example": "他对工会工作向来热心。",
+   "exampleMeaning": "Đối với công tác công đoàn, từ trước tới nay anh ấy rất nhiệt tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纷纷",
+   "meaning": "sôi nổi",
+   "example": "大家纷纷提出问题。",
+   "exampleMeaning": "Mọi người sôi nổi nêu vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnfēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "流传",
+   "meaning": "truyền đi",
+   "example": "消息很快就流传开了。",
+   "exampleMeaning": "Tin tức nhanh chóng được truyền đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúchuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "简历",
+   "meaning": "lý lịch sơ lược",
+   "example": "我们来学“简历”这个词。",
+   "exampleMeaning": "Cùng học từ “简历”: lý lịch sơ lược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnlì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "专心",
+   "meaning": "chuyên tâm",
+   "example": "学习必须专心",
+   "exampleMeaning": "Học hành cần phải chuyên tâm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "使劲",
+   "meaning": "gắng sức",
+   "example": "在湖里遇着了大风，使劲划了一阵子，才回到岸上。",
+   "exampleMeaning": "Gặp một cơn gió mạnh trên hồ, gắng sức chèo một hồi mới quay trở về bờ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǐjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中奖",
+   "meaning": "trúng thưởng",
+   "example": "我们来学“中奖”这个词。",
+   "exampleMeaning": "Cùng học từ “中奖”: trúng thưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngjiǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中介",
+   "meaning": "trung gian",
+   "example": "中介作用",
+   "exampleMeaning": "Tác dụng trung gian",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngjiè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "看望",
+   "meaning": "thăm hỏi",
+   "example": "看望老战友。",
+   "exampleMeaning": "Thăm hỏi bạn chiến đấu cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànwàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "征求",
+   "meaning": "trưng cầu",
+   "example": "征求意见",
+   "exampleMeaning": "Trưng cầu ý kiến; xin ý kiến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngqiú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "实用",
+   "meaning": "thực dụng",
+   "example": "又美观，又实用。",
+   "exampleMeaning": "Vừa đẹp lại vừa thực dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "赏",
+   "meaning": "thưởng",
+   "example": "赏他一匹马。",
+   "exampleMeaning": "Thưởng cho anh ấy một con ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "巴士",
+   "meaning": "xe buýt",
+   "example": "他們昨天乘巴士去了動物園。",
+   "exampleMeaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "引进",
+   "meaning": "tiến cử",
+   "example": "引进良种。",
+   "exampleMeaning": "Nhập giống tốt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnjìn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "列入",
+   "meaning": "đưa vào danh sách",
+   "example": "我们来学“列入”这个词。",
+   "exampleMeaning": "Cùng học từ “列入”: đưa vào danh sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièrù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他们",
+    "昨天",
+    "乘",
+    "巴士",
+    "去",
+    "了",
+    "动物园"
+   ],
+   "reading": "tāmen zuótiān chéng bāshì qù le dòngwùyuán",
+   "meaning": "Hôm qua bọn họ đã đến vườn bách thú bằng xe buýt."
+  },
+  {
+   "tokens": [
+    "我的",
+    "英文",
+    "很",
+    "差"
+   ],
+   "reading": "wǒde yīngwén hěn chà",
+   "meaning": "Tiếng Anh của tôi rất tệ."
+  },
+  {
+   "tokens": [
+    "你",
+    "和",
+    "我",
+    "一样",
+    "高"
+   ],
+   "reading": "nǐ hé wǒ yīyàng gāo",
+   "meaning": "Bạn cao bằng tôi."
+  },
+  {
+   "tokens": [
+    "他",
+    "六",
+    "点",
+    "回来",
+    "了"
+   ],
+   "reading": "tā liù diǎn huílai le",
+   "meaning": "Anh ta quay trở lại vào lúc 6 giờ."
+  },
+  {
+   "tokens": [
+    "他",
+    "现在",
+    "在",
+    "医院"
+   ],
+   "reading": "tā xiànzài zài yīyuàn",
+   "meaning": "Bây giờ anh ấy đang ở trong bệnh viện."
+  }
+ ],
+ "issues": []
+}

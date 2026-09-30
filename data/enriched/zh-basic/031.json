@@ -1,0 +1,321 @@
+{
+ "lesson": 31,
+ "draft": true,
+ "words": [
+  {
+   "term": "部分",
+   "meaning": "bộ phận",
+   "example": "大部分客人是外国人。",
+   "exampleMeaning": "Hầu hết khách hàng là người nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùfen",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以前",
+   "meaning": "trước, đằng trước",
+   "example": "我以前在山里。",
+   "exampleMeaning": "Tôi từ trên núi xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐqián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "办法",
+   "meaning": "biện pháp",
+   "example": "除此之外，别无办法。",
+   "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "特别",
+   "meaning": "vô cùng",
+   "example": "他买了一把特别大的屠刀，拿出来不停地磨呀抢呀。",
+   "exampleMeaning": "Anh ta mua một con dao bầu thật to, đem ra cứ mài mài liếc liếc mãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèbié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "真正",
+   "meaning": "thật, chính cống, xác thực",
+   "example": "群众是真正的英雄。",
+   "exampleMeaning": "Quần chúng chính là anh hùng chân chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnzhèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "掉",
+   "meaning": "vẫy",
+   "example": "被击中的敌机掉在海里了。",
+   "exampleMeaning": "Máy bay địch đã bị rơi xuống biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diào",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "改变",
+   "meaning": "thay, thay đổi, đổi chác",
+   "example": "一切都不会改变。",
+   "exampleMeaning": "Không có gì thay đổi cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎibiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "讲",
+   "meaning": "chú ý",
+   "example": "吃大锅饭讲不得什么滋味。",
+   "exampleMeaning": "Ăn cơm tập thể chả có cái mùi vị gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "离开",
+   "meaning": "rời khỏi",
+   "example": "鱼离开了水就不能活。",
+   "exampleMeaning": "Cá mà rời khỏi nước thì sẽ chết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "líkāi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "万",
+   "meaning": "vạn",
+   "example": "我校图书馆藏书二百五十万册。",
+   "exampleMeaning": "Thư viện trường chúng tôi có hai triệu rưởi quyển sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "生",
+   "meaning": "lạ",
+   "example": "她以为我是医生。",
+   "exampleMeaning": "Cô ấy đã cho rằng tôi là một bác sỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "片",
+   "meaning": "tấm",
+   "example": "汤姆问了玛丽谁画了图片。",
+   "exampleMeaning": "Tom đã hỏi mary ai đã vẽ bức tranh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "同时",
+   "meaning": "cùng lúc",
+   "example": "与此同时，电台也播出了这条消息。",
+   "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "以为",
+   "meaning": "cho rằng",
+   "example": "我以为是谁呢，原来是你。",
+   "exampleMeaning": "Tôi tưởng ai chứ, hoá ra là anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐwéi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "越",
+   "meaning": "hơn, vượt, trội hơn",
+   "example": "她既学越语又学英语。",
+   "exampleMeaning": "Chị ấy đã học tiếng Việt lại học cả tiếng Anh nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuè",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "方法",
+   "meaning": "cách thức, cách, cách đo hình vuông",
+   "example": "他提出改革研究方法的意见。",
+   "exampleMeaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngfǎ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "组",
+   "meaning": "tổ",
+   "example": "人体的组织是由细胞构成的。",
+   "exampleMeaning": "Cấu tạo cơ thể người là do các tế bào tạo thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "直接",
+   "meaning": "trực tiếp",
+   "example": "直接阅读外文书籍。",
+   "exampleMeaning": "Đọc trực tiếp sách ngoại văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíjiē",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "卖",
+   "meaning": "bán, đổi (hàng hoá) để lấy tiền",
+   "example": "把余粮卖给国家。",
+   "exampleMeaning": "Bán thóc thừa cho nhà nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mài",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "选",
+   "meaning": "chọn, lựa chọn, kén chọn",
+   "example": "选劳动模范。",
+   "exampleMeaning": "Bầu chọn chiến sĩ lao động",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuǎn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "以为",
+    "我",
+    "是",
+    "医生"
+   ],
+   "reading": "tā yǐwéi wǒ shì yīshēng",
+   "meaning": "Cô ấy đã cho rằng tôi là một bác sỹ."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "选",
+    "一下"
+   ],
+   "reading": "wǒ xiǎng xuǎn yīxià",
+   "meaning": "Tôi muốn chọn một chút."
+  },
+  {
+   "tokens": [
+    "我",
+    "以前",
+    "在",
+    "山",
+    "里"
+   ],
+   "reading": "wǒ yǐqián zài shān lǐ",
+   "meaning": "Tôi từ trên núi xuống."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "没办法",
+    "的"
+   ],
+   "reading": "zhè shì méibànfǎ de",
+   "meaning": "Vụ này hết cách rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "认识",
+    "这些",
+    "学生"
+   ],
+   "reading": "wǒ rènshi zhèxiē xuésheng",
+   "meaning": "Tôi biết những sinh viên này."
+  }
+ ],
+ "issues": []
+}

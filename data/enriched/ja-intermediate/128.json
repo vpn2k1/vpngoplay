@@ -1,0 +1,332 @@
+{
+ "lesson": 128,
+ "draft": true,
+ "words": [
+  {
+   "term": "神聖",
+   "meaning": "tính chất thiêng liêng",
+   "example": "インドでは牛は神聖な生き物とされています。",
+   "exampleMeaning": "Ở Ấn Độ, bò được coi là một loài sinh vật linh thiêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "発作",
+   "meaning": "cơn (đau)",
+   "example": "喘息の発作が起きました。",
+   "exampleMeaning": "Tôi bị lên cơn hen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "講習",
+   "meaning": "sự dạy dỗ, sự rèn luyện",
+   "example": "「講習」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “講習”: sự dạy dỗ, sự rèn luyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "猛烈",
+   "meaning": "khắt khe, gay gắt",
+   "example": "猛烈な暑さのため、私たちは外で遊ぶことができなかった。",
+   "exampleMeaning": "Chúng tôi không thể chơi ở bên ngoài do nắng nóng gay gắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初耳",
+   "meaning": "something heard for the first time (EN)",
+   "example": "「初耳」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “初耳”: something heard for the first time (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沿線",
+   "meaning": "nhiều hơn nữa, vân vân (khi liệt kê)",
+   "example": "「沿線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沿線”: nhiều hơn nữa, vân vân (khi liệt kê).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "キャッチ",
+   "meaning": "sự bắt, sự nắm lấy",
+   "example": "「キャッチ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “キャッチ”: sự bắt, sự nắm lấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "決勝",
+   "meaning": "cuối cùng",
+   "example": "パスタ会社が主催したのど自慢コンクールに参加して、準決勝戦まで到達しました。",
+   "exampleMeaning": "Tôi đã tham gia một cuộc thi hát do một công ty sản xuất mì pasta tổ chức, và tôi đã được đi đến vòng bán kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "垢",
+   "meaning": "đâm bằng dao găm",
+   "example": "「垢」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “垢”: đâm bằng dao găm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "点検",
+   "meaning": "sự xem xét kỹ, sự kiểm tra, sự thanh tra",
+   "example": "「点検」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “点検”: sự xem xét kỹ, sự kiểm tra, sự thanh tra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見渡す",
+   "meaning": "quan sát, nhìn chung",
+   "example": "「見渡す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見渡す”: quan sát, nhìn chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貧困",
+   "meaning": "sự nghèo nàn",
+   "example": "「貧困」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貧困”: sự nghèo nàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "氾濫",
+   "meaning": "tràn đầy, chan chứa",
+   "example": "台風で川が氾濫した。",
+   "exampleMeaning": "Cơn bão làm nước sông bị tràn ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "微笑",
+   "meaning": "mỉm cười, cười tủm tỉm",
+   "example": "母は微笑みながら言いました。",
+   "exampleMeaning": "Mẹ tôi vừa mỉm cười vừa nói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "対比",
+   "meaning": "sự tương phản, sự trái ngược (giữa)",
+   "example": "「対比」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対比”: sự tương phản, sự trái ngược (giữa).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定まる",
+   "meaning": "chắc chắn, ổn định",
+   "example": "「定まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定まる”: chắc chắn, ổn định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お宮",
+   "meaning": "Shinto shrine (EN)",
+   "example": "「お宮」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お宮”: Shinto shrine (EN).",
+   "emoji": "⛩",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "従事",
+   "meaning": "lôi kéo, theo, đuổi theo",
+   "example": "「従事」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “従事”: lôi kéo, theo, đuổi theo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原爆",
+   "meaning": "bom nguyên tử",
+   "example": "「原爆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原爆”: bom nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公募",
+   "meaning": "chào bán cho công chúng",
+   "example": "「公募」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公募”: chào bán cho công chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "母",
+    "は",
+    "微笑み",
+    "ながら",
+    "言いました"
+   ],
+   "reading": "はははほほえみながらいいました",
+   "meaning": "Mẹ tôi vừa mỉm cười vừa nói."
+  },
+  {
+   "tokens": [
+    "おはよう",
+    "と",
+    "トム",
+    "は",
+    "微笑",
+    "み",
+    "ながら",
+    "言",
+    "った"
+   ],
+   "reading": "おはようとトムはほほえみながらいった",
+   "meaning": "\"Chào buổi sáng\" Tom mỉm cười và nói."
+  },
+  {
+   "tokens": [
+    "台風",
+    "で",
+    "川",
+    "が",
+    "氾濫",
+    "した"
+   ],
+   "reading": "たいふうでかわがはんらんした",
+   "meaning": "Cơn bão làm nước sông bị tràn ra."
+  },
+  {
+   "tokens": [
+    "喘息",
+    "の",
+    "発作",
+    "が",
+    "起きました"
+   ],
+   "reading": "ぜんそくのほっさがおきました",
+   "meaning": "Tôi bị lên cơn hen."
+  },
+  {
+   "tokens": [
+    "僕",
+    "は",
+    "この",
+    "点",
+    "を",
+    "特に",
+    "強調",
+    "したい"
+   ],
+   "reading": "ぼくはこのてんをとくにきょうちょうしたい",
+   "meaning": "Tôi muốn đặc biệt nhấn mạnh điểm này."
+  }
+ ],
+ "issues": []
+}

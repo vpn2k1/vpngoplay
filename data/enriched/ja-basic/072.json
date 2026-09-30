@@ -1,0 +1,331 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "苦手",
+   "meaning": "xấu, kém, nghèo",
+   "example": "僕は水泳が苦手です。",
+   "exampleMeaning": "Tôi bơi không giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "マーケット",
+   "meaning": "chợ",
+   "example": "私はスーパーマーケットへ行ってきたところだ。",
+   "exampleMeaning": "Tôi vừa mới đi siêu thị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "亡くす",
+   "meaning": "mất không còn nữa",
+   "example": "「亡くす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “亡くす”: mất không còn nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "対",
+   "meaning": "chống lại, ngược lại, phản đối",
+   "example": "そんなことは絶対にない。",
+   "exampleMeaning": "Tuyệt đối không có chuyện đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "育つ",
+   "meaning": "mọc, mọc lên (cây cối)",
+   "example": "「育つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “育つ”: mọc, mọc lên (cây cối).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "報告",
+   "meaning": "bản báo cáo",
+   "example": "「報告」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “報告”: bản báo cáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "繰り返す",
+   "meaning": "nhắc lại, lặp lại",
+   "example": "「繰り返す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “繰り返す”: nhắc lại, lặp lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提出",
+   "meaning": "sự bày ra, sự phô ra",
+   "example": "結局、法案は提出断念に追い込まれたのだった。",
+   "exampleMeaning": "Cuối cùng, dự thảo luật đó đã bị buộc phải bãi bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ドライブ",
+   "meaning": "cuộc đi xe, cuộc đi chơi bằng xe",
+   "example": "気分転換に田舎にドライブに行かないかい。",
+   "exampleMeaning": "Sao chúng ta không lái xe đến vùng nông thôn để thay đổi không khí một chút nhỉ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "映す",
+   "meaning": "phóng",
+   "example": "「映す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “映す”: phóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断る",
+   "meaning": "từ chối, khước từ, cự tuyệt",
+   "example": "断ることができませんでした。",
+   "exampleMeaning": "Tôi đã không thể từ chối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "味方",
+   "meaning": "hòn bi (bằng đá thạch cao)",
+   "example": "「味方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “味方”: hòn bi (bằng đá thạch cao).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "サイン",
+   "meaning": "máy tự ghi",
+   "example": "「サイン」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “サイン”: máy tự ghi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綿",
+   "meaning": "bông",
+   "example": "「綿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “綿”: bông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "現在",
+   "meaning": "hiện nay, hiện tại, hiện thời",
+   "example": "彼は現在病院にいる。",
+   "exampleMeaning": "Hiện tại, anh ấy đang ở trong bệnh viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "意思",
+   "meaning": "ý định, mục đích",
+   "example": "「意思」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “意思”: ý định, mục đích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宛てる",
+   "meaning": "đề địa chỉ",
+   "example": "「宛てる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “宛てる”: đề địa chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "節",
+   "meaning": "khớp (xương)",
+   "example": "どこの関節がはずれたの？",
+   "exampleMeaning": "Bạn bị trật khớp chỗ nào vậy?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "加える",
+   "meaning": "treo vào",
+   "example": "「加える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加える”: treo vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気の毒",
+   "meaning": "đáng buồn, đáng tiếc, bất như ý",
+   "example": "彼がしくじったら気の毒だ。",
+   "exampleMeaning": "Nếu anh ấy mà thất bại thì thật là đáng tiếc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "現在",
+    "病院",
+    "に",
+    "いる"
+   ],
+   "reading": "かれはげんざいびょういんにいる",
+   "meaning": "Hiện tại, anh ấy đang ở trong bệnh viện."
+  },
+  {
+   "tokens": [
+    "そんな",
+    "こと",
+    "は",
+    "絶対に",
+    "ない"
+   ],
+   "reading": "そんなことはぜったいにない",
+   "meaning": "Tuyệt đối không có chuyện đó."
+  },
+  {
+   "tokens": [
+    "どこ",
+    "の",
+    "関節",
+    "が",
+    "はずれた",
+    "の"
+   ],
+   "reading": "どこのかんせつがはずれたの",
+   "meaning": "Bạn bị trật khớp chỗ nào vậy?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "君",
+    "に対して",
+    "怒っている"
+   ],
+   "reading": "かれはきみにたいしておこっている",
+   "meaning": "Anh ấy đang giận bạn."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "季節",
+    "の",
+    "中",
+    "で",
+    "春",
+    "が",
+    "好き",
+    "だ"
+   ],
+   "reading": "わたしはきせつのなかではるがすきだ",
+   "meaning": "Mùa xuân là mùa tôi thích nhất trong các mùa."
+  }
+ ],
+ "issues": []
+}

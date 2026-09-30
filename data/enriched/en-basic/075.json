@@ -1,0 +1,324 @@
+{
+ "lesson": 75,
+ "draft": true,
+ "words": [
+  {
+   "term": "skate",
+   "meaning": "trượt băng",
+   "example": "It is safe to skate on this lake.",
+   "exampleMeaning": "Trượt băng trên hồ này an toàn.",
+   "emoji": "",
+   "ipa": "/ˈskeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "toothache",
+   "meaning": "đau răng",
+   "example": "Let's learn the word \"toothache\".",
+   "exampleMeaning": "Cùng học từ “toothache”: đau răng.",
+   "emoji": "",
+   "ipa": "/tˈuːθeɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gas",
+   "meaning": "xăng",
+   "example": "Do you cook by gas or electricity?",
+   "exampleMeaning": "Bạn nấu ăn bằng ga hay là bằng điện?",
+   "emoji": "",
+   "ipa": "/ˈɡæs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "criticize",
+   "meaning": "phê bình, phê phán, bình phẩm",
+   "example": "Let's learn the word \"criticize\".",
+   "exampleMeaning": "Cùng học từ “criticize”: phê bình, phê phán, bình phẩm.",
+   "emoji": "",
+   "ipa": "/ˈkrɪtɪˌsaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "protein",
+   "meaning": "nhóm các hợp chất hữu cơ",
+   "example": "I bought some protein shakes in the gym.",
+   "exampleMeaning": "Tôi đã mua một ít sinh tố protein trong phòng gym.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌtin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "opinion",
+   "meaning": "ý kiến, quan điểm",
+   "example": "to have a high opinion of somebody",
+   "exampleMeaning": "Đánh giá cao người nào",
+   "emoji": "",
+   "ipa": "/əˈpɪnjən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consider",
+   "meaning": "cân nhắc, xem xét, suy xét",
+   "example": "They consider him the best doctor in town.",
+   "exampleMeaning": "Họ xem anh ấy là bác sĩ giỏi nhất thị trấn.",
+   "emoji": "",
+   "ipa": "/kənˈsɪdə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "passage",
+   "meaning": "đoạn (bài văn, sách... )",
+   "example": "to force a passage through the crowd",
+   "exampleMeaning": "Lách lấy lối đi qua đám đông",
+   "emoji": "",
+   "ipa": "/ˈpæsədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dislike",
+   "meaning": "không ưa, không thích, ghét",
+   "example": "If you dislike doing that, then don't do it.",
+   "exampleMeaning": "Nếu ngươi không thích làm việc đó, vậy đừng làm.",
+   "emoji": "",
+   "ipa": "/dɪˈslaɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "perhaps",
+   "meaning": "có lẽ, có thể",
+   "example": "Perhaps she doesn't remember my birthday.",
+   "exampleMeaning": "Có lẽ cô ấy không nhớ sinh nhật tôi.",
+   "emoji": "",
+   "ipa": "/pɜrˈhæps/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "superlative",
+   "meaning": "độ tuyệt đối, thể tuyệt đối",
+   "example": "Let's learn the word \"superlative\".",
+   "exampleMeaning": "Cùng học từ “superlative”: độ tuyệt đối, thể tuyệt đối.",
+   "emoji": "",
+   "ipa": "/sʊˈpɜrlətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "golden",
+   "meaning": "có vàng, nhiều vàng",
+   "example": "The world follows one golden rule: whoever has the gold makes the rules.",
+   "exampleMeaning": "Thế giới tuân theo một nguyên tắc vàng: người có vàng là người đặt luật.",
+   "emoji": "",
+   "ipa": "/ˈɡoʊldən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "highway",
+   "meaning": "đường cao tốc",
+   "example": "Let's learn the word \"highway\".",
+   "exampleMeaning": "Cùng học từ “highway”: đường cao tốc.",
+   "emoji": "",
+   "ipa": "/ˈhaɪˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sudden",
+   "meaning": "thình lình, đột ngột",
+   "example": "Why did you stop all of a sudden?",
+   "exampleMeaning": "Sao bạn lại dừng lại đột ngột thế?",
+   "emoji": "",
+   "ipa": "/ˈsədən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "negative",
+   "meaning": "không",
+   "example": "She has a negative attitude toward life.",
+   "exampleMeaning": "Cô ấy có thái độ tiêu cực với cuộc sống.",
+   "emoji": "",
+   "ipa": "/ˈnɛɡətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "convenient",
+   "meaning": "tiện lợi, thuận lợi",
+   "example": "When is convenient for you?",
+   "exampleMeaning": "Lúc nào thích hợp với bạn?",
+   "emoji": "",
+   "ipa": "/kənˈvinjənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "population",
+   "meaning": "số dân, dân số",
+   "example": "The whole population turned out in welcome.",
+   "exampleMeaning": "Toàn bộ tập thể đều có mặt để chào mừng.",
+   "emoji": "",
+   "ipa": "/ˌpɑpjəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "liter",
+   "meaning": "lít",
+   "example": "Let's learn the word \"liter\".",
+   "exampleMeaning": "Cùng học từ “liter”: lít.",
+   "emoji": "",
+   "ipa": "/ˈlitɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "response",
+   "meaning": "hưởng ứng",
+   "example": "I got no response from anyone.",
+   "exampleMeaning": "Tôi không có phản hồi nào từ bất kỳ ai.",
+   "emoji": "",
+   "ipa": "/riˈspɑns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "extra",
+   "meaning": "thêm, phụ, ngoại",
+   "example": "Did you get an extra ticket?",
+   "exampleMeaning": "Bạn đã có nhận được thêm 1 vé chưa?",
+   "emoji": "",
+   "ipa": "/ˈɛkstrə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Perhaps",
+    "we",
+    "should",
+    "consider",
+    "what",
+    "would",
+    "happen",
+    "if",
+    "we",
+    "don't",
+    "do",
+    "this"
+   ],
+   "reading": "",
+   "meaning": "Có lẽ là chúng ta nên suy nghĩ xem điều gì sẽ xảy ra nếu chúng ta không làm điều này."
+  },
+  {
+   "tokens": [
+    "Silence",
+    "is",
+    "golden"
+   ],
+   "reading": "",
+   "meaning": "Im lặng là vàng."
+  },
+  {
+   "tokens": [
+    "I",
+    "have",
+    "toothache"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị đau răng."
+  },
+  {
+   "tokens": [
+    "I",
+    "dislike",
+    "homework"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thích bài tập về nhà."
+  },
+  {
+   "tokens": [
+    "I",
+    "dislike",
+    "being",
+    "alone"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thích ở một mình đâu."
+  }
+ ],
+ "issues": []
+}

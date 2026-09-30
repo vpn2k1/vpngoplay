@@ -1,0 +1,314 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "direct",
+   "meaning": "hướng (theo chiều)",
+   "example": "to be in direct communication with...",
+   "exampleMeaning": "Liên lạc trực tiếp với...",
+   "emoji": "",
+   "ipa": "/daɪˈrɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "count",
+   "meaning": "đếm",
+   "example": "to count from one to twenty",
+   "exampleMeaning": "Đếm từ 1 đến 20",
+   "emoji": "",
+   "ipa": "/ˈkaʊnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "alarm",
+   "meaning": "báo động",
+   "example": "to sound (ring) the alarm",
+   "exampleMeaning": "Kéo còi báo động, đánh trống (mõ) báo động, rung chuông báo động",
+   "emoji": "",
+   "ipa": "/əˈlɑrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "temperature",
+   "meaning": "nhiệt độ",
+   "example": "The temperature has suddenly dropped.",
+   "exampleMeaning": "Nhiệt độ đột nhiên giảm.",
+   "emoji": "",
+   "ipa": "/ˈtɛmpɜrətʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "complete",
+   "meaning": "đầy đủ, trọn vẹn, hoàn toàn",
+   "example": "Bill is a complete idiot.",
+   "exampleMeaning": "Bill hoàn toàn là một tên ngốc.",
+   "emoji": "",
+   "ipa": "/kəmˈpliːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "during",
+   "meaning": "trải qua, trong lúc, trong thời gian",
+   "example": "I was born during the Cold War.",
+   "exampleMeaning": "Tôi đã được sinh ra trong thời kỳ Chiến tranh Lạnh.",
+   "emoji": "",
+   "ipa": "/ˈdɜrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "website",
+   "meaning": "trang web, trang mạng",
+   "example": "When Cloudflare was down, the Downdetector website was also down.",
+   "exampleMeaning": "Khi Cloudflare bị sập, trang web Downdetector cũng bị sập.",
+   "emoji": "",
+   "ipa": "/ˈwɛbˌsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "although",
+   "meaning": "dẫu cho, mặc dù",
+   "example": "Although Tom was tired, he kept working.",
+   "exampleMeaning": "Mặc dù Tom đã mệt, anh ấy vẫn làm việc.",
+   "emoji": "",
+   "ipa": "/ˌɔlˈðoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "request",
+   "meaning": "thỉnh cầu, yêu cầu, đề nghị",
+   "example": "to do something at (by) someone's request",
+   "exampleMeaning": "Làm việc gì theo lời thỉnh cầu của ai",
+   "emoji": "",
+   "ipa": "/riˈkwɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "low",
+   "meaning": "thấp, hạ, kém",
+   "example": "to have a low opinion of somebody",
+   "exampleMeaning": "Không trọng ai",
+   "emoji": "",
+   "ipa": "/ˈləʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lawyer",
+   "meaning": "luật sư",
+   "example": "Let's learn the word \"lawyer\".",
+   "exampleMeaning": "Cùng học từ “lawyer”: luật sư.",
+   "emoji": "",
+   "ipa": "/ˈlɔɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "however",
+   "meaning": "tuy nhiên, tuy thế, tuy vậy",
+   "example": "I'll be there. However, I might be late.",
+   "exampleMeaning": "Tôi sẽ đến đó, mặc dù có lẽ là tôi sẽ đến muộn.",
+   "emoji": "",
+   "ipa": "/hɑʊˈɛvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "apart",
+   "meaning": "về một bên, qua một bên",
+   "example": "apart from the fact that...",
+   "exampleMeaning": "Trừ phi...",
+   "emoji": "",
+   "ipa": "/əˈpɑrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wonder",
+   "meaning": "muốn biết, tự hỏi, phân vân",
+   "example": "I wonder who he is?",
+   "exampleMeaning": "Tôi tự hỏi nó là ai?",
+   "emoji": "",
+   "ipa": "/ˈwʌndə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peaceful",
+   "meaning": "hoà bình, thái bình",
+   "example": "Tom just wants to live a peaceful life.",
+   "exampleMeaning": "Tom chỉ muốn sống một cuộc sống yên bình.",
+   "emoji": "",
+   "ipa": "/ˈpisfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chess",
+   "meaning": "cờ",
+   "example": "I play chess, too.",
+   "exampleMeaning": "Tôi cũng chơi cờ vua.",
+   "emoji": "",
+   "ipa": "/t͡ʃɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "table tennis",
+   "meaning": "bóng bàn",
+   "example": "Ping pong is also called table tennis.",
+   "exampleMeaning": "Ping pong còn được gọi là bóng bàn.",
+   "emoji": "",
+   "ipa": "/ˈteɪbəl ˈtɛnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "insect",
+   "meaning": "sâu bọ, côn trùng",
+   "example": "Do you have insect repellent spray?",
+   "exampleMeaning": "Bạn có bình xịt côn trùng không?",
+   "emoji": "",
+   "ipa": "/ˈɪn.sɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "desert",
+   "meaning": "ruồng bỏ, bỏ mặc, bỏ rơi",
+   "example": "to desert a friend in difficulty",
+   "exampleMeaning": "Bỏ mặc bạn trong lúc khó khăn",
+   "emoji": "🏜",
+   "ipa": "/ˈdɛzɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "survive",
+   "meaning": "sống lâu hơn",
+   "example": "I won't survive that.",
+   "exampleMeaning": "Tôi sẽ không trụ nổi.",
+   "emoji": "",
+   "ipa": "/sɜrˈvaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Chess",
+    "is",
+    "difficult"
+   ],
+   "reading": "",
+   "meaning": "Cờ vua thì khó."
+  },
+  {
+   "tokens": [
+    "Chess",
+    "is",
+    "hard"
+   ],
+   "reading": "",
+   "meaning": "Cờ vua là môn khó."
+  },
+  {
+   "tokens": [
+    "Count",
+    "the",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Đếm tiền đi."
+  },
+  {
+   "tokens": [
+    "We",
+    "played",
+    "chess"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã chơi cờ vua."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "lawyer"
+   ],
+   "reading": "",
+   "meaning": "Tôi là luật sư."
+  }
+ ],
+ "issues": []
+}

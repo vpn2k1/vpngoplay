@@ -1,0 +1,325 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "時計",
+   "meaning": "đồng hồ",
+   "example": "彼は時計を分解した。",
+   "exampleMeaning": "Anh ấy tháo rời chiếc đồng hồ ra.",
+   "emoji": "⌚",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "肉",
+   "meaning": "thịt",
+   "example": "この肉は腐っている。",
+   "exampleMeaning": "Thịt này thiu rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "話す",
+   "meaning": "nói",
+   "example": "何かあったら電話するよ。",
+   "exampleMeaning": "Có gì tôi sẽ gọi bạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "色々",
+   "meaning": "khác nhau",
+   "example": "「色々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “色々”: khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着る",
+   "meaning": "giả thiết",
+   "example": "本当にあれ着るつもり？",
+   "exampleMeaning": "Bạn có thật sự muốn mặc thứ đó không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自動車",
+   "meaning": "ô tô",
+   "example": "これは私の自動車です。",
+   "exampleMeaning": "Đây là xe hơi của tôi.",
+   "emoji": "🚗",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "朝",
+   "meaning": "buổi sáng",
+   "example": "今朝犬に餌やった？",
+   "exampleMeaning": "Sáng nay bạn cho chó ăn chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "万年筆",
+   "meaning": "bút máy",
+   "example": "「万年筆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “万年筆”: bút máy.",
+   "emoji": "🖋",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "にぎやか",
+   "meaning": "(từ lóng) cái khác thường, cái kỳ lạ",
+   "example": "「にぎやか」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “にぎやか”: (từ lóng) cái khác thường, cái kỳ lạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辺",
+   "meaning": "mặt, bên",
+   "example": "この辺は全く不案内です。",
+   "exampleMeaning": "Tôi không rành nơi này lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "広い",
+   "meaning": "rộng, rộng lớn",
+   "example": "広いな！",
+   "exampleMeaning": "Rộng quá!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "伝える",
+   "meaning": "truyền",
+   "example": "みんなに伝えるがてらに自分も復習して勉強していきたいと思います。",
+   "exampleMeaning": "Tôi cũng mong rằng trong lúc tôi truyền đạt thông tin đến mọi người, chính tôi cũng có thể học và ôn tập lại những thông tin đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "スーツケース",
+   "meaning": "cái va li",
+   "example": "スーツケースをロックした？",
+   "exampleMeaning": "Bạn khóa vali chưa?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "科学",
+   "meaning": "khoa học",
+   "example": "鈴木氏は偉大な科学者だ。",
+   "exampleMeaning": "Ông Suzuki là một nhà khoa học vĩ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "彼ら",
+   "meaning": "chúng nó, chúng, họ",
+   "example": "彼らは話をやめた。",
+   "exampleMeaning": "Họ dừng nói chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "サンダル",
+   "meaning": "dép",
+   "example": "「サンダル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “サンダル”: dép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "思う",
+   "meaning": "nghĩ, suy nghĩ, ngẫm nghĩ",
+   "example": "何をしてたと思う？",
+   "exampleMeaning": "Bạn nghĩ tôi đang làm gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "払う",
+   "meaning": "trả (tiền lương... )",
+   "example": "１０ドルを払うつもりは全くない。",
+   "exampleMeaning": "Tôi hoàn toàn không có ý định trả 10 Đô-la.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "やはり",
+   "meaning": "tuyệt đối, hoàn toàn",
+   "example": "「やはり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “やはり”: tuyệt đối, hoàn toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着物",
+   "meaning": "áo kimônô (Nhật)",
+   "example": "娘は、水色の着物をきていました。",
+   "exampleMeaning": "Con gái tôi mặc một chiếc kimono màu xanh nhạt.",
+   "emoji": "👘",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼らの",
+    "朝食",
+    "を",
+    "つくら",
+    "なければならない"
+   ],
+   "reading": "わたしはかれらのちょうしょくをつくらなければならない",
+   "meaning": "Tôi phải làm bữa sáng cho bọn họ."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "勝った"
+   ],
+   "reading": "かれらはかった",
+   "meaning": "Họ đã thắng."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "話",
+    "を",
+    "やめた"
+   ],
+   "reading": "かれらははなしをやめた",
+   "meaning": "Họ dừng nói chuyện."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "誰",
+    "だ",
+    "と",
+    "思う"
+   ],
+   "reading": "かのじょだれだとおもう",
+   "meaning": "Bạn nghĩ cô gái đó là ai?"
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "私",
+    "が",
+    "嫌い",
+    "だ"
+   ],
+   "reading": "かれらはわたしがきらいだ",
+   "meaning": "Họ không thích tôi."
+  }
+ ],
+ "issues": []
+}

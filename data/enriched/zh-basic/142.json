@@ -1,0 +1,322 @@
+{
+ "lesson": 142,
+ "draft": true,
+ "words": [
+  {
+   "term": "缓解",
+   "meaning": "làm dịu",
+   "example": "缓解市内交通拥挤状况。",
+   "exampleMeaning": "Làm dịu tình hình giao thông đông đúc trong thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǎnjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "测量",
+   "meaning": "đo",
+   "example": "筑路前要做好测量工作。",
+   "exampleMeaning": "Trước khi làm đường phải làm tốt công tác trắc địa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cèliáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汇",
+   "meaning": "họp",
+   "example": "汇给他一笔路费。",
+   "exampleMeaning": "Gửi cho nó tiền đi đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "来不及",
+   "meaning": "không kịp",
+   "example": "飞机十点起飞，我们现在不走就来不及了。",
+   "exampleMeaning": "Máy bay 10 giờ cất cánh, bây giờ chúng ta không đi sẽ không kịp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láibují",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "商务",
+   "meaning": "thương vụ",
+   "example": "我们来学“商务”这个词。",
+   "exampleMeaning": "Cùng học từ “商务”: thương vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngwù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天真",
+   "meaning": "khờ khạo",
+   "example": "这种想法过于天真",
+   "exampleMeaning": "Lối nghĩ ấy quá khờ khạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānzhēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "燃料",
+   "meaning": "nhiên liệu",
+   "example": "我们来学“燃料”这个词。",
+   "exampleMeaning": "Cùng học từ “燃料”: nhiên liệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ránliào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发烧",
+   "meaning": "phát sốt",
+   "example": "我们来学“发烧”这个词。",
+   "exampleMeaning": "Cùng học từ “发烧”: phát sốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāshāo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "替代",
+   "meaning": "thay thế",
+   "example": "我们来学“替代”这个词。",
+   "exampleMeaning": "Cùng học từ “替代”: thay thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tìdài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "安置",
+   "meaning": "thu xếp",
+   "example": "这批新来的同志都得到了适当的安置",
+   "exampleMeaning": "Các đồng chí mới đến lần này đã được bố trí ổn cả rồi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ānzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "箱子",
+   "meaning": "hòm",
+   "example": "这个箱子沉得过分了。",
+   "exampleMeaning": "Cái hòm này quá nặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "严",
+   "meaning": "nghiêm",
+   "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
+   "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yán",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "了不起",
+   "meaning": "tài ba",
+   "example": "没有什么了不起的困难。",
+   "exampleMeaning": "Khó khăn chẳng có gì là ghê gớm cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎobuqǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "修理",
+   "meaning": "sửa, chuộc (lỗi)",
+   "example": "小张一会儿就把电视机修理好了，他有两下子，我佩服他！",
+   "exampleMeaning": "Tiểu Trương một lúc đã sửa xong cái tivi, anh ấy có thực lực, tôi khâm phục anh ấy!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūlǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "尺寸",
+   "meaning": "kích cỡ",
+   "example": "小孩子说话得有个尺寸。",
+   "exampleMeaning": "Trẻ con ăn nói phải đúng mực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǐcun",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "幼儿园",
+   "meaning": "nhà trẻ",
+   "example": "我们来学“幼儿园”这个词。",
+   "exampleMeaning": "Cùng học từ “幼儿园”: nhà trẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòuéryuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "穿上",
+   "meaning": "mặc vào (quần áo, vv)",
+   "example": "我们来学“穿上”这个词。",
+   "exampleMeaning": "Cùng học từ “穿上”: mặc vào (quần áo, vv).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānshang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吸烟",
+   "meaning": "hút thuốc",
+   "example": "你必须停止吸烟。",
+   "exampleMeaning": "Bạn phải ngưng hút thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīyān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "影子",
+   "meaning": "ấn tượng",
+   "example": "那件事我连点儿影子也记不得了。",
+   "exampleMeaning": "Việc đó tôi chẳng có chút ấn tượng nào cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐngzi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "延长",
+   "meaning": "kéo dài",
+   "example": "路线延长一百二十里。",
+   "exampleMeaning": "Con đường này kéo dài thêm 120 dặm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáncháng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  },
+  {
+   "tokens": [
+    "我",
+    "无法",
+    "让",
+    "他",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "wǒ wúfǎ ràng tā tíngzhǐ xīyān",
+   "meaning": "Tôi không thể bắt nó ngừng hút thuốc."
+  },
+  {
+   "tokens": [
+    "这个",
+    "箱子",
+    "沉",
+    "得",
+    "过分",
+    "了"
+   ],
+   "reading": "zhège xiāngzi chén de guòfèn le",
+   "meaning": "Cái hòm này quá nặng."
+  },
+  {
+   "tokens": [
+    "他",
+    "是",
+    "法国人"
+   ],
+   "reading": "tā shì fǎguórén",
+   "meaning": "Anh ấy là người Pháp."
+  },
+  {
+   "tokens": [
+    "我",
+    "得",
+    "去",
+    "医院"
+   ],
+   "reading": "wǒ de qù yīyuàn",
+   "meaning": "Tôi phải đi bệnh viện."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,314 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "earring",
+   "meaning": "khuyên tai",
+   "example": "Let's learn the word \"earring\".",
+   "exampleMeaning": "Cùng học từ “earring”: khuyên tai.",
+   "emoji": "",
+   "ipa": "/ˈɪrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lemonade",
+   "meaning": "nước chanh",
+   "example": "This lemonade tastes too sweet.",
+   "exampleMeaning": "Nước chanh này quá ngọt.",
+   "emoji": "",
+   "ipa": "/ˈlɛməˈneɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "effort",
+   "meaning": "lực",
+   "example": "He made an effort to arrive on time.",
+   "exampleMeaning": "Anh ấy đã cố gang đến đúng giờ.",
+   "emoji": "",
+   "ipa": "/ˈɛfɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "joy",
+   "meaning": "niềm vui",
+   "example": "he is the joy and pride of his mother",
+   "exampleMeaning": "Nó là niềm vui và tự hào của mẹ nó",
+   "emoji": "",
+   "ipa": "/ˈdʒɔɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pass",
+   "meaning": "qua, đi qua, đi ngang qua",
+   "example": "his fit of anger will soon pass",
+   "exampleMeaning": "Cơn giận của hắn rồi sẽ qua đi ngay",
+   "emoji": "",
+   "ipa": "/pɑːs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sunflower",
+   "meaning": "cây hướng dương",
+   "example": "Let's learn the word \"sunflower\".",
+   "exampleMeaning": "Cùng học từ “sunflower”: cây hướng dương.",
+   "emoji": "🌻",
+   "ipa": "/ˈsənˌflaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unlike",
+   "meaning": "khác, không giống",
+   "example": "Unlike my brother, I cannot swim.",
+   "exampleMeaning": "Không giống như anh trai mình, tôi không biết bơi.",
+   "emoji": "",
+   "ipa": "/ənˈlaɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "script",
+   "meaning": "kịch bản",
+   "example": "What do you do when you get writer's block while writing a script?",
+   "exampleMeaning": "Bạn sẽ làm gì khi bạn bị bế tắc trong lúc viết một kịch bản?",
+   "emoji": "",
+   "ipa": "/ˈskrɪpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "daily",
+   "meaning": "hằng ngày",
+   "example": "These things happen on a daily basis.",
+   "exampleMeaning": "Những việc này xảy ra hằng ngày.",
+   "emoji": "",
+   "ipa": "/ˈdeɪ.li/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unfair",
+   "meaning": "bất công, không công bằng",
+   "example": "I think this is a very unfair debate.",
+   "exampleMeaning": "Tôi nghĩ đây là một cuộc tranh luận rất không công bằng.",
+   "emoji": "",
+   "ipa": "/ˈənˈfɛr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mark",
+   "meaning": "đích, mục đích, mục tiêu",
+   "example": "mark my words!",
+   "exampleMeaning": "Hãy chú ý những lời tôi nói, hãy nghi nhớ những lời tôi nói",
+   "emoji": "",
+   "ipa": "/mɑːk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disturb",
+   "meaning": "làm mất yên tĩnh, làm náo động",
+   "example": "Does the cough disturb your sleep?",
+   "exampleMeaning": "Cơn ho có làm bạn mất ngủ?",
+   "emoji": "",
+   "ipa": "/dɪˈstɜrb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fork",
+   "meaning": "cái nĩa, cái xiên (để xiên thức ăn)",
+   "example": "There is a fork missing.",
+   "exampleMeaning": "Thiếu một cái nĩa.",
+   "emoji": "",
+   "ipa": "/ˈfɔrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "anymore",
+   "meaning": "nữa",
+   "example": "You don't eat meat anymore, do you?",
+   "exampleMeaning": "Cậu không ăn thịt nữa phải không?",
+   "emoji": "",
+   "ipa": "/ˌɛn.iˈmɔː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "seed",
+   "meaning": "hạt, hạt giống",
+   "example": "to go to seed; to run to seed",
+   "exampleMeaning": "Bắt đầu sinh hạt, thôi không nở hoa nữa; bắt đầu hư hỏng đi, bắt đầu kém đi, không sinh lợi nữa, trở thành xơ xác",
+   "emoji": "",
+   "ipa": "/siːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "childhood",
+   "meaning": "tuổi thơ ấu, thời thơ ấu",
+   "example": "My childhood dream came true.",
+   "exampleMeaning": "Giấc mơ thời thơ ấu của tôi đã trở thành hiện thực.",
+   "emoji": "",
+   "ipa": "/ˈtʃaɪldˌhʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "upset",
+   "meaning": "làm đổ, đánh đổ, lật đổ",
+   "example": "to upset a bottle",
+   "exampleMeaning": "Đánh đổ cái chai",
+   "emoji": "",
+   "ipa": "/ˈəpˌsɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "kilometer",
+   "meaning": "kilômet",
+   "example": "Let's learn the word \"kilometer\".",
+   "exampleMeaning": "Cùng học từ “kilometer”: kilômet.",
+   "emoji": "",
+   "ipa": "/ˈkɪləˌmitɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "next",
+   "meaning": "sau, ngay sau, tiếp sau",
+   "example": "may I bring my chair next yours?",
+   "exampleMeaning": "Tôi có thể để cái ghế của tôi sát bên ghế anh không?",
+   "emoji": "",
+   "ipa": "/nɛkst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "specific",
+   "meaning": "dứt khoát, rành mạch, rõ ràng",
+   "example": "the specific name of a plant",
+   "exampleMeaning": "(Sinh vật học) tên loài của một cây",
+   "emoji": "",
+   "ipa": "/spəˈsɪfɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Pass",
+    "the",
+    "ball"
+   ],
+   "reading": "",
+   "meaning": "Chuyền quả bóng đi!"
+  },
+  {
+   "tokens": [
+    "This",
+    "effort",
+    "failed"
+   ],
+   "reading": "",
+   "meaning": "Nỗ lực này thất bại."
+  },
+  {
+   "tokens": [
+    "That",
+    "effort",
+    "failed"
+   ],
+   "reading": "",
+   "meaning": "Nỗ lực đó thất bại."
+  },
+  {
+   "tokens": [
+    "The",
+    "feelings",
+    "pass"
+   ],
+   "reading": "",
+   "meaning": "Cảm xúc qua đi."
+  },
+  {
+   "tokens": [
+    "All",
+    "feelings",
+    "pass"
+   ],
+   "reading": "",
+   "meaning": "Mọi cảm xúc đã qua."
+  }
+ ],
+ "issues": []
+}

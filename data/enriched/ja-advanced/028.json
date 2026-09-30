@@ -1,0 +1,329 @@
+{
+ "lesson": 28,
+ "draft": true,
+ "words": [
+  {
+   "term": "見地",
+   "meaning": "quan điểm",
+   "example": "彼の見地によれば、英語による支配は人類の遺産を脅かす。「単一の言語」は、カネと消費主義に取り憑かれた「単一の考え方」に導くという、より悪しき危険をもたらす。",
+   "exampleMeaning": "Theo quan điểm của anh ấy, sự thống trị của tiếng Anh đang đe dọa đến những di sản của loài người. Điều này còn gây ra một rủi ro xấu hơn: thứ \"ngôn ngữ duy nhất\" này sẽ dẫn đến một \"cách suy nghĩ duy nhất\" - cách suy nghĩ mà khiến chúng ta bị ám ảnh bởi đồng tiền và chủ nghĩa tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ソロ",
+   "meaning": "bản nhạc diễn đơn, điệu nhạc diễn đơn",
+   "example": "「ソロ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ソロ”: bản nhạc diễn đơn, điệu nhạc diễn đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "布巾",
+   "meaning": "khăn rửa bát",
+   "example": "「布巾」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “布巾”: khăn rửa bát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "除外",
+   "meaning": "sự trừ ra, sự loại ra",
+   "example": "「除外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “除外”: sự trừ ra, sự loại ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "御世辞",
+   "meaning": "sự tâng bốc, sự xu nịnh, sự bợ đỡ",
+   "example": "「御世辞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “御世辞”: sự tâng bốc, sự xu nịnh, sự bợ đỡ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まるっきり",
+   "meaning": "hoàn toàn, đầy đủ, trọn vẹn",
+   "example": "「まるっきり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “まるっきり”: hoàn toàn, đầy đủ, trọn vẹn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蝶",
+   "meaning": "con bướm",
+   "example": "蝶の寿命は三日です。",
+   "exampleMeaning": "Tuổi thọ của bướm là ba ngày.",
+   "emoji": "🦋",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "類",
+   "meaning": "loại, hạng, thứ",
+   "example": "癌は人類の強敵である。",
+   "exampleMeaning": "Ung thư là kẻ thù rất lớn của loài người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "暴動",
+   "meaning": "sự nổi dậy, sự khởi nghĩa",
+   "example": "「暴動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暴動”: sự nổi dậy, sự khởi nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "崩壊",
+   "meaning": "đổ, sập, sụp",
+   "example": "その建物は三年前に崩壊した。",
+   "exampleMeaning": "Tòa nhà đó sập đổ 3 năm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自覚",
+   "meaning": "có ý thức về bản thân mình, tự giác",
+   "example": "「自覚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自覚”: có ý thức về bản thân mình, tự giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "配慮",
+   "meaning": "sự cân nhắc, sự suy xét, sự nghiên cứu",
+   "example": "「配慮」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “配慮”: sự cân nhắc, sự suy xét, sự nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "詰る",
+   "meaning": "khiển trách, quở trách",
+   "example": "「詰る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “詰る”: khiển trách, quở trách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主権",
+   "meaning": "chủ quyền",
+   "example": "「主権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主権”: chủ quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兼業",
+   "meaning": "nghề phụ",
+   "example": "「兼業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “兼業”: nghề phụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "権力",
+   "meaning": "khả năng, tài năng, năng lực",
+   "example": "「権力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “権力”: khả năng, tài năng, năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社交",
+   "meaning": "social life (EN)",
+   "example": "今私は母親が人前で社交辞令をつかっていたにすぎないと理解しました。",
+   "exampleMeaning": "Giờ tôi đã hiểu rằng mẹ tôi chỉ cố tỏ ra lịch sự ở những nơi đông người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "多数決",
+   "meaning": "quy tắc đa số",
+   "example": "「多数決」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “多数決”: quy tắc đa số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "強いる",
+   "meaning": "dùng vũ lực đối với, bức hiếp, ép buộc",
+   "example": "「強いる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “強いる”: dùng vũ lực đối với, bức hiếp, ép buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慣例",
+   "meaning": "phong tục, tục lệ",
+   "example": "「慣例」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “慣例”: phong tục, tục lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "建物",
+    "は",
+    "三年",
+    "前",
+    "に",
+    "崩壊",
+    "した"
+   ],
+   "reading": "そのたてものはさんねんまえにほうかいした",
+   "meaning": "Tòa nhà đó sập đổ 3 năm trước."
+  },
+  {
+   "tokens": [
+    "類",
+    "は",
+    "友",
+    "を",
+    "呼ぶ"
+   ],
+   "reading": "るいはともをよぶ",
+   "meaning": "Ngưu tầm ngưu, mã tầm mã."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "書類",
+    "を",
+    "弁護士",
+    "に",
+    "預けた"
+   ],
+   "reading": "かれはしょるいをべんごしにあづけた",
+   "meaning": "Anh ta đã giao hồ sơ cho luật sư."
+  },
+  {
+   "tokens": [
+    "あ",
+    "蝶々",
+    "が",
+    "いる"
+   ],
+   "reading": "あちょうちょがいる",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "この",
+    "本",
+    "は",
+    "人類学",
+    "を",
+    "扱っている"
+   ],
+   "reading": "このほんはじんるいがくをあつかっている",
+   "meaning": "Cuốn sách này nói về chủ đề nhân loại học."
+  }
+ ],
+ "issues": []
+}

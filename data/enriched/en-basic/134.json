@@ -1,0 +1,319 @@
+{
+ "lesson": 134,
+ "draft": true,
+ "words": [
+  {
+   "term": "announcement",
+   "meaning": "thông báo",
+   "example": "announcement of a death",
+   "exampleMeaning": "Cáo phó",
+   "emoji": "",
+   "ipa": "/əˈnaʊnsmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "baker",
+   "meaning": "người làm bánh mì",
+   "example": "Let's learn the word \"baker\".",
+   "exampleMeaning": "Cùng học từ “baker”: người làm bánh mì.",
+   "emoji": "",
+   "ipa": "/ˈbeɪkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "miracle",
+   "meaning": "điều kỳ lạ, kỳ công",
+   "example": "Only a miracle can save us now.",
+   "exampleMeaning": "Phải cần một phép màu mới có thể cứu chúng ta lúc này.",
+   "emoji": "",
+   "ipa": "/ˈmɪrəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "auxiliary",
+   "meaning": "phụ, bổ trợ",
+   "example": "Let's learn the word \"auxiliary\".",
+   "exampleMeaning": "Cùng học từ “auxiliary”: phụ, bổ trợ.",
+   "emoji": "",
+   "ipa": "/ɑɡˈzɪliɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ladder",
+   "meaning": "thang",
+   "example": "Can I borrow your ladder?",
+   "exampleMeaning": "Tôi mượn cái thang của bạn nhé!",
+   "emoji": "🪜",
+   "ipa": "/ˈlædɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fuel",
+   "meaning": "chất đốt, nhiên liệu",
+   "example": "Small cars are very economical because of their low fuel consumption.",
+   "exampleMeaning": "Xe hơi nhỏ rất kinh tế bởi vì nó tiêu thụ ít xăng.",
+   "emoji": "",
+   "ipa": "/ˈfjuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "continually",
+   "meaning": "liên tục, không ngớt",
+   "example": "Let's learn the word \"continually\".",
+   "exampleMeaning": "Cùng học từ “continually”: liên tục, không ngớt.",
+   "emoji": "",
+   "ipa": "/kənˈtɪnjuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "supposedly",
+   "meaning": "cho là, giả sử là",
+   "example": "to supposedly help the local people",
+   "exampleMeaning": "Nói là giúp nhân dân địa phương",
+   "emoji": "",
+   "ipa": "/səˈpoʊzədli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "volume",
+   "meaning": "dung tích, thể tích",
+   "example": "Can you turn the volume down?",
+   "exampleMeaning": "Bạn có thể cho nhỏ tiếng xuống được không?",
+   "emoji": "",
+   "ipa": "/ˈvɑljum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "duty",
+   "meaning": "bổn phận, nhiệm vụ, trách nhiệm",
+   "example": "to pay one's duty to...",
+   "exampleMeaning": "Để tỏ lòng tôn kính đối với...",
+   "emoji": "",
+   "ipa": "/ˈdjuti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shave",
+   "meaning": "hút, suýt",
+   "example": "to have a close shave of it",
+   "exampleMeaning": "Suýt nữa thì nguy, tí nữa thì chết",
+   "emoji": "",
+   "ipa": "/ˈʃeɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flute",
+   "meaning": "thổi sáo",
+   "example": "Let's learn the word \"flute\".",
+   "exampleMeaning": "Cùng học từ “flute”: thổi sáo.",
+   "emoji": "🪈",
+   "ipa": "/ˈflut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "CV",
+   "meaning": "lý lịch (curriculum vitae)",
+   "example": "Let's learn the word \"CV\".",
+   "exampleMeaning": "Cùng học từ “CV”: lý lịch (curriculum vitae).",
+   "emoji": "",
+   "ipa": "/ˌsiˈvi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sneeze",
+   "meaning": "sự hắt hơi",
+   "example": "Let's learn the word \"sneeze\".",
+   "exampleMeaning": "Cùng học từ “sneeze”: sự hắt hơi.",
+   "emoji": "",
+   "ipa": "/ˈsniz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reliability",
+   "meaning": "sự đáng tin cậy",
+   "example": "Let's learn the word \"reliability\".",
+   "exampleMeaning": "Cùng học từ “reliability”: sự đáng tin cậy.",
+   "emoji": "",
+   "ipa": "/riˌlaɪəˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ginger",
+   "meaning": "gừng",
+   "example": "I should probably drink some ginger tea for my stomachache.",
+   "exampleMeaning": "Tôi đáng lẽ nên uống trà gừng để đỡ đau bụng.",
+   "emoji": "",
+   "ipa": "/ˈdʒɪndʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "concept",
+   "meaning": "khái niệm, quan niệm",
+   "example": "The math teacher explained the concept of partial differentiation.",
+   "exampleMeaning": "Giảng viên toán giải thích về khái niệm đạo hàm riêng.",
+   "emoji": "",
+   "ipa": "/ˈkɑnsɛpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "vacancy",
+   "meaning": "khoảng không, khoảng trống",
+   "example": "a vacancy on a page",
+   "exampleMeaning": "Một khoảng trống trên trang giấy",
+   "emoji": "",
+   "ipa": "/ˈveɪkənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reclaim",
+   "meaning": "cải tạo, giác ngộ",
+   "example": "to reclaim someone from a vice",
+   "exampleMeaning": "Cải tạo ai làm cho chừa bỏ một tật xấu",
+   "emoji": "",
+   "ipa": "/riˈkleɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "southeast",
+   "meaning": "đông nam",
+   "example": "Let's learn the word \"southeast\".",
+   "exampleMeaning": "Cùng học từ “southeast”: đông nam.",
+   "emoji": "",
+   "ipa": "/ˌsaʊˈθist/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They’re",
+    "off",
+    "duty",
+    "now"
+   ],
+   "reading": "",
+   "meaning": "Bây giờ họ đang trong giờ nghỉ."
+  },
+  {
+   "tokens": [
+    "What",
+    "a",
+    "ridiculous",
+    "concept"
+   ],
+   "reading": "",
+   "meaning": "Thật là một khái niệm buồn cười."
+  },
+  {
+   "tokens": [
+    "Hold",
+    "the",
+    "ladder",
+    "tight"
+   ],
+   "reading": "",
+   "meaning": "Giữ chặt cái thang nhé."
+  },
+  {
+   "tokens": [
+    "Turn",
+    "the",
+    "volume",
+    "down"
+   ],
+   "reading": "",
+   "meaning": "Cho nhỏ tiếng xuống."
+  },
+  {
+   "tokens": [
+    "I",
+    "need",
+    "a",
+    "ladder"
+   ],
+   "reading": "",
+   "meaning": "Tôi cần một cái thang."
+  }
+ ],
+ "issues": []
+}

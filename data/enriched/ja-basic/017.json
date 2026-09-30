@@ -1,0 +1,322 @@
+{
+ "lesson": 17,
+ "draft": true,
+ "words": [
+  {
+   "term": "六つ",
+   "meaning": "sáu (thứ nhỏ)",
+   "example": "「六つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “六つ”: sáu (thứ nhỏ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "エレベーター",
+   "meaning": "thang máy",
+   "example": "「宇宙エレベーター」って、何？",
+   "exampleMeaning": "\"Thang máy vũ trụ\" là cái gì?",
+   "emoji": "🛗",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "冬",
+   "meaning": "mùa đông",
+   "example": "冬が近づいてくる。",
+   "exampleMeaning": "Mùa đông đang đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "質問",
+   "meaning": "câu hỏi",
+   "example": "質問があるのですが。",
+   "exampleMeaning": "Tôi có câu hỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "どの",
+   "meaning": "cô",
+   "example": "どの科目が一番好きですか。",
+   "exampleMeaning": "Bạn thích môn học nào nhất?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "青い",
+   "meaning": "xanh, lam",
+   "example": "アメリカの警官は青い制服を着ている。",
+   "exampleMeaning": "Cảnh sát Mỹ mặc đồng phục màu xanh da trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "国",
+   "meaning": "nước, quốc gia",
+   "example": "私は中国が好きです。",
+   "exampleMeaning": "Tôi thích Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "窓",
+   "meaning": "cửa sổ",
+   "example": "彼は窓から入ってきた。",
+   "exampleMeaning": "Anh ấy đã vào bằng cửa sổ.",
+   "emoji": "🪟",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "かかる",
+   "meaning": "băng qua, bắc qua (một con sông)",
+   "example": "裁判はお金がかかる。",
+   "exampleMeaning": "Công lý rất đắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "とても",
+   "meaning": "vô cùng, hết sức",
+   "example": "今朝はとても寒い。",
+   "exampleMeaning": "Sáng nay rất lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "黒い",
+   "meaning": "đen",
+   "example": "この黒い箱に砂糖がたくさんある。",
+   "exampleMeaning": "Có rất nhiều đường trong cái hộp màu đen này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "辛い",
+   "meaning": "muối",
+   "example": "「辛い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “辛い”: muối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赤い",
+   "meaning": "đỏ",
+   "example": "彼女は赤い服を着ていた。",
+   "exampleMeaning": "Cô ấy mặc đồ đỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "洗う",
+   "meaning": "rửa",
+   "example": "毎日、髪の毛は洗うよ。",
+   "exampleMeaning": "Mỗi ngày tôi đều gội đầu đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "雨",
+   "meaning": "mưa",
+   "example": "雨らしい。",
+   "exampleMeaning": "Giống như mưa vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "鶏肉",
+   "meaning": "thịt gà",
+   "example": "料理人が鶏肉をバーべキューしています。",
+   "exampleMeaning": "Người đầu bếp đang nướng thịt gà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "建物",
+   "meaning": "kiến trúc",
+   "example": "この建物は石で出来ている。",
+   "exampleMeaning": "Tòa nhà này được xây bằng đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "難しい",
+   "meaning": "khó, khó khăn, gay go",
+   "example": "彼はいささか気難しい。",
+   "exampleMeaning": "Anh ấy khá là khó tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "留学生",
+   "meaning": "du học sinh",
+   "example": "「留学生」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “留学生”: du học sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三つ",
+   "meaning": "ba",
+   "example": "彼の作品については、この三つの言葉に尽きる。",
+   "exampleMeaning": "Tác phẩm của ông ấy có thể được tóm lại trong ba từ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "外国語",
+    "を",
+    "学ぶ",
+    "の",
+    "は",
+    "難しい"
+   ],
+   "reading": "がいこくごをまなぶのはむずかしい",
+   "meaning": "Việc học một ngoại ngữ là một việc khó."
+  },
+  {
+   "tokens": [
+    "悪い",
+    "習慣",
+    "を",
+    "取り除く",
+    "こと",
+    "は",
+    "とても",
+    "難しい"
+   ],
+   "reading": "わるいしゅうかんをとりのぞくことはとてもむずかしい",
+   "meaning": "Rất khó để từ bỏ một thói quen xấu."
+  },
+  {
+   "tokens": [
+    "また",
+    "雨",
+    "だ"
+   ],
+   "reading": "またあめだ",
+   "meaning": "Lại mưa rồi."
+  },
+  {
+   "tokens": [
+    "よい",
+    "質問",
+    "だ"
+   ],
+   "reading": "よいしつもんだ",
+   "meaning": "Đó là một câu hỏi hay."
+  },
+  {
+   "tokens": [
+    "雨",
+    "が",
+    "降っている"
+   ],
+   "reading": "あめがふっている",
+   "meaning": "Trời đang mưa."
+  }
+ ],
+ "issues": []
+}

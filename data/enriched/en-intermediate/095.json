@@ -1,0 +1,328 @@
+{
+ "lesson": 95,
+ "draft": true,
+ "words": [
+  {
+   "term": "bid",
+   "meaning": "thầu",
+   "example": "the firm decided to bid on the new bridge",
+   "exampleMeaning": "Công ty ấy quyết định thầu làm cái cầu mới",
+   "emoji": "",
+   "ipa": "/bɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "discipline",
+   "meaning": "kỷ luật",
+   "example": "to keep under strict discipline",
+   "exampleMeaning": "Bắt theo kỷ luật nghiêm ngặt",
+   "emoji": "",
+   "ipa": "/ˈdɪsəplən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slash",
+   "meaning": "rạch, cắt, khía",
+   "example": "to slash a speech",
+   "exampleMeaning": "Cắt bớt nhiều đoạn trong một bài diễn văn",
+   "emoji": "",
+   "ipa": "/ˈslæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "straighten",
+   "meaning": "làm cho thẳng",
+   "example": "to straighten [out] an iron bar",
+   "exampleMeaning": "Đập một thanh sắt cho thắng",
+   "emoji": "",
+   "ipa": "/ˈstreɪtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "flaw",
+   "meaning": "thiếu sót, sai lầm",
+   "example": "a flaw in a document",
+   "exampleMeaning": "Một thiếu sót (sai lầm) trong tài liệu",
+   "emoji": "",
+   "ipa": "/ˈflɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "regime",
+   "meaning": "chế độ, chính thể",
+   "example": "Let's learn the word \"regime\".",
+   "exampleMeaning": "Cùng học từ “regime”: chế độ, chính thể.",
+   "emoji": "",
+   "ipa": "/reɪˈʒim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "canon",
+   "meaning": "xpia",
+   "example": "the Shakespearian canon",
+   "exampleMeaning": "Danh sách các tác phẩm được công nhận là đúng của Sếch-xpia",
+   "emoji": "",
+   "ipa": "/ˈkænən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "personify",
+   "meaning": "nhân cách hoá, nhân hóa",
+   "example": "Let's learn the word \"personify\".",
+   "exampleMeaning": "Cùng học từ “personify”: nhân cách hoá, nhân hóa.",
+   "emoji": "",
+   "ipa": "/pɜrˈsɑnəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "yacht",
+   "meaning": "thuyền yat, thuyền buồm nhẹ",
+   "example": "Let's learn the word \"yacht\".",
+   "exampleMeaning": "Cùng học từ “yacht”: thuyền yat, thuyền buồm nhẹ.",
+   "emoji": "",
+   "ipa": "/ˈjɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cowardly",
+   "meaning": "nhát gan, nhút nhát",
+   "example": "Let's learn the word \"cowardly\".",
+   "exampleMeaning": "Cùng học từ “cowardly”: nhát gan, nhút nhát.",
+   "emoji": "",
+   "ipa": "/ˈkaʊɜrdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stingy",
+   "meaning": "keo kiệt, bủn xỉn",
+   "example": "Let's learn the word \"stingy\".",
+   "exampleMeaning": "Cùng học từ “stingy”: keo kiệt, bủn xỉn.",
+   "emoji": "",
+   "ipa": "/ˈstɪndʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tread",
+   "meaning": "đi, bước lên, giẫm lên",
+   "example": "don't tread on the flowers",
+   "exampleMeaning": "Đừng giẫm lên hoa",
+   "emoji": "",
+   "ipa": "/ˈtrɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "flee",
+   "meaning": "chạy trốn, bỏ chạy",
+   "example": "Let's learn the word \"flee\".",
+   "exampleMeaning": "Cùng học từ “flee”: chạy trốn, bỏ chạy.",
+   "emoji": "",
+   "ipa": "/ˈfliː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entitle",
+   "meaning": "cho đầu đề, cho tên (sách... )",
+   "example": "Let's learn the word \"entitle\".",
+   "exampleMeaning": "Cùng học từ “entitle”: cho đầu đề, cho tên (sách... ).",
+   "emoji": "",
+   "ipa": "/ɛnˈtaɪtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bothered",
+   "meaning": "điều bực mình, điều khó chịu",
+   "example": "I’m not so bothered now.",
+   "exampleMeaning": "Giờ tôi không còn quá bận tâm.",
+   "emoji": "",
+   "ipa": "/ˈbɑðɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "scheme",
+   "meaning": "âm mưu, mưu đồ (làm việc gì)",
+   "example": "the scheme of colour",
+   "exampleMeaning": "Nguyên tắc phối hợp các màu",
+   "emoji": "",
+   "ipa": "/ˈskim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ambiguity",
+   "meaning": "sự tối nghĩa, sự không rõ nghĩa",
+   "example": "I don't want any ambiguity in our relationship.",
+   "exampleMeaning": "Tôi không muốn bất kì sự mập mờ nào trong mối quan hệ của chúng ta.",
+   "emoji": "",
+   "ipa": "/ˌæmbɪɡˈjuəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nerves",
+   "meaning": "động từ chia ở ngôi thứ ba số ít của nerve",
+   "example": "Let's learn the word \"nerves\".",
+   "exampleMeaning": "Cùng học từ “nerves”: động từ chia ở ngôi thứ ba số ít của nerve.",
+   "emoji": "",
+   "ipa": "/ˈnɜrvz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hydrogen",
+   "meaning": "hyđrô",
+   "example": "Let's learn the word \"hydrogen\".",
+   "exampleMeaning": "Cùng học từ “hydrogen”: hyđrô.",
+   "emoji": "",
+   "ipa": "/ˈhaɪdrədʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blade",
+   "meaning": "gã, anh chàng, thằng",
+   "example": "a jolly old blade",
+   "exampleMeaning": "Một anh chàng vui nhộn",
+   "emoji": "",
+   "ipa": "/bleɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I’m",
+    "not",
+    "so",
+    "bothered",
+    "now"
+   ],
+   "reading": "",
+   "meaning": "Giờ tôi không còn quá bận tâm."
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "want",
+    "any",
+    "ambiguity",
+    "in",
+    "our",
+    "relationship"
+   ],
+   "reading": "",
+   "meaning": "Tôi không muốn bất kì sự mập mờ nào trong mối quan hệ của chúng ta."
+  },
+  {
+   "tokens": [
+    "Take",
+    "back",
+    "what",
+    "you",
+    "said",
+    "about",
+    "me",
+    "being",
+    "stingy"
+   ],
+   "reading": "",
+   "meaning": "Bạn bảo tôi keo kiệt đúng không? Hãy rút lại mấy lời đó đi."
+  },
+  {
+   "tokens": [
+    "I",
+    "bid",
+    "you",
+    "farewell"
+   ],
+   "reading": "",
+   "meaning": "Xin được nói lời tạm biệt với bạn."
+  },
+  {
+   "tokens": [
+    "Please",
+    "be",
+    "serious"
+   ],
+   "reading": "",
+   "meaning": "Làm ơn nghiêm túc đi."
+  }
+ ],
+ "issues": []
+}

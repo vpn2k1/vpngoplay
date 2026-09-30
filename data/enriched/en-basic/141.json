@@ -1,0 +1,316 @@
+{
+ "lesson": 141,
+ "draft": true,
+ "words": [
+  {
+   "term": "turtle",
+   "meaning": "rùa",
+   "example": "The turtle moves slowly to the sea.",
+   "exampleMeaning": "Con rùa di chuyển từ từ ra biển.",
+   "emoji": "🐢",
+   "ipa": "/ˈtɜrtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sperm",
+   "meaning": "tinh dịch",
+   "example": "Let's learn the word \"sperm\".",
+   "exampleMeaning": "Cùng học từ “sperm”: tinh dịch.",
+   "emoji": "",
+   "ipa": "/ˈspɜrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "harbor",
+   "meaning": "danh từ & động từ",
+   "example": "Let's learn the word \"harbor\".",
+   "exampleMeaning": "Cùng học từ “harbor”: danh từ & động từ.",
+   "emoji": "",
+   "ipa": "/ˈhɑrbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "demonstrate",
+   "meaning": "biểu tình, biểu tình tuần hành",
+   "example": "I don't know how to demonstrate it, since it's too obvious!",
+   "exampleMeaning": "Tôi không biết phải trình bày thế nào, bởi vì nó đã quá rõ ràng rồi.",
+   "emoji": "",
+   "ipa": "/ˈdɛmənˌstreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "graphic",
+   "meaning": "sinh động",
+   "example": "He is a graphic designer for a video game company.",
+   "exampleMeaning": "Anh ấy là một người thiết kế đồ họa cho một công ty game.",
+   "emoji": "",
+   "ipa": "/ˈɡræfɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "glance",
+   "meaning": "liếc nhìn, liếc nhanh, nhìn qua",
+   "example": "to take a glance at a newspaper",
+   "exampleMeaning": "Liếc nhìn qua tờ báo",
+   "emoji": "",
+   "ipa": "/ˈɡlæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stressed",
+   "meaning": "căng",
+   "example": "Tom is so stressed at the moment, he can't think straight.",
+   "exampleMeaning": "Bây giờ Tom cảm thấy rất căng thẳng, anh ấy không thể nào nghĩ thông suốt được.",
+   "emoji": "",
+   "ipa": "/ˈstrɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rarely",
+   "meaning": "hiếm, hiếm có, ít có",
+   "example": "I rarely see him.",
+   "exampleMeaning": "Tôi hiếm khi nhìn thấy anh ấy.",
+   "emoji": "",
+   "ipa": "/ˈrɛrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "molecule",
+   "meaning": "phân tử",
+   "example": "Let's learn the word \"molecule\".",
+   "exampleMeaning": "Cùng học từ “molecule”: phân tử.",
+   "emoji": "",
+   "ipa": "/ˈmɑləkˌjul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mechanic",
+   "meaning": "thợ máy, công nhân cơ khí",
+   "example": "You're not a mechanic, are you?",
+   "exampleMeaning": "Bạn không phải là một thợ máy nhỉ?",
+   "emoji": "🧑‍🔧",
+   "ipa": "/məˈkænɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "superior",
+   "meaning": "tốt, giỏi",
+   "example": "to be overcome by superior numbers",
+   "exampleMeaning": "Bị thua vì số quân (địch) nhiều hơn",
+   "emoji": "",
+   "ipa": "/suˈpɪriɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pie",
+   "meaning": "ác là",
+   "example": "Have you ever eaten a banana pie?",
+   "exampleMeaning": "Bạn đã từng ăn bánh chuối chưa",
+   "emoji": "🥧",
+   "ipa": "/ˈpaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fascinate",
+   "meaning": "thôi miên, làm mê",
+   "example": "Let's learn the word \"fascinate\".",
+   "exampleMeaning": "Cùng học từ “fascinate”: thôi miên, làm mê.",
+   "emoji": "",
+   "ipa": "/ˈfæsəˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proceed",
+   "meaning": "tiếp tục, làm",
+   "example": "proceed with your work!",
+   "exampleMeaning": "Cứ làm tiếp việc của anh đi!",
+   "emoji": "",
+   "ipa": "/pɜrˈsid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enable",
+   "meaning": "làm cho có thể (làm gì)",
+   "example": "Let's learn the word \"enable\".",
+   "exampleMeaning": "Cùng học từ “enable”: làm cho có thể (làm gì).",
+   "emoji": "",
+   "ipa": "/ɛˈneɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subsequently",
+   "meaning": "rồi thì, rồi sau đó",
+   "example": "Let's learn the word \"subsequently\".",
+   "exampleMeaning": "Cùng học từ “subsequently”: rồi thì, rồi sau đó.",
+   "emoji": "",
+   "ipa": "/ˈsəbsəkwəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mess",
+   "meaning": "tình trạng hỗn độn, tình trạng lộn xộn",
+   "example": "the whole room was in a mess",
+   "exampleMeaning": "Tất cả gian phòng ở trong một tình trạng bừa bộn bẩn thỉu",
+   "emoji": "",
+   "ipa": "/ˈmɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cultivate",
+   "meaning": "trau dồi, tu dưỡng (trí tuệ... )",
+   "example": "to cultivate the mind",
+   "exampleMeaning": "Trau dồi trí tuệ",
+   "emoji": "",
+   "ipa": "/ˈkəltəˌveɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "annual",
+   "meaning": "hằng năm, năm một, từng năm",
+   "example": "Let's learn the word \"annual\".",
+   "exampleMeaning": "Cùng học từ “annual”: hằng năm, năm một, từng năm.",
+   "emoji": "",
+   "ipa": "/ˈænjuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "region",
+   "meaning": "vùng, miền",
+   "example": "this costs in the region of 500₫",
+   "exampleMeaning": "Cái đó giá trong khoảng 500 đồng",
+   "emoji": "",
+   "ipa": "/ˈridʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "like",
+    "pie"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích bánh."
+  },
+  {
+   "tokens": [
+    "I",
+    "rarely",
+    "cry"
+   ],
+   "reading": "",
+   "meaning": "Tôi ít khi khóc."
+  },
+  {
+   "tokens": [
+    "You",
+    "rarely",
+    "smile"
+   ],
+   "reading": "",
+   "meaning": "Bạn ít khi cười."
+  },
+  {
+   "tokens": [
+    "I",
+    "rarely",
+    "see",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Tôi hiếm khi nhìn thấy anh ấy."
+  },
+  {
+   "tokens": [
+    "Who",
+    "made",
+    "this",
+    "pie"
+   ],
+   "reading": "",
+   "meaning": "Ai đã làm ra chiếc bánh này?"
+  }
+ ],
+ "issues": []
+}

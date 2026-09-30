@@ -1,0 +1,318 @@
+{
+ "lesson": 50,
+ "draft": true,
+ "words": [
+  {
+   "term": "cathedral",
+   "meaning": "nhà thờ chính tòa",
+   "example": "Let's learn the word \"cathedral\".",
+   "exampleMeaning": "Cùng học từ “cathedral”: nhà thờ chính tòa.",
+   "emoji": "",
+   "ipa": "/kəˈθidrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ineffective",
+   "meaning": "không có hiệu quả",
+   "example": "Let's learn the word \"ineffective\".",
+   "exampleMeaning": "Cùng học từ “ineffective”: không có hiệu quả.",
+   "emoji": "",
+   "ipa": "/ˌɪnɪˈfɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "manufacturing",
+   "meaning": "sự sản xuất",
+   "example": "Let's learn the word \"manufacturing\".",
+   "exampleMeaning": "Cùng học từ “manufacturing”: sự sản xuất.",
+   "emoji": "",
+   "ipa": "/ˌmænjəˈfæktʃɜrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "organizer",
+   "meaning": "người tổ chức",
+   "example": "Let's learn the word \"organizer\".",
+   "exampleMeaning": "Cùng học từ “organizer”: người tổ chức.",
+   "emoji": "",
+   "ipa": "/ˈɔrɡəˌnaɪzɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sympathetic",
+   "meaning": "đồng cảm",
+   "example": "People were sympathetic to Fadil.",
+   "exampleMeaning": "Mọi người đồng cảm với Fadil.",
+   "emoji": "",
+   "ipa": "/ˌsɪmpəˈθɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "antivirus",
+   "meaning": "chống virus",
+   "example": "Let's learn the word \"antivirus\".",
+   "exampleMeaning": "Cùng học từ “antivirus”: chống virus.",
+   "emoji": "",
+   "ipa": "/ˌæntiˈvaɪrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "orient",
+   "meaning": "định hướng, đặt hướng",
+   "example": "to orient oneself",
+   "exampleMeaning": "Định hướng, định vị trí đứng",
+   "emoji": "",
+   "ipa": "/ˈɔriˌɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "presume",
+   "meaning": "cho là, coi như là, cầm bằng là",
+   "example": "I presume to give you a piece of advice?",
+   "exampleMeaning": "Tôi xin mạo muội góp với anh một ý được chăng?",
+   "emoji": "",
+   "ipa": "/prɪˈzum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bidding",
+   "meaning": "sự đặt giá",
+   "example": "Let's learn the word \"bidding\".",
+   "exampleMeaning": "Cùng học từ “bidding”: sự đặt giá.",
+   "emoji": "",
+   "ipa": "/ˈbɪdɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unlimited",
+   "meaning": "không giới hạn, vô vùng, vô tận",
+   "example": "Let's learn the word \"unlimited\".",
+   "exampleMeaning": "Cùng học từ “unlimited”: không giới hạn, vô vùng, vô tận.",
+   "emoji": "",
+   "ipa": "/ənˈlɪmətɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reactor",
+   "meaning": "lò phản ứng",
+   "example": "a nuclear reactor",
+   "exampleMeaning": "Lò phản ứng hạt nhân",
+   "emoji": "",
+   "ipa": "/riˈæktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pandemic",
+   "meaning": "dịch lớn",
+   "example": "Let's learn the word \"pandemic\".",
+   "exampleMeaning": "Cùng học từ “pandemic”: dịch lớn.",
+   "emoji": "",
+   "ipa": "/pænˈdɛmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unload",
+   "meaning": "cất gánh nặng, dỡ hàng",
+   "example": "to unload a ship",
+   "exampleMeaning": "Dỡ hàng ở tàu xuống",
+   "emoji": "",
+   "ipa": "/ənˈloʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "admittedly",
+   "meaning": "phải nhận, phải thừa nhận, phải thú nhận",
+   "example": "it's admittedly a thorny question",
+   "exampleMeaning": "Đó là một vấn đề ai cũng phải thừa nhận là hắc búa",
+   "emoji": "",
+   "ipa": "/ædˈmɪtɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wink",
+   "meaning": "nháy mắt, khoảnh khắc",
+   "example": "to give the wink to",
+   "exampleMeaning": "Nháy mắt với, ra hiệu cho",
+   "emoji": "",
+   "ipa": "/ˈwɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "polity",
+   "meaning": "chính thể",
+   "example": "Let's learn the word \"polity\".",
+   "exampleMeaning": "Cùng học từ “polity”: chính thể.",
+   "emoji": "",
+   "ipa": "/ˈpɑləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "successive",
+   "meaning": "kế tiếp",
+   "example": "Chinese is written without spaces between successive characters and words.",
+   "exampleMeaning": "Tiếng Trung khi viết thì không có dấu cách giữa các chữ và từ liền nhau.",
+   "emoji": "",
+   "ipa": "/səkˈsɛsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "openly",
+   "meaning": "công khai",
+   "example": "Let's learn the word \"openly\".",
+   "exampleMeaning": "Cùng học từ “openly”: công khai.",
+   "emoji": "",
+   "ipa": "/ˈoʊpənli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wordlessly",
+   "meaning": "không lời",
+   "example": "Let's learn the word \"wordlessly\".",
+   "exampleMeaning": "Cùng học từ “wordlessly”: không lời.",
+   "emoji": "",
+   "ipa": "/wˈɜːdləsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disrupt",
+   "meaning": "gián đoạn",
+   "example": "Let's learn the word \"disrupt\".",
+   "exampleMeaning": "Cùng học từ “disrupt”: gián đoạn.",
+   "emoji": "",
+   "ipa": "/dɪsˈrəpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "People",
+    "were",
+    "sympathetic",
+    "to",
+    "Fadil"
+   ],
+   "reading": "",
+   "meaning": "Mọi người đồng cảm với Fadil."
+  },
+  {
+   "tokens": [
+    "She",
+    "shares",
+    "her",
+    "experiences",
+    "openly"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy chia sẻ kinh nghiệm một cách cởi mở."
+  },
+  {
+   "tokens": [
+    "I",
+    "wear",
+    "boxers"
+   ],
+   "reading": "",
+   "meaning": "Tôi mặc quần đùi"
+  },
+  {
+   "tokens": [
+    "We",
+    "have",
+    "suppliers"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi có những nhà cung cấp."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "penguins"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích chim cánh cụt."
+  }
+ ],
+ "issues": []
+}

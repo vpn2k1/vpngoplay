@@ -1,0 +1,86 @@
+{
+ "id": "en-talk-greeting",
+ "lang": "en",
+ "order": 1,
+ "level": "A1",
+ "icon": "greeting",
+ "title": "Làm quen bạn mới",
+ "scene": "Ngày đầu tiên ở lớp tiếng Anh, bạn làm quen với một bạn cùng lớp.",
+ "roles": {
+  "A": "Emma",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "Hi! I'm Emma. Is this seat free?",
+   "meaning": "Chào bạn! Mình là Emma. Chỗ này còn trống không?"
+  },
+  {
+   "role": "B",
+   "text": "Yes, please sit down. I'm Minh.",
+   "meaning": "Còn, bạn ngồi đi. Mình là Minh."
+  },
+  {
+   "role": "A",
+   "text": "Nice to meet you, Minh. Where are you from?",
+   "meaning": "Rất vui được gặp bạn, Minh. Bạn đến từ đâu?"
+  },
+  {
+   "role": "B",
+   "text": "I'm from Vietnam. How about you?",
+   "meaning": "Mình đến từ Việt Nam. Còn bạn thì sao?"
+  },
+  {
+   "role": "A",
+   "text": "I'm from Canada. What do you do?",
+   "meaning": "Mình đến từ Canada. Bạn làm nghề gì?"
+  },
+  {
+   "role": "B",
+   "text": "I'm a student. I study IT.",
+   "meaning": "Mình là sinh viên, học công nghệ thông tin."
+  },
+  {
+   "role": "A",
+   "text": "Cool! Why are you learning English?",
+   "meaning": "Hay quá! Sao bạn học tiếng Anh vậy?"
+  },
+  {
+   "role": "B",
+   "text": "I want to work abroad one day.",
+   "meaning": "Mình muốn một ngày nào đó được làm việc ở nước ngoài."
+  },
+  {
+   "role": "A",
+   "text": "That's great. Good luck!",
+   "meaning": "Tuyệt quá. Chúc bạn may mắn!"
+  },
+  {
+   "role": "B",
+   "text": "Thanks! See you later.",
+   "meaning": "Cảm ơn nhé! Hẹn gặp lại."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "Nice to meet you.",
+   "meaning": "Rất vui được gặp bạn.",
+   "note": "Đáp lại: Nice to meet you, too."
+  },
+  {
+   "text": "Where are you from?",
+   "meaning": "Bạn đến từ đâu?"
+  },
+  {
+   "text": "What do you do?",
+   "meaning": "Bạn làm nghề gì?",
+   "note": "Hỏi về nghề nghiệp, không phải “bạn đang làm gì”."
+  },
+  {
+   "text": "How about you?",
+   "meaning": "Còn bạn thì sao?",
+   "note": "Hỏi lại người kia đúng câu họ vừa hỏi mình."
+  }
+ ]
+}

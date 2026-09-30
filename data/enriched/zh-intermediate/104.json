@@ -1,0 +1,333 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "编制",
+   "meaning": "biên chế",
+   "example": "紧缩编制，下放干部。",
+   "exampleMeaning": "Thu hẹp biên chế, đưa cán bộ xuống cơ sở",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biānzhì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冷水",
+   "meaning": "nước lạnh",
+   "example": "大家干得正起劲，你千万不能泼冷水。",
+   "exampleMeaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用处",
+   "meaning": "tác dụng",
+   "example": "这本书会对我们有很大用处。",
+   "exampleMeaning": "Quyển sách này rất hứu ích cho chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngchu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "化解",
+   "meaning": "hoá giải",
+   "example": "心中的疑虑难以化解。",
+   "exampleMeaning": "Hoài nghi trong lòng khó mà gạt bỏ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàjiě",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "排行榜",
+   "meaning": "bảng xếp hạng",
+   "example": "我们来学“排行榜”这个词。",
+   "exampleMeaning": "Cùng học từ “排行榜”: bảng xếp hạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "páihángbǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "母女",
+   "meaning": "con gái của mẹ",
+   "example": "我们来学“母女”这个词。",
+   "exampleMeaning": "Cùng học từ “母女”: con gái của mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔnǚ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日夜",
+   "meaning": "ngày đêm",
+   "example": "日夜三班轮流生产。",
+   "exampleMeaning": "Trong một ngày đêm ba ca thay nhau sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rìyè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "城区",
+   "meaning": "thành nội",
+   "example": "我们来学“城区”这个词。",
+   "exampleMeaning": "Cùng học từ “城区”: thành nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大批",
+   "meaning": "khối lượng lớn",
+   "example": "火车运来了大批货物。",
+   "exampleMeaning": "Xe lửa vận chuyển đến một khối lượng lớn hàng hoá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàpī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "厂商",
+   "meaning": "nhà máy hiệu buôn",
+   "example": "营造厂商。",
+   "exampleMeaning": "Mở nhà máy, hiệu buôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎngshāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "食欲",
+   "meaning": "ngon miệng",
+   "example": "适当运动能促进食欲。",
+   "exampleMeaning": "Vận động thích hợp giúp ăn ngon miệng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíyù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "祖母",
+   "meaning": "bà nội",
+   "example": "我们来学“祖母”这个词。",
+   "exampleMeaning": "Cùng học từ “祖母”: bà nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔmǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "布满",
+   "meaning": "được bao phủ bởi",
+   "example": "我们来学“布满”这个词。",
+   "exampleMeaning": "Cùng học từ “布满”: được bao phủ bởi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùmǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外观",
+   "meaning": "bên ngoài",
+   "example": "我们来学“外观”这个词。",
+   "exampleMeaning": "Cùng học từ “外观”: bên ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàiguān",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "采纳",
+   "meaning": "tiếp thu",
+   "example": "采纳群众的意见。",
+   "exampleMeaning": "Tiếp thu ý kiến của quần chúng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎinà",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分工",
+   "meaning": "phân công",
+   "example": "这几件事，咱们分分工吧。",
+   "exampleMeaning": "Mấy việc này, chúng ta phân công đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngōng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "影星",
+   "meaning": "minh tinh điện ảnh",
+   "example": "我们来学“影星”这个词。",
+   "exampleMeaning": "Cùng học từ “影星”: minh tinh điện ảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐngxīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政党",
+   "meaning": "chính đảng",
+   "example": "我们来学“政党”这个词。",
+   "exampleMeaning": "Cùng học từ “政党”: chính đảng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngdǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阔",
+   "meaning": "giàu, giàu có",
+   "example": "他阔起来了。",
+   "exampleMeaning": "Anh ấy giàu lên rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuò",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跳水",
+   "meaning": "nhảy cầu",
+   "example": "我们来学“跳水”这个词。",
+   "exampleMeaning": "Cùng học từ “跳水”: nhảy cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiàoshuǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "本",
+    "书",
+    "会",
+    "对",
+    "我们",
+    "有",
+    "很",
+    "大",
+    "用处"
+   ],
+   "reading": "zhè běn shū huì duì wǒmen yǒu hěn dà yòngchu",
+   "meaning": "Quyển sách này rất hứu ích cho chúng ta."
+  },
+  {
+   "tokens": [
+    "大家",
+    "干",
+    "得",
+    "正",
+    "起劲",
+    "你",
+    "千万",
+    "不",
+    "能",
+    "泼冷水"
+   ],
+   "reading": "dàjiā gàn de zhèng qǐjìn nǐ qiānwàn bù néng pōlěngshuǐ",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  },
+  {
+   "tokens": [
+    "那是",
+    "下个月",
+    "的",
+    "事"
+   ],
+   "reading": "nàshi xiàgèyuè de shì",
+   "meaning": "Đó là chuyện tháng sau."
+  },
+  {
+   "tokens": [
+    "沸水",
+    "蒸发",
+    "成",
+    "气体"
+   ],
+   "reading": "fèishuǐ zhēngfā chéng qìtǐ",
+   "meaning": "Nước sôi bốc thành hơi."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  }
+ ],
+ "issues": []
+}

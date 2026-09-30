@@ -1,0 +1,332 @@
+{
+ "lesson": 48,
+ "draft": true,
+ "words": [
+  {
+   "term": "得罪",
+   "meaning": "làm mất lòng",
+   "example": "他做了很多得罪人的事儿。",
+   "exampleMeaning": "Nó làm nhiều chuyện xúc phạm đến mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dézuì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跨越",
+   "meaning": "qua (thời gian, khu vực)",
+   "example": "跨越了几个世纪。",
+   "exampleMeaning": "Qua mấy thế kỷ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàyuè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保重",
+   "meaning": "bảo trọng",
+   "example": "旅途中你要多保重",
+   "exampleMeaning": "Đi đường xin anh bảo trọng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎozhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "加重",
+   "meaning": "nặng thêm",
+   "example": "加重负担。",
+   "exampleMeaning": "Tăng thêm gánh nặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奢侈",
+   "meaning": "xa xỉ",
+   "example": "奢侈品。",
+   "exampleMeaning": "Xa xỉ phẩm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēchǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "信件",
+   "meaning": "thư tín",
+   "example": "我们来学“信件”这个词。",
+   "exampleMeaning": "Cùng học từ “信件”: thư tín.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奇特",
+   "meaning": "lạ lùng",
+   "example": "在沙漠地区常常可以看到一些奇特的景象。",
+   "exampleMeaning": "Ở vùng sa mạc, có thể nhìn thấy những cảnh tượng lạ lùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qítè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "严峻",
+   "meaning": "nghiêm túc",
+   "example": "人生最严峻的考验，常常不在逆境之中，而在成功之后。",
+   "exampleMeaning": "Thử thách gay gắt nhất của cuộc đời thường không ở trong nghịch cảnh mà ở sau thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánjùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "粪",
+   "meaning": "phân bón",
+   "example": "我们来学“粪”这个词。",
+   "exampleMeaning": "Cùng học từ “粪”: phân bón.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "框",
+   "meaning": "ràng buộc",
+   "example": "把这几文字框起来。",
+   "exampleMeaning": "Khoanh mấy chữ này lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惯",
+   "meaning": "nuông chiều, chiều theo",
+   "example": "我劳动惯了，一天不干活就不舒服。",
+   "exampleMeaning": "Tôi có thói quen làm việc, cả ngày không làm việc thì thấy khó chịu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纪念日",
+   "meaning": "ngày kỷ niệm",
+   "example": "中国共产党成立纪念日",
+   "exampleMeaning": "Ngày kỉ niệm thành lập Đảng Cộng sản Trung Quốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìniànrì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "舆论",
+   "meaning": "dư luận",
+   "example": "社会舆论",
+   "exampleMeaning": "Dư luận xã hội",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúlùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "侦察",
+   "meaning": "trinh sát",
+   "example": "火力侦察",
+   "exampleMeaning": "Trinh sát hoả lực; điều tra hoả lực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnchá",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "当面",
+   "meaning": "trước mặt",
+   "example": "当面说清楚",
+   "exampleMeaning": "Nói rõ ngay trước mặt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dāngmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预告",
+   "meaning": "giới thiệu",
+   "example": "这场大雪预告了来年农业的丰收。",
+   "exampleMeaning": "Đợt tuyết này báo hiệu sang năm nông nghiệp sẽ bội thu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùgào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "禁区",
+   "meaning": "khu vực cấm",
+   "example": "我们来学“禁区”这个词。",
+   "exampleMeaning": "Cùng học từ “禁区”: khu vực cấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnqū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "身影",
+   "meaning": "bóng dáng",
+   "example": "我们来学“身影”这个词。",
+   "exampleMeaning": "Cùng học từ “身影”: bóng dáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnyǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "倾斜",
+   "meaning": "nghiêng",
+   "example": "屋子年久失修，有些倾斜。",
+   "exampleMeaning": "Nhà lâu năm không sửa chửa, nên hơi bị nghiêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngxié",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "事迹",
+   "meaning": "sự tích",
+   "example": "生平事迹。",
+   "exampleMeaning": "Câu chuyện cuộc đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìjì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "已经",
+    "习惯",
+    "寒冷",
+    "了"
+   ],
+   "reading": "wǒmen yǐjīng xíguàn hánlěng le",
+   "meaning": "Chúng tôi đã quen với cái lạnh rồi."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "保养",
+    "类",
+    "的",
+    "面膜",
+    "可以",
+    "不",
+    "清洗"
+   ],
+   "reading": "bǎoyǎng lèi de miànmó kěyǐ bù qīngxǐ",
+   "meaning": "Loại mặt nạ dưỡng da có thể không được rỡa sạch."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  }
+ ],
+ "issues": []
+}

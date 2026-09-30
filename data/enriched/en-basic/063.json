@@ -1,0 +1,314 @@
+{
+ "lesson": 63,
+ "draft": true,
+ "words": [
+  {
+   "term": "expert",
+   "meaning": "nhà chuyên môn, chuyên gia, chuyên viên",
+   "example": "to be expert at (in) something",
+   "exampleMeaning": "Thành thạo (tinh thông) về cái gì",
+   "emoji": "",
+   "ipa": "/ˈɛkspɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "safe",
+   "meaning": "an toàn, có thể tin cậy",
+   "example": "to put something in a safe place",
+   "exampleMeaning": "Để vật gì vào một nơi chắc chắn",
+   "emoji": "",
+   "ipa": "/seɪf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shore",
+   "meaning": "bờ biển",
+   "example": "Let's learn the word \"shore\".",
+   "exampleMeaning": "Cùng học từ “shore”: bờ biển.",
+   "emoji": "",
+   "ipa": "/ˈʃɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "handbag",
+   "meaning": "túi xách, ví xách tay",
+   "example": "Let's learn the word \"handbag\".",
+   "exampleMeaning": "Cùng học từ “handbag”: túi xách, ví xách tay.",
+   "emoji": "👜",
+   "ipa": "/ˈhændˌbæɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "importantly",
+   "meaning": "quan trọng, trội yếu",
+   "example": "She's beautiful, smart, and - most importantly - has a good heart.",
+   "exampleMeaning": "Cô ấy xinh đẹp, thông minh và trên hết là có một trái tim nhân hậu.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɔrtəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "asset",
+   "meaning": "tích sản",
+   "example": "Let's learn the word \"asset\".",
+   "exampleMeaning": "Cùng học từ “asset”: tích sản.",
+   "emoji": "",
+   "ipa": "/ˈæˌsɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rent",
+   "meaning": "thuê (nhà, đất)",
+   "example": "How much is the rent?",
+   "exampleMeaning": "Tiền thuê giá bao nhiêu?",
+   "emoji": "",
+   "ipa": "/ˈrɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "such",
+   "meaning": "như thế, như vậy, như loại đó",
+   "example": "such a beautiful day!",
+   "exampleMeaning": "Một ngày thật là đẹp!",
+   "emoji": "",
+   "ipa": "/ˈsətʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "title",
+   "meaning": "tước, tước hiệu, danh hiệu",
+   "example": "What's the title of that book?",
+   "exampleMeaning": "Tựa đề của cuốn sách là gì?",
+   "emoji": "",
+   "ipa": "/ˈtaɪtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "traditional",
+   "meaning": "truyền thống, theo truyền thống",
+   "example": "Many women today prefer wearing modern clothing to traditional clothing.",
+   "exampleMeaning": "Nhiều phụ nữ ngày nay thích mặc quần áo hiện đại hơn trang phục truyền thống.",
+   "emoji": "",
+   "ipa": "/trəˈdɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "receipt",
+   "meaning": "công thức (làm bánh, nấu món ăn... )",
+   "example": "to acknowledge receipt of...",
+   "exampleMeaning": "Báo đã nhận được...",
+   "emoji": "🧾",
+   "ipa": "/riˈsit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ability",
+   "meaning": "năng lực, khả năng (làm việc gì)",
+   "example": "to the best of one's ability",
+   "exampleMeaning": "Với tư cách khả năng của mình",
+   "emoji": "",
+   "ipa": "/əˈbɪl.ə.ti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fairly",
+   "meaning": "khá, kha khá",
+   "example": "The room was fairly spacious.",
+   "exampleMeaning": "Căn phòng khá là rộng rãi.",
+   "emoji": "",
+   "ipa": "/ˈfɛrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "strongly",
+   "meaning": "bền, vững, khoẻ",
+   "example": "I strongly advise you to let Tom handle this.",
+   "exampleMeaning": "Tôi thực sự khuyên bạn để Tom xử lý điều này.",
+   "emoji": "",
+   "ipa": "/ˈstrɔŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hockey",
+   "meaning": "môn bóng gậy cong, khúc côn cầu",
+   "example": "Let's learn the word \"hockey\".",
+   "exampleMeaning": "Cùng học từ “hockey”: môn bóng gậy cong, khúc côn cầu.",
+   "emoji": "",
+   "ipa": "/ˈhɑki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "court",
+   "meaning": "đón lấy, rước lấy, chuốc lấy",
+   "example": "to bring to court for trial",
+   "exampleMeaning": "Mang ra toà để xét xử",
+   "emoji": "",
+   "ipa": "/ˈkɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "noon",
+   "meaning": "trưa, buổi trưa",
+   "example": "I'll be off duty at noon on Monday.",
+   "exampleMeaning": "Tôi sẽ nghỉ làm vào trưa thứ Hai.",
+   "emoji": "",
+   "ipa": "/nuːn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "quality",
+   "meaning": "chất, chất lượng, phẩm chất",
+   "example": "to give a taste of one's quality",
+   "exampleMeaning": "Tỏ rõ năng lực của mình, cho thấy tài năng của mình",
+   "emoji": "",
+   "ipa": "/ˈkwɑləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "well-known",
+   "meaning": "nổi tiếng, ai cũng biết",
+   "example": "Let's learn the word \"well-known\".",
+   "exampleMeaning": "Cùng học từ “well-known”: nổi tiếng, ai cũng biết.",
+   "emoji": "",
+   "ipa": "/ˈwɛlˈnoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "golf",
+   "meaning": "chơi gôn",
+   "example": "Tom started playing golf when he was thirteen.",
+   "exampleMeaning": "Tom bắt đầu chơi gôn lúc anh ta 13 tuổi.",
+   "emoji": "",
+   "ipa": "/ˈɡɑlf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "no",
+    "expert"
+   ],
+   "reading": "",
+   "meaning": "Tôi không phải chuyên gia."
+  },
+  {
+   "tokens": [
+    "Sound",
+    "quality",
+    "matters"
+   ],
+   "reading": "",
+   "meaning": "Chất lượng âm thanh là quan trọng."
+  },
+  {
+   "tokens": [
+    "Come",
+    "at",
+    "noon"
+   ],
+   "reading": "",
+   "meaning": "Hãy đến vào trưa."
+  },
+  {
+   "tokens": [
+    "It's",
+    "already",
+    "noon"
+   ],
+   "reading": "",
+   "meaning": "Giờ đã là buổi trưa rồi."
+  },
+  {
+   "tokens": [
+    "It's",
+    "almost",
+    "noon"
+   ],
+   "reading": "",
+   "meaning": "Trời gần trưa rồi."
+  }
+ ],
+ "issues": []
+}

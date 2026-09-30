@@ -1,0 +1,332 @@
+{
+ "lesson": 106,
+ "draft": true,
+ "words": [
+  {
+   "term": "訴える",
+   "meaning": "kêu ca, kêu, phàn nàn",
+   "example": "「訴える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “訴える”: kêu ca, kêu, phàn nàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辺り",
+   "meaning": "sự lân cận, sự tiếp cận",
+   "example": "ボストンのどの辺りに行くの？",
+   "exampleMeaning": "Bạn đi chỗ nào của Boston thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "何でも",
+   "meaning": "vật gì, việc gì",
+   "example": "女たちは何でも共有している。",
+   "exampleMeaning": "Con gái chia sẻ với nhau mọi thứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "およそ",
+   "meaning": "xung quanh, quanh quẩn, đây đó",
+   "example": "「およそ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “およそ”: xung quanh, quanh quẩn, đây đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "模様",
+   "meaning": "kiểu mẫu, gương mẫu",
+   "example": "「模様」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “模様”: kiểu mẫu, gương mẫu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "騒音",
+   "meaning": "tiếng",
+   "example": "私は騒音になれている。",
+   "exampleMeaning": "Tôi đã quen với tiếng ồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "差",
+   "meaning": "sự khác nhau, tình trạng khác nhau",
+   "example": "彼は鍵を鍵穴に差し込んだ。",
+   "exampleMeaning": "Anh ấy đã tra chìa khóa vào ổ khóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "腹",
+   "meaning": "bụng",
+   "example": "まだお腹すいてる？",
+   "exampleMeaning": "Bạn có còn đói không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "議員",
+   "meaning": "nghị sĩ",
+   "example": "国会議員は問題の解決に苦慮しています。",
+   "exampleMeaning": "Các nghị sĩ Quốc hội đang đau đầu tìm cách giải quyết vấn đề này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "たびたび",
+   "meaning": "thường, hay, luôn",
+   "example": "百合は当時たびたびロンドンに行った。",
+   "exampleMeaning": "Yuri gần đây hay tới London.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "条件",
+   "meaning": "điều kiện",
+   "example": "この条件に該当する人は誰もいない。",
+   "exampleMeaning": "Không một ai đáp ứng được những điều kiện này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "マイナス",
+   "meaning": "trừ",
+   "example": "「マイナス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “マイナス”: trừ.",
+   "emoji": "➖",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ミルク",
+   "meaning": "sữa",
+   "example": "私はチーズとミルクを少し買った。",
+   "exampleMeaning": "Tôi đã mua một ít phô mai và sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "只",
+   "meaning": "miễn phí",
+   "example": "「只」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “只”: miễn phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温まる",
+   "meaning": "nóng: có nhiệt độ cao",
+   "example": "「温まる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “温まる”: nóng: có nhiệt độ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "患者",
+   "meaning": "kiên nhẫn, nhẫn nại, bền chí",
+   "example": "患者の症状は日ごとに変化する。",
+   "exampleMeaning": "Triệu chứng của bệnh nhân thay đổi theo từng ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "掴む",
+   "meaning": "chiếm đoạt, cướp lấy, nắm lấy",
+   "example": "「掴む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “掴む”: chiếm đoạt, cướp lấy, nắm lấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感覚",
+   "meaning": "giác quan",
+   "example": "「感覚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “感覚”: giác quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "独特",
+   "meaning": "tính chất riêng, tính riêng biệt",
+   "example": "この花は独特の香りがする。",
+   "exampleMeaning": "Loài hoa này có một hương thơm đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "燃える",
+   "meaning": "đốt cháy",
+   "example": "「燃える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “燃える”: đốt cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "騒音",
+    "に",
+    "なれている"
+   ],
+   "reading": "わたしはそうおんになれている",
+   "meaning": "Tôi đã quen với tiếng ồn."
+  },
+  {
+   "tokens": [
+    "事故",
+    "は",
+    "あの",
+    "交差点",
+    "の",
+    "近く",
+    "で",
+    "起こった"
+   ],
+   "reading": "じこはあのこうさてんのちかくでおこった",
+   "meaning": "Vụ tai nạn đã xảy ra ở gần cái ngã tư kia."
+  },
+  {
+   "tokens": [
+    "百合",
+    "は",
+    "当時",
+    "たびたび",
+    "ロンドン",
+    "に",
+    "行",
+    "った"
+   ],
+   "reading": "ゆりはとうじたびたびロンドンにいった",
+   "meaning": "Yuri gần đây hay tới London."
+  },
+  {
+   "tokens": [
+    "私達",
+    "は",
+    "まだ",
+    "あまり",
+    "お腹",
+    "は",
+    "空いていない"
+   ],
+   "reading": "わたしたちはまだあまりおなかはすいていない",
+   "meaning": "Chúng tôi vẫn chưa đói lắm."
+  },
+  {
+   "tokens": [
+    "この",
+    "花",
+    "は",
+    "独特の",
+    "香りがする"
+   ],
+   "reading": "このはなはどくとくのかおりがする",
+   "meaning": "Loài hoa này có một hương thơm đặc biệt."
+  }
+ ],
+ "issues": []
+}

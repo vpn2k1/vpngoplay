@@ -1,0 +1,331 @@
+{
+ "lesson": 116,
+ "draft": true,
+ "words": [
+  {
+   "term": "overall",
+   "meaning": "toàn bộ, toàn thể",
+   "example": "Overall, I'm happy with the result.",
+   "exampleMeaning": "Nhìn chung, tôi hài lòng với kết quả này.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "trunk",
+   "meaning": "thân (cây, cột, người",
+   "example": "The trunk is open.",
+   "exampleMeaning": "Cái va li đang mở.",
+   "emoji": "",
+   "ipa": "/ˈtrəŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "spur",
+   "meaning": "khích lệ, khuyến khích",
+   "example": "on the spur of the moment",
+   "exampleMeaning": "Do sự khích lệ của tình thế",
+   "emoji": "",
+   "ipa": "/ˈspɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gear",
+   "meaning": "bánh răng",
+   "example": "to gear agriculture to socialist construction",
+   "exampleMeaning": "Hướng công nghiệp phục vụ công cuộc xây dựng xã hội chủ nghĩa",
+   "emoji": "⚙",
+   "ipa": "/ˈɡɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "decorate",
+   "meaning": "trang hoàng, trang trí",
+   "example": "I like to decorate my room with flowers.",
+   "exampleMeaning": "Tôi thích trang trí phòng bằng hoa.",
+   "emoji": "",
+   "ipa": "/ˈdɛkɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "weed",
+   "meaning": "giẫy cỏ, nhổ cỏ",
+   "example": "We helped them weed the garden.",
+   "exampleMeaning": "Chúng tôi giúp họ nhổ cỏ trong vườn.",
+   "emoji": "",
+   "ipa": "/ˈwid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "confess",
+   "meaning": "thú tội, thú nhận",
+   "example": "to confess to having done a fault",
+   "exampleMeaning": "Thu nhận có phạm lỗi",
+   "emoji": "",
+   "ipa": "/kənˈfɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "distributor",
+   "meaning": "người phân phối, người phân phát",
+   "example": "Let's learn the word \"distributor\".",
+   "exampleMeaning": "Cùng học từ “distributor”: người phân phối, người phân phát.",
+   "emoji": "",
+   "ipa": "/dɪˈstrɪbjətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "barometer",
+   "meaning": "phong vũ biểu, cái đo khí áp, áp kế",
+   "example": "Let's learn the word \"barometer\".",
+   "exampleMeaning": "Cùng học từ “barometer”: phong vũ biểu, cái đo khí áp, áp kế.",
+   "emoji": "",
+   "ipa": "/bəˈrɒm.ɪ.tə(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prose",
+   "meaning": "văn xuôi",
+   "example": "Let's learn the word \"prose\".",
+   "exampleMeaning": "Cùng học từ “prose”: văn xuôi.",
+   "emoji": "",
+   "ipa": "/ˈproʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tomb",
+   "meaning": "mồ, mộ, mả",
+   "example": "Let's learn the word \"tomb\".",
+   "exampleMeaning": "Cùng học từ “tomb”: mồ, mộ, mả.",
+   "emoji": "",
+   "ipa": "/ˈtum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "troop",
+   "meaning": "đoàn, lũ, đàn",
+   "example": "a troop of children",
+   "exampleMeaning": "Một lũ trẻ con",
+   "emoji": "",
+   "ipa": "/ˈtrup/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rehearsal",
+   "meaning": "sự kể lại, sự nhắc lại",
+   "example": "Let's learn the word \"rehearsal\".",
+   "exampleMeaning": "Cùng học từ “rehearsal”: sự kể lại, sự nhắc lại.",
+   "emoji": "",
+   "ipa": "/riˈhɜrsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "manufacture",
+   "meaning": "công nghiệp",
+   "example": "of Vietnam manufacture",
+   "exampleMeaning": "Do Việt-nam sản xuất",
+   "emoji": "",
+   "ipa": "/ˌmænjəˈfæktʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "zebra",
+   "meaning": "ngựa vằn",
+   "example": "striped like a zebra",
+   "exampleMeaning": "Có vằn",
+   "emoji": "🦓",
+   "ipa": "/ˈzibrə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "administrative",
+   "meaning": "hành chính, (thuộc) quản trị",
+   "example": "Let's learn the word \"administrative\".",
+   "exampleMeaning": "Cùng học từ “administrative”: hành chính, (thuộc) quản trị.",
+   "emoji": "",
+   "ipa": "/ədˈmɪnəˌstreɪtɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "assembly",
+   "meaning": "cuộc họp",
+   "example": "the national assembly",
+   "exampleMeaning": "Quốc hội",
+   "emoji": "",
+   "ipa": "/əˈsɛmbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "generalization",
+   "meaning": "sự tổng quát hoá",
+   "example": "Let's learn the word \"generalization\".",
+   "exampleMeaning": "Cùng học từ “generalization”: sự tổng quát hoá.",
+   "emoji": "",
+   "ipa": "/ˌdʒɛnɜrəlɪˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "neat",
+   "meaning": "rõ ràng, rành mạch",
+   "example": "as neat as a new pin",
+   "exampleMeaning": "Sạch gọn như li như lau",
+   "emoji": "",
+   "ipa": "/ˈnit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sloppy",
+   "meaning": "cẩu thả",
+   "example": "Let's learn the word \"sloppy\".",
+   "exampleMeaning": "Cùng học từ “sloppy”: cẩu thả.",
+   "emoji": "",
+   "ipa": "/ˈslɑpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "trunk",
+    "is",
+    "open"
+   ],
+   "reading": "",
+   "meaning": "Cái va li đang mở."
+  },
+  {
+   "tokens": [
+    "I",
+    "thought",
+    "Tom",
+    "wouldn't",
+    "confess"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã nghĩ Tom sẽ không thú nhận."
+  },
+  {
+   "tokens": [
+    "Overall",
+    "I'm",
+    "happy",
+    "with",
+    "the",
+    "result"
+   ],
+   "reading": "",
+   "meaning": "Nhìn chung, tôi hài lòng với kết quả này."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "to",
+    "decorate",
+    "my",
+    "room",
+    "with",
+    "flowers"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích trang trí phòng bằng hoa."
+  },
+  {
+   "tokens": [
+    "The",
+    "apple",
+    "does",
+    "not",
+    "fall",
+    "far",
+    "from",
+    "the",
+    "trunk"
+   ],
+   "reading": "",
+   "meaning": "Hổ phụ sinh hổ tử."
+  }
+ ],
+ "issues": []
+}

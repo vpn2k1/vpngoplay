@@ -1,0 +1,329 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "啊",
+   "meaning": "đấy",
+   "example": "就你一个人去啊！",
+   "exampleMeaning": "Có mình anh đi thôi à!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "à",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "让",
+   "meaning": "bị",
+   "example": "我们不能让对方钻空子。",
+   "exampleMeaning": "Chúng ta không thể để đối phương thừa cơ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ràng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "但",
+   "meaning": "hãy còn, còn nữa",
+   "example": "我是學生，但是他不是。",
+   "exampleMeaning": "Tôi là học sinh, nhưng anh ấy thì không phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自己",
+   "meaning": "mình",
+   "example": "我想自己把工作做完。",
+   "exampleMeaning": "Tôi muốn tự tay hoàn thành công việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìjǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "得",
+   "meaning": "nhất định, có được, kiếm được",
+   "example": "彼得現在不在。",
+   "exampleMeaning": "Peter đang không có ở đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dé",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "可以",
+   "meaning": "tốt, lợi hại, ghê hồn",
+   "example": "您可以随便去哪儿。",
+   "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěyǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "为",
+   "meaning": "cho",
+   "example": "她以为我是医生。",
+   "exampleMeaning": "Cô ấy đã cho rằng tôi là một bác sỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "已经",
+   "meaning": "đã",
+   "example": "我们已经等了那么久。",
+   "exampleMeaning": "Chúng tôi đã chờ đợi bấy lâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐjīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "这样",
+   "meaning": "như thế",
+   "example": "你犯得上这样做吗？",
+   "exampleMeaning": "Mày có đáng phải làm thế này không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèyàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "如果",
+   "meaning": "nếu, nếu như, nếu mà",
+   "example": "如果你喜欢，买就是了。",
+   "exampleMeaning": "Nếu cậu thích thì mua đi là xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rúguǒ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "因为",
+   "meaning": "bởi rằng, tại",
+   "example": "不要看不起有缺点的人，因为每个人都会有缺点的。",
+   "exampleMeaning": "Đừng xem thường những người có khuyết điểm, bởi vì mỗi người đều có thể có khuyết điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "又",
+   "meaning": "lần nữa, nữa, trở lại",
+   "example": "她既学越语又学英语。",
+   "exampleMeaning": "Chị ấy đã học tiếng Việt lại học cả tiếng Anh nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòu",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "只",
+   "meaning": "chỉ có, chỉ có một, duy nhất",
+   "example": "我无奈只得跟随着她。",
+   "exampleMeaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "问题",
+   "meaning": "vấn đề",
+   "example": "现在我来讲第二个问题。",
+   "exampleMeaning": "Bây giờ tôi sẽ trình bày vấn đề thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèntí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "它",
+   "meaning": "nó",
+   "example": "它一定是個生日蛋糕。",
+   "exampleMeaning": "Đây chắc hẳn là một cái bánh sinh nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tā",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "但是",
+   "meaning": "mà",
+   "example": "你的车很快，但是我的更快。",
+   "exampleMeaning": "Xe của mày rất nhanh, nhưng xe của tao nhanh hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dànshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "该",
+   "meaning": "đáng",
+   "example": "你该早一点来的。",
+   "exampleMeaning": "Lẽ ra bạn nên đến sớm hơn một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "更",
+   "meaning": "thêm",
+   "example": "这样做，一来可以认识更多的中国朋友，二来可以锻炼你的口语。",
+   "exampleMeaning": "Làm thế này, một là có thể biết nhiều bạn bè Trung Quốc, hai là có thể luyện khẩu ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "可能",
+   "meaning": "có lẽ",
+   "example": "可能你工作得太拼命？",
+   "exampleMeaning": "Có lẽ anh đang làm việc quá liều mạng?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěnéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "才",
+   "meaning": "vừa mới",
+   "example": "他才从图书馆回来。",
+   "exampleMeaning": "Anh ấy vừa mới ở thư viện về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cái",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "的",
+    "车",
+    "很",
+    "快",
+    "但是",
+    "我",
+    "的",
+    "更",
+    "快"
+   ],
+   "reading": "nǐ de chē hěn kuài dànshì wǒ de gèng kuài",
+   "meaning": "Xe của mày rất nhanh, nhưng xe của tao nhanh hơn."
+  },
+  {
+   "tokens": [
+    "为什么",
+    "现在",
+    "才",
+    "来"
+   ],
+   "reading": "wèishénme xiànzài cái lái",
+   "meaning": "Sao bây giờ mới đến?"
+  },
+  {
+   "tokens": [
+    "为什么",
+    "现在",
+    "才",
+    "到"
+   ],
+   "reading": "wèishénme xiànzài cái dào",
+   "meaning": "Sao bây giờ mới đến."
+  },
+  {
+   "tokens": [
+    "你",
+    "犯得上",
+    "这样",
+    "做",
+    "吗"
+   ],
+   "reading": "nǐ fàndeshàng zhèyàng zuò ma",
+   "meaning": "Mày có đáng phải làm thế này không?"
+  },
+  {
+   "tokens": [
+    "我",
+    "是",
+    "学生",
+    "但是",
+    "他",
+    "不",
+    "是"
+   ],
+   "reading": "wǒ shì xuésheng dànshì tā bù shì",
+   "meaning": "Tôi là học sinh, nhưng anh ấy thì không phải."
+  }
+ ],
+ "issues": []
+}

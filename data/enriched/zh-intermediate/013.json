@@ -1,0 +1,326 @@
+{
+ "lesson": 13,
+ "draft": true,
+ "words": [
+  {
+   "term": "骗",
+   "meaning": "lừa, lừa đảo (ai)",
+   "example": "骗人。",
+   "exampleMeaning": "Lừa người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "可怜",
+   "meaning": "thương",
+   "example": "先生，行行好，可怜可怜我吧！",
+   "exampleMeaning": "Ông ơi, làm ơn làm phước, thương xót giùm cho tôi!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kělián",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "毒",
+   "meaning": "độc, có chất độc",
+   "example": "他吃了毒蘑菇。",
+   "exampleMeaning": "Nó ăn phải nấm độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "吐",
+   "meaning": "nhả ra",
+   "example": "这人最不像话，随地吐痰。",
+   "exampleMeaning": "Cái người này là kinh tởm nhất, khạc nhổ bừa bãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǔ",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中央",
+   "meaning": "giữa",
+   "example": "湖的中央有个亭子。",
+   "exampleMeaning": "Giữa hồ có một cái đình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngyāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "屋",
+   "meaning": "nhà, chuồng",
+   "example": "她进屋前擦了鞋。",
+   "exampleMeaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "启动",
+   "meaning": "khởi động",
+   "example": "启动继电器。",
+   "exampleMeaning": "Khởi động rơ-le.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "年龄",
+   "meaning": "tuổi",
+   "example": "我们来学“年龄”这个词。",
+   "exampleMeaning": "Cùng học từ “年龄”: tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánlíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "可惜",
+   "meaning": "tiếc",
+   "example": "可惜这是真的。",
+   "exampleMeaning": "Tiếc rằng cái đó là sự thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "滚",
+   "meaning": "lăn, vần",
+   "example": "荷叶上滚着亮晶晶的水珠。",
+   "exampleMeaning": "Những giọt nước long lanh lăn trên tàu lá sen.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "回忆",
+   "meaning": "nhớ lại",
+   "example": "童年生活的回忆。",
+   "exampleMeaning": "Nhớ lại thời thơ ấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíyì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逃",
+   "meaning": "trốn thoát, tránh thoát, thoát khỏi",
+   "example": "我们来学“逃”这个词。",
+   "exampleMeaning": "Cùng học từ “逃”: trốn thoát, tránh thoát, thoát khỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táo",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打击",
+   "meaning": "trấn áp",
+   "example": "不应该打击群众的积极性。",
+   "exampleMeaning": "Không nên đả kích tính tích cực của quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎjī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "之外",
+   "meaning": "ngoài ra",
+   "example": "除此之外，别无办法。",
+   "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīwài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "熟悉",
+   "meaning": "hiểu rõ",
+   "example": "他们彼此很熟悉。",
+   "exampleMeaning": "Hai đứa chúng nó hiểu nhau rất rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shúxī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "撞",
+   "meaning": "gặp",
+   "example": "不想见他，偏撞上他。",
+   "exampleMeaning": "Không muốn gặp anh ấy, nhưng lại cứ gặp phải anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "好运",
+   "meaning": "vận may",
+   "example": "我们来学“好运”这个词。",
+   "exampleMeaning": "Cùng học từ “好运”: vận may.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoyùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "狂",
+   "meaning": "điên, cuồng, mất trí",
+   "example": "你这 话可说得 有点儿狂。",
+   "exampleMeaning": "Câu này anh nói hơi ngông cuồng đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuáng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "欠",
+   "meaning": "nợ, hàm ơn",
+   "example": "万事具备，只欠东风。",
+   "exampleMeaning": "Mọi thứ đã đầy đủ, chỉ thiếu gió đông; mọi việc đã sẵn sàng, chỉ thiếu gió đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "人士",
+   "meaning": "nhân sĩ",
+   "example": "民主人士。",
+   "exampleMeaning": "Nhân sĩ dân chủ.",
+   "emoji": "🧑",
+   "ipa": "",
+   "pinyin": "rénshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "她",
+    "进",
+    "屋",
+    "前",
+    "擦",
+    "了",
+    "鞋"
+   ],
+   "reading": "tā jìn wū qián cā le xié",
+   "meaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "这些",
+    "蚕",
+    "的",
+    "吐丝",
+    "量",
+    "很",
+    "大"
+   ],
+   "reading": "zhèxiē cán de tǔsī liáng hěn dà",
+   "meaning": "Lượng tơ nhả ra của những con tằm này rất lớn."
+  },
+  {
+   "tokens": [
+    "可惜",
+    "这",
+    "是",
+    "真",
+    "的"
+   ],
+   "reading": "kěxī zhè shì zhēn de",
+   "meaning": "Tiếc rằng cái đó là sự thật."
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  }
+ ],
+ "issues": []
+}

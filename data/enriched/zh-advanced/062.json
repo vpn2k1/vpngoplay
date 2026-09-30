@@ -1,0 +1,326 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "拌",
+   "meaning": "trộn, trộn lẫn, pha lẫn",
+   "example": "我们来学“拌”这个词。",
+   "exampleMeaning": "Cùng học từ “拌”: trộn, trộn lẫn, pha lẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "机动",
+   "meaning": "cơ động",
+   "example": "机动力量。",
+   "exampleMeaning": "Lực lượng cơ động.",
+   "emoji": "🚂",
+   "ipa": "",
+   "pinyin": "jīdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "幻觉",
+   "meaning": "ảo giác",
+   "example": "你看到的都是幻觉。",
+   "exampleMeaning": "Những thứ mà mày thấy đều là ảo giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànjué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "艰辛",
+   "meaning": "gian khổ",
+   "example": "历尽艰辛，方有今日。",
+   "exampleMeaning": "Trải qua gian khổ, mới có được ngày hôm nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过滤",
+   "meaning": "lọc (bột, nước…)",
+   "example": "过滤嘴香烟。",
+   "exampleMeaning": "Thuốc lá có đầu lọc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòlǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "偏见",
+   "meaning": "phiến diện",
+   "example": "我们来学“偏见”这个词。",
+   "exampleMeaning": "Cùng học từ “偏见”: phiến diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piānjiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "攀",
+   "meaning": "leo, trèo, leo trèo",
+   "example": "攀着绳子往上爬。",
+   "exampleMeaning": "Bám vào dây trèo lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pān",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "气愤",
+   "meaning": "căm phẫn",
+   "example": "他听了这种不三不四的话非常气愤。",
+   "exampleMeaning": "Anh ấy nghe mấy câu nói chẳng ra gì này vô cùng căm phẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìfèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "保暖",
+   "meaning": "giữ ấm",
+   "example": "我们来学“保暖”这个词。",
+   "exampleMeaning": "Cùng học từ “保暖”: giữ ấm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎonuǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阶层",
+   "meaning": "tầng lớp",
+   "example": "副农阶层",
+   "exampleMeaning": "Tầng lớp phú nông",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēcéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抽屉",
+   "meaning": "ngăn kéo",
+   "example": "我们来学“抽屉”这个词。",
+   "exampleMeaning": "Cùng học từ “抽屉”: ngăn kéo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōuti",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会场",
+   "meaning": "hội trường",
+   "example": "会场内，掌声、哨声、喊声、笑声乱成了一锅粥。",
+   "exampleMeaning": "Trong hội trường, tiếng vỗ tay, tiếng còi, tiếng hò hét, tiếng cười hỗn loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "知觉",
+   "meaning": "phát hiện",
+   "example": "我不出手,敌不知觉。",
+   "exampleMeaning": "Tôi không ra tay, địch không phát hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhījué",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "审核",
+   "meaning": "xét duyệt",
+   "example": "审核经费。",
+   "exampleMeaning": "Xét duyệt kinh phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěnhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "飞翔",
+   "meaning": "bay",
+   "example": "鸽子在天空飞翔。",
+   "exampleMeaning": "Chim bồ câu bay lượn trên không trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēixiáng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大吃一惊",
+   "meaning": "vô cùng ngạc nhiên",
+   "example": "我们来学“大吃一惊”这个词。",
+   "exampleMeaning": "Cùng học từ “大吃一惊”: vô cùng ngạc nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàchīyījīng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "零售",
+   "meaning": "bán lẻ",
+   "example": "本店只零售， 不批发。",
+   "exampleMeaning": "Cửa hàng chỉ bán lẻ, không bán sỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língshòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "叙述",
+   "meaning": "tự thuật",
+   "example": "我们来学“叙述”这个词。",
+   "exampleMeaning": "Cùng học từ “叙述”: tự thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "山顶",
+   "meaning": "đỉnh núi",
+   "example": "我们来学“山顶”这个词。",
+   "exampleMeaning": "Cùng học từ “山顶”: đỉnh núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāndǐng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敏锐",
+   "meaning": "nhạy bén (cảm giác)",
+   "example": "我们来学“敏锐”这个词。",
+   "exampleMeaning": "Cùng học từ “敏锐”: nhạy bén (cảm giác).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǐnruì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "昨天",
+    "抵达",
+    "东京"
+   ],
+   "reading": "tā zuótiān dǐdá dōngjīng",
+   "meaning": "Anh ấy đã đến Tokyo hôm qua."
+  },
+  {
+   "tokens": [
+    "他",
+    "的",
+    "身体",
+    "太",
+    "瘦",
+    "了"
+   ],
+   "reading": "tā de shēntǐ tài shòu le",
+   "meaning": "Mình anh ta gầy quá."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  }
+ ],
+ "issues": []
+}

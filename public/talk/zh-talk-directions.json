@@ -1,0 +1,86 @@
+{
+ "id": "zh-talk-directions",
+ "lang": "zh",
+ "order": 4,
+ "level": "HSK2",
+ "icon": "directions",
+ "title": "Hỏi đường",
+ "scene": "Bạn hỏi đường đến ga tàu điện ngầm ở Thượng Hải.",
+ "roles": {
+  "A": "Người đi đường",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "B",
+   "text": "请问，地铁站怎么走？",
+   "reading": "Qǐngwèn, dìtiězhàn zěnme zǒu?",
+   "meaning": "Cho hỏi, ga tàu điện ngầm đi thế nào?"
+  },
+  {
+   "role": "A",
+   "text": "一直往前走，到第二个路口往右拐。",
+   "reading": "Yìzhí wǎng qián zǒu, dào dì-èr ge lùkǒu wǎng yòu guǎi.",
+   "meaning": "Cứ đi thẳng, đến ngã tư thứ hai thì rẽ phải."
+  },
+  {
+   "role": "B",
+   "text": "离这儿远吗？",
+   "reading": "Lí zhèr yuǎn ma?",
+   "meaning": "Có xa đây không?"
+  },
+  {
+   "role": "A",
+   "text": "不太远，走路十分钟左右。",
+   "reading": "Bú tài yuǎn, zǒulù shí fēnzhōng zuǒyòu.",
+   "meaning": "Không xa lắm, đi bộ khoảng mười phút."
+  },
+  {
+   "role": "B",
+   "text": "对不起，您能再说一遍吗？",
+   "reading": "Duìbuqǐ, nín néng zài shuō yí biàn ma?",
+   "meaning": "Xin lỗi, bác có thể nói lại một lần nữa không?"
+  },
+  {
+   "role": "A",
+   "text": "往前走，第二个路口右拐，就在银行旁边。",
+   "reading": "Wǎng qián zǒu, dì-èr ge lùkǒu yòu guǎi, jiù zài yínháng pángbiān.",
+   "meaning": "Đi thẳng, ngã tư thứ hai rẽ phải, ga ngay cạnh ngân hàng."
+  },
+  {
+   "role": "B",
+   "text": "明白了，非常感谢！",
+   "reading": "Míngbai le, fēicháng gǎnxiè!",
+   "meaning": "Cháu hiểu rồi, cảm ơn bác rất nhiều!"
+  },
+  {
+   "role": "A",
+   "text": "不客气。",
+   "reading": "Bú kèqi.",
+   "meaning": "Không có gì."
+  }
+ ],
+ "phrases": [
+  {
+   "text": "请问，厕所在哪儿？",
+   "reading": "Qǐngwèn, cèsuǒ zài nǎr?",
+   "meaning": "Cho hỏi, nhà vệ sinh ở đâu?"
+  },
+  {
+   "text": "往右拐。",
+   "reading": "Wǎng yòu guǎi.",
+   "meaning": "Rẽ phải.",
+   "note": "Rẽ trái: 往左拐 (wǎng zuǒ guǎi)."
+  },
+  {
+   "text": "离这儿远吗？",
+   "reading": "Lí zhèr yuǎn ma?",
+   "meaning": "Có xa đây không?"
+  },
+  {
+   "text": "您能再说一遍吗？",
+   "reading": "Nín néng zài shuō yí biàn ma?",
+   "meaning": "Ông bà nói lại lần nữa được không?"
+  }
+ ]
+}

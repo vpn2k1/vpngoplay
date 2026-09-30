@@ -1,0 +1,98 @@
+{
+ "id": "zh-talk-hotel",
+ "lang": "zh",
+ "order": 5,
+ "level": "HSK3",
+ "icon": "hotel",
+ "title": "Nhận phòng khách sạn",
+ "scene": "Bạn đến khách sạn ở Bắc Kinh và làm thủ tục nhận phòng.",
+ "roles": {
+  "A": "Lễ tân",
+  "B": "Bạn"
+ },
+ "lines": [
+  {
+   "role": "A",
+   "text": "您好，欢迎光临。请问您有预订吗？",
+   "reading": "Nín hǎo, huānyíng guānglín. Qǐngwèn nín yǒu yùdìng ma?",
+   "meaning": "Xin chào, hoan nghênh quý khách. Quý khách có đặt phòng trước không ạ?"
+  },
+  {
+   "role": "B",
+   "text": "有，我在网上订了一个双人间。",
+   "reading": "Yǒu, wǒ zài wǎngshàng dìng le yí ge shuāngrénjiān.",
+   "meaning": "Có, tôi đã đặt một phòng đôi trên mạng."
+  },
+  {
+   "role": "A",
+   "text": "请给我看一下您的护照。",
+   "reading": "Qǐng gěi wǒ kàn yíxià nín de hùzhào.",
+   "meaning": "Xin cho tôi xem hộ chiếu của quý khách."
+  },
+  {
+   "role": "B",
+   "text": "给您。房费包括早餐吗？",
+   "reading": "Gěi nín. Fángfèi bāokuò zǎocān ma?",
+   "meaning": "Đây ạ. Tiền phòng có bao gồm bữa sáng không?"
+  },
+  {
+   "role": "A",
+   "text": "包括，早餐时间是七点到十点。",
+   "reading": "Bāokuò, zǎocān shíjiān shì qī diǎn dào shí diǎn.",
+   "meaning": "Có ạ, giờ ăn sáng là từ bảy đến mười giờ."
+  },
+  {
+   "role": "B",
+   "text": "房间里有无线网吗？",
+   "reading": "Fángjiān lǐ yǒu wúxiànwǎng ma?",
+   "meaning": "Trong phòng có wifi không?"
+  },
+  {
+   "role": "A",
+   "text": "有，密码在房卡上。您的房间在八楼。",
+   "reading": "Yǒu, mìmǎ zài fángkǎ shàng. Nín de fángjiān zài bā lóu.",
+   "meaning": "Có ạ, mật khẩu ghi trên thẻ phòng. Phòng của quý khách ở tầng tám."
+  },
+  {
+   "role": "B",
+   "text": "几点退房？",
+   "reading": "Jǐ diǎn tuìfáng?",
+   "meaning": "Mấy giờ trả phòng?"
+  },
+  {
+   "role": "A",
+   "text": "中午十二点以前。",
+   "reading": "Zhōngwǔ shí'èr diǎn yǐqián.",
+   "meaning": "Trước mười hai giờ trưa."
+  },
+  {
+   "role": "B",
+   "text": "好的，谢谢！",
+   "reading": "Hǎo de, xièxie!",
+   "meaning": "Được rồi, cảm ơn!"
+  }
+ ],
+ "phrases": [
+  {
+   "text": "我在网上订了房间。",
+   "reading": "Wǒ zài wǎngshàng dìng le fángjiān.",
+   "meaning": "Tôi đã đặt phòng trên mạng."
+  },
+  {
+   "text": "包括早餐吗？",
+   "reading": "Bāokuò zǎocān ma?",
+   "meaning": "Có bao gồm bữa sáng không?"
+  },
+  {
+   "text": "几点退房？",
+   "reading": "Jǐ diǎn tuìfáng?",
+   "meaning": "Mấy giờ trả phòng?"
+  },
+  {
+   "text": "密码是多少？",
+   "reading": "Mìmǎ shì duōshao?",
+   "meaning": "Mật khẩu là gì?",
+   "note": "Hỏi mật khẩu dùng 多少 vì nó là một dãy số."
+  }
+ ]
+}

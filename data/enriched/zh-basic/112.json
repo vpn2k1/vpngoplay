@@ -1,0 +1,322 @@
+{
+ "lesson": 112,
+ "draft": true,
+ "words": [
+  {
+   "term": "局",
+   "meaning": "cục",
+   "example": "局长对我们一风吹的做法提出了批评。",
+   "exampleMeaning": "Việc cục trưởng bỏ qua tất cả cho chúng tôi đã gây ra sự phê bình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jú",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "未来",
+   "meaning": "tương lai",
+   "example": "未来二十四小时内将有暴雨。",
+   "exampleMeaning": "Trong hai mươi bốn giờ tới sẽ có mưa bão.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèilái",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "看来",
+   "meaning": "có vẻ",
+   "example": "她一个人看来看去，大约看了半个小时。",
+   "exampleMeaning": "Cô ngắm đi ngắm lại một mình độ nửa giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kànlai",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "严重",
+   "meaning": "nghiêm trọng",
+   "example": "严重的后果",
+   "exampleMeaning": "Hậu quả nghiêm trọng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánzhòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "包括",
+   "meaning": "gồm",
+   "example": "怀念亲人，也包括在怀乡之情中。",
+   "exampleMeaning": "Nỗi nhớ người thân chất chứa trong nỗi nhớ quê nhà",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bāokuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "法律",
+   "meaning": "pháp luật",
+   "example": "我们来学“法律”这个词。",
+   "exampleMeaning": "Cùng học từ “法律”: pháp luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎlǜ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "项",
+   "meaning": "khoản tiền, hạng",
+   "example": "我十分反对这个项目。",
+   "exampleMeaning": "Tôi hoàn toàn phản đối kế hoạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "底",
+   "meaning": "như vậy",
+   "example": "长歌底有情。",
+   "exampleMeaning": "Trường ca trữ tình như vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǐ",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不管",
+   "meaning": "mặc",
+   "example": "不管侵略者什么时候来, 都必被消灭。",
+   "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùguǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "解释",
+   "meaning": "giải thích",
+   "example": "解释词句。",
+   "exampleMeaning": "Nói rõ hàm ý của từ ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "历史",
+   "meaning": "lịch sử",
+   "example": "这件事早已成为历史。",
+   "exampleMeaning": "Việc đó đã sớm đi vào lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìshǐ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "之一",
+   "meaning": "một trong những",
+   "example": "哈巴羅夫斯克是俄羅斯遠東地區最大的城市之一。",
+   "exampleMeaning": "Khabarovsk là một trong những thành phố lớn nhất vùng Viễn Đông nước Nga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīyī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "项目",
+   "meaning": "hạng mục",
+   "example": "首先兴办关键性的建设项目。",
+   "exampleMeaning": "Trước hết phải thực hiện những hạng mục then chốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "梦",
+   "meaning": "nằm mơ thấy, giấc mơ, giấc mộng",
+   "example": "人人都愿意相信美梦可以成真。",
+   "exampleMeaning": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mèng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "单",
+   "meaning": "cái kéo liềm (để tỉa cành cây trên cao)",
+   "example": "汤姆一直都是单身汉。",
+   "exampleMeaning": "Tom luôn luôn độc thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dān",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "非",
+   "meaning": "không",
+   "example": "她非常周到和耐心。",
+   "exampleMeaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēi",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "总统",
+   "meaning": "tổng thống",
+   "example": "美国总统",
+   "exampleMeaning": "Tổng thống Mỹ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngtǒng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "似乎",
+   "meaning": "dường như",
+   "example": "他张开双臂, 似乎要拥抱这个世界。",
+   "exampleMeaning": "Nó mở rộng hai cánh tay như muốn ôm trọn cả thế giới này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sìhū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "应",
+   "meaning": "đáp, đáp ứng, đồng ý",
+   "example": "玩这些电脑游戏要反应灵敏。",
+   "exampleMeaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "几乎",
+   "meaning": "gần",
+   "example": "今天到会的几乎有五千人。",
+   "exampleMeaning": "Hôm nay có gần 50 ngàn người đến dự hội nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīhū",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "十分",
+    "反对",
+    "这个",
+    "项目"
+   ],
+   "reading": "wǒ shífēn fǎnduì zhège xiàngmù",
+   "meaning": "Tôi hoàn toàn phản đối kế hoạch."
+  },
+  {
+   "tokens": [
+    "你",
+    "非常",
+    "勇敢"
+   ],
+   "reading": "nǐ fēicháng yǒnggǎn",
+   "meaning": "Bạn rất dũng cảm."
+  },
+  {
+   "tokens": [
+    "您",
+    "去",
+    "过",
+    "非洲",
+    "吗"
+   ],
+   "reading": "nín qù guo fēizhōu ma",
+   "meaning": "Bạn đã tới châu Phi bao giờ chưa?"
+  },
+  {
+   "tokens": [
+    "你",
+    "应该",
+    "去",
+    "睡觉",
+    "了",
+    "吧"
+   ],
+   "reading": "nǐ yīnggāi qù shuìjiào le ba",
+   "meaning": "Bạn nên đi ngủ đi."
+  },
+  {
+   "tokens": [
+    "我们",
+    "应该",
+    "互相",
+    "帮助"
+   ],
+   "reading": "wǒmen yīnggāi hùxiāng bāngzhù",
+   "meaning": "Ta nên giúp đỡ nhau."
+  }
+ ],
+ "issues": []
+}

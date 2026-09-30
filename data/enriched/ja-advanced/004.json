@@ -1,0 +1,336 @@
+{
+ "lesson": 4,
+ "draft": true,
+ "words": [
+  {
+   "term": "恐れ",
+   "meaning": "sự sợ, sự sợ hãi",
+   "example": "彼は死を恐れなかった。",
+   "exampleMeaning": "Anh ấy không sợ chết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "往診",
+   "meaning": "gọi vốn của hãng",
+   "example": "「往診」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “往診”: gọi vốn của hãng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真下",
+   "meaning": "right under (EN)",
+   "example": "「真下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真下”: right under (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断える",
+   "meaning": "dừng, ngừng, ngớt",
+   "example": "「断える」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “断える”: dừng, ngừng, ngớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "もたらす",
+   "meaning": "bảo, khiến, sai (ai làm việc gì)",
+   "example": "彼の見地によれば、英語による支配は人類の遺産を脅かす。「単一の言語」は、カネと消費主義に取り憑かれた「単一の考え方」に導くという、より悪しき危険をもたらす。",
+   "exampleMeaning": "Theo quan điểm của anh ấy, sự thống trị của tiếng Anh đang đe dọa đến những di sản của loài người. Điều này còn gây ra một rủi ro xấu hơn: thứ \"ngôn ngữ duy nhất\" này sẽ dẫn đến một \"cách suy nghĩ duy nhất\" - cách suy nghĩ mà khiến chúng ta bị ám ảnh bởi đồng tiền và chủ nghĩa tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "使命",
+   "meaning": "sứ mệnh, nhiệm vụ",
+   "example": "私は重大使命をおびている。",
+   "exampleMeaning": "Tôi đang gánh vác một sứ mệnh trọng đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "いざ",
+   "meaning": "bây giờ, lúc này, giờ đây",
+   "example": "「いざ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “いざ”: bây giờ, lúc này, giờ đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "入手",
+   "meaning": "đạt được, thu được, giành được",
+   "example": "「入手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “入手”: đạt được, thu được, giành được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "農地",
+   "meaning": "đất nông nghiệp",
+   "example": "「農地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農地”: đất nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ふさわしい",
+   "meaning": "tương xứng, xứng đáng",
+   "example": "彼はわがチームの主将にふさわしい。",
+   "exampleMeaning": "Anh ấy xứng đáng trở thành đội trưởng của đội chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "横綱",
+   "meaning": "cái tốt nhất",
+   "example": "「横綱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “横綱”: cái tốt nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "コメント",
+   "meaning": "lời bình luận",
+   "example": "「コメント」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “コメント”: lời bình luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "メーカー",
+   "meaning": "người chế tạo, người sản xuất",
+   "example": "我々はその自動車メーカーに部品を供給している。",
+   "exampleMeaning": "Chúng tôi cung cấp phụ tùng cho nhà sản xuất xe hơi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "内心",
+   "meaning": "tâm, tâm trí, tinh thần",
+   "example": "「内心」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内心”: tâm, tâm trí, tinh thần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自転",
+   "meaning": "sự quay, sự xoay vòng",
+   "example": "自転車で通勤しています。",
+   "exampleMeaning": "Tôi đi làm bằng xe đạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "害する",
+   "meaning": "làm hại, gây tai hại, làm tổn hại",
+   "example": "「害する」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “害する”: làm hại, gây tai hại, làm tổn hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気質",
+   "meaning": "tính nết, tính cách",
+   "example": "「気質」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気質”: tính nết, tính cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "楽譜",
+   "meaning": "số điểm, số bàn thắng",
+   "example": "「楽譜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “楽譜”: số điểm, số bàn thắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "早急",
+   "meaning": "gấp, cần kíp, khẩn cấp",
+   "example": "アフリカで飢えに苦しんでいる人々に、早急な援助が必要である。",
+   "exampleMeaning": "Những người chịu nạn đói ở châu Phi cần sự trợ giúp khẩn cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寛容",
+   "meaning": "sự nhịn (không làm)",
+   "example": "「寛容」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “寛容”: sự nhịn (không làm).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "重大",
+    "使命",
+    "を",
+    "おびている"
+   ],
+   "reading": "わたしはじゅうだいしめいをおびている",
+   "meaning": "Tôi đang gánh vác một sứ mệnh trọng đại."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "その",
+    "自動車",
+    "メーカー",
+    "に",
+    "部品",
+    "を",
+    "供給",
+    "している"
+   ],
+   "reading": "われわれはそのじどうしゃメーカーにぶひんをきょうきゅうしている",
+   "meaning": "Chúng tôi cung cấp phụ tùng cho nhà sản xuất xe hơi"
+  },
+  {
+   "tokens": [
+    "隣の",
+    "子供",
+    "が",
+    "友達",
+    "に",
+    "新品",
+    "の",
+    "自転車",
+    "を",
+    "見せびらかしていた"
+   ],
+   "reading": "となりのこどもがともだちにしんぴんのじてんしゃをみせびらかしていた",
+   "meaning": "Đứa trẻ con hàng xóm đang khoe với bạn bè chiếc xe đạp mới của nó."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "自転車",
+    "で",
+    "通学",
+    "する"
+   ],
+   "reading": "かれはじてんしゃでつうがくする",
+   "meaning": "Anh ấy đi học bằng xe đạp."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "死",
+    "を",
+    "恐れなかった"
+   ],
+   "reading": "かれはしをおそれなかった",
+   "meaning": "Anh ấy không sợ chết."
+  }
+ ],
+ "issues": []
+}

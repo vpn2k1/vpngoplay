@@ -1,0 +1,318 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "wooden",
+   "meaning": "bằng gỗ",
+   "example": "a wooden stare",
+   "exampleMeaning": "Cái nhìn đờ đẫn",
+   "emoji": "",
+   "ipa": "/ˈwʊdən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "envy",
+   "meaning": "thèm muốn, ghen tị, đố kỵ",
+   "example": "Many people envy Tom's success.",
+   "exampleMeaning": "Nhiều người ghen tị với sự thành công của Tom.",
+   "emoji": "",
+   "ipa": "/ˈɛnvi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "beauty",
+   "meaning": "vẻ đẹp, sắc đẹp, nhan sắc",
+   "example": "Beauty is a gift from nature.",
+   "exampleMeaning": "Vẻ đẹp là quà tặng từ thiên nhiên.",
+   "emoji": "",
+   "ipa": "/ˈbjuti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "secret",
+   "meaning": "kín đáo, thầm kín, bí mật",
+   "example": "this news must be kept secret",
+   "exampleMeaning": "Tin này phải giữ bí mật",
+   "emoji": "",
+   "ipa": "/ˈsikrət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "skiing",
+   "meaning": "môn xki",
+   "example": "Who do you usually go skiing with?",
+   "exampleMeaning": "Bạn thường đi trượt tuyết với ai?",
+   "emoji": "",
+   "ipa": "/ˈskiɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lack",
+   "meaning": "thiếu, không có",
+   "example": "I'm sick and tired of his lack of taste.",
+   "exampleMeaning": "Tôi phát bệnh và chán nản vì sự thiếu thẩm mỹ của hắn.",
+   "emoji": "",
+   "ipa": "/ˈlæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sunlight",
+   "meaning": "nắng",
+   "example": "Due to the intense sunlight, his back was sunburnt.",
+   "exampleMeaning": "Lưng anh ấy bị cháy nắng vì ánh nắng mặt trời gay gắt.",
+   "emoji": "",
+   "ipa": "/ˈsənˌlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "direction",
+   "meaning": "hướng",
+   "example": "Which direction will he choose?",
+   "exampleMeaning": "Anh ấy sẽ chọn hướng nào?",
+   "emoji": "",
+   "ipa": "/daɪˈrɛkʃɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "perfectly",
+   "meaning": "hoàn toàn, hoàn hảo",
+   "example": "This car is perfectly suited to my needs.",
+   "exampleMeaning": "Chiếc ô tô này hoàn toàn phù hợp với nhu cầu của tôi.",
+   "emoji": "",
+   "ipa": "/ˈpɜrfəkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pollute",
+   "meaning": "làm ô uế, làm mất thiêng liêng",
+   "example": "Let's learn the word \"pollute\".",
+   "exampleMeaning": "Cùng học từ “pollute”: làm ô uế, làm mất thiêng liêng.",
+   "emoji": "",
+   "ipa": "/pəˈlut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fancy",
+   "meaning": "lạ lùng, vô lý",
+   "example": "at a fancy price",
+   "exampleMeaning": "Với giá đắt lạ lùng",
+   "emoji": "",
+   "ipa": "/ˈfænsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "complaint",
+   "meaning": "phàn nàn",
+   "example": "to have no cause of complaint",
+   "exampleMeaning": "Không có gì phải phàn nàn cả",
+   "emoji": "",
+   "ipa": "/kəmˈpleɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fashion",
+   "meaning": "mốt, thời trang",
+   "example": "dressed in the height of fashion",
+   "exampleMeaning": "Ăn mặc đúng mốt",
+   "emoji": "",
+   "ipa": "/ˈfæʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "toe",
+   "meaning": "ngón chân",
+   "example": "Her toe bleeds.",
+   "exampleMeaning": "Ngón chân của nó chảy máu.",
+   "emoji": "",
+   "ipa": "/ˈtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dentist",
+   "meaning": "nha sĩ, thầy thuốc chữa răng",
+   "example": "I need to go to the dentist because I have a toothache.",
+   "exampleMeaning": "Tôi cần phải đi đến nha sĩ vì tôi bị đau răng.",
+   "emoji": "",
+   "ipa": "/ˈdɛnɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "relaxed",
+   "meaning": "thanh thản, thoải mái",
+   "example": "Let's learn the word \"relaxed\".",
+   "exampleMeaning": "Cùng học từ “relaxed”: thanh thản, thoải mái.",
+   "emoji": "",
+   "ipa": "/riˈlækst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bored",
+   "meaning": "nhàm chán, chán nản",
+   "example": "I'm bored because I have nothing to do.",
+   "exampleMeaning": "Tôi chán vì tôi không có gì để làm cả.",
+   "emoji": "",
+   "ipa": "/ˈbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "explore",
+   "meaning": "thăm dò, thám hiểm",
+   "example": "Let's learn the word \"explore\".",
+   "exampleMeaning": "Cùng học từ “explore”: thăm dò, thám hiểm.",
+   "emoji": "",
+   "ipa": "/ɪksˈplɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overseas",
+   "meaning": "nước ngoài",
+   "example": "The number of Japanese going overseas has been increasing year by year.",
+   "exampleMeaning": "Số lượng người Nhật sang nước ngoài càng ngày càng tăng lên theo từng năm.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˈsiz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "shape",
+   "meaning": "hình, hình dạng, hình thù",
+   "example": "to get one's ideas into shape",
+   "exampleMeaning": "Sắp xếp ý kiến của mình cho gọn ghẽ",
+   "emoji": "",
+   "ipa": "/ʃeɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Her",
+    "toe",
+    "bleeds"
+   ],
+   "reading": "",
+   "meaning": "Ngón chân của nó chảy máu."
+  },
+  {
+   "tokens": [
+    "It's",
+    "my",
+    "secret",
+    "garden"
+   ],
+   "reading": "",
+   "meaning": "Đó là khu vườn bí mật của tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "feel",
+    "very",
+    "relaxed"
+   ],
+   "reading": "",
+   "meaning": "Tôi thấy rất thư giãn."
+  },
+  {
+   "tokens": [
+    "Sunlight",
+    "flooded",
+    "the",
+    "room"
+   ],
+   "reading": "",
+   "meaning": "Ánh nắng tràn ngập căn phòng."
+  },
+  {
+   "tokens": [
+    "It's",
+    "out",
+    "of",
+    "fashion"
+   ],
+   "reading": "",
+   "meaning": "Nó lỗi thời rồi."
+  }
+ ],
+ "issues": []
+}

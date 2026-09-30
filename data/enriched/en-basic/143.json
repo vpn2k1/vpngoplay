@@ -1,0 +1,322 @@
+{
+ "lesson": 143,
+ "draft": true,
+ "words": [
+  {
+   "term": "souvenir",
+   "meaning": "vật kỷ niệm",
+   "example": "This will be a good souvenir of my trip around the United States.",
+   "exampleMeaning": "Cái này sẽ là một kỷ niệm tốt của cuộc du ngoạn xung quanh nước Mỹ.",
+   "emoji": "",
+   "ipa": "/ˌsuvəˈnɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mislead",
+   "meaning": "làm cho lạc đường, làm cho lạc lối",
+   "example": "Let's learn the word \"mislead\".",
+   "exampleMeaning": "Cùng học từ “mislead”: làm cho lạc đường, làm cho lạc lối.",
+   "emoji": "",
+   "ipa": "/mɪˈslid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tension",
+   "meaning": "sự căng",
+   "example": "to ease tension",
+   "exampleMeaning": "Giảm nhẹ sự căng thẳng",
+   "emoji": "",
+   "ipa": "/ˈtɛnʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rolling",
+   "meaning": "trôi qua",
+   "example": "the rolling years",
+   "exampleMeaning": "Năm tháng trôi qua",
+   "emoji": "",
+   "ipa": "/ˈroʊlɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "neighborhood",
+   "meaning": "hàng xóm",
+   "example": "Cookie is the neighborhood dog.",
+   "exampleMeaning": "Cookie là con chó của hàng xóm chúng tôi.",
+   "emoji": "",
+   "ipa": "/ˈneɪbɜrˌhʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "encyclopedia",
+   "meaning": "bộ sách bách khoa",
+   "example": "Let's learn the word \"encyclopedia\".",
+   "exampleMeaning": "Cùng học từ “encyclopedia”: bộ sách bách khoa.",
+   "emoji": "",
+   "ipa": "/ɪnˌsaɪkləˈpiːdi.ə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "creator",
+   "meaning": "người sáng tạo, người tạo nên",
+   "example": "Let's learn the word \"creator\".",
+   "exampleMeaning": "Cùng học từ “creator”: người sáng tạo, người tạo nên.",
+   "emoji": "",
+   "ipa": "/kriˈeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "parking",
+   "meaning": "bãi đỗ",
+   "example": "I got a ticket for parking wrongly.",
+   "exampleMeaning": "Tôi đã nhận được một vé phạt vì đỗ xe sai.",
+   "emoji": "",
+   "ipa": "/ˈpɑrkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "amazing",
+   "meaning": "làm kinh ngạc, làm sửng sốt",
+   "example": "She suggested an amazing book to him.",
+   "exampleMeaning": "Cô ấy đã gợi ý một cuốn sách hay cho anh ấy.",
+   "emoji": "",
+   "ipa": "/əˈmeɪzɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "depressed",
+   "meaning": "chán nản, thất vọng, ngã lòng",
+   "example": "to look depressed",
+   "exampleMeaning": "Trông có vẻ chán nản thất vọng",
+   "emoji": "",
+   "ipa": "/dɪˈprɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mixing bowl",
+   "meaning": "thùng trộn",
+   "example": "Let's learn the word \"mixing bowl\".",
+   "exampleMeaning": "Cùng học từ “mixing bowl”: thùng trộn.",
+   "emoji": "",
+   "ipa": "/ˈmɪksɪŋ ˈboʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "similarly",
+   "meaning": "cũng như thế, cũng như vậy, tương tự",
+   "example": "Let's learn the word \"similarly\".",
+   "exampleMeaning": "Cùng học từ “similarly”: cũng như thế, cũng như vậy, tương tự.",
+   "emoji": "",
+   "ipa": "/ˈsɪməlɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trail",
+   "meaning": "vết, dấu vết",
+   "example": "on the trail of...",
+   "exampleMeaning": "Theo vết chân của..., theo đường của...",
+   "emoji": "",
+   "ipa": "/ˈtreɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "respectable",
+   "meaning": "kha khá, khá lớn, đáng kể",
+   "example": "a respectable sum of money",
+   "exampleMeaning": "Số tiền khá lớn",
+   "emoji": "",
+   "ipa": "/riˈspɛktəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "uncontrollable",
+   "meaning": "không kiểm soát được",
+   "example": "Let's learn the word \"uncontrollable\".",
+   "exampleMeaning": "Cùng học từ “uncontrollable”: không kiểm soát được.",
+   "emoji": "",
+   "ipa": "/ˌənkənˈtroʊləbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impressive",
+   "meaning": "hùng vĩ, nguy nga, oai vệ",
+   "example": "an impressive scene",
+   "exampleMeaning": "Cảnh hùng vĩ",
+   "emoji": "",
+   "ipa": "/ˌɪmˈprɛsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bravely",
+   "meaning": "dũng cảm, gan góc",
+   "example": "He tried to behave as bravely as possible while he was being held hostage.",
+   "exampleMeaning": "Anh ta cố gắng hành động dũng cảm nhất có thể trong khi bị giữ làm con tin.",
+   "emoji": "",
+   "ipa": "/ˈbreɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "teller",
+   "meaning": "người kể chuyện, người hay kể chuyện",
+   "example": "Let's learn the word \"teller\".",
+   "exampleMeaning": "Cùng học từ “teller”: người kể chuyện, người hay kể chuyện.",
+   "emoji": "",
+   "ipa": "/ˈtɛlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "graphics",
+   "meaning": "môn đồ họa, môn đồ hình",
+   "example": "Let's learn the word \"graphics\".",
+   "exampleMeaning": "Cùng học từ “graphics”: môn đồ họa, môn đồ hình.",
+   "emoji": "",
+   "ipa": "/ˈɡræfɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "complex",
+   "meaning": "phức tạp, rắc rối",
+   "example": "He has a complex about his weight.",
+   "exampleMeaning": "Nó luôn luôn lo lắng về sức nặng của cơ thể nó.",
+   "emoji": "",
+   "ipa": "/ˈkɑmplɛks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "is",
+    "really",
+    "impressive"
+   ],
+   "reading": "",
+   "meaning": "Điều này thật sự rất ấn tượng."
+  },
+  {
+   "tokens": [
+    "She",
+    "makes",
+    "amazing",
+    "videos"
+   ],
+   "reading": "",
+   "meaning": "Cô ta làm ra nhiều băng hình đáng kinh ngạc."
+  },
+  {
+   "tokens": [
+    "What's",
+    "good",
+    "in",
+    "the",
+    "neighborhood"
+   ],
+   "reading": "",
+   "meaning": "Khu vực lân cận có gì hay không?"
+  },
+  {
+   "tokens": [
+    "It's",
+    "a",
+    "very",
+    "complex",
+    "question"
+   ],
+   "reading": "",
+   "meaning": "Đó là một câu hỏi phức tạp."
+  },
+  {
+   "tokens": [
+    "The",
+    "parking",
+    "lot",
+    "is",
+    "empty"
+   ],
+   "reading": "",
+   "meaning": "Bãi đỗ xe còn trống"
+  }
+ ],
+ "issues": []
+}

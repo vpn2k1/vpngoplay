@@ -1,0 +1,330 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "coral",
+   "meaning": "san hô",
+   "example": "Let's learn the word \"coral\".",
+   "exampleMeaning": "Cùng học từ “coral”: san hô.",
+   "emoji": "🪸",
+   "ipa": "/ˈkɔrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impolite",
+   "meaning": "vô lễ",
+   "example": "Let's learn the word \"impolite\".",
+   "exampleMeaning": "Cùng học từ “impolite”: vô lễ.",
+   "emoji": "",
+   "ipa": "/ˌɪmpəˈlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "core",
+   "meaning": "điểm trung tâm, nòng cốt, hạt nhân",
+   "example": "the core of a subject",
+   "exampleMeaning": "Điểm trung tâm của một vấn đề, điểm chính của một vấn đề",
+   "emoji": "",
+   "ipa": "/ˈkɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vector",
+   "meaning": "một phần tử trong không gian véctơ",
+   "example": "Let's learn the word \"vector\".",
+   "exampleMeaning": "Cùng học từ “vector”: một phần tử trong không gian véctơ.",
+   "emoji": "",
+   "ipa": "/ˈvɛktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "capitalist",
+   "meaning": "nhà tư bản",
+   "example": "Edward, the venture capitalist, hit the jackpot in the oil business.",
+   "exampleMeaning": "Edward - một nhà đầu tư mạo hiểm, đã kiếm được bộn tiền từ ngành dầu mỏ.",
+   "emoji": "",
+   "ipa": "/ˈkæpətəlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "console",
+   "meaning": "an ủi, giải khuây",
+   "example": "Let's learn the word \"console\".",
+   "exampleMeaning": "Cùng học từ “console”: an ủi, giải khuây.",
+   "emoji": "",
+   "ipa": "/ˈkɑnsoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hunting",
+   "meaning": "sự đi săn",
+   "example": "The hunting dog headed for the woods.",
+   "exampleMeaning": "Con chó săn đã đi ra phía khu rừng.",
+   "emoji": "",
+   "ipa": "/ˈhʌntɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "calcium",
+   "meaning": "canxi",
+   "example": "Let's learn the word \"calcium\".",
+   "exampleMeaning": "Cùng học từ “calcium”: canxi.",
+   "emoji": "",
+   "ipa": "/ˈkælsiəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "folly",
+   "meaning": "sự điên rồ",
+   "example": "it would be the height of folly to do that",
+   "exampleMeaning": "Làm việc đó hết sức điên rồ",
+   "emoji": "",
+   "ipa": "/ˈfɑli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "colonial",
+   "meaning": "thuộc địa",
+   "example": "Britain ran concentration camps in the colonial Kenya.",
+   "exampleMeaning": "Anh Quốc đã mở các trại tập trung ở thuộc địa Kenya.",
+   "emoji": "",
+   "ipa": "/kəˈloʊniəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "algorithm",
+   "meaning": "thuật toán",
+   "example": "I wrote the algorithm in Pascal.",
+   "exampleMeaning": "Tôi viết thuật toàn này bằng Pascal.",
+   "emoji": "",
+   "ipa": "/ˈælɡɜrˌɪðəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "mutation",
+   "meaning": "sự thay đổi, sự biến đổi",
+   "example": "Let's learn the word \"mutation\".",
+   "exampleMeaning": "Cùng học từ “mutation”: sự thay đổi, sự biến đổi.",
+   "emoji": "",
+   "ipa": "/mjuˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intersection",
+   "meaning": "ngã tư",
+   "example": "The accident happened at an intersection that didn't have a traffic light.",
+   "exampleMeaning": "Một vụ tai nạn đã xảy ra ở một ngã tư không có đèn giao thông.",
+   "emoji": "",
+   "ipa": "/ˌɪntɜrˈsɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "uncommon",
+   "meaning": "không thông thường, hiếm, ít có",
+   "example": "Let's learn the word \"uncommon\".",
+   "exampleMeaning": "Cùng học từ “uncommon”: không thông thường, hiếm, ít có.",
+   "emoji": "",
+   "ipa": "/ənˈkɑmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ointment",
+   "meaning": "thuốc mỡ",
+   "example": "Let's learn the word \"ointment\".",
+   "exampleMeaning": "Cùng học từ “ointment”: thuốc mỡ.",
+   "emoji": "",
+   "ipa": "/ˈɔɪntmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "matrix",
+   "meaning": "tử cung, dạ con",
+   "example": "Let's learn the word \"matrix\".",
+   "exampleMeaning": "Cùng học từ “matrix”: tử cung, dạ con.",
+   "emoji": "",
+   "ipa": "/ˈmeɪtrɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "widow",
+   "meaning": "người đàn bà goá, quả phụ",
+   "example": "Her husband died, and she is a widow now.",
+   "exampleMeaning": "Chồng của cô ấy đã chết và bây giờ cô ấy là 1 góa phụ",
+   "emoji": "",
+   "ipa": "/ˈwɪdoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "disorderly",
+   "meaning": "bừa bãi, lộn xộn",
+   "example": "a disorderly person",
+   "exampleMeaning": "Người làm mất trật tự xã hội",
+   "emoji": "",
+   "ipa": "/dɪˈsɔrdɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gateway",
+   "meaning": "cổng vào ((nghĩa đen) & (nghĩa bóng))",
+   "example": "Let's learn the word \"gateway\".",
+   "exampleMeaning": "Cùng học từ “gateway”: cổng vào ((nghĩa đen) & (nghĩa bóng)).",
+   "emoji": "",
+   "ipa": "/ˈɡeɪtˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "neural",
+   "meaning": "thần kinh",
+   "example": "Let's learn the word \"neural\".",
+   "exampleMeaning": "Cùng học từ “neural”: thần kinh.",
+   "emoji": "",
+   "ipa": "/ˈnjʊrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Genuine",
+    "friendship",
+    "is",
+    "uncommon"
+   ],
+   "reading": "",
+   "meaning": "Tình bạn chân thật thì hiếm thấy."
+  },
+  {
+   "tokens": [
+    "I",
+    "wrote",
+    "the",
+    "algorithm",
+    "in",
+    "Pascal"
+   ],
+   "reading": "",
+   "meaning": "Tôi viết thuật toàn này bằng Pascal."
+  },
+  {
+   "tokens": [
+    "The",
+    "hunting",
+    "dog",
+    "headed",
+    "for",
+    "the",
+    "woods"
+   ],
+   "reading": "",
+   "meaning": "Con chó săn đã đi ra phía khu rừng."
+  },
+  {
+   "tokens": [
+    "The",
+    "accident",
+    "took",
+    "place",
+    "near",
+    "that",
+    "intersection"
+   ],
+   "reading": "",
+   "meaning": "Vụ tai nạn đã xảy ra ở gần cái ngã tư kia."
+  },
+  {
+   "tokens": [
+    "The",
+    "fox",
+    "seems",
+    "to",
+    "be",
+    "hunting",
+    "something"
+   ],
+   "reading": "",
+   "meaning": "Con cáo có vẻ đang săn con gì đó."
+  }
+ ],
+ "issues": []
+}

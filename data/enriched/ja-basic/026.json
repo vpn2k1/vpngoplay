@@ -1,0 +1,321 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "書く",
+   "meaning": "viết",
+   "example": "メアリーに手紙を書くよ。",
+   "exampleMeaning": "Tôi sẽ viết thư cho Mary.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "料理",
+   "meaning": "nấu nướng, nấu ăn",
+   "example": "彼は敵を料理した。",
+   "exampleMeaning": "Anh ta đã làm gỏi đối thủ của mình.",
+   "emoji": "🍳",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お皿",
+   "meaning": "bản, tấm phiếu, biển",
+   "example": "「お皿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お皿”: bản, tấm phiếu, biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "まだ",
+   "meaning": "còn, hãy còn, còn nữa",
+   "example": "まだ時間がある。",
+   "exampleMeaning": "Vẫn còn thời gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "カレンダー",
+   "meaning": "lịch (ghi năm tháng)",
+   "example": "「カレンダー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “カレンダー”: lịch (ghi năm tháng).",
+   "emoji": "📅",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "いかが",
+   "meaning": "thế nào, như thế nào",
+   "example": "コーヒーはいかがですか。",
+   "exampleMeaning": "Anh dùng cà phê nhé?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "来月",
+   "meaning": "tháng sau",
+   "example": "来月をとても楽しみにしている。",
+   "exampleMeaning": "Tôi rất mong đợi tháng sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "店",
+   "meaning": "cửa hàng, cửa hiệu",
+   "example": "彼はその店に行った。",
+   "exampleMeaning": "Anh ấy đến cửa hàng đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "あちら",
+   "meaning": "kia, đằng kia, đằng xa kia",
+   "example": "我々はあちらこちらに走り回った。",
+   "exampleMeaning": "Chúng tôi đã chạy đi chạy lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "食堂",
+   "meaning": "quán ăn tự phục vụ",
+   "example": "「食堂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “食堂”: quán ăn tự phục vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鼻",
+   "meaning": "mũi (người)",
+   "example": "鼻の頭に生クリームがついているよ。",
+   "exampleMeaning": "Trên mũi bạn có dính kem đấy.",
+   "emoji": "👃",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "貼る",
+   "meaning": "dán (yết thị, thông báo...)",
+   "example": "「貼る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貼る”: dán (yết thị, thông báo...).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無くす",
+   "meaning": "mất không còn nữa",
+   "example": "「無くす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無くす”: mất không còn nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綺麗",
+   "meaning": "đẹp",
+   "example": "綺麗なおみ足ですこと。",
+   "exampleMeaning": "Chân bạn đẹp quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "居る",
+   "meaning": "thì, ở, tồn tại",
+   "example": "この島にはどれぐらい居る予定なの？",
+   "exampleMeaning": "Bạn định ở lại trên hòn đảo này bao lâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初めて",
+   "meaning": "lần đầu tiên",
+   "example": "私は昨日初めて彼に会った。",
+   "exampleMeaning": "Hôm qua là lần đầu tiên tôi gặp ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "トイレ",
+   "meaning": "buồng tắm, phòng tắm, nhà vệ sinh",
+   "example": "３０分おきにトイレに行きます。",
+   "exampleMeaning": "Cứ 30 phút là tôi lại đi vệ sinh một lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "塩",
+   "meaning": "muối",
+   "example": "スープに塩を加えよう。",
+   "exampleMeaning": "Hãy bỏ thêm muối vào nồi súp.",
+   "emoji": "🧂",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自転車",
+   "meaning": "xe đạp",
+   "example": "自転車で通勤しています。",
+   "exampleMeaning": "Tôi đi làm bằng xe đạp.",
+   "emoji": "🚲",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嫌",
+   "meaning": "không ưa, không thích, ghét",
+   "example": "人ごみは大嫌い。",
+   "exampleMeaning": "Tôi ghét những lúc đông người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "機嫌が悪い"
+   ],
+   "reading": "かれはきげんがわるい",
+   "meaning": "Anh ấy đang khó ở."
+  },
+  {
+   "tokens": [
+    "まだ",
+    "痙攣",
+    "している"
+   ],
+   "reading": "まだけいれんしている",
+   "meaning": "Anh ấy vẫn đang co giật."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "敵",
+    "を",
+    "料理",
+    "した"
+   ],
+   "reading": "かれはてきをりょうりした",
+   "meaning": "Anh ta đã làm gỏi đối thủ của mình."
+  },
+  {
+   "tokens": [
+    "料理",
+    "が",
+    "得意",
+    "ですか"
+   ],
+   "reading": "りょうりがとくいですか",
+   "meaning": "Bạn có giỏi nấu ăn không?"
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "勉強",
+    "が",
+    "嫌い",
+    "だ"
+   ],
+   "reading": "わたしはべんきょうがきらいだ",
+   "meaning": "Tôi không ưa việc học."
+  }
+ ],
+ "issues": []
+}

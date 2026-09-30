@@ -1,0 +1,331 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "艘",
+   "meaning": "chiếc",
+   "example": "五艘远洋货轮。",
+   "exampleMeaning": "Năm chiếc tàu viễn dương chở hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sōu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "粉丝",
+   "meaning": "miến",
+   "example": "我们来学“粉丝”这个词。",
+   "exampleMeaning": "Cùng học từ “粉丝”: miến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fěnsī",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "灵魂",
+   "meaning": "tâm hồn",
+   "example": "纯结的灵魂。",
+   "exampleMeaning": "Tâm hồn trong trắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línghún",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "患",
+   "meaning": "tai hoạ",
+   "example": "防患未然",
+   "exampleMeaning": "Đề phòng tai hoạ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàn",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "枚",
+   "meaning": "tấm",
+   "example": "三枚奖章。",
+   "exampleMeaning": "Ba tấm huân chương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méi",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凌晨",
+   "meaning": "hừng đông",
+   "example": "我们来学“凌晨”这个词。",
+   "exampleMeaning": "Cùng học từ “凌晨”: hừng đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "língchén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勒",
+   "meaning": "thít chặt",
+   "example": "行李没有捆紧，再勒一勒。",
+   "exampleMeaning": "Hành lý buộc chưa chặt, thít chặt thêm một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lè",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "素",
+   "meaning": "thường",
+   "example": "三荤一素。",
+   "exampleMeaning": "Một bữa ăn chay bằng ba bữa ăn mặn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sù",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "他人",
+   "meaning": "người khác",
+   "example": "关心他人，比关心自己为重。",
+   "exampleMeaning": "Quan tâm đến người khác, quan trọng hơn quan tâm đến bản thân mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tārén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "淘汰",
+   "meaning": "loại bỏ",
+   "example": "他在第二轮比赛中被淘汰。",
+   "exampleMeaning": "Anh ấy bị loại khỏi lần thi thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táotài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "释放",
+   "meaning": "phóng",
+   "example": "原子反应堆能有效地释放原子能。",
+   "exampleMeaning": "Phản ứng nguyên tử có thể phóng nguyên tử lượng ra một cách có hiệu lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìfàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "获胜",
+   "meaning": "thắng lợi",
+   "example": "甲队以五比○获胜",
+   "exampleMeaning": "Đội A thắng 5:0",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòshèng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "撒",
+   "meaning": "đổ",
+   "example": "年糕上撒了一层白糖。",
+   "exampleMeaning": "Trên mặt bánh tổ có rắc một lớp đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sā",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "家族",
+   "meaning": "gia tộc",
+   "example": "我们来学“家族”这个词。",
+   "exampleMeaning": "Cùng học từ “家族”: gia tộc.",
+   "emoji": "👪",
+   "ipa": "",
+   "pinyin": "jiāzú",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "魅力",
+   "meaning": "sức hấp dẫn",
+   "example": "富有魅力。",
+   "exampleMeaning": "Đầy sức hấp dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mèilì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "单身",
+   "meaning": "độc thân",
+   "example": "汤姆一直都是单身汉。",
+   "exampleMeaning": "Tom luôn luôn độc thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānshēn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "嘿",
+   "meaning": "ô!, ơ! (ngạc nhiên)",
+   "example": "我们来学“嘿”这个词。",
+   "exampleMeaning": "Cùng học từ “嘿”: ô!, ơ! (ngạc nhiên).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hēi",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "哼",
+   "meaning": "hừm",
+   "example": "哼，你骗得了我？",
+   "exampleMeaning": "Hừ, anh lừa được tôi sao?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hēng",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "真心",
+   "meaning": "thành thật",
+   "example": "真心实意",
+   "exampleMeaning": "Lòng thành thật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnxīn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剂",
+   "meaning": "thuốc",
+   "example": "麻醉剂。",
+   "exampleMeaning": "Thuốc mê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jì",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "汤姆",
+    "一直",
+    "都",
+    "是",
+    "单身汉"
+   ],
+   "reading": "tāngmǔ yīzhí dōu shì dānshēnhàn",
+   "meaning": "Tom luôn luôn độc thân."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "把",
+    "我",
+    "当成",
+    "正常",
+    "人"
+   ],
+   "reading": "bù yào zài bǎ wǒ dàngchéng zhèngcháng rén",
+   "meaning": "Đừng coi tôi như người \"bình thường\"!"
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  }
+ ],
+ "issues": []
+}

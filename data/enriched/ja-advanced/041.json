@@ -1,0 +1,326 @@
+{
+ "lesson": 41,
+ "draft": true,
+ "words": [
+  {
+   "term": "採算",
+   "meaning": "lợi, lợi ích, bổ ích",
+   "example": "「採算」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “採算”: lợi, lợi ích, bổ ích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "停滞",
+   "meaning": "sự ứ đọng",
+   "example": "「停滞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “停滞”: sự ứ đọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旅客",
+   "meaning": "hành khách (đi tàu xe... )",
+   "example": "「旅客」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “旅客”: hành khách (đi tàu xe... ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嘗める",
+   "meaning": "liếm",
+   "example": "「嘗める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “嘗める”: liếm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人質",
+   "meaning": "con tin",
+   "example": "「人質」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人質”: con tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "権限",
+   "meaning": "khả năng, tài năng, năng lực",
+   "example": "「権限」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “権限”: khả năng, tài năng, năng lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大胆",
+   "meaning": "dũng cảm, táo bạo, cả gan",
+   "example": "「大胆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大胆”: dũng cảm, táo bạo, cả gan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "念願",
+   "meaning": "one's heart's desire (EN)",
+   "example": "「念願」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “念願”: one's heart's desire (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ホース",
+   "meaning": "bít tất dài",
+   "example": "「ホース」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ホース”: bít tất dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短大",
+   "meaning": "trường cao đẳng",
+   "example": "「短大」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “短大”: trường cao đẳng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "情緒",
+   "meaning": "cảm xúc",
+   "example": "「情緒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “情緒”: cảm xúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "率いる",
+   "meaning": "buộc chì",
+   "example": "「率いる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “率いる”: buộc chì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勤め先",
+   "meaning": "place of work (EN)",
+   "example": "「勤め先」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勤め先”: place of work (EN).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "english",
+    "example": "template"
+   }
+  },
+  {
+   "term": "破棄",
+   "meaning": "sự huỷ bỏ, sự thủ tiêu (sắc lệnh",
+   "example": "彼らは婚約を破棄した。",
+   "exampleMeaning": "Họ đã hủy bỏ hôn ước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "インターナショナル",
+   "meaning": "quốc tế",
+   "example": "「インターナショナル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “インターナショナル”: quốc tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "やりとおす",
+   "meaning": "đạt được, giành được",
+   "example": "「やりとおす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “やりとおす”: đạt được, giành được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "誇る",
+   "meaning": "lời nói khoác",
+   "example": "「誇る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “誇る”: lời nói khoác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "還元",
+   "meaning": "nghị quyết",
+   "example": "「還元」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “還元”: nghị quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "なんなり",
+   "meaning": "vật gì, việc gì",
+   "example": "「なんなり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “なんなり”: vật gì, việc gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "設定",
+   "meaning": "sự thành lập, sự thiết lập, sự kiến lập",
+   "example": "「設定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “設定”: sự thành lập, sự thiết lập, sự kiến lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "婚約",
+    "を",
+    "破棄",
+    "した"
+   ],
+   "reading": "かれらはこんやくをはきした",
+   "meaning": "Họ đã hủy bỏ hôn ước."
+  },
+  {
+   "tokens": [
+    "地面",
+    "は",
+    "雪",
+    "で",
+    "覆われている"
+   ],
+   "reading": "じめんはゆきでおおわれている",
+   "meaning": "Mặt đất đang phủ đầy tuyết."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "左手",
+    "を",
+    "やけど",
+    "した"
+   ],
+   "reading": "かのじょはひだりてをやけどした",
+   "meaning": "Cô ấy đã bị bỏng tay trái."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "徒歩",
+    "で",
+    "通学",
+    "している"
+   ],
+   "reading": "かれはとほでつうがくしている",
+   "meaning": "Anh ấy đi bộ đến trường."
+  },
+  {
+   "tokens": [
+    "二人",
+    "部屋",
+    "を",
+    "お願いします"
+   ],
+   "reading": "ふたりべやをおねがいします",
+   "meaning": "Cho tôi một phòng hai người."
+  }
+ ],
+ "issues": []
+}

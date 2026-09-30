@@ -1,23 +1,20 @@
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { motion } from 'motion/react'
-import { z } from 'zod'
 import { ARCADE_GAMES, type ArcadeGame } from '../../arcade/games'
 import { Play } from 'lucide-react'
 import { FLAG, GAME_ICON, Joystick, ModeIcon, Trophy } from '../../components/icons'
 import { cx } from '../../components/ui'
+import { useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
-import { LANGS, type Lang } from '../../lib/types'
 
 export const Route = createFileRoute('/games/')({
-  validateSearch: z.object({ lang: z.enum(['en', 'ja', 'zh']).optional() }),
   component: GamesHub,
 })
 
 function GamesHub() {
-  const profile = useProgress((s) => s.profile)
   const bestScores = useProgress((s) => s.bestScores)
-  const search = Route.useSearch()
-  const lang: Lang = search.lang ?? profile?.langs[0] ?? 'en'
+  const { lang, info } = useLang()
+  const Flag = FLAG[lang]
   const games = Object.values(ARCADE_GAMES) as ArcadeGame[]
   const best = (gameId: string) =>
     Math.max(
@@ -33,27 +30,12 @@ function GamesHub() {
         <Joystick className="pointer-events-none absolute -top-4 -right-4 size-40 rotate-12 opacity-30" />
         <h1 className="relative text-3xl font-black">Khu trò chơi</h1>
         <p className="relative mt-1 max-w-md text-white/85">
-          Chơi với từ vựng của mọi ngôn ngữ. Chọn ngôn ngữ, rồi chọn game — bộ từ và chế độ chọn ngay trong game.
+          Chơi với từ vựng đang học — bộ từ và chế độ chọn ngay trong game.
         </p>
-        <div className="relative mt-4 flex flex-wrap gap-2">
-          {(Object.keys(LANGS) as Lang[]).map((l) => {
-            const Flag = FLAG[l]
-            return (
-              <Link
-                key={l}
-                to="/games"
-                search={{ lang: l }}
-                replace
-                className={cx(
-                  'inline-flex items-center gap-2 rounded-full py-1.5 pr-4 pl-1.5 font-bold transition',
-                  l === lang ? 'bg-white text-slate-900 shadow-lg' : 'bg-white/15 text-white hover:bg-white/25',
-                )}
-              >
-                <Flag className="size-7" /> {LANGS[l].label}
-              </Link>
-            )
-          })}
-        </div>
+        <p className="relative mt-4 inline-flex items-center gap-2 rounded-full bg-white/15 py-1.5 pr-4 pl-1.5 font-bold">
+          <Flag className="size-7" /> {info.label}
+          <span className="text-xs font-semibold text-white/70">· đổi ở lá cờ trên cùng</span>
+        </p>
       </section>
 
       <div className="grid gap-4 sm:grid-cols-2">
@@ -70,7 +52,6 @@ function GamesHub() {
               <Link
                 to="/games/$gameId"
                 params={{ gameId: game.id }}
-                search={{ lang }}
                 className={cx(
                   'group relative flex h-full flex-col overflow-hidden rounded-3xl bg-gradient-to-br p-5 text-white shadow-lg transition hover:-translate-y-1 hover:shadow-2xl',
                   game.color,

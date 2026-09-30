@@ -2,7 +2,6 @@ import { useSuspenseQuery } from '@tanstack/react-query'
 import { Link, createFileRoute } from '@tanstack/react-router'
 import { BookOpen, ChevronRight, Clock, MessageSquareText, Sparkles } from 'lucide-react'
 import { motion } from 'motion/react'
-import { z } from 'zod'
 import { ProfileForm } from '../components/ProfileForm'
 import {
   Books,
@@ -15,16 +14,20 @@ import {
   OpenBook,
   PartyPopper,
   Pushpin,
+  Scroll,
+  SpeechBalloon,
   TRACK_ICON,
   WavingHand,
+  WritingHand,
+  type IconType,
 } from '../components/icons'
 import { IconTile, ProgressBar, cx } from '../components/ui'
 import { catalogQuery, coursesQuery, type TopicDeckSummary } from '../lib/api'
+import { useLang } from '../lib/lang'
 import { useProgress, useStreak, useTodayXp, type Profile } from '../lib/store'
 import { COURSE_LABEL, LANGS, TRACKS, type CourseSummary, type Lang } from '../lib/types'
 
 export const Route = createFileRoute('/')({
-  validateSearch: z.object({ lang: z.enum(['en', 'ja', 'zh']).optional() }),
   loader: ({ context }) =>
     Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
   component: Home,
@@ -127,15 +130,13 @@ function Stat({ Icon, value, label }: { Icon: typeof Fire; value: number | strin
 function Dashboard({ profile }: { profile: Profile }) {
   const { data: catalog } = useSuspenseQuery(catalogQuery)
   const { data: courses } = useSuspenseQuery(coursesQuery)
-  const search = Route.useSearch()
   const todayXp = useTodayXp()
   const streak = useStreak()
   const xp = useProgress((s) => s.xp)
   const srs = useProgress((s) => s.srs)
-  // Every language is always available; the learner's chosen ones come first.
-  const langs = [...profile.langs, ...(Object.keys(LANGS) as Lang[]).filter((l) => !profile.langs.includes(l))]
-  const lang = search.lang ?? langs[0]
+  const { lang, info } = useLang()
   const Mascot = MASCOT[lang]
+  const LangFlag = FLAG[lang]
 
   const now = Date.now()
   const cards = Object.entries(srs)
@@ -143,8 +144,9 @@ function Dashboard({ profile }: { profile: Profile }) {
     cards.filter(([key, card]) => key.startsWith(prefix) && (!dueOnly || card.due <= now)).length
   const totalDue = cards.filter(([, card]) => card.due <= now).length
 
+  // Idiom decks have their own page (/idioms).
   const decks = catalog
-    .filter((d) => d.lang === lang)
+    .filter((d) => d.lang === lang && !d.category)
     .sort((a, b) => Number(b.track === profile.track) - Number(a.track === profile.track))
   const goalReached = todayXp >= profile.dailyGoal
 
@@ -180,34 +182,11 @@ function Dashboard({ profile }: { profile: Profile }) {
 
       <section className="space-y-3">
         <div className="flex items-center justify-between gap-3">
-          <h2 className="text-lg font-black">Học theo ngôn ngữ</h2>
-          <Mascot className="size-9 drop-shadow" />
-        </div>
-        <div className="-mx-4 flex snap-x gap-2 overflow-x-auto px-4 pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          {langs.map((l) => {
-            const Flag = FLAG[l]
-            const due = countFor(`${l}-`, true)
-            return (
-              <Link
-                key={l}
-                to="/"
-                search={{ lang: l }}
-                className={cx(
-                  'inline-flex shrink-0 items-center gap-2 rounded-full py-1.5 pr-4 pl-1.5 font-bold transition',
-                  l === lang
-                    ? 'bg-slate-900 text-white shadow-md dark:bg-white dark:text-slate-900'
-                    : 'bg-white ring-1 ring-slate-200 hover:bg-slate-100 dark:bg-slate-900 dark:ring-slate-800 dark:hover:bg-slate-800',
-                  !profile.langs.includes(l) && l !== lang && 'opacity-60',
-                )}
-              >
-                <Flag className="size-7" />
-                {LANGS[l].label}
-                {due > 0 && (
-                  <span className="rounded-full bg-rose-500 px-1.5 text-xs leading-5 font-black text-white">{due}</span>
-                )}
-              </Link>
-            )
-          })}
+          <h2 className="flex min-w-0 items-center gap-2 text-lg font-black">
+            <LangFlag className="size-7 shrink-0" />
+            <span className="truncate">Học {info.label.replace('Tiếng ', 'tiếng ')}</span>
+          </h2>
+          <Mascot className="size-9 shrink-0 drop-shadow" />
         </div>
 
         {lang === 'en' && (
@@ -225,6 +204,30 @@ function Dashboard({ profile }: { profile: Profile }) {
             <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-1" />
           </Link>
         )}
+
+        <div className="grid grid-cols-3 gap-2 sm:gap-3">
+          <FeatureCard
+            to="/sentences"
+            Icon={WritingHand}
+            title="Học theo câu"
+            hint="Nghe, nói theo, xếp câu"
+            className="from-emerald-400 to-teal-600"
+          />
+          <FeatureCard
+            to="/talk"
+            Icon={SpeechBalloon}
+            title="Giao tiếp"
+            hint="Hội thoại, nhập vai"
+            className="from-amber-400 to-orange-600"
+          />
+          <FeatureCard
+            to="/idioms"
+            Icon={Scroll}
+            title="Thành ngữ"
+            hint={lang === 'en' ? 'Idioms' : lang === 'ja' ? 'ことわざ' : '成语'}
+            className="from-rose-400 to-fuchsia-600"
+          />
+        </div>
 
         {courses.some((c) => c.lang === lang) && (
           <>
@@ -265,6 +268,35 @@ function Dashboard({ profile }: { profile: Profile }) {
         </div>
       </section>
     </div>
+  )
+}
+
+/** Entry to a learning section that works the same for every language. */
+function FeatureCard({
+  to,
+  Icon,
+  title,
+  hint,
+  className,
+}: {
+  to: '/sentences' | '/talk' | '/idioms'
+  Icon: IconType
+  title: string
+  hint: string
+  className: string
+}) {
+  return (
+    <Link
+      to={to}
+      className={cx(
+        'group flex flex-col items-start gap-1 rounded-3xl bg-gradient-to-br p-3 text-white shadow-md transition hover:-translate-y-0.5 hover:shadow-xl sm:p-4',
+        className,
+      )}
+    >
+      <Icon className="size-10 drop-shadow transition group-hover:scale-110 group-hover:-rotate-6 sm:size-12" />
+      <span className="text-sm leading-tight font-black sm:text-lg">{title}</span>
+      <span className="text-xs leading-tight text-white/85 max-sm:hidden">{hint}</span>
+    </Link>
   )
 }
 

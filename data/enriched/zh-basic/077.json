@@ -1,0 +1,334 @@
+{
+ "lesson": 77,
+ "draft": true,
+ "words": [
+  {
+   "term": "成员",
+   "meaning": "thành viên",
+   "example": "我们来学“成员”这个词。",
+   "exampleMeaning": "Cùng học từ “成员”: thành viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngyuán",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保险",
+   "meaning": "đảm bảo",
+   "example": "你依我的话，保险不会出错",
+   "exampleMeaning": "Cứ làm theo lời tôi, đảm bảo sẽ không bị sai sót",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoxiǎn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "年代",
+   "meaning": "niên đại, thời đại, những năm tháng",
+   "example": "庄稼人都能当代表，这真是到了人民当家的年代啦!",
+   "exampleMeaning": "Nhà nông đều được làm đại biểu, đây thật sự là thời kỳ làm chủ của người dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niándài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "领导",
+   "meaning": "lãnh đạo",
+   "example": "领导和群众相结合。",
+   "exampleMeaning": "Lãnh đạo kết hợp với quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐngdǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "胜利",
+   "meaning": "thành công (mục đích)",
+   "example": "生产任务胜利完成。",
+   "exampleMeaning": "Nhiệm vụ sản xuất đã được hoàn thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shènglì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "受伤",
+   "meaning": "bị thương",
+   "example": "万幸，没乘客受伤。",
+   "exampleMeaning": "Rất may, không có hành khách nào bị thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòushāng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "程度",
+   "meaning": "mức",
+   "example": "在某種程度上我能了解你。",
+   "exampleMeaning": "Tôi có thể hiểu bạn ở mức độ nào đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngdù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "代",
+   "meaning": "thế, thay thế",
+   "example": "现在的时代是原子时代。",
+   "exampleMeaning": "Thời đại bây giờ là thời đại nguyên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dài",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "下面",
+   "meaning": "phía dưới",
+   "example": "请看下面陈列的纺织品。",
+   "exampleMeaning": "Xin xem những hàng dệt trưng bày dưới đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàmiàn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "理论",
+   "meaning": "lý luận",
+   "example": "然而，相反的理论往往也是真的。",
+   "exampleMeaning": "Nhưng, sự trái ngược cũng luôn luôn có lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐlùn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不仅",
+   "meaning": "không những",
+   "example": "他们不仅提前完成了生产任务，而且还支援了兄弟单位。",
+   "exampleMeaning": "Họ chẳng những đã hoàn thành nhiệm vụ trước thời hạn, mà còn giúp đỡ các đőn vị anh em nữa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjǐn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宣布",
+   "meaning": "tuyên bố",
+   "example": "当众宣布",
+   "exampleMeaning": "Tuyên bố trước mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuānbù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "期",
+   "meaning": "kỳ",
+   "example": "他已經住在這裡一個星期了。",
+   "exampleMeaning": "Anh ấy đã ở đây được một tuần rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qī",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "姑娘",
+   "meaning": "con gái, cô nương, cô gái",
+   "example": "生了个姑娘",
+   "exampleMeaning": "Hạ sinh một cô con gái.",
+   "emoji": "👧",
+   "ipa": "",
+   "pinyin": "gūniang",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "创造",
+   "meaning": "sáng tạo",
+   "example": "劳动人民是历史的创造者。",
+   "exampleMeaning": "Nhân dân lao động là những người sáng tạo ra lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuàngzào",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调",
+   "meaning": "xúi giục",
+   "example": "不要再调大电视的声音了。",
+   "exampleMeaning": "Đừng bật to tiếng TV nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diào",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "艺术",
+   "meaning": "nghệ thuật",
+   "example": "这棵松树的样子挺艺术。",
+   "exampleMeaning": "Dáng cây tùng này rất có nghệ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìshù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "麻烦",
+   "meaning": "phiền phức",
+   "example": "他在工作上遇到了麻烦。",
+   "exampleMeaning": "Nó gặp phải phiền toái khi làm việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "máfan",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "事故",
+   "meaning": "rủi ro, tai nạn, sự rủi ro",
+   "example": "防止发生事故。",
+   "exampleMeaning": "Đề phòng xảy ra sự cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìgù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "美好",
+   "meaning": "tốt đẹp",
+   "example": "美好的愿望。",
+   "exampleMeaning": "Nguyện vọng tốt đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měihǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "汤姆",
+    "遇",
+    "上",
+    "麻烦",
+    "了"
+   ],
+   "reading": "tāngmǔ yù shàng máfan le",
+   "meaning": "Tom đã gặp rắc rối."
+  },
+  {
+   "tokens": [
+    "你",
+    "有",
+    "医疗",
+    "保险",
+    "吗"
+   ],
+   "reading": "nǐ yǒu yīliáo bǎoxiǎn ma",
+   "meaning": "Bạn có bảo hiểm y tế không?"
+  },
+  {
+   "tokens": [
+    "他",
+    "在",
+    "工作",
+    "上",
+    "遇到",
+    "了",
+    "麻烦"
+   ],
+   "reading": "tā zài gōngzuò shàng yùdào le máfan",
+   "meaning": "Nó gặp phải phiền toái khi làm việc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "再",
+    "调",
+    "大",
+    "电视",
+    "的",
+    "声音",
+    "了"
+   ],
+   "reading": "bù yào zài tiáo dà diànshì de shēngyīn le",
+   "meaning": "Đừng bật to tiếng TV nữa."
+  },
+  {
+   "tokens": [
+    "你",
+    "这么",
+    "忙",
+    "我",
+    "不",
+    "想",
+    "给",
+    "你",
+    "添麻烦"
+   ],
+   "reading": "nǐ zhème máng wǒ bù xiǎng gěi nǐ tiānmāfán",
+   "meaning": "Anh bận rộn như vậy, tôi không muốn anh bận tâm thêm."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,331 @@
+{
+ "lesson": 131,
+ "draft": true,
+ "words": [
+  {
+   "term": "口味",
+   "meaning": "gu (thích một khẩu vị nào đó)",
+   "example": "食堂里的菜不对我的口味。",
+   "exampleMeaning": "Thức ăn ở nhà ăn không hợp gu của tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuwèi",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "姿势",
+   "meaning": "tư thế",
+   "example": "立正的姿势",
+   "exampleMeaning": "Tư thế đứng nghiêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zīshì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "体系",
+   "meaning": "hệ thống",
+   "example": "防御体系",
+   "exampleMeaning": "Hệ thống phòng ngự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǐxì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "谨慎",
+   "meaning": "cẩn thận",
+   "example": "小心谨慎。",
+   "exampleMeaning": "Cẩn thận; dè dặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnshèn",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "陌生",
+   "meaning": "lạ",
+   "example": "我们虽然是第一次见面，并不感到陌生。",
+   "exampleMeaning": "Tuy rằng chúng tôi mới lần đầu gặp nhau, nhưng không cảm thấy xa lạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mòshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "穿过",
+   "meaning": "đi qua",
+   "example": "王院长为人正派，办事公道，没给人穿过小鞋，大家都尊敬他。",
+   "exampleMeaning": "Viện trưởng Vương xử sự ngay thẳng, làm việc công minh, chưa từng gây khó dễ cho ai, mọi người đều tôn kính ông ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānguò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "车祸",
+   "meaning": "tai nạn giao thông",
+   "example": "我们来学“车祸”这个词。",
+   "exampleMeaning": "Cùng học từ “车祸”: tai nạn giao thông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēhuò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脆弱",
+   "meaning": "yếu đuối",
+   "example": "脆弱的心灵。",
+   "exampleMeaning": "Tâm hồn yếu đuối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuìruò",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "引擎",
+   "meaning": "động cơ",
+   "example": "我们来学“引擎”这个词。",
+   "exampleMeaning": "Cùng học từ “引擎”: động cơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnqíng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爹",
+   "meaning": "ba, cha, bố",
+   "example": "我们来学“爹”这个词。",
+   "exampleMeaning": "Cùng học từ “爹”: ba, cha, bố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diē",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窝",
+   "meaning": "chỗ",
+   "example": "这炉子真碍事，给它挪个窝儿。",
+   "exampleMeaning": "Cái lò này vướng quá, dời nó ra chỗ khác thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wō",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "肩膀",
+   "meaning": "vai",
+   "example": "肩膀儿硬(能担负重大责任)。",
+   "exampleMeaning": "Bờ vai rắn chắc (ví với đảm đýőng được nhiệm vụ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānbǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上场",
+   "meaning": "lên sân khấu",
+   "example": "我们来学“上场”这个词。",
+   "exampleMeaning": "Cùng học từ “上场”: lên sân khấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngchǎng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "祈祷",
+   "meaning": "cầu khấn",
+   "example": "我们来学“祈祷”这个词。",
+   "exampleMeaning": "Cùng học từ “祈祷”: cầu khấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qídǎo",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "羡慕",
+   "meaning": "hâm mộ",
+   "example": "他很羡慕我有这么一个好师傅。",
+   "exampleMeaning": "Nó rất hâm mộ khi tôi có người thầy tốt như vậy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànmù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弥补",
+   "meaning": "bù đắp",
+   "example": "不可弥补的损失。",
+   "exampleMeaning": "Không thể bù đắp được tổn thất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míbǔ",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "残",
+   "meaning": "tàn",
+   "example": "这部书很好，可惜残了。",
+   "exampleMeaning": "Bộ sách này hay quá, chỉ tiếc là không đủ bộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cán",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "天生",
+   "meaning": "trời sinh",
+   "example": "本事不是天生的",
+   "exampleMeaning": "Bản lĩnh không phải là trời sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānshēng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "须",
+   "meaning": "cần phải",
+   "example": "他觉得必须报道这件事。",
+   "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xū",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "催",
+   "meaning": "trợ",
+   "example": "图书馆来信，催 他还书。",
+   "exampleMeaning": "Thư viện gởi thư đến giục anh ta trả sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuī",
+   "source": {
+    "meaning": "bridge",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "必须",
+    "停止",
+    "吸烟"
+   ],
+   "reading": "nǐ bìxū tíngzhǐ xīyān",
+   "meaning": "Bạn phải ngưng hút thuốc."
+  },
+  {
+   "tokens": [
+    "她",
+    "将",
+    "必须",
+    "为",
+    "大家",
+    "做饭"
+   ],
+   "reading": "tā jiāng bìxū wèi dàjiā zuòfàn",
+   "meaning": "Cô ấy sẽ phải nấu cơm cho tất cả mọi người."
+  },
+  {
+   "tokens": [
+    "他",
+    "觉得",
+    "必须",
+    "报道",
+    "这",
+    "件",
+    "事"
+   ],
+   "reading": "tā juéde bìxū bàodào zhè jiàn shì",
+   "meaning": "Ông ta cảm thấy phải báo cáo sự việc này."
+  },
+  {
+   "tokens": [
+    "我",
+    "是",
+    "必须",
+    "去",
+    "做",
+    "这",
+    "事",
+    "的",
+    "人"
+   ],
+   "reading": "wǒ shì bìxū qù zuò zhè shì de rén",
+   "meaning": "Tôi là người buộc phải đi làm việc này."
+  },
+  {
+   "tokens": [
+    "他们",
+    "不得不",
+    "整天",
+    "呆",
+    "在",
+    "家里"
+   ],
+   "reading": "tāmen bùdébù zhěngtiān dāi zài jiālǐ",
+   "meaning": "Họ đã phải ở trong nhà suốt cả ngày."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 86,
+ "draft": true,
+ "words": [
+  {
+   "term": "类似",
+   "meaning": "tương tự",
+   "example": "找出犯错误的原因，避免再犯类似的错误。",
+   "exampleMeaning": "Tìm ra nguyên nhân của sự sai lầm, để tránh những sai lầm tương tự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lèisì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尽量",
+   "meaning": "tha hồ",
+   "example": "我会尽量不打扰你复习。",
+   "exampleMeaning": "Tôi sẽ cố không quấy rầy bạn học hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnliàng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "及时",
+   "meaning": "đúng thời vụ",
+   "example": "有问题就及时解决。",
+   "exampleMeaning": "Có vấn đề thì giải quyết ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíshí",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专门",
+   "meaning": "chuyên",
+   "example": "他是专门研究土壤学的。",
+   "exampleMeaning": "Anh ấy chuyên nghiên cứu đất đai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānmén",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "资格",
+   "meaning": "tư cách",
+   "example": "他在我们车间里是资格最老的了。",
+   "exampleMeaning": "Trong phân xưởng của chúng tôi, ông ấy là người có thâm niên cao nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zīgé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "工具",
+   "meaning": "công cụ (sản xuất)",
+   "example": "语言是人们交流思想的工具。",
+   "exampleMeaning": "Ngôn ngữ là công cụ truyền đạt tư tưởng của con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngjù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "快速",
+   "meaning": "nhanh",
+   "example": "快速照相机。",
+   "exampleMeaning": "Máy ảnh chụp nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàisù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "连续",
+   "meaning": "liên tục",
+   "example": "这个车间连续创造了三次新纪录。",
+   "exampleMeaning": "Phân xưởng này liên tục tạo ra ba kỷ lục mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánxù",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "决赛",
+   "meaning": "trận chung kết",
+   "example": "取得决赛权",
+   "exampleMeaning": "Được quyền vào chung kết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juésài",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "厂",
+   "meaning": "nhà máy, xí nghiệp, xưởng",
+   "example": "他被工厂的老板解雇。",
+   "exampleMeaning": "Anh ấy đã bị ông chủ công xưởng sa thải.",
+   "emoji": "🏭",
+   "ipa": "",
+   "pinyin": "chǎng",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "形成",
+   "meaning": "hình thành",
+   "example": "形成鲜明的对比。",
+   "exampleMeaning": "Hình thành sự đối lập rõ rệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngchéng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "背后",
+   "meaning": "lưng",
+   "example": "有话当面说，不要背后乱说。",
+   "exampleMeaning": "Có chuyện gì thì nói thẳng ra, đừng có mà nói xấu sau lưng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèihòu",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "配合",
+   "meaning": "phù hợp",
+   "example": "绿油油的枝叶衬托着红艳艳的花朵，那么配合，那么美丽。",
+   "exampleMeaning": "Giữa những cành lá xanh mơn mởn, điểm những bông hoa đỏ rực, thật là phù hợp, thật là đẹp mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pèihé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "显得",
+   "meaning": "lộ ra",
+   "example": "节日的天安门显得更加壮丽。",
+   "exampleMeaning": "Thiên An Môn vào những ngày lễ càng thêm tráng lệ。",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎnde",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "亲自",
+   "meaning": "tự mình",
+   "example": "你亲自去一趟, 和他当面谈谈。",
+   "exampleMeaning": "Anh tự đi một chuyến, nói chuyện trực tiếp với hắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnzì",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公共",
+   "meaning": "công cộng",
+   "example": "赶快点，否则要错过公共汽车了。",
+   "exampleMeaning": "Nhanh lên không bạn lỡ xe buýt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōnggòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "费用",
+   "meaning": "chi phí",
+   "example": "这几个月家里费用太大。",
+   "exampleMeaning": "Chi tiêu sinh hoạt gia đình mấy tháng nay nhiều quá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fèiyòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自动",
+   "meaning": "tự",
+   "example": "水自动地流到田里。",
+   "exampleMeaning": "Nước tự chảy vào ruộng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìdòng",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "明确",
+   "meaning": "rõ ràng",
+   "example": "大家明确分工，各有专责。",
+   "exampleMeaning": "Mọi người phân công rõ ràng, người nào có trách nhiệm của người ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngquè",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "结合",
+   "meaning": "kết hợp",
+   "example": "教育与生产劳动相结合。",
+   "exampleMeaning": "Giáo dục và lao động sản xuất kết hợp tương xứng với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéhé",
+   "source": {
+    "meaning": "dictionary",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "我",
+    "会",
+    "尽量",
+    "不",
+    "打扰",
+    "你",
+    "复习"
+   ],
+   "reading": "wǒ huì jǐnliàng bù dǎrǎo nǐ fùxí",
+   "meaning": "Tôi sẽ cố không quấy rầy bạn học hành."
+  },
+  {
+   "tokens": [
+    "赶快",
+    "点",
+    "否则",
+    "要",
+    "错过",
+    "公共汽车",
+    "了"
+   ],
+   "reading": "gǎnkuài diǎn fǒuzé yào cuòguò gōnggòngqìchē le",
+   "meaning": "Nhanh lên không bạn lỡ xe buýt."
+  },
+  {
+   "tokens": [
+    "彼得",
+    "现在",
+    "不",
+    "在"
+   ],
+   "reading": "bǐdé xiànzài bù zài",
+   "meaning": "Peter đang không có ở đây."
+  },
+  {
+   "tokens": [
+    "我",
+    "很",
+    "快",
+    "就",
+    "会",
+    "回来"
+   ],
+   "reading": "wǒ hěn kuài jiù huì huílai",
+   "meaning": "Con sẽ trở về sớm."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,327 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "冗談",
+   "meaning": "lời nói đùa, câu nói đùa",
+   "example": "冗談も休み休みにしてよ。",
+   "exampleMeaning": "Đùa ít thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ラベル",
+   "meaning": "một miếng vật liệu nhỏ để dính vào vật và cho biết thông tin về vật đó",
+   "example": "私はラベルを読みます。",
+   "exampleMeaning": "Tôi đọc nhãn.·",
+   "emoji": "🏷",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "だけど",
+   "meaning": "dù đến đâu, dù cách nào, dù cách gì",
+   "example": "海外に行こうと予定してたんだけどな。",
+   "exampleMeaning": "Tôi từng có ý định đi nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "続き",
+   "meaning": "sự tiếp tục",
+   "example": "この手続きにはお役所仕事がだいぶからんでいます。",
+   "exampleMeaning": "Thủ tục này còn quá quan liêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "試す",
+   "meaning": "thử",
+   "example": "トムは、フランス語を流暢に話せると言ってるんだ。彼の主張を試すためにフランス語だけで話しかけてみようよ。",
+   "exampleMeaning": "Tom nói là cậu ta có thể nói tiếng Pháp một cách thành thạo. Hay là chúng ta thử bắt chuyện với cậu ta bằng tiếng Pháp xem điều đó có đúng không nào!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "住",
+   "meaning": "sự ở, sự ngụ ở",
+   "example": "どこにお住まいですか。",
+   "exampleMeaning": "Nhà bạn ở đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毒",
+   "meaning": "độc",
+   "example": "毒を食らわば皿まで。",
+   "exampleMeaning": "Đã phóng lao thì phải theo lao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "事件",
+   "meaning": "việc",
+   "example": "それは恐ろしい事件だった。",
+   "exampleMeaning": "Đó là một vụ việc đáng sợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "意外",
+   "meaning": "không mong đợi, bất ngờ, không ngờ",
+   "example": "「意外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “意外”: không mong đợi, bất ngờ, không ngờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肺",
+   "meaning": "phổi",
+   "example": "肺、心臓、静脈、動脈、毛細血管により循環器系が形成されています。",
+   "exampleMeaning": "Hệ tuần hoàn được cấu tạo từ phổi, tim, tĩnh mạch, động mạnh và mao mạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "冷やす",
+   "meaning": "làm mát, làm nguội, trở mát",
+   "example": "「冷やす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冷やす”: làm mát, làm nguội, trở mát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厄介",
+   "meaning": "điều lo lắng, điều phiền muộn",
+   "example": "「厄介」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “厄介”: điều lo lắng, điều phiền muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "深刻",
+   "meaning": "đứng đắn, nghiêm trang, nghiêm nghị",
+   "example": "そう深刻に考えるな。",
+   "exampleMeaning": "Đừng suy nghĩ quá nghiêm túc như thế!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "うなる",
+   "meaning": "rên rỉ",
+   "example": "何も起きなかったらどうなるんだろう？",
+   "exampleMeaning": "Nếu không có gì xảy ra thì sẽ thế nào?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "実施",
+   "meaning": "sự thúc ép, sự ép buộc",
+   "example": "「実施」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “実施”: sự thúc ép, sự ép buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "末",
+   "meaning": "sự kết thúc",
+   "example": "父は週末に帰宅します。",
+   "exampleMeaning": "Bố tôi cuối tuần sẽ về nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "兎",
+   "meaning": "con thỏ",
+   "example": "「兎」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “兎”: con thỏ.",
+   "emoji": "🐇",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ロケット",
+   "meaning": "tên lửa",
+   "example": "「ロケット」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ロケット”: tên lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "休憩",
+   "meaning": "sự nghỉ ngơi",
+   "example": "運動した後は休憩したほうがいいよ。",
+   "exampleMeaning": "Sau khi tập thể dục, bạn nên nghỉ ngơi một chút thì tốt hơn đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "加減",
+   "meaning": "sự sửa lại cho đúng, sự điều chỉnh",
+   "example": "この手の冗談にはもういい加減、うんざりだ。",
+   "exampleMeaning": "Tôi chán những trò đùa như thế này rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "冗談",
+    "は",
+    "やめて"
+   ],
+   "reading": "じょうだんはやめて",
+   "meaning": "Đừng đùa nữa."
+  },
+  {
+   "tokens": [
+    "父",
+    "は",
+    "週末",
+    "に",
+    "帰宅",
+    "します"
+   ],
+   "reading": "ちちはしゅうまつにきたくします",
+   "meaning": "Bố tôi cuối tuần sẽ về nhà."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私の",
+    "隣",
+    "に",
+    "住んでいる"
+   ],
+   "reading": "かれはわたしのとなりにすんでいる",
+   "meaning": "Anh ấy sống ở bên cạnh nhà tôi."
+  },
+  {
+   "tokens": [
+    "冗談",
+    "も",
+    "休み休み",
+    "に",
+    "して",
+    "よ"
+   ],
+   "reading": "じょうだんもやすみやすみにしてよ",
+   "meaning": "Đùa ít thôi."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ここ",
+    "に",
+    "住",
+    "んで",
+    "います"
+   ],
+   "reading": "わたしはここにすんでいます",
+   "meaning": "Tôi sống ở đây."
+  }
+ ],
+ "issues": []
+}

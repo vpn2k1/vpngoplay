@@ -1,0 +1,331 @@
+{
+ "lesson": 21,
+ "draft": true,
+ "words": [
+  {
+   "term": "時々",
+   "meaning": "thỉnh thoảng, thảng hoặc",
+   "example": "誰でも時々は間違える。",
+   "exampleMeaning": "Ai cũng có lúc sai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "誰か",
+   "meaning": "một người nào đó",
+   "example": "誰かを愛したい。",
+   "exampleMeaning": "Tôi muốn yêu ai đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "昨夜",
+   "meaning": "đêm trước",
+   "example": "彼らは昨夜出発した。",
+   "exampleMeaning": "Anh ta đã xuất phát tối qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "お金",
+   "meaning": "tiền, tiền tệ",
+   "example": "お金はいりません。",
+   "exampleMeaning": "Tôi không cần tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "低い",
+   "meaning": "thấp, bé, lùn",
+   "example": "トムは私よりほんのちょっと背が低い。",
+   "exampleMeaning": "Tom hơi thấp hơn tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "十日",
+   "meaning": "ngày thứ mười của tháng",
+   "example": "「十日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “十日”: ngày thứ mười của tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三",
+   "meaning": "ba",
+   "example": "彼は三等賞を得た。",
+   "exampleMeaning": "Anh ấy đã giành được giải ba.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "四つ",
+   "meaning": "bốn",
+   "example": "ベッドが四つある部屋に暮らす。",
+   "exampleMeaning": "Tôi sống trong một căn phòng có bốn cái giường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "遠い",
+   "meaning": "xa, xa xôi, xa xăm",
+   "example": "遠い親戚より近くの他人。",
+   "exampleMeaning": "Bán anh em xa mua láng giềng gần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一番",
+   "meaning": "tốt nhất, hay nhất, đẹp nhất",
+   "example": "この本は先週一番売れた。",
+   "exampleMeaning": "Đây là cuốn sách bán chạy nhất tuần qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "灰皿",
+   "meaning": "cái gạt tàn",
+   "example": "「灰皿」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “灰皿”: cái gạt tàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "来る",
+   "meaning": "đến, tới, đi đến",
+   "example": "彼は今夜来るでしょうか。",
+   "exampleMeaning": "Tối nay anh ấy có đến không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "半",
+   "meaning": "nửa, phân chia đôi",
+   "example": "私は六時半に起きる。",
+   "exampleMeaning": "Tôi dậy vào lúc sáu rưỡi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "寒い",
+   "meaning": "không hay, không thú vị",
+   "example": "今日は少し寒い。",
+   "exampleMeaning": "Hôm nay trời hơi lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "閉める",
+   "meaning": "đóng, khép",
+   "example": "「閉める」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “閉める”: đóng, khép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水",
+   "meaning": "nước",
+   "example": "水を一杯下さい。",
+   "exampleMeaning": "Làm ơn cho tôi một cốc nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "好き",
+   "meaning": "sự thích, sự ưa thích",
+   "example": "彼が大好き！",
+   "exampleMeaning": "Mình rất thích anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "困る",
+   "meaning": "làm buồn bực, làm phiền, quấy rầy",
+   "example": "「フランス語で何か言ってみて」「え、そういうの一番困るんだけど」「じゃあ『そういうの一番困るんだけど』ってフランス語で言ってみて」",
+   "exampleMeaning": "\"Bạn thử nói gì đó bằng tiếng Pháp xem nào.\" \"Ờ thì, tôi không biết phải nói sao cả.\" \"Vậy thì hãy thử nói \"Tôi không biết phải nói sao cả\" bằng tiếng Pháp xem.\"",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "風邪",
+   "meaning": "(viết tắt) của influenza",
+   "example": "うちの娘が風邪をひいた。",
+   "exampleMeaning": "Con gái tôi bị cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "bridge",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "安い",
+   "meaning": "rẻ",
+   "example": "安い辞書を買いたいんです。",
+   "exampleMeaning": "Tôi muốn mua một cuốn từ điển rẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "どの",
+    "科目",
+    "が",
+    "一番",
+    "好き",
+    "ですか"
+   ],
+   "reading": "どのかもくがいちばんすきですか",
+   "meaning": "Bạn thích môn học nào nhất?"
+  },
+  {
+   "tokens": [
+    "半",
+    "時間",
+    "したら",
+    "彼",
+    "は",
+    "ここ",
+    "に",
+    "来る",
+    "でしょう"
+   ],
+   "reading": "はんじかんしたらかれはここにくるでしょう",
+   "meaning": "Anh ấy chắc sẽ đến trong vòng 30 phút nữa."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "出来るだけ",
+    "お金",
+    "を",
+    "溜めよう",
+    "と",
+    "努力",
+    "している"
+   ],
+   "reading": "かのじょはできるだけおかねをためようとどりょくしている",
+   "meaning": "Bà ấy đang tiết kiệm tiền hết mức có thể."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "三枚目",
+    "だ"
+   ],
+   "reading": "かれはさんまいめだ",
+   "meaning": "Anh ta là một diễn viên hài."
+  },
+  {
+   "tokens": [
+    "お",
+    "水",
+    "を",
+    "ください"
+   ],
+   "reading": "おみずをください",
+   "meaning": "Cho tôi xin ít nước."
+  }
+ ],
+ "issues": []
+}

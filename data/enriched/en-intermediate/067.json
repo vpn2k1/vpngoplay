@@ -1,0 +1,314 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "remark",
+   "meaning": "nhận xét, phê bình, bình luận",
+   "example": "to pass a rude remark upon someone",
+   "exampleMeaning": "Nhận xét ai một cách thô bạo",
+   "emoji": "",
+   "ipa": "/riˈmɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "layer",
+   "meaning": "lớp",
+   "example": "a layer of clay",
+   "exampleMeaning": "Lớp đất sét",
+   "emoji": "",
+   "ipa": "/ˈleɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "misunderstanding",
+   "meaning": "sự hiểu lầm",
+   "example": "Let's learn the word \"misunderstanding\".",
+   "exampleMeaning": "Cùng học từ “misunderstanding”: sự hiểu lầm.",
+   "emoji": "",
+   "ipa": "/ˌmɪsəndɜrˈstændɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "distribution",
+   "meaning": "phân phối",
+   "example": "Let's learn the word \"distribution\".",
+   "exampleMeaning": "Cùng học từ “distribution”: phân phối.",
+   "emoji": "",
+   "ipa": "/ˌdɪstrəbˈjuʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "advertise",
+   "meaning": "báo cho biết, báo cho ai biết trước",
+   "example": "to advertise someone that...",
+   "exampleMeaning": "Báo cho ai biết rằng...",
+   "emoji": "",
+   "ipa": "/ˈædvɜrˌtaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "maintenance",
+   "meaning": "cấp dưỡng (quần áo, thức ăn...)",
+   "example": "He has to pay maintenance to his ex-wife and children.",
+   "exampleMeaning": "Anh ta phải trả tiền cấp dưỡng cho vợ cũ và các con.",
+   "emoji": "",
+   "ipa": "/ˈmeɪntənəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "routine",
+   "meaning": "thủ tục",
+   "example": "The police want to ask you some routine questions.",
+   "exampleMeaning": "Cảnh sát muốn hỏi bạn một số câu hỏi thủ tục.",
+   "emoji": "",
+   "ipa": "/ruˈtin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "convince",
+   "meaning": "thuyết phục",
+   "example": "It is hard to convince John.",
+   "exampleMeaning": "Thuyết phục John là một việc khó.",
+   "emoji": "",
+   "ipa": "/kənˈvɪns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "awkward",
+   "meaning": "khó xử, rầy rà, rắc rối",
+   "example": "to be in an awkward situation",
+   "exampleMeaning": "Ở trong một tình thế khó xử",
+   "emoji": "",
+   "ipa": "/ˈɑkwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unpredictable",
+   "meaning": "không thể nói trước",
+   "example": "Let's learn the word \"unpredictable\".",
+   "exampleMeaning": "Cùng học từ “unpredictable”: không thể nói trước.",
+   "emoji": "",
+   "ipa": "/ˌənprɪˈdɪktəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "silk",
+   "meaning": "lụa",
+   "example": "Where can I buy silk?",
+   "exampleMeaning": "Tôi có thể mua tơ lụa ở đâu?",
+   "emoji": "",
+   "ipa": "/sɪlk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stick",
+   "meaning": "dán, dính",
+   "example": "are you going to stick in all day?",
+   "exampleMeaning": "Anh sẽ ở nhà suốt ngày à?",
+   "emoji": "",
+   "ipa": "/stɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "devotion",
+   "meaning": "sự hết lòng, sự tận tâm, sự tận tình",
+   "example": "Let's learn the word \"devotion\".",
+   "exampleMeaning": "Cùng học từ “devotion”: sự hết lòng, sự tận tâm, sự tận tình.",
+   "emoji": "",
+   "ipa": "/dɪˈvoʊʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "precious",
+   "meaning": "hết sức, lắm, vô cùng",
+   "example": "don't be in such a precious hurry",
+   "exampleMeaning": "Làm gì mà phải vội khiếp thế",
+   "emoji": "",
+   "ipa": "/ˈprɛʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ownership",
+   "meaning": "quyền sở hữu",
+   "example": "Let's learn the word \"ownership\".",
+   "exampleMeaning": "Cùng học từ “ownership”: quyền sở hữu.",
+   "emoji": "",
+   "ipa": "/ˈoʊnɜrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "swimmer",
+   "meaning": "người bơi",
+   "example": "Tom is the fastest swimmer that I know.",
+   "exampleMeaning": "Tom có thể bơi nhanh hơn bất cứ người nào mà tôi biết.",
+   "emoji": "",
+   "ipa": "/ˈswɪmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dusty",
+   "meaning": "mơ hồ, lờ mờ, không rõ rệt",
+   "example": "her singing is not so dusty",
+   "exampleMeaning": "Cô ta hát cũng không đến nỗi tồi",
+   "emoji": "",
+   "ipa": "/ˈdəsti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "finger",
+   "meaning": "ngón tay",
+   "example": "to finger a piece of cloth",
+   "exampleMeaning": "Sờ xem một tấm vải",
+   "emoji": "",
+   "ipa": "/ˈfɪŋɡə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "solid",
+   "meaning": "rắn, chắc",
+   "example": "to have solid grounds for supposing",
+   "exampleMeaning": "Có cơ sở vững chắc để cho rằng",
+   "emoji": "",
+   "ipa": "/ˈsɑləd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "election",
+   "meaning": "sự chọn",
+   "example": "President Roosevelt won the election of 1940.",
+   "exampleMeaning": "Tổng thống Roosevelt thắng cử năm 1940.",
+   "emoji": "",
+   "ipa": "/ɪˈlɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You're",
+    "very",
+    "unpredictable"
+   ],
+   "reading": "",
+   "meaning": "Bạn khá là khó đoán đấy."
+  },
+  {
+   "tokens": [
+    "We'll",
+    "convince",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi sẽ thuyết phục Tom."
+  },
+  {
+   "tokens": [
+    "Stick",
+    "to",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Dán nó"
+  },
+  {
+   "tokens": [
+    "Life",
+    "is",
+    "precious"
+   ],
+   "reading": "",
+   "meaning": "Cuộc đời là quý giá."
+  },
+  {
+   "tokens": [
+    "Silk",
+    "is",
+    "expensive"
+   ],
+   "reading": "",
+   "meaning": "Lụa thì đắt."
+  }
+ ],
+ "issues": []
+}

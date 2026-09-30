@@ -1,0 +1,322 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "relevant",
+   "meaning": "thích đáng, thích hợp",
+   "example": "Your question is not relevant to the subject.",
+   "exampleMeaning": "Câu hỏi của bạn không liên quan gì đến chủ đề.",
+   "emoji": "",
+   "ipa": "/ˈrɛləvənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stimulation",
+   "meaning": "sự kích thích, sự khuyến khích",
+   "example": "Let's learn the word \"stimulation\".",
+   "exampleMeaning": "Cùng học từ “stimulation”: sự kích thích, sự khuyến khích.",
+   "emoji": "",
+   "ipa": "/ˌstɪmjəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "recipe",
+   "meaning": "công thức",
+   "example": "Let's learn the word \"recipe\".",
+   "exampleMeaning": "Cùng học từ “recipe”: công thức.",
+   "emoji": "",
+   "ipa": "/ˈrɛsəpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "queer",
+   "meaning": "khả nghi, đáng ngờ",
+   "example": "to queer the pitch for somebody",
+   "exampleMeaning": "Chơi xỏ ai; phỗng tay trên ai",
+   "emoji": "",
+   "ipa": "/ˈkwɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "getaway",
+   "meaning": "sự chạy trốn, sự trốn thoát (kẻ trộm)",
+   "example": "to make a getaway",
+   "exampleMeaning": "Chạy trốn, trốn thoát",
+   "emoji": "",
+   "ipa": "/ˈɡɛtəˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "evil",
+   "meaning": "xấu, ác, có hại",
+   "example": "to speak evil of someone",
+   "exampleMeaning": "Nói xấu ai",
+   "emoji": "",
+   "ipa": "/ˈivəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "belongings",
+   "meaning": "của cải",
+   "example": "Don't leave your personal belongings in the washroom.",
+   "exampleMeaning": "Đừng để đồ dùng cá nhân của bạn trong nhà vệ sinh.",
+   "emoji": "",
+   "ipa": "/bɪˈlɔŋɪŋz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "panel",
+   "meaning": "một vùng hình chữ nhật",
+   "example": "Let's learn the word \"panel\".",
+   "exampleMeaning": "Cùng học từ “panel”: một vùng hình chữ nhật.",
+   "emoji": "",
+   "ipa": "/ˈpænəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interior",
+   "meaning": "nội, nội bộ, trong nước",
+   "example": "Ministry of the Interior",
+   "exampleMeaning": "Bộ nội vụ",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɪriɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stock market",
+   "meaning": "thị trường chứng khoán",
+   "example": "The stock market is very active.",
+   "exampleMeaning": "Thị trường chứng khoáng rất năng động.",
+   "emoji": "",
+   "ipa": "/ˈstɑk ˈmɑrkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "inflammation",
+   "meaning": "sự đốt cháy",
+   "example": "Let's learn the word \"inflammation\".",
+   "exampleMeaning": "Cùng học từ “inflammation”: sự đốt cháy.",
+   "emoji": "",
+   "ipa": "/ˌɪnfləˈmeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impractical",
+   "meaning": "không thực tế",
+   "example": "Let's learn the word \"impractical\".",
+   "exampleMeaning": "Cùng học từ “impractical”: không thực tế.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpræktəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "suffering",
+   "meaning": "đau đớn, đau khổ, khổ não",
+   "example": "Why is life so full of suffering?",
+   "exampleMeaning": "Tại sao cuộc lại đầy những đau khổ vậy",
+   "emoji": "",
+   "ipa": "/ˈsʌfərɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "indent",
+   "meaning": "lệnh, sung công",
+   "example": "to indent upon someone for something",
+   "exampleMeaning": "Ra lệnh sung công của ai cái gì",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "loneliness",
+   "meaning": "sự vắng vẻ, sự hiu quạnh",
+   "example": "Even in a crowd, I feel a deep sense of loneliness and sadness.",
+   "exampleMeaning": "Dù ở trong đám đông, tôi cảm thấy vô cùng cô đơn và buồn.",
+   "emoji": "",
+   "ipa": "/ˈloʊnlinəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "soar",
+   "meaning": "bay lên, bay cao, vút lên cao",
+   "example": "to soar to the heights of science",
+   "exampleMeaning": "Bay lên những đỉnh cao của khoa học",
+   "emoji": "",
+   "ipa": "/ˈsɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "effectively",
+   "meaning": "có kết quả",
+   "example": "Let's learn the word \"effectively\".",
+   "exampleMeaning": "Cùng học từ “effectively”: có kết quả.",
+   "emoji": "",
+   "ipa": "/ˈifɛktɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "template"
+   }
+  },
+  {
+   "term": "threaten",
+   "meaning": "đe dọa",
+   "example": "Don't threaten me. I won't say anything.",
+   "exampleMeaning": "Đừng có mà dọa tôi. Tôi sẽ không nói gì đâu.",
+   "emoji": "",
+   "ipa": "/ˈθrɛtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "regulate",
+   "meaning": "điều chỉnh, sửa lại cho đúng",
+   "example": "to regulate a machine",
+   "exampleMeaning": "Điều chỉnh một cái máy",
+   "emoji": "",
+   "ipa": "/ˈrɛɡjəˌleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "differentiate",
+   "meaning": "phân biệt",
+   "example": "to differentiate something from another",
+   "exampleMeaning": "Phân biệt cái này với cái khác",
+   "emoji": "",
+   "ipa": "/ˌdɪfɜrˈɛnʃiˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "dictionary",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Evil",
+    "destroys",
+    "itself"
+   ],
+   "reading": "",
+   "meaning": "Cái ác tự huỷ."
+  },
+  {
+   "tokens": [
+    "The",
+    "place",
+    "isn't",
+    "relevant"
+   ],
+   "reading": "",
+   "meaning": "Địa điểm không quan trọng."
+  },
+  {
+   "tokens": [
+    "Note",
+    "down",
+    "this",
+    "recipe"
+   ],
+   "reading": "",
+   "meaning": "Ghi công thức này lại đi."
+  },
+  {
+   "tokens": [
+    "The",
+    "stock",
+    "market",
+    "is",
+    "very",
+    "active"
+   ],
+   "reading": "",
+   "meaning": "Thị trường chứng khoáng rất năng động."
+  },
+  {
+   "tokens": [
+    "Queer",
+    "rumors",
+    "are",
+    "in",
+    "the",
+    "air"
+   ],
+   "reading": "",
+   "meaning": "Những tin đồn kỳ lạ đang lan rộng."
+  }
+ ],
+ "issues": []
+}
