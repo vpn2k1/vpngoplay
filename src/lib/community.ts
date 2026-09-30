@@ -1,10 +1,11 @@
 // Community multiple-choice questions (tab "Cộng đồng"): signed-in learners post questions and answer
-// each other's. Schema: supabase/migrations/0002_community_questions.sql
+// each other's. Schema: supabase/migrations/0002_community_questions.sql, pages and redo in 0006.
 import { z } from 'zod'
 import { supabase } from './cloud'
 import type { Lang } from './types'
+import { seededRandom, shuffle } from './utils'
 
-export type QuestionFilter = 'new' | 'todo' | 'wrong' | 'mine'
+export type QuestionFilter = 'new' | 'todo' | 'wrong' | 'retry' | 'mine'
 
 export interface Question {
   id: number
@@ -17,8 +18,10 @@ export interface Question {
   mine: boolean
   /** How many people answered */
   answered: number
-  /** The caller's answer; null until answered */
+  /** The caller's (first) answer; null until answered */
   my_choice: number | null
+  /** Answered wrong, then redone right in "Làm lại" */
+  fixed: boolean
   /** Revealed once answered (always for the author); null before */
   correct: number | null
   explanation: string | null
@@ -55,6 +58,7 @@ const ERRORS: Record<string, string> = {
   'question not found': 'Câu hỏi này đã bị xoá.',
   'not signed in': 'Bạn cần đăng nhập.',
   'invalid options': 'Đáp án chưa hợp lệ: cần 2–4 đáp án khác nhau.',
+  'not answered': 'Bạn chưa trả lời câu này.',
 }
 
 function fail(error: { message: string }): never {
@@ -66,15 +70,19 @@ function client() {
   return supabase
 }
 
-export async function fetchQuestions(lang: Lang, filter: QuestionFilter, before?: number) {
-  const { data, error } = await client().rpc('question_feed', {
-    p_lang: lang,
-    p_filter: filter,
-    p_before: before ?? null,
-    p_limit: PAGE_SIZE,
-  })
+/** The ids of the questions in a tab, newest first (the app shuffles and pages them). */
+export async function fetchQuestionIds(lang: Lang, filter: QuestionFilter) {
+  const { data, error } = await client().rpc('question_ids', { p_lang: lang, p_filter: filter })
   if (error) fail(error)
-  return data as Question[]
+  return data as number[]
+}
+
+/** The questions of one page, in the order of `ids` (deleted ones left out). */
+export async function fetchQuestionsById(ids: number[]) {
+  const { data, error } = await client().rpc('questions_by_id', { p_ids: ids })
+  if (error) fail(error)
+  const byId = new Map((data as Question[]).map((q) => [q.id, q]))
+  return ids.flatMap((id) => byId.get(id) ?? [])
 }
 
 export async function postQuestion(lang: Lang, q: QuestionInput) {
@@ -97,9 +105,49 @@ export async function answerQuestion(id: number, choice: number): Promise<Answer
   return row
 }
 
+/** Answers again a question answered wrong ("Làm lại"); right this time, it leaves that tab. */
+export async function retryQuestion(id: number, choice: number): Promise<AnswerResult> {
+  const { data, error } = await client().rpc('retry_question', { p_id: id, p_choice: choice })
+  if (error) fail(error)
+  const row = (data as AnswerResult[])[0]
+  if (!row) throw new Error(ERRORS['question not found'])
+  return row
+}
+
 export async function deleteQuestion(id: number) {
   const { error } = await client().rpc('delete_question', { p_id: id })
   if (error) fail(error)
+}
+
+// One random stream per question and seed, so a question keeps its place and option order until the seed changes.
+const randomFor = (id: number, seed: number) => seededRandom(seed ^ Math.imul(id, 0x9e3779b1))
+
+/**
+ * Question ids in a random order for this seed. Each id is placed by its own random key, so one being
+ * removed (a deleted question) leaves the others where they were.
+ */
+export function shuffleIds(ids: readonly number[], seed: number) {
+  const key = new Map(ids.map((id) => [id, randomFor(id, seed)()]))
+  return [...ids].sort((a, b) => key.get(a)! - key.get(b)!)
+}
+
+/** The page numbers to show (1-based): the first, the last and those around the current one; null for a gap. */
+export function pageList(current: number, count: number): (number | null)[] {
+  const pages: (number | null)[] = []
+  for (let n = 1; n <= count; n++) {
+    if (n === 1 || n === count || Math.abs(n - current) <= 1) pages.push(n)
+    else if (pages.at(-1) !== null) pages.push(null)
+  }
+  // A gap of a single page shows that page instead
+  return pages.map((n, i) => (n === null && pages[i + 1]! - pages[i - 1]! === 2 ? pages[i - 1]! + 1 : n))
+}
+
+/** The order to show a question's options in, as indexes into `options`; the same for one seed. */
+export function optionOrder(q: Pick<Question, 'id' | 'options'>, seed: number) {
+  return shuffle(
+    q.options.map((_, i) => i),
+    randomFor(q.id, seed ^ 0x5bd1e995),
+  )
 }
 
 /** Share of the answers that picked each option, in whole percent. */

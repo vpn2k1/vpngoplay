@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { percents, questionSchema, timeAgo } from './community'
+import { optionOrder, pageList, percents, questionSchema, shuffleIds, timeAgo } from './community'
 
 const valid = {
   body: 'Chọn từ đúng: I ___ a student.',
@@ -42,4 +42,38 @@ it('shows how long ago a question was posted', () => {
   expect(ago(3 * 3_600_000)).toBe('3 giờ trước')
   expect(ago(86_400_000)).toBe('hôm qua')
   expect(ago(3 * 86_400_000)).toBe('3 ngày trước')
+})
+
+describe('shuffling', () => {
+  const questions = Array.from({ length: 20 }, (_, i) => ({ id: i + 1, options: ['a', 'b', 'c', 'd'] }))
+  const ids = questions.map((q) => q.id)
+
+  it('puts the questions in a random order that stays the same for one seed', () => {
+    const order = shuffleIds(ids, 42)
+    expect(order.toSorted((a, b) => a - b)).toEqual(ids)
+    expect(shuffleIds(ids, 42)).toEqual(order)
+    expect(shuffleIds(ids, 43)).not.toEqual(order)
+  })
+
+  it('keeps the others in place when a question is removed', () => {
+    const order = shuffleIds(ids, 7)
+    expect(shuffleIds(ids.slice(1), 7)).toEqual(order.filter((id) => id !== 1))
+  })
+
+  it('shows every option once, in an order that changes with the seed', () => {
+    const q = questions[0]
+    expect(optionOrder(q, 1).toSorted()).toEqual([0, 1, 2, 3])
+    expect(optionOrder(q, 1)).toEqual(optionOrder(q, 1))
+    const orders = new Set(Array.from({ length: 20 }, (_, seed) => optionOrder(q, seed).join()))
+    expect(orders.size).toBeGreaterThan(5)
+  })
+})
+
+it('lists the first, last and nearby pages, with gaps', () => {
+  expect(pageList(1, 1)).toEqual([1])
+  expect(pageList(1, 4)).toEqual([1, 2, 3, 4])
+  expect(pageList(1, 10)).toEqual([1, 2, null, 10])
+  expect(pageList(5, 10)).toEqual([1, null, 4, 5, 6, null, 10])
+  expect(pageList(4, 10)).toEqual([1, 2, 3, 4, 5, null, 10])
+  expect(pageList(10, 10)).toEqual([1, null, 9, 10])
 })

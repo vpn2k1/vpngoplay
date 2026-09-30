@@ -3,6 +3,7 @@ import { CircleCheck, Rocket, UserRound } from 'lucide-react'
 import type { ReactNode } from 'react'
 import { Controller, useForm } from 'react-hook-form'
 import { z } from 'zod'
+import { useCloud } from '../lib/cloud'
 import { useLang } from '../lib/lang'
 import type { Profile } from '../lib/store'
 import { LANGS, TRACKS, type Lang, type Track } from '../lib/types'
@@ -44,6 +45,9 @@ export function ProfileForm({
   onSubmit: (profile: Profile) => void
 }) {
   const { lang, setLang } = useLang()
+  // Signed in, the learner already has a name: the account's display name (Cài đặt › Tài khoản).
+  // The name kept here stays as it was, for when they sign out.
+  const signedIn = useCloud((s) => !!s.session)
   const {
     register,
     control,
@@ -60,21 +64,23 @@ export function ProfileForm({
 
   return (
     <form onSubmit={handleSubmit(submit)} className="space-y-6">
-      <div>
-        <label htmlFor="name" className="mb-1.5 block font-bold">
-          Tên của bạn <span className="font-normal text-slate-400">(không bắt buộc)</span>
-        </label>
-        <div className="relative">
-          <UserRound className="pointer-events-none absolute top-1/2 left-3.5 size-5 -translate-y-1/2 text-slate-400" />
-          <input
-            id="name"
-            {...register('name')}
-            placeholder="VD: Minh"
-            className="w-full rounded-2xl border-2 border-slate-200 bg-white py-3 pr-3 pl-11 font-semibold outline-none focus:border-indigo-500 dark:border-slate-800 dark:bg-slate-900"
-          />
+      {!signedIn && (
+        <div>
+          <label htmlFor="name" className="mb-1.5 block font-bold">
+            Tên của bạn <span className="font-normal text-slate-400">(không bắt buộc)</span>
+          </label>
+          <div className="relative">
+            <UserRound className="pointer-events-none absolute top-1/2 left-3.5 size-5 -translate-y-1/2 text-slate-400" />
+            <input
+              id="name"
+              {...register('name')}
+              placeholder="VD: Minh"
+              className="w-full rounded-2xl border-2 border-slate-200 bg-white py-3 pr-3 pl-11 font-semibold outline-none focus:border-indigo-500 dark:border-slate-800 dark:bg-slate-900"
+            />
+          </div>
+          {errors.name && <p className="mt-1 text-sm text-rose-500">{errors.name.message}</p>}
         </div>
-        {errors.name && <p className="mt-1 text-sm text-rose-500">{errors.name.message}</p>}
-      </div>
+      )}
 
       <fieldset>
         <legend className="mb-1.5 font-bold">Bạn muốn học ngôn ngữ nào?</legend>

@@ -389,7 +389,7 @@ Phần này không bắt buộc: chưa cấu hình Supabase thì app vẫn chạ
 Cài đặt (làm một lần):
 
 1. Tạo project trên [supabase.com](https://supabase.com) (gói Free là đủ).
-2. Vào **SQL Editor**, chạy lần lượt các file trong `supabase/migrations/`: `0001_accounts_leaderboard.sql`, `0002_community_questions.sql` (tab Cộng đồng), `0003_community_samples.sql` (30 câu hỏi mẫu).
+2. Vào **SQL Editor**, chạy lần lượt các file trong `supabase/migrations/`: `0001_accounts_leaderboard.sql`, `0002_community_questions.sql` (tab Cộng đồng), `0003_community_samples.sql` (30 câu hỏi mẫu), `0004_community_learners.sql` (60 câu hỏi mẫu đứng tên nhiều người học), `0005_community_100.sql` (thêm 100 câu), `0006_community_pages_retry.sql` (phân trang và tab Làm lại; app từ bản này cần file này, nên chạy trước khi deploy).
 3. Vào **Authentication → Sign In / Providers → Email**: giữ Email ở trạng thái bật, và **tắt "Confirm email"**. Tài khoản đăng ký bằng tên dùng một email ảo (`<tên>@vpngoplay.vercel.app`) nên không nhận được thư xác nhận.
 4. Vào Project Settings → API, lấy Project URL và publishable key:
    - Ghi vào `.env` (`VITE_SUPABASE_URL`, `VITE_SUPABASE_KEY`).
@@ -408,15 +408,22 @@ Tab dành cho người đã đăng nhập: đặt câu hỏi trắc nghiệm cho
   - Được +5 XP mỗi câu, tối đa 20 câu/ngày.
   - Người đặt câu hỏi có thể xoá câu của mình.
 - **Trả lời:**
-  - Mỗi người trả lời một lần; lần đầu mới được tính.
+  - Câu trả lời lưu trong DB (bảng `answers`), nên tải lại trang vẫn giữ. Lần trả lời đầu là lần được tính (tỉ lệ %, XP); câu sai thì làm lại ở tab **Làm lại**.
   - Trả lời xong mới thấy đáp án đúng, tỉ lệ mọi người chọn từng đáp án và phần giải thích. Trả lời đúng được +5 XP.
   - Đáp án đúng không nằm trong dữ liệu gửi về trước khi trả lời, nên không xem trước được.
-- **Bộ lọc:** Mới nhất · Chưa làm · Làm sai (để ôn lại) · Của tôi.
-- **Câu hỏi mẫu** (`0003`): 30 câu, mỗi ngôn ngữ 10 câu, đứng tên VpngoPlay. Xoá bằng `delete from public.questions where author is null;`.
+- **Bộ lọc:** Tất cả · Chưa làm · Làm sai (xem lại đáp án) · Làm lại · Của tôi.
+- **Làm lại:** các câu trả lời sai được hỏi lại (ẩn đáp án). Làm lại đúng được +2 XP, câu đó rời tab Làm lại (tab Làm sai ghi "đã làm lại đúng"). Lần làm lại không đổi tỉ lệ % của câu hỏi.
+- **Phân trang:** 20 câu mỗi trang, có số trang (`?page=`). App tải danh sách id của cả tab một lần rồi cắt trang, nên trả lời câu ở trang này không làm lệch các trang sau.
+- **Thứ tự:** câu hỏi (trên toàn bộ tab) và các đáp án được xáo ngẫu nhiên, xáo lại mỗi lần mở trang, tải lại hoặc quay lại tab. "Của tôi" xếp mới nhất lên đầu.
+- **Câu hỏi mẫu:**
+  - `0003`: 30 câu, mỗi ngôn ngữ 10 câu, đứng tên VpngoPlay.
+  - `0004`: 60 câu, mỗi ngôn ngữ 20 câu, đứng tên 16 người học (tên và avatar lưu ở cột `sample_name`, `sample_avatar`), thời gian đăng rải trong 12 ngày trước lúc chạy. Chạy lại không thêm câu trùng.
+  - `0005`: thêm 100 câu (34 tiếng Anh, 33 tiếng Nhật, 33 tiếng Trung), đứng tên 30 người học (16 người của `0004` và 14 người mới), rải trong 20 ngày trước lúc chạy. Cần chạy `0004` trước.
+  - Không ai xoá được câu mẫu trong app. Xoá trong SQL Editor: `delete from public.questions where author is null and sample_name is not null;` (câu của `0004` và `0005`) hoặc `... where author is null;` (mọi câu mẫu).
 - **Dữ liệu:**
   - Bảng `questions` lưu luôn số người chọn mỗi đáp án (`counts`), nên tải danh sách không phải đếm lại câu trả lời.
   - Bảng `answers` chỉ lưu 1 dòng nhỏ cho mỗi người, mỗi câu.
-  - Mọi thao tác đi qua hàm trong `0002_community_questions.sql`.
+  - Mọi thao tác đi qua các hàm SQL: đăng, trả lời, xoá trong `0002`; danh sách id, trang câu hỏi và làm lại (`question_ids`, `questions_by_id`, `retry_question`) trong `0006`.
 
 **Quên mật khẩu:** tài khoản không gắn email nên người dùng không tự đặt lại được. Quản trị viên đặt mật khẩu mới trong SQL Editor:
 

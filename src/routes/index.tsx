@@ -24,6 +24,7 @@ import {
 } from '../components/icons'
 import { IconTile, OffPath, ProgressBar, cx } from '../components/ui'
 import { catalogQuery, coursesQuery, type TopicDeckSummary } from '../lib/api'
+import { useCloud } from '../lib/cloud'
 import { useLang } from '../lib/lang'
 import { useProgress, useStreak, useTodayXp, type Profile } from '../lib/store'
 import { TRACK_PLAN, partition, type HomeSection, type PracticeLink } from '../lib/track'
@@ -139,6 +140,9 @@ function Dashboard({ profile }: { profile: Profile }) {
   const { lang, info } = useLang()
   const Mascot = MASCOT[lang]
   const LangFlag = FLAG[lang]
+  // Signed in, the account's display name; otherwise the one from the learner profile
+  const accountName = useCloud((s) => (s.session ? s.profile?.display_name : undefined))
+  const name = accountName || profile.name
 
   const now = Date.now()
   const cards = Object.entries(srs)
@@ -226,7 +230,7 @@ function Dashboard({ profile }: { profile: Profile }) {
         <div className="relative flex items-center gap-4">
           <div className="min-w-0 flex-1">
             <p className="inline-flex items-center gap-1.5 font-semibold text-indigo-100">
-              Xin chào{profile.name ? `, ${profile.name}` : ''} <WavingHand className="size-5" />
+              Xin chào{name ? `, ${name}` : ''} <WavingHand className="size-5" />
             </p>
             <h1 className="mt-1 text-2xl leading-tight font-black sm:text-3xl">
               {goalReached ? 'Đã đạt mục tiêu hôm nay!' : 'Hôm nay học gì nào?'}

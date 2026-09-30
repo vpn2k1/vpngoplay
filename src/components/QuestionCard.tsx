@@ -1,7 +1,15 @@
 import { Trash2, Users } from 'lucide-react'
 import { motion } from 'motion/react'
 import { useState } from 'react'
-import { answerQuestion, deleteQuestion, percents, timeAgo, type AnswerResult, type Question } from '../lib/community'
+import {
+  answerQuestion,
+  deleteQuestion,
+  percents,
+  retryQuestion,
+  timeAgo,
+  type AnswerResult,
+  type Question,
+} from '../lib/community'
 import { sfx } from '../lib/sfx'
 import { useProgress } from '../lib/store'
 import { LightBulb } from './icons'
@@ -9,18 +17,36 @@ import { cx } from './ui'
 
 const LETTERS = ['A', 'B', 'C', 'D']
 export const XP_PER_CORRECT = 5
+// Redoing a question answered wrong earns less than getting it right the first time
+export const XP_PER_RETRY = 2
 
 /**
  * A community question: pick an option to answer (once), then see the correct option, how many
  * people picked each one and the author's explanation. The author sees all of that from the start.
+ * The options are shown in `order` (indexes into `question.options`); answers use the original index.
+ * With `retry` (tab "Làm lại"), a question answered wrong and not yet redone right is asked again;
+ * that answer doesn't change the stats.
  */
-export function QuestionCard({ question, onDeleted }: { question: Question; onDeleted: () => void }) {
+export function QuestionCard({
+  question,
+  order,
+  retry = false,
+  onDeleted,
+}: {
+  question: Question
+  order: number[]
+  retry?: boolean
+  onDeleted: () => void
+}) {
   const addXp = useProgress((s) => s.addXp)
   // The answer given here, until the feed is loaded again
   const [answer, setAnswer] = useState<(AnswerResult & { my_choice: number }) | null>(null)
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<string | null>(null)
-  const q = answer ? { ...question, ...answer } : question
+  const again = retry && !question.fixed
+  const asked = again ? { ...question, my_choice: null, correct: null, explanation: null, counts: null } : question
+  const q = answer ? { ...asked, ...answer } : asked
+  const xp = again ? XP_PER_RETRY : XP_PER_CORRECT
   const revealed = q.correct !== null
   const shares = q.counts ? percents(q.counts) : null
   const total = q.counts ? q.counts.reduce((a, b) => a + b, 0) : q.answered
@@ -30,11 +56,11 @@ export function QuestionCard({ question, onDeleted }: { question: Question; onDe
     setBusy(true)
     setError(null)
     try {
-      const result = await answerQuestion(q.id, choice)
+      const result = await (again ? retryQuestion : answerQuestion)(q.id, choice)
       setAnswer({ ...result, my_choice: choice })
       if (choice === result.correct) {
         sfx.correct()
-        addXp(XP_PER_CORRECT)
+        addXp(xp)
       } else sfx.wrong()
     } catch (e) {
       setError(e instanceof Error ? e.message : String(e))
@@ -42,6 +68,19 @@ export function QuestionCard({ question, onDeleted }: { question: Question; onDe
       setBusy(false)
     }
   }
+
+  const [tone, status] =
+    q.my_choice === null
+      ? q.mine
+        ? ['font-semibold', 'Câu hỏi của bạn']
+        : ['', `${again ? 'Làm lại' : 'Chọn một đáp án'} · đúng được +${xp} XP`]
+      : q.my_choice === q.correct
+        ? ['font-bold text-emerald-600', answer ? `Đúng rồi! +${xp} XP` : 'Bạn đã trả lời đúng']
+        : answer
+          ? ['font-bold text-rose-600', again ? 'Vẫn chưa đúng, xem đáp án ở trên' : 'Chưa đúng, xem đáp án ở trên']
+          : q.fixed
+            ? ['font-bold text-emerald-600', 'Sai lần đầu, đã làm lại đúng']
+            : ['font-bold text-rose-600', 'Bạn đã trả lời sai']
 
   const remove = async () => {
     if (!window.confirm('Xoá câu hỏi này? Câu trả lời của mọi người cho câu này cũng bị xoá.')) return
@@ -81,7 +120,7 @@ export function QuestionCard({ question, onDeleted }: { question: Question; onDe
       <p className="mt-3 text-lg font-bold break-words whitespace-pre-wrap">{q.body}</p>
 
       <div className="mt-4 grid gap-2">
-        {q.options.map((text, i) => {
+        {order.map((i, position) => {
           const right = revealed && i === q.correct
           const mine = q.my_choice === i
           const wrong = revealed && mine && !right
@@ -128,9 +167,9 @@ export function QuestionCard({ question, onDeleted }: { question: Question; onDe
                         : 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-300',
                   )}
                 >
-                  {LETTERS[i]}
+                  {LETTERS[position]}
                 </span>
-                <span className="min-w-0 flex-1 break-words">{text}</span>
+                <span className="min-w-0 flex-1 break-words">{q.options[i]}</span>
                 {shares && <span className="shrink-0 text-sm font-black text-slate-500 tabular-nums">{shares[i]}%</span>}
               </span>
             </button>
@@ -149,19 +188,7 @@ export function QuestionCard({ question, onDeleted }: { question: Question; onDe
         <span className="inline-flex items-center gap-1">
           <Users className="size-3.5" /> {total} người đã trả lời
         </span>
-        {q.my_choice !== null ? (
-          q.my_choice === q.correct ? (
-            <span className="font-bold text-emerald-600">
-              {answer ? `Đúng rồi! +${XP_PER_CORRECT} XP` : 'Bạn đã trả lời đúng'}
-            </span>
-          ) : (
-            <span className="font-bold text-rose-600">{answer ? 'Chưa đúng, xem đáp án ở trên' : 'Bạn đã trả lời sai'}</span>
-          )
-        ) : q.mine ? (
-          <span className="font-semibold">Câu hỏi của bạn</span>
-        ) : (
-          <span>Chọn một đáp án · đúng được +{XP_PER_CORRECT} XP</span>
-        )}
+        <span className={tone}>{status}</span>
       </footer>
       {error && <p className="mt-2 text-sm text-rose-600">{error}</p>}
     </article>
