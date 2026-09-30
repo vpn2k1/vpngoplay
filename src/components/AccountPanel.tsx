@@ -176,10 +176,10 @@ function SignIn() {
       </div>
       {mode === 'sign-in' ? <SignInForm /> : <SignUpForm />}
       <div className="flex items-center gap-3 text-xs text-slate-400">
-        <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> hoặc{' '}
-        <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
+        {/* <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> hoặc{' '}
+        <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> */}
       </div>
-      <Button
+      {/* <Button
         variant="ghost"
         className="w-full"
         onClick={() => signInWithGoogle().catch((e) => setError(e instanceof Error ? e.message : String(e)))}
@@ -203,7 +203,7 @@ function SignIn() {
           />
         </svg>
         Đăng nhập với Google
-      </Button>
+      </Button> */}
       {error && <p className="text-sm text-rose-600">{error}</p>}
     </div>
   )
