@@ -71,17 +71,26 @@ export type SpriteName = keyof typeof SVG
 const images = new Map<SpriteName, HTMLImageElement>()
 
 /**
- * The sprite's image, created on first use. The SVG is given a large intrinsic size so browsers
- * that rasterise SVG images at their natural size (Safari) still draw them crisply when scaled up.
+ * An <img> for a Fluent Emoji SVG (`import X from '~icons/fluent-emoji/x?raw'`). The SVG is given a
+ * large intrinsic size so browsers that rasterise SVG images at their natural size (Safari) still
+ * draw them crisply when scaled up. Games with pictures of their own create them once, at module level.
  */
+export function svgImage(raw: string): HTMLImageElement {
+  // Outside a browser (tests) there is nothing to draw on: an empty stand-in that never "loads".
+  if (typeof Image === 'undefined') return { complete: false, naturalWidth: 0 } as HTMLImageElement
+  // As an <img> source the SVG needs its namespace, which unplugin-icons' raw output leaves out.
+  let svg = raw.replace(/width="[^"]*"/, 'width="256"').replace(/height="[^"]*"/, 'height="256"')
+  if (!svg.includes('xmlns=')) svg = svg.replace('<svg', '<svg xmlns="http://www.w3.org/2000/svg"')
+  const img = new Image()
+  img.src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`
+  return img
+}
+
+/** The shared sprite's image, created on first use. */
 export function sprite(name: SpriteName) {
   let img = images.get(name)
   if (!img) {
-    // As an <img> source the SVG needs its namespace, which unplugin-icons' raw output leaves out.
-    let svg = SVG[name].replace(/width="[^"]*"/, 'width="256"').replace(/height="[^"]*"/, 'height="256"')
-    if (!svg.includes('xmlns=')) svg = svg.replace('<svg', '<svg xmlns="http://www.w3.org/2000/svg"')
-    img = new Image()
-    img.src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`
+    img = svgImage(SVG[name])
     images.set(name, img)
   }
   return img
@@ -108,9 +117,20 @@ export function drawSprite(
   x: number,
   y: number,
   size: number,
+  options: SpriteOptions = {},
+) {
+  drawImageSprite(ctx, sprite(name), x, y, size, options)
+}
+
+/** Like drawSprite(), for an image made with svgImage(). */
+export function drawImageSprite(
+  ctx: CanvasRenderingContext2D,
+  img: HTMLImageElement,
+  x: number,
+  y: number,
+  size: number,
   { rotate = 0, flipX = false, scaleY = 1, alpha = 1, filter }: SpriteOptions = {},
 ) {
-  const img = sprite(name)
   if (!img.complete || !img.naturalWidth) return
   ctx.save()
   ctx.globalAlpha *= alpha

@@ -1,5 +1,5 @@
 import { Check, Lightbulb, SkipForward, Volume2, X } from 'lucide-react'
-import { AnimatePresence, motion } from 'motion/react'
+import { motion } from 'motion/react'
 import { useEffect, useMemo, useState } from 'react'
 import { Fire } from '../../components/icons'
 import { cx } from '../../components/ui'
@@ -215,6 +215,10 @@ export function Spell({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const meaning = round && (meaningAnswers(round.word)[0] ?? round.word.meaning)
   // Placed characters in slot order; solved/failed rounds show the whole word.
   const shown = round ? (over ? round.pieces : round.placed.map((id) => round.tiles.find((t) => t.id === id)!.ch)) : []
+  const groups = round ? slotGroups(round.chars) : []
+  const longest = Math.max(1, ...groups.map((group) => group.length))
+  const slotSize = `min(3rem, calc((100cqw - ${(longest - 1) * 4}px) / ${longest}))`
+  const slotFont = `calc(${slotSize} * 0.55)`
 
   return (
     <div className="space-y-4">
@@ -240,80 +244,82 @@ export function Spell({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
       </div>
 
       {round && (
-        <div className="space-y-5 rounded-[2rem] border-4 border-white bg-gradient-to-b from-amber-50 to-orange-100 p-5 shadow-[0_8px_0_rgba(194,65,12,.18)] ring-1 ring-amber-200 dark:border-slate-700 dark:from-slate-900 dark:to-slate-900 dark:ring-slate-700">
+        <div className="space-y-5 rounded-[2rem] border-4 border-white bg-gradient-to-b from-amber-50 to-orange-100 p-4 sm:p-5 shadow-[0_8px_0_rgba(194,65,12,.18)] ring-1 ring-amber-200 dark:border-slate-700 dark:from-slate-900 dark:to-slate-900 dark:ring-slate-700">
           {/* What to spell: the meaning, or only the sound */}
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={round.id}
-              initial={{ scale: 0.8, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              className="flex min-h-24 flex-col items-center justify-center gap-1 text-center"
-            >
-              {listen && !over ? (
-                <button
-                  type="button"
-                  onClick={() => speak(round.word.term, lang)}
-                  className="flex size-20 items-center justify-center rounded-full border-4 border-white bg-gradient-to-b from-sky-400 to-sky-600 text-white shadow-[0_6px_0_rgba(3,105,161,.45)] transition active:translate-y-0.5"
-                  aria-label="Nghe lại"
-                >
-                  <Volume2 className="size-10" />
-                </button>
-              ) : (
-                <>
-                  {round.word.emoji && <span className="text-5xl leading-none">{round.word.emoji}</span>}
-                  <span className="text-2xl font-black text-slate-800 sm:text-3xl dark:text-slate-100">{meaning}</span>
-                </>
-              )}
-              {over && (
-                <span lang={lang} className="text-sm font-bold text-slate-500">
-                  {round.word.term}
-                  {reading && reading !== round.word.term && ` · ${reading}`}
-                </span>
-              )}
-            </motion.div>
-          </AnimatePresence>
-
-          {/* Slots: one box per piece; spaces split words so long phrases wrap between them */}
+          {/* enter animation only: waiting for the old word to leave left the card empty for a moment */}
           <motion.div
-            key={`slots-${round.id}`}
-            lang={lang}
-            animate={round.status === 'failed' ? { x: [0, -10, 10, -6, 6, 0] } : { x: 0 }}
-            className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2"
+            key={round.id}
+            initial={{ scale: 0.8, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            className="flex min-h-24 flex-col items-center justify-center gap-1 text-center"
           >
-            {slotGroups(round.chars).map((group, gi) => (
-              <span key={gi} className="flex items-center gap-1">
-                {group.map((slot, i) => {
-                  if (slot.piece === null)
+            {listen && !over ? (
+              <button
+                type="button"
+                onClick={() => speak(round.word.term, lang)}
+                className="flex size-20 items-center justify-center rounded-full border-4 border-white bg-gradient-to-b from-sky-400 to-sky-600 text-white shadow-[0_6px_0_rgba(3,105,161,.45)] transition active:translate-y-0.5"
+                aria-label="Nghe lại"
+              >
+                <Volume2 className="size-10" />
+              </button>
+            ) : (
+              <>
+                {round.word.emoji && <span className="text-5xl leading-none">{round.word.emoji}</span>}
+                <span className="text-2xl font-black text-slate-800 sm:text-3xl dark:text-slate-100">{meaning}</span>
+              </>
+            )}
+            {over && (
+              <span lang={lang} className="text-sm font-bold text-slate-500">
+                {round.word.term}
+                {reading && reading !== round.word.term && ` · ${reading}`}
+              </span>
+            )}
+          </motion.div>
+
+          {/* Slots: one box per piece; spaces split words so long phrases wrap between them. Boxes
+              shrink with the card (container units) so the longest word always fits on one line. */}
+          <div style={{ containerType: 'inline-size' }}>
+            <motion.div
+              key={`slots-${round.id}`}
+              lang={lang}
+              animate={round.status === 'failed' ? { x: [0, -10, 10, -6, 6, 0] } : { x: 0 }}
+              className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2"
+            >
+              {groups.map((group, gi) => (
+                <span key={gi} className="flex items-center gap-1">
+                  {group.map((slot, i) => {
+                    if (slot.piece === null)
+                      return (
+                        <span key={i} className="font-black text-slate-400" style={{ fontSize: slotFont }}>
+                          {slot.ch}
+                        </span>
+                      )
+                    const ch = shown[slot.piece]
+                    const current = !over && slot.piece === round.placed.length
                     return (
-                      <span key={i} className="text-2xl font-black text-slate-400">
-                        {slot.ch}
+                      <span
+                        key={i}
+                        style={{ width: slotSize, height: slotSize, fontSize: slotFont }}
+                        className={cx(
+                          'flex shrink-0 items-center justify-center rounded-lg border-2 border-b-4 font-black sm:rounded-xl',
+                          ch === undefined &&
+                            'border-dashed border-amber-300 bg-white/50 dark:border-slate-600 dark:bg-slate-800/50',
+                          ch !== undefined &&
+                            round.status === 'solved' &&
+                            'border-emerald-600 bg-emerald-400 text-emerald-950',
+                          ch !== undefined && round.status === 'failed' && 'border-rose-600 bg-rose-400 text-rose-950',
+                          ch !== undefined && round.status === 'play' && 'border-amber-600 bg-amber-300 text-amber-950',
+                          current && 'ring-4 ring-indigo-300 dark:ring-indigo-500',
+                        )}
+                      >
+                        {ch}
                       </span>
                     )
-                  const ch = shown[slot.piece]
-                  const current = !over && slot.piece === round.placed.length
-                  return (
-                    <span
-                      key={i}
-                      className={cx(
-                        'flex size-11 items-center justify-center rounded-xl border-2 border-b-4 text-2xl font-black sm:size-12',
-                        ch === undefined &&
-                          'border-dashed border-amber-300 bg-white/50 dark:border-slate-600 dark:bg-slate-800/50',
-                        ch !== undefined &&
-                          round.status === 'solved' &&
-                          'border-emerald-600 bg-emerald-400 text-emerald-950',
-                        ch !== undefined && round.status === 'failed' && 'border-rose-600 bg-rose-400 text-rose-950',
-                        ch !== undefined && round.status === 'play' && 'border-amber-600 bg-amber-300 text-amber-950',
-                        current && 'ring-4 ring-indigo-300 dark:ring-indigo-500',
-                      )}
-                    >
-                      {ch}
-                    </span>
-                  )
-                })}
-              </span>
-            ))}
-          </motion.div>
+                  })}
+                </span>
+              ))}
+            </motion.div>
+          </div>
 
           <div className="flex min-h-6 items-center justify-center gap-1.5 text-sm font-bold">
             {round.status === 'solved' && (
@@ -360,9 +366,11 @@ export function Spell({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
                     ? { scale: 1, rotate: 0, x: round.shake.n % 2 ? [0, -8, 8, -5, 5, 0] : [0, 8, -8, 5, -5, 0] }
                     : { scale: used ? 0.85 : 1, rotate: 0, x: 0 }
                 }
-                transition={{ type: 'spring', stiffness: 500, damping: 24 }}
+                transition={{ type: 'spring', stiffness: 500, damping: 24, x: { duration: 0.3 } }}
                 className={cx(
                   'flex size-14 items-center justify-center rounded-2xl border-2 border-b-[6px] text-3xl font-black transition-colors select-none sm:size-16',
+                  // leftover tiles fade once the word is solved or revealed
+                  over && !used && 'opacity-40',
                   used
                     ? 'border-transparent bg-slate-200/60 text-transparent dark:bg-slate-800/60'
                     : round.shake?.id === t.id

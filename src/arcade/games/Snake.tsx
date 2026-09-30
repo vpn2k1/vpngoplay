@@ -136,10 +136,6 @@ export function Snake({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
     setRound(r)
   }
 
-  useEffect(() => {
-    newRound()
-  }, []) // eslint-disable-line react-hooks/exhaustive-deps
-
   const turn = (name: keyof typeof DIRS) => {
     if (paused || g.endIn !== null) return
     const d = DIRS[name]
@@ -228,6 +224,8 @@ export function Snake({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
   }
 
   useGameLoop((dt) => {
+    // the first word comes from the loop: an effect would run twice in React's development mode
+    if (!g.rounds) newRound()
     const s = stage()
     if (!s) return
     const { ctx, w, h } = s

@@ -11,6 +11,7 @@ import { japaneseKey, meaningAnswers, pinyinKey, wordAnswers } from '../lib/answ
 import { cardKey, wordCardKey, type SrsCard } from '../lib/srs'
 import { LANGS, type Deck, type Lang, type Track, type Word } from '../lib/types'
 import { normalizeAnswer, shuffle } from '../lib/utils'
+import { deckRotation, type Rotation } from './rotation'
 
 export type StandardMode = 'meaning' | 'write' | 'choice' | 'reverse'
 export type TypingMode = 'meaning' | 'write'
@@ -180,13 +181,15 @@ export function makeChoices(
   labelOf: (w: Word) => string = (w) => meaningAnswers(w)[0] ?? w.meaning,
 ): Choice[] {
   const label = (w: Word) => `${withEmoji && w.emoji ? `${w.emoji} ` : ''}${labelOf(w)}`
-  const seen = new Set([normalizeAnswer(word.meaning)])
+  // Distinct by what is shown (and by meaning): two options must never read the same.
+  const keysOf = (w: Word) => [normalizeAnswer(labelOf(w)), normalizeAnswer(w.meaning)]
+  const seen = new Set(keysOf(word))
   const distractors: Word[] = []
   for (const w of shuffle(pool)) {
     if (distractors.length >= count - 1) break
-    const key = normalizeAnswer(w.meaning)
-    if (w.id === word.id || seen.has(key)) continue
-    seen.add(key)
+    const keys = keysOf(w)
+    if (w.id === word.id || keys.some((k) => seen.has(k))) continue
+    for (const k of keys) seen.add(k)
     distractors.push(w)
   }
   return shuffle([
@@ -217,31 +220,42 @@ export function combineDecks(lang: Lang, decks: Deck[], track: Track = 'work'): 
 }
 
 /**
- * Endless word supply for a game, weighted towards words the learner is due to
- * review or has never seen, and avoiding immediate repeats.
+ * Endless word supply for a game. Each game starts with the words that appeared longest ago on
+ * this deck (remembered across games, see rotation.ts) — so a new game, even on the same topic,
+ * begins with words the last one didn't use — and words last seen in the same game come in
+ * random order. Words due for review jump the queue, except in the game right after one that
+ * already asked them. Within a game the whole deck comes round before a word repeats, and each
+ * round is shuffled again (the last few words kept at the back). Words on screen (`active`) are
+ * not handed out again while there are others.
  */
-export function createWordSource(deck: Deck, srs: Record<string, SrsCard>) {
+export function createWordSource(deck: Deck, srs: Record<string, SrsCard>, rotation: Rotation = deckRotation(deck.id)) {
   const now = Date.now()
-  const recent: string[] = []
-  const weight = (w: Word) => {
-    const card = srs[wordCardKey(deck.id, w)]
-    if (!card) return 2
-    if (card.due <= now) return 4
-    return card.reps === 0 ? 3 : 1
+  const order = (w: Word) => {
+    const last = rotation.lastGame(w.id)
+    const due = (srs[wordCardKey(deck.id, w)]?.due ?? Infinity) <= now
+    // due, and not asked in the previous game
+    return due && (last === 0 || last < rotation.game - 1) ? -1 : last
   }
+  // shuffle first: the sort is stable, so words with the same key stay in random order
+  let bag = shuffle(deck.words).sort((a, b) => order(a) - order(b))
+  let dealt: Word[] = []
 
   return {
     next(active: Iterable<string> = []): Word {
       const activeSet = new Set(active)
-      const blocked = new Set([...recent, ...activeSet])
-      let pool = deck.words.filter((w) => !blocked.has(w.id))
-      if (!pool.length) pool = deck.words.filter((w) => !activeSet.has(w.id))
-      if (!pool.length) pool = deck.words
-      const total = pool.reduce((n, w) => n + weight(w), 0)
-      let r = Math.random() * total
-      const word = pool.find((w) => (r -= weight(w)) <= 0) ?? pool[pool.length - 1]
-      recent.push(word.id)
-      if (recent.length > Math.max(1, Math.min(4, deck.words.length - 4))) recent.shift()
+      if (!bag.length) {
+        const keep = Math.min(3, Math.floor(dealt.length / 3))
+        bag = [...shuffle(dealt.slice(0, dealt.length - keep)), ...shuffle(dealt.slice(dealt.length - keep))]
+        dealt = []
+      }
+      const free = (w: Word) => !activeSet.has(w.id)
+      let i = bag.findIndex(free)
+      // everything left in the bag is on screen: borrow a word already dealt this round
+      const from = i < 0 && dealt.some(free) ? dealt : bag
+      if (i < 0) i = Math.max(0, from.findIndex(free))
+      const [word] = from.splice(i, 1)
+      dealt.push(word)
+      rotation.served(word.id)
       return word
     },
   }

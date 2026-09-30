@@ -71,7 +71,7 @@ function Onboarding({ onSubmit }: { onSubmit: (p: Profile) => void }) {
           </span>
         </h1>
         <p className="mx-auto mt-2 max-w-md text-slate-500">
-          Tiếng Anh, Nhật, Trung với flashcard thông minh, 7 dạng bài luyện, 12 trò chơi và ngữ pháp tiếng Anh. Mỗi ngày
+          Tiếng Anh, Nhật, Trung với flashcard thông minh, 7 dạng bài luyện, 22 trò chơi và ngữ pháp tiếng Anh. Mỗi ngày
           chỉ cần 5 phút.
         </p>
       </section>

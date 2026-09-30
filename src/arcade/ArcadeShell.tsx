@@ -561,15 +561,18 @@ export function ChoicePad({
             onPick(i)
           }}
           className={cx(
-            'flex min-h-16 items-center justify-center gap-2 rounded-2xl border-2 border-b-4 px-3 py-2 text-lg font-extrabold transition active:translate-y-0.5 active:border-b-2 disabled:opacity-50',
+            'flex min-h-16 items-center justify-center gap-2 rounded-2xl border-2 border-b-4 px-2 py-2 text-base leading-tight font-extrabold transition active:translate-y-0.5 active:border-b-2 disabled:opacity-50 sm:px-3 sm:text-lg',
             o.tone === 'correct' && 'border-emerald-600 bg-emerald-500 text-white',
             o.tone === 'wrong' && 'border-rose-600 bg-rose-500 text-white',
             (!o.tone || o.tone === 'idle') &&
               'border-slate-300 bg-white hover:bg-slate-50 dark:border-slate-950 dark:bg-slate-800 dark:hover:bg-slate-700',
           )}
         >
-          <kbd className="rounded-lg bg-black/10 px-2 py-0.5 font-mono text-sm dark:bg-white/10">{o.keyLabel}</kbd>
-          <span className="min-w-0 truncate">{o.label}</span>
+          <kbd className="shrink-0 rounded-lg bg-black/10 px-2 py-0.5 font-mono text-sm dark:bg-white/10">
+            {o.keyLabel}
+          </kbd>
+          {/* long meanings wrap to a second line instead of being cut off on phones */}
+          <span className="line-clamp-3 min-w-0 text-left">{o.label}</span>
         </button>
       ))}
     </div>

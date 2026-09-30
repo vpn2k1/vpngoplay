@@ -38,7 +38,7 @@ Câu hỏi **"Bạn thuộc nhóm nào?"** (lúc bắt đầu và trong Cài đ�
 
 Học tập và trò chơi là **hai tab tách biệt** trên thanh điều hướng:
 - **📚 Học tập** (`/`): các bộ từ và 4 bài ôn luyện.
-- **🕹️ Trò chơi** (`/games`): 12 game dùng chung cho mọi ngôn ngữ.
+- **🕹️ Trò chơi** (`/games`): 22 game dùng chung cho mọi ngôn ngữ, chia 4 nhóm: Phản xạ nhanh · Chữ & trí nhớ · Đố vui · Đấu với robot (`GAME_GROUPS` trong `src/arcade/games.tsx`).
 
 Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, bộ từ (một bộ, một lộ trình hoặc ⭐ **Tất cả chủ đề của bạn**) và chế độ chơi. Khi chơi "Tất cả chủ đề", từ bị lọt vẫn được xếp lịch ôn trong bộ gốc của nó (`Word.srsKey`).
 
@@ -56,6 +56,16 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 | 💪 Kéo co | Chọn nghĩa · Chọn từ · Gõ nghĩa · Gõ ngoại ngữ | Đấu với đội robot: mỗi câu đúng kéo dây về phía bạn, sai hay bỏ qua thì robot giật lại. Đưa cờ qua vạch bên mình là thắng vòng; robot mạnh dần qua từng vòng |
 | 🎟️ Lô tô | Nhìn và nghe · Chỉ nghe · Chọn từ | Người xướng đọc từng từ, tìm ô đúng trên vé trước khi hết lượt. Đủ hàng ngang, dọc hoặc chéo là "Kinh!" (+50). Vé 4×4 khi bộ từ đủ 16 nghĩa khác nhau, không thì 3×3 |
 | 🔤 Xếp chữ | Nhìn nghĩa · Nghe rồi xếp | 90 giây xếp lại các chữ bị xáo (lẫn vài chữ thừa) thành từ: chữ cái cho tiếng Anh, kana cho tiếng Nhật (kể cả từ viết bằng kanji), chữ Hán cho tiếng Trung. Nhầm 3 lần thì lộ đáp án; có Gợi ý và Bỏ qua |
+| 🎣 Câu cá | Chọn nghĩa · Chọn từ | 60 giây thả câu: chạm chú cá mang đáp án đúng (hoặc bấm số 1–4 trên nhãn) để kéo lên thuyền; câu nhanh và combo được thêm điểm. Câu nhầm bị trừ 3 giây, cá đúng nhấp nháy để bạn câu lại. Cá bơi ra khỏi màn hình sẽ quay lại từ phía bên kia |
+| 🧺 Hứng quả | Chọn nghĩa · Chọn từ | Di chuyển giỏ (← → / A D hoặc kéo ngón tay) hứng quả mang đáp án đúng trong 2–3 quả rơi so le (trẻ em: 2 quả, rơi chậm hơn). Hứng nhầm hoặc để quả đúng rơi xuống đất mất một mạng; quả rơi nhanh dần |
+| ⛏️ Đào vàng | Chọn nghĩa · Chọn từ | 60 giây: móc câu đung đưa, chạm màn hình / Space / ↓ để thả móc gắp cục vàng mang đáp án đúng. Gắp nhanh và giữ combo được nhiều tiền, cục to đáng giá hơn nhưng kéo lên chậm; gắp nhầm thì kéo chậm và cục đúng sáng lên, gắp phải đá chỉ mất thời gian |
+| ⛄ Người tuyết | Nhìn nghĩa · Nghe rồi đoán | Đoán từ bị giấu từng chữ: chữ cái cho tiếng Anh, kana cho tiếng Nhật, pinyin không dấu cho tiếng Trung (giải xong hiện chữ Hán). Mỗi lần đoán sai người tuyết tan thêm một chút (rơi mũ, khăn, tay, mũi…) dưới mặt trời to dần; sai 6 lần là mất từ. 8 từ một ván (trẻ em 5), có Gợi ý mở một chữ (tối đa 2 lần mỗi từ) |
+| 🔍 Tìm từ | Dễ · Khó | Tìm các từ giấu trong bảng chữ theo nghĩa tiếng Việt: kéo qua các chữ hoặc chạm chữ đầu rồi chữ cuối. Dễ: 5 từ nằm ngang/dọc; Khó: 7 từ theo cả 8 hướng, kể cả viết ngược (trẻ em luôn 5 từ). Chữ cái cho tiếng Anh, kana cho tiếng Nhật, chữ Hán cho tiếng Trung. Tìm hết càng nhanh càng nhiều điểm; Bỏ cuộc thì lộ các từ còn lại |
+| 💰 Ai là triệu phú | Chọn nghĩa · Chọn từ · Nghe và chọn | 15 câu 4 đáp án A–D, tiền thưởng leo từ 200.000đ tới 150.000.000đ, mỗi câu 30 giây (trẻ em 45 giây). Sai hoặc hết giờ thì ra về với mốc an toàn (câu 5: 2.000.000đ, câu 10: 22.000.000đ), hoặc "Dừng cuộc chơi" để giữ tiền đang có. Ba quyền trợ giúp một lần: 50:50, Hỏi ý kiến khán giả, Đổi câu hỏi |
+| 🔔 Rung chuông vàng | Gõ nghĩa tiếng Việt · Gõ ngoại ngữ | Viết đáp án lên bảng rồi "Giơ bảng" (Enter) trong 20 giây (trẻ em 30 giây). Sai hay hết giờ là bị loại, trừ một lần Cứu trợ. Vượt qua cả 20 câu để rung chuông vàng |
+| 🥅 Sút luân lưu | Chọn nghĩa · Chọn từ · Nghe và chọn | Đá luân lưu với đội robot, mỗi đội 5 quả: lượt bạn sút vào ô (1–4) có đáp án đúng, lượt robot bay người đỡ ở ô khớp với từ trên quả bóng. Hòa thì đá cân não; mỗi quả có đồng hồ đếm ngược |
+| ⭕ Cờ caro | Chọn nghĩa · Chọn từ | Cờ caro 3×3 đấu với robot, mỗi ô là một từ: chạm ô rồi trả lời đúng để đánh ✕, sai thì mất lượt. Robot (◯) biết thắng và biết chặn nhưng thỉnh thoảng đi hớ (trẻ em: hớ nhiều hơn). Thắng 2 ván trước là thắng trận (hòa thì chơi lại, tối đa 5 ván); mỗi ván một bộ từ mới |
+| 🎲 Cờ rắn | Chọn nghĩa · Chọn từ | Đua với robot trên bàn cờ 30 ô: trả lời đúng mới được tung xúc xắc, sai thì mất lượt tung. Chân thang leo lên, đầu rắn trượt xuống; về ô 30 trước là thắng. Robot trả lời đúng 70% (trẻ em 55%); tối đa 40 lượt mỗi bên |
 
 - **Hai hướng gõ, giống nhau cho mọi ngôn ngữ:**
   - **Gõ nghĩa tiếng Việt:** hiện từ ngoại ngữ kèm kana / pinyin / IPA nhỏ bên dưới.
@@ -67,7 +77,8 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
   - Hook gõ phím (`useTyping.ts`).
   - Khung arcade: menu chọn chế độ, tạm dừng bằng Esc, kỷ lục, màn kết quả (`ArcadeShell.tsx`).
 - **Từ bị lọt** trong game được thêm vào lịch ôn Flashcard.
-- **Tốc độ** 🐢 Chậm · 🐰 Vừa (mặc định) · ⚡ Nhanh, chọn trong menu mỗi game và được lưu lại. Tương ứng 50% · 70% · 100% tốc độ gốc: chữ rơi, đường chạy, rắn và thời gian chờ đều chậm theo. Không áp dụng cho Lật hình và Đúng hay sai.
+- **Tốc độ** 🐢 Chậm · 🐰 Vừa (mặc định) · ⚡ Nhanh, chọn trong menu mỗi game và được lưu lại. Tương ứng 50% · 70% · 100% tốc độ gốc: chữ rơi, đường chạy, rắn và thời gian chờ đều chậm theo. Không áp dụng cho các game không có gì tự chạy: Lật hình, Đúng hay sai, Xếp chữ, Người tuyết, Tìm từ, Ai là triệu phú, Rung chuông vàng, Cờ caro, Cờ rắn.
+- **Mỗi ván một bộ từ khác:** mỗi bộ từ nhớ (trong `localStorage`) từ nào đã ra ở ván thứ mấy. Ván mới bắt đầu bằng những từ lâu chưa gặp nhất, từ ngang nhau thì xáo ngẫu nhiên, nên vào lại cùng một chủ đề vẫn gặp từ khác ván trước. Trong một ván, phải ra hết các từ của bộ mới lặp lại, và mỗi vòng được xáo lại. Từ đến hạn ôn được hỏi trước, nhưng không hai ván liền nhau (`src/arcade/rotation.ts`, `createWordSource` trong `challenge.ts`).
 - **Thêm game mới:** viết một component nhận `ArcadeGameProps` rồi đăng ký trong `src/arcade/games.tsx`.
 
 Có XP, chuỗi ngày học (streak), mục tiêu mỗi ngày. Tiến độ lưu trong `localStorage`, và đồng bộ lên tài khoản khi đăng nhập (xem [Tài khoản & bảng xếp hạng](#tài-khoản--bảng-xếp-hạng)).
@@ -142,7 +153,7 @@ Có 6 bộ, mỗi bộ 12 câu:
 - **Tiếng Trung:** thành ngữ 成语, quán dụng ngữ 惯用语.
 
 Mỗi câu có nghĩa tương đương trong tiếng Việt, và âm Hán Việt nếu có (一石二鳥 nhất thạch nhị điểu, 入乡随俗 nhập gia tùy tục).
-- **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 12 trò chơi.
+- **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 22 trò chơi.
 - **Nơi hiển thị:** các bộ này có trang riêng, không nằm trong mục "Chủ đề" ở trang học.
 
 ## Ôn tập (tab riêng, `/review`)
@@ -438,7 +449,7 @@ src/
     idioms.tsx            # Thành ngữ: các bộ từ category "idioms"
     community.tsx         # Cộng đồng: câu hỏi trắc nghiệm do người học đăng (lib/community.ts)
   games/                  # Flashcard, Match, SentenceBuilder, Dictation, SentencePack, RolePlay
-  arcade/                 # engine + 12 game arcade (games/*.tsx) + dữ liệu bảng chữ (scripts.ts), vé lô tô (bingo.ts), xếp chữ (spell.ts)
+  arcade/                 # engine + 22 game arcade (games/*.tsx), xoay vòng từ (rotation.ts), nhãn nhiều dòng trên canvas (labels.ts), bảng chữ (scripts.ts) và logic thuần của từng game có test (bingo, spell, hangman, wordsearch, goldminer, millionaire, goldenbell, tictactoe, snakesladders)
   components/             # ui.tsx, ProfileForm.tsx (react-hook-form + zod)
   lib/                    # api (queryOptions), store (zustand), srs, speech, types
 public/decks/*.json       # nội dung bài học (bộ chủ đề + từng bài của lộ trình)

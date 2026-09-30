@@ -80,6 +80,16 @@ import FlexedBiceps from '~icons/fluent-emoji/flexed-biceps'
 import InputLatinLetters from '~icons/fluent-emoji/input-latin-letters'
 import Robot from '~icons/fluent-emoji/robot'
 import TriangularFlag from '~icons/fluent-emoji/triangular-flag'
+import Bell from '~icons/fluent-emoji/bell'
+import MoneyBag from '~icons/fluent-emoji/money-bag'
+import Pick from '~icons/fluent-emoji/pick'
+import GoalNet from '~icons/fluent-emoji/goal-net'
+import SnowmanIcon from '~icons/fluent-emoji/snowman'
+import MagnifyingGlassTiltedLeft from '~icons/fluent-emoji/magnifying-glass-tilted-left'
+import FishingPole from '~icons/fluent-emoji/fishing-pole'
+import Basket from '~icons/fluent-emoji/basket'
+import HollowRedCircle from '~icons/fluent-emoji/hollow-red-circle'
+import GameDie from '~icons/fluent-emoji/game-die'
 import type { CourseLevel, GameSpeed, GrammarGroup, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
@@ -118,6 +128,16 @@ export const GAME_ICON: Record<string, IconType> = {
   tug: FlexedBiceps,
   bingo: AdmissionTickets,
   spell: InputLatinLetters,
+  millionaire: MoneyBag,
+  goldenbell: Bell,
+  goldminer: Pick,
+  penalty: GoalNet,
+  hangman: SnowmanIcon,
+  wordsearch: MagnifyingGlassTiltedLeft,
+  fishing: FishingPole,
+  catch: Basket,
+  tictactoe: HollowRedCircle,
+  snakesladders: GameDie,
 }
 
 /** Icons for game modes; modes without one (kana / hanzi sets) show their glyph instead. */

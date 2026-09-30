@@ -1,7 +1,7 @@
 import confetti from 'canvas-confetti'
-import { Volume2 } from 'lucide-react'
+import { Check, Volume2 } from 'lucide-react'
 import { AnimatePresence, motion } from 'motion/react'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Fire } from '../../components/icons'
 import { cx } from '../../components/ui'
 import { meaningAnswers } from '../../lib/answer'
@@ -39,23 +39,20 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
   const labelOf = (w: Word) => (reverse ? w.term : (meaningAnswers(w)[0] ?? w.meaning))
   const callTime = (CALL_TIME + (listen ? LISTEN_EXTRA : 0)) / pace
 
-  const [{ cells: initial, cols, lines, order }] = useState(() => {
-    const source = createWordSource(deck, useProgress.getState().srs)
-    const words = pickTicket(deck.words, labelOf, (taken) => source.next(taken))
-    const { cols, rows } = ticketSize(words.length)
-    return {
-      cells: words.map((word) => ({ word, label: labelOf(word), state: 'open' as CellState })),
-      cols,
-      lines: ticketLines(cols, rows, words.length),
-      order: shuffle(words.map((_, i) => i)),
-    }
-  })
-  const [cells, setCells] = useState<Cell[]>(initial)
+  const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
+  // The ticket is dealt by the game loop's first frame, not while rendering: React may render
+  // twice in development, and a discarded render would still count its words as played.
+  const [cols, setCols] = useState(3)
+  const [cells, setCells] = useState<Cell[]>([])
   const [call, setCall] = useState<{ n: number; cell: number } | null>(null)
   const [shake, setShake] = useState<{ cell: number; n: number } | null>(null)
   const [kinh, setKinh] = useState<{ n: number; text: string } | null>(null)
   const [hud, setHud] = useState({ score: 0, combo: 0, left: 1, kinh: 0 })
   const g = useGameState(() => ({
+    words: [] as Word[],
+    lines: [] as number[][],
+    /** cell indexes in calling order */
+    order: [] as number[],
     n: -1,
     /** the current call is answered or timed out */
     resolved: true,
@@ -75,30 +72,40 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
   const pushHud = () => setHud({ score: g.score, combo: g.combo, left: g.callLeft / callTime, kinh: g.kinh })
 
   const announce = (cell: number) => {
-    if (!reverse) speak(initial[cell].word.term, lang)
+    if (!reverse) speak(g.words[cell].term, lang)
+  }
+
+  const dealTicket = () => {
+    g.words = pickTicket(deck.words, labelOf, (taken) => source.next(taken))
+    const { cols, rows } = ticketSize(g.words.length)
+    g.lines = ticketLines(cols, rows, g.words.length)
+    g.order = shuffle(g.words.map((_, i) => i))
+    setCols(cols)
+    setCells(g.words.map((word) => ({ word, label: labelOf(word), state: 'open' })))
   }
 
   const nextCall = () => {
     g.n++
-    if (g.n >= order.length) return finish()
+    if (g.n >= g.order.length) return finish()
     g.resolved = false
     g.callLeft = callTime
-    setCall({ n: g.n, cell: order[g.n] })
-    announce(order[g.n])
+    setCall({ n: g.n, cell: g.order[g.n] })
+    announce(g.order[g.n])
     pushHud()
   }
 
   const finish = () => {
     if (g.done) return
     g.done = true
-    const full = g.hits === initial.length
+    const total = g.words.length
+    const full = g.hits === total
     if (full) g.score += FULL_BONUS
     onGameOver({
       score: g.score,
       xp: Math.min(60, 5 + g.hits * 3 + g.kinh * 3),
-      stars: g.hits >= initial.length * 0.9 ? 3 : g.hits >= initial.length * 0.6 ? 2 : g.hits >= 1 ? 1 : 0,
+      stars: g.hits >= total * 0.9 ? 3 : g.hits >= total * 0.6 ? 2 : g.hits >= 1 ? 1 : 0,
       stats: [
-        ['Ô đúng', `${g.hits}/${initial.length}`],
+        ['Ô đúng', `${g.hits}/${total}`],
         ['Kinh (đủ hàng)', full ? `${g.kinh} · cả vé!` : g.kinh],
         ['Chọn nhầm', g.wrong],
         ['Combo cao nhất', g.maxCombo],
@@ -133,7 +140,7 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
     g.maxCombo = Math.max(g.maxCombo, g.combo)
     g.score += 10 + Math.ceil(g.callLeft) + Math.min(20, g.combo * 2)
     const next = resolve('hit', index)
-    const done = lines.filter((line) => line.includes(index) && line.every((i) => next[i].state === 'hit'))
+    const done = g.lines.filter((line) => line.includes(index) && line.every((i) => next[i].state === 'hit'))
     if (done.length) {
       g.kinh += done.length
       g.score += KINH_BONUS * done.length
@@ -164,6 +171,7 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
   })
 
   useGameLoop((dt) => {
+    if (!g.words.length) dealTicket()
     if (!g.resolved) {
       g.callLeft -= dt
       if (g.callLeft <= 0 && call) {
@@ -182,7 +190,7 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
     if (Math.abs(hud.left - g.callLeft / callTime) > 0.01) pushHud()
   }, !paused && !g.done)
 
-  const called = call ? initial[call.cell].word : null
+  const called = call ? g.words[call.cell] : null
   const reading = called && !reverse ? readingOf(called, lang) : undefined
   const answered = call && cells[call.cell].state !== 'open'
 
@@ -190,7 +198,7 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
     <div className="space-y-4">
       <div className="flex items-center gap-2 text-sm font-bold">
         <span className="rounded-full bg-slate-200 px-3 py-1 dark:bg-slate-800">
-          Lượt {Math.max(1, (call?.n ?? 0) + 1)}/{order.length}
+          Lượt {Math.max(1, (call?.n ?? 0) + 1)}/{cells.length || '…'}
         </span>
         <span className="rounded-full bg-rose-100 px-3 py-1 text-rose-700 dark:bg-rose-950 dark:text-rose-300">
           Kinh: {hud.kinh}
@@ -208,18 +216,16 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
 
       {/* The caller: a numbered lottery ball and the word (or only its sound) */}
       <div className="flex items-center gap-4 rounded-3xl bg-gradient-to-r from-rose-500 to-orange-400 p-4 text-white shadow-[0_6px_0_rgba(190,18,60,.3)]">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={call?.n ?? 'wait'}
-            initial={{ scale: 0, rotate: -180 }}
-            animate={{ scale: 1, rotate: 0 }}
-            exit={{ scale: 0, opacity: 0 }}
-            transition={{ type: 'spring', stiffness: 260, damping: 18 }}
-            className="flex size-18 shrink-0 items-center justify-center rounded-full border-4 border-white bg-[radial-gradient(circle_at_35%_30%,#fff,#fde68a_45%,#f59e0b)] text-3xl font-black text-rose-600 shadow-lg sm:size-20"
-          >
-            {call ? call.n + 1 : '?'}
-          </motion.div>
-        </AnimatePresence>
+        {/* a new ball rolls in for every call; no exit animation, so there is never a gap */}
+        <motion.div
+          key={call?.n ?? 'wait'}
+          initial={{ scale: 0.5, rotate: -120 }}
+          animate={{ scale: 1, rotate: 0 }}
+          transition={{ type: 'spring', stiffness: 300, damping: 18 }}
+          className="flex size-16 shrink-0 items-center justify-center rounded-full border-4 border-white bg-[radial-gradient(circle_at_35%_30%,#fff,#fde68a_45%,#f59e0b)] text-3xl font-black text-rose-600 shadow-lg sm:size-20"
+        >
+          {call ? call.n + 1 : '?'}
+        </motion.div>
         <div className="min-w-0 flex-1">
           <div className="text-xs font-bold text-white/80 uppercase">
             {reverse ? 'Tìm từ có nghĩa' : listen ? 'Nghe và tìm nghĩa' : 'Tìm nghĩa của'}
@@ -236,7 +242,10 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
             </button>
           ) : (
             <>
-              <div lang={reverse ? undefined : lang} className="truncate text-2xl font-black sm:text-3xl">
+              <div
+                lang={reverse ? undefined : lang}
+                className="line-clamp-2 text-xl leading-tight font-black sm:text-3xl"
+              >
                 {reverse ? labelOf(called) : called.term}
               </div>
               {reading && <div className="text-sm font-bold text-white/85">{reading}</div>}
@@ -268,42 +277,45 @@ export function Bingo({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
                 e.preventDefault()
                 tap(i)
               }}
-              // alternating keyframes so a second wrong tap on the same cell shakes it again
-              animate={shake?.cell === i ? { x: shake.n % 2 ? [0, -8, 8, -5, 5, 0] : [0, 8, -8, 5, -5, 0] } : { x: 0 }}
+              // a stamped cell pops; a wrong tap shakes (alternating keyframes so a second one shakes again)
+              animate={
+                shake?.cell === i && cell.state === 'open'
+                  ? { x: shake.n % 2 ? [0, -8, 8, -5, 5, 0] : [0, 8, -8, 5, -5, 0], scale: 1 }
+                  : cell.state === 'hit'
+                    ? { x: 0, scale: [1, 1.1, 1] }
+                    : { x: 0, scale: 1 }
+              }
               transition={{ duration: 0.3 }}
               className={cx(
-                'relative flex min-h-18 items-center justify-center rounded-2xl border-2 border-b-4 p-1.5 text-center leading-tight font-extrabold select-none sm:min-h-22',
+                'relative flex min-h-18 flex-col items-center justify-center gap-0.5 rounded-2xl border-2 border-b-4 p-1.5 text-center leading-tight font-extrabold select-none sm:min-h-22',
                 reverse ? 'text-lg sm:text-xl' : 'text-xs sm:text-sm',
                 cell.state === 'open' &&
                   'border-amber-200 bg-white text-slate-800 hover:border-amber-300 active:translate-y-0.5 active:border-b-2 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100',
-                cell.state === 'hit' &&
-                  'border-rose-200 bg-rose-50 text-rose-900 dark:bg-rose-950/60 dark:text-rose-200',
+                cell.state === 'hit' && 'border-rose-700 bg-gradient-to-br from-rose-500 to-orange-400 text-white',
                 cell.state === 'miss' &&
                   'border-slate-200 bg-slate-100 text-slate-400 dark:border-slate-800 dark:bg-slate-900',
               )}
             >
-              <span className="relative z-10 line-clamp-3">
+              <span className={cx('line-clamp-3', cell.state === 'miss' && 'line-through decoration-2')}>
                 {withEmoji && cell.word.emoji && <span className="mr-0.5">{cell.word.emoji}</span>}
                 {cell.label}
               </span>
-              {cell.state === 'miss' && (
-                <span lang={lang} className="absolute inset-x-0 bottom-0.5 truncate px-1 text-[10px] font-bold">
+              {/* the word under its meaning once the cell is decided */}
+              {cell.state !== 'open' && !reverse && (
+                <span lang={lang} className="max-w-full truncate text-[11px] font-bold opacity-90">
                   {cell.word.term}
                 </span>
               )}
-              <AnimatePresence>
-                {cell.state === 'hit' && (
-                  // a round dauber stamp over the word
-                  <span className="pointer-events-none absolute inset-0 flex items-center justify-center">
-                    <motion.span
-                      initial={{ scale: 2.2, opacity: 0 }}
-                      animate={{ scale: 1, opacity: 1 }}
-                      transition={{ type: 'spring', stiffness: 400, damping: 16 }}
-                      className="size-14 rounded-full border-4 border-rose-500 bg-rose-500/20 sm:size-16"
-                    />
-                  </span>
-                )}
-              </AnimatePresence>
+              {cell.state === 'hit' && (
+                <motion.span
+                  initial={{ scale: 0 }}
+                  animate={{ scale: 1 }}
+                  transition={{ type: 'spring', stiffness: 500, damping: 18 }}
+                  className="absolute -top-1.5 -right-1.5 flex size-6 items-center justify-center rounded-full border-2 border-white bg-emerald-500 text-white shadow"
+                >
+                  <Check className="size-3.5" strokeWidth={4} />
+                </motion.span>
+              )}
             </motion.button>
           ))}
         </div>

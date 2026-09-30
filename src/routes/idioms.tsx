@@ -19,7 +19,7 @@ const INTRO = {
   zh: 'Thành ngữ 成语 và quán dụng ngữ 惯用语, kèm âm Hán Việt để dễ nhớ.',
 }
 
-/** Idiom decks are ordinary decks (all 7 exercises and 12 games work), listed on their own page. */
+/** Idiom decks are ordinary decks (all 7 exercises and 22 games work), listed on their own page. */
 function IdiomsPage() {
   const { data: catalog } = useSuspenseQuery(catalogQuery)
   const { lang, info } = useLang()
@@ -45,7 +45,7 @@ function IdiomsPage() {
         <h1 className="relative text-3xl font-black">Thành ngữ</h1>
         <p className="relative mt-1 max-w-md text-white/90">{INTRO[lang]}</p>
         <p className="relative mt-3 text-sm font-semibold text-white/80">
-          Học như bộ từ: Flashcard, ghép cặp, điền từ, xếp câu và cả 12 trò chơi.
+          Học như bộ từ: Flashcard, ghép cặp, điền từ, xếp câu và cả 22 trò chơi.
         </p>
       </section>
 

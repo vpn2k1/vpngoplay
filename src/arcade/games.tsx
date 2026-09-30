@@ -3,16 +3,26 @@ import type { Lang } from '../lib/types'
 import type { ArcadeGameProps } from './ArcadeShell'
 import { standardMode, type ModeOption } from './challenge'
 import { Bingo } from './games/Bingo'
+import { Catch } from './games/Catch'
 import { Dino } from './games/Dino'
+import { Fishing } from './games/Fishing'
 import { Flappy } from './games/Flappy'
+import { GoldMiner } from './games/GoldMiner'
+import { GoldenBell } from './games/GoldenBell'
 import { Memory } from './games/Memory'
+import { Millionaire } from './games/Millionaire'
+import { Penalty } from './games/Penalty'
 import { Racing } from './games/Racing'
 import { Rain } from './games/Rain'
 import { Shooter } from './games/Shooter'
 import { Snake } from './games/Snake'
+import { SnakesLadders } from './games/SnakesLadders'
+import { Snowman } from './games/Snowman'
 import { Spell } from './games/Spell'
+import { TicTacToe } from './games/TicTacToe'
 import { TrueFalse } from './games/TrueFalse'
 import { Tug } from './games/Tug'
+import { WordSearch } from './games/WordSearch'
 import { Whack } from './games/Whack'
 import { SCRIPT_SETS } from './scripts'
 
@@ -228,9 +238,213 @@ export const ARCADE_GAMES = {
     ],
     Game: Spell,
   },
+  millionaire: {
+    id: 'millionaire',
+    paced: false,
+    title: 'Ai là triệu phú',
+    icon: '💰',
+    color: 'from-indigo-600 to-violet-800',
+    blurb: '15 câu hỏi leo thang tiền thưởng tới 150 triệu',
+    intro:
+      'Trả lời đúng 15 câu hỏi để leo lên đỉnh 150.000.000đ! Mốc an toàn ở câu 5 và 10, ba quyền trợ giúp, mỗi câu 30 giây.',
+    controls: [
+      'Chạm đáp án hoặc phím 1–4 / A–D — chờ một nhịp hồi hộp để biết đúng hay sai',
+      'Quyền trợ giúp (mỗi loại một lần): 50:50, Hỏi ý kiến khán giả, Đổi câu hỏi',
+      'Sai hoặc hết giờ: ra về với mốc an toàn · “Dừng cuộc chơi” để mang về tiền đang có · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      standardMode('choice', lang),
+      standardMode('reverse', lang),
+      { id: 'listen', icon: '👂', label: 'Nghe và chọn', hint: 'Chỉ nghe đọc từ (không thấy chữ) → chọn nghĩa' },
+    ],
+    Game: Millionaire,
+  },
+  goldenbell: {
+    id: 'goldenbell',
+    paced: false,
+    title: 'Rung chuông vàng',
+    icon: '🔔',
+    color: 'from-amber-400 to-yellow-600',
+    blurb: 'Viết đáp án lên bảng, vượt qua 20 câu để rung chuông',
+    intro:
+      'Viết đáp án lên bảng và giơ lên trước khi hết giờ. Sai một câu là bị loại — nhưng bạn có một lần Cứu trợ. Vượt qua cả 20 câu để rung chuông vàng!',
+    controls: [
+      'Gõ đáp án lên bảng rồi bấm “Giơ bảng” hoặc Enter — mỗi câu 20 giây',
+      'Gõ nghĩa không cần dấu; gõ ngoại ngữ bằng chữ cái, romaji/kana/kanji hoặc pinyin/chữ Hán',
+      'Sai hay hết giờ là bị loại · Cứu trợ cho bạn quay lại một lần · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('meaning', lang), standardMode('write', lang)],
+    Game: GoldenBell,
+  },
+  goldminer: {
+    id: 'goldminer',
+    title: 'Đào vàng',
+    icon: '⛏️',
+    color: 'from-amber-400 to-yellow-700',
+    blurb: '60 giây thả móc gắp cục vàng mang đáp án đúng',
+    intro:
+      'Móc câu đung đưa qua lại dưới chân anh thợ mỏ. Canh đúng lúc thả móc để gắp cục vàng mang đáp án đúng — cục to kéo lên chậm, tránh đá kẻo mất thời gian!',
+    controls: [
+      'Chạm màn hình, Space hoặc ↓ để thả móc theo hướng đang chỉ',
+      'Gắp đúng được tiền: càng nhanh, combo càng cao, cục càng to càng nhiều tiền (nhưng kéo lên chậm hơn)',
+      'Gắp nhầm: kéo lên chậm và cục vàng đúng sáng xanh · gắp phải đá chỉ mất thời gian · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
+    Game: GoldMiner,
+  },
+  penalty: {
+    id: 'penalty',
+    title: 'Sút luân lưu',
+    icon: '🥅',
+    color: 'from-green-500 to-emerald-700',
+    blurb: 'Đá luân lưu với đội robot: sút và bắt bóng bằng từ vựng',
+    intro:
+      'Loạt sút luân lưu với đội robot! Lượt bạn: sút vào ô có đáp án đúng. Lượt robot: bay người đỡ ở ô khớp với từ trên quả bóng. Mỗi đội 5 quả, hòa thì đá cân não.',
+    controls: [
+      'Chạm ô trong khung thành hoặc phím 1–4 (trẻ em: 1–3)',
+      'Mỗi quả có thời gian đếm ngược — hết giờ là hỏng',
+      'Space hoặc nút loa: nghe lại · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      standardMode('choice', lang),
+      standardMode('reverse', lang),
+      { id: 'listen', icon: '👂', label: 'Nghe và chọn', hint: 'Chỉ nghe đọc từ (không thấy chữ) → chọn nghĩa' },
+    ],
+    Game: Penalty,
+  },
+  hangman: {
+    id: 'hangman',
+    paced: false,
+    title: 'Người tuyết',
+    icon: '⛄',
+    color: 'from-sky-400 to-indigo-500',
+    blurb: 'Đoán từ từng chữ trước khi người tuyết tan',
+    intro:
+      'Một từ đang được giấu! Đoán từng chữ của nó trước khi người tuyết tan. Mỗi lần đoán sai, mặt trời to thêm và người tuyết rơi mất mũ, khăn, tay, mũi… — sai 6 lần là tan hết.',
+    controls: [
+      'Chạm chữ trên bàn phím hoặc gõ phím a–z · tiếng Nhật chạm kana',
+      'Tiếng Trung đoán phiên âm pinyin không dấu, giải xong hiện chữ Hán',
+      'Gợi ý mở giúp một chữ (tối đa 2 lần mỗi từ, bớt điểm) · Space: nghe lại · Esc: tạm dừng',
+    ],
+    modes: () => [
+      { id: 'meaning', icon: '🇻🇳', label: 'Nhìn nghĩa', hint: 'Thấy nghĩa tiếng Việt → đoán từng chữ' },
+      { id: 'listen', icon: '👂', label: 'Nghe rồi đoán', hint: 'Chỉ nghe đọc từ → đoán từng chữ' },
+    ],
+    Game: Snowman,
+  },
+  wordsearch: {
+    id: 'wordsearch',
+    paced: false,
+    title: 'Tìm từ',
+    icon: '🔍',
+    color: 'from-emerald-400 to-teal-600',
+    blurb: 'Tìm các từ giấu trong bảng chữ',
+    intro:
+      'Các từ đang trốn trong bảng chữ! Đọc nghĩa tiếng Việt, tìm từ đó rồi kéo tay qua các chữ để khoanh lại. Tìm hết thật nhanh để được nhiều điểm.',
+    controls: [
+      'Kéo qua các chữ theo hàng ngang, dọc hoặc chéo — hoặc chạm chữ đầu rồi chữ cuối',
+      'Tiếng Anh tìm chữ cái, tiếng Nhật tìm kana, tiếng Trung tìm chữ Hán',
+      'Phím mũi tên + Enter cũng chọn được · Bỏ cuộc (bấm 2 lần) để xem đáp án · Esc: tạm dừng',
+    ],
+    modes: () => [
+      { id: 'easy', icon: '🌱', label: 'Dễ', hint: '5 từ, nằm ngang → hoặc dọc ↓' },
+      { id: 'hard', icon: '🧠', label: 'Khó', hint: '7 từ theo cả 8 hướng, kể cả chéo và viết ngược' },
+    ],
+    Game: WordSearch,
+  },
+  fishing: {
+    id: 'fishing',
+    title: 'Câu cá',
+    icon: '🎣',
+    color: 'from-cyan-400 to-blue-600',
+    blurb: '60 giây thả câu đúng chú cá mang đáp án',
+    intro:
+      'Đàn cá bơi qua lại, mỗi chú mang một đáp án. Chạm vào chú cá đúng để thả câu và kéo lên thuyền — câu càng nhanh, càng liên tiếp thì càng nhiều điểm!',
+    controls: [
+      'Chạm vào cá hoặc nhãn của nó, hay bấm phím số trên nhãn (1–4)',
+      'Câu nhanh và đúng liên tiếp được thưởng thêm điểm',
+      'Câu nhầm bị trừ 3 giây và chú cá đúng sẽ nhấp nháy · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
+    Game: Fishing,
+  },
+  catch: {
+    id: 'catch',
+    title: 'Hứng quả',
+    icon: '🧺',
+    color: 'from-lime-400 to-orange-500',
+    blurb: 'Di chuyển giỏ hứng đúng quả mang đáp án',
+    intro:
+      'Trái cây mang chữ đang rơi xuống vườn! Di chuyển giỏ để hứng đúng quả có đáp án đúng — hứng nhầm hay để rơi quả đúng là mất một mạng.',
+    controls: [
+      '← → / A D, hoặc chạm và kéo trên màn hình để di chuyển giỏ',
+      'Mỗi lượt chỉ có một quả đúng · bóng dưới đất cho biết quả sắp rơi vào đâu',
+      'Quả rơi nhanh dần khi bạn hứng đúng · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
+    Game: Catch,
+  },
+  tictactoe: {
+    id: 'tictactoe',
+    paced: false,
+    title: 'Cờ caro',
+    icon: '⭕',
+    color: 'from-indigo-400 to-fuchsia-600',
+    blurb: 'Trả lời đúng để đánh ✕ — ba ô thẳng hàng là thắng robot',
+    intro:
+      'Đấu cờ caro 3×3 với robot! Mỗi ô là một từ: chạm ô rồi trả lời đúng để đánh ✕ vào đó, sai thì mất lượt. Ai thắng 2 ván trước là thắng trận.',
+    controls: [
+      'Chạm một ô trống (hoặc phím 1–9) rồi chọn đáp án: phím 1–4 hoặc chạm',
+      'Đúng: ô đó là ✕ của bạn · sai: mất lượt, robot đi thay',
+      'Ba ✕ thẳng hàng ngang, dọc hoặc chéo là thắng ván · hòa thì chơi lại, tối đa 5 ván · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
+    Game: TicTacToe,
+  },
+  snakesladders: {
+    id: 'snakesladders',
+    paced: false,
+    title: 'Cờ rắn',
+    icon: '🎲',
+    color: 'from-lime-400 to-teal-600',
+    blurb: 'Trả lời đúng để tung xúc xắc, leo thang, né rắn, về đích trước robot',
+    intro:
+      'Đua về ô 30 với robot trên bàn cờ rắn! Mỗi lượt trả lời một câu: đúng thì được tung xúc xắc. Gặp chân thang thì leo lên, gặp đầu rắn thì trượt xuống.',
+    controls: [
+      'Chọn đáp án đúng (phím 1–4 hoặc chạm) để mở nút “Tung xúc xắc”',
+      'Space / Enter hoặc chạm nút để tung · trả lời sai thì mất lượt tung',
+      'Về ô 30 trước là thắng (tung dư vẫn về đích) · tối đa 40 lượt · Esc: tạm dừng',
+    ],
+    modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
+    Game: SnakesLadders,
+  },
 } satisfies Record<string, ArcadeGame>
 
 export type ArcadeGameId = keyof typeof ARCADE_GAMES
+
+/** How the games tab groups the games (every game appears in exactly one group). */
+export const GAME_GROUPS: { title: string; hint: string; ids: ArcadeGameId[] }[] = [
+  {
+    title: 'Phản xạ nhanh',
+    hint: 'Trả lời trước khi chướng ngại vật, con mồi hay thời gian kịp tới',
+    ids: ['shooter', 'dino', 'racing', 'whack', 'flappy', 'snake', 'fishing', 'catch', 'goldminer', 'rain'],
+  },
+  {
+    title: 'Chữ & trí nhớ',
+    hint: 'Ghép, xếp và nhớ mặt chữ, không vội',
+    ids: ['memory', 'spell', 'hangman', 'wordsearch', 'truefalse'],
+  },
+  {
+    title: 'Đố vui',
+    hint: 'Như trên truyền hình: trả lời đúng để đi tiếp',
+    ids: ['millionaire', 'goldenbell', 'bingo'],
+  },
+  {
+    title: 'Đấu với robot',
+    hint: 'Mỗi câu đúng là một nước đi của bạn',
+    ids: ['tug', 'penalty', 'tictactoe', 'snakesladders'],
+  },
+]
 
 /** A random word game (not an alphabet game), different from `current` when possible. */
 export function randomGameId(current?: string): ArcadeGameId {

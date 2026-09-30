@@ -2,7 +2,8 @@ import { readFileSync, readdirSync } from 'node:fs'
 import { join } from 'node:path'
 import { toRomaji } from 'wanakana'
 import { describe, expect, it } from 'vitest'
-import { LANGS, type Deck, type Lang } from '../lib/types'
+import { LANGS, type Deck, type Lang, type Word } from '../lib/types'
+import { normalizeAnswer } from '../lib/utils'
 import { clozeOf } from '../lib/exercises'
 import { cardKey, wordCardKey } from '../lib/srs'
 import {
@@ -119,6 +120,14 @@ describe.each(decks.map((d) => [d.id, d] as const))('choices & word source — %
         expect(choices).toHaveLength(count)
         expect(choices.filter((c) => c.correct)).toHaveLength(1)
         expect(new Set(choices.map((c) => c.label)).size).toBe(count)
+      }
+  })
+
+  it('options never read the same, whichever side is shown (meanings or words)', () => {
+    for (const w of deck.words)
+      for (const labelOf of [undefined, (x: Word) => x.term]) {
+        const labels = makeChoices(w, deck.words, 4, false, labelOf).map((c) => normalizeAnswer(c.label))
+        expect(new Set(labels).size).toBe(labels.length)
       }
   })
 

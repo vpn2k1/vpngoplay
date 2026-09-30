@@ -156,6 +156,9 @@ const tab = (active: boolean) =>
     active ? 'bg-white shadow-sm dark:bg-slate-700' : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300',
   )
 
+/** Google sign-in is hidden for now; set to true to show the button again. */
+const GOOGLE_SIGN_IN = false
+
 function SignIn() {
   const [mode, setMode] = useState<'sign-in' | 'sign-up'>('sign-in')
   const [error, setError] = useState<string | null>(null)
@@ -175,35 +178,39 @@ function SignIn() {
         </button>
       </div>
       {mode === 'sign-in' ? <SignInForm /> : <SignUpForm />}
-      <div className="flex items-center gap-3 text-xs text-slate-400">
-        {/* <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> hoặc{' '}
-        <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> */}
-      </div>
-      {/* <Button
-        variant="ghost"
-        className="w-full"
-        onClick={() => signInWithGoogle().catch((e) => setError(e instanceof Error ? e.message : String(e)))}
-      >
-        <svg viewBox="0 0 24 24" className="size-4" aria-hidden>
-          <path
-            fill="#4285F4"
-            d="M22.6 12.2c0-.8-.1-1.5-.2-2.2H12v4.2h6a5 5 0 0 1-2.2 3.4v2.8h3.6c2-1.9 3.2-4.7 3.2-8.2Z"
-          />
-          <path
-            fill="#34A853"
-            d="M12 23c3 0 5.5-1 7.4-2.7l-3.6-2.8c-1 .7-2.3 1.1-3.8 1.1-2.9 0-5.4-2-6.3-4.6H2v2.9A11 11 0 0 0 12 23Z"
-          />
-          <path
-            fill="#FBBC05"
-            d="M5.7 14c-.2-.7-.4-1.3-.4-2s.2-1.4.4-2V7.1H2A11 11 0 0 0 1 12c0 1.8.4 3.4 1.1 4.9L5.7 14Z"
-          />
-          <path
-            fill="#EA4335"
-            d="M12 5.4c1.6 0 3.1.6 4.2 1.7l3.2-3.2A11 11 0 0 0 2 7.1L5.7 10c.9-2.7 3.4-4.6 6.3-4.6Z"
-          />
-        </svg>
-        Đăng nhập với Google
-      </Button> */}
+      {GOOGLE_SIGN_IN && (
+        <>
+          <div className="flex items-center gap-3 text-xs text-slate-400">
+            <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" /> hoặc{' '}
+            <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
+          </div>
+          <Button
+            variant="ghost"
+            className="w-full"
+            onClick={() => signInWithGoogle().catch((e) => setError(e instanceof Error ? e.message : String(e)))}
+          >
+            <svg viewBox="0 0 24 24" className="size-4" aria-hidden>
+              <path
+                fill="#4285F4"
+                d="M22.6 12.2c0-.8-.1-1.5-.2-2.2H12v4.2h6a5 5 0 0 1-2.2 3.4v2.8h3.6c2-1.9 3.2-4.7 3.2-8.2Z"
+              />
+              <path
+                fill="#34A853"
+                d="M12 23c3 0 5.5-1 7.4-2.7l-3.6-2.8c-1 .7-2.3 1.1-3.8 1.1-2.9 0-5.4-2-6.3-4.6H2v2.9A11 11 0 0 0 12 23Z"
+              />
+              <path
+                fill="#FBBC05"
+                d="M5.7 14c-.2-.7-.4-1.3-.4-2s.2-1.4.4-2V7.1H2A11 11 0 0 0 1 12c0 1.8.4 3.4 1.1 4.9L5.7 14Z"
+              />
+              <path
+                fill="#EA4335"
+                d="M12 5.4c1.6 0 3.1.6 4.2 1.7l3.2-3.2A11 11 0 0 0 2 7.1L5.7 10c.9-2.7 3.4-4.6 6.3-4.6Z"
+              />
+            </svg>
+            Đăng nhập với Google
+          </Button>
+        </>
+      )}
       {error && <p className="text-sm text-rose-600">{error}</p>}
     </div>
   )

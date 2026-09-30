@@ -267,7 +267,7 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
                   >
                     <span
                       className={cx(
-                        'mb-1 max-w-full truncate rounded-full border-2 px-2.5 py-0.5 text-center font-extrabold shadow-[0_3px_0_rgba(15,23,42,.2)]',
+                        'mb-1 line-clamp-2 max-w-full rounded-xl border-2 px-2 py-0.5 text-center leading-tight font-extrabold shadow-[0_3px_0_rgba(15,23,42,.2)]',
                         reverse ? 'text-lg' : 'text-xs sm:text-sm',
                         mole.state === 'hit' || mole.state === 'reveal'
                           ? 'border-emerald-700 bg-emerald-400 text-emerald-950'

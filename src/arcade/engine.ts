@@ -13,7 +13,12 @@ export const rand = (min: number, max: number) => min + Math.random() * (max - m
 export const pick = <T>(items: readonly T[]) => items[Math.floor(Math.random() * items.length)]
 export const clamp = (v: number, min: number, max: number) => Math.min(max, Math.max(min, v))
 
-/** Calls `tick(dt)` every animation frame while `running`; dt is clamped to avoid jumps after tab switches. */
+/**
+ * Calls `tick(dt)` every animation frame while `running`; dt is clamped to avoid jumps after
+ * tab switches, and never negative: a frame's timestamp is when the frame began, which can be
+ * a little before the `performance.now()` the loop started at (a negative first dt made game
+ * clocks negative, and `frames[Math.floor(time * 6) % 2]` then crashed the loop).
+ */
 export function useGameLoop(tick: (dt: number) => void, running: boolean) {
   const ref = useRef(tick)
   useLayoutEffect(() => {
@@ -23,7 +28,7 @@ export function useGameLoop(tick: (dt: number) => void, running: boolean) {
     if (!running) return
     let last = performance.now()
     let id = requestAnimationFrame(function frame(now) {
-      const dt = Math.min(0.05, (now - last) / 1000)
+      const dt = clamp((now - last) / 1000, 0, 0.05)
       last = now
       ref.current(dt)
       id = requestAnimationFrame(frame)

@@ -26,27 +26,35 @@ function formatTime(s: number) {
 export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   const pairs = mode === 'hard' ? 8 : 6
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
-  const [cards] = useState<Card[]>(() => {
-    const picked: Word[] = []
-    while (picked.length < Math.min(pairs, deck.words.length)) picked.push(source.next(picked.map((w) => w.id)))
-    return shuffle(
-      picked.flatMap((word) => [
-        { id: `${word.id}-t`, word, kind: 'term' as const },
-        { id: `${word.id}-m`, word, kind: 'meaning' as const },
-      ]),
-    )
-  })
+  // Dealt by the game loop's first frame, not while rendering: React may render twice in
+  // development, and a discarded render would still count its words as played.
+  const [cards, setCards] = useState<Card[]>([])
   const [open, setOpen] = useState<string[]>([])
   const [matched, setMatched] = useState<Set<string>>(() => new Set())
   const [wrongPair, setWrongPair] = useState<string[]>([])
   const [moves, setMoves] = useState(0)
   const [seconds, setSeconds] = useState(0)
-  const g = useGameState(() => ({ time: 0, mistakes: new Map<string, number>(), done: false }))
+  const g = useGameState(() => ({ dealt: false, time: 0, mistakes: new Map<string, number>(), done: false }))
   useDebugState({ cards, g })
   const Mascot = MASCOT[deck.lang]
   const total = cards.length / 2
 
+  const deal = () => {
+    const picked: Word[] = []
+    while (picked.length < Math.min(pairs, deck.words.length)) picked.push(source.next(picked.map((w) => w.id)))
+    g.dealt = true
+    setCards(
+      shuffle(
+        picked.flatMap((word) => [
+          { id: `${word.id}-t`, word, kind: 'term' as const },
+          { id: `${word.id}-m`, word, kind: 'meaning' as const },
+        ]),
+      ),
+    )
+  }
+
   useGameLoop((dt) => {
+    if (!g.dealt) deal()
     g.time += dt
     if (Math.floor(g.time) !== seconds) setSeconds(Math.floor(g.time))
   }, !paused && !g.done)

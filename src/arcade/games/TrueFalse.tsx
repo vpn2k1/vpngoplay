@@ -123,10 +123,6 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     if (listen) speak(word.term, deck.lang)
   }
 
-  useEffect(() => {
-    newRound()
-  }, []) // eslint-disable-line react-hooks/exhaustive-deps
-
   // The "word = meaning" toast after each answer fades after a moment.
   useEffect(() => {
     if (!flash) return
@@ -170,6 +166,8 @@ export function TrueFalse({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
   })
 
   useGameLoop((dt) => {
+    // the first card comes from the loop: an effect would run twice in React's development mode
+    if (!g.rounds) newRound()
     g.time = Math.max(0, g.time - dt)
     if (Math.abs(hud.time - g.time) >= 0.1) setHud({ time: g.time, score: g.score, combo: g.combo })
     if (g.time <= 0 && !g.done) {
