@@ -27,15 +27,17 @@ import {
   useGameState,
   useStage,
 } from '../engine'
+import { BUBBLE, Pops, SKIES, drawSky, drawSprite } from '../art'
 import { useTyping } from '../useTyping'
 
 const DANGER_Y = 0.84
 const KILLS_PER_LEVEL = 8
+/** Rock colours: particle colours for the explosion and a canvas filter tinting the grey rock sprite. */
 const ROCKS = [
-  ['#d6d3d1', '#78716c', '#44403c'],
-  ['#fdba74', '#c2410c', '#7c2d12'],
-  ['#c4b5fd', '#7c3aed', '#3b0764'],
-  ['#99f6e4', '#0f766e', '#134e4a'],
+  { colors: ['#d6d3d1', '#78716c', '#44403c'], tint: undefined },
+  { colors: ['#fdba74', '#c2410c', '#7c2d12'], tint: 'sepia(.9) saturate(3) hue-rotate(-20deg)' },
+  { colors: ['#c4b5fd', '#7c3aed', '#3b0764'], tint: 'sepia(.9) saturate(2.5) hue-rotate(215deg)' },
+  { colors: ['#99f6e4', '#0f766e', '#134e4a'], tint: 'sepia(.9) saturate(2.5) hue-rotate(120deg)' },
 ]
 
 interface Enemy {
@@ -47,9 +49,8 @@ interface Enemy {
   radius: number
   rot: number
   spin: number
-  shape: number[]
-  craters: [number, number, number][]
   colors: string[]
+  tint: string | undefined
   locked: boolean
   /** A bullet is on its way — can no longer be targeted or cost a life */
   doomed: boolean
@@ -77,6 +78,7 @@ function createState() {
     ),
     comet: null as { x: number; y: number; vx: number; vy: number; life: number } | null,
     effects: new Effects(),
+    pops: new Pops(),
     ship: { x: 0.5, v: 0 },
     shipTilt: 0,
     spawnIn: 0.4,
@@ -98,100 +100,41 @@ function createState() {
   }
 }
 
+/** Cartoon rocket (the sprite points up-right, so it's turned a quarter left) with a flickering flame. */
 function drawShip(ctx: CanvasRenderingContext2D, x: number, y: number, tilt: number, time: number) {
   ctx.save()
   ctx.translate(x, y)
   ctx.rotate(tilt)
-  // engine flame
-  const flame = 18 + Math.sin(time * 40) * 5 + Math.random() * 4
-  const fire = ctx.createLinearGradient(0, 12, 0, 12 + flame)
-  fire.addColorStop(0, '#fef08a')
-  fire.addColorStop(0.4, '#fb923c')
-  fire.addColorStop(1, 'rgba(239,68,68,0)')
-  ctx.fillStyle = fire
-  ctx.beginPath()
-  ctx.moveTo(-8, 12)
-  ctx.quadraticCurveTo(0, 12 + flame * 1.3, 8, 12)
-  ctx.fill()
-  // wings
-  ctx.fillStyle = '#4338ca'
-  ctx.beginPath()
-  ctx.moveTo(0, -6)
-  ctx.lineTo(26, 16)
-  ctx.lineTo(18, 20)
-  ctx.lineTo(0, 12)
-  ctx.lineTo(-18, 20)
-  ctx.lineTo(-26, 16)
-  ctx.closePath()
-  ctx.fill()
-  // body
-  const body = ctx.createLinearGradient(-12, 0, 12, 0)
-  body.addColorStop(0, '#a5b4fc')
-  body.addColorStop(0.5, '#eef2ff')
-  body.addColorStop(1, '#818cf8')
-  ctx.fillStyle = body
-  ctx.beginPath()
-  ctx.moveTo(0, -32)
-  ctx.bezierCurveTo(12, -18, 12, 4, 9, 16)
-  ctx.lineTo(-9, 16)
-  ctx.bezierCurveTo(-12, 4, -12, -18, 0, -32)
-  ctx.fill()
-  // cockpit
-  const glass = ctx.createLinearGradient(0, -20, 0, 0)
-  glass.addColorStop(0, '#67e8f9')
-  glass.addColorStop(1, '#0e7490')
-  ctx.fillStyle = glass
-  ctx.beginPath()
-  ctx.ellipse(0, -10, 5, 10, 0, 0, Math.PI * 2)
-  ctx.fill()
-  ctx.fillStyle = 'rgba(255,255,255,.7)'
-  ctx.beginPath()
-  ctx.ellipse(-1.5, -14, 1.5, 4, 0, 0, Math.PI * 2)
-  ctx.fill()
-  // wing tips
-  ctx.fillStyle = '#f43f5e'
-  ctx.fillRect(22, 13, 5, 4)
-  ctx.fillRect(-27, 13, 5, 4)
-  ctx.restore()
-}
-
-function drawRock(ctx: CanvasRenderingContext2D, e: Enemy, x: number, y: number) {
-  ctx.save()
-  ctx.translate(x, y)
-  if (e.locked) {
-    ctx.shadowColor = '#22d3ee'
-    ctx.shadowBlur = 20
-  }
-  ctx.rotate(e.rot)
-  const [light, mid, dark] = e.colors
-  const fill = ctx.createRadialGradient(-e.radius * 0.4, -e.radius * 0.4, e.radius * 0.1, 0, 0, e.radius * 1.2)
-  fill.addColorStop(0, light)
-  fill.addColorStop(0.55, mid)
-  fill.addColorStop(1, dark)
-  ctx.fillStyle = fill
-  ctx.beginPath()
-  e.shape.forEach((f, i) => {
-    const a = (i / e.shape.length) * Math.PI * 2
-    const px = Math.cos(a) * e.radius * f
-    const py = Math.sin(a) * e.radius * f
-    if (i === 0) ctx.moveTo(px, py)
-    else ctx.lineTo(px, py)
-  })
-  ctx.closePath()
-  ctx.fill()
-  ctx.shadowBlur = 0
-  if (e.locked) {
-    ctx.strokeStyle = '#67e8f9'
-    ctx.lineWidth = 2.5
-    ctx.stroke()
-  }
-  ctx.fillStyle = 'rgba(0,0,0,.25)'
-  for (const [cx, cy, cr] of e.craters) {
+  const flame = 20 + Math.sin(time * 40) * 5 + Math.random() * 4
+  for (const [width, length, color] of [
+    [11, 1, '#fb923c'],
+    [7, 0.7, '#fde047'],
+  ] as const) {
+    ctx.fillStyle = color
     ctx.beginPath()
-    ctx.arc(cx * e.radius, cy * e.radius, cr * e.radius, 0, Math.PI * 2)
+    ctx.moveTo(-width, 18)
+    ctx.quadraticCurveTo(0, 18 + flame * 1.4 * length, width, 18)
+    ctx.closePath()
     ctx.fill()
   }
   ctx.restore()
+  drawSprite(ctx, 'rocket', x, y, 72, { rotate: tilt - Math.PI / 4 })
+}
+
+/** A tumbling cartoon rock; the locked target gets a bouncing yellow ring. */
+function drawRock(ctx: CanvasRenderingContext2D, e: Enemy, x: number, y: number, time: number) {
+  if (e.locked) {
+    ctx.save()
+    ctx.strokeStyle = '#fde047'
+    ctx.lineWidth = 4
+    ctx.setLineDash([10, 8])
+    ctx.lineDashOffset = -time * 40
+    ctx.beginPath()
+    ctx.arc(x, y, e.radius * (1.45 + Math.sin(time * 8) * 0.06), 0, Math.PI * 2)
+    ctx.stroke()
+    ctx.restore()
+  }
+  drawSprite(ctx, 'rock', x, y, e.radius * 2.5, { rotate: e.rot, filter: e.tint })
 }
 
 export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
@@ -231,6 +174,7 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
     g.enemies = g.enemies.filter((e) => e !== enemy)
     g.effects.burst(x, y, [enemy.colors[0], enemy.colors[1], '#fde047', '#fb923c'], 34, 320, 140)
     g.effects.ring(x, y, '#fde047', enemy.radius * 3)
+    g.pops.add(x, y, enemy.radius * 3.2)
     // write mode: show the word just typed in its own script (漢字 / English); meaning mode: points
     g.effects.text(x, y - 12, enemy.ch.target ? `${enemy.ch.word.term}  +${enemy.points}` : `+${enemy.points}`, {
       color: '#fde047',
@@ -292,9 +236,7 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
       radius: rand(18, 24),
       rot: Math.random() * Math.PI,
       spin: rand(-1, 1),
-      shape: Array.from({ length: 11 }, () => rand(0.78, 1.08)),
-      craters: Array.from({ length: 3 }, () => [rand(-0.45, 0.45), rand(-0.45, 0.45), rand(0.12, 0.22)]),
-      colors: pick(ROCKS),
+      ...pick(ROCKS),
       locked: false,
       doomed: false,
       points: 0,
@@ -309,6 +251,7 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
     g.effects.flash('#f43f5e')
     g.effects.burst(enemy.x * g.w, DANGER_Y * g.h, ['#f43f5e', '#fb7185', '#fda4af'], 26)
     g.effects.ring(enemy.x * g.w, DANGER_Y * g.h, '#f43f5e', 90)
+    g.pops.add(enemy.x * g.w, DANGER_Y * g.h, 90)
     g.effects.text(clamp(enemy.x * g.w, 120, g.w - 120), g.h * 0.72, `${enemy.ch.prompt} = ${enemy.ch.answer}`, {
       color: '#fecdd3',
       size: 18,
@@ -414,41 +357,42 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
       if (g.comet.life <= 0) g.comet = null
     }
     g.effects.update(dt)
+    g.pops.update(dt)
 
-    // --- draw
-    const bg = ctx.createLinearGradient(0, 0, 0, h)
-    bg.addColorStop(0, '#050816')
-    bg.addColorStop(0.55, '#1e1b4b')
-    bg.addColorStop(1, '#4c1d95')
-    ctx.fillStyle = bg
-    ctx.fillRect(0, 0, w, h)
-    for (const [cx, cy, r, color] of [
-      [0.18, 0.28, 0.4, 'rgba(236,72,153,.14)'],
-      [0.85, 0.55, 0.45, 'rgba(56,189,248,.12)'],
-    ] as const) {
-      const neb = ctx.createRadialGradient(cx * w, cy * h, 0, cx * w, cy * h, r * Math.max(w, h))
-      neb.addColorStop(0, color)
-      neb.addColorStop(1, 'transparent')
-      ctx.fillStyle = neb
-      ctx.fillRect(0, 0, w, h)
-    }
-    ctx.fillStyle = '#fff'
+    // --- draw: a cartoon night sky with a big planet, a moon and twinkling stars
+    drawSky(ctx, w, h, SKIES.space)
+    drawSprite(ctx, 'planet', w * 0.1, h * 0.62, Math.min(w, h) * 0.42, {
+      rotate: -0.2 + Math.sin(g.time * 0.2) * 0.05,
+      alpha: 0.9,
+    })
+    drawSprite(ctx, 'moon', w * 0.86, h * 0.14, Math.min(w, h) * 0.16, { rotate: 0.3 })
     for (const star of g.stars) {
-      ctx.globalAlpha = 0.35 + 0.65 * Math.abs(Math.sin(g.time * 2 + star.x * 50))
-      ctx.fillRect(star.x * w, star.y * h, star.size, star.size * (1 + star.speed * 8))
+      const twinkle = 0.35 + 0.65 * Math.abs(Math.sin(g.time * 2 + star.x * 50))
+      const x = star.x * w
+      const y = star.y * h
+      ctx.globalAlpha = twinkle
+      ctx.fillStyle = '#fef9c3'
+      if (star.size > 2) {
+        // a little four-pointed sparkle
+        const r = star.size * 2.2 * (0.7 + twinkle * 0.3)
+        ctx.beginPath()
+        ctx.moveTo(x, y - r)
+        ctx.quadraticCurveTo(x, y, x + r, y)
+        ctx.quadraticCurveTo(x, y, x, y + r)
+        ctx.quadraticCurveTo(x, y, x - r, y)
+        ctx.quadraticCurveTo(x, y, x, y - r)
+        ctx.fill()
+      } else {
+        ctx.beginPath()
+        ctx.arc(x, y, star.size * 0.8, 0, Math.PI * 2)
+        ctx.fill()
+      }
     }
     ctx.globalAlpha = 1
     if (g.comet) {
       const { x, y, vx, vy } = g.comet
-      const tail = ctx.createLinearGradient(x, y, x - vx * 0.25, y - vy * 0.25)
-      tail.addColorStop(0, 'rgba(255,255,255,.9)')
-      tail.addColorStop(1, 'rgba(255,255,255,0)')
-      ctx.strokeStyle = tail
-      ctx.lineWidth = 2
-      ctx.beginPath()
-      ctx.moveTo(x, y)
-      ctx.lineTo(x - vx * 0.25, y - vy * 0.25)
-      ctx.stroke()
+      // the comet sprite flies towards bottom-left; turn it to its heading
+      drawSprite(ctx, 'comet', x, y, 46, { rotate: Math.atan2(vy, vx) - Math.atan2(1, -1) })
     }
 
     ctx.save()
@@ -456,25 +400,22 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
 
     // danger zone
     const zone = ctx.createLinearGradient(0, DANGER_Y * h, 0, h)
-    zone.addColorStop(0, `rgba(244,63,94,${0.12 + 0.06 * Math.sin(g.time * 4)})`)
-    zone.addColorStop(1, 'rgba(244,63,94,0)')
+    zone.addColorStop(0, `rgba(251,113,133,${0.22 + 0.08 * Math.sin(g.time * 4)})`)
+    zone.addColorStop(1, 'rgba(251,113,133,.05)')
     ctx.fillStyle = zone
     ctx.fillRect(0, DANGER_Y * h, w, h)
-    ctx.setLineDash([10, 10])
-    ctx.lineDashOffset = -g.time * 30
-    ctx.strokeStyle = 'rgba(251,113,133,.55)'
-    ctx.lineWidth = 2
+    ctx.strokeStyle = 'rgba(253,164,175,.8)'
+    ctx.lineWidth = 4
+    ctx.lineCap = 'round'
     ctx.beginPath()
-    ctx.moveTo(0, DANGER_Y * h)
-    ctx.lineTo(w, DANGER_Y * h)
+    for (let x = 0; x <= w; x += 8) ctx.lineTo(x, DANGER_Y * h + Math.sin(x / 18 + g.time * 4) * 3)
     ctx.stroke()
-    ctx.setLineDash([])
 
     const size = deck.lang !== 'en' && typingMode === 'meaning' ? 24 : 19
     for (const e of g.enemies) {
       const x = e.x * w
       const y = e.y * h
-      drawRock(ctx, e, x, y)
+      drawRock(ctx, e, x, y, g.time)
       if (e.doomed) continue
       const danger = e.y > 0.64
       const hint = typingMode === 'write' ? typingHint(e.ch, g.typed, e.locked) : e.ch.sub
@@ -484,38 +425,28 @@ export function Shooter({ deck, mode, pace, paused, onGameOver }: ArcadeGameProp
       drawPill(ctx, e.ch.prompt, x, y + e.radius + 30, {
         size,
         sub: hint,
-        subColor: e.locked ? '#67e8f9' : 'rgba(226,232,240,.75)',
-        bg: e.locked ? 'rgba(8,47,73,.94)' : 'rgba(15,23,42,.84)',
-        border: e.locked
-          ? '#22d3ee'
-          : danger
-            ? `rgba(244,63,94,${0.55 + 0.45 * Math.sin(g.time * 10)})`
-            : 'rgba(255,255,255,.16)',
-        glow: e.locked ? '#22d3ee' : undefined,
+        ...(e.locked ? BUBBLE.active : BUBBLE.idle),
+        ...(danger && !e.locked ? { border: `rgba(244,63,94,${0.55 + 0.45 * Math.sin(g.time * 10)})` } : {}),
         progress: e.locked && Number.isFinite(shortest) && shortest ? g.typedKey.length / shortest : 0,
         maxWidth: Math.min(280, w * 0.5),
       })
     }
 
     for (const b of g.bullets) {
+      // a spinning star with a trail of golden dots
       b.trail.forEach((p, i) => {
         ctx.globalAlpha = 1 - i / b.trail.length
-        ctx.fillStyle = '#67e8f9'
+        ctx.fillStyle = i % 2 ? '#fde047' : '#fb923c'
         ctx.beginPath()
-        ctx.arc(p.x, p.y, Math.max(1, 4 - i * 0.4), 0, Math.PI * 2)
+        ctx.arc(p.x, p.y, Math.max(1, 5 - i * 0.5), 0, Math.PI * 2)
         ctx.fill()
       })
       ctx.globalAlpha = 1
-      ctx.shadowColor = '#22d3ee'
-      ctx.shadowBlur = 14
-      ctx.fillStyle = '#ecfeff'
-      ctx.beginPath()
-      ctx.arc(b.x, b.y, 5, 0, Math.PI * 2)
-      ctx.fill()
-      ctx.shadowBlur = 0
+      drawSprite(ctx, 'star', b.x, b.y, 24, { rotate: g.time * 12 })
     }
 
     if (g.endIn === null) drawShip(ctx, g.ship.x * w, sy, g.shipTilt, g.time)
+    g.pops.draw(ctx)
     g.effects.draw(ctx, w, h)
     ctx.restore()
 

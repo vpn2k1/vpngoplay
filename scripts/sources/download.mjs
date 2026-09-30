@@ -3,6 +3,7 @@
 //
 //   npm run sources:download                 # everything still missing (≈ 300 MB on disk)
 //   npm run sources:download -- --only tatoeba,wiktionary,grammar/ja
+//   npm run sources:download -- --refresh           # fetch the latest versions again
 //
 // Output: data/sources/open/<group>/… (git-ignored, like the rest of data/sources).
 // Licences are listed next to each source; see README › Nguồn dữ liệu mở.
@@ -131,7 +132,9 @@ const SOURCES = [
   }, // 6.4 MB
 ]
 
-const { values: args } = parseArgs({ options: { only: { type: 'string' } } })
+const { values: args } = parseArgs({
+  options: { only: { type: 'string' }, refresh: { type: 'boolean', default: false } },
+})
 const only = args.only?.split(',')
 
 const mb = (bytes) => `${(bytes / 1e6).toFixed(1)} MB`
@@ -165,7 +168,8 @@ async function download(s) {
   return size
 }
 
-const todo = SOURCES.filter((s) => (!only || only.includes(s.group)) && !existsSync(target(s)))
+// --refresh downloads everything again (Wiktionary and Tatoeba exports are rebuilt every week).
+const todo = SOURCES.filter((s) => (!only || only.includes(s.group)) && (args.refresh || !existsSync(target(s))))
 console.log(`${SOURCES.length - todo.length} already downloaded, ${todo.length} to fetch → ${OUT}`)
 let total = 0
 const failed = []

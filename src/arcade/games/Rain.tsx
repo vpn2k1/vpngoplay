@@ -6,6 +6,18 @@ import { GameStage, Hud, StageCanvas, TypingBar, type ArcadeGameProps } from '..
 import { resolveTyping } from '../challenge'
 import { Effects, drawEmoji, font, pick, rand, useDebugState, useGameLoop, useGameState, useStage } from '../engine'
 import { SCRIPT_SETS, scriptInputKey, type ScriptItem } from '../scripts'
+import {
+  MEADOW,
+  Pops,
+  SKIES,
+  driftClouds,
+  drawCloud,
+  drawHills,
+  drawSky,
+  drawSprite,
+  drawSun,
+  makeClouds,
+} from '../art'
 import { useTyping } from '../useTyping'
 
 const COLORS = ['#f472b6', '#60a5fa', '#34d399', '#fbbf24', '#a78bfa', '#fb7185', '#22d3ee']
@@ -34,6 +46,13 @@ function createState() {
   return {
     balloons: [] as Balloon[],
     effects: new Effects(),
+    sparkles: new Pops(),
+    clouds: makeClouds(4, 0.15, 0.55),
+    flowers: Array.from({ length: 9 }, (_, i) => ({
+      x: (i + rand(0.1, 0.9)) / 9,
+      sprite: pick(['tulip', 'sunflower', 'tulip', 'mushroom'] as const),
+      size: rand(22, 32),
+    })),
     spawnIn: 0.3,
     level: 1,
     pops: 0,
@@ -78,6 +97,7 @@ export function Rain({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
       const points = 5 + g.level + Math.min(10, g.combo)
       g.score += points
       g.effects.burst(hit.x * g.w, hit.y * g.h, [hit.color, '#fff'], 26, 240, 200)
+      g.sparkles.add(hit.x * g.w, hit.y * g.h, 90, 'sparkles', 0.5)
       g.effects.text(hit.x * g.w, hit.y * g.h - 30, `${hit.item.answer.split(' / ')[0]} +${points}`, {
         color: '#fff',
         size: 18,
@@ -166,35 +186,42 @@ export function Rain({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
       syncHud()
     }
     g.effects.update(dt)
+    g.sparkles.update(dt)
+    driftClouds(g.clouds, dt)
 
     // --- draw
-    const sky = ctx.createLinearGradient(0, 0, 0, h)
-    sky.addColorStop(0, '#312e81')
-    sky.addColorStop(0.5, '#7c3aed')
-    sky.addColorStop(1, '#f9a8d4')
-    ctx.fillStyle = sky
-    ctx.fillRect(0, 0, w, h)
+    // pastel evening sky, clouds, and a flowery meadow the balloons float up from
+    drawSky(ctx, w, h, SKIES.sunset)
+    drawSun(ctx, w * 0.8, h * 0.72, 30, g.time)
+    for (const c of g.clouds) drawCloud(ctx, c.x * w, c.y * h, c.s, 0.9)
+    drawHills(
+      ctx,
+      w,
+      h,
+      MEADOW.map((l) => ({ ...l, base: l.base + 0.3 })),
+      g.time * 20,
+    )
+    for (const f of g.flowers) drawSprite(ctx, f.sprite, f.x * w, h - f.size * 0.45, f.size)
     ctx.save()
     g.effects.applyShake(ctx)
-    ctx.setLineDash([6, 8])
-    ctx.strokeStyle = 'rgba(255,255,255,.35)'
-    ctx.beginPath()
-    ctx.moveTo(0, TOP * h)
-    ctx.lineTo(w, TOP * h)
-    ctx.stroke()
-    ctx.setLineDash([])
-    drawEmoji(ctx, '🌵', 18, TOP * h, 22)
-    drawEmoji(ctx, '🌵', w - 18, TOP * h, 22)
+    // the line balloons must not float past: a row of little white puffs
+    for (let x = 10; x < w; x += 26) {
+      ctx.fillStyle = 'rgba(255,255,255,.75)'
+      ctx.beginPath()
+      ctx.arc(x, TOP * h + Math.sin(x / 30 + g.time * 2) * 2, 5, 0, Math.PI * 2)
+      ctx.fill()
+    }
 
     const rx = Math.max(34, glyphSize * 1.05)
     for (const b of g.balloons) {
       const x = b.x * w + Math.sin(g.time * 1.3 + b.phase) * 10
       const y = b.y * h
-      ctx.strokeStyle = 'rgba(255,255,255,.6)'
-      ctx.lineWidth = 1.5
+      ctx.strokeStyle = 'rgba(255,255,255,.85)'
+      ctx.lineWidth = 2
       ctx.beginPath()
       ctx.moveTo(x, y + rx * 1.15)
-      ctx.quadraticCurveTo(x + Math.sin(g.time * 3 + b.phase) * 8, y + rx * 1.6, x, y + rx * 2.1)
+      const sway = Math.sin(g.time * 3 + b.phase) * 8
+      ctx.bezierCurveTo(x + sway, y + rx * 1.4, x - sway, y + rx * 1.7, x + sway * 0.5, y + rx * 2.1)
       ctx.stroke()
       ctx.save()
       if (b.locked) {
@@ -210,6 +237,16 @@ export function Rain({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
       ctx.ellipse(x, y, rx, rx * 1.15, 0, 0, Math.PI * 2)
       ctx.fill()
       ctx.restore()
+      // cartoon outline and a glossy highlight
+      ctx.lineWidth = 3
+      ctx.strokeStyle = 'rgba(30,41,59,.28)'
+      ctx.beginPath()
+      ctx.ellipse(x, y, rx, rx * 1.15, 0, 0, Math.PI * 2)
+      ctx.stroke()
+      ctx.fillStyle = 'rgba(255,255,255,.55)'
+      ctx.beginPath()
+      ctx.ellipse(x - rx * 0.45, y - rx * 0.5, rx * 0.16, rx * 0.3, -0.5, 0, Math.PI * 2)
+      ctx.fill()
       ctx.fillStyle = b.color
       ctx.beginPath()
       ctx.moveTo(x - 6, y + rx * 1.18)
@@ -233,12 +270,17 @@ export function Rain({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
         ctx.fillText(b.item.glyph, x, y + 2)
       }
     }
+    g.sparkles.draw(ctx)
     g.effects.draw(ctx, w, h)
     ctx.restore()
 
     if (g.pops === 0 && g.missed.length === 0 && g.time < 6) {
-      ctx.font = font(15, 700)
-      ctx.fillStyle = 'rgba(255,255,255,.85)'
+      ctx.font = font(16, 800)
+      ctx.lineJoin = 'round'
+      ctx.lineWidth = 5
+      ctx.strokeStyle = '#fff'
+      ctx.strokeText(set.hint, w / 2, h * 0.4)
+      ctx.fillStyle = '#6d28d9'
       ctx.fillText(set.hint, w / 2, h * 0.4)
     }
 

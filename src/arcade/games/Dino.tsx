@@ -3,7 +3,7 @@ import { sfx } from '../../lib/sfx'
 import { speak } from '../../lib/speech'
 import { useProgress } from '../../lib/store'
 import type { Word } from '../../lib/types'
-import { ChoicePad, GameStage, Hud, StageCanvas, TypingBar, type ArcadeGameProps } from '../ArcadeShell'
+import { ChoicePad, GameStage, StageCanvas, TypingBar, type ArcadeGameProps } from '../ArcadeShell'
 import {
   createWordSource,
   inputKey,
@@ -20,14 +20,31 @@ import {
   clamp,
   drawPill,
   drawPixels,
-  font,
   rand,
   useDebugState,
   useGameLoop,
   useGameState,
   useStage,
+  type PillStyle,
 } from '../engine'
-import { BIRD, CACTUS, DINO_DUCK, DINO_JUMP, DINO_RUN } from '../sprites'
+import {
+  BIRD,
+  CACTUS_LARGE,
+  CACTUS_SMALL,
+  CLOUD,
+  DINO_DEAD,
+  DINO_DUCK,
+  DINO_JUMP,
+  DINO_RUN,
+  HEART,
+  HEART_EMPTY,
+  INK,
+  MOON,
+  MYSTERY,
+  PAPER,
+  drawPixelText,
+  pixelTextWidth,
+} from '../pixel'
 import { useTyping } from '../useTyping'
 
 const DINO_X = 0.16
@@ -37,9 +54,49 @@ const NO_CHOICES: Choice[] = [
   { label: '…', correct: false },
   { label: '…', correct: false },
 ]
-const DINO_COLORS = { '#': '#1e293b', e: '#fff' }
-const CACTUS_COLORS = { '#': '#15803d', l: '#22c55e' }
-const BIRD_COLORS = { '#': '#7c2d12' }
+
+/** Word labels in the same monochrome style; right / wrong keep a hint of colour. */
+const LABEL: Record<'idle' | 'active' | 'good' | 'bad', PillStyle> = {
+  idle: { bg: PAPER, fg: INK, border: INK, borderWidth: 2, radius: 4, subColor: '#7a7a7a' },
+  active: { bg: INK, fg: PAPER, border: INK, borderWidth: 2, radius: 4, subColor: '#dcdcdc', progressColor: PAPER },
+  good: { bg: PAPER, fg: '#15803d', border: '#15803d', borderWidth: 2, radius: 4, subColor: '#15803d' },
+  bad: { bg: PAPER, fg: '#be123c', border: '#be123c', borderWidth: 2, radius: 4, subColor: '#be123c' },
+}
+/** Scores switch between day and night every this many points, as in Chrome. */
+const NIGHT_EVERY = 700
+/** Horizon details repeated every 600 px: [x, width] bumps and [x, row, width] pebbles (in pixels). */
+const BUMPS = [
+  [110, 5],
+  [380, 7],
+] as const
+const PEBBLES = [
+  [20, 3, 2],
+  [75, 5, 1],
+  [140, 2, 3],
+  [210, 6, 1],
+  [262, 3, 2],
+  [330, 5, 4],
+  [422, 2, 1],
+  [470, 4, 2],
+  [540, 6, 1],
+  [578, 3, 3],
+] as const
+
+/** The ground: a one-pixel line with little bumps and pebbles, scrolled by `offset`. */
+function drawHorizon(ctx: CanvasRenderingContext2D, w: number, y: number, px: number, offset: number) {
+  ctx.fillStyle = INK
+  const tile = 600
+  for (let t = -(offset % tile) - tile; t < w + tile; t += tile) {
+    ctx.fillRect(t, y, tile + 1, px)
+    for (const [bx, bw] of BUMPS) {
+      ctx.fillRect(t + bx, y - px, bw * px, px)
+      ctx.fillRect(t + bx + px, y - 2 * px, (bw - 2) * px, px)
+    }
+    for (const [dx, row, dw] of PEBBLES) ctx.fillRect(t + dx, y + row * px, dw * px, px)
+  }
+}
+
+const pad = (n: number) => String(Math.max(0, Math.floor(n))).padStart(5, '0')
 
 type Kind = 'cactus' | 'bird'
 type State = 'pending' | 'cleared' | 'failed' | 'done'
@@ -55,16 +112,22 @@ interface Obstacle {
   /** Answered wrongly (vs. never answered) — the dino then does the wrong move */
   answered: boolean
   acted: boolean
+  /** Cactus look: one to three small ones, or one or two large ones */
+  large: boolean
+  count: number
 }
 
 function createState() {
   return {
     obstacles: [] as Obstacle[],
     effects: new Effects(),
-    hudTimer: 0,
-    clouds: Array.from({ length: 5 }, () => ({ x: Math.random(), y: rand(0.08, 0.35), s: rand(0.7, 1.3) })),
-    far: 0,
-    near: 0,
+    clouds: Array.from({ length: 4 }, () => ({ x: Math.random(), y: rand(0.12, 0.42) })),
+    stars: Array.from({ length: 14 }, () => ({ x: Math.random(), y: rand(0.05, 0.5) })),
+    /** 0 = day, 1 = night (fades between them) */
+    night: 0,
+    /** The score blinks for a moment at every hundred, like Chrome's */
+    hundreds: 0,
+    blinkT: 0,
     groundOffset: 0,
     time: 0,
     runTime: 0,
@@ -91,34 +154,17 @@ function createState() {
   }
 }
 
-function cloud(ctx: CanvasRenderingContext2D, x: number, y: number, s: number) {
-  ctx.fillStyle = 'rgba(255,255,255,.9)'
-  for (const [dx, dy, r] of [
-    [-22, 4, 14],
-    [0, -4, 20],
-    [22, 4, 14],
-    [8, 8, 14],
-    [-10, 8, 14],
-  ]) {
-    ctx.beginPath()
-    ctx.arc(x + dx * s, y + dy * s, r * s, 0, Math.PI * 2)
-    ctx.fill()
-  }
-}
-
-export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
+export function Dino({ deck, mode, pace, paused, best = 0, onGameOver }: ArcadeGameProps) {
   const choiceMode = mode === 'choice'
   const typingMode = (choiceMode ? 'meaning' : mode) as TypingMode
   const { canvasRef, stage } = useStage()
   const source = useMemo(() => createWordSource(deck, useProgress.getState().srs), [deck])
   const g = useGameState(createState)
   useDebugState(g)
-  const [hud, setHud] = useState({ score: 0, lives: 3, level: 1, combo: 0 })
   const [active, setActive] = useState<Obstacle | null>(null)
   const [over, setOver] = useState(false)
   const speed = () => ((choiceMode ? 0.15 : 0.12) + Math.min(0.14, g.time * 0.0022)) * pace
   const score = () => Math.floor(g.distance) + g.bonus
-  const syncHud = () => setHud({ score: score(), lives: g.lives, level: 1 + Math.floor(g.time / 25), combo: g.combo })
 
   const current = () => g.obstacles.find((o) => o.id === g.activeId && o.state === 'pending') ?? null
 
@@ -136,7 +182,6 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
       size: 20,
       life: 1.3,
     })
-    syncHud()
   }
 
   const fail = (o: Obstacle) => {
@@ -145,7 +190,6 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
     g.wrong++
     g.combo = 0
     sfx.wrong()
-    syncHud()
   }
 
   const typing = useTyping(
@@ -172,7 +216,6 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
         g.typed = ''
         g.typedKey = ''
         sfx.wrong()
-        syncHud()
       },
     },
   )
@@ -201,6 +244,8 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
       state: 'pending',
       answered: false,
       acted: false,
+      large: Math.random() < 0.4,
+      count: 1 + Math.floor(Math.random() * 2.4),
     })
     g.nextGap = rand(0.52, 0.74)
   }
@@ -213,7 +258,6 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
     g.h = h
     const ground = h * 0.8
     const size = clamp(h * 0.16, 48, 88)
-    const px = size / 19 // dino sprite is 19 px tall
     const dinoX = DINO_X * w
     const v = g.endIn === null ? speed() : 0
     g.time += dt
@@ -257,7 +301,7 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
             g.duckT = 0
             sfx.jump()
             for (let i = 0; i < 6; i++)
-              g.effects.emit(dinoX + rand(-10, 10), ground, rand(-60, -10), rand(-40, -10), '#d6a55a', {
+              g.effects.emit(dinoX + rand(-10, 10), ground, rand(-60, -10), rand(-40, -10), INK, {
                 size: rand(2, 4),
                 life: 0.4,
               })
@@ -273,8 +317,8 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
           g.missed.push(o.ch.word)
           g.effects.shake(12)
           g.effects.flash('#ef4444')
-          g.effects.burst(o.x * w, ground - size * 0.5, ['#22c55e', '#15803d', '#fde047'], 24)
-          g.effects.ring(o.x * w, ground - size * 0.5, '#ef4444', 70)
+          g.effects.burst(o.x * w, ground - size * 0.5, [INK, '#9a9a9a'], 24)
+          g.effects.ring(o.x * w, ground - size * 0.5, INK, 70)
           g.effects.text(clamp(o.x * w + 60, 120, w - 120), h * 0.28, `${o.ch.prompt} = ${o.ch.answer}`, {
             color: '#be123c',
             size: 18,
@@ -284,7 +328,6 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
           sfx.hit()
           if (g.lives <= 0) g.endIn = 1.3
         }
-        syncHud()
       }
     }
 
@@ -294,7 +337,7 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
         g.jumpT = null
         g.squash = 0.78
         for (let i = 0; i < 8; i++)
-          g.effects.emit(dinoX + rand(-14, 14), ground, rand(-70, 40), rand(-50, -10), '#d6a55a', {
+          g.effects.emit(dinoX + rand(-14, 14), ground, rand(-70, 40), rand(-50, -10), INK, {
             size: rand(2, 4),
             life: 0.45,
             gravity: 120,
@@ -303,150 +346,135 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
     }
     g.squash += (1 - g.squash) * Math.min(1, dt * 12)
     g.duckT = Math.max(0, g.duckT - dt)
-    g.far += v * dt * w * 0.12
-    g.near += v * dt * w * 0.35
     g.groundOffset += v * dt * w
     for (const c of g.clouds) {
       c.x -= (v * 0.1 + 0.005) * dt
-      if (c.x < -0.15) Object.assign(c, { x: 1.15, y: rand(0.08, 0.35), s: rand(0.7, 1.3) })
+      if (c.x < -0.15) Object.assign(c, { x: 1.15, y: rand(0.12, 0.42) })
     }
+    const points = score()
+    g.night += ((Math.floor(points / NIGHT_EVERY) % 2) - g.night) * Math.min(1, dt * 1.5)
+    if (Math.floor(points / 100) > g.hundreds) {
+      g.hundreds = Math.floor(points / 100)
+      g.blinkT = 0.9
+    }
+    g.blinkT = Math.max(0, g.blinkT - dt)
     if (g.jumpT === null && g.duckT === 0 && v > 0 && Math.random() < 0.25)
-      g.effects.emit(dinoX - size * 0.25, ground - 2, rand(-80, -40), rand(-20, -5), 'rgba(180,120,60,.6)', {
+      g.effects.emit(dinoX - size * 0.25, ground - 2, rand(-80, -40), rand(-20, -5), INK, {
         size: rand(1.5, 3),
         life: 0.3,
       })
     g.effects.update(dt)
-    g.hudTimer += dt
-    if (g.hudTimer > 0.25) {
-      g.hudTimer = 0
-      syncHud()
-    }
 
-    // --- draw
-    const sky = ctx.createLinearGradient(0, 0, 0, ground)
-    sky.addColorStop(0, '#7dd3fc')
-    sky.addColorStop(0.7, '#e0f2fe')
-    sky.addColorStop(1, '#fef3c7')
-    ctx.fillStyle = sky
+    // --- draw: Chrome's offline T-Rex look — grey ink on paper, inverted at night
+    const px = Math.max(2, Math.round(size / 19))
+    ctx.fillStyle = PAPER
     ctx.fillRect(0, 0, w, h)
-    const sun = ctx.createRadialGradient(w * 0.84, h * 0.18, 4, w * 0.84, h * 0.18, 80)
-    sun.addColorStop(0, '#fef08a')
-    sun.addColorStop(0.35, 'rgba(253,224,71,.55)')
-    sun.addColorStop(1, 'rgba(253,224,71,0)')
-    ctx.fillStyle = sun
-    ctx.fillRect(0, 0, w, h)
-    for (const c of g.clouds) cloud(ctx, c.x * w, c.y * h, c.s)
+    if (g.night > 0.02) {
+      // moon and stars, in ink: they turn light when the frame is inverted
+      ctx.globalAlpha = g.night
+      drawPixels(ctx, MOON, w * 0.78, h * 0.22, px, { '#': INK })
+      ctx.fillStyle = INK
+      for (const st of g.stars) ctx.fillRect(Math.round(st.x * w), Math.round(st.y * h), px, px)
+      ctx.globalAlpha = 1
+    }
+    for (const c of g.clouds) drawPixels(ctx, CLOUD, c.x * w, c.y * h, Math.max(1, px - 1), { '#': '#c9c9c9' })
 
     ctx.save()
     g.effects.applyShake(ctx)
-    // parallax hills (far → near)
-    for (const [amp, base, color, offset, period] of [
-      [34, 0.6, '#bbf7d0', g.far, 160],
-      [22, 0.7, '#86efac', g.near, 110],
-    ] as const) {
-      ctx.fillStyle = color
-      ctx.beginPath()
-      ctx.moveTo(0, ground)
-      for (let x = 0; x <= w + 16; x += 16) {
-        const t = (x + offset) / period
-        ctx.lineTo(x, base * h - Math.sin(t) * amp - Math.sin(t * 0.43 + 1) * amp * 0.6)
-      }
-      ctx.lineTo(w, ground)
-      ctx.fill()
-    }
-    // ground
-    const sand = ctx.createLinearGradient(0, ground, 0, h)
-    sand.addColorStop(0, '#fde68a')
-    sand.addColorStop(1, '#d97706')
-    ctx.fillStyle = sand
-    ctx.fillRect(0, ground, w, h - ground)
-    ctx.fillStyle = '#78350f'
-    ctx.fillRect(0, ground - 1, w, 3)
-    ctx.fillStyle = 'rgba(120,53,15,.35)'
-    for (let x = -(g.groundOffset % 48); x < w; x += 48) {
-      ctx.fillRect(x, ground + 10, 10, 3)
-      ctx.fillRect(x + 22, ground + 22, 5, 3)
-      ctx.fillRect(x + 36, ground + 6, 3, 2)
-    }
+    drawHorizon(ctx, w, ground, px, g.groundOffset)
 
-    const labelSize = typingMode === 'meaning' && deck.lang !== 'en' ? 21 : 18
+    const labelSize = typingMode === 'meaning' && deck.lang !== 'en' ? 20 : 17
+    const labels: (() => void)[] = []
     for (const o of g.obstacles) {
       const x = o.x * w
       const hidden = choiceMode && o.state === 'pending'
       let top: number
       if (hidden) {
-        const y = ground - size * 0.95 + Math.sin(g.time * 3 + o.id) * 4
-        const box = size * 0.62
-        ctx.save()
-        ctx.translate(x, y)
-        ctx.rotate(Math.sin(g.time * 2 + o.id) * 0.08)
-        const grad = ctx.createLinearGradient(-box / 2, -box / 2, box / 2, box / 2)
-        grad.addColorStop(0, '#a78bfa')
-        grad.addColorStop(1, '#6d28d9')
-        ctx.fillStyle = grad
-        ctx.beginPath()
-        ctx.roundRect(-box / 2, -box / 2, box, box, 10)
-        ctx.fill()
-        ctx.fillStyle = '#fff'
-        ctx.font = font(box * 0.6, 900)
-        ctx.fillText('?', 0, 2)
-        ctx.restore()
-        top = y - box / 2
+        // A "?" block: its shape mustn't give away whether to jump or duck.
+        const y = ground - size * 0.95 + Math.sin(g.time * 3 + o.id) * 3
+        drawPixels(ctx, MYSTERY, x, y + (MYSTERY.length * px) / 2, px, { '#': INK })
+        top = y - (MYSTERY.length * px) / 2
       } else if (o.kind === 'cactus') {
-        const cpx = (size * 0.95) / CACTUS.length
-        drawPixels(ctx, CACTUS, x, ground + 1, cpx, CACTUS_COLORS)
-        top = ground - size * 0.95
+        const sprite = o.large ? CACTUS_LARGE : CACTUS_SMALL
+        const count = o.large ? Math.min(2, o.count) : o.count
+        const cw = sprite[0].length * px
+        for (let i = 0; i < count; i++)
+          drawPixels(ctx, sprite, x + (i - (count - 1) / 2) * (cw - px), ground + px, px, { '#': INK })
+        top = ground - sprite.length * px
       } else {
-        const y = ground - size * 1.15 + Math.sin(g.time * 5 + o.id) * 4
         const frame = BIRD[Math.floor(g.time * 6) % 2]
-        drawPixels(ctx, frame, x, y + size * 0.3, px, BIRD_COLORS, { flipX: true })
-        top = y - size * 0.35
+        const y = ground - size * 1.15
+        drawPixels(ctx, frame, x, y + (frame.length * px) / 2, px, { '#': INK }, { flipX: true })
+        top = y - (frame.length * px) / 2
       }
       if (o.state === 'done' && o.x < DINO_X) continue
       const isActive = o.id === g.activeId && o.state === 'pending'
       const shortest =
         isActive && g.typedKey ? Math.min(...o.ch.keys.filter((k) => k.startsWith(g.typedKey)).map((k) => k.length)) : 0
       const sub = typingMode === 'write' ? typingHint(o.ch, g.typed, isActive && !!g.typedKey) : o.ch.sub
-      drawPill(ctx, (o.state === 'cleared' ? '✓ ' : '') + o.ch.prompt, x, top - 34, {
-        size: isActive ? labelSize : labelSize - 3,
-        sub,
-        subColor: isActive ? '#67e8f9' : 'rgba(226,232,240,.8)',
-        bg:
-          o.state === 'cleared'
-            ? 'rgba(22,163,74,.95)'
-            : o.state === 'failed' || o.state === 'done'
-              ? 'rgba(225,29,72,.95)'
-              : isActive
-                ? 'rgba(15,23,42,.94)'
-                : 'rgba(15,23,42,.6)',
-        border: isActive ? '#22d3ee' : undefined,
-        glow: isActive ? '#22d3ee' : undefined,
-        progress: Number.isFinite(shortest) && shortest ? g.typedKey.length / shortest : 0,
-        maxWidth: Math.min(240, w * 0.42),
-      })
+      const style =
+        o.state === 'cleared'
+          ? LABEL.good
+          : o.state === 'failed' || o.state === 'done'
+            ? LABEL.bad
+            : isActive
+              ? LABEL.active
+              : LABEL.idle
+      const faded = !isActive && o.state === 'pending'
+      // drawn after the night inversion, so they stay readable
+      labels.push(() =>
+        drawPill(ctx, (o.state === 'cleared' ? '✓ ' : '') + o.ch.prompt, x, top - 32, {
+          size: isActive ? labelSize : labelSize - 3,
+          sub,
+          ...style,
+          ...(faded ? { bg: 'rgba(247,247,247,.9)', border: '#a3a3a3' } : {}),
+          progress: Number.isFinite(shortest) && shortest ? g.typedKey.length / shortest : 0,
+          maxWidth: Math.min(240, w * 0.42),
+        }),
+      )
     }
 
-    // dino: shadow, then sprite with squash & stretch
+    // the T-rex: two running frames, standing while jumping, low while ducking, wide-eyed when caught
     const ducking = g.duckT > 0
     const t = g.jumpT === null ? 0 : g.jumpT / JUMP_TIME
     const lift = 4 * size * 1.55 * t * (1 - t)
-    ctx.fillStyle = 'rgba(0,0,0,.18)'
-    ctx.beginPath()
-    ctx.ellipse(dinoX, ground + 2, size * 0.42 * (1 - t * (1 - t) * 1.6), 5, 0, 0, Math.PI * 2)
-    ctx.fill()
+    const step = Math.floor(g.runTime * 10) % 2
     const sprite =
-      g.endIn !== null
-        ? DINO_JUMP
-        : ducking
-          ? DINO_DUCK
-          : g.jumpT !== null
-            ? DINO_JUMP
-            : DINO_RUN[Math.floor(g.runTime * 10) % 3]
-    const colors = g.endIn !== null ? { ...DINO_COLORS, e: '#ef4444' } : DINO_COLORS
-    drawPixels(ctx, sprite, dinoX, ground + 1 - lift, px, colors, { scaleY: g.squash })
+      g.endIn !== null ? DINO_DEAD : ducking ? DINO_DUCK[step] : g.jumpT !== null ? DINO_JUMP : DINO_RUN[step]
+    drawPixels(ctx, sprite, dinoX, ground + px - lift, px, { '#': INK, e: PAPER })
 
     g.effects.draw(ctx, w, h)
     ctx.restore()
+
+    // HUD in the same pixel style: hearts on the left, "HI 00420  00123" on the right
+    const hp = Math.max(2, Math.round(px * 0.7))
+    for (let i = 0; i < 3; i++)
+      drawPixels(ctx, i < g.lives ? HEART : HEART_EMPTY, 16 + i * 9 * hp, 12 + 6 * hp, hp, { '#': INK })
+    const current = pad(points)
+    if (g.blinkT === 0 || Math.floor(g.blinkT * 8) % 2 === 1) drawPixelText(ctx, current, w - 14, 12, hp, INK, 'right')
+    if (best > 0)
+      drawPixelText(
+        ctx,
+        `HI ${pad(Math.max(best, points))}`,
+        w - 14 - pixelTextWidth(current, hp) - 12 * hp,
+        12,
+        hp,
+        '#8a8a8a',
+        'right',
+      )
+    if (g.combo >= 2) drawPixelText(ctx, `X${g.combo}`, w - 14, 12 + 10 * hp, hp, INK, 'right')
+    if (g.endIn !== null) drawPixelText(ctx, 'GAME OVER', w / 2, h * 0.3, hp + 1, INK, 'center')
+
+    if (g.night > 0.01) {
+      // invert everything drawn so far (paper → dark, ink → light), fading in and out
+      ctx.save()
+      ctx.globalCompositeOperation = 'difference'
+      ctx.globalAlpha = g.night
+      ctx.fillStyle = '#fff'
+      ctx.fillRect(0, 0, w, h)
+      ctx.restore()
+    }
+    for (const draw of labels) draw()
 
     if (g.endIn !== null) {
       g.endIn -= dt
@@ -471,11 +499,10 @@ export function Dino({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) 
 
   return (
     <div className="space-y-3">
-      <GameStage>
+      <GameStage className="bg-[#f7f7f7]">
         <div className="absolute inset-0" onPointerDown={choiceMode ? undefined : typing.focus}>
           <StageCanvas canvasRef={canvasRef} />
         </div>
-        <Hud score={hud.score} lives={hud.lives} level={hud.level} combo={hud.combo} />
       </GameStage>
       {choiceMode ? (
         <div className="space-y-2">

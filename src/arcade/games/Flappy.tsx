@@ -5,11 +5,11 @@ import { speak } from '../../lib/speech'
 import { useProgress } from '../../lib/store'
 import type { Word } from '../../lib/types'
 import { GameStage, Hud, StageCanvas, type ArcadeGameProps } from '../ArcadeShell'
+import { BUBBLE, GRASS, MEADOW, SKIES, drawCloud, drawGround, drawHills, drawSky, drawSprite, drawSun } from '../art'
 import { createWordSource, makeChoices, readingOf, type Choice } from '../challenge'
 import {
   Effects,
   clamp,
-  drawEmoji,
   drawPill,
   font,
   pick,
@@ -66,7 +66,7 @@ function createState() {
   }
 }
 
-/** Round yellow bird facing right; the wing swings down right after a flap. */
+/** The chick sprite (it faces left, so it's mirrored), squashed for a moment after each flap. */
 function drawBird(
   ctx: CanvasRenderingContext2D,
   x: number,
@@ -76,52 +76,12 @@ function drawBird(
   flapT: number,
   dead: boolean,
 ) {
-  ctx.save()
-  ctx.translate(x, y)
-  ctx.rotate(angle)
-  const body = ctx.createRadialGradient(-r * 0.3, -r * 0.4, r * 0.1, 0, 0, r * 1.1)
-  body.addColorStop(0, '#fef9c3')
-  body.addColorStop(0.5, '#facc15')
-  body.addColorStop(1, '#ca8a04')
-  ctx.fillStyle = body
-  ctx.beginPath()
-  ctx.ellipse(0, 0, r * 1.12, r, 0, 0, Math.PI * 2)
-  ctx.fill()
-  ctx.fillStyle = '#fde68a'
-  ctx.beginPath()
-  ctx.ellipse(r * 0.1, r * 0.35, r * 0.6, r * 0.42, 0, 0, Math.PI * 2)
-  ctx.fill()
-  // wing
-  const wing = flapT < 0.25 ? 0.9 - (flapT / 0.25) * 1.3 : -0.4 + Math.sin(flapT * 8) * 0.1
-  ctx.save()
-  ctx.translate(-r * 0.25, 0)
-  ctx.rotate(wing)
-  ctx.fillStyle = '#f59e0b'
-  ctx.beginPath()
-  ctx.ellipse(-r * 0.35, 0, r * 0.6, r * 0.32, 0, 0, Math.PI * 2)
-  ctx.fill()
-  ctx.restore()
-  // eye + beak
-  ctx.fillStyle = '#fff'
-  ctx.beginPath()
-  ctx.arc(r * 0.45, -r * 0.3, r * 0.34, 0, Math.PI * 2)
-  ctx.fill()
-  ctx.fillStyle = '#0f172a'
-  if (dead) {
-    ctx.font = font(r * 0.6, 900)
-    ctx.fillText('×', r * 0.5, -r * 0.28)
-  } else {
-    ctx.beginPath()
-    ctx.arc(r * 0.55, -r * 0.3, r * 0.14, 0, Math.PI * 2)
-    ctx.fill()
-  }
-  ctx.fillStyle = '#f97316'
-  ctx.beginPath()
-  ctx.moveTo(r * 0.85, -r * 0.05)
-  ctx.lineTo(r * 1.45, r * 0.12)
-  ctx.lineTo(r * 0.85, r * 0.32)
-  ctx.fill()
-  ctx.restore()
+  const squash = flapT < 0.15 ? 1 - (0.15 - flapT) * 1.2 : 1
+  drawSprite(ctx, 'babyChick', x, y, r * 2.5, {
+    flipX: true,
+    rotate: dead ? 1.2 : angle,
+    scaleY: squash,
+  })
 }
 
 export function Flappy({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps) {
@@ -283,22 +243,10 @@ export function Flappy({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
     g.effects.update(dt)
 
     // --- draw
-    const sky = ctx.createLinearGradient(0, 0, 0, h)
-    sky.addColorStop(0, '#38bdf8')
-    sky.addColorStop(1, '#bae6fd')
-    ctx.fillStyle = sky
-    ctx.fillRect(0, 0, w, h)
-    for (const c of g.clouds) drawEmoji(ctx, '☁️', c.x * w, c.y * h, c.s, { alpha: 0.9 })
-    // distant hills (parallax)
-    ctx.fillStyle = '#86efac'
-    ctx.beginPath()
-    ctx.moveTo(0, GROUND * h)
-    for (let x = 0; x <= w + 16; x += 16) {
-      const t = (x + g.hills) / 120
-      ctx.lineTo(x, GROUND * h - 40 - Math.sin(t) * 22 - Math.sin(t * 0.37) * 14)
-    }
-    ctx.lineTo(w, GROUND * h)
-    ctx.fill()
+    drawSky(ctx, w, h, SKIES.morning)
+    drawSun(ctx, w * 0.82, h * 0.16, 24, g.time)
+    for (const c of g.clouds) drawCloud(ctx, c.x * w, c.y * h, c.s)
+    drawHills(ctx, w, GROUND * h + 30, MEADOW, g.groundOffset)
 
     ctx.save()
     g.effects.applyShake(ctx)
@@ -315,46 +263,41 @@ export function Flappy({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
         pipe.addColorStop(1, '#166534')
         ctx.fillStyle = pipe
         ctx.fillRect(x, y0, colW, y1 - y0)
-        ctx.fillStyle = 'rgba(255,255,255,.25)'
-        ctx.fillRect(x + colW * 0.18, y0, 4, y1 - y0)
+        ctx.strokeStyle = '#14532d'
+        ctx.lineWidth = 3
+        ctx.strokeRect(x, y0, colW, y1 - y0)
+        ctx.fillStyle = 'rgba(255,255,255,.35)'
+        ctx.beginPath()
+        ctx.roundRect(x + colW * 0.16, y0 + 4, 6, Math.max(0, y1 - y0 - 8), 3)
+        ctx.fill()
         const lip = ctx.createLinearGradient(x - 5, 0, x + colW + 5, 0)
         lip.addColorStop(0, '#166534')
         lip.addColorStop(0.4, '#22c55e')
         lip.addColorStop(1, '#14532d')
         ctx.fillStyle = lip
-        if (i > 0) {
+        for (const [draw, ly] of [
+          [i > 0, y0],
+          [i + 1 < edges.length - 1, y1 - 18],
+        ] as const) {
+          if (!draw) continue
+          ctx.fillStyle = lip
           ctx.beginPath()
-          ctx.roundRect(x - 6, y0, colW + 12, 16, 4)
+          ctx.roundRect(x - 7, ly, colW + 14, 18, 7)
           ctx.fill()
-        }
-        if (i + 1 < edges.length - 1) {
-          ctx.beginPath()
-          ctx.roundRect(x - 6, y1 - 16, colW + 12, 16, 4)
-          ctx.fill()
+          ctx.stroke()
         }
       }
       const isActive = c.id === g.activeId
       for (const gp of c.gaps) {
         drawPill(ctx, gp.choice.label, c.x * w, gp.y * h, {
           size: labelSize,
-          bg: c.resolved
-            ? gp.choice.correct
-              ? 'rgba(22,163,74,.95)'
-              : 'rgba(100,116,139,.8)'
-            : 'rgba(255,255,255,.95)',
-          fg: c.resolved ? '#fff' : '#0f172a',
-          border: isActive ? '#f59e0b' : undefined,
+          ...(c.resolved ? (gp.choice.correct ? BUBBLE.good : BUBBLE.dim) : isActive ? BUBBLE.active : BUBBLE.idle),
+          ...(c.resolved || isActive ? {} : { bg: '#ffffff' }),
           maxWidth: Math.max(colW * 2.2, 120),
         })
       }
     }
-    // ground
-    ctx.fillStyle = '#a16207'
-    ctx.fillRect(0, GROUND * h, w, h)
-    ctx.fillStyle = '#65a30d'
-    ctx.fillRect(0, GROUND * h, w, 10)
-    ctx.fillStyle = 'rgba(0,0,0,.15)'
-    for (let x = -(g.groundOffset % 40); x < w; x += 40) ctx.fillRect(x, GROUND * h + 10, 20, h)
+    drawGround(ctx, w, h, GROUND * h, g.groundOffset, GRASS)
 
     const blink = g.invulnT > 0 && Math.floor(g.time * 12) % 2 === 0
     ctx.globalAlpha = blink ? 0.35 : 1
@@ -368,9 +311,7 @@ export function Flappy({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
       drawPill(ctx, reverse ? active.prompt : `${active.prompt} → ?`, w / 2, 76, {
         size: reverse ? 18 : 26,
         sub: active.sub,
-        subColor: '#fde68a',
-        bg: 'rgba(15,23,42,.9)',
-        border: '#f59e0b',
+        ...BUBBLE.active,
       })
     }
     if (!g.started) {

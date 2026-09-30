@@ -219,8 +219,14 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
       </div>
 
       <div
-        className="grid touch-manipulation grid-cols-3 gap-2 rounded-3xl bg-gradient-to-b from-lime-400 to-green-600 p-3 select-none sm:gap-4 sm:p-5"
-        style={{ cursor: HAMMER }}
+        className="grid touch-manipulation grid-cols-3 gap-2 rounded-[2rem] border-4 border-white p-3 shadow-[0_8px_0_rgba(21,128,61,.35)] select-none sm:gap-4 sm:p-5"
+        style={{
+          cursor: HAMMER,
+          // a lawn: little white dots over a light-to-dark green gradient
+          backgroundImage:
+            'radial-gradient(circle, rgba(255,255,255,.35) 2px, transparent 2.5px), linear-gradient(to bottom, #bef264, #4ade80, #22c55e)',
+          backgroundSize: '22px 22px, 100% 100%',
+        }}
       >
         {Array.from({ length: HOLES }, (_, i) => {
           const mole = round?.moles[i] ?? null
@@ -237,10 +243,12 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
               style={{ cursor: HAMMER }}
               aria-label={mole ? mole.choice.label : `Lỗ ${i + 1}`}
             >
-              <span className="absolute top-1 left-1 z-20 rounded-md bg-black/25 px-1.5 text-xs font-bold text-white">
+              <span className="absolute top-1 left-1 z-20 flex size-6 items-center justify-center rounded-full border-2 border-white bg-green-700/70 text-xs font-black text-white">
                 {i + 1}
               </span>
-              <div className="absolute inset-x-2 bottom-1 h-8 rounded-[50%] bg-amber-950/80 shadow-[inset_0_6px_8px_rgba(0,0,0,.5)]" />
+              {/* dirt mound with the hole in it */}
+              <div className="absolute inset-x-0 bottom-0 h-10 rounded-[50%] bg-gradient-to-b from-amber-500 to-amber-700 shadow-[0_4px_0_rgba(0,0,0,.15)]" />
+              <div className="absolute inset-x-3 bottom-2 h-7 rounded-[50%] bg-amber-950 shadow-[inset_0_6px_8px_rgba(0,0,0,.6)]" />
               <AnimatePresence>
                 {visible && mole && (
                   <motion.div
@@ -259,13 +267,13 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
                   >
                     <span
                       className={cx(
-                        'mb-0.5 max-w-full truncate rounded-lg border-b-2 px-2 py-0.5 text-center font-extrabold shadow',
+                        'mb-1 max-w-full truncate rounded-full border-2 px-2.5 py-0.5 text-center font-extrabold shadow-[0_3px_0_rgba(15,23,42,.2)]',
                         reverse ? 'text-lg' : 'text-xs sm:text-sm',
                         mole.state === 'hit' || mole.state === 'reveal'
                           ? 'border-emerald-700 bg-emerald-400 text-emerald-950'
                           : mole.state === 'wrong'
                             ? 'border-rose-700 bg-rose-400 text-rose-950'
-                            : 'border-amber-300 bg-amber-50 text-slate-900',
+                            : 'border-white bg-white text-slate-900',
                       )}
                     >
                       {mole.choice.label}

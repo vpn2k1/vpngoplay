@@ -53,13 +53,13 @@ function GamesHub() {
                 to="/games/$gameId"
                 params={{ gameId: game.id }}
                 className={cx(
-                  'group relative flex h-full flex-col overflow-hidden rounded-3xl bg-gradient-to-br p-5 text-white shadow-lg transition hover:-translate-y-1 hover:shadow-2xl',
+                  'group relative flex h-full flex-col overflow-hidden rounded-[2rem] border-4 border-white/70 bg-gradient-to-br p-5 text-white shadow-[0_6px_0_rgba(15,23,42,.18)] transition hover:-translate-y-1 hover:shadow-2xl',
                   game.color,
                 )}
               >
                 <Icon className="pointer-events-none absolute -right-8 -bottom-8 size-40 opacity-20 transition duration-300 group-hover:scale-110 group-hover:-rotate-12" />
                 <div className="flex items-start justify-between">
-                  <span className="flex size-16 items-center justify-center rounded-2xl bg-white/20 shadow-inner ring-1 ring-white/30 backdrop-blur transition group-hover:scale-110 group-hover:-rotate-6">
+                  <span className="flex size-16 items-center justify-center rounded-3xl border-4 border-white bg-white/90 shadow-[0_4px_0_rgba(15,23,42,.2)] transition group-hover:scale-110 group-hover:-rotate-6">
                     <Icon className="size-11 drop-shadow-lg" />
                   </span>
                   {record > 0 && (

@@ -289,7 +289,7 @@ function FeatureCard({
     <Link
       to={to}
       className={cx(
-        'group flex flex-col items-start gap-1 rounded-3xl bg-gradient-to-br p-3 text-white shadow-md transition hover:-translate-y-0.5 hover:shadow-xl sm:p-4',
+        'group flex flex-col items-start gap-1 rounded-3xl border-4 border-white/70 bg-gradient-to-br p-3 text-white shadow-[0_5px_0_rgba(15,23,42,.18)] transition hover:-translate-y-0.5 hover:shadow-xl sm:p-4',
         className,
       )}
     >

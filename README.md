@@ -6,7 +6,7 @@ Web học ngoại ngữ (Anh · Nhật · Trung) bằng trò chơi, dành cho 3 
 
 **Icon:**
 - [Lucide](https://lucide.dev) (`lucide-react`) cho nút điều khiển.
-- [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) và [Circle Flags](https://github.com/HatScripts/circle-flags) cho hình minh hoạ, linh vật và cờ. Hai bộ này nạp qua `unplugin-icons` (`import X from '~icons/fluent-emoji-flat/rocket'`): chỉ icon nào được dùng mới vào bản build, và máy nào cũng hiển thị giống nhau, kể cả cờ trên Windows. Tất cả gom ở `src/components/icons.tsx`.
+- [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) (bản color: hoạt hình bo tròn, đổ bóng mềm) và [Circle Flags](https://github.com/HatScripts/circle-flags) cho hình minh hoạ, linh vật và cờ. Hai bộ này nạp qua `unplugin-icons` (`import X from '~icons/fluent-emoji/rocket'`): chỉ icon nào được dùng mới vào bản build, và máy nào cũng hiển thị giống nhau, kể cả cờ trên Windows. Tất cả gom ở `src/components/icons.tsx`.
 
 ## Trò chơi
 
@@ -28,7 +28,7 @@ Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, b
 | Game | Chế độ | Cách chơi |
 |---|---|---|
 | 🚀 Bắn chữ | Gõ nghĩa · Gõ ngoại ngữ | Thiên thạch mang chữ rơi xuống, gõ đáp án để bắn hạ; combo nhân điểm, lên level nhanh dần |
-| 🦖 Khủng long | Chọn ↑/↓ · Gõ nghĩa · Gõ ngoại ngữ | Trả lời đúng thì khủng long tự nhảy qua xương rồng hoặc cúi né chim. Ở chế độ chọn, chướng ngại vật là hộp ❓ nên không đoán được đáp án qua hình dạng |
+| 🦖 Khủng long | Chọn ↑/↓ · Gõ nghĩa · Gõ ngoại ngữ | Trả lời đúng thì khủng long tự nhảy qua xương rồng hoặc cúi né chim. Ở chế độ chọn, chướng ngại vật là hộp ❓ nên không đoán được đáp án qua hình dạng. Đồ hoạ pixel đơn sắc như trò khủng long offline của Chrome: điểm và kỷ lục "HI", cứ 700 điểm lại chuyển ngày/đêm |
 | 🏎️ Đua xe | Chọn làn · Gõ nghĩa · Gõ ngoại ngữ | Lái qua cổng có nghĩa đúng để nhận Nitro, hoặc gõ từ trên rào để phá rào (xe tự lái vào làn vừa mở) |
 | 🔨 Đập chuột | Chọn nghĩa · Chọn từ | 60 giây đập đúng chú chuột, phím 1–9 hoặc chạm |
 | 🐤 Chim bay | Chọn nghĩa · Chọn từ | Vỗ cánh bay qua khe mang đáp án đúng |
@@ -162,7 +162,16 @@ npm run vocab:build     # 3. kiểm tra lại, sinh public/decks/<course>-<nnn>.
 
 #### Bước 2 miễn phí: bản nháp từ dữ liệu mở (`vocab:draft`)
 
-Không có API key thì có thể soạn **bản nháp** cho mọi bài từ các nguồn mở đã tải về máy:
+Không có API key thì có thể soạn **bản nháp** cho mọi bài từ các nguồn mở đã tải về máy. **Một lệnh làm hết** (tải nguồn còn thiếu → tra từ → soạn nháp → cào từ còn thiếu → soạn lại → gói câu → build), chạy lại bất cứ lúc nào, bước nào đã có sẵn thì bỏ qua:
+
+```bash
+npm run crawl                  # khoảng 1–2 phút khi đã có dữ liệu; lần đầu lâu hơn vì phải tải khoảng 190 MB
+npm run crawl -- --refresh     # tải lại bản mới nhất của mọi nguồn (Wiktionary, Tatoeba cập nhật hằng tuần)
+npm run crawl -- --no-crawl    # bỏ bước cào English Wiktionary (cần mạng, chạy chậm)
+npm run crawl -- --no-build    # chỉ cập nhật data/, không đụng tới public/
+```
+
+Hoặc chạy từng bước:
 
 ```bash
 npm run sources:download && npm run sources:lookup   # một lần

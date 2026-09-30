@@ -140,20 +140,29 @@ export function Memory({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
                 transition={{ type: 'spring', stiffness: 260, damping: 22 }}
               >
                 {/* back */}
-                <div className="absolute inset-0 flex items-center justify-center rounded-2xl border-b-4 border-black/20 bg-white/90 shadow-md backface-hidden dark:bg-slate-900/90">
-                  <Mascot className="size-1/2 opacity-80" />
+                <div
+                  className="absolute inset-0 flex items-center justify-center rounded-3xl border-4 border-white shadow-[0_6px_0_rgba(15,23,42,.18)] backface-hidden"
+                  style={{
+                    backgroundImage:
+                      'radial-gradient(circle, rgba(255,255,255,.45) 2px, transparent 2.5px), linear-gradient(135deg, #7dd3fc, #a5b4fc, #f0abfc)',
+                    backgroundSize: '14px 14px, 100% 100%',
+                  }}
+                >
+                  <span className="flex aspect-square w-3/5 items-center justify-center rounded-full bg-white/80 shadow-inner">
+                    <Mascot className="size-4/5 drop-shadow" />
+                  </span>
                 </div>
                 {/* face */}
                 <div
                   className={cx(
-                    'absolute inset-0 flex rotate-y-180 flex-col items-center justify-center gap-0.5 rounded-2xl border-b-4 p-1.5 text-center shadow-md backface-hidden',
+                    'absolute inset-0 flex rotate-y-180 flex-col items-center justify-center gap-0.5 rounded-3xl border-4 border-white p-1.5 text-center shadow-[0_6px_0_rgba(15,23,42,.18)] backface-hidden',
                     isMatched
-                      ? 'border-emerald-700 bg-emerald-400 text-emerald-950'
+                      ? 'bg-gradient-to-br from-emerald-300 to-emerald-500 text-emerald-950'
                       : isWrong
-                        ? 'border-rose-700 bg-rose-400 text-rose-950'
+                        ? 'bg-gradient-to-br from-rose-300 to-rose-500 text-rose-950'
                         : card.kind === 'term'
-                          ? 'border-indigo-800 bg-indigo-500 text-white'
-                          : 'border-amber-600 bg-amber-300 text-amber-950',
+                          ? 'bg-gradient-to-br from-violet-400 to-indigo-600 text-white'
+                          : 'bg-gradient-to-br from-amber-200 to-amber-400 text-amber-950',
                   )}
                 >
                   {card.kind === 'term' ? (

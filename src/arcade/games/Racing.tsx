@@ -20,7 +20,6 @@ import {
 import {
   Effects,
   clamp,
-  drawEmoji,
   drawPill,
   pick,
   rand,
@@ -30,11 +29,12 @@ import {
   useGameState,
   useStage,
 } from '../engine'
+import { BUBBLE, drawShadow, drawSprite } from '../art'
 import { useTyping } from '../useTyping'
 
 const LANES = 3
 const CAR_Y = 0.8
-const GATE_COLORS = ['rgba(56,189,248,.85)', 'rgba(251,191,36,.9)', 'rgba(244,114,182,.88)']
+const GATE_COLORS = ['#38bdf8', '#f59e0b', '#ec4899']
 
 interface Row {
   id: number
@@ -53,7 +53,18 @@ interface Row {
 function createState() {
   return {
     rows: [] as Row[],
-    trees: Array.from({ length: 10 }, (_, i) => ({ left: i % 2 === 0, y: i / 10, emoji: pick(['🌳', '🌲', '🌴']) })),
+    trees: Array.from({ length: 10 }, (_, i) => ({
+      left: i % 2 === 0,
+      y: i / 10,
+      sprite: pick(['tree', 'pine', 'palm', 'tree'] as const),
+      dx: rand(-0.25, 0.25),
+    })),
+    flowers: Array.from({ length: 16 }, (_, i) => ({
+      left: i % 2 === 1,
+      y: rand(0, 1),
+      sprite: pick(['tulip', 'sunflower', 'mushroom'] as const),
+      dx: rand(-0.4, 0.4),
+    })),
     effects: new Effects(),
     lane: 1,
     /** Car lane position (spring) — float between lanes while changing */
@@ -282,32 +293,51 @@ export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
       syncHud()
     }
 
-    // --- draw
-    ctx.fillStyle = '#15803d'
+    // --- draw: striped meadow with flowers and trees, a rounded road with candy-striped curbs
+    ctx.fillStyle = '#4ade80'
     ctx.fillRect(0, 0, w, h)
-    ctx.fillStyle = '#16a34a'
+    ctx.fillStyle = '#22c55e'
     for (let y = -(80 - (g.roadOffset % 80)); y < h; y += 80) ctx.fillRect(0, y, w, 40)
     ctx.save()
     g.effects.applyShake(ctx)
+    const verge = (left: boolean) => (left ? roadX : w - roadX - roadW)
+    const vergeX = (left: boolean, dx: number) =>
+      left ? roadX / 2 + dx * roadX * 0.5 : roadX + roadW + (w - roadX - roadW) * (0.5 + dx * 0.5)
+    for (const f of g.flowers) if (verge(f.left) > 24) drawSprite(ctx, f.sprite, vergeX(f.left, f.dx), f.y * h, 20)
     for (const t of g.trees) {
-      const x = t.left ? roadX / 2 : roadX + roadW + (w - roadX - roadW) / 2
-      if ((t.left ? roadX : w - roadX - roadW) > 30) drawEmoji(ctx, t.emoji, x, t.y * h, 34)
+      if (verge(t.left) <= 34) continue
+      const x = vergeX(t.left, t.dx)
+      drawShadow(ctx, x + 6, t.y * h + 18, 16, 6)
+      drawSprite(ctx, t.sprite, x, t.y * h, 46)
     }
-    ctx.fillStyle = '#334155'
+    // road with a soft edge shadow
+    ctx.fillStyle = 'rgba(15,23,42,.18)'
+    ctx.fillRect(roadX - 12, 0, roadW + 24, h)
+    ctx.fillStyle = '#64748b'
     ctx.fillRect(roadX, 0, roadW, h)
-    // curbs
+    ctx.fillStyle = 'rgba(255,255,255,.06)'
+    ctx.fillRect(roadX + roadW * 0.08, 0, roadW * 0.2, h)
+    // curbs: rounded red and white blocks
     for (let y = -(40 - (g.roadOffset % 40)); y < h; y += 40) {
-      for (const x of [roadX - 8, roadX + roadW]) {
+      for (const x of [roadX - 10, roadX + roadW]) {
         ctx.fillStyle = '#ef4444'
-        ctx.fillRect(x, y, 8, 20)
+        ctx.beginPath()
+        ctx.roundRect(x, y + 1, 10, 18, 4)
+        ctx.fill()
         ctx.fillStyle = '#fff'
-        ctx.fillRect(x, y + 20, 8, 20)
+        ctx.beginPath()
+        ctx.roundRect(x, y + 21, 10, 18, 4)
+        ctx.fill()
       }
     }
     // lane dashes
-    ctx.fillStyle = 'rgba(255,255,255,.7)'
+    ctx.fillStyle = 'rgba(255,255,255,.85)'
     for (let i = 1; i < LANES; i++)
-      for (let y = -(60 - (g.roadOffset % 60)); y < h; y += 60) ctx.fillRect(roadX + laneW * i - 2, y, 4, 30)
+      for (let y = -(60 - (g.roadOffset % 60)); y < h; y += 60) {
+        ctx.beginPath()
+        ctx.roundRect(roadX + laneW * i - 3, y, 6, 30, 3)
+        ctx.fill()
+      }
 
     // speed lines while boosting
     if (g.boostT > 0) {
@@ -333,21 +363,21 @@ export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
           const gx = x - laneW / 2 + 5
           const gw = laneW - 10
           ctx.globalAlpha = passed && !c.correct ? 0.3 : 1
-          // posts + arch banner
-          ctx.fillStyle = '#e2e8f0'
-          ctx.fillRect(gx, y - 30, 5, 44)
-          ctx.fillRect(gx + gw - 5, y - 30, 5, 44)
-          ctx.fillStyle = passed ? (c.correct ? '#22c55e' : '#64748b') : GATE_COLORS[i]
-          ctx.beginPath()
-          ctx.roundRect(gx - 2, y - 38, gw + 4, 22, 8)
-          ctx.fill()
-          ctx.fillStyle = passed && c.correct ? 'rgba(34,197,94,.25)' : 'rgba(255,255,255,.08)'
-          ctx.fillRect(gx + 5, y - 16, gw - 10, 30)
+          // rounded posts + a balloon-coloured arch
+          ctx.fillStyle = '#f8fafc'
+          for (const px of [gx, gx + gw - 7]) {
+            ctx.beginPath()
+            ctx.roundRect(px, y - 30, 7, 46, 3.5)
+            ctx.fill()
+          }
+          ctx.fillStyle = passed && c.correct ? 'rgba(34,197,94,.3)' : 'rgba(255,255,255,.12)'
+          ctx.fillRect(gx + 7, y - 16, gw - 14, 30)
           drawPill(ctx, c.label, x, y - 27, {
             size: labelSize,
-            bg: 'rgba(255,255,255,.95)',
-            fg: '#0f172a',
-            maxWidth: laneW - 24,
+            ...BUBBLE.idle,
+            bg: passed ? (c.correct ? '#86efac' : '#cbd5e1') : '#ffffff',
+            border: passed ? (c.correct ? '#16a34a' : '#94a3b8') : GATE_COLORS[i],
+            maxWidth: laneW - 16,
           })
           ctx.globalAlpha = 1
         })
@@ -355,22 +385,26 @@ export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
           drawPill(ctx, r.prompt, w / 2, y - 82, {
             size: isActive ? 26 : 19,
             sub: r.sub,
-            subColor: '#fde68a',
-            bg: 'rgba(15,23,42,.92)',
-            border: isActive ? '#fde047' : undefined,
-            glow: isActive ? '#fde047' : undefined,
+            ...(isActive ? BUBBLE.active : BUBBLE.dim),
           })
       } else if (r.cells) {
         r.cells.forEach((cell, i) => {
           if (cell.open) return
           const x = laneX(i)
           const bw = (laneW - 12) / 6
+          ctx.fillStyle = 'rgba(15,23,42,.22)'
+          ctx.beginPath()
+          ctx.roundRect(x - laneW / 2 + 6, y - 6, laneW - 12, 22, 10)
+          ctx.fill()
+          ctx.save()
+          ctx.beginPath()
+          ctx.roundRect(x - laneW / 2 + 6, y - 11, laneW - 12, 22, 10)
+          ctx.clip()
           for (let k = 0; k < 6; k++) {
-            ctx.fillStyle = k % 2 ? '#f8fafc' : '#dc2626'
-            ctx.fillRect(x - laneW / 2 + 6 + bw * k, y - 10, bw, 20)
+            ctx.fillStyle = k % 2 ? '#f8fafc' : '#ef4444'
+            ctx.fillRect(x - laneW / 2 + 6 + bw * k, y - 11, bw, 22)
           }
-          ctx.fillStyle = 'rgba(0,0,0,.25)'
-          ctx.fillRect(x - laneW / 2 + 6, y + 10, laneW - 12, 4)
+          ctx.restore()
           const locked = isActive && !!g.typedKey && cell.ch.keys.some((k) => k.startsWith(g.typedKey))
           const shortest = locked
             ? Math.min(...cell.ch.keys.filter((k) => k.startsWith(g.typedKey)).map((k) => k.length))
@@ -378,9 +412,7 @@ export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
           drawPill(ctx, cell.ch.prompt, x, y - 40, {
             size: isActive ? labelSize + 2 : labelSize,
             sub: typingMode === 'write' ? typingHint(cell.ch, g.typed, locked) : cell.ch.sub,
-            subColor: locked ? '#67e8f9' : 'rgba(226,232,240,.8)',
-            border: locked ? '#22d3ee' : undefined,
-            glow: locked ? '#22d3ee' : undefined,
+            ...(locked ? BUBBLE.active : BUBBLE.idle),
             progress: shortest ? g.typedKey.length / shortest : 0,
             maxWidth: laneW - 12,
           })
@@ -434,6 +466,9 @@ export function Racing({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps
     ctx.beginPath()
     ctx.roundRect(-carW / 2, -carH / 2, carW, carH, [carW * 0.45, carW * 0.45, carW * 0.25, carW * 0.25])
     ctx.fill()
+    ctx.lineWidth = 3
+    ctx.strokeStyle = '#7f1d1d'
+    ctx.stroke()
     const glass = ctx.createLinearGradient(0, -carH * 0.25, 0, 0)
     glass.addColorStop(0, '#93c5fd')
     glass.addColorStop(1, '#1e3a8a')

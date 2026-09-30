@@ -19,6 +19,7 @@ import { toSaved } from '../lib/review'
 import { wordCardKey } from '../lib/srs'
 import { useProgress } from '../lib/store'
 import { GAME_SPEEDS, LANGS, type Deck, type GameSpeed, type Word } from '../lib/types'
+import { preloadSprites } from './art'
 import type { ModeOption } from './challenge'
 
 export interface GameOverResult {
@@ -36,6 +37,8 @@ export interface ArcadeGameProps {
   /** Speed multiplier from the player's speed setting (1 = original speed) */
   pace: number
   paused: boolean
+  /** Best score so far for this game, deck and mode (shown as "HI" by games that want it) */
+  best?: number
   onGameOver: (result: GameOverResult) => void
 }
 
@@ -79,6 +82,8 @@ export function ArcadeShell({
   paced = true,
   setup,
 }: ArcadeShellProps) {
+  // Decode the cartoon sprites while the learner picks a mode, so the first frames have pictures.
+  useEffect(() => preloadSprites(), [])
   const track = useProgress((s) => s.profile?.track)
   const addXp = useProgress((s) => s.addXp)
   const review = useProgress((s) => s.review)
@@ -304,7 +309,7 @@ export function ArcadeShell({
         </button>
       </div>
       <div className="relative">
-        <Game key={round} deck={deck} mode={mode} pace={pace} paused={paused} onGameOver={gameOver} />
+        <Game key={round} deck={deck} mode={mode} pace={pace} paused={paused} best={best} onGameOver={gameOver} />
         <AnimatePresence>
           {paused && (
             <motion.div
@@ -414,18 +419,20 @@ export function Hud({
     <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex items-start justify-between gap-2 p-3 text-white">
       <div className="flex flex-wrap items-center gap-2">
         {lives !== undefined && (
-          <span className="flex items-center gap-0.5 rounded-full bg-black/35 px-2 py-1 backdrop-blur">
+          <span className="flex items-center gap-0.5 rounded-full border-2 border-white bg-white/90 text-slate-800 shadow-[0_3px_0_rgba(15,23,42,.2)] px-2 py-1">
             {Array.from({ length: maxLives }, (_, i) =>
               i < lives ? (
                 <RedHeart key={i} className="size-5" />
               ) : (
-                <WhiteHeart key={i} className="size-5 opacity-40" />
+                <WhiteHeart key={i} className="size-5 opacity-50 grayscale" />
               ),
             )}
           </span>
         )}
         {level !== undefined && (
-          <span className="rounded-full bg-black/35 px-2.5 py-1 text-sm font-bold backdrop-blur">Lv {level}</span>
+          <span className="rounded-full border-2 border-white bg-white/90 text-slate-800 shadow-[0_3px_0_rgba(15,23,42,.2)] px-2.5 py-1 text-sm font-black">
+            Lv {level}
+          </span>
         )}
         <AnimatePresence>
           {combo >= 2 && (
@@ -434,7 +441,7 @@ export function Hud({
               initial={{ scale: 1.6 }}
               animate={{ scale: 1 }}
               exit={{ scale: 0 }}
-              className="inline-flex items-center gap-0.5 rounded-full bg-gradient-to-r from-orange-500 to-amber-400 py-1 pr-2.5 pl-1.5 text-sm font-black"
+              className="inline-flex items-center gap-0.5 rounded-full border-2 border-white bg-gradient-to-r from-orange-500 to-amber-400 py-1 pr-2.5 pl-1.5 text-sm font-black shadow-[0_3px_0_rgba(194,65,12,.4)]"
             >
               <Fire className="size-5" /> x{combo}
             </motion.span>
@@ -446,7 +453,7 @@ export function Hud({
         key={score}
         initial={{ scale: 1.25 }}
         animate={{ scale: 1 }}
-        className="rounded-full bg-black/35 px-3 py-1 font-mono text-lg font-black tabular-nums backdrop-blur"
+        className="rounded-full border-2 border-white bg-white/90 text-slate-800 shadow-[0_3px_0_rgba(15,23,42,.2)] px-3 py-1 text-lg font-black tabular-nums"
       >
         {score}
       </motion.span>

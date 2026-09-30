@@ -198,9 +198,10 @@ export class Effects {
     }
     for (const t of this.texts) {
       ctx.globalAlpha = Math.min(1, (t.life / t.max) * 2)
-      ctx.font = font(t.size, 800)
-      ctx.lineWidth = 4
-      ctx.strokeStyle = 'rgba(0,0,0,.55)'
+      ctx.font = font(t.size, 900)
+      ctx.lineJoin = 'round'
+      ctx.lineWidth = 6
+      ctx.strokeStyle = 'rgba(30,41,59,.85)'
       ctx.strokeText(t.text, t.x, t.y)
       ctx.fillStyle = t.color
       ctx.fillText(t.text, t.x, t.y)
@@ -240,7 +241,12 @@ export interface PillStyle {
   bg?: string
   fg?: string
   border?: string
+  borderWidth?: number
   glow?: string
+  /** Cartoon drop shadow: the same shape offset downwards in this colour */
+  shadow?: string
+  /** Corner radius; default is a pill (or 16 with a second line) */
+  radius?: number
   /** 0..1 progress bar under the text (typing progress) */
   progress?: number
   progressColor?: string
@@ -257,7 +263,9 @@ export function drawPill(ctx: CanvasRenderingContext2D, text: string, x: number,
     bg = 'rgba(15,23,42,.85)',
     fg = '#fff',
     border,
+    borderWidth = 2.5,
     glow,
+    shadow,
     progress,
     progressColor = '#22d3ee',
     maxWidth = 280,
@@ -273,8 +281,14 @@ export function drawPill(ctx: CanvasRenderingContext2D, text: string, x: number,
   }
   const w = textWidth + size * 1.2
   const h = sub ? size * 1.5 + subSize * 1.35 : size * 1.9
-  const radius = sub ? Math.min(16, h / 2) : h / 2
+  const radius = style.radius ?? (sub ? Math.min(16, h / 2) : h / 2)
   ctx.save()
+  if (shadow) {
+    ctx.beginPath()
+    ctx.roundRect(x - w / 2, y - h / 2 + 4, w, h, radius)
+    ctx.fillStyle = shadow
+    ctx.fill()
+  }
   if (glow) {
     ctx.shadowColor = glow
     ctx.shadowBlur = 18
@@ -285,7 +299,7 @@ export function drawPill(ctx: CanvasRenderingContext2D, text: string, x: number,
   ctx.fill()
   ctx.shadowBlur = 0
   if (border) {
-    ctx.lineWidth = 2.5
+    ctx.lineWidth = borderWidth
     ctx.strokeStyle = border
     ctx.stroke()
   }

@@ -47,7 +47,7 @@ function SwipeCard({
 
   return (
     <motion.div
-      className="absolute inset-0 flex cursor-grab touch-none flex-col items-center justify-center gap-4 rounded-[2rem] bg-white p-6 text-center shadow-xl ring-1 ring-slate-200 active:cursor-grabbing dark:bg-slate-900 dark:ring-slate-700"
+      className="absolute inset-0 flex cursor-grab touch-none flex-col items-center justify-center gap-4 rounded-[2.25rem] border-4 border-white bg-white bg-[radial-gradient(circle,rgba(56,189,248,.14)_2px,transparent_2.5px)] bg-[length:18px_18px] p-6 text-center shadow-[0_10px_0_rgba(15,23,42,.14)] ring-1 ring-sky-100 active:cursor-grabbing dark:border-slate-700 dark:bg-slate-900 dark:ring-slate-700"
       style={{ x, rotate }}
       drag="x"
       dragConstraints={{ left: 0, right: 0 }}
@@ -59,13 +59,13 @@ function SwipeCard({
     >
       <motion.span
         style={{ opacity: yesOpacity }}
-        className="absolute top-5 left-5 -rotate-12 rounded-xl border-4 border-emerald-500 px-3 py-1 text-xl font-black text-emerald-500"
+        className="absolute top-5 left-5 -rotate-12 rounded-2xl border-4 border-white bg-emerald-500 px-3 py-1 text-xl font-black text-white shadow-[0_4px_0_rgba(21,128,61,.5)]"
       >
         ĐÚNG
       </motion.span>
       <motion.span
         style={{ opacity: noOpacity }}
-        className="absolute top-5 right-5 rotate-12 rounded-xl border-4 border-rose-500 px-3 py-1 text-xl font-black text-rose-500"
+        className="absolute top-5 right-5 rotate-12 rounded-2xl border-4 border-white bg-rose-500 px-3 py-1 text-xl font-black text-white shadow-[0_4px_0_rgba(190,18,60,.5)]"
       >
         SAI
       </motion.span>
@@ -74,7 +74,7 @@ function SwipeCard({
           type="button"
           onPointerDown={(e) => e.stopPropagation()}
           onClick={() => speak(round.word.term, lang)}
-          className="flex size-24 items-center justify-center rounded-3xl border-b-4 border-sky-700 bg-sky-500 text-white"
+          className="flex size-24 items-center justify-center rounded-full border-4 border-white bg-gradient-to-b from-sky-400 to-sky-600 text-white shadow-[0_6px_0_rgba(3,105,161,.45)]"
           aria-label="Nghe lại"
         >
           <Volume2 className="size-12" />
@@ -86,7 +86,9 @@ function SwipeCard({
         </div>
       )}
       <div className="text-sm font-bold text-slate-400 uppercase">có nghĩa là</div>
-      <div className="text-2xl font-extrabold text-indigo-600 dark:text-indigo-400">{round.shown}</div>
+      <div className="rounded-full border-2 border-indigo-200 bg-indigo-50 px-5 py-2 text-2xl font-extrabold text-indigo-600 shadow-[0_4px_0_rgba(99,102,241,.25)] dark:border-indigo-800 dark:bg-indigo-950 dark:text-indigo-300">
+        {round.shown}
+      </div>
     </motion.div>
   )
 }

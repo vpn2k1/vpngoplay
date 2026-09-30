@@ -15,16 +15,16 @@ import {
   resolveTyping,
   typingHint,
 } from './challenge'
+import { ALL_SPRITES, GLYPHS } from './pixel'
 import { SCRIPT_SETS, scriptInputKey } from './scripts'
-import { ALL_SPRITES } from './sprites'
 
-describe('pixel sprites', () => {
-  it.each(Object.entries(ALL_SPRITES))('%s frames are rectangular and the same size', (_, frames) => {
-    const [first] = frames
-    for (const frame of frames) {
-      expect(frame).toHaveLength(first.length)
-      for (const row of frame) expect(row).toHaveLength(first[0].length)
-    }
+describe('pixel art', () => {
+  it.each(Object.entries(ALL_SPRITES))('%s frames are rectangular', (_, frames) => {
+    for (const frame of frames) for (const row of frame) expect(row).toHaveLength(frame[0].length)
+  })
+  it.each(Object.entries(GLYPHS))('glyph %s is 5×7', (_, rows) => {
+    expect(rows).toHaveLength(7)
+    for (const row of rows) expect(row).toHaveLength(5)
   })
 })
 

@@ -164,7 +164,7 @@ export function IconTile({
   return (
     <span
       className={cx(
-        'inline-flex shrink-0 items-center justify-center shadow-sm ring-1 ring-black/5',
+        'inline-flex shrink-0 items-center justify-center shadow-[0_3px_0_rgba(15,23,42,.14)] ring-2 ring-white dark:ring-slate-700',
         size === 'sm' && 'size-9 rounded-xl',
         size === 'md' && 'size-11 rounded-2xl',
         size === 'lg' && 'size-16 rounded-3xl',

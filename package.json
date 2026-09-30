@@ -21,7 +21,8 @@
     "sources:download": "node scripts/sources/download.mjs",
     "sources:lookup": "node scripts/sources/lookup.mjs",
     "sources:crawl": "node scripts/sources/crawl-wiktionary.mjs",
-    "sentences:build": "node scripts/sentences/build.mjs"
+    "sentences:build": "node scripts/sentences/build.mjs",
+    "crawl": "node scripts/sources/sync.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.9.1",
@@ -41,7 +42,7 @@
   "devDependencies": {
     "@anthropic-ai/sdk": "^0.128.0",
     "@iconify-json/circle-flags": "^1.2.11",
-    "@iconify-json/fluent-emoji-flat": "^1.2.6",
+    "@iconify-json/fluent-emoji": "^1.2.7",
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",
     "@tailwindcss/vite": "^4.3.3",
