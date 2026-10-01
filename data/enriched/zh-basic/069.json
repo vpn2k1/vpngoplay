@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "金",
-   "meaning": "vàng",
+   "meaning": "vàng, kim loại",
    "example": "时间就是金钱。",
    "exampleMeaning": "Thời gian là vàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,72 +24,72 @@
    "ipa": "",
    "pinyin": "shèhuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "下去",
-   "meaning": "xuống",
+   "meaning": "đi xuống, tiếp tục",
    "example": "领导干部每月要下去几天。",
    "exampleMeaning": "Cán bộ lãnh đạo hàng tháng phải xuống cơ sở vài ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàqù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "证明",
-   "meaning": "chứng minh",
+   "meaning": "chứng minh, giấy chứng nhận",
    "example": "事实证明了我们的担心是多余的。",
    "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèngmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "记者",
-   "meaning": "phóng viên",
+   "meaning": "phóng viên, nhà báo",
    "example": "电视台的记者",
    "exampleMeaning": "Phóng viên đài truyền hình",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìzhě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "确实",
-   "meaning": "chính xác",
+   "meaning": "quả thật, đúng là, xác thực",
    "example": "他最近确实有些进步。",
    "exampleMeaning": "Gần đây, anh ấy thực sự có tiến bộ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quèshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "力",
-   "meaning": "tài năng, năng lực, gắng sức",
+   "meaning": "sức, lực",
    "example": "我努力地改善我的成績。",
    "exampleMeaning": "Tôi nổ lực cải thiện thành tích của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,20 +102,20 @@
    "ipa": "",
    "pinyin": "fāzhǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "谈",
-   "meaning": "chuyện",
+   "meaning": "nói chuyện, trò chuyện, bàn",
    "example": "我只是随便谈谈自己不成熟的看法，无所谓有研究。",
    "exampleMeaning": "Tôi chỉ là tùy tiện nói ra cách nghĩ còn chưa chín chắn lắm của mình, không đến mức gọi là có nghiên cứu gì.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,137 +128,137 @@
    "ipa": "",
    "pinyin": "zhìshǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "负责",
-   "meaning": "phụ trách",
+   "meaning": "phụ trách, chịu trách nhiệm",
    "example": "一个人要为他的行为负责。",
    "exampleMeaning": "Một người phải có trách nhiệm với những hành động của mình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fùzé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "首先",
-   "meaning": "trước tiên",
+   "meaning": "trước tiên, đầu tiên",
    "example": "首先报名。",
    "exampleMeaning": "Ghi tên đầu tiên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǒuxiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "交易",
-   "meaning": "mua bán",
+   "meaning": "giao dịch, mua bán",
    "example": "不能拿原则做交易。",
    "exampleMeaning": "Đừng có đem nguyên tắc ra mua bán.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiāoyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "理解",
-   "meaning": "hiểu",
+   "meaning": "hiểu, lý giải",
    "example": "我想你能理解的。",
    "exampleMeaning": "Tôi nghĩ anh có thể hiểu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐjiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "报道",
-   "meaning": "đưa tin",
+   "meaning": "đưa tin, bản tin",
    "example": "他觉得必须报道这件事。",
    "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàodào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "父母",
-   "meaning": "cha mẹ",
+   "meaning": "cha mẹ, bố mẹ",
    "example": "你该听你父母的话。",
    "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fùmǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "城",
-   "meaning": "thành",
+   "meaning": "thành phố, thành, tường thành",
    "example": "哈巴羅夫斯克是俄羅斯遠東地區最大的城市之一。",
    "exampleMeaning": "Khabarovsk là một trong những thành phố lớn nhất vùng Viễn Đông nước Nga.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chéng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "安排",
-   "meaning": "thu xếp",
+   "meaning": "sắp xếp, bố trí",
    "example": "明天你有什么安排没有？",
    "exampleMeaning": "Mai bạn có dự định gì không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "ānpái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "力量",
-   "meaning": "sức lực, lực lượng, tác dụng",
+   "meaning": "sức mạnh, lực lượng",
    "example": "团结一切可以团结的力量。",
    "exampleMeaning": "Đoàn kết mọi lực lường có thể đoàn kết được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lìliang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "敢",
-   "meaning": "dám, dám đương đầu với",
+   "meaning": "dám",
    "example": "他怎么敢抱怨？",
    "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

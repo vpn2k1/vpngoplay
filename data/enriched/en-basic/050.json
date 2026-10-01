@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "become",
-   "meaning": "trở nên, trở thành",
+   "meaning": "trở thành, trở nên",
    "example": "His object is to become CEO.",
    "exampleMeaning": "Mục tiêu của anh ấy là trở thành CEO.",
    "emoji": "",
    "ipa": "/bɪˈkəm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "telephone",
-   "meaning": "dây nói, điện thoại",
+   "meaning": "điện thoại",
    "example": "Can I use your telephone?",
    "exampleMeaning": "Cho tôi mượn cái điện thoại của bạn có được không?",
    "emoji": "☎",
    "ipa": "/ˈtɛləˌfoʊn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "umbrella",
-   "meaning": "ô, dù",
+   "meaning": "cái ô, dù",
    "example": "Where is my umbrella?",
    "exampleMeaning": "Ô của tôi đâu rồi?",
    "emoji": "☂",
    "ipa": "/ˈəmˌbrɛlə/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "learn",
-   "meaning": "học, học tập, nghiên cứu",
+   "meaning": "học, học hỏi",
    "example": "I learn French.",
    "exampleMeaning": "Tôi học tiếng Pháp.",
    "emoji": "",
    "ipa": "/ˈlɜːn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "carry",
-   "meaning": "mang, sang, xúc tiến",
+   "meaning": "mang, xách, bế",
    "example": "can you carry all these figures in your head?",
    "exampleMeaning": "Anh có thể nhớ được tất cả những con số này không?",
    "emoji": "",
    "ipa": "/ˈkæri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -76,72 +76,72 @@
    "ipa": "/bɪˈkɑz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "event",
-   "meaning": "sự việc, sự kiện",
+   "meaning": "sự kiện",
    "example": "An unforgettable event occurred.",
    "exampleMeaning": "Một sự kiện khó quên đã xảy ra.",
    "emoji": "",
    "ipa": "/iˈvɛnt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "blank",
-   "meaning": "trống",
+   "meaning": "trống, để trống",
    "example": "what a blank such a life is!",
    "exampleMeaning": "Cuộc sống như vậy thật trống rỗng quá!",
    "emoji": "",
    "ipa": "/blæŋk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "brother",
-   "meaning": "anh",
+   "meaning": "anh trai, em trai",
    "example": "Do you have a brother?",
    "exampleMeaning": "Bạn có anh/em trai không?",
    "emoji": "",
    "ipa": "/ˈbrəðɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "grandpa",
-   "meaning": "nhuấy &",
+   "meaning": "ông (thân mật)",
    "example": "Let's learn the word \"grandpa\".",
-   "exampleMeaning": "Cùng học từ “grandpa”: nhuấy &.",
+   "exampleMeaning": "Cùng học từ “grandpa”: ông (thân mật).",
    "emoji": "",
    "ipa": "/ˈɡrændˌpɑ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "ten",
-   "meaning": "mười, chục",
+   "meaning": "mười",
    "example": "Half of ten is five.",
    "exampleMeaning": "Một nửa của mười là năm.",
    "emoji": "",
    "ipa": "/ˈtɛn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,7 +154,7 @@
    "ipa": "/bɪɡ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -167,20 +167,20 @@
    "ipa": "/ˈmɛməri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "want",
-   "meaning": "muốn, muốn có",
+   "meaning": "muốn",
    "example": "what else do you want?",
    "exampleMeaning": "Anh còn muốn gì khác nữa?",
    "emoji": "",
    "ipa": "/ˈwɔnt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "/ˈeɪti/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,46 +206,46 @@
    "ipa": "/aɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "pink",
-   "meaning": "hồng",
+   "meaning": "hồng, màu hồng",
    "example": "He has pink eye.",
    "exampleMeaning": "Anh ấy có mắt hồng.",
    "emoji": "",
    "ipa": "/ˈpɪŋk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "parent",
-   "meaning": "nguồn gốc",
+   "meaning": "phụ huynh, cha mẹ",
    "example": "ignorance is the parent of many evils",
    "exampleMeaning": "Dốt nát là nguồn gốc của nhiều điều tai hại",
    "emoji": "",
    "ipa": "/ˈpɛə.rənt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "dish",
-   "meaning": "món ăn (đựng trong đĩa)",
+   "meaning": "món ăn, cái đĩa",
    "example": "a dish of tea",
    "exampleMeaning": "Tách trà",
    "emoji": "",
    "ipa": "/ˈdɪʃ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "/əˈlɔŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

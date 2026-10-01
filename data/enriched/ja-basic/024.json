@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "そば",
-   "meaning": "bên, bên cạnh",
+   "meaning": "bên cạnh, mì soba",
    "example": "喧嘩のそば杖を食った。",
    "exampleMeaning": "Tôi bị dính vào cuộc tranh cãi của người khác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "終る",
-   "meaning": "hoàn thành, kết thúc, làm xong",
+   "meaning": "kết thúc, xong",
    "example": "「終る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “終る”: hoàn thành, kết thúc, làm xong.",
+   "exampleMeaning": "Cùng nhớ từ “終る”: kết thúc, xong.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "つける",
-   "meaning": "mở",
+   "meaning": "bật (đèn), gắn vào",
    "example": "探す人が、見つけるのだ。",
    "exampleMeaning": "Tìm thì sẽ thấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "見せる",
-   "meaning": "cho xem, cho thấy, trưng bày",
+   "meaning": "cho xem",
    "example": "「見せる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “見せる”: cho xem, cho thấy, trưng bày.",
+   "exampleMeaning": "Cùng nhớ từ “見せる”: cho xem.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -63,85 +63,85 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "誕生日",
-   "meaning": "ngày sinh",
+   "meaning": "sinh nhật",
    "example": "昨日は僕の誕生日だった。",
    "exampleMeaning": "Hôm qua là sinh nhật của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "易しい",
-   "meaning": "dễ",
+   "meaning": "dễ, dễ dàng",
    "example": "「易しい」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “易しい”: dễ.",
+   "exampleMeaning": "Cùng nhớ từ “易しい”: dễ, dễ dàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "上手",
-   "meaning": "giỏi, tài giỏi, khéo léo",
+   "meaning": "giỏi, khéo",
    "example": "彼は嘘をつくのが上手だ。",
    "exampleMeaning": "Anh ấy là một người giỏi nói dối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "そっち",
-   "meaning": "ở đó, tại đó, chỗ đó",
+   "meaning": "phía đó, chỗ đó",
    "example": "そっちは今何時？",
    "exampleMeaning": "Ở đó bây giờ là mấy giờ?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "近い",
-   "meaning": "ở gần, ngắn, cụt",
+   "meaning": "gần, gần gũi",
    "example": "「近い」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “近い”: ở gần, ngắn, cụt.",
+   "exampleMeaning": "Cùng nhớ từ “近い”: gần, gần gũi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "しかし",
-   "meaning": "dù đến đâu, dù cách nào, dù cách gì",
+   "meaning": "nhưng, tuy nhiên",
    "example": "しかし、逆もまた真である。",
    "exampleMeaning": "Nhưng, sự trái ngược cũng luôn luôn có lý.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,33 +154,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "どこ",
-   "meaning": "đâu, ở đâu, ở nơi nào",
+   "meaning": "đâu, ở đâu",
    "example": "鍵はどこだろう？",
    "exampleMeaning": "Cái chìa khóa ở đâu?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "歩く",
-   "meaning": "đi, đi bộ",
+   "meaning": "đi bộ, bước đi",
    "example": "彼は長い距離を歩くのに慣れている。",
    "exampleMeaning": "Anh ấy đã quen đi bộ cự ly dài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -206,20 +206,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "医者",
-   "meaning": "thầy thuốc",
+   "meaning": "bác sĩ, thầy thuốc",
    "example": "彼の父親は医者ですか。",
    "exampleMeaning": "Cha của anh ta có phải là bác sĩ không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -232,7 +232,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "弾く",
-   "meaning": "chơi, đánh (đàn... ), thổi (sáo... )",
+   "meaning": "chơi (đàn), gảy, đánh (đàn)",
    "example": "彼はギターを弾くことができる。",
    "exampleMeaning": "Anh ta có thể chơi được ghita.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

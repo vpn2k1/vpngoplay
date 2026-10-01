@@ -1,0 +1,323 @@
+{
+ "lesson": 139,
+ "draft": true,
+ "words": [
+  {
+   "term": "chew",
+   "meaning": "nhai",
+   "example": "I often chew some mentholated gum after a meal.",
+   "exampleMeaning": "Tôi thường ăn kẹo cao su bạc hà sau bữa ăn",
+   "emoji": "",
+   "ipa": "/ˈtʃu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "evacuate",
+   "meaning": "sơ tán, di tản",
+   "example": "Let's learn the word \"evacuate\".",
+   "exampleMeaning": "Cùng học từ “evacuate”: sơ tán, di tản.",
+   "emoji": "",
+   "ipa": "/iˈvækjəˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hail",
+   "meaning": "gọi (xe), ca ngợi",
+   "example": "to hail down blows on someone",
+   "exampleMeaning": "Đấm ai túi bụi",
+   "emoji": "",
+   "ipa": "/ˈheɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lousy",
+   "meaning": "tồi tệ, tệ hại",
+   "example": "lousy with money",
+   "exampleMeaning": "Lắm tiền nhiều của",
+   "emoji": "",
+   "ipa": "/ˈlaʊzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "weakly",
+   "meaning": "yếu ớt",
+   "example": "Let's learn the word \"weakly\".",
+   "exampleMeaning": "Cùng học từ “weakly”: yếu ớt.",
+   "emoji": "",
+   "ipa": "/ˈwikli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cooperation",
+   "meaning": "sự hợp tác",
+   "example": "In soccer, cooperation is important.",
+   "exampleMeaning": "Trong bóng đá thì quan trọng là phải hợp tác.",
+   "emoji": "",
+   "ipa": "/ˌkwɑpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "reconsider",
+   "meaning": "xem xét lại, cân nhắc lại",
+   "example": "I think we should reconsider that.",
+   "exampleMeaning": "Tôi nghĩ chúng ta nên xem xét lại điều đó.",
+   "emoji": "",
+   "ipa": "/ˌrikənˈsɪdɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "spa",
+   "meaning": "suối khoáng, khu nghỉ dưỡng",
+   "example": "Let's learn the word \"spa\".",
+   "exampleMeaning": "Cùng học từ “spa”: suối khoáng, khu nghỉ dưỡng.",
+   "emoji": "",
+   "ipa": "/ˈspɑ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "haunting",
+   "meaning": "ám ảnh, khó quên",
+   "example": "Let's learn the word \"haunting\".",
+   "exampleMeaning": "Cùng học từ “haunting”: ám ảnh, khó quên.",
+   "emoji": "",
+   "ipa": "/ˈhɔntɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "indebted",
+   "meaning": "mang ơn, mắc nợ",
+   "example": "to be indebted to someone",
+   "exampleMeaning": "Mắc nợ ai",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdɛtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "microscopic",
+   "meaning": "cực nhỏ, hiển vi",
+   "example": "Let's learn the word \"microscopic\".",
+   "exampleMeaning": "Cùng học từ “microscopic”: cực nhỏ, hiển vi.",
+   "emoji": "",
+   "ipa": "/ˌmaɪkrəˈskɑpɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pointless",
+   "meaning": "vô nghĩa, vô ích",
+   "example": "Let's learn the word \"pointless\".",
+   "exampleMeaning": "Cùng học từ “pointless”: vô nghĩa, vô ích.",
+   "emoji": "",
+   "ipa": "/ˈpɔɪntləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "coastline",
+   "meaning": "đường bờ biển",
+   "example": "Let's learn the word \"coastline\".",
+   "exampleMeaning": "Cùng học từ “coastline”: đường bờ biển.",
+   "emoji": "",
+   "ipa": "/ˈkoʊstˌlaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "suspend",
+   "meaning": "đình chỉ, tạm hoãn, treo",
+   "example": "to suspend a newspaper",
+   "exampleMeaning": "Đình bản một tờ báo",
+   "emoji": "",
+   "ipa": "/səˈspɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exhausting",
+   "meaning": "làm kiệt sức, mệt nhoài",
+   "example": "Let's learn the word \"exhausting\".",
+   "exampleMeaning": "Cùng học từ “exhausting”: làm kiệt sức, mệt nhoài.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɔstɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disillusion",
+   "meaning": "làm vỡ mộng, làm tỉnh ngộ",
+   "example": "Let's learn the word \"disillusion\".",
+   "exampleMeaning": "Cùng học từ “disillusion”: làm vỡ mộng, làm tỉnh ngộ.",
+   "emoji": "",
+   "ipa": "/ˌdɪsɪˈluʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ton",
+   "meaning": "tấn",
+   "example": "That anchor alone must weigh a ton!",
+   "exampleMeaning": "Riêng cái mỏ neo đó hẳn phải nặng cả tấn!",
+   "emoji": "",
+   "ipa": "/ˈtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "blindness",
+   "meaning": "sự mù lòa, sự mù quáng",
+   "example": "Let's learn the word \"blindness\".",
+   "exampleMeaning": "Cùng học từ “blindness”: sự mù lòa, sự mù quáng.",
+   "emoji": "",
+   "ipa": "/ˈblaɪndnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "holder",
+   "meaning": "người nắm giữ, đồ đựng",
+   "example": "Let's learn the word \"holder\".",
+   "exampleMeaning": "Cùng học từ “holder”: người nắm giữ, đồ đựng.",
+   "emoji": "",
+   "ipa": "/ˈhoʊldɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "starvation",
+   "meaning": "nạn đói, sự chết đói",
+   "example": "to die of starvation",
+   "exampleMeaning": "Chết đói",
+   "emoji": "",
+   "ipa": "/stɑrˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "feel",
+    "lousy"
+   ],
+   "reading": "",
+   "meaning": "Tôi thấy tởm."
+  },
+  {
+   "tokens": [
+    "I'll",
+    "have",
+    "to",
+    "reconsider",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ phải xem xét lại nó."
+  },
+  {
+   "tokens": [
+    "The",
+    "rain",
+    "turned",
+    "to",
+    "hail"
+   ],
+   "reading": "",
+   "meaning": "Cơn mưa trở thành mưa đá."
+  },
+  {
+   "tokens": [
+    "In",
+    "soccer",
+    "cooperation",
+    "is",
+    "important"
+   ],
+   "reading": "",
+   "meaning": "Trong bóng đá thì quan trọng là phải hợp tác."
+  },
+  {
+   "tokens": [
+    "I",
+    "think",
+    "we",
+    "should",
+    "reconsider",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghĩ chúng ta nên xem xét lại điều đó."
+  }
+ ],
+ "issues": []
+}

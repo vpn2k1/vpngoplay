@@ -4,131 +4,131 @@
  "words": [
   {
    "term": "制造",
-   "meaning": "sản xuất",
+   "meaning": "chế tạo, sản xuất, gây ra",
    "example": "这个照相机是德国制造的。",
    "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìzào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "紧",
-   "meaning": "chặt, khít",
+   "meaning": "chặt, căng, gấp",
    "example": "这双鞋太紧，穿着不舒服。",
    "exampleMeaning": "Đôi giày này rất chặt, đi không thoải mái.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jǐn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "对手",
-   "meaning": "địch thủ, đối thủ, kẻ thù",
+   "meaning": "đối thủ",
    "example": "讲拳术，他不是你的对手。",
    "exampleMeaning": "Nói về quyền thuật, anh ấy không phải là đối thủ của anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duìshǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "证",
-   "meaning": "chứng cớ, bằng chứng, giấy chứng nhận",
+   "meaning": "giấy chứng nhận, thẻ, chứng cứ",
    "example": "事实证明了我们的担心是多余的。",
    "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "不得不",
-   "meaning": "phải",
+   "meaning": "buộc phải, đành phải",
    "example": "他们不得不整天呆在家里。",
    "exampleMeaning": "Họ đã phải ở trong nhà suốt cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùdébù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "当地",
-   "meaning": "nơi đó",
+   "meaning": "địa phương, tại chỗ",
    "example": "当地百姓",
    "exampleMeaning": "Nhân dân nơi đó; dân chúng địa phương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dāngdì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "大概",
-   "meaning": "chung chung",
+   "meaning": "khoảng, chắc là, đại khái",
    "example": "已经下了两天雨了，我想今天大概要晴了，哪知道从早晨到晚上又下了一整天。",
    "exampleMeaning": "Đã mưa hai ngày rồi, tớ nghĩ hôm nay chắc là phải nắng rồi, biết đâu được là lại mưa cả ngày trời từ sáng sớm đến tối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàgài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "演",
-   "meaning": "trình bày, phát triển, mở rộng",
+   "meaning": "diễn, đóng (vai)",
    "example": "由此可见，她是很有前途的电影演员。",
    "exampleMeaning": "Điều này cho thấy, anh ấy là một diễn viên điện ảnh rất có tiền đồ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "顿",
-   "meaning": "hồi",
+   "meaning": "bữa, trận (lượng từ), dừng lại",
    "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
    "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dùn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "共同",
-   "meaning": "cùng",
+   "meaning": "chung, cùng nhau",
    "example": "搞好经济建设是全国人民的共同心愿。",
    "exampleMeaning": "Làm tốt việc xây dựng kinh tế là nguyện vọng chung của nhân dân cả nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gòngtóng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "zázhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "停止",
-   "meaning": "đình chỉ, chấm dứt",
+   "meaning": "ngừng, đình chỉ, chấm dứt",
    "example": "我無法讓他停止吸煙。",
    "exampleMeaning": "Tôi không thể bắt nó ngừng hút thuốc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tíngzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "文化",
-   "meaning": "văn hoá",
+   "meaning": "văn hóa",
    "example": "龙山文化。",
    "exampleMeaning": "Văn hoá Long Sơn",
    "emoji": "",
    "ipa": "",
    "pinyin": "wénhuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "jùtǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "合",
-   "meaning": "hợp, vừa",
+   "meaning": "khép, hợp, phù hợp",
    "example": "所以别人都不愿意和你合作。",
    "exampleMeaning": "Vì vậy họ đều không muốn hợp tác với anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hé",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,33 +206,33 @@
    "ipa": "",
    "pinyin": "yǎnyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "周围",
-   "meaning": "xung quanh",
+   "meaning": "xung quanh, chung quanh",
    "example": "屋子周围是篱笆。",
    "exampleMeaning": "Quanh nhà là hàng rào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōuwéi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "奇怪",
-   "meaning": "khó hiểu",
+   "meaning": "kỳ lạ, lạ, ngạc nhiên",
    "example": "海里有不少奇怪的动植物。",
    "exampleMeaning": "Dưới biển có nhiều động thực vật kỳ lạ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíguài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "fùzá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "表达",
-   "meaning": "biểu lộ, biểu đạt, giãi bày",
+   "meaning": "biểu đạt, diễn đạt, bày tỏ",
    "example": "表达一个人的观点",
    "exampleMeaning": "Bày tỏ quan điểm cá nhân",
    "emoji": "",
    "ipa": "",
    "pinyin": "biǎodá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

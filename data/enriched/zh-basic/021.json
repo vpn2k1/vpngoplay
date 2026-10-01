@@ -11,7 +11,7 @@
    "ipa": "",
    "pinyin": "jiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "",
    "pinyin": "zuòxia",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "零",
-   "meaning": "lẻ",
+   "meaning": "số không, lẻ",
    "example": "这种药的效力等于零。",
    "exampleMeaning": "Công hiệu của loại thuốc này kể như không.",
    "emoji": "",
    "ipa": "",
    "pinyin": "líng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "zhuōzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "báitiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,46 +76,46 @@
    "ipa": "",
    "pinyin": "qǐngwèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "哪些",
-   "meaning": "cái nào",
+   "meaning": "những cái nào",
    "example": "这次会议都有哪些人参加？",
    "exampleMeaning": "Cuộc họp lần này có những ai tham dự?",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǎxiē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "晚饭",
-   "meaning": "cơm tối",
+   "meaning": "cơm tối, bữa tối",
    "example": "我会拒绝他吃晚饭的邀请。",
    "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǎnfàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "小学",
-   "meaning": "bậc tiểu học",
+   "meaning": "tiểu học, trường tiểu học",
    "example": "我们来学“小学”这个词。",
-   "exampleMeaning": "Cùng học từ “小学”: bậc tiểu học.",
+   "exampleMeaning": "Cùng học từ “小学”: tiểu học, trường tiểu học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎoxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,72 +128,72 @@
    "ipa": "",
    "pinyin": "túshūguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "开玩笑",
-   "meaning": "nói đùa",
+   "meaning": "đùa, nói đùa",
    "example": "你一定是开玩笑！",
    "exampleMeaning": "Mày đùa tao à!",
    "emoji": "",
    "ipa": "",
    "pinyin": "kāiwánxiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "国外",
-   "meaning": "ra nước ngoài, khắp nơi, đang truyền đi khắp nơi",
+   "meaning": "ở nước ngoài, hải ngoại",
    "example": "我们来学“国外”这个词。",
-   "exampleMeaning": "Cùng học từ “国外”: ra nước ngoài, khắp nơi, đang truyền đi khắp nơi.",
+   "exampleMeaning": "Cùng học từ “国外”: ở nước ngoài, hải ngoại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guówài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "日期",
-   "meaning": "ngày",
+   "meaning": "ngày tháng",
    "example": "发言的日期。",
    "exampleMeaning": "Ngày phát biểu",
    "emoji": "",
    "ipa": "",
    "pinyin": "rìqī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "饭店",
-   "meaning": "khách sạn",
+   "meaning": "nhà hàng, khách sạn",
    "example": "北京饭店",
    "exampleMeaning": "Khách sạn Bắc Kinh",
    "emoji": "",
    "ipa": "",
    "pinyin": "fàndiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "中学",
-   "meaning": "trung học",
+   "meaning": "trung học, trường trung học",
    "example": "我是在日本上的中学。",
    "exampleMeaning": "Tôi đã học trung học tại Nhật Bản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōngxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,33 +206,33 @@
    "ipa": "",
    "pinyin": "shàngwǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "商场",
-   "meaning": "cửa hàng",
+   "meaning": "trung tâm thương mại",
    "example": "百货商场。",
    "exampleMeaning": "Cửa hàng bách hoá tổng hợp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shāngchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "楼下",
-   "meaning": "tầng dưới",
+   "meaning": "tầng dưới, dưới lầu",
    "example": "我们来学“楼下”这个词。",
-   "exampleMeaning": "Cùng học từ “楼下”: tầng dưới.",
+   "exampleMeaning": "Cùng học từ “楼下”: tầng dưới, dưới lầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lóuxià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "miànbāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "外国",
-   "meaning": "từ nước ngoài, ngoại quốc, xa lạ",
+   "meaning": "nước ngoài, ngoại quốc",
    "example": "据说他爸爸在外国去世了。",
    "exampleMeaning": "Người ta nói cha ông ấy mất ở nước ngoài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wàiguó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

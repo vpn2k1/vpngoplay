@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "発音",
-   "meaning": "sự phát âm, cách phát âm, cách đọc (của ai",
+   "meaning": "phát âm",
    "example": "誰かこの単語を発音できる人はいますか。",
    "exampleMeaning": "Có ai phát âm được từ này không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "泊まる",
-   "meaning": "néo (cột buồm) bằng dây",
+   "meaning": "trọ, ngủ lại, nghỉ đêm",
    "example": "夜はこのホテルに泊まるつもりです。",
    "exampleMeaning": "Tôi định sẽ ở qua đêm tại khách sạn này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "急",
-   "meaning": "gấp, cần kíp, khẩn cấp",
+   "meaning": "gấp, đột ngột, dốc",
    "example": "急がなくちゃ。",
    "exampleMeaning": "Bạn phải nhanh lên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "お宅",
-   "meaning": "nhà, chuồng",
+   "meaning": "nhà (người khác), quý gia",
    "example": "こちらのお宅は、部屋が６つあるんです。",
    "exampleMeaning": "Căn nhà này có sáu phòng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "打つ",
-   "meaning": "đánh, đấm trúng, bắn trúng",
+   "meaning": "đánh, đập, gõ",
    "example": "「打つ」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “打つ”: đánh, đấm trúng, bắn trúng.",
+   "exampleMeaning": "Cùng nhớ từ “打つ”: đánh, đập, gõ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "仕方",
-   "meaning": "đường, đường đi, lối đi",
+   "meaning": "cách làm, phương pháp",
    "example": "冷たいものが飲みたくて仕方ない。",
    "exampleMeaning": "Tôi muốn uống đồ lạnh quá không chịu được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,137 +102,137 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "講義",
-   "meaning": "bài diễn thuyết",
+   "meaning": "bài giảng, giờ giảng",
    "example": "私はその講義に注意を集中した。",
    "exampleMeaning": "Tôi đã hết sức tập trung vào bài giảng đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "スーツ",
-   "meaning": "bộ com lê, bộ quần áo (đàn ông)",
+   "meaning": "bộ com lê, áo vest",
    "example": "スーツケースをロックした？",
    "exampleMeaning": "Bạn khóa vali chưa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ファックス",
-   "meaning": "bản fax",
+   "meaning": "fax, máy fax",
    "example": "「ファックス」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “ファックス”: bản fax.",
+   "exampleMeaning": "Cùng nhớ từ “ファックス”: fax, máy fax.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "申し上げる",
-   "meaning": "tuyên bố",
+   "meaning": "nói (khiêm nhường), thưa",
    "example": "「申し上げる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “申し上げる”: tuyên bố.",
+   "exampleMeaning": "Cùng nhớ từ “申し上げる”: nói (khiêm nhường), thưa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "送る",
-   "meaning": "gửi, chuyển (đi) cái gì đó",
+   "meaning": "gửi, tiễn, đưa",
    "example": "トラング、もしあなたにマシュマロを送れたら、私は送るよ。",
    "exampleMeaning": "Nếu tôi có thể gửi Trang một cục marshmallow thì tôi sẽ gửi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "汚れる",
-   "meaning": "làm bẩn, làm dơ, làm vấy bùn",
+   "meaning": "bẩn, bị bẩn",
    "example": "「汚れる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “汚れる”: làm bẩn, làm dơ, làm vấy bùn.",
+   "exampleMeaning": "Cùng nhớ từ “汚れる”: bẩn, bị bẩn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "しっかり",
-   "meaning": "vững chắc",
+   "meaning": "chắc chắn, vững vàng",
    "example": "しっかりしてください！",
    "exampleMeaning": "Giữ chắc vào!",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "取り替える",
-   "meaning": "đổi, đổi chác, trao đổi",
+   "meaning": "đổi, thay, thay thế",
    "example": "「取り替える」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “取り替える”: đổi, đổi chác, trao đổi.",
+   "exampleMeaning": "Cùng nhớ từ “取り替える”: đổi, thay, thay thế.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "エスカレーター",
-   "meaning": "thang cuốn, cầu thang tự động",
+   "meaning": "thang cuốn",
    "example": "「エスカレーター」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “エスカレーター”: thang cuốn, cầu thang tự động.",
+   "exampleMeaning": "Cùng nhớ từ “エスカレーター”: thang cuốn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "心",
-   "meaning": "tâm, tâm trí, tinh thần",
+   "meaning": "trái tim, tâm hồn, lòng",
    "example": "彼女は初心者だ。",
    "exampleMeaning": "Cô ấy là người mới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "熱心",
-   "meaning": "hăng hái, nhiệt tình",
+   "meaning": "nhiệt tình, hăng hái",
    "example": "第４地区の看護婦はとても熱心だ。",
    "exampleMeaning": "Y tá bệnh viện quận 4 rất nhiệt tình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

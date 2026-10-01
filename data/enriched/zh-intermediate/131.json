@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "口味",
-   "meaning": "gu (thích một khẩu vị nào đó)",
+   "meaning": "khẩu vị, hương vị",
    "example": "食堂里的菜不对我的口味。",
    "exampleMeaning": "Thức ăn ở nhà ăn không hợp gu của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǒuwèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "zīshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,46 +37,46 @@
    "ipa": "",
    "pinyin": "tǐxì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "谨慎",
-   "meaning": "cẩn thận",
+   "meaning": "thận trọng, cẩn thận",
    "example": "小心谨慎。",
    "exampleMeaning": "Cẩn thận; dè dặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jǐnshèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "陌生",
-   "meaning": "lạ",
+   "meaning": "xa lạ, lạ",
    "example": "我们虽然是第一次见面，并不感到陌生。",
    "exampleMeaning": "Tuy rằng chúng tôi mới lần đầu gặp nhau, nhưng không cảm thấy xa lạ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mòshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "穿过",
-   "meaning": "đi qua",
+   "meaning": "đi qua, xuyên qua",
    "example": "王院长为人正派，办事公道，没给人穿过小鞋，大家都尊敬他。",
    "exampleMeaning": "Viện trưởng Vương xử sự ngay thẳng, làm việc công minh, chưa từng gây khó dễ cho ai, mọi người đều tôn kính ông ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chuānguò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "chēhuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "脆弱",
-   "meaning": "yếu đuối",
+   "meaning": "yếu ớt, mong manh",
    "example": "脆弱的心灵。",
    "exampleMeaning": "Tâm hồn yếu đuối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cuìruò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "",
    "pinyin": "yǐnqíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "爹",
-   "meaning": "ba, cha, bố",
+   "meaning": "cha, bố",
    "example": "我们来学“爹”这个词。",
-   "exampleMeaning": "Cùng học từ “爹”: ba, cha, bố.",
+   "exampleMeaning": "Cùng học từ “爹”: cha, bố.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "窝",
-   "meaning": "chỗ",
+   "meaning": "tổ, ổ, hang",
    "example": "这炉子真碍事，给它挪个窝儿。",
    "exampleMeaning": "Cái lò này vướng quá, dời nó ra chỗ khác thôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wō",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,46 +154,46 @@
    "ipa": "",
    "pinyin": "jiānbǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "上场",
-   "meaning": "lên sân khấu",
+   "meaning": "ra sân, lên sân khấu",
    "example": "我们来学“上场”这个词。",
-   "exampleMeaning": "Cùng học từ “上场”: lên sân khấu.",
+   "exampleMeaning": "Cùng học từ “上场”: ra sân, lên sân khấu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàngchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "祈祷",
-   "meaning": "cầu khấn",
+   "meaning": "cầu nguyện",
    "example": "我们来学“祈祷”这个词。",
-   "exampleMeaning": "Cùng học từ “祈祷”: cầu khấn.",
+   "exampleMeaning": "Cùng học từ “祈祷”: cầu nguyện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qídǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "羡慕",
-   "meaning": "hâm mộ",
+   "meaning": "ngưỡng mộ, thèm muốn",
    "example": "他很羡慕我有这么一个好师傅。",
    "exampleMeaning": "Nó rất hâm mộ khi tôi có người thầy tốt như vậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiànmù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "míbǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "残",
-   "meaning": "tàn",
+   "meaning": "tàn, tàn tật, hỏng",
    "example": "这部书很好，可惜残了。",
    "exampleMeaning": "Bộ sách này hay quá, chỉ tiếc là không đủ bộ",
    "emoji": "",
    "ipa": "",
    "pinyin": "cán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "天生",
-   "meaning": "trời sinh",
+   "meaning": "bẩm sinh, trời sinh",
    "example": "本事不是天生的",
    "exampleMeaning": "Bản lĩnh không phải là trời sinh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiānshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "须",
-   "meaning": "cần phải",
+   "meaning": "cần phải, râu",
    "example": "他觉得必须报道这件事。",
    "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "催",
-   "meaning": "trợ",
+   "meaning": "giục, thúc giục",
    "example": "图书馆来信，催 他还书。",
    "exampleMeaning": "Thư viện gởi thư đến giục anh ta trả sách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cuī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

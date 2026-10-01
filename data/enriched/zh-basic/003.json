@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "吧",
-   "meaning": "nhé, được rồi, nào",
+   "meaning": "nhé, nào (trợ từ)",
    "example": "一起來吧。",
    "exampleMeaning": "Cùng nhau tới nhé.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "点",
-   "meaning": "chấm nhỏ, điểm",
+   "meaning": "giờ, điểm, chấm",
    "example": "今天有点冷。",
    "exampleMeaning": "Hôm nay trời hơi lạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "过",
-   "meaning": "đi qua, vượt, gạch ngang",
+   "meaning": "đi qua, từng (trợ từ)",
    "example": "你看过那部电影吗？",
    "exampleMeaning": "Anh đã xem phim ấy chưa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "guò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "没",
-   "meaning": "ngập",
+   "meaning": "chưa, không có",
    "example": "这是没办法的。",
    "exampleMeaning": "Vụ này hết cách rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "dà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,72 +76,72 @@
    "ipa": "",
    "pinyin": "cóng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "下",
-   "meaning": "xuống",
+   "meaning": "dưới, xuống",
    "example": "好疼! 停下!",
    "exampleMeaning": "Đau quá! Dừng lại!",
    "emoji": "",
    "ipa": "",
    "pinyin": "xià",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "中",
-   "meaning": "trúng",
+   "meaning": "giữa, trúng",
    "example": "飞机消失在丛林中。",
    "exampleMeaning": "Máy bay biến mất vào trong rừng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "里",
-   "meaning": "trong",
+   "meaning": "trong, bên trong",
    "example": "我哪里说过那样的话？",
    "exampleMeaning": "Tôi có nói thế đâu?",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "真",
-   "meaning": "thực, thật, thực ra",
+   "meaning": "thật, thật là",
    "example": "可惜这是真的。",
    "exampleMeaning": "Tiếc rằng cái đó là sự thật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhēn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "现在",
-   "meaning": "hiện tại, hiện nay, bây giờ",
+   "meaning": "bây giờ, hiện nay",
    "example": "现在太晚了。",
    "exampleMeaning": "Bây giờ trễ quá rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiànzài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,111 +154,111 @@
    "ipa": "",
    "pinyin": "nián",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "用",
-   "meaning": "sử dụng, áp dụng, lợi dụng",
+   "meaning": "dùng, sử dụng",
    "example": "这本书会对我们有很大用处。",
    "exampleMeaning": "Quyển sách này rất hứu ích cho chúng ta.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yòng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "多",
-   "meaning": "hơn",
+   "meaning": "nhiều, hơn",
    "example": "你有多少部車？",
    "exampleMeaning": "Ngài có mấy chiếc xe ô tô?",
    "emoji": "",
    "ipa": "",
    "pinyin": "duō",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "两",
-   "meaning": "hai, một ít, một vài",
+   "meaning": "hai",
    "example": "我在两年前吃过一次。",
    "exampleMeaning": "Tôi đã ăn một lần vào khoảng hai năm trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "等",
-   "meaning": "những, hạng, loại",
+   "meaning": "đợi, chờ, vân vân",
    "example": "他贏了三等奬。",
    "exampleMeaning": "Anh ấy đã giành được giải ba.",
    "emoji": "",
    "ipa": "",
    "pinyin": "děng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "吗",
-   "meaning": "ấy à",
+   "meaning": "không, à (trợ từ nghi vấn)",
    "example": "你想我吗？",
    "exampleMeaning": "Bạn có nhớ tôi không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "má",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "天",
-   "meaning": "ngày",
+   "meaning": "ngày, trời",
    "example": "天气真好 ！",
    "exampleMeaning": "Thời tiết thật đẹp!",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "出",
-   "meaning": "ra, đi ra, đi ra ngoài",
+   "meaning": "ra, đi ra",
    "example": "這位朋友沒有出席。",
    "exampleMeaning": "Bạn này không có mặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "太",
-   "meaning": "cao nhất, lớn nhất, có ý nghĩa nhất",
+   "meaning": "quá, lắm",
    "example": "他太多事了。",
    "exampleMeaning": "Anh ấy lắm chuyện quá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

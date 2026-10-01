@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "省",
-   "meaning": "tỉnh",
+   "meaning": "tỉnh, tiết kiệm",
    "example": "不省人事。",
    "exampleMeaning": "Bất tỉnh nhân sự; hôn mê",
    "emoji": "",
    "ipa": "",
    "pinyin": "shěng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "海",
-   "meaning": "đông",
+   "meaning": "biển",
    "example": "我在海上已经生活了好几个月。",
    "exampleMeaning": "Tôi đã sống hàng tháng trên biển.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "夜",
-   "meaning": "đêm, tối, cảnh tối tăm",
+   "meaning": "đêm, ban đêm",
    "example": "他半夜打了个电话给我。",
    "exampleMeaning": "Anh ấy đã gọi cho tôi một cuộc vào lúc nửa đêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "十分",
-   "meaning": "rất",
+   "meaning": "hết sức, rất",
    "example": "他對日本的歷史十分有興趣。",
    "exampleMeaning": "Anh ấy cực kì quan tâm tới lịch sử Nhật Bản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shífēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "称",
-   "meaning": "cân",
+   "meaning": "gọi, xưng, cân",
    "example": "我们来学“称”这个词。",
-   "exampleMeaning": "Cùng học từ “称”: cân.",
+   "exampleMeaning": "Cùng học từ “称”: gọi, xưng, cân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chēng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "年轻",
-   "meaning": "trẻ, trẻ tuổi, thiếu niên",
+   "meaning": "trẻ, trẻ tuổi",
    "example": "年轻力壮。",
    "exampleMeaning": "Tuổi trẻ sức khoẻ dồi dào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niánqīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,33 +89,33 @@
    "ipa": "",
    "pinyin": "tiáojiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "晚安",
-   "meaning": "chúc ngủ ngon (lời nói khách sáo)",
+   "meaning": "chúc ngủ ngon",
    "example": "我们来学“晚安”这个词。",
-   "exampleMeaning": "Cùng học từ “晚安”: chúc ngủ ngon (lời nói khách sáo).",
+   "exampleMeaning": "Cùng học từ “晚安”: chúc ngủ ngon.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǎnān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "画",
-   "meaning": "tô vẽ, mô tả, tranh",
+   "meaning": "vẽ, tranh, bức tranh",
    "example": "汤姆问了玛丽谁画了图片。",
    "exampleMeaning": "Tom đã hỏi mary ai đã vẽ bức tranh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,111 +128,111 @@
    "ipa": "",
    "pinyin": "guǎnggào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "提出",
-   "meaning": "đề xuất",
+   "meaning": "đưa ra, đề xuất",
    "example": "他提出改革研究方法的意见。",
    "exampleMeaning": "Nó đề xuất ý kiến cải cách phương pháp nghiên cứu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tíchū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "运动",
-   "meaning": "chạy chọt",
+   "meaning": "thể thao, vận động",
    "example": "运动官府。",
    "exampleMeaning": "Chạy chọt quan phủ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yùndòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "样子",
-   "meaning": "có vẻ, kiểu dáng, hình dạng",
+   "meaning": "dáng vẻ, kiểu dáng",
    "example": "他故意做出不在乎的样子。",
    "exampleMeaning": "Anh ta làm ra vẻ không quan tâm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yàngzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "实现",
-   "meaning": "hoàn thành, đạt được, giành được",
+   "meaning": "thực hiện, đạt được",
    "example": "他的理想终于实现了。",
    "exampleMeaning": "Lý tưởng của anh ấy cuối cùng đã thực hiện được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shíxiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "刚才",
-   "meaning": "vừa",
+   "meaning": "vừa nãy, lúc nãy",
    "example": "刚才是和你闹着玩儿的，你别当真。",
    "exampleMeaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gāngcái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "猫",
-   "meaning": "con mèo",
+   "meaning": "mèo",
    "example": "我们来学“猫”这个词。",
-   "exampleMeaning": "Cùng học từ “猫”: con mèo.",
+   "exampleMeaning": "Cùng học từ “猫”: mèo.",
    "emoji": "🐈",
    "ipa": "",
    "pinyin": "māo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "通",
-   "meaning": "hồi",
+   "meaning": "thông, thông suốt",
    "example": "我认为这个消息应该通知大家。",
    "exampleMeaning": "Tôi thấy tin đó nên báo cho mọi người biết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tōng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "办公室",
-   "meaning": "phòng làm việc",
+   "meaning": "văn phòng",
    "example": "校长办公室",
    "exampleMeaning": "Phòng làm việc hiệu trưởng",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàngōngshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "zhèngquè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "爱情",
-   "meaning": "ái tình",
+   "meaning": "tình yêu",
    "example": "我们来学“爱情”这个词。",
-   "exampleMeaning": "Cùng học từ “爱情”: ái tình.",
+   "exampleMeaning": "Cùng học từ “爱情”: tình yêu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "àiqíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

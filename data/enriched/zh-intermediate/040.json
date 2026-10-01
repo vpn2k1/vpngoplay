@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "等候",
-   "meaning": "chờ, đợi chờ, hầu bàn",
+   "meaning": "chờ đợi",
    "example": "等候远方归来的亲人。",
    "exampleMeaning": "Đợi người thân ở phương xa trở về.",
    "emoji": "",
    "ipa": "",
    "pinyin": "děnghòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "盒子",
-   "meaning": "hộp",
+   "meaning": "cái hộp",
    "example": "放在盒子里",
    "exampleMeaning": "Để trong hộp",
    "emoji": "",
    "ipa": "",
    "pinyin": "hézi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "终止",
-   "meaning": "kết thúc",
+   "meaning": "chấm dứt, đình chỉ",
    "example": "终止伙伴关系",
    "exampleMeaning": "Kết thúc quan hệ bạn bè",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōngzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "cǎipiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "táo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "法规",
-   "meaning": "pháp quy",
+   "meaning": "văn bản pháp luật, pháp quy",
    "example": "我们来学“法规”这个词。",
-   "exampleMeaning": "Cùng học từ “法规”: pháp quy.",
+   "exampleMeaning": "Cùng học từ “法规”: văn bản pháp luật, pháp quy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fǎguī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "广泛",
-   "meaning": "phổ biến",
+   "meaning": "rộng rãi, rộng khắp",
    "example": "人民享受广泛的民主。",
    "exampleMeaning": "Nhân dân được hưởng quyền dân chủ rộng rãi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guǎngfàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "zǔài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,150 +115,150 @@
    "ipa": "",
    "pinyin": "jìnlái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "相应",
-   "meaning": "rẻ",
+   "meaning": "tương ứng",
    "example": "我们来学“相应”这个词。",
-   "exampleMeaning": "Cùng học từ “相应”: rẻ.",
+   "exampleMeaning": "Cùng học từ “相应”: tương ứng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāngyìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "沟",
-   "meaning": "kênh rạch",
+   "meaning": "rãnh, mương",
    "example": "小河沟儿。",
    "exampleMeaning": "Sông nhỏ",
    "emoji": "",
    "ipa": "",
    "pinyin": "gōu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "地带",
-   "meaning": "vùng",
+   "meaning": "vùng, khu vực",
    "example": "丘陵地带",
    "exampleMeaning": "Vùng gò đồi",
    "emoji": "",
    "ipa": "",
    "pinyin": "dìdài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "违规",
-   "meaning": "hư hỏng",
+   "meaning": "vi phạm quy định, phạm quy",
    "example": "我们来学“违规”这个词。",
-   "exampleMeaning": "Cùng học từ “违规”: hư hỏng.",
+   "exampleMeaning": "Cùng học từ “违规”: vi phạm quy định, phạm quy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wéiguī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "品种",
-   "meaning": "loại",
+   "meaning": "giống, chủng loại",
    "example": "增加花色品种。",
    "exampleMeaning": "Tăng thêm kiểu dáng, chủng loại sản phẩm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pǐnzhǒng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "礼貌",
-   "meaning": "lễ phép",
+   "meaning": "lễ phép, lịch sự",
    "example": "礼貌待人。",
    "exampleMeaning": "Đối xử lễ phép.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐmào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "悄悄",
-   "meaning": "lặng lẽ",
+   "meaning": "lặng lẽ, khẽ khàng",
    "example": "部队在深夜里悄悄地出了村。",
    "exampleMeaning": "Trong đêm khuya, bộ đội lặng lẽ đi ra khỏi làng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiāoqiāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "差距",
-   "meaning": "chỗ thua kém",
+   "meaning": "khoảng cách, chênh lệch",
    "example": "学先进，找差距",
    "exampleMeaning": "Học tiên tiến, tìm ra chỗ thua kém",
    "emoji": "",
    "ipa": "",
    "pinyin": "chājù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "分成",
-   "meaning": "chia",
+   "meaning": "chia thành, chia phần",
    "example": "四六分成",
    "exampleMeaning": "Chia bốn sáu",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēnchéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "专利",
-   "meaning": "độc quyền",
+   "meaning": "bằng sáng chế, độc quyền",
    "example": "我们来学“专利”这个词。",
-   "exampleMeaning": "Cùng học từ “专利”: độc quyền.",
+   "exampleMeaning": "Cùng học từ “专利”: bằng sáng chế, độc quyền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhuānlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "证书",
-   "meaning": "giấy chứng nhận",
+   "meaning": "giấy chứng nhận, chứng chỉ",
    "example": "结婚证书",
    "exampleMeaning": "Giấy chứng nhận kết hôn; giấy đăng ký kết hôn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèngshū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

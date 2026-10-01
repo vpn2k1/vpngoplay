@@ -9,7 +9,8 @@
 //   npm run vocab:draft -- --course ja-basic,zh-basic
 //   npm run vocab:build
 //
-// Meanings — en: Vietnamese Wiktionary / Anh-Việt (OVDP), sense matching the list's part of speech.
+// Meanings — data/reviewed/<courseId>.json (term → meaning, checked by a reviewer) when listed, else:
+//            en: Vietnamese Wiktionary / Anh-Việt (OVDP), sense matching the list's part of speech.
 //            zh: Trung-Việt when its pinyin is the list's reading, else the English HSK gloss bridged
 //                through the English→Vietnamese dictionaries.
 //            ja: Vietnamese Wiktionary, else the same word in Chinese (only when CC-CEDICT's English
@@ -30,7 +31,14 @@ const ROOT = join(import.meta.dirname, '..', '..')
 const COURSES = join(ROOT, 'data', 'courses')
 const SRC = join(ROOT, 'data', 'sources', 'open')
 const OUT = join(ROOT, 'data', 'enriched')
+const REVIEWED = join(ROOT, 'data', 'reviewed')
 const SENTENCES_PER_LESSON = 5
+
+/** term → Vietnamese meaning checked by a reviewer (data/reviewed/<courseId>.json); wins over every dictionary. */
+const reviewedMeanings = (courseId) => {
+  const file = join(REVIEWED, `${courseId}.json`)
+  return existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : {}
+}
 
 const { values: args } = parseArgs({ options: { course: { type: 'string' }, explain: { type: 'string' } } })
 for (const need of ['lookup', 'dict/TrungViet-big.tab', 'wiktionary/vi-extract.jsonl.gz'])
@@ -742,6 +750,7 @@ for (const { course, words } of courses) {
   const { id, lang } = course
   mkdirSync(join(OUT, id), { recursive: true })
   const hits = lookup.get(id)
+  const reviewed = reviewedMeanings(id)
   const usage = new Map()
   const stats = { written: 0, kept: 0, invalid: [], missing: [], meaning: {}, example: {} }
   for (let n = 1; n <= course.lessonCount; n++) {
@@ -759,6 +768,7 @@ for (const { course, words } of courses) {
       continue
     }
     const found = src.map((w) => {
+      if (reviewed[w.term]) return { candidates: [reviewed[w.term]], source: 'reviewed' }
       const f = meaningsOf(lang, w, hits.get(w.term))
       const usage = usageOf(lang, w.term, examplesOf(lang, w.term, hits.get(w.term)))
       return { ...f, candidates: rankByUsage(f.candidates, usage) }

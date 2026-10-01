@@ -1,0 +1,322 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "fellow",
+   "meaning": "anh chàng, gã, bạn đồng hành",
+   "example": "my good fellow!",
+   "exampleMeaning": "Ông bạn quý của tôi ơi!",
+   "emoji": "",
+   "ipa": "/ˈfɛloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "caller",
+   "meaning": "người gọi điện, khách đến thăm",
+   "example": "Let's learn the word \"caller\".",
+   "exampleMeaning": "Cùng học từ “caller”: người gọi điện, khách đến thăm.",
+   "emoji": "",
+   "ipa": "/ˈkɔlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "notion",
+   "meaning": "khái niệm, ý niệm, quan niệm",
+   "example": "to have no notion of...",
+   "exampleMeaning": "Chẳng có một ý niệm gì về...",
+   "emoji": "",
+   "ipa": "/ˈnoʊʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "realistic",
+   "meaning": "thực tế, hiện thực",
+   "example": "It's important to set realistic goals so you don't get discouraged.",
+   "exampleMeaning": "Quan trọng là đặt mục tiêu thực tế để không bị nản chí.",
+   "emoji": "",
+   "ipa": "/ˌriəˈlɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "nod",
+   "meaning": "cái gật đầu",
+   "example": "to nod assent (approval); to nod \"yes\"",
+   "exampleMeaning": "Gật đầu bằng lòng (tán thành, đồng ý)",
+   "emoji": "",
+   "ipa": "/ˈnɑd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vein",
+   "meaning": "tĩnh mạch, mạch máu, gân",
+   "example": "to be in vein of doing something",
+   "exampleMeaning": "Đang thứ muốn làm việc gì",
+   "emoji": "",
+   "ipa": "/ˈveɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "upward",
+   "meaning": "hướng lên, đi lên",
+   "example": "children of five year and upward",
+   "exampleMeaning": "Trẻ lên năm và trên năm tuổi",
+   "emoji": "",
+   "ipa": "/ˈəpwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stylish",
+   "meaning": "sành điệu, có phong cách",
+   "example": "Let's learn the word \"stylish\".",
+   "exampleMeaning": "Cùng học từ “stylish”: sành điệu, có phong cách.",
+   "emoji": "",
+   "ipa": "/ˈstaɪlɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aside",
+   "meaning": "sang một bên, qua một bên",
+   "example": "The time has come to set aside childish things",
+   "exampleMeaning": "Đã tới lúc gạt sang một bên những trò trẻ con.",
+   "emoji": "",
+   "ipa": "/əˈsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "schoolteacher",
+   "meaning": "giáo viên",
+   "example": "Let's learn the word \"schoolteacher\".",
+   "exampleMeaning": "Cùng học từ “schoolteacher”: giáo viên.",
+   "emoji": "",
+   "ipa": "/ˈskulˌtitʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "herd",
+   "meaning": "đàn, bầy",
+   "example": "the comumon herd; the vulgar herd",
+   "exampleMeaning": "Bọn người tầm thường",
+   "emoji": "",
+   "ipa": "/ˈhɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "concerned",
+   "meaning": "lo lắng, quan tâm, có liên quan",
+   "example": "I'm not concerned with politics.",
+   "exampleMeaning": "Tôi không quan tâm đến chính trị.",
+   "emoji": "",
+   "ipa": "/kənˈsɜrnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "used to",
+   "meaning": "đã từng, từng",
+   "example": "I used to hate Tom.",
+   "exampleMeaning": "Tôi từng ghét Tom.",
+   "emoji": "",
+   "ipa": "/ˈjuzd ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "altogether",
+   "meaning": "hoàn toàn, tổng cộng",
+   "example": "How much altogether?",
+   "exampleMeaning": "Bao nhiểu cả thảy?",
+   "emoji": "",
+   "ipa": "/ˌɔltəˈɡɛðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "devastate",
+   "meaning": "tàn phá, làm suy sụp",
+   "example": "Let's learn the word \"devastate\".",
+   "exampleMeaning": "Cùng học từ “devastate”: tàn phá, làm suy sụp.",
+   "emoji": "",
+   "ipa": "/ˈdɛvəˌsteɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dump",
+   "meaning": "bãi rác, chỗ bẩn thỉu",
+   "example": "not worth a dump",
+   "exampleMeaning": "Không đáng giá một xu",
+   "emoji": "",
+   "ipa": "/ˈdəmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "penny",
+   "meaning": "đồng xu, xu",
+   "example": "a pretty penny",
+   "exampleMeaning": "Một số tiền kha khá",
+   "emoji": "",
+   "ipa": "/ˈpɛni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ness",
+   "meaning": "mũi đất",
+   "example": "Let's learn the word \"ness\".",
+   "exampleMeaning": "Cùng học từ “ness”: mũi đất.",
+   "emoji": "",
+   "ipa": "/ˈnɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accessible",
+   "meaning": "dễ tiếp cận, dễ hiểu",
+   "example": "the remote hamlet is accessible by bicycle",
+   "exampleMeaning": "Cái xóm nghèo hẻo lánh đó có thể đi xe đạp đến được",
+   "emoji": "",
+   "ipa": "/ækˈsɛsəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exclusive",
+   "meaning": "độc quyền, dành riêng, cao cấp",
+   "example": "from page one to page ten exclusive",
+   "exampleMeaning": "Từ trang 1 đến trang 10 không kể trang 10",
+   "emoji": "",
+   "ipa": "/ɪkˈsklusɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Please",
+    "stand",
+    "aside"
+   ],
+   "reading": "",
+   "meaning": "Vui lòng đứng sang một bên."
+  },
+  {
+   "tokens": [
+    "He",
+    "moved",
+    "the",
+    "table",
+    "aside"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy di chuyển cái bàn sang một bên."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "not",
+    "concerned",
+    "with",
+    "politics"
+   ],
+   "reading": "",
+   "meaning": "Tôi không quan tâm đến chính trị."
+  },
+  {
+   "tokens": [
+    "I",
+    "used",
+    "to",
+    "respect",
+    "him"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã từng kính trọng ông ấy."
+  },
+  {
+   "tokens": [
+    "I",
+    "used",
+    "to",
+    "respect",
+    "Tom"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã từng tôn trọng Tom."
+  }
+ ],
+ "issues": []
+}

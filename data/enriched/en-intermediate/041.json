@@ -1,0 +1,321 @@
+{
+ "lesson": 41,
+ "draft": true,
+ "words": [
+  {
+   "term": "ought to",
+   "meaning": "nên, phải",
+   "example": "You ought to face the stark reality.",
+   "exampleMeaning": "Bạn cần phải nhìn thẳng vào sự thật trần trụi.",
+   "emoji": "",
+   "ipa": "/ˈɔt ˈtu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "underpants",
+   "meaning": "quần lót",
+   "example": "Let's learn the word \"underpants\".",
+   "exampleMeaning": "Cùng học từ “underpants”: quần lót.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌpænts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "frequently",
+   "meaning": "thường xuyên",
+   "example": "Indonesia frequently experiences earthquakes.",
+   "exampleMeaning": "Indonesia thường xuyên trải qua động đất.",
+   "emoji": "",
+   "ipa": "/ˈfriː.kwənt.li/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "appetite",
+   "meaning": "sự thèm ăn, khẩu vị",
+   "example": "to spoil (take away) someone's appetite",
+   "exampleMeaning": "Làm ai ăn mất ngon",
+   "emoji": "",
+   "ipa": "/ˈæpəˌtaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blessing",
+   "meaning": "phước lành, điều may mắn",
+   "example": "People do not know the blessing of good health until they lose it.",
+   "exampleMeaning": "Chỉ sau khi một người đánh mất đi sức khỏe, họ mới biết nó đáng giá đến nhường nào.",
+   "emoji": "",
+   "ipa": "/ˈblɛs.ɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grab",
+   "meaning": "chộp, túm, giật lấy",
+   "example": "Grab an umbrella.",
+   "exampleMeaning": "Lấy một cái ô đi.",
+   "emoji": "",
+   "ipa": "/ɡræb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "membership",
+   "meaning": "tư cách thành viên, số hội viên",
+   "example": "this club has a large membership",
+   "exampleMeaning": "Số hội viên của câu lạc bộ này rất lớn",
+   "emoji": "",
+   "ipa": "/ˈmɛmbɜrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "determine",
+   "meaning": "xác định, quyết định",
+   "example": "to determine on doing (to do) something",
+   "exampleMeaning": "Quyết định làm gì; quyết tâm (kiên quyết) làm gì",
+   "emoji": "",
+   "ipa": "/dəˈtɜrmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "breathless",
+   "meaning": "hụt hơi, thở không ra hơi",
+   "example": "to be in a breathless hurry",
+   "exampleMeaning": "Vội không kịp thở",
+   "emoji": "",
+   "ipa": "/ˈbrɛθləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "festive",
+   "meaning": "(thuộc) lễ hội, rộn ràng",
+   "example": "a festive season",
+   "exampleMeaning": "Mùa hội",
+   "emoji": "",
+   "ipa": "/ˈfɛstɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trend",
+   "meaning": "xu hướng, khuynh hướng",
+   "example": "to show a trend towards...",
+   "exampleMeaning": "Có khuynh hướng về...",
+   "emoji": "",
+   "ipa": "/ˈtrɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "league",
+   "meaning": "liên đoàn, giải đấu",
+   "example": "to be in league with",
+   "exampleMeaning": "Liên minh với, liên kết với, câu kết với",
+   "emoji": "",
+   "ipa": "/ˈliɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "socially",
+   "meaning": "về mặt xã hội",
+   "example": "Let's learn the word \"socially\".",
+   "exampleMeaning": "Cùng học từ “socially”: về mặt xã hội.",
+   "emoji": "",
+   "ipa": "/ˈsoʊʃəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whistle",
+   "meaning": "cái còi, tiếng huýt sáo",
+   "example": "to whistle a song",
+   "exampleMeaning": "Huýt sáo một bài hát",
+   "emoji": "",
+   "ipa": "/ˈhwɪsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "authority",
+   "meaning": "quyền lực, nhà chức trách",
+   "example": "what is his authority?",
+   "exampleMeaning": "Anh ta căn cứ vào đâu?",
+   "emoji": "",
+   "ipa": "/ɔːˈθɒrəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "plain",
+   "meaning": "đơn giản, giản dị, rõ ràng",
+   "example": "to make something plain to someone",
+   "exampleMeaning": "Làm cho ai hiểu rõ điều gì",
+   "emoji": "",
+   "ipa": "/pleɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consonant",
+   "meaning": "phụ âm",
+   "example": "consonant with one's duty",
+   "exampleMeaning": "Phù hợp với bổn phận của mình, đúng với bổn phận của mình",
+   "emoji": "",
+   "ipa": "/ˈkɑnsənənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "damage",
+   "meaning": "thiệt hại, sự hư hỏng",
+   "example": "to cause great damage to...",
+   "exampleMeaning": "Gây nhiều thiệt hại cho...",
+   "emoji": "",
+   "ipa": "/ˈdæmɪd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "measure",
+   "meaning": "đo, đo lường",
+   "example": "a metre is a measure of length",
+   "exampleMeaning": "Mét là một đơn vị đo chiều dài",
+   "emoji": "",
+   "ipa": "/ˈmɛʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "session",
+   "meaning": "buổi, phiên, kỳ họp",
+   "example": "Court of Session",
+   "exampleMeaning": "Toà án tối cao (Ê-cốt)",
+   "emoji": "",
+   "ipa": "/ˈsɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Grab",
+    "an",
+    "umbrella"
+   ],
+   "reading": "",
+   "meaning": "Lấy một cái ô đi."
+  },
+  {
+   "tokens": [
+    "Grab",
+    "another",
+    "chair"
+   ],
+   "reading": "",
+   "meaning": "Lấy thêm cái ghế nữa!"
+  },
+  {
+   "tokens": [
+    "The",
+    "earthquake",
+    "caused",
+    "enormous",
+    "damage"
+   ],
+   "reading": "",
+   "meaning": "Trận động đất đã gây thiệt hại to lớn."
+  },
+  {
+   "tokens": [
+    "Grab",
+    "some",
+    "paper",
+    "and",
+    "write"
+   ],
+   "reading": "",
+   "meaning": "Lấy giấy ra mà viết đi."
+  },
+  {
+   "tokens": [
+    "The",
+    "police",
+    "officer",
+    "blew",
+    "his",
+    "whistle"
+   ],
+   "reading": "",
+   "meaning": "Cảnh sát thổi còi."
+  }
+ ],
+ "issues": []
+}

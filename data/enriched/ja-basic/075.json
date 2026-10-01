@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "直に",
-   "meaning": "ngay, lập tức, trực tiếp",
+   "meaning": "trực tiếp, ngay, tận tay",
    "example": "率直に話してください。",
    "exampleMeaning": "Hãy nói thẳng với tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "免許",
-   "meaning": "bằng lái xe",
+   "meaning": "giấy phép, bằng lái",
    "example": "運転免許はお持ちですか？",
    "exampleMeaning": "Bạn có bằng lái xe không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "お互い",
-   "meaning": "nhau",
+   "meaning": "lẫn nhau, nhau",
    "example": "私たちはお互いを理解してみるべきだ。",
    "exampleMeaning": "Chúng ta cần cố gắng hiểu rõ về nhau hơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "栄養",
-   "meaning": "sự nuôi dưỡng, sự dinh dưỡng",
+   "meaning": "dinh dưỡng",
    "example": "「栄養」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “栄養”: sự nuôi dưỡng, sự dinh dưỡng.",
+   "exampleMeaning": "Cùng nhớ từ “栄養”: dinh dưỡng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "図書",
-   "meaning": "sách",
+   "meaning": "sách, sách vở",
    "example": "図書室ではしゃべるな。",
    "exampleMeaning": "Không được nói chuyện ở phòng đọc sách ở thư viện.",
    "emoji": "📚",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "霜",
-   "meaning": "sự đông giá",
+   "meaning": "sương giá",
    "example": "「霜」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “霜”: sự đông giá.",
+   "exampleMeaning": "Cùng nhớ từ “霜”: sương giá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -102,163 +102,163 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "中古",
-   "meaning": "từng",
+   "meaning": "đồ cũ, đã qua sử dụng",
    "example": "「中古」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “中古”: từng.",
+   "exampleMeaning": "Cùng nhớ từ “中古”: đồ cũ, đã qua sử dụng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "停電",
-   "meaning": "sự hỏng điện",
+   "meaning": "mất điện, cúp điện",
    "example": "「停電」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “停電”: sự hỏng điện.",
+   "exampleMeaning": "Cùng nhớ từ “停電”: mất điện, cúp điện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "作業",
-   "meaning": "công việc",
+   "meaning": "công việc, thao tác",
    "example": "「作業」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “作業”: công việc.",
+   "exampleMeaning": "Cùng nhớ từ “作業”: công việc, thao tác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "梅",
-   "meaning": "quả mận",
+   "meaning": "mơ, hoa mơ, cây mơ",
    "example": "梅毒は性行為を通じて感染する病気です。",
    "exampleMeaning": "Giang mai là một loại bệnh lây qua đường tình dục.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "寄付",
-   "meaning": "sự đóng góp, sự góp phần",
+   "meaning": "quyên góp, đóng góp",
    "example": "彼は難民救済基金に１万ドルを寄付した。",
    "exampleMeaning": "Anh ấy đã quyên góp 10 nghìn Đô-la cho quỹ hỗ trợ người tị nạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "行儀",
-   "meaning": "cách, lối, kiểu",
+   "meaning": "cách cư xử, lễ phép",
    "example": "母は私に行儀よくするようにと言った。",
    "exampleMeaning": "Mẹ bảo tôi phải cư xử cho đúng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "柄",
-   "meaning": "kiểu mẫu, gương mẫu",
+   "meaning": "hoa văn, vóc người, tính cách",
    "example": "彼女の横柄な態度は腹に据えかねた。",
    "exampleMeaning": "Tôi không chịu nổi cái thái độ kiêu ngạo của cô ta.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "熱帯",
-   "meaning": "vùng/miền nhiệt đới",
+   "meaning": "nhiệt đới",
    "example": "「熱帯」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “熱帯”: vùng/miền nhiệt đới.",
+   "exampleMeaning": "Cùng nhớ từ “熱帯”: nhiệt đới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "前進",
-   "meaning": "sự tiến lên, sự tiến tới, sự tiến bộ",
+   "meaning": "tiến lên, tiến về phía trước",
    "example": "彼女はゆっくりと前進した。",
    "exampleMeaning": "Cô ta từ từ tiến về phía trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "守る",
-   "meaning": "bảo vệ, bảo hộ, che chở",
+   "meaning": "bảo vệ, giữ, tuân thủ",
    "example": "金のゴーレムは宝を守るためのガーディアンです。",
    "exampleMeaning": "Golem vàng là thần gác đền bảo vệ kho báu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "構成",
-   "meaning": "sự tổ chức, sự cấu tạo",
+   "meaning": "cấu thành, cơ cấu, bố cục",
    "example": "「構成」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “構成”: sự tổ chức, sự cấu tạo.",
+   "exampleMeaning": "Cùng nhớ từ “構成”: cấu thành, cơ cấu, bố cục.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "日中",
-   "meaning": "trung",
+   "meaning": "ban ngày, giữa ngày",
    "example": "昨日は一日中寝ていた。",
    "exampleMeaning": "Hôm qua tôi ngủ cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

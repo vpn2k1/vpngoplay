@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "赤",
-   "meaning": "đỏ",
+   "meaning": "màu đỏ, đỏ",
    "example": "赤ちゃんは寝ています。",
    "exampleMeaning": "Em bé đang ngủ",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "覚える",
-   "meaning": "nhớ",
+   "meaning": "nhớ, học thuộc",
    "example": "あの日をよく覚える。",
    "exampleMeaning": "Tôi nhớ rõ ngày đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "空",
-   "meaning": "trời, bầu trời",
+   "meaning": "bầu trời, trời",
    "example": "龍は空想の動物だ。",
    "exampleMeaning": "Rồng là động vật không tưởng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "封筒",
-   "meaning": "bao, bọc bì",
+   "meaning": "phong bì",
    "example": "「封筒」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “封筒”: bao, bọc bì.",
+   "exampleMeaning": "Cùng nhớ từ “封筒”: phong bì.",
    "emoji": "✉",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "多分",
-   "meaning": "có lẽ, có thể",
+   "meaning": "có lẽ, chắc là",
    "example": "それ多分、俺のせいだ。",
    "exampleMeaning": "Có lẽ đó là lỗi của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "切る",
-   "meaning": "chặt, chém, chia cắt",
+   "meaning": "cắt, cúp (máy)",
    "example": "２．大根は拍子木に切る。",
    "exampleMeaning": "2. Thái củ cải thành những lát dài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,124 +115,124 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "醤油",
-   "meaning": "xì dầu",
+   "meaning": "xì dầu, nước tương",
    "example": "「醤油」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “醤油”: xì dầu.",
+   "exampleMeaning": "Cùng nhớ từ “醤油”: xì dầu, nước tương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "下手",
-   "meaning": "nghèo, bần cùng",
+   "meaning": "kém, vụng, vụng về",
    "example": "僕は水泳が下手やねん。",
    "exampleMeaning": "Tôi bơi không giỏi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "早い",
-   "meaning": "sớm, ban đầu, đầu mùa",
+   "meaning": "sớm",
    "example": "わびをいれるなら早い方がいいだろう。",
    "exampleMeaning": "Nếu bạn định xin lỗi thì nên xin lỗi càng sớm càng tốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "野菜",
-   "meaning": "rau",
+   "meaning": "rau, rau củ",
    "example": "その店は野菜を売っている。",
    "exampleMeaning": "Cửa hàng đó bán rau.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "旅行",
-   "meaning": "chuyến đi, cuộc hành trình, sự vượt biển",
+   "meaning": "du lịch, chuyến đi",
    "example": "往復旅行？片道だけです。",
    "exampleMeaning": "Vé khứ hồi phải không? Một chiều thôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "警官",
-   "meaning": "cảnh sát, công an",
+   "meaning": "cảnh sát",
    "example": "警官隊はデモ隊と乱闘になった。",
    "exampleMeaning": "Lực lượng cảnh sát đã xung đột với những người biểu tình.",
    "emoji": "👮",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "三日",
-   "meaning": "ba ngày",
+   "meaning": "ngày mùng 3, ba ngày",
    "example": "私は三日前に着きました。",
    "exampleMeaning": "Tôi đã đến ba ngày trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "こちら",
-   "meaning": "đây, ở đây, ở chỗ này",
+   "meaning": "đây, phía này, vị này",
    "example": "こちらにご注目ください。",
    "exampleMeaning": "Hãy chú ý chỗ này!",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "渡る",
-   "meaning": "sự cắt nhau, sự giao nhau",
+   "meaning": "băng qua, đi qua",
    "example": "私は川を泳いで渡ることができます。",
    "exampleMeaning": "Tôi biết bơi qua sông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "家",
-   "meaning": "nhà, gia đình, tổ ấm",
+   "meaning": "nhà, ngôi nhà",
    "example": "彼女は家に帰った。",
    "exampleMeaning": "Cô ấy đã về nhà.",
    "emoji": "🏠",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

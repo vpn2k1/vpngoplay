@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "国民",
-   "meaning": "công dân, dân",
+   "meaning": "người dân, quốc dân, công dân",
    "example": "私たちは国民の祝日に旗を立てる。",
    "exampleMeaning": "Chúng tôi treo cờ vào các ngày quốc lễ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "為る",
-   "meaning": "làm, thực hiện",
+   "meaning": "làm",
    "example": "「為る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “為る”: làm, thực hiện.",
+   "exampleMeaning": "Cùng nhớ từ “為る”: làm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "射す",
-   "meaning": "sáng, bóng",
+   "meaning": "chiếu, rọi vào",
    "example": "水は光を反射する。",
    "exampleMeaning": "Nước phản chiếu ánh sáng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,215 +50,215 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "単位",
-   "meaning": "sự cho vay, cho thiếu, cho chịu",
+   "meaning": "đơn vị, tín chỉ",
    "example": "「単位」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “単位”: sự cho vay, cho thiếu, cho chịu.",
+   "exampleMeaning": "Cùng nhớ từ “単位”: đơn vị, tín chỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "比較",
-   "meaning": "sự so sánh",
+   "meaning": "so sánh",
    "example": "価格.comというサイトでは、電化製品ごとに、その商品を出品している各店舗の価格を比較することができます。",
    "exampleMeaning": "Ở một trang web gọi là kakaku.com, bạn có thể so sánh giá của mỗi sản phẩm điện máy được bày bán ở các cửa hàng khác nhau.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "辞退",
-   "meaning": "sự từ chối, sự khước từ, sự cự tuyệt",
+   "meaning": "từ chối, khước từ",
    "example": "「辞退」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “辞退”: sự từ chối, sự khước từ, sự cự tuyệt.",
+   "exampleMeaning": "Cùng nhớ từ “辞退”: từ chối, khước từ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "血管",
-   "meaning": "tĩnh mạch",
+   "meaning": "mạch máu",
    "example": "彼は脚にひどい毛細血管破裂を起こした。",
    "exampleMeaning": "Anh ấy bị vỡ mao mạch chân nghiêm trọng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "尾",
-   "meaning": "đuôi (thú vật, chim, cá... )",
+   "meaning": "đuôi",
    "example": "ウサギには長い耳と短い尾がある。",
    "exampleMeaning": "Thỏ có tai dài và đuôi ngắn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "真剣",
-   "meaning": "tính chất đứng đắn",
+   "meaning": "nghiêm túc, nghiêm chỉnh",
    "example": "真剣に話してる時に、からかうのはやめてよ。",
    "exampleMeaning": "Lúc tôi đang nói chuyện nghiêm túc thì đừng có mà đùa cợt đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ホーム",
-   "meaning": "nền, bục, bệ",
+   "meaning": "sân ga, nhà",
    "example": "ホームレスにお金を恵んであげました。",
    "exampleMeaning": "Tôi đã đưa tiền cho người vô gia cư.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "小屋",
-   "meaning": "chuồng (trâu, bò, ngựa)",
+   "meaning": "túp lều, chòi, chuồng",
    "example": "この部屋はまるで豚小屋だな。",
    "exampleMeaning": "Phòng này giống cái chuồng lợn quá.",
    "emoji": "🛖",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "汚す",
-   "meaning": "làm ô uế, làm mất thiêng liêng",
+   "meaning": "làm bẩn, làm ô nhiễm",
    "example": "「汚す」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “汚す”: làm ô uế, làm mất thiêng liêng.",
+   "exampleMeaning": "Cùng nhớ từ “汚す”: làm bẩn, làm ô nhiễm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "図",
-   "meaning": "bản đồ",
+   "meaning": "hình vẽ, sơ đồ, bản vẽ",
    "example": "図書室ではしゃべるな。",
    "exampleMeaning": "Không được nói chuyện ở phòng đọc sách ở thư viện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "私用",
-   "meaning": "công thương nghiệp tư doanh",
+   "meaning": "việc riêng, dùng riêng",
    "example": "「私用」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “私用”: công thương nghiệp tư doanh.",
+   "exampleMeaning": "Cùng nhớ từ “私用”: việc riêng, dùng riêng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "世間",
-   "meaning": "thế giới, hoàn cầu, địa cầu",
+   "meaning": "xã hội, thế gian, người đời",
    "example": "彼は世間知らずだ。",
    "exampleMeaning": "Cậu ta là tấm chiếu mới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "再び",
-   "meaning": "lại, lần nữa, nữa",
+   "meaning": "lại, một lần nữa",
    "example": "トムは再び勝利を収めた。",
    "exampleMeaning": "Tom đã lại thắng một lần nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "包み",
-   "meaning": "bó",
+   "meaning": "gói, bọc",
    "example": "「包み」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “包み”: bó.",
+   "exampleMeaning": "Cùng nhớ từ “包み”: gói, bọc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "包装",
-   "meaning": "bao bì",
+   "meaning": "đóng gói, bao bì",
    "example": "「包装」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “包装”: bao bì.",
+   "exampleMeaning": "Cùng nhớ từ “包装”: đóng gói, bao bì.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "いけない",
-   "meaning": "xấu",
+   "meaning": "không được, không nên, hư",
    "example": "時間を無駄にしてはいけない。",
    "exampleMeaning": "Đừng lãng phí thời gian.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

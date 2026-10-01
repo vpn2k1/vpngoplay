@@ -1,0 +1,324 @@
+{
+ "lesson": 131,
+ "draft": true,
+ "words": [
+  {
+   "term": "needle",
+   "meaning": "kim, cây kim",
+   "example": "to needle one's way through a crwod",
+   "exampleMeaning": "Lách qua một đám đông",
+   "emoji": "",
+   "ipa": "/ˈnidəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "caution",
+   "meaning": "sự thận trọng, lời cảnh báo",
+   "example": "to be dismissed with a caution",
+   "exampleMeaning": "Bị cảnh cáo và cho về",
+   "emoji": "",
+   "ipa": "/ˈkɑʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "toss",
+   "meaning": "tung, ném, quăng",
+   "example": "a toss of the head",
+   "exampleMeaning": "Cái hất đầu",
+   "emoji": "",
+   "ipa": "/ˈtɔs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "confusing",
+   "meaning": "khó hiểu, gây nhầm lẫn",
+   "example": "Let's learn the word \"confusing\".",
+   "exampleMeaning": "Cùng học từ “confusing”: khó hiểu, gây nhầm lẫn.",
+   "emoji": "",
+   "ipa": "/kənˈfjuːzɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hatred",
+   "meaning": "lòng căm thù, sự căm ghét",
+   "example": "Let's learn the word \"hatred\".",
+   "exampleMeaning": "Cùng học từ “hatred”: lòng căm thù, sự căm ghét.",
+   "emoji": "",
+   "ipa": "/ˈheɪtrəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "agricultural",
+   "meaning": "nông nghiệp",
+   "example": "Let's learn the word \"agricultural\".",
+   "exampleMeaning": "Cùng học từ “agricultural”: nông nghiệp.",
+   "emoji": "",
+   "ipa": "/ˌæɡrəˈkəltʃɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sharp",
+   "meaning": "sắc, nhọn, sắc bén",
+   "example": "to take a sharp walk",
+   "exampleMeaning": "Đi bộ rảo bước",
+   "emoji": "♯",
+   "ipa": "/ʃɑːp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "surplus",
+   "meaning": "phần thừa, thặng dư",
+   "example": "Let's learn the word \"surplus\".",
+   "exampleMeaning": "Cùng học từ “surplus”: phần thừa, thặng dư.",
+   "emoji": "",
+   "ipa": "/ˈsɜrpləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "recover",
+   "meaning": "hồi phục, bình phục, lấy lại",
+   "example": "this remedy will soon recover her",
+   "exampleMeaning": "Phương thuốc này sẽ làm cho bà ta chóng khỏi bệnh",
+   "emoji": "",
+   "ipa": "/rɪˈkʌvə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "darkness",
+   "meaning": "bóng tối, sự tối tăm",
+   "example": "deeds of darkness",
+   "exampleMeaning": "Hành động đen tối độc ác",
+   "emoji": "",
+   "ipa": "/ˈdɑrknəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "northwestern",
+   "meaning": "phía tây bắc",
+   "example": "Let's learn the word \"northwestern\".",
+   "exampleMeaning": "Cùng học từ “northwestern”: phía tây bắc.",
+   "emoji": "",
+   "ipa": "/ˌnɔrθˈwɛstɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fire station",
+   "meaning": "trạm cứu hỏa",
+   "example": "Let's learn the word \"fire station\".",
+   "exampleMeaning": "Cùng học từ “fire station”: trạm cứu hỏa.",
+   "emoji": "",
+   "ipa": "/ˈfaɪɜr ˈsteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sensitivity",
+   "meaning": "sự nhạy cảm, độ nhạy",
+   "example": "Let's learn the word \"sensitivity\".",
+   "exampleMeaning": "Cùng học từ “sensitivity”: sự nhạy cảm, độ nhạy.",
+   "emoji": "",
+   "ipa": "/ˌsɛnsɪˈtɪvɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lawful",
+   "meaning": "hợp pháp, đúng luật",
+   "example": "to come of lawful age",
+   "exampleMeaning": "Đến tuổi công dân",
+   "emoji": "",
+   "ipa": "/ˈlɔfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "grave",
+   "meaning": "mộ, ngôi mộ",
+   "example": "from beyond the grave",
+   "exampleMeaning": "Từ thế giới bên kia",
+   "emoji": "",
+   "ipa": "/ˈɡreɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "access",
+   "meaning": "sự truy cập, quyền tiếp cận, lối vào",
+   "example": "The access and recess of the sea.",
+   "exampleMeaning": "Lúc triều lên và triều xuống ở biển.",
+   "emoji": "",
+   "ipa": "/ˈæksɛs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prescription",
+   "meaning": "đơn thuốc",
+   "example": "Let's learn the word \"prescription\".",
+   "exampleMeaning": "Cùng học từ “prescription”: đơn thuốc.",
+   "emoji": "",
+   "ipa": "/prəsˈkrɪpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "objection",
+   "meaning": "sự phản đối, sự phản kháng",
+   "example": "to raise no objection",
+   "exampleMeaning": "Không phản đối",
+   "emoji": "",
+   "ipa": "/əbˈdʒɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "propose",
+   "meaning": "đề xuất, đề nghị, cầu hôn",
+   "example": "to propose a course of action",
+   "exampleMeaning": "Đề xuất một đường lối hành động",
+   "emoji": "",
+   "ipa": "/prəˈpəʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nutritious",
+   "meaning": "bổ dưỡng, giàu dinh dưỡng",
+   "example": "Let's learn the word \"nutritious\".",
+   "exampleMeaning": "Cùng học từ “nutritious”: bổ dưỡng, giàu dinh dưỡng.",
+   "emoji": "",
+   "ipa": "/nuˈtrɪʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "need",
+    "something",
+    "sharp"
+   ],
+   "reading": "",
+   "meaning": "Tôi cần một thứ gì đó sắc bén."
+  },
+  {
+   "tokens": [
+    "We",
+    "visited",
+    "our",
+    "mother's",
+    "grave"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã đến thăm mộ mẹ của chúng tôi."
+  },
+  {
+   "tokens": [
+    "That",
+    "knife",
+    "is",
+    "really",
+    "sharp"
+   ],
+   "reading": "",
+   "meaning": "Con dao này rất sắc."
+  },
+  {
+   "tokens": [
+    "Did",
+    "he",
+    "propose",
+    "any",
+    "solutions"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy có đề xuất giải pháp nào không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "village",
+    "is",
+    "easy",
+    "of",
+    "access"
+   ],
+   "reading": "",
+   "meaning": "Đường vào làng dễ đi."
+  }
+ ],
+ "issues": []
+}

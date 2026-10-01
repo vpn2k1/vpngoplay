@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "信用卡",
-   "meaning": "thẻ tín dụng, credit card",
+   "meaning": "thẻ tín dụng",
    "example": "我们来学“信用卡”这个词。",
-   "exampleMeaning": "Cùng học từ “信用卡”: thẻ tín dụng, credit card.",
+   "exampleMeaning": "Cùng học từ “信用卡”: thẻ tín dụng.",
    "emoji": "💳",
    "ipa": "",
    "pinyin": "xìnyòngkǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "青少年",
-   "meaning": "vị thành niên",
+   "meaning": "thanh thiếu niên",
    "example": "我们来学“青少年”这个词。",
-   "exampleMeaning": "Cùng học từ “青少年”: vị thành niên.",
+   "exampleMeaning": "Cùng học từ “青少年”: thanh thiếu niên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qīngshàonián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,72 +37,72 @@
    "ipa": "",
    "pinyin": "tèdiǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "阴",
-   "meaning": "thâm độc",
+   "meaning": "âm u, trời râm",
    "example": "华阴(在华山之北)。",
    "exampleMeaning": "Hoa Âm (phía bắc núi Hoa Sơn)",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "笑话",
-   "meaning": "trò cười",
+   "meaning": "truyện cười, chê cười",
    "example": "我刚到广州时，因不懂广州话，常常闹笑话。",
    "exampleMeaning": "Khi tôi mới đến Quảng Châu, vì không hiểu tiếng Quảng Châu, nên thường làm trò cười cho người khác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàohua",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "凉",
-   "meaning": "mát mẻ, mát",
+   "meaning": "mát, lạnh, nguội",
    "example": "北京的秋天一般地说气候比较凉爽。",
    "exampleMeaning": "Mùa thu của Bắc Kinh nói chung khí hậu tương đối mát mẻ dễ chịu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liáng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "平常",
-   "meaning": "thường, thông thường, bình thường",
+   "meaning": "bình thường, thường ngày",
    "example": "他的话虽然平常，但意义却很深刻。",
    "exampleMeaning": "Lời nói của anh ấy tuy bình thường, nhưng ý nghĩ lại rất sâu sắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "píngcháng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "不但",
-   "meaning": "không chỉ",
+   "meaning": "không những, không chỉ",
    "example": "他不但自己学习很认真，还能够帮助别人。",
    "exampleMeaning": "Anh ta không chỉ tự mình chăm chỉ học hành mà còn giúp đỡ người khác nữa",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùdàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "",
    "pinyin": "bànyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "商量",
-   "meaning": "trao đổi",
+   "meaning": "bàn bạc, thương lượng",
    "example": "遇事要多和群众商量。",
    "exampleMeaning": "Có công việc cần phải trao đổi nhiều với quần chúng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shāngliang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "黄色",
-   "meaning": "đồi truỵ",
+   "meaning": "màu vàng, đồi trụy",
    "example": "黄色小说",
    "exampleMeaning": "Tiểu thuyết đồi truỵ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huángsè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,7 +154,7 @@
    "ipa": "",
    "pinyin": "wǔcān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -167,72 +167,72 @@
    "ipa": "",
    "pinyin": "páiduì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "校园",
-   "meaning": "vườn trường",
+   "meaning": "sân trường, khuôn viên trường",
    "example": "我们来学“校园”这个词。",
-   "exampleMeaning": "Cùng học từ “校园”: vườn trường.",
+   "exampleMeaning": "Cùng học từ “校园”: sân trường, khuôn viên trường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàoyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "等到",
-   "meaning": "đến lúc",
+   "meaning": "đợi đến khi, đến lúc",
    "example": "等到那时间,我该大学毕业了。",
    "exampleMeaning": "Đợi đến lúc đó, tôi đã tốt nghiệp đại học rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "děngdào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一部分",
-   "meaning": "một phần của",
+   "meaning": "một phần, một bộ phận",
    "example": "有一部分人不同意。",
    "exampleMeaning": "Có một số người không đồng ý.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yībùfen",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "爱人",
-   "meaning": "vợ",
+   "meaning": "vợ, chồng, người yêu",
    "example": "我们来学“爱人”这个词。",
-   "exampleMeaning": "Cùng học từ “爱人”: vợ.",
+   "exampleMeaning": "Cùng học từ “爱人”: vợ, chồng, người yêu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "àiren",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "多数",
-   "meaning": "đa số",
+   "meaning": "đa số, phần lớn",
    "example": "多数人赞成这个方案。",
    "exampleMeaning": "Đa số tán thành phương án này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duōshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -245,7 +245,7 @@
    "ipa": "",
    "pinyin": "chūntiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "chāoshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

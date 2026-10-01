@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "网址",
-   "meaning": "địa chỉ website",
+   "meaning": "địa chỉ trang web",
    "example": "我们来学“网址”这个词。",
-   "exampleMeaning": "Cùng học từ “网址”: địa chỉ website.",
+   "exampleMeaning": "Cùng học từ “网址”: địa chỉ trang web.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǎngzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "吸管",
-   "meaning": "pi-pép",
+   "meaning": "ống hút",
    "example": "我们来学“吸管”这个词。",
-   "exampleMeaning": "Cùng học từ “吸管”: pi-pép.",
+   "exampleMeaning": "Cùng học từ “吸管”: ống hút.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "chuāngtái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "松树",
-   "meaning": "cây thông / cây thông",
+   "meaning": "cây thông",
    "example": "我们来学“松树”这个词。",
-   "exampleMeaning": "Cùng học từ “松树”: cây thông / cây thông.",
+   "exampleMeaning": "Cùng học từ “松树”: cây thông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sōngshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "多样",
-   "meaning": "nhiều loại",
+   "meaning": "đa dạng",
    "example": "多种多样",
    "exampleMeaning": "Nhiều kiểu nhiều loại; nhiều mẫu mã.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duōyàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "xuénián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "售货员",
-   "meaning": "người bán hàng",
+   "meaning": "nhân viên bán hàng",
    "example": "我们来学“售货员”这个词。",
-   "exampleMeaning": "Cùng học từ “售货员”: người bán hàng.",
+   "exampleMeaning": "Cùng học từ “售货员”: nhân viên bán hàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shòuhuòyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -102,20 +102,20 @@
    "ipa": "",
    "pinyin": "diàndēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "口语",
-   "meaning": "khẩu ngữ",
+   "meaning": "khẩu ngữ, văn nói",
    "example": "这样做，一来可以认识更多的中国朋友，二来可以锻炼你的口语。",
    "exampleMeaning": "Làm thế này, một là có thể biết nhiều bạn bè Trung Quốc, hai là có thể luyện khẩu ngữ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǒuyǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,33 +128,33 @@
    "ipa": "",
    "pinyin": "jìndài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "疗养",
-   "meaning": "an dưỡng",
+   "meaning": "an dưỡng, điều dưỡng",
    "example": "他在海滨疗养了半年。",
    "exampleMeaning": "Anh ấy ở Hải Định an dưỡng nửa năm trời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liáoyǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "寒假",
-   "meaning": "nghỉ đông",
+   "meaning": "kỳ nghỉ đông",
    "example": "寒假放两个多礼拜",
    "exampleMeaning": "Nghỉ đông hơn hai tuần",
    "emoji": "",
    "ipa": "",
    "pinyin": "hánjià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,20 +167,20 @@
    "ipa": "",
    "pinyin": "ǎixiǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "粗心",
-   "meaning": "sơ ý",
+   "meaning": "cẩu thả, sơ ý",
    "example": "粗心大意。",
    "exampleMeaning": "Sơ ý.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cūxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "shuāzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "háomǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "厘米",
-   "meaning": "centimeter",
+   "meaning": "xentimét",
    "example": "我们来学“厘米”这个词。",
-   "exampleMeaning": "Cùng học từ “厘米”: centimeter.",
+   "exampleMeaning": "Cùng học từ “厘米”: xentimét.",
    "emoji": "",
    "ipa": "",
    "pinyin": "límǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "高铁",
-   "meaning": "đường sắt cao tốc",
+   "meaning": "tàu cao tốc, đường sắt cao tốc",
    "example": "我们来学“高铁”这个词。",
-   "exampleMeaning": "Cùng học từ “高铁”: đường sắt cao tốc.",
+   "exampleMeaning": "Cùng học từ “高铁”: tàu cao tốc, đường sắt cao tốc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gāotiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "电动车",
-   "meaning": "xe đạp điện",
+   "meaning": "xe điện, xe máy điện",
    "example": "我们来学“电动车”这个词。",
-   "exampleMeaning": "Cùng học từ “电动车”: xe đạp điện.",
+   "exampleMeaning": "Cùng học từ “电动车”: xe điện, xe máy điện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diàndòngchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "毫升",
-   "meaning": "mi li lít",
+   "meaning": "mililít",
    "example": "我们来学“毫升”这个词。",
-   "exampleMeaning": "Cùng học từ “毫升”: mi li lít.",
+   "exampleMeaning": "Cùng học từ “毫升”: mililít.",
    "emoji": "",
    "ipa": "",
    "pinyin": "háoshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

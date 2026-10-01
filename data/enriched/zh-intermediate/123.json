@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "竟",
-   "meaning": "lại",
+   "meaning": "không ngờ, vậy mà",
    "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
    "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,124 +24,124 @@
    "ipa": "",
    "pinyin": "zhīsuǒyǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "醒来",
-   "meaning": "đánh thức, thức giấc, tỉnh lại",
+   "meaning": "tỉnh dậy, thức dậy",
    "example": "我们来学“醒来”这个词。",
-   "exampleMeaning": "Cùng học từ “醒来”: đánh thức, thức giấc, tỉnh lại.",
+   "exampleMeaning": "Cùng học từ “醒来”: tỉnh dậy, thức dậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xǐnglái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "致",
-   "meaning": "hứng thú",
+   "meaning": "gửi tới, chuyên tâm",
    "example": "向大会致热烈的祝贺。",
    "exampleMeaning": "Gửi tới đại hội lời chào mừng nhiệt liệt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "烤",
-   "meaning": "hơ",
+   "meaning": "nướng",
    "example": "把 湿衣裳烤干。",
    "exampleMeaning": "Hơ áo ướt cho khô.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "天使",
-   "meaning": "thiên sứ",
+   "meaning": "thiên thần",
    "example": "我们来学“天使”这个词。",
-   "exampleMeaning": "Cùng học từ “天使”: thiên sứ.",
+   "exampleMeaning": "Cùng học từ “天使”: thiên thần.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiānshǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "老大",
-   "meaning": "về già",
+   "meaning": "anh cả, đại ca",
    "example": "少壮不努力，老大徒伤悲。",
    "exampleMeaning": "Lúc trẻ mà không chịu nỗ lực thì về già sẽ ân hận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǎodà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "怀孕",
-   "meaning": "có mang",
+   "meaning": "mang thai, có thai",
    "example": "怀孕的妇女。",
    "exampleMeaning": "Phụ nữ có mang.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huáiyùn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一阵",
-   "meaning": "một trận",
+   "meaning": "một trận, một lúc",
    "example": "一阵掌声",
    "exampleMeaning": "Vỗ tay một hồi",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīzhèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "即便",
-   "meaning": "cho dù",
+   "meaning": "cho dù, ngay cả khi",
    "example": "即便你有理,也不该发脾气啊!",
    "exampleMeaning": "Cho dù anh có lí cũng không nên nổi cáu lên như thế!",
    "emoji": "",
    "ipa": "",
    "pinyin": "jíbiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "幕",
-   "meaning": "trướng, bạt",
+   "meaning": "màn (sân khấu), rèm",
    "example": "谢幕了。",
    "exampleMeaning": "Tạ ơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,111 +154,111 @@
    "ipa": "",
    "pinyin": "shīzōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "执法",
-   "meaning": "chấp pháp",
+   "meaning": "thực thi pháp luật",
    "example": "执法不严使坏人有隙可乘。",
    "exampleMeaning": "Chấp pháp không nghiêm khiến kẻ gian có thể lợi dụng kẽ hở.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhífǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "监控",
-   "meaning": "quản chế",
+   "meaning": "giám sát, theo dõi",
    "example": "我们来学“监控”这个词。",
-   "exampleMeaning": "Cùng học từ “监控”: quản chế.",
+   "exampleMeaning": "Cùng học từ “监控”: giám sát, theo dõi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiānkòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "抢劫",
-   "meaning": "cướp, cướp đoạt",
+   "meaning": "cướp, cướp giật",
    "example": "罪犯们密谋抢劫银行。",
    "exampleMeaning": "Bọn tội phạm đang âm mưu cướp ngân hàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiǎngjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "奇迹",
-   "meaning": "kỳ tích",
+   "meaning": "kỳ tích, phép màu",
    "example": "群众的智慧和力量可以创造出人类历史上的奇迹。",
    "exampleMeaning": "Trí tuệ và sức mạnh của quần chúng có thể sáng tạo nên những kỳ tích trong lịch sử nhân loại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "蛮",
-   "meaning": "rất",
+   "meaning": "khá, rất (khẩu ngữ), ngang ngược",
    "example": "蛮不讲理。",
    "exampleMeaning": "Ngang ngược vô lí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "钥匙",
-   "meaning": "chìa khoá",
+   "meaning": "chìa khóa",
    "example": "我们来学“钥匙”这个词。",
-   "exampleMeaning": "Cùng học từ “钥匙”: chìa khoá.",
+   "exampleMeaning": "Cùng học từ “钥匙”: chìa khóa.",
    "emoji": "🔑",
    "ipa": "",
    "pinyin": "yàoshi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "栋",
-   "meaning": "xà ngang",
+   "meaning": "tòa, căn (lượng từ)",
    "example": "我们来学“栋”这个词。",
-   "exampleMeaning": "Cùng học từ “栋”: xà ngang.",
+   "exampleMeaning": "Cùng học từ “栋”: tòa, căn (lượng từ).",
    "emoji": "",
    "ipa": "",
    "pinyin": "dòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "引发",
-   "meaning": "gợi ra",
+   "meaning": "gây ra, dẫn đến, khơi dậy",
    "example": "天象表演引发了大家对天文学的浓厚兴趣。",
    "exampleMeaning": "Biểu diễn các hiện tượng thiên văn gợi niềm say mê của mọi người đối với thiên văn học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐnfā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

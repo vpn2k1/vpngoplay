@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "害",
-   "meaning": "hại, tai hại, tổn hao",
+   "meaning": "hại, làm hại",
    "example": "怕傷害了他的感情，我沒有告訴他真相。",
    "exampleMeaning": "Vì sợ làm tổn thương cảm xúc của anh ấy nên tôi đã không nói sự thật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "立",
-   "meaning": "lập, thành lập, thiết lập",
+   "meaning": "đứng, lập, dựng",
    "example": "不立即解决，那桩事会马上告吹的。",
    "exampleMeaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "骂",
-   "meaning": "trách",
+   "meaning": "mắng, chửi",
    "example": "她爹骂她不长进。",
    "exampleMeaning": "Ba cô ấy trách cô ấy không có tiến bộ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "稍",
-   "meaning": "hơi, gọi là, nhỏ bé",
+   "meaning": "hơi, một chút",
    "example": "我们来学“稍”这个词。",
-   "exampleMeaning": "Cùng học từ “稍”: hơi, gọi là, nhỏ bé.",
+   "exampleMeaning": "Cùng học từ “稍”: hơi, một chút.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shāo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "滑",
-   "meaning": "trượt, tuột, chuyển động nhẹ nhàng",
+   "meaning": "trơn, trượt",
    "example": "长满青苔的路滑得很。",
    "exampleMeaning": "Con đường phủ đầy rêu đi rất trơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huá",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,46 +76,46 @@
    "ipa": "",
    "pinyin": "dáchéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "鼓励",
-   "meaning": "khích lệ, cổ vũ, động viên",
+   "meaning": "khích lệ, động viên",
    "example": "大家的赞扬给了他很大的鼓励。",
    "exampleMeaning": "Sự tán dương của mọi người là sự khích lệ rất lớn đối với anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǔlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "蛋糕",
-   "meaning": "bánh ngọt",
+   "meaning": "bánh ga tô, bánh ngọt",
    "example": "它一定是個生日蛋糕。",
    "exampleMeaning": "Đây chắc hẳn là một cái bánh sinh nhật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàngāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "本人",
-   "meaning": "bản thân, tôi (người nói chỉ mình ), tự mình",
+   "meaning": "bản thân, tôi",
    "example": "我本人非常赞成这个主张。",
    "exampleMeaning": "Bản thân tôi vô cùng tán thành chủ trương này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "běnrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "hòuhuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,46 +141,46 @@
    "ipa": "",
    "pinyin": "tūpò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "发布",
-   "meaning": "thông báo",
+   "meaning": "công bố, phát hành",
    "example": "发布战报",
    "exampleMeaning": "Thông báo tình hình chính sự",
    "emoji": "",
    "ipa": "",
    "pinyin": "fābù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "忍",
-   "meaning": "cam chịu, chịu được, nhẫn tâm",
+   "meaning": "nhẫn nhịn, chịu đựng",
    "example": "看到他那可笑的样子，大家忍不住笑了。",
    "exampleMeaning": "Nhìn thấy dáng vẻ buồn cười đó của anh ấy, mọi người không nhịn được mà cười.",
    "emoji": "🐻",
    "ipa": "",
    "pinyin": "rěn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回头",
-   "meaning": "trở lại",
+   "meaning": "quay đầu, lát nữa",
    "example": "你先吃饭，回头再谈。",
    "exampleMeaning": "Anh ăn cơm trước đi, một chút bàn tiếp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huítóu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,72 +193,72 @@
    "ipa": "",
    "pinyin": "kù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "主管",
-   "meaning": "chủ quản",
+   "meaning": "quản lý, phụ trách",
    "example": "主管原料收购和产品销售。",
    "exampleMeaning": "Chủ quản công việc thu mua nguyên liệu và tiêu thụ sản phẩm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǔguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "答",
-   "meaning": "trả lời, đáp lại",
+   "meaning": "trả lời, đáp",
    "example": "她無法回答這個問題。",
    "exampleMeaning": "Cô ấy đã không thể trả lời được câu hỏi đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dá",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "奖励",
-   "meaning": "khen thưởng",
+   "meaning": "khen thưởng, phần thưởng",
    "example": "奖励先进生产者。",
    "exampleMeaning": "Khen thưởng những người lao động tiên tiến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎnglì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "熊",
-   "meaning": "mang, cầm, vác",
+   "meaning": "gấu",
    "example": "挨熊。",
    "exampleMeaning": "Bị mắng.",
    "emoji": "🐻",
    "ipa": "",
    "pinyin": "xióng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "之下",
-   "meaning": "ở trên",
+   "meaning": "dưới, bên dưới",
    "example": "我们来学“之下”这个词。",
-   "exampleMeaning": "Cùng học từ “之下”: ở trên.",
+   "exampleMeaning": "Cùng học từ “之下”: dưới, bên dưới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīxià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

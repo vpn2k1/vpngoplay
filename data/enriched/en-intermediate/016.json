@@ -1,0 +1,316 @@
+{
+ "lesson": 16,
+ "draft": true,
+ "words": [
+  {
+   "term": "gentleman",
+   "meaning": "quý ông, người lịch sự",
+   "example": "to behave like a gentleman",
+   "exampleMeaning": "Cư xử ra người hào hoa phong nhã",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnəlmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "jumper",
+   "meaning": "áo len, vận động viên nhảy",
+   "example": "How much is the jumper?",
+   "exampleMeaning": "Chiếc áo len bao nhiêu tiền?",
+   "emoji": "",
+   "ipa": "/ˈdʒəmpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "remarkable",
+   "meaning": "đáng chú ý, phi thường",
+   "example": "Our students showed remarkable progress.",
+   "exampleMeaning": "Các sinh viên của chúng ta đang tiến bộ rõ rệt.",
+   "emoji": "",
+   "ipa": "/riˈmɑrkəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "modify",
+   "meaning": "sửa đổi, điều chỉnh",
+   "example": "Anybody can modify this entry.",
+   "exampleMeaning": "Bất cứ ai có thể sửa đổi mục từ này.",
+   "emoji": "",
+   "ipa": "/ˈmɑdəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "throughout",
+   "meaning": "suốt, khắp, xuyên suốt",
+   "example": "The house is well furnished throughout.",
+   "exampleMeaning": "Khắp nhà đều có đầy đủ đồ đạc.",
+   "emoji": "",
+   "ipa": "/θruˈaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "productivity",
+   "meaning": "năng suất",
+   "example": "Let's learn the word \"productivity\".",
+   "exampleMeaning": "Cùng học từ “productivity”: năng suất.",
+   "emoji": "",
+   "ipa": "/ˌproʊdəkˈtɪvəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transform",
+   "meaning": "biến đổi, chuyển hóa",
+   "example": "Let's learn the word \"transform\".",
+   "exampleMeaning": "Cùng học từ “transform”: biến đổi, chuyển hóa.",
+   "emoji": "",
+   "ipa": "/ˈtrænsfɔrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "refund",
+   "meaning": "tiền hoàn lại, sự hoàn tiền",
+   "example": "Let's learn the word \"refund\".",
+   "exampleMeaning": "Cùng học từ “refund”: tiền hoàn lại, sự hoàn tiền.",
+   "emoji": "",
+   "ipa": "/ˈriˌfənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exploration",
+   "meaning": "sự thám hiểm, sự khám phá",
+   "example": "Let's learn the word \"exploration\".",
+   "exampleMeaning": "Cùng học từ “exploration”: sự thám hiểm, sự khám phá.",
+   "emoji": "",
+   "ipa": "/ˌɛksplɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "paid",
+   "meaning": "được trả lương, đã trả tiền",
+   "example": "I've paid you already.",
+   "exampleMeaning": "Tôi đã thanh toán cho bạn rồi.",
+   "emoji": "",
+   "ipa": "/ˈpeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cashpoint",
+   "meaning": "máy rút tiền",
+   "example": "Let's learn the word \"cashpoint\".",
+   "exampleMeaning": "Cùng học từ “cashpoint”: máy rút tiền.",
+   "emoji": "",
+   "ipa": "/ˈkæʃˌpɔɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "climber",
+   "meaning": "người leo núi, cây leo",
+   "example": "Let's learn the word \"climber\".",
+   "exampleMeaning": "Cùng học từ “climber”: người leo núi, cây leo.",
+   "emoji": "",
+   "ipa": "/ˈklaɪmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transportation",
+   "meaning": "vận tải, phương tiện đi lại",
+   "example": "The fastest means of transportation is by plane.",
+   "exampleMeaning": "Phương tiện giao thông nhanh nhất là máy bay.",
+   "emoji": "",
+   "ipa": "/ˌtrænspɜrˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "attract",
+   "meaning": "thu hút, hấp dẫn",
+   "example": "I attract positive energy and people.",
+   "exampleMeaning": "Tôi thu hút những con người và nguồn năng lượng tích cực.",
+   "emoji": "",
+   "ipa": "/əˈtrækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bunch",
+   "meaning": "bó, chùm, nhóm",
+   "example": "a bunch of grapes",
+   "exampleMeaning": "Một chùm nho",
+   "emoji": "",
+   "ipa": "/bʌntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "passport",
+   "meaning": "hộ chiếu",
+   "example": "Will you show me your passport, please?",
+   "exampleMeaning": "Xin ông vui lòng cho tôi xem hộ chiếu của ông.",
+   "emoji": "",
+   "ipa": "/ˈpæsˌpɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "appoint",
+   "meaning": "bổ nhiệm, chỉ định",
+   "example": "to appoint that it should be done",
+   "exampleMeaning": "Quy định sẽ phải làm xong việc ấy",
+   "emoji": "",
+   "ipa": "/əˈpɔɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "arrest",
+   "meaning": "bắt giữ, bắt",
+   "example": "Am I under arrest?",
+   "exampleMeaning": "Tôi bị bắt à?",
+   "emoji": "",
+   "ipa": "/ɜrˈɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "repeatedly",
+   "meaning": "nhiều lần, lặp đi lặp lại",
+   "example": "I've asked you repeatedly not to do that.",
+   "exampleMeaning": "Tôi đã nhiều lần yêu cầu bạn không được làm chuyện đó cơ mà.",
+   "emoji": "",
+   "ipa": "/rɪˈpitɪdli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "buddy",
+   "meaning": "bạn thân, anh bạn",
+   "example": "Let's learn the word \"buddy\".",
+   "exampleMeaning": "Cùng học từ “buddy”: bạn thân, anh bạn.",
+   "emoji": "",
+   "ipa": "/ˈbədi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "is",
+    "remarkable"
+   ],
+   "reading": "",
+   "meaning": "Điều này thật đáng chú ý."
+  },
+  {
+   "tokens": [
+    "Flowers",
+    "attract",
+    "bees"
+   ],
+   "reading": "",
+   "meaning": "Hoa thu hút ong."
+  },
+  {
+   "tokens": [
+    "You",
+    "paid",
+    "attention"
+   ],
+   "reading": "",
+   "meaning": "Bạn đã chú ý."
+  },
+  {
+   "tokens": [
+    "I've",
+    "paid",
+    "you",
+    "already"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã thanh toán cho bạn rồi."
+  },
+  {
+   "tokens": [
+    "Am",
+    "I",
+    "under",
+    "arrest"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị bắt à?"
+  }
+ ],
+ "issues": []
+}

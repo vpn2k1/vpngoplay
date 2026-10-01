@@ -1,0 +1,321 @@
+{
+ "lesson": 133,
+ "draft": true,
+ "words": [
+  {
+   "term": "pitch",
+   "meaning": "sân bóng, cao độ, sự chào hàng",
+   "example": "to come to such a pitch that...",
+   "exampleMeaning": "Đến mức độ là...",
+   "emoji": "",
+   "ipa": "/ˈpɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accordingly",
+   "meaning": "theo đó, cho phù hợp",
+   "example": "Let's learn the word \"accordingly\".",
+   "exampleMeaning": "Cùng học từ “accordingly”: theo đó, cho phù hợp.",
+   "emoji": "",
+   "ipa": "/əˈkɔrdɪŋli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "united",
+   "meaning": "thống nhất, đoàn kết",
+   "example": "united we stand, divided we fall",
+   "exampleMeaning": "Đoàn kết thì đứng vững, chia rẽ thì đổ",
+   "emoji": "",
+   "ipa": "/juˈnaɪtɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cyberschool",
+   "meaning": "trường học trực tuyến",
+   "example": "Let's learn the word \"cyberschool\".",
+   "exampleMeaning": "Cùng học từ “cyberschool”: trường học trực tuyến.",
+   "emoji": "",
+   "ipa": "/ˈsaɪbɜrˌskul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ounce",
+   "meaning": "ao-xơ (đơn vị đo)",
+   "example": "Let's learn the word \"ounce\".",
+   "exampleMeaning": "Cùng học từ “ounce”: ao-xơ (đơn vị đo).",
+   "emoji": "",
+   "ipa": "/ˈaʊns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "newsworthy",
+   "meaning": "đáng đưa tin",
+   "example": "Let's learn the word \"newsworthy\".",
+   "exampleMeaning": "Cùng học từ “newsworthy”: đáng đưa tin.",
+   "emoji": "",
+   "ipa": "/ˈnuzˌwɜrði/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "caption",
+   "meaning": "chú thích (ảnh), phụ đề",
+   "example": "Let's learn the word \"caption\".",
+   "exampleMeaning": "Cùng học từ “caption”: chú thích (ảnh), phụ đề.",
+   "emoji": "",
+   "ipa": "/ˈkæpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ban",
+   "meaning": "lệnh cấm",
+   "example": "President Jefferson did not want the trade ban to last long.",
+   "exampleMeaning": "Tổng thống Jefferson không muốn cấm vận thương mại kéo dài.",
+   "emoji": "",
+   "ipa": "/ˈbæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "toll",
+   "meaning": "phí cầu đường, số người chết",
+   "example": "to toll the bell",
+   "exampleMeaning": "Rung chuông",
+   "emoji": "",
+   "ipa": "/ˈtoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "playmate",
+   "meaning": "bạn cùng chơi",
+   "example": "Let's learn the word \"playmate\".",
+   "exampleMeaning": "Cùng học từ “playmate”: bạn cùng chơi.",
+   "emoji": "",
+   "ipa": "/ˈpleɪˌmeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tyrant",
+   "meaning": "bạo chúa, kẻ chuyên chế",
+   "example": "Let's learn the word \"tyrant\".",
+   "exampleMeaning": "Cùng học từ “tyrant”: bạo chúa, kẻ chuyên chế.",
+   "emoji": "",
+   "ipa": "/ˈtaɪrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interpreter",
+   "meaning": "phiên dịch viên, thông dịch viên",
+   "example": "Let's learn the word \"interpreter\".",
+   "exampleMeaning": "Cùng học từ “interpreter”: phiên dịch viên, thông dịch viên.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɜrprətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "temptation",
+   "meaning": "sự cám dỗ",
+   "example": "to resist temptation",
+   "exampleMeaning": "Chống lại sự cám dỗ",
+   "emoji": "",
+   "ipa": "/tɛmˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tremendously",
+   "meaning": "vô cùng, cực kỳ",
+   "example": "You speak tremendously fast.",
+   "exampleMeaning": "Mày nói cực kỳ nhanh.",
+   "emoji": "",
+   "ipa": "/trəˈmɛndəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "violate",
+   "meaning": "vi phạm, xâm phạm",
+   "example": "to violate a law",
+   "exampleMeaning": "Vi phạm một đạo luật",
+   "emoji": "",
+   "ipa": "/ˈvaɪəleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trajectory",
+   "meaning": "quỹ đạo, đường đi",
+   "example": "Let's learn the word \"trajectory\".",
+   "exampleMeaning": "Cùng học từ “trajectory”: quỹ đạo, đường đi.",
+   "emoji": "",
+   "ipa": "/trəˈdʒɛktɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "retreat",
+   "meaning": "rút lui",
+   "example": "to cut off (intercept) an army's retreat",
+   "exampleMeaning": "Cắt đường rút lui của một đạo quân",
+   "emoji": "",
+   "ipa": "/riˈtrit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "incur",
+   "meaning": "gánh chịu, chuốc lấy",
+   "example": "to incur debts",
+   "exampleMeaning": "Mắc nợ",
+   "emoji": "",
+   "ipa": "/ɪnˈkɜː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "concrete",
+   "meaning": "bê tông",
+   "example": "If the concrete is not reinforced with high-quality steel, it will be worthless.",
+   "exampleMeaning": "Nếu bê tông không được gia cố bằng thép chất lượng cao, nó sẽ vô giá trị.",
+   "emoji": "",
+   "ipa": "/ˈkɑnkrit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "punctuality",
+   "meaning": "sự đúng giờ",
+   "example": "Punctuality is of great importance in your new job.",
+   "exampleMeaning": "Đúng giờ là vô cùng quan trọng trong công việc mới của bạn.",
+   "emoji": "",
+   "ipa": "/ˌpəŋktʃuˈælɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "speak",
+    "tremendously",
+    "fast"
+   ],
+   "reading": "",
+   "meaning": "Mày nói cực kỳ nhanh."
+  },
+  {
+   "tokens": [
+    "She",
+    "needs",
+    "an",
+    "interpreter"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy cần một phiên dịch."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "an",
+    "interpreter"
+   ],
+   "reading": "",
+   "meaning": "Chị ấy là phiên dịch viên."
+  },
+  {
+   "tokens": [
+    "The",
+    "army",
+    "was",
+    "in",
+    "retreat"
+   ],
+   "reading": "",
+   "meaning": "Quân đội đã rút lui"
+  },
+  {
+   "tokens": [
+    "I",
+    "can't",
+    "resist",
+    "the",
+    "temptation"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thể chống lại cám dỗ."
+  }
+ ],
+ "issues": []
+}

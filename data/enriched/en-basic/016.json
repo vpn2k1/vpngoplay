@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "Monday",
-   "meaning": "Ngày thứ hai",
+   "meaning": "thứ hai",
    "example": "Is Monday OK?",
    "exampleMeaning": "Thứ Hai được không?",
    "emoji": "",
    "ipa": "/ˈmənˌdeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "/ˈplæn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "make",
-   "meaning": "làm, gây ra",
+   "meaning": "làm, chế tạo",
    "example": "is this your own make?",
    "exampleMeaning": "Cái này có phải tự anh làm lấy không?",
    "emoji": "",
    "ipa": "/meɪk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "/ˈpærəˌɡræf/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "some",
-   "meaning": "một ít, một vài, dăm ba",
+   "meaning": "một vài, một ít",
    "example": "this is some achievement!",
    "exampleMeaning": "Đây đúng là một thành tựu!",
    "emoji": "",
    "ipa": "/sʌm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "spend",
-   "meaning": "tiêu, dùng",
+   "meaning": "tiêu (tiền), dành (thời gian)",
    "example": "to spend the holidays by the seaside",
    "exampleMeaning": "Qua những ngày nghỉ ở bờ biển",
    "emoji": "",
    "ipa": "/ˈspɛnd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "/ˈɔːtəm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "note",
-   "meaning": "ghi nhớ, chú ý, lưu ý",
+   "meaning": "ghi chú, lời nhắn",
    "example": "his speech sounds the note of war",
    "exampleMeaning": "Bài nói của hắn sặc mùi chiến tranh",
    "emoji": "",
    "ipa": "/nəʊt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "/(h)əʊˈtɛl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "welcome",
-   "meaning": "chào mừng",
+   "meaning": "chào đón, hoan nghênh",
    "example": "Welcome to Vietnam!",
    "exampleMeaning": "Hoanh nghênh các bạn đến thăm Việt Nam!",
    "emoji": "",
    "ipa": "/ˈwɛlkəm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "match",
-   "meaning": "xứng, hợp",
+   "meaning": "trận đấu, que diêm",
    "example": "she (he) is a good match",
    "exampleMeaning": "Cái đám ấy tốt đấy",
    "emoji": "",
    "ipa": "/mæt͡ʃ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -154,46 +154,46 @@
    "ipa": "/bəʊn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "agree",
-   "meaning": "đồng ý, tán thành, bằng lòng",
+   "meaning": "đồng ý",
    "example": "this food does not agree with me",
    "exampleMeaning": "Thức ăn này không thích hợp với tôi",
    "emoji": "",
    "ipa": "/əˈɡriː/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "guess",
-   "meaning": "đoán, phỏng đoán, ước chừng",
+   "meaning": "đoán",
    "example": "can you guess my weight (how much I weigh, what my weight is)?",
    "exampleMeaning": "Anh có đoán được tôi cân nặng bao nhiêu không?",
    "emoji": "",
    "ipa": "/ɡɛs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "I",
-   "meaning": "Tôi, ta, tao",
+   "meaning": "tôi",
    "example": "you know it as well as I [do]",
    "exampleMeaning": "Anh cũng biết rõ điều đó như tôi",
    "emoji": "",
    "ipa": "/ˈaɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "/baɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "am",
-   "meaning": "là, thì",
+   "meaning": "là, thì, ở (dùng với I)",
    "example": "Who am I?",
    "exampleMeaning": "Tôi là ai?",
    "emoji": "",
    "ipa": "/ˈæm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "closed",
-   "meaning": "đóng",
+   "meaning": "đóng, đóng cửa",
    "example": "Tom angrily closed the door.",
    "exampleMeaning": "Tom đã đóng cửa một cách giận dữ.",
    "emoji": "",
    "ipa": "/ˈkloʊzd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "singer",
-   "meaning": "người hát, ca sĩ",
+   "meaning": "ca sĩ",
    "example": "The singer has a very nice voice.",
    "exampleMeaning": "Người ca sĩ có một giọng hát rất hay.",
    "emoji": "🧑‍🎤",
    "ipa": "/ˈsɪŋ.ə/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "room",
-   "meaning": "buồng, phòng",
+   "meaning": "phòng, căn phòng",
    "example": "to make (give) room for...",
    "exampleMeaning": "Nhường chỗ cho...",
    "emoji": "",
    "ipa": "/ˈrum/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

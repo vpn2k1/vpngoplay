@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "里头",
-   "meaning": "bên trong",
+   "meaning": "bên trong, phía trong",
    "example": "炉子里头的煤已经烧得很红了。",
    "exampleMeaning": "Than trong lò đã cháy rất đỏ rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐtou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "请客",
-   "meaning": "mời khách",
+   "meaning": "mời khách, khao, đãi",
    "example": "请客吃饭",
    "exampleMeaning": "Mời khách ăn cơm",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǐngkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "日报",
-   "meaning": "nhật báo",
+   "meaning": "nhật báo, báo ngày",
    "example": "我们来学“日报”这个词。",
-   "exampleMeaning": "Cùng học từ “日报”: nhật báo.",
+   "exampleMeaning": "Cùng học từ “日报”: nhật báo, báo ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rìbào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "行人",
-   "meaning": "người đi đường",
+   "meaning": "người đi đường, người đi bộ",
    "example": "我们来学“行人”这个词。",
-   "exampleMeaning": "Cùng học từ “行人”: người đi đường.",
+   "exampleMeaning": "Cùng học từ “行人”: người đi đường, người đi bộ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xíngrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "开学",
-   "meaning": "khai giảng",
+   "meaning": "khai giảng, khai trường",
    "example": "开学典礼。",
    "exampleMeaning": "Lễ khai giảng; lễ khai trường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kāixué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "走进",
-   "meaning": "bước vào",
+   "meaning": "bước vào, đi vào",
    "example": "我们走进教室。",
    "exampleMeaning": "Chúng tôi bước vào lớp học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǒujìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "xǐyījī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "词语",
-   "meaning": "từ",
+   "meaning": "từ ngữ",
    "example": "写文章要尽量避免方言词语。",
    "exampleMeaning": "Viết văn phải cố gắng tránh những từ địa phương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cíyǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "jùzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "kuàizi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "tǐyùchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "组长",
-   "meaning": "tổ trưởng",
+   "meaning": "tổ trưởng, nhóm trưởng",
    "example": "我们来学“组长”这个词。",
-   "exampleMeaning": "Cùng học từ “组长”: tổ trưởng.",
+   "exampleMeaning": "Cùng học từ “组长”: tổ trưởng, nhóm trưởng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǔzhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "作文",
-   "meaning": "viết văn",
+   "meaning": "bài văn, làm văn",
    "example": "作文比赛",
    "exampleMeaning": "Thi viết văn",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuòwén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,46 +180,46 @@
    "ipa": "",
    "pinyin": "dōngnán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "个子",
-   "meaning": "vóc dáng, vóc người, thân hình",
+   "meaning": "vóc dáng, chiều cao",
    "example": "他睡着的时候，一个高个子的男人钻空子偷走了他的手机。",
    "exampleMeaning": "Lúc anh ấy ngủ say, một người đàn ông dáng cao cao đã thừa cơ lấy trộm chiếc điện thoại của anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gèzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "难看",
-   "meaning": "khó coi",
+   "meaning": "khó coi, xấu",
    "example": "他的脸色很难看，像是刚生过病。",
    "exampleMeaning": "Sắc mặt của anh ấy thật khó coi, dường như là mới là qua một trận ốm",
    "emoji": "",
    "ipa": "",
    "pinyin": "nánkàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "有点儿",
-   "meaning": "mỏng mảnh, yếu ớt",
+   "meaning": "hơi, có chút",
    "example": "我们来学“有点儿”这个词。",
-   "exampleMeaning": "Cùng học từ “有点儿”: mỏng mảnh, yếu ớt.",
+   "exampleMeaning": "Cùng học từ “有点儿”: hơi, có chút.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒudiǎnr",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -232,33 +232,33 @@
    "ipa": "",
    "pinyin": "dìtiězhàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "快餐",
-   "meaning": "thức ăn nhanh",
+   "meaning": "đồ ăn nhanh",
    "example": "我们来学“快餐”这个词。",
-   "exampleMeaning": "Cùng học từ “快餐”: thức ăn nhanh.",
+   "exampleMeaning": "Cùng học từ “快餐”: đồ ăn nhanh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kuàicān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "站住",
-   "meaning": "dừng lại",
+   "meaning": "đứng lại, dừng lại",
    "example": "听到有人喊他，他连忙站住了。",
    "exampleMeaning": "Nghe có người kêu, anh ấy liền dừng lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhànzhù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

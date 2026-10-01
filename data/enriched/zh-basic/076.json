@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "效果",
-   "meaning": "kết quả, đáp số",
+   "meaning": "hiệu quả",
    "example": "我们来学“效果”这个词。",
-   "exampleMeaning": "Cùng học từ “效果”: kết quả, đáp số.",
+   "exampleMeaning": "Cùng học từ “效果”: hiệu quả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàoguǒ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "状况",
-   "meaning": "tình hình",
+   "meaning": "tình trạng, tình hình",
    "example": "经济状况",
    "exampleMeaning": "Tình hình kinh tế",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhuàngkuàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "架",
-   "meaning": "cãi",
+   "meaning": "giá, khung, chiếc (lượng từ)",
    "example": "拿枪架住砍过来的刀。",
    "exampleMeaning": "Lấy thương đỡ ngọn đao chém tới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jià",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "jīngjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "按照",
-   "meaning": "theo",
+   "meaning": "theo, dựa theo, căn cứ",
    "example": "按照预定的计划完成任务",
    "exampleMeaning": "Hoàn thành nhiệm vụ theo kế hoạch định sẵn",
    "emoji": "",
    "ipa": "",
    "pinyin": "ànzhào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "有效",
-   "meaning": "hữu hiệu, có kết quả, hiệu nghiệm",
+   "meaning": "có hiệu lực, hữu hiệu",
    "example": "消磨时间的最有效办法当然还是聊天吹牛侃大山。",
    "exampleMeaning": "Biện pháp hiệu quả nhất để giết thời gian nhất đương nhiên vẫn là chuyện trò, chém gió, buôn chuyện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuxiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "fǎnduì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,20 +102,20 @@
    "ipa": "",
    "pinyin": "zuòpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "室",
-   "meaning": "buồng, phòng",
+   "meaning": "phòng",
    "example": "他仍然还在教室里学习。",
    "exampleMeaning": "Anh ấy vẫn còn đang học bài ở lớp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "shídài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "wěidà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "哈哈",
-   "meaning": "cười hô hố",
+   "meaning": "ha ha (tiếng cười)",
    "example": "主人听到那句话，不由得哈哈大笑起来。",
    "exampleMeaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hāhā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "准",
-   "meaning": "nhất định",
+   "meaning": "chính xác, chuẩn, cho phép",
    "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
    "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǔn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -180,85 +180,85 @@
    "ipa": "",
    "pinyin": "shū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "充满",
-   "meaning": "chan chứa",
+   "meaning": "tràn đầy, đầy ắp",
    "example": "欢呼声充满了会场。",
    "exampleMeaning": "Tiếng hoan hô vang dậy phòng họp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chōngmǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "皮",
-   "meaning": "da, bì",
+   "meaning": "da, vỏ",
    "example": "花生放皮了，吃起来不香了。",
    "exampleMeaning": "Đậu phộng để ỉu, ăn không còn thơm nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "要是",
-   "meaning": "nếu",
+   "meaning": "nếu, nếu như",
    "example": "你要是再给我们公司出洋相，我可就不客气了。",
    "exampleMeaning": "Nếu cậu lại làm mất mặt công ty chúng ta, tôi không khách khí nữa đâu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yàoshi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "系",
-   "meaning": "là",
+   "meaning": "khoa, hệ, buộc",
    "example": "今年我系的学生人数是去年的三倍。",
    "exampleMeaning": "Số học sinh khoa chúng tôi năm nay nhiều gấp 3 năm ngoái.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "增加",
-   "meaning": "tăng thêm, tăng lên, gia tăng",
+   "meaning": "tăng, tăng thêm, gia tăng",
    "example": "学生人数一年比一年增加。",
    "exampleMeaning": "Số học sinh mỗi năm một tăng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zēngjiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "直",
-   "meaning": "thẳng",
+   "meaning": "thẳng, thẳng thắn",
    "example": "我最近一直睡眠不足。",
    "exampleMeaning": "Dạo này tôi hay bị mất ngủ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

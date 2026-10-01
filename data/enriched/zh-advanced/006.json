@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "魔术",
-   "meaning": "ma thuật",
+   "meaning": "ảo thuật",
    "example": "我们来学“魔术”这个词。",
-   "exampleMeaning": "Cùng học từ “魔术”: ma thuật.",
+   "exampleMeaning": "Cùng học từ “魔术”: ảo thuật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "móshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "争吵",
-   "meaning": "tranh cãi",
+   "meaning": "cãi nhau, tranh cãi",
    "example": "你别再跟他争吵了。",
    "exampleMeaning": "Anh đừng cãi nhau với nó nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhēngchǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "与众不同",
-   "meaning": "khác người",
+   "meaning": "khác người, khác biệt",
    "example": "我们来学“与众不同”这个词。",
-   "exampleMeaning": "Cùng học từ “与众不同”: khác người.",
+   "exampleMeaning": "Cùng học từ “与众不同”: khác người, khác biệt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǔzhòngbùtóng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "dìtǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -63,111 +63,111 @@
    "ipa": "",
    "pinyin": "shēnyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "透过",
-   "meaning": "qua, đi qua",
+   "meaning": "xuyên qua, thông qua",
    "example": "我们来学“透过”这个词。",
-   "exampleMeaning": "Cùng học từ “透过”: qua, đi qua.",
+   "exampleMeaning": "Cùng học từ “透过”: xuyên qua, thông qua.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tòuguò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "甜美",
-   "meaning": "thoải mái",
+   "meaning": "ngọt ngào",
    "example": "这种苹果多汁而甜美。",
    "exampleMeaning": "Loại táo này nhiều nước nhưng ngọt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiánměi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "雇",
-   "meaning": "mướn, thuê (nhân công)",
+   "meaning": "thuê, mướn",
    "example": "他被工厂的老板解雇。",
    "exampleMeaning": "Anh ấy đã bị ông chủ công xưởng sa thải.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "受害人",
-   "meaning": "nạn nhân",
+   "meaning": "nạn nhân, người bị hại",
    "example": "我们来学“受害人”这个词。",
-   "exampleMeaning": "Cùng học từ “受害人”: nạn nhân.",
+   "exampleMeaning": "Cùng học từ “受害人”: nạn nhân, người bị hại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shòuhàirén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发育",
-   "meaning": "dậy thì",
+   "meaning": "phát triển (cơ thể), dậy thì",
    "example": "我们来学“发育”这个词。",
-   "exampleMeaning": "Cùng học từ “发育”: dậy thì.",
+   "exampleMeaning": "Cùng học từ “发育”: phát triển (cơ thể), dậy thì.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fāyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "乐园",
-   "meaning": "chỗ vui chơi",
+   "meaning": "thiên đường, khu vui chơi",
    "example": "儿童乐园。",
    "exampleMeaning": "Chỗ vui chơi của nhi đồng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lèyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "吓人",
-   "meaning": "làm sợ hãi",
+   "meaning": "đáng sợ, dọa người",
    "example": "我们来学“吓人”这个词。",
-   "exampleMeaning": "Cùng học từ “吓人”: làm sợ hãi.",
+   "exampleMeaning": "Cùng học từ “吓人”: đáng sợ, dọa người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "光芒",
-   "meaning": "ánh sáng",
+   "meaning": "hào quang, tia sáng",
    "example": "路灯发出微弱的光芒。",
    "exampleMeaning": "Ngọn đèn đường phát ra ánh sáng yếu ớt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guāngmáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "hǎitān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "额外",
-   "meaning": "ngoài mức quy định",
+   "meaning": "thêm, phụ thêm, ngoài định mức",
    "example": "额外开支。",
    "exampleMeaning": "Chi tiêu ngoài mức quy định.",
    "emoji": "",
    "ipa": "",
    "pinyin": "éwài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "jīngquè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "面部",
-   "meaning": "khuôn mặt (phần cơ thể)",
+   "meaning": "khuôn mặt, mặt",
    "example": "我们来学“面部”这个词。",
-   "exampleMeaning": "Cùng học từ “面部”: khuôn mặt (phần cơ thể).",
+   "exampleMeaning": "Cùng học từ “面部”: khuôn mặt, mặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "miànbù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "压抑",
-   "meaning": "kiềm chế",
+   "meaning": "kìm nén, đè nén, ngột ngạt",
    "example": "压抑激动的感情。",
    "exampleMeaning": "Kiềm chế xúc động mạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yāyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "丢失",
-   "meaning": "mất hút, không thấy nữa, thất lạc",
+   "meaning": "đánh mất, thất lạc",
    "example": "丢失了他的手套.",
    "exampleMeaning": "Thất lạc bao tay của anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diūshī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "伪造",
-   "meaning": "giả",
+   "meaning": "làm giả, giả mạo",
    "example": "伪造证件",
    "exampleMeaning": "Giấy tờ giả",
    "emoji": "",
    "ipa": "",
    "pinyin": "wěizào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

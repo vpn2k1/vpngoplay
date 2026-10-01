@@ -1,0 +1,333 @@
+{
+ "lesson": 1,
+ "draft": true,
+ "words": [
+  {
+   "term": "digital",
+   "meaning": "kỹ thuật số, số hóa",
+   "example": "Don’t touch my digital camera or I’ll hit you.",
+   "exampleMeaning": "Đừng đụng vào máy ảnh kỹ thuật số của tôi hoặc tôi sẽ đánh bạn đấy.",
+   "emoji": "",
+   "ipa": "/ˈdɪdʒətəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "blogger",
+   "meaning": "người viết blog",
+   "example": "Let's learn the word \"blogger\".",
+   "exampleMeaning": "Cùng học từ “blogger”: người viết blog.",
+   "emoji": "",
+   "ipa": "/ˈblɔɡɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "classify",
+   "meaning": "phân loại",
+   "example": "Let's learn the word \"classify\".",
+   "exampleMeaning": "Cùng học từ “classify”: phân loại.",
+   "emoji": "",
+   "ipa": "/ˈklæsəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "courageous",
+   "meaning": "can đảm, dũng cảm",
+   "example": "Are you courageous?",
+   "exampleMeaning": "Bạn có can đảm không?",
+   "emoji": "",
+   "ipa": "/kɜrˈeɪdʒəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "participant",
+   "meaning": "người tham gia",
+   "example": "Let's learn the word \"participant\".",
+   "exampleMeaning": "Cùng học từ “participant”: người tham gia.",
+   "emoji": "",
+   "ipa": "/pɑrˈtɪsəpənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "promote",
+   "meaning": "thúc đẩy, quảng bá, thăng chức",
+   "example": "to promote a new plan",
+   "exampleMeaning": "Đề xướng một kế hoạch mới",
+   "emoji": "",
+   "ipa": "/prəˈmoʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "switch",
+   "meaning": "công tắc, sự thay đổi",
+   "example": "to switch somebody on to another",
+   "exampleMeaning": "Cắm cho ai nói dây nói với một người khác",
+   "emoji": "",
+   "ipa": "/swɪt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "excitedly",
+   "meaning": "hào hứng, phấn khích",
+   "example": "Everyone is working excitedly, you must not ruin that energy.",
+   "exampleMeaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó.",
+   "emoji": "",
+   "ipa": "/ɪkˈsaɪtədli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "outlaw",
+   "meaning": "kẻ ngoài vòng pháp luật",
+   "example": "Let's learn the word \"outlaw\".",
+   "exampleMeaning": "Cùng học từ “outlaw”: kẻ ngoài vòng pháp luật.",
+   "emoji": "",
+   "ipa": "/ˈaʊtˌlɔ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "alike",
+   "meaning": "giống nhau",
+   "example": "to be dressed alike",
+   "exampleMeaning": "Ăn mặc giống nhau",
+   "emoji": "",
+   "ipa": "/əˈlaɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "anti",
+   "meaning": "phản đối, chống lại",
+   "example": "Let's learn the word \"anti\".",
+   "exampleMeaning": "Cùng học từ “anti”: phản đối, chống lại.",
+   "emoji": "",
+   "ipa": "/ˈænˌtaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "density",
+   "meaning": "mật độ, tỷ trọng",
+   "example": "Let's learn the word \"density\".",
+   "exampleMeaning": "Cùng học từ “density”: mật độ, tỷ trọng.",
+   "emoji": "",
+   "ipa": "/ˈdɛnsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "queue",
+   "meaning": "hàng người, hàng chờ",
+   "example": "The queue is growing.",
+   "exampleMeaning": "Hàng đợi đang tăng lên.",
+   "emoji": "",
+   "ipa": "/ˈkju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "environmental",
+   "meaning": "(thuộc) môi trường",
+   "example": "Environmental pollution triggered climatic changes all over Earth.",
+   "exampleMeaning": "Ô nhiễm môi trường đã gây ra thay đổi khí hậu khắp Trái đất.",
+   "emoji": "",
+   "ipa": "/ɪnˌvaɪrənˈmɛnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "obtain",
+   "meaning": "có được, đạt được, giành được",
+   "example": "to obtain a prize",
+   "exampleMeaning": "Giành được phần thưởng",
+   "emoji": "",
+   "ipa": "/əbˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "washbowl",
+   "meaning": "chậu rửa mặt",
+   "example": "Let's learn the word \"washbowl\".",
+   "exampleMeaning": "Cùng học từ “washbowl”: chậu rửa mặt.",
+   "emoji": "",
+   "ipa": "/ˈwɑʃˌboʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "babysitter",
+   "meaning": "người trông trẻ",
+   "example": "The babysitter told us she couldn't come because she was sick.",
+   "exampleMeaning": "Cô trông trẻ bảo chúng tôi rằng cô bị ốm nên không đến được.",
+   "emoji": "",
+   "ipa": "/ˈbeɪbiˌsɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "runway",
+   "meaning": "đường băng, sàn diễn",
+   "example": "Let's learn the word \"runway\".",
+   "exampleMeaning": "Cùng học từ “runway”: đường băng, sàn diễn.",
+   "emoji": "",
+   "ipa": "/ˈrənˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exact",
+   "meaning": "chính xác, đúng",
+   "example": "I need the exact address so that I may go there.",
+   "exampleMeaning": "Tôi cần một địa chỉ chính xác để có thể tới đó.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "meanwhile",
+   "meaning": "trong khi đó, trong lúc ấy",
+   "example": "Let's learn the word \"meanwhile\".",
+   "exampleMeaning": "Cùng học từ “meanwhile”: trong khi đó, trong lúc ấy.",
+   "emoji": "",
+   "ipa": "/ˈminˌwaɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "courageous"
+   ],
+   "reading": "",
+   "meaning": "Bạn có can đảm không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "queue",
+    "is",
+    "growing"
+   ],
+   "reading": "",
+   "meaning": "Hàng đợi đang tăng lên."
+  },
+  {
+   "tokens": [
+    "To",
+    "pick",
+    "a",
+    "fight",
+    "with",
+    "her",
+    "that's",
+    "courageous"
+   ],
+   "reading": "",
+   "meaning": "Gây sự với cô ấy, dũng cảm đấy."
+  },
+  {
+   "tokens": [
+    "The",
+    "queue",
+    "is",
+    "too",
+    "long",
+    "at",
+    "the",
+    "ticket",
+    "office"
+   ],
+   "reading": "",
+   "meaning": "Hàng chờ trước phòng vé quá dài."
+  },
+  {
+   "tokens": [
+    "Everyone",
+    "is",
+    "working",
+    "excitedly",
+    "you",
+    "must",
+    "not",
+    "ruin",
+    "that",
+    "energy"
+   ],
+   "reading": "",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  }
+ ],
+ "issues": []
+}

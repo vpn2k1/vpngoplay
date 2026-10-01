@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "燃烧",
-   "meaning": "cháy",
+   "meaning": "cháy, đốt cháy, bùng cháy",
    "example": "烈火熊熊燃烧。",
    "exampleMeaning": "Lửa cháy đùng đùng",
    "emoji": "",
    "ipa": "",
    "pinyin": "ránshāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "极其",
-   "meaning": "vô cùng",
+   "meaning": "vô cùng, cực kỳ",
    "example": "变量的声明在C和C++中极其重要。",
    "exampleMeaning": "Khai báo biến trong C/C++ vô cùng quan trọng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jíqí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "rìjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "高潮",
-   "meaning": "triều cường",
+   "meaning": "cao trào, đỉnh điểm",
    "example": "我们来学“高潮”这个词。",
-   "exampleMeaning": "Cùng học từ “高潮”: triều cường.",
+   "exampleMeaning": "Cùng học từ “高潮”: cao trào, đỉnh điểm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gāocháo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "同情",
-   "meaning": "thông cảm",
+   "meaning": "thông cảm, đồng cảm, thương cảm",
    "example": "我们同情并支持该国人民的正义斗争。",
    "exampleMeaning": "Chúng tôi đồng tình và ủng hộ cuộc đấu tranh chính nghĩa của nhân dân nước này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóngqíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,137 +76,137 @@
    "ipa": "",
    "pinyin": "pòchǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "说不定",
-   "meaning": "không thể nói chắc chắn / có thể",
+   "meaning": "không chừng, có khi",
    "example": "我们来学“说不定”这个词。",
-   "exampleMeaning": "Cùng học từ “说不定”: không thể nói chắc chắn / có thể.",
+   "exampleMeaning": "Cùng học từ “说不定”: không chừng, có khi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuōbudìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "挑选",
-   "meaning": "chọn",
+   "meaning": "chọn lựa, kén chọn",
    "example": "小分队的成员都经过严格挑选的。",
    "exampleMeaning": "Những thành viên trong tiểu đội đã được chọn kỹ càng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiāoxuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "逛",
-   "meaning": "dạo chơi",
+   "meaning": "đi dạo, dạo phố",
    "example": "东游西逛",
    "exampleMeaning": "Dạo chơi khắp nơi",
    "emoji": "",
    "ipa": "",
    "pinyin": "guàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "单纯",
-   "meaning": "đơn, đơn giản",
+   "meaning": "đơn thuần, ngây thơ",
    "example": "单纯追求数量。",
    "exampleMeaning": "Chỉ chạy theo số lượng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dānchún",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "季节",
-   "meaning": "thời, thời buổi, mùa",
+   "meaning": "mùa, mùa vụ",
    "example": "严寒的季节。",
    "exampleMeaning": "Thời kỳ rét nhất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "布置",
-   "meaning": "trang trí",
+   "meaning": "bố trí, sắp đặt, trang trí",
    "example": "布置一个房间",
    "exampleMeaning": "Trang trí nội thất một căn phòng",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "灯光",
-   "meaning": "ánh sáng",
+   "meaning": "ánh đèn",
    "example": "灯光太暗了，我没法阅读。",
    "exampleMeaning": "Đèn tối quá, tôi không thể đọc sách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dēngguāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "色彩",
-   "meaning": "sắc thái",
+   "meaning": "màu sắc, sắc thái",
    "example": "色彩鲜明。",
    "exampleMeaning": "Màu sắc tươi sáng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sècǎi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "健身",
-   "meaning": "tập thể dục",
+   "meaning": "tập thể hình, tập gym",
    "example": "我们来学“健身”这个词。",
-   "exampleMeaning": "Cùng học từ “健身”: tập thể dục.",
+   "exampleMeaning": "Cùng học từ “健身”: tập thể hình, tập gym.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiànshēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "事先",
-   "meaning": "trước",
+   "meaning": "trước, từ trước",
    "example": "事先打个招呼，别叫我临时抓瞎。",
    "exampleMeaning": "Cứ chào hỏi một câu trước đã, không đến lúc lại vội vội vàng vàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shìxiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,7 +219,7 @@
    "ipa": "",
    "pinyin": "shīyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -232,20 +232,20 @@
    "ipa": "",
    "pinyin": "guīlǜ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "待遇",
-   "meaning": "đãi ngộ (quyền lợi, địa vị xã hội)",
+   "meaning": "đãi ngộ, chế độ",
    "example": "周到的待遇",
    "exampleMeaning": "Đối đãi chu đáo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàiyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "bǐfēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

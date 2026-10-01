@@ -11,72 +11,72 @@
    "ipa": "",
    "pinyin": "tiānqì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "最好",
-   "meaning": "hay nhất",
+   "meaning": "tốt nhất, tốt hơn hết",
    "example": "這是我聽過最好笑的笑話。",
    "exampleMeaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuìhǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "南",
-   "meaning": "hướng nam, phương nam, phía nam",
+   "meaning": "nam, phía nam",
    "example": "河内是越南的首都。",
    "exampleMeaning": "Hà Nội là thủ đô của nước Việt Nam.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "考试",
-   "meaning": "thi",
+   "meaning": "thi, kỳ thi",
    "example": "考试前，你根本没复习，能考好吗？ – 可也是。",
    "exampleMeaning": "Trước kỳ thi cậu căn bản chẳng ôn tập gì, có thi tốt nổi không? – Cũng đúng",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǎoshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "有时候",
-   "meaning": "có đôi lúc, thỉnh thoảng, có khi",
+   "meaning": "thỉnh thoảng, có khi",
    "example": "我们来学“有时候”这个词。",
-   "exampleMeaning": "Cùng học từ “有时候”: có đôi lúc, thỉnh thoảng, có khi.",
+   "exampleMeaning": "Cùng học từ “有时候”: thỉnh thoảng, có khi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒushíhou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "慢",
-   "meaning": "chậm, chậm chạp",
+   "meaning": "chậm",
    "example": "你走慢一点儿，等着他。",
    "exampleMeaning": "Anh đi chậm một chút, chờ anh ấy với.",
    "emoji": "",
    "ipa": "",
    "pinyin": "màn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "pángbiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,111 +102,111 @@
    "ipa": "",
    "pinyin": "tóngxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "北",
-   "meaning": "bắc",
+   "meaning": "bắc, phía bắc",
    "example": "飞往北京的飞机就要起飞了。",
    "exampleMeaning": "Máy bay đến Bắc Kinh sắp cất cánh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "běi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "帮忙",
-   "meaning": "giúp",
+   "meaning": "giúp đỡ, giúp",
    "example": "这个人只顾自己，不顾别人，你要他帮忙，准得碰钉子。",
    "exampleMeaning": "Cái người này chỉ quan tâm đến bản thân, không để ý đến người khác, cậu muốn anh ta giúp á, chắc chắn bị cự tuyệt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bāngmáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "进来",
-   "meaning": "vào",
+   "meaning": "vào đây, đi vào",
    "example": "别让狗进来。",
    "exampleMeaning": "Không được cho chó vào bên trong.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìnlái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "见面",
-   "meaning": "gặp",
+   "meaning": "gặp mặt, gặp nhau",
    "example": "每次见面都打招呼。",
    "exampleMeaning": "Mỗi lần gặp mặt đều chào hỏi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiànmiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "好看",
-   "meaning": "làm khổ",
+   "meaning": "đẹp, hay",
    "example": "这花布做裙子穿一定很好看。",
    "exampleMeaning": "Vải hoa này mà may váy mặc rất đẹp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎokàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "中间",
-   "meaning": "giữa",
+   "meaning": "giữa, ở giữa",
    "example": "那些树中间有半数是李树。",
    "exampleMeaning": "Trong số những cây kia có phân nửa là cây mận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōngjiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "女生",
-   "meaning": "nữ sinh",
+   "meaning": "nữ sinh, con gái",
    "example": "湯姆喜歡黃頭髮的女生。",
    "exampleMeaning": "Tom thích những cô gái tóc vàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǚshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "茶",
-   "meaning": "chè, trà",
+   "meaning": "trà, chè",
    "example": "杏仁茶 。",
    "exampleMeaning": "Trà hạnh nhân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chá",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -219,7 +219,7 @@
    "ipa": "",
    "pinyin": "dìdiǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -232,20 +232,20 @@
    "ipa": "",
    "pinyin": "yù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "星期",
-   "meaning": "chủ nhật (gọi tắt)",
+   "meaning": "tuần, thứ",
    "example": "他已經住在這裡一個星期了。",
    "exampleMeaning": "Anh ấy đã ở đây được một tuần rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīngqī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "chēshàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

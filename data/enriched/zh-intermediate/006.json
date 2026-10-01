@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "外汇",
-   "meaning": "ngoại hối",
+   "meaning": "ngoại tệ, ngoại hối",
    "example": "我们来学“外汇”这个词。",
-   "exampleMeaning": "Cùng học từ “外汇”: ngoại hối.",
+   "exampleMeaning": "Cùng học từ “外汇”: ngoại tệ, ngoại hối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wàihuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,46 +24,46 @@
    "ipa": "",
    "pinyin": "lúnzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "汽水",
-   "meaning": "nước có ga",
+   "meaning": "nước ngọt có ga",
    "example": "我们来学“汽水”这个词。",
-   "exampleMeaning": "Cùng học từ “汽水”: nước có ga.",
+   "exampleMeaning": "Cùng học từ “汽水”: nước ngọt có ga.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qìshuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "学分",
-   "meaning": "học phần",
+   "meaning": "tín chỉ",
    "example": "我们来学“学分”这个词。",
-   "exampleMeaning": "Cùng học từ “学分”: học phần.",
+   "exampleMeaning": "Cùng học từ “学分”: tín chỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xuéfēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "能干",
-   "meaning": "tài giỏi",
+   "meaning": "giỏi giang, có năng lực",
    "example": "这小伙子既能干又积极，真是没说的。",
    "exampleMeaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nénggàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "fēngsú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "摆动",
-   "meaning": "đong đưa",
+   "meaning": "đung đưa, lắc lư",
    "example": "树枝儿迎风摆动",
    "exampleMeaning": "Cành cây đong đưa trong gió",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎidòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,163 +102,163 @@
    "ipa": "",
    "pinyin": "kāishuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "充电器",
-   "meaning": "máy sạc",
+   "meaning": "bộ sạc, cục sạc",
    "example": "我们来学“充电器”这个词。",
-   "exampleMeaning": "Cùng học từ “充电器”: máy sạc.",
+   "exampleMeaning": "Cùng học từ “充电器”: bộ sạc, cục sạc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chōngdiànqì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "红包",
-   "meaning": "tiền lì xì",
+   "meaning": "lì xì, phong bao đỏ",
    "example": "我们来学“红包”这个词。",
-   "exampleMeaning": "Cùng học từ “红包”: tiền lì xì.",
+   "exampleMeaning": "Cùng học từ “红包”: lì xì, phong bao đỏ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hóngbāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "倒车",
-   "meaning": "de xe",
+   "meaning": "lùi xe, đổi xe",
    "example": "我们来学“倒车”这个词。",
-   "exampleMeaning": "Cùng học từ “倒车”: de xe.",
+   "exampleMeaning": "Cùng học từ “倒车”: lùi xe, đổi xe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàochē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "后头",
-   "meaning": "sau",
+   "meaning": "phía sau, đằng sau",
    "example": "楼后头有一片果树林。",
    "exampleMeaning": "Sau toà nhà có một vườn cây ăn quả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hòutou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "片面",
-   "meaning": "phiến diện",
+   "meaning": "phiến diện, một chiều",
    "example": "片面地看问题。",
    "exampleMeaning": "Nhìn vấn đề một cách phiến diện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "piànmiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "本科",
-   "meaning": "khoa chính quy",
+   "meaning": "đại học chính quy, hệ cử nhân",
    "example": "我们来学“本科”这个词。",
-   "exampleMeaning": "Cùng học từ “本科”: khoa chính quy.",
+   "exampleMeaning": "Cùng học từ “本科”: đại học chính quy, hệ cử nhân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "běnkē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "轮船",
-   "meaning": "ca-nô",
+   "meaning": "tàu thuỷ",
    "example": "我们来学“轮船”这个词。",
-   "exampleMeaning": "Cùng học từ “轮船”: ca-nô.",
+   "exampleMeaning": "Cùng học từ “轮船”: tàu thuỷ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lúnchuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "宽广",
-   "meaning": "rộng",
+   "meaning": "rộng lớn, bao la",
    "example": "道路越走越宽广。",
    "exampleMeaning": "Con đường càng đi càng rộng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kuānguǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "前头",
-   "meaning": "trước mặt",
+   "meaning": "phía trước, đằng trước",
    "example": "我们来学“前头”这个词。",
-   "exampleMeaning": "Cùng học từ “前头”: trước mặt.",
+   "exampleMeaning": "Cùng học từ “前头”: phía trước, đằng trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiántou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "汇率",
-   "meaning": "tỉ suất hối đoái",
+   "meaning": "tỷ giá hối đoái",
    "example": "我们来学“汇率”这个词。",
-   "exampleMeaning": "Cùng học từ “汇率”: tỉ suất hối đoái.",
+   "exampleMeaning": "Cùng học từ “汇率”: tỷ giá hối đoái.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huìlǜ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "急忙",
-   "meaning": "vội vàng",
+   "meaning": "vội vàng, vội vã",
    "example": "他还没有把情况了解清楚就急忙发表意见。",
    "exampleMeaning": "Anh ta chưa biết rõ tình hình đã phát biểu ý kiến ngay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jímáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "期中",
-   "meaning": "tạm thời",
+   "meaning": "giữa kỳ",
    "example": "我们来学“期中”这个词。",
-   "exampleMeaning": "Cùng học từ “期中”: tạm thời.",
+   "exampleMeaning": "Cùng học từ “期中”: giữa kỳ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qīzhōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

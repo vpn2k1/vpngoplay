@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "玫瑰",
-   "meaning": "cây hoa hồng",
+   "meaning": "hoa hồng",
    "example": "我们来学“玫瑰”这个词。",
-   "exampleMeaning": "Cùng học từ “玫瑰”: cây hoa hồng.",
+   "exampleMeaning": "Cùng học từ “玫瑰”: hoa hồng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "méiguī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "头部",
-   "meaning": "phần đầu, người, đầu người",
+   "meaning": "phần đầu, đầu",
    "example": "我们来学“头部”这个词。",
-   "exampleMeaning": "Cùng học từ “头部”: phần đầu, người, đầu người.",
+   "exampleMeaning": "Cùng học từ “头部”: phần đầu, đầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóubù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "挥",
-   "meaning": "múa",
+   "meaning": "vẫy, vung",
    "example": "大笔一挥",
    "exampleMeaning": "Múa bút",
    "emoji": "",
    "ipa": "",
    "pinyin": "huī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "回归",
-   "meaning": "trở về",
+   "meaning": "trở về, quay về",
    "example": "这个研究单位独立几年后，又回归科学院了。",
    "exampleMeaning": "Đőn vị nghiên cứu này sau khi độc lập vài năm, lại quay về với Viện Khoa Học rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huíguī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "亦",
-   "meaning": "cũng, cũng vầy, cũng thế",
+   "meaning": "cũng (văn viết)",
    "example": "反之亦 然",
    "exampleMeaning": "Ngược lại cũng vậy",
    "emoji": "",
    "ipa": "",
    "pinyin": "yì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,98 +76,98 @@
    "ipa": "",
    "pinyin": "bǎngjià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "宗",
-   "meaning": "khoản",
+   "meaning": "tông phái, vụ (lượng từ)",
    "example": "他的唱工宗的是梅派。",
    "exampleMeaning": "Nghệ thuật hát kịch của anh ấy học theo phái Mai.",
    "emoji": "🏫",
    "ipa": "",
    "pinyin": "zōng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "诱惑",
-   "meaning": "hấp dẫn",
+   "meaning": "cám dỗ, quyến rũ",
    "example": "窗外是一片诱惑人的景色。",
    "exampleMeaning": "Cảnh sắc ngoài cửa sổ rất hấp dẫn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yòuhuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "实话",
-   "meaning": "sự thật, lẽ phải, chân lý",
+   "meaning": "lời nói thật",
    "example": "你相信他在说实话吗？",
    "exampleMeaning": "Bạn có tin ông ta đang nói sự thật không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "shíhuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "烦恼",
-   "meaning": "buồn phiền",
+   "meaning": "phiền não, buồn phiền",
    "example": "不必为区区小事而烦恼。",
    "exampleMeaning": "Không thể buồn phiền vì việc nhỏ nhặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fánnǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "情人",
-   "meaning": "tình nhân",
+   "meaning": "người yêu, tình nhân",
    "example": "我们来学“情人”这个词。",
-   "exampleMeaning": "Cùng học từ “情人”: tình nhân.",
+   "exampleMeaning": "Cùng học từ “情人”: người yêu, tình nhân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíngrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "趁",
-   "meaning": "sẵn",
+   "meaning": "nhân lúc, thừa dịp",
    "example": "趁几头牲口。",
    "exampleMeaning": "Sẵn có mấy con gia súc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chèn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "嫉妒",
-   "meaning": "đố kị",
+   "meaning": "ghen tị, đố kỵ",
    "example": "相互嫉妒",
    "exampleMeaning": "Đố kị lẫn nhau",
    "emoji": "",
    "ipa": "",
    "pinyin": "jídù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "cáizhèng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "迹象",
-   "meaning": "dấu vết",
+   "meaning": "dấu hiệu",
    "example": "我们来学“迹象”这个词。",
-   "exampleMeaning": "Cùng học từ “迹象”: dấu vết.",
+   "exampleMeaning": "Cùng học từ “迹象”: dấu hiệu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìxiàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "zhìxù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "贱",
-   "meaning": "đê tiện",
+   "meaning": "rẻ, hèn hạ",
    "example": "(您)贵姓？贱姓王。",
    "exampleMeaning": "Ngài họ gì ạ? Kẻ hèn này họ Vương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "兼",
-   "meaning": "và",
+   "meaning": "kiêm, đồng thời",
    "example": "他是党委副书记兼副厂长。",
    "exampleMeaning": "Anh ấy là phó bí thư đảng uỷ kiêm luôn chức phó quản đốc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "何时",
-   "meaning": "khi nào",
+   "meaning": "khi nào, bao giờ",
    "example": "天下何时太平？",
    "exampleMeaning": "Không biết khi nào thiên hạ mới được thái bình?",
    "emoji": "",
    "ipa": "",
    "pinyin": "héshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "签署",
-   "meaning": "ký tên",
+   "meaning": "ký kết, ký",
    "example": "我们来学“签署”这个词。",
-   "exampleMeaning": "Cùng học từ “签署”: ký tên.",
+   "exampleMeaning": "Cùng học từ “签署”: ký kết, ký.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiānshǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

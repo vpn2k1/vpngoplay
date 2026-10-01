@@ -1,0 +1,321 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "sphere",
+   "meaning": "hình cầu, lĩnh vực",
+   "example": "that does not come withing my sphere",
+   "exampleMeaning": "Việc ấy không thuộc phạm vi quyền lực của tôi",
+   "emoji": "",
+   "ipa": "/ˈsfɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "daze",
+   "meaning": "sự choáng váng, sự bàng hoàng",
+   "example": "Let's learn the word \"daze\".",
+   "exampleMeaning": "Cùng học từ “daze”: sự choáng váng, sự bàng hoàng.",
+   "emoji": "",
+   "ipa": "/ˈdeɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "extent",
+   "meaning": "mức độ, phạm vi",
+   "example": "to the extent of one's power",
+   "exampleMeaning": "Trong phạm vi quyền lực",
+   "emoji": "",
+   "ipa": "/ɪkˈstɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consequently",
+   "meaning": "do đó, vì vậy",
+   "example": "Let's learn the word \"consequently\".",
+   "exampleMeaning": "Cùng học từ “consequently”: do đó, vì vậy.",
+   "emoji": "",
+   "ipa": "/ˈkɑnsəˌkwɛntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "academic",
+   "meaning": "học thuật, (thuộc) học tập",
+   "example": "an academic debate",
+   "exampleMeaning": "Một cuộc tranh luận có tính chất học thuật",
+   "emoji": "",
+   "ipa": "/ˌækəˈdɛmɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "professor",
+   "meaning": "giáo sư",
+   "example": "I don't care about the Professor title.",
+   "exampleMeaning": "Tôi không quan tâm đến danh hiệu Giáo sư.",
+   "emoji": "",
+   "ipa": "/prəˈfɛsə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "urge",
+   "meaning": "sự thôi thúc, ham muốn",
+   "example": "to urge someone to do something",
+   "exampleMeaning": "Thúc giục ai làm điều gì",
+   "emoji": "",
+   "ipa": "/ˈɜrdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fantasy",
+   "meaning": "ảo tưởng, mơ mộng, giả tưởng",
+   "example": "Let's learn the word \"fantasy\".",
+   "exampleMeaning": "Cùng học từ “fantasy”: ảo tưởng, mơ mộng, giả tưởng.",
+   "emoji": "",
+   "ipa": "/ˈfænəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "takeaway",
+   "meaning": "đồ ăn mang đi",
+   "example": "Let's learn the word \"takeaway\".",
+   "exampleMeaning": "Cùng học từ “takeaway”: đồ ăn mang đi.",
+   "emoji": "",
+   "ipa": "/ˈteɪkəˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "distant",
+   "meaning": "xa, xa xôi, xa cách",
+   "example": "to have a distant relation with someone",
+   "exampleMeaning": "Có họ xa với ai",
+   "emoji": "",
+   "ipa": "/ˈdɪstənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dot",
+   "meaning": "dấu chấm, chấm",
+   "example": "to dot someone one in the eye",
+   "exampleMeaning": "Đánh cho ai một cái vào mắt",
+   "emoji": "",
+   "ipa": "/dɒt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "frequency",
+   "meaning": "tần suất, tần số",
+   "example": "the frequency of earthquakes in Japan",
+   "exampleMeaning": "Sự thường hay có động đất ở Nhật-bản",
+   "emoji": "",
+   "ipa": "/ˈfrikwənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pale",
+   "meaning": "nhợt nhạt, xanh xao, nhạt",
+   "example": "to be pale with fear",
+   "exampleMeaning": "Sợ xanh mặt",
+   "emoji": "",
+   "ipa": "/ˈpeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mountaintop",
+   "meaning": "đỉnh núi",
+   "example": "Let's learn the word \"mountaintop\".",
+   "exampleMeaning": "Cùng học từ “mountaintop”: đỉnh núi.",
+   "emoji": "",
+   "ipa": "/ˈmaʊntənˌtɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "primarily",
+   "meaning": "chủ yếu, trước hết",
+   "example": "Let's learn the word \"primarily\".",
+   "exampleMeaning": "Cùng học từ “primarily”: chủ yếu, trước hết.",
+   "emoji": "",
+   "ipa": "/praɪˈmɛrəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "backpacker",
+   "meaning": "khách du lịch ba lô",
+   "example": "Let's learn the word \"backpacker\".",
+   "exampleMeaning": "Cùng học từ “backpacker”: khách du lịch ba lô.",
+   "emoji": "",
+   "ipa": "/ˈbækˌpækɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intermission",
+   "meaning": "giờ giải lao, lúc tạm nghỉ",
+   "example": "Let's learn the word \"intermission\".",
+   "exampleMeaning": "Cùng học từ “intermission”: giờ giải lao, lúc tạm nghỉ.",
+   "emoji": "",
+   "ipa": "/ˌɪntɜrˈmɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bureau",
+   "meaning": "cục, văn phòng, bàn giấy",
+   "example": "The meteorological bureau has issued a red rainstorm alert.",
+   "exampleMeaning": "Cục khí tượng đã ban bố cảnh báo mưa bão đỏ.",
+   "emoji": "",
+   "ipa": "/ˈbjʊroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "potential",
+   "meaning": "tiềm năng, tiềm lực",
+   "example": "Let's learn the word \"potential\".",
+   "exampleMeaning": "Cùng học từ “potential”: tiềm năng, tiềm lực.",
+   "emoji": "",
+   "ipa": "/pəˈtɛnʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "foundation",
+   "meaning": "nền móng, nền tảng, quỹ",
+   "example": "Algebra is a foundation of machine learning.",
+   "exampleMeaning": "Đại số là nền tảng của học máy.",
+   "emoji": "",
+   "ipa": "/faʊnˈdeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "look",
+    "pale"
+   ],
+   "reading": "",
+   "meaning": "Bạn trông tái nhợt."
+  },
+  {
+   "tokens": [
+    "She's",
+    "a",
+    "professor"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy là một giáo viên."
+  },
+  {
+   "tokens": [
+    "Sometimes",
+    "he",
+    "seems",
+    "very",
+    "distant"
+   ],
+   "reading": "",
+   "meaning": "Thi thoảng anh ấy rất xa cách."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "professor",
+    "of",
+    "mathematics"
+   ],
+   "reading": "",
+   "meaning": "Tôi là giáo sư toán học."
+  },
+  {
+   "tokens": [
+    "The",
+    "blackboard",
+    "is",
+    "behind",
+    "the",
+    "professor"
+   ],
+   "reading": "",
+   "meaning": "Bảng đen ở phía sau giáo sư."
+  }
+ ],
+ "issues": []
+}

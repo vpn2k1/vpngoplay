@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "批准",
-   "meaning": "phê chuẩn",
+   "meaning": "phê chuẩn, phê duyệt",
    "example": "批准工作计划",
    "exampleMeaning": "Phê chuẩn kế hoạch công tác",
    "emoji": "",
    "ipa": "",
    "pinyin": "pīzhǔn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "前进",
-   "meaning": "tiến lên",
+   "meaning": "tiến lên, tiến về phía trước",
    "example": "我军似潮水般大踏步前进。",
    "exampleMeaning": "Quân ta tiến mạnh như vữ bão.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiánjìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,20 +37,20 @@
    "ipa": "",
    "pinyin": "píjiǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "机器",
-   "meaning": "cơ khí",
+   "meaning": "máy móc, máy",
    "example": "这台机器是由我国制造出来的。",
    "exampleMeaning": "Cái máy này do nước ta chế tạo ra.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīqì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "gōngbù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "工厂",
-   "meaning": "công xưởng",
+   "meaning": "nhà máy, công xưởng",
    "example": "他被工厂的老板解雇。",
    "exampleMeaning": "Anh ấy đã bị ông chủ công xưởng sa thải.",
    "emoji": "🏭",
    "ipa": "",
    "pinyin": "gōngchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "指出",
-   "meaning": "cho biết, ra dấu, chỉ điểm",
+   "meaning": "chỉ ra",
    "example": "指出所犯的几处错误。",
    "exampleMeaning": "Chỉ ra mấy chỗ sai lầm đã gây ra.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǐchū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "jǔbàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,46 +115,46 @@
    "ipa": "",
    "pinyin": "réncái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "看上去",
-   "meaning": "có vẻ như",
+   "meaning": "trông có vẻ, xem ra",
    "example": "我们来学“看上去”这个词。",
-   "exampleMeaning": "Cùng học từ “看上去”: có vẻ như.",
+   "exampleMeaning": "Cùng học từ “看上去”: trông có vẻ, xem ra.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kànshangqu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "环",
-   "meaning": "vòng",
+   "meaning": "vòng, khâu, vành",
    "example": "三枪打中了二十八环。",
    "exampleMeaning": "Bắn ba phát được 28 điểm.",
    "emoji": "💍",
    "ipa": "",
    "pinyin": "huán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "双方",
-   "meaning": "hai bên",
+   "meaning": "hai bên, đôi bên",
    "example": "缔约国双方。",
    "exampleMeaning": "Hai nước ký điều ước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuāngfāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,98 +167,98 @@
    "ipa": "",
    "pinyin": "líhūn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "退出",
-   "meaning": "ra khỏi",
+   "meaning": "rút khỏi, rời khỏi, thoát",
    "example": "退出会场",
    "exampleMeaning": "Ra khỏi hội trường",
    "emoji": "",
    "ipa": "",
    "pinyin": "tuìchū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "支付",
-   "meaning": "trả tiền",
+   "meaning": "trả tiền, chi trả, thanh toán",
    "example": "支付现金",
    "exampleMeaning": "Trả tiền; thanh toán bằng tiền mặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīfù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "赶快",
-   "meaning": "nhanh",
+   "meaning": "mau lên, nhanh chóng",
    "example": "赶快点，否则要错过公共汽车了。",
    "exampleMeaning": "Nhanh lên không bạn lỡ xe buýt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎnkuài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "整理",
-   "meaning": "chỉnh lý",
+   "meaning": "sắp xếp, dọn dẹp",
    "example": "整理文化遗产",
    "exampleMeaning": "Sắp xếp di sản văn hoá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhěnglǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "吵",
-   "meaning": "làm ầm lên",
+   "meaning": "ồn ào, cãi nhau",
    "example": "你别再跟他争吵了。",
    "exampleMeaning": "Anh đừng cãi nhau với nó nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "丰富",
-   "meaning": "phong phú",
+   "meaning": "phong phú, làm phong phú",
    "example": "我国是一个人口众多，物产丰富的国家。",
    "exampleMeaning": "Nước tôi là một nước đông người nhiều của.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēngfù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "动力",
-   "meaning": "động lực (máy móc)",
+   "meaning": "động lực",
    "example": "人民是创造世界历史的动力。",
    "exampleMeaning": "Nhân dân là động lực sáng tạo ra lịch sử thế giới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dònglì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

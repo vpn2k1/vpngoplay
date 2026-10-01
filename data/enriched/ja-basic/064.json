@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "客",
-   "meaning": "khách",
+   "meaning": "khách, khách hàng",
    "example": "今日は来客があります。",
    "exampleMeaning": "Hôm nay chúng ta có khách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "受ける",
-   "meaning": "cầm, nắm, giữ",
+   "meaning": "nhận, dự thi, tiếp nhận",
    "example": "僕は罰を受けるだろう。",
    "exampleMeaning": "Chắc tôi sẽ bị phạt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "郊外",
-   "meaning": "ngoại ô",
+   "meaning": "ngoại ô, ngoại thành",
    "example": "東京の郊外に住む両親や弟は大震災で死んだ。",
    "exampleMeaning": "Cha mẹ và em trai tôi đang sống ở vùng ngoại ô Tokyo đã mất vì trận đại động đất đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "以内",
-   "meaning": "trong vòng, trong khoảng",
+   "meaning": "trong vòng, không quá",
    "example": "１時間以内にそこに着くでしょう。",
    "exampleMeaning": "Chúng ta chắc sẽ đến được đó trong khoảng 1 tiếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "交通",
-   "meaning": "sự đi lại, sự giao thông",
+   "meaning": "giao thông",
    "example": "大雪で交通が途絶えた。",
    "exampleMeaning": "Giao thông bị gián đoạn do tuyết lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "つもり",
-   "meaning": "ý định, mục đích",
+   "meaning": "ý định, định",
    "example": "北岳に登るつもりです。",
    "exampleMeaning": "Tôi định leo núi Kitadake.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,46 +89,46 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "お嬢さん",
-   "meaning": "con gái",
+   "meaning": "con gái (người khác), tiểu thư",
    "example": "「お嬢さん」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “お嬢さん”: con gái.",
+   "exampleMeaning": "Cùng nhớ từ “お嬢さん”: con gái (người khác), tiểu thư.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "汽車",
-   "meaning": "xe lửa",
+   "meaning": "tàu hỏa, xe lửa",
    "example": "「汽車」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “汽車”: xe lửa.",
+   "exampleMeaning": "Cùng nhớ từ “汽車”: tàu hỏa, xe lửa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "アジア",
-   "meaning": "người châu A",
+   "meaning": "châu Á",
    "example": "アジアの歴史に興味があります。",
    "exampleMeaning": "Tôi có hứng thú với lịch sử châu Á.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,72 +141,72 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "夢",
-   "meaning": "giấc mơ, giấc mộng",
+   "meaning": "giấc mơ, ước mơ",
    "example": "私は彼の夢を見た。",
    "exampleMeaning": "Tôi đã mơ về anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "急行",
-   "meaning": "sự vội vàng, sự hấp tấp, sự hối hả",
+   "meaning": "tàu tốc hành, xe tốc hành",
    "example": "「急行」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “急行”: sự vội vàng, sự hấp tấp, sự hối hả.",
+   "exampleMeaning": "Cùng nhớ từ “急行”: tàu tốc hành, xe tốc hành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "褒める",
-   "meaning": "khen ngợi, ca ngợi, ca tụng",
+   "meaning": "khen, khen ngợi",
    "example": "「褒める」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “褒める”: khen ngợi, ca ngợi, ca tụng.",
+   "exampleMeaning": "Cùng nhớ từ “褒める”: khen, khen ngợi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "貿易",
-   "meaning": "thương nghiệp, thương mại, sự buôn bán",
+   "meaning": "thương mại, mậu dịch",
    "example": "我が国は近隣諸国との貿易を促進せねばならない。",
    "exampleMeaning": "Đất nước chúng ta cần phải thúc đẩy thương mại với các quốc gia láng giềng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "比べる",
-   "meaning": "so, đối chiếu",
+   "meaning": "so sánh",
    "example": "私達の市は東京に比べるとかなり小さい。",
    "exampleMeaning": "Thành phố của chúng tôi khá nhỏ so với Tokyo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "それほど",
-   "meaning": "khoảng rộng",
+   "meaning": "đến mức đó, đến nỗi",
    "example": "私はクラシックをよく聴くが、古典派の作品はそれほど好きではない。",
    "exampleMeaning": "Tôi hay nghe nhạc cổ điển, nhưng tôi lại không thích nghe nhạc theo trường phái cổ điển đến thế.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "寝坊",
-   "meaning": "ngủ quá giờ, ngủ quá giấc",
+   "meaning": "ngủ dậy muộn, ngủ quên",
    "example": "僕は寝坊して学校に遅刻した。",
    "exampleMeaning": "Tôi đã ngủ dậy muộn và bị muộn học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "再来週",
-   "meaning": "the week after next (EN)",
+   "meaning": "tuần sau nữa",
    "example": "「再来週」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “再来週”: the week after next (EN).",
+   "exampleMeaning": "Cùng nhớ từ “再来週”: tuần sau nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

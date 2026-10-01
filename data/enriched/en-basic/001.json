@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "and",
-   "meaning": "và, cùng, với",
+   "meaning": "và",
    "example": "I shall go and you shall stay here.",
    "exampleMeaning": "Tôi sẽ đi còn anh sẽ ở lại đây.",
    "emoji": "",
    "ipa": "/ˈænd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "vote",
-   "meaning": "bỏ phiếu, bầu cử",
+   "meaning": "phiếu bầu, cuộc bỏ phiếu",
    "example": "to carry out a vote of the Congress",
    "exampleMeaning": "(từ Mỹ, nghĩa Mỹ) thực hiện một nghị quyết của quốc hội",
    "emoji": "",
    "ipa": "/ˈvoʊt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -37,59 +37,59 @@
    "ipa": "/ˈsɛkənd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "travel",
-   "meaning": "đi, du lịch",
+   "meaning": "đi du lịch, đi lại",
    "example": "to travel Europe from end to end",
    "exampleMeaning": "Đi khắp châu Âu",
    "emoji": "",
    "ipa": "/ˈtrævəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "elementary",
-   "meaning": "cơ bản, sơ yếu",
+   "meaning": "cơ bản, sơ cấp",
    "example": "Let's learn the word \"elementary\".",
-   "exampleMeaning": "Cùng học từ “elementary”: cơ bản, sơ yếu.",
+   "exampleMeaning": "Cùng học từ “elementary”: cơ bản, sơ cấp.",
    "emoji": "",
    "ipa": "/ˌɛləˈmɛntɜrri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "bright",
-   "meaning": "sáng, sáng chói",
+   "meaning": "sáng, rực rỡ",
    "example": "a bright force",
    "exampleMeaning": "Khuôn mặt sáng sủa",
    "emoji": "",
    "ipa": "/braɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "many",
-   "meaning": "nhiều, lắm",
+   "meaning": "nhiều",
    "example": "A great many do not understand this.",
    "exampleMeaning": "Rất nhiều người không hiểu điều này.",
    "emoji": "",
    "ipa": "/ˈmɛni/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -102,72 +102,72 @@
    "ipa": "/ˈeɪˈtin/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "how",
-   "meaning": "bao nhiêu",
+   "meaning": "như thế nào, bằng cách nào",
    "example": "how comes it? how is it?",
    "exampleMeaning": "Sao, sự thể ra sao? sao lại ra như vậy?",
    "emoji": "",
    "ipa": "/ˈhaʊ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "kite",
-   "meaning": "cái diều",
+   "meaning": "con diều",
    "example": "Let's learn the word \"kite\".",
-   "exampleMeaning": "Cùng học từ “kite”: cái diều.",
+   "exampleMeaning": "Cùng học từ “kite”: con diều.",
    "emoji": "🪁",
    "ipa": "/kaɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "swim",
-   "meaning": "bơi",
+   "meaning": "bơi, lượt bơi",
    "example": "to swim a horse across a stream",
    "exampleMeaning": "Cho ngựa bơi qua suối",
    "emoji": "",
    "ipa": "/swɪm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "temple",
-   "meaning": "đền, điện, miếu",
+   "meaning": "đền, chùa",
    "example": "Speaking of Kyoto, have you ever visited the Kinkakuji Temple?",
    "exampleMeaning": "Nhân tiện nói về Kyoto, bạn đã đi chùa Kinkaku-ji bao giờ chưa?",
    "emoji": "",
    "ipa": "/ˈtɛmpəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "survey",
-   "meaning": "sự nhìn chung",
+   "meaning": "cuộc khảo sát",
    "example": "Let's learn the word \"survey\".",
-   "exampleMeaning": "Cùng học từ “survey”: sự nhìn chung.",
+   "exampleMeaning": "Cùng học từ “survey”: cuộc khảo sát.",
    "emoji": "",
    "ipa": "/ˈsɜrˌveɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,85 +180,85 @@
    "ipa": "/snəʊ̯/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "cool",
-   "meaning": "mát mẻ, mát",
+   "meaning": "mát, mát mẻ",
    "example": "I call that cool!",
    "exampleMeaning": "Tớ cho thế là mặt dạn mày dày",
    "emoji": "",
    "ipa": "/ˈkul/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "ready",
-   "meaning": "sẵn, sẵn sàng",
+   "meaning": "sẵn sàng",
    "example": "ready, present, fire!",
    "exampleMeaning": "Chuẩn bị, ngắm, bắn!",
    "emoji": "",
    "ipa": "/ˈrɛd.i/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "camp",
-   "meaning": "trại, chỗ cắm trại, hạ trại",
+   "meaning": "trại, khu cắm trại",
    "example": "You're not allowed to camp here.",
    "exampleMeaning": "Anh không được phép cắm trại ở đây.",
    "emoji": "",
    "ipa": "/ˈkæmp/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "sorry",
-   "meaning": "xin lỗi",
+   "meaning": "xin lỗi, lấy làm tiếc",
    "example": "Sorry? What was that? The phone cut out.",
    "exampleMeaning": "Gì vậy? Tôi bị cúp điện thoại.",
    "emoji": "",
    "ipa": "/ˈsɑri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "give",
-   "meaning": "cho, biếu, tặng",
+   "meaning": "cho, đưa, tặng",
    "example": "how much did you give for it?",
    "exampleMeaning": "Anh trả cái đó bao nhiêu?",
    "emoji": "",
    "ipa": "/ɡɪv/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "quiet",
-   "meaning": "lặng, yên lặng, yên tĩnh",
+   "meaning": "yên tĩnh, im lặng",
    "example": "The Quiet Outbreak of War",
    "exampleMeaning": "Màn khai chiến lặng lẽ",
    "emoji": "",
    "ipa": "/ˈkwɑɪ.ət/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

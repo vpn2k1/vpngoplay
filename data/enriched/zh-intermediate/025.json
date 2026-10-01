@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "偶尔",
-   "meaning": "ngẫu nhiên",
+   "meaning": "thỉnh thoảng, đôi khi",
    "example": "他常常写小说，偶尔也写写诗。",
    "exampleMeaning": "Anh ấy thường viết tiểu thuyết, thỉnh thoảng thì làm thơ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ǒuěr",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "悲伤",
-   "meaning": "khổ đau",
+   "meaning": "buồn đau, đau thương",
    "example": "离别的时候不要悲伤。",
    "exampleMeaning": "Khi xa nhau xin đừng khổ đau",
    "emoji": "",
    "ipa": "",
    "pinyin": "bēishāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "劝",
-   "meaning": "khuyên, khuyên bảo, răn bảo",
+   "meaning": "khuyên",
    "example": "他身体不好，你应该劝他休息休息。",
    "exampleMeaning": "Anh ấy sức khoẻ không tốt, nên khuyên anh ấy nghỉ ngơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "gùwèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "zhùlǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "分离",
-   "meaning": "xa cách",
+   "meaning": "tách rời, chia ly",
    "example": "理论与实践是不可分离的。",
    "exampleMeaning": "Lý luận không thể tách rời thực tiễn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēnlí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "扇",
-   "meaning": "cánh",
+   "meaning": "cánh (lượng từ), quạt",
    "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
    "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,98 +102,98 @@
    "ipa": "",
    "pinyin": "lìrùn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "珍惜",
-   "meaning": "quý",
+   "meaning": "trân trọng, quý trọng",
    "example": "珍惜研究成果",
    "exampleMeaning": "Quý trọng kết quả nghiên cứu",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhēnxī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "消除",
-   "meaning": "trừ khử, loại trừ, loại ra",
+   "meaning": "loại bỏ, xoá bỏ",
    "example": "消除疾病。",
    "exampleMeaning": "Trừ bệnh tật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāochú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "匹",
-   "meaning": "con (ngựa, la, lừa)",
+   "meaning": "con (lượng từ), tấm (vải)",
    "example": "难与为匹。",
    "exampleMeaning": "Khó mà sánh được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "随意",
-   "meaning": "tuỳ ý",
+   "meaning": "tuỳ ý, tự do",
    "example": "我们来学“随意”这个词。",
-   "exampleMeaning": "Cùng học từ “随意”: tuỳ ý.",
+   "exampleMeaning": "Cùng học từ “随意”: tuỳ ý, tự do.",
    "emoji": "",
    "ipa": "",
    "pinyin": "suíyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "友谊",
-   "meaning": "hữu nghị",
+   "meaning": "tình bạn, hữu nghị",
    "example": "深厚的友谊",
    "exampleMeaning": "Tình hữu nghị nồng nàn",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "拔",
-   "meaning": "nhổ",
+   "meaning": "nhổ, rút ra",
    "example": "把肉放在水里拔一拔",
    "exampleMeaning": "Cho thịt vào nước ngâm một chút.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bá",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "寻求",
-   "meaning": "tìm, đi tìm, tìm kiếm",
+   "meaning": "tìm kiếm, mưu cầu",
    "example": "寻求知识。",
    "exampleMeaning": "Tìm tri thức",
    "emoji": "",
    "ipa": "",
    "pinyin": "xúnqiú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "zhuāngshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "锅",
-   "meaning": "nồi",
+   "meaning": "nồi, chảo",
    "example": "吃大锅饭讲不得什么滋味。",
    "exampleMeaning": "Ăn cơm tập thể chả có cái mùi vị gì.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guō",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "大厅",
-   "meaning": "phòng khách",
+   "meaning": "đại sảnh, hội trường",
    "example": "我们来学“大厅”这个词。",
-   "exampleMeaning": "Cùng học từ “大厅”: phòng khách.",
+   "exampleMeaning": "Cùng học từ “大厅”: đại sảnh, hội trường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàtīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "丑",
-   "meaning": "xấu",
+   "meaning": "xấu xí, vai hề",
    "example": "丑 态。",
    "exampleMeaning": "Bộ dạng xấu xa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǒu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "耐心",
-   "meaning": "kiên nhẫn",
+   "meaning": "kiên nhẫn, nhẫn nại",
    "example": "成功屬於耐心等待的人。",
    "exampleMeaning": "Mọi đều tốt đẹp sẽ đến với người biết đợi chờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nàixīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

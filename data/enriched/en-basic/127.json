@@ -1,0 +1,318 @@
+{
+ "lesson": 127,
+ "draft": true,
+ "words": [
+  {
+   "term": "arrangement",
+   "meaning": "sự sắp xếp, sự thỏa thuận",
+   "example": "to come to on an arrangement",
+   "exampleMeaning": "Đi đến chỗ dàn xếp, đi đến thỏa thuận",
+   "emoji": "",
+   "ipa": "/ɜrˈeɪndʒmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exhausted",
+   "meaning": "kiệt sức, mệt lử",
+   "example": "I'm exhausted, my bed is calling me!",
+   "exampleMeaning": "Tôi kiệt sức rồi, giường đang gọi tôi kìa!",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɔstɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "documentary",
+   "meaning": "phim tài liệu",
+   "example": "The documentary is about wild animals.",
+   "exampleMeaning": "Bộ phim tài liệu nói về động vật hoang dã.",
+   "emoji": "",
+   "ipa": "/ˌdɑkjəˈmɛnɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fax",
+   "meaning": "gửi fax",
+   "example": "Let's learn the word \"fax\".",
+   "exampleMeaning": "Cùng học từ “fax”: gửi fax.",
+   "emoji": "",
+   "ipa": "/ˈfæks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pollutant",
+   "meaning": "chất gây ô nhiễm",
+   "example": "Let's learn the word \"pollutant\".",
+   "exampleMeaning": "Cùng học từ “pollutant”: chất gây ô nhiễm.",
+   "emoji": "",
+   "ipa": "/pəˈlutənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nap",
+   "meaning": "giấc ngủ ngắn, giấc ngủ trưa",
+   "example": "Tom usually takes a short nap after lunch.",
+   "exampleMeaning": "Tom thường ngủ một ít sau bữa trưa.",
+   "emoji": "",
+   "ipa": "/ˈnæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ape",
+   "meaning": "vượn người, khỉ không đuôi",
+   "example": "to play (act) the ape",
+   "exampleMeaning": "Bắt chước",
+   "emoji": "",
+   "ipa": "/ˈeɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accurate",
+   "meaning": "chính xác",
+   "example": "How accurate is this model?",
+   "exampleMeaning": "Mô hình này chính xác đến đâu?",
+   "emoji": "",
+   "ipa": "/ˈak.jʊ.rɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "general",
+   "meaning": "chung, tổng quát, phổ biến",
+   "example": "a word that is in general use",
+   "exampleMeaning": "Một từ thường dùng",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "film-maker",
+   "meaning": "nhà làm phim",
+   "example": "Let's learn the word \"film-maker\".",
+   "exampleMeaning": "Cùng học từ “film-maker”: nhà làm phim.",
+   "emoji": "",
+   "ipa": "/ˈfɪlm ˈmeɪkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spider",
+   "meaning": "con nhện",
+   "example": "Let's learn the word \"spider\".",
+   "exampleMeaning": "Cùng học từ “spider”: con nhện.",
+   "emoji": "🕷",
+   "ipa": "/ˈspaɪ̯də/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "warrior",
+   "meaning": "chiến binh",
+   "example": "Easy living corrupted the warrior spirit.",
+   "exampleMeaning": "Cuộc sống dễ dãi băng hoại tinh thần binh sĩ.",
+   "emoji": "",
+   "ipa": "/ˈwɔriɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pregnant",
+   "meaning": "có thai, mang thai",
+   "example": "He is so happy, because his wife is pregnant now.",
+   "exampleMeaning": "Anh ấy rất vui vì vợ anh đang mang thai.",
+   "emoji": "",
+   "ipa": "/ˈprɛɡnənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "undergo",
+   "meaning": "trải qua, chịu",
+   "example": "to undergo a great change",
+   "exampleMeaning": "Bị thay đổi lớn",
+   "emoji": "",
+   "ipa": "/ˌəndɜrˈɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sanction",
+   "meaning": "lệnh trừng phạt, sự phê chuẩn",
+   "example": "with the sanction of the author",
+   "exampleMeaning": "Với sự đồng ý của tác giả",
+   "emoji": "",
+   "ipa": "/ˈsæŋkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "instructor",
+   "meaning": "người hướng dẫn, huấn luyện viên",
+   "example": "Let's learn the word \"instructor\".",
+   "exampleMeaning": "Cùng học từ “instructor”: người hướng dẫn, huấn luyện viên.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈstrəktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accomplish",
+   "meaning": "hoàn thành, đạt được",
+   "example": "to accomplish one's task",
+   "exampleMeaning": "Hoàn thành nhiệm vụ",
+   "emoji": "",
+   "ipa": "/əˈkɑmplɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "eagerness",
+   "meaning": "sự háo hức, sự hăng hái",
+   "example": "Let's learn the word \"eagerness\".",
+   "exampleMeaning": "Cùng học từ “eagerness”: sự háo hức, sự hăng hái.",
+   "emoji": "",
+   "ipa": "/ˈiɡɜrnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "quake",
+   "meaning": "trận động đất, sự rung chuyển",
+   "example": "to quake with cold",
+   "exampleMeaning": "Run lên vì rét",
+   "emoji": "",
+   "ipa": "/ˈkweɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "curly",
+   "meaning": "xoăn, quăn",
+   "example": "Let's learn the word \"curly\".",
+   "exampleMeaning": "Cùng học từ “curly”: xoăn, quăn.",
+   "emoji": "",
+   "ipa": "/ˈkɜrli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "became",
+    "pregnant"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy có thai."
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "pregnant"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy mang thai."
+  },
+  {
+   "tokens": [
+    "I",
+    "am",
+    "completely",
+    "exhausted"
+   ],
+   "reading": "",
+   "meaning": "Tôi mệt rã rời."
+  },
+  {
+   "tokens": [
+    "My",
+    "prediction",
+    "was",
+    "accurate"
+   ],
+   "reading": "",
+   "meaning": "Dự đoán của tôi đã chính xác."
+  },
+  {
+   "tokens": [
+    "That",
+    "wasn't",
+    "accurate",
+    "was",
+    "it"
+   ],
+   "reading": "",
+   "meaning": "Điều đó không chính xác, phải không?"
+  }
+ ],
+ "issues": []
+}

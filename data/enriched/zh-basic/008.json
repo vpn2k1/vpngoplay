@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "进",
-   "meaning": "vào, đi vào",
+   "meaning": "vào",
    "example": "她进屋前擦了鞋。",
    "exampleMeaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,33 +24,33 @@
    "ipa": "",
    "pinyin": "xiě",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "国家",
-   "meaning": "nước, quốc gia",
+   "meaning": "đất nước, quốc gia",
    "example": "这个国家的军事力量很先进。",
    "exampleMeaning": "Lực lượng quân sự nước này rất hiện đại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guójiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "您",
-   "meaning": "anh, chị, ông",
+   "meaning": "ngài, ông, bà (kính trọng)",
    "example": "您可以随便去哪儿。",
    "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nín",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,72 +63,72 @@
    "ipa": "",
    "pinyin": "diànhuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "女",
-   "meaning": "đàn bà con gái, nữ",
+   "meaning": "nữ, gái",
    "example": "为女儿婚事，很伤脑筋。",
    "exampleMeaning": "Vì chuyện hôn sự của con gái mà rất đau đầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǚ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "送",
-   "meaning": "cho, biếu, tặng",
+   "meaning": "tặng, đưa, tiễn",
    "example": "何不送给她一些花?",
    "exampleMeaning": "Sao bạn không thử tặng cho cô ấy ít hoa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "sòng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "分",
-   "meaning": "lường trước",
+   "meaning": "chia, phút, điểm",
    "example": "我十分反对这个项目。",
    "exampleMeaning": "Tôi hoàn toàn phản đối kế hoạch.",
    "emoji": "➗",
    "ipa": "",
    "pinyin": "fēn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "笑",
-   "meaning": "cười, cười vui, cười cợt",
+   "meaning": "cười",
    "example": "這是我聽過最好笑的笑話。",
    "exampleMeaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "女人",
-   "meaning": "đàn bà, phụ nữ",
+   "meaning": "phụ nữ, đàn bà",
    "example": "他把自己化裝成一個女人。",
    "exampleMeaning": "Anh ấy đã đóng giả làm con gái.",
    "emoji": "👩",
    "ipa": "",
    "pinyin": "nǚrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,46 +141,46 @@
    "ipa": "",
    "pinyin": "xiǎoshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "有些",
-   "meaning": "có",
+   "meaning": "một số, hơi",
    "example": "我有些旧书想捐给图书馆。",
    "exampleMeaning": "Tôi có một ít sách cũ muốn tặng cho thư viện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuxiē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "帮",
-   "meaning": "giúp, giúp đỡ",
+   "meaning": "giúp",
    "example": "贸易帮助国家发展。",
    "exampleMeaning": "Mậu dịch hỗ trợ sự phát triển của quốc gia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bāng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "日",
-   "meaning": "ngày",
+   "meaning": "ngày, mặt trời",
    "example": "它一定是個生日蛋糕。",
    "exampleMeaning": "Đây chắc hẳn là một cái bánh sinh nhật.",
    "emoji": "☀",
    "ipa": "",
    "pinyin": "rì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,33 +193,33 @@
    "ipa": "",
    "pinyin": "biéren",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "站",
-   "meaning": "trạm, điểm, đồn",
+   "meaning": "đứng, trạm, ga",
    "example": "他说完就站起来走了。",
    "exampleMeaning": "Nói xong,anh đứng dậy ra về.",
    "emoji": "🚉",
    "ipa": "",
    "pinyin": "zhàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "路",
-   "meaning": "loại, mạch, tuyến đường",
+   "meaning": "đường, con đường",
    "example": "我该走这条路，还是那条路？",
    "exampleMeaning": "Tôi nên đi đường này hay đi đường kia?",
    "emoji": "",
    "ipa": "",
    "pinyin": "lù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -232,7 +232,7 @@
    "ipa": "",
    "pinyin": "nánrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "zhèngzài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "门",
-   "meaning": "môn (học cùng một thầy)",
+   "meaning": "cửa",
    "example": "办事的时候走后门，是很不好的。",
    "exampleMeaning": "Khi giải quyết công việc mà đi cửa sau là rất không tốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mén",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

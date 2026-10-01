@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "实验室",
-   "meaning": "phòng thực nghiệm",
+   "meaning": "phòng thí nghiệm",
    "example": "我们来学“实验室”这个词。",
-   "exampleMeaning": "Cùng học từ “实验室”: phòng thực nghiệm.",
+   "exampleMeaning": "Cùng học từ “实验室”: phòng thí nghiệm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shíyànshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "开放",
-   "meaning": "mở cửa",
+   "meaning": "mở cửa, cởi mở, nở (hoa)",
    "example": "机场关闭了三天，至今日才开放。",
    "exampleMeaning": "Sân bay đóng cửa ba ngày cho đến hôm nay mới mở cửa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kāifàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "各地",
-   "meaning": "các nơi",
+   "meaning": "các nơi, khắp nơi",
    "example": "我们来学“各地”这个词。",
-   "exampleMeaning": "Cùng học từ “各地”: các nơi.",
+   "exampleMeaning": "Cùng học từ “各地”: các nơi, khắp nơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gèdì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "xìnggé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "tuánjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "展开",
-   "meaning": "tiến hành",
+   "meaning": "mở ra, triển khai",
    "example": "展开画卷",
    "exampleMeaning": "Mở bức hoạ cuốn tròn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǎnkāi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "把握",
-   "meaning": "nắm",
+   "meaning": "nắm bắt, nắm chắc",
    "example": "透过现象，把握本质。",
    "exampleMeaning": "Thông qua hiện tượng mà nắm lấy bản chất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎwò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,85 +102,85 @@
    "ipa": "",
    "pinyin": "chéngjiù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "课程",
-   "meaning": "lịch dạy học",
+   "meaning": "chương trình học, khóa học, môn học",
    "example": "安排课程。",
    "exampleMeaning": "Sắp xếp lịch dạy học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kèchéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "看起来",
-   "meaning": "coi như",
+   "meaning": "trông có vẻ, nhìn có vẻ",
    "example": "我们来学“看起来”这个词。",
-   "exampleMeaning": "Cùng học từ “看起来”: coi như.",
+   "exampleMeaning": "Cùng học từ “看起来”: trông có vẻ, nhìn có vẻ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kànqǐlai",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发动",
-   "meaning": "khởi động (máy móc), bắt đầu, làm cho chuyển động",
+   "meaning": "khởi động, phát động",
    "example": "天气太冷，柴油机不容易发动。",
    "exampleMeaning": "Trời lạnh quá, máy đi-ê-zen khó khởi động lắm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fādòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "果然",
-   "meaning": "thật sự",
+   "meaning": "quả nhiên, đúng như dự đoán",
    "example": "他说要下雪，果然下雪了。",
    "exampleMeaning": "Anh ấy nói sắp có tuyết, quả nhiên tuyết rơi ngay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guǒrán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "放到",
-   "meaning": "để ở",
+   "meaning": "đặt vào, để vào",
    "example": "我们来学“放到”这个词。",
-   "exampleMeaning": "Cùng học từ “放到”: để ở.",
+   "exampleMeaning": "Cùng học từ “放到”: đặt vào, để vào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fàngdào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "静",
-   "meaning": "im, yên, tĩnh mịch",
+   "meaning": "yên tĩnh, im lặng",
    "example": "风平浪静。",
    "exampleMeaning": "Gió yên sóng lặng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "xūqiú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "zhǐhǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "国内",
-   "meaning": "trong nước",
+   "meaning": "trong nước, quốc nội",
    "example": "国内市场",
    "exampleMeaning": "Thị trường trong nước",
    "emoji": "",
    "ipa": "",
    "pinyin": "guónèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "谈话",
-   "meaning": "trò chuyện",
+   "meaning": "nói chuyện, trò chuyện, cuộc nói chuyện",
    "example": "他们正在屋里谈话。",
    "exampleMeaning": "Họ đang trò chuyện trong nhà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tánhuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "传说",
-   "meaning": "truyền thuyết",
+   "meaning": "truyền thuyết, tương truyền",
    "example": "鲁班的传说。",
    "exampleMeaning": "Truyền thuyết về Lỗ Ban.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chuánshuō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "转变",
-   "meaning": "thay đổi",
+   "meaning": "chuyển biến, thay đổi",
    "example": "风向转变了",
    "exampleMeaning": "Gió chuyển hướng rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhuǎnbiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

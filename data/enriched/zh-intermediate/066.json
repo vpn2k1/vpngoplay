@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "联盟",
-   "meaning": "liên minh (giữa hai hay nhiều nước)",
+   "meaning": "liên minh",
    "example": "工农联盟。",
    "exampleMeaning": "Liên minh công nông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liánméng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "母",
-   "meaning": "cái",
+   "meaning": "mẹ, giống cái",
    "example": "我父亲会游泳但我母亲不会。",
    "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "仪式",
-   "meaning": "nghi thức",
+   "meaning": "nghi thức, nghi lễ",
    "example": "仪式隆重",
    "exampleMeaning": "Nghi lễ long trọng; nghi thức long trọng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yíshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,111 +50,111 @@
    "ipa": "",
    "pinyin": "néngfǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "进攻",
-   "meaning": "tiến công quân thù",
+   "meaning": "tấn công, tiến công",
    "example": "我们来学“进攻”这个词。",
-   "exampleMeaning": "Cùng học từ “进攻”: tiến công quân thù.",
+   "exampleMeaning": "Cùng học từ “进攻”: tấn công, tiến công.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìngōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "再说",
-   "meaning": "vả lại",
+   "meaning": "hơn nữa, vả lại, để sau hãy nói",
    "example": "这事先搁一搁，过两天再说。",
    "exampleMeaning": "Việc này hãy tạm gác lại, hai ngày nữa sẽ bàn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zàishuō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "除",
-   "meaning": "trừ",
+   "meaning": "trừ, loại bỏ, ngoài ra",
    "example": "除此之外，别无办法。",
    "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "负",
-   "meaning": "cầm, vác, khuân",
+   "meaning": "gánh, chịu, thua",
    "example": "一个人要为他的行为负责。",
    "exampleMeaning": "Một người phải có trách nhiệm với những hành động của mình.",
    "emoji": "🐻",
    "ipa": "",
    "pinyin": "fù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "本身",
-   "meaning": "ta",
+   "meaning": "bản thân, tự nó",
    "example": "是单位本身问题。",
    "exampleMeaning": "Là vấn đề của chính đơn vị ta",
    "emoji": "",
    "ipa": "",
    "pinyin": "běnshēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "端",
-   "meaning": "đem",
+   "meaning": "bưng, đầu mút, đoan chính",
    "example": "把问题都端出来讨论。",
    "exampleMeaning": "Đem vấn đề ra thảo luận",
    "emoji": "",
    "ipa": "",
    "pinyin": "duān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "不见",
-   "meaning": "không gặp",
+   "meaning": "không thấy, biến mất, không gặp",
    "example": "药吃多了，对身体不见得好。",
    "exampleMeaning": "Uống nhiều thuốc không hẳn là tốt cho sức khỏe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "扣",
-   "meaning": "đổ tội",
+   "meaning": "cài, khấu trừ, giữ lại",
    "example": "把 犯人扣起 来。",
    "exampleMeaning": "Giam phạm nhân lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kòu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "qiúyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,7 +180,7 @@
    "ipa": "",
    "pinyin": "wā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,72 +193,72 @@
    "ipa": "",
    "pinyin": "yàome",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "将军",
-   "meaning": "chiếu tướng (trong đánh cờ)",
+   "meaning": "tướng quân, chiếu tướng",
    "example": "我们来学“将军”这个词。",
-   "exampleMeaning": "Cùng học từ “将军”: chiếu tướng (trong đánh cờ).",
+   "exampleMeaning": "Cùng học từ “将军”: tướng quân, chiếu tướng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiāngjūn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "透露",
-   "meaning": "để lộ (tin tức, ý tứ)",
+   "meaning": "tiết lộ, để lộ",
    "example": "真相透露出来了。",
    "exampleMeaning": "Đã lộ chân tướng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tòulù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "侧",
-   "meaning": "bên, cạnh, tựa",
+   "meaning": "phía bên, nghiêng",
    "example": "我们来学“侧”这个词。",
-   "exampleMeaning": "Cùng học từ “侧”: bên, cạnh, tựa.",
+   "exampleMeaning": "Cùng học từ “侧”: phía bên, nghiêng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "团队",
-   "meaning": "đoàn",
+   "meaning": "đội nhóm, tập thể",
    "example": "组织旅游团队",
    "exampleMeaning": "Tổ chức đoàn du lịch",
    "emoji": "",
    "ipa": "",
    "pinyin": "tuánduì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "闭",
-   "meaning": "bí, nhắm, ngậm",
+   "meaning": "đóng, nhắm, ngậm",
    "example": "闭口无言。",
    "exampleMeaning": "Ngậm miệng không nói",
    "emoji": "",
    "ipa": "",
    "pinyin": "bì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

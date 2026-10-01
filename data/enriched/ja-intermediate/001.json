@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "都市",
-   "meaning": "thành phố, thành thị, đô thị",
+   "meaning": "đô thị, thành phố",
    "example": "私たちは大都市に住んでいる。",
    "exampleMeaning": "Chúng tôi sống ở một thành phố lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "生る",
-   "meaning": "to bear fruit (EN)",
+   "meaning": "ra quả, kết trái",
    "example": "「生る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “生る”: to bear fruit (EN).",
+   "exampleMeaning": "Cùng nhớ từ “生る”: ra quả, kết trái.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "平和",
-   "meaning": "sự hoà thuận, sự trật tự an ninh, sự hài hoà",
+   "meaning": "hòa bình",
    "example": "誰もが世界平和を望んでいる。",
    "exampleMeaning": "Ai cũng mong muốn hòa bình thế giới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "就職",
-   "meaning": "finding employment (EN)",
+   "meaning": "tìm được việc, vào làm",
    "example": "大学へ行くか就職するか、まだ決めていません。",
    "exampleMeaning": "Tôi chưa quyết định được là nên đi học đại học hay là đi tìm việc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "粉",
-   "meaning": "bột mì, rắc bột (mì), thuốc bột",
+   "meaning": "bột",
    "example": "私は紙を粉々に引き裂いた。",
    "exampleMeaning": "Tôi đã xé tờ giấy đó ra thành từng mảnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "溺れる",
-   "meaning": "bị ngập nước",
+   "meaning": "chết đuối, đắm chìm",
    "example": "「溺れる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “溺れる”: bị ngập nước.",
+   "exampleMeaning": "Cùng nhớ từ “溺れる”: chết đuối, đắm chìm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -89,33 +89,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "減る",
-   "meaning": "sự giảm đi, sự giảm sút",
+   "meaning": "giảm, giảm đi",
    "example": "「減る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “減る”: sự giảm đi, sự giảm sút.",
+   "exampleMeaning": "Cùng nhớ từ “減る”: giảm, giảm đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "やや",
-   "meaning": "nhỏ bé, bé bỏng",
+   "meaning": "hơi, một chút",
    "example": "「やや」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “やや”: nhỏ bé, bé bỏng.",
+   "exampleMeaning": "Cùng nhớ từ “やや”: hơi, một chút.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,137 +128,137 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "飼う",
-   "meaning": "giữ, giữ lại",
+   "meaning": "nuôi (động vật)",
    "example": "インコを飼うために必要なものを揃えましょう。",
    "exampleMeaning": "Chúng ta hãy chuẩn bị những thứ cần thiết để nuôi vẹt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "のんびり",
-   "meaning": "vô tư lự, thảnh thơi",
+   "meaning": "thong thả, thảnh thơi",
    "example": "退職後は田舎でのんびり暮したい。",
    "exampleMeaning": "Lúc nghỉ hưu tôi muốn sống một cách thảnh thơi tại vùng nông thôn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "間違い",
-   "meaning": "lỗi, sai lầm, lỗi lầm",
+   "meaning": "lỗi, sai lầm",
    "example": "それは全く間違いです。",
    "exampleMeaning": "Điều đó là hoàn toàn sai lầm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "化粧",
-   "meaning": "đồ hoá trang, son phấn (để tô điểm)",
+   "meaning": "trang điểm",
    "example": "化粧品にかぶれました。",
    "exampleMeaning": "Tôi bị viêm da do mỹ phẩm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "存在",
-   "meaning": "sự tồn tại, sự sống, sự sống còn",
+   "meaning": "sự tồn tại",
    "example": "プライバシーなんて存在しない。",
    "exampleMeaning": "Trên đời không có thứ gì gọi là \"sự riêng tư\".",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "批評",
-   "meaning": "sự phê bình, sự phê phán, sự bình phẩm",
+   "meaning": "phê bình, bình luận",
    "example": "「批評」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “批評”: sự phê bình, sự phê phán, sự bình phẩm.",
+   "exampleMeaning": "Cùng nhớ từ “批評”: phê bình, bình luận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "記念",
-   "meaning": "kỷ niệm, sự tưởng nhớ",
+   "meaning": "kỷ niệm, tưởng niệm",
    "example": "今日は両親の結婚記念日です。",
    "exampleMeaning": "Hôm nay là ngày kỷ niệm lễ cưới của cha mẹ tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "異なる",
-   "meaning": "khác, khác biệt, khác nhau",
+   "meaning": "khác, khác nhau",
    "example": "食習慣は国により異なる。",
    "exampleMeaning": "Văn hóa ăn uống khác nhau ở mỗi nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "押える",
-   "meaning": "ngừng, nghỉ, thôi",
+   "meaning": "đè, giữ chặt, kiềm chế",
    "example": "「押える」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “押える”: ngừng, nghỉ, thôi.",
+   "exampleMeaning": "Cùng nhớ từ “押える”: đè, giữ chặt, kiềm chế.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "許可",
-   "meaning": "phép",
+   "meaning": "cho phép, giấy phép",
    "example": "私は彼が私の家で寝ることを許可した。",
    "exampleMeaning": "Tôi cho phép anh ta ngủ lại nhà tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

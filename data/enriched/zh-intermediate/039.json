@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "占领",
-   "meaning": "chiếm",
+   "meaning": "chiếm lĩnh, chiếm đóng",
    "example": "开拓和占领新的科技领域。",
    "exampleMeaning": "Mở ra và thâm nhập vào lĩnh vực khoa học kỹ thuật mới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhànlǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "争议",
-   "meaning": "tranh luận",
+   "meaning": "tranh cãi, tranh chấp",
    "example": "我们来学“争议”这个词。",
-   "exampleMeaning": "Cùng học từ “争议”: tranh luận.",
+   "exampleMeaning": "Cùng học từ “争议”: tranh cãi, tranh chấp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhēngyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "zǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "cháng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "终身",
-   "meaning": "cả đời",
+   "meaning": "suốt đời, trọn đời",
    "example": "终身大事(关系一生的大事情，多指婚姻)。",
    "exampleMeaning": "Việc lớn cả đời; hôn nhân; chuyện dựng vợ gả chồng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōngshēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "回避",
-   "meaning": "tránh",
+   "meaning": "lẩn tránh, né tránh",
    "example": "回避要害问题。",
    "exampleMeaning": "Tránh vấn đề mấu chốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huíbì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,137 +89,137 @@
    "ipa": "",
    "pinyin": "zhǐjia",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "铃",
-   "meaning": "cái chuông",
+   "meaning": "chuông",
    "example": "哑铃。",
    "exampleMeaning": "Quả tạ tay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "líng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "体力",
-   "meaning": "thể lực",
+   "meaning": "thể lực, sức lực",
    "example": "他体力好，能耐久。",
    "exampleMeaning": "Sức khoẻ anh ấy tốt, dẻo dai.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tǐlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "气体",
-   "meaning": "thể khí",
+   "meaning": "khí, chất khí",
    "example": "沸水蒸发成气体。",
    "exampleMeaning": "Nước sôi bốc thành hơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qìtǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "层次",
-   "meaning": "cấp (cơ cấu)",
+   "meaning": "tầng bậc, cấp độ",
    "example": "举行高层次领导人会谈。",
    "exampleMeaning": "Tiến hành cuộc hội đàm giữa các lãnh đạo cao cấp",
    "emoji": "",
    "ipa": "",
    "pinyin": "céngcì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "国民",
-   "meaning": "quốc dân",
+   "meaning": "quốc dân, công dân",
    "example": "国民经济",
    "exampleMeaning": "Kinh tế quốc dân",
    "emoji": "",
    "ipa": "",
    "pinyin": "guómín",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "视为",
-   "meaning": "để xem như / để xem như / coi là / coi như",
+   "meaning": "coi là, xem như",
    "example": "我们来学“视为”这个词。",
-   "exampleMeaning": "Cùng học từ “视为”: để xem như / để xem như / coi là / coi như.",
+   "exampleMeaning": "Cùng học từ “视为”: coi là, xem như.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shìwéi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "服从",
-   "meaning": "phục tùng",
+   "meaning": "phục tùng, tuân theo",
    "example": "个人利益服从集体利益。",
    "exampleMeaning": "Lợi ích cá nhân phải phục tùng lợi ích tập thể.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fúcóng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "低于",
-   "meaning": "phía dưới",
+   "meaning": "thấp hơn",
    "example": "我们来学“低于”这个词。",
-   "exampleMeaning": "Cùng học từ “低于”: phía dưới.",
+   "exampleMeaning": "Cùng học từ “低于”: thấp hơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dīyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "洒",
-   "meaning": "tưới, rải, rắc",
+   "meaning": "rắc, vẩy, làm đổ",
    "example": "我们来学“洒”这个词。",
-   "exampleMeaning": "Cùng học từ “洒”: tưới, rải, rắc.",
+   "exampleMeaning": "Cùng học từ “洒”: rắc, vẩy, làm đổ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sǎ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "注重",
-   "meaning": "chú trọng",
+   "meaning": "chú trọng, coi trọng",
    "example": "注重对孩子的教育。",
    "exampleMeaning": "Chú trọng giáo dục trẻ em.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhùzhòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -232,7 +232,7 @@
    "ipa": "",
    "pinyin": "yèjiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,7 +245,7 @@
    "ipa": "",
    "pinyin": "huìtán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "chuándá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

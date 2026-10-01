@@ -40,6 +40,20 @@
       ],
       "port": 5175,
       "autoPort": true
+    },
+    {
+      "name": "vpngoplay-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "--prefix",
+        "/Users/mn13/Projects/vpngoplay",
+        "vite",
+        "preview",
+        "--port",
+        "4173",
+        "--strictPort"
+      ],
+      "port": 4173
     }
   ]
 }

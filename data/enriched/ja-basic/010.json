@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "面白い",
-   "meaning": "làm quan tâm, làm chú ý, thú vị",
+   "meaning": "thú vị, hay, buồn cười",
    "example": "野球って何が面白いの？",
    "exampleMeaning": "Bóng chày thì có gì hay?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ナイフ",
-   "meaning": "con dao",
+   "meaning": "dao",
    "example": "このナイフは切れ味が悪い。",
    "exampleMeaning": "Cái dao này bị cùn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "一日",
-   "meaning": "một ngày, 24 giờ",
+   "meaning": "ngày mùng 1, ngày đầu tháng",
    "example": "昨日は一日中寝ていた。",
    "exampleMeaning": "Hôm qua tôi ngủ cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,202 +63,202 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "後",
-   "meaning": "sau, ở đằng sau",
+   "meaning": "sau, sau đó, còn lại",
    "example": "後で取りに来ます。",
    "exampleMeaning": "Tôi sẽ đi lấy nó sau.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "夕方",
-   "meaning": "buổi chiều, buổi tối, tối đêm",
+   "meaning": "chiều tối, chập tối",
    "example": "私はたいてい夕方シャワーを浴びます。",
    "exampleMeaning": "Tôi thường tắm vào buổi tối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "飛行機",
-   "meaning": "máy bay, tàu bay",
+   "meaning": "máy bay",
    "example": "私のは６時の飛行機です。",
    "exampleMeaning": "Chuyến bay của tôi sẽ khởi hành lúc 6 giờ.",
    "emoji": "✈",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "アパート",
-   "meaning": "căn phòng, buồng",
+   "meaning": "căn hộ, chung cư",
    "example": "彼はアパートに一人で住んでいます。",
    "exampleMeaning": "Anh ấy đang sống một mình ở trong một căn hộ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "寝る",
-   "meaning": "ngủ",
+   "meaning": "ngủ, đi ngủ",
    "example": "寝る前に歯を磨きなさい。",
    "exampleMeaning": "Hãy đánh răng trước khi ngủ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ああ",
-   "meaning": "a!, chà!, chao!",
+   "meaning": "à, ồ",
    "example": "ああ恥ずかしい！",
    "exampleMeaning": "A a, ngượng chết đi mất!",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "売る",
-   "meaning": "bán, đổi (hàng hoá) để lấy tiền",
+   "meaning": "bán",
    "example": "私は家を売るつもりです。",
    "exampleMeaning": "Tôi định bán nhà",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "お兄さん",
-   "meaning": "anh trai",
+   "meaning": "anh trai, anh",
    "example": "君はお兄さんにそっくりだよ。",
    "exampleMeaning": "Em trông giống hệt anh trai mình đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "締める",
-   "meaning": "thắt",
+   "meaning": "thắt, buộc chặt",
    "example": "運転手はベルトを締めるべきだ。",
    "exampleMeaning": "Những người lái xe phải thắt dây an toàn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "白",
-   "meaning": "trắng, bạch, bạc",
+   "meaning": "màu trắng, trắng",
    "example": "面白い噂を耳にした。",
    "exampleMeaning": "Tôi đã nghe được một tin đồn thú vị.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "丁度",
-   "meaning": "công bằng",
+   "meaning": "vừa đúng, vừa vặn, đúng lúc",
    "example": "「丁度」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “丁度”: công bằng.",
+   "exampleMeaning": "Cùng nhớ từ “丁度”: vừa đúng, vừa vặn, đúng lúc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "毎日",
-   "meaning": "hằng ngày, dùng hàng ngày",
+   "meaning": "hằng ngày, mỗi ngày",
    "example": "彼は毎日野球をします。",
    "exampleMeaning": "Anh ấy mỗi ngày đều chơi bóng chày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "マッチ",
-   "meaning": "diêm",
+   "meaning": "diêm, que diêm",
    "example": "彼はマッチをすった。",
    "exampleMeaning": "Anh ấy đã quẹt diêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "箱",
-   "meaning": "hộp, thùng, tráp",
+   "meaning": "hộp, thùng",
    "example": "その箱は木でできてるんだ。",
    "exampleMeaning": "Cái hộp đó được làm từ gỗ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "七",
-   "meaning": "bảy",
+   "meaning": "bảy, số bảy",
    "example": "トムさんの享年は九十七歳です。",
    "exampleMeaning": "Tom đã mất vào năm 97 tuổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

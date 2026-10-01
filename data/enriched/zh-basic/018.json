@@ -11,7 +11,7 @@
    "ipa": "",
    "pinyin": "kǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "jiǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "mèimei",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "生气",
-   "meaning": "sức sống",
+   "meaning": "tức giận, giận",
    "example": "他还是个孩子，犯不上跟他生气。",
    "exampleMeaning": "Nó vẫn còn là đứa trẻ con, không đáng tức giận với nó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēngqì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "地上",
-   "meaning": "mặt đất, trên đất",
+   "meaning": "dưới đất, trên mặt đất",
    "example": "我们来学“地上”这个词。",
-   "exampleMeaning": "Cùng học từ “地上”: mặt đất, trên đất.",
+   "exampleMeaning": "Cùng học từ “地上”: dưới đất, trên mặt đất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dìshang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,46 +76,46 @@
    "ipa": "",
    "pinyin": "shàngwǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "一会儿",
-   "meaning": "chốc, lúc, lát",
+   "meaning": "một lát, một lúc",
    "example": "小张一会儿就把电视机修理好了，他有两下子，我佩服他！",
    "exampleMeaning": "Tiểu Trương một lúc đã sửa xong cái tivi, anh ấy có thực lực, tôi khâm phục anh ấy!",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīhuìr",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "贵",
-   "meaning": "quý, quý giá, quý báu",
+   "meaning": "đắt, quý",
    "example": "一点也不便宜，贵得不得了。",
    "exampleMeaning": "Không rẻ 1 tí nào, đắt khủng khiếp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "记住",
-   "meaning": "nhớ",
+   "meaning": "nhớ kỹ, ghi nhớ",
    "example": "我们来学“记住”这个词。",
-   "exampleMeaning": "Cùng học từ “记住”: nhớ.",
+   "exampleMeaning": "Cùng học từ “记住”: nhớ kỹ, ghi nhớ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìzhu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,20 +128,20 @@
    "ipa": "",
    "pinyin": "xiàcì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "知识",
-   "meaning": "trí thức",
+   "meaning": "kiến thức, tri thức",
    "example": "知识是什么？",
    "exampleMeaning": "Trí thức là gi?",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīshi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,7 +154,7 @@
    "ipa": "",
    "pinyin": "jīchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,33 +167,33 @@
    "ipa": "",
    "pinyin": "xuéyuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "老人",
-   "meaning": "người già",
+   "meaning": "người già, người cao tuổi",
    "example": "那个老人非常 亲切。",
    "exampleMeaning": "Ông già đó rất nhiệt tình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǎorén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "页",
-   "meaning": "trang (sách... )",
+   "meaning": "trang",
    "example": "我们来学“页”这个词。",
-   "exampleMeaning": "Cùng học từ “页”: trang (sách... ).",
+   "exampleMeaning": "Cùng học từ “页”: trang.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "gōngrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "那边",
-   "meaning": "đằng kia / yonder",
+   "meaning": "bên kia, đằng kia",
    "example": "我一个人去那边。",
    "exampleMeaning": "Tôi đi qua đó một mình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nàbian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "弟弟",
-   "meaning": "em",
+   "meaning": "em trai",
    "example": "弟弟對英語和音樂很有興趣。",
    "exampleMeaning": "Anh trai tôi có hứng thú với tiếng Anh và âm nhạc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dìdi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "干净",
-   "meaning": "sạch",
+   "meaning": "sạch, sạch sẽ",
    "example": "哪间卧室都干净。",
    "exampleMeaning": "Phòng ngủ nào cũng sạch sẽ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gānjìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "在家",
-   "meaning": "có nhà",
+   "meaning": "ở nhà",
    "example": "他们不得不整天呆在家里。",
    "exampleMeaning": "Họ đã phải ở trong nhà suốt cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zàijiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "物价",
-   "meaning": "giá cả",
+   "meaning": "vật giá, giá cả",
    "example": "物价稳定。",
    "exampleMeaning": "Giá cả ổn định.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wùjià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "汇款",
-   "meaning": "tiền gửi",
+   "meaning": "chuyển tiền, tiền chuyển khoản",
    "example": "他到邮局汇款去了。",
    "exampleMeaning": "Anh ấy đến bưu điện gửi tiền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huìkuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "nóngchǎnpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "shūzhuō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "实惠",
-   "meaning": "lợi ích thực tế",
+   "meaning": "thiết thực, rẻ mà tốt",
    "example": "你送他实用的东西比送陈设品要实惠些。",
    "exampleMeaning": "Bạn tặng anh ấy những gì dùng được, có ích hơn những đồ để trưng bày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shíhuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,46 +76,46 @@
    "ipa": "",
    "pinyin": "táohuā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "不易",
-   "meaning": "không dễ dàng để làm cái gì đó, không thay đổi, gay",
+   "meaning": "không dễ",
    "example": "我们来学“不易”这个词。",
-   "exampleMeaning": "Cùng học từ “不易”: không dễ dàng để làm cái gì đó, không thay đổi, gay.",
+   "exampleMeaning": "Cùng học từ “不易”: không dễ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "宽度",
-   "meaning": "độ rộng",
+   "meaning": "chiều rộng, độ rộng",
    "example": "我们来学“宽度”这个词。",
-   "exampleMeaning": "Cùng học từ “宽度”: độ rộng.",
+   "exampleMeaning": "Cùng học từ “宽度”: chiều rộng, độ rộng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kuāndù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "年前",
-   "meaning": "trước tết",
+   "meaning": "trước Tết, cuối năm",
    "example": "我在两年前吃过一次。",
    "exampleMeaning": "Tôi đã ăn một lần vào khoảng hai năm trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niánqián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "píngtǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "gāngbǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "工艺品",
-   "meaning": "hàng mỹ nghệ",
+   "meaning": "hàng thủ công mỹ nghệ",
    "example": "我们来学“工艺品”这个词。",
-   "exampleMeaning": "Cùng học từ “工艺品”: hàng mỹ nghệ.",
+   "exampleMeaning": "Cùng học từ “工艺品”: hàng thủ công mỹ nghệ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gōngyìpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "鼠标",
-   "meaning": "con chuột máy tính",
+   "meaning": "chuột máy tính",
    "example": "我们来学“鼠标”这个词。",
-   "exampleMeaning": "Cùng học từ “鼠标”: con chuột máy tính.",
+   "exampleMeaning": "Cùng học từ “鼠标”: chuột máy tính.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǔbiāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,72 +180,72 @@
    "ipa": "",
    "pinyin": "tiānwén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "岸上",
-   "meaning": "lên bờ",
+   "meaning": "trên bờ",
    "example": "我们来学“岸上”这个词。",
-   "exampleMeaning": "Cùng học từ “岸上”: lên bờ.",
+   "exampleMeaning": "Cùng học từ “岸上”: trên bờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ànshàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "朗读",
-   "meaning": "đọc diễn cảm",
+   "meaning": "đọc to, đọc diễn cảm",
    "example": "朗读课文。",
    "exampleMeaning": "Đọc diễn cảm",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǎngdú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "大纲",
-   "meaning": "đề cương",
+   "meaning": "đề cương, dàn ý",
    "example": "教学大纲",
    "exampleMeaning": "Đề cương giảng dạy",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàgāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "胶水",
-   "meaning": "nhựa cao su",
+   "meaning": "keo dán, hồ dán",
    "example": "我们来学“胶水”这个词。",
-   "exampleMeaning": "Cùng học từ “胶水”: nhựa cao su.",
+   "exampleMeaning": "Cùng học từ “胶水”: keo dán, hồ dán.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiāoshuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "共计",
-   "meaning": "cùng bàn chuyện",
+   "meaning": "tổng cộng",
    "example": "共计三千万元",
    "exampleMeaning": "Tổng cộng 30.000.000 đồng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gòngjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "shíshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

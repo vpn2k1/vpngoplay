@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "过分",
-   "meaning": "quá",
+   "meaning": "quá đáng, quá mức",
    "example": "这个箱子沉得过分了。",
    "exampleMeaning": "Cái hòm này quá nặng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guòfèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "密",
-   "meaning": "kín đáo, thầm kín, bí mật",
+   "meaning": "dày đặc, bí mật, thân mật",
    "example": "密码是\"Muiriel\"。",
    "exampleMeaning": "Mật mã là \"Muiriel\".",
    "emoji": "",
    "ipa": "",
    "pinyin": "mì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "反而",
-   "meaning": "trái lại",
+   "meaning": "ngược lại, trái lại",
    "example": "风不但没停，反而越来越大了。",
    "exampleMeaning": "Gió không những không ngừng mà trái lại càng mạnh thêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fǎnér",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "街道",
-   "meaning": "đường",
+   "meaning": "đường phố, khu phố",
    "example": "街道工作。",
    "exampleMeaning": "Công tác đường phố.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiēdào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "培训",
-   "meaning": "huấn luyện",
+   "meaning": "đào tạo, bồi dưỡng",
    "example": "培训技术人员。",
    "exampleMeaning": "Đào tạo và huấn luyện nhân viên kỹ thuật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "péixùn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "",
    "pinyin": "dúzì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "kuòdà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "大哥",
-   "meaning": "anh cả",
+   "meaning": "anh cả, đại ca",
    "example": "我们来学“大哥”这个词。",
-   "exampleMeaning": "Cùng học từ “大哥”: anh cả.",
+   "exampleMeaning": "Cùng học từ “大哥”: anh cả, đại ca.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàgē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "cǐwài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "jiǎngjīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -141,59 +141,59 @@
    "ipa": "",
    "pinyin": "yán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "大众",
-   "meaning": "quần chúng",
+   "meaning": "đại chúng, quần chúng",
    "example": "劳苦大众",
    "exampleMeaning": "Quần chúng lao động khổ cực",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàzhòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "迟到",
-   "meaning": "muộn",
+   "meaning": "đến muộn, đi trễ",
    "example": "我们来学“迟到”这个词。",
-   "exampleMeaning": "Cùng học từ “迟到”: muộn.",
+   "exampleMeaning": "Cùng học từ “迟到”: đến muộn, đi trễ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chídào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "怀念",
-   "meaning": "nhớ",
+   "meaning": "hoài niệm, nhớ",
    "example": "她怀念那些贫苦的孩子们。",
    "exampleMeaning": "Cô ấy nhớ nhung những đứa trẻ nghèo khổ kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huáiniàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "假如",
-   "meaning": "nếu",
+   "meaning": "nếu, giả sử",
    "example": "假如你没有这个程序，你现在就可以去下载。",
    "exampleMeaning": "Nếu bạn không có chương trình này, bây giờ bạn có thể tải nó về",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎrú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "gǎishàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "晒",
-   "meaning": "nắng",
+   "meaning": "phơi, phơi nắng",
    "example": "烈日晒得人头昏眼花。",
    "exampleMeaning": "Nắng đến nỗi đầu váng mắt hoa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "减",
-   "meaning": "giảm, hạ (giá cả)",
+   "meaning": "giảm, trừ",
    "example": "他的工资被削减到最低程度。",
    "exampleMeaning": "Lương của nó bị cắt giảm tới mức thấp nhất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "官方",
-   "meaning": "nhà nước",
+   "meaning": "chính thức, phía chính quyền",
    "example": "官方消息",
    "exampleMeaning": "Tin chính thức; tin tức phía chính phủ",
    "emoji": "",
    "ipa": "",
    "pinyin": "guānfāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "引导",
-   "meaning": "hướng dẫn",
+   "meaning": "hướng dẫn, dẫn dắt",
    "example": "老师对学生要善于引导。",
    "exampleMeaning": "Đối với học sinh giáo viên cần phải giỏi về cách hướng dẫn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐndǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

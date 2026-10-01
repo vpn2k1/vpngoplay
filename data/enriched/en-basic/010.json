@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "study",
-   "meaning": "học",
+   "meaning": "học, nghiên cứu",
    "example": "to be lost in a brown study",
    "exampleMeaning": "Đang suy nghĩ lung, đang trầm tư mặc tưởng",
    "emoji": "",
    "ipa": "/ˈstədi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "November",
-   "meaning": "Tháng mười một",
+   "meaning": "tháng mười một",
    "example": "Let's learn the word \"November\".",
-   "exampleMeaning": "Cùng học từ “November”: Tháng mười một.",
+   "exampleMeaning": "Cùng học từ “November”: tháng mười một.",
    "emoji": "",
    "ipa": "/noʊˈvɛmbɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "live",
-   "meaning": "sống",
+   "meaning": "sống, ở",
    "example": "to live down a prejudice against one",
    "exampleMeaning": "Bằng cách sống đứng đắn phá tan thành kiến của người ta đối với mình",
    "emoji": "",
    "ipa": "/ˈlaɪv/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "/sɛpˈtɛmbɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "painting",
-   "meaning": "bức vẽ, bức tranh",
+   "meaning": "bức tranh, hội họa",
    "example": "There's a painting over the bookcase.",
    "exampleMeaning": "Có một bức tranh bên trên tủ sách.",
    "emoji": "",
    "ipa": "/ˈpeɪn.tɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,85 +76,85 @@
    "ipa": "/ˈneɪ.bər/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "grandparent",
-   "meaning": "ông bà (nội ngoại)",
+   "meaning": "ông bà",
    "example": "Let's learn the word \"grandparent\".",
-   "exampleMeaning": "Cùng học từ “grandparent”: ông bà (nội ngoại).",
+   "exampleMeaning": "Cùng học từ “grandparent”: ông bà.",
    "emoji": "",
    "ipa": "/ˈɡrændˌpɛrənt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "site",
-   "meaning": "nơi, chỗ, vị trí",
+   "meaning": "địa điểm, công trường, trang web",
    "example": "a good site for a picnic",
    "exampleMeaning": "Một nơi đi chơi cắm trại tốt",
    "emoji": "",
    "ipa": "/ˈsaɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "factory",
-   "meaning": "nhà máy, xí nghiệp, xưởng",
+   "meaning": "nhà máy, xưởng",
    "example": "So he works at this factory, does he?",
    "exampleMeaning": "Cô ta làm ở xí nghiệp này đúng không?",
    "emoji": "🏭",
    "ipa": "/ˈfæk.tə.ri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "home",
-   "meaning": "nhà, gia đình, tổ ấm",
+   "meaning": "nhà, tổ ấm, quê nhà",
    "example": "to have neither hearth nor home",
    "exampleMeaning": "Không cửa không nhà",
    "emoji": "",
    "ipa": "/ˈhoʊm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "handsome",
-   "meaning": "đẹp",
+   "meaning": "đẹp trai",
    "example": "a handsome man",
    "exampleMeaning": "Người đẹp trai",
    "emoji": "",
    "ipa": "/ˈhænsəm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "rose",
-   "meaning": "hồng, màu hồng",
+   "meaning": "hoa hồng",
    "example": "The city rose from the ashes.",
    "exampleMeaning": "Thành phố mọc lên từ tro tàn.",
    "emoji": "🌹",
    "ipa": "/ˈroʊz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,20 +167,20 @@
    "ipa": "/ˈsæˌtɪˌdeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "first",
-   "meaning": "đầu tiên, lần đầu",
+   "meaning": "đầu tiên, trước tiên, lần đầu",
    "example": "where did you see him first?",
    "exampleMeaning": "Lần đầu anh gặp cậu ấy ở đâu?",
    "emoji": "",
    "ipa": "/ˈfɜrst/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -193,72 +193,72 @@
    "ipa": "/ˈsɔ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "school",
-   "meaning": "trường",
+   "meaning": "trường học",
    "example": "he learnt his generalship in a serve school",
    "exampleMeaning": "Ông ta đã học tập nghệ thuật chỉ huy quân sự trong một hiện trường rất ác liệt",
    "emoji": "🏫",
    "ipa": "/ˈskul/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "who",
-   "meaning": "ai, người nào, kẻ nào",
+   "meaning": "ai",
    "example": "Who am I?",
    "exampleMeaning": "Tôi là ai?",
    "emoji": "",
    "ipa": "/ˈhu/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "word",
-   "meaning": "từ",
+   "meaning": "từ, lời",
    "example": "to be as good as one's word",
    "exampleMeaning": "Làm nhiều hơn đã hứa, nói ít làm nhiều",
    "emoji": "",
    "ipa": "/ˈwɜrd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "black",
-   "meaning": "đen",
+   "meaning": "đen, màu đen",
    "example": "to be in black",
    "exampleMeaning": "Mặc quần áo đen; mặc áo tang",
    "emoji": "",
    "ipa": "/blæk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "mother",
-   "meaning": "mẹ, mẹ đẻ",
+   "meaning": "mẹ",
    "example": "Is your mother at home?",
    "exampleMeaning": "Mẹ của mày có ở nhà không?",
    "emoji": "",
    "ipa": "/ˈməðɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

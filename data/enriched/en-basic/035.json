@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "fly",
-   "meaning": "bay",
+   "meaning": "con ruồi",
    "example": "it's late, we must fly",
    "exampleMeaning": "Đã muộn rồi, chúng ta phải đi nhanh lên",
    "emoji": "🪰",
    "ipa": "/flaɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "all right",
-   "meaning": "tốt, được, ổn",
+   "meaning": "ổn, được, không sao",
    "example": "Is Tom all right?",
    "exampleMeaning": "Tom ổn chứ?",
    "emoji": "",
    "ipa": "/ˈɔl ˈraɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "princess",
-   "meaning": "bà chúa",
+   "meaning": "công chúa",
    "example": "Do you want to be a princess?",
    "exampleMeaning": "Bạn có muốn trở thành một công chúa?",
    "emoji": "👸",
    "ipa": "/ˈprɪnsɛs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "smell",
-   "meaning": "mùi (hương), mùi vị, hơi",
+   "meaning": "mùi, khứu giác",
    "example": "do you smell anything unusual?",
    "exampleMeaning": "Anh có cảm thấy có điều gì không bình thường không?",
    "emoji": "",
    "ipa": "/ˈsmɛl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "hers",
-   "meaning": "cái của nó",
+   "meaning": "của cô ấy (đại từ)",
    "example": "a friend of hers",
    "exampleMeaning": "Một người bạn của cô ấy",
    "emoji": "",
    "ipa": "/ˈhɜrz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
@@ -76,98 +76,98 @@
    "ipa": "/ˈtæksi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "key",
-   "meaning": "khóa, then",
+   "meaning": "chìa khóa, chủ chốt",
    "example": "to key up somebody to do something",
    "exampleMeaning": "Động viên ai làm gì",
    "emoji": "🔑",
    "ipa": "/ki/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "interviewer",
-   "meaning": "người gặp riêng",
+   "meaning": "người phỏng vấn",
    "example": "Let's learn the word \"interviewer\".",
-   "exampleMeaning": "Cùng học từ “interviewer”: người gặp riêng.",
+   "exampleMeaning": "Cùng học từ “interviewer”: người phỏng vấn.",
    "emoji": "",
    "ipa": "/ˈɪntɜrvˌjuɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "glasses",
-   "meaning": "động từ chia ở ngôi thứ ba số ít của glass",
+   "meaning": "kính mắt, cặp kính",
    "example": "Your glasses fell on the floor.",
    "exampleMeaning": "Kính của bạn đã rơi trên sàn",
    "emoji": "👓",
    "ipa": "/ˈɡlæsəz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "her",
-   "meaning": "nó, cô ấy, bà ấy",
+   "meaning": "cô ấy, bà ấy, chị ấy",
    "example": "Her toe bleeds.",
    "exampleMeaning": "Ngón chân của nó chảy máu.",
    "emoji": "",
    "ipa": "/ˈhɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "feeling",
-   "meaning": "cảm xúc",
+   "meaning": "cảm xúc, cảm giác",
    "example": "to have a feeling of safety",
    "exampleMeaning": "Có cảm tưởng an toàn",
    "emoji": "",
    "ipa": "/ˈfilɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "fun",
-   "meaning": "thú vị, thích thú, vui",
+   "meaning": "niềm vui, trò vui",
    "example": "Is this supposed to be fun?",
    "exampleMeaning": "Người ta nghĩ trò này vui à?",
    "emoji": "",
    "ipa": "/ˈfən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "hair",
-   "meaning": "lông, tóc",
+   "meaning": "tóc",
    "example": "to have (get) one's hair cut",
    "exampleMeaning": "Vấn tóc lên, búi tóc lên",
    "emoji": "",
    "ipa": "/ˈhɛr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -180,33 +180,33 @@
    "ipa": "/ˈɑːftə/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "grandma",
-   "meaning": "bà",
+   "meaning": "bà (thân mật)",
    "example": "Even my grandma can send an SMS.",
    "exampleMeaning": "Ngay cả bà của tôi còn có thể gởi tin nhắn nữa là.",
    "emoji": "",
    "ipa": "/ˈɡrændmɑ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "anything",
-   "meaning": "vật gì, việc gì",
+   "meaning": "bất cứ thứ gì, bất cứ điều gì",
    "example": "have you anything to drink?",
    "exampleMeaning": "Anh có gì để uống không?",
    "emoji": "",
    "ipa": "/ˈɛniˌθɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "/ˈtwɛni/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "please",
-   "meaning": "thích, muốn",
+   "meaning": "làm ơn, vui lòng",
    "example": "and now, if you please, he expects me to pay for it!",
    "exampleMeaning": "Anh thử tưởng tượng xem, hắn ta lại đợi tôi trả tiền cơ",
    "emoji": "",
    "ipa": "/pliːz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "period",
-   "meaning": "kỷ, kỳ, thời kỳ",
+   "meaning": "giai đoạn, thời kỳ, tiết học",
    "example": "the girl of the period",
    "exampleMeaning": "Cô gái thời nay",
    "emoji": "",
    "ipa": "/ˈpɪriəd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "smart",
-   "meaning": "thông minh (của một thiết bị)",
+   "meaning": "thông minh, bảnh bao",
    "example": "to go off at a smart pace",
    "exampleMeaning": "Bước đi nhanh",
    "emoji": "",
    "ipa": "/smɑrt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

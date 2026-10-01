@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "earring",
-   "meaning": "khuyên tai",
+   "meaning": "khuyên tai, bông tai",
    "example": "Let's learn the word \"earring\".",
-   "exampleMeaning": "Cùng học từ “earring”: khuyên tai.",
+   "exampleMeaning": "Cùng học từ “earring”: khuyên tai, bông tai.",
    "emoji": "",
    "ipa": "/ˈɪrɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,85 +24,85 @@
    "ipa": "/ˈlɛməˈneɪd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "effort",
-   "meaning": "lực",
+   "meaning": "nỗ lực, sự cố gắng",
    "example": "He made an effort to arrive on time.",
    "exampleMeaning": "Anh ấy đã cố gang đến đúng giờ.",
    "emoji": "",
    "ipa": "/ˈɛfɜrt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "joy",
-   "meaning": "niềm vui",
+   "meaning": "niềm vui, niềm hân hoan",
    "example": "he is the joy and pride of his mother",
    "exampleMeaning": "Nó là niềm vui và tự hào của mẹ nó",
    "emoji": "",
    "ipa": "/ˈdʒɔɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "pass",
-   "meaning": "qua, đi qua, đi ngang qua",
+   "meaning": "thẻ ra vào, giấy phép, đường chuyền",
    "example": "his fit of anger will soon pass",
    "exampleMeaning": "Cơn giận của hắn rồi sẽ qua đi ngay",
    "emoji": "",
    "ipa": "/pɑːs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "sunflower",
-   "meaning": "cây hướng dương",
+   "meaning": "hoa hướng dương",
    "example": "Let's learn the word \"sunflower\".",
-   "exampleMeaning": "Cùng học từ “sunflower”: cây hướng dương.",
+   "exampleMeaning": "Cùng học từ “sunflower”: hoa hướng dương.",
    "emoji": "🌻",
    "ipa": "/ˈsənˌflaʊɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "unlike",
-   "meaning": "khác, không giống",
+   "meaning": "không giống, khác",
    "example": "Unlike my brother, I cannot swim.",
    "exampleMeaning": "Không giống như anh trai mình, tôi không biết bơi.",
    "emoji": "",
    "ipa": "/ənˈlaɪk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "script",
-   "meaning": "kịch bản",
+   "meaning": "kịch bản, chữ viết",
    "example": "What do you do when you get writer's block while writing a script?",
    "exampleMeaning": "Bạn sẽ làm gì khi bạn bị bế tắc trong lúc viết một kịch bản?",
    "emoji": "",
    "ipa": "/ˈskrɪpt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "/ˈdeɪ.li/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,59 +128,59 @@
    "ipa": "/ˈənˈfɛr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "mark",
-   "meaning": "đích, mục đích, mục tiêu",
+   "meaning": "điểm, dấu, vết",
    "example": "mark my words!",
    "exampleMeaning": "Hãy chú ý những lời tôi nói, hãy nghi nhớ những lời tôi nói",
    "emoji": "",
    "ipa": "/mɑːk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "disturb",
-   "meaning": "làm mất yên tĩnh, làm náo động",
+   "meaning": "làm phiền, quấy rầy",
    "example": "Does the cough disturb your sleep?",
    "exampleMeaning": "Cơn ho có làm bạn mất ngủ?",
    "emoji": "",
    "ipa": "/dɪˈstɜrb/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "fork",
-   "meaning": "cái nĩa, cái xiên (để xiên thức ăn)",
+   "meaning": "cái nĩa",
    "example": "There is a fork missing.",
    "exampleMeaning": "Thiếu một cái nĩa.",
    "emoji": "",
    "ipa": "/ˈfɔrk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "anymore",
-   "meaning": "nữa",
+   "meaning": "nữa (không ... nữa)",
    "example": "You don't eat meat anymore, do you?",
    "exampleMeaning": "Cậu không ăn thịt nữa phải không?",
    "emoji": "",
    "ipa": "/ˌɛn.iˈmɔː/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,72 +193,72 @@
    "ipa": "/siːd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "childhood",
-   "meaning": "tuổi thơ ấu, thời thơ ấu",
+   "meaning": "thời thơ ấu, tuổi thơ",
    "example": "My childhood dream came true.",
    "exampleMeaning": "Giấc mơ thời thơ ấu của tôi đã trở thành hiện thực.",
    "emoji": "",
    "ipa": "/ˈtʃaɪldˌhʊd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "upset",
-   "meaning": "làm đổ, đánh đổ, lật đổ",
+   "meaning": "buồn bực, khó chịu, lo lắng",
    "example": "to upset a bottle",
    "exampleMeaning": "Đánh đổ cái chai",
    "emoji": "",
    "ipa": "/ˈəpˌsɛt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "kilometer",
-   "meaning": "kilômet",
+   "meaning": "ki-lô-mét, cây số",
    "example": "Let's learn the word \"kilometer\".",
-   "exampleMeaning": "Cùng học từ “kilometer”: kilômet.",
+   "exampleMeaning": "Cùng học từ “kilometer”: ki-lô-mét, cây số.",
    "emoji": "",
    "ipa": "/ˈkɪləˌmitɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "next",
-   "meaning": "sau, ngay sau, tiếp sau",
+   "meaning": "tiếp theo, tới, kế tiếp",
    "example": "may I bring my chair next yours?",
    "exampleMeaning": "Tôi có thể để cái ghế của tôi sát bên ghế anh không?",
    "emoji": "",
    "ipa": "/nɛkst/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "specific",
-   "meaning": "dứt khoát, rành mạch, rõ ràng",
+   "meaning": "cụ thể, riêng biệt",
    "example": "the specific name of a plant",
    "exampleMeaning": "(Sinh vật học) tên loài của một cây",
    "emoji": "",
    "ipa": "/spəˈsɪfɪk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

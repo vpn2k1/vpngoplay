@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "中々",
-   "meaning": "thực, thực sự",
+   "meaning": "khá, rất, mãi không",
    "example": "「中々」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “中々”: thực, thực sự.",
+   "exampleMeaning": "Cùng nhớ từ “中々”: khá, rất, mãi không.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "残念",
-   "meaning": "đáng tiếc, đáng ân hận",
+   "meaning": "đáng tiếc, tiếc",
    "example": "残念ながらそれは本当なのです。",
    "exampleMeaning": "Tiếc rằng cái đó là sự thật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "遅れる",
-   "meaning": "muộn, chậm, trễ",
+   "meaning": "đến muộn, bị trễ, chậm",
    "example": "月曜日にはバスはたいてい遅れる。",
    "exampleMeaning": "Xe buýt hay đến trễ vào ngày thứ hai.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,202 +63,202 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "上がる",
-   "meaning": "dậy, trở dậy, đứng dậy",
+   "meaning": "lên, đi lên, tăng",
    "example": "「上がる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “上がる”: dậy, trở dậy, đứng dậy.",
+   "exampleMeaning": "Cùng nhớ từ “上がる”: lên, đi lên, tăng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "安全",
-   "meaning": "sự an toàn, sự yên ổn, sự an ninh",
+   "meaning": "an toàn",
    "example": "君は安全な場所にいる。",
    "exampleMeaning": "Bạn đang ở một nơi an toàn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "サラダ",
-   "meaning": "rau xà lách",
+   "meaning": "xà lách, rau trộn",
    "example": "「サラダ」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “サラダ”: rau xà lách.",
+   "exampleMeaning": "Cùng nhớ từ “サラダ”: xà lách, rau trộn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "出席",
-   "meaning": "sự dự, sự có mặt",
+   "meaning": "có mặt, tham dự",
    "example": "私はその会に出席するつもりだ。",
    "exampleMeaning": "Tôi định tham dự buổi họp mặt ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "相談",
-   "meaning": "sự hỏi ý kiến",
+   "meaning": "bàn bạc, trao đổi, hỏi ý kiến",
    "example": "医者に相談した方がいいよ。",
    "exampleMeaning": "Bạn nên nhờ bác sỹ tư vấn thì hơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "最も",
-   "meaning": "lớn nhất, nhiều nhất",
+   "meaning": "nhất",
    "example": "母は家族の中で最も忙しい。",
    "exampleMeaning": "Mẹ tôi là người bận nhất trong nhà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "人形",
-   "meaning": "con búp bê ((nghĩa đen) & (nghĩa bóng))",
+   "meaning": "búp bê",
    "example": "その壊れた人形は私のものです。",
    "exampleMeaning": "Con búp bê bị hỏng đó là của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "聞こえる",
-   "meaning": "nghe",
+   "meaning": "nghe thấy, nghe được",
    "example": "小川がさらさらと流れる音が聞こえる。",
    "exampleMeaning": "Dòng sông nhỏ chảy róc rách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "通る",
-   "meaning": "đi, trải qua, kiểm tra",
+   "meaning": "đi qua, chạy qua, đỗ (kỳ thi)",
    "example": "「通る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “通る”: đi, trải qua, kiểm tra.",
+   "exampleMeaning": "Cùng nhớ từ “通る”: đi qua, chạy qua, đỗ (kỳ thi).",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "行う",
-   "meaning": "làm, làm (công việc... ), làm cho",
+   "meaning": "tiến hành, thực hiện, tổ chức",
    "example": "言うは易く行うは難し。",
    "exampleMeaning": "Nói thì dễ làm mới khó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "紹介",
-   "meaning": "sự giới thiệu, lời giới thiệu",
+   "meaning": "giới thiệu",
    "example": "かわいい子紹介してよ。",
    "exampleMeaning": "Giới thiệu cho tớ mấy em xinh tươi đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "訪ねる",
-   "meaning": "đi thăm hỏi",
+   "meaning": "thăm, đến thăm",
    "example": "「訪ねる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “訪ねる”: đi thăm hỏi.",
+   "exampleMeaning": "Cùng nhớ từ “訪ねる”: thăm, đến thăm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "木綿",
-   "meaning": "bông",
+   "meaning": "vải bông, bông",
    "example": "「木綿」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “木綿”: bông.",
+   "exampleMeaning": "Cùng nhớ từ “木綿”: vải bông, bông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "電報",
-   "meaning": "bức điện, bức điện tín",
+   "meaning": "điện báo, điện tín",
    "example": "「電報」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “電報”: bức điện, bức điện tín.",
+   "exampleMeaning": "Cùng nhớ từ “電報”: điện báo, điện tín.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "必ず",
-   "meaning": "chắc, nhất định",
+   "meaning": "nhất định, chắc chắn",
    "example": "彼は必ず約束を守った。",
    "exampleMeaning": "Anh ta chắc chắn sẽ giữ lời hứa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

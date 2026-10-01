@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "愿望",
-   "meaning": "nguyện vọng",
+   "meaning": "mong ước, nguyện vọng",
    "example": "他终于实现了上学的愿望。",
    "exampleMeaning": "Ước muốn được đến trường của em cuối cùng cũng thành hiện thực.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yuànwàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "长期",
-   "meaning": "dài hạn",
+   "meaning": "lâu dài, dài hạn",
    "example": "长期计划。",
    "exampleMeaning": "Kế hoạch dài hạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chángqī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,46 +37,46 @@
    "ipa": "",
    "pinyin": "shùliàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "保留",
-   "meaning": "giữ",
+   "meaning": "giữ lại, bảo lưu",
    "example": "有意见尽量谈出来，不要保留",
    "exampleMeaning": "Có ý kiến gì thì nói ra, đừng để lại trong lòng",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎoliú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "相比",
-   "meaning": "so sánh",
+   "meaning": "so với, so sánh",
    "example": "我们来学“相比”这个词。",
-   "exampleMeaning": "Cùng học từ “相比”: so sánh.",
+   "exampleMeaning": "Cùng học từ “相比”: so với, so sánh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāngbǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "深入",
-   "meaning": "thấu đáo",
+   "meaning": "đi sâu, thấu đáo",
    "example": "马克思主义深入人心。",
    "exampleMeaning": "Chủ nghĩa Các-Mác đi sâu vào lòng người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēnrù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,124 +89,124 @@
    "ipa": "",
    "pinyin": "shíyóu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "情感",
-   "meaning": "tình cảm",
+   "meaning": "tình cảm, cảm xúc",
    "example": "我们来学“情感”这个词。",
-   "exampleMeaning": "Cùng học từ “情感”: tình cảm.",
+   "exampleMeaning": "Cùng học từ “情感”: tình cảm, cảm xúc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qínggǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "称为",
-   "meaning": "gọi là",
+   "meaning": "gọi là, được gọi là",
    "example": "我们来学“称为”这个词。",
-   "exampleMeaning": "Cùng học từ “称为”: gọi là.",
+   "exampleMeaning": "Cùng học từ “称为”: gọi là, được gọi là.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chēngwéi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "人群",
-   "meaning": "đám người",
+   "meaning": "đám đông",
    "example": "他在人群里挤来挤去。",
    "exampleMeaning": "Anh ấy len đi len lại trong đám người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rénqún",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "计算",
-   "meaning": "tính",
+   "meaning": "tính toán, tính",
    "example": "做事没计算。",
    "exampleMeaning": "Làm việc không suy tính.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìsuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "开发",
-   "meaning": "trả",
+   "meaning": "phát triển, khai thác, khai phá",
    "example": "开发车钱。",
    "exampleMeaning": "Trả tiền xe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kāifā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "始终",
-   "meaning": "từ đầu đến cuối",
+   "meaning": "từ đầu đến cuối, trước sau",
    "example": "始终不懈(自始至终不松懈)。",
    "exampleMeaning": "Bền bỉ từ đầu đến cuối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǐzhōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "争",
-   "meaning": "tranh",
+   "meaning": "tranh giành, tranh cãi",
    "example": "你别再跟他争吵了。",
    "exampleMeaning": "Anh đừng cãi nhau với nó nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhēng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "订",
-   "meaning": "đóng (sách, vở)",
+   "meaning": "đặt, đặt trước, ký kết",
    "example": "为什么我们不订披萨呢？",
    "exampleMeaning": "Tại sao chúng ta không đặt bánh Pizza?",
    "emoji": "",
    "ipa": "",
    "pinyin": "dìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "卫生",
-   "meaning": "vệ sinh",
+   "meaning": "vệ sinh, sạch sẽ",
    "example": "喝生水，不卫生",
    "exampleMeaning": "Uống nước lã không vệ sinh",
    "emoji": "",
    "ipa": "",
    "pinyin": "wèishēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -219,7 +219,7 @@
    "ipa": "",
    "pinyin": "fù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -232,33 +232,33 @@
    "ipa": "",
    "pinyin": "jiāqiáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "保安",
-   "meaning": "bảo hộ",
+   "meaning": "bảo vệ, an ninh",
    "example": "保安规程。",
    "exampleMeaning": "Quy trình bảo hộ lao động",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎoān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "歌手",
-   "meaning": "người hát, ca sĩ",
+   "meaning": "ca sĩ",
    "example": "赛歌会上，歌手如云。",
    "exampleMeaning": "Trong cuộc thi ca hát, người hát rất đông.",
    "emoji": "🧑‍🎤",
    "ipa": "",
    "pinyin": "gēshǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

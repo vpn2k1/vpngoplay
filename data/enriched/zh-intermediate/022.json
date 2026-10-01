@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "专辑",
-   "meaning": "album",
+   "meaning": "album, tuyển tập",
    "example": "我们来学“专辑”这个词。",
-   "exampleMeaning": "Cùng học từ “专辑”: album.",
+   "exampleMeaning": "Cùng học từ “专辑”: album, tuyển tập.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhuānjí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,46 +24,46 @@
    "ipa": "",
    "pinyin": "hǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "绕",
-   "meaning": "quanh quẩn",
+   "meaning": "đi vòng, quấn",
    "example": "一些问题绕在他的胸子里。",
    "exampleMeaning": "Một số vấn đề cứ quanh quẩn trong đầu anh ta.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "喷",
-   "meaning": "mùa (nông sản, hải sản)",
+   "meaning": "phun, xịt",
    "example": "绿豆结二喷角了。",
    "exampleMeaning": "Đậu xanh đã qua hai đợt rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pēn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "抱怨",
-   "meaning": "oán trách",
+   "meaning": "phàn nàn, oán trách",
    "example": "他怎么敢抱怨？",
    "exampleMeaning": "Sao anh ta lại dám phàn nàn cơ chứ?",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàoyuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "wèixīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "动手",
-   "meaning": "chạm vào",
+   "meaning": "bắt tay làm, ra tay",
    "example": "展览品只许看，不许动手。",
    "exampleMeaning": "Hàng triển lãm chỉ được xem, không được chạm vào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dòngshǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "靠近",
-   "meaning": "kế",
+   "meaning": "đến gần, sát gần",
    "example": "轮船慢慢地靠近码头了。",
    "exampleMeaning": "Thuyền từ từ cập bến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kàojìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "línjū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,20 +128,20 @@
    "ipa": "",
    "pinyin": "wūrǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "罚",
-   "meaning": "phạt, trừng phạt, trừng trị",
+   "meaning": "phạt",
    "example": "罚他喝一杯",
    "exampleMeaning": "Phạt nó uống một ly.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fá",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,85 +154,85 @@
    "ipa": "",
    "pinyin": "shíjī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "治安",
-   "meaning": "an ninh trật tự",
+   "meaning": "an ninh trật tự, trị an",
    "example": "治安保卫工作",
    "exampleMeaning": "Công tác bảo vệ trị an",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "糟糕",
-   "meaning": "gay go",
+   "meaning": "tệ, hỏng bét",
    "example": "真糟糕，把钥匙锁在屋里，进不去了。",
    "exampleMeaning": "Gay go rồi, bỏ quên chìa khoá trong nhà rồi, không vào được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zāogāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "空中",
-   "meaning": "không trung",
+   "meaning": "trên không, không trung",
    "example": "云是天空中的水汽团。",
    "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kōngzhōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "渴望",
-   "meaning": "khát khao",
+   "meaning": "khát khao, mong mỏi",
    "example": "同学们都渴望着 和这 位作家见面。",
    "exampleMeaning": "Các bạn học đều tha thiết gặp mặt nhà văn này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kěwàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "连接",
-   "meaning": "liên tiếp",
+   "meaning": "kết nối, nối liền",
    "example": "山岭连接。",
    "exampleMeaning": "Núi liền núi.",
    "emoji": "🔗",
    "ipa": "",
    "pinyin": "liánjiē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "拆",
-   "meaning": "phá",
+   "meaning": "tháo dỡ, bóc",
    "example": "把旧房子拆 了。",
    "exampleMeaning": "Đập bỏ căn phòng cũ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chāi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "cǐshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "蛇",
-   "meaning": "con rắn",
+   "meaning": "rắn",
    "example": "我们来学“蛇”这个词。",
-   "exampleMeaning": "Cùng học từ “蛇”: con rắn.",
+   "exampleMeaning": "Cùng học từ “蛇”: rắn.",
    "emoji": "🐍",
    "ipa": "",
    "pinyin": "shé",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "T-shirt",
-   "meaning": "Áo thun, áo phông",
+   "meaning": "áo thun, áo phông",
    "example": "Let's learn the word \"T-shirt\".",
-   "exampleMeaning": "Cùng học từ “T-shirt”: Áo thun, áo phông.",
+   "exampleMeaning": "Cùng học từ “T-shirt”: áo thun, áo phông.",
    "emoji": "👕",
    "ipa": "/ˈtiːʃɜːt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,111 +24,111 @@
    "ipa": "/ˈfɔrˈtin/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "hand",
-   "meaning": "tay, bàn tay (người)",
+   "meaning": "bàn tay, tay",
    "example": "on the one hand..., on the other hand...",
    "exampleMeaning": "Mặt này..., mặt khác...",
    "emoji": "",
    "ipa": "/hænd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "celebration",
-   "meaning": "sự kỷ niệm",
+   "meaning": "lễ kỷ niệm, buổi ăn mừng",
    "example": "Let's learn the word \"celebration\".",
-   "exampleMeaning": "Cùng học từ “celebration”: sự kỷ niệm.",
+   "exampleMeaning": "Cùng học từ “celebration”: lễ kỷ niệm, buổi ăn mừng.",
    "emoji": "",
    "ipa": "/ˌsɛləˈbreɪʃən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "blue",
-   "meaning": "xanh, lam",
+   "meaning": "màu xanh dương, xanh lam",
    "example": "to be dressed in blue",
    "exampleMeaning": "Mặc quần áo màu xanh",
    "emoji": "",
    "ipa": "/ˈblu/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "any",
-   "meaning": "một, chút nào, một tí nào",
+   "meaning": "bất kỳ, nào, chút nào",
    "example": "is there any of them there?",
    "exampleMeaning": "Có ai trong bọn họ ở đây không?",
    "emoji": "",
    "ipa": "/ˈɛni/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "only",
-   "meaning": "chỉ, mới",
+   "meaning": "chỉ, duy nhất",
    "example": "only that you would be bored, I should...",
    "exampleMeaning": "Chỉ ngại làm phiền anh, nếu không tôi sẽ...",
    "emoji": "",
    "ipa": "/ˈoʊnli/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "jeans",
-   "meaning": "quần bằng vải bông dày",
+   "meaning": "quần bò, quần jean",
    "example": "I prefer wearing jeans to skirts.",
    "exampleMeaning": "Tôi thích mặc quần jean hơn váy.",
    "emoji": "👖",
    "ipa": "/ˈdʒinz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "excited",
-   "meaning": "bị kích thích, bị kích động",
+   "meaning": "phấn khích, háo hức",
    "example": "Why is Tom excited?",
    "exampleMeaning": "Sao Tom phấn khích thế?",
    "emoji": "",
    "ipa": "/ɪkˈsaɪtɪd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "car",
-   "meaning": "xe, xa",
+   "meaning": "xe hơi, ô tô",
    "example": "I'm car sick.",
    "exampleMeaning": "Tôi bị say xe.",
    "emoji": "",
    "ipa": "/kɑː/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,124 +141,124 @@
    "ipa": "/ˈraɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "careful",
-   "meaning": "cẩn thận, thận trọng, biết giữ gìn",
+   "meaning": "cẩn thận",
    "example": "a careful examination of the question",
    "exampleMeaning": "Sự xem xét kỹ lưỡng vấn đề",
    "emoji": "",
    "ipa": "/ˈkɛrfəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "suggestion",
-   "meaning": "sự gợi ý",
+   "meaning": "lời gợi ý, đề xuất",
    "example": "What do you think of his suggestion?",
    "exampleMeaning": "Bạn nghĩ như thế nào về đề xuất của anh ấy?",
    "emoji": "",
    "ipa": "/səˈdʒɛstʃən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "shy",
-   "meaning": "nhút nhát, bẽn lẽn, e thẹn",
+   "meaning": "nhút nhát, e thẹn",
    "example": "I am a shy boy.",
    "exampleMeaning": "Tôi là một thằng nhóc hay mắc cỡ.",
    "emoji": "",
    "ipa": "/ˈʃaɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "cute",
-   "meaning": "dễ thương",
+   "meaning": "dễ thương, đáng yêu",
    "example": "It's so cute I'm gonna melt.",
    "exampleMeaning": "Cái này dễ thương quá, mình sẽ tan chảy mất.",
    "emoji": "",
    "ipa": "/kjuːt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "the",
-   "meaning": "cái, con, người",
+   "meaning": "cái, những (mạo từ xác định)",
    "example": "A stone hit him on the head.",
    "exampleMeaning": "Anh ấy bị đá đâm vào đầu [của anh ấy].",
    "emoji": "",
    "ipa": "/ˈðə/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "grow",
-   "meaning": "lớn, lớn lên (người)",
+   "meaning": "lớn lên, trồng, phát triển",
    "example": "to grow out of a bad habit",
    "exampleMeaning": "Bỏ một thói xấu",
    "emoji": "",
    "ipa": "/ɡrəʊ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "they",
-   "meaning": "chúng nó, chúng, họ",
+   "meaning": "họ, chúng nó",
    "example": "they say that...",
    "exampleMeaning": "Người ta nói rằng...",
    "emoji": "",
    "ipa": "/ˈðeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "April",
-   "meaning": "Tháng tư",
+   "meaning": "tháng tư",
    "example": "The school year begins on April tenth.",
    "exampleMeaning": "Năm học bắt đầu vào mùng mười tháng Tư.",
    "emoji": "",
    "ipa": "/ˈeɪ.prɪl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "late",
-   "meaning": "muộn, chậm, trễ",
+   "meaning": "muộn, trễ",
    "example": "early or late; soon or late; sooner or late",
    "exampleMeaning": "Không sớm thì muộn, chẳng chóng thì chầy",
    "emoji": "",
    "ipa": "/ˈleɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "也",
-   "meaning": "cũng vầy, cũng thế, vậy",
+   "meaning": "cũng",
    "example": "我也和你想的一样。",
    "exampleMeaning": "Tôi cũng nghĩ như anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yě",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "都",
-   "meaning": "tất cả, hết thảy, toàn bộ",
+   "meaning": "đều, tất cả",
    "example": "她一整晚都在哭。",
    "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dōu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "对",
-   "meaning": "đúng, chính xác",
+   "meaning": "đúng, đối với",
    "example": "她对大家都很亲切。",
    "exampleMeaning": "Đối với mọi người, nó đều rất thân thiết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "到",
-   "meaning": "được, tới nơi, chu đáo",
+   "meaning": "tới, đến nơi",
    "example": "我从早考到晚。",
    "exampleMeaning": "Tôi đã làm bài thi từ sáng tới tối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "上",
-   "meaning": "trên, cao, thượng",
+   "meaning": "trên, lên",
    "example": "我父親開車去上班。",
    "exampleMeaning": "Ba tui đi làm bằng xe hơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "来",
-   "meaning": "đến",
+   "meaning": "đến, lại đây",
    "example": "别让狗进来。",
    "exampleMeaning": "Không được cho chó vào bên trong.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lái",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,98 +89,98 @@
    "ipa": "",
    "pinyin": "hěn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "还",
-   "meaning": "trả",
+   "meaning": "còn, vẫn",
    "example": "这首歌也还可以吧？",
    "exampleMeaning": "Bài hát ấy cũng hay đấy chứ?",
    "emoji": "",
    "ipa": "",
    "pinyin": "hái",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "去",
-   "meaning": "đi, đi tới, phải",
+   "meaning": "đi",
    "example": "我该去睡觉了。",
    "exampleMeaning": "Tôi phải đi ngủ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "她",
-   "meaning": "cô ấy",
+   "meaning": "cô ấy, chị ấy",
    "example": "你认为她多大？",
    "exampleMeaning": "Bạn nghĩ cô ấy bao nhiêu tuổi?",
    "emoji": "",
    "ipa": "",
    "pinyin": "tā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "着",
-   "meaning": "đạt tới, cảm thấy, có cảm giác",
+   "meaning": "đang (trợ từ)",
    "example": "这几条狗，它们灵着呢。",
    "exampleMeaning": "Mấy con chó này chúng nó khôn lắm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zháo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "想",
-   "meaning": "nhớ",
+   "meaning": "nghĩ, muốn, nhớ",
    "example": "我们很想去。",
    "exampleMeaning": "Chúng tôi rất muốn đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "给",
-   "meaning": "no đủ",
+   "meaning": "cho, đưa",
    "example": "何不送给她一些花?",
    "exampleMeaning": "Sao bạn không thử tặng cho cô ấy ít hoa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "gěi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "没有",
-   "meaning": "không (tồn tại)",
+   "meaning": "không có, chưa",
    "example": "小时候我没有自行车。",
    "exampleMeaning": "Hồi nhỏ tôi không có xe đạp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "méiyǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,20 +193,20 @@
    "ipa": "",
    "pinyin": "néng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "那",
-   "meaning": "nhiều, nhiều cái, nhiều người",
+   "meaning": "đó, kia",
    "example": "男孩子在那儿。",
    "exampleMeaning": "Thằng bé ở đằng kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nuó",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "tāmen",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "看",
-   "meaning": "thử",
+   "meaning": "nhìn, xem, đọc",
    "example": "我看了一本書。",
    "exampleMeaning": "Tôi đã xem một quyển sách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "做",
-   "meaning": "chế tạo, soạn, sáng tác",
+   "meaning": "làm",
    "example": "我現在有很多事要做。",
    "exampleMeaning": "Tôi có rất nhiều việc cần làm bây giờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "什么",
-   "meaning": "gì",
+   "meaning": "gì, cái gì",
    "example": "你想买些什么？",
    "exampleMeaning": "Anh muốn mua những gì?",
    "emoji": "",
    "ipa": "",
    "pinyin": "shénme",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

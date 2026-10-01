@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "拌",
-   "meaning": "trộn, trộn lẫn, pha lẫn",
+   "meaning": "trộn",
    "example": "我们来学“拌”这个词。",
-   "exampleMeaning": "Cùng học từ “拌”: trộn, trộn lẫn, pha lẫn.",
+   "exampleMeaning": "Cùng học từ “拌”: trộn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "机动",
-   "meaning": "cơ động",
+   "meaning": "cơ động, linh hoạt, chạy máy",
    "example": "机动力量。",
    "exampleMeaning": "Lực lượng cơ động.",
    "emoji": "🚂",
    "ipa": "",
    "pinyin": "jīdòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,72 +37,72 @@
    "ipa": "",
    "pinyin": "huànjué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "艰辛",
-   "meaning": "gian khổ",
+   "meaning": "gian khổ, vất vả",
    "example": "历尽艰辛，方有今日。",
    "exampleMeaning": "Trải qua gian khổ, mới có được ngày hôm nay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiānxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "过滤",
-   "meaning": "lọc (bột, nước…)",
+   "meaning": "lọc",
    "example": "过滤嘴香烟。",
    "exampleMeaning": "Thuốc lá có đầu lọc",
    "emoji": "",
    "ipa": "",
    "pinyin": "guòlǜ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "偏见",
-   "meaning": "phiến diện",
+   "meaning": "định kiến, thành kiến",
    "example": "我们来学“偏见”这个词。",
-   "exampleMeaning": "Cùng học từ “偏见”: phiến diện.",
+   "exampleMeaning": "Cùng học từ “偏见”: định kiến, thành kiến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "piānjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "攀",
-   "meaning": "leo, trèo, leo trèo",
+   "meaning": "leo, trèo, bám víu",
    "example": "攀着绳子往上爬。",
    "exampleMeaning": "Bám vào dây trèo lên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "气愤",
-   "meaning": "căm phẫn",
+   "meaning": "tức giận, phẫn nộ",
    "example": "他听了这种不三不四的话非常气愤。",
    "exampleMeaning": "Anh ấy nghe mấy câu nói chẳng ra gì này vô cùng căm phẫn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qìfèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "bǎonuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "jiēcéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,7 +141,7 @@
    "ipa": "",
    "pinyin": "chōuti",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,59 +154,59 @@
    "ipa": "",
    "pinyin": "huìchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "知觉",
-   "meaning": "phát hiện",
+   "meaning": "tri giác, ý thức",
    "example": "我不出手,敌不知觉。",
    "exampleMeaning": "Tôi không ra tay, địch không phát hiện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhījué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "审核",
-   "meaning": "xét duyệt",
+   "meaning": "thẩm định, xét duyệt",
    "example": "审核经费。",
    "exampleMeaning": "Xét duyệt kinh phí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shěnhé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "飞翔",
-   "meaning": "bay",
+   "meaning": "bay lượn",
    "example": "鸽子在天空飞翔。",
    "exampleMeaning": "Chim bồ câu bay lượn trên không trung.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēixiáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "大吃一惊",
-   "meaning": "vô cùng ngạc nhiên",
+   "meaning": "giật mình, hết sức kinh ngạc",
    "example": "我们来学“大吃一惊”这个词。",
-   "exampleMeaning": "Cùng học từ “大吃一惊”: vô cùng ngạc nhiên.",
+   "exampleMeaning": "Cùng học từ “大吃一惊”: giật mình, hết sức kinh ngạc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàchīyījīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,20 +219,20 @@
    "ipa": "",
    "pinyin": "língshòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "叙述",
-   "meaning": "tự thuật",
+   "meaning": "kể lại, thuật lại",
    "example": "我们来学“叙述”这个词。",
-   "exampleMeaning": "Cùng học từ “叙述”: tự thuật.",
+   "exampleMeaning": "Cùng học từ “叙述”: kể lại, thuật lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xùshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "shāndǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "敏锐",
-   "meaning": "nhạy bén (cảm giác)",
+   "meaning": "nhạy bén, sắc sảo",
    "example": "我们来学“敏锐”这个词。",
-   "exampleMeaning": "Cùng học từ “敏锐”: nhạy bén (cảm giác).",
+   "exampleMeaning": "Cùng học từ “敏锐”: nhạy bén, sắc sảo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǐnruì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

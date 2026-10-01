@@ -1,0 +1,325 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "height",
+   "meaning": "chiều cao, độ cao",
+   "example": "to be 1.70m in height",
+   "exampleMeaning": "Cao 1 mét 70",
+   "emoji": "",
+   "ipa": "/haɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "literary",
+   "meaning": "(thuộc) văn học, văn chương",
+   "example": "a literary man",
+   "exampleMeaning": "Nhà văn",
+   "emoji": "",
+   "ipa": "/ˈlɪtɜrˌɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rapidly",
+   "meaning": "nhanh chóng",
+   "example": "The river swelled rapidly because of the heavy rain.",
+   "exampleMeaning": "Dòng sông dâng nhanh vì mưa lớn.",
+   "emoji": "",
+   "ipa": "/ˈræpədli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cheerful",
+   "meaning": "vui vẻ, hớn hở",
+   "example": "a cheerful face",
+   "exampleMeaning": "Bộ mặt hớn hở",
+   "emoji": "",
+   "ipa": "/ˈtʃɪrfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "distance",
+   "meaning": "khoảng cách, quãng đường",
+   "example": "to go part of the distance on foot",
+   "exampleMeaning": "Đi bộ một phần quãng đường",
+   "emoji": "",
+   "ipa": "/ˈdɪstəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "emotional",
+   "meaning": "(thuộc) cảm xúc, xúc động, đa cảm",
+   "example": "Let's learn the word \"emotional\".",
+   "exampleMeaning": "Cùng học từ “emotional”: (thuộc) cảm xúc, xúc động, đa cảm.",
+   "emoji": "",
+   "ipa": "/ˈiˌmoʊʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conservation",
+   "meaning": "bảo tồn, bảo vệ",
+   "example": "conservation of energy",
+   "exampleMeaning": "Sự bảo toàn năng lượng",
+   "emoji": "",
+   "ipa": "/ˌkɑnsɜrˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "waterfall",
+   "meaning": "thác nước",
+   "example": "Let's learn the word \"waterfall\".",
+   "exampleMeaning": "Cùng học từ “waterfall”: thác nước.",
+   "emoji": "",
+   "ipa": "/ˈwɔtɜrˌfɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sunset",
+   "meaning": "hoàng hôn, lúc mặt trời lặn",
+   "example": "The red sunset is very beautiful.",
+   "exampleMeaning": "Hoàng hôn đỏ rất đẹp.",
+   "emoji": "🌇",
+   "ipa": "/ˈsənˌsɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "southern",
+   "meaning": "(thuộc) phía nam, miền nam",
+   "example": "Italy is in southern Europe.",
+   "exampleMeaning": "Nước Ý nằm ở phía nam châu âu.",
+   "emoji": "",
+   "ipa": "/ˈsəðɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "jogging",
+   "meaning": "chạy bộ",
+   "example": "He may be jogging around the park.",
+   "exampleMeaning": "Có thể anh ấy đang đi dạo quanh công viên.",
+   "emoji": "",
+   "ipa": "/ˈd͡ʒɒɡ.ɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "modal verb",
+   "meaning": "động từ khuyết thiếu",
+   "example": "Let's learn the word \"modal verb\".",
+   "exampleMeaning": "Cùng học từ “modal verb”: động từ khuyết thiếu.",
+   "emoji": "",
+   "ipa": "/ˈmoʊdəl ˈvɜrb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bin",
+   "meaning": "thùng rác, thùng",
+   "example": "Let's learn the word \"bin\".",
+   "exampleMeaning": "Cùng học từ “bin”: thùng rác, thùng.",
+   "emoji": "",
+   "ipa": "/ˈbɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "narrow",
+   "meaning": "hẹp, chật hẹp",
+   "example": "a narrow street",
+   "exampleMeaning": "Một phố hẹp",
+   "emoji": "",
+   "ipa": "/ˈnæroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accountant",
+   "meaning": "kế toán viên, nhân viên kế toán",
+   "example": "Let's learn the word \"accountant\".",
+   "exampleMeaning": "Cùng học từ “accountant”: kế toán viên, nhân viên kế toán.",
+   "emoji": "",
+   "ipa": "/əˈkaʊntənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "facility",
+   "meaning": "cơ sở vật chất, tiện nghi",
+   "example": "Let's learn the word \"facility\".",
+   "exampleMeaning": "Cùng học từ “facility”: cơ sở vật chất, tiện nghi.",
+   "emoji": "",
+   "ipa": "/fəˈsɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "architect",
+   "meaning": "kiến trúc sư",
+   "example": "I am the architect of my own misfortune.",
+   "exampleMeaning": "Tôi là kiến trúc sư của vận xui của chính mình.",
+   "emoji": "",
+   "ipa": "/ˈɑrkəˌtɛkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "moreover",
+   "meaning": "hơn nữa, ngoài ra",
+   "example": "Let's learn the word \"moreover\".",
+   "exampleMeaning": "Cùng học từ “moreover”: hơn nữa, ngoài ra.",
+   "emoji": "",
+   "ipa": "/mɔˈroʊvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fasten",
+   "meaning": "thắt, cài, buộc chặt",
+   "example": "to fasten one's thoughts on something",
+   "exampleMeaning": "Tập tung tư tưởng vào cái gì",
+   "emoji": "",
+   "ipa": "/ˈfæsən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "overjoyed",
+   "meaning": "vui mừng khôn xiết",
+   "example": "Let's learn the word \"overjoyed\".",
+   "exampleMeaning": "Cùng học từ “overjoyed”: vui mừng khôn xiết.",
+   "emoji": "",
+   "ipa": "/ˌoʊvɜrˈdʒɔɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "road",
+    "is",
+    "narrow"
+   ],
+   "reading": "",
+   "meaning": "Con đường này hẹp."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "leave",
+    "before",
+    "sunset"
+   ],
+   "reading": "",
+   "meaning": "Hãy cùng rời đi trước khi mặt trời lặn."
+  },
+  {
+   "tokens": [
+    "The",
+    "red",
+    "sunset",
+    "is",
+    "very",
+    "beautiful"
+   ],
+   "reading": "",
+   "meaning": "Hoàng hôn đỏ rất đẹp."
+  },
+  {
+   "tokens": [
+    "In",
+    "today's",
+    "world",
+    "information",
+    "spreads",
+    "rapidly"
+   ],
+   "reading": "",
+   "meaning": "Trong thế giới ngày nay, thông tin được lan truyền nhanh chóng."
+  },
+  {
+   "tokens": [
+    "They",
+    "are",
+    "now",
+    "the",
+    "same",
+    "height"
+   ],
+   "reading": "",
+   "meaning": "Bây giờ họ cao bằng nhau."
+  }
+ ],
+ "issues": []
+}

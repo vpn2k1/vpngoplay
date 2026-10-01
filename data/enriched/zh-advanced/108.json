@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "哑",
-   "meaning": "câm",
+   "meaning": "câm, khàn giọng",
    "example": "嗓子都喊哑了。",
    "exampleMeaning": "Hét khản cả cổ",
    "emoji": "",
    "ipa": "",
    "pinyin": "yā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "",
    "pinyin": "túzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "矣",
-   "meaning": "rồi, (đặt ở cuối câu)",
+   "meaning": "rồi (trợ từ văn ngôn)",
    "example": "由来久矣。",
    "exampleMeaning": "Từ đó đến nay đã lâu rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "bìngchuáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "观望",
-   "meaning": "mong ngóng",
+   "meaning": "chờ xem, chờ thời",
    "example": "意存观望",
    "exampleMeaning": "Ý còn xem chừng đã; có ý xem chừng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guānwàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "告诫",
-   "meaning": "răn đe",
+   "meaning": "khuyên răn, cảnh báo",
    "example": "父亲严厉告诫说,要正正派派做人。",
    "exampleMeaning": "Bố mẹ nghiêm khắc răn đe, phải làm người đứng đắn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gàojiè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "yāoguài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -102,46 +102,46 @@
    "ipa": "",
    "pinyin": "lìjīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "译",
-   "meaning": "dịch, phiên dịch",
+   "meaning": "dịch",
    "example": "我爱好翻译。",
    "exampleMeaning": "Mình rất thích dịch thuật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "商讨",
-   "meaning": "trao đổi",
+   "meaning": "bàn bạc, thảo luận",
    "example": "议会商讨了两国的经济合作问题。",
    "exampleMeaning": "Hội nghị đã trao đổi vấn đề hợp tác kinh tế giữa hai nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shāngtǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "凶残",
-   "meaning": "hung tàn",
+   "meaning": "hung tàn, tàn bạo",
    "example": "凶残成性。",
    "exampleMeaning": "Quen thói hung tàn",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiōngcán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,33 +154,33 @@
    "ipa": "",
    "pinyin": "kǒuxiāngtáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "绞",
-   "meaning": "treo cổ",
+   "meaning": "xoắn, vặn, vắt",
    "example": "铁索是用许多铁丝绞成的。",
    "exampleMeaning": "Dây cáp là dùng nhiều dây thép xoắn thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "沉思",
-   "meaning": "suy nghĩ",
+   "meaning": "trầm tư, suy tư",
    "example": "一阵沉重的脚步声打断了他的沉思。",
    "exampleMeaning": "Những bước chân nặng nề đã cắt đứt dòng suy nghĩ của anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chénsī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,46 +193,46 @@
    "ipa": "",
    "pinyin": "shòuhuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "内存",
-   "meaning": "rAM",
+   "meaning": "bộ nhớ trong, RAM",
    "example": "我们来学“内存”这个词。",
-   "exampleMeaning": "Cùng học từ “内存”: rAM.",
+   "exampleMeaning": "Cùng học từ “内存”: bộ nhớ trong, RAM.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nèicún",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "参军",
-   "meaning": "tòng quân",
+   "meaning": "tòng quân, nhập ngũ",
    "example": "我们来学“参军”这个词。",
-   "exampleMeaning": "Cùng học từ “参军”: tòng quân.",
+   "exampleMeaning": "Cùng học từ “参军”: tòng quân, nhập ngũ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cānjūn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "热潮",
-   "meaning": "phong trào lớn",
+   "meaning": "cơn sốt, trào lưu",
    "example": "我们来学“热潮”这个词。",
-   "exampleMeaning": "Cùng học từ “热潮”: phong trào lớn.",
+   "exampleMeaning": "Cùng học từ “热潮”: cơn sốt, trào lưu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rècháo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "kēhuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "质问",
-   "meaning": "chất vấn",
+   "meaning": "chất vấn, vặn hỏi",
    "example": "提出质问",
    "exampleMeaning": "Đưa ra chất vấn",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìwèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

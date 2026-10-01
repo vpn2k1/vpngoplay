@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "棵",
-   "meaning": "cây",
+   "meaning": "cây (lượng từ)",
    "example": "他們在那棵大樹的樹蔭下坐了下來。",
    "exampleMeaning": "Họ ngồi dưới bóng râm của cái cây to kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "粗",
-   "meaning": "thô",
+   "meaning": "to, thô, thô lỗ",
    "example": "别拿他当粗人，他的心可细呢!",
    "exampleMeaning": "Đừng nghĩ anh ta là người lỗ mãng, anh ta tế nhị lắm đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "zōnghé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,111 +50,111 @@
    "ipa": "",
    "pinyin": "duōnián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "形容",
-   "meaning": "tả, diễn tả, mô tả",
+   "meaning": "miêu tả, hình dung, diễn tả",
    "example": "他高兴的心情是无法形容的。",
    "exampleMeaning": "Nỗi vui mừng của anh ấy không thể nào tả được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xíngróng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "青春",
-   "meaning": "thanh xuân",
+   "meaning": "thanh xuân, tuổi trẻ",
    "example": "把青春献给祖国。",
    "exampleMeaning": "Hiến dâng tuổi thanh xuân cho đất nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qīngchūn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "列车",
-   "meaning": "đoàn tàu",
+   "meaning": "đoàn tàu, tàu hỏa",
    "example": "本次列车开往中山公园。",
    "exampleMeaning": "Chuyến xe lửa này sẽ đi đến công viên ZhongShan.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lièchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "喜爱",
-   "meaning": "yêu thích",
+   "meaning": "yêu thích, ưa thích",
    "example": "由港人推举最喜爱的十首唐诗。10",
    "exampleMeaning": "Bài thơ Đường được người Hồng Công bình chọn là yêu thích nhất",
    "emoji": "",
    "ipa": "",
    "pinyin": "xǐài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "吸收",
-   "meaning": "giảm",
+   "meaning": "hấp thụ, tiếp thu",
    "example": "植物的根吸收水和无机盐。",
    "exampleMeaning": "Rễ thực vật hút nước và muối vô cơ",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīshōu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "败",
-   "meaning": "bại",
+   "meaning": "thua, bại, đánh bại",
    "example": "我担心他会失败。",
    "exampleMeaning": "Tôi e rằng ông ấy sẽ thất bại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "小伙子",
-   "meaning": "chàng trai",
+   "meaning": "chàng trai, thanh niên",
    "example": "这小伙子既能干又积极，真是没说的。",
    "exampleMeaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎohuǒzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "舒适",
-   "meaning": "dễ chịu",
+   "meaning": "thoải mái, dễ chịu",
    "example": "我们来学“舒适”这个词。",
-   "exampleMeaning": "Cùng học từ “舒适”: dễ chịu.",
+   "exampleMeaning": "Cùng học từ “舒适”: thoải mái, dễ chịu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shūshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -167,46 +167,46 @@
    "ipa": "",
    "pinyin": "kuàijì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "好友",
-   "meaning": "cánh hẩu",
+   "meaning": "bạn thân",
    "example": "我们来学“好友”这个词。",
-   "exampleMeaning": "Cùng học từ “好友”: cánh hẩu.",
+   "exampleMeaning": "Cùng học từ “好友”: bạn thân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎoyǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "尺",
-   "meaning": "người thống trị, người chuyên quyền",
+   "meaning": "thước, thước kẻ",
    "example": "丁字尺 。",
    "exampleMeaning": "Thước chữ T.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "胖子",
-   "meaning": "người mập",
+   "meaning": "người mập, người béo",
    "example": "我们来学“胖子”这个词。",
-   "exampleMeaning": "Cùng học từ “胖子”: người mập.",
+   "exampleMeaning": "Cùng học từ “胖子”: người mập, người béo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pàngzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,7 +219,7 @@
    "ipa": "",
    "pinyin": "yuèdú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -232,20 +232,20 @@
    "ipa": "",
    "pinyin": "āyí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "穷",
-   "meaning": "cùng",
+   "meaning": "nghèo",
    "example": "改变一穷二白的面貌。",
    "exampleMeaning": "Biến đổi bộ mặt nghèo rớt mồng tơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qióng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "fèndòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

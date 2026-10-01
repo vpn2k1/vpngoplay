@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "地名",
-   "meaning": "địa danh",
+   "meaning": "địa danh, tên địa phương",
    "example": "我们来学“地名”这个词。",
-   "exampleMeaning": "Cùng học từ “地名”: địa danh.",
+   "exampleMeaning": "Cùng học từ “地名”: địa danh, tên địa phương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dìmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "老乡",
-   "meaning": "cùng quê",
+   "meaning": "đồng hương",
    "example": "听你的口音，咱们好像是老乡。",
    "exampleMeaning": "Nghe giọng nói của anh, hình như chúng ta cùng quê thì phải.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǎoxiāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "内外",
-   "meaning": "độ",
+   "meaning": "trong ngoài, khoảng",
    "example": "一个月内外。",
    "exampleMeaning": "Độ một tháng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nèiwài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "qǔkuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "时节",
-   "meaning": "vụ",
+   "meaning": "mùa, thời điểm",
    "example": "解放那时节她才十二岁。",
    "exampleMeaning": "Lúc giải phóng cô ấy mới mười hai tuổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shíjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "作废",
-   "meaning": "không còn giá trị",
+   "meaning": "mất hiệu lực, hủy bỏ",
    "example": "作废的票不能再用。",
    "exampleMeaning": "Vé hết hạn không thể dùng được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuòfèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "fángjià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "bàokān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "áidǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,20 +128,20 @@
    "ipa": "",
    "pinyin": "zhǐdé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "清洁工",
-   "meaning": "nhân viên vệ sinh",
+   "meaning": "nhân viên vệ sinh, lao công",
    "example": "我们来学“清洁工”这个词。",
-   "exampleMeaning": "Cùng học từ “清洁工”: nhân viên vệ sinh.",
+   "exampleMeaning": "Cùng học từ “清洁工”: nhân viên vệ sinh, lao công.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qīngjiégōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,20 +154,20 @@
    "ipa": "",
    "pinyin": "shěngqián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "小于",
-   "meaning": "ít hơn",
+   "meaning": "nhỏ hơn",
    "example": "我们来学“小于”这个词。",
-   "exampleMeaning": "Cùng học từ “小于”: ít hơn.",
+   "exampleMeaning": "Cùng học từ “小于”: nhỏ hơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎoyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,33 +180,33 @@
    "ipa": "",
    "pinyin": "duōméitǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "稿子",
-   "meaning": "bài (thơ, văn)",
+   "meaning": "bản thảo",
    "example": "这篇稿子是谁写的？",
    "exampleMeaning": "Bài này do ai viết？",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎozi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "打印机",
-   "meaning": "máy đánh chữ",
+   "meaning": "máy in",
    "example": "我们来学“打印机”这个词。",
-   "exampleMeaning": "Cùng học từ “打印机”: máy đánh chữ.",
+   "exampleMeaning": "Cùng học từ “打印机”: máy in.",
    "emoji": "🖨",
    "ipa": "",
    "pinyin": "dǎyìnjī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,20 +219,20 @@
    "ipa": "",
    "pinyin": "wánghòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "工商",
-   "meaning": "công nghiệp và thương mại",
+   "meaning": "công thương",
    "example": "我们来学“工商”这个词。",
-   "exampleMeaning": "Cùng học từ “工商”: công nghiệp và thương mại.",
+   "exampleMeaning": "Cùng học từ “工商”: công thương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gōngshāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "nǎifěn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "波浪",
-   "meaning": "sóng",
+   "meaning": "sóng, gợn sóng",
    "example": "波浪起伏。",
    "exampleMeaning": "Sóng nhấp nhô",
    "emoji": "",
    "ipa": "",
    "pinyin": "bōlàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

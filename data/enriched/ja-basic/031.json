@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "有名",
-   "meaning": "nổi tiếng, nổi danh, trứ danh",
+   "meaning": "nổi tiếng",
    "example": "彼らは非常に有名だ。",
    "exampleMeaning": "Họ rất nổi tiếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "さあ",
-   "meaning": "bây giờ, lúc này, giờ đây",
+   "meaning": "nào, thôi nào, ừm",
    "example": "さあ、吐いちまえ！",
    "exampleMeaning": "Nào, nói đi!",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,98 +37,98 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ドア",
-   "meaning": "cửa, cửa ra vào (nhà, xe ô tô... )",
+   "meaning": "cửa, cánh cửa",
    "example": "母親がドアをノックした。",
    "exampleMeaning": "Mẹ của anh ta gõ cửa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "二十歳",
-   "meaning": "hai mươi",
+   "meaning": "hai mươi tuổi",
    "example": "ローリーは二十歳だ。",
    "exampleMeaning": "Laurie năm nay 20 tuổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ちょっと",
-   "meaning": "hơi, gọi là, một chút",
+   "meaning": "một chút, hơi",
    "example": "ま、ちょっと幸せだ。",
    "exampleMeaning": "Ừm, tôi thấy cũng vui.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "九つ",
-   "meaning": "chín thứ [nhỏ hoặc không có bộ đếm]",
+   "meaning": "chín cái (đếm đồ vật), chín tuổi",
    "example": "「九つ」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “九つ”: chín thứ [nhỏ hoặc không có bộ đếm].",
+   "exampleMeaning": "Cùng nhớ từ “九つ”: chín cái (đếm đồ vật), chín tuổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "浴びる",
-   "meaning": "tắm, đầm mình (đen & bóng)",
+   "meaning": "tắm, dội (nước)",
    "example": "「浴びる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “浴びる”: tắm, đầm mình (đen & bóng).",
+   "exampleMeaning": "Cùng nhớ từ “浴びる”: tắm, dội (nước).",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "授業",
-   "meaning": "giai cấp",
+   "meaning": "giờ học, tiết học, buổi học",
    "example": "もうすぐ授業が再開する。",
    "exampleMeaning": "Sắp vô tiết rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "母",
-   "meaning": "mẹ, mẹ đẻ",
+   "meaning": "mẹ (của mình)",
    "example": "私の母も教師です。",
    "exampleMeaning": "Mẹ tôi cũng là giáo viên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "両親",
-   "meaning": "cha",
+   "meaning": "bố mẹ, cha mẹ",
    "example": "両親には従うべきだ。",
    "exampleMeaning": "Bạn nên nghe lời cha mẹ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,33 +167,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "飲む",
-   "meaning": "uống (rượu, nước... )",
+   "meaning": "uống",
    "example": "トムは飲むのが好きだ。",
    "exampleMeaning": "Tom thích uống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "お手洗い",
-   "meaning": "cầu tiêu",
+   "meaning": "nhà vệ sinh, phòng vệ sinh",
    "example": "歴史の試験中、彼女は気分が悪くなったのでお手洗いにたたせてもらった。",
    "exampleMeaning": "Trong giờ kiểm tra môn Lịch sử, cô ấy cảm thấy không được khỏe, nên cô ấy đã được phép đi vệ sinh.",
    "emoji": "🚽",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "学校",
-   "meaning": "trường sở, phòng học",
+   "meaning": "trường học, trường",
    "example": "学校まで歩きます。",
    "exampleMeaning": "Tôi đi bộ đến trường.",
    "emoji": "🏫",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "そう",
-   "meaning": "vâng, phải, dạ",
+   "meaning": "vậy, đúng thế, có vẻ",
    "example": "そうです。",
    "exampleMeaning": "Đúng vậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "病気",
-   "meaning": "bệnh",
+   "meaning": "bệnh, ốm",
    "example": "彼は病気で休んでいる。",
    "exampleMeaning": "Anh ấy đang nghỉ ốm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "大切",
-   "meaning": "quan trọng, trọng đại, trọng yếu",
+   "meaning": "quan trọng, quý giá",
    "example": "健康が富より大切なのは言うまでもない。",
    "exampleMeaning": "Sức khỏe quan trọng hơn phú quý là điều không cần phải nói.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

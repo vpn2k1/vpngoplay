@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "瓜",
-   "meaning": "dưa tây",
+   "meaning": "dưa, bầu bí",
    "example": "我们来学“瓜”这个词。",
-   "exampleMeaning": "Cùng học từ “瓜”: dưa tây.",
+   "exampleMeaning": "Cùng học từ “瓜”: dưa, bầu bí.",
    "emoji": "🍈",
    "ipa": "",
    "pinyin": "guā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "语音",
-   "meaning": "ngữ âm",
+   "meaning": "ngữ âm, giọng nói",
    "example": "我们来学“语音”这个词。",
-   "exampleMeaning": "Cùng học từ “语音”: ngữ âm.",
+   "exampleMeaning": "Cùng học từ “语音”: ngữ âm, giọng nói.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǔyīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "图案",
-   "meaning": "đồ án",
+   "meaning": "hoa văn, họa tiết",
    "example": "我们来学“图案”这个词。",
-   "exampleMeaning": "Cùng học từ “图案”: đồ án.",
+   "exampleMeaning": "Cùng học từ “图案”: hoa văn, họa tiết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "túàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "zhǔnshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "jìlǜ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "闪电",
-   "meaning": "chớp",
+   "meaning": "tia chớp, chớp",
    "example": "我们来学“闪电”这个词。",
-   "exampleMeaning": "Cùng học từ “闪电”: chớp.",
+   "exampleMeaning": "Cùng học từ “闪电”: tia chớp, chớp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǎndiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "打扫",
-   "meaning": "thu dọn",
+   "meaning": "quét dọn, dọn dẹp",
    "example": "打扫院子",
    "exampleMeaning": "Quét sân",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎsǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,33 +102,33 @@
    "ipa": "",
    "pinyin": "shànggèyuè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "童话",
-   "meaning": "đồng thoại",
+   "meaning": "truyện cổ tích, đồng thoại",
    "example": "我们来学“童话”这个词。",
-   "exampleMeaning": "Cùng học từ “童话”: đồng thoại.",
+   "exampleMeaning": "Cùng học từ “童话”: truyện cổ tích, đồng thoại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tónghuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "得意",
-   "meaning": "đắc ý",
+   "meaning": "đắc ý, đắc chí",
    "example": "得意门生",
    "exampleMeaning": "Hài lòng về học trò",
    "emoji": "",
    "ipa": "",
    "pinyin": "déyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "shǒutào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "记载",
-   "meaning": "ghi chép",
+   "meaning": "ghi chép, ghi lại",
    "example": "我读过一篇当时写下的记载。",
    "exampleMeaning": "Tôi đã đọc qua bài ghi chép viết lúc ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìzǎi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "bìyèshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "zǒnggòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "帅哥",
-   "meaning": "soái ca",
+   "meaning": "trai đẹp, anh đẹp trai",
    "example": "我们来学“帅哥”这个词。",
-   "exampleMeaning": "Cùng học từ “帅哥”: soái ca.",
+   "exampleMeaning": "Cùng học từ “帅哥”: trai đẹp, anh đẹp trai.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuàigē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -206,7 +206,7 @@
    "ipa": "",
    "pinyin": "liángshi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "dòufu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "推迟",
-   "meaning": "chậm lại",
+   "meaning": "hoãn, trì hoãn, lùi lại",
    "example": "开会日期推迟一天。",
    "exampleMeaning": "Thời gian họp dời lại một ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tuīchí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "老家",
-   "meaning": "quê",
+   "meaning": "quê nhà, quê",
    "example": "我老家是湖南。",
    "exampleMeaning": "Tôi quê ở Hồ Nam.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǎojiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "促进",
-   "meaning": "xúc tiến",
+   "meaning": "thúc đẩy, xúc tiến",
    "example": "促进派。",
    "exampleMeaning": "Bên xúc tiến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cùjìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "new",
-   "meaning": "mới, mới mẻ, mới lạ",
+   "meaning": "mới",
    "example": "Is your car new?",
    "exampleMeaning": "Xe của bạn có mới không?",
    "emoji": "",
    "ipa": "/ˈnju/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "borrow",
-   "meaning": "vay, mượn",
+   "meaning": "mượn, vay",
    "example": "Can I borrow your pen?",
    "exampleMeaning": "Tôi có thể mượn bút của bạn được không?",
    "emoji": "",
    "ipa": "/ˈbɒr.əʊ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "wake",
-   "meaning": "thức giấc, thức dậy, tỉnh dậy",
+   "meaning": "thức dậy, đánh thức",
    "example": "to wake up with a start",
    "exampleMeaning": "Giật mình tỉnh dậy",
    "emoji": "",
    "ipa": "/ˈweɪk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "class",
-   "meaning": "lớp",
+   "meaning": "lớp học, lớp",
    "example": "what time does the class begin?",
    "exampleMeaning": "Giờ học bắt đầu lúc nào?",
    "emoji": "",
    "ipa": "/ˈklæs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "hobby",
-   "meaning": "thú riêng, sở thích riêng",
+   "meaning": "sở thích",
    "example": "Do you have a hobby, Tom?",
    "exampleMeaning": "Tom này, bạn có sở thích nào không?",
    "emoji": "",
    "ipa": "/ˈhɑbi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "button",
-   "meaning": "nút",
+   "meaning": "cái nút, khuy áo",
    "example": "Press this button in case of emergency.",
    "exampleMeaning": "Ấn nút này trong trường hơp khẩn cấp.",
    "emoji": "",
    "ipa": "/ˈbətən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,124 +89,124 @@
    "ipa": "/ˈtri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "baby",
-   "meaning": "nhỏ",
+   "meaning": "em bé, trẻ sơ sinh",
    "example": "My baby wants to talk.",
    "exampleMeaning": "Bé nhà tôi muốn nói chuyện.",
    "emoji": "👶",
    "ipa": "/ˈbeɪbi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "solve",
-   "meaning": "giải (một phương trình)",
+   "meaning": "giải, giải quyết",
    "example": "I can solve the problem by myself.",
    "exampleMeaning": "Tôi có thể tự giải quyết vấn đề đó.",
    "emoji": "",
    "ipa": "/ˈsɑlv/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "Olympics",
-   "meaning": "ô-lim-pích",
+   "meaning": "Thế vận hội",
    "example": "Let's learn the word \"Olympics\".",
-   "exampleMeaning": "Cùng học từ “Olympics”: ô-lim-pích.",
+   "exampleMeaning": "Cùng học từ “Olympics”: Thế vận hội.",
    "emoji": "",
    "ipa": "/oʊˈlɪmpɪks/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "phone",
-   "meaning": "điện thoại, máy điện thoại, dây nói",
+   "meaning": "điện thoại",
    "example": "to get somebody on the phone",
    "exampleMeaning": "Gọi dây nói cho ai",
    "emoji": "",
    "ipa": "/ˈfoʊn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "yard",
-   "meaning": "sân (có rào xung quanh)",
+   "meaning": "sân, sân sau",
    "example": "Sweep the yard!",
    "exampleMeaning": "Quét sân đi!",
    "emoji": "",
    "ipa": "/ˈjɑrd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ring",
-   "meaning": "rung, reo, kêu keng keng (chuông)",
+   "meaning": "reo, rung chuông, gọi điện",
    "example": "to hear a ring at the door",
    "exampleMeaning": "Nghe thấy tiếng chuông ở cửa",
    "emoji": "💍",
    "ipa": "/ˈrɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "people",
-   "meaning": "người",
+   "meaning": "người, mọi người",
    "example": "what will people say?",
    "exampleMeaning": "Người ta (thiên hạ) sẽ nói gì?",
    "emoji": "",
    "ipa": "/ˈpipəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "about",
-   "meaning": "nói về, sắp, sắp sửa",
+   "meaning": "khoảng, chừng, xung quanh",
    "example": "what shall we write about?",
    "exampleMeaning": "Chúng ta sẽ viết về cái gì bây giờ?",
    "emoji": "",
    "ipa": "/əˈbaʊt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "pool",
-   "meaning": "hồ, bể",
+   "meaning": "bể bơi, hồ bơi",
    "example": "How deep is the pool?",
    "exampleMeaning": "Bể bơi sâu bao nhiêu vậy?",
    "emoji": "",
    "ipa": "/ˈpul/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "/ˈskɪl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "boy",
-   "meaning": "con trai, thiếu niên",
+   "meaning": "cậu bé, con trai",
    "example": "Boy, was I wrong.",
    "exampleMeaning": "Trời ạ, sai bét luôn.",
    "emoji": "👦",
    "ipa": "/bɔɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "clean",
-   "meaning": "sạch, sạch sẽ",
+   "meaning": "lau chùi, dọn dẹp, làm sạch",
    "example": "a sharp knife makes a clean cut",
    "exampleMeaning": "Dao bén cắt thẳng",
    "emoji": "",
    "ipa": "/ˈklin/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "great",
-   "meaning": "lớn, to lớn, vĩ đại",
+   "meaning": "tuyệt vời, lớn, vĩ đại",
    "example": "that is great!",
    "exampleMeaning": "Thật là tuyệt!",
    "emoji": "",
    "ipa": "/ˈɡreɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

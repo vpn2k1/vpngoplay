@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "沉",
-   "meaning": "nặng",
+   "meaning": "chìm, nặng",
    "example": "这个箱子沉得过分了。",
    "exampleMeaning": "Cái hòm này quá nặng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chén",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "善良",
-   "meaning": "lương thiện",
+   "meaning": "lương thiện, hiền lành, tốt bụng",
    "example": "善良的愿望",
    "exampleMeaning": "Những điều mong muốn tốt đẹp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shànliáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "其余",
-   "meaning": "còn lại",
+   "meaning": "còn lại, phần còn lại",
    "example": "除了有两人请假，其余的人都到了。",
    "exampleMeaning": "Ngoài hai người xin nghỉ ra, còn lại đều đến cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,59 +50,59 @@
    "ipa": "",
    "pinyin": "guīmó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "哪怕",
-   "meaning": "cho dù",
+   "meaning": "cho dù, dù cho",
    "example": "我一定要去西安看看，哪怕路很远。",
    "exampleMeaning": "Tôi nhất định phải đi Tây An, cho dù đường rất xa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǎpà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "伙",
-   "meaning": "nhóm",
+   "meaning": "nhóm, bọn (lượng từ)",
    "example": "这小伙子既能干又积极，真是没说的。",
    "exampleMeaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huǒ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "最初",
-   "meaning": "lúc đầu",
+   "meaning": "lúc đầu, ban đầu",
    "example": "那里最初还是不毛之地。",
    "exampleMeaning": "Nơi đây lúc đầu là đồng khô cỏ cháy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuìchū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "薄",
-   "meaning": "gầy còm, gầy gò, khẳng khiu",
+   "meaning": "mỏng, bạc bẽo, nhạt",
    "example": "我们来学“薄”这个词。",
-   "exampleMeaning": "Cùng học từ “薄”: gầy còm, gầy gò, khẳng khiu.",
+   "exampleMeaning": "Cùng học từ “薄”: mỏng, bạc bẽo, nhạt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bó",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -115,85 +115,85 @@
    "ipa": "",
    "pinyin": "chuānghu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "装修",
-   "meaning": "chỉnh trang",
+   "meaning": "sửa sang, trang trí nội thất",
    "example": "内部装修，暂停营业。",
    "exampleMeaning": "Chỉnh trang nội bộ, tạm thời ngừng kinh doanh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhuāngxiū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "填",
-   "meaning": "lấp",
+   "meaning": "điền, lấp",
    "example": "把沟填平了。",
    "exampleMeaning": "Lấp bằng cái rãnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tián",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "召开",
-   "meaning": "triệu tập (hội nghị...), họp, nhóm họp",
+   "meaning": "triệu tập, tổ chức (họp)",
    "example": "召开全体会议",
    "exampleMeaning": "Triệu tập toàn thể hội nghị",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhàokāi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "唱片",
-   "meaning": "đĩa nhạc",
+   "meaning": "đĩa nhạc, đĩa hát",
    "example": "我们来学“唱片”这个词。",
-   "exampleMeaning": "Cùng học từ “唱片”: đĩa nhạc.",
+   "exampleMeaning": "Cùng học từ “唱片”: đĩa nhạc, đĩa hát.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chàngpiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "有限",
-   "meaning": "có hạn",
+   "meaning": "có hạn, hữu hạn",
    "example": "我的文化水平有限。",
    "exampleMeaning": "Trình độ văn hoá của tôi không cao.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuxiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "代替",
-   "meaning": "thay",
+   "meaning": "thay thế, thay",
    "example": "用国产品代替进口货。",
    "exampleMeaning": "Dùng hàng trong nước thay hàng nhập khẩu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàitì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,7 +206,7 @@
    "ipa": "",
    "pinyin": "bīngxiāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "huìbào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "论文",
-   "meaning": "luận văn",
+   "meaning": "luận văn, bài luận",
    "example": "学术论文。",
    "exampleMeaning": "Luận văn học thuật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lùnwén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "眼里",
-   "meaning": "trong suy nghĩ",
+   "meaning": "trong mắt",
    "example": "眼里不能没有国家和民族利益。",
    "exampleMeaning": "Trong suy nghĩ không thể không có lợi ích của quốc gia và dân tộc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǎnli",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "不在乎",
-   "meaning": "không quan tâm",
+   "meaning": "không quan tâm, không để ý",
    "example": "他故意做出不在乎的样子。",
    "exampleMeaning": "Anh ta làm ra vẻ không quan tâm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùzàihu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

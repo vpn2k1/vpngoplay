@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "服务员",
-   "meaning": "người phục vụ",
+   "meaning": "nhân viên phục vụ, người phục vụ",
    "example": "我们来学“服务员”这个词。",
-   "exampleMeaning": "Cùng học từ “服务员”: người phục vụ.",
+   "exampleMeaning": "Cùng học từ “服务员”: nhân viên phục vụ, người phục vụ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fúwùyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "电台",
-   "meaning": "điện đài",
+   "meaning": "đài phát thanh",
    "example": "与此同时，电台也播出了这条消息。",
    "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diàntái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "jīnpái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "gōngchéngshī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "yōudiǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,59 +76,59 @@
    "ipa": "",
    "pinyin": "wánshàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "旅馆",
-   "meaning": "lữ quán",
+   "meaning": "nhà nghỉ, khách sạn",
    "example": "我们来学“旅馆”这个词。",
-   "exampleMeaning": "Cùng học từ “旅馆”: lữ quán.",
+   "exampleMeaning": "Cùng học từ “旅馆”: nhà nghỉ, khách sạn.",
    "emoji": "🏨",
    "ipa": "",
    "pinyin": "lǚguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "志愿者",
-   "meaning": "tình nguyện viên, người tình nguyện",
+   "meaning": "tình nguyện viên",
    "example": "我们来学“志愿者”这个词。",
-   "exampleMeaning": "Cùng học từ “志愿者”: tình nguyện viên, người tình nguyện.",
+   "exampleMeaning": "Cùng học từ “志愿者”: tình nguyện viên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìyuànzhě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发达",
-   "meaning": "phát triển",
+   "meaning": "phát triển, phát đạt",
    "example": "肌肉发达",
    "exampleMeaning": "Cơ bắp phát triển",
    "emoji": "",
    "ipa": "",
    "pinyin": "fādá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "人工",
-   "meaning": "nhân tạo",
+   "meaning": "nhân tạo, nhân công",
    "example": "修建这个渠道需用很多人工。",
    "exampleMeaning": "Sửa con mương này phải dùng rất nhiều nhân công.",
    "emoji": "",
    "ipa": "",
    "pinyin": "réngōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "pǔbiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "爱心",
-   "meaning": "lòng yêu thương",
+   "meaning": "lòng yêu thương, lòng nhân ái",
    "example": "向孤寡老人献爱心。",
    "exampleMeaning": "Tỏ lòng yêu thương đối với người già cô đơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "àixīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "xíngzhuàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,85 +180,85 @@
    "ipa": "",
    "pinyin": "duǎnqī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "全场",
-   "meaning": "mọi mặt",
+   "meaning": "cả hội trường, toàn trường",
    "example": "我们来学“全场”这个词。",
-   "exampleMeaning": "Cùng học từ “全场”: mọi mặt.",
+   "exampleMeaning": "Cùng học từ “全场”: cả hội trường, toàn trường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quánchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "价钱",
-   "meaning": "giá",
+   "meaning": "giá cả, giá tiền",
    "example": "价钱公道。",
    "exampleMeaning": "Giá tiền phải chăng; giá cả hợp lí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàqian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "证件",
-   "meaning": "giấy chứng nhận",
+   "meaning": "giấy tờ, giấy tờ tùy thân",
    "example": "我们来学“证件”这个词。",
-   "exampleMeaning": "Cùng học từ “证件”: giấy chứng nhận.",
+   "exampleMeaning": "Cùng học từ “证件”: giấy tờ, giấy tờ tùy thân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèngjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "共有",
-   "meaning": "cùng sở hữu",
+   "meaning": "tổng cộng có, có tất cả",
    "example": "共有企业",
    "exampleMeaning": "Xí nghiệp công hữu",
    "emoji": "",
    "ipa": "",
    "pinyin": "gòngyǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "干吗",
-   "meaning": "làm gì",
+   "meaning": "làm gì, sao vậy",
    "example": "您干吗说这些话？",
    "exampleMeaning": "Sao ông lại nói như thế？",
    "emoji": "",
    "ipa": "",
    "pinyin": "gànmá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "底下",
-   "meaning": "dưới",
+   "meaning": "bên dưới, phía dưới",
    "example": "笔底下不错(会写文章)。",
    "exampleMeaning": "Viết lách rất khá",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǐxia",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "必不可少",
-   "meaning": "cần",
+   "meaning": "không thể thiếu, thiết yếu",
    "example": "食品是人人必不可少的。",
    "exampleMeaning": "Thực phẩm là thứ không thể thiếu của con người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bìbùkěshǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "新式",
-   "meaning": "kiểu mới",
+   "meaning": "kiểu mới, mới",
    "example": "新式农具。",
    "exampleMeaning": "Nông cụ kiểu mới",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīnshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "倘若",
-   "meaning": "nếu",
+   "meaning": "nếu, giả sử",
    "example": "你倘若不信，就亲自去看看吧。",
    "exampleMeaning": "Nếu anh không tin, thì tự đi xem thử.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tǎngruò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "yāncōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -63,189 +63,189 @@
    "ipa": "",
    "pinyin": "shīdù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "素食",
-   "meaning": "ăn chay",
+   "meaning": "đồ chay, ăn chay",
    "example": "素食者(长期吃素的人)。",
    "exampleMeaning": "Người ăn chay (người ăn chay trường).",
    "emoji": "",
    "ipa": "",
    "pinyin": "sùshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "报废",
-   "meaning": "báo hư",
+   "meaning": "thải bỏ, thanh lý",
    "example": "这批零件全部报废。",
    "exampleMeaning": "Toàn bộ lô linh kiện này bị báo hư.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàofèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "纺织",
-   "meaning": "dệt",
+   "meaning": "dệt, dệt may",
    "example": "纺织工艺",
    "exampleMeaning": "Công nghệ dệt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fǎngzhī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "丑恶",
-   "meaning": "bôi nhọ",
+   "meaning": "xấu xa, ghê tởm",
    "example": "丑恶嘴脸。",
    "exampleMeaning": "Bôi nhọ mặt mũi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǒuè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "闹事",
-   "meaning": "gây rối",
+   "meaning": "gây rối, gây chuyện",
    "example": "我们来学“闹事”这个词。",
-   "exampleMeaning": "Cùng học từ “闹事”: gây rối.",
+   "exampleMeaning": "Cùng học từ “闹事”: gây rối, gây chuyện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nàoshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "年薪",
-   "meaning": "mức lương hàng năm",
+   "meaning": "lương năm",
    "example": "我们来学“年薪”这个词。",
-   "exampleMeaning": "Cùng học từ “年薪”: mức lương hàng năm.",
+   "exampleMeaning": "Cùng học từ “年薪”: lương năm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niánxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "梯子",
-   "meaning": "cây thang",
+   "meaning": "cái thang",
    "example": "我们来学“梯子”这个词。",
-   "exampleMeaning": "Cùng học từ “梯子”: cây thang.",
+   "exampleMeaning": "Cùng học từ “梯子”: cái thang.",
    "emoji": "🪜",
    "ipa": "",
    "pinyin": "tīzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "剧目",
-   "meaning": "tên vở kịch",
+   "meaning": "vở diễn, tiết mục",
    "example": "今天上演什么剧目？",
    "exampleMeaning": "Hôm nay có vở gì?",
    "emoji": "",
    "ipa": "",
    "pinyin": "jùmù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "纪念馆",
-   "meaning": "phòng (nhà) kỉ niệm",
+   "meaning": "nhà tưởng niệm, bảo tàng kỷ niệm",
    "example": "上海 有鲁迅纪念馆。",
    "exampleMeaning": "Ở Thượng Hải có nhà kỉ niệm Lỗ Tấn",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìniànguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "家用",
-   "meaning": "đồ dùng gia đình",
+   "meaning": "gia dụng, chi tiêu gia đình",
    "example": "贴补家用。",
    "exampleMeaning": "Phụ cấp sinh hoạt gia đình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiāyòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "准许",
-   "meaning": "cho phép",
+   "meaning": "cho phép, chuẩn y",
    "example": "准许办理出境手续。",
    "exampleMeaning": "Cho phép làm thủ tục xuất cảnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǔnxǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "盖子",
-   "meaning": "nắp",
+   "meaning": "nắp, vung",
    "example": "茶杯盖子碎了。",
    "exampleMeaning": "Nắp tách trà bị vỡ rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gàizi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "简陋",
-   "meaning": "sơ sài",
+   "meaning": "sơ sài, đơn sơ",
    "example": "简陋的住所",
    "exampleMeaning": "Chỗ ở sơ sài",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎnlòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "重叠",
-   "meaning": "trùng điệp",
+   "meaning": "chồng chéo, trùng lặp",
    "example": "精简重叠的机构。",
    "exampleMeaning": "Tinh giảm những cơ cấu trùng lặp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chóngdié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "yādǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

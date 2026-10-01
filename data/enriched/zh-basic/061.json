@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "球鞋",
-   "meaning": "giầy đá bóng",
+   "meaning": "giày thể thao",
    "example": "我们来学“球鞋”这个词。",
-   "exampleMeaning": "Cùng học từ “球鞋”: giầy đá bóng.",
+   "exampleMeaning": "Cùng học từ “球鞋”: giày thể thao.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiúxié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "流利",
-   "meaning": "lưu loát, trôi chảy, viết lưu loát",
+   "meaning": "lưu loát, trôi chảy",
    "example": "钢笔尖在纸上流利地滑动着。",
    "exampleMeaning": "Ngòi bút viết trôi chảy trên trang giấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liúlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "jiāopéngyou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "yīlùshùnfēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,20 +63,20 @@
    "ipa": "",
    "pinyin": "wǎnbào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "难听",
-   "meaning": "chướng tai (lời nói)",
+   "meaning": "khó nghe, chướng tai",
    "example": "这种事情说出去多难听！",
    "exampleMeaning": "Việc này nói ra chẳng hay ho gì！",
    "emoji": "",
    "ipa": "",
    "pinyin": "nántīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "yàoshuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "坏处",
-   "meaning": "chỗ hỏng",
+   "meaning": "tác hại, điều có hại",
    "example": "这么做一点坏处也没有。",
    "exampleMeaning": "Làm như thế không chỗ nào hỏng cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huàichu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "qiánnián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,59 +128,59 @@
    "ipa": "",
    "pinyin": "cídiǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "千克",
-   "meaning": "ki-lô-gam (Kg)",
+   "meaning": "ki-lô-gam",
    "example": "我们来学“千克”这个词。",
-   "exampleMeaning": "Cùng học từ “千克”: ki-lô-gam (Kg).",
+   "exampleMeaning": "Cùng học từ “千克”: ki-lô-gam.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiānkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "问路",
-   "meaning": "để hỏi đường",
+   "meaning": "hỏi đường",
    "example": "我们来学“问路”这个词。",
-   "exampleMeaning": "Cùng học từ “问路”: để hỏi đường.",
+   "exampleMeaning": "Cùng học từ “问路”: hỏi đường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wènlù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "叫作",
-   "meaning": "được gọi là",
+   "meaning": "gọi là, được gọi là",
    "example": "我们来学“叫作”这个词。",
-   "exampleMeaning": "Cùng học từ “叫作”: được gọi là.",
+   "exampleMeaning": "Cùng học từ “叫作”: gọi là, được gọi là.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàozuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "凉快",
-   "meaning": "mát",
+   "meaning": "mát mẻ, mát",
    "example": "坐下凉快凉快再接着干。",
    "exampleMeaning": "Ngồi hóng mát rồi tiếp tục làm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liángkuai",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "wǔshuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,7 +206,7 @@
    "ipa": "",
    "pinyin": "yàopiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,7 +219,7 @@
    "ipa": "",
    "pinyin": "yīnjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -232,20 +232,20 @@
    "ipa": "",
    "pinyin": "zhōngjí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一点点",
-   "meaning": "chút xíu",
+   "meaning": "một chút, chút xíu",
    "example": "我们来学“一点点”这个词。",
-   "exampleMeaning": "Cùng học từ “一点点”: chút xíu.",
+   "exampleMeaning": "Cùng học từ “一点点”: một chút, chút xíu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīdiǎndiǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "liúxuéshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

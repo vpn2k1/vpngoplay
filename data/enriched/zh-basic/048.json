@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "旅游",
-   "meaning": "du ngoạn",
+   "meaning": "du lịch",
    "example": "旅假后我们将到青岛旅游。",
    "exampleMeaning": "Sau khi được nghỉ tôi sẽ đến đảo Hải Nam du ngoạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǚyóu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "zuòyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "jiāzhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "绿",
-   "meaning": "xanh",
+   "meaning": "xanh lá, xanh lục",
    "example": "桃红柳绿。",
    "exampleMeaning": "Đào hồng liễu xanh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǜ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "重复",
-   "meaning": "nhắc lại",
+   "meaning": "lặp lại, nhắc lại",
    "example": "他把昨天的话又重复了一遍。",
    "exampleMeaning": "Anh ấy nhắc lại câu nói ngày hôm qua một lần nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chóngfù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "",
    "pinyin": "xiǎoshuō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,85 +89,85 @@
    "ipa": "",
    "pinyin": "jiàoshī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "白色",
-   "meaning": "trắng",
+   "meaning": "màu trắng, trắng",
    "example": "白色政权",
    "exampleMeaning": "Chính quyền phản cách mạng",
    "emoji": "",
    "ipa": "",
    "pinyin": "báisè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "理想",
-   "meaning": "lý tưởng",
+   "meaning": "lý tưởng, ước mơ",
    "example": "当一名医生是我的理想。",
    "exampleMeaning": "Tôi hy vọng trong tương lai mình sẽ là một bác sĩ nổi tiếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐxiǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "感动",
-   "meaning": "cảm động",
+   "meaning": "cảm động, xúc động",
    "example": "他的话感动了在座的人。",
    "exampleMeaning": "Lời nói của anh ấy làm cảm động những người có mặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎndòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "出租车",
-   "meaning": "xe taxi",
+   "meaning": "taxi",
    "example": "我们来学“出租车”这个词。",
-   "exampleMeaning": "Cùng học từ “出租车”: xe taxi.",
+   "exampleMeaning": "Cùng học từ “出租车”: taxi.",
    "emoji": "🚕",
    "ipa": "",
    "pinyin": "chūzūchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "好事",
-   "meaning": "nhiều chuyện",
+   "meaning": "chuyện tốt, việc tốt",
    "example": "我们来学“好事”这个词。",
-   "exampleMeaning": "Cùng học từ “好事”: nhiều chuyện.",
+   "exampleMeaning": "Cùng học từ “好事”: chuyện tốt, việc tốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎoshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "提到",
-   "meaning": "đề cập đến / nâng cao (một chủ đề) / đề cập đến",
+   "meaning": "nhắc đến, đề cập",
    "example": "我们来学“提到”这个词。",
-   "exampleMeaning": "Cùng học từ “提到”: đề cập đến / nâng cao (một chủ đề) / đề cập đến.",
+   "exampleMeaning": "Cùng học từ “提到”: nhắc đến, đề cập.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tídào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "bùrú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "题",
-   "meaning": "đề tài, chủ đề",
+   "meaning": "đề, câu hỏi, đề bài",
    "example": "现在我来讲第二个问题。",
    "exampleMeaning": "Bây giờ tôi sẽ trình bày vấn đề thứ hai.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "gùkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "难过",
-   "meaning": "khó chịu",
+   "meaning": "buồn, buồn bã, khó chịu",
    "example": "解放前穷人的日子真难过。",
    "exampleMeaning": "Trước giải phóng, đời sống của dân nghèo rất chật vật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nánguò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "组成",
-   "meaning": "hợp thành",
+   "meaning": "tạo thành, hợp thành",
    "example": "组成全体的各部分。",
    "exampleMeaning": "Cấu thành các bộ phận của toàn thể.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǔchéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "流行",
-   "meaning": "thịnh hành",
+   "meaning": "thịnh hành, phổ biến",
    "example": "这首民歌在我们家乡很流行。",
    "exampleMeaning": "Bài dân ca này ở quê tôi rất thịnh hành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liúxíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "送给",
-   "meaning": "tặng như một món quà",
+   "meaning": "tặng cho, biếu",
    "example": "何不送给她一些花?",
    "exampleMeaning": "Sao bạn không thử tặng cho cô ấy ít hoa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "sònggěi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

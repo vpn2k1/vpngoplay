@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "到头来",
-   "meaning": "kết quả là",
+   "meaning": "rốt cuộc, cuối cùng",
    "example": "倒行逆施，到头来只能搬起石头砸自己的脚。",
    "exampleMeaning": "Làm ngược lại, kết quả là ném đá vào chân mình mà thôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàotóulái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "缕",
-   "meaning": "từng điều một",
+   "meaning": "sợi, lọn (lượng từ)",
    "example": "千丝万缕。",
    "exampleMeaning": "Trăm mối chằng chịt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǚ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "shūyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "zìbēi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "说到底",
-   "meaning": "nói cho cùng",
+   "meaning": "nói cho cùng, suy cho cùng",
    "example": "我们来学“说到底”这个词。",
-   "exampleMeaning": "Cùng học từ “说到底”: nói cho cùng.",
+   "exampleMeaning": "Cùng học từ “说到底”: nói cho cùng, suy cho cùng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuōdàodǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "",
    "pinyin": "fādiànjī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -89,176 +89,176 @@
    "ipa": "",
    "pinyin": "xiàlìngyíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "圈套",
-   "meaning": "bẫy",
+   "meaning": "cạm bẫy, bẫy",
    "example": "落入圈套。",
    "exampleMeaning": "Rơi vào tròng; sa bẫy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quāntào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "仲裁",
-   "meaning": "trọng tài",
+   "meaning": "trọng tài, phân xử",
    "example": "仲裁委员会",
    "exampleMeaning": "Ban trọng tài",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhòngcái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "触犯",
-   "meaning": "phạm",
+   "meaning": "vi phạm, mạo phạm",
    "example": "不能触犯人民的利益。",
    "exampleMeaning": "Không thể xâm phạm vào lợi ích của nhân dân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chùfàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "干旱",
-   "meaning": "hạn hán",
+   "meaning": "hạn hán, khô hạn",
    "example": "战胜干旱夺得丰产",
    "exampleMeaning": "Chiến thắng được hạn hán năng suất tăng",
    "emoji": "",
    "ipa": "",
    "pinyin": "gānhàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "深远",
-   "meaning": "sâu rộng",
+   "meaning": "sâu rộng, sâu xa",
    "example": "流布深远",
    "exampleMeaning": "Truyền bá sâu rộng",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēnyuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "茫然",
-   "meaning": "ngỡ ngàng",
+   "meaning": "ngơ ngác, mơ hồ",
    "example": "事情发生的原因和经过我都茫然。",
    "exampleMeaning": "Nguyên nhân và quá trình xảy ra sự việc tôi hoàn toàn không biết gì cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mángrán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "身躯",
-   "meaning": "thân thể",
+   "meaning": "thân hình, thân thể",
    "example": "健壮的身躯。",
    "exampleMeaning": "Thân thể cường tráng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēnqū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "连锁店",
-   "meaning": "đại lí",
+   "meaning": "cửa hàng chuỗi",
    "example": "我们来学“连锁店”这个词。",
-   "exampleMeaning": "Cùng học từ “连锁店”: đại lí.",
+   "exampleMeaning": "Cùng học từ “连锁店”: cửa hàng chuỗi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liánsuǒdiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "留恋",
-   "meaning": "không muốn rời xa",
+   "meaning": "lưu luyến, quyến luyến",
    "example": "就要离开学校了，大家十分留恋。",
    "exampleMeaning": "Sắp phải rời xa trường rồi, mọi người vô cùng lưu luyến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liúliàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一举一动",
-   "meaning": "nhất cử nhất động",
+   "meaning": "nhất cử nhất động, mọi cử chỉ",
    "example": "你的一举一动都被我看见了。",
    "exampleMeaning": "Nhất cử nhất động của anh đều bị tôi thấy hết rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yījǔyīdòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "竭力",
-   "meaning": "tận lực",
+   "meaning": "ra sức, dốc sức",
    "example": "尽心竭力。",
    "exampleMeaning": "Tận tâm tận lực.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiélì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "主妇",
-   "meaning": "bà chủ",
+   "meaning": "bà nội trợ, bà chủ nhà",
    "example": "家庭主妇",
    "exampleMeaning": "Bà chủ gia đình",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǔfù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "阻挠",
-   "meaning": "phá rối",
+   "meaning": "cản trở, ngăn trở",
    "example": "阻挠双方和谈。",
    "exampleMeaning": "Phá rối buổi hoà đàm song phương",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǔnáo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

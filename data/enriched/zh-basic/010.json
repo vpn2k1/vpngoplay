@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "学",
-   "meaning": "học, học tập, nghiên cứu",
+   "meaning": "học",
    "example": "学学你姐姐。",
    "exampleMeaning": "Mày học chị mày đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xué",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "多少",
-   "meaning": "bấy nhiêu, mấy, số",
+   "meaning": "bao nhiêu",
    "example": "我的房间号是多少？",
    "exampleMeaning": "Số phòng của tôi là số nào?",
    "emoji": "",
    "ipa": "",
    "pinyin": "duōshǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "dìèr",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "māma",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,85 +63,85 @@
    "ipa": "",
    "pinyin": "cuò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "少",
-   "meaning": "thiếu, không có",
+   "meaning": "ít, thiếu",
    "example": "你有多少部車？",
    "exampleMeaning": "Ngài có mấy chiếc xe ô tô?",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "别的",
-   "meaning": "cái khác",
+   "meaning": "khác, cái khác",
    "example": "我们来学“别的”这个词。",
-   "exampleMeaning": "Cùng học từ “别的”: cái khác.",
+   "exampleMeaning": "Cùng học từ “别的”: khác, cái khác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "biéde",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "难",
-   "meaning": "khó, khó khăn, gay go",
+   "meaning": "khó",
    "example": "他的理论很难懂。",
    "exampleMeaning": "Lý luận của anh ấy rất khó hiểu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "电影",
-   "meaning": "phim",
+   "meaning": "phim, điện ảnh",
    "example": "我每次看这部电影都会哭。",
    "exampleMeaning": "Mỗi lần xem bộ phim này tôi đều khóc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diànyǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "间",
-   "meaning": "cách",
+   "meaning": "gian (lượng từ), giữa",
    "example": "帮我找间空房间。",
    "exampleMeaning": "Giúp tôi tìm một căn phòng trống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "哪",
-   "meaning": "gì, cái nào, người nào",
+   "meaning": "nào",
    "example": "您可以随便去哪儿。",
    "exampleMeaning": "Bạn có thể tùy ý đi bất cứ đâu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǎ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,20 +154,20 @@
    "ipa": "",
    "pinyin": "pǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回家",
-   "meaning": "trở về nhà, về nhà",
+   "meaning": "về nhà",
    "example": "我们来学“回家”这个词。",
-   "exampleMeaning": "Cùng học từ “回家”: trở về nhà, về nhà.",
+   "exampleMeaning": "Cùng học từ “回家”: về nhà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huíjiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "zuótiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "晚",
-   "meaning": "đêm, cảnh tối tăm, muộn",
+   "meaning": "muộn, tối",
    "example": "她哭了一整晚。",
    "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "shū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "五",
-   "meaning": "số năm, ngũ",
+   "meaning": "năm (số 5)",
    "example": "这工作花了我五小时。",
    "exampleMeaning": "Tôi đã tốn năm giờ đồng hồ cho công việc này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "先生",
-   "meaning": "thầy",
+   "meaning": "ông, ngài, chồng",
    "example": "羊屁股先生可没告诉我还有搭档。",
    "exampleMeaning": "Ông Ramsbottom chẳng nói cho tôi biết còn có đối tác.",
    "emoji": "🧑‍🏫",
    "ipa": "",
    "pinyin": "xiānsheng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "男",
-   "meaning": "trai, đực, trống",
+   "meaning": "nam giới, con trai",
    "example": "你的男朋友是谁？",
    "exampleMeaning": "Bạn trai của bạn là ai?",
    "emoji": "",
    "ipa": "",
    "pinyin": "nán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "动",
-   "meaning": "động",
+   "meaning": "động, cử động",
    "example": "我不喜欢学习不规则动词。",
    "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dòng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

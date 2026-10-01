@@ -1,0 +1,317 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "wither",
+   "meaning": "héo, héo úa, tàn",
+   "example": "to wither someone with a look",
+   "exampleMeaning": "Nhìn ai làm cho người ta bối rối",
+   "emoji": "",
+   "ipa": "/ˈwɪðɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hidden",
+   "meaning": "ẩn, bị giấu kín",
+   "example": "The money was hidden beneath the floorboards.",
+   "exampleMeaning": "Tiền đã bị giấu dưới ván sàn.",
+   "emoji": "",
+   "ipa": "/ˈhɪdən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "resemble",
+   "meaning": "giống, trông giống",
+   "example": "to resemble one another",
+   "exampleMeaning": "Giống nhau",
+   "emoji": "",
+   "ipa": "/riˈzɛmbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "noticeboard",
+   "meaning": "bảng thông báo",
+   "example": "Let's learn the word \"noticeboard\".",
+   "exampleMeaning": "Cùng học từ “noticeboard”: bảng thông báo.",
+   "emoji": "",
+   "ipa": "/nˈəʊtɪsbˌɔːd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "next-door",
+   "meaning": "nhà bên, kế bên",
+   "example": "next-door to crime",
+   "exampleMeaning": "Gần như là một tội ác",
+   "emoji": "",
+   "ipa": "/ˈnɛks ˈdɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "format",
+   "meaning": "định dạng, cách trình bày",
+   "example": "Let's learn the word \"format\".",
+   "exampleMeaning": "Cùng học từ “format”: định dạng, cách trình bày.",
+   "emoji": "",
+   "ipa": "/ˈfɔrˌmæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dependent",
+   "meaning": "phụ thuộc, lệ thuộc",
+   "example": "to be dependent on someone",
+   "exampleMeaning": "Dựa vào ai mà sống",
+   "emoji": "",
+   "ipa": "/dɪˈpɛndənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "parental",
+   "meaning": "(thuộc) cha mẹ",
+   "example": "Let's learn the word \"parental\".",
+   "exampleMeaning": "Cùng học từ “parental”: (thuộc) cha mẹ.",
+   "emoji": "",
+   "ipa": "/pɜrˈɛntəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "journalist",
+   "meaning": "nhà báo",
+   "example": "The journalist is writing a news story.",
+   "exampleMeaning": "Nhà báo đang viết một câu chuyện thời sự.",
+   "emoji": "",
+   "ipa": "/ˈdʒɜrnələst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "persuasive",
+   "meaning": "có sức thuyết phục",
+   "example": "Let's learn the word \"persuasive\".",
+   "exampleMeaning": "Cùng học từ “persuasive”: có sức thuyết phục.",
+   "emoji": "",
+   "ipa": "/pɜrˈsweɪsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blush",
+   "meaning": "sự đỏ mặt, phấn má",
+   "example": "the blush of morn",
+   "exampleMeaning": "Ánh hồng của buổi ban mai",
+   "emoji": "",
+   "ipa": "/ˈbləʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tiny",
+   "meaning": "tí hon, rất nhỏ, nhỏ xíu",
+   "example": "The loaf of bread was adorned with ornate tiny squirrels.",
+   "exampleMeaning": "Ổ bánh mì được trang trí bằng những con sóc nhỏ xíu được làm rất công phu.",
+   "emoji": "",
+   "ipa": "/ˈtaɪni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "substantial",
+   "meaning": "đáng kể, lớn, vững chắc",
+   "example": "a man of substantial build",
+   "exampleMeaning": "Người vạm vỡ",
+   "emoji": "",
+   "ipa": "/səbˈstænʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "poisonous",
+   "meaning": "độc, có độc",
+   "example": "Are there many poisonous snakes in Australia?",
+   "exampleMeaning": "Ở Úc có nhiều rắn độc không?",
+   "emoji": "",
+   "ipa": "/ˈpɔɪzənəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cod",
+   "meaning": "cá tuyết",
+   "example": "Let's learn the word \"cod\".",
+   "exampleMeaning": "Cùng học từ “cod”: cá tuyết.",
+   "emoji": "",
+   "ipa": "/ˈkɑd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "swollen",
+   "meaning": "sưng, phồng lên",
+   "example": "My hamster has a swollen testicle on one side.",
+   "exampleMeaning": "Con chuột hamster của tôi bị sưng một bên tinh hoàn.",
+   "emoji": "",
+   "ipa": "/ˈswoʊlən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enclose",
+   "meaning": "gửi kèm, rào quanh, bao quanh",
+   "example": "Let's learn the word \"enclose\".",
+   "exampleMeaning": "Cùng học từ “enclose”: gửi kèm, rào quanh, bao quanh.",
+   "emoji": "",
+   "ipa": "/ɪnˈkloʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "server",
+   "meaning": "máy chủ, người phục vụ",
+   "example": "An internal server error occurred.",
+   "exampleMeaning": "Một lỗi máy chủ nội bộ đã xảy ra.",
+   "emoji": "",
+   "ipa": "/ˈsɜrvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "handshake",
+   "meaning": "cái bắt tay",
+   "example": "Let's learn the word \"handshake\".",
+   "exampleMeaning": "Cùng học từ “handshake”: cái bắt tay.",
+   "emoji": "🤝",
+   "ipa": "/ˈhændˌʃeɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "popcorn",
+   "meaning": "bỏng ngô",
+   "example": "This popcorn is very good.",
+   "exampleMeaning": "Bỏng ngô này rất ngon.",
+   "emoji": "🍿",
+   "ipa": "/ˈpɑpˌkɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "a",
+    "journalist"
+   ],
+   "reading": "",
+   "meaning": "Tôi là nhà báo."
+  },
+  {
+   "tokens": [
+    "I",
+    "like",
+    "popcorn"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích bỏng ngô."
+  },
+  {
+   "tokens": [
+    "Why",
+    "are",
+    "you",
+    "hidden"
+   ],
+   "reading": "",
+   "meaning": "Cậu trốn ở đâu vậy?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "not",
+    "a",
+    "journalist"
+   ],
+   "reading": "",
+   "meaning": "Tôi không phải là nhà báo."
+  },
+  {
+   "tokens": [
+    "This",
+    "fish",
+    "isn't",
+    "poisonous"
+   ],
+   "reading": "",
+   "meaning": "Cá này không có độc."
+  }
+ ],
+ "issues": []
+}

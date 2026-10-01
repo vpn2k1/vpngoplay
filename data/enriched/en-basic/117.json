@@ -1,0 +1,325 @@
+{
+ "lesson": 117,
+ "draft": true,
+ "words": [
+  {
+   "term": "frequent",
+   "meaning": "thường xuyên, hay xảy ra",
+   "example": "Typhoons are frequent in this area.",
+   "exampleMeaning": "Bão thường xuyên xuất hiện ở khu vực này.",
+   "emoji": "",
+   "ipa": "/ˈfriˌkwɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "agenda",
+   "meaning": "chương trình nghị sự, lịch làm việc",
+   "example": "Let's learn the word \"agenda\".",
+   "exampleMeaning": "Cùng học từ “agenda”: chương trình nghị sự, lịch làm việc.",
+   "emoji": "",
+   "ipa": "/əˈdʒɛndə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "policy",
+   "meaning": "chính sách, đường lối",
+   "example": "What is your company's policy?",
+   "exampleMeaning": "Chính sách của công ty bạn là gì?",
+   "emoji": "",
+   "ipa": "/ˈpɑləsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "harness",
+   "meaning": "bộ yên cương, dây đai",
+   "example": "to die in harness",
+   "exampleMeaning": "Chết trong lúc đang làm công việc thường xuyên",
+   "emoji": "",
+   "ipa": "/ˈhɑrnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "mentally",
+   "meaning": "về mặt tinh thần, trong đầu",
+   "example": "Sami had a mentally challenged sister.",
+   "exampleMeaning": "Sami có một người chị bị tâm thần.",
+   "emoji": "",
+   "ipa": "/ˈmɛnəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pause",
+   "meaning": "sự tạm dừng, quãng nghỉ",
+   "example": "let us pause upon this phrase",
+   "exampleMeaning": "Chúng ta hãy ngừng lại ở nhóm từ này",
+   "emoji": "",
+   "ipa": "/ˈpɔz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soap opera",
+   "meaning": "phim truyền hình dài tập",
+   "example": "Let's learn the word \"soap opera\".",
+   "exampleMeaning": "Cùng học từ “soap opera”: phim truyền hình dài tập.",
+   "emoji": "",
+   "ipa": "/ˈsoʊp ˈɑprə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entertain",
+   "meaning": "giải trí, tiếp đãi",
+   "example": "Let's learn the word \"entertain\".",
+   "exampleMeaning": "Cùng học từ “entertain”: giải trí, tiếp đãi.",
+   "emoji": "",
+   "ipa": "/ˌɛnɜrˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tendency",
+   "meaning": "xu hướng, khuynh hướng",
+   "example": "the tendency to socialism",
+   "exampleMeaning": "Xu hướng về chủ nghĩa xã hội",
+   "emoji": "",
+   "ipa": "/ˈtɛndənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "effective",
+   "meaning": "hiệu quả, có hiệu lực",
+   "example": "to become effective",
+   "exampleMeaning": "Bắt đầu có hiệu lực",
+   "emoji": "",
+   "ipa": "/ˈifɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "convey",
+   "meaning": "truyền đạt, chuyên chở",
+   "example": "convey my good wishes to your parents",
+   "exampleMeaning": "Nhờ chuyển những lời chúc mừng của tôi tới cha mẹ anh",
+   "emoji": "",
+   "ipa": "/kənˈveɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "steadily",
+   "meaning": "đều đặn, vững chắc",
+   "example": "Let's learn the word \"steadily\".",
+   "exampleMeaning": "Cùng học từ “steadily”: đều đặn, vững chắc.",
+   "emoji": "",
+   "ipa": "/ˈstɛdəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fright",
+   "meaning": "nỗi sợ, sự hoảng sợ",
+   "example": "Let's learn the word \"fright\".",
+   "exampleMeaning": "Cùng học từ “fright”: nỗi sợ, sự hoảng sợ.",
+   "emoji": "",
+   "ipa": "/ˈfraɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "huge",
+   "meaning": "khổng lồ, to lớn, rất lớn",
+   "example": "Tim is a huge fan of satirical comedy.",
+   "exampleMeaning": "Tim rất thích truyện cười mỉa mai.",
+   "emoji": "",
+   "ipa": "/ˈhjudʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "doze",
+   "meaning": "giấc ngủ ngắn, giấc ngủ gật",
+   "example": "to doze off",
+   "exampleMeaning": "Chợp ngủ lơ mơ",
+   "emoji": "",
+   "ipa": "/ˈdoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "eyesight",
+   "meaning": "thị lực",
+   "example": "You're going to wreck your eyesight if you play games all the time.",
+   "exampleMeaning": "Bạn chơi game suốt ngày như thế hại mắt lắm đấy.",
+   "emoji": "",
+   "ipa": "/ˈaɪˌsaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "dial",
+   "meaning": "mặt số, đĩa quay số",
+   "example": "No, please dial nine first.",
+   "exampleMeaning": "Không, xin bấm số chín trước.",
+   "emoji": "",
+   "ipa": "/ˈdaɪəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "underage",
+   "meaning": "chưa đủ tuổi, vị thành niên",
+   "example": "Let's learn the word \"underage\".",
+   "exampleMeaning": "Cùng học từ “underage”: chưa đủ tuổi, vị thành niên.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "republic",
+   "meaning": "nước cộng hòa, nền cộng hòa",
+   "example": "In the Czech Republic, it’s a tradition to put sparklers on the Christmas tree.",
+   "exampleMeaning": "Ở Cộng hoà Séc, có truyền thống đặt pháo bông lên cây thông Noel.",
+   "emoji": "",
+   "ipa": "/riˈpəblək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "stance",
+   "meaning": "lập trường, quan điểm, tư thế",
+   "example": "Let's learn the word \"stance\".",
+   "exampleMeaning": "Cùng học từ “stance”: lập trường, quan điểm, tư thế.",
+   "emoji": "",
+   "ipa": "/ˈstæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "No",
+    "please",
+    "dial",
+    "nine",
+    "first"
+   ],
+   "reading": "",
+   "meaning": "Không, xin bấm số chín trước."
+  },
+  {
+   "tokens": [
+    "Honesty",
+    "is",
+    "the",
+    "best",
+    "policy"
+   ],
+   "reading": "",
+   "meaning": "Thật thà là thượng sách."
+  },
+  {
+   "tokens": [
+    "No",
+    "smoking",
+    "is",
+    "company",
+    "policy"
+   ],
+   "reading": "",
+   "meaning": "Không hút thuốc là quy định của công ty."
+  },
+  {
+   "tokens": [
+    "What",
+    "is",
+    "your",
+    "company's",
+    "policy"
+   ],
+   "reading": "",
+   "meaning": "Chính sách của công ty bạn là gì?"
+  },
+  {
+   "tokens": [
+    "Honesty",
+    "isn't",
+    "always",
+    "the",
+    "best",
+    "policy"
+   ],
+   "reading": "",
+   "meaning": "Thật thà không phải lúc nào cũng là cha quỷ quái."
+  }
+ ],
+ "issues": []
+}

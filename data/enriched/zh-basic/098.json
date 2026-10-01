@@ -4,105 +4,105 @@
  "words": [
   {
    "term": "特色",
-   "meaning": "đặc sắc",
+   "meaning": "đặc sắc, đặc trưng",
    "example": "他们的表演各有特色。",
    "exampleMeaning": "Cách biểu diễn của mỗi người có đặc sắc riêng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tèsè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "电视剧",
-   "meaning": "kịch truyền hình",
+   "meaning": "phim truyền hình",
    "example": "我们来学“电视剧”这个词。",
-   "exampleMeaning": "Cùng học từ “电视剧”: kịch truyền hình.",
+   "exampleMeaning": "Cùng học từ “电视剧”: phim truyền hình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diànshìjù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "整体",
-   "meaning": "tổng thể",
+   "meaning": "tổng thể, toàn thể",
    "example": "把国家看成是一个由家庭构成的整体。",
    "exampleMeaning": "Xem quốc gia là một chỉnh thể do các gia đình hợp thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhěngtǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "身份证",
-   "meaning": "chứng minh thư",
+   "meaning": "chứng minh thư, thẻ căn cước",
    "example": "我们来学“身份证”这个词。",
-   "exampleMeaning": "Cùng học từ “身份证”: chứng minh thư.",
+   "exampleMeaning": "Cùng học từ “身份证”: chứng minh thư, thẻ căn cước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēnfènzhèng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "收费",
-   "meaning": "thu phí",
+   "meaning": "thu phí",
    "example": "我们来学“收费”这个词。",
-   "exampleMeaning": "Cùng học từ “收费”: thu phí.",
+   "exampleMeaning": "Cùng học từ “收费”: thu phí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shōufèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "迎接",
-   "meaning": "đón",
+   "meaning": "đón, đón tiếp, nghênh đón",
    "example": "迎接即将到来的战斗任务。",
    "exampleMeaning": "Đón nhận nhiệm vụ chiến đấu sắp tới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yíngjiē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "改进",
-   "meaning": "cải tiến, cải thiện, cải tạo",
+   "meaning": "cải tiến, cải thiện",
    "example": "近来各方面都有所改进。",
    "exampleMeaning": "Gần đây tất cả đều được cải tiến toàn diện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎijìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "建设",
-   "meaning": "xây dựng",
+   "meaning": "xây dựng, kiến thiết",
    "example": "经济建设。",
    "exampleMeaning": "Kiến thiết nền kinh tế.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiànshè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "wénxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "nándù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "tóunǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "屋子",
-   "meaning": "gian phòng",
+   "meaning": "phòng, căn nhà",
    "example": "一间屋子。",
    "exampleMeaning": "Một gian phòng; một căn phòng",
    "emoji": "🏠",
    "ipa": "",
    "pinyin": "wūzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -167,33 +167,33 @@
    "ipa": "",
    "pinyin": "tiělù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "通信",
-   "meaning": "thông tin",
+   "meaning": "liên lạc, thông tin liên lạc, viễn thông",
    "example": "数字通信",
    "exampleMeaning": "Thông tin mã số",
    "emoji": "",
    "ipa": "",
    "pinyin": "tōngxìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "缺少",
-   "meaning": "thiếu",
+   "meaning": "thiếu, thiếu hụt",
    "example": "缺少零件。",
    "exampleMeaning": "Thiếu linh kiện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quēshǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "huánbǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "家乡",
-   "meaning": "quê nhà",
+   "meaning": "quê hương, quê nhà",
    "example": "我们来学“家乡”这个词。",
-   "exampleMeaning": "Cùng học từ “家乡”: quê nhà.",
+   "exampleMeaning": "Cùng học từ “家乡”: quê hương, quê nhà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiāxiāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发送",
-   "meaning": "đưa tang",
+   "meaning": "gửi, gửi đi, phát đi",
    "example": "我们来学“发送”这个词。",
-   "exampleMeaning": "Cùng học từ “发送”: đưa tang.",
+   "exampleMeaning": "Cùng học từ “发送”: gửi, gửi đi, phát đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fāsòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "播出",
-   "meaning": "tung ra khắp nơi",
+   "meaning": "phát sóng, phát",
    "example": "与此同时，电台也播出了这条消息。",
    "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bōchū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "读者",
-   "meaning": "độc giả",
+   "meaning": "độc giả, người đọc",
    "example": "供读者使用的房间。",
    "exampleMeaning": "Phòng dành cho độc giả",
    "emoji": "",
    "ipa": "",
    "pinyin": "dúzhě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

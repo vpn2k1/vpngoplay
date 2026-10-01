@@ -1,0 +1,316 @@
+{
+ "lesson": 110,
+ "draft": true,
+ "words": [
+  {
+   "term": "teenage",
+   "meaning": "(ở) tuổi thiếu niên, tuổi mới lớn",
+   "example": "Let's learn the word \"teenage\".",
+   "exampleMeaning": "Cùng học từ “teenage”: (ở) tuổi thiếu niên, tuổi mới lớn.",
+   "emoji": "",
+   "ipa": "/ˈtiˌneɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "raincoat",
+   "meaning": "áo mưa",
+   "example": "I'm looking for a navy blue raincoat, size 36.",
+   "exampleMeaning": "Tôi đang tìm áo mưa màu xanh hải quân, cỡ 36.",
+   "emoji": "",
+   "ipa": "/ˈreɪnˌkoʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "weight",
+   "meaning": "cân nặng, trọng lượng",
+   "example": "to support the weight of the roof",
+   "exampleMeaning": "Chịu tải trọng của mái nhà",
+   "emoji": "",
+   "ipa": "/weɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fortune",
+   "meaning": "vận may, gia tài",
+   "example": "to have fortune an one's side",
+   "exampleMeaning": "Gặp may, may mắn",
+   "emoji": "",
+   "ipa": "/ˈfɔrtʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "garage",
+   "meaning": "nhà để xe, ga-ra, xưởng sửa xe",
+   "example": "Yanni's garage door was closed.",
+   "exampleMeaning": "Cửa garage của Yanni đã đóng.",
+   "emoji": "",
+   "ipa": "/ɡɜrˈɑʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "journey",
+   "meaning": "chuyến đi, hành trình",
+   "example": "Is she equal to a long journey?",
+   "exampleMeaning": "Cô ấy có chịu được một chuyến đi dài không?",
+   "emoji": "",
+   "ipa": "/ˈd͡ʒɜrni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "bus station",
+   "meaning": "bến xe buýt",
+   "example": "Where is the bus station?",
+   "exampleMeaning": "Bến xe buýt ở đâu?",
+   "emoji": "",
+   "ipa": "/ˈbəs ˈsteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "Olympic",
+   "meaning": "(thuộc) Thế vận hội",
+   "example": "He won three Olympic gold medals.",
+   "exampleMeaning": "Anh ấy đã giành được ba huy chương vàng Olympic.",
+   "emoji": "",
+   "ipa": "/oʊˈlɪmpɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "board game",
+   "meaning": "trò chơi bàn cờ",
+   "example": "Let's learn the word \"board game\".",
+   "exampleMeaning": "Cùng học từ “board game”: trò chơi bàn cờ.",
+   "emoji": "",
+   "ipa": "/ˈbɔrd ˈɡeɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "duck",
+   "meaning": "con vịt",
+   "example": "He can't even tell the difference between a duck and a giraffe.",
+   "exampleMeaning": "Anh ấy thậm chí không thể nói sự khác biệt giữa một con vịt và một con hưu cao cổ.",
+   "emoji": "🦆",
+   "ipa": "/dʌk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "rating",
+   "meaning": "xếp hạng, đánh giá",
+   "example": "Let's learn the word \"rating\".",
+   "exampleMeaning": "Cùng học từ “rating”: xếp hạng, đánh giá.",
+   "emoji": "",
+   "ipa": "/ˈreɪtɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "schoolwork",
+   "meaning": "bài vở, việc học",
+   "example": "Let's learn the word \"schoolwork\".",
+   "exampleMeaning": "Cùng học từ “schoolwork”: bài vở, việc học.",
+   "emoji": "",
+   "ipa": "/ˈskulˌwɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "magic",
+   "meaning": "kỳ diệu, thần kỳ, có phép thuật",
+   "example": "The ancient grimoire contained forbidden black magic spells.",
+   "exampleMeaning": "Cuốn sách phù thuỷ cũ chứa đựng cấm thuật đen.",
+   "emoji": "",
+   "ipa": "/ˈmad͡ʒɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lively",
+   "meaning": "sôi nổi, sinh động, hoạt bát",
+   "example": "to make it lively for one's enemy",
+   "exampleMeaning": "Làm cho địch thất điên bát đảo",
+   "emoji": "",
+   "ipa": "/ˈlaɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lane",
+   "meaning": "làn đường, ngõ, đường hẻm",
+   "example": "Let's learn the word \"lane\".",
+   "exampleMeaning": "Cùng học từ “lane”: làn đường, ngõ, đường hẻm.",
+   "emoji": "",
+   "ipa": "/ˈleɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "slowly",
+   "meaning": "chậm, chậm rãi",
+   "example": "I drove slowly back home.",
+   "exampleMeaning": "Tôi đã lái xe chầm chậm trở về nhà.",
+   "emoji": "",
+   "ipa": "/ˈsləʊli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "receptionist",
+   "meaning": "lễ tân, nhân viên lễ tân",
+   "example": "Let's learn the word \"receptionist\".",
+   "exampleMeaning": "Cùng học từ “receptionist”: lễ tân, nhân viên lễ tân.",
+   "emoji": "",
+   "ipa": "/riˈsɛpʃənɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "astronaut",
+   "meaning": "phi hành gia",
+   "example": "Let's learn the word \"astronaut\".",
+   "exampleMeaning": "Cùng học từ “astronaut”: phi hành gia.",
+   "emoji": "🧑‍🚀",
+   "ipa": "/ˈæstrəˌnɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "report",
+   "meaning": "báo cáo, bản tin",
+   "example": "to give a report on...",
+   "exampleMeaning": "Báo cáo về...",
+   "emoji": "",
+   "ipa": "/riˈpɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "balloon",
+   "meaning": "bóng bay, khinh khí cầu",
+   "example": "The balloon popped.",
+   "exampleMeaning": "Quả bóng bay phát nổ.",
+   "emoji": "🎈",
+   "ipa": "/bəˈlun/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "balloon",
+    "popped"
+   ],
+   "reading": "",
+   "meaning": "Quả bóng bay phát nổ."
+  },
+  {
+   "tokens": [
+    "I",
+    "walk",
+    "slowly"
+   ],
+   "reading": "",
+   "meaning": "Tôi đi bộ chậm rãi."
+  },
+  {
+   "tokens": [
+    "Eat",
+    "more",
+    "slowly"
+   ],
+   "reading": "",
+   "meaning": "Ăn chậm hơn đi."
+  },
+  {
+   "tokens": [
+    "His",
+    "opinions",
+    "carry",
+    "weight"
+   ],
+   "reading": "",
+   "meaning": "Ý kiến của nó thật nặng đô."
+  },
+  {
+   "tokens": [
+    "They",
+    "have",
+    "gained",
+    "weight"
+   ],
+   "reading": "",
+   "meaning": "Họ đã tăng cân."
+  }
+ ],
+ "issues": []
+}

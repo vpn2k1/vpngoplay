@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "车辆",
-   "meaning": "xe, xe cộ",
+   "meaning": "xe cộ, phương tiện",
    "example": "这条路上的车辆不多。",
    "exampleMeaning": "Con đường này không có nhiều xe đi lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chēliàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "有意思",
-   "meaning": "thú vị",
+   "meaning": "thú vị, hay",
    "example": "他对你有意思，你没看出来？",
    "exampleMeaning": "Anh ấy có tình ý với chị, chị không nhận ra sao？",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuyìsi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "早晨",
-   "meaning": "sáng",
+   "meaning": "buổi sáng, sáng sớm",
    "example": "已经下了两天雨了，我想今天大概要晴了，哪知道从早晨到晚上又下了一整天。",
    "exampleMeaning": "Đã mưa hai ngày rồi, tớ nghĩ hôm nay chắc là phải nắng rồi, biết đâu được là lại mưa cả ngày trời từ sáng sớm đến tối.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǎochén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "出门",
-   "meaning": "rời xa nhà",
+   "meaning": "ra ngoài, ra khỏi nhà",
    "example": "他刚出门，你等一会儿吧。",
    "exampleMeaning": "Anh ấy vừa mới ra ngoài, anh hãy đợi một chút!",
    "emoji": "",
    "ipa": "",
    "pinyin": "chūmén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "以外",
-   "meaning": "ngoài",
+   "meaning": "ngoài, ngoài ra",
    "example": "除此以外，还有一点要注意。",
    "exampleMeaning": "Ngoài ra còn có một điều cần chú ý.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐwài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "zuòfǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "作家",
-   "meaning": "tác giả",
+   "meaning": "nhà văn",
    "example": "我们来学“作家”这个词。",
-   "exampleMeaning": "Cùng học từ “作家”: tác giả.",
+   "exampleMeaning": "Cùng học từ “作家”: nhà văn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuòjiā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "全体",
-   "meaning": "toàn thể (thường chỉ về người)",
+   "meaning": "toàn thể, tất cả",
    "example": "全体人民。",
    "exampleMeaning": "Toàn thể nhân dân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quántǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,72 +115,72 @@
    "ipa": "",
    "pinyin": "dìtiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "熟",
-   "meaning": "chín",
+   "meaning": "chín, quen, thạo",
    "example": "熟能生巧。",
    "exampleMeaning": "Có công mài sắt có ngày nên kim.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "小时候",
-   "meaning": "hồi nhỏ",
+   "meaning": "hồi nhỏ, lúc nhỏ",
    "example": "小时候我没有自行车。",
    "exampleMeaning": "Hồi nhỏ tôi không có xe đạp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎoshíhou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "全身",
-   "meaning": "toàn thân / em (kiểu chữ)",
+   "meaning": "toàn thân, khắp người",
    "example": "我们来学“全身”这个词。",
-   "exampleMeaning": "Cùng học từ “全身”: toàn thân / em (kiểu chữ).",
+   "exampleMeaning": "Cùng học từ “全身”: toàn thân, khắp người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quánshēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "练习",
-   "meaning": "tập",
+   "meaning": "luyện tập, bài tập",
    "example": "练习写文章。",
    "exampleMeaning": "Tập viết văn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liànxí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "咱",
-   "meaning": "chúng tôi, chúng ta",
+   "meaning": "chúng mình, ta",
    "example": "咱们吃吧！我饿死了。",
    "exampleMeaning": "Chúng ta ăn thôi. Tôi sắp chết vì đói rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,20 +193,20 @@
    "ipa": "",
    "pinyin": "píngān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "人数",
-   "meaning": "tổng số người",
+   "meaning": "số người",
    "example": "学生人数一年比一年增加。",
    "exampleMeaning": "Số học sinh mỗi năm một tăng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rénshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "duìzhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "南方",
-   "meaning": "phía nam",
+   "meaning": "phương nam, miền nam",
    "example": "我们来学“南方”这个词。",
-   "exampleMeaning": "Cùng học từ “南方”: phía nam.",
+   "exampleMeaning": "Cùng học từ “南方”: phương nam, miền nam.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nánfāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "友好",
-   "meaning": "hữu nghị",
+   "meaning": "hữu nghị, thân thiện",
    "example": "生前友好",
    "exampleMeaning": "Bạn thân lúc sinh thời",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuhǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "亿",
-   "meaning": "một trăm triệu",
+   "meaning": "trăm triệu",
    "example": "我们来学“亿”这个词。",
-   "exampleMeaning": "Cùng học từ “亿”: một trăm triệu.",
+   "exampleMeaning": "Cùng học từ “亿”: trăm triệu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

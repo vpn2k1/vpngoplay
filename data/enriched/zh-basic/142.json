@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "缓解",
-   "meaning": "làm dịu",
+   "meaning": "làm dịu, giảm bớt, xoa dịu",
    "example": "缓解市内交通拥挤状况。",
    "exampleMeaning": "Làm dịu tình hình giao thông đông đúc trong thành phố.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huǎnjiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "测量",
-   "meaning": "đo",
+   "meaning": "đo, đo đạc",
    "example": "筑路前要做好测量工作。",
    "exampleMeaning": "Trước khi làm đường phải làm tốt công tác trắc địa",
    "emoji": "",
    "ipa": "",
    "pinyin": "cèliáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "汇",
-   "meaning": "họp",
+   "meaning": "chuyển (tiền), hội tụ, tụ lại",
    "example": "汇给他一笔路费。",
    "exampleMeaning": "Gửi cho nó tiền đi đường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "láibují",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "商务",
-   "meaning": "thương vụ",
+   "meaning": "thương mại, kinh doanh",
    "example": "我们来学“商务”这个词。",
-   "exampleMeaning": "Cùng học từ “商务”: thương vụ.",
+   "exampleMeaning": "Cùng học từ “商务”: thương mại, kinh doanh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shāngwù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "天真",
-   "meaning": "khờ khạo",
+   "meaning": "ngây thơ, hồn nhiên",
    "example": "这种想法过于天真",
    "exampleMeaning": "Lối nghĩ ấy quá khờ khạo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiānzhēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "ránliào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发烧",
-   "meaning": "phát sốt",
+   "meaning": "sốt, bị sốt",
    "example": "我们来学“发烧”这个词。",
-   "exampleMeaning": "Cùng học từ “发烧”: phát sốt.",
+   "exampleMeaning": "Cùng học từ “发烧”: sốt, bị sốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fāshāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -115,111 +115,111 @@
    "ipa": "",
    "pinyin": "tìdài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "安置",
-   "meaning": "thu xếp",
+   "meaning": "thu xếp, bố trí, an trí",
    "example": "这批新来的同志都得到了适当的安置",
    "exampleMeaning": "Các đồng chí mới đến lần này đã được bố trí ổn cả rồi",
    "emoji": "",
    "ipa": "",
    "pinyin": "ānzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "箱子",
-   "meaning": "hòm",
+   "meaning": "va li, cái hòm",
    "example": "这个箱子沉得过分了。",
    "exampleMeaning": "Cái hòm này quá nặng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāngzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "严",
-   "meaning": "nghiêm",
+   "meaning": "nghiêm, kín, chặt",
    "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
    "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "了不起",
-   "meaning": "tài ba",
+   "meaning": "giỏi giang, phi thường, tuyệt vời",
    "example": "没有什么了不起的困难。",
    "exampleMeaning": "Khó khăn chẳng có gì là ghê gớm cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liǎobuqǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "修理",
-   "meaning": "sửa, chuộc (lỗi)",
+   "meaning": "sửa, sửa chữa",
    "example": "小张一会儿就把电视机修理好了，他有两下子，我佩服他！",
    "exampleMeaning": "Tiểu Trương một lúc đã sửa xong cái tivi, anh ấy có thực lực, tôi khâm phục anh ấy!",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiūlǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "尺寸",
-   "meaning": "kích cỡ",
+   "meaning": "kích thước, cỡ",
    "example": "小孩子说话得有个尺寸。",
    "exampleMeaning": "Trẻ con ăn nói phải đúng mực.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǐcun",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "幼儿园",
-   "meaning": "nhà trẻ",
+   "meaning": "mẫu giáo, nhà trẻ",
    "example": "我们来学“幼儿园”这个词。",
-   "exampleMeaning": "Cùng học từ “幼儿园”: nhà trẻ.",
+   "exampleMeaning": "Cùng học từ “幼儿园”: mẫu giáo, nhà trẻ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yòuéryuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "穿上",
-   "meaning": "mặc vào (quần áo, vv)",
+   "meaning": "mặc vào",
    "example": "我们来学“穿上”这个词。",
-   "exampleMeaning": "Cùng học từ “穿上”: mặc vào (quần áo, vv).",
+   "exampleMeaning": "Cùng học từ “穿上”: mặc vào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chuānshang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -232,20 +232,20 @@
    "ipa": "",
    "pinyin": "xīyān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "影子",
-   "meaning": "ấn tượng",
+   "meaning": "bóng, cái bóng",
    "example": "那件事我连点儿影子也记不得了。",
    "exampleMeaning": "Việc đó tôi chẳng có chút ấn tượng nào cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐngzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "yáncháng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

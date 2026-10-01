@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "局",
-   "meaning": "cục",
+   "meaning": "cục, ván (lượng từ), tình hình",
    "example": "局长对我们一风吹的做法提出了批评。",
    "exampleMeaning": "Việc cục trưởng bỏ qua tất cả cho chúng tôi đã gây ra sự phê bình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "",
    "pinyin": "wèilái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "看来",
-   "meaning": "có vẻ",
+   "meaning": "xem ra, có vẻ",
    "example": "她一个人看来看去，大约看了半个小时。",
    "exampleMeaning": "Cô ngắm đi ngắm lại một mình độ nửa giờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kànlai",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "yánzhòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "包括",
-   "meaning": "gồm",
+   "meaning": "bao gồm",
    "example": "怀念亲人，也包括在怀乡之情中。",
    "exampleMeaning": "Nỗi nhớ người thân chất chứa trong nỗi nhớ quê nhà",
    "emoji": "",
    "ipa": "",
    "pinyin": "bāokuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,46 +76,46 @@
    "ipa": "",
    "pinyin": "fǎlǜ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "项",
-   "meaning": "khoản tiền, hạng",
+   "meaning": "khoản, điều (lượng từ)",
    "example": "我十分反对这个项目。",
    "exampleMeaning": "Tôi hoàn toàn phản đối kế hoạch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "底",
-   "meaning": "như vậy",
+   "meaning": "đáy, cuối (năm, tháng)",
    "example": "长歌底有情。",
    "exampleMeaning": "Trường ca trữ tình như vậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "不管",
-   "meaning": "mặc",
+   "meaning": "bất kể, mặc kệ",
    "example": "不管侵略者什么时候来, 都必被消灭。",
    "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "jiěshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,72 +141,72 @@
    "ipa": "",
    "pinyin": "lìshǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "之一",
-   "meaning": "một trong những",
+   "meaning": "một trong",
    "example": "哈巴羅夫斯克是俄羅斯遠東地區最大的城市之一。",
    "exampleMeaning": "Khabarovsk là một trong những thành phố lớn nhất vùng Viễn Đông nước Nga.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīyī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "项目",
-   "meaning": "hạng mục",
+   "meaning": "dự án, hạng mục, môn thi đấu",
    "example": "首先兴办关键性的建设项目。",
    "exampleMeaning": "Trước hết phải thực hiện những hạng mục then chốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàngmù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "梦",
-   "meaning": "nằm mơ thấy, giấc mơ, giấc mộng",
+   "meaning": "giấc mơ, mơ",
    "example": "人人都愿意相信美梦可以成真。",
    "exampleMeaning": "Ai cũng muốn tin rằng mọi giấc mơ đều có thể trở thành hiện thực.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mèng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "单",
-   "meaning": "cái kéo liềm (để tỉa cành cây trên cao)",
+   "meaning": "đơn, hóa đơn, danh sách",
    "example": "汤姆一直都是单身汉。",
    "exampleMeaning": "Tom luôn luôn độc thân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "非",
-   "meaning": "không",
+   "meaning": "không phải, phi, sai",
    "example": "她非常周到和耐心。",
    "exampleMeaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "zǒngtǒng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "似乎",
-   "meaning": "dường như",
+   "meaning": "dường như, hình như",
    "example": "他张开双臂, 似乎要拥抱这个世界。",
    "exampleMeaning": "Nó mở rộng hai cánh tay như muốn ôm trọn cả thế giới này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sìhū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "应",
-   "meaning": "đáp, đáp ứng, đồng ý",
+   "meaning": "nên, cần phải, đồng ý",
    "example": "玩这些电脑游戏要反应灵敏。",
    "exampleMeaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "几乎",
-   "meaning": "gần",
+   "meaning": "gần như, hầu như",
    "example": "今天到会的几乎有五千人。",
    "exampleMeaning": "Hôm nay có gần 50 ngàn người đến dự hội nghị.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīhū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

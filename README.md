@@ -221,7 +221,9 @@ npm run vocab:draft      # soạn lại với bản dịch vừa tải
 npm run vocab:build
 ```
 
-- **Nghĩa:**
+- **Nghĩa:** lấy từ `data/reviewed/<khoá>.json` (từ → nghĩa tiếng Việt đã rà soát lại cho cả 27.000 từ của 9 lộ trình), được ưu tiên hơn mọi từ điển.
+  - **Sửa nghĩa một từ:** sửa trong file này rồi chạy `npm run vocab:draft && npm run vocab:build`. Hai từ trong cùng một bài không được có chung một nghĩa, kể cả khi bỏ dấu (`bàn` và `bán` bị coi là trùng); bài nào bị trùng sẽ không được build.
+  - Từ không có trong file rà soát thì lấy nghĩa từ điển:
   - **Tiếng Anh:** Wiktionary tiếng Việt và từ điển Anh–Việt, chọn nghĩa khớp từ loại; từ ghép (nightclub, tablespoon) lấy từ bảng dịch của English Wiktionary.
   - **Tiếng Trung:** từ điển Trung–Việt, chỉ khi pinyin khớp cách đọc HSK (的, 得 có nhiều cách đọc).
   - **Tiếng Nhật:** dịch bắc cầu qua nghĩa tiếng Anh của danh sách JLPT và JMdict; chỉ dùng từ tiếng Trung cùng mặt chữ khi nghĩa tiếng Anh trong CC-CEDICT khớp. Từ nào không dịch được thì giữ nghĩa tiếng Anh, có ghi "(EN)".

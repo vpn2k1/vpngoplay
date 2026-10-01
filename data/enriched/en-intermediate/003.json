@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "defeat",
-   "meaning": "đánh thắng, đánh bại",
+   "meaning": "đánh bại, thắng",
    "example": "You'll never defeat me.",
    "exampleMeaning": "Mày sẽ không bao giờ có thể thắng tao.",
    "emoji": "",
    "ipa": "/dɪˈfit/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,98 +24,98 @@
    "ipa": "/ˈsɪɡnət͡ʃə(r)/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "frozen",
-   "meaning": "đông lạnh",
+   "meaning": "đông lạnh, đóng băng",
    "example": "Sami put the frozen sandwich in the microwave.",
    "exampleMeaning": "Sami cho sandwich đông lạnh vào trong lò vi sóng.",
    "emoji": "",
    "ipa": "/ˈfroʊzən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "conclude",
-   "meaning": "kết thúc, chấm dứt ((công việc... )",
+   "meaning": "kết luận, kết thúc",
    "example": "to conclude a speech",
    "exampleMeaning": "Kết thúc bài nói",
    "emoji": "",
    "ipa": "/kənˈklud/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "contrary",
-   "meaning": "ngược lại",
+   "meaning": "trái ngược, ngược lại",
    "example": "at contrary to...",
    "exampleMeaning": "Làm ngược lại với...",
    "emoji": "",
    "ipa": "/ˈkɑntrɛri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "superstition",
-   "meaning": "sự mê tín",
+   "meaning": "sự mê tín, điều mê tín",
    "example": "Let's learn the word \"superstition\".",
-   "exampleMeaning": "Cùng học từ “superstition”: sự mê tín.",
+   "exampleMeaning": "Cùng học từ “superstition”: sự mê tín, điều mê tín.",
    "emoji": "",
    "ipa": "/ˌsupɜrˈstɪʃən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "safety",
-   "meaning": "an toàn",
+   "meaning": "sự an toàn",
    "example": "the safety of an experiment",
    "exampleMeaning": "Tính chất không nguy hiểm của cuộc thí nghiệm",
    "emoji": "",
    "ipa": "/ˈseɪfti/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "length",
-   "meaning": "bề dài, chiều dài, độ dài",
+   "meaning": "chiều dài, độ dài",
    "example": "at arm's length",
    "exampleMeaning": "Cách một sải tay",
    "emoji": "",
    "ipa": "/lɛŋ(k)θ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "curious",
-   "meaning": "tò mò, hiếu kỳ, thọc mạch",
+   "meaning": "tò mò, hiếu kỳ",
    "example": "I'm curious to know what he said",
    "exampleMeaning": "Tôi muốn (tìm) biết anh ấy nói gì",
    "emoji": "",
    "ipa": "/ˈkjʊriəs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -128,111 +128,111 @@
    "ipa": "/ˈænt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "beast",
-   "meaning": "thú vật, súc vật",
+   "meaning": "con thú, quái vật",
    "example": "A strange beast is roaming through the woods.",
    "exampleMeaning": "Một con thú kỳ lạ đang băng qua khu rừng.",
    "emoji": "",
    "ipa": "/ˈbist/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "Mediterranean",
-   "meaning": "ở giữa lục địa, cách xa biển",
+   "meaning": "Địa Trung Hải",
    "example": "Let's learn the word \"Mediterranean\".",
-   "exampleMeaning": "Cùng học từ “Mediterranean”: ở giữa lục địa, cách xa biển.",
+   "exampleMeaning": "Cùng học từ “Mediterranean”: Địa Trung Hải.",
    "emoji": "",
    "ipa": "/ˌmɛdətɜrˈeɪniən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "dynasty",
-   "meaning": "triều đại, triều vua",
+   "meaning": "triều đại",
    "example": "Let's learn the word \"dynasty\".",
-   "exampleMeaning": "Cùng học từ “dynasty”: triều đại, triều vua.",
+   "exampleMeaning": "Cùng học từ “dynasty”: triều đại.",
    "emoji": "",
    "ipa": "/ˈdaɪnəsti/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "lasting",
-   "meaning": "bền vững, lâu dài, trường cửu",
+   "meaning": "lâu dài, bền vững",
    "example": "The scenery of the Alps left a lasting impression on me.",
    "exampleMeaning": "Phong cảnh của dãy Alps đã để lại trong tôi một ấn tượng khó phai.",
    "emoji": "",
    "ipa": "/ˈlæstɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "fluently",
-   "meaning": "trôi chảy",
+   "meaning": "trôi chảy, lưu loát",
    "example": "Let's learn the word \"fluently\".",
-   "exampleMeaning": "Cùng học từ “fluently”: trôi chảy.",
+   "exampleMeaning": "Cùng học từ “fluently”: trôi chảy, lưu loát.",
    "emoji": "",
    "ipa": "/ˈfluəntli/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "link",
-   "meaning": "kết hợp, liên kết",
+   "meaning": "mối liên hệ, liên kết, đường dẫn",
    "example": "Let's learn the word \"link\".",
-   "exampleMeaning": "Cùng học từ “link”: kết hợp, liên kết.",
+   "exampleMeaning": "Cùng học từ “link”: mối liên hệ, liên kết, đường dẫn.",
    "emoji": "🔗",
    "ipa": "/ˈlɪŋk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "bundle",
-   "meaning": "bọc, gói",
+   "meaning": "bó, gói, bọc",
    "example": "to bundle someone out of the house",
    "exampleMeaning": "Tống cổ ai ra khỏi nhà",
    "emoji": "",
    "ipa": "/ˈbʌnd(ə)l/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "competitor",
-   "meaning": "người cạnh tranh",
+   "meaning": "đối thủ cạnh tranh",
    "example": "Let's learn the word \"competitor\".",
-   "exampleMeaning": "Cùng học từ “competitor”: người cạnh tranh.",
+   "exampleMeaning": "Cùng học từ “competitor”: đối thủ cạnh tranh.",
    "emoji": "",
    "ipa": "/kəmˈpɛtətɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "/ˈnæʃənələst/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "regional",
-   "meaning": "vùng, (thuộc) miền",
+   "meaning": "(thuộc) vùng, khu vực",
    "example": "There are too many regional differences.",
    "exampleMeaning": "Có quá nhiều sự khác biệt vùng miền.",
    "emoji": "",
    "ipa": "/ˈridʒənəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

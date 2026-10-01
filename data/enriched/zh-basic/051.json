@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "对话",
-   "meaning": "lời thoại",
+   "meaning": "đối thoại, hội thoại",
    "example": "对话要符合人物的性格。",
    "exampleMeaning": "Lời thoại phải phù hợp với tính cách nhân vật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duìhuà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "停车",
-   "meaning": "ngừng chạy",
+   "meaning": "đỗ xe, dừng xe",
    "example": "此处禁止停车。",
    "exampleMeaning": "Cấm đậu xe nơi đây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tíngchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,20 +37,20 @@
    "ipa": "",
    "pinyin": "dōngtiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "云",
-   "meaning": "vân Nam",
+   "meaning": "mây, đám mây",
    "example": "云是天空中的水汽团。",
    "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yún",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "qīngnián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "hǎorén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "大声",
-   "meaning": "lớn tiếng",
+   "meaning": "to tiếng, lớn tiếng",
    "example": "停止大声说话。",
    "exampleMeaning": "Cấm nói lớn tiếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "分开",
-   "meaning": "tách biệt",
+   "meaning": "tách ra, chia ra, xa nhau",
    "example": "弟兄两人分开已经三年了。",
    "exampleMeaning": "Hai anh em xa nhau đã ba năm rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēnkāi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,7 +115,7 @@
    "ipa": "",
    "pinyin": "xiàozhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "shìzhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -141,46 +141,46 @@
    "ipa": "",
    "pinyin": "zìxíngchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "相机",
-   "meaning": "máy ảnh, máy chụp hình, máy hình",
+   "meaning": "máy ảnh",
    "example": "这个照相机是德国制造的。",
    "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàngjī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "花园",
-   "meaning": "hoa viên",
+   "meaning": "vườn hoa",
    "example": "我们来学“花园”这个词。",
-   "exampleMeaning": "Cùng học từ “花园”: hoa viên.",
+   "exampleMeaning": "Cùng học từ “花园”: vườn hoa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huāyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "影片",
-   "meaning": "phim",
+   "meaning": "phim, bộ phim",
    "example": "科学教育影片",
    "exampleMeaning": "Phim khoa học giáo dục",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐngpiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,72 +193,72 @@
    "ipa": "",
    "pinyin": "wēndù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "等于",
-   "meaning": "như",
+   "meaning": "bằng, tương đương với",
    "example": "五乘二等于十。",
    "exampleMeaning": "Năm nhân hai bằng mười.",
    "emoji": "",
    "ipa": "",
    "pinyin": "děngyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "周年",
-   "meaning": "đầy năm",
+   "meaning": "tròn năm, kỷ niệm năm",
    "example": "建国三十周年。",
    "exampleMeaning": "Ba mươi năm thành lập nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōunián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "节日",
-   "meaning": "ngày lễ",
+   "meaning": "ngày lễ, ngày hội",
    "example": "国庆节日",
    "exampleMeaning": "Ngày quốc khánh",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiérì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "例如",
-   "meaning": "ví dụ",
+   "meaning": "ví dụ, chẳng hạn như",
    "example": "田径运动的项目很多，例如跳高、跳远、百米赛跑等。",
    "exampleMeaning": "Hạng mục điền kinh rất nhiều, ví dụ như nhảy cao, nhảy xa, chạy trăm mét.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lìrú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "重视",
-   "meaning": "coi trọng",
+   "meaning": "coi trọng, xem trọng",
    "example": "重视群众的发明创造。",
    "exampleMeaning": "Xem trọng những phát minh sáng tạo của quần chúng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhòngshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

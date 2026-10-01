@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "封",
-   "meaning": "cấp, lá, bức",
+   "meaning": "bức, lá (lượng từ thư), niêm phong",
    "example": "昨天，我收到一封用英语写的信。",
    "exampleMeaning": "Hôm qua, tôi có nhận một bức thư viết bằng tiếng Anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,176 +24,176 @@
    "ipa": "",
    "pinyin": "dàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "科",
-   "meaning": "xử",
+   "meaning": "khoa, môn",
    "example": "数学是所有科学的基础。",
    "exampleMeaning": "Toán học là nền tảng của tất cả các môn khoa học",
    "emoji": "",
    "ipa": "",
    "pinyin": "kē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "占",
-   "meaning": "chiếm, chiếm giữ",
+   "meaning": "chiếm",
    "example": "那么多的工作已经把时间全占用了。",
    "exampleMeaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "词",
-   "meaning": "lời nói, từ",
+   "meaning": "từ, từ ngữ",
    "example": "我不喜欢学习不规则动词。",
    "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "鸟",
-   "meaning": "con chim",
+   "meaning": "chim",
    "example": "我们来学“鸟”这个词。",
-   "exampleMeaning": "Cùng học từ “鸟”: con chim.",
+   "exampleMeaning": "Cùng học từ “鸟”: chim.",
    "emoji": "🐦",
    "ipa": "",
    "pinyin": "niǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "取得",
-   "meaning": "được, giành được, thu được",
+   "meaning": "giành được, đạt được",
    "example": "我取得了众多可观的成就。",
    "exampleMeaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǔdé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "想起",
-   "meaning": "để gọi cho tâm trí",
+   "meaning": "nhớ ra, nghĩ ra",
    "example": "现在我想起来了。",
    "exampleMeaning": "Hiện tại tôi nhớ ra rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎngqǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "蓝",
-   "meaning": "xanh, lam",
+   "meaning": "xanh lam",
    "example": "蔚蓝。",
    "exampleMeaning": "Xanh thẳm; xanh biếc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "纸",
-   "meaning": "giấy, giấy tờ, giấy má",
+   "meaning": "giấy",
    "example": "你把报纸借给我。",
    "exampleMeaning": "Cậu cho mình mượn tờ báo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "背",
-   "meaning": "xui",
+   "meaning": "lưng, cõng, học thuộc",
    "example": "这些天我特背，干什么，什么不成。",
    "exampleMeaning": "Mấy ngày nay tôi xui xẻo quá, làm chuyện gì cũng không thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bèi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一生",
-   "meaning": "suốt đời",
+   "meaning": "cả đời, một đời",
    "example": "我们来学“一生”这个词。",
-   "exampleMeaning": "Cùng học từ “一生”: suốt đời.",
+   "exampleMeaning": "Cùng học từ “一生”: cả đời, một đời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "照顾",
-   "meaning": "chú ý",
+   "meaning": "chăm sóc",
    "example": "我去买票，你来照顾行李。",
    "exampleMeaning": "Tôi đi mua vé, anh đi coi hàng lý đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhàogu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "急",
-   "meaning": "gấp, cần kíp, khẩn cấp",
+   "meaning": "gấp, vội, sốt ruột",
    "example": "他还没有把情况了解清楚就急忙发表意见。",
    "exampleMeaning": "Anh ta chưa biết rõ tình hình đã phát biểu ý kiến ngay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "疼",
-   "meaning": "đau, đau đớn",
+   "meaning": "đau, thương",
    "example": "我太阳穴处疼极了。",
    "exampleMeaning": "Tôi nhức thái dương quá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "téng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "tàidu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "小组",
-   "meaning": "tiểu tổ, nhóm nhỏ, nhóm",
+   "meaning": "nhóm, nhóm nhỏ",
    "example": "互助小组。",
    "exampleMeaning": "Tổ đổi công.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎozǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "数字",
-   "meaning": "số lượng",
+   "meaning": "chữ số, con số",
    "example": "不要盲目追求数字。",
    "exampleMeaning": "Không nên mù quáng chạy theo số lượng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shùzì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "礼物",
-   "meaning": "lễ vật",
+   "meaning": "quà, món quà",
    "example": "送你一点礼物。",
    "exampleMeaning": "Biếu chị một chút quà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐwù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "酒店",
-   "meaning": "quán rượu",
+   "meaning": "khách sạn, quán rượu",
    "example": "我们来学“酒店”这个词。",
-   "exampleMeaning": "Cùng học từ “酒店”: quán rượu.",
+   "exampleMeaning": "Cùng học từ “酒店”: khách sạn, quán rượu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǔdiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

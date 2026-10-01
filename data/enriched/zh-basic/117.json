@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "既然",
-   "meaning": "từ lâu, trước đây",
+   "meaning": "một khi, đã vậy thì",
    "example": "你既然已经知道了，还问什么？",
    "exampleMeaning": "Mày đã biết rồi còn phải hỏi gì nữa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìrán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "货",
-   "meaning": "hàng hoá, hàng",
+   "meaning": "hàng hóa, hàng",
    "example": "好吃懒做的货。",
    "exampleMeaning": "Đồ hay ăn biếng làm",
    "emoji": "",
    "ipa": "",
    "pinyin": "huò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "特殊",
-   "meaning": "đặc biệt",
+   "meaning": "đặc biệt, đặc thù",
    "example": "情形特殊",
    "exampleMeaning": "Tình hình đặc biệt",
    "emoji": "",
    "ipa": "",
    "pinyin": "tèshū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,7 +50,7 @@
    "ipa": "",
    "pinyin": "tíxǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,189 +63,189 @@
    "ipa": "",
    "pinyin": "fēnggé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "角色",
-   "meaning": "nhân vật (tiểu thuyết, kịch)",
+   "meaning": "vai, vai diễn, nhân vật",
    "example": "我们来学“角色”这个词。",
-   "exampleMeaning": "Cùng học từ “角色”: nhân vật (tiểu thuyết, kịch).",
+   "exampleMeaning": "Cùng học từ “角色”: vai, vai diễn, nhân vật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "juésè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "彻底",
-   "meaning": "triệt để",
+   "meaning": "triệt để, hoàn toàn",
    "example": "彻底改变旧作风。",
    "exampleMeaning": "Triệt để thay đổi các lề lối cũ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chèdǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "投入",
-   "meaning": "đưa vào",
+   "meaning": "đưa vào, dồn hết, nhập tâm",
    "example": "新机场已经正式投入使用。",
    "exampleMeaning": "Sân bay mới đã chính thức đưa vào sử dụng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóurù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "优秀",
-   "meaning": "xuất sắc",
+   "meaning": "xuất sắc, ưu tú",
    "example": "优秀作品",
    "exampleMeaning": "Tác phẩm xuất sắc",
    "emoji": "",
    "ipa": "",
    "pinyin": "yōuxiù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "儿童",
-   "meaning": "nhi đồng",
+   "meaning": "trẻ em, nhi đồng",
    "example": "我们来学“儿童”这个词。",
-   "exampleMeaning": "Cùng học từ “儿童”: nhi đồng.",
+   "exampleMeaning": "Cùng học từ “儿童”: trẻ em, nhi đồng.",
    "emoji": "🧒",
    "ipa": "",
    "pinyin": "értóng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "权利",
-   "meaning": "quyền lợi",
+   "meaning": "quyền lợi, quyền",
    "example": "我们来学“权利”这个词。",
-   "exampleMeaning": "Cùng học từ “权利”: quyền lợi.",
+   "exampleMeaning": "Cùng học từ “权利”: quyền lợi, quyền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quánlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "既",
-   "meaning": "rồi, phàm",
+   "meaning": "vừa, đã (phó từ)",
    "example": "他既精于数学又精于文学。",
    "exampleMeaning": "Nó đã giỏi toán, còn giỏi cả văn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "期间",
-   "meaning": "dịp",
+   "meaning": "trong thời gian, thời kỳ",
    "example": "农忙期间。",
    "exampleMeaning": "Ngày mùa bận rộn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qījiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "手里",
-   "meaning": "trong tay của ai đó",
+   "meaning": "trong tay",
    "example": "我们来学“手里”这个词。",
-   "exampleMeaning": "Cùng học từ “手里”: trong tay của ai đó.",
+   "exampleMeaning": "Cùng học từ “手里”: trong tay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǒulǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "距离",
-   "meaning": "cách",
+   "meaning": "khoảng cách, cách",
    "example": "天津距离北京约有二百四十里。",
    "exampleMeaning": "Thiên Tân cách Bắc Kinh khoảng hai trăm bốn mươi dặm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jùlí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "轻松",
-   "meaning": "thoải mái",
+   "meaning": "thoải mái, nhẹ nhàng",
    "example": "轻松活儿。",
    "exampleMeaning": "Việc nhẹ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qīngsōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "敌人",
-   "meaning": "quân địch",
+   "meaning": "kẻ thù, quân địch",
    "example": "我们来学“敌人”这个词。",
-   "exampleMeaning": "Cùng học từ “敌人”: quân địch.",
+   "exampleMeaning": "Cùng học từ “敌人”: kẻ thù, quân địch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dírén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "程序",
-   "meaning": "chương trình",
+   "meaning": "trình tự, chương trình",
    "example": "假如你没有这个程序，你现在就可以去下载。",
    "exampleMeaning": "Nếu bạn không có chương trình này, bây giờ bạn có thể tải nó về",
    "emoji": "",
    "ipa": "",
    "pinyin": "chéngxù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "医疗",
-   "meaning": "chữa bệnh",
+   "meaning": "y tế, chữa bệnh",
    "example": "医疗机构",
    "exampleMeaning": "Cơ cấu chữa bệnh",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīliáo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "bìyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

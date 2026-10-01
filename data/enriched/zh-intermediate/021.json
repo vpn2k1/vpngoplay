@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "用于",
-   "meaning": "dùng cho",
+   "meaning": "dùng vào, dùng cho",
    "example": "我们来学“用于”这个词。",
-   "exampleMeaning": "Cùng học từ “用于”: dùng cho.",
+   "exampleMeaning": "Cùng học từ “用于”: dùng vào, dùng cho.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yòngyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "jīnrì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "ǒuxiàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "挡",
-   "meaning": "kháng cự, chống lại",
+   "meaning": "chắn, ngăn cản",
    "example": "我们来学“挡”这个词。",
-   "exampleMeaning": "Cùng học từ “挡”: kháng cự, chống lại.",
+   "exampleMeaning": "Cùng học từ “挡”: chắn, ngăn cản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "届",
-   "meaning": "khoá",
+   "meaning": "khoá, kỳ (lượng từ)",
    "example": "第二届全国人民代表大会。",
    "exampleMeaning": "Đại hội đại biểu nhân dân toàn quốc lần II.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "cháng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "认",
-   "meaning": "biết",
+   "meaning": "nhận ra, thừa nhận",
    "example": "我不认识那个人。",
    "exampleMeaning": "Tôi không quen người ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rèn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "zhùshè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -115,20 +115,20 @@
    "ipa": "",
    "pinyin": "chōngtū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "在场",
-   "meaning": "có mặt",
+   "meaning": "có mặt (tại chỗ)",
    "example": "当时在场的人都可以作证。",
    "exampleMeaning": "Mọi người có mặt lúc đó cũng có thể làm chứng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zàichǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,111 +141,111 @@
    "ipa": "",
    "pinyin": "mǐngǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "鼠",
-   "meaning": "con chuột",
+   "meaning": "chuột",
    "example": "我们来学“鼠”这个词。",
-   "exampleMeaning": "Cùng học từ “鼠”: con chuột.",
+   "exampleMeaning": "Cùng học từ “鼠”: chuột.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "提示",
-   "meaning": "gợi ý",
+   "meaning": "gợi ý, nhắc nhở",
    "example": "向学生提示课文要点。",
    "exampleMeaning": "Gợi ý cho học sinh điểm chính của bài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tíshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "摔",
-   "meaning": "rơi, rơi xuống",
+   "meaning": "ngã, làm rơi vỡ",
    "example": "一个不小心，把个瓶子摔了。",
    "exampleMeaning": "Một chút không cẩn thận, làm vỡ cái lọ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuāi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "沟通",
-   "meaning": "khai thông",
+   "meaning": "trao đổi, giao tiếp",
    "example": "沟通南北的长江大桥。",
    "exampleMeaning": "Cầu Trường Giang nối liền Nam Bắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gōutōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "收拾",
-   "meaning": "thu dọn",
+   "meaning": "thu dọn, dọn dẹp",
    "example": "收拾残局。",
    "exampleMeaning": "Thu dọn tàn cục.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shōushi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "除非",
-   "meaning": "chỉ có",
+   "meaning": "trừ phi, trừ khi",
    "example": "若要人不知，除非已莫为。",
    "exampleMeaning": "Muốn mọi người không biết, trừ phi mình đừng làm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chúfēi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "乘客",
-   "meaning": "hành khách (đi tàu, xe, máy bay)",
+   "meaning": "hành khách",
    "example": "万幸，没乘客受伤。",
    "exampleMeaning": "Rất may, không có hành khách nào bị thương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chéngkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "艰难",
-   "meaning": "khó khăn",
+   "meaning": "gian nan, khó khăn",
    "example": "行动艰难。",
    "exampleMeaning": "Hành động khó khăn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiānnán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "yònglái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

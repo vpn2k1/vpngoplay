@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "倒下",
-   "meaning": "sụp đổ",
+   "meaning": "ngã xuống, đổ xuống",
    "example": "我们来学“倒下”这个词。",
-   "exampleMeaning": "Cùng học từ “倒下”: sụp đổ.",
+   "exampleMeaning": "Cùng học từ “倒下”: ngã xuống, đổ xuống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎoxià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "庞大",
-   "meaning": "to lớn, đồ sộ, khổng lồ",
+   "meaning": "khổng lồ, đồ sộ",
    "example": "开支庞大。",
    "exampleMeaning": "Số chi khổng lồ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pángdà",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "极为",
-   "meaning": "hết sức",
+   "meaning": "hết sức, cực kỳ",
    "example": "极为灵通",
    "exampleMeaning": "Hết sức linh hoạt",
    "emoji": "",
    "ipa": "",
    "pinyin": "jíwéi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "tángguǒ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "发掘",
-   "meaning": "khai quật",
+   "meaning": "khai quật, khai thác (tiềm năng)",
    "example": "发掘古物",
    "exampleMeaning": "Khai quật cổ vật",
    "emoji": "",
    "ipa": "",
    "pinyin": "fājué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "储备",
-   "meaning": "đồ để dành",
+   "meaning": "dự trữ",
    "example": "储备年年增长。",
    "exampleMeaning": "Đồ để dành mỗi năm một nhiều lên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǔbèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,46 +89,46 @@
    "ipa": "",
    "pinyin": "yètǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "害羞",
-   "meaning": "thẹn thùng",
+   "meaning": "xấu hổ, thẹn thùng, ngại ngùng",
    "example": "你很害羞。",
    "exampleMeaning": "Bạn rất nhút nhát.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hàixiū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "占用",
-   "meaning": "chiếm, chiếm giữ",
+   "meaning": "chiếm dụng, chiếm",
    "example": "那么多的工作已经把时间全占用了。",
    "exampleMeaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhànyòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "炖",
-   "meaning": "hầm, ninh (thịt... )",
+   "meaning": "hầm, ninh",
    "example": "清炖排骨",
    "exampleMeaning": "Hầm xương sườn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dùn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,7 +141,7 @@
    "ipa": "",
    "pinyin": "gānzàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,111 +154,111 @@
    "ipa": "",
    "pinyin": "mángmù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "迟早",
-   "meaning": "sớm muộn",
+   "meaning": "sớm muộn, trước sau gì",
    "example": "他迟早会来的。",
    "exampleMeaning": "Sớm muộn gì anh ta cũng sẽ đến thôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chízǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "出自",
-   "meaning": "xuất phát từ",
+   "meaning": "bắt nguồn từ, xuất phát từ",
    "example": "我们来学“出自”这个词。",
-   "exampleMeaning": "Cùng học từ “出自”: xuất phát từ.",
+   "exampleMeaning": "Cùng học từ “出自”: bắt nguồn từ, xuất phát từ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chūzì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "谜",
-   "meaning": "thách đố",
+   "meaning": "câu đố, bí ẩn",
    "example": "这个问题到现在还是一个谜，谁也猜不透。",
    "exampleMeaning": "Vấn đề này cho đến nay vẫn còn là một thách đố, chưa ai giải quyết được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mèi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "充",
-   "meaning": "làm",
+   "meaning": "nạp, lấp đầy, đóng vai",
    "example": "打肿脸充 胖子。",
    "exampleMeaning": "Màu mè hoa lá cành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chōng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "伴侣",
-   "meaning": "bạn",
+   "meaning": "bạn đời, bạn đồng hành",
    "example": "最后终于找到了她合适的伴侣。",
    "exampleMeaning": "Cuối cùng cũng tìm được người bạn thích hợp với cô ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bànlǚ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "瞒",
-   "meaning": "giấu giếm, giấu, che đậy",
+   "meaning": "giấu, giấu giếm",
    "example": "这事瞒不过人。",
    "exampleMeaning": "Việc này không giấu được người khác đâu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "公车",
-   "meaning": "xe buýt",
+   "meaning": "xe buýt, xe công",
    "example": "西门町到公馆,坐公车要二十分钟。",
    "exampleMeaning": "Đi xe buýt từ Tây Môn Đinh đến công quán mất 20 phút.",
    "emoji": "🚌",
    "ipa": "",
    "pinyin": "gōngchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "书面",
-   "meaning": "văn bản",
+   "meaning": "bằng văn bản",
    "example": "书面通知。",
    "exampleMeaning": "Thông báo bằng văn bản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shūmiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

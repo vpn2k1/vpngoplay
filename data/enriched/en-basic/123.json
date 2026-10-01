@@ -1,0 +1,318 @@
+{
+ "lesson": 123,
+ "draft": true,
+ "words": [
+  {
+   "term": "historically",
+   "meaning": "về mặt lịch sử, trong lịch sử",
+   "example": "Historically, it was inevitable.",
+   "exampleMeaning": "Về mặt lịch sử, việc này không thể tránh khỏi.",
+   "emoji": "",
+   "ipa": "/hɪˈstɔrɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "handkerchief",
+   "meaning": "khăn tay, khăn mùi xoa",
+   "example": "How much is this handkerchief?",
+   "exampleMeaning": "Cái khăn mùi soa này bao nhiêu tiền?",
+   "emoji": "",
+   "ipa": "/ˈhæŋkɜrtʃif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "applause",
+   "meaning": "tràng pháo tay, sự vỗ tay",
+   "example": "to win the applause of...",
+   "exampleMeaning": "Được... hoan nghênh",
+   "emoji": "",
+   "ipa": "/əˈplɔz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gorilla",
+   "meaning": "khỉ đột",
+   "example": "Let's learn the word \"gorilla\".",
+   "exampleMeaning": "Cùng học từ “gorilla”: khỉ đột.",
+   "emoji": "🦍",
+   "ipa": "/ɡɜrˈɪlə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brotherhood",
+   "meaning": "tình anh em, hội ái hữu",
+   "example": "Let's learn the word \"brotherhood\".",
+   "exampleMeaning": "Cùng học từ “brotherhood”: tình anh em, hội ái hữu.",
+   "emoji": "",
+   "ipa": "/ˈbrəðɜrˌhʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aloud",
+   "meaning": "thành tiếng, to",
+   "example": "to read aloud",
+   "exampleMeaning": "Đọc to",
+   "emoji": "",
+   "ipa": "/əˈlaʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "probability",
+   "meaning": "xác suất, khả năng",
+   "example": "in all probability",
+   "exampleMeaning": "Rất có thể xảy ra, chắc hẳn; rất có thể đúng",
+   "emoji": "",
+   "ipa": "/ˌprɑbəˈbɪləˌti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "message board",
+   "meaning": "diễn đàn, bảng thông báo",
+   "example": "Let's learn the word \"message board\".",
+   "exampleMeaning": "Cùng học từ “message board”: diễn đàn, bảng thông báo.",
+   "emoji": "",
+   "ipa": "/ˈmɛsədʒ ˈbɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rage",
+   "meaning": "cơn thịnh nộ, cơn giận dữ",
+   "example": "to be in a rage with someone",
+   "exampleMeaning": "Nổi xung với ai",
+   "emoji": "",
+   "ipa": "/ˈreɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "daisy",
+   "meaning": "hoa cúc",
+   "example": "Let's learn the word \"daisy\".",
+   "exampleMeaning": "Cùng học từ “daisy”: hoa cúc.",
+   "emoji": "",
+   "ipa": "/ˈdeɪzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bulletin",
+   "meaning": "bản tin, thông cáo",
+   "example": "Let's learn the word \"bulletin\".",
+   "exampleMeaning": "Cùng học từ “bulletin”: bản tin, thông cáo.",
+   "emoji": "",
+   "ipa": "/ˈbʊlɪtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "elbow",
+   "meaning": "khuỷu tay",
+   "example": "to elbow one's way through the crowd",
+   "exampleMeaning": "Thúc khuỷu tay đi lách qua đám đông",
+   "emoji": "",
+   "ipa": "/ˈɛlˌboʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ashamed",
+   "meaning": "xấu hổ, hổ thẹn",
+   "example": "to be ashamed to do something",
+   "exampleMeaning": "Xấu hổ không dám làm gì, ngượng không dám làm gì",
+   "emoji": "",
+   "ipa": "/əˈʃeɪmd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "intensity",
+   "meaning": "cường độ, sự mãnh liệt",
+   "example": "Let's learn the word \"intensity\".",
+   "exampleMeaning": "Cùng học từ “intensity”: cường độ, sự mãnh liệt.",
+   "emoji": "",
+   "ipa": "/ɪnˈtɛnsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trumpet",
+   "meaning": "kèn, kèn đồng",
+   "example": "Let's learn the word \"trumpet\".",
+   "exampleMeaning": "Cùng học từ “trumpet”: kèn, kèn đồng.",
+   "emoji": "🎺",
+   "ipa": "/ˈtrʌmpɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "marriage",
+   "meaning": "hôn nhân, đám cưới",
+   "example": "Marriage is an important step.",
+   "exampleMeaning": "Hôn nhân là một bước quan trọng.",
+   "emoji": "",
+   "ipa": "/ˈmɛrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "responsibility",
+   "meaning": "trách nhiệm",
+   "example": "to do something on one's own responsibility",
+   "exampleMeaning": "Tự ý làm và chịu trách nhiệm về việc gì",
+   "emoji": "",
+   "ipa": "/riˌspɑnsəˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "noticeable",
+   "meaning": "dễ nhận thấy, đáng chú ý",
+   "example": "Let's learn the word \"noticeable\".",
+   "exampleMeaning": "Cùng học từ “noticeable”: dễ nhận thấy, đáng chú ý.",
+   "emoji": "",
+   "ipa": "/ˈnoʊtəsəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "comfort",
+   "meaning": "sự thoải mái, sự an ủi",
+   "example": "to comfort those who are in sorrow",
+   "exampleMeaning": "An ủi những người đang phiền muộn",
+   "emoji": "",
+   "ipa": "/ˈkəmfɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "photocopy",
+   "meaning": "bản sao chụp, bản phô-tô",
+   "example": "Let's learn the word \"photocopy\".",
+   "exampleMeaning": "Cùng học từ “photocopy”: bản sao chụp, bản phô-tô.",
+   "emoji": "",
+   "ipa": "/ˈfoʊtoʊˌkɑpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "My",
+    "elbow",
+    "hurts"
+   ],
+   "reading": "",
+   "meaning": "Khuỷu tay tôi đau."
+  },
+  {
+   "tokens": [
+    "He",
+    "lives",
+    "in",
+    "comfort"
+   ],
+   "reading": "",
+   "meaning": "Anh ta sống trong nhung lụa."
+  },
+  {
+   "tokens": [
+    "Don't",
+    "rush",
+    "into",
+    "marriage"
+   ],
+   "reading": "",
+   "meaning": "Đừng vội cưới."
+  },
+  {
+   "tokens": [
+    "First",
+    "education",
+    "then",
+    "marriage"
+   ],
+   "reading": "",
+   "meaning": "Giáo dục trước, kết hôn sau."
+  },
+  {
+   "tokens": [
+    "Historically",
+    "it",
+    "was",
+    "inevitable"
+   ],
+   "reading": "",
+   "meaning": "Về mặt lịch sử, việc này không thể tránh khỏi."
+  }
+ ],
+ "issues": []
+}

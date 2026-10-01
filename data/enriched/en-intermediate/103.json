@@ -1,0 +1,324 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "buzz",
+   "meaning": "kêu vo vo, kêu vù vù",
+   "example": "Let's learn the word \"buzz\".",
+   "exampleMeaning": "Cùng học từ “buzz”: kêu vo vo, kêu vù vù.",
+   "emoji": "",
+   "ipa": "/ˈbəz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "browse",
+   "meaning": "xem lướt, duyệt (web)",
+   "example": "Let's learn the word \"browse\".",
+   "exampleMeaning": "Cùng học từ “browse”: xem lướt, duyệt (web).",
+   "emoji": "",
+   "ipa": "/ˈbrɑʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "decorative",
+   "meaning": "để trang trí",
+   "example": "Let's learn the word \"decorative\".",
+   "exampleMeaning": "Cùng học từ “decorative”: để trang trí.",
+   "emoji": "",
+   "ipa": "/ˈdɛkrətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "explosive",
+   "meaning": "dễ nổ, bùng nổ",
+   "example": "It's an explosive mixture.",
+   "exampleMeaning": "Đó là một hỗn hợp nổ.",
+   "emoji": "",
+   "ipa": "/ɪksˈploʊsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "irresistible",
+   "meaning": "không thể cưỡng lại",
+   "example": "I have an irresistible impulse to run. I’ve got to get out of here!",
+   "exampleMeaning": "Tôi thấy một sự thôi thúc không thể cưỡng lại là phải chạy đi. Tôi phải đi khỏi đây thôi.",
+   "emoji": "",
+   "ipa": "/ˌɪrɪˈzɪstəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "patriot",
+   "meaning": "người yêu nước",
+   "example": "Let's learn the word \"patriot\".",
+   "exampleMeaning": "Cùng học từ “patriot”: người yêu nước.",
+   "emoji": "",
+   "ipa": "/ˈpeɪ.tri.ət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ram",
+   "meaning": "cừu đực",
+   "example": "to ram one's clothes into a bag",
+   "exampleMeaning": "Nhét quần áo vào một cái túi",
+   "emoji": "🐏",
+   "ipa": "/ˈræm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fundamental",
+   "meaning": "cơ bản, nền tảng",
+   "example": "The family is the fundamental base of society.",
+   "exampleMeaning": "Gia đình là cơ sở nền tảng của xã hội.",
+   "emoji": "",
+   "ipa": "/ˌfəndəˈmɛnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "grand",
+   "meaning": "hoành tráng, lớn lao",
+   "example": "what grand weather!",
+   "exampleMeaning": "Trời đẹp tuyệt!",
+   "emoji": "",
+   "ipa": "/ˈɡrænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trait",
+   "meaning": "đặc điểm, nét tính cách",
+   "example": "a trait of irony",
+   "exampleMeaning": "Một nét giễu cợt châm biếm",
+   "emoji": "",
+   "ipa": "/ˈtreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "locally",
+   "meaning": "ở địa phương, tại chỗ",
+   "example": "Let's learn the word \"locally\".",
+   "exampleMeaning": "Cùng học từ “locally”: ở địa phương, tại chỗ.",
+   "emoji": "",
+   "ipa": "/ˈloʊkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "assumption",
+   "meaning": "giả định, sự cho rằng",
+   "example": "Let's learn the word \"assumption\".",
+   "exampleMeaning": "Cùng học từ “assumption”: giả định, sự cho rằng.",
+   "emoji": "",
+   "ipa": "/əˈsəmpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "skilled",
+   "meaning": "lành nghề, có kỹ năng",
+   "example": "My father is a skilled fisherman.",
+   "exampleMeaning": "Ba tui là một ngư dân giỏi.",
+   "emoji": "",
+   "ipa": "/ˈskɪld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "servant",
+   "meaning": "người hầu, đầy tớ",
+   "example": "a servant of Jesus Christ",
+   "exampleMeaning": "Bầy tôi của Chúa Giê-xu",
+   "emoji": "",
+   "ipa": "/ˈsɜrvənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "booth",
+   "meaning": "gian hàng, buồng nhỏ",
+   "example": "a refreshment booth",
+   "exampleMeaning": "Quán giải khát",
+   "emoji": "",
+   "ipa": "/ˈbuθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "salsa",
+   "meaning": "sốt cà chua cay, điệu nhảy salsa",
+   "example": "Let's learn the word \"salsa\".",
+   "exampleMeaning": "Cùng học từ “salsa”: sốt cà chua cay, điệu nhảy salsa.",
+   "emoji": "",
+   "ipa": "/ˈsɔlsə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conceit",
+   "meaning": "tính tự phụ, tự cao",
+   "example": "to be full of conceit",
+   "exampleMeaning": "Rất tự cao tự đại",
+   "emoji": "",
+   "ipa": "/kənˈsit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "honorable",
+   "meaning": "đáng kính, chính trực",
+   "example": "Let's learn the word \"honorable\".",
+   "exampleMeaning": "Cùng học từ “honorable”: đáng kính, chính trực.",
+   "emoji": "",
+   "ipa": "/ˈɑnɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shoplift",
+   "meaning": "trộm đồ trong cửa hàng",
+   "example": "Let's learn the word \"shoplift\".",
+   "exampleMeaning": "Cùng học từ “shoplift”: trộm đồ trong cửa hàng.",
+   "emoji": "",
+   "ipa": "/ˈʃɑˌplɪft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "convert",
+   "meaning": "chuyển đổi, cải đạo",
+   "example": "to convert funds to one's own use",
+   "exampleMeaning": "Biển thủ tiền quỹ, thụt két",
+   "emoji": "",
+   "ipa": "/ˈkɑnvɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It's",
+    "an",
+    "explosive",
+    "mixture"
+   ],
+   "reading": "",
+   "meaning": "Đó là một hỗn hợp nổ."
+  },
+  {
+   "tokens": [
+    "You're",
+    "a",
+    "skilled",
+    "translator"
+   ],
+   "reading": "",
+   "meaning": "Bạn là một dịch giả tài giỏi."
+  },
+  {
+   "tokens": [
+    "My",
+    "father",
+    "is",
+    "a",
+    "skilled",
+    "fisherman"
+   ],
+   "reading": "",
+   "meaning": "Ba tui là một ngư dân giỏi."
+  },
+  {
+   "tokens": [
+    "The",
+    "family",
+    "is",
+    "the",
+    "fundamental",
+    "base",
+    "of",
+    "society"
+   ],
+   "reading": "",
+   "meaning": "Gia đình là cơ sở nền tảng của xã hội."
+  },
+  {
+   "tokens": [
+    "No",
+    "more",
+    "bets"
+   ],
+   "reading": "",
+   "meaning": "Không có cá cược nữa."
+  }
+ ],
+ "issues": []
+}

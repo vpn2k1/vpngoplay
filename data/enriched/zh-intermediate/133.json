@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "免疫",
-   "meaning": "miễn dịch (y học)",
+   "meaning": "miễn dịch",
    "example": "我们来学“免疫”这个词。",
-   "exampleMeaning": "Cùng học từ “免疫”: miễn dịch (y học).",
+   "exampleMeaning": "Cùng học từ “免疫”: miễn dịch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "miǎnyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "jièzhi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "gǔzhé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "割",
-   "meaning": "gặt",
+   "meaning": "cắt, gặt",
    "example": "麦子割",
    "exampleMeaning": "Gặt lúa mì",
    "emoji": "",
    "ipa": "",
    "pinyin": "gē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "假设",
-   "meaning": "tỉ như",
+   "meaning": "giả sử, giả thiết",
    "example": "这本书印了十万册，假设每册只有一个读者，那也就有十万个读者。",
    "exampleMeaning": "Quyển sách này in thành một trăm ngàn cuốn, tỉ như mỗi cuốn có một độc giả, thế thì cũng có đến một trăm ngàn độc giả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎshè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "bǎoyòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "切除",
-   "meaning": "cắt bỏ (y)",
+   "meaning": "cắt bỏ",
    "example": "我们来学“切除”这个词。",
-   "exampleMeaning": "Cùng học từ “切除”: cắt bỏ (y).",
+   "exampleMeaning": "Cùng học từ “切除”: cắt bỏ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiēchú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "好笑",
-   "meaning": "cười",
+   "meaning": "buồn cười",
    "example": "這是我聽過最好笑的笑話。",
    "exampleMeaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎoxiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "",
    "pinyin": "shǒubì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "逃避",
-   "meaning": "trốn tránh",
+   "meaning": "trốn tránh, né tránh",
    "example": "逃避斗争",
    "exampleMeaning": "Trốn tránh đấu tranh",
    "emoji": "",
    "ipa": "",
    "pinyin": "táobì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "级别",
-   "meaning": "cấp bậc",
+   "meaning": "cấp bậc, cấp độ",
    "example": "干部的级别",
    "exampleMeaning": "Cấp bậc cán bộ",
    "emoji": "",
    "ipa": "",
    "pinyin": "jíbié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,20 +154,20 @@
    "ipa": "",
    "pinyin": "xiédài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "聚集",
-   "meaning": "tập hợp",
+   "meaning": "tụ tập, tập hợp",
    "example": "聚集力量，打击敌人。",
    "exampleMeaning": "Tập hợp lực lượng tiến công địch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jùjí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,72 +180,72 @@
    "ipa": "",
    "pinyin": "áizhèng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "哎呀",
-   "meaning": "trời ơi (tỏ ý trách móc, sốt ruột)",
+   "meaning": "trời ơi, ôi chao",
    "example": "哎呀！这瓜长得这么大呀！",
    "exampleMeaning": "Ái chà! quả dưa này to thế!",
    "emoji": "",
    "ipa": "",
    "pinyin": "āiyā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "激励",
-   "meaning": "khích lệ",
+   "meaning": "khích lệ, động viên",
    "example": "老校长激励新校长不要紧张。",
    "exampleMeaning": "Thầy hiệu trưởng tiền nhiệm khích lệ tân hiệu trưởng không nên quá căng thẳng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīlì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "粒",
-   "meaning": "hạt, hột",
+   "meaning": "hạt, viên (lượng từ)",
    "example": "三粒子弹。",
    "exampleMeaning": "Ba viên đạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "与此同时",
-   "meaning": "đồng thời",
+   "meaning": "đồng thời, cùng lúc đó",
    "example": "与此同时，电台也播出了这条消息。",
    "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǔcǐtóngshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "无论如何",
-   "meaning": "bất luận thế nào",
+   "meaning": "dù thế nào đi nữa, bất luận thế nào",
    "example": "你无论如何得来一趟。",
    "exampleMeaning": "Bất luận thế nào thì cậu cũng phải đi một chuyến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wúlùnrúhé",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "dìngyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

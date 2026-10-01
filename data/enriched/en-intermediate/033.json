@@ -1,0 +1,329 @@
+{
+ "lesson": 33,
+ "draft": true,
+ "words": [
+  {
+   "term": "latecomer",
+   "meaning": "người đến muộn",
+   "example": "Let's learn the word \"latecomer\".",
+   "exampleMeaning": "Cùng học từ “latecomer”: người đến muộn.",
+   "emoji": "",
+   "ipa": "/ˈleɪtkəmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "guilt",
+   "meaning": "cảm giác tội lỗi, tội",
+   "example": "Let's learn the word \"guilt\".",
+   "exampleMeaning": "Cùng học từ “guilt”: cảm giác tội lỗi, tội.",
+   "emoji": "",
+   "ipa": "/ˈɡɪlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mechanical",
+   "meaning": "(thuộc) cơ khí, máy móc",
+   "example": "a mechanical engineer",
+   "exampleMeaning": "Kỹ sư cơ khí",
+   "emoji": "",
+   "ipa": "/məˈkænɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "summarize",
+   "meaning": "tóm tắt, tổng kết",
+   "example": "Let's learn the word \"summarize\".",
+   "exampleMeaning": "Cùng học từ “summarize”: tóm tắt, tổng kết.",
+   "emoji": "",
+   "ipa": "/ˈsəmɜrˌaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sheriff",
+   "meaning": "cảnh sát trưởng",
+   "example": "Let's learn the word \"sheriff\".",
+   "exampleMeaning": "Cùng học từ “sheriff”: cảnh sát trưởng.",
+   "emoji": "",
+   "ipa": "/ˈʃɛrəf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cabin",
+   "meaning": "khoang, buồng, nhà gỗ nhỏ",
+   "example": "Let's learn the word \"cabin\".",
+   "exampleMeaning": "Cùng học từ “cabin”: khoang, buồng, nhà gỗ nhỏ.",
+   "emoji": "",
+   "ipa": "/ˈkæbən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "saucer",
+   "meaning": "đĩa lót tách",
+   "example": "Let's learn the word \"saucer\".",
+   "exampleMeaning": "Cùng học từ “saucer”: đĩa lót tách.",
+   "emoji": "",
+   "ipa": "/ˈsɔsɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "motherland",
+   "meaning": "tổ quốc, quê hương",
+   "example": "Let's learn the word \"motherland\".",
+   "exampleMeaning": "Cùng học từ “motherland”: tổ quốc, quê hương.",
+   "emoji": "",
+   "ipa": "/ˈməðɜrˌlænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "weakness",
+   "meaning": "điểm yếu, sự yếu đuối",
+   "example": "a weakness for Chinese tea",
+   "exampleMeaning": "Tính nghiện trà Trung quốc",
+   "emoji": "",
+   "ipa": "/ˈwiknəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spiritual",
+   "meaning": "(thuộc) tinh thần, tâm linh",
+   "example": "Let's learn the word \"spiritual\".",
+   "exampleMeaning": "Cùng học từ “spiritual”: (thuộc) tinh thần, tâm linh.",
+   "emoji": "",
+   "ipa": "/ˈspɪrɪˌtʃuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "document",
+   "meaning": "tài liệu, văn bản, giấy tờ",
+   "example": "Tom studied the document carefully.",
+   "exampleMeaning": "Tom nghiên cứu tài liệu một cách cẩn thận.",
+   "emoji": "",
+   "ipa": "/ˈdɑkjəmɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cultural",
+   "meaning": "(thuộc) văn hóa",
+   "example": "Let's learn the word \"cultural\".",
+   "exampleMeaning": "Cùng học từ “cultural”: (thuộc) văn hóa.",
+   "emoji": "",
+   "ipa": "/ˈkəltʃɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "social networking",
+   "meaning": "mạng xã hội",
+   "example": "Let's learn the word \"social networking\".",
+   "exampleMeaning": "Cùng học từ “social networking”: mạng xã hội.",
+   "emoji": "",
+   "ipa": "/ˈsoʊʃəl ˈnɛtˌwɜrkɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stuck",
+   "meaning": "mắc kẹt, bị kẹt",
+   "example": "cake stuck over with almonds",
+   "exampleMeaning": "Bánh có điểm hạnh nhân",
+   "emoji": "",
+   "ipa": "/ˈstək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "buyer",
+   "meaning": "người mua",
+   "example": "Let's learn the word \"buyer\".",
+   "exampleMeaning": "Cùng học từ “buyer”: người mua.",
+   "emoji": "",
+   "ipa": "/ˈbaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shareholder",
+   "meaning": "cổ đông",
+   "example": "Let's learn the word \"shareholder\".",
+   "exampleMeaning": "Cùng học từ “shareholder”: cổ đông.",
+   "emoji": "",
+   "ipa": "/ˈʃɛəˌhəʊl.də(r)/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proportion",
+   "meaning": "tỷ lệ, phần, sự cân đối",
+   "example": "a large proportion of the earth's surface",
+   "exampleMeaning": "Một phần lớn bề mặt trái đất",
+   "emoji": "",
+   "ipa": "/prəˈpɔrʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "accuracy",
+   "meaning": "độ chính xác",
+   "example": "accuracy of fire",
+   "exampleMeaning": "Sự bắn chính xác",
+   "emoji": "",
+   "ipa": "/ˈækjɜrəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "expertise",
+   "meaning": "chuyên môn, sự thành thạo",
+   "example": "Let's learn the word \"expertise\".",
+   "exampleMeaning": "Cùng học từ “expertise”: chuyên môn, sự thành thạo.",
+   "emoji": "",
+   "ipa": "/ˌɛkspɜrˈtiz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "relation",
+   "meaning": "mối quan hệ, người họ hàng",
+   "example": "the relation between knowledge and practice",
+   "exampleMeaning": "Mối quan hệ trí thức và thực hành",
+   "emoji": "",
+   "ipa": "/riˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "admitted",
+    "his",
+    "guilt"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy nhận tội lỗi của mình."
+  },
+  {
+   "tokens": [
+    "We're",
+    "stuck",
+    "with",
+    "each",
+    "other"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi bị kẹt lại với nhau."
+  },
+  {
+   "tokens": [
+    "He",
+    "could",
+    "have",
+    "got",
+    "stuck",
+    "in",
+    "traffic"
+   ],
+   "reading": "",
+   "meaning": "Có lẽ anh ấy đã bị kẹt xe."
+  },
+  {
+   "tokens": [
+    "He",
+    "might",
+    "have",
+    "got",
+    "stuck",
+    "in",
+    "traffic"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy có lẽ đã bị kẹt xe."
+  },
+  {
+   "tokens": [
+    "There's",
+    "only",
+    "one",
+    "copy",
+    "of",
+    "this",
+    "document"
+   ],
+   "reading": "",
+   "meaning": "Chỉ có mỗi một bản sao của tài liệu này."
+  }
+ ],
+ "issues": []
+}

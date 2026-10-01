@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "当中",
-   "meaning": "trong",
+   "meaning": "trong số, ở giữa",
    "example": "谈话当中流露出不满情绪。",
    "exampleMeaning": "Trong khi nói chuyện đã thổ lộ rất nhiều thắc mắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dāngzhōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "男子",
-   "meaning": "đàn ông",
+   "meaning": "đàn ông, nam",
    "example": "我们来学“男子”这个词。",
-   "exampleMeaning": "Cùng học từ “男子”: đàn ông.",
+   "exampleMeaning": "Cùng học từ “男子”: đàn ông, nam.",
    "emoji": "👨",
    "ipa": "",
    "pinyin": "nánzǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "生存",
-   "meaning": "sinh tồn",
+   "meaning": "sinh tồn, tồn tại",
    "example": "我们来学“生存”这个词。",
-   "exampleMeaning": "Cùng học từ “生存”: sinh tồn.",
+   "exampleMeaning": "Cùng học từ “生存”: sinh tồn, tồn tại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēngcún",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "胖",
-   "meaning": "mập",
+   "meaning": "béo, mập",
    "example": "他胖起来了。",
    "exampleMeaning": "Nó tăng cân rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "土",
-   "meaning": "thô sơ",
+   "meaning": "đất, quê mùa",
    "example": "今天下这么大的雨，土松着呢。",
    "exampleMeaning": "Hôm nay mưa to thế này thì đất bở lắm đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "念",
-   "meaning": "đọc",
+   "meaning": "đọc, học, nhớ nhung",
    "example": "他把县委的指示念给大家听。",
    "exampleMeaning": "Anh ấy đọc chỉ thị của huyện uỷ cho mọi người nghe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,33 +89,33 @@
    "ipa": "",
    "pinyin": "jìnbù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "对待",
-   "meaning": "đối xử",
+   "meaning": "đối xử, đối đãi",
    "example": "要正确对待群众的批评。",
    "exampleMeaning": "Phải đối xử đúng với phê bình của quần chúng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duìdài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "村",
-   "meaning": "làng, xã",
+   "meaning": "làng, thôn",
    "example": "一个小村 儿。",
    "exampleMeaning": "Một làng nhỏ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cūn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "xiànxiàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "shílì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "缺",
-   "meaning": "thiếu, không có",
+   "meaning": "thiếu",
    "example": "不要看不起有缺点的人，因为每个人都会有缺点的。",
    "exampleMeaning": "Đừng xem thường những người có khuyết điểm, bởi vì mỗi người đều có thể có khuyết điểm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "zhǔdòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "tián",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "服装",
-   "meaning": "quần áo",
+   "meaning": "trang phục, quần áo",
    "example": "服装商店",
    "exampleMeaning": "Cửa hàng quần áo; cửa hàng may mặc.",
    "emoji": "👗",
    "ipa": "",
    "pinyin": "fúzhuāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "xíngshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "判断",
-   "meaning": "nhận định",
+   "meaning": "phán đoán, nhận định",
    "example": "你判断得很正确。",
    "exampleMeaning": "Anh nhận định rất đúng.",
    "emoji": "🧑‍⚖",
    "ipa": "",
    "pinyin": "pànduàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "前往",
-   "meaning": "tiến về phía trước",
+   "meaning": "đi đến, tiến đến",
    "example": "启程前往。",
    "exampleMeaning": "Khởi hành tiến về phía trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiánwǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "相互",
-   "meaning": "nhau",
+   "meaning": "lẫn nhau, tương hỗ",
    "example": "相互间的关系。",
    "exampleMeaning": "Quan hệ qua lại",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiānghù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "成立",
-   "meaning": "đứng vững được",
+   "meaning": "thành lập, đứng vững",
    "example": "这个论点理由很充分，能成立。",
    "exampleMeaning": "Luận điểm này lí do rất đầy đủ, có thể đứng vững được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chénglì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

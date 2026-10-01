@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "怪物",
-   "meaning": "quái vật (trong thần thoại)",
+   "meaning": "quái vật",
    "example": "我们来学“怪物”这个词。",
-   "exampleMeaning": "Cùng học từ “怪物”: quái vật (trong thần thoại).",
+   "exampleMeaning": "Cùng học từ “怪物”: quái vật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guàiwu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "登陆",
-   "meaning": "đổ bộ",
+   "meaning": "đổ bộ, cập bến",
    "example": "登陆演习",
    "exampleMeaning": "Diễn tập đổ bộ",
    "emoji": "",
    "ipa": "",
    "pinyin": "dēnglù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "灵感",
-   "meaning": "linh cảm",
+   "meaning": "cảm hứng, linh cảm",
    "example": "我们来学“灵感”这个词。",
-   "exampleMeaning": "Cùng học từ “灵感”: linh cảm.",
+   "exampleMeaning": "Cùng học từ “灵感”: cảm hứng, linh cảm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "línggǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "抹",
-   "meaning": "loanh quanh",
+   "meaning": "bôi, xóa, lau",
    "example": "转弯抹角。",
    "exampleMeaning": "Nói loanh quanh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǒ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "jiǎzhuāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "yáchǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "来临",
-   "meaning": "đến",
+   "meaning": "đến gần, tới",
    "example": "暴风雨即将来临。",
    "exampleMeaning": "Mưa bão sắp đến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "láilín",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "敬",
-   "meaning": "kính",
+   "meaning": "kính trọng, mời (rượu)",
    "example": "王院长为人正派，办事公道，没给人穿过小鞋，大家都尊敬他。",
    "exampleMeaning": "Viện trưởng Vương xử sự ngay thẳng, làm việc công minh, chưa từng gây khó dễ cho ai, mọi người đều tôn kính ông ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,150 +115,150 @@
    "ipa": "",
    "pinyin": "biéshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "缝",
-   "meaning": "khe",
+   "meaning": "khe hở, đường may, khâu",
    "example": "缭缝儿。",
    "exampleMeaning": "Khâu vắt",
    "emoji": "",
    "ipa": "",
    "pinyin": "fèng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "奖品",
-   "meaning": "phần thưởng",
+   "meaning": "phần thưởng, giải thưởng",
    "example": "我们来学“奖品”这个词。",
-   "exampleMeaning": "Cùng học từ “奖品”: phần thưởng.",
+   "exampleMeaning": "Cùng học từ “奖品”: phần thưởng, giải thưởng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiǎngpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "钻石",
-   "meaning": "đá kim cương",
+   "meaning": "kim cương",
    "example": "我们来学“钻石”这个词。",
-   "exampleMeaning": "Cùng học từ “钻石”: đá kim cương.",
+   "exampleMeaning": "Cùng học từ “钻石”: kim cương.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuànshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "有意",
-   "meaning": "cố ý",
+   "meaning": "cố ý, có ý định",
    "example": "他这是有意跟我作对。",
    "exampleMeaning": "Anh ấy cố ý đối đầu với tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǒuyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "烫",
-   "meaning": "hâm",
+   "meaning": "bỏng, nóng, uốn (tóc)",
    "example": "烫酒(用热水暖酒)。",
    "exampleMeaning": "Hâm rượu",
    "emoji": "",
    "ipa": "",
    "pinyin": "tàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "裸",
-   "meaning": "trần, trần truồng, khoả thân",
+   "meaning": "trần truồng, khỏa thân",
    "example": "裸露。",
    "exampleMeaning": "Lộ ra; trần trụi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "luǒ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "统治",
-   "meaning": "thống trị",
+   "meaning": "thống trị, cai trị",
    "example": "统治阶级",
    "exampleMeaning": "Giai cấp thống trị",
    "emoji": "",
    "ipa": "",
    "pinyin": "tǒngzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "甜蜜",
-   "meaning": "vui tươi",
+   "meaning": "ngọt ngào",
    "example": "孩子们笑得那么甜蜜。",
    "exampleMeaning": "Bọn trẻ cười vui tươi biết mấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiánmì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "不可思议",
-   "meaning": "không tưởng tượng được",
+   "meaning": "không thể tưởng tượng, khó tin",
    "example": "古埃及人用什么方法建筑起金字塔；至今仍让人不可思议。",
    "exampleMeaning": "Người Ai Cập cổ dùng cách nào để xây dựng Kim Tự Tháp cho đến ngày cũng không thể khiến cho người ta giải thích được",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùkěsīyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "宁愿",
-   "meaning": "thà",
+   "meaning": "thà, thà rằng",
    "example": "宁愿牺牲，也不退却。",
    "exampleMeaning": "Thà hy sinh chứ không chịu rút lui.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nìngyuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "拼命",
-   "meaning": "liều mạng",
+   "meaning": "liều mạng, dốc sức",
    "example": "可能你工作得太拼命？",
    "exampleMeaning": "Có lẽ anh đang làm việc quá liều mạng?",
    "emoji": "",
    "ipa": "",
    "pinyin": "pīnmìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

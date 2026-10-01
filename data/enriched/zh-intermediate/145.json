@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "幸好",
-   "meaning": "may mà",
+   "meaning": "may mà, may thay",
    "example": "幸好人人动手，卫生才搞得这么好。",
    "exampleMeaning": "May mà mọi người chung tay vấn đề vệ sinh mới làm tốt như vậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xìnghǎo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -24,46 +24,46 @@
    "ipa": "",
    "pinyin": "xiāngshuǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "多余",
-   "meaning": "thừa, vô dụng, không cần thiết",
+   "meaning": "thừa, dư thừa",
    "example": "事实证明了我们的担心是多余的。",
    "exampleMeaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duōyú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "货物",
-   "meaning": "hàng",
+   "meaning": "hàng hóa",
    "example": "我们来学“货物”这个词。",
-   "exampleMeaning": "Cùng học từ “货物”: hàng.",
+   "exampleMeaning": "Cùng học từ “货物”: hàng hóa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huòwù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "走廊",
-   "meaning": "hành lang (dải đất hẹp)",
+   "meaning": "hành lang",
    "example": "河西走廊",
    "exampleMeaning": "Hành lang Hà Tây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǒuláng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "",
    "pinyin": "rénzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -89,46 +89,46 @@
    "ipa": "",
    "pinyin": "zuǐchún",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "训",
-   "meaning": "chuẩn mực",
+   "meaning": "dạy bảo, răn dạy, huấn luyện",
    "example": "训了他一顿。",
    "exampleMeaning": "Dạy cho nó một trận",
    "emoji": "",
    "ipa": "",
    "pinyin": "xùn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "强制",
-   "meaning": "cưỡng chế",
+   "meaning": "cưỡng chế, bắt buộc",
    "example": "强制执行。",
    "exampleMeaning": "Cưỡng chế chấp hành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiángzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "愚蠢",
-   "meaning": "ngu xuẩn",
+   "meaning": "ngu xuẩn, ngu ngốc",
    "example": "这种做法太愚蠢。",
    "exampleMeaning": "Cách làm này quá ngu xuẩn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yúchǔn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "dàoqiè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "设定",
-   "meaning": "đề ra",
+   "meaning": "thiết lập, cài đặt",
    "example": "我们来学“设定”这个词。",
-   "exampleMeaning": "Cùng học từ “设定”: đề ra.",
+   "exampleMeaning": "Cùng học từ “设定”: thiết lập, cài đặt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shèdìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "奔",
-   "meaning": "chạy",
+   "meaning": "chạy, lao tới",
    "example": "他順着小道直奔那山头",
    "exampleMeaning": "Anh ta theo con đường nhỏ đến thẳng ngọn núi đó",
    "emoji": "",
    "ipa": "",
    "pinyin": "bēn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "zìsī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "凑",
-   "meaning": "sáp đến, tụ tập, tập hợp",
+   "meaning": "gom góp, xích lại gần, tình cờ",
    "example": "大家凑到这里来听他讲故事。",
    "exampleMeaning": "Mọi người tụ tập đến đây nghe anh ta kể chuyện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "còu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,46 +206,46 @@
    "ipa": "",
    "pinyin": "jǐngtì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "降临",
-   "meaning": "buông xuống",
+   "meaning": "giáng xuống, đến",
    "example": "夜色降临。",
    "exampleMeaning": "Màn đêm buông xuống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiànglín",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "截",
-   "meaning": "chặn, ngăn chặn",
+   "meaning": "cắt, chặn",
    "example": "快把马截住，别让它跑了。",
    "exampleMeaning": "Nhanh chặn con ngựa lại, đừng để nó chạy nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jié",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "生死",
-   "meaning": "sống chết",
+   "meaning": "sống chết, sinh tử",
    "example": "生死与共(形容情谊很深)。",
    "exampleMeaning": "Sống chết có nhau.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēngsǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "xīgài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

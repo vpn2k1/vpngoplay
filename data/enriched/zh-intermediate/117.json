@@ -4,79 +4,79 @@
  "words": [
   {
    "term": "指着",
-   "meaning": "chỉ về",
+   "meaning": "chỉ vào",
    "example": "我们来学“指着”这个词。",
-   "exampleMeaning": "Cùng học từ “指着”: chỉ về.",
+   "exampleMeaning": "Cùng học từ “指着”: chỉ vào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǐzhe",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "之",
-   "meaning": "của",
+   "meaning": "của (văn viết), nó",
    "example": "除此之外，别无办法。",
    "exampleMeaning": "Ngoài cách này ra, chả có cách nào.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "以",
-   "meaning": "vào",
+   "meaning": "dùng, bằng, để",
    "example": "你可以走了。",
    "exampleMeaning": "Mày có thể đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "哦",
-   "meaning": "hơi nóng (lửa, mặt trời), nhiệt",
+   "meaning": "ồ, à (thán từ)",
    "example": "哦！有一隻蝴蝶！",
    "exampleMeaning": "Ô kìa, con bươm bướm!",
    "emoji": "",
    "ipa": "",
    "pinyin": "o",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "及",
-   "meaning": "và, cùng, với",
+   "meaning": "và, kịp",
    "example": "目力所及。",
    "exampleMeaning": "Mắt có thể nhìn thấy được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "未",
-   "meaning": "không",
+   "meaning": "chưa",
    "example": "呻吟未止忘良医。",
    "exampleMeaning": "Chưa khỏi rên đã quên thầy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wèi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,59 +89,59 @@
    "ipa": "",
    "pinyin": "zhǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "感",
-   "meaning": "cảm",
+   "meaning": "cảm thấy, cảm động",
    "example": "他对生活感到很无奈。",
    "exampleMeaning": "Anh ấy cảm thấy rất bất lực trong cuộc sống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "情",
-   "meaning": "tình yêu",
+   "meaning": "tình cảm, cảm xúc",
    "example": "你應該學習控制自己的情緒。",
    "exampleMeaning": "Bạn nên học cách kiểm soát cảm xúc của mình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "则",
-   "meaning": "mẩu, điều, mục",
+   "meaning": "thì (liên từ), quy tắc",
    "example": "我不喜欢学习不规则动词。",
    "exampleMeaning": "Tôi không thích học các động từ bất quy tắc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zé",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "德",
-   "meaning": "đức, đức hạnh",
+   "meaning": "đức, đạo đức",
    "example": "这个照相机是德国制造的。",
    "exampleMeaning": "Cái máy ảnh này được sản xuất tại Đức.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dé",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,7 +154,7 @@
    "ipa": "",
    "pinyin": "tóngzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,98 +167,98 @@
    "ipa": "",
    "pinyin": "éryǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "文",
-   "meaning": "văn",
+   "meaning": "văn, chữ viết, văn hóa",
    "example": "这篇文章很好。",
    "exampleMeaning": "Bài văn này rất hay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wén",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "经",
-   "meaning": "mắc cửi",
+   "meaning": "trải qua, kinh điển",
    "example": "你有工作经验吗?",
    "exampleMeaning": "Anh có kinh nghiệm chuyên môn không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "不知",
-   "meaning": "không thừa nhận",
+   "meaning": "không biết",
    "example": "你怎么会不知道？",
    "exampleMeaning": "Tại sao bạn lại có thể không biết được?",
    "emoji": "",
    "ipa": "",
    "pinyin": "bùzhī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "即",
-   "meaning": "là, ấy là",
+   "meaning": "tức là, chính là",
    "example": "他心脏停止了跳动, 随即死亡。",
    "exampleMeaning": "Tim ông ta ngừng đập và chết ngay sau đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "唯",
-   "meaning": "chỉ có một, duy nhất",
+   "meaning": "duy nhất, chỉ",
    "example": "我们来学“唯”这个词。",
-   "exampleMeaning": "Cùng học từ “唯”: chỉ có một, duy nhất.",
+   "exampleMeaning": "Cùng học từ “唯”: duy nhất, chỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wéi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "丝",
-   "meaning": "tơ, chỉ tơ",
+   "meaning": "tơ, sợi",
    "example": "这些蚕的吐丝量很大。",
    "exampleMeaning": "Lượng tơ nhả ra của những con tằm này rất lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "所谓",
-   "meaning": "cái gọi là",
+   "meaning": "cái gọi là, gọi là",
    "example": "他穿衣服一向很随便，颜色、样式都无所谓。",
    "exampleMeaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "suǒwèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

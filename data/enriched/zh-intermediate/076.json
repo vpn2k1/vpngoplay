@@ -4,92 +4,92 @@
  "words": [
   {
    "term": "灭",
-   "meaning": "tắt",
+   "meaning": "tắt, dập tắt",
    "example": "不管侵略者什么时候来, 都必被消灭。",
    "exampleMeaning": "Không cần biết khi nào kẻ thù đến, chúng đều phải bị tiêu diệt",
    "emoji": "",
    "ipa": "",
    "pinyin": "miè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "支援",
-   "meaning": "chi viện",
+   "meaning": "chi viện, hỗ trợ",
    "example": "支援灾区",
    "exampleMeaning": "Chi viện cho vùng bị nạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "线路",
-   "meaning": "tuyến",
+   "meaning": "tuyến đường, mạch điện, đường dây",
    "example": "公共汽车线路。",
    "exampleMeaning": "Tuyến xe buýt",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiànlù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "血管",
-   "meaning": "huyết quản",
+   "meaning": "mạch máu, huyết quản",
    "example": "我们来学“血管”这个词。",
-   "exampleMeaning": "Cùng học từ “血管”: huyết quản.",
+   "exampleMeaning": "Cùng học từ “血管”: mạch máu, huyết quản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xuèguǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "热线",
-   "meaning": "tuyến hồng ngoại",
+   "meaning": "đường dây nóng",
    "example": "我们来学“热线”这个词。",
-   "exampleMeaning": "Cùng học từ “热线”: tuyến hồng ngoại.",
+   "exampleMeaning": "Cùng học từ “热线”: đường dây nóng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rèxiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "娃娃",
-   "meaning": "em bé",
+   "meaning": "em bé, búp bê",
    "example": "我们来学“娃娃”这个词。",
-   "exampleMeaning": "Cùng học từ “娃娃”: em bé.",
+   "exampleMeaning": "Cùng học từ “娃娃”: em bé, búp bê.",
    "emoji": "👶",
    "ipa": "",
    "pinyin": "wáwa",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "关联",
-   "meaning": "liên quan",
+   "meaning": "liên quan, liên kết",
    "example": "这可是关联着生命安全的大事。",
    "exampleMeaning": "Việc lớn này thật sự có liên quan đến sự an toàn tính mạng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guānlián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "jiǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,72 +115,72 @@
    "ipa": "",
    "pinyin": "jīnqián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "消灭",
-   "meaning": "diệt vong, làm cho diệt vong, trừ",
+   "meaning": "tiêu diệt, diệt trừ",
    "example": "在今年头3个月中，我军消灭敌军五万五。",
    "exampleMeaning": "Trong 3 tháng đầu năm nay, quân ta đã diệt 5 vạn rưởi quân địch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāomiè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "街头",
-   "meaning": "đầu phố",
+   "meaning": "đường phố, đầu phố",
    "example": "十字街头。",
    "exampleMeaning": "Ngã tư đầu phố.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiētóu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "惊人",
-   "meaning": "giật gân",
+   "meaning": "đáng kinh ngạc, kinh người",
    "example": "惊人的消息。",
    "exampleMeaning": "Tin động trời; tin giật gân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīngrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "路过",
-   "meaning": "đi qua",
+   "meaning": "đi ngang qua, đi qua",
    "example": "从北京到上海，路过济南。",
    "exampleMeaning": "Từ bắc Kinh đi đến Thượng Hải phải đi qua Tế Nam.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lùguò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "海洋",
-   "meaning": "biển",
+   "meaning": "đại dương, biển cả",
    "example": "海洋渔业。",
    "exampleMeaning": "Nghề đánh cá biển.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎiyáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -193,20 +193,20 @@
    "ipa": "",
    "pinyin": "jīnróng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "首席",
-   "meaning": "cấp cao nhất",
+   "meaning": "đứng đầu, ghế đầu",
    "example": "首席代表。",
    "exampleMeaning": "Đại biểu cấp cao nhất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǒuxí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "chéngfèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "同一",
-   "meaning": "chung",
+   "meaning": "cùng một, giống nhau",
    "example": "向同一目标前进。",
    "exampleMeaning": "Tiến lên theo mục tiêu chung.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóngyī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "循环",
-   "meaning": "tuần hoàn",
+   "meaning": "tuần hoàn, vòng lặp",
    "example": "血液循环",
    "exampleMeaning": "Sự tuần hoàn của máu",
    "emoji": "",
    "ipa": "",
    "pinyin": "xúnhuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "从没",
-   "meaning": "không bao giờ (trong quá khứ) / không bao giờ làm",
+   "meaning": "chưa bao giờ, chưa từng",
    "example": "我们来学“从没”这个词。",
-   "exampleMeaning": "Cùng học từ “从没”: không bao giờ (trong quá khứ) / không bao giờ làm.",
+   "exampleMeaning": "Cùng học từ “从没”: chưa bao giờ, chưa từng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cóngméi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

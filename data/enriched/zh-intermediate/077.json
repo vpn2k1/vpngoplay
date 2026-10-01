@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "鉴定",
-   "meaning": "giám định",
+   "meaning": "giám định, thẩm định",
    "example": "鉴定出土文物的年代。",
    "exampleMeaning": "Phân định những đồ cổ lâu năm được đào lên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàndìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "协调",
-   "meaning": "nhịp nhàng",
+   "meaning": "phối hợp, điều phối, hài hòa",
    "example": "国民经济各部门的发展必须互相协调。",
    "exampleMeaning": "Việc phát triển các ngành kinh tế quốc dân phải phối hợp nhịp nhàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiétiáo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,59 +37,59 @@
    "ipa": "",
    "pinyin": "mó",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "铺",
-   "meaning": "giường",
+   "meaning": "trải, lát, cửa hàng",
    "example": "杂货铺儿。",
    "exampleMeaning": "Cửa hàng tạp hoá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "泥",
-   "meaning": "trát",
+   "meaning": "bùn, đất sét",
    "example": "窗户玻璃的四周都用油灰泥上。",
    "exampleMeaning": "Xung quanh miếng thuỷ tinh của cửa sổ đã được trét vôi dầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ní",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "场景",
-   "meaning": "cảnh",
+   "meaning": "cảnh, bối cảnh, khung cảnh",
    "example": "热火朝天的劳动场景。",
    "exampleMeaning": "Cảnh lao động tưng bừng sôi nổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǎngjǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "跨",
-   "meaning": "vượt quá, vượt qua hạn định",
+   "meaning": "bước qua, vượt qua, xuyên",
    "example": "向左跨一迈(一 大步)。",
    "exampleMeaning": "Bước sang trái.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kuà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,59 +102,59 @@
    "ipa": "",
    "pinyin": "zhànshù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "救援",
-   "meaning": "cứu viện, cứu nguy",
+   "meaning": "cứu hộ, cứu viện",
    "example": "救援灾民",
    "exampleMeaning": "Cứu giúp người bị nạn",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiùyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "跌",
-   "meaning": "hạ",
+   "meaning": "ngã, té, giảm (giá)",
    "example": "跌倒了又爬起来了。",
    "exampleMeaning": "Té xuống lại bò dậy",
    "emoji": "",
    "ipa": "",
    "pinyin": "diē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "仿佛",
-   "meaning": "như",
+   "meaning": "dường như, như thể",
    "example": "他的模样还和十年前相仿佛。",
    "exampleMeaning": "Dáng dấp của anh ấy cũng giống như 10 năm trước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fǎngfú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "妙",
-   "meaning": "đẹp",
+   "meaning": "tuyệt, khéo, hay",
    "example": "非常感謝您昨晚美妙的晚餐。",
    "exampleMeaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua.",
    "emoji": "",
    "ipa": "",
    "pinyin": "miào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "zúyǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,72 +180,72 @@
    "ipa": "",
    "pinyin": "zǔguó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "凶",
-   "meaning": "xấu, ác",
+   "meaning": "hung dữ, dữ, xấu (điềm)",
    "example": "这个人样子真凶。",
    "exampleMeaning": "Con người này bộ dạng thật hung ác",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiōng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "约定",
-   "meaning": "hẹn",
+   "meaning": "hẹn, thỏa thuận, giao ước",
    "example": "大家约定明天在公园会面。",
    "exampleMeaning": "Mọi người hẹn ngày mai gặp tại công viên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yuēdìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "抵抗",
-   "meaning": "chống lại",
+   "meaning": "chống cự, kháng cự",
    "example": "在桥上英勇抵抗敌人。",
    "exampleMeaning": "Anh dũng chống địch trên cầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǐkàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "虽",
-   "meaning": "dẫu cho, mặc dù",
+   "meaning": "tuy, mặc dù",
    "example": "这个计划虽然已经决定实施了，但是具体细节还需要从长计议。",
    "exampleMeaning": "Kế hoạch này mặc dù đã được quyết định thực thi, nhưng mà các chi tiết cụ thể vẫn cần phải được cân nhắc kỹ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "suī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "援助",
-   "meaning": "cứu trợ, chi viện, đưa mời (đồ ăn, thức uống)",
+   "meaning": "viện trợ, giúp đỡ",
    "example": "援助受难者。",
    "exampleMeaning": "Giúp đỡ người bị nạn",
    "emoji": "",
    "ipa": "",
    "pinyin": "yuánzhù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "qīnfàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

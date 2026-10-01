@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "特质",
-   "meaning": "tính chất đặc biệt",
+   "meaning": "đặc tính, phẩm chất riêng",
    "example": "在他身上仍然保留着某些农民的淳厚朴实的特质。",
    "exampleMeaning": "Trong con người anh ấy vẫn còn giữ được những phẩm chất của người nông dân thật thà, chất phác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tèzhì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "做生意",
-   "meaning": "buôn bán",
+   "meaning": "làm ăn, buôn bán",
    "example": "我们来学“做生意”这个词。",
-   "exampleMeaning": "Cùng học từ “做生意”: buôn bán.",
+   "exampleMeaning": "Cùng học từ “做生意”: làm ăn, buôn bán.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuòshēngyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,85 +37,85 @@
    "ipa": "",
    "pinyin": "gāoxiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "届时",
-   "meaning": "đến ngày",
+   "meaning": "đến lúc đó",
    "example": "届时务请出席。",
    "exampleMeaning": "Đến ngày, xin mời đến dự.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jièshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "寝室",
-   "meaning": "phòng ngủ",
+   "meaning": "phòng ngủ, ký túc xá",
    "example": "我们来学“寝室”这个词。",
-   "exampleMeaning": "Cùng học từ “寝室”: phòng ngủ.",
+   "exampleMeaning": "Cùng học từ “寝室”: phòng ngủ, ký túc xá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǐnshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "密封",
-   "meaning": "bịt kín",
+   "meaning": "niêm phong, bịt kín",
    "example": "用白蜡密封瓶口以防药物发潮或挥发。",
    "exampleMeaning": "Dùng sáp bịt kín miệng chai đề phòng thuốc bị ẩm hoặc bị bay hơi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mìfēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "高明",
-   "meaning": "cao siêu",
+   "meaning": "giỏi giang, cao tay, sáng suốt",
    "example": "他手艺是高明、做出来的东西就是不一样。",
    "exampleMeaning": "Tay nghề của ông ta thật cao siêu, mấy thứ làm ra không cái nào giống cái nào",
    "emoji": "",
    "ipa": "",
    "pinyin": "gāomíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "获悉",
-   "meaning": "được biết",
+   "meaning": "được biết, nhận tin",
    "example": "日前获悉，他以南下探亲。",
    "exampleMeaning": "Được biết mấy ngày trước, anh ấy đã về miền Nam thăm người thân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huòxī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "胆子",
-   "meaning": "lòng can đảm",
+   "meaning": "lá gan, can đảm",
    "example": "胆子不小",
    "exampleMeaning": "Lòng can đảm không nhỏ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎnzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,7 +128,7 @@
    "ipa": "",
    "pinyin": "diāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "dǔsè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "漂",
-   "meaning": "hỏng",
+   "meaning": "trôi, nổi, tẩy trắng",
    "example": "这里你可以看到漂亮的颜色组合。",
    "exampleMeaning": "Bạn có thể thấy một tổ hợp màu rất đẹp ở đây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "piāo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "磕",
-   "meaning": "đội",
+   "meaning": "va, gõ, đập",
    "example": "碗边儿磕掉了一块。",
    "exampleMeaning": "Miệng bát bị va mẻ một miếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "fēnmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "料理",
-   "meaning": "sắp xếp",
+   "meaning": "lo liệu, món ăn",
    "example": "你吃過日本料理嗎？",
    "exampleMeaning": "Bạn đã bao giờ ăn đồ Nhật chưa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "liàolǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "lǐpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "剧烈",
-   "meaning": "mạnh",
+   "meaning": "kịch liệt, dữ dội",
    "example": "饭后不宜做剧烈运动。",
    "exampleMeaning": "Sau khi ăn cơm không nên vận động mạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jùliè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "填补",
-   "meaning": "bổ sung",
+   "meaning": "lấp đầy, bù đắp",
    "example": "填补缺额",
    "exampleMeaning": "Bổ sung chỗ khuyết",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiánbǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "起伏",
-   "meaning": "nhấp nhô",
+   "meaning": "nhấp nhô, lên xuống, thăng trầm",
    "example": "这一带全是连绵起伏的群山。",
    "exampleMeaning": "Vùng này đều là những dãy núi nhấp nhô trùng điệp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǐfú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "手掌",
-   "meaning": "bàn tay",
+   "meaning": "lòng bàn tay",
    "example": "我们来学“手掌”这个词。",
-   "exampleMeaning": "Cùng học từ “手掌”: bàn tay.",
+   "exampleMeaning": "Cùng học từ “手掌”: lòng bàn tay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shǒuzhǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

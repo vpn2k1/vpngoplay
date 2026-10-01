@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "能不能",
-   "meaning": "có thể hay không",
+   "meaning": "có thể không, được không",
    "example": "我们来学“能不能”这个词。",
-   "exampleMeaning": "Cùng học từ “能不能”: có thể hay không.",
+   "exampleMeaning": "Cùng học từ “能不能”: có thể không, được không.",
    "emoji": "",
    "ipa": "",
    "pinyin": "néngbùnéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "至今",
-   "meaning": "đến bây giờ",
+   "meaning": "đến nay, cho đến nay",
    "example": "他回家以后至今还没有来信。",
    "exampleMeaning": "Sau khi anh ấy về nhà đến bây giờ vẫn chưa gửi thơ đến.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìjīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,72 +37,72 @@
    "ipa": "",
    "pinyin": "hòuguǒ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "打破",
-   "meaning": "phá",
+   "meaning": "phá vỡ, đánh vỡ",
    "example": "打破常规",
    "exampleMeaning": "Phá bỏ lệ thường",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎpò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "上来",
-   "meaning": "được",
+   "meaning": "lên đây, đi lên",
    "example": "这个问题你一定答得上来。",
    "exampleMeaning": "Câu hỏi này anh nhất định trả lời được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shànglái",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "石头",
-   "meaning": "đá",
+   "meaning": "đá, hòn đá",
    "example": "我们来学“石头”这个词。",
-   "exampleMeaning": "Cùng học từ “石头”: đá.",
+   "exampleMeaning": "Cùng học từ “石头”: đá, hòn đá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shítou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "主持",
-   "meaning": "chủ trương",
+   "meaning": "chủ trì, dẫn chương trình",
    "example": "主持日常工作。",
    "exampleMeaning": "Phụ trách công việc hàng ngày",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǔchí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "访问",
-   "meaning": "phỏng vấn",
+   "meaning": "thăm viếng, phỏng vấn, truy cập",
    "example": "我访问了这座英雄的城市。",
    "exampleMeaning": "Tôi đi thăm thành phố anh hùng này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fǎngwèn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,20 +115,20 @@
    "ipa": "",
    "pinyin": "xiānjìn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "才能",
-   "meaning": "tài, tài ba, tài năng",
+   "meaning": "tài năng, năng lực",
    "example": "施展才能。",
    "exampleMeaning": "Trổ tài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cáinéng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "",
    "pinyin": "wénmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "西部",
-   "meaning": "phần phía tây",
+   "meaning": "miền tây, phía tây",
    "example": "我们来学“西部”这个词。",
-   "exampleMeaning": "Cùng học từ “西部”: phần phía tây.",
+   "exampleMeaning": "Cùng học từ “西部”: miền tây, phía tây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xībù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -167,46 +167,46 @@
    "ipa": "",
    "pinyin": "wánjù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "防止",
-   "meaning": "phòng",
+   "meaning": "phòng ngừa, ngăn chặn",
    "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
    "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fángzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "年纪",
-   "meaning": "tuổi tác",
+   "meaning": "tuổi, tuổi tác",
    "example": "像我这样的年纪。",
    "exampleMeaning": "Tuổi tác như tôi",
    "emoji": "",
    "ipa": "",
    "pinyin": "niánjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "采用",
-   "meaning": "chọn dùng",
+   "meaning": "sử dụng, áp dụng",
    "example": "那篇稿子已被编辑部采用",
    "exampleMeaning": "Bản thảo này đã được ban biên tập chọn dùng",
    "emoji": "",
    "ipa": "",
    "pinyin": "cǎiyòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -219,33 +219,33 @@
    "ipa": "",
    "pinyin": "shǒuzhǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "天空",
-   "meaning": "không trung",
+   "meaning": "bầu trời",
    "example": "云是天空中的水汽团。",
    "exampleMeaning": "Mây là do hơi nước trong không trung tích tụ thành.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiānkōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "制度",
-   "meaning": "chế độ",
+   "meaning": "chế độ, hệ thống",
    "example": "社会主义制度。",
    "exampleMeaning": "Chế độ xã hội chủ nghĩa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhìdù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "gōngyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

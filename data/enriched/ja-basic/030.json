@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "いいえ",
-   "meaning": "không",
+   "meaning": "không, không phải",
    "example": "いいえ、手伝いませんでした。",
    "exampleMeaning": "Không, tôi chưa hề giúp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "軽い",
-   "meaning": "ánh sáng, ánh sáng mặt trời",
+   "meaning": "nhẹ, nhẹ nhàng",
    "example": "今日は軽いものが食べたいな。",
    "exampleMeaning": "Hôm nay tôi muốn ăn gì đó nhẹ nhẹ quá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "五日",
-   "meaning": "ngày thứ năm của tháng",
+   "meaning": "ngày mùng 5, năm ngày",
    "example": "「五日」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “五日”: ngày thứ năm của tháng.",
+   "exampleMeaning": "Cùng nhớ từ “五日”: ngày mùng 5, năm ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "皆さん",
-   "meaning": "mọi người, tất cả mọi người, ai ai",
+   "meaning": "mọi người, các bạn",
    "example": "皆さんこんにちは。",
    "exampleMeaning": "Chào mọi người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "交差点",
-   "meaning": "sự giao nhau, sự cắt ngang",
+   "meaning": "ngã tư, giao lộ",
    "example": "事故はあの交差点の近くで起こった。",
    "exampleMeaning": "Vụ tai nạn đã xảy ra ở gần cái ngã tư kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,59 +76,59 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "フォーク",
-   "meaning": "cái nĩa, cái xiên (để xiên thức ăn)",
+   "meaning": "nĩa, dĩa",
    "example": "スプーンとフォークとナイフがいります。どうもありがとう。",
    "exampleMeaning": "Tôi cần thìa, dĩa và dao. Cảm ơn bạn rất nhiều.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "一",
-   "meaning": "một",
+   "meaning": "một, số một",
    "example": "水を一杯下さい。",
    "exampleMeaning": "Làm ơn cho tôi một cốc nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "その",
-   "meaning": "ấy, này (người, cái",
+   "meaning": "đó, ấy",
    "example": "木はその実で分かる。",
    "exampleMeaning": "Trông quả biết cây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "問題",
-   "meaning": "vấn đề",
+   "meaning": "vấn đề, câu hỏi",
    "example": "そこに問題がある。",
    "exampleMeaning": "Vấn đề nằm ở đó.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,124 +141,124 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "火曜日",
-   "meaning": "thứ Ba",
+   "meaning": "thứ ba",
    "example": "今日は火曜日ね。魚を買いに行ってくるね。",
    "exampleMeaning": "Hôm nay là thứ Ba nhỉ. Tôi đi mua cá đây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "聞く",
-   "meaning": "nghe, cảm giác của âm thanh",
+   "meaning": "nghe, hỏi",
    "example": "聞けば聞くほどますます面白くなる。",
    "exampleMeaning": "Càng nghe càng thấy trở nên thú vị.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "どう",
-   "meaning": "thế nào, như thế nào",
+   "meaning": "thế nào, ra sao",
    "example": "どう、仕事は？",
    "exampleMeaning": "Công việc thế nào?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "明後日",
-   "meaning": "xấu, không tốt, tồi",
+   "meaning": "ngày kia",
    "example": "「明後日」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “明後日”: xấu, không tốt, tồi.",
+   "exampleMeaning": "Cùng nhớ từ “明後日”: ngày kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "テスト",
-   "meaning": "cuộc thi",
+   "meaning": "bài kiểm tra",
    "example": "トムはテストに受かったの？",
    "exampleMeaning": "Tom có qua bài kiểm tra không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "掛ける",
-   "meaning": "giả thiết",
+   "meaning": "đeo (kính), treo",
    "example": "明日は出掛けるの？",
    "exampleMeaning": "Mai bạn đi ra ngoài hả?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "明日",
-   "meaning": "mai, ngày mai",
+   "meaning": "ngày mai, mai",
    "example": "明日は雪だろう。",
    "exampleMeaning": "Ngày mai trời sẽ có tuyết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "薄い",
-   "meaning": "mỏng, mảnh",
+   "meaning": "mỏng, nhạt",
    "example": "一方の本は薄い、他方は厚い、厚いのは約２００ページある。",
    "exampleMeaning": "Một cuốn sách thì mỏng, cuốn còn lại thì dày. Cuốn dày thì dày khoảng 200 trang.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "半分",
-   "meaning": "nửa, phân chia đôi",
+   "meaning": "một nửa, phân nửa",
    "example": "その鳥は鷲の半分の大きさだった。",
    "exampleMeaning": "Con chim đó to bằng nửa con đại bàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

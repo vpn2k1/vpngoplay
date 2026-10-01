@@ -4,131 +4,131 @@
  "words": [
   {
    "term": "喝",
-   "meaning": "uống (rượu, nước... )",
+   "meaning": "uống",
    "example": "为什么喝那么多药？",
    "exampleMeaning": "Sao uống lắm thuốc thế?",
    "emoji": "",
    "ipa": "",
    "pinyin": "hē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "穿",
-   "meaning": "mặc (quần áo... ), ăn mặc",
+   "meaning": "mặc, mang (giày)",
    "example": "他穿衣服一向很随便，颜色、样式都无所谓。",
    "exampleMeaning": "Anh ấy ăn mặc vẫn luôn rất tùy tiện, màu sắc, dáng điệu đều thế nào cũng được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chuān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "学校",
-   "meaning": "trường học",
+   "meaning": "trường học, trường",
    "example": "你在哪个学校上学？",
    "exampleMeaning": "Anh học ở trường nào?",
    "emoji": "🏫",
    "ipa": "",
    "pinyin": "xuéxiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "花",
-   "meaning": "hoa, bông hoa, đoá hoa",
+   "meaning": "hoa, tiêu (tiền)",
    "example": "这工作花了我五小时。",
    "exampleMeaning": "Tôi đã tốn năm giờ đồng hồ cho công việc này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "坐",
-   "meaning": "đặt",
+   "meaning": "ngồi, đi (tàu xe)",
    "example": "他常常坐着看书一连好几个小时。",
    "exampleMeaning": "Cô ấy thường ngồi xem sách vài tiếng liền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "早",
-   "meaning": "từ lâu",
+   "meaning": "sớm, chào buổi sáng",
    "example": "他每天早上八点起床。",
    "exampleMeaning": "Anh ấy thức dậy lúc tám giờ sáng hàng ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "们",
-   "meaning": "đặt sau một đại từ hay danh từ để chỉ số nhiều",
+   "meaning": "các, những (hậu tố số nhiều)",
    "example": "我们走进教室。",
    "exampleMeaning": "Chúng tôi bước vào lớp học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "men",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "身上",
-   "meaning": "trong người (mang theo)",
+   "meaning": "trên người",
    "example": "希望寄托在青年人身上。",
    "exampleMeaning": "Hy vọng gởi gắm ở giới trẻ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēnshang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "干",
-   "meaning": "làm",
+   "meaning": "làm, khô",
    "example": "哪间卧室都干净。",
    "exampleMeaning": "Phòng ngủ nào cũng sạch sẽ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "认识",
-   "meaning": "biết",
+   "meaning": "quen biết, nhận biết",
    "example": "我不认识那个人。",
    "exampleMeaning": "Tôi không quen người ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rènshi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,33 +141,33 @@
    "ipa": "",
    "pinyin": "shuì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "明天",
-   "meaning": "mai, ngày mai",
+   "meaning": "ngày mai",
    "example": "明天你有什么安排没有？",
    "exampleMeaning": "Mai bạn có dự định gì không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "míngtiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回来",
-   "meaning": "về",
+   "meaning": "trở về, quay lại",
    "example": "他才从图书馆回来。",
    "exampleMeaning": "Anh ấy vừa mới ở thư viện về.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huílai",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -180,33 +180,33 @@
    "ipa": "",
    "pinyin": "sì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "块",
-   "meaning": "đồng",
+   "meaning": "đồng, miếng (lượng từ)",
    "example": "你要再来一块蛋糕吗？",
    "exampleMeaning": "Anh có muốn miếng bánh ngọt khác không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "kuài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "外",
-   "meaning": "ngoại",
+   "meaning": "ngoài",
    "example": "我们今晚在外面吃饭吧。",
    "exampleMeaning": "Chúng ta tối nay đi ăn nhé.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,33 +219,33 @@
    "ipa": "",
    "pinyin": "wǎnshang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "妈",
-   "meaning": "bà (chỉ phụ nữ lớn tuổi)",
+   "meaning": "mẹ, má",
    "example": "他把我错认为我妈妈了。",
    "exampleMeaning": "Anh ta đã nhận nhầm tôi thành mẹ tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "球",
-   "meaning": "bóng",
+   "meaning": "bóng, quả bóng",
    "example": "你喜歡棒球到甚麼程度？",
    "exampleMeaning": "Bạn mê bóng chày cỡ nào?",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "xièxie",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

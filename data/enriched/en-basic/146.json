@@ -1,0 +1,321 @@
+{
+ "lesson": 146,
+ "draft": true,
+ "words": [
+  {
+   "term": "trace",
+   "meaning": "dấu vết, vết tích",
+   "example": "not to show a trace of fear",
+   "exampleMeaning": "Không để lộ ra một chút gì là sợ hãi cả",
+   "emoji": "",
+   "ipa": "/ˈtreɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "someplace",
+   "meaning": "ở đâu đó, nơi nào đó",
+   "example": "Let's learn the word \"someplace\".",
+   "exampleMeaning": "Cùng học từ “someplace”: ở đâu đó, nơi nào đó.",
+   "emoji": "",
+   "ipa": "/ˈsəmˌpleɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reunification",
+   "meaning": "sự thống nhất lại, sự tái thống nhất",
+   "example": "Let's learn the word \"reunification\".",
+   "exampleMeaning": "Cùng học từ “reunification”: sự thống nhất lại, sự tái thống nhất.",
+   "emoji": "",
+   "ipa": "/riˌunəfəˈkeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prayer",
+   "meaning": "lời cầu nguyện, sự cầu nguyện",
+   "example": "to kneel down in prayer",
+   "exampleMeaning": "Quỳ xuống cầu kinh",
+   "emoji": "",
+   "ipa": "/ˈpreɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "offensive",
+   "meaning": "xúc phạm, công kích",
+   "example": "to take the offensive",
+   "exampleMeaning": "Tấn công",
+   "emoji": "",
+   "ipa": "/əˈfɛnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hatch",
+   "meaning": "cửa sập, cửa nắp",
+   "example": "Let's learn the word \"hatch\".",
+   "exampleMeaning": "Cùng học từ “hatch”: cửa sập, cửa nắp.",
+   "emoji": "",
+   "ipa": "/ˈhætʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "engine",
+   "meaning": "động cơ, máy",
+   "example": "This engine has passed all performance evaluations.",
+   "exampleMeaning": "Động cơ này đã vượt qua mọi bài đánh giá hiệu năng.",
+   "emoji": "",
+   "ipa": "/ˈɛndʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ensure",
+   "meaning": "đảm bảo, bảo đảm",
+   "example": "I always carry condoms to ensure I'm prepared for any situation.",
+   "exampleMeaning": "Tôi luôn mang theo bao cao su để đảm bảo tôi sẵn sàng trong mọi tình huống.",
+   "emoji": "",
+   "ipa": "/ɛnˈʃʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "lifeguard",
+   "meaning": "nhân viên cứu hộ",
+   "example": "Let's learn the word \"lifeguard\".",
+   "exampleMeaning": "Cùng học từ “lifeguard”: nhân viên cứu hộ.",
+   "emoji": "",
+   "ipa": "/ˈlaɪfˌɡɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hopeless",
+   "meaning": "vô vọng, tuyệt vọng",
+   "example": "a hopeless case",
+   "exampleMeaning": "Một trường hợp không hy vọng gì chữa chạy được (bệnh)",
+   "emoji": "",
+   "ipa": "/ˈhoʊpləs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nuclear",
+   "meaning": "hạt nhân",
+   "example": "Nuclear power is used to generate electricity.",
+   "exampleMeaning": "Năng lượng hạt nhân được dùng để tạo ra điện.",
+   "emoji": "",
+   "ipa": "/ˈnukliɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "spicy",
+   "meaning": "cay",
+   "example": "I don't eat spicy food.",
+   "exampleMeaning": "Tôi không ăn đồ cay.",
+   "emoji": "",
+   "ipa": "/ˈspaɪsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "leadership",
+   "meaning": "khả năng lãnh đạo, sự lãnh đạo",
+   "example": "under the leadership of the Communist Party",
+   "exampleMeaning": "Dưới sự lãnh đạo của đảng Cộng sản",
+   "emoji": "",
+   "ipa": "/ˈlidɜrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pit",
+   "meaning": "hố, hầm, hột (quả)",
+   "example": "to dig a pit for someone",
+   "exampleMeaning": "(Nghĩa bóng) đặt bẫy ai, định đưa ai vào bẫy",
+   "emoji": "",
+   "ipa": "/ˈpɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "brief",
+   "meaning": "ngắn gọn, ngắn",
+   "example": "In brief, Tom was wrong.",
+   "exampleMeaning": "Tóm lại, Tom đã sai.",
+   "emoji": "",
+   "ipa": "/ˈbrif/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "statistical",
+   "meaning": "thống kê",
+   "example": "Let's learn the word \"statistical\".",
+   "exampleMeaning": "Cùng học từ “statistical”: thống kê.",
+   "emoji": "",
+   "ipa": "/stəˈtɪstɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "biology",
+   "meaning": "sinh học",
+   "example": "Let's learn the word \"biology\".",
+   "exampleMeaning": "Cùng học từ “biology”: sinh học.",
+   "emoji": "",
+   "ipa": "/baɪˈɒl.ə.d͡ʒɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "saucepan",
+   "meaning": "xoong, nồi có cán",
+   "example": "Let's learn the word \"saucepan\".",
+   "exampleMeaning": "Cùng học từ “saucepan”: xoong, nồi có cán.",
+   "emoji": "",
+   "ipa": "/ˈsɔˌspæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "duty-free",
+   "meaning": "miễn thuế",
+   "example": "Let's learn the word \"duty-free\".",
+   "exampleMeaning": "Cùng học từ “duty-free”: miễn thuế.",
+   "emoji": "",
+   "ipa": "/ˈdjuti ˈfri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "characterize",
+   "meaning": "mô tả đặc điểm, đặc trưng cho",
+   "example": "Let's learn the word \"characterize\".",
+   "exampleMeaning": "Cùng học từ “characterize”: mô tả đặc điểm, đặc trưng cho.",
+   "emoji": "",
+   "ipa": "/ˈkɛrəktɜrˌaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Is",
+    "it",
+    "spicy"
+   ],
+   "reading": "",
+   "meaning": "Nó có cay không?"
+  },
+  {
+   "tokens": [
+    "I",
+    "never",
+    "liked",
+    "biology"
+   ],
+   "reading": "",
+   "meaning": "Tôi chưa bao giờ thích sinh học"
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "good",
+    "at",
+    "biology"
+   ],
+   "reading": "",
+   "meaning": "Nó giỏi môn sinh vật."
+  },
+  {
+   "tokens": [
+    "Don't",
+    "make",
+    "it",
+    "too",
+    "spicy"
+   ],
+   "reading": "",
+   "meaning": "Đừng làm cho nó quá cay."
+  },
+  {
+   "tokens": [
+    "In",
+    "brief",
+    "Tom",
+    "was",
+    "wrong"
+   ],
+   "reading": "",
+   "meaning": "Tóm lại, Tom đã sai."
+  }
+ ],
+ "issues": []
+}

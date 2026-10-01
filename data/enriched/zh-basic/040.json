@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "习惯",
-   "meaning": "thói quen",
+   "meaning": "thói quen, quen",
    "example": "孩子们都已习惯早起。",
    "exampleMeaning": "Các cháu đều có thói quen dậy sớm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xíguàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "mùdì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "guójì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "zhōumò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "推",
-   "meaning": "từ chối, khước từ, cự tuyệt",
+   "meaning": "đẩy, hoãn lại",
    "example": "大家推老张担任小组长。",
    "exampleMeaning": "Mọi người đề cử ông Trương làm tổ trưởng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tuī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "tīngshuō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "油",
-   "meaning": "sơn",
+   "meaning": "dầu, mỡ",
    "example": "这扇门去年油过一次。",
    "exampleMeaning": "Cánh cửa này năm ngoái đã sơn một lần rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yóu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,98 +102,98 @@
    "ipa": "",
    "pinyin": "kēxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "喂",
-   "meaning": "này",
+   "meaning": "alô, này, cho ăn",
    "example": "喂，你的围巾掉了。",
    "exampleMeaning": "Này, khăn quàng của anh rơi rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wèi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "心情",
-   "meaning": "trong lòng (trạng thái tình cảm)",
+   "meaning": "tâm trạng",
    "example": "那种心情又控制了他。",
    "exampleMeaning": "Tâm trạng òđó khống chế anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīnqíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "接着",
-   "meaning": "chụp lấy",
+   "meaning": "tiếp theo, tiếp tục",
    "example": "我往下扔，你在下面接着。",
    "exampleMeaning": "Tôi ném xuống, anh ở dưới chụp lấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiēzhe",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "流",
-   "meaning": "luồng (nước)",
+   "meaning": "chảy",
    "example": "我们算计着改革生产流程。",
    "exampleMeaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "实在",
-   "meaning": "cẩn thận",
+   "meaning": "thật sự, quả thực",
    "example": "工作做得很实在。",
    "exampleMeaning": "Công việc làm rất cẩn thận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shízài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "表",
-   "meaning": "tỏ",
+   "meaning": "đồng hồ, bảng biểu",
    "example": "我的表被偷了。",
    "exampleMeaning": "Đồng hồ của tôi bị trộm mất rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "biǎo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "船",
-   "meaning": "thuyền",
+   "meaning": "thuyền, tàu thủy",
    "example": "一只船 。",
    "exampleMeaning": "Một chiếc thuyền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chuán",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "yǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "鸡",
-   "meaning": "gà, thịt gà",
+   "meaning": "gà",
    "example": "我们来学“鸡”这个词。",
-   "exampleMeaning": "Cùng học từ “鸡”: gà, thịt gà.",
+   "exampleMeaning": "Cùng học từ “鸡”: gà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "遍",
-   "meaning": "khắp",
+   "meaning": "lần, lượt (lượng từ), khắp",
    "example": "我们的朋友遍天下。",
    "exampleMeaning": "Bạn bè ta ở khắp nơi trong thiên hạ",
    "emoji": "",
    "ipa": "",
    "pinyin": "biàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "怎么样",
-   "meaning": "thế nào",
+   "meaning": "thế nào, ra sao",
    "example": "他画得也并不怎么样(=并不好)。",
    "exampleMeaning": "Anh ấy vẽ cũng chẳng đẹp lắm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zěnmeyàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "瓶",
-   "meaning": "bình, lọ",
+   "meaning": "chai, lọ, bình",
    "example": "花瓶儿。",
    "exampleMeaning": "Lọ hoa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "píng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

@@ -1,0 +1,318 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "ponder",
+   "meaning": "suy ngẫm, cân nhắc",
+   "example": "to ponder [on] a question",
+   "exampleMeaning": "Suy nghĩ về một vấn đề",
+   "emoji": "",
+   "ipa": "/ˈpɑndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exclusively",
+   "meaning": "chỉ dành riêng, độc quyền",
+   "example": "I add sentences exclusively in my mother tongue.",
+   "exampleMeaning": "Tôi chỉ thêm những câu bằng tiếng mẹ đẻ của mình.",
+   "emoji": "",
+   "ipa": "/ɪkˈsklusɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enduring",
+   "meaning": "lâu dài, bền bỉ, trường tồn",
+   "example": "Let's learn the word \"enduring\".",
+   "exampleMeaning": "Cùng học từ “enduring”: lâu dài, bền bỉ, trường tồn.",
+   "emoji": "",
+   "ipa": "/ɪnˈd(j)ʊər.ɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "observer",
+   "meaning": "người quan sát, quan sát viên",
+   "example": "an observer of the law",
+   "exampleMeaning": "Người dự thính, quan sát viên (hội nghị)",
+   "emoji": "",
+   "ipa": "/əbˈzɜrvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thickly",
+   "meaning": "dày, rậm rạp, lè nhè",
+   "example": "Let's learn the word \"thickly\".",
+   "exampleMeaning": "Cùng học từ “thickly”: dày, rậm rạp, lè nhè.",
+   "emoji": "",
+   "ipa": "/ˈθɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drinkable",
+   "meaning": "uống được",
+   "example": "Let's learn the word \"drinkable\".",
+   "exampleMeaning": "Cùng học từ “drinkable”: uống được.",
+   "emoji": "",
+   "ipa": "/ˈdrɪnkəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "complexion",
+   "meaning": "nước da, sắc mặt",
+   "example": "this great victory changed the complexion of the war",
+   "exampleMeaning": "Thắng lợi lớn này làm thay đổi cục diện của cuộc chiến tranh",
+   "emoji": "",
+   "ipa": "/kəmˈplɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cast",
+   "meaning": "ném, chọn vai, đổ khuôn",
+   "example": "to cast an eye (look, a glance...) at...",
+   "exampleMeaning": "Đưa mắt nhìn",
+   "emoji": "",
+   "ipa": "/ˈkæst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "conductor",
+   "meaning": "nhạc trưởng, người soát vé, chất dẫn",
+   "example": "the conductor of an orchestra",
+   "exampleMeaning": "Người chỉ huy dàn nhạc",
+   "emoji": "",
+   "ipa": "/kənˈdəktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "decoration",
+   "meaning": "đồ trang trí, huân chương",
+   "example": "Let's learn the word \"decoration\".",
+   "exampleMeaning": "Cùng học từ “decoration”: đồ trang trí, huân chương.",
+   "emoji": "",
+   "ipa": "/ˌdɛkɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dreadful",
+   "meaning": "khủng khiếp, tồi tệ",
+   "example": "a dreadful journey",
+   "exampleMeaning": "Một cuộc hành trình mệt mỏi, chán ngấy",
+   "emoji": "",
+   "ipa": "/ˈdrɛdfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "laptop",
+   "meaning": "máy tính xách tay",
+   "example": "My laptop is running Linux.",
+   "exampleMeaning": "Máy tính xách tay của tôi đang chạy Linux.",
+   "emoji": "💻",
+   "ipa": "/ˈlæpˌtɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "distinguished",
+   "meaning": "lỗi lạc, xuất chúng, đáng kính trọng",
+   "example": "The people thought that he was a distinguished scientist.",
+   "exampleMeaning": "Mọi người từng nghĩ rằng anh ta là một nhà khoa học thành công.",
+   "emoji": "",
+   "ipa": "/dɪˈstɪŋɡwɪʃt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "parliament",
+   "meaning": "nghị viện, quốc hội",
+   "example": "He was elected to Parliament in 1970.",
+   "exampleMeaning": "Ông ấy đã được bầu vào Quốc hội vào năm 1970.",
+   "emoji": "",
+   "ipa": "/ˈpɑrləmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tortoiseshell",
+   "meaning": "mai rùa, đồi mồi",
+   "example": "Let's learn the word \"tortoiseshell\".",
+   "exampleMeaning": "Cùng học từ “tortoiseshell”: mai rùa, đồi mồi.",
+   "emoji": "",
+   "ipa": "/tˈɔːtəsʃˌɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "worldly",
+   "meaning": "trần tục, từng trải",
+   "example": "Let's learn the word \"worldly\".",
+   "exampleMeaning": "Cùng học từ “worldly”: trần tục, từng trải.",
+   "emoji": "",
+   "ipa": "/ˈwɜrldli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dilute",
+   "meaning": "pha loãng, làm suy yếu",
+   "example": "to dilute zoal",
+   "exampleMeaning": "Làm giảm nhiệt tình",
+   "emoji": "",
+   "ipa": "/daɪˈlut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "instinct",
+   "meaning": "bản năng, linh cảm",
+   "example": "Instinct is often a poor guide.",
+   "exampleMeaning": "Bản năng thường là một người hướng dẫn tồi.",
+   "emoji": "",
+   "ipa": "/ˈɪnstɪŋkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "olive",
+   "meaning": "quả ô liu, cây ô liu",
+   "example": "Let's learn the word \"olive\".",
+   "exampleMeaning": "Cùng học từ “olive”: quả ô liu, cây ô liu.",
+   "emoji": "🫒",
+   "ipa": "/ˈɑləv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "familiarize",
+   "meaning": "làm quen, làm cho quen",
+   "example": "If I were you, I'd familiarize myself with the rules before diving in.",
+   "exampleMeaning": "Nếu tôi là bạn, tôi sẽ làm quen với các luật lệ trước khi tiến sâu vào.",
+   "emoji": "",
+   "ipa": "/fəˈmɪljɜrˌaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Add",
+    "an",
+    "olive"
+   ],
+   "reading": "",
+   "meaning": "Thêm một quả ô liu đi."
+  },
+  {
+   "tokens": [
+    "The",
+    "die",
+    "is",
+    "cast"
+   ],
+   "reading": "",
+   "meaning": "Bút sa gà chết."
+  },
+  {
+   "tokens": [
+    "This",
+    "laptop",
+    "is",
+    "light"
+   ],
+   "reading": "",
+   "meaning": "Cái laptop này nhẹ phết nhỉ."
+  },
+  {
+   "tokens": [
+    "I",
+    "have",
+    "a",
+    "laptop"
+   ],
+   "reading": "",
+   "meaning": "Tôi có laptop."
+  },
+  {
+   "tokens": [
+    "This",
+    "is",
+    "an",
+    "olive"
+   ],
+   "reading": "",
+   "meaning": "Đây là quả ô liu."
+  }
+ ],
+ "issues": []
+}

@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "洗手间",
-   "meaning": "phòng rửa mặt",
+   "meaning": "nhà vệ sinh",
    "example": "我们来学“洗手间”这个词。",
-   "exampleMeaning": "Cùng học từ “洗手间”: phòng rửa mặt.",
+   "exampleMeaning": "Cùng học từ “洗手间”: nhà vệ sinh.",
    "emoji": "🚽",
    "ipa": "",
    "pinyin": "xǐshǒujiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "下课",
-   "meaning": "tan học",
+   "meaning": "tan học, hết giờ học",
    "example": "我们来学“下课”这个词。",
-   "exampleMeaning": "Cùng học từ “下课”: tan học.",
+   "exampleMeaning": "Cùng học từ “下课”: tan học, hết giờ học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -37,111 +37,111 @@
    "ipa": "",
    "pinyin": "qǐngjià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "米饭",
-   "meaning": "cơm tẻ",
+   "meaning": "cơm",
    "example": "我们来学“米饭”这个词。",
-   "exampleMeaning": "Cùng học từ “米饭”: cơm tẻ.",
+   "exampleMeaning": "Cùng học từ “米饭”: cơm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǐfàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "里边",
-   "meaning": "trong",
+   "meaning": "bên trong",
    "example": "他一年里边没有请过一次假。",
    "exampleMeaning": "Suốt cả năm cậu ấy chẳng xin nghỉ ngày nào cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lǐbian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "外语",
-   "meaning": "tiếng nước ngoài",
+   "meaning": "ngoại ngữ, tiếng nước ngoài",
    "example": "我们来学“外语”这个词。",
-   "exampleMeaning": "Cùng học từ “外语”: tiếng nước ngoài.",
+   "exampleMeaning": "Cùng học từ “外语”: ngoại ngữ, tiếng nước ngoài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wàiyǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "没事儿",
-   "meaning": "thời gian rảnh",
+   "meaning": "không sao, rảnh rỗi",
    "example": "我们来学“没事儿”这个词。",
-   "exampleMeaning": "Cùng học từ “没事儿”: thời gian rảnh.",
+   "exampleMeaning": "Cùng học từ “没事儿”: không sao, rảnh rỗi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "méishìr",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "一块儿",
-   "meaning": "cùng",
+   "meaning": "cùng nhau, cùng",
    "example": "他们一块儿参军。",
    "exampleMeaning": "Họ cùng đi nghĩa vụ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīkuàir",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "书包",
-   "meaning": "túi sách",
+   "meaning": "cặp sách",
    "example": "我们来学“书包”这个词。",
-   "exampleMeaning": "Cùng học từ “书包”: túi sách.",
+   "exampleMeaning": "Cùng học từ “书包”: cặp sách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shūbāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "小学生",
-   "meaning": "học trò nhỏ",
+   "meaning": "học sinh tiểu học",
    "example": "我们来学“小学生”这个词。",
-   "exampleMeaning": "Cùng học từ “小学生”: học trò nhỏ.",
+   "exampleMeaning": "Cùng học từ “小学生”: học sinh tiểu học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎoxuéshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "外边",
-   "meaning": "ngoài",
+   "meaning": "bên ngoài",
    "example": "院子外边新栽了一些树。",
    "exampleMeaning": "Ngoài sân trồng một số cây ăn quả mới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wàibian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,46 +154,46 @@
    "ipa": "",
    "pinyin": "zhōngxuéshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "本子",
-   "meaning": "vở",
+   "meaning": "vở, quyển vở",
    "example": "改本子（评改作业）",
    "exampleMeaning": "Sửa vở bài tập",
    "emoji": "",
    "ipa": "",
    "pinyin": "běnzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "课本",
-   "meaning": "sách giáo khoa, sách học, điển hình",
+   "meaning": "sách giáo khoa",
    "example": "数学课本。",
    "exampleMeaning": "Sách toán.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kèběn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "后边",
-   "meaning": "phía sau",
+   "meaning": "phía sau, đằng sau",
    "example": "我们来学“后边”这个词。",
-   "exampleMeaning": "Cùng học từ “后边”: phía sau.",
+   "exampleMeaning": "Cùng học từ “后边”: phía sau, đằng sau.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hòubian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -206,46 +206,46 @@
    "ipa": "",
    "pinyin": "xībiān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "上边",
-   "meaning": "bên trên",
+   "meaning": "phía trên, bên trên",
    "example": "我们来学“上边”这个词。",
-   "exampleMeaning": "Cùng học từ “上边”: bên trên.",
+   "exampleMeaning": "Cùng học từ “上边”: phía trên, bên trên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàngbian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "打车",
-   "meaning": "bắt xe, gọi xe taxi",
+   "meaning": "bắt taxi, đi taxi",
    "example": "我们来学“打车”这个词。",
-   "exampleMeaning": "Cùng học từ “打车”: bắt xe, gọi xe taxi.",
+   "exampleMeaning": "Cùng học từ “打车”: bắt taxi, đi taxi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dǎchē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "东边",
-   "meaning": "đông",
+   "meaning": "phía đông",
    "example": "我们来学“东边”这个词。",
-   "exampleMeaning": "Cùng học từ “东边”: đông.",
+   "exampleMeaning": "Cùng học từ “东边”: phía đông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dōngbian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "bāozi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

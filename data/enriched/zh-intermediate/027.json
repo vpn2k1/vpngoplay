@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "过度",
-   "meaning": "quá",
+   "meaning": "quá mức, quá độ",
    "example": "过度的睡眠",
    "exampleMeaning": "Quá buồn ngủ",
    "emoji": "",
    "ipa": "",
    "pinyin": "guòdù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "明明",
-   "meaning": "rành rành, một cách rõ ràng, hy vọng",
+   "meaning": "rõ ràng, rõ ràng là",
    "example": "这话明明是她说的，用不着问了。",
    "exampleMeaning": "Câu này rõ ràng là anh ấy nói, không cần hỏi lại nữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "míngmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,33 +37,33 @@
    "ipa": "",
    "pinyin": "qúnzhòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "无疑",
-   "meaning": "không nghi ngờ gì",
+   "meaning": "không nghi ngờ gì, chắc chắn",
    "example": "宇宙毫无疑问是无限的。",
    "exampleMeaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wúyí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "按摩",
-   "meaning": "xoa bóp",
+   "meaning": "mát xa, xoa bóp",
    "example": "我们来学“按摩”这个词。",
-   "exampleMeaning": "Cùng học từ “按摩”: xoa bóp.",
+   "exampleMeaning": "Cùng học từ “按摩”: mát xa, xoa bóp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ànmó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,33 +76,33 @@
    "ipa": "",
    "pinyin": "diànchí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "产业",
-   "meaning": "công nghiệp",
+   "meaning": "ngành sản xuất, sản nghiệp",
    "example": "产业工人。",
    "exampleMeaning": "Công nhân công nghiệp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǎnyè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "敲",
-   "meaning": "đánh, đấm trúng, bắn trúng",
+   "meaning": "gõ",
    "example": "妈，怎么爸爸一批评我，你就敲边鼓！",
    "exampleMeaning": "Mẹ, sao ba vừa phê bình con là mẹ liền đứng bên cổ vũ thế!",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiāo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "",
    "pinyin": "chí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "脾气",
-   "meaning": "nóng nảy",
+   "meaning": "tính khí, nóng tính",
    "example": "她的脾气很好，从来不急躁。",
    "exampleMeaning": "Tính của cô ấy rất hay, chẳng bao giờ nóng nảy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "píqi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "涨",
-   "meaning": "dư ra",
+   "meaning": "tăng, dâng lên, phình ra",
    "example": "他的脸涨得通红。",
    "exampleMeaning": "Mặt anh ấy đỏ gay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,46 +154,46 @@
    "ipa": "",
    "pinyin": "dūn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "广",
-   "meaning": "rộng, rộng lớn",
+   "meaning": "rộng, rộng rãi",
    "example": "我刚到广州时，因不懂广州话，常常闹笑话。",
    "exampleMeaning": "Khi tôi mới đến Quảng Châu, vì không hiểu tiếng Quảng Châu, nên thường làm trò cười cho người khác.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "情形",
-   "meaning": "tình hình",
+   "meaning": "tình hình, hoàn cảnh",
    "example": "村里的情形。",
    "exampleMeaning": "Tình hình của thôn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qíngxing",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "起码",
-   "meaning": "tối thiểu",
+   "meaning": "tối thiểu, ít nhất",
    "example": "我这次出差，起码要一个月才能回来。",
    "exampleMeaning": "Tôi đi công tác lần này, ít nhất một tháng mới quay trở về.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǐmǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "sùshè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "合并",
-   "meaning": "hợp lại",
+   "meaning": "sáp nhập, gộp lại",
    "example": "这三个提议合并讨论。",
    "exampleMeaning": "Ba đề nghị ấy hợp lại làm một mà thảo luận.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hébìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "以往",
-   "meaning": "trước kia",
+   "meaning": "trước đây, ngày trước",
    "example": "这个地方以往是一片荒野。",
    "exampleMeaning": "Vùng này trước kia là một bãi hoang dã.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǐwǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "乡村",
-   "meaning": "nông thôn",
+   "meaning": "nông thôn, làng quê",
    "example": "我们来学“乡村”这个词。",
-   "exampleMeaning": "Cùng học từ “乡村”: nông thôn.",
+   "exampleMeaning": "Cùng học từ “乡村”: nông thôn, làng quê.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiāngcūn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "忍不住",
-   "meaning": "không thể giúp đỡ / không thể chịu đựng",
+   "meaning": "không nhịn được, không kìm được",
    "example": "看到他那可笑的样子，大家忍不住笑了。",
    "exampleMeaning": "Nhìn thấy dáng vẻ buồn cười đó của anh ấy, mọi người không nhịn được mà cười.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rěnbuzhù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

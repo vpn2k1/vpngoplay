@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "家里",
-   "meaning": "chỗ ở, gia đình, tổ ấm",
+   "meaning": "ở nhà, trong nhà",
    "example": "他们不得不整天呆在家里。",
    "exampleMeaning": "Họ đã phải ở trong nhà suốt cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiālǐ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "教",
-   "meaning": "tôn giáo, đạo",
+   "meaning": "dạy",
    "example": "她很擅长英语教学。",
    "exampleMeaning": "Cô ấy dạy tiếng anh rất giỏi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,85 +37,85 @@
    "ipa": "",
    "pinyin": "bùyòng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "读",
-   "meaning": "đọc",
+   "meaning": "đọc, học",
    "example": "灯光太暗了，我没法阅读。",
    "exampleMeaning": "Đèn tối quá, tôi không thể đọc sách.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "忘",
-   "meaning": "quên, không nhớ đến",
+   "meaning": "quên",
    "example": "有一天你会忘了我。",
    "exampleMeaning": "Một ngày nào đó, bạn sẽ quên tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "认真",
-   "meaning": "nghiêm túc",
+   "meaning": "nghiêm túc, chăm chỉ",
    "example": "她哥哥很认真学习。",
    "exampleMeaning": "Anh trai của cô ấy học rất nghiêm túc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rènzhēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "电",
-   "meaning": "điện, điện lực",
+   "meaning": "điện",
    "example": "你看过那部电影吗？",
    "exampleMeaning": "Anh đã xem phim ấy chưa?",
    "emoji": "",
    "ipa": "",
    "pinyin": "diàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "房子",
-   "meaning": "chuồng, nhà ở, căn nhà",
+   "meaning": "nhà, căn nhà",
    "example": "我看见了马库斯的房子。",
    "exampleMeaning": "Tôi đã thấy nhà của Marcus.",
    "emoji": "🏠",
    "ipa": "",
    "pinyin": "fángzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "冷",
-   "meaning": "lạnh, lạnh lẽo, nguội",
+   "meaning": "lạnh",
    "example": "瑪莉跟我說感覺冷。",
    "exampleMeaning": "Mary nói với tôi rằng cô ấy cảm thấy lạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lěng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,20 +128,20 @@
    "ipa": "",
    "pinyin": "shān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "常",
-   "meaning": "thường, hay, luôn",
+   "meaning": "thường",
    "example": "她非常周到和耐心。",
    "exampleMeaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cháng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,20 +154,20 @@
    "ipa": "",
    "pinyin": "fēijī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "早上",
-   "meaning": "sáng sớm",
+   "meaning": "buổi sáng, sáng sớm",
    "example": "我每天早上到公园里遛狗。",
    "exampleMeaning": "Sáng nào tôi cũng dắt chó đi dạo tại công viên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zǎoshang",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -180,85 +180,85 @@
    "ipa": "",
    "pinyin": "huídá",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "记",
-   "meaning": "ký",
+   "meaning": "nhớ, ghi lại",
    "example": "我永远记得那件事。",
    "exampleMeaning": "Tôi nhớ mãi việc ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "关",
-   "meaning": "cửa ải",
+   "meaning": "đóng, tắt",
    "example": "不关我的事。",
    "exampleMeaning": "Không phải chuyện của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guān",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "哥",
-   "meaning": "anh",
+   "meaning": "anh, anh trai",
    "example": "送哥参军",
    "exampleMeaning": "Tiễn chồng đi lính",
    "emoji": "",
    "ipa": "",
    "pinyin": "gē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "爸",
-   "meaning": "ba, cha, bố",
+   "meaning": "bố, ba",
    "example": "据说他爸爸在外国去世了。",
    "exampleMeaning": "Người ta nói cha ông ấy mất ở nước ngoài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "风",
-   "meaning": "tin, tin tức",
+   "meaning": "gió",
    "example": "局长对我们一风吹的做法提出了批评。",
    "exampleMeaning": "Việc cục trưởng bỏ qua tất cả cho chúng tôi đã gây ra sự phê bình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fēng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回去",
-   "meaning": "trả lại",
+   "meaning": "quay về, đi về",
    "example": "把这支笔给他送回去。",
    "exampleMeaning": "Đem cây viết này trả lại cho anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huíqu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "呆",
-   "meaning": "trơ mặt ra",
+   "meaning": "đờ đẫn, ngây ra, ở lại",
    "example": "他们不得不整天呆在家里。",
    "exampleMeaning": "Họ đã phải ở trong nhà suốt cả ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dāi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,33 +24,33 @@
    "ipa": "",
    "pinyin": "guǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "版",
-   "meaning": "trang",
+   "meaning": "phiên bản, bản in",
    "example": "昨天你买了一本新出版的越南词典，是吗？",
    "exampleMeaning": "Hôm qua anh mua được một quyển từ điển mới xuất bản phải không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "协议",
-   "meaning": "thoả thuận (đạt được sau đàm phán)",
+   "meaning": "thoả thuận, hiệp nghị",
    "example": "双方协议，提高收购价格。",
    "exampleMeaning": "Hai bên thương lượng với nhau nâng giá thu mua.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiéyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,20 +63,20 @@
    "ipa": "",
    "pinyin": "jìngzhēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "估计",
-   "meaning": "đoán",
+   "meaning": "ước tính, có lẽ",
    "example": "最近几天估计不会下雨。",
    "exampleMeaning": "Dự đoán mấy ngày gần đây trời sẽ không mưa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gūjì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "",
    "pinyin": "yìwèizhe",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,46 +102,46 @@
    "ipa": "",
    "pinyin": "jùlèbù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "之中",
-   "meaning": "ở giữa",
+   "meaning": "trong số, giữa",
    "example": "我们来学“之中”这个词。",
-   "exampleMeaning": "Cùng học từ “之中”: ở giữa.",
+   "exampleMeaning": "Cùng học từ “之中”: trong số, giữa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīzhōng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "建筑",
-   "meaning": "kiến trúc",
+   "meaning": "xây dựng, công trình kiến trúc",
    "example": "这座礼堂建筑得非常坚固。",
    "exampleMeaning": "Hội trường này được xây dựng rất kiên cố.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiànzhù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "丢",
-   "meaning": "bỏ",
+   "meaning": "đánh mất, vứt",
    "example": "技术丢久了就生疏了。",
    "exampleMeaning": "Kỹ thuật bỏ lâu rồi thì hơi thiếu kinh nghiệm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "diū",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -154,72 +154,72 @@
    "ipa": "",
    "pinyin": "fēngkuáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "幅",
-   "meaning": "khổ (vải vóc)",
+   "meaning": "bức, tấm (lượng từ)",
    "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
    "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "舞",
-   "meaning": "múa",
+   "meaning": "múa, điệu múa",
    "example": "跳了一个舞。",
    "exampleMeaning": "Múa một điệu múa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "邀请",
-   "meaning": "mời",
+   "meaning": "mời, lời mời",
    "example": "我会拒绝他吃晚饭的邀请。",
    "exampleMeaning": "Tôi từ chối lời mời cơm tối của anh ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yāoqǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "加上",
-   "meaning": "cộng / để đưa vào / thêm / thêm vào / thêm vào / thêm vào / trên đó",
+   "meaning": "thêm vào, cộng thêm",
    "example": "我们来学“加上”这个词。",
-   "exampleMeaning": "Cùng học từ “加上”: cộng / để đưa vào / thêm / thêm vào / thêm vào / thêm vào / trên đó.",
+   "exampleMeaning": "Cùng học từ “加上”: thêm vào, cộng thêm.",
    "emoji": "➕",
    "ipa": "",
    "pinyin": "jiāshàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "拍摄",
-   "meaning": "quay phim",
+   "meaning": "quay phim, chụp",
    "example": "我们来学“拍摄”这个词。",
-   "exampleMeaning": "Cùng học từ “拍摄”: quay phim.",
+   "exampleMeaning": "Cùng học từ “拍摄”: quay phim, chụp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pāishè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -232,33 +232,33 @@
    "ipa": "",
    "pinyin": "qūyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "愿",
-   "meaning": "muốn, mong, hy vọng",
+   "meaning": "mong muốn, bằng lòng",
    "example": "所以别人都不愿意和你合作。",
    "exampleMeaning": "Vì vậy họ đều không muốn hợp tác với anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yuàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "恨",
-   "meaning": "hận",
+   "meaning": "hận, căm ghét",
    "example": "我們是相見恨晚。",
    "exampleMeaning": "Chúng ta gặp nhau quá muộn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hèn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

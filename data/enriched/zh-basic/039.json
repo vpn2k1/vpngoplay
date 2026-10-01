@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "收到",
-   "meaning": "nhận, lĩnh, thu",
+   "meaning": "nhận được",
    "example": "昨天，我收到一封用英语写的信。",
    "exampleMeaning": "Hôm qua, tôi có nhận một bức thư viết bằng tiếng Anh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shōudào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "够",
-   "meaning": "với",
+   "meaning": "đủ",
    "example": "她经受得够多了。",
    "exampleMeaning": "Nó đã trải qua rất nhiều chuyện rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gòu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "正是",
-   "meaning": "nhấn mạnh rằng cái gì đó chính xác hoặc chính xác như đã nêu",
+   "meaning": "chính là",
    "example": "我们来学“正是”这个词。",
-   "exampleMeaning": "Cùng học từ “正是”: nhấn mạnh rằng cái gì đó chính xác hoặc chính xác như đã nêu.",
+   "exampleMeaning": "Cùng học từ “正是”: chính là.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèngshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "方向",
-   "meaning": "phía",
+   "meaning": "phương hướng, hướng",
    "example": "军队朝渡口的方向行进。",
    "exampleMeaning": "Quân đội tiến về phía bến đò.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fāngxiàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "排",
-   "meaning": "hàng, dãy nhà phố, dây thép",
+   "meaning": "hàng, xếp",
    "example": "明天你有什么安排没有？",
    "exampleMeaning": "Mai bạn có dự định gì không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "pái",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "",
    "pinyin": "yú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,85 +89,85 @@
    "ipa": "",
    "pinyin": "guānxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "节",
-   "meaning": "tiết",
+   "meaning": "ngày lễ, tiết",
    "example": "下一个节假日正好是周日。",
    "exampleMeaning": "Kỳ nghỉ tới rơi đúng vào ngày chủ nhật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jié",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "留下",
-   "meaning": "để lại, lưu lại, ghi lại",
+   "meaning": "để lại, ở lại",
    "example": "我们来学“留下”这个词。",
-   "exampleMeaning": "Cùng học từ “留下”: để lại, lưu lại, ghi lại.",
+   "exampleMeaning": "Cùng học từ “留下”: để lại, ở lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liúxià",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "教育",
-   "meaning": "dạy dỗ",
+   "meaning": "giáo dục",
    "example": "说服教育。",
    "exampleMeaning": "Thuyết phục, dạy dỗ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàoyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "日子",
-   "meaning": "ngày",
+   "meaning": "ngày, cuộc sống",
    "example": "这个日子好容易盼到了。",
    "exampleMeaning": "Mong mãi mới có ngày hôm nay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rìzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "取",
-   "meaning": "lấy",
+   "meaning": "lấy, rút (tiền)",
    "example": "我取得了众多可观的成就。",
    "exampleMeaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "层",
-   "meaning": "lớp",
+   "meaning": "tầng, lớp",
    "example": "去了一层顾虑。",
    "exampleMeaning": "Bớt đi một việc lo âu",
    "emoji": "",
    "ipa": "",
    "pinyin": "céng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,33 +180,33 @@
    "ipa": "",
    "pinyin": "xīnli",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "腿",
-   "meaning": "chân",
+   "meaning": "chân, cẳng chân",
    "example": "云腿(云南火腿)。",
    "exampleMeaning": "Chân giò hun khói Vân Nam",
    "emoji": "",
    "ipa": "",
    "pinyin": "tuǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "全国",
-   "meaning": "toàn quốc",
+   "meaning": "toàn quốc, cả nước",
    "example": "我们来学“全国”这个词。",
-   "exampleMeaning": "Cùng học từ “全国”: toàn quốc.",
+   "exampleMeaning": "Cùng học từ “全国”: toàn quốc, cả nước.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quánguó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "jiē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "笔",
-   "meaning": "bút, ngòi bút",
+   "meaning": "bút",
    "example": "一枝笔。",
    "exampleMeaning": "Một cây bút",
    "emoji": "🖊",
    "ipa": "",
    "pinyin": "bǐ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "通知",
-   "meaning": "báo, khai báo",
+   "meaning": "thông báo",
    "example": "我认为这个消息应该通知大家。",
    "exampleMeaning": "Tôi thấy tin đó nên báo cho mọi người biết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tōngzhī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "鞋",
-   "meaning": "giầy",
+   "meaning": "giày",
    "example": "她进屋前擦了鞋。",
    "exampleMeaning": "Trước khi vào nhà, cô ấy đã cọ giày của mình cho sạch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xié",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

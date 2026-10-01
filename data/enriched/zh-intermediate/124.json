@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "恐惧",
-   "meaning": "sợ hãi",
+   "meaning": "sợ hãi, nỗi sợ",
    "example": "恐惧不安。",
    "exampleMeaning": "Sợ hãi không yên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǒngjù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "砍",
-   "meaning": "giảm, cắt, chặt",
+   "meaning": "chặt, chém, cắt giảm",
    "example": "从计划中砍去一些项目。",
    "exampleMeaning": "Cắt đi một số hạng mục ở trong kế hoạch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "完毕",
-   "meaning": "hoàn tất",
+   "meaning": "xong, hoàn tất",
    "example": "操练完毕。",
    "exampleMeaning": "Thao luyện hoàn tất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wánbì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "扯",
-   "meaning": "xé, làm rách",
+   "meaning": "kéo, xé, tán dóc",
    "example": "没等他说完扯着他就走。",
    "exampleMeaning": "Không đợi nó nói xong thì đã lôi nó đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chě",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -63,124 +63,124 @@
    "ipa": "",
    "pinyin": "jiānyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "孤单",
-   "meaning": "cô đơn",
+   "meaning": "cô đơn, lẻ loi",
    "example": "他一个人生活很孤单。",
    "exampleMeaning": "Cuộc sống của anh ấy rất cô đơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gūdān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "房地产",
-   "meaning": "tài sản nhà đất",
+   "meaning": "bất động sản",
    "example": "我们来学“房地产”这个词。",
-   "exampleMeaning": "Cùng học từ “房地产”: tài sản nhà đất.",
+   "exampleMeaning": "Cùng học từ “房地产”: bất động sản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fángdìchǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "能源",
-   "meaning": "nguồn năng lượng",
+   "meaning": "năng lượng, nguồn năng lượng",
    "example": "我们来学“能源”这个词。",
-   "exampleMeaning": "Cùng học từ “能源”: nguồn năng lượng.",
+   "exampleMeaning": "Cùng học từ “能源”: năng lượng, nguồn năng lượng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "néngyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "持",
-   "meaning": "giằng co",
+   "meaning": "cầm, giữ, duy trì",
    "example": "在企业整顿中，要坚持高标准，严要求，防止走过场。",
    "exampleMeaning": "Trong lúc doanh nghiệp đang tổ chức lại, phải kiên trì với tiêu chuẩn cao, yêu cầu nghiêm ngặt, ngăn chặn việc làm chiếu lệ hời hợt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "保障",
-   "meaning": "bảo vệ",
+   "meaning": "bảo đảm, bảo vệ",
    "example": "保障人民的生命财产。",
    "exampleMeaning": "Bảo vệ sinh mạng và tài sản của nhân dân",
    "emoji": "",
    "ipa": "",
    "pinyin": "bǎozhàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "吼",
-   "meaning": "la, thét, rít",
+   "meaning": "gầm, hét",
    "example": "汽笛长吼了一声。",
    "exampleMeaning": "Còi kéo một hồi dài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǒu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "汁",
-   "meaning": "nước ép (của quả, thịt, rau)",
+   "meaning": "nước ép, nước cốt",
    "example": "墨汁儿。",
    "exampleMeaning": "Mực nước",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "皆",
-   "meaning": "đều",
+   "meaning": "đều (văn viết)",
    "example": "放之四海而皆准。",
    "exampleMeaning": "Đặt ở nơi nào cũng đúng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiē",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "善",
-   "meaning": "thân thiện",
+   "meaning": "thiện, giỏi, tốt",
    "example": "善有善报，恶有恶报。",
    "exampleMeaning": "Gậy ông đập lưng ông.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,20 +193,20 @@
    "ipa": "",
    "pinyin": "dāngshìrén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "开口",
-   "meaning": "mở miệng",
+   "meaning": "mở miệng, lên tiếng",
    "example": "没等我开口，他就抢先替我说了。",
    "exampleMeaning": "Không đợi tôi mở miệng, anh ấy dành nói thay tôi trước rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kāikǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "wēnróu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "恶",
-   "meaning": "xấu, ác, có hại",
+   "meaning": "ác, xấu, hung dữ",
    "example": "恶，是何言也。(啊，这是什么话。)",
    "exampleMeaning": "Ôi, nói gì lạ vậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "è",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "伴",
-   "meaning": "người cùng chung phần",
+   "meaning": "bạn đồng hành, bầu bạn",
    "example": "我们来学“伴”这个词。",
-   "exampleMeaning": "Cùng học từ “伴”: người cùng chung phần.",
+   "exampleMeaning": "Cùng học từ “伴”: bạn đồng hành, bầu bạn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "抛",
-   "meaning": "quẳng lên, ném lên, tung",
+   "meaning": "ném, tung, vứt bỏ",
    "example": "抛砖引玉。",
    "exampleMeaning": "Tung ra hòn gạch, kéo viên ngọc về; thả con tép bắt con tôm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pāo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

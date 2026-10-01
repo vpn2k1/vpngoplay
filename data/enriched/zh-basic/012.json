@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "电视",
-   "meaning": "truyền hình",
+   "meaning": "tivi, truyền hình",
    "example": "不要再调大电视的声音了。",
    "exampleMeaning": "Đừng bật to tiếng TV nữa.",
    "emoji": "📺",
    "ipa": "",
    "pinyin": "diànshì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "fēi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "jièshào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -50,72 +50,72 @@
    "ipa": "",
    "pinyin": "xiàwǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "出去",
-   "meaning": "ra",
+   "meaning": "ra ngoài, đi ra ngoài",
    "example": "有谁来找我，你就说我出去了。",
    "exampleMeaning": "Có ai đến tìm tôi thì anh bảo tôi đi vắng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chūqù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "学习",
-   "meaning": "học",
+   "meaning": "học, học tập",
    "example": "我们努力向你们学习。",
    "exampleMeaning": "Chúng tôi cố gắng học tập các đồng chí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xuéxí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "老师",
-   "meaning": "thầy cô giáo",
+   "meaning": "thầy giáo, cô giáo, giáo viên",
    "example": "我们应该同事好好合作，不要老师给人家出难题。",
    "exampleMeaning": "Chúng ta nên hợp tác tốt với đồng nghiệp, đừng suốt ngày làm khó người ta.",
    "emoji": "🧑‍🏫",
    "ipa": "",
    "pinyin": "lǎoshī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "六",
-   "meaning": "số sáu",
+   "meaning": "sáu",
    "example": "星期六你們上體育課。",
    "exampleMeaning": "Thứ bảy các cậu sẽ học lớp thể dục.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liù",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "唱",
-   "meaning": "hát, ca hát",
+   "meaning": "hát",
    "example": "你喜欢唱歌吗？",
    "exampleMeaning": "Bạn thích hát không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "chàng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -128,20 +128,20 @@
    "ipa": "",
    "pinyin": "dàxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "病",
-   "meaning": "bệnh",
+   "meaning": "bệnh, ốm",
    "example": "你病了，该休息了。",
    "exampleMeaning": "Bạn bị ốm rồi, nghỉ ngơi cho nhiều đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,46 +154,46 @@
    "ipa": "",
    "pinyin": "yīshēng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "名字",
-   "meaning": "tên (người)",
+   "meaning": "tên",
    "example": "我们来学“名字”这个词。",
-   "exampleMeaning": "Cùng học từ “名字”: tên (người).",
+   "exampleMeaning": "Cùng học từ “名字”: tên.",
    "emoji": "",
    "ipa": "",
    "pinyin": "míngzi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "她们",
-   "meaning": "họ",
+   "meaning": "các cô ấy, họ (nữ)",
    "example": "我们来学“她们”这个词。",
-   "exampleMeaning": "Cùng học từ “她们”: họ.",
+   "exampleMeaning": "Cùng học từ “她们”: các cô ấy, họ (nữ).",
    "emoji": "",
    "ipa": "",
    "pinyin": "tāmen",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "马上",
-   "meaning": "ngay",
+   "meaning": "ngay, lập tức",
    "example": "不立即解决，那桩事会马上告吹的。",
    "exampleMeaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǎshàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,7 +206,7 @@
    "ipa": "",
    "pinyin": "jīnnián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,46 +219,46 @@
    "ipa": "",
    "pinyin": "shǒujī",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "忙",
-   "meaning": "bận rộn, bận",
+   "meaning": "bận",
    "example": "你忙，我自己干也行。",
    "exampleMeaning": "Anh bận, tôi tự mình làm lấy cũng được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "máng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "十",
-   "meaning": "mười, chục",
+   "meaning": "mười",
    "example": "他對日本的歷史十分有興趣。",
    "exampleMeaning": "Anh ấy cực kì quan tâm tới lịch sử Nhật Bản.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shí",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "看见",
-   "meaning": "thấy",
+   "meaning": "nhìn thấy, thấy",
    "example": "我看见了马库斯的房子。",
    "exampleMeaning": "Tôi đã thấy nhà của Marcus.",
    "emoji": "",
    "ipa": "",
    "pinyin": "kànjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

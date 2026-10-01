@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "瞧",
-   "meaning": "nhìn",
+   "meaning": "nhìn, xem",
    "example": "他瞧亲戚去了。",
    "exampleMeaning": "Anh ấy đi thăm họ hàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiáo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "搜索",
-   "meaning": "lùng tìm",
+   "meaning": "tìm kiếm",
    "example": "搜索残敌。",
    "exampleMeaning": "Lùng tìm tàn quân địch.",
    "emoji": "",
    "ipa": "",
    "pinyin": "sōusuǒ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "wèi",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "chúfáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "之内",
-   "meaning": "bên trong, trong vòng, trong khoảng",
+   "meaning": "trong vòng, bên trong",
    "example": "我们来学“之内”这个词。",
-   "exampleMeaning": "Cùng học từ “之内”: bên trong, trong vòng, trong khoảng.",
+   "exampleMeaning": "Cùng học từ “之内”: trong vòng, bên trong.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhīnèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,189 +76,189 @@
    "ipa": "",
    "pinyin": "zhùcè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "厅",
-   "meaning": "ty",
+   "meaning": "sảnh, phòng khách",
    "example": "办公厅",
    "exampleMeaning": "Văn phòng",
    "emoji": "",
    "ipa": "",
    "pinyin": "tīng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "随着",
-   "meaning": "cùng với, khi, trong trào lưu với",
+   "meaning": "cùng với, theo",
    "example": "我无奈只得跟随着她。",
    "exampleMeaning": "Tôi chẳng biết phải làm sao, đành phải theo cô ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "suízhe",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回报",
-   "meaning": "báo thù",
+   "meaning": "đền đáp, lợi nhuận thu về",
    "example": "做好事不图回报。",
    "exampleMeaning": "Làm việc tốt không cần báo đáp",
    "emoji": "",
    "ipa": "",
    "pinyin": "huíbào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "展现",
-   "meaning": "hiện ra",
+   "meaning": "thể hiện, bày ra",
    "example": "走进大门，展现在眼前的是一个宽广的庭院。",
    "exampleMeaning": "Đi vào cửa chính, trước mắt hiện ra một khoảng sân rộng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǎnxiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "评估",
-   "meaning": "thẩm định",
+   "meaning": "đánh giá",
    "example": "我们来学“评估”这个词。",
-   "exampleMeaning": "Cùng học từ “评估”: thẩm định.",
+   "exampleMeaning": "Cùng học từ “评估”: đánh giá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "pínggū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "全都",
-   "meaning": "đều",
+   "meaning": "tất cả, đều",
    "example": "去年种的树全都活了。",
    "exampleMeaning": "Cây trồng năm ngoái đều sống cả.",
    "emoji": "",
    "ipa": "",
    "pinyin": "quándōu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "环节",
-   "meaning": "khâu",
+   "meaning": "khâu, mắt xích",
    "example": "主要环节",
    "exampleMeaning": "Khâu quan trọng",
    "emoji": "",
    "ipa": "",
    "pinyin": "huánjié",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "餐厅",
-   "meaning": "phòng ăn",
+   "meaning": "nhà hàng, phòng ăn",
    "example": "我们来学“餐厅”这个词。",
-   "exampleMeaning": "Cùng học từ “餐厅”: phòng ăn.",
+   "exampleMeaning": "Cùng học từ “餐厅”: nhà hàng, phòng ăn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cāntīng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "违反",
-   "meaning": "vi phạm (phép tắc, quy trình...), vi phạm, xâm phạm",
+   "meaning": "vi phạm",
    "example": "违反社会发展规律。",
    "exampleMeaning": "Trái với quy luật phát triển xã hội",
    "emoji": "",
    "ipa": "",
    "pinyin": "wéifǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "活力",
-   "meaning": "sức sống",
+   "meaning": "sức sống, sinh lực",
    "example": "身上充满了青春的活力。",
    "exampleMeaning": "Cơ thể tràn trề sức sống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huólì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "委托",
-   "meaning": "nhờ",
+   "meaning": "uỷ thác, nhờ",
    "example": "这件事就委托你了。",
    "exampleMeaning": "Việc này phải nhờ anh thôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wěituō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "软",
-   "meaning": "mềm, dẻo, dễ uốn",
+   "meaning": "mềm, yếu",
    "example": "软话说得很。",
    "exampleMeaning": "Nói năng nhẹ nhàng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ruǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "签名",
-   "meaning": "ký tên",
+   "meaning": "ký tên, chữ ký",
    "example": "我们来学“签名”这个词。",
-   "exampleMeaning": "Cùng học từ “签名”: ký tên.",
+   "exampleMeaning": "Cùng học từ “签名”: ký tên, chữ ký.",
    "emoji": "",
    "ipa": "",
    "pinyin": "qiānmíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "摄影",
-   "meaning": "chụp ảnh",
+   "meaning": "nhiếp ảnh, chụp ảnh",
    "example": "我们来学“摄影”这个词。",
-   "exampleMeaning": "Cùng học từ “摄影”: chụp ảnh.",
+   "exampleMeaning": "Cùng học từ “摄影”: nhiếp ảnh, chụp ảnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shèyǐng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

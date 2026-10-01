@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "mine",
-   "meaning": "của tôi",
+   "meaning": "của tôi (đại từ)",
    "example": "This mine is mine.",
    "exampleMeaning": "Khu mỏ này là của tôi.",
    "emoji": "",
    "ipa": "/maɪ̯n/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "fish",
-   "meaning": "cá",
+   "meaning": "con cá, cá",
    "example": "to fish something out of water",
    "exampleMeaning": "Kéo cái gì từ dưới nước lên",
    "emoji": "🐟",
    "ipa": "/fɪʃ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "stone",
-   "meaning": "đá",
+   "meaning": "đá, hòn đá",
    "example": "He cast a stone into the pond.",
    "exampleMeaning": "Nó ném hòn đá xuống hồ",
    "emoji": "",
    "ipa": "/stəʊn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,59 +50,59 @@
    "ipa": "/ˈni/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "false",
-   "meaning": "sai, nhầm",
+   "meaning": "sai, giả",
    "example": "to play someone false",
    "exampleMeaning": "Lừa ai, phản ai",
    "emoji": "",
    "ipa": "/fɔːls/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "chocolate",
-   "meaning": "socola",
+   "meaning": "sô-cô-la",
    "example": "Who wants some hot chocolate?",
    "exampleMeaning": "Ai muốn 1 chút socola nóng không",
    "emoji": "",
    "ipa": "/ˈtʃɔklət/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "copy",
-   "meaning": "sao lại, chép lại",
+   "meaning": "bản sao, bản chép",
    "example": "To make a copy of a deed.",
    "exampleMeaning": "Sao một chứng từ.",
    "emoji": "",
    "ipa": "/ˈkɒpi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "bring",
-   "meaning": "mang",
+   "meaning": "mang đến, đem theo",
    "example": "bring the matter forward at the next meeting!",
    "exampleMeaning": "Cuộc họp sau đưa vấn đề đó ra",
    "emoji": "",
    "ipa": "/ˈbrɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
@@ -115,20 +115,20 @@
    "ipa": "/ˈswɪmɪŋ ˌpuːl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "fan",
-   "meaning": "quạt (thóc... )",
+   "meaning": "quạt, người hâm mộ",
    "example": "Tim is a huge fan of satirical comedy.",
    "exampleMeaning": "Tim rất thích truyện cười mỉa mai.",
    "emoji": "",
    "ipa": "/ˈfæn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,7 +141,7 @@
    "ipa": "/ˈθri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -154,7 +154,7 @@
    "ipa": "/ˈfɑrənɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,98 +167,98 @@
    "ipa": "/ˌɪn.fə.ˈmeɪ.ʃən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "leaf",
-   "meaning": "lá",
+   "meaning": "lá, chiếc lá",
    "example": "He used the banana leaf as a cover from the heat of the sun.",
    "exampleMeaning": "Anh ấy đã dùng lá chuối để che đi cái nóng của mặt trời.",
    "emoji": "",
    "ipa": "/ˈlif/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "sport",
-   "meaning": "thể thao",
+   "meaning": "thể thao, môn thể thao",
    "example": "You're such a sport!",
    "exampleMeaning": "Anh thật thẳng thắn!",
    "emoji": "",
    "ipa": "/ˈspɔrt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "out",
-   "meaning": "ra",
+   "meaning": "ra, ra ngoài, vắng nhà",
    "example": "have you read it out?",
    "exampleMeaning": "Anh ta đã đọc hết cuốn sách đó chưa?",
    "emoji": "",
    "ipa": "/ˈaʊt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "street",
-   "meaning": "phố, đường phố",
+   "meaning": "đường phố, phố",
    "example": "What street is this?",
    "exampleMeaning": "Đây là đường gì?",
    "emoji": "",
    "ipa": "/ˈstrit/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "tooth",
-   "meaning": "răng",
+   "meaning": "răng, cái răng",
    "example": "My tooth is chipped.",
    "exampleMeaning": "Răng tôi bị sứt.",
    "emoji": "🦷",
    "ipa": "/ˈtuːθ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "boring",
-   "meaning": "buồn tẻ, nhàm chán, nhạt nhẽo",
+   "meaning": "nhàm chán, buồn tẻ",
    "example": "The movie was boring so I slept.",
    "exampleMeaning": "Bộ phim tẻ nhạt quá nên tôi đã ngủ thiếp đi.",
    "emoji": "",
    "ipa": "/ˈbɔrɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "machine",
-   "meaning": "máy",
+   "meaning": "máy, máy móc",
    "example": "Who can operate this machine?",
    "exampleMeaning": "Ai có thể vận hành cái máy này?",
    "emoji": "",
    "ipa": "/məˈʃin/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

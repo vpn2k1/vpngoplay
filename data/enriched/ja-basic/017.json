@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "六つ",
-   "meaning": "sáu (thứ nhỏ)",
+   "meaning": "sáu cái (đếm đồ vật)",
    "example": "「六つ」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “六つ”: sáu (thứ nhỏ).",
+   "exampleMeaning": "Cùng nhớ từ “六つ”: sáu cái (đếm đồ vật).",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,7 +24,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,7 +37,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,46 +50,46 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "どの",
-   "meaning": "cô",
+   "meaning": "nào",
    "example": "どの科目が一番好きですか。",
    "exampleMeaning": "Bạn thích môn học nào nhất?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "青い",
-   "meaning": "xanh, lam",
+   "meaning": "xanh, xanh dương",
    "example": "アメリカの警官は青い制服を着ている。",
    "exampleMeaning": "Cảnh sát Mỹ mặc đồng phục màu xanh da trời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "国",
-   "meaning": "nước, quốc gia",
+   "meaning": "nước, quốc gia, quê hương",
    "example": "私は中国が好きです。",
    "exampleMeaning": "Tôi thích Trung Quốc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,59 +102,59 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "かかる",
-   "meaning": "băng qua, bắc qua (một con sông)",
+   "meaning": "mất (thời gian), tốn",
    "example": "裁判はお金がかかる。",
    "exampleMeaning": "Công lý rất đắt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "とても",
-   "meaning": "vô cùng, hết sức",
+   "meaning": "rất, vô cùng",
    "example": "今朝はとても寒い。",
    "exampleMeaning": "Sáng nay rất lạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "黒い",
-   "meaning": "đen",
+   "meaning": "đen, tối",
    "example": "この黒い箱に砂糖がたくさんある。",
    "exampleMeaning": "Có rất nhiều đường trong cái hộp màu đen này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "辛い",
-   "meaning": "muối",
+   "meaning": "cay, mặn",
    "example": "「辛い」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “辛い”: muối.",
+   "exampleMeaning": "Cùng nhớ từ “辛い”: cay, mặn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -167,20 +167,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "洗う",
-   "meaning": "rửa",
+   "meaning": "rửa, gội",
    "example": "毎日、髪の毛は洗うよ。",
    "exampleMeaning": "Mỗi ngày tôi đều gội đầu đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,33 +206,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "建物",
-   "meaning": "kiến trúc",
+   "meaning": "tòa nhà, công trình",
    "example": "この建物は石で出来ている。",
    "exampleMeaning": "Tòa nhà này được xây bằng đá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "難しい",
-   "meaning": "khó, khó khăn, gay go",
+   "meaning": "khó, khó khăn",
    "example": "彼はいささか気難しい。",
    "exampleMeaning": "Anh ấy khá là khó tính.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "三つ",
-   "meaning": "ba",
+   "meaning": "ba cái (đếm đồ vật)",
    "example": "彼の作品については、この三つの言葉に尽きる。",
    "exampleMeaning": "Tác phẩm của ông ấy có thể được tóm lại trong ba từ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

@@ -4,92 +4,92 @@
  "words": [
   {
    "term": "箸",
-   "meaning": "đũa (để và thức ăn)",
+   "meaning": "đũa",
    "example": "箸の正しい持ち方って知ってる？",
    "exampleMeaning": "Bạn có biết cách cầm đũa đúng cách không?",
    "emoji": "🥢",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ノート",
-   "meaning": "sổ tay, sổ ghi chép",
+   "meaning": "vở, sổ ghi chép",
    "example": "このノートパソコン軽いなぁ。",
    "exampleMeaning": "Cái laptop này nhẹ phết nhỉ.",
    "emoji": "📓",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "スカート",
-   "meaning": "váy",
+   "meaning": "váy, chân váy",
    "example": "彼女は短いスカートが好きだ。",
    "exampleMeaning": "Cô ấy thích váy ngắn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "一人",
-   "meaning": "một tên dành cho nữ",
+   "meaning": "một người, một mình",
    "example": "今日、一人で来たの？",
    "exampleMeaning": "Hôm nay bạn đến một mình à?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "こんな",
-   "meaning": "như loại đó, thật là, quả là",
+   "meaning": "như thế này",
    "example": "こんな試合見たことないよ。",
    "exampleMeaning": "Tôi chưa từng xem trận đấu nào như thế này đâu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "横",
-   "meaning": "bên, bên cạnh",
+   "meaning": "bên cạnh, chiều ngang",
    "example": "トムは通りを横切った。",
    "exampleMeaning": "Tom đi qua đường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "結婚",
-   "meaning": "sự cưới xin, sự kết hôn, hôn nhân",
+   "meaning": "kết hôn, cưới",
    "example": "彼女と結婚したいんだ。",
    "exampleMeaning": "Tôi muốn kết hôn với cô ấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,137 +102,137 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "作文",
-   "meaning": "sự làm thử",
+   "meaning": "bài văn, tập làm văn",
    "example": "俺学校時代作文本当苦手だった。",
    "exampleMeaning": "Hồi còn đi học, tớ viết văn kém lắm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ズボン",
-   "meaning": "quần Âu",
+   "meaning": "quần, quần dài",
    "example": "俺のズボンから手を放せよ。",
    "exampleMeaning": "Bỏ tay mày ra khỏi quần tao đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "伯父",
-   "meaning": "chú",
+   "meaning": "chú, bác trai, cậu",
    "example": "私の伯父はフィンランドへ行ったことがあります。",
    "exampleMeaning": "Chú tôi đã từng đi đến Phần Lan.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "忘れる",
-   "meaning": "quên, không nhớ đến",
+   "meaning": "quên",
    "example": "火を消すのを忘れるな。",
    "exampleMeaning": "Đừng quên dập lửa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "では",
-   "meaning": "tốt, giỏi, hay",
+   "meaning": "vậy thì, thế thì",
    "example": "図書室ではしゃべるな。",
    "exampleMeaning": "Không được nói chuyện ở phòng đọc sách ở thư viện.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "一つ",
-   "meaning": "một",
+   "meaning": "một cái (đếm đồ vật)",
    "example": "例を一つ示してください。",
    "exampleMeaning": "Hãy cho tôi một ví dụ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "町",
-   "meaning": "thành phố, thị xã",
+   "meaning": "thị trấn, khu phố",
    "example": "彼らはこの町に住んでいる。",
    "exampleMeaning": "Họ sống trong thị trấn này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "平仮名",
-   "meaning": "hiragana",
+   "meaning": "chữ hiragana",
    "example": "「平仮名」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “平仮名”: hiragana.",
+   "exampleMeaning": "Cùng nhớ từ “平仮名”: chữ hiragana.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "前",
-   "meaning": "trước, đằng trước",
+   "meaning": "trước, phía trước",
    "example": "セーター後ろ前だよ。",
    "exampleMeaning": "Bạn đang mặc ngược cái áo len kìa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "吸う",
-   "meaning": "mút, bú, hút",
+   "meaning": "hút, hít",
    "example": "父はタバコを吸うのをやめた。",
    "exampleMeaning": "Bố tôi đã bỏ thuốc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -245,20 +245,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "いくつ",
-   "meaning": "bao nhiêu",
+   "meaning": "mấy cái, mấy tuổi, bao nhiêu",
    "example": "１０引く６はいくつですか。",
    "exampleMeaning": "10 trừ 6 bằng mấy?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

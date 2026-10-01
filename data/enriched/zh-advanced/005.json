@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "是非",
-   "meaning": "phải trái",
+   "meaning": "phải trái, thị phi",
    "example": "明辨是非。",
    "exampleMeaning": "Phân biệt đúng sai.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shìfēi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "言论",
-   "meaning": "ngôn luận",
+   "meaning": "ngôn luận, phát ngôn",
    "example": "我们来学“言论”这个词。",
-   "exampleMeaning": "Cùng học từ “言论”: ngôn luận.",
+   "exampleMeaning": "Cùng học từ “言论”: ngôn luận, phát ngôn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yánlùn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "辣椒",
-   "meaning": "cây ớt",
+   "meaning": "ớt",
    "example": "我们来学“辣椒”这个词。",
-   "exampleMeaning": "Cùng học từ “辣椒”: cây ớt.",
+   "exampleMeaning": "Cùng học từ “辣椒”: ớt.",
    "emoji": "🌶",
    "ipa": "",
    "pinyin": "làjiāo",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "wúdí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "罕见",
-   "meaning": "hiếm, hiếm có, ít có",
+   "meaning": "hiếm thấy, hiếm có",
    "example": "罕见的现象。",
    "exampleMeaning": "Hiện tượng hiếm thấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hǎnjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,59 +76,59 @@
    "ipa": "",
    "pinyin": "hūnmí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "运转",
-   "meaning": "hoạt động (tổ chức, cơ cấu)",
+   "meaning": "vận hành, hoạt động, xoay quanh",
    "example": "发电机运转正常。",
    "exampleMeaning": "Máy phát điện chạy bình thường",
    "emoji": "",
    "ipa": "",
    "pinyin": "yùnzhuǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "辉煌",
-   "meaning": "huy hoàng",
+   "meaning": "huy hoàng, rực rỡ",
    "example": "辉煌的成绩",
    "exampleMeaning": "Thành tích huy hoàng",
    "emoji": "",
    "ipa": "",
    "pinyin": "huīhuáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "嫩",
-   "meaning": "non",
+   "meaning": "non, mềm, non nớt",
    "example": "小姑娘脸皮嫩，不肯表演。",
    "exampleMeaning": "Mặt mày cô gái trông non nớt, không thể biểu diễn được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nèn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "流浪",
-   "meaning": "lang thang",
+   "meaning": "lang thang, lưu lạc",
    "example": "流浪街头。",
    "exampleMeaning": "Lang thang đầu đường xó chợ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "liúlàng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,7 +141,7 @@
    "ipa": "",
    "pinyin": "shātān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,20 +154,20 @@
    "ipa": "",
    "pinyin": "shǒuqiāng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "感恩",
-   "meaning": "cảm ơn",
+   "meaning": "biết ơn",
    "example": "感恩不尽",
    "exampleMeaning": "Cảm ơn không hết",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎnēn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -180,20 +180,20 @@
    "ipa": "",
    "pinyin": "liángxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "火炬",
-   "meaning": "đuốc",
+   "meaning": "ngọn đuốc",
    "example": "火炬接力赛。",
    "exampleMeaning": "Cuộc thi chạy tiếp đuốc",
    "emoji": "",
    "ipa": "",
    "pinyin": "huǒjù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,46 +206,46 @@
    "ipa": "",
    "pinyin": "yǒuqíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "出卖",
-   "meaning": "bán",
+   "meaning": "bán đứng, phản bội, bán",
    "example": "出卖民族利益的反动派永远被人民所唾弃。",
    "exampleMeaning": "Bọn phản động bán rẻ lợi ích của dân tộc, suốt đời bị nhân dân khinh bỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chūmài",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "发布会",
-   "meaning": "họp báo",
+   "meaning": "buổi họp báo",
    "example": "我们来学“发布会”这个词。",
-   "exampleMeaning": "Cùng học từ “发布会”: họp báo.",
+   "exampleMeaning": "Cùng học từ “发布会”: buổi họp báo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "fābùhuì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "梦幻",
-   "meaning": "mộng ảo",
+   "meaning": "mộng ảo, huyền ảo",
    "example": "离奇的遭遇犹如梦幻。",
    "exampleMeaning": "Cuộc gặp gỡ ly kỳ như trong mộng ảo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "mènghuàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "xiānxuè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

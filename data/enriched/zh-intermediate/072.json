@@ -4,92 +4,92 @@
  "words": [
   {
    "term": "猛",
-   "meaning": "dữ dội, mãnh liệt, ác liệt",
+   "meaning": "mạnh, dữ dội, mãnh liệt",
    "example": "他听到枪声，猛地从屋里跳出来。",
    "exampleMeaning": "Anh ấy nghe thấy tiếng súng, đột ngột từ trong nhà chạy ra ngoài.",
    "emoji": "",
    "ipa": "",
    "pinyin": "měng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "险",
-   "meaning": "hiểm (địa thế khó vượt qua)",
+   "meaning": "nguy hiểm, hiểm trở, suýt",
    "example": "险遭不幸。",
    "exampleMeaning": "Suýt gặp điều bất hạnh; suýt nữa gặp chuyện không may.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "药品",
-   "meaning": "thuốc",
+   "meaning": "dược phẩm, thuốc men",
    "example": "我们来学“药品”这个词。",
-   "exampleMeaning": "Cùng học từ “药品”: thuốc.",
+   "exampleMeaning": "Cùng học từ “药品”: dược phẩm, thuốc men.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yàopǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "踏",
-   "meaning": "bước lên, giẫm lên, đặt chân lên",
+   "meaning": "giẫm lên, bước lên",
    "example": "我军似潮水般大踏步前进。",
    "exampleMeaning": "Quân ta tiến mạnh như vữ bão.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tà",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "当作",
-   "meaning": "coi như",
+   "meaning": "coi như, coi là",
    "example": "我们来学“当作”这个词。",
-   "exampleMeaning": "Cùng học từ “当作”: coi như.",
+   "exampleMeaning": "Cùng học từ “当作”: coi như, coi là.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dàngzuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "运作",
-   "meaning": "hoạt động",
+   "meaning": "vận hành, hoạt động",
    "example": "保证海关机构的正常运作。",
    "exampleMeaning": "Bảo đảm cơ cấu hải quan hoạt động bình thường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yùnzuò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "判",
-   "meaning": "phân biệt",
+   "meaning": "phán đoán, xử án, chấm (bài)",
    "example": "新旧社会判然不同。",
    "exampleMeaning": "Xã hội cũ và xã hội mới khác nhau rõ rệt.",
    "emoji": "🧑‍⚖",
    "ipa": "",
    "pinyin": "pàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -102,20 +102,20 @@
    "ipa": "",
    "pinyin": "zhàdàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "爆发",
-   "meaning": "phun",
+   "meaning": "bùng nổ, bùng phát, phun trào",
    "example": "火山爆发",
    "exampleMeaning": "Núi lửa phun trào",
    "emoji": "",
    "ipa": "",
    "pinyin": "bàofā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -128,137 +128,137 @@
    "ipa": "",
    "pinyin": "zōngjiào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "夺",
-   "meaning": "lỡ",
+   "meaning": "cướp, giành",
    "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
    "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
    "emoji": "",
    "ipa": "",
    "pinyin": "duó",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "本地",
-   "meaning": "vùng này",
+   "meaning": "địa phương, bản địa",
    "example": "本地口音",
    "exampleMeaning": "Tiếng vùng này; giọng bản địa",
    "emoji": "",
    "ipa": "",
    "pinyin": "běndì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "核心",
-   "meaning": "chính",
+   "meaning": "cốt lõi, hạt nhân",
    "example": "领导核心",
    "exampleMeaning": "Nòng cốt lãnh đạo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "héxīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "扎",
-   "meaning": "cột, trói, thắt",
+   "meaning": "buộc, đâm, cắm (trại)",
    "example": "病人扎着坐了起来。",
    "exampleMeaning": "Người bệnh đang cố gắng ngồi dậy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "一时",
-   "meaning": "tạm thời",
+   "meaning": "nhất thời, một lúc",
    "example": "这是一时的和表面的现象。",
    "exampleMeaning": "Đây chỉ là hiện tượng bên ngoài và tạm thời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yīshí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "屏幕",
-   "meaning": "màn phản quang",
+   "meaning": "màn hình",
    "example": "我们来学“屏幕”这个词。",
-   "exampleMeaning": "Cùng học từ “屏幕”: màn phản quang.",
+   "exampleMeaning": "Cùng học từ “屏幕”: màn hình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "píngmù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "惨",
-   "meaning": "tàn ác",
+   "meaning": "thảm, bi thảm, thê thảm",
    "example": "敌人又一次惨败",
    "exampleMeaning": "Quân địch lại thêm một phen thảm bại",
    "emoji": "",
    "ipa": "",
    "pinyin": "cǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "毒品",
-   "meaning": "chất có hại",
+   "meaning": "ma túy",
    "example": "我们来学“毒品”这个词。",
-   "exampleMeaning": "Cùng học từ “毒品”: chất có hại.",
+   "exampleMeaning": "Cùng học từ “毒品”: ma túy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dúpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "升级",
-   "meaning": "thăng cấp",
+   "meaning": "nâng cấp, lên cấp",
    "example": "我们来学“升级”这个词。",
-   "exampleMeaning": "Cùng học từ “升级”: thăng cấp.",
+   "exampleMeaning": "Cùng học từ “升级”: nâng cấp, lên cấp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shēngjí",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "国王",
-   "meaning": "quốc vương",
+   "meaning": "quốc vương, vua",
    "example": "我们来学“国王”这个词。",
-   "exampleMeaning": "Cùng học từ “国王”: quốc vương.",
+   "exampleMeaning": "Cùng học từ “国王”: quốc vương, vua.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guówáng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   }

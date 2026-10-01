@@ -4,131 +4,131 @@
  "words": [
   {
    "term": "午前",
-   "meaning": "buổi sáng, buổi bình minh",
+   "meaning": "buổi sáng, sáng",
    "example": "午前6時に起きるというのは、最初はきつかったが、今では慣れてしまった。",
    "exampleMeaning": "Lúc tôi mới bắt đầu tập thức dậy lúc 6 giờ sáng, ban đầu thì rất khó, nhưng bây giờ thì tôi đã quen rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "在る",
-   "meaning": "ở, có, nhận được",
+   "meaning": "có, nằm ở, tồn tại",
    "example": "「在る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “在る”: ở, có, nhận được.",
+   "exampleMeaning": "Cùng nhớ từ “在る”: có, nằm ở, tồn tại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "沢山",
-   "meaning": "nhiều, nhiều cái, nhiều người",
+   "meaning": "nhiều, rất nhiều",
    "example": "ドイツでは沢山雨が降りますか？",
    "exampleMeaning": "Ở Đức mưa có nhiều không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "奥さん",
-   "meaning": "vợ",
+   "meaning": "vợ (người khác), phu nhân",
    "example": "彼はよい奥さんを選んだ。",
    "exampleMeaning": "Anh ấy đã chọn một người vợ tốt.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "洋服",
-   "meaning": "Western-style clothes (EN)",
+   "meaning": "quần áo kiểu Âu, âu phục",
    "example": "「洋服」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “洋服”: Western-style clothes (EN).",
+   "exampleMeaning": "Cùng nhớ từ “洋服”: quần áo kiểu Âu, âu phục.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "毎月",
-   "meaning": "hàng tháng",
+   "meaning": "hằng tháng, mỗi tháng",
    "example": "彼は毎月お金を貯金している。",
    "exampleMeaning": "Anh ta gửi tiền ngân hàng hàng tháng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "要る",
-   "meaning": "cần, đòi hỏi",
+   "meaning": "cần",
    "example": "どうしてそれが要るの？",
    "exampleMeaning": "Sao bạn cần cái đó thế?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "黄色",
-   "meaning": "vàng",
+   "meaning": "màu vàng, vàng",
    "example": "信号が黄色のとき、わたしたちは止まります。",
    "exampleMeaning": "Khi đèn tín hiểu chuyển sang màu vàng, chúng ta dừng lại.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "椅子",
-   "meaning": "ghế",
+   "meaning": "ghế, cái ghế",
    "example": "椅子の上に猫が座っていた。",
    "exampleMeaning": "Trên ghế có con mèo đang ngồi.",
    "emoji": "🪑",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "あれ",
-   "meaning": "rằng, để, để mà",
+   "meaning": "cái kia",
    "example": "あれは私のCDです。",
    "exampleMeaning": "Đó là đĩa CD của tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,124 +141,124 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "動物",
-   "meaning": "động vật, thú vật",
+   "meaning": "động vật, con vật",
    "example": "私は動物園へ行った。",
    "exampleMeaning": "Tôi đã tới vườn thú.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "晩",
-   "meaning": "đêm, tối, cảnh tối tăm",
+   "meaning": "buổi tối, tối",
    "example": "彼女は一晩中本を読んだ。",
    "exampleMeaning": "Cô ta đã đọc sách thâu đêm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "女",
-   "meaning": "đàn bà con gái, nữ",
+   "meaning": "phụ nữ, nữ, đàn bà",
    "example": "彼女は親切だ。",
    "exampleMeaning": "Cô ấy là một người tốt bụng.",
    "emoji": "👩",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "閉まる",
-   "meaning": "đóng, khép",
+   "meaning": "đóng, bị đóng",
    "example": "「閉まる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “閉まる”: đóng, khép.",
+   "exampleMeaning": "Cùng nhớ từ “閉まる”: đóng, bị đóng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "働く",
-   "meaning": "làm việc",
+   "meaning": "làm việc, lao động",
    "example": "私はここで働くのもううんざりだ。",
    "exampleMeaning": "Tôi đã chán làm việc ở đây rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "天気",
-   "meaning": "thời tiết, tiết trời",
+   "meaning": "thời tiết, trời",
    "example": "私はこの天気が大嫌いだ。",
    "exampleMeaning": "Tôi rất ghét cái thời tiết này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "毎週",
-   "meaning": "mỗi tuần",
+   "meaning": "mỗi tuần, hằng tuần",
    "example": "彼は毎週車を洗います。",
    "exampleMeaning": "Anh ấy rửa ô tô mỗi tuần.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "短い",
-   "meaning": "ngắn, cụt",
+   "meaning": "ngắn",
    "example": "彼女は短いスカートが好きだ。",
    "exampleMeaning": "Cô ấy thích váy ngắn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "千",
-   "meaning": "nghìn",
+   "meaning": "nghìn, một nghìn",
    "example": "彼はこの本に千円払った。",
    "exampleMeaning": "Anh ấy đã trả một nghìn Yên để mua cuốn sách này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

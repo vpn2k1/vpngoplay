@@ -4,66 +4,66 @@
  "words": [
   {
    "term": "delicious",
-   "meaning": "thơm tho, ngon ngọt, ngọt ngào",
+   "meaning": "ngon",
    "example": "Your cake was delicious!",
    "exampleMeaning": "Cái bánh ngọt của bạn ngon quá!",
    "emoji": "",
    "ipa": "/dɪˈlɪʃəs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "gray",
-   "meaning": "xám",
+   "meaning": "màu xám, xám",
    "example": "Tom dyed his hair gray so he'd look older.",
    "exampleMeaning": "Tom nhuộm tóc bạc để có thể trông già dặn hơn.",
    "emoji": "",
    "ipa": "/ˈɡreɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "expensive",
-   "meaning": "đắt",
+   "meaning": "đắt, đắt tiền",
    "example": "She gave him an expensive watch.",
    "exampleMeaning": "Cô ấy đưa cho anh ấy một chiếc đồng hồ đắt tiền.",
    "emoji": "",
    "ipa": "/ɪkˈspɛnsɪv/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "everyday",
-   "meaning": "hằng ngày, dùng hàng ngày",
+   "meaning": "hằng ngày, thường ngày",
    "example": "an everyday young man",
    "exampleMeaning": "Một gã thanh niên tầm thường",
    "emoji": "",
    "ipa": "/ˈɛvriˈdeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "pardon",
-   "meaning": "tha thứ, tha lỗi, xá tội",
+   "meaning": "sự tha thứ, xin lỗi (gì cơ)",
    "example": "I beg your pardon?",
    "exampleMeaning": "Ông có thể nói lại một lần nữa được không ạ?",
    "emoji": "",
    "ipa": "/ˈpɑrdən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -76,7 +76,7 @@
    "ipa": "/ˈdɪk.ʃə.nə.ri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "/ˈɛls/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "begin",
-   "meaning": "bắt đầu, khởi đầu, mở đầu",
+   "meaning": "bắt đầu",
    "example": "May I begin?",
    "exampleMeaning": "Tôi có thể bắt đầu được không?",
    "emoji": "",
    "ipa": "/bɪˈɡɪn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,20 +115,20 @@
    "ipa": "/ˈsɛvəni/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "self",
-   "meaning": "(đùa cợt) bản thân",
+   "meaning": "bản thân, chính mình",
    "example": "self is a bad guide to happiness",
    "exampleMeaning": "Chỉ chăm chú vào mình thì khó đạt được hạnh phúc",
    "emoji": "",
    "ipa": "/ˈsɛlf/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -141,20 +141,20 @@
    "ipa": "/ˈbɔɪˌfrɛnd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "theater",
-   "meaning": "rạp hát, nhà hát",
+   "meaning": "nhà hát, rạp hát",
    "example": "to go to the theater",
    "exampleMeaning": "Đi xem hát",
    "emoji": "",
    "ipa": "/ˈθiətɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -167,33 +167,33 @@
    "ipa": "/ˈtwɛlv/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "speak",
-   "meaning": "nói lên",
+   "meaning": "nói, phát biểu",
    "example": "I will speak to him about it",
    "exampleMeaning": "Tôi sẽ nói chuyện với anh ta về vấn đề đó",
    "emoji": "",
    "ipa": "/spiːk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "hometown",
-   "meaning": "quê nhà = My hometown has a beautiful beach: Quê tôi có bãi biển đẹp",
+   "meaning": "quê nhà, quê hương",
    "example": "Where is your hometown?",
    "exampleMeaning": "Quê bạn ở đâu?",
    "emoji": "",
    "ipa": "/ˈhoʊmˌtaʊn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "/ˈhʌz.bənd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "worry",
-   "meaning": "lo, lo nghĩ",
+   "meaning": "nỗi lo, sự lo lắng",
    "example": "I worry about Tom.",
    "exampleMeaning": "Tôi lo cho Tom.",
    "emoji": "",
    "ipa": "/ˈwɜri/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "circle",
-   "meaning": "sự tuần hoàn",
+   "meaning": "hình tròn, vòng tròn",
    "example": "the circle of the seasons",
    "exampleMeaning": "Sự tuần hoàn của các mùa",
    "emoji": "",
    "ipa": "/ˈsɜrkəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "child",
-   "meaning": "đứa bé, đứa trẻ",
+   "meaning": "đứa trẻ, trẻ em",
    "example": "Any child can do that.",
    "exampleMeaning": "Trẻ con đều làm được.",
    "emoji": "🧒",
    "ipa": "/t͡ʃaɪld/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "large",
-   "meaning": "rộng, lớn, to",
+   "meaning": "lớn, rộng, to",
    "example": "to give someone large powers",
    "exampleMeaning": "Cho ai quyền hành rộng rãi",
    "emoji": "",
    "ipa": "/lɑːd͡ʒ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

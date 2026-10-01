@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "円",
-   "meaning": "đường tròn, vòng tròn",
+   "meaning": "hình tròn, vòng tròn",
    "example": "彼はこの本に千円払った。",
    "exampleMeaning": "Anh ấy đã trả một nghìn Yên để mua cuốn sách này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "面倒",
-   "meaning": "điều lo lắng, điều phiền muộn",
+   "meaning": "phiền phức, rắc rối, chăm sóc",
    "example": "トムがメアリーの面倒をみる。",
    "exampleMeaning": "Tom chăm sóc Mary.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,228 +37,228 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "土産",
-   "meaning": "vật kỷ niệm",
+   "meaning": "quà lưu niệm, quà",
    "example": "彼はお土産をもって帰った。",
    "exampleMeaning": "Anh ấy đã mang về vài món đồ lưu niệm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "有無",
-   "meaning": "yes or no (EN)",
+   "meaning": "có hay không",
    "example": "「有無」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “有無”: yes or no (EN).",
+   "exampleMeaning": "Cùng nhớ từ “有無”: có hay không.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "昨",
-   "meaning": "hôm qua",
+   "meaning": "trước, vừa qua (tiền tố)",
    "example": "昨日の月食見た？",
    "exampleMeaning": "Bạn có nhìn thấy nguyệt thực hôm qua không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "筋",
-   "meaning": "bắp thịt, cơ",
+   "meaning": "cơ, gân, cốt truyện",
    "example": "水泳は筋肉を発達させる。",
    "exampleMeaning": "Bơi lội giúp cơ bắp phát triển.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "予算",
-   "meaning": "sự đánh giá, sự ước lượng",
+   "meaning": "ngân sách, dự toán",
    "example": "「予算」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “予算”: sự đánh giá, sự ước lượng.",
+   "exampleMeaning": "Cùng nhớ từ “予算”: ngân sách, dự toán.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "効果",
-   "meaning": "hiệu lực, hiệu quả, tác dụng",
+   "meaning": "hiệu quả, tác dụng",
    "example": "癌の効果的な治療法はまだ発見されていない。",
    "exampleMeaning": "Hiện tại vẫn chưa tìm ra cách điều trị hiệu quả bệnh ung thư.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "永遠",
-   "meaning": "tính vĩnh viễn, tính bất diệt",
+   "meaning": "vĩnh hằng, vĩnh cửu, mãi mãi",
    "example": "「永遠」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “永遠”: tính vĩnh viễn, tính bất diệt.",
+   "exampleMeaning": "Cùng nhớ từ “永遠”: vĩnh hằng, vĩnh cửu, mãi mãi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "助かる",
-   "meaning": "cứu nguy",
+   "meaning": "được cứu, được giúp, đỡ quá",
    "example": "「助かる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “助かる”: cứu nguy.",
+   "exampleMeaning": "Cùng nhớ từ “助かる”: được cứu, được giúp, đỡ quá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "混雑",
-   "meaning": "sự lộn xộn, sự hỗn độn, sự rối loạn",
+   "meaning": "đông đúc, tắc nghẽn, chen chúc",
    "example": "「混雑」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “混雑”: sự lộn xộn, sự hỗn độn, sự rối loạn.",
+   "exampleMeaning": "Cùng nhớ từ “混雑”: đông đúc, tắc nghẽn, chen chúc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "時刻",
-   "meaning": "thời gian, thì giờ",
+   "meaning": "giờ, thời khắc, thời điểm",
    "example": "「時刻」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “時刻”: thời gian, thì giờ.",
+   "exampleMeaning": "Cùng nhớ từ “時刻”: giờ, thời khắc, thời điểm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "人気",
-   "meaning": "tính đại chúng, tính phổ biến, điều kiện",
+   "meaning": "được ưa chuộng, nổi tiếng",
    "example": "あの歌は3年前すごく人気だった。",
    "exampleMeaning": "Ba năm trước, bài hát đó rất nổi tiếng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "飛び出す",
-   "meaning": "nhẩy số",
+   "meaning": "lao ra, chạy vụt ra, nhảy ra",
    "example": "「飛び出す」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “飛び出す”: nhẩy số.",
+   "exampleMeaning": "Cùng nhớ từ “飛び出す”: lao ra, chạy vụt ra, nhảy ra.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "気温",
-   "meaning": "nhiệt độ",
+   "meaning": "nhiệt độ (không khí)",
    "example": "気温が急に下がった。",
    "exampleMeaning": "Nhiệt độ đột nhiên giảm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "穏やか",
-   "meaning": "êm đềm, lặng gió (thời tiết)",
+   "meaning": "êm đềm, ôn hòa, điềm đạm",
    "example": "この国は、気候が穏やかだ。",
    "exampleMeaning": "Khí hậu ở đất nước này ôn hòa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "雰囲気",
-   "meaning": "quyển khí",
+   "meaning": "bầu không khí, không khí",
    "example": "「雰囲気」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “雰囲気”: quyển khí.",
+   "exampleMeaning": "Cùng nhớ từ “雰囲気”: bầu không khí, không khí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "可愛らしい",
-   "meaning": "đẹp đẽ, xinh, đáng yêu",
+   "meaning": "dễ thương, đáng yêu",
    "example": "「可愛らしい」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “可愛らしい”: đẹp đẽ, xinh, đáng yêu.",
+   "exampleMeaning": "Cùng nhớ từ “可愛らしい”: dễ thương, đáng yêu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "噂",
-   "meaning": "đồn, đồn đại",
+   "meaning": "tin đồn, lời đồn",
    "example": "妙な噂が広がっている。",
    "exampleMeaning": "Những tin đồn kỳ lạ đang lan rộng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

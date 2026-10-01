@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "language",
-   "meaning": "tiếng, ngôn ngữ",
+   "meaning": "ngôn ngữ, tiếng",
    "example": "What's your native language?",
    "exampleMeaning": "Tiếng mẹ đẻ của bạn là gì?",
    "emoji": "",
    "ipa": "/ˈlæŋ.ɡwɪdʒ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "lunch",
-   "meaning": "bữa ăn trưa",
+   "meaning": "bữa trưa",
    "example": "I make lunch every day.",
    "exampleMeaning": "Tôi làm bữa trưa mỗi ngày",
    "emoji": "",
    "ipa": "/ˈləntʃ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "notebook",
-   "meaning": "sổ",
+   "meaning": "sổ tay, quyển vở",
    "example": "The notebook cost two florins.",
    "exampleMeaning": "Quyển vở đó có giá hai đồng florin.",
    "emoji": "📓",
    "ipa": "/ˈnoʊtˌbʊk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "/ˈsɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "to",
-   "meaning": "cho, với",
+   "meaning": "để (trước động từ)",
    "example": "it may be useful to your friend",
    "exampleMeaning": "Điều đó có thể có ích cho bạn anh",
    "emoji": "",
    "ipa": "/ˈtu/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "uncle",
-   "meaning": "chú",
+   "meaning": "chú, bác, cậu",
    "example": "My uncle gave you a present.",
    "exampleMeaning": "Chú tôi đã tặng cho bạn một món quà.",
    "emoji": "",
    "ipa": "/ˈʌŋ.kl̩/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -89,7 +89,7 @@
    "ipa": "/ˈtɔl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -102,163 +102,163 @@
    "ipa": "/iːt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "try",
-   "meaning": "thử, thử xem, làm thử",
+   "meaning": "lần thử",
    "example": "to have a try at...",
    "exampleMeaning": "Thử làm...",
    "emoji": "",
    "ipa": "/traɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "always",
-   "meaning": "luôn luôn, lúc nào cũng, bao giờ cũng",
+   "meaning": "luôn luôn, lúc nào cũng",
    "example": "She is always busy.",
    "exampleMeaning": "Chị ấy lúc nào cũng rất bận.",
    "emoji": "",
    "ipa": "/ˈɔl.wiz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "mobile",
-   "meaning": "động",
+   "meaning": "điện thoại di động",
    "example": "I don't have a mobile phone.",
    "exampleMeaning": "Tôi không có điện thoại di động.",
    "emoji": "",
    "ipa": "/ˈmoʊbəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "night",
-   "meaning": "đêm, cảnh tối tăm, ban đêm",
+   "meaning": "đêm, ban đêm",
    "example": "at (in the) deal of night",
    "exampleMeaning": "Lúc nửa đêm, lúc đêm khuya thanh vắng",
    "emoji": "",
    "ipa": "/ˈnaɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "article",
-   "meaning": "đồ, thức, vật phẩm",
+   "meaning": "bài báo, bài viết",
    "example": "to article against someone for something",
    "exampleMeaning": "Tố giác ai về việc gì; buộc tội ai về cái gì",
    "emoji": "",
    "ipa": "/ˈɑrtəkəl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "work",
-   "meaning": "hành động, hoạt động, làm",
+   "meaning": "làm việc, hoạt động",
    "example": "to have plenty of work to do",
    "exampleMeaning": "Có nhiều việc phải làm",
    "emoji": "",
    "ipa": "/ˈwɜrk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "cafe",
-   "meaning": "cà phê",
+   "meaning": "quán cà phê",
    "example": "Is the cafe open?",
    "exampleMeaning": "Quán cà phê có mở không?",
    "emoji": "",
    "ipa": "/kæˈfeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "must",
-   "meaning": "cần phải, nên, chắc hẳn là",
+   "meaning": "phải, chắc hẳn",
    "example": "you must work if you want to succeed",
    "exampleMeaning": "Anh phải làm việc nếu anh muốn thành công",
    "emoji": "",
    "ipa": "/ˈməst/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "outside",
-   "meaning": "ngoài, ra ngoài",
+   "meaning": "bên ngoài, ở ngoài",
    "example": "to open the door from the outside",
    "exampleMeaning": "Mở cửa từ bên ngoài",
    "emoji": "",
    "ipa": "/ˈaʊtˈsaɪd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "let",
-   "meaning": "hãy, hây, để cho",
+   "meaning": "cho phép, hãy",
    "example": "to let fall a remark on someone",
    "exampleMeaning": "Buông ra một lời nhận xét về ai",
    "emoji": "",
    "ipa": "/lɛt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "kid",
-   "meaning": "con dê non",
+   "meaning": "đứa trẻ, trẻ con",
    "example": "You're the tallest kid in your class, aren't you?",
    "exampleMeaning": "Bạn là đứa trẻ cao nhất trong lớp của bạn, phải không?",
    "emoji": "",
    "ipa": "/kɪd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "skirt",
-   "meaning": "váy, xiêm",
+   "meaning": "váy, chân váy",
    "example": "Her skirt fits tightly.",
    "exampleMeaning": "Chiếc váy cô ấy mặc khá chật.",
    "emoji": "",
    "ipa": "/ˈskɜrt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

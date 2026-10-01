@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "自分",
-   "meaning": "tôi, tao, bản thân mình",
+   "meaning": "bản thân, tự mình",
    "example": "自分でも解ってる。",
    "exampleMeaning": "Tôi có thể tự giải được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "元気",
-   "meaning": "sức khoẻ",
+   "meaning": "khỏe mạnh, khỏe, hăng hái",
    "example": "やあ！元気？",
    "exampleMeaning": "Ê! Khỏe không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "消える",
-   "meaning": "biến mất, lẩn mất, biến dần",
+   "meaning": "biến mất, tắt",
    "example": "雪はすぐに消えるだろう。",
    "exampleMeaning": "Tuyết sẽ sớm tan.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "大使館",
-   "meaning": "chức đại sứ, hàm đại sứ",
+   "meaning": "đại sứ quán",
    "example": "日本大使館は日本人に対し、注意するよう警告している。",
    "exampleMeaning": "Đại sứ quán Nhật Bản đã và đang cảnh báo người dân Nhật phải cẩn trọng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,20 +76,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "おばあさん",
-   "meaning": "bà",
+   "meaning": "bà, bà cụ",
    "example": "彼女は彼女のおばあさんに育てられた。",
    "exampleMeaning": "Cô ấy được bà của cô ấy nuôi lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,150 +115,150 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "六日",
-   "meaning": "ngày thứ sáu của tháng",
+   "meaning": "ngày mùng 6, sáu ngày",
    "example": "「六日」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “六日”: ngày thứ sáu của tháng.",
+   "exampleMeaning": "Cùng nhớ từ “六日”: ngày mùng 6, sáu ngày.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "始まる",
-   "meaning": "bắt đầu, khởi đầu, mở đầu",
+   "meaning": "bắt đầu",
    "example": "学校は８時半から始まる。",
    "exampleMeaning": "Giờ học bắt đầu lúc 8 giờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "全部",
-   "meaning": "tất cả, hết thảy, toàn bộ",
+   "meaning": "tất cả, toàn bộ",
    "example": "席は全部ふさがっている。",
    "exampleMeaning": "Tất cả những chiếc ghế đều đã có người ngồi rồi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "小さい",
-   "meaning": "nhỏ, bé, chật",
+   "meaning": "nhỏ, bé",
    "example": "この本の方が小さい。",
    "exampleMeaning": "Quyển sách này nhỏ hơn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "時間",
-   "meaning": "thời gian, thì giờ",
+   "meaning": "thời gian, giờ",
    "example": "英語は３時間目だ。",
    "exampleMeaning": "Anh văn là tiết thứ 3.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "地図",
-   "meaning": "bản đồ, địa đồ",
+   "meaning": "bản đồ",
    "example": "それってトムがくれた地図？",
    "exampleMeaning": "Đấy là cái bản đồ Tom đưa cho bạn à?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "女の子",
-   "meaning": "con gái",
+   "meaning": "bé gái, cô gái",
    "example": "あなたが女の子だからよ。",
    "exampleMeaning": "Cái đó là tại vì bạn là phụ nữ.",
    "emoji": "👧",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "二人",
-   "meaning": "đôi, cặp",
+   "meaning": "hai người",
    "example": "二人部屋をお願いします。",
    "exampleMeaning": "Cho tôi một phòng hai người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "そちら",
-   "meaning": "đó, đấy",
+   "meaning": "phía đó, bên đó",
    "example": "すぐそちらへまいります。",
    "exampleMeaning": "Tôi sẽ đến đó ngay.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "余り",
-   "meaning": "số dư, số thừa, số thặng dư",
+   "meaning": "không lắm, phần dư",
    "example": "驚きの余り話す力がなくなってしまった。",
    "exampleMeaning": "Vì quá ngạc nhiên, tôi đã không thể nói nên lời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "大きな",
-   "meaning": "rộng, lớn, to lớn",
+   "meaning": "to, lớn, to lớn",
    "example": "ドイツは大きな国だ。",
    "exampleMeaning": "Đức là một nước lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

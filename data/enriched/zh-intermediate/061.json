@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "豆制品",
-   "meaning": "những sản phẩm làm từ đậu",
+   "meaning": "sản phẩm từ đậu",
    "example": "我们来学“豆制品”这个词。",
-   "exampleMeaning": "Cùng học từ “豆制品”: những sản phẩm làm từ đậu.",
+   "exampleMeaning": "Cùng học từ “豆制品”: sản phẩm từ đậu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dòuzhìpǐn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "",
    "pinyin": "liǎnpén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "正版",
-   "meaning": "thành thật",
+   "meaning": "chính hãng, có bản quyền",
    "example": "我们来学“正版”这个词。",
-   "exampleMeaning": "Cùng học từ “正版”: thành thật.",
+   "exampleMeaning": "Cùng học từ “正版”: chính hãng, có bản quyền.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhèngbǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,20 +50,20 @@
    "ipa": "",
    "pinyin": "diànzǐbǎn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "差一点儿",
-   "meaning": "hầu (như), gần (như), suýt nữa",
+   "meaning": "suýt chút nữa, gần như",
    "example": "我们来学“差一点儿”这个词。",
-   "exampleMeaning": "Cùng học từ “差一点儿”: hầu (như), gần (như), suýt nữa.",
+   "exampleMeaning": "Cùng học từ “差一点儿”: suýt chút nữa, gần như.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chàyīdiǎnr",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,150 +76,150 @@
    "ipa": "",
    "pinyin": "diànfànguō",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "小偷儿",
-   "meaning": "kẻ trộm, kẻ cắp",
+   "meaning": "kẻ trộm",
    "example": "我们来学“小偷儿”这个词。",
-   "exampleMeaning": "Cùng học từ “小偷儿”: kẻ trộm, kẻ cắp.",
+   "exampleMeaning": "Cùng học từ “小偷儿”: kẻ trộm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiǎotōur",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "胡同儿",
-   "meaning": "ngõ, đường đi, lối đi (giữa các dãy nhà)",
+   "meaning": "ngõ, hẻm",
    "example": "我们来学“胡同儿”这个词。",
-   "exampleMeaning": "Cùng học từ “胡同儿”: ngõ, đường đi, lối đi (giữa các dãy nhà).",
+   "exampleMeaning": "Cùng học từ “胡同儿”: ngõ, hẻm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "hútòngr",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "二维码",
-   "meaning": "mã qr",
+   "meaning": "mã QR",
    "example": "我们来学“二维码”这个词。",
-   "exampleMeaning": "Cùng học từ “二维码”: mã qr.",
+   "exampleMeaning": "Cùng học từ “二维码”: mã QR.",
    "emoji": "",
    "ipa": "",
    "pinyin": "èrwéimǎ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "杀毒",
-   "meaning": "diệt khuẩn",
+   "meaning": "diệt virus, khử độc",
    "example": "我们来学“杀毒”这个词。",
-   "exampleMeaning": "Cùng học từ “杀毒”: diệt khuẩn.",
+   "exampleMeaning": "Cùng học từ “杀毒”: diệt virus, khử độc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shādú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "微博",
-   "meaning": "weibo",
+   "meaning": "Weibo, blog mini",
    "example": "我们来学“微博”这个词。",
-   "exampleMeaning": "Cùng học từ “微博”: weibo.",
+   "exampleMeaning": "Cùng học từ “微博”: Weibo, blog mini.",
    "emoji": "",
    "ipa": "",
    "pinyin": "wēibó",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "与",
-   "meaning": "và, cùng, với",
+   "meaning": "và, với",
    "example": "与此同时，电台也播出了这条消息。",
    "exampleMeaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yǔ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "啦",
-   "meaning": "đấy",
+   "meaning": "rồi, nhé (trợ từ)",
    "example": "二组跟咱们挑战啦!",
    "exampleMeaning": "Tổ hai thách thức chúng ta đấy!",
    "emoji": "",
    "ipa": "",
    "pinyin": "lā",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "于",
-   "meaning": "từ, về, vào",
+   "meaning": "ở, tại, vào (giới từ)",
    "example": "由于噪音，我们无法入睡。",
    "exampleMeaning": "Chúng tôi không ngủ được vì ồn quá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "如",
-   "meaning": "như",
+   "meaning": "như, nếu như",
    "example": "如果你喜欢，买就是了。",
    "exampleMeaning": "Nếu cậu thích thì mua đi là xong.",
    "emoji": "",
    "ipa": "",
    "pinyin": "rú",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "同",
-   "meaning": "giống, giống nhau, như nhau",
+   "meaning": "giống nhau, cùng",
    "example": "她大約跟我同年紀。",
    "exampleMeaning": "Cô ấy tầm tuổi tôi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "作",
-   "meaning": "làm, thực hiện",
+   "meaning": "làm, sáng tác",
    "example": "他曾在河内工作过。",
    "exampleMeaning": "Anh ấy từng làm việc ở Hà Nội.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zuò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -232,33 +232,33 @@
    "ipa": "",
    "pinyin": "yǒuguān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "另",
-   "meaning": "khác",
+   "meaning": "khác, riêng",
    "example": "另外，这间房里面没有冷气设备之类的东西，有的只是一把团扇。",
    "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "lìng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "嘛",
-   "meaning": "mà",
+   "meaning": "mà (trợ từ)",
    "example": "我们女同志怎么不行？妇女能顶半边天嘛！",
    "exampleMeaning": "Phụ nữ chúng tôi sao lại không được? Phụ nữ có thể gánh vác nửa bầu trời mà!",
    "emoji": "",
    "ipa": "",
    "pinyin": "ma",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

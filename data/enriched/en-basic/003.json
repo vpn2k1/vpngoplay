@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "bag",
-   "meaning": "bao, túi, bị",
+   "meaning": "túi, cặp, bao",
    "example": "Is this your bag?",
    "exampleMeaning": "Đó có phải là túi của bạn?",
    "emoji": "",
    "ipa": "/ˈbæɡ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "feel",
-   "meaning": "thấy, cảm thấy, có cảm giác",
+   "meaning": "cảm thấy",
    "example": "if that's the way you feel about it",
    "exampleMeaning": "Nếu anh cho là như thế, nếu ý anh là như thế",
    "emoji": "",
    "ipa": "/fiːl/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -37,59 +37,59 @@
    "ipa": "/ˈeɪ.prən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "hold",
-   "meaning": "cầm, nắm, giữ",
+   "meaning": "sự cầm, sự nắm giữ",
    "example": "will this fine weather hold?",
    "exampleMeaning": "Liệu thời tiết này có kéo dài mãi không?",
    "emoji": "",
    "ipa": "/həʊld/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "yours",
-   "meaning": "cái của anh, cái của chị, cái của ngài",
+   "meaning": "của bạn (đại từ)",
    "example": "Which cup is yours?",
    "exampleMeaning": "Tách nào của bạn?",
    "emoji": "",
    "ipa": "/ˈjɔrz/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "go",
-   "meaning": "đi, đánh, ra (quân bài)",
+   "meaning": "đi",
    "example": "to go so far so to say...",
    "exampleMeaning": "Nói đến mức là...",
    "emoji": "",
    "ipa": "/ˈɡoʊ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "grade",
-   "meaning": "dốc",
+   "meaning": "điểm số, lớp (học), cấp độ",
    "example": "movement is on the up grade",
    "exampleMeaning": "Phong trào đang phát triển, phong trào đang theo hướng đi lên",
    "emoji": "",
    "ipa": "/ˈɡreɪd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -102,7 +102,7 @@
    "ipa": "/ˈɡrændˌməðɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "/ˈnaɪn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "why",
-   "meaning": "sao",
+   "meaning": "tại sao, vì sao",
    "example": "why was he late?",
    "exampleMeaning": "Sao anh ấy đến muộn?",
    "emoji": "",
    "ipa": "/ˈhwaɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "house",
-   "meaning": "nhà, chuồng",
+   "meaning": "nhà, ngôi nhà",
    "example": "the first house starts at 8",
    "exampleMeaning": "Buổi biểu diễn thứ nhất bắt đầu vào lúc 8 giờ",
    "emoji": "🏠",
    "ipa": "/ˈhaʊs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -154,111 +154,111 @@
    "ipa": "/ˈdeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "waiter",
-   "meaning": "người hầu bàn",
+   "meaning": "bồi bàn, người phục vụ",
    "example": "He is a waiter in a seaside restaurant.",
    "exampleMeaning": "Anh ấy làm bồi bàn cho một nhà hàng bên bờ biển",
    "emoji": "",
    "ipa": "/ˈweɪtɜr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "okay",
-   "meaning": "thích đáng, có phép, được",
+   "meaning": "được, đồng ý",
    "example": "Are you okay?",
    "exampleMeaning": "Bạn có sao không?",
    "emoji": "",
    "ipa": "/ˌoʊˈkeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "book",
-   "meaning": "sách",
+   "meaning": "sách, quyển sách",
    "example": "to book searts for the threatre",
    "exampleMeaning": "Mua vé trước để đi xem hát",
    "emoji": "",
    "ipa": "/ˈbʊk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "coat",
-   "meaning": "áo",
+   "meaning": "áo khoác",
    "example": "A passing car splashed my coat with water.",
    "exampleMeaning": "Một chiếc xe đi qua đã té nước vào áo khoác của tôi.",
    "emoji": "🧥",
    "ipa": "/koʊt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "come",
-   "meaning": "đến, tới, trở lại",
+   "meaning": "đến, tới",
    "example": "how did you come by this document?",
    "exampleMeaning": "Làm sao mà anh kiếm được tài liệu này?",
    "emoji": "",
    "ipa": "/ˈkəm/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "real",
-   "meaning": "thật",
+   "meaning": "thật, thật sự",
    "example": "Is that real blood?",
    "exampleMeaning": "Đó là máu thật đúng không?",
    "emoji": "",
    "ipa": "/ˈril/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "dog",
-   "meaning": "chó",
+   "meaning": "con chó",
    "example": "My dog died.",
    "exampleMeaning": "Con chó của tôi đã chết.",
    "emoji": "🐕",
    "ipa": "/dɒɡ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "fine",
-   "meaning": "tốt, khả quan, hay",
+   "meaning": "khỏe, tốt, ổn",
    "example": "a knife with a fine edge",
    "exampleMeaning": "Con dao lưỡi sắc",
    "emoji": "",
    "ipa": "/ˈfaɪn/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

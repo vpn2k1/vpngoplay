@@ -1,0 +1,332 @@
+{
+ "lesson": 142,
+ "draft": true,
+ "words": [
+  {
+   "term": "windshield",
+   "meaning": "kính chắn gió",
+   "example": "Let's learn the word \"windshield\".",
+   "exampleMeaning": "Cùng học từ “windshield”: kính chắn gió.",
+   "emoji": "",
+   "ipa": "/ˈwɪndˌʃild/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "idle",
+   "meaning": "nhàn rỗi, để không, lười biếng",
+   "example": "to keep a motor at an idle",
+   "exampleMeaning": "Cho máy chạy không",
+   "emoji": "",
+   "ipa": "/ˈaɪdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blaze",
+   "meaning": "cháy rực, rực sáng",
+   "example": "in the full blaze of one's reputation",
+   "exampleMeaning": "Trong thời kỳ tiếng tăm lừng lẫy nhất",
+   "emoji": "",
+   "ipa": "/bleɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "invariable",
+   "meaning": "bất biến, không thay đổi",
+   "example": "Let's learn the word \"invariable\".",
+   "exampleMeaning": "Cùng học từ “invariable”: bất biến, không thay đổi.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɛriəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "divert",
+   "meaning": "chuyển hướng, làm sao lãng",
+   "example": "Let's learn the word \"divert\".",
+   "exampleMeaning": "Cùng học từ “divert”: chuyển hướng, làm sao lãng.",
+   "emoji": "",
+   "ipa": "/daɪˈvɜrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "soak",
+   "meaning": "ngâm, làm ướt sũng",
+   "example": "to soak gherkins in vinegar",
+   "exampleMeaning": "Ngâm dưa chuột vào giấm",
+   "emoji": "",
+   "ipa": "/ˈsoʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "retard",
+   "meaning": "làm chậm lại, cản trở",
+   "example": "Let's learn the word \"retard\".",
+   "exampleMeaning": "Cùng học từ “retard”: làm chậm lại, cản trở.",
+   "emoji": "",
+   "ipa": "/riˈtɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outbreak",
+   "meaning": "sự bùng phát (dịch), bùng nổ",
+   "example": "at the outbreak of war",
+   "exampleMeaning": "Khi chiến tranh bùng nổ",
+   "emoji": "",
+   "ipa": "/ˈaʊtˌbreɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "encode",
+   "meaning": "mã hóa",
+   "example": "Let's learn the word \"encode\".",
+   "exampleMeaning": "Cùng học từ “encode”: mã hóa.",
+   "emoji": "",
+   "ipa": "/ɛnˈkoʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stride",
+   "meaning": "sải bước, bước dài",
+   "example": "to walk with vigorous stride",
+   "exampleMeaning": "Bước những bước dài mạnh mẽ",
+   "emoji": "",
+   "ipa": "/ˈstraɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "brilliantly",
+   "meaning": "một cách xuất sắc, rực rỡ",
+   "example": "Let's learn the word \"brilliantly\".",
+   "exampleMeaning": "Cùng học từ “brilliantly”: một cách xuất sắc, rực rỡ.",
+   "emoji": "",
+   "ipa": "/ˈbrɪljəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "validity",
+   "meaning": "tính hợp lệ, hiệu lực",
+   "example": "the validity of a contract",
+   "exampleMeaning": "Giá trị pháp lý của một hợp đồng",
+   "emoji": "",
+   "ipa": "/vəˈlɪdəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "climate change",
+   "meaning": "biến đổi khí hậu",
+   "example": "Climate change is largely caused by human activity.",
+   "exampleMeaning": "Biến đổi khí hậu phần nhiều là do hoạt động của con người.",
+   "emoji": "",
+   "ipa": "/ˈklaɪmət ˈtʃeɪndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "user",
+   "meaning": "người dùng, người sử dụng",
+   "example": "My friend is designing a user interface for the new operating system.",
+   "exampleMeaning": "Bạn tôi đang thiết kế giao diện người dùng cho hệ điều hành mới.",
+   "emoji": "",
+   "ipa": "/ˈjuːzə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cyberaddict",
+   "meaning": "người nghiện mạng",
+   "example": "Let's learn the word \"cyberaddict\".",
+   "exampleMeaning": "Cùng học từ “cyberaddict”: người nghiện mạng.",
+   "emoji": "",
+   "ipa": "/ˈsaɪbɜrˌæˌdɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "generalize",
+   "meaning": "khái quát hóa, tổng quát hóa",
+   "example": "to generalize a new farming technique",
+   "exampleMeaning": "Phổ biến một kỹ thuật cày cấy mới",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnɜrəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inborn",
+   "meaning": "bẩm sinh",
+   "example": "an inborn talent",
+   "exampleMeaning": "Tài bẩm sinh",
+   "emoji": "",
+   "ipa": "/ˈɪnˌbɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soliloquy",
+   "meaning": "độc thoại",
+   "example": "Let's learn the word \"soliloquy\".",
+   "exampleMeaning": "Cùng học từ “soliloquy”: độc thoại.",
+   "emoji": "",
+   "ipa": "/səˈlɪləkwi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "refrain",
+   "meaning": "điệp khúc, câu hát lặp lại",
+   "example": "to refrain one's tears",
+   "exampleMeaning": "Cố cầm nước mắt",
+   "emoji": "",
+   "ipa": "/rɪˈfreɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fragrance",
+   "meaning": "hương thơm, nước hoa",
+   "example": "Let's learn the word \"fragrance\".",
+   "exampleMeaning": "Cùng học từ “fragrance”: hương thơm, nước hoa.",
+   "emoji": "",
+   "ipa": "/ˈfreɪɡrəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Climate",
+    "change",
+    "is",
+    "real"
+   ],
+   "reading": "",
+   "meaning": "Biến đổi khí hậu là có thật."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "ashamed",
+    "of",
+    "being",
+    "idle"
+   ],
+   "reading": "",
+   "meaning": "Ông là xấu hổ vì ở không (không làm gì cả)."
+  },
+  {
+   "tokens": [
+    "Climate",
+    "change",
+    "is",
+    "largely",
+    "caused",
+    "by",
+    "human",
+    "activity"
+   ],
+   "reading": "",
+   "meaning": "Biến đổi khí hậu phần nhiều là do hoạt động của con người."
+  },
+  {
+   "tokens": [
+    "My",
+    "friend",
+    "is",
+    "designing",
+    "a",
+    "user",
+    "interface",
+    "for",
+    "the",
+    "new",
+    "operating",
+    "system"
+   ],
+   "reading": "",
+   "meaning": "Bạn tôi đang thiết kế giao diện người dùng cho hệ điều hành mới."
+  },
+  {
+   "tokens": [
+    "Wrap",
+    "it",
+    "please"
+   ],
+   "reading": "",
+   "meaning": "Bọc nó lại đi ạ."
+  }
+ ],
+ "issues": []
+}

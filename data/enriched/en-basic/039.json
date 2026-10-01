@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "open",
-   "meaning": "mở, bắt đầu, khai mạc",
+   "meaning": "mở, đang mở, cởi mở",
    "example": "the lake is open in May",
    "exampleMeaning": "Về tháng năm hồ không đóng băng",
    "emoji": "",
    "ipa": "/ˈoʊpən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "or",
-   "meaning": "hoặc, hay là",
+   "meaning": "hoặc, hay",
    "example": "in the heart or in the head",
    "exampleMeaning": "Hoặc ở trong tim hoặc ở trong đầu",
    "emoji": "",
    "ipa": "/ˈɔr/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -37,20 +37,20 @@
    "ipa": "/ækˈtɪvəti/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "ovdp"
    }
   },
   {
    "term": "thick",
-   "meaning": "dày đặc",
+   "meaning": "dày, đặc",
    "example": "a thick layer of sand",
    "exampleMeaning": "Lớp cát dày",
    "emoji": "",
    "ipa": "/ˈθɪk/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -63,59 +63,59 @@
    "ipa": "/ˈlaɪən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "anyone",
-   "meaning": "người nào, ai",
+   "meaning": "bất cứ ai, ai đó",
    "example": "Is anyone there?",
    "exampleMeaning": "Có ai ở đó không?",
    "emoji": "",
    "ipa": "/ˈɛniˌwən/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "snowy",
-   "meaning": "đầy tuyết, phủ tuyết, nhiều tuyết",
+   "meaning": "có tuyết, phủ tuyết",
    "example": "the snowy season",
    "exampleMeaning": "Mùa tuyết rơi",
    "emoji": "",
    "ipa": "/ˈsnoʊi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "accord",
-   "meaning": "phù hợp với, hoà hợp với, thống nhất với",
+   "meaning": "sự đồng ý, hiệp định",
    "example": "to do something of one's own accord",
    "exampleMeaning": "Tự nguyện làm cái gì",
    "emoji": "",
    "ipa": "/əˈkɔrd/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "before",
-   "meaning": "trước, trước mắt, trước mặt",
+   "meaning": "trước, trước khi",
    "example": "I have seen this before",
    "exampleMeaning": "Trước đây tôi đã thấy cái này rồi",
    "emoji": "",
    "ipa": "/bɪˈfɔː/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
@@ -128,137 +128,137 @@
    "ipa": "/ˈwɪn.ˌdoʊ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "Wednesday",
-   "meaning": "Ngày thứ tư (trong tuần lễ)",
+   "meaning": "thứ tư",
    "example": "Wednesday is after Tuesday.",
    "exampleMeaning": "Thứ Tư là ngày sau Thứ Ba.",
    "emoji": "",
    "ipa": "/ˈwɛnzˌdeɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "tight",
-   "meaning": "chặt, kín",
+   "meaning": "chặt, chật, căng",
    "example": "to be in a tight place (corner)",
    "exampleMeaning": "(nghĩa bóng) gặp hoàn cảnh khó khăn",
    "emoji": "",
    "ipa": "/ˈtaɪt/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "fishing",
-   "meaning": "sự đánh cá, sự câu cá",
+   "meaning": "câu cá, đánh cá",
    "example": "I often go fishing in that river.",
    "exampleMeaning": "Tôi thường đến câu cá ở dòng sông đó.",
    "emoji": "",
    "ipa": "/ˈfɪʃɪŋ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "this",
-   "meaning": "này",
+   "meaning": "này, cái này",
    "example": "This isn't the item that I ordered.",
    "exampleMeaning": "Cái này không phải là mặt hàng mà tôi đã đặt.",
    "emoji": "",
    "ipa": "/ðɪs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "laugh",
-   "meaning": "cười, cười vui, cười cợt",
+   "meaning": "cười",
    "example": "to have a good laugh at somebody",
    "exampleMeaning": "Được cười ai một trận thoả thích",
    "emoji": "",
    "ipa": "/laːf/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "guy",
-   "meaning": "(từ lóng) anh chàng, gã",
+   "meaning": "anh chàng, gã",
    "example": "who's that guy?",
    "exampleMeaning": "Anh chàng ấy là ai thế?",
    "emoji": "",
    "ipa": "/ˈɡaɪ/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   },
   {
    "term": "healthy",
-   "meaning": "lành mạnh",
+   "meaning": "khỏe mạnh, lành mạnh",
    "example": "You have a healthy baby boy.",
    "exampleMeaning": "Bạn đã sinh ra được một bé trai khỏe mạnh đấy.",
    "emoji": "",
    "ipa": "/ˈhɛlθi/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ice",
-   "meaning": "kem",
+   "meaning": "đá, băng",
    "example": "I want to eat ice cream.",
    "exampleMeaning": "Tôi muốn ăn kem.",
    "emoji": "🧊",
    "ipa": "/aɪs/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "computer",
-   "meaning": "máy tính, máy vi tính, máy điện toán",
+   "meaning": "máy tính",
    "example": "My computer uses Linux.",
    "exampleMeaning": "Máy tính của tôi chạy Linux.",
    "emoji": "",
    "ipa": "/kəmˈpjuːtə/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "early",
-   "meaning": "sớm, ở lúc ban đầu, ở đầu mùa",
+   "meaning": "sớm",
    "example": "at an early date",
    "exampleMeaning": "Vào một ngày gần đây",
    "emoji": "",
    "ipa": "/ˈɜː.li/",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "wiktionary"
    }
   }

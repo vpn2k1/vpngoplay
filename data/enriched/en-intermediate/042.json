@@ -1,0 +1,323 @@
+{
+ "lesson": 42,
+ "draft": true,
+ "words": [
+  {
+   "term": "forehead",
+   "meaning": "trán",
+   "example": "Let's learn the word \"forehead\".",
+   "exampleMeaning": "Cùng học từ “forehead”: trán.",
+   "emoji": "",
+   "ipa": "/ˈfɔrhɛd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blend",
+   "meaning": "trộn lẫn, pha trộn, hòa hợp",
+   "example": "these two colours blend well",
+   "exampleMeaning": "Hai màu này rất hợp nhau",
+   "emoji": "",
+   "ipa": "/ˈblɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pleasantly",
+   "meaning": "dễ chịu, vui vẻ",
+   "example": "Let's learn the word \"pleasantly\".",
+   "exampleMeaning": "Cùng học từ “pleasantly”: dễ chịu, vui vẻ.",
+   "emoji": "",
+   "ipa": "/ˈplɛzəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "resident",
+   "meaning": "cư trú, thường trú",
+   "example": "Resident but not ordinarily resident",
+   "exampleMeaning": "Cư trú nhưng không thường trú (tức chỉ tạm trú)",
+   "emoji": "",
+   "ipa": "/ˈrɛzɪdənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "politician",
+   "meaning": "chính trị gia",
+   "example": "Let's learn the word \"politician\".",
+   "exampleMeaning": "Cùng học từ “politician”: chính trị gia.",
+   "emoji": "",
+   "ipa": "/ˌpɑləˈtɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ground floor",
+   "meaning": "tầng trệt, tầng một",
+   "example": "The restaurant is on the ground floor.",
+   "exampleMeaning": "Nhà hàng đó ở tầng 1.",
+   "emoji": "",
+   "ipa": "/ˈɡraʊnd ˈflɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "brand-new",
+   "meaning": "mới tinh, mới toanh",
+   "example": "Let's learn the word \"brand-new\".",
+   "exampleMeaning": "Cùng học từ “brand-new”: mới tinh, mới toanh.",
+   "emoji": "",
+   "ipa": "/ˈbrændˌnu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "calculate",
+   "meaning": "tính toán, tính",
+   "example": "I must calculate how much money I'll spend next week.",
+   "exampleMeaning": "Tôi phải tính xem tuần sau tôi sẽ dùng bao nhiêu tiền.",
+   "emoji": "",
+   "ipa": "/ˈkælkjʊleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pattern",
+   "meaning": "mẫu, hoa văn, khuôn mẫu",
+   "example": "a bicycle of an old pattern",
+   "exampleMeaning": "Cái xe đạp kiểu cũ",
+   "emoji": "",
+   "ipa": "/ˈpætɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unfriendly",
+   "meaning": "không thân thiện, khó gần",
+   "example": "an unfriendly circumstance",
+   "exampleMeaning": "Một trường hợp bất lợi",
+   "emoji": "",
+   "ipa": "/ənˈfrɛndli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "theory",
+   "meaning": "lý thuyết, giả thuyết",
+   "example": "good in theory but inapplicable in practice",
+   "exampleMeaning": "Hay về lý thuyết nhưng không áp dụng được trong thực hành",
+   "emoji": "",
+   "ipa": "/ˈθiɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "backache",
+   "meaning": "đau lưng",
+   "example": "Let's learn the word \"backache\".",
+   "exampleMeaning": "Cùng học từ “backache”: đau lưng.",
+   "emoji": "",
+   "ipa": "/ˈbæˌkeɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "engineering",
+   "meaning": "kỹ thuật, ngành kỹ sư",
+   "example": "Let's learn the word \"engineering\".",
+   "exampleMeaning": "Cùng học từ “engineering”: kỹ thuật, ngành kỹ sư.",
+   "emoji": "",
+   "ipa": "/ˌɛn(d)ʒɪˈnɪə.rɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "channel",
+   "meaning": "kênh, eo biển",
+   "example": "I watch the news channel on TV.",
+   "exampleMeaning": "Tôi xem kênh tin tức trên TV.",
+   "emoji": "",
+   "ipa": "/ˈtʃænəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ivory",
+   "meaning": "ngà voi",
+   "example": "Tens of thousands of elephants are killed every year for their ivory tusks.",
+   "exampleMeaning": "Hàng chục ngàn con voi bị giết mỗi năm để lấy ngà.",
+   "emoji": "",
+   "ipa": "/ˈaɪvɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "casual",
+   "meaning": "thường ngày, thoải mái, tình cờ",
+   "example": "clothers for casual wear",
+   "exampleMeaning": "Thường phục",
+   "emoji": "",
+   "ipa": "/ˈkæʒəwəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rainforest",
+   "meaning": "rừng mưa nhiệt đới",
+   "example": "In the Amazon rainforest live numerous exotic animals.",
+   "exampleMeaning": "Trong rừng mưa Amazon có rất nhiều loài động vật kì lạ.",
+   "emoji": "",
+   "ipa": "/ˈraɪnˌfɔrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ethics",
+   "meaning": "đạo đức, đạo đức học",
+   "example": "Let's learn the word \"ethics\".",
+   "exampleMeaning": "Cùng học từ “ethics”: đạo đức, đạo đức học.",
+   "emoji": "",
+   "ipa": "/ˈɛθɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "arrange",
+   "meaning": "sắp xếp, bố trí",
+   "example": "to arrange a piece of music",
+   "exampleMeaning": "Cải biên một bản nhạc",
+   "emoji": "",
+   "ipa": "/ɜrˈeɪndʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tracksuit",
+   "meaning": "bộ đồ thể thao",
+   "example": "Let's learn the word \"tracksuit\".",
+   "exampleMeaning": "Cùng học từ “tracksuit”: bộ đồ thể thao.",
+   "emoji": "",
+   "ipa": "/trˈæksuːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "His",
+    "theory",
+    "deserves",
+    "consideration"
+   ],
+   "reading": "",
+   "meaning": "Lý thuyết của ông ấy đáng được xem xét."
+  },
+  {
+   "tokens": [
+    "Practice",
+    "proves",
+    "the",
+    "theory"
+   ],
+   "reading": "",
+   "meaning": "Thực tiễn chứng minh lý luận."
+  },
+  {
+   "tokens": [
+    "I",
+    "prefer",
+    "casual",
+    "clothes",
+    "actually"
+   ],
+   "reading": "",
+   "meaning": "Tôi thật ra thích những bộ quần áo thông thường hơn."
+  },
+  {
+   "tokens": [
+    "Let's",
+    "learn",
+    "how",
+    "to",
+    "calculate"
+   ],
+   "reading": "",
+   "meaning": "Hãy cùng học cách tính toán nào."
+  },
+  {
+   "tokens": [
+    "I",
+    "think",
+    "I",
+    "can",
+    "arrange",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Tôi nghĩ tôi có thể sắp xếp việc đó."
+  }
+ ],
+ "issues": []
+}

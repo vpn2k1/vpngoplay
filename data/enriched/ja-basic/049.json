@@ -4,27 +4,27 @@
  "words": [
   {
    "term": "挨拶",
-   "meaning": "chào, chào hỏi, đón chào",
+   "meaning": "chào hỏi, lời chào",
    "example": "社長の挨拶が長くて式の後半が押せ押せになってしまった。",
    "exampleMeaning": "Bài phát biểu chào mừng của giám đốc quá dài, đã khiến cho nửa sau của buổi lễ bị quá giờ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "留守",
-   "meaning": "sự vắng mặt, sự nghỉ (học), sự đi vắng",
+   "meaning": "vắng nhà, đi vắng",
    "example": "午後は家を留守にします。",
    "exampleMeaning": "Chiều nay tôi vắng nhà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -37,20 +37,20 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "部長",
-   "meaning": "trưởng phòng",
+   "meaning": "trưởng phòng, trưởng ban",
    "example": "部長が提案を受け入れました。",
    "exampleMeaning": "Trưởng phòng đã chấp nhận đề xuất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,33 +63,33 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "輸入",
-   "meaning": "sự nhập, sự nhập khẩu (hàng hoá)",
+   "meaning": "nhập khẩu",
    "example": "穀物生産の落ち込みによって、中国は急速に日本を上回る世界有数の穀物輸入国となることが予想される。",
    "exampleMeaning": "Do sự suy thoái của ngành sản xuất ngũ cốc, Trung Quốc được dự báo là sẽ vượt Nhật Bản trở thành quốc gia nhập khẩu ngũ cốc hàng đầu thế giới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "一杯",
-   "meaning": "cốc (đầy)",
+   "meaning": "đầy, một cốc",
    "example": "コーヒーを一杯いかがですか。",
    "exampleMeaning": "Chị dùng thêm một ly cà phê nhé?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,163 +102,163 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "日記",
-   "meaning": "sổ nhật ký",
+   "meaning": "nhật ký",
    "example": "「日記」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “日記”: sổ nhật ký.",
+   "exampleMeaning": "Cùng nhớ từ “日記”: nhật ký.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "毛",
-   "meaning": "tóc trên cơ thể",
+   "meaning": "lông, tóc",
    "example": "髪の毛を洗っていない。",
    "exampleMeaning": "Tôi chưa gội đầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "タイプ",
-   "meaning": "loại, hạng, kiểu",
+   "meaning": "kiểu, loại, mẫu người",
    "example": "ミスタイプです。すみません。",
    "exampleMeaning": "Tôi đã gõ sai. Xin lỗi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "変",
-   "meaning": "xa lạ, không quen biết, kỳ lạ",
+   "meaning": "lạ, kỳ lạ, kỳ quặc",
    "example": "何も変わらない。",
    "exampleMeaning": "Không có gì thay đổi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "おいでになる",
-   "meaning": "thì, ở, đến",
+   "meaning": "đến, đi, ở (kính ngữ)",
    "example": "「おいでになる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “おいでになる”: thì, ở, đến.",
+   "exampleMeaning": "Cùng nhớ từ “おいでになる”: đến, đi, ở (kính ngữ).",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "探す",
-   "meaning": "tìm, đi tìm, tìm kiếm",
+   "meaning": "tìm, tìm kiếm",
    "example": "探す人が、見つけるのだ。",
    "exampleMeaning": "Tìm thì sẽ thấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "駐車場",
-   "meaning": "chỗ đậu xe",
+   "meaning": "bãi đỗ xe, bãi đậu xe",
    "example": "「駐車場」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “駐車場”: chỗ đậu xe.",
+   "exampleMeaning": "Cùng nhớ từ “駐車場”: bãi đỗ xe, bãi đậu xe.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "踊り",
-   "meaning": "sự nhảy múa",
+   "meaning": "điệu múa, điệu nhảy",
    "example": "「踊り」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “踊り”: sự nhảy múa.",
+   "exampleMeaning": "Cùng nhớ từ “踊り”: điệu múa, điệu nhảy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "親",
-   "meaning": "cha",
+   "meaning": "cha mẹ, phụ huynh",
    "example": "親友は何人いる？",
    "exampleMeaning": "Bạn có bao nhiêu bạn thân?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "連れる",
-   "meaning": "buộc chì",
+   "meaning": "dẫn theo, dẫn đi",
    "example": "「連れる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “連れる”: buộc chì.",
+   "exampleMeaning": "Cùng nhớ từ “連れる”: dẫn theo, dẫn đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "下げる",
-   "meaning": "hạ thấp, hạ xuống, kéo xuống",
+   "meaning": "hạ xuống, hạ thấp, treo",
    "example": "「下げる」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “下げる”: hạ thấp, hạ xuống, kéo xuống.",
+   "exampleMeaning": "Cùng nhớ từ “下げる”: hạ xuống, hạ thấp, treo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "高校生",
-   "meaning": "high school student (EN)",
+   "meaning": "học sinh cấp ba",
    "example": "これは高校生向けのよい辞書だ。",
    "exampleMeaning": "Đây là một cuốn từ điển tốt dành cho học sinh cấp 3.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

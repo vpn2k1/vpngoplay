@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "奶奶",
-   "meaning": "bà nội",
+   "meaning": "bà nội, bà",
    "example": "我们来学“奶奶”这个词。",
-   "exampleMeaning": "Cùng học từ “奶奶”: bà nội.",
+   "exampleMeaning": "Cùng học từ “奶奶”: bà nội, bà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nǎinai",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -24,20 +24,20 @@
    "ipa": "",
    "pinyin": "shàngcì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "唱歌",
-   "meaning": "hát",
+   "meaning": "hát, ca hát",
    "example": "你喜欢唱歌吗？",
    "exampleMeaning": "Bạn thích hát không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "chànggē",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -50,33 +50,33 @@
    "ipa": "",
    "pinyin": "yòubian",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "上学",
-   "meaning": "nhập học",
+   "meaning": "đi học",
    "example": "你在哪个学校上学？",
    "exampleMeaning": "Anh học ở trường nào?",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàngxué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "牛奶",
-   "meaning": "sữa bò",
+   "meaning": "sữa bò",
    "example": "我们来学“牛奶”这个词。",
-   "exampleMeaning": "Cùng học từ “牛奶”: sữa bò.",
+   "exampleMeaning": "Cùng học từ “牛奶”: sữa bò.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niúnǎi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -89,20 +89,20 @@
    "ipa": "",
    "pinyin": "nǚpéngyou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "上课",
-   "meaning": "lên lớp",
+   "meaning": "lên lớp, vào học",
    "example": "学校里八点开始上课。",
    "exampleMeaning": "Trong trường học, tám giờ bắt đầu học.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shàngkè",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -115,33 +115,33 @@
    "ipa": "",
    "pinyin": "yéye",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "听见",
-   "meaning": "nghe",
+   "meaning": "nghe thấy",
    "example": "听见打雷的声音。",
    "exampleMeaning": "Nghe thấy tiếng sấm",
    "emoji": "",
    "ipa": "",
    "pinyin": "tīngjiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "新年",
-   "meaning": "tết nguyên đán",
+   "meaning": "năm mới",
    "example": "我们来学“新年”这个词。",
-   "exampleMeaning": "Cùng học từ “新年”: tết nguyên đán.",
+   "exampleMeaning": "Cùng học từ “新年”: năm mới.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xīnnián",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,59 +154,59 @@
    "ipa": "",
    "pinyin": "nánpéngyou",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "下班",
-   "meaning": "tan ca",
+   "meaning": "tan làm, tan ca",
    "example": "每天下午六点下班。",
    "exampleMeaning": "Hàng ngày sáu giờ chiều tan ca.",
    "emoji": "",
    "ipa": "",
    "pinyin": "xiàbān",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "水果",
-   "meaning": "trái cây",
+   "meaning": "hoa quả, trái cây",
    "example": "我们来学“水果”这个词。",
-   "exampleMeaning": "Cùng học từ “水果”: trái cây.",
+   "exampleMeaning": "Cùng học từ “水果”: hoa quả, trái cây.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuǐguǒ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "读书",
-   "meaning": "học",
+   "meaning": "đọc sách, học",
    "example": "读书得间(读书时能发现问题)。",
    "exampleMeaning": "Đọc sách có thể phát hiện vấn đề",
    "emoji": "",
    "ipa": "",
    "pinyin": "dúshū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "那儿",
-   "meaning": "đó, đấy",
+   "meaning": "đó, ở đó",
    "example": "男孩子在那儿。",
    "exampleMeaning": "Thằng bé ở đằng kia.",
    "emoji": "",
    "ipa": "",
    "pinyin": "nàr",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -219,20 +219,20 @@
    "ipa": "",
    "pinyin": "shāngdiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "鸡蛋",
-   "meaning": "quả trứng gà",
+   "meaning": "trứng gà",
    "example": "我们来学“鸡蛋”这个词。",
-   "exampleMeaning": "Cùng học từ “鸡蛋”: quả trứng gà.",
+   "exampleMeaning": "Cùng học từ “鸡蛋”: trứng gà.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīdàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -245,7 +245,7 @@
    "ipa": "",
    "pinyin": "méiguānxi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -258,7 +258,7 @@
    "ipa": "",
    "pinyin": "dìtú",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

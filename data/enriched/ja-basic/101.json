@@ -4,14 +4,14 @@
  "words": [
   {
    "term": "貧しい",
-   "meaning": "nghèo, bần cùng",
+   "meaning": "nghèo, nghèo khó",
    "example": "彼女は貧しい、しかし幸せだ。",
    "exampleMeaning": "Cô ấy nghèo nhưng hạnh phúc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -24,46 +24,46 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "意地",
-   "meaning": "sự sắp xếp, sự sắp đặt, cách sắp xếp",
+   "meaning": "tính bướng bỉnh, ý chí",
    "example": "「意地」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “意地”: sự sắp xếp, sự sắp đặt, cách sắp xếp.",
+   "exampleMeaning": "Cùng nhớ từ “意地”: tính bướng bỉnh, ý chí.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "願う",
-   "meaning": "thèm muốn",
+   "meaning": "mong, cầu mong, mong muốn",
    "example": "「願う」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “願う”: thèm muốn.",
+   "exampleMeaning": "Cùng nhớ từ “願う”: mong, cầu mong, mong muốn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "隠す",
-   "meaning": "lột da",
+   "meaning": "giấu, che giấu",
    "example": "「隠す」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “隠す”: lột da.",
+   "exampleMeaning": "Cùng nhớ từ “隠す”: giấu, che giấu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -76,59 +76,59 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "知合い",
-   "meaning": "sự biết, sự hiểu biết",
+   "meaning": "người quen",
    "example": "「知合い」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “知合い”: sự biết, sự hiểu biết.",
+   "exampleMeaning": "Cùng nhớ từ “知合い”: người quen.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "酔う",
-   "meaning": "động tính từ quá khứ của drink",
+   "meaning": "say, say rượu",
    "example": "「酔う」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “酔う”: động tính từ quá khứ của drink.",
+   "exampleMeaning": "Cùng nhớ từ “酔う”: say, say rượu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "ちょうだい",
-   "meaning": "đến",
+   "meaning": "cho tôi xin, làm ơn (thân mật)",
    "example": "部屋から出てちょうだい。",
    "exampleMeaning": "Ra khỏi phòng đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "休暇",
-   "meaning": "kỳ nghỉ (hè, đông... )",
+   "meaning": "kỳ nghỉ, ngày nghỉ phép",
    "example": "彼女は休暇中です。",
    "exampleMeaning": "Cô ấy đang trong kỳ nghỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -141,124 +141,124 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "訳す",
-   "meaning": "dịch, phiên dịch",
+   "meaning": "dịch",
    "example": "この本を訳すのにどれくらいの時間かかりましたか。",
    "exampleMeaning": "Bạn tốn bao lâu để dịch cuốn sách này?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "刀",
-   "meaning": "gươm, kiếm",
+   "meaning": "thanh kiếm, gươm",
    "example": "剣道は竹刀と防具を使って行う日本の武道です。",
    "exampleMeaning": "Kiếm Đạo là một bộ môn võ thuật của Nhật Bản, trong đó sử dụng kiếm tre và áo giáp bảo vệ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "資格",
-   "meaning": "sự cho là",
+   "meaning": "tư cách, chứng chỉ",
    "example": "「資格」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “資格”: sự cho là.",
+   "exampleMeaning": "Cùng nhớ từ “資格”: tư cách, chứng chỉ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "必死",
-   "meaning": "sự liều lĩnh tuyệt vọng",
+   "meaning": "liều mạng, hết sức mình",
    "example": "「必死」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “必死”: sự liều lĩnh tuyệt vọng.",
+   "exampleMeaning": "Cùng nhớ từ “必死”: liều mạng, hết sức mình.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "すてき",
-   "meaning": "đẹp đẽ, xinh, đáng yêu",
+   "meaning": "đẹp, tuyệt vời",
    "example": "「すてき」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “すてき”: đẹp đẽ, xinh, đáng yêu.",
+   "exampleMeaning": "Cùng nhớ từ “すてき”: đẹp, tuyệt vời.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "歓声",
-   "meaning": "sự vui vẻ, sự khoái trá",
+   "meaning": "tiếng reo hò, reo mừng",
    "example": "「歓声」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “歓声”: sự vui vẻ, sự khoái trá.",
+   "exampleMeaning": "Cùng nhớ từ “歓声”: tiếng reo hò, reo mừng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "当時",
-   "meaning": "at that time (EN)",
+   "meaning": "lúc đó, thời đó, hồi đó",
    "example": "百合は当時たびたびロンドンに行った。",
    "exampleMeaning": "Yuri gần đây hay tới London.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "english",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "防ぐ",
-   "meaning": "che chở, bảo vệ, phòng thủ",
+   "meaning": "ngăn ngừa, phòng chống, bảo vệ",
    "example": "病院は院内感染を防ぐため、感染患者を隔離した。",
    "exampleMeaning": "Để đề phòng lây nhiễm chéo trong bệnh viện, bệnh viện đã cách ly những bệnh nhân bị nhiễm bệnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "牛",
-   "meaning": "thịt bò",
+   "meaning": "bò, con bò",
    "example": "牛乳はありますか？",
    "exampleMeaning": "Bạn có sữa không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

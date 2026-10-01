@@ -4,40 +4,40 @@
  "words": [
   {
    "term": "率",
-   "meaning": "thẳng thắn",
+   "meaning": "dẫn dắt, tỷ lệ",
    "example": "班长率本班战士出击。",
    "exampleMeaning": "Tiểu đội trưởng dẫn đầu các chiến sĩ xuất binh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shuài",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "半场",
-   "meaning": "một nửa của trò chơi hoặc cuộc thi",
+   "meaning": "hiệp (đấu), nửa sân",
    "example": "我们来学“半场”这个词。",
-   "exampleMeaning": "Cùng học từ “半场”: một nửa của trò chơi hoặc cuộc thi.",
+   "exampleMeaning": "Cùng học từ “半场”: hiệp (đấu), nửa sân.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bànchǎng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "吻",
-   "meaning": "cái hôn",
+   "meaning": "hôn, nụ hôn",
    "example": "我们来学“吻”这个词。",
-   "exampleMeaning": "Cùng học từ “吻”: cái hôn.",
+   "exampleMeaning": "Cùng học từ “吻”: hôn, nụ hôn.",
    "emoji": "💏",
    "ipa": "",
    "pinyin": "wěn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -50,85 +50,85 @@
    "ipa": "",
    "pinyin": "zhǔyì",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "从未",
-   "meaning": "chẳng bao giờ",
+   "meaning": "chưa bao giờ, chưa từng",
    "example": "我们来学“从未”这个词。",
-   "exampleMeaning": "Cùng học từ “从未”: chẳng bao giờ.",
+   "exampleMeaning": "Cùng học từ “从未”: chưa bao giờ, chưa từng.",
    "emoji": "",
    "ipa": "",
    "pinyin": "cóngwèi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "业",
-   "meaning": "nghiệp",
+   "meaning": "ngành, nghề nghiệp",
    "example": "她把所有的业余时间都用在钓鱼上了。",
    "exampleMeaning": "Cô ấy sử dụng thời gian rảnh rỗi để câu cá.",
    "emoji": "",
    "ipa": "",
    "pinyin": "yè",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "码",
-   "meaning": "việc, xếp, mã",
+   "meaning": "mã, con số",
    "example": "密码是\"Muiriel\"。",
    "exampleMeaning": "Mật mã là \"Muiriel\".",
    "emoji": "",
    "ipa": "",
    "pinyin": "mǎ",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "惊",
-   "meaning": "động",
+   "meaning": "giật mình, kinh sợ",
    "example": "胆战心惊。",
    "exampleMeaning": "Sợ hãi; sợ sệt; hoảng sợ.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "情报",
-   "meaning": "tình báo",
+   "meaning": "tình báo, thông tin tình báo",
    "example": "科学技术情报。",
    "exampleMeaning": "Tình báo khoa học kỹ thuật.",
    "emoji": "ℹ",
    "ipa": "",
    "pinyin": "qíngbào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "尿",
-   "meaning": "đi đái, đi tiểu",
+   "meaning": "nước tiểu, đi tiểu",
    "example": "小孩儿又尿(",
    "exampleMeaning": "Niào)了一泡尿。đứa bé tè một đống.",
    "emoji": "",
    "ipa": "",
    "pinyin": "niào",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -141,7 +141,7 @@
    "ipa": "",
    "pinyin": "jīnshǔ",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
@@ -154,111 +154,111 @@
    "ipa": "",
    "pinyin": "yǎnshén",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "灰",
-   "meaning": "bụi",
+   "meaning": "tro, bụi, xám",
    "example": "把桌子上的灰掸掉。",
    "exampleMeaning": "Lau bụi trên bàn đi.",
    "emoji": "",
    "ipa": "",
    "pinyin": "huī",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "计",
-   "meaning": "kế",
+   "meaning": "tính toán, kế",
    "example": "我们算计着改革生产流程。",
    "exampleMeaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jì",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "斗",
-   "meaning": "chắp",
+   "meaning": "đấu, tranh đấu",
    "example": "这件小袄儿是用各色花布斗起来的。",
    "exampleMeaning": "Cái áo cộc này chắp bằng các thứ vải hoa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "dòu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "公寓",
-   "meaning": "nhà trọ",
+   "meaning": "căn hộ, chung cư",
    "example": "我们来学“公寓”这个词。",
-   "exampleMeaning": "Cùng học từ “公寓”: nhà trọ.",
+   "exampleMeaning": "Cùng học từ “公寓”: căn hộ, chung cư.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gōngyù",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "产",
-   "meaning": "sản",
+   "meaning": "sinh, sản xuất",
    "example": "我国是一个人口众多，物产丰富的国家。",
    "exampleMeaning": "Nước tôi là một nước đông người nhiều của.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǎn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "基因",
-   "meaning": "gien",
+   "meaning": "gen",
    "example": "显性基因",
    "exampleMeaning": "Tính trội (trong di truyền)",
    "emoji": "",
    "ipa": "",
    "pinyin": "jīyīn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "革命",
-   "meaning": "cải cách triệt để",
+   "meaning": "cách mạng",
    "example": "越南八月革命是一次民族解放革命。",
    "exampleMeaning": "Cách mạng tháng tám Việt Nam là một cuộc cách mạng giải phóng dân tộc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "gémìng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "官员",
-   "meaning": "nhân viên",
+   "meaning": "quan chức",
    "example": "大小官员上千人。",
    "exampleMeaning": "Nhân viên lớn nhỏ hơn ngàn người.",
    "emoji": "",
    "ipa": "",
    "pinyin": "guānyuán",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   }

@@ -4,53 +4,53 @@
  "words": [
   {
    "term": "所有",
-   "meaning": "tất cả, hết thảy, toàn bộ",
+   "meaning": "tất cả, mọi",
    "example": "数学是所有科学的基础。",
    "exampleMeaning": "Toán học là nền tảng của tất cả các môn khoa học",
    "emoji": "",
    "ipa": "",
    "pinyin": "suǒyǒu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "而且",
-   "meaning": "mà còn",
+   "meaning": "mà còn, hơn nữa",
    "example": "不但战胜了各种灾害，而且获得了丰收。",
    "exampleMeaning": "Không chỉ chiến thắng được các bệnh dịch tai hại mà còn được mùa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "érqiě",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "必须",
-   "meaning": "phải",
+   "meaning": "phải, bắt buộc",
    "example": "他觉得必须报道这件事。",
    "exampleMeaning": "Ông ta cảm thấy phải báo cáo sự việc này.",
    "emoji": "",
    "ipa": "",
    "pinyin": "bìxū",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "长",
-   "meaning": "thêm",
+   "meaning": "dài, lớn lên, trưởng",
    "example": "那条河长300公里。",
    "exampleMeaning": "Con sông kia dài 300 ki lô mét.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -63,7 +63,7 @@
    "ipa": "",
    "pinyin": "chéngwéi",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -76,85 +76,85 @@
    "ipa": "",
    "pinyin": "qítā",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "事情",
-   "meaning": "việc",
+   "meaning": "việc, chuyện",
    "example": "事情不那么简单，你要用脑子好好想想，不能盲目地随大流。",
    "exampleMeaning": "Sự việc không đơn giản thế đâu, cậu phải dùng đầu óc mà suy nghĩ cho kỹ, không thể chạy theo đám đông một cách mù quáng được.",
    "emoji": "",
    "ipa": "",
    "pinyin": "shìqing",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "感觉",
-   "meaning": "cho rằng",
+   "meaning": "cảm giác, cảm thấy",
    "example": "我们有一个共同的感觉。",
    "exampleMeaning": "Chúng tôi có cảm giác giống nhau",
    "emoji": "",
    "ipa": "",
    "pinyin": "gǎnjué",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "然后",
-   "meaning": "rồi, rồi thì, sau đó",
+   "meaning": "sau đó, rồi",
    "example": "她拥抱了一下儿子,然后让他上床睡觉。",
    "exampleMeaning": "Cô ấy ôm con vào lòng, sau đó để nó ngủ trên giường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "ránhòu",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "条",
-   "meaning": "con",
+   "meaning": "sợi, con (lượng từ)",
    "example": "这几条狗，它们灵着呢。",
    "exampleMeaning": "Mấy con chó này chúng nó khôn lắm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tiáo",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "场",
-   "meaning": "trường",
+   "meaning": "trận, buổi, sân",
    "example": "飞机降落在新山一机场。",
    "exampleMeaning": "Máy bay xuống sân bay Tân Sơn Nhất.",
    "emoji": "",
    "ipa": "",
    "pinyin": "chǎng",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "件",
-   "meaning": "kiện",
+   "meaning": "chiếc, cái (lượng từ)",
    "example": "那件事我们还不知道。",
    "exampleMeaning": "Việc đó, chúng tôi chưa biết.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàn",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -167,7 +167,7 @@
    "ipa": "",
    "pinyin": "jìnxíng",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -180,7 +180,7 @@
    "ipa": "",
    "pinyin": "wèishénme",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -193,7 +193,7 @@
    "ipa": "",
    "pinyin": "huò",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
@@ -206,59 +206,59 @@
    "ipa": "",
    "pinyin": "chūxiàn",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "头",
-   "meaning": "trước (đứng trước số lượng từ)",
+   "meaning": "đầu",
    "example": "我还没有洗头。",
    "exampleMeaning": "Tôi chưa gội đầu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tóu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "见到",
-   "meaning": "gặp",
+   "meaning": "gặp, nhìn thấy",
    "example": "我见到了王子真人。",
    "exampleMeaning": "Tôi đã gặp Vương tử ngoài đời thật.",
    "emoji": "",
    "ipa": "",
    "pinyin": "jiàndào",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "通过",
-   "meaning": "qua",
+   "meaning": "thông qua, đi qua",
    "example": "通过老艺人收集民间故事。",
    "exampleMeaning": "Thu thập chuyện dân gian qua những nghệ nhân già.",
    "emoji": "",
    "ipa": "",
    "pinyin": "tōngguò",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "trungviet"
    }
   },
   {
    "term": "周",
-   "meaning": "vòng",
+   "meaning": "tuần, vòng",
    "example": "她非常周到和耐心。",
    "exampleMeaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo.",
    "emoji": "",
    "ipa": "",
    "pinyin": "zhōu",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }

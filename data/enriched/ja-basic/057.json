@@ -4,92 +4,92 @@
  "words": [
   {
    "term": "季節",
-   "meaning": "mùa (trong năm)",
+   "meaning": "mùa",
    "example": "私は季節の中で春が好きだ。",
    "exampleMeaning": "Mùa xuân là mùa tôi thích nhất trong các mùa.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "落る",
-   "meaning": "rơi, rơi xuống",
+   "meaning": "rơi, rơi xuống, trượt (thi)",
    "example": "「落る」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “落る”: rơi, rơi xuống.",
+   "exampleMeaning": "Cùng nhớ từ “落る”: rơi, rơi xuống, trượt (thi).",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "冷房",
-   "meaning": "nước muối cặn",
+   "meaning": "điều hòa, máy lạnh",
    "example": "ちなみに、この部屋には冷房設備なんて物は何も無い。あるのはうちわだけ。",
    "exampleMeaning": "Ngoài ra, phòng này không có thiết bị làm lạnh hay gì hết, mà chỉ có một cái quạt giấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "簡単",
-   "meaning": "đơn giản",
+   "meaning": "đơn giản, dễ",
    "example": "私の仕事簡単だと思う？",
    "exampleMeaning": "Bạn có nghĩ là công việc của tôi dễ dàng không?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "食料品",
-   "meaning": "thực phẩm",
+   "meaning": "thực phẩm, đồ ăn",
    "example": "「食料品」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “食料品”: thực phẩm.",
+   "exampleMeaning": "Cùng nhớ từ “食料品”: thực phẩm, đồ ăn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "壁",
-   "meaning": "tường, vách",
+   "meaning": "tường, bức tường",
    "example": "彼は壁に寄りかかった。",
    "exampleMeaning": "Anh ấy đứng nghiêng vào tường.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "凄い",
-   "meaning": "hoàn hảo, kỳ diệu",
+   "meaning": "tuyệt, ghê, kinh khủng",
    "example": "凄いです！こんな感動的な話は初めてです！まさに美談の中の美談です！",
    "exampleMeaning": "Thật tuyệt vời! Đây là lần đầu tiên tôi được nghe một câu chuyện cảm động đến vậy! Quả là một tuyệt tác của những tuyệt tác!",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
@@ -102,163 +102,163 @@
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "形",
-   "meaning": "hình, hình dạng, hình thù",
+   "meaning": "hình dạng, hình",
    "example": "彼は本当に美しい体形だ。",
    "exampleMeaning": "Anh ta có một cơ thể thật đẹp.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "コンピュータ",
-   "meaning": "máy tính, máy vi tính, máy điện toán",
+   "meaning": "máy tính",
    "example": "コンピューターを再起動してください。",
    "exampleMeaning": "Hãy khởi động lại máy tính.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "冷える",
-   "meaning": "lạnh, lạnh lẽo, nguội",
+   "meaning": "lạnh đi, nguội đi, trở lạnh",
    "example": "「冷える」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “冷える”: lạnh, lạnh lẽo, nguội.",
+   "exampleMeaning": "Cùng nhớ từ “冷える”: lạnh đi, nguội đi, trở lạnh.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "泣く",
-   "meaning": "khóc, khóc lóc",
+   "meaning": "khóc",
    "example": "看護婦は泣く子をなだめた。",
    "exampleMeaning": "Người y tá dỗ dành đứa trẻ đang khóc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "ケーキ",
-   "meaning": "bánh ngọt",
+   "meaning": "bánh ngọt, bánh kem",
    "example": "このケーキ誰が作ったの？",
    "exampleMeaning": "Ai đã làm chiếc bánh này?",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "アメリカ",
-   "meaning": "nước Mỹ",
+   "meaning": "Mỹ, nước Mỹ",
    "example": "アメリカはとても大きい。",
    "exampleMeaning": "Nước Mỹ rất rộng lớn.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "治る",
-   "meaning": "vượt, hơn",
+   "meaning": "khỏi, khỏi bệnh, bình phục",
    "example": "風邪が治るのに一か月以上かかったんだ。",
    "exampleMeaning": "Tôi đã mất hơn một tháng để khỏi cúm.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "台風",
-   "meaning": ": Lốc xoáy, bão",
+   "meaning": "bão",
    "example": "台風で川が氾濫した。",
    "exampleMeaning": "Cơn bão làm nước sông bị tràn ra.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "競争",
-   "meaning": "sự cạnh tranh",
+   "meaning": "cạnh tranh, thi đua",
    "example": "「競争」という言葉を覚えましょう。",
-   "exampleMeaning": "Cùng nhớ từ “競争”: sự cạnh tranh.",
+   "exampleMeaning": "Cùng nhớ từ “競争”: cạnh tranh, thi đua.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "template"
    }
   },
   {
    "term": "ひげ",
-   "meaning": "râu (người)",
+   "meaning": "râu",
    "example": "ひげを剃らなきゃ。",
    "exampleMeaning": "Tôi phải cạo râu.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "回る",
-   "meaning": "đi khảo giá",
+   "meaning": "quay, xoay, đi vòng quanh",
    "example": "目が回るほど忙しいよ。",
    "exampleMeaning": "Tôi bận đến mức chóng mặt đấy.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "bridge",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   },
   {
    "term": "事",
-   "meaning": "việc, sự việc, cái",
+   "meaning": "việc, chuyện, điều",
    "example": "仕事中です。",
    "exampleMeaning": "Tôi đang làm việc.",
    "emoji": "",
    "ipa": "",
    "pinyin": "",
    "source": {
-    "meaning": "dictionary",
+    "meaning": "reviewed",
     "example": "tatoeba"
    }
   }
