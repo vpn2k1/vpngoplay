@@ -145,7 +145,7 @@ function Dashboard({ profile }: { profile: Profile }) {
         <h3 className="flex items-center gap-2 pt-2 font-black">
           <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
         </h3>
-        <div className={cx('grid gap-3', langCourses.length >= 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
+        <div className={cx('grid gap-3', langCourses.length === 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
           {langCourses.map(courseCard)}
         </div>
       </>
@@ -206,7 +206,11 @@ function Dashboard({ profile }: { profile: Profile }) {
             <div className="space-y-3">
               {otherGrammar && <GrammarCard />}
               {otherPractice.length > 0 && practiceGrid(otherPractice)}
-              {otherCourses.length > 0 && <div className="grid gap-3 sm:grid-cols-3">{otherCourses.map(courseCard)}</div>}
+              {otherCourses.length > 0 && (
+                <div className={cx('grid gap-3', otherCourses.length === 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
+                  {otherCourses.map(courseCard)}
+                </div>
+              )}
               {otherDecks.length > 0 && <div className="grid gap-3 sm:grid-cols-2">{otherDecks.map(deckCard)}</div>}
             </div>
           </OffPath>

@@ -53,7 +53,12 @@ const { values: args } = parseArgs({
 })
 
 const LANG_NAME = { en: 'English', ja: 'Japanese', zh: 'Chinese (Simplified, Mainland usage)' }
-const LEVEL_NAME = { basic: 'beginner', intermediate: 'intermediate', advanced: 'advanced' }
+const LEVEL_NAME = {
+  basic: 'beginner',
+  intermediate: 'intermediate',
+  advanced: 'advanced',
+  expert: 'expert (beyond the standard exam lists)',
+}
 
 const LessonSchema = z.object({
   words: z.array(

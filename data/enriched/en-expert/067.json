@@ -1,0 +1,324 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "slippery",
+   "meaning": "trơn, khó nắm bắt",
+   "example": "to be slippery as an eel",
+   "exampleMeaning": "Lủi như chạch",
+   "emoji": "",
+   "ipa": "/ˈslɪpɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "martyr",
+   "meaning": "liệt sĩ, người tử vì đạo",
+   "example": "Let's learn the word \"martyr\".",
+   "exampleMeaning": "Cùng học từ “martyr”: liệt sĩ, người tử vì đạo.",
+   "emoji": "",
+   "ipa": "/ˈmɑrtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shovel",
+   "meaning": "cái xẻng, xúc",
+   "example": "Let's learn the word \"shovel\".",
+   "exampleMeaning": "Cùng học từ “shovel”: cái xẻng, xúc.",
+   "emoji": "🪏",
+   "ipa": "/ˈʃʌvl̩/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "handbook",
+   "meaning": "sổ tay, cẩm nang",
+   "example": "Let's learn the word \"handbook\".",
+   "exampleMeaning": "Cùng học từ “handbook”: sổ tay, cẩm nang.",
+   "emoji": "",
+   "ipa": "/ˈhændˌbʊk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "maternity",
+   "meaning": "thai sản, làm mẹ",
+   "example": "Let's learn the word \"maternity\".",
+   "exampleMeaning": "Cùng học từ “maternity”: thai sản, làm mẹ.",
+   "emoji": "",
+   "ipa": "/məˈtɜrnɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "squat",
+   "meaning": "ngồi xổm, chiếm dụng nhà",
+   "example": "He didn't do squat to help.",
+   "exampleMeaning": "Anh giúp chẳng ra gì",
+   "emoji": "",
+   "ipa": "/ˈskwɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "seduce",
+   "meaning": "quyến rũ, dụ dỗ",
+   "example": "In the movie, the student tries to seduce the teacher.",
+   "exampleMeaning": "Trong phim, người học sinh cố gắng quyến rũ giáo viên.",
+   "emoji": "",
+   "ipa": "/sɪˈdus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hassle",
+   "meaning": "phiền phức, quấy rầy",
+   "example": "Let's learn the word \"hassle\".",
+   "exampleMeaning": "Cùng học từ “hassle”: phiền phức, quấy rầy.",
+   "emoji": "",
+   "ipa": "/ˈhæsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "progressively",
+   "meaning": "dần dần, ngày càng",
+   "example": "Let's learn the word \"progressively\".",
+   "exampleMeaning": "Cùng học từ “progressively”: dần dần, ngày càng.",
+   "emoji": "",
+   "ipa": "/prɑˈɡrɛsɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pod",
+   "meaning": "vỏ quả đậu, đàn (cá voi)",
+   "example": "Let's learn the word \"pod\".",
+   "exampleMeaning": "Cùng học từ “pod”: vỏ quả đậu, đàn (cá voi).",
+   "emoji": "",
+   "ipa": "/ˈpɑd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "painfully",
+   "meaning": "đau đớn, cực kỳ",
+   "example": "Let's learn the word \"painfully\".",
+   "exampleMeaning": "Cùng học từ “painfully”: đau đớn, cực kỳ.",
+   "emoji": "",
+   "ipa": "/ˈpeɪnfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "plaza",
+   "meaning": "quảng trường",
+   "example": "Let's learn the word \"plaza\".",
+   "exampleMeaning": "Cùng học từ “plaza”: quảng trường.",
+   "emoji": "",
+   "ipa": "/ˈplæzə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unionist",
+   "meaning": "thành viên công đoàn",
+   "example": "Let's learn the word \"unionist\".",
+   "exampleMeaning": "Cùng học từ “unionist”: thành viên công đoàn.",
+   "emoji": "",
+   "ipa": "/ˈjunjənəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "loft",
+   "meaning": "gác xép",
+   "example": "Let's learn the word \"loft\".",
+   "exampleMeaning": "Cùng học từ “loft”: gác xép.",
+   "emoji": "",
+   "ipa": "/ˈlɔft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "arthritis",
+   "meaning": "viêm khớp",
+   "example": "Let's learn the word \"arthritis\".",
+   "exampleMeaning": "Cùng học từ “arthritis”: viêm khớp.",
+   "emoji": "",
+   "ipa": "/ɑrˈθraɪtəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "impend",
+   "meaning": "sắp xảy ra, đe dọa",
+   "example": "Let's learn the word \"impend\".",
+   "exampleMeaning": "Cùng học từ “impend”: sắp xảy ra, đe dọa.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prudent",
+   "meaning": "thận trọng, khôn ngoan",
+   "example": "Let's learn the word \"prudent\".",
+   "exampleMeaning": "Cùng học từ “prudent”: thận trọng, khôn ngoan.",
+   "emoji": "",
+   "ipa": "/ˈprudənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "presumption",
+   "meaning": "giả định, sự trơ tráo",
+   "example": "there is a strong presumption in favour of...",
+   "exampleMeaning": "Có căn cứ vững chắc để thiên về",
+   "emoji": "",
+   "ipa": "/priˈzəmpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unleash",
+   "meaning": "giải phóng, tung ra, thả xích",
+   "example": "Let's learn the word \"unleash\".",
+   "exampleMeaning": "Cùng học từ “unleash”: giải phóng, tung ra, thả xích.",
+   "emoji": "",
+   "ipa": "/ənˈliʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "crusade",
+   "meaning": "thập tự chinh, chiến dịch",
+   "example": "a crusade in favour of birth-control",
+   "exampleMeaning": "Cuộc vận động sinh đẻ có kế hoạch",
+   "emoji": "",
+   "ipa": "/kruˈseɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "room",
+    "was",
+    "fairly",
+    "spacious"
+   ],
+   "reading": "",
+   "meaning": "Căn phòng khá là rộng rãi."
+  },
+  {
+   "tokens": [
+    "We",
+    "hacked",
+    "the",
+    "government",
+    "database"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta đã hack vào cơ sở dữ liệu của chính phủ."
+  },
+  {
+   "tokens": [
+    "Even",
+    "Linux",
+    "can",
+    "be",
+    "hacked"
+   ],
+   "reading": "",
+   "meaning": "Kể cả Linux cũng có thể bị hack."
+  },
+  {
+   "tokens": [
+    "The",
+    "hunter",
+    "lost",
+    "his",
+    "quiver"
+   ],
+   "reading": "",
+   "meaning": "Thợ săn bị mất ống đựng tên."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "learn",
+    "Turkish"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố học tiếng Thổ Nhĩ Kì."
+  }
+ ],
+ "issues": []
+}

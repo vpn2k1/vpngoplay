@@ -1,0 +1,326 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "頑張り",
+   "meaning": "nỗ lực, sức bền",
+   "example": "「頑張り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “頑張り”: nỗ lực, sức bền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口々",
+   "meaning": "mỗi người một lời",
+   "example": "「口々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “口々”: mỗi người một lời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "汚濁",
+   "meaning": "ô nhiễm, vẩn đục",
+   "example": "「汚濁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “汚濁”: ô nhiễm, vẩn đục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "花粉症",
+   "meaning": "dị ứng phấn hoa",
+   "example": "「花粉症」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “花粉症”: dị ứng phấn hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "上半身",
+   "meaning": "nửa trên cơ thể",
+   "example": "「上半身」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “上半身”: nửa trên cơ thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "画一",
+   "meaning": "đồng nhất, rập khuôn",
+   "example": "「画一」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “画一”: đồng nhất, rập khuôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確約",
+   "meaning": "cam kết chắc chắn, hứa chắc",
+   "example": "「確約」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “確約”: cam kết chắc chắn, hứa chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "葬送",
+   "meaning": "đưa tang",
+   "example": "「葬送」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “葬送”: đưa tang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "豪雨",
+   "meaning": "mưa lớn, mưa xối xả",
+   "example": "「豪雨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “豪雨”: mưa lớn, mưa xối xả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "別院",
+   "meaning": "chùa nhánh",
+   "example": "「別院」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “別院”: chùa nhánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平泳ぎ",
+   "meaning": "bơi ếch",
+   "example": "「平泳ぎ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “平泳ぎ”: bơi ếch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前半戦",
+   "meaning": "hiệp một, nửa đầu trận",
+   "example": "「前半戦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “前半戦”: hiệp một, nửa đầu trận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弔問",
+   "meaning": "viếng tang, chia buồn",
+   "example": "「弔問」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弔問”: viếng tang, chia buồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "半日",
+   "meaning": "nửa ngày",
+   "example": "「半日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “半日”: nửa ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主税局",
+   "meaning": "cục thuế",
+   "example": "「主税局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主税局”: cục thuế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "八重",
+   "meaning": "tám lớp, nhiều lớp",
+   "example": "５月１０日月曜日の午後３時に東京駅八重洲中央口で待ち合わせをしていただけませんか。",
+   "exampleMeaning": "Bạn có thể gặp tôi vào lúc 3 giờ ngày 10 tháng 5, tại cổng trung tâm Yaesu, ga Tokyo được không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "検出",
+   "meaning": "phát hiện, dò tìm",
+   "example": "「検出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “検出”: phát hiện, dò tìm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特設",
+   "meaning": "lắp đặt đặc biệt, thiết lập riêng",
+   "example": "「特設」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特設”: lắp đặt đặc biệt, thiết lập riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天文台",
+   "meaning": "đài thiên văn",
+   "example": "「天文台」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “天文台”: đài thiên văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "探偵",
+   "meaning": "thám tử",
+   "example": "「探偵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “探偵”: thám tử.",
+   "emoji": "🕵",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "港",
+    "は",
+    "封鎖",
+    "され",
+    "うる"
+   ],
+   "reading": "このみなとはふうさされうる",
+   "meaning": "Cảng biển này có thể sẽ bị phong tỏa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "民主党",
+    "の",
+    "支持者",
+    "だ"
+   ],
+   "reading": "かれはみんしゅとうのしじしゃだ",
+   "meaning": "Anh ta ủng hộ đảng Dân chủ."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "婚約",
+    "を",
+    "破棄",
+    "した"
+   ],
+   "reading": "かれらはこんやくをはきした",
+   "meaning": "Họ đã hủy bỏ hôn ước."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "試験",
+    "で",
+    "しくじった"
+   ],
+   "reading": "かれはしけんでしくじった",
+   "meaning": "Anh ấy đã trượt bài kiểm tra."
+  },
+  {
+   "tokens": [
+    "今回",
+    "は",
+    "しくじれない",
+    "ぞ"
+   ],
+   "reading": "こんかいはしくじれないぞ",
+   "meaning": "Lần này bạn không được thất bại đâu đấy."
+  }
+ ],
+ "issues": []
+}

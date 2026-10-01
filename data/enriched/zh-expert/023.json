@@ -1,0 +1,345 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "说情",
+   "meaning": "nói giúp, xin hộ",
+   "example": "我们来学“说情”这个词。",
+   "exampleMeaning": "Cùng học từ “说情”: nói giúp, xin hộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōqíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "见钱眼开",
+   "meaning": "thấy tiền sáng mắt",
+   "example": "我们来学“见钱眼开”这个词。",
+   "exampleMeaning": "Cùng học từ “见钱眼开”: thấy tiền sáng mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànqiányǎnkāi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "五花八门",
+   "meaning": "muôn hình muôn vẻ",
+   "example": "市场上的商品五花八门，琳琅满目。",
+   "exampleMeaning": "Hàng hóa trên chợ đủ kiểu đủ loại, bày biện la liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔhuābāmén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "腐化",
+   "meaning": "thối rữa, sa đọa, hủ bại",
+   "example": "封建余毒腐化了一些人的灵魂。",
+   "exampleMeaning": "Tàn dư phong kiến làm sa đoạ hủ bại tâm hồn của một số người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǔhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "秉承",
+   "meaning": "kế thừa, vâng theo",
+   "example": "秉承上级的命令",
+   "exampleMeaning": "Tuân theo lệnh của cấp trên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐngchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "敦厚",
+   "meaning": "đôn hậu, chân chất",
+   "example": "温柔敦厚",
+   "exampleMeaning": "Hiền hoà trung hậu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dūnhòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "娇气",
+   "meaning": "yếu ớt, õng ẹo",
+   "example": "此人娇气十足",
+   "exampleMeaning": "Người này thật yếu đuối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "力学",
+   "meaning": "cơ học",
+   "example": "力学不倦。",
+   "exampleMeaning": "Nỗ lực học tập không mệt mỏi; miệt mài học tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清静",
+   "meaning": "yên tĩnh, thanh tĩnh",
+   "example": "我们找个清静的地方谈谈。",
+   "exampleMeaning": "Chúng mình tìm một nơi yên tĩnh để nói chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngjìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水涨船高",
+   "meaning": "nước lên thuyền lên",
+   "example": "我们来学“水涨船高”这个词。",
+   "exampleMeaning": "Cùng học từ “水涨船高”: nước lên thuyền lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐzhǎngchuángāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "演艺圈",
+   "meaning": "giới showbiz, làng giải trí",
+   "example": "我们来学“演艺圈”这个词。",
+   "exampleMeaning": "Cùng học từ “演艺圈”: giới showbiz, làng giải trí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnyìquān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嘴角",
+   "meaning": "khóe miệng",
+   "example": "我们来学“嘴角”这个词。",
+   "exampleMeaning": "Cùng học từ “嘴角”: khóe miệng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǐjiǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "点击率",
+   "meaning": "tỷ lệ nhấp chuột, lượt nhấp",
+   "example": "我们来学“点击率”这个词。",
+   "exampleMeaning": "Cùng học từ “点击率”: tỷ lệ nhấp chuột, lượt nhấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diǎnjīlǜ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "报亭",
+   "meaning": "sạp báo, quầy báo",
+   "example": "我们来学“报亭”这个词。",
+   "exampleMeaning": "Cùng học từ “报亭”: sạp báo, quầy báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàotíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "疏通",
+   "meaning": "khơi thông, nạo vét, dàn xếp",
+   "example": "疏通田间排水沟。",
+   "exampleMeaning": "Khơi thông máng tiêu nước ở đồng ruộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūtōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "采矿",
+   "meaning": "khai mỏ, khai thác mỏ",
+   "example": "我们来学“采矿”这个词。",
+   "exampleMeaning": "Cùng học từ “采矿”: khai mỏ, khai thác mỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎikuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "退休金",
+   "meaning": "lương hưu",
+   "example": "我们来学“退休金”这个词。",
+   "exampleMeaning": "Cùng học từ “退休金”: lương hưu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuìxiūjīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相距",
+   "meaning": "cách nhau, khoảng cách",
+   "example": "两个桥墩相距20米",
+   "exampleMeaning": "Hai trụ cầu cách nhau 20 m.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngjù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "舰艇",
+   "meaning": "tàu chiến, chiến hạm",
+   "example": "我们来学“舰艇”这个词。",
+   "exampleMeaning": "Cùng học từ “舰艇”: tàu chiến, chiến hạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàntǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挡住",
+   "meaning": "chặn, che khuất",
+   "example": "我们来学“挡住”这个词。",
+   "exampleMeaning": "Cùng học từ “挡住”: chặn, che khuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎngzhù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  }
+ ],
+ "issues": []
+}

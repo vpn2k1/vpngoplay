@@ -1,0 +1,331 @@
+{
+ "lesson": 25,
+ "draft": true,
+ "words": [
+  {
+   "term": "府立",
+   "meaning": "thuộc phủ, do phủ quản lý",
+   "example": "「府立」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “府立”: thuộc phủ, do phủ quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先手",
+   "meaning": "đi trước, ra tay trước",
+   "example": "「先手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先手”: đi trước, ra tay trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空席",
+   "meaning": "ghế trống, chỗ trống",
+   "example": "まだ空席がありますか。",
+   "exampleMeaning": "Ở đây còn chỗ trống không ạ?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "正念場",
+   "meaning": "thời khắc quyết định",
+   "example": "「正念場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “正念場”: thời khắc quyết định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政務",
+   "meaning": "chính vụ, công việc nhà nước",
+   "example": "「政務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政務”: chính vụ, công việc nhà nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天理",
+   "meaning": "thiên lý, lẽ trời",
+   "example": "「天理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “天理”: thiên lý, lẽ trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "演出家",
+   "meaning": "đạo diễn",
+   "example": "「演出家」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “演出家”: đạo diễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "執念",
+   "meaning": "chấp niệm, lòng kiên trì",
+   "example": "「執念」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “執念”: chấp niệm, lòng kiên trì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代表作",
+   "meaning": "tác phẩm tiêu biểu",
+   "example": "「代表作」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代表作”: tác phẩm tiêu biểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "標的",
+   "meaning": "mục tiêu, bia",
+   "example": "「標的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “標的”: mục tiêu, bia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "再審",
+   "meaning": "tái thẩm, xét xử lại",
+   "example": "「再審」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再審”: tái thẩm, xét xử lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民意",
+   "meaning": "ý dân, dân ý",
+   "example": "「民意」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “民意”: ý dân, dân ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "帝",
+   "meaning": "hoàng đế, thiên hoàng",
+   "example": "「帝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “帝”: hoàng đế, thiên hoàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "聞き手",
+   "meaning": "người nghe, thính giả",
+   "example": "「聞き手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “聞き手”: người nghe, thính giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保護者",
+   "meaning": "phụ huynh, người giám hộ",
+   "example": "「保護者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “保護者”: phụ huynh, người giám hộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "期待感",
+   "meaning": "cảm giác kỳ vọng",
+   "example": "「期待感」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “期待感”: cảm giác kỳ vọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "木曜",
+   "meaning": "thứ năm",
+   "example": "「木曜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “木曜”: thứ năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主軸",
+   "meaning": "trục chính, trụ cột",
+   "example": "「主軸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主軸”: trục chính, trụ cột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公文書",
+   "meaning": "công văn, văn bản chính thức",
+   "example": "「公文書」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公文書”: công văn, văn bản chính thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "予断",
+   "meaning": "đoán trước, phán đoán trước",
+   "example": "「予断」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予断”: đoán trước, phán đoán trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで",
+    "ください"
+   ],
+   "reading": "きゅうきゅうしゃをよんでください",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "ジェーン",
+    "は",
+    "社長",
+    "秘書",
+    "です"
+   ],
+   "reading": "ジェーンはしゃちょうひしょです",
+   "meaning": "Jane là thư ký giám đốc."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "牛",
+    "と",
+    "馬",
+    "を",
+    "飼育",
+    "している"
+   ],
+   "reading": "かれはうしとうまをしいくしている",
+   "meaning": "Anh ta nuôi bò và ngựa."
+  },
+  {
+   "tokens": [
+    "その",
+    "歌手",
+    "は",
+    "注目",
+    "の",
+    "的",
+    "だった"
+   ],
+   "reading": "そのかしゅはちゅうもくのてきだった",
+   "meaning": "Mọi sự chú ý đều tập trung về phía ca sĩ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "それ",
+    "を",
+    "真実",
+    "だ",
+    "と",
+    "認めた"
+   ],
+   "reading": "かれはそれをしんじつだとみとめた",
+   "meaning": "Anh ta thừa nhận rằng đó là sự thật."
+  }
+ ],
+ "issues": []
+}

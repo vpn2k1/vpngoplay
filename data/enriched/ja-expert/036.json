@@ -1,0 +1,324 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "早",
+   "meaning": "đã, đã rồi",
+   "example": "早起きは三文の徳。",
+   "exampleMeaning": "Ăn cỗ đi trước, lội nước theo sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中央集権",
+   "meaning": "tập quyền trung ương",
+   "example": "「中央集権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中央集権”: tập quyền trung ương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所在地",
+   "meaning": "địa điểm, địa chỉ",
+   "example": "「所在地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “所在地”: địa điểm, địa chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "当の",
+   "meaning": "đương sự, chính cái đó",
+   "example": "これは本当の愛ではない。",
+   "exampleMeaning": "Đây không phải là tình yêu thật sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "毒性",
+   "meaning": "độc tính",
+   "example": "「毒性」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “毒性”: độc tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空前",
+   "meaning": "chưa từng có",
+   "example": "「空前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “空前”: chưa từng có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空き缶",
+   "meaning": "lon rỗng, vỏ lon",
+   "example": "「空き缶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “空き缶”: lon rỗng, vỏ lon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "棚上げ",
+   "meaning": "gác lại, xếp xó",
+   "example": "「棚上げ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “棚上げ”: gác lại, xếp xó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断層",
+   "meaning": "đứt gãy, khoảng cách",
+   "example": "「断層」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “断層”: đứt gãy, khoảng cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "質的",
+   "meaning": "về chất, định tính",
+   "example": "実質的に全ての家庭にはテレビがある。",
+   "exampleMeaning": "Thực chất thì tất cả mọi gia đình đều có ti vi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "悪循環",
+   "meaning": "vòng luẩn quẩn",
+   "example": "「悪循環」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “悪循環”: vòng luẩn quẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "駐屯",
+   "meaning": "đồn trú",
+   "example": "「駐屯」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “駐屯”: đồn trú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旅客機",
+   "meaning": "máy bay chở khách",
+   "example": "「旅客機」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “旅客機”: máy bay chở khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "友愛",
+   "meaning": "hữu ái, tình bạn",
+   "example": "彼は友愛会の会員だ。",
+   "exampleMeaning": "Anh ta là thành viên của hội anh em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "打力",
+   "meaning": "sức đánh, lực đánh bóng",
+   "example": "「打力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “打力”: sức đánh, lực đánh bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夏場",
+   "meaning": "mùa hè, dịp hè",
+   "example": "「夏場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夏場”: mùa hè, dịp hè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持ち株",
+   "meaning": "cổ phần nắm giữ",
+   "example": "「持ち株」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持ち株”: cổ phần nắm giữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "木星",
+   "meaning": "sao Mộc",
+   "example": "「木星」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “木星”: sao Mộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歳月",
+   "meaning": "năm tháng, thời gian",
+   "example": "歳月人を待たず。",
+   "exampleMeaning": "Thời gian không chờ đợi một ai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "中古車",
+   "meaning": "xe cũ, ô tô cũ",
+   "example": "「中古車」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中古車”: xe cũ, ô tô cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "友愛会",
+    "の",
+    "会員",
+    "だ"
+   ],
+   "reading": "かれはゆうあいかいのかいいんだ",
+   "meaning": "Anh ta là thành viên của hội anh em."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "以前",
+    "早起き",
+    "だった"
+   ],
+   "reading": "かれはいぜんはやおきだった",
+   "meaning": "Trước đây, anh ấy từng là một người hay dậy sớm."
+  },
+  {
+   "tokens": [
+    "できるだけ",
+    "早く",
+    "来ます"
+   ],
+   "reading": "できるだけはやくきます",
+   "meaning": "Tôi sẽ đến sớm nhất có thể."
+  },
+  {
+   "tokens": [
+    "母",
+    "は",
+    "いつも",
+    "朝早く",
+    "起きる"
+   ],
+   "reading": "はははいつもあさはやくおきる",
+   "meaning": "Mẹ tôi luôn luôn dậy sớm buổi sáng."
+  },
+  {
+   "tokens": [
+    "女の子",
+    "は",
+    "男の子",
+    "より",
+    "早熟",
+    "だ"
+   ],
+   "reading": "おんなのこはおとこのこよりそうじゅくだ",
+   "meaning": "Con gái thì lớn nhanh hơn con trai."
+  }
+ ],
+ "issues": []
+}

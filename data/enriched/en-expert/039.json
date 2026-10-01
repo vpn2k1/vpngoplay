@@ -1,0 +1,324 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "parlor",
+   "meaning": "phòng khách, tiệm (làm đẹp)",
+   "example": "a hairdresser's parlor",
+   "exampleMeaning": "Phòng cắt tóc",
+   "emoji": "",
+   "ipa": "/ˈpɑrlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "clearance",
+   "meaning": "cho phép, dọn dẹp, xả hàng",
+   "example": "certificate of clearance",
+   "exampleMeaning": "Giấy phép rời bến",
+   "emoji": "",
+   "ipa": "/ˈklɪrəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rinse",
+   "meaning": "súc, xả, tráng",
+   "example": "to rinse food down with some tea",
+   "exampleMeaning": "Uống một ít nước chè để nuốt trôi đồ ăn",
+   "emoji": "",
+   "ipa": "/ˈrɪns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blond",
+   "meaning": "tóc vàng",
+   "example": "Let's learn the word \"blond\".",
+   "exampleMeaning": "Cùng học từ “blond”: tóc vàng.",
+   "emoji": "",
+   "ipa": "/ˈblɑnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mistress",
+   "meaning": "tình nhân, bà chủ",
+   "example": "Let's learn the word \"mistress\".",
+   "exampleMeaning": "Cùng học từ “mistress”: tình nhân, bà chủ.",
+   "emoji": "",
+   "ipa": "/ˈmɪstrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deployment",
+   "meaning": "triển khai, bố trí",
+   "example": "Let's learn the word \"deployment\".",
+   "exampleMeaning": "Cùng học từ “deployment”: triển khai, bố trí.",
+   "emoji": "",
+   "ipa": "/dɪˈplɔɪmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seam",
+   "meaning": "đường may, vỉa (than)",
+   "example": "Let's learn the word \"seam\".",
+   "exampleMeaning": "Cùng học từ “seam”: đường may, vỉa (than).",
+   "emoji": "",
+   "ipa": "/ˈsim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "indictment",
+   "meaning": "cáo trạng, lời buộc tội",
+   "example": "Let's learn the word \"indictment\".",
+   "exampleMeaning": "Cùng học từ “indictment”: cáo trạng, lời buộc tội.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdaɪtmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "downturn",
+   "meaning": "suy thoái, đi xuống",
+   "example": "Let's learn the word \"downturn\".",
+   "exampleMeaning": "Cùng học từ “downturn”: suy thoái, đi xuống.",
+   "emoji": "",
+   "ipa": "/ˈdaʊnˌtɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "swirl",
+   "meaning": "xoáy, cuộn",
+   "example": "Let's learn the word \"swirl\".",
+   "exampleMeaning": "Cùng học từ “swirl”: xoáy, cuộn.",
+   "emoji": "",
+   "ipa": "/ˈswɜrl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "eventual",
+   "meaning": "cuối cùng, sau cùng",
+   "example": "blunders leading to eventual disaster",
+   "exampleMeaning": "Những sai lầm dẫn đến sự tai hoạ cuối cùng",
+   "emoji": "",
+   "ipa": "/əˈvɛntʃuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dependency",
+   "meaning": "phụ thuộc, lệ thuộc",
+   "example": "Let's learn the word \"dependency\".",
+   "exampleMeaning": "Cùng học từ “dependency”: phụ thuộc, lệ thuộc.",
+   "emoji": "",
+   "ipa": "/dɪˈpɛndənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "flatten",
+   "meaning": "làm phẳng, san bằng",
+   "example": "Let's learn the word \"flatten\".",
+   "exampleMeaning": "Cùng học từ “flatten”: làm phẳng, san bằng.",
+   "emoji": "",
+   "ipa": "/ˈflætən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pertain",
+   "meaning": "liên quan, thuộc về",
+   "example": "Let's learn the word \"pertain\".",
+   "exampleMeaning": "Cùng học từ “pertain”: liên quan, thuộc về.",
+   "emoji": "",
+   "ipa": "/pɜrˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "congestion",
+   "meaning": "tắc nghẽn, ùn tắc",
+   "example": "a congestion of the traffic",
+   "exampleMeaning": "Sự tắc nghẽn giao thông",
+   "emoji": "",
+   "ipa": "/kənˈdʒɛstʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "entitlement",
+   "meaning": "quyền lợi, quyền hưởng",
+   "example": "Let's learn the word \"entitlement\".",
+   "exampleMeaning": "Cùng học từ “entitlement”: quyền lợi, quyền hưởng.",
+   "emoji": "",
+   "ipa": "/ɛnˈtaɪtəlmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shortcoming",
+   "meaning": "thiếu sót, khuyết điểm",
+   "example": "Let's learn the word \"shortcoming\".",
+   "exampleMeaning": "Cùng học từ “shortcoming”: thiếu sót, khuyết điểm.",
+   "emoji": "",
+   "ipa": "/ˈʃɔrtˌkəmɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "attacker",
+   "meaning": "kẻ tấn công",
+   "example": "Let's learn the word \"attacker\".",
+   "exampleMeaning": "Cùng học từ “attacker”: kẻ tấn công.",
+   "emoji": "",
+   "ipa": "/əˈtækɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "propel",
+   "meaning": "đẩy, thúc đẩy",
+   "example": "Let's learn the word \"propel\".",
+   "exampleMeaning": "Cùng học từ “propel”: đẩy, thúc đẩy.",
+   "emoji": "",
+   "ipa": "/prəˈpɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "receptive",
+   "meaning": "dễ tiếp thu, cởi mở",
+   "example": "a receptive mind",
+   "exampleMeaning": "Trí óc tiếp thu (tư tưởng mới, ý kiến phê bình...)",
+   "emoji": "",
+   "ipa": "/riˈsɛptɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Even",
+    "Linux",
+    "can",
+    "be",
+    "hacked"
+   ],
+   "reading": "",
+   "meaning": "Kể cả Linux cũng có thể bị hack."
+  },
+  {
+   "tokens": [
+    "The",
+    "hunter",
+    "lost",
+    "his",
+    "quiver"
+   ],
+   "reading": "",
+   "meaning": "Thợ săn bị mất ống đựng tên."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "learn",
+    "Turkish"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố học tiếng Thổ Nhĩ Kì."
+  },
+  {
+   "tokens": [
+    "Today's",
+    "Europeans",
+    "are",
+    "too",
+    "naive"
+   ],
+   "reading": "",
+   "meaning": "Người châu Âu ngày nay quá ngây thơ."
+  },
+  {
+   "tokens": [
+    "I",
+    "enjoyed",
+    "feeding",
+    "the",
+    "pigeons"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích thú khi cho chim bồ câu ăn."
+  }
+ ],
+ "issues": []
+}

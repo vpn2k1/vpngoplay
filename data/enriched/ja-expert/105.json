@@ -1,0 +1,328 @@
+{
+ "lesson": 105,
+ "draft": true,
+ "words": [
+  {
+   "term": "原生",
+   "meaning": "nguyên sinh, hoang sơ",
+   "example": "「原生」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原生”: nguyên sinh, hoang sơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金屏風",
+   "meaning": "bình phong dát vàng",
+   "example": "「金屏風」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金屏風”: bình phong dát vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "横手",
+   "meaning": "bên cạnh, phía bên",
+   "example": "「横手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “横手”: bên cạnh, phía bên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高台",
+   "meaning": "gò cao, vùng đất cao",
+   "example": "「高台」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “高台”: gò cao, vùng đất cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "味付け",
+   "meaning": "nêm nếm, gia vị",
+   "example": "「味付け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “味付け”: nêm nếm, gia vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一文",
+   "meaning": "một xu, đồng xu nhỏ",
+   "example": "私は一文無しになった。",
+   "exampleMeaning": "Tôi đã không còn một xu dính túi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "半々",
+   "meaning": "chia đôi, nửa nọ nửa kia",
+   "example": "「半々」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “半々”: chia đôi, nửa nọ nửa kia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凝縮",
+   "meaning": "ngưng tụ, cô đọng",
+   "example": "「凝縮」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “凝縮”: ngưng tụ, cô đọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "破滅",
+   "meaning": "diệt vong, sụp đổ",
+   "example": "「破滅」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “破滅”: diệt vong, sụp đổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "黒鉛",
+   "meaning": "than chì",
+   "example": "「黒鉛」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “黒鉛”: than chì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一翼",
+   "meaning": "một cánh, một phần trách nhiệm",
+   "example": "「一翼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一翼”: một cánh, một phần trách nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綿密",
+   "meaning": "tỉ mỉ, chu đáo",
+   "example": "「綿密」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “綿密”: tỉ mỉ, chu đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瀬戸際",
+   "meaning": "bờ vực, thời khắc quyết định",
+   "example": "「瀬戸際」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “瀬戸際”: bờ vực, thời khắc quyết định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短命",
+   "meaning": "đoản mệnh, chết yểu",
+   "example": "トムは短命でした。",
+   "exampleMeaning": "Tom là một người đoản mệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "細分",
+   "meaning": "chia nhỏ, phân chia nhỏ",
+   "example": "「細分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “細分”: chia nhỏ, phân chia nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "足がかり",
+   "meaning": "chỗ đặt chân, bàn đạp",
+   "example": "「足がかり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “足がかり”: chỗ đặt chân, bàn đạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "推奨",
+   "meaning": "khuyên dùng, khuyến nghị",
+   "example": "「推奨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “推奨”: khuyên dùng, khuyến nghị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漫才",
+   "meaning": "tấu hài đôi, hài đối thoại",
+   "example": "「漫才」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “漫才”: tấu hài đôi, hài đối thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不合理",
+   "meaning": "phi lý, vô lý",
+   "example": "「不合理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不合理”: phi lý, vô lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "培養",
+   "meaning": "nuôi cấy, bồi dưỡng",
+   "example": "「培養」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “培養”: nuôi cấy, bồi dưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "自分",
+    "の",
+    "不注意",
+    "を",
+    "恥じた"
+   ],
+   "reading": "かのじょはじぶんのふちゅういをはじた",
+   "meaning": "Cô ấy xấu hổ vì sự sơ xuất của mình."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "カーテン",
+    "を",
+    "引き上げた"
+   ],
+   "reading": "かのじょはカーテンをひきあげた",
+   "meaning": "Cô ấy kéo màn lên."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "過労",
+    "の",
+    "ために",
+    "疲れている"
+   ],
+   "reading": "かれはかろうのためにつかれている",
+   "meaning": "Anh ta mệt mỏi vì làm việc quá sức."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "その",
+    "とき",
+    "急いでいた"
+   ],
+   "reading": "わたしたちはそのときいそいでいた",
+   "meaning": "Lúc đó chúng tôi đang rất vội."
+  },
+  {
+   "tokens": [
+    "殺害",
+    "の",
+    "動機",
+    "は",
+    "明らか",
+    "ではない"
+   ],
+   "reading": "さつがいのどうきはあきらかではない",
+   "meaning": "Động cơ của vụ án mạng chưa được làm rõ."
+  }
+ ],
+ "issues": []
+}

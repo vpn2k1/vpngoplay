@@ -1,0 +1,340 @@
+{
+ "lesson": 124,
+ "draft": true,
+ "words": [
+  {
+   "term": "首謀",
+   "meaning": "chủ mưu",
+   "example": "「首謀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “首謀”: chủ mưu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定刻",
+   "meaning": "giờ quy định",
+   "example": "学生達の誰一人として定刻に遅刻した者はいない。",
+   "exampleMeaning": "Không có học sinh nào đi muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "役柄",
+   "meaning": "vai diễn, vai trò",
+   "example": "「役柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “役柄”: vai diễn, vai trò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "漆",
+   "meaning": "sơn mài, cây sơn",
+   "example": "「漆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “漆”: sơn mài, cây sơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弁明",
+   "meaning": "biện minh, giải thích",
+   "example": "「弁明」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弁明”: biện minh, giải thích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省エネルギー",
+   "meaning": "tiết kiệm năng lượng",
+   "example": "「省エネルギー」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “省エネルギー”: tiết kiệm năng lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "室内楽",
+   "meaning": "nhạc thính phòng",
+   "example": "「室内楽」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “室内楽”: nhạc thính phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "梅雨明け",
+   "meaning": "hết mùa mưa",
+   "example": "「梅雨明け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “梅雨明け”: hết mùa mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "順に",
+   "meaning": "lần lượt, theo thứ tự",
+   "example": "「順に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “順に”: lần lượt, theo thứ tự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "養育",
+   "meaning": "nuôi dưỡng, nuôi dạy",
+   "example": "「養育」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “養育”: nuôi dưỡng, nuôi dạy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二つ目",
+   "meaning": "thứ hai, cái thứ hai",
+   "example": "「二つ目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二つ目”: thứ hai, cái thứ hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "玉虫色",
+   "meaning": "óng ánh, mập mờ",
+   "example": "「玉虫色」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “玉虫色”: óng ánh, mập mờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "動乱",
+   "meaning": "biến động, náo loạn",
+   "example": "「動乱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “動乱”: biến động, náo loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "防空",
+   "meaning": "phòng không",
+   "example": "「防空」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “防空”: phòng không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芸者",
+   "meaning": "kỹ nữ Nhật",
+   "example": "「芸者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “芸者”: kỹ nữ Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "養父",
+   "meaning": "cha nuôi",
+   "example": "「養父」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “養父”: cha nuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相互銀行",
+   "meaning": "ngân hàng tương hỗ",
+   "example": "「相互銀行」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “相互銀行”: ngân hàng tương hỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "純益",
+   "meaning": "lợi nhuận ròng, lãi ròng",
+   "example": "「純益」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “純益”: lợi nhuận ròng, lãi ròng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "初舞台",
+   "meaning": "lần đầu lên sân khấu, ra mắt",
+   "example": "「初舞台」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “初舞台”: lần đầu lên sân khấu, ra mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建造",
+   "meaning": "đóng tàu, xây dựng",
+   "example": "「建造」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “建造”: đóng tàu, xây dựng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "家内",
+    "は",
+    "今",
+    "夕食",
+    "の",
+    "支度",
+    "を",
+    "している"
+   ],
+   "reading": "かないはいまゆうしょくのしたくをしている",
+   "meaning": "Bà xã nhà tôi đang chuẩn bị cơm tối."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "飛行機",
+    "で",
+    "東京",
+    "から",
+    "大阪",
+    "へ",
+    "行った"
+   ],
+   "reading": "かれはひこうきでとうきょうからおおさかへいった",
+   "meaning": "Anh ấy đi từ Kyoto sang Osaka bằng máy bay."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "温室",
+    "で",
+    "いちご",
+    "を",
+    "栽培",
+    "している"
+   ],
+   "reading": "かれらはおんしつでいちごをさいばいしている",
+   "meaning": "Họ đang trồng dâu tây trong nhà kính."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "自分",
+    "が",
+    "有罪",
+    "である",
+    "こと",
+    "を",
+    "認めた"
+   ],
+   "reading": "かれはじぶんがゆうざいであることをみとめた",
+   "meaning": "Anh ta thừa nhận rằng mình có tội."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "今まで",
+    "沖縄",
+    "へ",
+    "行った",
+    "ことがない"
+   ],
+   "reading": "かれはいままでおきなわへいったことがない",
+   "meaning": "Cho đến bây giờ, tôi vẫn chưa bao giờ đi đến Okinawa."
+  }
+ ],
+ "issues": []
+}

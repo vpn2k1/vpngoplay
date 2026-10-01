@@ -1,0 +1,334 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "varnish",
+   "meaning": "dầu bóng, sơn véc-ni",
+   "example": "to varnish one's reputation",
+   "exampleMeaning": "Tô son điểm phấn cho cái danh tiếng bề ngoài",
+   "emoji": "",
+   "ipa": "/ˈvɑrnɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "assortment",
+   "meaning": "đủ loại, tập hợp nhiều loại",
+   "example": "Let's learn the word \"assortment\".",
+   "exampleMeaning": "Cùng học từ “assortment”: đủ loại, tập hợp nhiều loại.",
+   "emoji": "",
+   "ipa": "/əˈsɔrtmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aristocratic",
+   "meaning": "quý tộc",
+   "example": "Let's learn the word \"aristocratic\".",
+   "exampleMeaning": "Cùng học từ “aristocratic”: quý tộc.",
+   "emoji": "",
+   "ipa": "/ɜrˌɪstəˈkrætɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "invasive",
+   "meaning": "xâm lấn",
+   "example": "This is an invasive species.",
+   "exampleMeaning": "Đây là một loài xâm lấn.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈveɪsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "overdose",
+   "meaning": "quá liều",
+   "example": "Let's learn the word \"overdose\".",
+   "exampleMeaning": "Cùng học từ “overdose”: quá liều.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌdoʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grandeur",
+   "meaning": "vẻ hùng vĩ, vẻ tráng lệ",
+   "example": "Let's learn the word \"grandeur\".",
+   "exampleMeaning": "Cùng học từ “grandeur”: vẻ hùng vĩ, vẻ tráng lệ.",
+   "emoji": "",
+   "ipa": "/ɡrænˈdur/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "libel",
+   "meaning": "phỉ báng, bôi nhọ",
+   "example": "Let's learn the word \"libel\".",
+   "exampleMeaning": "Cùng học từ “libel”: phỉ báng, bôi nhọ.",
+   "emoji": "",
+   "ipa": "/ˈlaɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "navigator",
+   "meaning": "hoa tiêu, người dẫn đường",
+   "example": "Let's learn the word \"navigator\".",
+   "exampleMeaning": "Cùng học từ “navigator”: hoa tiêu, người dẫn đường.",
+   "emoji": "",
+   "ipa": "/ˈnævəˌɡeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "repository",
+   "meaning": "kho, kho chứa",
+   "example": "a repository of goods",
+   "exampleMeaning": "Kho hàng",
+   "emoji": "",
+   "ipa": "/riˈpɑzəˌtɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "noteworthy",
+   "meaning": "đáng chú ý",
+   "example": "Let's learn the word \"noteworthy\".",
+   "exampleMeaning": "Cùng học từ “noteworthy”: đáng chú ý.",
+   "emoji": "",
+   "ipa": "/ˈnoʊtˌwɜrði/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pollster",
+   "meaning": "người thăm dò dư luận",
+   "example": "Let's learn the word \"pollster\".",
+   "exampleMeaning": "Cùng học từ “pollster”: người thăm dò dư luận.",
+   "emoji": "",
+   "ipa": "/ˈpoʊlstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "remodel",
+   "meaning": "tu sửa, cải tạo",
+   "example": "Let's learn the word \"remodel\".",
+   "exampleMeaning": "Cùng học từ “remodel”: tu sửa, cải tạo.",
+   "emoji": "",
+   "ipa": "/riˈmɑdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "proton",
+   "meaning": "hạt prô-tôn",
+   "example": "Let's learn the word \"proton\".",
+   "exampleMeaning": "Cùng học từ “proton”: hạt prô-tôn.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌtɑn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "familial",
+   "meaning": "gia đình, có tính gia truyền",
+   "example": "Let's learn the word \"familial\".",
+   "exampleMeaning": "Cùng học từ “familial”: gia đình, có tính gia truyền.",
+   "emoji": "",
+   "ipa": "/fəˈmɪljəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "undercut",
+   "meaning": "bán rẻ hơn, làm suy yếu",
+   "example": "Let's learn the word \"undercut\".",
+   "exampleMeaning": "Cùng học từ “undercut”: bán rẻ hơn, làm suy yếu.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unconditional",
+   "meaning": "vô điều kiện",
+   "example": "Let's learn the word \"unconditional\".",
+   "exampleMeaning": "Cùng học từ “unconditional”: vô điều kiện.",
+   "emoji": "",
+   "ipa": "/ˌənkənˈdɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intolerable",
+   "meaning": "không thể chịu nổi",
+   "example": "Let's learn the word \"intolerable\".",
+   "exampleMeaning": "Cùng học từ “intolerable”: không thể chịu nổi.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɑlɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "elapse",
+   "meaning": "trôi qua",
+   "example": "Let's learn the word \"elapse\".",
+   "exampleMeaning": "Cùng học từ “elapse”: trôi qua.",
+   "emoji": "",
+   "ipa": "/ɪˈlæps/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pricey",
+   "meaning": "đắt đỏ",
+   "example": "Let's learn the word \"pricey\".",
+   "exampleMeaning": "Cùng học từ “pricey”: đắt đỏ.",
+   "emoji": "",
+   "ipa": "/ˈpraɪsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stout",
+   "meaning": "mập, chắc chắn, bia đen",
+   "example": "a stout fellow",
+   "exampleMeaning": "(thực vật học) anh chàng giỏi đánh nhau; (từ cổ,nghĩa cổ) anh chàng dũng cảm",
+   "emoji": "",
+   "ipa": "/ˈstaʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "They",
+    "are",
+    "trying",
+    "to",
+    "understand",
+    "what",
+    "happened"
+   ],
+   "reading": "",
+   "meaning": "Họ đang cố hiểu xem chuyện gì đang diễn ra."
+  },
+  {
+   "tokens": [
+    "I",
+    "walked",
+    "towards",
+    "where",
+    "he",
+    "was",
+    "standing"
+   ],
+   "reading": "",
+   "meaning": "Tôi tiến đến chỗ anh ấy đang đứng."
+  },
+  {
+   "tokens": [
+    "What",
+    "are",
+    "all",
+    "these",
+    "invoices",
+    "doing",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Mấy tờ hóa đơn này là sao vậy?"
+  },
+  {
+   "tokens": [
+    "Can",
+    "this",
+    "gadget",
+    "replace",
+    "a",
+    "human",
+    "heart"
+   ],
+   "reading": "",
+   "meaning": "Thiết bị này có thể thay thế trái tim con người không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "demo",
+    "sounds",
+    "better",
+    "than",
+    "the",
+    "original"
+   ],
+   "reading": "",
+   "meaning": "Bản demo nghe hay hơn bản gốc."
+  }
+ ],
+ "issues": []
+}

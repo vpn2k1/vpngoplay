@@ -1,0 +1,336 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "海岸線",
+   "meaning": "đường bờ biển",
+   "example": "「海岸線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “海岸線”: đường bờ biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "適合",
+   "meaning": "phù hợp, thích hợp",
+   "example": "「適合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “適合”: phù hợp, thích hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引き継ぐ",
+   "meaning": "tiếp quản, kế thừa",
+   "example": "「引き継ぐ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引き継ぐ”: tiếp quản, kế thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "揺る",
+   "meaning": "lắc, đung đưa",
+   "example": "「揺る」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “揺る”: lắc, đung đưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名手",
+   "meaning": "danh thủ, cao thủ",
+   "example": "「名手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “名手”: danh thủ, cao thủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "十二分",
+   "meaning": "quá đủ, dư dả",
+   "example": "「十二分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “十二分”: quá đủ, dư dả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肝硬変",
+   "meaning": "xơ gan",
+   "example": "「肝硬変」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肝硬変”: xơ gan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "働きかける",
+   "meaning": "vận động, tác động",
+   "example": "「働きかける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “働きかける”: vận động, tác động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "競合",
+   "meaning": "cạnh tranh, xung đột",
+   "example": "「競合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “競合”: cạnh tranh, xung đột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "局地",
+   "meaning": "cục bộ, địa phương",
+   "example": "「局地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “局地”: cục bộ, địa phương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "司会者",
+   "meaning": "người dẫn chương trình, chủ tọa",
+   "example": "「司会者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “司会者”: người dẫn chương trình, chủ tọa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "領事館",
+   "meaning": "lãnh sự quán",
+   "example": "「領事館」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “領事館”: lãnh sự quán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密航",
+   "meaning": "trốn tàu, vượt biên trái phép",
+   "example": "「密航」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “密航”: trốn tàu, vượt biên trái phép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盗み",
+   "meaning": "trộm cắp",
+   "example": "盗みをするよりも飢え死にした方がましだ。",
+   "exampleMeaning": "Tôi thà chết còn hơn ăn cắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大船",
+   "meaning": "thuyền lớn, tàu lớn",
+   "example": "「大船」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大船”: thuyền lớn, tàu lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "待たせる",
+   "meaning": "bắt chờ, để đợi",
+   "example": "「待たせる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “待たせる”: bắt chờ, để đợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "作動",
+   "meaning": "vận hành, khởi động",
+   "example": "この自販機、作動しないんですけど。",
+   "exampleMeaning": "Cái máy bán hàng tự động này không hoạt động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新曲",
+   "meaning": "bài hát mới, ca khúc mới",
+   "example": "「新曲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新曲”: bài hát mới, ca khúc mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家業",
+   "meaning": "nghề gia truyền, nghề nhà",
+   "example": "「家業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “家業”: nghề gia truyền, nghề nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放水",
+   "meaning": "xả nước, phun nước",
+   "example": "「放水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “放水”: xả nước, phun nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "何度",
+    "も",
+    "私",
+    "に",
+    "電話をかけて",
+    "きた"
+   ],
+   "reading": "かのじょはなんどもわたしにでんわをかけてきた",
+   "meaning": "Cô ấy đã gọi điện cho tôi rất nhiều lần."
+  },
+  {
+   "tokens": [
+    "彼女の",
+    "新作",
+    "の",
+    "小説",
+    "は",
+    "来月",
+    "出版",
+    "される"
+   ],
+   "reading": "かのじょのしんさくのしょうせつはらいげつしゅっぱんされる",
+   "meaning": "Tiểu thuyết mới của cô ấy sẽ được xuất bản vào tháng sau."
+  },
+  {
+   "tokens": [
+    "過ぎた",
+    "こと",
+    "を",
+    "振り返って",
+    "は",
+    "いけない"
+   ],
+   "reading": "すぎたことをふりかえってはいけない",
+   "meaning": "Đừng suy nghĩ về chuyện đã qua."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "今日",
+    "夕食",
+    "を",
+    "作らねばなりません"
+   ],
+   "reading": "わたしはきょうゆうしょくをつくらねばなりません",
+   "meaning": "Tôi hôm nay phải nấu bữa tối."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "金",
+    "を",
+    "ばらまく",
+    "の",
+    "が",
+    "好き",
+    "だった"
+   ],
+   "reading": "かのじょはきんをばらまくのがすきだった",
+   "meaning": "Cô ấy thích vung tiền khắp nơi."
+  }
+ ],
+ "issues": []
+}

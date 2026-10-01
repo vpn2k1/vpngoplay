@@ -1,0 +1,333 @@
+{
+ "lesson": 111,
+ "draft": true,
+ "words": [
+  {
+   "term": "自治机关",
+   "meaning": "cơ quan tự trị",
+   "example": "我们来学“自治机关”这个词。",
+   "exampleMeaning": "Cùng học từ “自治机关”: cơ quan tự trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìzhìjīguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清水",
+   "meaning": "nước sạch, nước trong",
+   "example": "我们来学“清水”这个词。",
+   "exampleMeaning": "Cùng học từ “清水”: nước sạch, nước trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngshuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "热气球",
+   "meaning": "khinh khí cầu",
+   "example": "我们来学“热气球”这个词。",
+   "exampleMeaning": "Cùng học từ “热气球”: khinh khí cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèqìqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瞻仰",
+   "meaning": "chiêm ngưỡng, kính viếng",
+   "example": "瞻仰遗容",
+   "exampleMeaning": "Chiêm ngưỡng dung mạo người quá cố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhānyǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推敲",
+   "meaning": "cân nhắc, trau chuốt",
+   "example": "反复推敲",
+   "exampleMeaning": "Cân nhắc đắn đo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīqiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "纵观",
+   "meaning": "nhìn bao quát, xem xét toàn diện",
+   "example": "纵观全局",
+   "exampleMeaning": "Nhìn toàn cuộc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zòngguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "屡",
+   "meaning": "nhiều lần, lặp đi lặp lại",
+   "example": "屡教不改。",
+   "exampleMeaning": "Bảo nhiều lần mà không sửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǚ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无故",
+   "meaning": "vô cớ",
+   "example": "不得无故迟到早退。",
+   "exampleMeaning": "Không được vô cớ đến muộn về sớm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúgù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "经度",
+   "meaning": "kinh độ",
+   "example": "我们来学“经度”这个词。",
+   "exampleMeaning": "Cùng học từ “经度”: kinh độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngdù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "连绵",
+   "meaning": "liên miên, kéo dài liên tục",
+   "example": "连绵不断的思绪。",
+   "exampleMeaning": "Suy tư liên tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánmián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鱼苗",
+   "meaning": "cá bột, cá con",
+   "example": "我们来学“鱼苗”这个词。",
+   "exampleMeaning": "Cùng học từ “鱼苗”: cá bột, cá con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúmiáo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赞叹",
+   "meaning": "thán phục, tấm tắc khen",
+   "example": "演员高超的演技，令人赞叹。",
+   "exampleMeaning": "Kỹ thuật biểu diễn điêu luyện của diễn viên, khiến mọi người ca ngợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàntàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上火",
+   "meaning": "nóng trong người, nổi nóng",
+   "example": "他上火了，眼睛红红的。",
+   "exampleMeaning": "Anh ấy bị nhiệt rồi, mắt đỏ ngầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shànghuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饮酒",
+   "meaning": "uống rượu",
+   "example": "我们来学“饮酒”这个词。",
+   "exampleMeaning": "Cùng học từ “饮酒”: uống rượu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnjiǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王家",
+   "meaning": "vương gia, thuộc hoàng gia",
+   "example": "我们来学“王家”这个词。",
+   "exampleMeaning": "Cùng học từ “王家”: vương gia, thuộc hoàng gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wángjiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抵触",
+   "meaning": "xung đột, chống đối",
+   "example": "在个人利益和集体利益有抵触的时候，应该服从集体利益。",
+   "exampleMeaning": "Khi lợi ích cá nhân mâu thuẫn với lợi ích tập thể, thì cần phải phục tùng lợi ích tập thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǐchù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跑龙套",
+   "meaning": "đóng vai phụ, chạy cờ",
+   "example": "老王很谦虚，他说：“叫我负责可不行，跑跑龙套还可以。”",
+   "exampleMeaning": "Lão Vương rất khiêm tốn, ông nói: “Bảo tôi phụ trách thì không phải, hỗ trợ thôi thì còn được”.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǎolóngtào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "渔业",
+   "meaning": "ngư nghiệp, nghề cá",
+   "example": "我们来学“渔业”这个词。",
+   "exampleMeaning": "Cùng học từ “渔业”: ngư nghiệp, nghề cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乡亲",
+   "meaning": "bà con, người đồng hương",
+   "example": "乡亲们。",
+   "exampleMeaning": "Bà con",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngqīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "总产值",
+   "meaning": "tổng giá trị sản lượng",
+   "example": "我们来学“总产值”这个词。",
+   "exampleMeaning": "Cùng học từ “总产值”: tổng giá trị sản lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngchǎnzhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  }
+ ],
+ "issues": []
+}

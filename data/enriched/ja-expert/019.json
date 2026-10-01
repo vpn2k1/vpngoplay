@@ -1,0 +1,327 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "部族",
+   "meaning": "bộ tộc",
+   "example": "「部族」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “部族”: bộ tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立地",
+   "meaning": "vị trí, chọn địa điểm",
+   "example": "「立地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “立地”: vị trí, chọn địa điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立方メートル",
+   "meaning": "mét khối",
+   "example": "「立方メートル」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “立方メートル”: mét khối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "商談",
+   "meaning": "đàm phán kinh doanh",
+   "example": "「商談」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “商談”: đàm phán kinh doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "女流",
+   "meaning": "nữ, giới nữ",
+   "example": "「女流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “女流”: nữ, giới nữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "印象的",
+   "meaning": "ấn tượng",
+   "example": "「印象的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “印象的”: ấn tượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "辞す",
+   "meaning": "cáo từ, từ chức",
+   "example": "「辞す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “辞す”: cáo từ, từ chức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真っ向",
+   "meaning": "chính diện, trực diện",
+   "example": "「真っ向」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “真っ向”: chính diện, trực diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代議士",
+   "meaning": "nghị sĩ, đại biểu quốc hội",
+   "example": "「代議士」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代議士”: nghị sĩ, đại biểu quốc hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "都庁",
+   "meaning": "tòa thị chính Tokyo",
+   "example": "「都庁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “都庁”: tòa thị chính Tokyo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生物学",
+   "meaning": "sinh học",
+   "example": "生物学の先生がSoniaと言います。",
+   "exampleMeaning": "Cô giáo môn sinh học tên là Sonia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "案件",
+   "meaning": "vấn đề, vụ việc",
+   "example": "「案件」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “案件”: vấn đề, vụ việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弾み",
+   "meaning": "độ nảy, đà",
+   "example": "「弾み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弾み”: độ nảy, đà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隔離",
+   "meaning": "cách ly",
+   "example": "病院は院内感染を防ぐため、感染患者を隔離した。",
+   "exampleMeaning": "Để đề phòng lây nhiễm chéo trong bệnh viện, bệnh viện đã cách ly những bệnh nhân bị nhiễm bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "自白",
+   "meaning": "thú tội, khai nhận",
+   "example": "「自白」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自白”: thú tội, khai nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隔たり",
+   "meaning": "khoảng cách, chênh lệch",
+   "example": "「隔たり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “隔たり”: khoảng cách, chênh lệch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弱者",
+   "meaning": "kẻ yếu, người yếu thế",
+   "example": "「弱者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弱者”: kẻ yếu, người yếu thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "団員",
+   "meaning": "thành viên đoàn",
+   "example": "「団員」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “団員”: thành viên đoàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "脱皮",
+   "meaning": "lột xác, thay da",
+   "example": "「脱皮」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “脱皮”: lột xác, thay da.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通信社",
+   "meaning": "hãng thông tấn",
+   "example": "「通信社」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通信社”: hãng thông tấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "毎日",
+    "野球",
+    "を",
+    "します"
+   ],
+   "reading": "かれはまいにちやきゅうをします",
+   "meaning": "Anh ấy mỗi ngày đều chơi bóng chày."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "昨年",
+    "遺書",
+    "を",
+    "書いた"
+   ],
+   "reading": "かれはさくねんいしょをかいた",
+   "meaning": "Năm ngoái ông ấy đã viết một bức di chúc."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "経験",
+    "豊かな",
+    "教師",
+    "だ"
+   ],
+   "reading": "かれはけいけんゆたかなきょうしだ",
+   "meaning": "Ông ấy là một giáo viên giàu kinh nghiệm."
+  },
+  {
+   "tokens": [
+    "私の",
+    "願い",
+    "は",
+    "かなえられた"
+   ],
+   "reading": "わたしのねがいはかなえられた",
+   "meaning": "Lời cầu nguyện của tôi đã được đáp lại."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "クラス",
+    "で",
+    "びり",
+    "だった"
+   ],
+   "reading": "かれはクラスでびりだった",
+   "meaning": "Anh ấy đứng hạng bét trong lớp."
+  }
+ ],
+ "issues": []
+}

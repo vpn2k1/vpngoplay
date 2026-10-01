@@ -1,0 +1,328 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "体罰",
+   "meaning": "nhục hình, phạt thể xác",
+   "example": "個人的には体罰は必要悪だと思っています。",
+   "exampleMeaning": "Cá nhân tôi cho rằng hình phạt thân thể là một nghĩa vụ bắt buộc không thể tránh khỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "年産",
+   "meaning": "sản lượng năm",
+   "example": "「年産」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年産”: sản lượng năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弁",
+   "meaning": "lời nói, van",
+   "example": "弁護士はみんな嘘つきだ。",
+   "exampleMeaning": "Đám luật sư đứa nào cũng nói dối cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "突入",
+   "meaning": "xông vào, lao vào",
+   "example": "「突入」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “突入”: xông vào, lao vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "確執",
+   "meaning": "bất hòa, xích mích",
+   "example": "「確執」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “確執”: bất hòa, xích mích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "機動隊",
+   "meaning": "cảnh sát cơ động",
+   "example": "「機動隊」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “機動隊”: cảnh sát cơ động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "切らす",
+   "meaning": "hết sạch, để cạn",
+   "example": "「切らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “切らす”: hết sạch, để cạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直し",
+   "meaning": "sửa chữa, chỉnh sửa",
+   "example": "彼は妻にシャツを直してもらった。",
+   "exampleMeaning": "Anh ta được vợ vá cái áo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "持ち越す",
+   "meaning": "chuyển sang sau, hoãn lại",
+   "example": "「持ち越す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持ち越す”: chuyển sang sau, hoãn lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "綱引き",
+   "meaning": "kéo co",
+   "example": "「綱引き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “綱引き”: kéo co.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断固",
+   "meaning": "kiên quyết, cương quyết",
+   "example": "「断固」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “断固”: kiên quyết, cương quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "過酷",
+   "meaning": "khắc nghiệt, hà khắc",
+   "example": "「過酷」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “過酷”: khắc nghiệt, hà khắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "町村",
+   "meaning": "thị trấn và làng",
+   "example": "「町村」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “町村”: thị trấn và làng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人脈",
+   "meaning": "mạng lưới quan hệ",
+   "example": "「人脈」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人脈”: mạng lưới quan hệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "山頂",
+   "meaning": "đỉnh núi",
+   "example": "山頂が雲の上にそびえている。",
+   "exampleMeaning": "Đỉnh núi cao trên cả tầng mây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "脚光",
+   "meaning": "ánh đèn sân khấu, tâm điểm",
+   "example": "「脚光」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “脚光”: ánh đèn sân khấu, tâm điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "身内",
+   "meaning": "người thân, người nhà",
+   "example": "他人より身内。",
+   "exampleMeaning": "Một giọt máu đào hơn ao nước lã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "遊説",
+   "meaning": "đi vận động tranh cử",
+   "example": "「遊説」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遊説”: đi vận động tranh cử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "論者",
+   "meaning": "người bàn luận, người chủ trương",
+   "example": "「論者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “論者”: người bàn luận, người chủ trương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弾道",
+   "meaning": "đường đạn, quỹ đạo đạn",
+   "example": "「弾道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弾道”: đường đạn, quỹ đạo đạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "雄弁",
+    "は",
+    "銀",
+    "沈黙",
+    "は",
+    "金"
+   ],
+   "reading": "ゆうべんはぎんちんもくはきん",
+   "meaning": "Im lặng là vàng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "書類",
+    "を",
+    "弁護士",
+    "に",
+    "預けた"
+   ],
+   "reading": "かれはしょるいをべんごしにあづけた",
+   "meaning": "Anh ta đã giao hồ sơ cho luật sư."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "弁護士",
+    "としては",
+    "無能",
+    "だ"
+   ],
+   "reading": "かれはべんごしとしてはむのうだ",
+   "meaning": "Anh ta không phải là một luật sư giỏi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "娘",
+    "を",
+    "弁護士",
+    "に",
+    "嫁がせた"
+   ],
+   "reading": "かれはむすめをべんごしにとつがせた",
+   "meaning": "Ông ấy đã gả con gái mình cho một luật sư."
+  },
+  {
+   "tokens": [
+    "他人",
+    "より",
+    "身内"
+   ],
+   "reading": "たにんよりみうち",
+   "meaning": "Một giọt máu đào hơn ao nước lã."
+  }
+ ],
+ "issues": []
+}

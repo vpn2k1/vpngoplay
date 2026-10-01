@@ -1,0 +1,344 @@
+{
+ "lesson": 26,
+ "draft": true,
+ "words": [
+  {
+   "term": "proxy",
+   "meaning": "ủy quyền, người đại diện",
+   "example": "to be (stand) proxy for somebody",
+   "exampleMeaning": "Đại diện cho ai",
+   "emoji": "",
+   "ipa": "/ˈprɑksi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "immature",
+   "meaning": "non nớt, chưa trưởng thành",
+   "example": "the immature social conditions for an uprising",
+   "exampleMeaning": "Những điều kiện xã hội chưa chín muồi cho một cuộc nổi dậy",
+   "emoji": "",
+   "ipa": "/ˌɪmətˈjʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "rot",
+   "meaning": "mục, thối rữa",
+   "example": "don't talk rot!",
+   "exampleMeaning": "Đừng có nói vớ vẩn!",
+   "emoji": "",
+   "ipa": "/ˈrɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "territorial",
+   "meaning": "lãnh thổ",
+   "example": "Let's learn the word \"territorial\".",
+   "exampleMeaning": "Cùng học từ “territorial”: lãnh thổ.",
+   "emoji": "",
+   "ipa": "/ˌtɛrɪˈtɔriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "voucher",
+   "meaning": "phiếu quà tặng, phiếu",
+   "example": "Let's learn the word \"voucher\".",
+   "exampleMeaning": "Cùng học từ “voucher”: phiếu quà tặng, phiếu.",
+   "emoji": "",
+   "ipa": "/ˈvaʊtʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "masculine",
+   "meaning": "nam tính",
+   "example": "On Tatoeba, for some reason, there's a lot more masculine names than feminine.",
+   "exampleMeaning": "Trên Tatoeba, không hiểu sao, có nhiều tên nam giới hơn tên nữ giới.",
+   "emoji": "",
+   "ipa": "/ˈmæskjələn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "throne",
+   "meaning": "ngai vàng",
+   "example": "to come to the throne",
+   "exampleMeaning": "Lên ngôi vua",
+   "emoji": "",
+   "ipa": "/ˈθroʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bolster",
+   "meaning": "củng cố, đỡ",
+   "example": "Let's learn the word \"bolster\".",
+   "exampleMeaning": "Cùng học từ “bolster”: củng cố, đỡ.",
+   "emoji": "",
+   "ipa": "/ˈboʊlstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "insulin",
+   "meaning": "hóc-môn in-su-lin",
+   "example": "Let's learn the word \"insulin\".",
+   "exampleMeaning": "Cùng học từ “insulin”: hóc-môn in-su-lin.",
+   "emoji": "",
+   "ipa": "/ˈɪnsələn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "radioactive",
+   "meaning": "phóng xạ",
+   "example": "The problem of radioactive waste remains unresolved.",
+   "exampleMeaning": "Vấn đề chất thải phóng xạ vẫn còn chưa được giải quyết.",
+   "emoji": "☢",
+   "ipa": "/ˌreɪdioʊˈæktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "hillside",
+   "meaning": "sườn đồi",
+   "example": "Let's learn the word \"hillside\".",
+   "exampleMeaning": "Cùng học từ “hillside”: sườn đồi.",
+   "emoji": "",
+   "ipa": "/ˈhɪlˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "escalate",
+   "meaning": "leo thang, gia tăng",
+   "example": "Let's learn the word \"escalate\".",
+   "exampleMeaning": "Cùng học từ “escalate”: leo thang, gia tăng.",
+   "emoji": "",
+   "ipa": "/ˈɛskəˌleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "biblical",
+   "meaning": "thuộc Kinh Thánh",
+   "example": "Let's learn the word \"biblical\".",
+   "exampleMeaning": "Cùng học từ “biblical”: thuộc Kinh Thánh.",
+   "emoji": "",
+   "ipa": "/ˈbɪbləkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "superiority",
+   "meaning": "ưu thế, vượt trội",
+   "example": "the superiority of socialism over capitalism",
+   "exampleMeaning": "Tính hơn hẳn của chủ nghĩa xã hội đối với chủ nghĩa tư bản",
+   "emoji": "",
+   "ipa": "/ˌsupɪriˈɔrɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "paste",
+   "meaning": "bột nhão, dán",
+   "example": "to paste up",
+   "exampleMeaning": "Niêm yết; dán lên",
+   "emoji": "",
+   "ipa": "/ˈpeɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "redesign",
+   "meaning": "thiết kế lại",
+   "example": "Let's learn the word \"redesign\".",
+   "exampleMeaning": "Cùng học từ “redesign”: thiết kế lại.",
+   "emoji": "",
+   "ipa": "/ˌridɪˈzaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "milestone",
+   "meaning": "cột mốc",
+   "example": "That day was an important milestone in our project.",
+   "exampleMeaning": "Ngày hôm đó là một cột mốc quan trọng trong dự án của chúng tôi.",
+   "emoji": "",
+   "ipa": "/ˈmaɪlˌstoʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "cockpit",
+   "meaning": "buồng lái",
+   "example": "Let's learn the word \"cockpit\".",
+   "exampleMeaning": "Cùng học từ “cockpit”: buồng lái.",
+   "emoji": "",
+   "ipa": "/ˈkɑkˌpɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "socialism",
+   "meaning": "chủ nghĩa xã hội",
+   "example": "Let's learn the word \"socialism\".",
+   "exampleMeaning": "Cùng học từ “socialism”: chủ nghĩa xã hội.",
+   "emoji": "",
+   "ipa": "/ˈsoʊʃəˌlɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "believer",
+   "meaning": "tín đồ, người tin",
+   "example": "Let's learn the word \"believer\".",
+   "exampleMeaning": "Cùng học từ “believer”: tín đồ, người tin.",
+   "emoji": "",
+   "ipa": "/bəˈlivɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "army",
+    "is",
+    "trying",
+    "to",
+    "break",
+    "the",
+    "enemy's",
+    "code"
+   ],
+   "reading": "",
+   "meaning": "Quân đội đang cố gắng phá mã của kẻ địch."
+  },
+  {
+   "tokens": [
+    "Discrimination",
+    "on",
+    "grounds",
+    "of",
+    "race",
+    "will",
+    "not",
+    "be",
+    "tolerated"
+   ],
+   "reading": "",
+   "meaning": "Sự phân biệt đối xử vì lí do chủng tộc sẽ không được dung thứ."
+  },
+  {
+   "tokens": [
+    "Health",
+    "and",
+    "intellect",
+    "are",
+    "the",
+    "two",
+    "blessings",
+    "of",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Sức khoẻ và trí tuệ là hai phước lành của cuộc sống."
+  },
+  {
+   "tokens": [
+    "I",
+    "often",
+    "use",
+    "SSH",
+    "to",
+    "access",
+    "my",
+    "computers",
+    "remotely"
+   ],
+   "reading": "",
+   "meaning": "Tôi thường dùng SSH để truy cập vào máy tính của tôi từ xa."
+  },
+  {
+   "tokens": [
+    "Teen",
+    "pregnancy",
+    "carries",
+    "a",
+    "high",
+    "risk",
+    "of",
+    "maternal",
+    "mortality"
+   ],
+   "reading": "",
+   "meaning": "Mang thai ở tuổi vị thành niên mang đến rủi ro tử vong cao ở người mẹ."
+  }
+ ],
+ "issues": []
+}

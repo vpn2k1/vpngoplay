@@ -1,0 +1,339 @@
+{
+ "lesson": 34,
+ "draft": true,
+ "words": [
+  {
+   "term": "肥満",
+   "meaning": "béo phì",
+   "example": "「肥満」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肥満”: béo phì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "位置付け",
+   "meaning": "định vị, vị trí",
+   "example": "「位置付け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “位置付け”: định vị, vị trí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "古",
+   "meaning": "xa xưa, thời cổ",
+   "example": "トムは古くからの友人です。",
+   "exampleMeaning": "Tom là bạn thân của tôi từ rất lâu rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "雪辱",
+   "meaning": "rửa nhục, phục thù",
+   "example": "「雪辱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “雪辱”: rửa nhục, phục thù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "頼み",
+   "meaning": "lời nhờ vả, chỗ dựa",
+   "example": "彼女はあなたからの頼みがある。",
+   "exampleMeaning": "Cô ấy muốn nhờ bạn một việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "歩み寄り",
+   "meaning": "nhượng bộ, thỏa hiệp",
+   "example": "「歩み寄り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歩み寄り”: nhượng bộ, thỏa hiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公会堂",
+   "meaning": "hội trường công cộng",
+   "example": "「公会堂」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公会堂”: hội trường công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大豆",
+   "meaning": "đậu nành",
+   "example": "「大豆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大豆”: đậu nành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "琵琶",
+   "meaning": "đàn tỳ bà",
+   "example": "「琵琶」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “琵琶”: đàn tỳ bà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "射撃",
+   "meaning": "bắn, xạ kích",
+   "example": "「射撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “射撃”: bắn, xạ kích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "白星",
+   "meaning": "trận thắng, vòng tròn trắng",
+   "example": "「白星」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “白星”: trận thắng, vòng tròn trắng.",
+   "emoji": "⚪",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無差別",
+   "meaning": "không phân biệt, bừa bãi",
+   "example": "「無差別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無差別”: không phân biệt, bừa bãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "退場",
+   "meaning": "rời sân, ra về",
+   "example": "「退場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “退場”: rời sân, ra về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成人病",
+   "meaning": "bệnh do lối sống",
+   "example": "「成人病」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “成人病”: bệnh do lối sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低水準",
+   "meaning": "mức thấp, trình độ thấp",
+   "example": "「低水準」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “低水準”: mức thấp, trình độ thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相対的",
+   "meaning": "tương đối",
+   "example": "「相対的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “相対的”: tương đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年配",
+   "meaning": "lớn tuổi, độ tuổi",
+   "example": "「年配」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年配”: lớn tuổi, độ tuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直接的",
+   "meaning": "trực tiếp",
+   "example": "「直接的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “直接的”: trực tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改築",
+   "meaning": "cải tạo, xây lại",
+   "example": "「改築」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “改築”: cải tạo, xây lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "随所",
+   "meaning": "khắp nơi, mọi chỗ",
+   "example": "「随所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “随所”: khắp nơi, mọi chỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "古い",
+    "車",
+    "を",
+    "新車",
+    "と",
+    "交換",
+    "した"
+   ],
+   "reading": "かれはふるいくるまをしんしゃとこうかんした",
+   "meaning": "Anh ta đổi chiếc xe cũ của mình với một chiếc mới."
+  },
+  {
+   "tokens": [
+    "湖畔",
+    "の",
+    "古い",
+    "教会",
+    "は",
+    "とても",
+    "美しい"
+   ],
+   "reading": "こはんのふるいきょうかいはとてもうつくしい",
+   "meaning": "Nhà thờ cổ bên hồ rất đẹp."
+  },
+  {
+   "tokens": [
+    "私の",
+    "趣味",
+    "は",
+    "古い",
+    "瓶",
+    "を",
+    "集める",
+    "こと",
+    "です"
+   ],
+   "reading": "わたしのしゅみはふるいびんをあつめることです",
+   "meaning": "Sở thích của tôi là sưu tập chai cũ."
+  },
+  {
+   "tokens": [
+    "古い",
+    "タイヤ",
+    "を",
+    "新しい",
+    "の",
+    "と",
+    "取り替えて"
+   ],
+   "reading": "ふるいタイヤをあたらしいのととりかえて",
+   "meaning": "Hãy thay lốp cũ bằng lốp mới đi."
+  },
+  {
+   "tokens": [
+    "私の",
+    "ペン",
+    "は",
+    "古い",
+    "新しい",
+    "もの",
+    "が",
+    "欲しい"
+   ],
+   "reading": "わたしのペンはふるいあたらしいものがほしい",
+   "meaning": "Cây bút của tôi đã cũ rồi. Tôi muốn một cái mới."
+  }
+ ],
+ "issues": []
+}

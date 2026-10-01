@@ -1,0 +1,329 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "interference",
+   "meaning": "can thiệp, nhiễu",
+   "example": "Let's learn the word \"interference\".",
+   "exampleMeaning": "Cùng học từ “interference”: can thiệp, nhiễu.",
+   "emoji": "",
+   "ipa": "/ˌɪnɜrˈfɪrəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "thou",
+   "meaning": "ngươi, mi (cổ)",
+   "example": "My God, my God, why hast thou forsaken me?",
+   "exampleMeaning": "Hỡi Chúa của con, hỡi Chúa của con, tại sao ngài lại nỡ bỏ rơi con?",
+   "emoji": "",
+   "ipa": "/ˈðaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "trustee",
+   "meaning": "người được ủy thác, ủy viên quản trị",
+   "example": "he is the trustee of nephew's property",
+   "exampleMeaning": "Anh ta là người được uỷ thác trông nom tài sản của cháu trai",
+   "emoji": "",
+   "ipa": "/ˌtrəsˈti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "integrity",
+   "meaning": "chính trực, toàn vẹn",
+   "example": "Let's learn the word \"integrity\".",
+   "exampleMeaning": "Cùng học từ “integrity”: chính trực, toàn vẹn.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛɡrəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inability",
+   "meaning": "không thể, bất lực",
+   "example": "Let's learn the word \"inability\".",
+   "exampleMeaning": "Cùng học từ “inability”: không thể, bất lực.",
+   "emoji": "",
+   "ipa": "/ˌɪnəˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "armor",
+   "meaning": "áo giáp",
+   "example": "Let's learn the word \"armor\".",
+   "exampleMeaning": "Cùng học từ “armor”: áo giáp.",
+   "emoji": "",
+   "ipa": "/ˈɑrmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "advisor",
+   "meaning": "cố vấn",
+   "example": "Let's learn the word \"advisor\".",
+   "exampleMeaning": "Cùng học từ “advisor”: cố vấn.",
+   "emoji": "",
+   "ipa": "/ædˈvaɪzɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "administrator",
+   "meaning": "quản trị viên, người quản lý",
+   "example": "Let's learn the word \"administrator\".",
+   "exampleMeaning": "Cùng học từ “administrator”: quản trị viên, người quản lý.",
+   "emoji": "",
+   "ipa": "/ədˈmɪnəˌstreɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shipment",
+   "meaning": "lô hàng, giao hàng",
+   "example": "Let's learn the word \"shipment\".",
+   "exampleMeaning": "Cùng học từ “shipment”: lô hàng, giao hàng.",
+   "emoji": "",
+   "ipa": "/ˈʃɪpmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "saint",
+   "meaning": "thánh, vị thánh",
+   "example": "this would provoke a saint",
+   "exampleMeaning": "Điều ấy đến thánh cũng không chịu nổi",
+   "emoji": "",
+   "ipa": "/ˈseɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "heroics",
+   "meaning": "hành động anh hùng",
+   "example": "Let's learn the word \"heroics\".",
+   "exampleMeaning": "Cùng học từ “heroics”: hành động anh hùng.",
+   "emoji": "",
+   "ipa": "/hɪˈroʊɪks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "renewal",
+   "meaning": "gia hạn, đổi mới",
+   "example": "Let's learn the word \"renewal\".",
+   "exampleMeaning": "Cùng học từ “renewal”: gia hạn, đổi mới.",
+   "emoji": "",
+   "ipa": "/rɪˈnuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lure",
+   "meaning": "dụ dỗ, mồi nhử",
+   "example": "the pleasures of city life lure him away from studies",
+   "exampleMeaning": "Những thú vui của thành thị quyến rũ anh mất cả học hành",
+   "emoji": "",
+   "ipa": "/ˈlʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ditch",
+   "meaning": "mương, rãnh, bỏ rơi",
+   "example": "Let's learn the word \"ditch\".",
+   "exampleMeaning": "Cùng học từ “ditch”: mương, rãnh, bỏ rơi.",
+   "emoji": "",
+   "ipa": "/ˈdɪtʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "referendum",
+   "meaning": "trưng cầu dân ý",
+   "example": "Let's learn the word \"referendum\".",
+   "exampleMeaning": "Cùng học từ “referendum”: trưng cầu dân ý.",
+   "emoji": "",
+   "ipa": "/ˌrɛfɜrˈɛndəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deteriorate",
+   "meaning": "xấu đi, suy thoái",
+   "example": "Let's learn the word \"deteriorate\".",
+   "exampleMeaning": "Cùng học từ “deteriorate”: xấu đi, suy thoái.",
+   "emoji": "",
+   "ipa": "/dɪˈtɪriɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sexually",
+   "meaning": "về mặt tình dục",
+   "example": "Let's learn the word \"sexually\".",
+   "exampleMeaning": "Cùng học từ “sexually”: về mặt tình dục.",
+   "emoji": "",
+   "ipa": "/ˈsɛkʃuəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "socialist",
+   "meaning": "xã hội chủ nghĩa, người theo CNXH",
+   "example": "the Socialist Party",
+   "exampleMeaning": "Đảng Xã hội",
+   "emoji": "",
+   "ipa": "/ˈsoʊʃələst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stalk",
+   "meaning": "thân cây, cuống, đeo bám",
+   "example": "Let's learn the word \"stalk\".",
+   "exampleMeaning": "Cùng học từ “stalk”: thân cây, cuống, đeo bám.",
+   "emoji": "",
+   "ipa": "/ˈstɔk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "china",
+   "meaning": "đồ sứ",
+   "example": "In China, people eat with chopsticks.",
+   "exampleMeaning": "Ở Trung Quốc, người ta ăn bằng đũa.",
+   "emoji": "",
+   "ipa": "/ˈtʃaɪnə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Does",
+    "he",
+    "like",
+    "China"
+   ],
+   "reading": "",
+   "meaning": "Anh ta có thích Trung Quốc không?"
+  },
+  {
+   "tokens": [
+    "I",
+    "came",
+    "from",
+    "China"
+   ],
+   "reading": "",
+   "meaning": "Tôi đến từ Trung Quốc."
+  },
+  {
+   "tokens": [
+    "Why",
+    "didn't",
+    "modern",
+    "technology",
+    "develop",
+    "in",
+    "China"
+   ],
+   "reading": "",
+   "meaning": "Tại sao công nghệ hiện đại lại không phát triển ở Trung Quốc?"
+  },
+  {
+   "tokens": [
+    "This",
+    "American",
+    "flag",
+    "is",
+    "made",
+    "in",
+    "China"
+   ],
+   "reading": "",
+   "meaning": "Lá cờ Hoa Kỳ này được sản xuất ở Trung Quốc."
+  },
+  {
+   "tokens": [
+    "The",
+    "company",
+    "aims",
+    "to",
+    "branch",
+    "out",
+    "into",
+    "China"
+   ],
+   "reading": "",
+   "meaning": "Công ty hướng đến việc lập chi nhánh ở Trung Quốc."
+  }
+ ],
+ "issues": []
+}

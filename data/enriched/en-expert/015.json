@@ -1,0 +1,329 @@
+{
+ "lesson": 15,
+ "draft": true,
+ "words": [
+  {
+   "term": "attendant",
+   "meaning": "tiếp viên, người phục vụ",
+   "example": "famine and its attendant diseases",
+   "exampleMeaning": "Nạn đói và những bệnh kèm theo nó",
+   "emoji": "",
+   "ipa": "/əˈtɛndənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mound",
+   "meaning": "gò, đống",
+   "example": "Let's learn the word \"mound\".",
+   "exampleMeaning": "Cùng học từ “mound”: gò, đống.",
+   "emoji": "",
+   "ipa": "/ˈmaʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chapel",
+   "meaning": "nhà nguyện",
+   "example": "to call a chapel",
+   "exampleMeaning": "Triệu tập một cuộc họp của thợ in",
+   "emoji": "",
+   "ipa": "/ˈtʃæpəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whatsoever",
+   "meaning": "bất cứ gì, chút nào",
+   "example": "Let's learn the word \"whatsoever\".",
+   "exampleMeaning": "Cùng học từ “whatsoever”: bất cứ gì, chút nào.",
+   "emoji": "",
+   "ipa": "/ˌhwətsoʊˈɛvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vocal",
+   "meaning": "giọng hát, thẳng thắn lên tiếng",
+   "example": "public opinion has at last become vocal",
+   "exampleMeaning": "Cuối cùng dư luận quần chúng bắt đầu lên tiếng",
+   "emoji": "",
+   "ipa": "/ˈvoʊkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "exempt",
+   "meaning": "được miễn (thuế), miễn cho",
+   "example": "to exempt somebody from taxes",
+   "exampleMeaning": "Miễn mọi thứ thuế cho ai",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɛmpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "whisky",
+   "meaning": "rượu uýt-ki",
+   "example": "Let's learn the word \"whisky\".",
+   "exampleMeaning": "Cùng học từ “whisky”: rượu uýt-ki.",
+   "emoji": "",
+   "ipa": "/ˈhwɪski/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "affirmative",
+   "meaning": "khẳng định, tán thành",
+   "example": "to answer in the affirmative",
+   "exampleMeaning": "Trả lời ừ, trả lời được",
+   "emoji": "",
+   "ipa": "/əˈfɜrmətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "judicial",
+   "meaning": "tư pháp",
+   "example": "to take (bring) judicial proceedings against someone",
+   "exampleMeaning": "Truy tố ai tại toà",
+   "emoji": "",
+   "ipa": "/dʒuˈdɪʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "doctrine",
+   "meaning": "học thuyết, giáo lý",
+   "example": "Let's learn the word \"doctrine\".",
+   "exampleMeaning": "Cùng học từ “doctrine”: học thuyết, giáo lý.",
+   "emoji": "",
+   "ipa": "/ˈdɑktrən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "discretion",
+   "meaning": "quyền tự quyết, thận trọng, kín đáo",
+   "example": "at the discretion of...",
+   "exampleMeaning": "Theo ý muốn của...",
+   "emoji": "",
+   "ipa": "/dɪsˈkrɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "penetration",
+   "meaning": "thâm nhập, xuyên thủng",
+   "example": "Let's learn the word \"penetration\".",
+   "exampleMeaning": "Cùng học từ “penetration”: thâm nhập, xuyên thủng.",
+   "emoji": "",
+   "ipa": "/ˌpɛnəˈtreɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "magistrate",
+   "meaning": "quan tòa, thẩm phán",
+   "example": "Let's learn the word \"magistrate\".",
+   "exampleMeaning": "Cùng học từ “magistrate”: quan tòa, thẩm phán.",
+   "emoji": "",
+   "ipa": "/ˈmædʒəˌstreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "applicable",
+   "meaning": "áp dụng được, thích hợp",
+   "example": "to be applicable to something",
+   "exampleMeaning": "Thích hợp với cái gì",
+   "emoji": "",
+   "ipa": "/ˈæpləkəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "buck",
+   "meaning": "đô la (thân mật), hươu đực",
+   "example": "Let's learn the word \"buck\".",
+   "exampleMeaning": "Cùng học từ “buck”: đô la (thân mật), hươu đực.",
+   "emoji": "",
+   "ipa": "/ˈbək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "detain",
+   "meaning": "giam giữ, cầm chân",
+   "example": "to detain somebody in during something",
+   "exampleMeaning": "Ngăn cản ai làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lender",
+   "meaning": "người cho vay",
+   "example": "Let's learn the word \"lender\".",
+   "exampleMeaning": "Cùng học từ “lender”: người cho vay.",
+   "emoji": "",
+   "ipa": "/ˈlɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dissent",
+   "meaning": "bất đồng, phản đối",
+   "example": "Let's learn the word \"dissent\".",
+   "exampleMeaning": "Cùng học từ “dissent”: bất đồng, phản đối.",
+   "emoji": "",
+   "ipa": "/dɪˈsɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dispose",
+   "meaning": "vứt bỏ, xử lý",
+   "example": "to dispose of one's time",
+   "exampleMeaning": "Tuỳ ý sử dụng thời gian của mình",
+   "emoji": "",
+   "ipa": "/dɪˈspoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "devise",
+   "meaning": "nghĩ ra, sáng chế",
+   "example": "to devise plans to do something",
+   "exampleMeaning": "Đặt kế hoạch làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈvaɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Don't",
+    "put",
+    "me",
+    "on",
+    "a",
+    "pedestal"
+   ],
+   "reading": "",
+   "meaning": "Đừng tôn thờ tôi!"
+  },
+  {
+   "tokens": [
+    "We",
+    "were",
+    "trying",
+    "to",
+    "protect",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi lúc đó đang cố gắng bảo vệ bạn."
+  },
+  {
+   "tokens": [
+    "Someone",
+    "was",
+    "trying",
+    "to",
+    "break",
+    "in"
+   ],
+   "reading": "",
+   "meaning": "Ai đó đã cố gắng đột nhập vào."
+  },
+  {
+   "tokens": [
+    "The",
+    "corpse",
+    "didn't",
+    "show",
+    "any",
+    "wounds"
+   ],
+   "reading": "",
+   "meaning": "Cái xác không có bất kỳ vết thương nào."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "save",
+    "more",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố gắng tiết kiệm thêm tiền."
+  }
+ ],
+ "issues": []
+}

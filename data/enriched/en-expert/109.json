@@ -1,0 +1,344 @@
+{
+ "lesson": 109,
+ "draft": true,
+ "words": [
+  {
+   "term": "muck",
+   "meaning": "bùn bẩn, phân chuồng",
+   "example": "to muck up one's aải",
+   "exampleMeaning": "Làm hỏng việc, làm rối việc",
+   "emoji": "",
+   "ipa": "/ˈmək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mahogany",
+   "meaning": "gỗ gụ, màu nâu đỏ",
+   "example": "to have one's knees under someone's mahogany",
+   "exampleMeaning": "Cùng ăn với ai",
+   "emoji": "",
+   "ipa": "/məˈhɑɡəni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "obscene",
+   "meaning": "tục tĩu, sỗ sàng, quá đáng",
+   "example": "Let's learn the word \"obscene\".",
+   "exampleMeaning": "Cùng học từ “obscene”: tục tĩu, sỗ sàng, quá đáng.",
+   "emoji": "",
+   "ipa": "/ɑbˈsin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "airborne",
+   "meaning": "trên không, lây qua không khí",
+   "example": "Let's learn the word \"airborne\".",
+   "exampleMeaning": "Cùng học từ “airborne”: trên không, lây qua không khí.",
+   "emoji": "",
+   "ipa": "/ˈɛrˌbɔrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mince",
+   "meaning": "băm nhỏ, thịt băm",
+   "example": "mince of beef",
+   "exampleMeaning": "Thịt bò thái nhỏ",
+   "emoji": "",
+   "ipa": "/ˈmɪns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "midway",
+   "meaning": "nửa đường, giữa chừng",
+   "example": "Let's learn the word \"midway\".",
+   "exampleMeaning": "Cùng học từ “midway”: nửa đường, giữa chừng.",
+   "emoji": "",
+   "ipa": "/ˈmɪdˌweɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "creed",
+   "meaning": "tín điều, tín ngưỡng",
+   "example": "That describes the substance of our common creed",
+   "exampleMeaning": "Điều đó mô tả bản chất tín ngưỡng chung của chúng ta.",
+   "emoji": "",
+   "ipa": "/ˈkrid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dormant",
+   "meaning": "ngủ yên, tiềm ẩn",
+   "example": "Let's learn the word \"dormant\".",
+   "exampleMeaning": "Cùng học từ “dormant”: ngủ yên, tiềm ẩn.",
+   "emoji": "",
+   "ipa": "/ˈdɔrmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "squeak",
+   "meaning": "kêu chít chít, kêu cót két",
+   "example": "to squeak a word",
+   "exampleMeaning": "Rít lên một tiếng",
+   "emoji": "",
+   "ipa": "/ˈskwik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "splendor",
+   "meaning": "vẻ lộng lẫy, huy hoàng",
+   "example": "Let's learn the word \"splendor\".",
+   "exampleMeaning": "Cùng học từ “splendor”: vẻ lộng lẫy, huy hoàng.",
+   "emoji": "",
+   "ipa": "/ˈsplɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "geographically",
+   "meaning": "về mặt địa lý",
+   "example": "Let's learn the word \"geographically\".",
+   "exampleMeaning": "Cùng học từ “geographically”: về mặt địa lý.",
+   "emoji": "",
+   "ipa": "/ˌdʒiəˈɡræfɪkəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scalp",
+   "meaning": "da đầu",
+   "example": "My scalp is very itchy.",
+   "exampleMeaning": "Da đầu tôi rất ngứa",
+   "emoji": "",
+   "ipa": "/ˈskælp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pavilion",
+   "meaning": "đình, nhà rạp, gian triển lãm",
+   "example": "Let's learn the word \"pavilion\".",
+   "exampleMeaning": "Cùng học từ “pavilion”: đình, nhà rạp, gian triển lãm.",
+   "emoji": "",
+   "ipa": "/pəˈvɪljən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "decency",
+   "meaning": "đứng đắn, tử tế",
+   "example": "Let's learn the word \"decency\".",
+   "exampleMeaning": "Cùng học từ “decency”: đứng đắn, tử tế.",
+   "emoji": "",
+   "ipa": "/ˈdisənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "satin",
+   "meaning": "sa-tanh",
+   "example": "Let's learn the word \"satin\".",
+   "exampleMeaning": "Cùng học từ “satin”: sa-tanh.",
+   "emoji": "",
+   "ipa": "/ˈsætən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seeker",
+   "meaning": "người tìm kiếm",
+   "example": "Let's learn the word \"seeker\".",
+   "exampleMeaning": "Cùng học từ “seeker”: người tìm kiếm.",
+   "emoji": "",
+   "ipa": "/ˈsikɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "forceful",
+   "meaning": "mạnh mẽ, quyết liệt",
+   "example": "Let's learn the word \"forceful\".",
+   "exampleMeaning": "Cùng học từ “forceful”: mạnh mẽ, quyết liệt.",
+   "emoji": "",
+   "ipa": "/ˈfɔrsfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "broom",
+   "meaning": "chổi",
+   "example": "Let's learn the word \"broom\".",
+   "exampleMeaning": "Cùng học từ “broom”: chổi.",
+   "emoji": "🧹",
+   "ipa": "/bruːm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lull",
+   "meaning": "tạm lắng, ru ngủ",
+   "example": "Let's learn the word \"lull\".",
+   "exampleMeaning": "Cùng học từ “lull”: tạm lắng, ru ngủ.",
+   "emoji": "",
+   "ipa": "/ˈləl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brilliance",
+   "meaning": "tài năng xuất chúng, sự rực rỡ",
+   "example": "Let's learn the word \"brilliance\".",
+   "exampleMeaning": "Cùng học từ “brilliance”: tài năng xuất chúng, sự rực rỡ.",
+   "emoji": "",
+   "ipa": "/ˈbrɪljəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Health",
+    "and",
+    "intellect",
+    "are",
+    "the",
+    "two",
+    "blessings",
+    "of",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Sức khoẻ và trí tuệ là hai phước lành của cuộc sống."
+  },
+  {
+   "tokens": [
+    "I",
+    "often",
+    "use",
+    "SSH",
+    "to",
+    "access",
+    "my",
+    "computers",
+    "remotely"
+   ],
+   "reading": "",
+   "meaning": "Tôi thường dùng SSH để truy cập vào máy tính của tôi từ xa."
+  },
+  {
+   "tokens": [
+    "Teen",
+    "pregnancy",
+    "carries",
+    "a",
+    "high",
+    "risk",
+    "of",
+    "maternal",
+    "mortality"
+   ],
+   "reading": "",
+   "meaning": "Mang thai ở tuổi vị thành niên mang đến rủi ro tử vong cao ở người mẹ."
+  },
+  {
+   "tokens": [
+    "He",
+    "sacrificed",
+    "his",
+    "free",
+    "time",
+    "to",
+    "help",
+    "his",
+    "family"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã hi sinh thời gian rảnh của mình để giúp đỡ gia đình mình."
+  },
+  {
+   "tokens": [
+    "The",
+    "meteorological",
+    "bureau",
+    "has",
+    "issued",
+    "a",
+    "red",
+    "rainstorm",
+    "alert"
+   ],
+   "reading": "",
+   "meaning": "Cục khí tượng đã ban bố cảnh báo mưa bão đỏ."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 105,
+ "draft": true,
+ "words": [
+  {
+   "term": "村子",
+   "meaning": "làng, thôn",
+   "example": "我们来学“村子”这个词。",
+   "exampleMeaning": "Cùng học từ “村子”: làng, thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cūnzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "聚精会神",
+   "meaning": "tập trung tinh thần",
+   "example": "我们来学“聚精会神”这个词。",
+   "exampleMeaning": "Cùng học từ “聚精会神”: tập trung tinh thần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùjīnghuìshén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兼容",
+   "meaning": "tương thích",
+   "example": "我们来学“兼容”这个词。",
+   "exampleMeaning": "Cùng học từ “兼容”: tương thích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānróng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "银子",
+   "meaning": "bạc, tiền bạc",
+   "example": "我们来学“银子”这个词。",
+   "exampleMeaning": "Cùng học từ “银子”: bạc, tiền bạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yínzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有朝一日",
+   "meaning": "một ngày nào đó",
+   "example": "有朝一日，我们回到月球旅游。",
+   "exampleMeaning": "Sẽ có một ngày, chúng ta sẽ lên mặt trăng du ngoạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuzhāoyīrì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火力",
+   "meaning": "hỏa lực",
+   "example": "年轻人火力旺。",
+   "exampleMeaning": "Người trẻ chịu lạnh giỏi.",
+   "emoji": "🔥",
+   "ipa": "",
+   "pinyin": "huǒlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "应有",
+   "meaning": "đáng có, cần phải có",
+   "example": "我们来学“应有”这个词。",
+   "exampleMeaning": "Cùng học từ “应有”: đáng có, cần phải có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīngyǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "袖手旁观",
+   "meaning": "khoanh tay đứng nhìn",
+   "example": "做为一个时代青年，路见不平应挺身而出，岂能袖手旁观！",
+   "exampleMeaning": "Là một người thanh niên, trên đường gặp chuyện bất bình phải ra tay giúp đỡ, há có thể khoanh tay đứng nhìn!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiùshǒupángguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "县长",
+   "meaning": "huyện trưởng, chủ tịch huyện",
+   "example": "我们来学“县长”这个词。",
+   "exampleMeaning": "Cùng học từ “县长”: huyện trưởng, chủ tịch huyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "笛子",
+   "meaning": "sáo trúc, ống sáo",
+   "example": "我们来学“笛子”这个词。",
+   "exampleMeaning": "Cùng học từ “笛子”: sáo trúc, ống sáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dízi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杀死",
+   "meaning": "giết chết",
+   "example": "我们来学“杀死”这个词。",
+   "exampleMeaning": "Cùng học từ “杀死”: giết chết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāsǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "犯人",
+   "meaning": "phạm nhân, tù nhân",
+   "example": "我们来学“犯人”这个词。",
+   "exampleMeaning": "Cùng học từ “犯人”: phạm nhân, tù nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fànrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水土",
+   "meaning": "thủy thổ, khí hậu đất đai",
+   "example": "森林能保持水土。",
+   "exampleMeaning": "Rừng có thể giữ được đất và nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐtǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "镇长",
+   "meaning": "trưởng trấn",
+   "example": "我们来学“镇长”这个词。",
+   "exampleMeaning": "Cùng học từ “镇长”: trưởng trấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhènzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "茂盛",
+   "meaning": "um tùm, tươi tốt",
+   "example": "桃花和杏花开得格外的茂盛。",
+   "exampleMeaning": "Hoa đào hoa hạnh nở thật tươi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màoshèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诗文",
+   "meaning": "thơ văn",
+   "example": "我们来学“诗文”这个词。",
+   "exampleMeaning": "Cùng học từ “诗文”: thơ văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīwén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怠慢",
+   "meaning": "lạnh nhạt, thất lễ",
+   "example": "怠慢之处，请多包涵。",
+   "exampleMeaning": "Nếu có chỗ nào sơ suất, xin lượng thứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàimàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "物流",
+   "meaning": "hậu cần, vận chuyển hàng hóa",
+   "example": "我们来学“物流”这个词。",
+   "exampleMeaning": "Cùng học từ “物流”: hậu cần, vận chuyển hàng hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùliú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "霸占",
+   "meaning": "chiếm đoạt, chiếm giữ",
+   "example": "霸占土地",
+   "exampleMeaning": "Chiếm đoạt đất đai",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàzhàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "僧人",
+   "meaning": "nhà sư, tăng nhân",
+   "example": "我们来学“僧人”这个词。",
+   "exampleMeaning": "Cùng học từ “僧人”: nhà sư, tăng nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sēngrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  }
+ ],
+ "issues": []
+}

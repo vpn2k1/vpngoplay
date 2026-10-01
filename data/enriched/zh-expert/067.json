@@ -1,0 +1,325 @@
+{
+ "lesson": 67,
+ "draft": true,
+ "words": [
+  {
+   "term": "请帖",
+   "meaning": "thiệp mời",
+   "example": "我们来学“请帖”这个词。",
+   "exampleMeaning": "Cùng học từ “请帖”: thiệp mời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐngtiě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "留念",
+   "meaning": "làm kỷ niệm, lưu niệm",
+   "example": "离京时送她一支钢笔留念。",
+   "exampleMeaning": "Lúc rời xa kinh thành, tặng cô ta một cây viết lông làm lưu niệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúniàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "垂头丧气",
+   "meaning": "ủ rũ, cụt hứng",
+   "example": "我们来学“垂头丧气”这个词。",
+   "exampleMeaning": "Cùng học từ “垂头丧气”: ủ rũ, cụt hứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuítóusàngqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大败",
+   "meaning": "đại bại, đánh tan",
+   "example": "我们来学“大败”这个词。",
+   "exampleMeaning": "Cùng học từ “大败”: đại bại, đánh tan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàbài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眼红",
+   "meaning": "ghen tị, thèm muốn",
+   "example": "看到哥哥戴上大红花，弟弟有点眼红。",
+   "exampleMeaning": "Nhìn thấy anh trai đội cái bông đỏ chót, em trai thèm đỏ mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnhóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "变幻莫测",
+   "meaning": "biến hóa khôn lường",
+   "example": "不受变幻莫测的国际市场的影响。",
+   "exampleMeaning": "Không bị ảnh hưởng bởi sự thay đổi thất thường của thị trường thế giới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànhuànmòcè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "航运",
+   "meaning": "vận tải đường thủy, hàng hải",
+   "example": "内河航运",
+   "exampleMeaning": "Vận tải đường sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángyùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "似是而非",
+   "meaning": "tưởng đúng mà sai",
+   "example": "这些观点，似是而非，切不可妄目接受。",
+   "exampleMeaning": "Những quan điểm này tựa như đúng mà lại sai, tuyệt đối không nên nhắm mắt nghe theo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sìshìérfēi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无产阶级",
+   "meaning": "giai cấp vô sản",
+   "example": "无产阶级国际主义",
+   "exampleMeaning": "Chủ nghĩa quốc tế vô sản",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúchǎnjiējí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "久违",
+   "meaning": "lâu không gặp, lâu lắm rồi",
+   "example": "久违了，这几年您上哪儿去啦？",
+   "exampleMeaning": "Lâu quá không gặp, mấy năm nay ông đi đâu?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔwéi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "划时代",
+   "meaning": "mang tính thời đại, đánh dấu kỷ nguyên",
+   "example": "划时代的作品",
+   "exampleMeaning": "Tác phẩm đánh dấu thời đại mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàshídài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公开信",
+   "meaning": "thư ngỏ",
+   "example": "我们来学“公开信”这个词。",
+   "exampleMeaning": "Cùng học từ “公开信”: thư ngỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngkāixìn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发起人",
+   "meaning": "người khởi xướng",
+   "example": "我们来学“发起人”这个词。",
+   "exampleMeaning": "Cùng học từ “发起人”: người khởi xướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāqǐrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "月初",
+   "meaning": "đầu tháng",
+   "example": "我们来学“月初”这个词。",
+   "exampleMeaning": "Cùng học từ “月初”: đầu tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèchū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提速",
+   "meaning": "tăng tốc",
+   "example": "我们来学“提速”这个词。",
+   "exampleMeaning": "Cùng học từ “提速”: tăng tốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tísù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陶冶",
+   "meaning": "hun đúc, bồi dưỡng",
+   "example": "陶冶情操",
+   "exampleMeaning": "Bồi dưỡng tâm lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "táoyě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "义务教育",
+   "meaning": "giáo dục bắt buộc",
+   "example": "我们来学“义务教育”这个词。",
+   "exampleMeaning": "Cùng học từ “义务教育”: giáo dục bắt buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìwùjiàoyù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "热气",
+   "meaning": "hơi nóng, hơi nước",
+   "example": "人多议论多，热气高，干劲大。",
+   "exampleMeaning": "Đông người thì nhiều ý kiến, không khí sôi nổi, lao động hăng say.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rèqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "形制",
+   "meaning": "hình dạng, kiểu dáng, cấu trúc",
+   "example": "形制古朴。",
+   "exampleMeaning": "Hình dáng và cấu tạo theo phong cách cổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngzhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "堆积",
+   "meaning": "chất đống, tích tụ",
+   "example": "工地上堆积着大批木材和水泥。",
+   "exampleMeaning": "Trên công trường cây cối và xi măng chồng chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duījī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  },
+  {
+   "tokens": [
+    "她",
+    "很",
+    "擅长",
+    "英语",
+    "教学"
+   ],
+   "reading": "tā hěn shàncháng yīngyǔ jiàoxué",
+   "meaning": "Cô ấy dạy tiếng anh rất giỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  },
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  }
+ ],
+ "issues": []
+}

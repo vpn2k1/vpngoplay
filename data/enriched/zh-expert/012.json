@@ -1,0 +1,340 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "烘托",
+   "meaning": "làm nổi bật, tôn lên",
+   "example": "红花还要绿叶烘托。",
+   "exampleMeaning": "Hoa đỏ cần có lá xanh tô điểm cho nổi bật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hōngtuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一事无成",
+   "meaning": "chẳng nên cơm cháo gì, thất bại hết",
+   "example": "我们来学“一事无成”这个词。",
+   "exampleMeaning": "Cùng học từ “一事无成”: chẳng nên cơm cháo gì, thất bại hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīshìwúchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "倚",
+   "meaning": "dựa, tựa, ỷ vào",
+   "example": "他停止扫地，倚着扫帚休息。",
+   "exampleMeaning": "Nó ngưng quét dọn, dựa vào cây chổi để nghỉ mệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "无忧无虑",
+   "meaning": "vô tư lự, không lo không nghĩ",
+   "example": "我们来学“无忧无虑”这个词。",
+   "exampleMeaning": "Cùng học từ “无忧无虑”: vô tư lự, không lo không nghĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúyōuwúlǜ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迁就",
+   "meaning": "chiều theo, nhân nhượng",
+   "example": "你越迁就他，他越贪得无厌。",
+   "exampleMeaning": "Anh càng nhân nhượng với nó, nó lại càng tham lam vô cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiānjiù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "政治局",
+   "meaning": "bộ chính trị",
+   "example": "我们来学“政治局”这个词。",
+   "exampleMeaning": "Cùng học từ “政治局”: bộ chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngzhìjú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "咧嘴",
+   "meaning": "nhe răng cười, toét miệng",
+   "example": "龇牙咧嘴。",
+   "exampleMeaning": "Cười nhe răng ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liězuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "丘陵",
+   "meaning": "gò đồi, vùng đồi",
+   "example": "丘陵起伏。",
+   "exampleMeaning": "Đồi núi nhấp nhô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiūlíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蜿蜒",
+   "meaning": "uốn lượn, quanh co",
+   "example": "我们来学“蜿蜒”这个词。",
+   "exampleMeaning": "Cùng học từ “蜿蜒”: uốn lượn, quanh co.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wānyán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "穿小鞋",
+   "meaning": "gây khó dễ, trù dập",
+   "example": "我们来学“穿小鞋”这个词。",
+   "exampleMeaning": "Cùng học từ “穿小鞋”: gây khó dễ, trù dập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānxiǎoxié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惨白",
+   "meaning": "trắng bệch, tái nhợt",
+   "example": "脸色惨白。",
+   "exampleMeaning": "Sắc mặt nhợt nhạt; mặt không máu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎnbái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伸张",
+   "meaning": "đề cao, thực thi",
+   "example": "伸张正气，打击歪风。",
+   "exampleMeaning": "Biểu dương chính khí, chống lại gian tà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnzhāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "制导",
+   "meaning": "dẫn đường, điều khiển",
+   "example": "我们来学“制导”这个词。",
+   "exampleMeaning": "Cùng học từ “制导”: dẫn đường, điều khiển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìdǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "饮用水",
+   "meaning": "nước uống",
+   "example": "我们来学“饮用水”这个词。",
+   "exampleMeaning": "Cùng học từ “饮用水”: nước uống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnyòngshuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "真假",
+   "meaning": "thật giả",
+   "example": "我们来学“真假”这个词。",
+   "exampleMeaning": "Cùng học từ “真假”: thật giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnjiǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伤脑筋",
+   "meaning": "đau đầu, nhức óc",
+   "example": "为女儿婚事，很伤脑筋。",
+   "exampleMeaning": "Vì chuyện hôn sự của con gái mà rất đau đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngnǎojīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "内陆",
+   "meaning": "nội địa, đất liền",
+   "example": "我们来学“内陆”这个词。",
+   "exampleMeaning": "Cùng học từ “内陆”: nội địa, đất liền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèilù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "淡水鱼",
+   "meaning": "cá nước ngọt",
+   "example": "我们来学“淡水鱼”这个词。",
+   "exampleMeaning": "Cùng học từ “淡水鱼”: cá nước ngọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dànshuǐyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何苦",
+   "meaning": "cần gì phải, khổ gì mà",
+   "example": "你何苦在这些小事上伤脑筋？",
+   "exampleMeaning": "Anh cần gì phải khổ sở vì những việc vặt ấy？",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hékǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "催化剂",
+   "meaning": "chất xúc tác",
+   "example": "我们来学“催化剂”这个词。",
+   "exampleMeaning": "Cùng học từ “催化剂”: chất xúc tác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuīhuàjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "为",
+    "女儿",
+    "婚事",
+    "很",
+    "伤脑筋"
+   ],
+   "reading": "wèi nǚér hūnshì hěn shāngnǎojīn",
+   "meaning": "Vì chuyện hôn sự của con gái mà rất đau đầu."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  }
+ ],
+ "issues": []
+}

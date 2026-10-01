@@ -1,0 +1,340 @@
+{
+ "lesson": 136,
+ "draft": true,
+ "words": [
+  {
+   "term": "真是",
+   "meaning": "thật là, quả thật, thật tình",
+   "example": "你真是个大好人！",
+   "exampleMeaning": "Bạn đúng là người tốt bụng!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnshi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "盛产",
+   "meaning": "sản xuất nhiều, giàu sản vật",
+   "example": "盛产木材。",
+   "exampleMeaning": "Sản xuất nhiều gỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèngchǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "东风",
+   "meaning": "gió đông, gió xuân, thời cơ thuận lợi",
+   "example": "东风压倒西风",
+   "exampleMeaning": "Gió đông thổi bạt gió tây; tình hình Châu Á căng thẳng hơn Châu Âu (ám chỉ cuộc chiến tranh Việt Nam).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngfēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "血腥",
+   "meaning": "đẫm máu, tanh mùi máu",
+   "example": "血腥统治",
+   "exampleMeaning": "Thống trị đẫm máu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuèxīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "富于",
+   "meaning": "giàu, tràn đầy",
+   "example": "我们来学“富于”这个词。",
+   "exampleMeaning": "Cùng học từ “富于”: giàu, tràn đầy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "消费品",
+   "meaning": "hàng tiêu dùng",
+   "example": "我们来学“消费品”这个词。",
+   "exampleMeaning": "Cùng học từ “消费品”: hàng tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāofèipǐn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "山岭",
+   "meaning": "dãy núi, núi non",
+   "example": "我们来学“山岭”这个词。",
+   "exampleMeaning": "Cùng học từ “山岭”: dãy núi, núi non.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shānlǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阶级斗争",
+   "meaning": "đấu tranh giai cấp",
+   "example": "我们来学“阶级斗争”这个词。",
+   "exampleMeaning": "Cùng học từ “阶级斗争”: đấu tranh giai cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiējídòuzhēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "文集",
+   "meaning": "tuyển tập, văn tập",
+   "example": "我们来学“文集”这个词。",
+   "exampleMeaning": "Cùng học từ “文集”: tuyển tập, văn tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénjí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "言辞",
+   "meaning": "lời lẽ, ngôn từ",
+   "example": "言辞恳切。",
+   "exampleMeaning": "Lời lẽ khẩn thiết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáncí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开场白",
+   "meaning": "lời mở đầu",
+   "example": "我们来学“开场白”这个词。",
+   "exampleMeaning": "Cùng học từ “开场白”: lời mở đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāichǎngbái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "军士",
+   "meaning": "hạ sĩ quan, binh sĩ",
+   "example": "我们来学“军士”这个词。",
+   "exampleMeaning": "Cùng học từ “军士”: hạ sĩ quan, binh sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水陆",
+   "meaning": "thủy bộ, lưỡng cư",
+   "example": "水陆并近。",
+   "exampleMeaning": "Đường thuỷ đường bộ cùng tiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "口吃",
+   "meaning": "nói lắp, cà lăm",
+   "example": "我们来学“口吃”这个词。",
+   "exampleMeaning": "Cùng học từ “口吃”: nói lắp, cà lăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuchī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一系列",
+   "meaning": "một loạt",
+   "example": "为了增加环保，政府已采取了一系列的措施施行。",
+   "exampleMeaning": "Để tăng cường vấn đề bảo vệ môi trường, chính phủ đã cho thi hành hàng loạt các biện pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxìliè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "麋鹿",
+   "meaning": "hươu Père David",
+   "example": "我们来学“麋鹿”这个词。",
+   "exampleMeaning": "Cùng học từ “麋鹿”: hươu Père David.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mílù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外籍",
+   "meaning": "quốc tịch nước ngoài, ngoại quốc",
+   "example": "我们来学“外籍”这个词。",
+   "exampleMeaning": "Cùng học từ “外籍”: quốc tịch nước ngoài, ngoại quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàijí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "珍视",
+   "meaning": "trân trọng, quý trọng",
+   "example": "教育青年人珍视今天的美好生活。",
+   "exampleMeaning": "Giáo dục thanh niên biết quý trọng cuộc sống tốt đẹp hôm nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拉拢",
+   "meaning": "lôi kéo, mua chuộc",
+   "example": "拉拢感情。",
+   "exampleMeaning": "Lôi kéo tình cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lālǒng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发愤图强",
+   "meaning": "quyết chí vươn lên, phấn đấu tự cường",
+   "example": "只要团结一致, 发愤图强, 我们一定会把祖国建设成为社会主义强国。",
+   "exampleMeaning": "Chỉ cần thống nhất đoàn kết, hạ quyết tâm vươn lên thì đất nước chúng ta sẽ trở thành một cường quốc xã hội chủ nghĩa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāfèntúqiáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "真是",
+    "个",
+    "大",
+    "好",
+    "人"
+   ],
+   "reading": "nǐ zhēnshi gè dà hǎo rén",
+   "meaning": "Bạn đúng là người tốt bụng!"
+  },
+  {
+   "tokens": [
+    "这",
+    "小伙子",
+    "既",
+    "能干",
+    "又",
+    "积极",
+    "真是",
+    "没说的"
+   ],
+   "reading": "zhè xiǎohuǒzi jì nénggàn yòu jījí zhēnshi méishuōde",
+   "meaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

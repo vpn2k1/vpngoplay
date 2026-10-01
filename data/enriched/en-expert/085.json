@@ -1,0 +1,355 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "nestle",
+   "meaning": "nép mình, nằm nép",
+   "example": "to nestle a baby in one's arms",
+   "exampleMeaning": "Ôm chặt cháu nhỏ trong cánh tay",
+   "emoji": "",
+   "ipa": "/ˈnɛsˈli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "caretaker",
+   "meaning": "người trông nom, tạm quyền",
+   "example": "Let's learn the word \"caretaker\".",
+   "exampleMeaning": "Cùng học từ “caretaker”: người trông nom, tạm quyền.",
+   "emoji": "",
+   "ipa": "/ˈkɛrˌteɪkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "expanse",
+   "meaning": "khoảng rộng, dải",
+   "example": "Let's learn the word \"expanse\".",
+   "exampleMeaning": "Cùng học từ “expanse”: khoảng rộng, dải.",
+   "emoji": "",
+   "ipa": "/ɪkˈspæns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "estuary",
+   "meaning": "cửa sông",
+   "example": "Let's learn the word \"estuary\".",
+   "exampleMeaning": "Cùng học từ “estuary”: cửa sông.",
+   "emoji": "",
+   "ipa": "/ˈɛstʃuˌɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chic",
+   "meaning": "sành điệu, thanh lịch",
+   "example": "Let's learn the word \"chic\".",
+   "exampleMeaning": "Cùng học từ “chic”: sành điệu, thanh lịch.",
+   "emoji": "",
+   "ipa": "/ˈʃik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "marrow",
+   "meaning": "tủy, bí xanh",
+   "example": "the pith and marrow of a statement",
+   "exampleMeaning": "Phần chính của bản tuyên bố",
+   "emoji": "",
+   "ipa": "/ˈmɛroʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "precinct",
+   "meaning": "khu vực, đồn cảnh sát",
+   "example": "Let's learn the word \"precinct\".",
+   "exampleMeaning": "Cùng học từ “precinct”: khu vực, đồn cảnh sát.",
+   "emoji": "",
+   "ipa": "/ˈpriˌsɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entrant",
+   "meaning": "người dự thi, người mới vào",
+   "example": "Let's learn the word \"entrant\".",
+   "exampleMeaning": "Cùng học từ “entrant”: người dự thi, người mới vào.",
+   "emoji": "",
+   "ipa": "/ˈɛntrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "haze",
+   "meaning": "màn sương mỏng, khói mù",
+   "example": "Let's learn the word \"haze\".",
+   "exampleMeaning": "Cùng học từ “haze”: màn sương mỏng, khói mù.",
+   "emoji": "",
+   "ipa": "/ˈheɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ale",
+   "meaning": "bia",
+   "example": "Let's learn the word \"ale\".",
+   "exampleMeaning": "Cùng học từ “ale”: bia.",
+   "emoji": "",
+   "ipa": "/ˈeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drinker",
+   "meaning": "người uống rượu, bợm nhậu",
+   "example": "a hard (heavy) drinker",
+   "exampleMeaning": "Người nghiện rượu nặng",
+   "emoji": "",
+   "ipa": "/ˈdrɪŋkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sensational",
+   "meaning": "giật gân, tuyệt vời",
+   "example": "Let's learn the word \"sensational\".",
+   "exampleMeaning": "Cùng học từ “sensational”: giật gân, tuyệt vời.",
+   "emoji": "",
+   "ipa": "/sɛnˈseɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unresolved",
+   "meaning": "chưa giải quyết",
+   "example": "Let's learn the word \"unresolved\".",
+   "exampleMeaning": "Cùng học từ “unresolved”: chưa giải quyết.",
+   "emoji": "",
+   "ipa": "/ənrɪˈzɑlvd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entrench",
+   "meaning": "cố thủ, làm vững chắc",
+   "example": "to entrench oneself",
+   "exampleMeaning": "Cố thủ",
+   "emoji": "",
+   "ipa": "/ɛnˈtrɛntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "moderation",
+   "meaning": "điều độ, chừng mực",
+   "example": "moderation in eating and drinking",
+   "exampleMeaning": "Sự ăn uống điều độ",
+   "emoji": "",
+   "ipa": "/ˌmɑdəˈreɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "televise",
+   "meaning": "truyền hình, phát sóng",
+   "example": "Let's learn the word \"televise\".",
+   "exampleMeaning": "Cùng học từ “televise”: truyền hình, phát sóng.",
+   "emoji": "",
+   "ipa": "/ˈtɛləˌvaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wail",
+   "meaning": "than khóc, rền rĩ",
+   "example": "to wail [over] one's misfortunes",
+   "exampleMeaning": "Than van về những nỗi bất hạnh của mình",
+   "emoji": "",
+   "ipa": "/ˈweɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "simplistic",
+   "meaning": "đơn giản hóa quá mức",
+   "example": "Let's learn the word \"simplistic\".",
+   "exampleMeaning": "Cùng học từ “simplistic”: đơn giản hóa quá mức.",
+   "emoji": "",
+   "ipa": "/sɪmˈplɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wrath",
+   "meaning": "cơn thịnh nộ",
+   "example": "slow to wrath",
+   "exampleMeaning": "Không hay cáu",
+   "emoji": "",
+   "ipa": "/ˈræθ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "downwards",
+   "meaning": "xuống dưới, đi xuống",
+   "example": "She laid the picture face downwards on the table.",
+   "exampleMeaning": "Cô ấy đã đặt úp bức tranh lên bàn.",
+   "emoji": "",
+   "ipa": "/ˈdaʊnwɜrdz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "laid",
+    "the",
+    "picture",
+    "face",
+    "downwards",
+    "on",
+    "the",
+    "table"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã đặt úp bức tranh lên bàn."
+  },
+  {
+   "tokens": [
+    "A",
+    "hacker",
+    "gained",
+    "access",
+    "to",
+    "sensitive",
+    "files",
+    "in",
+    "the",
+    "company's",
+    "database"
+   ],
+   "reading": "",
+   "meaning": "Một tin tặc đã lấy được quyền truy cập vào các tệp nhạy cảm trong cơ sở dữ liệu của công ty."
+  },
+  {
+   "tokens": [
+    "When",
+    "you're",
+    "trying",
+    "to",
+    "prove",
+    "something",
+    "it",
+    "helps",
+    "to",
+    "know",
+    "it's",
+    "true"
+   ],
+   "reading": "",
+   "meaning": "Nếu muốn chứng minh điều gì thì trước hết phải biết là nó đúng đã."
+  },
+  {
+   "tokens": [
+    "I",
+    "suddenly",
+    "got",
+    "a",
+    "craving",
+    "to",
+    "eat",
+    "some",
+    "crisp",
+    "roast",
+    "chicken",
+    "skin"
+   ],
+   "reading": "",
+   "meaning": "Tôi bỗng dưng thèm ăn da gà nướng giòn."
+  },
+  {
+   "tokens": [
+    "We",
+    "were",
+    "compelled",
+    "to",
+    "stay",
+    "at",
+    "home",
+    "on",
+    "account",
+    "of",
+    "the",
+    "storm"
+   ],
+   "reading": "",
+   "meaning": "Vì cơn bão nên chúng tôi đành phải ở nhà."
+  }
+ ],
+ "issues": []
+}

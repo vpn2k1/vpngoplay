@@ -1,0 +1,331 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "野餐",
+   "meaning": "đi dã ngoại, bữa ăn ngoài trời",
+   "example": "我们来学“野餐”这个词。",
+   "exampleMeaning": "Cùng học từ “野餐”: đi dã ngoại, bữa ăn ngoài trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yěcān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首领",
+   "meaning": "thủ lĩnh, người đứng đầu",
+   "example": "我们来学“首领”这个词。",
+   "exampleMeaning": "Cùng học từ “首领”: thủ lĩnh, người đứng đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒulǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大棚",
+   "meaning": "nhà kính, nhà màng",
+   "example": "我们来学“大棚”这个词。",
+   "exampleMeaning": "Cùng học từ “大棚”: nhà kính, nhà màng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàpéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化险为夷",
+   "meaning": "chuyển nguy thành an",
+   "example": "我们来学“化险为夷”这个词。",
+   "exampleMeaning": "Cùng học từ “化险为夷”: chuyển nguy thành an.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàxiǎnwéiyí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "荷花",
+   "meaning": "hoa sen",
+   "example": "我们来学“荷花”这个词。",
+   "exampleMeaning": "Cùng học từ “荷花”: hoa sen.",
+   "emoji": "🪷",
+   "ipa": "",
+   "pinyin": "héhuā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "插嘴",
+   "meaning": "nói chen, xen vào",
+   "example": "你别插嘴，先听我说完。",
+   "exampleMeaning": "Anh đừng có chen vào, nghe tôi nói xong trước đã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāzuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "上书",
+   "meaning": "dâng thư, kiến nghị lên trên",
+   "example": "我们来学“上书”这个词。",
+   "exampleMeaning": "Cùng học từ “上书”: dâng thư, kiến nghị lên trên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngshū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朝代",
+   "meaning": "triều đại",
+   "example": "我们来学“朝代”这个词。",
+   "exampleMeaning": "Cùng học từ “朝代”: triều đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cháodài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大业",
+   "meaning": "đại nghiệp, sự nghiệp lớn",
+   "example": "雄图大业",
+   "exampleMeaning": "Kế hoạch cho đại nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "侵略军",
+   "meaning": "quân xâm lược",
+   "example": "我们来学“侵略军”这个词。",
+   "exampleMeaning": "Cùng học từ “侵略军”: quân xâm lược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnlüèjūn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挨家挨户",
+   "meaning": "từng nhà một",
+   "example": "公安挨家挨户地调查。",
+   "exampleMeaning": "Công an đến điều tra từng nhà một.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "āijiāāihù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "民俗",
+   "meaning": "phong tục dân gian, dân tục",
+   "example": "我们来学“民俗”这个词。",
+   "exampleMeaning": "Cùng học từ “民俗”: phong tục dân gian, dân tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínsú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社稷",
+   "meaning": "xã tắc, đất nước",
+   "example": "我们来学“社稷”这个词。",
+   "exampleMeaning": "Cùng học từ “社稷”: xã tắc, đất nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "首长",
+   "meaning": "thủ trưởng, cán bộ cấp cao",
+   "example": "部首长。",
+   "exampleMeaning": "Thủ trưởng bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "工科",
+   "meaning": "ngành kỹ thuật, khối kỹ thuật",
+   "example": "我们来学“工科”这个词。",
+   "exampleMeaning": "Cùng học từ “工科”: ngành kỹ thuật, khối kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngkē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "已知",
+   "meaning": "đã biết",
+   "example": "我们来学“已知”这个词。",
+   "exampleMeaning": "Cùng học từ “已知”: đã biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐzhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抑扬顿挫",
+   "meaning": "trầm bổng nhịp nhàng",
+   "example": "我们来学“抑扬顿挫”这个词。",
+   "exampleMeaning": "Cùng học từ “抑扬顿挫”: trầm bổng nhịp nhàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìyángdùncuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "封建社会",
+   "meaning": "xã hội phong kiến",
+   "example": "我们来学“封建社会”这个词。",
+   "exampleMeaning": "Cùng học từ “封建社会”: xã hội phong kiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngjiànshèhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "谁知道",
+   "meaning": "ai ngờ, có trời mới biết",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shéizhīdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "残缺",
+   "meaning": "sứt mẻ, không trọn vẹn",
+   "example": "残缺不全。",
+   "exampleMeaning": "Không hoàn chỉnh; không đủ bộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cánquē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  }
+ ],
+ "issues": []
+}

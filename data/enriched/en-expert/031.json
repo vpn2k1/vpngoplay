@@ -1,0 +1,316 @@
+{
+ "lesson": 31,
+ "draft": true,
+ "words": [
+  {
+   "term": "famine",
+   "meaning": "nạn đói",
+   "example": "I'm appealing on behalf of the famine victims.",
+   "exampleMeaning": "Tôi khẩn khoản kêu gọi các ngài nhân danh các nạn nhân của vụ đói kém.",
+   "emoji": "",
+   "ipa": "/ˈfæmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "frenzy",
+   "meaning": "điên cuồng, cuồng loạn",
+   "example": "a frenzy of despair",
+   "exampleMeaning": "Sự thất vọng đến điên cuồng",
+   "emoji": "",
+   "ipa": "/ˈfrɛnzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "embargo",
+   "meaning": "lệnh cấm vận",
+   "example": "Let's learn the word \"embargo\".",
+   "exampleMeaning": "Cùng học từ “embargo”: lệnh cấm vận.",
+   "emoji": "",
+   "ipa": "/ɛmˈbɑrɡoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "genocide",
+   "meaning": "diệt chủng",
+   "example": "Let's learn the word \"genocide\".",
+   "exampleMeaning": "Cùng học từ “genocide”: diệt chủng.",
+   "emoji": "",
+   "ipa": "/ˈdʒɛnəˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "swiftly",
+   "meaning": "nhanh chóng",
+   "example": "Let's learn the word \"swiftly\".",
+   "exampleMeaning": "Cùng học từ “swiftly”: nhanh chóng.",
+   "emoji": "",
+   "ipa": "/ˈswɪftli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ascertain",
+   "meaning": "xác định, tìm hiểu chắc",
+   "example": "we must ascertain that it is so",
+   "exampleMeaning": "Chúng ta phải xác định sự thể là đúng như vậy",
+   "emoji": "",
+   "ipa": "/ˌæsɜrˈteɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "autism",
+   "meaning": "tự kỷ",
+   "example": "Let's learn the word \"autism\".",
+   "exampleMeaning": "Cùng học từ “autism”: tự kỷ.",
+   "emoji": "",
+   "ipa": "/ˈɔˌtɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stud",
+   "meaning": "đinh tán, ngựa giống, khuyên tai",
+   "example": "Let's learn the word \"stud\".",
+   "exampleMeaning": "Cùng học từ “stud”: đinh tán, ngựa giống, khuyên tai.",
+   "emoji": "",
+   "ipa": "/ˈstəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "congressman",
+   "meaning": "nghị sĩ quốc hội",
+   "example": "Let's learn the word \"congressman\".",
+   "exampleMeaning": "Cùng học từ “congressman”: nghị sĩ quốc hội.",
+   "emoji": "",
+   "ipa": "/ˈkɑŋɡrəsmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tractor",
+   "meaning": "máy kéo",
+   "example": "Let's learn the word \"tractor\".",
+   "exampleMeaning": "Cùng học từ “tractor”: máy kéo.",
+   "emoji": "🚜",
+   "ipa": "/ˈtræktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sovereign",
+   "meaning": "có chủ quyền, quốc vương",
+   "example": "Canada is a sovereign nation.",
+   "exampleMeaning": "Canada là một quốc gia có chủ quyền.",
+   "emoji": "",
+   "ipa": "/ˈsɑvrən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "siege",
+   "meaning": "bao vây, vây hãm",
+   "example": "to stand a long siege",
+   "exampleMeaning": "Chịu đựng một cuộc vây hãm lâu ngày",
+   "emoji": "",
+   "ipa": "/ˈsidʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "condense",
+   "meaning": "ngưng tụ, cô đọng",
+   "example": "Let's learn the word \"condense\".",
+   "exampleMeaning": "Cùng học từ “condense”: ngưng tụ, cô đọng.",
+   "emoji": "",
+   "ipa": "/kənˈdɛns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bachelor",
+   "meaning": "cử nhân, người độc thân",
+   "example": "Are you still a bachelor?",
+   "exampleMeaning": "Bạn vẫn còn là người độc thân sao?",
+   "emoji": "",
+   "ipa": "/ˈbætʃəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "chore",
+   "meaning": "việc vặt",
+   "example": "Let's learn the word \"chore\".",
+   "exampleMeaning": "Cùng học từ “chore”: việc vặt.",
+   "emoji": "",
+   "ipa": "/ˈtʃɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "smear",
+   "meaning": "bôi, vết bẩn, bôi nhọ",
+   "example": "Let's learn the word \"smear\".",
+   "exampleMeaning": "Cùng học từ “smear”: bôi, vết bẩn, bôi nhọ.",
+   "emoji": "",
+   "ipa": "/ˈsmɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stump",
+   "meaning": "gốc cây, mỏm cụt",
+   "example": "Let's learn the word \"stump\".",
+   "exampleMeaning": "Cùng học từ “stump”: gốc cây, mỏm cụt.",
+   "emoji": "",
+   "ipa": "/ˈstəmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rep",
+   "meaning": "người đại diện, một lần tập",
+   "example": "Let's learn the word \"rep\".",
+   "exampleMeaning": "Cùng học từ “rep”: người đại diện, một lần tập.",
+   "emoji": "",
+   "ipa": "/ˈrɛp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ethnicity",
+   "meaning": "sắc tộc, nguồn gốc dân tộc",
+   "example": "Let's learn the word \"ethnicity\".",
+   "exampleMeaning": "Cùng học từ “ethnicity”: sắc tộc, nguồn gốc dân tộc.",
+   "emoji": "",
+   "ipa": "/ɛθˈnɪsɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reel",
+   "meaning": "cuộn phim, lảo đảo",
+   "example": "a reel of cotton thread",
+   "exampleMeaning": "Một ống (cuộn) chỉ sợi",
+   "emoji": "",
+   "ipa": "/ˈril/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "A",
+    "swallow",
+    "flies",
+    "very",
+    "swiftly"
+   ],
+   "reading": "",
+   "meaning": "Chim nhạn bay rất nhanh."
+  },
+  {
+   "tokens": [
+    "I",
+    "love",
+    "hedgehogs"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích nhím gai."
+  },
+  {
+   "tokens": [
+    "I",
+    "was",
+    "brainwashed"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị tẩy não."
+  },
+  {
+   "tokens": [
+    "We",
+    "like",
+    "diversity"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi thích sự đa dạng."
+  },
+  {
+   "tokens": [
+    "Fossils",
+    "are",
+    "everywhere"
+   ],
+   "reading": "",
+   "meaning": "Hoá thạch ở khắp nơi."
+  }
+ ],
+ "issues": []
+}

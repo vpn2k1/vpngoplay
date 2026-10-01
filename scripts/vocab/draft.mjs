@@ -696,9 +696,9 @@ function ipaOf(term, hit) {
 // --- Practice sentences ----------------------------------------------------------------------
 /** Tatoeba levels each course draws its practice sentences from (indices into LEVELS[lang]). */
 const LEVEL_RANGE = {
-  en: { basic: [0, 2], intermediate: [2, 3], advanced: [3, 4] },
-  ja: { basic: [0, 2], intermediate: [2, 4], advanced: [3, 4] },
-  zh: { basic: [0, 3], intermediate: [3, 5], advanced: [4, 5] },
+  en: { basic: [0, 2], intermediate: [2, 3], advanced: [3, 4], expert: [4, 4] },
+  ja: { basic: [0, 2], intermediate: [2, 4], advanced: [3, 4], expert: [4, 4] },
+  zh: { basic: [0, 3], intermediate: [3, 5], advanced: [4, 5], expert: [5, 5] },
 }
 const pools = Object.fromEntries([...langs].map((lang) => [lang, tatoebaSentences(lang)]))
 

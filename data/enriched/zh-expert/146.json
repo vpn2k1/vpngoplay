@@ -1,0 +1,339 @@
+{
+ "lesson": 146,
+ "draft": true,
+ "words": [
+  {
+   "term": "时好时坏",
+   "meaning": "lúc tốt lúc xấu, thất thường",
+   "example": "我们来学“时好时坏”这个词。",
+   "exampleMeaning": "Cùng học từ “时好时坏”: lúc tốt lúc xấu, thất thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíhǎoshíhuài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "离子",
+   "meaning": "ion",
+   "example": "我们来学“离子”这个词。",
+   "exampleMeaning": "Cùng học từ “离子”: ion.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lízǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恩惠",
+   "meaning": "ân huệ, ơn",
+   "example": "我们来学“恩惠”这个词。",
+   "exampleMeaning": "Cùng học từ “恩惠”: ân huệ, ơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ēnhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "羊肉",
+   "meaning": "thịt cừu, thịt dê",
+   "example": "我们来学“羊肉”这个词。",
+   "exampleMeaning": "Cùng học từ “羊肉”: thịt cừu, thịt dê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángròu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发源地",
+   "meaning": "nơi bắt nguồn, cái nôi",
+   "example": "我们来学“发源地”这个词。",
+   "exampleMeaning": "Cùng học từ “发源地”: nơi bắt nguồn, cái nôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāyuándì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "极少",
+   "meaning": "rất ít, cực ít",
+   "example": "我们来学“极少”这个词。",
+   "exampleMeaning": "Cùng học từ “极少”: rất ít, cực ít.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíshǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老头子",
+   "meaning": "ông già, ông lão, ông nhà tôi",
+   "example": "我们来学“老头子”这个词。",
+   "exampleMeaning": "Cùng học từ “老头子”: ông già, ông lão, ông nhà tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎotóuzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "溶剂",
+   "meaning": "dung môi",
+   "example": "我们来学“溶剂”这个词。",
+   "exampleMeaning": "Cùng học từ “溶剂”: dung môi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密布",
+   "meaning": "dày đặc, phủ kín",
+   "example": "我们来学“密布”这个词。",
+   "exampleMeaning": "Cùng học từ “密布”: dày đặc, phủ kín.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìbù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宛如",
+   "meaning": "giống như, tựa như",
+   "example": "欢腾的他宛如孩子得到的礼物。",
+   "exampleMeaning": "Anh ấy vui mừng hệt như đứa trẻ được quà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnrú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公示",
+   "meaning": "công bố, niêm yết công khai",
+   "example": "我们来学“公示”这个词。",
+   "exampleMeaning": "Cùng học từ “公示”: công bố, niêm yết công khai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开门",
+   "meaning": "mở cửa",
+   "example": "银行九点才开门。",
+   "exampleMeaning": "Ngân hàng chín giờ mới mở cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāimén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "迭起",
+   "meaning": "liên tiếp xảy ra, nổi lên dồn dập",
+   "example": "比赛高潮迭起。",
+   "exampleMeaning": "Cao trào trong thi đấu xuất hiện nhiều lần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diéqǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "舰队",
+   "meaning": "hạm đội",
+   "example": "我们来学“舰队”这个词。",
+   "exampleMeaning": "Cùng học từ “舰队”: hạm đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànduì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民兵",
+   "meaning": "dân quân",
+   "example": "我们来学“民兵”这个词。",
+   "exampleMeaning": "Cùng học từ “民兵”: dân quân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínbīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出丑",
+   "meaning": "bẽ mặt, làm trò cười",
+   "example": "我们来学“出丑”这个词。",
+   "exampleMeaning": "Cùng học từ “出丑”: bẽ mặt, làm trò cười.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūchǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "打岔",
+   "meaning": "ngắt lời, đánh trống lảng",
+   "example": "你别打岔，听我说下去。",
+   "exampleMeaning": "Anh đừng ngắt lời, hãy nghe tôi nói tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎchà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "诚心诚意",
+   "meaning": "thành tâm thành ý",
+   "example": "我们来学“诚心诚意”这个词。",
+   "exampleMeaning": "Cùng học từ “诚心诚意”: thành tâm thành ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngxīnchéngyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "气泡",
+   "meaning": "bọt khí, có ga",
+   "example": "我们来学“气泡”这个词。",
+   "exampleMeaning": "Cùng học từ “气泡”: bọt khí, có ga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìpào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "推选",
+   "meaning": "bầu chọn, đề cử",
+   "example": "他被大家推选为组长。",
+   "exampleMeaning": "Mọi người bầu anh ấy làm tổ trưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīxuǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,319 @@
+{
+ "lesson": 35,
+ "draft": true,
+ "words": [
+  {
+   "term": "baseline",
+   "meaning": "đường cơ sở, mức chuẩn",
+   "example": "Let's learn the word \"baseline\".",
+   "exampleMeaning": "Cùng học từ “baseline”: đường cơ sở, mức chuẩn.",
+   "emoji": "",
+   "ipa": "/ˈbeɪˌslaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "misuse",
+   "meaning": "lạm dụng, dùng sai",
+   "example": "Let's learn the word \"misuse\".",
+   "exampleMeaning": "Cùng học từ “misuse”: lạm dụng, dùng sai.",
+   "emoji": "",
+   "ipa": "/mɪsˈjus/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "readiness",
+   "meaning": "sẵn sàng",
+   "example": "have everything in readiness for departure",
+   "exampleMeaning": "Hây chuẩn bị sẵn sàng mọi thứ để đi",
+   "emoji": "",
+   "ipa": "/ˈrɛdinəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lash",
+   "meaning": "quất, roi, lông mi",
+   "example": "to be sentenced to the lash",
+   "exampleMeaning": "Bị phạt roi, bị phạt đòn",
+   "emoji": "",
+   "ipa": "/ˈlæʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mini",
+   "meaning": "cỡ nhỏ",
+   "example": "Let's learn the word \"mini\".",
+   "exampleMeaning": "Cùng học từ “mini”: cỡ nhỏ.",
+   "emoji": "",
+   "ipa": "/ˈmɪni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "remnant",
+   "meaning": "tàn tích, phần còn lại",
+   "example": "Let's learn the word \"remnant\".",
+   "exampleMeaning": "Cùng học từ “remnant”: tàn tích, phần còn lại.",
+   "emoji": "",
+   "ipa": "/ˈrɛmnənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gospel",
+   "meaning": "phúc âm",
+   "example": "to take one's dream for gospel",
+   "exampleMeaning": "Tin những giấc mơ của mình là thật",
+   "emoji": "",
+   "ipa": "/ˈɡɑspəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deter",
+   "meaning": "ngăn cản, răn đe",
+   "example": "to deter someone from doing something",
+   "exampleMeaning": "Ngăn cản ai làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wrinkle",
+   "meaning": "nếp nhăn",
+   "example": "to put somebody up to a wrinkle",
+   "exampleMeaning": "Mách nước cho ai",
+   "emoji": "",
+   "ipa": "/ˈrɪŋkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "visualize",
+   "meaning": "hình dung, mường tượng",
+   "example": "Let's learn the word \"visualize\".",
+   "exampleMeaning": "Cùng học từ “visualize”: hình dung, mường tượng.",
+   "emoji": "",
+   "ipa": "/ˈvɪʒwəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dementia",
+   "meaning": "sa sút trí tuệ, chứng mất trí",
+   "example": "Let's learn the word \"dementia\".",
+   "exampleMeaning": "Cùng học từ “dementia”: sa sút trí tuệ, chứng mất trí.",
+   "emoji": "",
+   "ipa": "/dɪˈmɛnʃiə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cuisine",
+   "meaning": "ẩm thực",
+   "example": "Let's learn the word \"cuisine\".",
+   "exampleMeaning": "Cùng học từ “cuisine”: ẩm thực.",
+   "emoji": "",
+   "ipa": "/kwɪˈzin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "locality",
+   "meaning": "địa phương, vùng",
+   "example": "Let's learn the word \"locality\".",
+   "exampleMeaning": "Cùng học từ “locality”: địa phương, vùng.",
+   "emoji": "",
+   "ipa": "/loʊˈkæləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "contingency",
+   "meaning": "tình huống bất ngờ, dự phòng",
+   "example": "should a contingency arise; in case of a contingency",
+   "exampleMeaning": "Trong trường hợp bất ngờ; nếu xảy ra việc bất ngờ",
+   "emoji": "",
+   "ipa": "/kənˈtɪndʒənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "chuck",
+   "meaning": "quăng, vứt bỏ",
+   "example": "to chuck someone under the chin",
+   "exampleMeaning": "Day day nhẹ cằm người nào",
+   "emoji": "",
+   "ipa": "/ˈtʃək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "darken",
+   "meaning": "làm tối, tối sầm",
+   "example": "Let's learn the word \"darken\".",
+   "exampleMeaning": "Cùng học từ “darken”: làm tối, tối sầm.",
+   "emoji": "",
+   "ipa": "/ˈdɑrkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pensioner",
+   "meaning": "người hưởng lương hưu",
+   "example": "Let's learn the word \"pensioner\".",
+   "exampleMeaning": "Cùng học từ “pensioner”: người hưởng lương hưu.",
+   "emoji": "",
+   "ipa": "/ˈpɛnʃənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "installment",
+   "meaning": "trả góp, kỳ trả, tập (phim)",
+   "example": "Let's learn the word \"installment\".",
+   "exampleMeaning": "Cùng học từ “installment”: trả góp, kỳ trả, tập (phim).",
+   "emoji": "",
+   "ipa": "/ˌɪnˈstɔlmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "discern",
+   "meaning": "nhận ra, phân biệt",
+   "example": "It is hard to discern between the true and the false.",
+   "exampleMeaning": "Thật khó nhận thức được cái đúng và cái sai.",
+   "emoji": "",
+   "ipa": "/dɪˈsɜrn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "causal",
+   "meaning": "nhân quả",
+   "example": "Let's learn the word \"causal\".",
+   "exampleMeaning": "Cùng học từ “causal”: nhân quả.",
+   "emoji": "",
+   "ipa": "/ˈkɔzəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "like",
+    "grapefruit"
+   ],
+   "reading": "",
+   "meaning": "Tôi không thích bưởi chùm."
+  },
+  {
+   "tokens": [
+    "Comment",
+    "has",
+    "been",
+    "removed"
+   ],
+   "reading": "",
+   "meaning": "Bình luận này đã bị xoá."
+  },
+  {
+   "tokens": [
+    "The",
+    "sheep",
+    "was",
+    "sacrificed"
+   ],
+   "reading": "",
+   "meaning": "Con cừu đã bị hiến tế."
+  },
+  {
+   "tokens": [
+    "Is",
+    "this",
+    "information",
+    "credible"
+   ],
+   "reading": "",
+   "meaning": "Thông tin này có đáng tin không?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "getting",
+    "online",
+    "harassment"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang bị quấy rối trực tuyến."
+  }
+ ],
+ "issues": []
+}

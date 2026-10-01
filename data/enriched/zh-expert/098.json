@@ -1,0 +1,335 @@
+{
+ "lesson": 98,
+ "draft": true,
+ "words": [
+  {
+   "term": "支流",
+   "meaning": "nhánh sông, chi lưu",
+   "example": "我们来学“支流”这个词。",
+   "exampleMeaning": "Cùng học từ “支流”: nhánh sông, chi lưu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīliú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国务委员",
+   "meaning": "ủy viên quốc vụ",
+   "example": "我们来学“国务委员”这个词。",
+   "exampleMeaning": "Cùng học từ “国务委员”: ủy viên quốc vụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guówùwěiyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洋芋",
+   "meaning": "khoai tây (phương ngữ)",
+   "example": "我们来学“洋芋”这个词。",
+   "exampleMeaning": "Cùng học từ “洋芋”: khoai tây (phương ngữ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángyù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天子",
+   "meaning": "thiên tử",
+   "example": "我们来学“天子”这个词。",
+   "exampleMeaning": "Cùng học từ “天子”: thiên tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānzǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "财力",
+   "meaning": "tài lực, nguồn tài chính",
+   "example": "财力雄厚。",
+   "exampleMeaning": "Tài lực hùng hậu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cáilì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "兢兢业业",
+   "meaning": "tận tụy, cần mẫn",
+   "example": "我们来学“兢兢业业”这个词。",
+   "exampleMeaning": "Cùng học từ “兢兢业业”: tận tụy, cần mẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngjīngyèyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地势",
+   "meaning": "địa thế, địa hình",
+   "example": "地势险要",
+   "exampleMeaning": "Địa thế hiểm yếu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "油料",
+   "meaning": "cây lấy dầu, nhiên liệu",
+   "example": "油料作物。",
+   "exampleMeaning": "Cây hạt dầu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuliào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不见得",
+   "meaning": "chưa chắc",
+   "example": "药吃多了，对身体不见得好。",
+   "exampleMeaning": "Uống nhiều thuốc không hẳn là tốt cho sức khỏe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjiànde",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "任教",
+   "meaning": "dạy học, làm giáo viên",
+   "example": "我们来学“任教”这个词。",
+   "exampleMeaning": "Cùng học từ “任教”: dạy học, làm giáo viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènjiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坚韧",
+   "meaning": "bền bỉ, dẻo dai",
+   "example": "我们来学“坚韧”这个词。",
+   "exampleMeaning": "Cùng học từ “坚韧”: bền bỉ, dẻo dai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānrèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "亲王",
+   "meaning": "thân vương, hoàng thân",
+   "example": "我们来学“亲王”这个词。",
+   "exampleMeaning": "Cùng học từ “亲王”: thân vương, hoàng thân.",
+   "emoji": "🤴",
+   "ipa": "",
+   "pinyin": "qīnwáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忙乱",
+   "meaning": "tất bật rối ren",
+   "example": "我们来学“忙乱”这个词。",
+   "exampleMeaning": "Cùng học từ “忙乱”: tất bật rối ren.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mángluàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "河道",
+   "meaning": "lòng sông, dòng sông",
+   "example": "疏通河道",
+   "exampleMeaning": "Đường sông thông thoáng; nạo vét đường sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hédào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骑马",
+   "meaning": "cưỡi ngựa",
+   "example": "我们来学“骑马”这个词。",
+   "exampleMeaning": "Cùng học từ “骑马”: cưỡi ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qímǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浓度",
+   "meaning": "nồng độ",
+   "example": "我们来学“浓度”这个词。",
+   "exampleMeaning": "Cùng học từ “浓度”: nồng độ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngdù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "启用",
+   "meaning": "đưa vào sử dụng, kích hoạt",
+   "example": "我们来学“启用”这个词。",
+   "exampleMeaning": "Cùng học từ “启用”: đưa vào sử dụng, kích hoạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐyòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新增",
+   "meaning": "thêm mới, mới thêm",
+   "example": "我们来学“新增”这个词。",
+   "exampleMeaning": "Cùng học từ “新增”: thêm mới, mới thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnzēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宦官",
+   "meaning": "hoạn quan, thái giám",
+   "example": "我们来学“宦官”这个词。",
+   "exampleMeaning": "Cùng học từ “宦官”: hoạn quan, thái giám.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huànguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活期",
+   "meaning": "không kỳ hạn",
+   "example": "您存活期的还是定期的？",
+   "exampleMeaning": "Ông gởi có kỳ hạn hay không kỳ hạn?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huóqī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "说",
+    "的",
+    "不见得",
+    "对"
+   ],
+   "reading": "tā shuō de bùjiànde duì",
+   "meaning": "Anh ấy nói chưa chắc đã đúng."
+  },
+  {
+   "tokens": [
+    "他",
+    "今天",
+    "不见得",
+    "会",
+    "来"
+   ],
+   "reading": "tā jīntiān bùjiànde huì lái",
+   "meaning": "Anh ấy hôm nay chưa chắc sẽ đến."
+  },
+  {
+   "tokens": [
+    "药",
+    "吃",
+    "多",
+    "了",
+    "对",
+    "身体",
+    "不见得",
+    "好"
+   ],
+   "reading": "yào chī duō le duì shēntǐ bùjiànde hǎo",
+   "meaning": "Uống nhiều thuốc không hẳn là tốt cho sức khỏe."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

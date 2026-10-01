@@ -1,0 +1,331 @@
+{
+ "lesson": 132,
+ "draft": true,
+ "words": [
+  {
+   "term": "运算",
+   "meaning": "tính toán, phép tính",
+   "example": "四则运算",
+   "exampleMeaning": "Làm bốn phép tính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùnsuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喜事",
+   "meaning": "chuyện vui, đám cưới",
+   "example": "他俩正准备办喜事。",
+   "exampleMeaning": "Hai anh chị ấy đang sửa soạn làm lễ cưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "增加值",
+   "meaning": "giá trị gia tăng",
+   "example": "我们来学“增加值”这个词。",
+   "exampleMeaning": "Cùng học từ “增加值”: giá trị gia tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zēngjiāzhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社论",
+   "meaning": "xã luận",
+   "example": "我们来学“社论”这个词。",
+   "exampleMeaning": "Cùng học từ “社论”: xã luận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèlùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "审美",
+   "meaning": "thẩm mỹ",
+   "example": "我们来学“审美”这个词。",
+   "exampleMeaning": "Cùng học từ “审美”: thẩm mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěnměi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "诀窍",
+   "meaning": "bí quyết, mẹo",
+   "example": "炒菜的诀窍主要是拿准火候儿。",
+   "exampleMeaning": "Bí quyết của việc xào rau là để lửa to.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juéqiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "力不从心",
+   "meaning": "lực bất tòng tâm",
+   "example": "我们来学“力不从心”这个词。",
+   "exampleMeaning": "Cùng học từ “力不从心”: lực bất tòng tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìbùcóngxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高新技术",
+   "meaning": "công nghệ cao",
+   "example": "我们来学“高新技术”这个词。",
+   "exampleMeaning": "Cùng học từ “高新技术”: công nghệ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoxīnjìshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "格格不入",
+   "meaning": "lạc lõng, không hợp nhau",
+   "example": "我们来学“格格不入”这个词。",
+   "exampleMeaning": "Cùng học từ “格格不入”: lạc lõng, không hợp nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gégébùrù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "屯",
+   "meaning": "đóng (quân), tích trữ",
+   "example": "我们来学“屯”这个词。",
+   "exampleMeaning": "Cùng học từ “屯”: đóng (quân), tích trữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tún",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不了了之",
+   "meaning": "bỏ lửng, chìm xuồng",
+   "example": "刚才的争论就这样不了了之。",
+   "exampleMeaning": "Tranh luận vừa rồi cứ như thế bỏ mặc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùliǎoliǎozhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "女孩",
+   "meaning": "cô gái, bé gái",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "👧",
+   "ipa": "",
+   "pinyin": "nǚhái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "指教",
+   "meaning": "chỉ giáo, chỉ bảo",
+   "example": "希望多多指教。",
+   "exampleMeaning": "Mong được chỉ bảo thêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐjiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相传",
+   "meaning": "tương truyền, truyền lại",
+   "example": "相传此处是穆挂英的点将台。",
+   "exampleMeaning": "Tương truyền nơi này là đài điểm tướng của Mộc Quế Anh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngchuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "政事",
+   "meaning": "chính sự",
+   "example": "过问政事",
+   "exampleMeaning": "Quan tâm đến chính sự",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学子",
+   "meaning": "học trò, sĩ tử",
+   "example": "莘莘学子(很多学生)。",
+   "exampleMeaning": "Rất đông học sinh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuézǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "攻关",
+   "meaning": "vượt khó then chốt, công phá ải",
+   "example": "刻苦钻研，立志攻关。",
+   "exampleMeaning": "Chịu khó nghiên cứu, quyết khắc phục khó khăn trong nghiên cứu khoa học và kỹ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "行者",
+   "meaning": "người đi đường, hành giả",
+   "example": "我们来学“行者”这个词。",
+   "exampleMeaning": "Cùng học từ “行者”: người đi đường, hành giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xíngzhě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "马后炮",
+   "meaning": "mất bò mới lo làm chuồng",
+   "example": "事情已经定下来了，我们再怎么努力也无济于事了，一切都是马后炮了。",
+   "exampleMeaning": "Việc đã định rồi, chúng ta có cố gắng thế nào nữa cũng vô ích, tất cả đều đã là muộn màng rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎhòupào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "来得",
+   "meaning": "tỏ ra, kham nổi",
+   "example": "粗细活儿她都来得。",
+   "exampleMeaning": "Chuyện to nhỏ gì chị ấy cũng làm được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "láide",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  }
+ ],
+ "issues": []
+}

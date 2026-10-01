@@ -1,0 +1,330 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "白血病",
+   "meaning": "bệnh bạch cầu, ung thư máu",
+   "example": "「白血病」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “白血病”: bệnh bạch cầu, ung thư máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "引き換え",
+   "meaning": "đổi lấy, trao đổi",
+   "example": "「引き換え」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “引き換え”: đổi lấy, trao đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発覚",
+   "meaning": "bị phát giác, lộ ra",
+   "example": "スキャンダルが発覚したとき、その下院議員の支持者たちは激怒しました。",
+   "exampleMeaning": "Khi vụ việc của nghị sĩ Hạ viện đó bị bại lộ, những người ủng hộ người này đã vô cùng phẫn nộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "何ら",
+   "meaning": "chẳng hề, không chút nào",
+   "example": "何かを証明しようとする場合、それが真実であるという確信を持つことは何らかの手助けになる。",
+   "exampleMeaning": "Nếu muốn chứng minh điều gì thì trước hết phải biết là nó đúng đã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "通信網",
+   "meaning": "mạng lưới thông tin",
+   "example": "「通信網」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “通信網”: mạng lưới thông tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年来",
+   "meaning": "nhiều năm nay, lâu năm",
+   "example": "「年来」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年来”: nhiều năm nay, lâu năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "常設",
+   "meaning": "thường trực, cố định",
+   "example": "「常設」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “常設”: thường trực, cố định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "株券",
+   "meaning": "chứng chỉ cổ phiếu",
+   "example": "「株券」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “株券”: chứng chỉ cổ phiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二期",
+   "meaning": "hai nhiệm kỳ, hai kỳ",
+   "example": "「二期」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二期”: hai nhiệm kỳ, hai kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陪審",
+   "meaning": "bồi thẩm, bồi thẩm đoàn",
+   "example": "「陪審」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陪審”: bồi thẩm, bồi thẩm đoàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "担任",
+   "meaning": "phụ trách, giáo viên chủ nhiệm",
+   "example": "「担任」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “担任”: phụ trách, giáo viên chủ nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接点",
+   "meaning": "tiếp điểm, điểm chung",
+   "example": "「接点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接点”: tiếp điểm, điểm chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相乗り",
+   "meaning": "đi chung xe, cùng đi",
+   "example": "昨夜、パリスヒルトンとタクシーに相乗りしました。",
+   "exampleMeaning": "Tối hôm qua, tôi đã đi chung xe taxi với Paris Hilton.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "失策",
+   "meaning": "sai lầm, lỗi",
+   "example": "「失策」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “失策”: sai lầm, lỗi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朱",
+   "meaning": "đỏ son, đỏ thắm",
+   "example": "朱に交われば赤くなる。",
+   "exampleMeaning": "Gần mực thì đen, gần đèn thì sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物流",
+   "meaning": "vận chuyển hàng hóa, hậu cần",
+   "example": "「物流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物流”: vận chuyển hàng hóa, hậu cần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陶芸",
+   "meaning": "nghề gốm, gốm nghệ thuật",
+   "example": "「陶芸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陶芸”: nghề gốm, gốm nghệ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "動植物",
+   "meaning": "động thực vật",
+   "example": "「動植物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “動植物”: động thực vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "処遇",
+   "meaning": "đối xử, đãi ngộ",
+   "example": "「処遇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “処遇”: đối xử, đãi ngộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "増額",
+   "meaning": "tăng khoản tiền",
+   "example": "「増額」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “増額”: tăng khoản tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "朱",
+    "に",
+    "交われば",
+    "赤く",
+    "なる"
+   ],
+   "reading": "しゅにまじわればあかくなる",
+   "meaning": "Gần mực thì đen, gần đèn thì sáng."
+  },
+  {
+   "tokens": [
+    "昨夜",
+    "パリス",
+    "ヒルトン",
+    "と",
+    "タクシー",
+    "に",
+    "相乗り",
+    "しま",
+    "した"
+   ],
+   "reading": "さくやパリスヒルトンとタクシーにあいのりしました",
+   "meaning": "Tối hôm qua, tôi đã đi chung xe taxi với Paris Hilton."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "油絵",
+    "を",
+    "始めた"
+   ],
+   "reading": "かのじょはあぶらえをはじめた",
+   "meaning": "Cô ấy đã bắt đầu vẽ tranh sơn dầu."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "つり",
+    "の",
+    "専門家",
+    "だ"
+   ],
+   "reading": "かれはつりのせんもんかだ",
+   "meaning": "Anh ấy là một chuyên gia câu cá."
+  },
+  {
+   "tokens": [
+    "千里",
+    "の",
+    "道",
+    "も",
+    "一歩",
+    "から"
+   ],
+   "reading": "せんりのみちもいっぽから",
+   "meaning": "Vạn sự khởi đầu nan."
+  }
+ ],
+ "issues": []
+}

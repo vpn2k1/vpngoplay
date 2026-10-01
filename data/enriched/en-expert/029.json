@@ -1,0 +1,354 @@
+{
+ "lesson": 29,
+ "draft": true,
+ "words": [
+  {
+   "term": "slum",
+   "meaning": "khu ổ chuột",
+   "example": "Let's learn the word \"slum\".",
+   "exampleMeaning": "Cùng học từ “slum”: khu ổ chuột.",
+   "emoji": "",
+   "ipa": "/ˈsləm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "linkage",
+   "meaning": "liên kết, mối liên hệ",
+   "example": "Let's learn the word \"linkage\".",
+   "exampleMeaning": "Cùng học từ “linkage”: liên kết, mối liên hệ.",
+   "emoji": "",
+   "ipa": "/ˈlɪŋkədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "template",
+   "meaning": "biểu mẫu, khuôn mẫu",
+   "example": "Let's learn the word \"template\".",
+   "exampleMeaning": "Cùng học từ “template”: biểu mẫu, khuôn mẫu.",
+   "emoji": "",
+   "ipa": "/ˈtɛmpleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "incapable",
+   "meaning": "không đủ năng lực, không thể",
+   "example": "incapable of [telling] a lie",
+   "exampleMeaning": "Không thể nào nói dối được",
+   "emoji": "",
+   "ipa": "/ˌɪnˈkeɪpəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "beta",
+   "meaning": "bản thử nghiệm, chữ bê-ta",
+   "example": "Let's learn the word \"beta\".",
+   "exampleMeaning": "Cùng học từ “beta”: bản thử nghiệm, chữ bê-ta.",
+   "emoji": "",
+   "ipa": "/ˈbeɪtə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "canopy",
+   "meaning": "tán cây, mái che",
+   "example": "the canopy of the heavens",
+   "exampleMeaning": "Vòm trời",
+   "emoji": "",
+   "ipa": "/ˈkænəpi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nick",
+   "meaning": "vết khía, chôm (lóng)",
+   "example": "His help came in the nick of time.",
+   "exampleMeaning": "Sự trợ giúp của anh ấy đến thật đúng lúc.",
+   "emoji": "",
+   "ipa": "/ˈnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "den",
+   "meaning": "hang ổ, phòng riêng",
+   "example": "Let's learn the word \"den\".",
+   "exampleMeaning": "Cùng học từ “den”: hang ổ, phòng riêng.",
+   "emoji": "",
+   "ipa": "/ˈdɛn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "charitable",
+   "meaning": "từ thiện, độ lượng",
+   "example": "Let's learn the word \"charitable\".",
+   "exampleMeaning": "Cùng học từ “charitable”: từ thiện, độ lượng.",
+   "emoji": "",
+   "ipa": "/ˈtʃærətəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "theological",
+   "meaning": "thuộc thần học",
+   "example": "Let's learn the word \"theological\".",
+   "exampleMeaning": "Cùng học từ “theological”: thuộc thần học.",
+   "emoji": "",
+   "ipa": "/ˌθiəˈlɑdʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drastic",
+   "meaning": "quyết liệt, mạnh mẽ",
+   "example": "to take drastic measures",
+   "exampleMeaning": "Dùng những biện pháp quyết liệt",
+   "emoji": "",
+   "ipa": "/ˈdræstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "facade",
+   "meaning": "mặt tiền, vẻ bề ngoài",
+   "example": "Let's learn the word \"facade\".",
+   "exampleMeaning": "Cùng học từ “facade”: mặt tiền, vẻ bề ngoài.",
+   "emoji": "",
+   "ipa": "/fəˈsɑd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "trickle",
+   "meaning": "rỉ ra, chảy từng giọt",
+   "example": "to set the tap at a trickle",
+   "exampleMeaning": "Mở vòi nước cho chảy nhỏ giọt",
+   "emoji": "",
+   "ipa": "/ˈtrɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "intricate",
+   "meaning": "phức tạp, rắc rối",
+   "example": "an intricate machine",
+   "exampleMeaning": "Một cái máy phức tạp",
+   "emoji": "",
+   "ipa": "/ˈɪntrəkət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dismantle",
+   "meaning": "tháo dỡ, giải thể",
+   "example": "Let's learn the word \"dismantle\".",
+   "exampleMeaning": "Cùng học từ “dismantle”: tháo dỡ, giải thể.",
+   "emoji": "",
+   "ipa": "/dɪsˈmænəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inning",
+   "meaning": "hiệp (bóng chày)",
+   "example": "Let's learn the word \"inning\".",
+   "exampleMeaning": "Cùng học từ “inning”: hiệp (bóng chày).",
+   "emoji": "",
+   "ipa": "/ˈɪnɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intensely",
+   "meaning": "dữ dội, mãnh liệt",
+   "example": "Let's learn the word \"intensely\".",
+   "exampleMeaning": "Cùng học từ “intensely”: dữ dội, mãnh liệt.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛnsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shepherd",
+   "meaning": "người chăn cừu",
+   "example": "the good Shepherd",
+   "exampleMeaning": "Chúa",
+   "emoji": "",
+   "ipa": "/ˈʃɛpɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blouse",
+   "meaning": "áo cánh, áo sơ mi nữ",
+   "example": "Let's learn the word \"blouse\".",
+   "exampleMeaning": "Cùng học từ “blouse”: áo cánh, áo sơ mi nữ.",
+   "emoji": "",
+   "ipa": "/ˈblaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "setup",
+   "meaning": "thiết lập, cách bố trí",
+   "example": "Let's learn the word \"setup\".",
+   "exampleMeaning": "Cùng học từ “setup”: thiết lập, cách bố trí.",
+   "emoji": "",
+   "ipa": "/ˈsɛˌtəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "This",
+    "list",
+    "is",
+    "inclusive",
+    "of",
+    "the",
+    "past",
+    "members",
+    "of",
+    "the",
+    "group"
+   ],
+   "reading": "",
+   "meaning": "Danh sách này bao gồm các cựu thành viên của nhóm."
+  },
+  {
+   "tokens": [
+    "Will",
+    "you",
+    "open",
+    "the",
+    "window",
+    "and",
+    "air",
+    "out",
+    "this",
+    "stuffy",
+    "room"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể giúp tôi mở cửa sổ để phòng này bớt bí hơn được không?"
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "trying",
+    "to",
+    "save",
+    "as",
+    "much",
+    "money",
+    "as",
+    "she",
+    "can"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang tiết kiệm tiền hết mức có thể."
+  },
+  {
+   "tokens": [
+    "I",
+    "want",
+    "to",
+    "go",
+    "to",
+    "Australia",
+    "again",
+    "before",
+    "my",
+    "passport",
+    "expires"
+   ],
+   "reading": "",
+   "meaning": "Trước khi hộ chiếu hết hạn, tớ muốn đi Úc thêm lần nữa quá."
+  },
+  {
+   "tokens": [
+    "A",
+    "hacker",
+    "gained",
+    "access",
+    "to",
+    "sensitive",
+    "files",
+    "in",
+    "the",
+    "company's",
+    "database"
+   ],
+   "reading": "",
+   "meaning": "Một tin tặc đã lấy được quyền truy cập vào các tệp nhạy cảm trong cơ sở dữ liệu của công ty."
+  }
+ ],
+ "issues": []
+}

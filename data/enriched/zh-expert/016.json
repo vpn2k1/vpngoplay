@@ -1,0 +1,328 @@
+{
+ "lesson": 16,
+ "draft": true,
+ "words": [
+  {
+   "term": "化工",
+   "meaning": "công nghiệp hóa chất, kỹ thuật hóa học",
+   "example": "化工厂。",
+   "exampleMeaning": "Nhà máy hoá chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàgōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "基准",
+   "meaning": "chuẩn, tiêu chuẩn, mốc chuẩn",
+   "example": "我们来学“基准”这个词。",
+   "exampleMeaning": "Cùng học từ “基准”: chuẩn, tiêu chuẩn, mốc chuẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīzhǔn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化肥",
+   "meaning": "phân bón hóa học",
+   "example": "我们来学“化肥”这个词。",
+   "exampleMeaning": "Cùng học từ “化肥”: phân bón hóa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huàféi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "总书记",
+   "meaning": "tổng bí thư",
+   "example": "我们来学“总书记”这个词。",
+   "exampleMeaning": "Cùng học từ “总书记”: tổng bí thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngshūji",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "用以",
+   "meaning": "dùng để, nhằm",
+   "example": "我们来学“用以”这个词。",
+   "exampleMeaning": "Cùng học từ “用以”: dùng để, nhằm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngyǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原汁原味",
+   "meaning": "nguyên chất, nguyên bản",
+   "example": "我们来学“原汁原味”这个词。",
+   "exampleMeaning": "Cùng học từ “原汁原味”: nguyên chất, nguyên bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánzhīyuánwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "创建者",
+   "meaning": "người sáng lập",
+   "example": "我们来学“创建者”这个词。",
+   "exampleMeaning": "Cùng học từ “创建者”: người sáng lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuàngjiànzhě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国学",
+   "meaning": "quốc học",
+   "example": "我们来学“国学”这个词。",
+   "exampleMeaning": "Cùng học từ “国学”: quốc học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guóxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暴风骤雨",
+   "meaning": "mưa to gió lớn, bão táp",
+   "example": "我们来学“暴风骤雨”这个词。",
+   "exampleMeaning": "Cùng học từ “暴风骤雨”: mưa to gió lớn, bão táp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàofēngzhòuyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "起劲",
+   "meaning": "hăng hái, hăm hở",
+   "example": "大家干得正起劲，你千万不能泼冷水。",
+   "exampleMeaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐjìn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "用作",
+   "meaning": "dùng làm",
+   "example": "我们来学“用作”这个词。",
+   "exampleMeaning": "Cùng học từ “用作”: dùng làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòngzuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "经商",
+   "meaning": "buôn bán, kinh doanh",
+   "example": "我们来学“经商”这个词。",
+   "exampleMeaning": "Cùng học từ “经商”: buôn bán, kinh doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngshāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仪仗",
+   "meaning": "nghi trượng, đội nghi lễ",
+   "example": "我们来学“仪仗”这个词。",
+   "exampleMeaning": "Cùng học từ “仪仗”: nghi trượng, đội nghi lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yízhàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老实说",
+   "meaning": "thành thật mà nói, nói thật",
+   "example": "我们来学“老实说”这个词。",
+   "exampleMeaning": "Cùng học từ “老实说”: thành thật mà nói, nói thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎoshíshuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人工智能",
+   "meaning": "trí tuệ nhân tạo",
+   "example": "我们来学“人工智能”这个词。",
+   "exampleMeaning": "Cùng học từ “人工智能”: trí tuệ nhân tạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "réngōngzhìnéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "向下",
+   "meaning": "xuống dưới, hướng xuống",
+   "example": "我们来学“向下”这个词。",
+   "exampleMeaning": "Cùng học từ “向下”: xuống dưới, hướng xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngxià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "色素",
+   "meaning": "sắc tố",
+   "example": "我们来学“色素”这个词。",
+   "exampleMeaning": "Cùng học từ “色素”: sắc tố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sèsù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坐落",
+   "meaning": "nằm ở, tọa lạc",
+   "example": "我们的学校坐落在环境幽静的市郊。",
+   "exampleMeaning": "Trường chúng tôi nằm ở vùng ngoại ô yên tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòluò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "多功能",
+   "meaning": "đa năng, đa chức năng",
+   "example": "我们来学“多功能”这个词。",
+   "exampleMeaning": "Cùng học từ “多功能”: đa năng, đa chức năng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōgōngnéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "总人口",
+   "meaning": "tổng dân số",
+   "example": "我们来学“总人口”这个词。",
+   "exampleMeaning": "Cùng học từ “总人口”: tổng dân số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngrénkǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "大家",
+    "干",
+    "得",
+    "正",
+    "起劲",
+    "你",
+    "千万",
+    "不",
+    "能",
+    "泼冷水"
+   ],
+   "reading": "dàjiā gàn de zhèng qǐjìn nǐ qiānwàn bù néng pōlěngshuǐ",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  }
+ ],
+ "issues": []
+}

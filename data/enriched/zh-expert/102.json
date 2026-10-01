@@ -1,0 +1,325 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "输家",
+   "meaning": "người thua",
+   "example": "我们来学“输家”这个词。",
+   "exampleMeaning": "Cùng học từ “输家”: người thua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūjiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仆人",
+   "meaning": "người hầu",
+   "example": "我们来学“仆人”这个词。",
+   "exampleMeaning": "Cùng học từ “仆人”: người hầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "púrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俯首",
+   "meaning": "cúi đầu",
+   "example": "俯首沉思",
+   "exampleMeaning": "Cúi đầu trầm tư",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǔshǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "斩草除根",
+   "meaning": "nhổ cỏ tận gốc, diệt tận gốc",
+   "example": "我们来学“斩草除根”这个词。",
+   "exampleMeaning": "Cùng học từ “斩草除根”: nhổ cỏ tận gốc, diệt tận gốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǎncǎochúgēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "产地",
+   "meaning": "nơi sản xuất, xuất xứ",
+   "example": "煤的产地。",
+   "exampleMeaning": "Nơi sản xuất than đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎndì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "海运",
+   "meaning": "vận tải biển",
+   "example": "我们来学“海运”这个词。",
+   "exampleMeaning": "Cùng học từ “海运”: vận tải biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎiyùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "船桨",
+   "meaning": "mái chèo",
+   "example": "我们来学“船桨”这个词。",
+   "exampleMeaning": "Cùng học từ “船桨”: mái chèo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuánjiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "考量",
+   "meaning": "cân nhắc, xem xét",
+   "example": "这件事我已经考量过了，就照你的意思办吧。",
+   "exampleMeaning": "Việc này tôi đã suy nghĩ rồi, cứ theo ý của bạn mà làm đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎoliáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鸟巢",
+   "meaning": "tổ chim",
+   "example": "我们来学“鸟巢”这个词。",
+   "exampleMeaning": "Cùng học từ “鸟巢”: tổ chim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niǎocháo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "和气",
+   "meaning": "hòa nhã, ôn hòa",
+   "example": "咱们别为小事儿伤了和气。",
+   "exampleMeaning": "Chúng mình đừng vì chuyện nhỏ mọn mà sứt mẻ tình cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héqi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "定律",
+   "meaning": "định luật, quy luật",
+   "example": "我们来学“定律”这个词。",
+   "exampleMeaning": "Cùng học từ “定律”: định luật, quy luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìnglǜ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "呜咽",
+   "meaning": "nức nở, thổn thức",
+   "example": "我们来学“呜咽”这个词。",
+   "exampleMeaning": "Cùng học từ “呜咽”: nức nở, thổn thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wūyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "讲求",
+   "meaning": "coi trọng, chú trọng",
+   "example": "要讲求实际，不要讲求形式。",
+   "exampleMeaning": "Phải coi trọng thực tế, không nên coi trọng hình thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "封建",
+   "meaning": "phong kiến",
+   "example": "封建剥削",
+   "exampleMeaning": "Bóc lột theo lối phong kiến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngjiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "修长",
+   "meaning": "thon dài, cao gầy",
+   "example": "修长身材。",
+   "exampleMeaning": "Thân hình mảnh khảnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūcháng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "城楼",
+   "meaning": "lầu cổng thành, vọng lâu",
+   "example": "我们来学“城楼”这个词。",
+   "exampleMeaning": "Cùng học từ “城楼”: lầu cổng thành, vọng lâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénglóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "举世瞩目",
+   "meaning": "cả thế giới chú ý",
+   "example": "我们来学“举世瞩目”这个词。",
+   "exampleMeaning": "Cùng học từ “举世瞩目”: cả thế giới chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǔshìzhǔmù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相依为命",
+   "meaning": "nương tựa vào nhau mà sống",
+   "example": "解放前，她们母女二人相依为命，过着极其艰难的日子。",
+   "exampleMeaning": "Trước giải phóng, hai mẹ con cô ấy phải dựa vào nhau sống những ngày vô cùng cực khổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngyīwéimìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "难点",
+   "meaning": "điểm khó, chỗ khó",
+   "example": "突破难点。",
+   "exampleMeaning": "Đột phá chỗ khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nándiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "荒诞",
+   "meaning": "hoang đường, phi lý",
+   "example": "荒诞不经",
+   "exampleMeaning": "Vô cùng hoang đường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāngdàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  }
+ ],
+ "issues": []
+}

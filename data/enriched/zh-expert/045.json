@@ -1,0 +1,334 @@
+{
+ "lesson": 45,
+ "draft": true,
+ "words": [
+  {
+   "term": "稠",
+   "meaning": "đặc, sệt, đông đúc",
+   "example": "墨要研得稠 些。",
+   "exampleMeaning": "Mực phải mài đặc hơn một chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "登上",
+   "meaning": "lên, leo lên",
+   "example": "我们来学“登上”这个词。",
+   "exampleMeaning": "Cùng học từ “登上”: lên, leo lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dēngshàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "头头是道",
+   "meaning": "đâu ra đấy, mạch lạc",
+   "example": "我们来学“头头是道”这个词。",
+   "exampleMeaning": "Cùng học từ “头头是道”: đâu ra đấy, mạch lạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóutóushìdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心里话",
+   "meaning": "lời thật lòng, tâm sự",
+   "example": "我们来学“心里话”这个词。",
+   "exampleMeaning": "Cùng học từ “心里话”: lời thật lòng, tâm sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnlihuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光明磊落",
+   "meaning": "quang minh chính đại",
+   "example": "我们来学“光明磊落”这个词。",
+   "exampleMeaning": "Cùng học từ “光明磊落”: quang minh chính đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngmínglěiluò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伸缩",
+   "meaning": "co giãn, linh hoạt",
+   "example": "有的照相机的镜头能够前后伸缩。",
+   "exampleMeaning": "Có loại ống kính của máy ảnh có thể đưa ra kéo vào được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēnsuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "滞后",
+   "meaning": "tụt hậu, chậm trễ",
+   "example": "由于电力发展滞后，致使电力供应紧张。",
+   "exampleMeaning": "Do điện lực kém phát triển, cho nên điện cung cấp rất hạn hẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìhòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "退却",
+   "meaning": "rút lui, chùn bước",
+   "example": "遇到挫折也不退却。",
+   "exampleMeaning": "Gặp bất lợi cũng không chùn bước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuìquè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "炉灶",
+   "meaning": "bếp lò",
+   "example": "修理炉灶。",
+   "exampleMeaning": "Sửa sang lại bếp núc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lúzào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主场",
+   "meaning": "sân nhà, địa điểm chính",
+   "example": "我们来学“主场”这个词。",
+   "exampleMeaning": "Cùng học từ “主场”: sân nhà, địa điểm chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔchǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "门路",
+   "meaning": "con đường, mối quan hệ, cách",
+   "example": "广开生产门路。",
+   "exampleMeaning": "Cách thức mở rộng sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ménlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "奸诈",
+   "meaning": "gian xảo, xảo trá",
+   "example": "一帮邪恶的、奸诈的人",
+   "exampleMeaning": "Một bọn gian ác, xảo trá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānzhà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "堆砌",
+   "meaning": "chồng chất, rườm rà",
+   "example": "堆砌台阶",
+   "exampleMeaning": "Xây bậc thềm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duīqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机电",
+   "meaning": "cơ điện",
+   "example": "我们来学“机电”这个词。",
+   "exampleMeaning": "Cùng học từ “机电”: cơ điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīdiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "东经",
+   "meaning": "kinh độ đông",
+   "example": "我们来学“东经”这个词。",
+   "exampleMeaning": "Cùng học từ “东经”: kinh độ đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dōngjīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "感慨",
+   "meaning": "cảm khái, xúc động, bùi ngùi",
+   "example": "我心里感慨万千",
+   "exampleMeaning": "Lòng tôi xúc động vô cùng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnkǎi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "气馁",
+   "meaning": "nản lòng, nhụt chí",
+   "example": "胜利了不要骄傲，失败了不要气馁。",
+   "exampleMeaning": "Thắng lợi không nên kiêu ngạo, thất bại không nên nản lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìněi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "剑法",
+   "meaning": "kiếm pháp",
+   "example": "我们来学“剑法”这个词。",
+   "exampleMeaning": "Cùng học từ “剑法”: kiếm pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànfǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "川流不息",
+   "meaning": "tấp nập không ngớt",
+   "example": "我们来学“川流不息”这个词。",
+   "exampleMeaning": "Cùng học từ “川流不息”: tấp nập không ngớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuānliúbùxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "昼夜",
+   "meaning": "ngày đêm",
+   "example": "机器轰鸣，昼夜 不停。",
+   "exampleMeaning": "Máy móc ầm ầm suốt ngày suốt đêm không dứt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòuyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  }
+ ],
+ "issues": []
+}

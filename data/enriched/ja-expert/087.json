@@ -1,0 +1,330 @@
+{
+ "lesson": 87,
+ "draft": true,
+ "words": [
+  {
+   "term": "盲導犬",
+   "meaning": "chó dẫn đường",
+   "example": "「盲導犬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盲導犬”: chó dẫn đường.",
+   "emoji": "🦮",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "平年並み",
+   "meaning": "như mọi năm, bình thường",
+   "example": "「平年並み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “平年並み”: như mọi năm, bình thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有意義",
+   "meaning": "có ý nghĩa, bổ ích",
+   "example": "「有意義」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “有意義”: có ý nghĩa, bổ ích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拷問",
+   "meaning": "tra tấn",
+   "example": "「拷問」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “拷問”: tra tấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "急成長",
+   "meaning": "tăng trưởng nhanh",
+   "example": "「急成長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “急成長”: tăng trưởng nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "祖",
+   "meaning": "tổ tiên, ông tổ",
+   "example": "祖父は５年前に他界した。",
+   "exampleMeaning": "Ông tôi đã tạ thế 5 năm trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "力点",
+   "meaning": "điểm nhấn, trọng tâm",
+   "example": "「力点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “力点”: điểm nhấn, trọng tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "降雨",
+   "meaning": "mưa rơi",
+   "example": "「降雨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “降雨”: mưa rơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冬場",
+   "meaning": "mùa đông",
+   "example": "「冬場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冬場”: mùa đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王位",
+   "meaning": "ngôi vua, vương vị",
+   "example": "「王位」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “王位”: ngôi vua, vương vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風当たり",
+   "meaning": "sức gió, sự chỉ trích",
+   "example": "「風当たり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風当たり”: sức gió, sự chỉ trích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芸術祭",
+   "meaning": "lễ hội nghệ thuật",
+   "example": "「芸術祭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “芸術祭”: lễ hội nghệ thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前代未聞",
+   "meaning": "chưa từng có",
+   "example": "「前代未聞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “前代未聞”: chưa từng có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "余剰",
+   "meaning": "thặng dư, dư thừa",
+   "example": "「余剰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “余剰”: thặng dư, dư thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手書き",
+   "meaning": "viết tay",
+   "example": "手書きだったので、その手紙はあまり読みやすくなかった。",
+   "exampleMeaning": "Vì được viết tay cho nên lá thư đó hơi khó đọc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "記録的",
+   "meaning": "kỷ lục, phá kỷ lục",
+   "example": "「記録的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “記録的”: kỷ lục, phá kỷ lục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何百",
+   "meaning": "hàng trăm",
+   "example": "「何百」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “何百”: hàng trăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中庭",
+   "meaning": "sân trong",
+   "example": "「中庭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中庭”: sân trong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "化合物",
+   "meaning": "hợp chất",
+   "example": "「化合物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “化合物”: hợp chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "嘆き",
+   "meaning": "than thở, đau buồn",
+   "example": "「嘆き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “嘆き”: than thở, đau buồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼の",
+    "祖父",
+    "は",
+    "年の割に",
+    "まだ",
+    "たいへん",
+    "健康",
+    "だ"
+   ],
+   "reading": "かれのそふはとしのわりにまだたいへんけんこうだ",
+   "meaning": "Ông anh ta vẫn trông rất khỏe mạnh cho dù đã có tuổi."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで",
+    "くれ"
+   ],
+   "reading": "きゅうきゅうしゃをよんでくれ",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "私の",
+    "助言",
+    "を",
+    "求めた"
+   ],
+   "reading": "かれはわたしのじょげんをもとめた",
+   "meaning": "Anh ấy xin lời khuyên của tôi."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "話",
+    "の",
+    "一部",
+    "は",
+    "本当",
+    "だ"
+   ],
+   "reading": "かれのはなしのいちぶはほんとうだ",
+   "meaning": "Một phần trong câu chuyện của ông là sự thật."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ジャズ",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "わたしはジャズがすきです",
+   "meaning": "Tôi thích nhạc jazz."
+  }
+ ],
+ "issues": []
+}

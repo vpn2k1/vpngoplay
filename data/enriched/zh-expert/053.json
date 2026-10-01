@@ -1,0 +1,324 @@
+{
+ "lesson": 53,
+ "draft": true,
+ "words": [
+  {
+   "term": "信奉",
+   "meaning": "tin theo, tôn thờ",
+   "example": "基督教徒信奉上帝。",
+   "exampleMeaning": "Tín đồ đạo Cơ Đốc thờ Thượng Đế",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnfèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "佐料",
+   "meaning": "gia vị",
+   "example": "我们来学“佐料”这个词。",
+   "exampleMeaning": "Cùng học từ “佐料”: gia vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǒliào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有点",
+   "meaning": "hơi, một chút",
+   "example": "今天有点冷。",
+   "exampleMeaning": "Hôm nay trời hơi lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒudiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "月光",
+   "meaning": "ánh trăng",
+   "example": "我们来学“月光”这个词。",
+   "exampleMeaning": "Cùng học từ “月光”: ánh trăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèguāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地表",
+   "meaning": "mặt đất, bề mặt trái đất",
+   "example": "地表温度",
+   "exampleMeaning": "Nhiệt độ trên bề mặt trái đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìbiǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "右手",
+   "meaning": "tay phải, bên phải",
+   "example": "我们来学“右手”这个词。",
+   "exampleMeaning": "Cùng học từ “右手”: tay phải, bên phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòushǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "两栖",
+   "meaning": "lưỡng cư, đa năng",
+   "example": "两栖动物。",
+   "exampleMeaning": "Động vật lưỡng thê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎngqī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "熄火",
+   "meaning": "tắt lửa, chết máy",
+   "example": "我们来学“熄火”这个词。",
+   "exampleMeaning": "Cùng học từ “熄火”: tắt lửa, chết máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīhuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "倡议",
+   "meaning": "đề xướng, sáng kiến",
+   "example": "我们倡议开展劳动竞赛。",
+   "exampleMeaning": "Chúng tôi phát động tiến hành thi đua lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chàngyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "景区",
+   "meaning": "khu thắng cảnh",
+   "example": "我们来学“景区”这个词。",
+   "exampleMeaning": "Cùng học từ “景区”: khu thắng cảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐngqū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稳重",
+   "meaning": "chín chắn, đứng đắn",
+   "example": "为人稳重，办事老练。",
+   "exampleMeaning": "Tính tình thận trọng, làm việc có nhiều kinh nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěnzhòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "进球",
+   "meaning": "ghi bàn, bàn thắng",
+   "example": "我们来学“进球”这个词。",
+   "exampleMeaning": "Cùng học từ “进球”: ghi bàn, bàn thắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "花钱",
+   "meaning": "tiêu tiền",
+   "example": "我们来学“花钱”这个词。",
+   "exampleMeaning": "Cùng học từ “花钱”: tiêu tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāqián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "无可",
+   "meaning": "không thể (văn viết)",
+   "example": "我们来学“无可”这个词。",
+   "exampleMeaning": "Cùng học từ “无可”: không thể (văn viết).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúkě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉴赏",
+   "meaning": "thưởng thức, giám định",
+   "example": "我们来学“鉴赏”这个词。",
+   "exampleMeaning": "Cùng học từ “鉴赏”: thưởng thức, giám định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànshǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "归纳",
+   "meaning": "quy nạp, tổng kết",
+   "example": "大家提的意见，归纳起来主要就是这三点。",
+   "exampleMeaning": "Ý kiến của mọi người, quy lại chủ yếu có ba điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guīnà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "所有人",
+   "meaning": "mọi người, chủ sở hữu",
+   "example": "我们来学“所有人”这个词。",
+   "exampleMeaning": "Cùng học từ “所有人”: mọi người, chủ sở hữu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒyǒurén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "料想",
+   "meaning": "đoán trước, liệu chừng",
+   "example": "他料想事情定能成功。",
+   "exampleMeaning": "Anh ấy dự đoán sự việc nhất định sẽ thành công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liàoxiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "命题",
+   "meaning": "mệnh đề, ra đề",
+   "example": "我们来学“命题”这个词。",
+   "exampleMeaning": "Cùng học từ “命题”: mệnh đề, ra đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìngtí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未知数",
+   "meaning": "ẩn số, điều chưa biết",
+   "example": "我们来学“未知数”这个词。",
+   "exampleMeaning": "Cùng học từ “未知数”: ẩn số, điều chưa biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèizhīshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今天",
+    "有点",
+    "冷"
+   ],
+   "reading": "jīntiān yǒudiǎn lěng",
+   "meaning": "Hôm nay trời hơi lạnh."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  }
+ ],
+ "issues": []
+}

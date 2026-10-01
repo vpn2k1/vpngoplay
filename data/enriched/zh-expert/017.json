@@ -1,0 +1,326 @@
+{
+ "lesson": 17,
+ "draft": true,
+ "words": [
+  {
+   "term": "举例",
+   "meaning": "nêu ví dụ, lấy ví dụ",
+   "example": "举例说明。",
+   "exampleMeaning": "Nêu ví dụ nói rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǔlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "产业化",
+   "meaning": "công nghiệp hóa",
+   "example": "我们来学“产业化”这个词。",
+   "exampleMeaning": "Cùng học từ “产业化”: công nghiệp hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnyèhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "唯独",
+   "meaning": "chỉ riêng, duy chỉ",
+   "example": "我们来学“唯独”这个词。",
+   "exampleMeaning": "Cùng học từ “唯独”: chỉ riêng, duy chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wéidú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "胸有成竹",
+   "meaning": "đã tính sẵn trong đầu, nắm chắc",
+   "example": "我们来学“胸有成竹”这个词。",
+   "exampleMeaning": "Cùng học từ “胸有成竹”: đã tính sẵn trong đầu, nắm chắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiōngyǒuchéngzhú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "团员",
+   "meaning": "đoàn viên, thành viên đoàn",
+   "example": "这个代表团由团长一人团员三人组成。",
+   "exampleMeaning": "Đoàn đại biểu này do một đoàn trưởng có ba đoàn viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuányuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "能人",
+   "meaning": "người tài, người giỏi",
+   "example": "我们来学“能人”这个词。",
+   "exampleMeaning": "Cùng học từ “能人”: người tài, người giỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "néngrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "根深蒂固",
+   "meaning": "ăn sâu bén rễ, thâm căn cố đế",
+   "example": "我们来学“根深蒂固”这个词。",
+   "exampleMeaning": "Cùng học từ “根深蒂固”: ăn sâu bén rễ, thâm căn cố đế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnshēndìgù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "变迁",
+   "meaning": "đổi thay, thăng trầm, biến đổi",
+   "example": "陵谷变迁。",
+   "exampleMeaning": "Dâu biển đổi dời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànqiān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "少数民族",
+   "meaning": "dân tộc thiểu số",
+   "example": "我们来学“少数民族”这个词。",
+   "exampleMeaning": "Cùng học từ “少数民族”: dân tộc thiểu số.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǎoshùmínzú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一刹那",
+   "meaning": "trong chớp mắt, khoảnh khắc",
+   "example": "我们来学“一刹那”这个词。",
+   "exampleMeaning": "Cùng học từ “一刹那”: trong chớp mắt, khoảnh khắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīchànà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扫墓",
+   "meaning": "tảo mộ, viếng mộ",
+   "example": "清明扫墓。",
+   "exampleMeaning": "Thanh minh tảo mộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǎomù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "朝气蓬勃",
+   "meaning": "tràn đầy sức sống",
+   "example": "青少年应该朝气蓬勃，不能死气沉沉。",
+   "exampleMeaning": "Thanh thiếu niên thì phải bừng bừng sức sống, chứ không thể âm thầm trầm lặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāoqìpéngbó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "口才",
+   "meaning": "tài ăn nói",
+   "example": "他口才好，说起故事来有声有色。",
+   "exampleMeaning": "Anh ấy có tài ăn nói, kể chuyện thật sinh động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒucái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通车",
+   "meaning": "thông xe",
+   "example": "我老家在山区，那儿不通车。",
+   "exampleMeaning": "Quê tôi ở vùng núi, nơi đó không có xe cộ qua lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngchē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "多于",
+   "meaning": "nhiều hơn",
+   "example": "我们来学“多于”这个词。",
+   "exampleMeaning": "Cùng học từ “多于”: nhiều hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "密不可分",
+   "meaning": "gắn bó mật thiết, không thể tách rời",
+   "example": "我们来学“密不可分”这个词。",
+   "exampleMeaning": "Cùng học từ “密不可分”: gắn bó mật thiết, không thể tách rời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìbùkěfēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保质期",
+   "meaning": "hạn sử dụng, thời hạn bảo quản",
+   "example": "我们来学“保质期”这个词。",
+   "exampleMeaning": "Cùng học từ “保质期”: hạn sử dụng, thời hạn bảo quản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎozhìqī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "售票",
+   "meaning": "bán vé",
+   "example": "我们来学“售票”这个词。",
+   "exampleMeaning": "Cùng học từ “售票”: bán vé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòupiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "回升",
+   "meaning": "tăng trở lại, phục hồi",
+   "example": "产量回升",
+   "exampleMeaning": "Sản lượng tăng trở lại",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "紧凑",
+   "meaning": "gọn, chặt chẽ, sít sao",
+   "example": "这部影片很紧凑，没有多余的镜头。",
+   "exampleMeaning": "Bộ phim này kết cấu chặt chẽ, không có chỗ nào thừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐncòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  },
+  {
+   "tokens": [
+    "她",
+    "很",
+    "擅长",
+    "英语",
+    "教学"
+   ],
+   "reading": "tā hěn shàncháng yīngyǔ jiàoxué",
+   "meaning": "Cô ấy dạy tiếng anh rất giỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  }
+ ],
+ "issues": []
+}

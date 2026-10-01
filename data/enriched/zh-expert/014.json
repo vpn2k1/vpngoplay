@@ -1,0 +1,335 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "拐弯",
+   "meaning": "rẽ, quẹo, ngoặt",
+   "example": "车辆拐弯要慢行",
+   "exampleMeaning": "Xe quẹo nên chạy chậm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎiwān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "害虫",
+   "meaning": "sâu hại, côn trùng có hại",
+   "example": "我们来学“害虫”这个词。",
+   "exampleMeaning": "Cùng học từ “害虫”: sâu hại, côn trùng có hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàichóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "字迹",
+   "meaning": "nét chữ, chữ viết",
+   "example": "墓碑上的字迹模糊不清。",
+   "exampleMeaning": "Chữ viết trên mộ bia không rõ ràng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弱势",
+   "meaning": "yếu thế, thế yếu",
+   "example": "我们来学“弱势”这个词。",
+   "exampleMeaning": "Cùng học từ “弱势”: yếu thế, thế yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruòshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不能",
+   "meaning": "không thể, không được",
+   "example": "我们不能让对方钻空子。",
+   "exampleMeaning": "Chúng ta không thể để đối phương thừa cơ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùnéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "攻读",
+   "meaning": "theo học, học chuyên sâu",
+   "example": "十年坚持攻读马列著作。10",
+   "exampleMeaning": "Năm nghiên cứu tác phẩm Mác - Lê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngdú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "把关",
+   "meaning": "kiểm tra chặt, giữ cửa ải",
+   "example": "集体编写的著作，应由主编负责把关",
+   "exampleMeaning": "Tác phẩm do tập thể biên tập, chủ biên nên phụ trách kiểm định chất lượng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "调试",
+   "meaning": "gỡ lỗi, hiệu chỉnh",
+   "example": "机床装好后要经过调试才能投入生产。",
+   "exampleMeaning": "Cỗ máy sau khi lắp ráp xong phải qua vận hành thử mới có thể đưa vào sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiáoshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大军",
+   "meaning": "đại quân, đội quân lớn",
+   "example": "百万大军",
+   "exampleMeaning": "Đội quân hàng triệu người",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàjūn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "柳树",
+   "meaning": "cây liễu",
+   "example": "我们来学“柳树”这个词。",
+   "exampleMeaning": "Cùng học từ “柳树”: cây liễu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǔshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搁置",
+   "meaning": "gác lại, xếp xó",
+   "example": "事情重要，不能搁置。",
+   "exampleMeaning": "Việc quan trọng, không thể gác lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēzhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "低碳",
+   "meaning": "ít các-bon, carbon thấp",
+   "example": "我们来学“低碳”这个词。",
+   "exampleMeaning": "Cùng học từ “低碳”: ít các-bon, carbon thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dītàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公费",
+   "meaning": "kinh phí nhà nước, bằng tiền công",
+   "example": "公费医疗",
+   "exampleMeaning": "Chi phí chữa bệnh do nhà nước đài thọ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngfèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "和平共处",
+   "meaning": "chung sống hòa bình",
+   "example": "我们来学“和平共处”这个词。",
+   "exampleMeaning": "Cùng học từ “和平共处”: chung sống hòa bình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hépínggòngchǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隐居",
+   "meaning": "ở ẩn",
+   "example": "我们来学“隐居”这个词。",
+   "exampleMeaning": "Cùng học từ “隐居”: ở ẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐnjū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部委",
+   "meaning": "các bộ ngành, bộ và ủy ban",
+   "example": "我们来学“部委”这个词。",
+   "exampleMeaning": "Cùng học từ “部委”: các bộ ngành, bộ và ủy ban.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùwěi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "修路",
+   "meaning": "sửa đường, làm đường",
+   "example": "我们来学“修路”这个词。",
+   "exampleMeaning": "Cùng học từ “修路”: sửa đường, làm đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "概论",
+   "meaning": "khái luận, đại cương",
+   "example": "《中国文学概论》",
+   "exampleMeaning": "Khái luận về văn học Trung Quốc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gàilùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "走弯路",
+   "meaning": "đi đường vòng",
+   "example": "大家事先要搞好调查研究，把方案设计得周密些，以便少走弯路。",
+   "exampleMeaning": "Mọi người trước tiên phải điều tra nghiên cứu kỹ đi, thiết kế phương án cẩn thận một chút, để bớt phải đi đường vòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒuwānlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一晃",
+   "meaning": "thoáng chốc, chớp mắt",
+   "example": "一晃就是五年，孩子都长这么大了。",
+   "exampleMeaning": "Nhoáng một cái đã năm năm rồi, con cái đều đã lớn cả rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīhuǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "不",
+    "能",
+    "让",
+    "对方",
+    "钻空子"
+   ],
+   "reading": "wǒmen bù néng ràng duìfāng zuānkòngzi",
+   "meaning": "Chúng ta không thể để đối phương thừa cơ được."
+  },
+  {
+   "tokens": [
+    "大家",
+    "干",
+    "得",
+    "正",
+    "起劲",
+    "你",
+    "千万",
+    "不",
+    "能",
+    "泼冷水"
+   ],
+   "reading": "dàjiā gàn de zhèng qǐjìn nǐ qiānwàn bù néng pōlěngshuǐ",
+   "meaning": "Mọi người làm việc đang hào hứng, cậu nhất định không được phá vỡ khí thế đó."
+  },
+  {
+   "tokens": [
+    "汤姆",
+    "不",
+    "能",
+    "把",
+    "他",
+    "的",
+    "真实",
+    "感受",
+    "告诉",
+    "玛丽"
+   ],
+   "reading": "tāngmǔ bù néng bǎ tā de zhēnshí gǎnshòu gàosu mǎlì",
+   "meaning": "Tom không nói được với Mary cảm xúc thực sự của anh ấy."
+  },
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,326 @@
+{
+ "lesson": 37,
+ "draft": true,
+ "words": [
+  {
+   "term": "往来",
+   "meaning": "qua lại, đường phố",
+   "example": "「往来」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “往来”: qua lại, đường phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "クジラ",
+   "meaning": "cá voi",
+   "example": "シロナガスクジラは、世界で一番大きい動物です。",
+   "exampleMeaning": "Cá voi xanh là loài động vật to nhất trên thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "再開発",
+   "meaning": "tái phát triển, tái thiết",
+   "example": "「再開発」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再開発”: tái phát triển, tái thiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "厚み",
+   "meaning": "độ dày, bề dày",
+   "example": "「厚み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “厚み”: độ dày, bề dày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "戦国",
+   "meaning": "chiến quốc, thời loạn",
+   "example": "「戦国」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戦国”: chiến quốc, thời loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "満期",
+   "meaning": "đáo hạn, mãn hạn",
+   "example": "「満期」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “満期”: đáo hạn, mãn hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "投げ",
+   "meaning": "ném, cú ném",
+   "example": "彼女はある湖に身投げした。",
+   "exampleMeaning": "Cô ấy đã gieo mình xuống một cái hồ nào đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "定住",
+   "meaning": "định cư",
+   "example": "「定住」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定住”: định cư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "石垣",
+   "meaning": "tường đá",
+   "example": "「石垣」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “石垣”: tường đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "末端",
+   "meaning": "đầu cuối, cấp dưới cùng",
+   "example": "「末端」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “末端”: đầu cuối, cấp dưới cùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "球威",
+   "meaning": "uy lực cú ném",
+   "example": "「球威」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “球威”: uy lực cú ném.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俳人",
+   "meaning": "thi sĩ haiku",
+   "example": "「俳人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “俳人”: thi sĩ haiku.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鶏",
+   "meaning": "gà",
+   "example": "料理人が鶏肉をバーべキューしています。",
+   "exampleMeaning": "Người đầu bếp đang nướng thịt gà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "愛人",
+   "meaning": "người tình, nhân tình",
+   "example": "「愛人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “愛人”: người tình, nhân tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "波及",
+   "meaning": "lan rộng, ảnh hưởng lan",
+   "example": "「波及」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “波及”: lan rộng, ảnh hưởng lan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "競り合う",
+   "meaning": "tranh đua, cạnh tranh quyết liệt",
+   "example": "「競り合う」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “競り合う”: tranh đua, cạnh tranh quyết liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "加害者",
+   "meaning": "kẻ gây hại, thủ phạm",
+   "example": "「加害者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加害者”: kẻ gây hại, thủ phạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "格安",
+   "meaning": "rất rẻ, giá hời",
+   "example": "「格安」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “格安”: rất rẻ, giá hời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "焦り",
+   "meaning": "nôn nóng, sốt ruột",
+   "example": "「焦り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “焦り”: nôn nóng, sốt ruột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "啓発",
+   "meaning": "khai sáng, nâng cao nhận thức",
+   "example": "「啓発」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “啓発”: khai sáng, nâng cao nhận thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "賽",
+    "は",
+    "投げられた"
+   ],
+   "reading": "さいはなげられた",
+   "meaning": "Bút sa gà chết."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "ある",
+    "湖",
+    "に",
+    "身投げ",
+    "した"
+   ],
+   "reading": "かのじょはあるみずうみにみなげした",
+   "meaning": "Cô ấy đã gieo mình xuống một cái hồ nào đó."
+  },
+  {
+   "tokens": [
+    "部長",
+    "が",
+    "提案",
+    "を",
+    "受け入れました"
+   ],
+   "reading": "ぶちょうがていあんをうけいれました",
+   "meaning": "Trưởng phòng đã chấp nhận đề xuất."
+  },
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "才能",
+    "には",
+    "おそれいった",
+    "よ"
+   ],
+   "reading": "かれのさいのうにはおそれいったよ",
+   "meaning": "Tôi ngưỡng mộ tài năng của anh ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "つもり",
+    "だった"
+   ],
+   "reading": "わたしはきょうしになるつもりだった",
+   "meaning": "Tôi có ý định trở thành giáo viên."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,334 @@
+{
+ "lesson": 106,
+ "draft": true,
+ "words": [
+  {
+   "term": "立功",
+   "meaning": "lập công",
+   "example": "一人立功，全家光荣。",
+   "exampleMeaning": "Một người lập công, cả nhà vinh quang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìgōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "从早到晚",
+   "meaning": "từ sáng đến tối, suốt ngày",
+   "example": "我们来学“从早到晚”这个词。",
+   "exampleMeaning": "Cùng học từ “从早到晚”: từ sáng đến tối, suốt ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngzǎodàowǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理直气壮",
+   "meaning": "lý lẽ đanh thép, hùng hồn",
+   "example": "我们来学“理直气壮”这个词。",
+   "exampleMeaning": "Cùng học từ “理直气壮”: lý lẽ đanh thép, hùng hồn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐzhíqìzhuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捉迷藏",
+   "meaning": "trốn tìm, chơi trốn tìm",
+   "example": "到底想做什么，直说好了, 别跟我捉迷藏！",
+   "exampleMeaning": "Rốt cuộc anh muốn làm gì thì cứ nói thẳng, đừng đánh đố tôi nữa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuōmícáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "名将",
+   "meaning": "danh tướng, ngôi sao thể thao",
+   "example": "我们来学“名将”这个词。",
+   "exampleMeaning": "Cùng học từ “名将”: danh tướng, ngôi sao thể thao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngjiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搭建",
+   "meaning": "dựng, lắp dựng",
+   "example": "各级领导班子刚刚开始搭建。",
+   "exampleMeaning": "Các cấp nhóm lãnh đạo vừa được thành lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dājiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "事儿",
+   "meaning": "chuyện, công việc",
+   "example": "我们来学“事儿”这个词。",
+   "exampleMeaning": "Cùng học từ “事儿”: chuyện, công việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "探求",
+   "meaning": "tìm tòi, tìm kiếm",
+   "example": "探求学问",
+   "exampleMeaning": "Tìm tòi kiến thức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tànqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "打磨",
+   "meaning": "mài nhẵn, đánh bóng",
+   "example": "手工打磨",
+   "exampleMeaning": "Đánh bóng thủ công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎmó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "倾家荡产",
+   "meaning": "tán gia bại sản",
+   "example": "我们来学“倾家荡产”这个词。",
+   "exampleMeaning": "Cùng học từ “倾家荡产”: tán gia bại sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngjiādàngchǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "远见",
+   "meaning": "tầm nhìn xa",
+   "example": "远见卓识。",
+   "exampleMeaning": "Nhìn xa hiểu rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuǎnjiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "商贾",
+   "meaning": "thương nhân, nhà buôn",
+   "example": "我们来学“商贾”这个词。",
+   "exampleMeaning": "Cùng học từ “商贾”: thương nhân, nhà buôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shānggǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "温习",
+   "meaning": "ôn tập, ôn bài",
+   "example": "温习功课。",
+   "exampleMeaning": "Ôn tập bài vở",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēnxí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鱼肚",
+   "meaning": "bong bóng cá",
+   "example": "我们来学“鱼肚”这个词。",
+   "exampleMeaning": "Cùng học từ “鱼肚”: bong bóng cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúdǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "对联",
+   "meaning": "câu đối",
+   "example": "我们来学“对联”这个词。",
+   "exampleMeaning": "Cùng học từ “对联”: câu đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìlián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高龄",
+   "meaning": "cao tuổi, cao niên",
+   "example": "他已经到了八十多岁的高龄，精神还很健旺。",
+   "exampleMeaning": "Ông cụ đã thọ ngoài 80, mà tinh thần vẫn còn minh mẫn lắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāolíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "讨人喜欢",
+   "meaning": "dễ thương, được lòng người",
+   "example": "我们来学“讨人喜欢”这个词。",
+   "exampleMeaning": "Cùng học từ “讨人喜欢”: dễ thương, được lòng người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǎorénxǐhuan",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "猜谜",
+   "meaning": "đoán câu đố",
+   "example": "我们来学“猜谜”这个词。",
+   "exampleMeaning": "Cùng học từ “猜谜”: đoán câu đố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāimí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "棋盘",
+   "meaning": "bàn cờ",
+   "example": "我们来学“棋盘”这个词。",
+   "exampleMeaning": "Cùng học từ “棋盘”: bàn cờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qípán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "供养",
+   "meaning": "phụng dưỡng, nuôi dưỡng",
+   "example": "我们来学“供养”这个词。",
+   "exampleMeaning": "Cùng học từ “供养”: phụng dưỡng, nuôi dưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngyǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  }
+ ],
+ "issues": []
+}

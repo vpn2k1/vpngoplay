@@ -5,10 +5,9 @@ import { ARCADE_GAMES, GAME_GROUPS, type ArcadeGame } from '../../arcade/games'
 import { Play } from 'lucide-react'
 import { FLAG, GAME_ICON, Joystick, ModeIcon, Trophy } from '../../components/icons'
 import { cx } from '../../components/ui'
-import { catalogQuery, coursesQuery, deckQuery } from '../../lib/api'
+import { catalogQuery, coursesQuery } from '../../lib/api'
 import { useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
-import { useTrack } from '../../lib/track'
 
 export const Route = createFileRoute('/games/')({
   component: GamesHub,
@@ -17,19 +16,13 @@ export const Route = createFileRoute('/games/')({
 function GamesHub() {
   const bestScores = useProgress((s) => s.bestScores)
   const { lang, info } = useLang()
-  const track = useTrack()
   const queryClient = useQueryClient()
   const Flag = FLAG[lang]
+  // The game page lists every word set; which one to play is the player's choice.
   useEffect(() => {
     void queryClient.prefetchQuery(coursesQuery)
-    void queryClient.prefetchQuery(catalogQuery).then(() => {
-      const catalog = queryClient.getQueryData(catalogQuery.queryKey) ?? []
-      const fallback =
-        catalog.find((deck) => deck.lang === lang && !deck.category && deck.track === track) ??
-        catalog.find((deck) => deck.lang === lang)
-      if (fallback) void queryClient.prefetchQuery(deckQuery(fallback.id))
-    })
-  }, [lang, queryClient, track])
+    void queryClient.prefetchQuery(catalogQuery)
+  }, [queryClient])
   const bestByGame = useMemo(() => {
     const scores: Record<string, number> = {}
     for (const [key, score] of Object.entries(bestScores)) {

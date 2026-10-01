@@ -1,0 +1,321 @@
+{
+ "lesson": 51,
+ "draft": true,
+ "words": [
+  {
+   "term": "通称",
+   "meaning": "gọi chung, tên chung",
+   "example": "水银是汞的通称。",
+   "exampleMeaning": "Thuỷ ngân là tên thường gọi của hống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngchēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "软实力",
+   "meaning": "quyền lực mềm",
+   "example": "我们来学“软实力”这个词。",
+   "exampleMeaning": "Cùng học từ “软实力”: quyền lực mềm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ruǎnshílì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "橡皮",
+   "meaning": "cục tẩy, cao su",
+   "example": "我们来学“橡皮”这个词。",
+   "exampleMeaning": "Cùng học từ “橡皮”: cục tẩy, cao su.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngpí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一个劲儿",
+   "meaning": "cứ mãi, liên tục",
+   "example": "他一个劲儿地直往前跑。",
+   "exampleMeaning": "Anh ấy chạy thẳng một mạch về phía trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīgèjìnr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "顺路",
+   "meaning": "tiện đường",
+   "example": "这么走太绕远儿，不顺路。",
+   "exampleMeaning": "Đi như vầy vòng vèo quá, không thuận đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùnlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "土司",
+   "meaning": "bánh mì lát, thổ ty",
+   "example": "我们来学“土司”这个词。",
+   "exampleMeaning": "Cùng học từ “土司”: bánh mì lát, thổ ty.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǔsī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本着",
+   "meaning": "dựa trên, căn cứ vào",
+   "example": "本着平等互利的原则办事。",
+   "exampleMeaning": "Làm việc trên nguyên tắc hai bên cùng có lợi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnzhe",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "加大",
+   "meaning": "tăng thêm, tăng cường",
+   "example": "我们来学“加大”这个词。",
+   "exampleMeaning": "Cùng học từ “加大”: tăng thêm, tăng cường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiādà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "击败",
+   "meaning": "đánh bại",
+   "example": "击败反动势力",
+   "exampleMeaning": "Đập tan thế lực phản động",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jībài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自有",
+   "meaning": "tự có, của riêng",
+   "example": "我们来学“自有”这个词。",
+   "exampleMeaning": "Cùng học từ “自有”: tự có, của riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìyǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "借条",
+   "meaning": "giấy vay tiền",
+   "example": "我们来学“借条”这个词。",
+   "exampleMeaning": "Cùng học từ “借条”: giấy vay tiền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiètiáo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "疏导",
+   "meaning": "khai thông, phân luồng, khơi dòng",
+   "example": "疏导淮河。",
+   "exampleMeaning": "Khai thông sông Hoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shūdǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沉稳",
+   "meaning": "điềm tĩnh, vững vàng",
+   "example": "这个人很沉稳，考虑问题细密周到。",
+   "exampleMeaning": "Người này rất chín chắn, suy nghĩ vấn đề kỹ càng chu đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénwěn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火光",
+   "meaning": "ánh lửa",
+   "example": "火光冲天。",
+   "exampleMeaning": "Ánh lửa cao ngất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒguāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "称帝",
+   "meaning": "xưng đế, xưng vương",
+   "example": "我们来学“称帝”这个词。",
+   "exampleMeaning": "Cùng học từ “称帝”: xưng đế, xưng vương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēngdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一家人",
+   "meaning": "người một nhà, cả nhà",
+   "example": "我们来学“一家人”这个词。",
+   "exampleMeaning": "Cùng học từ “一家人”: người một nhà, cả nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yījiārén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惩处",
+   "meaning": "trừng phạt, xử phạt",
+   "example": "依法惩处。",
+   "exampleMeaning": "Dựa theo luật pháp mà trừng trị; chiếu theo luật mà trừng phạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngchǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "止咳",
+   "meaning": "giảm ho, cầm ho",
+   "example": "我们来学“止咳”这个词。",
+   "exampleMeaning": "Cùng học từ “止咳”: giảm ho, cầm ho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐké",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接班",
+   "meaning": "nhận ca, kế nhiệm",
+   "example": "我们下午三点接班，晚十一点交班。",
+   "exampleMeaning": "Ba giờ chiều chúng tôi nhận ca, mười một giờ đêm chúng tôi giao ca.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēbān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "此起彼伏",
+   "meaning": "nối tiếp nhau, dậy lên khắp nơi",
+   "example": "我们来学“此起彼伏”这个词。",
+   "exampleMeaning": "Cùng học từ “此起彼伏”: nối tiếp nhau, dậy lên khắp nơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǐqǐbǐfú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "很",
+    "害羞"
+   ],
+   "reading": "nǐ hěn hàixiū",
+   "meaning": "Bạn rất nhút nhát."
+  },
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  }
+ ],
+ "issues": []
+}

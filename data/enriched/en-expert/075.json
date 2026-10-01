@@ -1,0 +1,334 @@
+{
+ "lesson": 75,
+ "draft": true,
+ "words": [
+  {
+   "term": "frontal",
+   "meaning": "phía trước, trực diện",
+   "example": "a frontal attack",
+   "exampleMeaning": "Một cuộc tấn công đằng trước mặt",
+   "emoji": "",
+   "ipa": "/ˈfrəntəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "irrespective",
+   "meaning": "bất kể, không kể",
+   "example": "irrespective of nationality",
+   "exampleMeaning": "Không kể quốc tịch nước nào, không kể dân tộc nào",
+   "emoji": "",
+   "ipa": "/ˌɪrəˈspɛktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vapor",
+   "meaning": "hơi nước, hơi",
+   "example": "Let's learn the word \"vapor\".",
+   "exampleMeaning": "Cùng học từ “vapor”: hơi nước, hơi.",
+   "emoji": "",
+   "ipa": "/ˈveɪpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fundamentalist",
+   "meaning": "người theo chủ nghĩa chính thống",
+   "example": "Let's learn the word \"fundamentalist\".",
+   "exampleMeaning": "Cùng học từ “fundamentalist”: người theo chủ nghĩa chính thống.",
+   "emoji": "",
+   "ipa": "/ˌfəndəˈmɛnəlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "portal",
+   "meaning": "cổng, cổng thông tin",
+   "example": "This portal leads to another world.",
+   "exampleMeaning": "Cánh cổng này dẫn đến thế giới khác.",
+   "emoji": "",
+   "ipa": "/ˈpɔrtəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "obsolete",
+   "meaning": "lỗi thời, cũ",
+   "example": "Let's learn the word \"obsolete\".",
+   "exampleMeaning": "Cùng học từ “obsolete”: lỗi thời, cũ.",
+   "emoji": "",
+   "ipa": "/ˈɒbsəliːt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "headmaster",
+   "meaning": "hiệu trưởng",
+   "example": "Let's learn the word \"headmaster\".",
+   "exampleMeaning": "Cùng học từ “headmaster”: hiệu trưởng.",
+   "emoji": "",
+   "ipa": "/ˈhɛdˈmæstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "consequent",
+   "meaning": "là hệ quả, kéo theo",
+   "example": "the confusion consequent upon the earthquake",
+   "exampleMeaning": "Sự hỗn loạn do động đất gây nên",
+   "emoji": "",
+   "ipa": "/ˈkɑnsəkwənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "motel",
+   "meaning": "nhà nghỉ ven đường",
+   "example": "Let's learn the word \"motel\".",
+   "exampleMeaning": "Cùng học từ “motel”: nhà nghỉ ven đường.",
+   "emoji": "",
+   "ipa": "/moʊˈtɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gland",
+   "meaning": "tuyến (cơ thể)",
+   "example": "Let's learn the word \"gland\".",
+   "exampleMeaning": "Cùng học từ “gland”: tuyến (cơ thể).",
+   "emoji": "",
+   "ipa": "/ˈɡlænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "betrayal",
+   "meaning": "phản bội",
+   "example": "Let's learn the word \"betrayal\".",
+   "exampleMeaning": "Cùng học từ “betrayal”: phản bội.",
+   "emoji": "",
+   "ipa": "/bɪˈtreɪəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unused",
+   "meaning": "chưa dùng, bỏ không",
+   "example": "Let's learn the word \"unused\".",
+   "exampleMeaning": "Cùng học từ “unused”: chưa dùng, bỏ không.",
+   "emoji": "",
+   "ipa": "/ənˈjuzd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sling",
+   "meaning": "băng treo tay, ná, quăng",
+   "example": "sling of a knapsack",
+   "exampleMeaning": "Dây đeo ba lô",
+   "emoji": "",
+   "ipa": "/ˈslɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "heed",
+   "meaning": "chú ý, lưu tâm",
+   "example": "to give (pay, take) heed to",
+   "exampleMeaning": "Chú ý đến, lưu ý đến",
+   "emoji": "",
+   "ipa": "/ˈhid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "humidity",
+   "meaning": "độ ẩm",
+   "example": "Let's learn the word \"humidity\".",
+   "exampleMeaning": "Cùng học từ “humidity”: độ ẩm.",
+   "emoji": "",
+   "ipa": "/hjuˈmɪdəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shotgun",
+   "meaning": "súng săn",
+   "example": "Let's learn the word \"shotgun\".",
+   "exampleMeaning": "Cùng học từ “shotgun”: súng săn.",
+   "emoji": "",
+   "ipa": "/ˈʃɑtˌɡən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drunken",
+   "meaning": "say rượu, say xỉn",
+   "example": "Tom was arrested for drunken driving.",
+   "exampleMeaning": "Tom bị bắt giữ vì lái xe trong tình trạng say rượu.",
+   "emoji": "",
+   "ipa": "/ˈdrəŋkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "vampire",
+   "meaning": "ma cà rồng",
+   "example": "Are you a vampire?",
+   "exampleMeaning": "Bạn có phải là ma cà rồng không?",
+   "emoji": "🧛",
+   "ipa": "/ˈvæmpaɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "resonance",
+   "meaning": "cộng hưởng, vang",
+   "example": "Let's learn the word \"resonance\".",
+   "exampleMeaning": "Cùng học từ “resonance”: cộng hưởng, vang.",
+   "emoji": "",
+   "ipa": "/ˈrɛzənəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "competitiveness",
+   "meaning": "sức cạnh tranh",
+   "example": "Japan's competitiveness in camera making is unchallenged.",
+   "exampleMeaning": "Tính cạnh tranh của Nhật Bản trong việc sàn xuất máy ảnh là không thể nghi ngờ.",
+   "emoji": "",
+   "ipa": "/kəmˈpɛtɪtɪvnɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "was",
+    "compelled",
+    "to",
+    "sign",
+    "the",
+    "contract"
+   ],
+   "reading": "",
+   "meaning": "Ông ấy buộc lòng phải ký hợp đồng."
+  },
+  {
+   "tokens": [
+    "I",
+    "know",
+    "Tom",
+    "is",
+    "a",
+    "conscientious",
+    "guy"
+   ],
+   "reading": "",
+   "meaning": "Tao biết Tom là thằng có tâm mà"
+  },
+  {
+   "tokens": [
+    "I've",
+    "been",
+    "trying",
+    "to",
+    "get",
+    "your",
+    "attention"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã cố gắng thu hút sự chú ý của bạn."
+  },
+  {
+   "tokens": [
+    "Algebra",
+    "is",
+    "a",
+    "foundation",
+    "of",
+    "machine",
+    "learning"
+   ],
+   "reading": "",
+   "meaning": "Đại số là nền tảng của học máy."
+  },
+  {
+   "tokens": [
+    "Machine",
+    "learning",
+    "demands",
+    "a",
+    "lot",
+    "of",
+    "computation"
+   ],
+   "reading": "",
+   "meaning": "Học máy yêu cầu rất nhiều sức mạnh tính toán."
+  }
+ ],
+ "issues": []
+}

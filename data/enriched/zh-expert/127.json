@@ -1,0 +1,326 @@
+{
+ "lesson": 127,
+ "draft": true,
+ "words": [
+  {
+   "term": "节制",
+   "meaning": "tiết chế, kiềm chế",
+   "example": "饮食有节制，就不容易得病。",
+   "exampleMeaning": "Ăn uống điều độ thì khó mắc bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiézhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "炮塔",
+   "meaning": "tháp pháo",
+   "example": "我们来学“炮塔”这个词。",
+   "exampleMeaning": "Cùng học từ “炮塔”: tháp pháo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pàotǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "撤退",
+   "meaning": "rút lui",
+   "example": "我们来学“撤退”这个词。",
+   "exampleMeaning": "Cùng học từ “撤退”: rút lui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chètuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "科长",
+   "meaning": "trưởng phòng",
+   "example": "我们来学“科长”这个词。",
+   "exampleMeaning": "Cùng học từ “科长”: trưởng phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kēzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "倾销",
+   "meaning": "bán phá giá",
+   "example": "我们来学“倾销”这个词。",
+   "exampleMeaning": "Cùng học từ “倾销”: bán phá giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngxiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "潦草",
+   "meaning": "cẩu thả, nguệch ngoạc",
+   "example": "字迹潦草。",
+   "exampleMeaning": "Chữ viết ngoáy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liáocǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驻地",
+   "meaning": "nơi đóng quân",
+   "example": "我们来学“驻地”这个词。",
+   "exampleMeaning": "Cùng học từ “驻地”: nơi đóng quân.",
+   "emoji": "🚉",
+   "ipa": "",
+   "pinyin": "zhùdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挥舞",
+   "meaning": "vung, múa",
+   "example": "孩子们挥舞着鲜花欢呼。",
+   "exampleMeaning": "Các em bé vẫy hoa tươi hoan hô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huīwǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "桥面",
+   "meaning": "mặt cầu",
+   "example": "我们来学“桥面”这个词。",
+   "exampleMeaning": "Cùng học từ “桥面”: mặt cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiáomiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有效期",
+   "meaning": "thời hạn hiệu lực, hạn sử dụng",
+   "example": "我们来学“有效期”这个词。",
+   "exampleMeaning": "Cùng học từ “有效期”: thời hạn hiệu lực, hạn sử dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuxiàoqī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "针锋相对",
+   "meaning": "ăn miếng trả miếng",
+   "example": "我们来学“针锋相对”这个词。",
+   "exampleMeaning": "Cùng học từ “针锋相对”: ăn miếng trả miếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēnfēngxiāngduì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "组织法",
+   "meaning": "luật tổ chức",
+   "example": "我们来学“组织法”这个词。",
+   "exampleMeaning": "Cùng học từ “组织法”: luật tổ chức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔzhīfǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "风餐露宿",
+   "meaning": "dãi gió dầm sương, màn trời chiếu đất",
+   "example": "我们来学“风餐露宿”这个词。",
+   "exampleMeaning": "Cùng học từ “风餐露宿”: dãi gió dầm sương, màn trời chiếu đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngcānlùsù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "耐性",
+   "meaning": "tính nhẫn nại, kiên nhẫn",
+   "example": "越是复杂艰巨的工作， 越需要耐性。",
+   "exampleMeaning": "Công việc càng phức tạp nặng nề bao nhiêu, thì càng phải kiên nhẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàixìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不由得",
+   "meaning": "không kìm được, bất giác",
+   "example": "主人听到那句话，不由得哈哈大笑起来。",
+   "exampleMeaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùyóude",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "演化",
+   "meaning": "tiến hóa, diễn biến",
+   "example": "生物的演化",
+   "exampleMeaning": "Sự biến đổi của sinh vật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "麻辣",
+   "meaning": "cay tê",
+   "example": "我们来学“麻辣”这个词。",
+   "exampleMeaning": "Cùng học từ “麻辣”: cay tê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "málà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "机枪",
+   "meaning": "súng máy",
+   "example": "我们来学“机枪”这个词。",
+   "exampleMeaning": "Cùng học từ “机枪”: súng máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīqiāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人马",
+   "meaning": "binh mã, đội ngũ",
+   "example": "全部人马安然渡过了长江。",
+   "exampleMeaning": "Toàn bộ đội ngũ đã vượt Trường Giang an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénmǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "航天员",
+   "meaning": "phi hành gia",
+   "example": "我们来学“航天员”这个词。",
+   "exampleMeaning": "Cùng học từ “航天员”: phi hành gia.",
+   "emoji": "🧑‍🚀",
+   "ipa": "",
+   "pinyin": "hángtiānyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "主人",
+    "听到",
+    "那",
+    "句",
+    "话",
+    "不由得",
+    "哈哈大笑",
+    "起来"
+   ],
+   "reading": "zhǔrén tīngdào nà jù huà bùyóude hāhādàxiào qǐlai",
+   "meaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  }
+ ],
+ "issues": []
+}

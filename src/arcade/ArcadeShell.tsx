@@ -27,7 +27,7 @@ import { BackLabel, Button, ResultCard, SpeakButton, cx } from '../components/ui
 import { toSaved } from '../lib/review'
 import { wordCardKey } from '../lib/srs'
 import { useProgress } from '../lib/store'
-import { GAME_SPEEDS, LANGS, type Deck, type GameSpeed, type Word } from '../lib/types'
+import { GAME_SPEEDS, LANGS, type Deck, type GameSpeed, type Lang, type Word } from '../lib/types'
 import type { ModeOption } from './challenge'
 
 export interface GameOverResult {
@@ -51,7 +51,9 @@ export interface ArcadeGameProps {
 }
 
 interface ArcadeShellProps {
-  deck: Deck
+  /** The word set to play; null until the player picks one in `setup` (the game can't start before) */
+  deck: Deck | null
+  lang: Lang
   gameId: string
   title: string
   Icon: IconType
@@ -79,6 +81,7 @@ function BackToGames({ children, className }: { children: ReactNode; className?:
 
 export function ArcadeShell({
   deck,
+  lang,
   gameId,
   title,
   Icon,
@@ -105,11 +108,12 @@ export function ArcadeShell({
   const [round, setRound] = useState(0)
   const [result, setResult] = useState<(GameOverResult & { record: boolean }) | null>(null)
   const finished = useRef(false)
-  const bestKey = `${gameId}:${deck.id}:${mode}`
-  const best = useProgress((s) => s.bestScores[bestKey] ?? 0)
+  const bestKey = deck ? `${gameId}:${deck.id}:${mode}` : ''
+  const best = useProgress((s) => (bestKey && s.bestScores[bestKey]) || 0)
   const modeInfo = modes.find((m) => m.id === mode) ?? modes[0]
 
   const start = () => {
+    if (!deck) return
     finished.current = false
     setRound((r) => r + 1)
     setPaused(false)
@@ -118,7 +122,7 @@ export function ArcadeShell({
   }
 
   const gameOver = (r: GameOverResult) => {
-    if (finished.current) return
+    if (finished.current || !deck) return
     finished.current = true
     addXp(r.xp)
     if (trackSrs) for (const key of new Set(r.missed.map((w) => wordCardKey(deck.id, w)))) review(key, 0)
@@ -136,7 +140,7 @@ export function ArcadeShell({
       // Enter starts from the menu wherever focus is (the Start button handles its own click).
       const target = e.target
       const ownAction = target instanceof HTMLAnchorElement || (target instanceof HTMLElement && target.dataset.start)
-      if (phase === 'menu' && e.key === 'Enter' && !ownAction) {
+      if (phase === 'menu' && e.key === 'Enter' && !ownAction && deck) {
         e.preventDefault()
         start()
       }
@@ -148,7 +152,7 @@ export function ArcadeShell({
       window.removeEventListener('keydown', onKey)
       document.removeEventListener('visibilitychange', onHide)
     }
-  }, [phase])
+  }, [phase, deck])
 
   if (phase === 'menu') {
     return (
@@ -164,7 +168,7 @@ export function ArcadeShell({
           <div
             className={cx(
               'relative overflow-hidden bg-gradient-to-br p-8 text-center text-white',
-              LANGS[deck.lang].gradient,
+              LANGS[lang].gradient,
             )}
           >
             <div className="pointer-events-none absolute -top-12 -left-12 size-44 rounded-full bg-white/10" />
@@ -250,14 +254,23 @@ export function ArcadeShell({
                 </li>
               ))}
             </ul>
-            <Button className="w-full py-4 text-lg" onClick={start} autoFocus data-start="true">
-              <Play className="size-5 fill-current" /> Bắt đầu
+            <Button className="w-full py-4 text-lg" onClick={start} disabled={!deck} autoFocus data-start="true">
+              {deck ? (
+                <>
+                  <Play className="size-5 fill-current" /> Bắt đầu
+                </>
+              ) : (
+                'Chọn bộ từ ở trên để bắt đầu'
+              )}
             </Button>
           </div>
         </motion.div>
       </div>
     )
   }
+
+  // Only the menu is shown until a word set is picked.
+  if (!deck) return null
 
   if (phase === 'over' && result) {
     return (

@@ -1,0 +1,324 @@
+{
+ "lesson": 11,
+ "draft": true,
+ "words": [
+  {
+   "term": "intact",
+   "meaning": "nguyên vẹn",
+   "example": "Let's learn the word \"intact\".",
+   "exampleMeaning": "Cùng học từ “intact”: nguyên vẹn.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brew",
+   "meaning": "ủ (bia), pha (trà)",
+   "example": "a good strong brew",
+   "exampleMeaning": "Rượu đậm và ngon",
+   "emoji": "",
+   "ipa": "/ˈbru/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "civic",
+   "meaning": "thuộc công dân, đô thị",
+   "example": "Let's learn the word \"civic\".",
+   "exampleMeaning": "Cùng học từ “civic”: thuộc công dân, đô thị.",
+   "emoji": "",
+   "ipa": "/ˈsɪvɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "democrat",
+   "meaning": "người theo dân chủ, đảng viên Dân chủ",
+   "example": "Let's learn the word \"democrat\".",
+   "exampleMeaning": "Cùng học từ “democrat”: người theo dân chủ, đảng viên Dân chủ.",
+   "emoji": "",
+   "ipa": "/ˈdɛməˌkræt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bead",
+   "meaning": "hạt cườm, giọt",
+   "example": "Let's learn the word \"bead\".",
+   "exampleMeaning": "Cùng học từ “bead”: hạt cườm, giọt.",
+   "emoji": "",
+   "ipa": "/ˈbid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pinch",
+   "meaning": "véo, nhúm",
+   "example": "to pinch money from (out of) someone",
+   "exampleMeaning": "Cưỡng đoạt tiền của ai",
+   "emoji": "",
+   "ipa": "/ˈpɪntʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pharmaceutical",
+   "meaning": "dược phẩm",
+   "example": "Let's learn the word \"pharmaceutical\".",
+   "exampleMeaning": "Cùng học từ “pharmaceutical”: dược phẩm.",
+   "emoji": "",
+   "ipa": "/ˌfɑrməˈsutɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clarity",
+   "meaning": "rõ ràng, minh bạch",
+   "example": "Let's learn the word \"clarity\".",
+   "exampleMeaning": "Cùng học từ “clarity”: rõ ràng, minh bạch.",
+   "emoji": "",
+   "ipa": "/ˈklɛrəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "consistently",
+   "meaning": "nhất quán, luôn luôn",
+   "example": "Studying consistently is the only way to get safisfactory results in your exams.",
+   "exampleMeaning": "Chăm chỉ học tập là cách duy nhất để có kết quả như ý trong kì thi.",
+   "emoji": "",
+   "ipa": "/kənˈsɪstəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "empower",
+   "meaning": "trao quyền",
+   "example": "Let's learn the word \"empower\".",
+   "exampleMeaning": "Cùng học từ “empower”: trao quyền.",
+   "emoji": "",
+   "ipa": "/ɪmˈpaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scanner",
+   "meaning": "máy quét",
+   "example": "Let's learn the word \"scanner\".",
+   "exampleMeaning": "Cùng học từ “scanner”: máy quét.",
+   "emoji": "",
+   "ipa": "/ˈskænɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cellular",
+   "meaning": "thuộc tế bào, di động",
+   "example": "Let's learn the word \"cellular\".",
+   "exampleMeaning": "Cùng học từ “cellular”: thuộc tế bào, di động.",
+   "emoji": "",
+   "ipa": "/ˈsɛljəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hostage",
+   "meaning": "con tin",
+   "example": "to keep somebody as a hostage",
+   "exampleMeaning": "Giữ ai làm con tin",
+   "emoji": "",
+   "ipa": "/ˈhɑstɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "automobile",
+   "meaning": "ô tô, xe hơi",
+   "example": "Let's learn the word \"automobile\".",
+   "exampleMeaning": "Cùng học từ “automobile”: ô tô, xe hơi.",
+   "emoji": "🚗",
+   "ipa": "/ˈɔtəmoʊˌbil/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chord",
+   "meaning": "hợp âm, dây cung",
+   "example": "Let's learn the word \"chord\".",
+   "exampleMeaning": "Cùng học từ “chord”: hợp âm, dây cung.",
+   "emoji": "",
+   "ipa": "/ˈkɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "logistic",
+   "meaning": "thuộc hậu cần",
+   "example": "Let's learn the word \"logistic\".",
+   "exampleMeaning": "Cùng học từ “logistic”: thuộc hậu cần.",
+   "emoji": "",
+   "ipa": "/ləˈdʒɪstɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "breach",
+   "meaning": "vi phạm, lỗ thủng",
+   "example": "a breach of discipline",
+   "exampleMeaning": "Sự phạm kỷ luật",
+   "emoji": "",
+   "ipa": "/ˈbritʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "wrestle",
+   "meaning": "vật lộn, đấu vật",
+   "example": "to wrestle with a habit",
+   "exampleMeaning": "Chống lại một thói quen",
+   "emoji": "",
+   "ipa": "/ˈrɛsəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mob",
+   "meaning": "đám đông hỗn loạn, xã hội đen",
+   "example": "Let's learn the word \"mob\".",
+   "exampleMeaning": "Cùng học từ “mob”: đám đông hỗn loạn, xã hội đen.",
+   "emoji": "",
+   "ipa": "/ˈmɑb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sociology",
+   "meaning": "xã hội học",
+   "example": "Let's learn the word \"sociology\".",
+   "exampleMeaning": "Cùng học từ “sociology”: xã hội học.",
+   "emoji": "",
+   "ipa": "/ˌsoʊ.si.ˈɑː.lə.dʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Would",
+    "you",
+    "mind",
+    "standing",
+    "aside"
+   ],
+   "reading": "",
+   "meaning": "Bạn đứng sang một bên có được không?"
+  },
+  {
+   "tokens": [
+    "We",
+    "need",
+    "to",
+    "conserve",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta phải tiết kiệm nước."
+  },
+  {
+   "tokens": [
+    "The",
+    "room",
+    "was",
+    "fairly",
+    "spacious"
+   ],
+   "reading": "",
+   "meaning": "Căn phòng khá là rộng rãi."
+  },
+  {
+   "tokens": [
+    "We",
+    "hacked",
+    "the",
+    "government",
+    "database"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta đã hack vào cơ sở dữ liệu của chính phủ."
+  },
+  {
+   "tokens": [
+    "Even",
+    "Linux",
+    "can",
+    "be",
+    "hacked"
+   ],
+   "reading": "",
+   "meaning": "Kể cả Linux cũng có thể bị hack."
+  }
+ ],
+ "issues": []
+}

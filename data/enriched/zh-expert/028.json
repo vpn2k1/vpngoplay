@@ -1,0 +1,326 @@
+{
+ "lesson": 28,
+ "draft": true,
+ "words": [
+  {
+   "term": "兼任",
+   "meaning": "kiêm nhiệm",
+   "example": "党支部书记兼任车间主任。",
+   "exampleMeaning": "Thư kí chi bộ Đảng kiêm nhiệm chủ nhiệm phân xưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānrèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拉动",
+   "meaning": "kéo, thúc đẩy",
+   "example": "我们来学“拉动”这个词。",
+   "exampleMeaning": "Cùng học từ “拉动”: kéo, thúc đẩy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lādòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "右派",
+   "meaning": "phe cánh hữu, phái hữu",
+   "example": "我们来学“右派”这个词。",
+   "exampleMeaning": "Cùng học từ “右派”: phe cánh hữu, phái hữu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòupài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "反差",
+   "meaning": "tương phản, độ chênh lệch",
+   "example": "今昔对比，反差强烈。",
+   "exampleMeaning": "So sánh xưa và nay, tương phản xấu đẹp càng rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnchā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高举",
+   "meaning": "giơ cao, nâng cao",
+   "example": "他高举着奖杯向观众致意。",
+   "exampleMeaning": "Anh ấy nâng cao chiếc cúp tỏ ý cảm ơn quần chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāojǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解围",
+   "meaning": "giải vây, gỡ thế bí",
+   "example": "援军前来解围",
+   "exampleMeaning": "Quân tiếp viện đến giải vây",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěwéi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "头领",
+   "meaning": "thủ lĩnh, đầu lĩnh",
+   "example": "土匪头领",
+   "exampleMeaning": "Thủ lĩnh bọn thổ phỉ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóulǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "单薄",
+   "meaning": "mỏng manh, gầy yếu, ít ỏi",
+   "example": "她从小多病，身子单薄。",
+   "exampleMeaning": "Từ nhỏ cô ấy thường bị bệnh, cơ thể yếu ớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānbó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "相助",
+   "meaning": "giúp đỡ nhau",
+   "example": "友爱相助。",
+   "exampleMeaning": "Hữu ái tương trợ; thân mật giúp đỡ nhau",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngzhù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自信心",
+   "meaning": "lòng tự tin",
+   "example": "我们来学“自信心”这个词。",
+   "exampleMeaning": "Cùng học từ “自信心”: lòng tự tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìxìnxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赡养",
+   "meaning": "phụng dưỡng, nuôi dưỡng",
+   "example": "赡养父母。",
+   "exampleMeaning": "Phụng dưỡng cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shànyǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "修缮",
+   "meaning": "tu sửa, tu bổ",
+   "example": "修缮工程。",
+   "exampleMeaning": "Sửa chữa công trình kiến trúc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūshàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出任",
+   "meaning": "nhậm chức, đảm nhiệm",
+   "example": "我们来学“出任”这个词。",
+   "exampleMeaning": "Cùng học từ “出任”: nhậm chức, đảm nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūrèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "矿床",
+   "meaning": "mỏ khoáng, khoáng sàng",
+   "example": "我们来学“矿床”这个词。",
+   "exampleMeaning": "Cùng học từ “矿床”: mỏ khoáng, khoáng sàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàngchuáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "霍乱",
+   "meaning": "bệnh tả, dịch tả",
+   "example": "我们来学“霍乱”这个词。",
+   "exampleMeaning": "Cùng học từ “霍乱”: bệnh tả, dịch tả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huòluàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "研究院",
+   "meaning": "viện nghiên cứu",
+   "example": "我们来学“研究院”这个词。",
+   "exampleMeaning": "Cùng học từ “研究院”: viện nghiên cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánjiūyuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心想",
+   "meaning": "nghĩ thầm, nghĩ bụng",
+   "example": "我们来学“心想”这个词。",
+   "exampleMeaning": "Cùng học từ “心想”: nghĩ thầm, nghĩ bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "阵地",
+   "meaning": "trận địa",
+   "example": "占领敌军阵地。",
+   "exampleMeaning": "Chiếm lĩnh trận địa của quân giặc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèndì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "野营",
+   "meaning": "cắm trại",
+   "example": "明天我们到西山野营去。",
+   "exampleMeaning": "Ngày mai chúng ta đi Sơn Tây cắm trại dã ngoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yěyíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大幅",
+   "meaning": "đáng kể, khổ lớn",
+   "example": "我们来学“大幅”这个词。",
+   "exampleMeaning": "Cùng học từ “大幅”: đáng kể, khổ lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàfú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  }
+ ],
+ "issues": []
+}

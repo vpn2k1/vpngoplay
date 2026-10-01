@@ -1,0 +1,336 @@
+{
+ "lesson": 106,
+ "draft": true,
+ "words": [
+  {
+   "term": "和食",
+   "meaning": "món Nhật, ẩm thực Nhật",
+   "example": "私は和食で育った。",
+   "exampleMeaning": "Ẩm thực Nhật Bản đã nuôi lớn tôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "周到",
+   "meaning": "chu đáo, kỹ lưỡng",
+   "example": "「周到」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “周到”: chu đáo, kỹ lưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伝送",
+   "meaning": "truyền tải, truyền dẫn",
+   "example": "「伝送」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “伝送”: truyền tải, truyền dẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妖怪",
+   "meaning": "yêu quái",
+   "example": "「妖怪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “妖怪”: yêu quái.",
+   "emoji": "👻",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "活況",
+   "meaning": "sôi động, phồn thịnh",
+   "example": "「活況」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “活況”: sôi động, phồn thịnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一二",
+   "meaning": "một hai, đôi chút",
+   "example": "「一二」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一二”: một hai, đôi chút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出張所",
+   "meaning": "văn phòng đại diện, chi nhánh",
+   "example": "「出張所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出張所”: văn phòng đại diện, chi nhánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生中継",
+   "meaning": "truyền hình trực tiếp",
+   "example": "「生中継」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生中継”: truyền hình trực tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風穴",
+   "meaning": "lỗ thông gió",
+   "example": "「風穴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風穴”: lỗ thông gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "食肉",
+   "meaning": "thịt (thực phẩm), ăn thịt",
+   "example": "「食肉」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “食肉”: thịt (thực phẩm), ăn thịt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俊足",
+   "meaning": "nhanh chân, người chạy nhanh",
+   "example": "「俊足」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “俊足”: nhanh chân, người chạy nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日照",
+   "meaning": "ánh nắng, giờ nắng",
+   "example": "「日照」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日照”: ánh nắng, giờ nắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新風",
+   "meaning": "làn gió mới, phong cách mới",
+   "example": "「新風」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新風”: làn gió mới, phong cách mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接着",
+   "meaning": "dán dính, kết dính",
+   "example": "「接着」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接着”: dán dính, kết dính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "絶大",
+   "meaning": "to lớn, khổng lồ",
+   "example": "「絶大」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “絶大”: to lớn, khổng lồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "液化",
+   "meaning": "hóa lỏng",
+   "example": "「液化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “液化”: hóa lỏng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "島国",
+   "meaning": "quốc đảo",
+   "example": "日本は島国で、４つの主な島から成り立っている。",
+   "exampleMeaning": "Nhật Bản là một quốc đảo, và bao gồm bốn đảo chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不倫",
+   "meaning": "ngoại tình",
+   "example": "「不倫」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不倫”: ngoại tình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "太っ腹",
+   "meaning": "hào phóng, rộng lượng",
+   "example": "「太っ腹」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “太っ腹”: hào phóng, rộng lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大別",
+   "meaning": "phân loại đại thể",
+   "example": "「大別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大別”: phân loại đại thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私",
+    "は",
+    "和食",
+    "で",
+    "育った"
+   ],
+   "reading": "わたしはわしょくでそだった",
+   "meaning": "Ẩm thực Nhật Bản đã nuôi lớn tôi."
+  },
+  {
+   "tokens": [
+    "和食",
+    "を",
+    "食べた",
+    "こと",
+    "は",
+    "あります",
+    "か"
+   ],
+   "reading": "わしょくをたべたことはありますか",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  },
+  {
+   "tokens": [
+    "その",
+    "建物",
+    "は",
+    "三年",
+    "前",
+    "に",
+    "崩壊",
+    "した"
+   ],
+   "reading": "そのたてものはさんねんまえにほうかいした",
+   "meaning": "Tòa nhà đó sập đổ 3 năm trước."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "が",
+    "野球",
+    "を",
+    "する",
+    "の",
+    "を",
+    "見た"
+   ],
+   "reading": "わたしはかれがやきゅうをするのをみた",
+   "meaning": "Tôi đã xem anh ấy chơi bóng chày."
+  },
+  {
+   "tokens": [
+    "あなた",
+    "は",
+    "何人",
+    "兄弟",
+    "が",
+    "います",
+    "か"
+   ],
+   "reading": "あなたはなんにんきょうだいがいますか",
+   "meaning": "Bạn có mấy anh chị em?"
+  }
+ ],
+ "issues": []
+}

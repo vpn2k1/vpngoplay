@@ -1,0 +1,329 @@
+{
+ "lesson": 110,
+ "draft": true,
+ "words": [
+  {
+   "term": "取り込み",
+   "meaning": "lấy vào, thu nhận",
+   "example": "「取り込み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “取り込み”: lấy vào, thu nhận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "供養",
+   "meaning": "cúng bái, cúng giỗ",
+   "example": "「供養」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “供養”: cúng bái, cúng giỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "形式的",
+   "meaning": "mang tính hình thức",
+   "example": "「形式的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “形式的”: mang tính hình thức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "別名",
+   "meaning": "tên khác, biệt danh",
+   "example": "「別名」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “別名”: tên khác, biệt danh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "柏木",
+   "meaning": "cây sồi",
+   "example": "「柏木」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “柏木”: cây sồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "東口",
+   "meaning": "cửa đông",
+   "example": "「東口」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “東口”: cửa đông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "員数",
+   "meaning": "số lượng, số người",
+   "example": "「員数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “員数”: số lượng, số người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "将来像",
+   "meaning": "hình ảnh tương lai, viễn cảnh",
+   "example": "「将来像」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “将来像”: hình ảnh tương lai, viễn cảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金石",
+   "meaning": "kim thạch, khoáng vật",
+   "example": "「金石」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金石”: kim thạch, khoáng vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行き先",
+   "meaning": "điểm đến, nơi đến",
+   "example": "「行き先」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行き先”: điểm đến, nơi đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "囲み",
+   "meaning": "vòng vây, ô khung",
+   "example": "「囲み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “囲み”: vòng vây, ô khung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "信徒",
+   "meaning": "tín đồ",
+   "example": "「信徒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “信徒”: tín đồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "双葉",
+   "meaning": "lá mầm",
+   "example": "「双葉」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “双葉”: lá mầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表立つ",
+   "meaning": "lộ ra, công khai",
+   "example": "「表立つ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “表立つ”: lộ ra, công khai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "毒ガス",
+   "meaning": "khí độc",
+   "example": "「毒ガス」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “毒ガス”: khí độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "攻略",
+   "meaning": "đánh chiếm, chinh phục",
+   "example": "「攻略」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “攻略”: đánh chiếm, chinh phục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先駆け",
+   "meaning": "người đi đầu, tiên phong",
+   "example": "「先駆け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先駆け”: người đi đầu, tiên phong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "薄れる",
+   "meaning": "phai nhạt, mờ dần",
+   "example": "「薄れる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “薄れる”: phai nhạt, mờ dần.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民芸",
+   "meaning": "thủ công dân gian",
+   "example": "「民芸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “民芸”: thủ công dân gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "参列",
+   "meaning": "tham dự",
+   "example": "「参列」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “参列”: tham dự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "の",
+    "才能",
+    "には",
+    "おそれいった",
+    "よ"
+   ],
+   "reading": "かれのさいのうにはおそれいったよ",
+   "meaning": "Tôi ngưỡng mộ tài năng của anh ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "教師",
+    "になる",
+    "つもり",
+    "だった"
+   ],
+   "reading": "わたしはきょうしになるつもりだった",
+   "meaning": "Tôi có ý định trở thành giáo viên."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "その",
+    "計画",
+    "に",
+    "同意",
+    "した"
+   ],
+   "reading": "わたしたちはそのけいかくにどういした",
+   "meaning": "Chúng tôi đồng ý với kế hoạch đó."
+  },
+  {
+   "tokens": [
+    "東京",
+    "は",
+    "明日",
+    "晴れる",
+    "でしょうか"
+   ],
+   "reading": "とうきょうはあしたはれるでしょうか",
+   "meaning": "Ngày mai thời tiết ở Tokyo có tốt không?"
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "医者",
+    "ではなく",
+    "教師",
+    "だ"
+   ],
+   "reading": "かのじょはいしゃではなくきょうしだ",
+   "meaning": "Cô ấy không phải là một bác sĩ, mà là một giáo viên."
+  }
+ ],
+ "issues": []
+}

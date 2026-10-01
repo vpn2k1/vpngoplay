@@ -1,0 +1,326 @@
+{
+ "lesson": 115,
+ "draft": true,
+ "words": [
+  {
+   "term": "火候",
+   "meaning": "độ lửa, độ chín muồi",
+   "example": "烧窑炼铁都要看火候。",
+   "exampleMeaning": "Đốt lò luyện thép cần phải xem độ lửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒhou",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "柏树",
+   "meaning": "cây bách",
+   "example": "我们来学“柏树”这个词。",
+   "exampleMeaning": "Cùng học từ “柏树”: cây bách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎishù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出道",
+   "meaning": "ra mắt, vào nghề",
+   "example": "我们来学“出道”这个词。",
+   "exampleMeaning": "Cùng học từ “出道”: ra mắt, vào nghề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勤工俭学",
+   "meaning": "vừa học vừa làm",
+   "example": "我们来学“勤工俭学”这个词。",
+   "exampleMeaning": "Cùng học từ “勤工俭学”: vừa học vừa làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qíngōngjiǎnxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "计策",
+   "meaning": "kế sách, mưu kế",
+   "example": "用计策包围敌人",
+   "exampleMeaning": "Dùng mưu kế bao vây địch",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìcè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "考研",
+   "meaning": "thi cao học",
+   "example": "我们来学“考研”这个词。",
+   "exampleMeaning": "Cùng học từ “考研”: thi cao học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎoyán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遗迹",
+   "meaning": "di tích, dấu vết",
+   "example": "古代村落的遗迹。",
+   "exampleMeaning": "Di tích thôn xóm thời cổ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通俗",
+   "meaning": "dễ hiểu, bình dân",
+   "example": "通俗易懂",
+   "exampleMeaning": "Thông tục dễ hiểu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngsú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喝道",
+   "meaning": "quát, hét lên, dẹp đường",
+   "example": "我们来学“喝道”这个词。",
+   "exampleMeaning": "Cùng học từ “喝道”: quát, hét lên, dẹp đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hèdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "劝告",
+   "meaning": "khuyên bảo, khuyên nhủ",
+   "example": "我们来学“劝告”这个词。",
+   "exampleMeaning": "Cùng học từ “劝告”: khuyên bảo, khuyên nhủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quàngào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眉开眼笑",
+   "meaning": "mặt mày hớn hở",
+   "example": "听到我考上大学的消息, 一家人乐得眉开眼笑。",
+   "exampleMeaning": "Nghe tin tôi thi đậu đại học, người trong nhà ai cũng vui mừng hớn hở",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méikāiyǎnxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "跪下",
+   "meaning": "quỳ xuống",
+   "example": "跪下作礼拜后走出教堂",
+   "exampleMeaning": "Sau khi quỳ xuống làm lễ thì rời khỏi nhà thờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guìxia",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "树种",
+   "meaning": "loài cây, giống cây",
+   "example": "针叶树种。",
+   "exampleMeaning": "Loại cây lá kim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùzhǒng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "联欢",
+   "meaning": "liên hoan",
+   "example": "军民联欢。",
+   "exampleMeaning": "Quân và dân cùng liên hoan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánhuān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "停放",
+   "meaning": "đỗ (xe), đặt để",
+   "example": "一辆自行车停放在门前。",
+   "exampleMeaning": "Một chiếc xe đạp đậu trước cổng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíngfàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "骨气",
+   "meaning": "khí phách, cốt cách",
+   "example": "他的字写得很有骨气。",
+   "exampleMeaning": "Anh ấy viết chữ rất có khí thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "氧化",
+   "meaning": "ô-xi hóa",
+   "example": "我们来学“氧化”这个词。",
+   "exampleMeaning": "Cùng học từ “氧化”: ô-xi hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnghuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宗室",
+   "meaning": "tông thất, hoàng tộc",
+   "example": "我们来学“宗室”这个词。",
+   "exampleMeaning": "Cùng học từ “宗室”: tông thất, hoàng tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zōngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "花卉",
+   "meaning": "hoa cỏ, hoa kiểng",
+   "example": "我们来学“花卉”这个词。",
+   "exampleMeaning": "Cùng học từ “花卉”: hoa cỏ, hoa kiểng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huāhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所知",
+   "meaning": "điều đã biết",
+   "example": "我们来学“所知”这个词。",
+   "exampleMeaning": "Cùng học từ “所知”: điều đã biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒzhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  },
+  {
+   "tokens": [
+    "她",
+    "很",
+    "擅长",
+    "英语",
+    "教学"
+   ],
+   "reading": "tā hěn shàncháng yīngyǔ jiàoxué",
+   "meaning": "Cô ấy dạy tiếng anh rất giỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,322 @@
+{
+ "lesson": 1,
+ "draft": true,
+ "words": [
+  {
+   "term": "defensive",
+   "meaning": "phòng thủ, phòng vệ",
+   "example": "to stand (be) on the defensive",
+   "exampleMeaning": "Giữ thế thủ, giữ thế phòng ngự",
+   "emoji": "",
+   "ipa": "/dɪˈfɛnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "imperial",
+   "meaning": "thuộc hoàng đế, đế quốc",
+   "example": "Meet me at the lobby of the Imperial Hotel at 6:30 p.m.",
+   "exampleMeaning": "Gặp tôi tại hành lang của khách sạn Hoàng Gia vào lúc 6:30 tối.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɪriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "activist",
+   "meaning": "nhà hoạt động",
+   "example": "Let's learn the word \"activist\".",
+   "exampleMeaning": "Cùng học từ “activist”: nhà hoạt động.",
+   "emoji": "",
+   "ipa": "/ˈæktəvəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "omit",
+   "meaning": "bỏ sót, bỏ qua",
+   "example": "Omit needless words!",
+   "exampleMeaning": "Đừng nói cái không cần thiết phải nói.",
+   "emoji": "",
+   "ipa": "/əʊˈmɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unprecedented",
+   "meaning": "chưa từng có",
+   "example": "The Japanese economy was in an unprecedented boom at that time.",
+   "exampleMeaning": "Vào thời điểm đó, nền kinh tế của Nhật Bản tốt chưa từng có.",
+   "emoji": "",
+   "ipa": "/ənˈprɛsɪˌdɛntɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "defer",
+   "meaning": "hoãn lại, trì hoãn, nhường",
+   "example": "to defer to someone's wish",
+   "exampleMeaning": "Làm theo ý muốn của ai",
+   "emoji": "",
+   "ipa": "/dɪˈfɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "assassination",
+   "meaning": "ám sát",
+   "example": "Let's learn the word \"assassination\".",
+   "exampleMeaning": "Cùng học từ “assassination”: ám sát.",
+   "emoji": "",
+   "ipa": "/əˌsæsəˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "commissioner",
+   "meaning": "ủy viên, cao ủy",
+   "example": "It wasn't me, commissioner!",
+   "exampleMeaning": "Sếp à, không phải tôi đâu!",
+   "emoji": "",
+   "ipa": "/kəˈmɪʃənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "diplomacy",
+   "meaning": "ngoại giao",
+   "example": "Diplomacy is not only about to speak with friendly countries.",
+   "exampleMeaning": "Ngoại giao không chỉ là ăn nói với những quốc gia thân thiện.",
+   "emoji": "",
+   "ipa": "/dɪˈpləʊməsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "benchmark",
+   "meaning": "tiêu chuẩn so sánh, mốc chuẩn",
+   "example": "Let's learn the word \"benchmark\".",
+   "exampleMeaning": "Cùng học từ “benchmark”: tiêu chuẩn so sánh, mốc chuẩn.",
+   "emoji": "",
+   "ipa": "/ˈbɛntʃˌmɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cement",
+   "meaning": "xi măng",
+   "example": "to cement the friendship",
+   "exampleMeaning": "Thắt chặt tình hữu nghị",
+   "emoji": "",
+   "ipa": "/səˈmɛnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disclose",
+   "meaning": "tiết lộ, công khai",
+   "example": "Let's learn the word \"disclose\".",
+   "exampleMeaning": "Cùng học từ “disclose”: tiết lộ, công khai.",
+   "emoji": "",
+   "ipa": "/dɪˈskloʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mainland",
+   "meaning": "đất liền, đại lục",
+   "example": "Let's learn the word \"mainland\".",
+   "exampleMeaning": "Cùng học từ “mainland”: đất liền, đại lục.",
+   "emoji": "",
+   "ipa": "/ˈmeɪnˌlænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "notably",
+   "meaning": "đáng chú ý, đặc biệt là",
+   "example": "Let's learn the word \"notably\".",
+   "exampleMeaning": "Cùng học từ “notably”: đáng chú ý, đặc biệt là.",
+   "emoji": "",
+   "ipa": "/ˈnoʊtəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lesser",
+   "meaning": "ít hơn, kém hơn",
+   "example": "Let's learn the word \"lesser\".",
+   "exampleMeaning": "Cùng học từ “lesser”: ít hơn, kém hơn.",
+   "emoji": "",
+   "ipa": "/ˈlɛsɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "supreme",
+   "meaning": "tối cao",
+   "example": "Supreme Leaders of the Islamic Revolution die, too.",
+   "exampleMeaning": "Lãnh tụ Tối cao của Cách mạng Hồi giáo cũng chết rồi.",
+   "emoji": "",
+   "ipa": "/səˈprim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "preview",
+   "meaning": "xem trước, buổi chiếu trước",
+   "example": "Let's learn the word \"preview\".",
+   "exampleMeaning": "Cùng học từ “preview”: xem trước, buổi chiếu trước.",
+   "emoji": "",
+   "ipa": "/ˈprivˌju/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lens",
+   "meaning": "thấu kính, ống kính",
+   "example": "Let's learn the word \"lens\".",
+   "exampleMeaning": "Cùng học từ “lens”: thấu kính, ống kính.",
+   "emoji": "",
+   "ipa": "/ˈlɛnz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inventory",
+   "meaning": "hàng tồn kho, bản kiểm kê",
+   "example": "Let's learn the word \"inventory\".",
+   "exampleMeaning": "Cùng học từ “inventory”: hàng tồn kho, bản kiểm kê.",
+   "emoji": "",
+   "ipa": "/ˌɪnvənˈtɔri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "miner",
+   "meaning": "thợ mỏ",
+   "example": "Let's learn the word \"miner\".",
+   "exampleMeaning": "Cùng học từ “miner”: thợ mỏ.",
+   "emoji": "",
+   "ipa": "/ˈmaɪnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "It",
+    "wasn't",
+    "me",
+    "commissioner"
+   ],
+   "reading": "",
+   "meaning": "Sếp à, không phải tôi đâu!"
+  },
+  {
+   "tokens": [
+    "He",
+    "isn't",
+    "a",
+    "miner"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là một thợ mỏ."
+  },
+  {
+   "tokens": [
+    "He's",
+    "a",
+    "miner",
+    "He",
+    "works",
+    "in",
+    "a",
+    "coal",
+    "mine"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là thợ mỏ. Anh làm ở một mỏ than."
+  },
+  {
+   "tokens": [
+    "You're",
+    "my",
+    "heroine"
+   ],
+   "reading": "",
+   "meaning": "Bạn là người hùng của tôi."
+  },
+  {
+   "tokens": [
+    "I",
+    "love",
+    "hedgehogs"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích nhím gai."
+  }
+ ],
+ "issues": []
+}

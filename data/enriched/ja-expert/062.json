@@ -1,0 +1,342 @@
+{
+ "lesson": 62,
+ "draft": true,
+ "words": [
+  {
+   "term": "喜ばす",
+   "meaning": "làm vui lòng",
+   "example": "少年は両親を喜ばすために嘘を付いたかもしれない。",
+   "exampleMeaning": "Có lẽ cậu bé đã nói dối để làm bố mẹ vui.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "妻子",
+   "meaning": "vợ con",
+   "example": "「妻子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “妻子”: vợ con.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "君臨",
+   "meaning": "ngự trị, thống trị",
+   "example": "「君臨」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “君臨”: ngự trị, thống trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "狩猟",
+   "meaning": "săn bắn",
+   "example": "「狩猟」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “狩猟”: săn bắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巡視",
+   "meaning": "tuần tra",
+   "example": "「巡視」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “巡視”: tuần tra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "加圧",
+   "meaning": "tăng áp, nén",
+   "example": "「加圧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加圧”: tăng áp, nén.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "使用者",
+   "meaning": "người sử dụng, chủ sử dụng lao động",
+   "example": "「使用者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “使用者”: người sử dụng, chủ sử dụng lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一男",
+   "meaning": "một con trai, con trai trưởng",
+   "example": "「一男」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一男”: một con trai, con trai trưởng.",
+   "emoji": "👦",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "選別",
+   "meaning": "tuyển chọn, phân loại",
+   "example": "「選別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選別”: tuyển chọn, phân loại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "魚介類",
+   "meaning": "hải sản",
+   "example": "トムはめったに魚介類を食べない。",
+   "exampleMeaning": "Tom hiếm khi ăn hải sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "明記",
+   "meaning": "ghi rõ",
+   "example": "「明記」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明記”: ghi rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自治権",
+   "meaning": "quyền tự trị",
+   "example": "「自治権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自治権”: quyền tự trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巡業",
+   "meaning": "lưu diễn",
+   "example": "「巡業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “巡業”: lưu diễn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "火種",
+   "meaning": "than mồi, mầm mống xung đột",
+   "example": "「火種」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “火種”: than mồi, mầm mống xung đột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "憲政",
+   "meaning": "chính thể lập hiến",
+   "example": "「憲政」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “憲政”: chính thể lập hiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見え隠れ",
+   "meaning": "lúc ẩn lúc hiện",
+   "example": "「見え隠れ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見え隠れ”: lúc ẩn lúc hiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直下",
+   "meaning": "ngay bên dưới",
+   "example": "「直下」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “直下”: ngay bên dưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "粘り強い",
+   "meaning": "kiên trì, bền bỉ",
+   "example": "「粘り強い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “粘り強い”: kiên trì, bền bỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中軸",
+   "meaning": "trục chính, nòng cốt",
+   "example": "「中軸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中軸”: trục chính, nòng cốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最年少",
+   "meaning": "nhỏ tuổi nhất",
+   "example": "３人のうちで最年少の少年が一番魅力的だ。",
+   "exampleMeaning": "Trong ba cậu bé đó, cậu bé trẻ tuổi nhất là người hấp dẫn nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "努力",
+    "した",
+    "が",
+    "何の",
+    "成果",
+    "も",
+    "得られなかった"
+   ],
+   "reading": "どりょくしたがなんのせいかもえられなかった",
+   "meaning": "Mặc dù đã cố gắng nhưng tôi đã không đạt được thành quả gì cả."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "その",
+    "質問",
+    "に",
+    "答える",
+    "こと",
+    "を",
+    "拒否",
+    "する"
+   ],
+   "reading": "わたしはそのしつもんにこたえることをきょひする",
+   "meaning": "Tôi từ chối trả lời câu hỏi đó."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "アメリカ",
+    "に",
+    "移住",
+    "する",
+    "つもり",
+    "です"
+   ],
+   "reading": "かれらはアメリカにいじゅうするつもりです",
+   "meaning": "Họ định di cư sang Mỹ."
+  },
+  {
+   "tokens": [
+    "その",
+    "店",
+    "は",
+    "月曜",
+    "から",
+    "土曜",
+    "まで",
+    "開いている"
+   ],
+   "reading": "そのみせはげつようからどようまであいている",
+   "meaning": "Cửa hàng đó mở cửa từ thứ Hai đến thứ Bảy."
+  },
+  {
+   "tokens": [
+    "適度な",
+    "運動",
+    "は",
+    "血液",
+    "の",
+    "循環",
+    "を",
+    "活発",
+    "に",
+    "する"
+   ],
+   "reading": "てきどなうんどうはけつえきのじゅんかんをかっぱつにする",
+   "meaning": "Việc tập thể dục điều độ sẽ làm kích thích tuần hoàn máu."
+  }
+ ],
+ "issues": []
+}

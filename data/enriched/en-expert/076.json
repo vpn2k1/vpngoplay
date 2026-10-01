@@ -1,0 +1,334 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "unnoticed",
+   "meaning": "không ai để ý",
+   "example": "time slipped by unnoticed",
+   "exampleMeaning": "Thời gian trôi qua không ai thấy",
+   "emoji": "",
+   "ipa": "/ənˈnoʊtɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "insulation",
+   "meaning": "lớp cách nhiệt, sự cô lập",
+   "example": "Air provides considerable thermal insulation when trapped in a chamber.",
+   "exampleMeaning": "Không khí sẽ có khả năng cách nhiệt đáng kể khi bị nhốt vào trong buồng.",
+   "emoji": "",
+   "ipa": "/ˌɪnsəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "prominently",
+   "meaning": "nổi bật, dễ thấy",
+   "example": "Let's learn the word \"prominently\".",
+   "exampleMeaning": "Cùng học từ “prominently”: nổi bật, dễ thấy.",
+   "emoji": "",
+   "ipa": "/ˈprɑmənəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "kernel",
+   "meaning": "nhân, hạt, cốt lõi",
+   "example": "Let's learn the word \"kernel\".",
+   "exampleMeaning": "Cùng học từ “kernel”: nhân, hạt, cốt lõi.",
+   "emoji": "",
+   "ipa": "/ˈkɜrnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "maize",
+   "meaning": "ngô, bắp",
+   "example": "Let's learn the word \"maize\".",
+   "exampleMeaning": "Cùng học từ “maize”: ngô, bắp.",
+   "emoji": "",
+   "ipa": "/meɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reaffirm",
+   "meaning": "tái khẳng định",
+   "example": "Let's learn the word \"reaffirm\".",
+   "exampleMeaning": "Cùng học từ “reaffirm”: tái khẳng định.",
+   "emoji": "",
+   "ipa": "/ˌriəˈfɜrm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wade",
+   "meaning": "lội, lội qua",
+   "example": "to wade through a dull book",
+   "exampleMeaning": "Vất vả mãi mới đọc hết được quyển sách tẻ nhạt",
+   "emoji": "",
+   "ipa": "/ˈweɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "constellation",
+   "meaning": "chòm sao",
+   "example": "No two patients ever show exactly the same constellation of symptom",
+   "exampleMeaning": "Chưa bao giờ có hai bệnh nhân có các triệu chứng hoàn toàn giống nhau.",
+   "emoji": "",
+   "ipa": "/ˌkɑnstəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "nip",
+   "meaning": "cắn nhẹ, véo",
+   "example": "to nip one's finger in the door",
+   "exampleMeaning": "Kẹp ngón tay ở cửa",
+   "emoji": "",
+   "ipa": "/ˈnɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tempo",
+   "meaning": "nhịp độ, nhịp",
+   "example": "I like the slow tempo of this song.",
+   "exampleMeaning": "Tôi thích cái nhịp điệu chậm của bài hát này.",
+   "emoji": "",
+   "ipa": "/ˈtɛmˌpoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "intestine",
+   "meaning": "ruột",
+   "example": "Let's learn the word \"intestine\".",
+   "exampleMeaning": "Cùng học từ “intestine”: ruột.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈtɛstən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bodyguard",
+   "meaning": "vệ sĩ",
+   "example": "The President's bodyguard is/are armed",
+   "exampleMeaning": "Vệ sĩ của Tổng thống có mang vũ khí",
+   "emoji": "",
+   "ipa": "/ˈbɑdiˌɡɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reset",
+   "meaning": "đặt lại, khởi động lại",
+   "example": "to reset a broken",
+   "exampleMeaning": "Bó lại cái xương gãy",
+   "emoji": "",
+   "ipa": "/ˈrisɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "normalize",
+   "meaning": "bình thường hóa",
+   "example": "Let's learn the word \"normalize\".",
+   "exampleMeaning": "Cùng học từ “normalize”: bình thường hóa.",
+   "emoji": "",
+   "ipa": "/ˈnɔrməˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "untrue",
+   "meaning": "không đúng, sai sự thật",
+   "example": "Let's learn the word \"untrue\".",
+   "exampleMeaning": "Cùng học từ “untrue”: không đúng, sai sự thật.",
+   "emoji": "",
+   "ipa": "/ənˈtru/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "backbone",
+   "meaning": "xương sống, trụ cột",
+   "example": "This is Tom, the backbone of my life.",
+   "exampleMeaning": "Đây là Tom, trụ cột của đời tôi.",
+   "emoji": "",
+   "ipa": "/ˈbækˌboʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "inadequacy",
+   "meaning": "thiếu sót, bất cập",
+   "example": "Let's learn the word \"inadequacy\".",
+   "exampleMeaning": "Cùng học từ “inadequacy”: thiếu sót, bất cập.",
+   "emoji": "",
+   "ipa": "/ˌɪˈnædɪkwəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "regeneration",
+   "meaning": "tái sinh, hồi sinh",
+   "example": "Let's learn the word \"regeneration\".",
+   "exampleMeaning": "Cùng học từ “regeneration”: tái sinh, hồi sinh.",
+   "emoji": "",
+   "ipa": "/riˈdʒɛnɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "whereabouts",
+   "meaning": "nơi ở, tung tích",
+   "example": "whereabouts did you put it?",
+   "exampleMeaning": "Anh để cái ấy ni nào vậy?",
+   "emoji": "",
+   "ipa": "/ˈhwɛrəˌbaʊts/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "feasibility",
+   "meaning": "tính khả thi",
+   "example": "Let's learn the word \"feasibility\".",
+   "exampleMeaning": "Cùng học từ “feasibility”: tính khả thi.",
+   "emoji": "",
+   "ipa": "/ˌfizəˈbɪləti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Do",
+    "wisdom",
+    "teeth",
+    "need",
+    "to",
+    "be",
+    "removed"
+   ],
+   "reading": "",
+   "meaning": "Có cần nhổ răng khôn không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "programming",
+    "language",
+    "Java",
+    "is",
+    "highly",
+    "versatile"
+   ],
+   "reading": "",
+   "meaning": "Ngôn ngữ lập trình Java rất đa năng."
+  },
+  {
+   "tokens": [
+    "They",
+    "are",
+    "trying",
+    "to",
+    "understand",
+    "what",
+    "happened"
+   ],
+   "reading": "",
+   "meaning": "Họ đang cố hiểu xem chuyện gì đang diễn ra."
+  },
+  {
+   "tokens": [
+    "I",
+    "walked",
+    "towards",
+    "where",
+    "he",
+    "was",
+    "standing"
+   ],
+   "reading": "",
+   "meaning": "Tôi tiến đến chỗ anh ấy đang đứng."
+  },
+  {
+   "tokens": [
+    "What",
+    "are",
+    "all",
+    "these",
+    "invoices",
+    "doing",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Mấy tờ hóa đơn này là sao vậy?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,337 @@
+{
+ "lesson": 71,
+ "draft": true,
+ "words": [
+  {
+   "term": "宽泛",
+   "meaning": "rộng, chung chung",
+   "example": "这个词的涵义很宽泛。",
+   "exampleMeaning": "Hàm ý của cái chữ này rất rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuānfàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地租",
+   "meaning": "địa tô, tiền thuê đất",
+   "example": "我们来学“地租”这个词。",
+   "exampleMeaning": "Cùng học từ “地租”: địa tô, tiền thuê đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìzū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "呼救",
+   "meaning": "kêu cứu",
+   "example": "落水儿童大声呼救。",
+   "exampleMeaning": "Đứa bé rơi xuống nước lên tiếng kêu cứu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūjiù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "精疲力竭",
+   "meaning": "kiệt sức, mệt lả",
+   "example": "一天工作下来累得我实在精疲力竭了。",
+   "exampleMeaning": "Cả ngày làm việc khiến tôi thực sự mệt đến nỗi gân cốt rã rời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngpílìjié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "害臊",
+   "meaning": "xấu hổ, ngượng ngùng",
+   "example": "我们来学“害臊”这个词。",
+   "exampleMeaning": "Cùng học từ “害臊”: xấu hổ, ngượng ngùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàisào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迟迟",
+   "meaning": "chậm chạp, mãi chưa",
+   "example": "我们来学“迟迟”这个词。",
+   "exampleMeaning": "Cùng học từ “迟迟”: chậm chạp, mãi chưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chíchí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "苦力",
+   "meaning": "cu li, lao động khổ sai",
+   "example": "白出苦力。",
+   "exampleMeaning": "Làm cực nhọc không công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǔlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "天分",
+   "meaning": "thiên phú, năng khiếu",
+   "example": "我们来学“天分”这个词。",
+   "exampleMeaning": "Cùng học từ “天分”: thiên phú, năng khiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānfèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "就餐",
+   "meaning": "dùng bữa, ăn cơm",
+   "example": "全体人员安排在大楼就餐。",
+   "exampleMeaning": "Toàn thể nhân viên được bố trí đi ăn ở toà cao ốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiùcān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "兀自",
+   "meaning": "vẫn còn, vẫn cứ",
+   "example": "我们来学“兀自”这个词。",
+   "exampleMeaning": "Cùng học từ “兀自”: vẫn còn, vẫn cứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùzì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "快步",
+   "meaning": "bước nhanh, rảo bước",
+   "example": "我们来学“快步”这个词。",
+   "exampleMeaning": "Cùng học từ “快步”: bước nhanh, rảo bước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàibù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "操劳",
+   "meaning": "vất vả, lao lực",
+   "example": "日夜操劳",
+   "exampleMeaning": "Ngày đêm làm lụng vất vả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cāoláo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汉奸",
+   "meaning": "kẻ phản quốc, Hán gian",
+   "example": "我们来学“汉奸”这个词。",
+   "exampleMeaning": "Cùng học từ “汉奸”: kẻ phản quốc, Hán gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hànjiān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "激化",
+   "meaning": "leo thang, gay gắt thêm",
+   "example": "资本主义国家之间斗争日益激化。",
+   "exampleMeaning": "Sự đấu tranh giữa các nước tư bản ngày càng trở nên gay gắt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "老头",
+   "meaning": "ông già",
+   "example": "我们来学“老头”这个词。",
+   "exampleMeaning": "Cùng học từ “老头”: ông già.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎotóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "置于",
+   "meaning": "đặt vào, đặt ở",
+   "example": "我们来学“置于”这个词。",
+   "exampleMeaning": "Cùng học từ “置于”: đặt vào, đặt ở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扫兴",
+   "meaning": "mất hứng, cụt hứng",
+   "example": "我们来学“扫兴”这个词。",
+   "exampleMeaning": "Cùng học từ “扫兴”: mất hứng, cụt hứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǎoxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人心",
+   "meaning": "lòng người, lòng dân",
+   "example": "她并不是没有人心的人。",
+   "exampleMeaning": "Cô ta hoàn toàn không phải là người không biết lý lẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rénxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "易于",
+   "meaning": "dễ, dễ dàng",
+   "example": "这种酷热的天气人易于中暑。",
+   "exampleMeaning": "Kiểu thời tiết nóng bức thế này con người rất dễ bị cảm nắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "防务",
+   "meaning": "quốc phòng, phòng vệ",
+   "example": "我们来学“防务”这个词。",
+   "exampleMeaning": "Cùng học từ “防务”: quốc phòng, phòng vệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fángwù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  }
+ ],
+ "issues": []
+}

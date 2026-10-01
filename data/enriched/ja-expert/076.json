@@ -1,0 +1,339 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "中流",
+   "meaning": "trung lưu, giữa dòng",
+   "example": "「中流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中流”: trung lưu, giữa dòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小説家",
+   "meaning": "tiểu thuyết gia, nhà văn",
+   "example": "彼は小説家として私たちみんなに知られている。",
+   "exampleMeaning": "Chúng tôi biết anh ấy như là một tiểu thuyết gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "新世界",
+   "meaning": "tân thế giới",
+   "example": "「新世界」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新世界”: tân thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遺品",
+   "meaning": "di vật",
+   "example": "「遺品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遺品”: di vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "血液型",
+   "meaning": "nhóm máu",
+   "example": "血液型何型？",
+   "exampleMeaning": "Nhóm máu của bạn là gì?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "一代",
+   "meaning": "một đời, một thế hệ",
+   "example": "「一代」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一代”: một đời, một thế hệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "連結",
+   "meaning": "nối liền, liên kết",
+   "example": "「連結」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “連結”: nối liền, liên kết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立ち退き",
+   "meaning": "di dời, trục xuất",
+   "example": "「立ち退き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “立ち退き”: di dời, trục xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酒税",
+   "meaning": "thuế rượu",
+   "example": "「酒税」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “酒税”: thuế rượu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "片方",
+   "meaning": "một bên, một chiếc",
+   "example": "ハムスターの金玉が片方肥大しています。",
+   "exampleMeaning": "Con chuột hamster của tôi bị sưng một bên tinh hoàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "大々的",
+   "meaning": "quy mô lớn, rầm rộ",
+   "example": "「大々的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大々的”: quy mô lớn, rầm rộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "海辺",
+   "meaning": "bờ biển, bãi biển",
+   "example": "彼は海辺のレストランのボーイである。",
+   "exampleMeaning": "Anh ấy làm bồi bàn cho một nhà hàng bên bờ biển",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "物品",
+   "meaning": "vật phẩm, hàng hóa",
+   "example": "「物品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “物品”: vật phẩm, hàng hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "売上金",
+   "meaning": "tiền bán hàng, doanh thu",
+   "example": "「売上金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “売上金”: tiền bán hàng, doanh thu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転覆",
+   "meaning": "lật úp, lật đổ",
+   "example": "「転覆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転覆”: lật úp, lật đổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "異文",
+   "meaning": "dị bản",
+   "example": "「異文」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “異文”: dị bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "翁",
+   "meaning": "ông lão, cụ già",
+   "example": "「翁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “翁”: ông lão, cụ già.",
+   "emoji": "👴",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "情景",
+   "meaning": "cảnh tượng, khung cảnh",
+   "example": "「情景」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “情景”: cảnh tượng, khung cảnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "免職",
+   "meaning": "cách chức, sa thải",
+   "example": "「免職」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “免職”: cách chức, sa thải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鉄製",
+   "meaning": "bằng sắt",
+   "example": "これは木製ですか、鉄製ですか？",
+   "exampleMeaning": "Cái này là làm từ gỗ hay là làm từ sắt?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "発展途上国",
+    "で",
+    "は",
+    "優れた",
+    "技術者",
+    "が",
+    "不足",
+    "している"
+   ],
+   "reading": "はってんとじょうこくではすぐれたぎじゅつしゃがふそくしている",
+   "meaning": "Những quốc gia đang phát triển đang thiếu nguồn cung kỹ sư chất lượng cao."
+  },
+  {
+   "tokens": [
+    "ワードプロセッサー",
+    "の",
+    "使い方",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "ワードプロセッサーのつかいかたをしっていますか",
+   "meaning": "Bạn có biết cách sử dụng phần mềm soạn thảo văn bản không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "今日",
+    "授業",
+    "を",
+    "さぼった",
+    "理由",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "かれがきょうじゅぎょうをさぼったりゆうをしっていますか",
+   "meaning": "Bạn có biết lý do vì sao hôm nay anh ấy trốn học không?"
+  },
+  {
+   "tokens": [
+    "結局",
+    "法案",
+    "は",
+    "提出",
+    "断念",
+    "に",
+    "追い込まれた",
+    "のだった"
+   ],
+   "reading": "けっきょくほうあんはていしゅつだんねんにおいこまれたのだった",
+   "meaning": "Cuối cùng, dự thảo luật đó đã bị buộc phải bãi bỏ."
+  },
+  {
+   "tokens": [
+    "脚本",
+    "を",
+    "書いていて",
+    "行き詰まった",
+    "時",
+    "は",
+    "どう",
+    "する"
+   ],
+   "reading": "きゃくほんをかいていていきづまったときはどうする",
+   "meaning": "Bạn sẽ làm gì khi bạn bị bế tắc trong lúc viết một kịch bản?"
+  }
+ ],
+ "issues": []
+}

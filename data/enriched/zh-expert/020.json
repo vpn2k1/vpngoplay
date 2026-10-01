@@ -1,0 +1,331 @@
+{
+ "lesson": 20,
+ "draft": true,
+ "words": [
+  {
+   "term": "记述",
+   "meaning": "ghi chép, thuật lại",
+   "example": "我们来学“记述”这个词。",
+   "exampleMeaning": "Cùng học từ “记述”: ghi chép, thuật lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "泰斗",
+   "meaning": "bậc thầy, thái sơn bắc đẩu",
+   "example": "他算得上音乐界的泰斗",
+   "exampleMeaning": "Anh ấy xứng đáng là ngôi sao sáng trong giới âm nhạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàidǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "供不应求",
+   "meaning": "cung không đủ cầu",
+   "example": "这本小说最近很畅销，供不应求。",
+   "exampleMeaning": "Quyển tiểu thuyết này gần đây bán rất chạy, cung không đủ cầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngbùyìngqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "搞鬼",
+   "meaning": "giở trò, chơi xấu",
+   "example": "敌人暗中搞鬼,要注意。",
+   "exampleMeaning": "Phe địch đang ngấm ngầm giở trò, phải chú ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎoguǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不相上下",
+   "meaning": "ngang tài ngang sức",
+   "example": "这两个人的棋艺不相上下。",
+   "exampleMeaning": "Tài nghệ của hai người này ngang nhau",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxiāngshàngxià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "放入",
+   "meaning": "cho vào, đặt vào",
+   "example": "我们来学“放入”这个词。",
+   "exampleMeaning": "Cùng học từ “放入”: cho vào, đặt vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngrù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夸耀",
+   "meaning": "khoe khoang, phô trương",
+   "example": "他从不在人面前夸耀自己。",
+   "exampleMeaning": "Anh ấy từ trước tới giờ chẳng khi nào khoe khoang trước mặt mọi người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuāyào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "默读",
+   "meaning": "đọc thầm",
+   "example": "我们来学“默读”这个词。",
+   "exampleMeaning": "Cùng học từ “默读”: đọc thầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mòdú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挖苦",
+   "meaning": "châm chọc, mỉa mai",
+   "example": "有意见就直说，不要挖苦人。",
+   "exampleMeaning": "Có ý kiến gì nói thẳng ra đi, chớ có nói móc người ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wākǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "寓言",
+   "meaning": "ngụ ngôn",
+   "example": "我们来学“寓言”这个词。",
+   "exampleMeaning": "Cùng học từ “寓言”: ngụ ngôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùyán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冒昧",
+   "meaning": "mạo muội, đường đột",
+   "example": "不揣冒昧。",
+   "exampleMeaning": "Không sợ mạo muội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màomèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "慰劳",
+   "meaning": "thăm hỏi động viên",
+   "example": "慰劳解放军",
+   "exampleMeaning": "Thăm hỏi quân giải phóng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèiláo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "龙头",
+   "meaning": "vòi nước, đầu tàu",
+   "example": "龙头企业。",
+   "exampleMeaning": "Xí nghiệp hàng đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lóngtóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "内讧",
+   "meaning": "lục đục nội bộ, đấu đá nội bộ",
+   "example": "我们来学“内讧”这个词。",
+   "exampleMeaning": "Cùng học từ “内讧”: lục đục nội bộ, đấu đá nội bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nèihòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尽数",
+   "meaning": "toàn bộ, hết thảy",
+   "example": "我们来学“尽数”这个词。",
+   "exampleMeaning": "Cùng học từ “尽数”: toàn bộ, hết thảy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐnshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口令",
+   "meaning": "khẩu lệnh, mật khẩu",
+   "example": "问口令。",
+   "exampleMeaning": "Hỏi mật lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒulìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "左顾右盼",
+   "meaning": "nhìn ngang ngó dọc",
+   "example": "我们来学“左顾右盼”这个词。",
+   "exampleMeaning": "Cùng học từ “左顾右盼”: nhìn ngang ngó dọc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuǒgùyòupàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "物理",
+   "meaning": "vật lý",
+   "example": "我们来学“物理”这个词。",
+   "exampleMeaning": "Cùng học từ “物理”: vật lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùlǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自幼",
+   "meaning": "từ nhỏ, từ bé",
+   "example": "我们来学“自幼”这个词。",
+   "exampleMeaning": "Cùng học từ “自幼”: từ nhỏ, từ bé.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìyòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高出",
+   "meaning": "cao hơn, vượt",
+   "example": "我们来学“高出”这个词。",
+   "exampleMeaning": "Cùng học từ “高出”: cao hơn, vượt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāochū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  }
+ ],
+ "issues": []
+}

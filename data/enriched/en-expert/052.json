@@ -1,0 +1,339 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "mileage",
+   "meaning": "số dặm, lợi ích",
+   "example": "to get a lot of mileage from something",
+   "exampleMeaning": "Dùng cái gì được lâu",
+   "emoji": "",
+   "ipa": "/ˈmaɪlədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bureaucrat",
+   "meaning": "viên chức quan liêu",
+   "example": "Let's learn the word \"bureaucrat\".",
+   "exampleMeaning": "Cùng học từ “bureaucrat”: viên chức quan liêu.",
+   "emoji": "",
+   "ipa": "/ˈbjʊrəˌkræt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "verification",
+   "meaning": "xác minh, kiểm chứng",
+   "example": "Let's learn the word \"verification\".",
+   "exampleMeaning": "Cùng học từ “verification”: xác minh, kiểm chứng.",
+   "emoji": "",
+   "ipa": "/ˌver.ɪ.fɪˈkeɪ.ʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "behold",
+   "meaning": "nhìn ngắm, trông thấy",
+   "example": "Let's learn the word \"behold\".",
+   "exampleMeaning": "Cùng học từ “behold”: nhìn ngắm, trông thấy.",
+   "emoji": "",
+   "ipa": "/bɪˈhoʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aggravate",
+   "meaning": "làm trầm trọng thêm, chọc tức",
+   "example": "to aggravate an illeness",
+   "exampleMeaning": "Làm cho bệnh nặng thêm",
+   "emoji": "",
+   "ipa": "/ˈæɡrəˌveɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peril",
+   "meaning": "hiểm họa, nguy hiểm",
+   "example": "at the peril of one's life",
+   "exampleMeaning": "Nguy đến tính mệnh",
+   "emoji": "",
+   "ipa": "/ˈpɛrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stigma",
+   "meaning": "kỳ thị, tiếng xấu",
+   "example": "Let's learn the word \"stigma\".",
+   "exampleMeaning": "Cùng học từ “stigma”: kỳ thị, tiếng xấu.",
+   "emoji": "",
+   "ipa": "/ˈstɪɡmə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lumber",
+   "meaning": "gỗ xẻ, đồ lỉnh kỉnh",
+   "example": "Let's learn the word \"lumber\".",
+   "exampleMeaning": "Cùng học từ “lumber”: gỗ xẻ, đồ lỉnh kỉnh.",
+   "emoji": "",
+   "ipa": "/ˈləmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shear",
+   "meaning": "cắt, xén lông (cừu)",
+   "example": "to shear through something",
+   "exampleMeaning": "Cắt đứt vật gì",
+   "emoji": "",
+   "ipa": "/ˈʃɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "foe",
+   "meaning": "kẻ thù, địch thủ",
+   "example": "dirt is a gangerours foe to health",
+   "exampleMeaning": "Bụi là kẻ thù nguy hiểm của sức khoẻ",
+   "emoji": "",
+   "ipa": "/ˈfoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "abolition",
+   "meaning": "bãi bỏ, xóa bỏ",
+   "example": "abolition of taxes",
+   "exampleMeaning": "Sự bãi bỏ thuế",
+   "emoji": "",
+   "ipa": "/ˌæbəˈlɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "infancy",
+   "meaning": "tuổi ấu thơ, giai đoạn đầu",
+   "example": "Let's learn the word \"infancy\".",
+   "exampleMeaning": "Cùng học từ “infancy”: tuổi ấu thơ, giai đoạn đầu.",
+   "emoji": "",
+   "ipa": "/ˈɪnfənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fore",
+   "meaning": "phía trước, mũi (tàu)",
+   "example": "Let's learn the word \"fore\".",
+   "exampleMeaning": "Cùng học từ “fore”: phía trước, mũi (tàu).",
+   "emoji": "",
+   "ipa": "/ˈfɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "borrower",
+   "meaning": "người vay",
+   "example": "Let's learn the word \"borrower\".",
+   "exampleMeaning": "Cùng học từ “borrower”: người vay.",
+   "emoji": "",
+   "ipa": "/ˈbɑroʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "challenger",
+   "meaning": "người thách đấu",
+   "example": "Let's learn the word \"challenger\".",
+   "exampleMeaning": "Cùng học từ “challenger”: người thách đấu.",
+   "emoji": "",
+   "ipa": "/ˈtʃæləndʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conservatism",
+   "meaning": "chủ nghĩa bảo thủ, tính bảo thủ",
+   "example": "Let's learn the word \"conservatism\".",
+   "exampleMeaning": "Cùng học từ “conservatism”: chủ nghĩa bảo thủ, tính bảo thủ.",
+   "emoji": "",
+   "ipa": "/kənˈsɜrvəˌtɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rust",
+   "meaning": "gỉ sét, rỉ",
+   "example": "Let's learn the word \"rust\".",
+   "exampleMeaning": "Cùng học từ “rust”: gỉ sét, rỉ.",
+   "emoji": "",
+   "ipa": "/ˈrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jolly",
+   "meaning": "vui vẻ, rất (thân mật)",
+   "example": "what a jolly mess I am in!",
+   "exampleMeaning": "Mình thật là lâm vào một hoàn cảnh dễ chịu gớm!",
+   "emoji": "",
+   "ipa": "/ˈdʒɑli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "designation",
+   "meaning": "chỉ định, tên gọi",
+   "example": "Let's learn the word \"designation\".",
+   "exampleMeaning": "Cùng học từ “designation”: chỉ định, tên gọi.",
+   "emoji": "",
+   "ipa": "/ˌdɛzəɡˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ice-cream",
+   "meaning": "kem",
+   "example": "Let's learn the word \"ice-cream\".",
+   "exampleMeaning": "Cùng học từ “ice-cream”: kem.",
+   "emoji": "",
+   "ipa": "/ˈaɪsˌkrim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "His",
+    "smile",
+    "reassured",
+    "me",
+    "everything",
+    "would",
+    "be",
+    "alright"
+   ],
+   "reading": "",
+   "meaning": "Nụ cười của anh trấn an tôi rằng mọi chuyển rồi sẽ ổn."
+  },
+  {
+   "tokens": [
+    "A",
+    "bird",
+    "was",
+    "perched",
+    "on",
+    "the",
+    "road",
+    "sign"
+   ],
+   "reading": "",
+   "meaning": "Một con chim đậu lên biển báo giao thông."
+  },
+  {
+   "tokens": [
+    "It",
+    "was",
+    "the",
+    "result",
+    "of",
+    "years",
+    "of",
+    "sacrifices"
+   ],
+   "reading": "",
+   "meaning": "Đó là kết quả của sự hi sinh trong nhiều năm."
+  },
+  {
+   "tokens": [
+    "The",
+    "government",
+    "is",
+    "trying",
+    "to",
+    "find",
+    "a",
+    "solution"
+   ],
+   "reading": "",
+   "meaning": "Chính phủ đang cố gắng tìm ra giải pháp."
+  },
+  {
+   "tokens": [
+    "He",
+    "worked",
+    "as",
+    "an",
+    "apprentice",
+    "for",
+    "three",
+    "years"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã làm học việc được ba năm rồi."
+  }
+ ],
+ "issues": []
+}

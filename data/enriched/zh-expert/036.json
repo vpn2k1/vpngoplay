@@ -1,0 +1,341 @@
+{
+ "lesson": 36,
+ "draft": true,
+ "words": [
+  {
+   "term": "法子",
+   "meaning": "cách, cách làm",
+   "example": "我们来学“法子”这个词。",
+   "exampleMeaning": "Cùng học từ “法子”: cách, cách làm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所指",
+   "meaning": "điều được chỉ ra, ám chỉ",
+   "example": "我们来学“所指”这个词。",
+   "exampleMeaning": "Cùng học từ “所指”: điều được chỉ ra, ám chỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒzhǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "战乱",
+   "meaning": "loạn lạc, chiến loạn",
+   "example": "我们来学“战乱”这个词。",
+   "exampleMeaning": "Cùng học từ “战乱”: loạn lạc, chiến loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànluàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "马虎",
+   "meaning": "qua loa, cẩu thả",
+   "example": "做事要认真，马马虎虎可不行!",
+   "exampleMeaning": "Làm việc phải chăm chỉ, qua loa đại khái thì không được đâu!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎhu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "国宝",
+   "meaning": "quốc bảo, báu vật quốc gia",
+   "example": "大熊猫是我国的国宝。",
+   "exampleMeaning": "Gấu trúc là báu vật của quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guóbǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "舵手",
+   "meaning": "người cầm lái",
+   "example": "我们来学“舵手”这个词。",
+   "exampleMeaning": "Cùng học từ “舵手”: người cầm lái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duòshǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "窟窿",
+   "meaning": "lỗ thủng, lỗ hổng, hang",
+   "example": "堵住税收工作中的窟窿。",
+   "exampleMeaning": "Bịt kín những kẽ hở trong công việc thu thuế.",
+   "emoji": "🕳",
+   "ipa": "",
+   "pinyin": "kūlong",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "半空",
+   "meaning": "giữa không trung",
+   "example": "半空着肚子。",
+   "exampleMeaning": "Bụng lép kẹp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bànkōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "失传",
+   "meaning": "thất truyền",
+   "example": "北曲的曲谱早已失传了。",
+   "exampleMeaning": "Những khúc hát của phương bắc sớm đã bị thất truyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīchuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钻空子",
+   "meaning": "lách luật, lợi dụng sơ hở",
+   "example": "我们不能让对方钻空子。",
+   "exampleMeaning": "Chúng ta không thể để đối phương thừa cơ được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuānkòngzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "贺信",
+   "meaning": "thư chúc mừng",
+   "example": "我们来学“贺信”这个词。",
+   "exampleMeaning": "Cùng học từ “贺信”: thư chúc mừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hèxìn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乞求",
+   "meaning": "cầu xin, van nài",
+   "example": "和平只能通过斗争取得，不能乞求。",
+   "exampleMeaning": "Hoà bình chỉ có được khi thông qua đấu tranh giành lấy, không thể cầu xin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "垂直",
+   "meaning": "thẳng đứng, vuông góc",
+   "example": "我们来学“垂直”这个词。",
+   "exampleMeaning": "Cùng học từ “垂直”: thẳng đứng, vuông góc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuízhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心想事成",
+   "meaning": "muốn gì được nấy, vạn sự như ý",
+   "example": "我们来学“心想事成”这个词。",
+   "exampleMeaning": "Cùng học từ “心想事成”: muốn gì được nấy, vạn sự như ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnxiǎngshìchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "触觉",
+   "meaning": "xúc giác",
+   "example": "我们来学“触觉”这个词。",
+   "exampleMeaning": "Cùng học từ “触觉”: xúc giác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chùjué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一锅粥",
+   "meaning": "rối như canh hẹ, hỗn loạn",
+   "example": "会场内，掌声、哨声、喊声、笑声乱成了一锅粥。",
+   "exampleMeaning": "Trong hội trường, tiếng vỗ tay, tiếng còi, tiếng hò hét, tiếng cười hỗn loạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīguōzhōu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "仙桃",
+   "meaning": "đào tiên",
+   "example": "我们来学“仙桃”这个词。",
+   "exampleMeaning": "Cùng học từ “仙桃”: đào tiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāntáo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "谷地",
+   "meaning": "thung lũng",
+   "example": "我们来学“谷地”这个词。",
+   "exampleMeaning": "Cùng học từ “谷地”: thung lũng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冲破",
+   "meaning": "phá vỡ, vượt qua",
+   "example": "冲破敌人的包围。",
+   "exampleMeaning": "Phá vỡ vòng vây của địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngpò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "圣地",
+   "meaning": "thánh địa",
+   "example": "延安是中国人民革命的圣地。",
+   "exampleMeaning": "Diên An là cái nôi của Cách Mạng nhân dân Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèngdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "不",
+    "能",
+    "让",
+    "对方",
+    "钻空子"
+   ],
+   "reading": "wǒmen bù néng ràng duìfāng zuānkòngzi",
+   "meaning": "Chúng ta không thể để đối phương thừa cơ được."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  }
+ ],
+ "issues": []
+}

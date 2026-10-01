@@ -1,0 +1,328 @@
+{
+ "lesson": 79,
+ "draft": true,
+ "words": [
+  {
+   "term": "位居",
+   "meaning": "đứng ở vị trí, xếp hạng",
+   "example": "我们来学“位居”这个词。",
+   "exampleMeaning": "Cùng học từ “位居”: đứng ở vị trí, xếp hạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèijū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大包大揽",
+   "meaning": "ôm đồm mọi việc",
+   "example": "我们来学“大包大揽”这个词。",
+   "exampleMeaning": "Cùng học từ “大包大揽”: ôm đồm mọi việc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàbāodàlǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "红扑扑",
+   "meaning": "đỏ hồng, hồng hào",
+   "example": "喝了几杯酒，脸上红扑扑的。",
+   "exampleMeaning": "Uống mấy cốc rượu mặt đỏ bừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngpūpū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "窃取",
+   "meaning": "đánh cắp, ăn cắp",
+   "example": "窃取胜利果实。",
+   "exampleMeaning": "Ăn cắp thành quả thắng lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qièqǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "挂号",
+   "meaning": "đăng ký khám, gửi bảo đảm",
+   "example": "看病要先挂号",
+   "exampleMeaning": "Khám bệnh nên lấy số trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàhào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水力",
+   "meaning": "sức nước, thủy lực",
+   "example": "我们来学“水力”这个词。",
+   "exampleMeaning": "Cùng học từ “水力”: sức nước, thủy lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一心一意",
+   "meaning": "một lòng một dạ",
+   "example": "她一心一意想出国留学。",
+   "exampleMeaning": "Cô ấy nhất quyết một lòng muốn ra nước ngoài du học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīxīnyīyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "尚书",
+   "meaning": "thượng thư",
+   "example": "我们来学“尚书”这个词。",
+   "exampleMeaning": "Cùng học từ “尚书”: thượng thư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngshū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坐标",
+   "meaning": "tọa độ",
+   "example": "直角坐标",
+   "exampleMeaning": "Tọa độ vuông góc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòbiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凯歌",
+   "meaning": "khúc khải hoàn",
+   "example": "高唱凯歌而归。",
+   "exampleMeaning": "Hát vang bài ca chiến thắng trở về.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎigē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "所在地",
+   "meaning": "nơi đặt trụ sở, địa điểm",
+   "example": "我们来学“所在地”这个词。",
+   "exampleMeaning": "Cùng học từ “所在地”: nơi đặt trụ sở, địa điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒzàidì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喜糖",
+   "meaning": "kẹo cưới",
+   "example": "我们来学“喜糖”这个词。",
+   "exampleMeaning": "Cùng học từ “喜糖”: kẹo cưới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐtáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "发达国家",
+   "meaning": "nước phát triển",
+   "example": "我们来学“发达国家”这个词。",
+   "exampleMeaning": "Cùng học từ “发达国家”: nước phát triển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fādáguójiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老字号",
+   "meaning": "thương hiệu lâu đời",
+   "example": "这是一家有近百年历史的老字号。",
+   "exampleMeaning": "Đây là cửa hiệu lâu đời, đã có gần trăm năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎozìhào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公安局",
+   "meaning": "sở công an, cục công an",
+   "example": "我们来学“公安局”这个词。",
+   "exampleMeaning": "Cùng học từ “公安局”: sở công an, cục công an.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngānjú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稳妥",
+   "meaning": "chắc chắn, an toàn",
+   "example": "我们来学“稳妥”这个词。",
+   "exampleMeaning": "Cùng học từ “稳妥”: chắc chắn, an toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěntuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生硬",
+   "meaning": "cứng nhắc, gượng gạo",
+   "example": "这几个字用得很生硬。",
+   "exampleMeaning": "Mấy chữ này trông rất gượng gạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngyìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脚本",
+   "meaning": "kịch bản",
+   "example": "我们来学“脚本”这个词。",
+   "exampleMeaning": "Cùng học từ “脚本”: kịch bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎoběn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "经济学",
+   "meaning": "kinh tế học",
+   "example": "我们来学“经济学”这个词。",
+   "exampleMeaning": "Cùng học từ “经济学”: kinh tế học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngjìxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民政",
+   "meaning": "dân chính, công tác dân sự",
+   "example": "我们来学“民政”这个词。",
+   "exampleMeaning": "Cùng học từ “民政”: dân chính, công tác dân sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mínzhèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "吃",
+    "过",
+    "日本",
+    "料理",
+    "吗"
+   ],
+   "reading": "nǐ chī guo rìběn liàolǐ ma",
+   "meaning": "Bạn đã bao giờ ăn đồ Nhật chưa?"
+  },
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

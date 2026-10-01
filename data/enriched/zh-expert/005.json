@@ -1,0 +1,330 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "喧哗",
+   "meaning": "ồn ào, làm ồn",
+   "example": "笑语喧哗。",
+   "exampleMeaning": "Nói cười ồn ào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuānhuá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "产值",
+   "meaning": "giá trị sản lượng",
+   "example": "总产值。",
+   "exampleMeaning": "Giá trị tổng sản lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnzhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "翠绿",
+   "meaning": "xanh biếc, xanh ngọc",
+   "example": "我们来学“翠绿”这个词。",
+   "exampleMeaning": "Cùng học từ “翠绿”: xanh biếc, xanh ngọc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cuìlǜ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "养老院",
+   "meaning": "viện dưỡng lão",
+   "example": "我们来学“养老院”这个词。",
+   "exampleMeaning": "Cùng học từ “养老院”: viện dưỡng lão.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnglǎoyuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好象",
+   "meaning": "hình như, giống như",
+   "example": "我们来学“好象”这个词。",
+   "exampleMeaning": "Cùng học từ “好象”: hình như, giống như.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎoxiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表决权",
+   "meaning": "quyền biểu quyết",
+   "example": "我们来学“表决权”这个词。",
+   "exampleMeaning": "Cùng học từ “表决权”: quyền biểu quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎojuéquán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不由",
+   "meaning": "bất giác, không kìm được",
+   "example": "主人听到那句话，不由得哈哈大笑起来。",
+   "exampleMeaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùyóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "湖泊",
+   "meaning": "hồ, ao hồ",
+   "example": "我们来学“湖泊”这个词。",
+   "exampleMeaning": "Cùng học từ “湖泊”: hồ, ao hồ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "húpō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "哪知道",
+   "meaning": "ai ngờ, nào ngờ",
+   "example": "已经下了两天雨了，我想今天大概要晴了，哪知道从早晨到晚上又下了一整天。",
+   "exampleMeaning": "Đã mưa hai ngày rồi, tớ nghĩ hôm nay chắc là phải nắng rồi, biết đâu được là lại mưa cả ngày trời từ sáng sớm đến tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎzhīdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "痴心",
+   "meaning": "si tình, say mê",
+   "example": "痴心妄想。",
+   "exampleMeaning": "Si mê hão huyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chīxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "富含",
+   "meaning": "giàu, chứa nhiều",
+   "example": "我们来学“富含”这个词。",
+   "exampleMeaning": "Cùng học từ “富含”: giàu, chứa nhiều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fùhán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尖椒",
+   "meaning": "ớt sừng, ớt",
+   "example": "我们来学“尖椒”这个词。",
+   "exampleMeaning": "Cùng học từ “尖椒”: ớt sừng, ớt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiānjiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "两者",
+   "meaning": "cả hai, hai bên",
+   "example": "我们来学“两者”这个词。",
+   "exampleMeaning": "Cùng học từ “两者”: cả hai, hai bên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liǎngzhě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清脆",
+   "meaning": "trong trẻo, giòn tan",
+   "example": "清脆的鸟语声。",
+   "exampleMeaning": "Tiếng chim hót véo von.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngcuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "达标",
+   "meaning": "đạt chuẩn",
+   "example": "英语考试达标",
+   "exampleMeaning": "Thi Anh ngữ đạt tiêu chuẩn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dábiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "香油",
+   "meaning": "dầu vừng, dầu mè",
+   "example": "我们来学“香油”这个词。",
+   "exampleMeaning": "Cùng học từ “香油”: dầu vừng, dầu mè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngyóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "现存",
+   "meaning": "hiện còn, hiện có",
+   "example": "现存的版本。",
+   "exampleMeaning": "Bản hiện có",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàncún",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "畅谈",
+   "meaning": "trò chuyện thoải mái, bàn luận sôi nổi",
+   "example": "我们来学“畅谈”这个词。",
+   "exampleMeaning": "Cùng học từ “畅谈”: trò chuyện thoải mái, bàn luận sôi nổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chàngtán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "命中",
+   "meaning": "bắn trúng, trúng đích",
+   "example": "命中率。",
+   "exampleMeaning": "Tỉ lệ bắn trúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mìngzhòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不假思索",
+   "meaning": "chẳng cần suy nghĩ",
+   "example": "在知识竞赛会上；他不假思索；对答如流。",
+   "exampleMeaning": "Trong cuộc thi kiến thức, anh ta suy nghĩ rất nhạy bén, đối đáp nhanh nhảu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjiǎsīsuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "主人",
+    "听到",
+    "那",
+    "句",
+    "话",
+    "不由得",
+    "哈哈大笑",
+    "起来"
+   ],
+   "reading": "zhǔrén tīngdào nà jù huà bùyóude hāhādàxiào qǐlai",
+   "meaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn."
+  },
+  {
+   "tokens": [
+    "她",
+    "非常",
+    "周到",
+    "和",
+    "耐心"
+   ],
+   "reading": "tā fēicháng zhōudào hé nàixīn",
+   "meaning": "Cô ấy rất kiên nhẫn và suy nghĩ vô cùng thấu đáo."
+  },
+  {
+   "tokens": [
+    "谁",
+    "将",
+    "照顾",
+    "这个",
+    "婴儿"
+   ],
+   "reading": "shéi jiāng zhàogu zhège yīngér",
+   "meaning": "Ai sẽ chăm sóc đứa bé sơ sinh này?"
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  }
+ ],
+ "issues": []
+}

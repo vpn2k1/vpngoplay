@@ -1,0 +1,331 @@
+{
+ "lesson": 93,
+ "draft": true,
+ "words": [
+  {
+   "term": "养生",
+   "meaning": "dưỡng sinh, giữ gìn sức khỏe",
+   "example": "养生之道",
+   "exampleMeaning": "Con đường dưỡng sinh; phép dưỡng sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎngshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "彩霞",
+   "meaning": "ráng chiều, mây ngũ sắc",
+   "example": "我们来学“彩霞”这个词。",
+   "exampleMeaning": "Cùng học từ “彩霞”: ráng chiều, mây ngũ sắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎixiá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "缆车",
+   "meaning": "cáp treo",
+   "example": "我们来学“缆车”这个词。",
+   "exampleMeaning": "Cùng học từ “缆车”: cáp treo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎnchē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "扭头",
+   "meaning": "quay đầu, ngoảnh mặt",
+   "example": "我们来学“扭头”这个词。",
+   "exampleMeaning": "Cùng học từ “扭头”: quay đầu, ngoảnh mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niǔtóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "知府",
+   "meaning": "tri phủ",
+   "example": "我们来学“知府”这个词。",
+   "exampleMeaning": "Cùng học từ “知府”: tri phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīfǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "战役",
+   "meaning": "chiến dịch",
+   "example": "渡江战役",
+   "exampleMeaning": "Chiến dịch vượt sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "中段",
+   "meaning": "đoạn giữa, khúc giữa",
+   "example": "我们来学“中段”这个词。",
+   "exampleMeaning": "Cùng học từ “中段”: đoạn giữa, khúc giữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōngduàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建交",
+   "meaning": "lập quan hệ ngoại giao",
+   "example": "我们来学“建交”这个词。",
+   "exampleMeaning": "Cùng học từ “建交”: lập quan hệ ngoại giao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànjiāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赞不绝口",
+   "meaning": "khen không ngớt lời",
+   "example": "大家对这部小说赞不绝口。",
+   "exampleMeaning": "Mọi người đều tấm tắc khen ngợi bộ tiểu thuyết này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zànbùjuékǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抚恤",
+   "meaning": "trợ cấp tuất",
+   "example": "我们来学“抚恤”这个词。",
+   "exampleMeaning": "Cùng học từ “抚恤”: trợ cấp tuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǔxù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酣睡",
+   "meaning": "ngủ say",
+   "example": "船上的人都已酣睡。",
+   "exampleMeaning": "Người trên thuyền đều đã ngủ say giấc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hānshuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "对白",
+   "meaning": "lời thoại",
+   "example": "我们来学“对白”这个词。",
+   "exampleMeaning": "Cùng học từ “对白”: lời thoại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duìbái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "会意",
+   "meaning": "hiểu ý, chữ hội ý",
+   "example": "我们来学“会意”这个词。",
+   "exampleMeaning": "Cùng học từ “会意”: hiểu ý, chữ hội ý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "起义",
+   "meaning": "khởi nghĩa",
+   "example": "南昌起义",
+   "exampleMeaning": "Khởi nghĩa Nam Xương (tỉnh Giang Tây, Trung Quốc.)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不难",
+   "meaning": "không khó",
+   "example": "我们来学“不难”这个词。",
+   "exampleMeaning": "Cùng học từ “不难”: không khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùnán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出厂",
+   "meaning": "xuất xưởng",
+   "example": "我们来学“出厂”这个词。",
+   "exampleMeaning": "Cùng học từ “出厂”: xuất xưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūchǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "质地",
+   "meaning": "chất liệu, kết cấu",
+   "example": "质地坚韧",
+   "exampleMeaning": "Tính bền",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清风",
+   "meaning": "làn gió mát, thanh liêm",
+   "example": "清风徐来。",
+   "exampleMeaning": "Gió mát thổi nhẹ tới",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngfēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "按理说",
+   "meaning": "theo lẽ thường",
+   "example": "我们来学“按理说”这个词。",
+   "exampleMeaning": "Cùng học từ “按理说”: theo lẽ thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànlǐshuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "早年",
+   "meaning": "những năm trước, thời trẻ",
+   "example": "早年这里没见过汽车。",
+   "exampleMeaning": "Nơi này hồi trước chưa được thấy xe hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǎonián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  },
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  }
+ ],
+ "issues": []
+}

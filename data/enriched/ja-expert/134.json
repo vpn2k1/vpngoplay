@@ -1,0 +1,344 @@
+{
+ "lesson": 134,
+ "draft": true,
+ "words": [
+  {
+   "term": "陸海",
+   "meaning": "đất liền và biển",
+   "example": "「陸海」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “陸海”: đất liền và biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "割り出す",
+   "meaning": "tính ra, suy ra",
+   "example": "「割り出す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “割り出す”: tính ra, suy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特選",
+   "meaning": "tuyển chọn đặc biệt, đặc tuyển",
+   "example": "「特選」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特選”: tuyển chọn đặc biệt, đặc tuyển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乗っ取り",
+   "meaning": "thâu tóm, cướp quyền điều khiển",
+   "example": "「乗っ取り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乗っ取り”: thâu tóm, cướp quyền điều khiển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "場外",
+   "meaning": "bên ngoài hội trường, ngoài sân",
+   "example": "「場外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “場外”: bên ngoài hội trường, ngoài sân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "魔法",
+   "meaning": "phép thuật, ma thuật",
+   "example": "魔法だ。",
+   "exampleMeaning": "Đó là phép thuật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "受像",
+   "meaning": "thu hình",
+   "example": "「受像」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “受像”: thu hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "絶対的",
+   "meaning": "tuyệt đối",
+   "example": "「絶対的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “絶対的”: tuyệt đối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怪物",
+   "meaning": "quái vật",
+   "example": "「怪物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “怪物”: quái vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "義務教育",
+   "meaning": "giáo dục bắt buộc",
+   "example": "「義務教育」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “義務教育”: giáo dục bắt buộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同姓",
+   "meaning": "cùng họ",
+   "example": "「同姓」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同姓”: cùng họ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "紫色",
+   "meaning": "màu tím",
+   "example": "「紫色」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “紫色”: màu tím.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乗馬",
+   "meaning": "cưỡi ngựa",
+   "example": "「乗馬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乗馬”: cưỡi ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交友",
+   "meaning": "bạn bè, giao du",
+   "example": "「交友」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交友”: bạn bè, giao du.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政党政治",
+   "meaning": "chính trị đảng phái",
+   "example": "「政党政治」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政党政治”: chính trị đảng phái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "明示",
+   "meaning": "nêu rõ, ghi rõ",
+   "example": "「明示」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “明示”: nêu rõ, ghi rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無力",
+   "meaning": "bất lực, không có sức",
+   "example": "「無力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無力”: bất lực, không có sức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "誤認",
+   "meaning": "nhận nhầm, nhầm lẫn",
+   "example": "「誤認」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “誤認”: nhận nhầm, nhầm lẫn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特効薬",
+   "meaning": "thuốc đặc trị, thần dược",
+   "example": "「特効薬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “特効薬”: thuốc đặc trị, thần dược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "戦地",
+   "meaning": "chiến trường, mặt trận",
+   "example": "「戦地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “戦地”: chiến trường, mặt trận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "日本語",
+    "を",
+    "勉強しよう",
+    "と",
+    "日本",
+    "に",
+    "来た"
+   ],
+   "reading": "かのじょはにほんごをべんきょうしようとにっぽんにきた",
+   "meaning": "Cô ấy đến Nhật để học Nhật ngữ."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "その",
+    "金",
+    "を",
+    "受け取る",
+    "こと",
+    "を",
+    "拒否",
+    "した"
+   ],
+   "reading": "かのじょはそのきんをうけとることをきょひした",
+   "meaning": "Cô ấy đã từ chối nhận tiền."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "の",
+    "フランス語",
+    "を",
+    "日本語",
+    "に",
+    "通訳",
+    "した"
+   ],
+   "reading": "わたしはかれのフランスごをにほんごにつうやくした",
+   "meaning": "Tôi thông dịch những lời anh ta nói từ tiếng Pháp sang tiếng Nhật."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "手もと",
+    "に",
+    "よい",
+    "参考書",
+    "を",
+    "持っていない"
+   ],
+   "reading": "わたしはてもとによいさんこうしょをもっていない",
+   "meaning": "Tôi không có cuốn sách tham khảo tốt nào trong tay."
+  },
+  {
+   "tokens": [
+    "健康",
+    "が",
+    "富",
+    "より",
+    "大切な",
+    "の",
+    "は",
+    "言うまでもない"
+   ],
+   "reading": "けんこうがとみよりたいせつなのはいうまでもない",
+   "meaning": "Sức khỏe quan trọng hơn phú quý là điều không cần phải nói."
+  }
+ ],
+ "issues": []
+}

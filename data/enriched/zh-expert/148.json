@@ -1,0 +1,343 @@
+{
+ "lesson": 148,
+ "draft": true,
+ "words": [
+  {
+   "term": "夺得",
+   "meaning": "giành được",
+   "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
+   "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duódé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "长篇小说",
+   "meaning": "tiểu thuyết dài, tiểu thuyết",
+   "example": "我们来学“长篇小说”这个词。",
+   "exampleMeaning": "Cùng học từ “长篇小说”: tiểu thuyết dài, tiểu thuyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángpiānxiǎoshuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天花",
+   "meaning": "bệnh đậu mùa, trần nhà",
+   "example": "我们来学“天花”这个词。",
+   "exampleMeaning": "Cùng học từ “天花”: bệnh đậu mùa, trần nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānhuā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刺史",
+   "meaning": "thứ sử",
+   "example": "我们来学“刺史”这个词。",
+   "exampleMeaning": "Cùng học từ “刺史”: thứ sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cìshǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "储量",
+   "meaning": "trữ lượng",
+   "example": "我们来学“储量”这个词。",
+   "exampleMeaning": "Cùng học từ “储量”: trữ lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǔliàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赶来",
+   "meaning": "vội đến, chạy tới",
+   "example": "我们来学“赶来”这个词。",
+   "exampleMeaning": "Cùng học từ “赶来”: vội đến, chạy tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnlái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "躬身",
+   "meaning": "cúi mình, đích thân",
+   "example": "我们来学“躬身”这个词。",
+   "exampleMeaning": "Cùng học từ “躬身”: cúi mình, đích thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngshēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爱不释手",
+   "meaning": "mê không rời tay",
+   "example": "我们来学“爱不释手”这个词。",
+   "exampleMeaning": "Cùng học từ “爱不释手”: mê không rời tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àibùshìshǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "风风雨雨",
+   "meaning": "sóng gió, thăng trầm",
+   "example": "3. 这件事已闹得满城风风雨雨，难以收拾。3.",
+   "exampleMeaning": "Sự việc này cả thành đang bàn tán xôn xao, khó mà thu xếp được",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngfēngyǔyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "递增",
+   "meaning": "tăng dần",
+   "example": "产销两旺，税利递增。",
+   "exampleMeaning": "Sản xuất và tiêu thụ đều mạnh, thuế và lãi ngày càng tăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìzēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "机舱",
+   "meaning": "khoang máy bay, cabin",
+   "example": "我们来学“机舱”这个词。",
+   "exampleMeaning": "Cùng học từ “机舱”: khoang máy bay, cabin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīcāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "和约",
+   "meaning": "hòa ước",
+   "example": "我们来学“和约”这个词。",
+   "exampleMeaning": "Cùng học từ “和约”: hòa ước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héyuē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "层出不穷",
+   "meaning": "xuất hiện liên tục, nhiều vô kể",
+   "example": "我们来学“层出不穷”这个词。",
+   "exampleMeaning": "Cùng học từ “层出不穷”: xuất hiện liên tục, nhiều vô kể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "céngchūbùqióng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省长",
+   "meaning": "tỉnh trưởng, chủ tịch tỉnh",
+   "example": "我们来学“省长”这个词。",
+   "exampleMeaning": "Cùng học từ “省长”: tỉnh trưởng, chủ tịch tỉnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěngzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出征",
+   "meaning": "xuất chinh, ra trận",
+   "example": "出征的战士。",
+   "exampleMeaning": "Những chiến sĩ ra trận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzhēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "积淀",
+   "meaning": "tích lũy, lắng đọng",
+   "example": "我们来学“积淀”这个词。",
+   "exampleMeaning": "Cùng học từ “积淀”: tích lũy, lắng đọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīdiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水壶",
+   "meaning": "ấm đun nước, bình nước",
+   "example": "我们来学“水壶”这个词。",
+   "exampleMeaning": "Cùng học từ “水壶”: ấm đun nước, bình nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐhú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纵横",
+   "meaning": "ngang dọc, tung hoành",
+   "example": "铁路纵横，像蜘蛛网一样。",
+   "exampleMeaning": "Đường sắt dọc ngang như mạng nhện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zònghéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "争气",
+   "meaning": "biết phấn đấu, không chịu thua kém",
+   "example": "孩子真争气，每次考试都名列前茅。",
+   "exampleMeaning": "Đứa bé thật không chịu thua kém, mỗi lần thi đều đứng đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "疑心",
+   "meaning": "nghi ngờ, ngờ vực",
+   "example": "人家是好意，你别起疑心。",
+   "exampleMeaning": "Người ta có lòng tốt, anh đừng đam lòng ngờ vực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yíxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  },
+  {
+   "tokens": [
+    "他们",
+    "俩",
+    "工作",
+    "上",
+    "联系",
+    "多",
+    "经常",
+    "打交道"
+   ],
+   "reading": "tāmen liǎ gōngzuò shàng liánxì duō jīngcháng dǎjiāodào",
+   "meaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

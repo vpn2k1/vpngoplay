@@ -1,0 +1,322 @@
+{
+ "lesson": 81,
+ "draft": true,
+ "words": [
+  {
+   "term": "組み替え",
+   "meaning": "sắp xếp lại, tái tổ hợp",
+   "example": "「組み替え」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “組み替え”: sắp xếp lại, tái tổ hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金星",
+   "meaning": "chiến thắng vang dội",
+   "example": "「金星」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金星”: chiến thắng vang dội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小物",
+   "meaning": "đồ lặt vặt, phụ kiện",
+   "example": "「小物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小物”: đồ lặt vặt, phụ kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "月内",
+   "meaning": "trong tháng",
+   "example": "「月内」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “月内”: trong tháng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "長者",
+   "meaning": "phú ông, triệu phú",
+   "example": "誰もその老人をねたまなかった。彼が百万長者だったというのに。",
+   "exampleMeaning": "Không ai ghen tị với ông lão đó, mặc dù ông ta đã từng là triệu phú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "気負い",
+   "meaning": "hăng hái, hăm hở",
+   "example": "「気負い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気負い”: hăng hái, hăm hở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俵",
+   "meaning": "bao rơm, bao tải",
+   "example": "「俵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “俵”: bao rơm, bao tải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "深み",
+   "meaning": "chỗ sâu, chiều sâu",
+   "example": "「深み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “深み”: chỗ sâu, chiều sâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "海難",
+   "meaning": "tai nạn trên biển",
+   "example": "「海難」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “海難”: tai nạn trên biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "軟式",
+   "meaning": "loại mềm, bóng mềm",
+   "example": "「軟式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “軟式”: loại mềm, bóng mềm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二本立て",
+   "meaning": "chiếu hai phim, song song hai",
+   "example": "「二本立て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二本立て”: chiếu hai phim, song song hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お話中",
+   "meaning": "máy bận",
+   "example": "「お話中」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お話中”: máy bận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抽出",
+   "meaning": "chiết xuất, trích xuất",
+   "example": "「抽出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “抽出”: chiết xuất, trích xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "谷間",
+   "meaning": "thung lũng, khe núi",
+   "example": "「谷間」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “谷間”: thung lũng, khe núi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弱気",
+   "meaning": "nhút nhát, yếu bóng vía",
+   "example": "「弱気」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弱気”: nhút nhát, yếu bóng vía.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "愛護",
+   "meaning": "bảo vệ, yêu thương chăm sóc",
+   "example": "「愛護」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “愛護”: bảo vệ, yêu thương chăm sóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "再燃",
+   "meaning": "bùng phát lại",
+   "example": "「再燃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “再燃”: bùng phát lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "輸銀",
+   "meaning": "ngân hàng xuất nhập khẩu",
+   "example": "「輸銀」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “輸銀”: ngân hàng xuất nhập khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "党利",
+   "meaning": "lợi ích đảng",
+   "example": "「党利」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “党利”: lợi ích đảng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "合金",
+   "meaning": "hợp kim",
+   "example": "「合金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “合金”: hợp kim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今夜",
+    "は",
+    "外食",
+    "だ"
+   ],
+   "reading": "こんやはがいしょくだ",
+   "meaning": "Tôi sẽ ăn ngoài tối nay."
+  },
+  {
+   "tokens": [
+    "形勢",
+    "は",
+    "逆転",
+    "した"
+   ],
+   "reading": "けいせいはぎゃくてんした",
+   "meaning": "Tình thế đã đảo ngược."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "法",
+    "を",
+    "犯した"
+   ],
+   "reading": "かれはほうをおかした",
+   "meaning": "Anh ấy đã vi phạm pháp luật."
+  },
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "薬",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "こうのくすりはおつのどく",
+   "meaning": "Cái sướng cho người này là cái khổ cho người khác."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで"
+   ],
+   "reading": "きゅうきゅうしゃをよんで",
+   "meaning": "Gọi cấp cứu đi."
+  }
+ ],
+ "issues": []
+}

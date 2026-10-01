@@ -1,0 +1,327 @@
+{
+ "lesson": 124,
+ "draft": true,
+ "words": [
+  {
+   "term": "跳伞",
+   "meaning": "nhảy dù",
+   "example": "我们来学“跳伞”这个词。",
+   "exampleMeaning": "Cùng học từ “跳伞”: nhảy dù.",
+   "emoji": "🪂",
+   "ipa": "",
+   "pinyin": "tiàosǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老鼠",
+   "meaning": "chuột",
+   "example": "我们来学“老鼠”这个词。",
+   "exampleMeaning": "Cùng học từ “老鼠”: chuột.",
+   "emoji": "🐀",
+   "ipa": "",
+   "pinyin": "lǎoshǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暗器",
+   "meaning": "ám khí",
+   "example": "我们来学“暗器”这个词。",
+   "exampleMeaning": "Cùng học từ “暗器”: ám khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "转折点",
+   "meaning": "bước ngoặt",
+   "example": "我们来学“转折点”这个词。",
+   "exampleMeaning": "Cùng học từ “转折点”: bước ngoặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnzhédiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有口无心",
+   "meaning": "miệng nói không ác ý",
+   "example": "他是有口无心，你别见怪。",
+   "exampleMeaning": "Nó nói cái miệng bô bô vậy chứ lòng dạ không xấu, cậu đừng có trách nó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒukǒuwúxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大模大样",
+   "meaning": "nghênh ngang, vênh váo",
+   "example": "我们来学“大模大样”这个词。",
+   "exampleMeaning": "Cùng học từ “大模大样”: nghênh ngang, vênh váo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàmúdàyàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "茶道",
+   "meaning": "trà đạo",
+   "example": "我们来学“茶道”这个词。",
+   "exampleMeaning": "Cùng học từ “茶道”: trà đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chádào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相貌",
+   "meaning": "tướng mạo, diện mạo",
+   "example": "相貌堂堂。",
+   "exampleMeaning": "Tướng mạo đường đường; tướng mạo đoan trang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàngmào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "晶莹",
+   "meaning": "óng ánh, long lanh",
+   "example": "草上的露珠晶莹发亮。",
+   "exampleMeaning": "Những hạt sương trên cỏ sáng óng ánh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngyíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "年限",
+   "meaning": "thời hạn, niên hạn",
+   "example": "延长农具的使用年限。",
+   "exampleMeaning": "Kéo dài thời hạn sử dụng nông cụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánxiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "章程",
+   "meaning": "điều lệ, quy chế",
+   "example": "我们来学“章程”这个词。",
+   "exampleMeaning": "Cùng học từ “章程”: điều lệ, quy chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāngchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "开垦",
+   "meaning": "khai hoang, vỡ đất",
+   "example": "我们来学“开垦”这个词。",
+   "exampleMeaning": "Cùng học từ “开垦”: khai hoang, vỡ đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāikěn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "并未",
+   "meaning": "chẳng hề, không hề",
+   "example": "我们来学“并未”这个词。",
+   "exampleMeaning": "Cùng học từ “并未”: chẳng hề, không hề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìngwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "渣子",
+   "meaning": "cặn bã, vụn",
+   "example": "甘蔗渣子",
+   "exampleMeaning": "Bã mía",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "摇摇欲坠",
+   "meaning": "lung lay sắp đổ",
+   "example": "反动政权摇摇欲坠。",
+   "exampleMeaning": "Chính quyền phản động lung lay sắp đổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yáoyáoyùzhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "干活",
+   "meaning": "làm việc, làm lụng",
+   "example": "大家干活去,别老站着。",
+   "exampleMeaning": "Mọi người làm việc đi, đừng có đứng mãi thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gànhuó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "侵蚀",
+   "meaning": "xói mòn, ăn mòn",
+   "example": "病菌侵蚀人体。",
+   "exampleMeaning": "Vi khuẩn gây bệnh, huỷ hoại dần cơ thể con người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnshí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高声",
+   "meaning": "lớn tiếng, to tiếng",
+   "example": "高声斥责他的职员",
+   "exampleMeaning": "Lớn tiếng la mắng nhân viên của anh ấy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāoshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冷落",
+   "meaning": "ghẻ lạnh, vắng vẻ",
+   "example": "过去这里很冷落，现在变得很热闹了。",
+   "exampleMeaning": "Nơi này trước đây rất vắng vẻ, bây giờ thì trở nên rất là náo nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngluò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "猪肉",
+   "meaning": "thịt lợn, thịt heo",
+   "example": "我们来学“猪肉”这个词。",
+   "exampleMeaning": "Cùng học từ “猪肉”: thịt lợn, thịt heo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhūròu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  },
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  },
+  {
+   "tokens": [
+    "你",
+    "很",
+    "害羞"
+   ],
+   "reading": "nǐ hěn hàixiū",
+   "meaning": "Bạn rất nhút nhát."
+  }
+ ],
+ "issues": []
+}

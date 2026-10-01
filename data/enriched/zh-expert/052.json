@@ -1,0 +1,332 @@
+{
+ "lesson": 52,
+ "draft": true,
+ "words": [
+  {
+   "term": "下海",
+   "meaning": "ra biển, bỏ việc đi kinh doanh",
+   "example": "初次下海，头晕呕吐是难免的。",
+   "exampleMeaning": "Lần đầu ra biển, choáng váng, nôn mửa là chuyện khó tránh khỏi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàhǎi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眉头",
+   "meaning": "lông mày, đầu lông mày",
+   "example": "眉头一皱，计上心来。",
+   "exampleMeaning": "Nhíu mày một cái là nghĩ ra kế ngay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méitóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不会",
+   "meaning": "sẽ không, không thể nào",
+   "example": "我父亲会游泳但我母亲不会。",
+   "exampleMeaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "将领",
+   "meaning": "tướng lĩnh",
+   "example": "我们来学“将领”这个词。",
+   "exampleMeaning": "Cùng học từ “将领”: tướng lĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànglǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "设有",
+   "meaning": "có đặt, được bố trí",
+   "example": "我们来学“设有”这个词。",
+   "exampleMeaning": "Cùng học từ “设有”: có đặt, được bố trí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèyǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家境",
+   "meaning": "hoàn cảnh gia đình, gia cảnh",
+   "example": "家境贫寒。",
+   "exampleMeaning": "Gia cảnh bần hàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiājìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "合情合理",
+   "meaning": "hợp tình hợp lý",
+   "example": "子女孝顺父母是合情合理的事。",
+   "exampleMeaning": "Việc con cái hiếu thảo với cha mẹ là hợp tình hợp lý",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héqínghélǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "私家车",
+   "meaning": "xe riêng, ô tô cá nhân",
+   "example": "我们来学“私家车”这个词。",
+   "exampleMeaning": "Cùng học từ “私家车”: xe riêng, ô tô cá nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sījiāchē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前无古人",
+   "meaning": "chưa từng có, xưa nay chưa có",
+   "example": "我们来学“前无古人”这个词。",
+   "exampleMeaning": "Cùng học từ “前无古人”: chưa từng có, xưa nay chưa có.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánwúgǔrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "快照",
+   "meaning": "ảnh chụp nhanh, bản lưu tạm",
+   "example": "我们来学“快照”这个词。",
+   "exampleMeaning": "Cùng học từ “快照”: ảnh chụp nhanh, bản lưu tạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàizhào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "佳节",
+   "meaning": "ngày lễ, ngày hội",
+   "example": "中秋佳节。",
+   "exampleMeaning": "Ngày tết Trung Thu vui vẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiājié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "及早",
+   "meaning": "sớm, kịp thời",
+   "example": "生了病要及早治。",
+   "exampleMeaning": "Có bệnh phải nhanh chóng điều trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jízǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "增设",
+   "meaning": "lập thêm, bổ sung",
+   "example": "增设门市部",
+   "exampleMeaning": "Tăng thêm nhiều cửa hàng bán lẻ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zēngshè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文科",
+   "meaning": "khối xã hội, ngành nhân văn",
+   "example": "我们来学“文科”这个词。",
+   "exampleMeaning": "Cùng học từ “文科”: khối xã hội, ngành nhân văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénkē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大面积",
+   "meaning": "diện tích lớn, trên diện rộng",
+   "example": "我们来学“大面积”这个词。",
+   "exampleMeaning": "Cùng học từ “大面积”: diện tích lớn, trên diện rộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàmiànjī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "顺应",
+   "meaning": "thuận theo, thích ứng với",
+   "example": "顺应历史发展潮流。",
+   "exampleMeaning": "Hợp với trào lưu phát triển của lịch sử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùnyìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不仅如此",
+   "meaning": "không chỉ thế, hơn thế nữa",
+   "example": "我们来学“不仅如此”这个词。",
+   "exampleMeaning": "Cùng học từ “不仅如此”: không chỉ thế, hơn thế nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjǐnrúcǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "铺路",
+   "meaning": "làm đường, mở đường",
+   "example": "我们来学“铺路”这个词。",
+   "exampleMeaning": "Cùng học từ “铺路”: làm đường, mở đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pūlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "回落",
+   "meaning": "giảm trở lại, hạ xuống lại",
+   "example": "水位已回落到警戒线以下。",
+   "exampleMeaning": "Mực nước hạ xuống đến mức báo động rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huíluò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不觉",
+   "meaning": "bất giác",
+   "example": "一路景物极佳,也就不觉路途遥远",
+   "exampleMeaning": "Cảnh vật hai bên đường quá đẹp, cho nên chưa phát hiện ra đường còn xa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùjué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "什么",
+    "都",
+    "不",
+    "会",
+    "改变"
+   ],
+   "reading": "shénme dōu bù huì gǎibiàn",
+   "meaning": "Không có gì thay đổi cả."
+  },
+  {
+   "tokens": [
+    "一切",
+    "都",
+    "不",
+    "会",
+    "改变"
+   ],
+   "reading": "yīqiè dōu bù huì gǎibiàn",
+   "meaning": "Không có gì thay đổi cả."
+  },
+  {
+   "tokens": [
+    "我",
+    "父亲",
+    "会",
+    "游泳",
+    "但",
+    "我",
+    "母亲",
+    "不",
+    "会"
+   ],
+   "reading": "wǒ fùqīn huì yóuyǒng dàn wǒ mǔqīn bù huì",
+   "meaning": "Bố tôi biết bơi, nhưng mẹ tôi thì không."
+  },
+  {
+   "tokens": [
+    "这样",
+    "做",
+    "的话",
+    "什么",
+    "都",
+    "不",
+    "会",
+    "改变",
+    "的"
+   ],
+   "reading": "zhèyàng zuò dehuà shénme dōu bù huì gǎibiàn de",
+   "meaning": "Không có gì thay đổi cả."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  }
+ ],
+ "issues": []
+}

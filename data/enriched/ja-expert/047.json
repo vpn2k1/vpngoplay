@@ -1,0 +1,334 @@
+{
+ "lesson": 47,
+ "draft": true,
+ "words": [
+  {
+   "term": "行政処分",
+   "meaning": "xử phạt hành chính",
+   "example": "「行政処分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行政処分”: xử phạt hành chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水害",
+   "meaning": "lũ lụt, thiệt hại do nước",
+   "example": "「水害」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “水害”: lũ lụt, thiệt hại do nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偵察",
+   "meaning": "trinh sát, do thám",
+   "example": "「偵察」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “偵察”: trinh sát, do thám.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同胞",
+   "meaning": "đồng bào",
+   "example": "「同胞」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同胞”: đồng bào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出頭",
+   "meaning": "trình diện, ra đầu thú",
+   "example": "「出頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出頭”: trình diện, ra đầu thú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一向に",
+   "meaning": "chẳng chút nào, hoàn toàn",
+   "example": "「一向に」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一向に”: chẳng chút nào, hoàn toàn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無投票",
+   "meaning": "không qua bầu cử",
+   "example": "「無投票」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無投票”: không qua bầu cử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "選挙権",
+   "meaning": "quyền bầu cử",
+   "example": "「選挙権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選挙権”: quyền bầu cử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "学内",
+   "meaning": "trong trường",
+   "example": "「学内」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “学内”: trong trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "金融市場",
+   "meaning": "thị trường tài chính",
+   "example": "「金融市場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “金融市場”: thị trường tài chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不定",
+   "meaning": "không cố định, bất định",
+   "example": "「不定」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不定”: không cố định, bất định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "査証",
+   "meaning": "thị thực",
+   "example": "「査証」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “査証”: thị thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "沿道",
+   "meaning": "ven đường, dọc đường",
+   "example": "「沿道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “沿道”: ven đường, dọc đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壁画",
+   "meaning": "bích họa, tranh tường",
+   "example": "「壁画」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “壁画”: bích họa, tranh tường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "入力",
+   "meaning": "nhập liệu, đầu vào",
+   "example": "「入力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “入力”: nhập liệu, đầu vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一人暮らし",
+   "meaning": "sống một mình",
+   "example": "トムは一人暮らしなの？",
+   "exampleMeaning": "Tom sống một mình à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "市営",
+   "meaning": "do thành phố quản lý",
+   "example": "「市営」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “市営”: do thành phố quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "境内",
+   "meaning": "khuôn viên đền chùa",
+   "example": "「境内」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “境内”: khuôn viên đền chùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "普通預金",
+   "meaning": "tiền gửi không kỳ hạn",
+   "example": "「普通預金」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “普通預金”: tiền gửi không kỳ hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気楽",
+   "meaning": "thoải mái, vô tư",
+   "example": "私はテレビ番組のために会った医者にギクリとさせられた。彼は、今アレルギーの症状がないからといって気楽に構えていてはいけないと警告したのだ。",
+   "exampleMeaning": "Bác sĩ mà tôi đã phỏng vấn cho một chương trình đã dọa tôi một phen hết hồn. Ông ấy nói là tôi không được lơ là chỉ vì lúc này tôi không có triệu chứng dị ứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "私の",
+    "兄",
+    "は",
+    "交通事故",
+    "で",
+    "けが",
+    "を",
+    "した"
+   ],
+   "reading": "わたしのあにはこうつうじこでけがをした",
+   "meaning": "Anh trai tôi bị thương trong một vụ tai nạn."
+  },
+  {
+   "tokens": [
+    "この",
+    "花",
+    "は",
+    "なんと",
+    "きれいな",
+    "こと",
+    "か"
+   ],
+   "reading": "このはなはなんときれいなことか",
+   "meaning": "Bông hoa này đẹp quá!"
+  },
+  {
+   "tokens": [
+    "午後",
+    "は",
+    "どうやら",
+    "雨",
+    "になり",
+    "そう",
+    "だ"
+   ],
+   "reading": "ごごはどうやらあめになりそうだ",
+   "meaning": "Hình như chiều nay trời sẽ mưa."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "互いに",
+    "賞賛",
+    "し",
+    "合っている"
+   ],
+   "reading": "かれらはたがいにしょうさんしあっている",
+   "meaning": "Họ đang khen ngợi lẫn nhau."
+  },
+  {
+   "tokens": [
+    "見知らぬ",
+    "男",
+    "が",
+    "私の",
+    "襟",
+    "を",
+    "つかんだ"
+   ],
+   "reading": "みしらぬおとこがわたしのえりをつかんだ",
+   "meaning": "Một người đàn ông lạ mặt đã nắm lấy cổ áo tôi."
+  }
+ ],
+ "issues": []
+}

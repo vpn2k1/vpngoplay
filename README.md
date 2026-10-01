@@ -10,13 +10,13 @@ Câu hỏi **"Bạn thuộc nhóm nào?"** (lúc bắt đầu và trong Cài đ�
 |---|---|---|---|
 | Thứ tự trang chủ | Chủ đề → Giao tiếp, Học theo câu → lộ trình | Giao tiếp, Học theo câu, Thành ngữ → chủ đề → lộ trình → ngữ pháp | Lộ trình → ngữ pháp → chủ đề → luyện câu |
 | Chủ đề | bộ Trẻ em | bộ Người đi làm | bộ Luyện thi (IELTS / JLPT / HSK) |
-| Lộ trình 3.000 từ | chỉ Cơ bản | cả 3 cấp | cả 3 cấp |
+| Lộ trình 3.000 từ | chỉ Cơ bản | cả 4 cấp | cả 4 cấp |
 | Học theo câu | A1–A2 · N5–N4 · HSK1–2 | mọi cấp | mọi cấp |
 | Giao tiếp | tình huống hằng ngày (làm quen, gọi món, mua sắm, hỏi đường) | mọi tình huống | mọi tình huống |
 | Thành ngữ, Ngữ pháp | không | có | có |
 
 - Nội dung không thuộc nhóm vẫn mở được: trang chủ gom ở mục **Nội dung của nhóm khác**, trang Giao tiếp ở **Tình huống khác**, trang Học theo câu ở **Cấp độ cao hơn**.
-- Trong trò chơi, bộ từ mặc định và **Tất cả chủ đề của bạn** chỉ lấy bộ từ của nhóm; các bộ khác nằm ở **Bộ từ của nhóm khác**. Nhóm Trẻ em chơi mặc định ở chế độ chọn đáp án, có hình minh hoạ.
+- Nhóm người học không quyết định bộ từ trong trò chơi: mọi bộ từ (ôn tập, lộ trình, chủ đề, thành ngữ) đều hiện ngang nhau và không có bộ chọn sẵn. Nhóm Trẻ em vẫn chơi mặc định ở chế độ chọn đáp án, có hình minh hoạ và thêm thời gian.
 - Mỗi hội thoại khai báo các nhóm phù hợp trong trường `tracks` (`public/talk/*.json`).
 
 **Stack:** React 19 · Vite · TanStack Router (file-based) · TanStack Query · react-hook-form + zod · Zustand (persist) · Tailwind CSS v4 · Motion (animation) · canvas-confetti · deploy lên Vercel.
@@ -40,7 +40,7 @@ Học tập và trò chơi là **hai tab tách biệt** trên thanh điều hư�
 - **📚 Học tập** (`/`): các bộ từ và 4 bài ôn luyện.
 - **🕹️ Trò chơi** (`/games`): 27 game dùng chung cho mọi ngôn ngữ, chia 4 nhóm: Phản xạ nhanh · Chữ & trí nhớ · Đố vui · Đấu với robot (`GAME_GROUPS` trong `src/arcade/games.tsx`).
 
-Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, bộ từ (một bộ, một lộ trình hoặc ⭐ **Tất cả chủ đề của bạn**) và chế độ chơi. Khi chơi "Tất cả chủ đề", từ bị lọt vẫn được xếp lịch ôn trong bộ gốc của nó (`Word.srsKey`).
+Trong mỗi game (`/games/<game>?lang=ja&deck=all`), bạn chọn ngôn ngữ, bộ từ (sổ từ, từ đã học, một lộ trình, một chủ đề, ⭐ **Tất cả chủ đề** hoặc một bộ thành ngữ) và chế độ chơi. Game không chọn sẵn bộ từ nào: nút **Bắt đầu** chỉ bật sau khi bạn chọn một bộ (Mưa chữ không cần bộ từ). Khi chơi "Tất cả chủ đề", từ bị lọt vẫn được xếp lịch ôn trong bộ gốc của nó (`Word.srsKey`).
 
 | Game | Chế độ | Cách chơi |
 |---|---|---|
@@ -175,13 +175,13 @@ Mỗi câu có nghĩa tương đương trong tiếng Việt, và âm Hán Việt
 
 ## Lộ trình 3.000 từ mỗi cấp
 
-Mỗi ngôn ngữ có 3 lộ trình **Cơ bản · Trung cấp · Nâng cao**, mỗi lộ trình 3.000 từ (150 bài). Từ được chia thành các bài 20 từ, mỗi bài là một bộ bài bình thường nên dùng được cả 7 dạng ôn luyện. Trong tab Trò chơi có thể chọn cả lộ trình làm bộ từ, và từ bị lọt vẫn được xếp lịch ôn trong đúng bài của nó. Các bộ Trẻ em / Đi làm / Luyện thi được giữ lại dưới mục **Chủ đề**.
+Mỗi ngôn ngữ có 4 lộ trình **Cơ bản · Trung cấp · Nâng cao · Chuyên sâu**, mỗi lộ trình 3.000 từ (150 bài). Từ được chia thành các bài 20 từ, mỗi bài là một bộ bài bình thường nên dùng được cả 7 dạng ôn luyện. Trong tab Trò chơi có thể chọn cả lộ trình làm bộ từ, và từ bị lọt vẫn được xếp lịch ôn trong đúng bài của nó. Các bộ Trẻ em / Đi làm / Luyện thi được giữ lại dưới mục **Chủ đề**.
 
-| | Cơ bản | Trung cấp | Nâng cao |
-|---|---|---|---|
-| 🇬🇧 Anh (CEFR) | A1–B1 · 3.000 từ | B1–B2 · 3.000 từ | B2–C2 · 3.000 từ |
-| 🇯🇵 Nhật (JLPT) | N5–N3 · 3.000 từ | N3–N1 · 3.000 từ | N1–N1+ · 3.000 từ |
-| 🇨🇳 Trung (HSK 3.0) | HSK1–4 · 3.000 từ | HSK4–7-9 · 3.000 từ | HSK7-9 · 3.000 từ |
+| | Cơ bản | Trung cấp | Nâng cao | Chuyên sâu |
+|---|---|---|---|---|
+| 🇬🇧 Anh (CEFR) | A1–B1 · 3.000 từ | B1–B2 · 3.000 từ | B2–C2 · 3.000 từ | C2+ · 3.000 từ |
+| 🇯🇵 Nhật (JLPT) | N5–N3 · 3.000 từ | N3–N1 · 3.000 từ | N1–N1+ · 3.000 từ | N1+ · 3.000 từ |
+| 🇨🇳 Trung (HSK 3.0) | HSK1–4 · 3.000 từ | HSK4–7-9 · 3.000 từ | HSK7-9 · 3.000 từ | HSK7-9–HSK+ · 3.000 từ |
 
 Trang lộ trình (`/courses/<id>`) luôn hiện đủ 150 bài, kể cả khi nội dung chưa soạn xong:
 - Bài đã soạn học được ngay; bài chưa soạn bị khoá và ghi "Đang soạn".
@@ -191,6 +191,13 @@ Trang lộ trình (`/courses/<id>`) luôn hiện đủ 150 bài, kể cả khi n
 Danh sách mở không đủ 9.000 từ cho mọi ngôn ngữ, nên phần thiếu được bổ sung theo tần suất:
 - **Tiếng Anh:** CEFR-J và Octanove có khoảng 8.640 từ; 356 từ còn lại lấy từ NGSL/NAWL (chủ yếu từ học thuật, gán cấp theo tần suất).
 - **Tiếng Nhật:** JLPT có khoảng 7.590 từ dùng được; 1.411 từ còn lại là từ thông dụng của JMdict chưa có trong danh sách JLPT, xếp theo hạng tần suất và ghi cấp **N1+**. Tiểu từ, tiền tố, hậu tố, cụm cố định và từ cổ bị loại.
+
+Lộ trình **Chuyên sâu** vượt ra ngoài các danh sách thi, lấy từ thông dụng nhất mà 3 cấp trước chưa có (`vocab:prepare`, cần chạy `npm run sources:download` trước):
+- **Tiếng Anh (C2+):** lemma của danh sách tần suất NGSL-SFI, chỉ giữ từ có cả trong từ điển Anh–Việt và bảng IPA.
+- **Tiếng Nhật (N1+):** các từ JMdict tiếp theo theo hạng tần suất.
+- **Tiếng Trung:** khoảng 1.900 từ HSK 7–9 ít gặp nhất mà lộ trình Nâng cao chưa dùng, cộng với các từ có tần suất cao nhất trong từ điển [jieba](https://github.com/fxsjy/jieba) (MIT) mà CC-CEDICT có, ghi cấp **HSK+**. Tên riêng, số từ, đại từ và các cụm như 这个, 一种 bị loại.
+- Từ bị loại khi rà soát (không phải từ thật, tên riêng, từ tục…) ghi ở `data/reviewed/expert-skip.json`; chạy lại `vocab:prepare` sẽ lấy từ kế tiếp thay vào.
+- Lộ trình này không dùng để chấm cấp độ câu của Học theo câu, nên gói câu và câu luyện của 3 lộ trình trước không đổi.
 
 ### Pipeline dữ liệu (`scripts/vocab/`)
 
@@ -221,7 +228,7 @@ npm run vocab:draft      # soạn lại với bản dịch vừa tải
 npm run vocab:build
 ```
 
-- **Nghĩa:** lấy từ `data/reviewed/<khoá>.json` (từ → nghĩa tiếng Việt đã rà soát lại cho cả 27.000 từ của 9 lộ trình), được ưu tiên hơn mọi từ điển.
+- **Nghĩa:** lấy từ `data/reviewed/<khoá>.json` (từ → nghĩa tiếng Việt đã rà soát lại cho cả 36.000 từ của 12 lộ trình), được ưu tiên hơn mọi từ điển.
   - **Sửa nghĩa một từ:** sửa trong file này rồi chạy `npm run vocab:draft && npm run vocab:build`. Hai từ trong cùng một bài không được có chung một nghĩa, kể cả khi bỏ dấu (`bàn` và `bán` bị coi là trùng); bài nào bị trùng sẽ không được build.
   - Từ không có trong file rà soát thì lấy nghĩa từ điển:
   - **Tiếng Anh:** Wiktionary tiếng Việt và từ điển Anh–Việt, chọn nghĩa khớp từ loại; từ ghép (nightclub, tablespoon) lấy từ bảng dịch của English Wiktionary.
@@ -270,6 +277,7 @@ npm run vocab:enrich -- --course en-basic --limit 2
   - [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks), MIT, dựa trên danh sách của Jonathan Waller (tanos.co.uk).
   - [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) của Electronic Dictionary Research and Development Group, **CC BY-SA 4.0**, phải ghi nguồn EDRDG.
 - **Tiếng Trung:** [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary), MIT, theo chuẩn HSK 3.0.
+- **Tần suất từ tiếng Trung (lộ trình Chuyên sâu):** từ điển của [jieba](https://github.com/fxsjy/jieba), MIT.
 
 Nghĩa tiếng Việt, câu ví dụ và câu luyện tập được Claude sinh ra, sau đó kiểm tra tự động; vẫn nên rà soát lại trước khi phát hành.
 

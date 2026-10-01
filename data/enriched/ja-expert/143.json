@@ -1,0 +1,343 @@
+{
+ "lesson": 143,
+ "draft": true,
+ "words": [
+  {
+   "term": "親近感",
+   "meaning": "cảm giác gần gũi",
+   "example": "「親近感」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “親近感”: cảm giác gần gũi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "演算",
+   "meaning": "phép tính, tính toán",
+   "example": "「演算」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “演算”: phép tính, tính toán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "南口",
+   "meaning": "cửa nam, lối ra phía nam",
+   "example": "「南口」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “南口”: cửa nam, lối ra phía nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "少佐",
+   "meaning": "thiếu tá",
+   "example": "「少佐」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “少佐”: thiếu tá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "核融合",
+   "meaning": "phản ứng nhiệt hạch",
+   "example": "「核融合」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “核融合”: phản ứng nhiệt hạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "多面",
+   "meaning": "nhiều mặt, đa diện",
+   "example": "「多面」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “多面”: nhiều mặt, đa diện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "払い",
+   "meaning": "thanh toán, trả tiền",
+   "example": "トムと私は二人とも酔っ払いです。",
+   "exampleMeaning": "Tom và tôi đều say.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "初心",
+   "meaning": "ý định ban đầu, sơ tâm",
+   "example": "彼女は初心者だ。",
+   "exampleMeaning": "Cô ấy là người mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "民間放送",
+   "meaning": "phát thanh truyền hình tư nhân",
+   "example": "「民間放送」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “民間放送”: phát thanh truyền hình tư nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "短絡",
+   "meaning": "chập mạch, suy diễn vội vàng",
+   "example": "「短絡」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “短絡”: chập mạch, suy diễn vội vàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "坂道",
+   "meaning": "đường dốc",
+   "example": "「坂道」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “坂道”: đường dốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旧派",
+   "meaning": "phái cũ, lối cũ",
+   "example": "「旧派」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “旧派”: phái cũ, lối cũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "計量",
+   "meaning": "cân đo, đo lường",
+   "example": "「計量」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “計量”: cân đo, đo lường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逆手",
+   "meaning": "nắm ngược tay",
+   "example": "「逆手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “逆手”: nắm ngược tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "歯ブラシ",
+   "meaning": "bàn chải đánh răng",
+   "example": "「歯ブラシ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “歯ブラシ”: bàn chải đánh răng.",
+   "emoji": "🪥",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大黒柱",
+   "meaning": "cột cái, trụ cột gia đình",
+   "example": "「大黒柱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大黒柱”: cột cái, trụ cột gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精通",
+   "meaning": "thông thạo, am tường",
+   "example": "彼は芸能界に精通している。",
+   "exampleMeaning": "Anh ta tinh thộng giới nghệ sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "隔て",
+   "meaning": "vách ngăn, khoảng cách",
+   "example": "「隔て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “隔て”: vách ngăn, khoảng cách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "治水",
+   "meaning": "trị thủy, chống lũ",
+   "example": "「治水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “治水”: trị thủy, chống lũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "十字架",
+   "meaning": "thập tự giá, cây thánh giá",
+   "example": "「十字架」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “十字架”: thập tự giá, cây thánh giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "講演",
+    "を",
+    "始める",
+    "前",
+    "に",
+    "咳払い",
+    "を",
+    "した"
+   ],
+   "reading": "かれはこうえんをはじめるまえにせきばらいをした",
+   "meaning": "Trước khi bắt đầu bài giảng, anh ấy đã hắng giọng."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "彼",
+    "に",
+    "再会",
+    "する",
+    "の",
+    "を",
+    "楽しみに待っている"
+   ],
+   "reading": "かのじょはかれにさいかいするのをたのしみにまっている",
+   "meaning": "Cô ấy chờ mong được gặp lại anh ấy."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "経済的に",
+    "は",
+    "両親",
+    "から",
+    "ひとり立ち",
+    "している"
+   ],
+   "reading": "わたしはけいざいてきにはりょうしんからひとりだちしている",
+   "meaning": "Tôi không phụ thuộc chuyện tiền bạc vào bố mẹ tôi"
+  },
+  {
+   "tokens": [
+    "社内",
+    "は",
+    "その",
+    "ニュース",
+    "の",
+    "こと",
+    "で",
+    "持ちきり",
+    "だった"
+   ],
+   "reading": "しゃないはそのニュースのことでもちきりだった",
+   "meaning": "Mọi người trong công ty suốt ngày bàn tán về tin đó."
+  },
+  {
+   "tokens": [
+    "発展途上国",
+    "で",
+    "は",
+    "優れた",
+    "技術者",
+    "が",
+    "不足",
+    "している"
+   ],
+   "reading": "はってんとじょうこくではすぐれたぎじゅつしゃがふそくしている",
+   "meaning": "Những quốc gia đang phát triển đang thiếu nguồn cung kỹ sư chất lượng cao."
+  }
+ ],
+ "issues": []
+}

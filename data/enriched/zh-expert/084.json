@@ -1,0 +1,340 @@
+{
+ "lesson": 84,
+ "draft": true,
+ "words": [
+  {
+   "term": "射程",
+   "meaning": "tầm bắn",
+   "example": "我们来学“射程”这个词。",
+   "exampleMeaning": "Cùng học từ “射程”: tầm bắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "俊俏",
+   "meaning": "xinh đẹp, duyên dáng",
+   "example": "我们来学“俊俏”这个词。",
+   "exampleMeaning": "Cùng học từ “俊俏”: xinh đẹp, duyên dáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jùnqiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "简要",
+   "meaning": "tóm tắt, ngắn gọn",
+   "example": "简要的介绍。",
+   "exampleMeaning": "Giới thiệu tóm tắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎnyào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风声",
+   "meaning": "tiếng gió, tin đồn",
+   "example": "风声越来越紧。",
+   "exampleMeaning": "Tin tức càng ngày càng gấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "走向",
+   "meaning": "hướng đi, xu hướng",
+   "example": "一条南北走向的道路。",
+   "exampleMeaning": "Con đường đi theo hướng nam bắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒuxiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "集成",
+   "meaning": "tích hợp",
+   "example": "我们来学“集成”这个词。",
+   "exampleMeaning": "Cùng học từ “集成”: tích hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jíchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "侃大山",
+   "meaning": "tán gẫu, chém gió",
+   "example": "消磨时间的最有效办法当然还是聊天吹牛侃大山。",
+   "exampleMeaning": "Biện pháp hiệu quả nhất để giết thời gian nhất đương nhiên vẫn là chuyện trò, chém gió, buôn chuyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǎndàshān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "启蒙",
+   "meaning": "khai sáng, vỡ lòng",
+   "example": "启蒙运动。",
+   "exampleMeaning": "Phong trào khai sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐméng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鲜美",
+   "meaning": "tươi ngon",
+   "example": "我们来学“鲜美”这个词。",
+   "exampleMeaning": "Cùng học từ “鲜美”: tươi ngon.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiānměi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朱红",
+   "meaning": "đỏ son, màu son",
+   "example": "我们来学“朱红”这个词。",
+   "exampleMeaning": "Cùng học từ “朱红”: đỏ son, màu son.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhūhóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朴素",
+   "meaning": "giản dị, mộc mạc",
+   "example": "他的诗朴素而感情真挚。",
+   "exampleMeaning": "Thơ của anh ấy mộc mạc mà rất chân thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǔsù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "槐树",
+   "meaning": "cây hòe",
+   "example": "我们来学“槐树”这个词。",
+   "exampleMeaning": "Cùng học từ “槐树”: cây hòe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huáishù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "立方米",
+   "meaning": "mét khối",
+   "example": "我们来学“立方米”这个词。",
+   "exampleMeaning": "Cùng học từ “立方米”: mét khối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìfāngmǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "矿产",
+   "meaning": "khoáng sản",
+   "example": "我们来学“矿产”这个词。",
+   "exampleMeaning": "Cùng học từ “矿产”: khoáng sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàngchǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叛乱",
+   "meaning": "phản loạn, nổi loạn",
+   "example": "平定叛乱",
+   "exampleMeaning": "Dẹp yên cuộc nổi loạn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pànluàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "师范学院",
+   "meaning": "học viện sư phạm, cao đẳng sư phạm",
+   "example": "我们来学“师范学院”这个词。",
+   "exampleMeaning": "Cùng học từ “师范学院”: học viện sư phạm, cao đẳng sư phạm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīfànxuéyuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迁都",
+   "meaning": "dời đô",
+   "example": "我们来学“迁都”这个词。",
+   "exampleMeaning": "Cùng học từ “迁都”: dời đô.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiāndū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光缆",
+   "meaning": "cáp quang",
+   "example": "我们来学“光缆”这个词。",
+   "exampleMeaning": "Cùng học từ “光缆”: cáp quang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānglǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "妨害",
+   "meaning": "gây hại, cản trở",
+   "example": "雨水过多，会妨害大豆生长。",
+   "exampleMeaning": "Mưa nhiều quá, sẽ ảnh hưởng đến sinh trưởng của đậu nành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fánghài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "少将",
+   "meaning": "thiếu tướng",
+   "example": "我们来学“少将”这个词。",
+   "exampleMeaning": "Cùng học từ “少将”: thiếu tướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàojiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  }
+ ],
+ "issues": []
+}

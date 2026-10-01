@@ -1,0 +1,331 @@
+{
+ "lesson": 82,
+ "draft": true,
+ "words": [
+  {
+   "term": "改组",
+   "meaning": "cải tổ, tổ chức lại",
+   "example": "改组领导班子",
+   "exampleMeaning": "Cải tổ ban lãnh đạo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎizǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "哺育",
+   "meaning": "nuôi nấng, nuôi dưỡng",
+   "example": "哺育婴儿",
+   "exampleMeaning": "Cho trẻ ăn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǔyù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "备课",
+   "meaning": "soạn bài",
+   "example": "我们来学“备课”这个词。",
+   "exampleMeaning": "Cùng học từ “备课”: soạn bài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bèikè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "变得",
+   "meaning": "trở nên",
+   "example": "我们来学“变得”这个词。",
+   "exampleMeaning": "Cùng học từ “变得”: trở nên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biànde",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "社会学",
+   "meaning": "xã hội học",
+   "example": "我们来学“社会学”这个词。",
+   "exampleMeaning": "Cùng học từ “社会学”: xã hội học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèhuìxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成型",
+   "meaning": "thành hình, định hình",
+   "example": "我们来学“成型”这个词。",
+   "exampleMeaning": "Cùng học từ “成型”: thành hình, định hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "约定俗成",
+   "meaning": "thói quen thành lệ",
+   "example": "我们来学“约定俗成”这个词。",
+   "exampleMeaning": "Cùng học từ “约定俗成”: thói quen thành lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuēdìngsúchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "笔架",
+   "meaning": "giá bút, giá để bút",
+   "example": "我们来学“笔架”这个词。",
+   "exampleMeaning": "Cùng học từ “笔架”: giá bút, giá để bút.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐjià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正要",
+   "meaning": "đang định, sắp sửa",
+   "example": "我们来学“正要”这个词。",
+   "exampleMeaning": "Cùng học từ “正要”: đang định, sắp sửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngyào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岂有此理",
+   "meaning": "thật vô lý",
+   "example": "我们来学“岂有此理”这个词。",
+   "exampleMeaning": "Cùng học từ “岂有此理”: thật vô lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǐyǒucǐlǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "略微",
+   "meaning": "hơi, một chút",
+   "example": "擦破了皮，略微流了点血。",
+   "exampleMeaning": "Bị sước da, rơm rớm máu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lüèwēi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "简体字",
+   "meaning": "chữ giản thể",
+   "example": "我们来学“简体字”这个词。",
+   "exampleMeaning": "Cùng học từ “简体字”: chữ giản thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎntǐzì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "浓郁",
+   "meaning": "nồng nàn, đậm đà",
+   "example": "这个歌曲抒情气氛十分浓郁。",
+   "exampleMeaning": "Bài hát này mang giai điệu trữ tình rất sâu đậm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nóngyù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "师资",
+   "meaning": "đội ngũ giáo viên",
+   "example": "解决师资不足的问题。",
+   "exampleMeaning": "Giải quyết vấn đề thiếu giáo viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shīzī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "杜绝",
+   "meaning": "chặn đứng, chấm dứt hẳn",
+   "example": "杜绝贪污和浪费。",
+   "exampleMeaning": "Ngăn chặn triệt để tham ô và lãng phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dùjué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "直观",
+   "meaning": "trực quan",
+   "example": "直观教具",
+   "exampleMeaning": "Dụng cụ dạy học trực quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhíguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "谜语",
+   "meaning": "câu đố",
+   "example": "我们来学“谜语”这个词。",
+   "exampleMeaning": "Cùng học từ “谜语”: câu đố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "专区",
+   "meaning": "khu chuyên biệt, khu dành riêng",
+   "example": "我们来学“专区”这个词。",
+   "exampleMeaning": "Cùng học từ “专区”: khu chuyên biệt, khu dành riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānqū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搜救",
+   "meaning": "tìm kiếm cứu nạn",
+   "example": "我们来学“搜救”这个词。",
+   "exampleMeaning": "Cùng học từ “搜救”: tìm kiếm cứu nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sōujiù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恼羞成怒",
+   "meaning": "thẹn quá hóa giận",
+   "example": "我们来学“恼羞成怒”这个词。",
+   "exampleMeaning": "Cùng học từ “恼羞成怒”: thẹn quá hóa giận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nǎoxiūchéngnù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  }
+ ],
+ "issues": []
+}

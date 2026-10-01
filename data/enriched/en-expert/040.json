@@ -1,0 +1,328 @@
+{
+ "lesson": 40,
+ "draft": true,
+ "words": [
+  {
+   "term": "termination",
+   "meaning": "chấm dứt hợp đồng, kết thúc",
+   "example": "to put a termination to something",
+   "exampleMeaning": "Làm xong việc gì",
+   "emoji": "",
+   "ipa": "/tɜrməˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "drastically",
+   "meaning": "mạnh tay, triệt để",
+   "example": "Let's learn the word \"drastically\".",
+   "exampleMeaning": "Cùng học từ “drastically”: mạnh tay, triệt để.",
+   "emoji": "",
+   "ipa": "/ˈdræstɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "consciously",
+   "meaning": "có ý thức, cố ý",
+   "example": "Let's learn the word \"consciously\".",
+   "exampleMeaning": "Cùng học từ “consciously”: có ý thức, cố ý.",
+   "emoji": "",
+   "ipa": "/ˈkɑnʃəsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perfection",
+   "meaning": "hoàn hảo, hoàn thiện",
+   "example": "to sing to perfection",
+   "exampleMeaning": "Hát hay tuyệt",
+   "emoji": "",
+   "ipa": "/pɜrˈfɛkʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "mute",
+   "meaning": "câm, tắt tiếng",
+   "example": "to stand mute",
+   "exampleMeaning": "Đứng lặng thinh",
+   "emoji": "",
+   "ipa": "/ˈmjut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "glitter",
+   "meaning": "lấp lánh, kim tuyến",
+   "example": "Let's learn the word \"glitter\".",
+   "exampleMeaning": "Cùng học từ “glitter”: lấp lánh, kim tuyến.",
+   "emoji": "",
+   "ipa": "/ˈɡlɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "anecdote",
+   "meaning": "giai thoại, chuyện vặt",
+   "example": "Let's learn the word \"anecdote\".",
+   "exampleMeaning": "Cùng học từ “anecdote”: giai thoại, chuyện vặt.",
+   "emoji": "",
+   "ipa": "/ˈænəkˌdoʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "physicist",
+   "meaning": "nhà vật lý",
+   "example": "Let's learn the word \"physicist\".",
+   "exampleMeaning": "Cùng học từ “physicist”: nhà vật lý.",
+   "emoji": "",
+   "ipa": "/ˈfɪzɪsɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "carbohydrate",
+   "meaning": "chất bột đường, tinh bột",
+   "example": "Let's learn the word \"carbohydrate\".",
+   "exampleMeaning": "Cùng học từ “carbohydrate”: chất bột đường, tinh bột.",
+   "emoji": "",
+   "ipa": "/ˌkɑrboʊˈhaɪˌdreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "convene",
+   "meaning": "triệu tập, họp",
+   "example": "to convene someone before a court",
+   "exampleMeaning": "Triệu tập ai ra toà, đòi ai ra toà",
+   "emoji": "",
+   "ipa": "/kənˈvin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trendy",
+   "meaning": "hợp mốt, thời thượng",
+   "example": "Let's learn the word \"trendy\".",
+   "exampleMeaning": "Cùng học từ “trendy”: hợp mốt, thời thượng.",
+   "emoji": "",
+   "ipa": "/ˈtrɛndi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "omission",
+   "meaning": "bỏ sót",
+   "example": "Let's learn the word \"omission\".",
+   "exampleMeaning": "Cùng học từ “omission”: bỏ sót.",
+   "emoji": "",
+   "ipa": "/oʊˈmɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "arguably",
+   "meaning": "có thể cho là",
+   "example": "Let's learn the word \"arguably\".",
+   "exampleMeaning": "Cùng học từ “arguably”: có thể cho là.",
+   "emoji": "",
+   "ipa": "/ˈɑrɡjuəbli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "issuer",
+   "meaning": "bên phát hành",
+   "example": "Let's learn the word \"issuer\".",
+   "exampleMeaning": "Cùng học từ “issuer”: bên phát hành.",
+   "emoji": "",
+   "ipa": "/ˈɪʃuɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stifle",
+   "meaning": "bóp nghẹt, kìm nén",
+   "example": "Let's learn the word \"stifle\".",
+   "exampleMeaning": "Cùng học từ “stifle”: bóp nghẹt, kìm nén.",
+   "emoji": "",
+   "ipa": "/ˈstaɪfəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brokerage",
+   "meaning": "công ty môi giới, phí môi giới",
+   "example": "Let's learn the word \"brokerage\".",
+   "exampleMeaning": "Cùng học từ “brokerage”: công ty môi giới, phí môi giới.",
+   "emoji": "",
+   "ipa": "/ˈbroʊkɜrɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outright",
+   "meaning": "hoàn toàn, thẳng thừng",
+   "example": "I had expected an outright refusal, but to my surprise she agreed.",
+   "exampleMeaning": "Tôi tưởng tôi sẽ bị từ chối một cách thẳng thừng, nhưng cô ấy đã chấp nhận.",
+   "emoji": "",
+   "ipa": "/ˈaʊˈtraɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "validate",
+   "meaning": "xác thực, công nhận",
+   "example": "Let's learn the word \"validate\".",
+   "exampleMeaning": "Cùng học từ “validate”: xác thực, công nhận.",
+   "emoji": "",
+   "ipa": "/ˈvælədeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brow",
+   "meaning": "lông mày, trán",
+   "example": "Tom wrinkled his brow like he was displeased.",
+   "exampleMeaning": "Tom cau mày lại, trông có vẻ không hài lòng.",
+   "emoji": "",
+   "ipa": "/ˈbraʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "continental",
+   "meaning": "thuộc lục địa",
+   "example": "Let's learn the word \"continental\".",
+   "exampleMeaning": "Cùng học từ “continental”: thuộc lục địa.",
+   "emoji": "",
+   "ipa": "/ˌkɑntəˈnɛnəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Our",
+    "teacher",
+    "is",
+    "always",
+    "chill"
+   ],
+   "reading": "",
+   "meaning": "Giáo viên của chúng tôi lúc nào cũng thoải mái."
+  },
+  {
+   "tokens": [
+    "We",
+    "went",
+    "astray",
+    "in",
+    "the",
+    "woods"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã đi lạc trong rừng."
+  },
+  {
+   "tokens": [
+    "That's",
+    "the",
+    "way",
+    "the",
+    "cookie",
+    "crumbles"
+   ],
+   "reading": "",
+   "meaning": "Bánh quy vỡ ra nhưng thế này nè."
+  },
+  {
+   "tokens": [
+    "He",
+    "reluctantly",
+    "agreed",
+    "to",
+    "my",
+    "proposal"
+   ],
+   "reading": "",
+   "meaning": "Anh ta miễn cưỡng đồng ý với đề nghị của tôi."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "not",
+    "to",
+    "get",
+    "emotional"
+   ],
+   "reading": "",
+   "meaning": "Tôi cố gắng không để bị xúc động."
+  }
+ ],
+ "issues": []
+}

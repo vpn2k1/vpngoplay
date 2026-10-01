@@ -1,0 +1,329 @@
+{
+ "lesson": 117,
+ "draft": true,
+ "words": [
+  {
+   "term": "单行",
+   "meaning": "riêng lẻ, một chiều",
+   "example": "祸不单行",
+   "exampleMeaning": "Hoạ vô đơn chí",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dānxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "茂密",
+   "meaning": "rậm rạp, um tùm",
+   "example": "茂密的树林。",
+   "exampleMeaning": "Rừng cây rậm rạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màomì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "着眼于",
+   "meaning": "chú trọng vào, nhắm vào",
+   "example": "我们来学“着眼于”这个词。",
+   "exampleMeaning": "Cùng học từ “着眼于”: chú trọng vào, nhắm vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuóyǎnyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伙食",
+   "meaning": "cơm nước, bữa ăn",
+   "example": "改善伙食",
+   "exampleMeaning": "Cải thiện bữa ăn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒshí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "休养",
+   "meaning": "an dưỡng, nghỉ dưỡng",
+   "example": "他到北戴河休养去了。",
+   "exampleMeaning": "Anh ấy đi nghỉ ngơi điều dưỡng ở Bắc Đới Hà rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūyǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水稻",
+   "meaning": "lúa nước",
+   "example": "我们来学“水稻”这个词。",
+   "exampleMeaning": "Cùng học từ “水稻”: lúa nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "务实",
+   "meaning": "thực tế, thiết thực",
+   "example": "我们来学“务实”这个词。",
+   "exampleMeaning": "Cùng học từ “务实”: thực tế, thiết thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wùshí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "特产",
+   "meaning": "đặc sản",
+   "example": "我们来学“特产”这个词。",
+   "exampleMeaning": "Cùng học từ “特产”: đặc sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèchǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电子书",
+   "meaning": "sách điện tử",
+   "example": "我们来学“电子书”这个词。",
+   "exampleMeaning": "Cùng học từ “电子书”: sách điện tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànzǐshū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冰棍儿",
+   "meaning": "kem que",
+   "example": "我们来学“冰棍儿”这个词。",
+   "exampleMeaning": "Cùng học từ “冰棍儿”: kem que.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīnggùnr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "牡丹",
+   "meaning": "hoa mẫu đơn",
+   "example": "我们来学“牡丹”这个词。",
+   "exampleMeaning": "Cùng học từ “牡丹”: hoa mẫu đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǔdan",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "众志成城",
+   "meaning": "đồng lòng thì vững như thành",
+   "example": "我们来学“众志成城”这个词。",
+   "exampleMeaning": "Cùng học từ “众志成城”: đồng lòng thì vững như thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhòngzhìchéngchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "跟上",
+   "meaning": "theo kịp, bắt kịp",
+   "example": "跟上教授们。",
+   "exampleMeaning": "Đuổi kịp các vị giáo sư",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēnshàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "荣获",
+   "meaning": "vinh dự đạt được",
+   "example": "我们来学“荣获”这个词。",
+   "exampleMeaning": "Cùng học từ “荣获”: vinh dự đạt được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rónghuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "闭会",
+   "meaning": "bế mạc",
+   "example": "我们来学“闭会”这个词。",
+   "exampleMeaning": "Cùng học từ “闭会”: bế mạc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蕴藏",
+   "meaning": "ẩn chứa, tiềm tàng",
+   "example": "他们心中蕴藏着极大的爱国热情。",
+   "exampleMeaning": "Trong lòng họ chất chứa nhiệt tình yêu nước rất lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùncáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "统一战线",
+   "meaning": "mặt trận thống nhất",
+   "example": "我们来学“统一战线”这个词。",
+   "exampleMeaning": "Cùng học từ “统一战线”: mặt trận thống nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒngyīzhànxiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "可歌可泣",
+   "meaning": "cảm động lòng người, bi hùng",
+   "example": "我们来学“可歌可泣”这个词。",
+   "exampleMeaning": "Cùng học từ “可歌可泣”: cảm động lòng người, bi hùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěgēkěqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壮胆",
+   "meaning": "lấy can đảm, thêm gan",
+   "example": "走夜路唱歌，自己给自己壮胆。",
+   "exampleMeaning": "Trong đêm khuya vừa đi vừa hát, sẽ tăng thêm lòng can đảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàngdǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学府",
+   "meaning": "học phủ, trường học",
+   "example": "最高学府",
+   "exampleMeaning": "Trường học cao nhất",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuéfǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  }
+ ],
+ "issues": []
+}

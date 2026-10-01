@@ -169,8 +169,8 @@ for (const file of readdirSync(COURSES)
   )
 }
 
-// Files are read alphabetically (advanced, basic, intermediate); list courses from basic up.
-const LEVEL_ORDER = ['basic', 'intermediate', 'advanced']
+// Files are read alphabetically (advanced, basic, expert, intermediate); list courses from basic up.
+const LEVEL_ORDER = ['basic', 'intermediate', 'advanced', 'expert']
 summaries.sort((a, b) => a.lang.localeCompare(b.lang) || LEVEL_ORDER.indexOf(a.level) - LEVEL_ORDER.indexOf(b.level))
 write(join(OUT, 'index.json'), summaries)
 if (rejected.length) {

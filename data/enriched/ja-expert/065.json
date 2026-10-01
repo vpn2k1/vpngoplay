@@ -1,0 +1,340 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "腕時計",
+   "meaning": "đồng hồ đeo tay",
+   "example": "この腕時計は５万円くらいする。",
+   "exampleMeaning": "Cái đồng hồ đeo tay này có giá tầm khoảng 50 nghìn Yên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "空き地",
+   "meaning": "đất trống",
+   "example": "「空き地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “空き地”: đất trống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "車線",
+   "meaning": "làn xe",
+   "example": "「車線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “車線”: làn xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "足首",
+   "meaning": "mắt cá chân",
+   "example": "「足首」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “足首”: mắt cá chân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "数億年",
+   "meaning": "vài trăm triệu năm",
+   "example": "「数億年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “数億年”: vài trăm triệu năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "必需",
+   "meaning": "thiết yếu",
+   "example": "「必需」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “必需”: thiết yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "居酒屋",
+   "meaning": "quán nhậu",
+   "example": "「居酒屋」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “居酒屋”: quán nhậu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "深刻化",
+   "meaning": "trở nên nghiêm trọng",
+   "example": "「深刻化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “深刻化”: trở nên nghiêm trọng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "長身",
+   "meaning": "dáng cao",
+   "example": "「長身」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “長身”: dáng cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遺言",
+   "meaning": "di chúc, lời trăng trối",
+   "example": "「遺言」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “遺言”: di chúc, lời trăng trối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本塁",
+   "meaning": "căn cứ chính, gôn nhà (bóng chày)",
+   "example": "「本塁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本塁”: căn cứ chính, gôn nhà (bóng chày).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "間際",
+   "meaning": "ngay trước, sát giờ",
+   "example": "「間際」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “間際”: ngay trước, sát giờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "資質",
+   "meaning": "tố chất, tư chất",
+   "example": "「資質」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “資質”: tố chất, tư chất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一足",
+   "meaning": "một đôi",
+   "example": "一足もきれいな靴下を持っていない。",
+   "exampleMeaning": "Tôi không có nổi một đôi tất sạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "共有",
+   "meaning": "chia sẻ, sở hữu chung",
+   "example": "女たちは何でも共有している。",
+   "exampleMeaning": "Con gái chia sẻ với nhau mọi thứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "急騰",
+   "meaning": "tăng vọt",
+   "example": "「急騰」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “急騰”: tăng vọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一騎打ち",
+   "meaning": "đấu tay đôi",
+   "example": "「一騎打ち」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一騎打ち”: đấu tay đôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遺書",
+   "meaning": "di thư, thư tuyệt mệnh",
+   "example": "彼は昨年遺書を書いた。",
+   "exampleMeaning": "Năm ngoái ông ấy đã viết một bức di chúc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "王手",
+   "meaning": "chiếu tướng",
+   "example": "「王手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “王手”: chiếu tướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "客船",
+   "meaning": "tàu khách",
+   "example": "「客船」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “客船”: tàu khách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "昨年",
+    "遺書",
+    "を",
+    "書いた"
+   ],
+   "reading": "かれはさくねんいしょをかいた",
+   "meaning": "Năm ngoái ông ấy đã viết một bức di chúc."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "就労",
+    "時間",
+    "について",
+    "社長",
+    "と",
+    "交渉",
+    "した"
+   ],
+   "reading": "われわれはしゅうろうじかんについてしゃちょうとこうしょうした",
+   "meaning": "Chúng tôi trao đổi với giám đốc về thời gian làm việc."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "外来",
+    "思想",
+    "に",
+    "偏見",
+    "を",
+    "抱いている",
+    "ようだ"
+   ],
+   "reading": "きみはがいらいしそうにへんけんをだいているようだ",
+   "meaning": "Dường như em đang có thành kiến với những tư tưởng ngoại lai thì phải."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "行為",
+    "には",
+    "まったく",
+    "悪い",
+    "ところ",
+    "は",
+    "ない"
+   ],
+   "reading": "かれのこういにはまったくわるいところはない",
+   "meaning": "Điều anh ta làm hoàn toàn không có gì sai cả."
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "彼",
+    "を",
+    "偉大な",
+    "判事",
+    "だ",
+    "と",
+    "見なしていた"
+   ],
+   "reading": "かれらはかれをいだいなはんじだとみなしていた",
+   "meaning": "Họ coi ông ấy là một thẩm phán vĩ đại."
+  }
+ ],
+ "issues": []
+}

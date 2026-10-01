@@ -1,0 +1,324 @@
+{
+ "lesson": 84,
+ "draft": true,
+ "words": [
+  {
+   "term": "占い",
+   "meaning": "bói toán, xem bói",
+   "example": "「占い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “占い”: bói toán, xem bói.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "買い上げ",
+   "meaning": "thu mua",
+   "example": "「買い上げ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “買い上げ”: thu mua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "悪天候",
+   "meaning": "thời tiết xấu",
+   "example": "悪天候のため、出発できなかった。",
+   "exampleMeaning": "Vì thời tiết xấu tôi đã không thể xuất phát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "乳製品",
+   "meaning": "sản phẩm từ sữa",
+   "example": "「乳製品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “乳製品”: sản phẩm từ sữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "憎悪",
+   "meaning": "căm ghét, thù hận",
+   "example": "「憎悪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “憎悪”: căm ghét, thù hận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "風刺",
+   "meaning": "châm biếm, trào phúng",
+   "example": "「風刺」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風刺”: châm biếm, trào phúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "腹部",
+   "meaning": "bụng, vùng bụng",
+   "example": "「腹部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “腹部”: bụng, vùng bụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "財務官",
+   "meaning": "quan chức tài chính",
+   "example": "「財務官」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “財務官”: quan chức tài chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鈍化",
+   "meaning": "chậm lại, cùn đi",
+   "example": "「鈍化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鈍化”: chậm lại, cùn đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家庭内",
+   "meaning": "trong gia đình",
+   "example": "「家庭内」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “家庭内”: trong gia đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "質量",
+   "meaning": "khối lượng",
+   "example": "「質量」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “質量”: khối lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "珍",
+   "meaning": "hiếm, lạ",
+   "example": "これは珍しいことなの？",
+   "exampleMeaning": "Đây có phải là một chuyện hiếm gặp không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "天文学",
+   "meaning": "thiên văn học",
+   "example": "「天文学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “天文学”: thiên văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "農学部",
+   "meaning": "khoa nông nghiệp",
+   "example": "「農学部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農学部”: khoa nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "恩師",
+   "meaning": "thầy cũ, ân sư",
+   "example": "「恩師」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “恩師”: thầy cũ, ân sư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赤外線",
+   "meaning": "tia hồng ngoại",
+   "example": "赤外線や紫外線は、人の目には見えない光である。",
+   "exampleMeaning": "Tia tử ngoại và tia hồng ngoại là loại ánh sáng mắt người không nhìn thấy được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "核家族",
+   "meaning": "gia đình hạt nhân",
+   "example": "「核家族」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “核家族”: gia đình hạt nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "元祖",
+   "meaning": "ông tổ, người khởi xướng",
+   "example": "「元祖」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “元祖”: ông tổ, người khởi xướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "痛烈",
+   "meaning": "cay độc, gay gắt",
+   "example": "「痛烈」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “痛烈”: cay độc, gay gắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宗門",
+   "meaning": "tông phái, giáo phái",
+   "example": "「宗門」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “宗門”: tông phái, giáo phái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "ほど",
+    "平々凡々たる",
+    "主人公",
+    "は",
+    "珍しい"
+   ],
+   "reading": "かれほどへいへいぼんぼんたるしゅじんこうはめずらしい",
+   "meaning": "Hiếm có nhân vật chính nào giản đơn như cậu ta."
+  },
+  {
+   "tokens": [
+    "水",
+    "は",
+    "堤防",
+    "を",
+    "越えた"
+   ],
+   "reading": "みずはていぼうをこえた",
+   "meaning": "Nước đã tràn qua bờ đê."
+  },
+  {
+   "tokens": [
+    "子供",
+    "は",
+    "何人",
+    "ですか"
+   ],
+   "reading": "こどもはなんにんですか",
+   "meaning": "Bạn có mấy người con?"
+  },
+  {
+   "tokens": [
+    "日本語",
+    "が",
+    "話せます",
+    "か"
+   ],
+   "reading": "にほんごがはなせますか",
+   "meaning": "Ông có nói tiếng Nhật không?"
+  },
+  {
+   "tokens": [
+    "台風",
+    "で",
+    "川",
+    "が",
+    "氾濫",
+    "した"
+   ],
+   "reading": "たいふうでかわがはんらんした",
+   "meaning": "Cơn bão làm nước sông bị tràn ra."
+  }
+ ],
+ "issues": []
+}

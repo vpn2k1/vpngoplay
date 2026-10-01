@@ -1,0 +1,329 @@
+{
+ "lesson": 13,
+ "draft": true,
+ "words": [
+  {
+   "term": "elder",
+   "meaning": "người lớn tuổi, bô lão",
+   "example": "My elder brother worked as a waiter for a year when he was in college.",
+   "exampleMeaning": "Anh trai tôi đã làm bồi bàn trong một năm hồi anh ấy học đại học.",
+   "emoji": "",
+   "ipa": "/ˈɛldɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "anytime",
+   "meaning": "bất cứ lúc nào",
+   "example": "I doubt Tom will leave anytime soon.",
+   "exampleMeaning": "Tôi nghi là Tom sẽ sớm bỏ đi bất cứ lúc nào.",
+   "emoji": "",
+   "ipa": "/ˈɛniˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "archaeological",
+   "meaning": "thuộc khảo cổ học",
+   "example": "Let's learn the word \"archaeological\".",
+   "exampleMeaning": "Cùng học từ “archaeological”: thuộc khảo cổ học.",
+   "emoji": "",
+   "ipa": "/ˌɑrkiəˈlɑdʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hemisphere",
+   "meaning": "bán cầu",
+   "example": "the Northern hemisphere",
+   "exampleMeaning": "Bán cầu bắc",
+   "emoji": "",
+   "ipa": "/ˈhɛmɪsˌfɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enact",
+   "meaning": "ban hành (luật), thực thi",
+   "example": "Let's learn the word \"enact\".",
+   "exampleMeaning": "Cùng học từ “enact”: ban hành (luật), thực thi.",
+   "emoji": "",
+   "ipa": "/ɪˈnækt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "accordance",
+   "meaning": "phù hợp, theo đúng",
+   "example": "to do something in accordance with somebody",
+   "exampleMeaning": "Làm điều gì có sự thoả thuận với ai",
+   "emoji": "",
+   "ipa": "/əˈkɔrdəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "custody",
+   "meaning": "quyền nuôi con, tạm giam",
+   "example": "to be in the custody of someone",
+   "exampleMeaning": "Dưới sự trông nom của ai",
+   "emoji": "",
+   "ipa": "/ˈkəstədi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "commentator",
+   "meaning": "bình luận viên",
+   "example": "Let's learn the word \"commentator\".",
+   "exampleMeaning": "Cùng học từ “commentator”: bình luận viên.",
+   "emoji": "",
+   "ipa": "/ˈkɑmənˌteɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "memo",
+   "meaning": "bản ghi nhớ, công văn",
+   "example": "Let's learn the word \"memo\".",
+   "exampleMeaning": "Cùng học từ “memo”: bản ghi nhớ, công văn.",
+   "emoji": "📝",
+   "ipa": "/ˈmɛˌmoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "theology",
+   "meaning": "thần học",
+   "example": "Let's learn the word \"theology\".",
+   "exampleMeaning": "Cùng học từ “theology”: thần học.",
+   "emoji": "",
+   "ipa": "/θiˈɑlədʒi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "offset",
+   "meaning": "bù đắp, bù trừ",
+   "example": "Let's learn the word \"offset\".",
+   "exampleMeaning": "Cùng học từ “offset”: bù đắp, bù trừ.",
+   "emoji": "",
+   "ipa": "/ˈɔfˌsɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vulnerable",
+   "meaning": "dễ bị tổn thương",
+   "example": "to vulnerable criticism",
+   "exampleMeaning": "Có thể bị phê bình",
+   "emoji": "",
+   "ipa": "/ˈvəlnɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "token",
+   "meaning": "dấu hiệu, vật làm tin, thẻ xu",
+   "example": "as a token of our gratitude",
+   "exampleMeaning": "Như là một biểu hiện của lòng biết ơn của chúng tôi",
+   "emoji": "",
+   "ipa": "/ˈtoʊkən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "activation",
+   "meaning": "kích hoạt",
+   "example": "Let's learn the word \"activation\".",
+   "exampleMeaning": "Cùng học từ “activation”: kích hoạt.",
+   "emoji": "",
+   "ipa": "/ˌæktəˈveɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "glue",
+   "meaning": "keo dán, dán",
+   "example": "Let's learn the word \"glue\".",
+   "exampleMeaning": "Cùng học từ “glue”: keo dán, dán.",
+   "emoji": "",
+   "ipa": "/ɡluː/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "distort",
+   "meaning": "bóp méo, xuyên tạc",
+   "example": "Let's learn the word \"distort\".",
+   "exampleMeaning": "Cùng học từ “distort”: bóp méo, xuyên tạc.",
+   "emoji": "",
+   "ipa": "/dɪˈstɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "void",
+   "meaning": "khoảng trống, vô hiệu",
+   "example": "to consider something as null and void",
+   "exampleMeaning": "Coi cái gì như không còn giá trị",
+   "emoji": "",
+   "ipa": "/ˈvɔɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "militia",
+   "meaning": "dân quân",
+   "example": "Let's learn the word \"militia\".",
+   "exampleMeaning": "Cùng học từ “militia”: dân quân.",
+   "emoji": "",
+   "ipa": "/məˈlɪʃə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "suite",
+   "meaning": "dãy phòng, bộ",
+   "example": "suite of rooms",
+   "exampleMeaning": "Dãy buồng",
+   "emoji": "",
+   "ipa": "/ˈswit/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "affiliate",
+   "meaning": "chi nhánh, liên kết",
+   "example": "The local television channel was an affiliate of a national network.",
+   "exampleMeaning": "Đài TV địa phương thuộc về một mạng quốc gia.",
+   "emoji": "",
+   "ipa": "/əˈfɪliˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "went",
+    "astray",
+    "in",
+    "the",
+    "woods"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã đi lạc trong rừng."
+  },
+  {
+   "tokens": [
+    "That's",
+    "the",
+    "way",
+    "the",
+    "cookie",
+    "crumbles"
+   ],
+   "reading": "",
+   "meaning": "Bánh quy vỡ ra nhưng thế này nè."
+  },
+  {
+   "tokens": [
+    "He",
+    "reluctantly",
+    "agreed",
+    "to",
+    "my",
+    "proposal"
+   ],
+   "reading": "",
+   "meaning": "Anh ta miễn cưỡng đồng ý với đề nghị của tôi."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "not",
+    "to",
+    "get",
+    "emotional"
+   ],
+   "reading": "",
+   "meaning": "Tôi cố gắng không để bị xúc động."
+  },
+  {
+   "tokens": [
+    "The",
+    "police",
+    "officer",
+    "accepted",
+    "a",
+    "bribe"
+   ],
+   "reading": "",
+   "meaning": "Sĩ quan cảnh sát đồng ý nhận hối lộ."
+  }
+ ],
+ "issues": []
+}

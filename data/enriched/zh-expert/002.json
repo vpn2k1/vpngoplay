@@ -1,0 +1,324 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "思前想后",
+   "meaning": "nghĩ trước nghĩ sau, đắn đo",
+   "example": "我们来学“思前想后”这个词。",
+   "exampleMeaning": "Cùng học từ “思前想后”: nghĩ trước nghĩ sau, đắn đo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīqiánxiǎnghòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "研究员",
+   "meaning": "nghiên cứu viên",
+   "example": "我们来学“研究员”这个词。",
+   "exampleMeaning": "Cùng học từ “研究员”: nghiên cứu viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yánjiūyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伤残",
+   "meaning": "tàn tật, thương tật",
+   "example": "我们来学“伤残”这个词。",
+   "exampleMeaning": "Cùng học từ “伤残”: tàn tật, thương tật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāngcán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精益求精",
+   "meaning": "đã tốt còn muốn tốt hơn",
+   "example": "我们来学“精益求精”这个词。",
+   "exampleMeaning": "Cùng học từ “精益求精”: đã tốt còn muốn tốt hơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngyìqiújīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卤味",
+   "meaning": "món kho, đồ kho",
+   "example": "我们来学“卤味”这个词。",
+   "exampleMeaning": "Cùng học từ “卤味”: món kho, đồ kho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǔwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新潮",
+   "meaning": "thời thượng, mốt mới",
+   "example": "我们来学“新潮”这个词。",
+   "exampleMeaning": "Cùng học từ “新潮”: thời thượng, mốt mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīncháo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "贬值",
+   "meaning": "mất giá, phá giá",
+   "example": "美元贬值。",
+   "exampleMeaning": "Tiền đô-la Mỹ bị mất giá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biǎnzhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "倔",
+   "meaning": "cộc cằn, cục tính",
+   "example": "我们来学“倔”这个词。",
+   "exampleMeaning": "Cùng học từ “倔”: cộc cằn, cục tính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小孩子",
+   "meaning": "trẻ nhỏ, nhóc con",
+   "example": "我们来学“小孩子”这个词。",
+   "exampleMeaning": "Cùng học từ “小孩子”: trẻ nhỏ, nhóc con.",
+   "emoji": "🧒",
+   "ipa": "",
+   "pinyin": "xiǎoháizi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "接听",
+   "meaning": "nghe máy",
+   "example": "我们来学“接听”这个词。",
+   "exampleMeaning": "Cùng học từ “接听”: nghe máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiētīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爱惜",
+   "meaning": "quý trọng, nâng niu",
+   "example": "爱惜国家财物。",
+   "exampleMeaning": "Quý trọng tài sản quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àixī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "派别",
+   "meaning": "phe phái, môn phái",
+   "example": "进行派别活动",
+   "exampleMeaning": "Hoạt động bè phái",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pàibié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自古",
+   "meaning": "từ xưa, xưa nay",
+   "example": "这个群岛自古就是越南的领土。",
+   "exampleMeaning": "Quần đảo này từ xưa đến nay thuộc lãnh thổ Việt Nam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìgǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "收复",
+   "meaning": "thu hồi, giành lại, khôi phục",
+   "example": "收复失地。",
+   "exampleMeaning": "Thu hồi đất đai bị mất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shōufù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "翻番",
+   "meaning": "tăng gấp đôi, tăng gấp bội",
+   "example": "钻井速度翻番",
+   "exampleMeaning": "Tốc độ khoan giếng tăng nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fānfān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "造纸",
+   "meaning": "làm giấy, sản xuất giấy",
+   "example": "我们来学“造纸”这个词。",
+   "exampleMeaning": "Cùng học từ “造纸”: làm giấy, sản xuất giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàozhǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出主意",
+   "meaning": "bày mưu, góp ý kiến",
+   "example": "我们来学“出主意”这个词。",
+   "exampleMeaning": "Cùng học từ “出主意”: bày mưu, góp ý kiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūzhǔyi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "说白了",
+   "meaning": "nói thẳng ra, nói trắng ra",
+   "example": "我们来学“说白了”这个词。",
+   "exampleMeaning": "Cùng học từ “说白了”: nói thẳng ra, nói trắng ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuōbáile",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挂念",
+   "meaning": "nhớ nhung, lo nghĩ đến",
+   "example": "母亲十分挂念在外地念书的儿子。",
+   "exampleMeaning": "Mẹ rất nhớ đứa con trai đi học xa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guàniàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "亲和力",
+   "meaning": "tính thân thiện, sức gần gũi",
+   "example": "我们来学“亲和力”这个词。",
+   "exampleMeaning": "Cùng học từ “亲和力”: tính thân thiện, sức gần gũi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīnhélì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,337 @@
+{
+ "lesson": 137,
+ "draft": true,
+ "words": [
+  {
+   "term": "沿革",
+   "meaning": "quá trình phát triển, lịch sử",
+   "example": "社会风俗的沿革",
+   "exampleMeaning": "Sự phát triển và thay đổi của phong tục xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yángé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "网民",
+   "meaning": "cư dân mạng",
+   "example": "我们来学“网民”这个词。",
+   "exampleMeaning": "Cùng học từ “网民”: cư dân mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎngmín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "老汉",
+   "meaning": "ông lão",
+   "example": "老汉今年八十整。",
+   "exampleMeaning": "Như lão đây năm nay vừa tròn tám mươi tuổi.",
+   "emoji": "👴",
+   "ipa": "",
+   "pinyin": "lǎohàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一言不发",
+   "meaning": "không nói một lời",
+   "example": "你怎么在会上一言不发呀？",
+   "exampleMeaning": "Sao trong cuộc họp cậu chẳng nói chẳng rằng gì thế?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīyánbùfā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "廉政",
+   "meaning": "chính quyền trong sạch, liêm chính",
+   "example": "廉政措施。",
+   "exampleMeaning": "Cách thức làm trong sạch hoá bộ máy chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánzhèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "版本",
+   "meaning": "phiên bản",
+   "example": "一部《红楼梦》就不知道有多少种不同的版本",
+   "exampleMeaning": "Bộ tiểu thuyết “hồng lâu mộng” không biết là có bao nhiêu phiên bản khác nhau nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎnběn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "淀粉",
+   "meaning": "tinh bột",
+   "example": "我们来学“淀粉”这个词。",
+   "exampleMeaning": "Cùng học từ “淀粉”: tinh bột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànfěn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国情",
+   "meaning": "tình hình đất nước",
+   "example": "适合国情",
+   "exampleMeaning": "Hợp tình hình trong nước",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guóqíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大刀",
+   "meaning": "đao lớn, mã tấu",
+   "example": "我们来学“大刀”这个词。",
+   "exampleMeaning": "Cùng học từ “大刀”: đao lớn, mã tấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàdāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "专政",
+   "meaning": "chuyên chính",
+   "example": "我们来学“专政”这个词。",
+   "exampleMeaning": "Cùng học từ “专政”: chuyên chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānzhèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公顷",
+   "meaning": "héc-ta",
+   "example": "我们来学“公顷”这个词。",
+   "exampleMeaning": "Cùng học từ “公顷”: héc-ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngqǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "标榜",
+   "meaning": "tự đề cao, phô trương",
+   "example": "标榜自由。",
+   "exampleMeaning": "Nêu chiêu bài tự do",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biāobǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "力所能及",
+   "meaning": "trong khả năng cho phép",
+   "example": "这项爱心活动，在我力所能及的范围内，我一定全力支持配合。",
+   "exampleMeaning": "Hoạt động từ thiện này nằm trong khả năng của tôi, tôi nhất định phối hợp giúp đỡ hết mình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìsuǒnéngjí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逊色",
+   "meaning": "kém cỏi, thua kém",
+   "example": "毫无逊色",
+   "exampleMeaning": "Không chút thua kém",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùnsè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "省份",
+   "meaning": "tỉnh, tỉnh thành",
+   "example": "台湾是中国的一个省份。",
+   "exampleMeaning": "Đài Loan là một tỉnh của Trung Quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěngfèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "记号",
+   "meaning": "ký hiệu, dấu",
+   "example": "有错别字的地方，请你做个记号。",
+   "exampleMeaning": "Những chỗ có chữ sai chữ nhầm, đề nghị anh đánh dấu lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìhao",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "草丛",
+   "meaning": "bụi cỏ",
+   "example": "我们来学“草丛”这个词。",
+   "exampleMeaning": "Cùng học từ “草丛”: bụi cỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cǎocóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "寡头",
+   "meaning": "đầu sỏ (chính trị), tài phiệt",
+   "example": "金融寡头",
+   "exampleMeaning": "Trùm tài phiệt; trùm tài chính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎtóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "利润率",
+   "meaning": "tỷ suất lợi nhuận",
+   "example": "我们来学“利润率”这个词。",
+   "exampleMeaning": "Cùng học từ “利润率”: tỷ suất lợi nhuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìrùnlǜ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "遛",
+   "meaning": "đi dạo, dắt đi dạo",
+   "example": "我每天早上到公园里遛狗。",
+   "exampleMeaning": "Sáng nào tôi cũng dắt chó đi dạo tại công viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "每天",
+    "早上",
+    "到",
+    "公园",
+    "里",
+    "遛狗"
+   ],
+   "reading": "wǒ měitiān zǎoshang dào gōngyuán lǐ liùgǒu",
+   "meaning": "Sáng nào tôi cũng dắt chó đi dạo tại công viên."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  },
+  {
+   "tokens": [
+    "她",
+    "已经",
+    "能够",
+    "结婚",
+    "了",
+    "也就是说",
+    "她",
+    "是",
+    "有夫之妇"
+   ],
+   "reading": "tā yǐjīng nénggòu jiéhūn le yějiùshìshuō tā shì yǒufūzhīfù",
+   "meaning": "Cô ấy đã có thể kết hôn rồi, nói cách khác, cô ấy là người phụ nữ đã có chồng."
+  },
+  {
+   "tokens": [
+    "我",
+    "好",
+    "胖",
+    "哦"
+   ],
+   "reading": "wǒ hǎo pàng ó",
+   "meaning": "Tôi mập quá."
+  }
+ ],
+ "issues": []
+}

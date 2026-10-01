@@ -1,0 +1,334 @@
+{
+ "lesson": 59,
+ "draft": true,
+ "words": [
+  {
+   "term": "风沙",
+   "meaning": "cát bụi, bão cát",
+   "example": "漫天的风沙",
+   "exampleMeaning": "Gió cát đầy trời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngshā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "别致",
+   "meaning": "độc đáo, lạ mắt",
+   "example": "这个收音机样子很别致。",
+   "exampleMeaning": "Kiểu dáng của máy thu thanh này thật độc đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biézhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "驮",
+   "meaning": "hàng thồ (trên lưng gia súc)",
+   "example": "这匹马能驮四袋粮食。",
+   "exampleMeaning": "Con ngựa này có thể thồ bốn bao lương thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水运",
+   "meaning": "vận tải thủy",
+   "example": "我们来学“水运”这个词。",
+   "exampleMeaning": "Cùng học từ “水运”: vận tải thủy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐyùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "馅儿",
+   "meaning": "nhân (bánh)",
+   "example": "我们来学“馅儿”这个词。",
+   "exampleMeaning": "Cùng học từ “馅儿”: nhân (bánh).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兵马",
+   "meaning": "binh mã, quân đội",
+   "example": "我们来学“兵马”这个词。",
+   "exampleMeaning": "Cùng học từ “兵马”: binh mã, quân đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīngmǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "美中不足",
+   "meaning": "ngọc còn có vết, chưa hoàn hảo",
+   "example": "他是个迷人的小伙子, 美中不足的是个子矮。",
+   "exampleMeaning": "Anh ta là chàng trai rất mê hoặc lòng người, chỉ tiếc là anh ta bị lùn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "měizhōngbùzú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "歌颂",
+   "meaning": "ca ngợi, ca tụng",
+   "example": "歌颂祖国的大好河山。",
+   "exampleMeaning": "Ca ngợi núi sông của đất nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēsòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "答辩",
+   "meaning": "bảo vệ luận văn, biện bạch",
+   "example": "法庭上允许被告答辩。",
+   "exampleMeaning": "Toà án cho phép bị cáo tự bào chữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dábiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饶恕",
+   "meaning": "tha thứ",
+   "example": "我们来学“饶恕”这个词。",
+   "exampleMeaning": "Cùng học từ “饶恕”: tha thứ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ráoshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部类",
+   "meaning": "phân loại, ngành",
+   "example": "我们来学“部类”这个词。",
+   "exampleMeaning": "Cùng học từ “部类”: phân loại, ngành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùlèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冲撞",
+   "meaning": "va chạm, xúc phạm",
+   "example": "我很后悔不该失言冲撞她。",
+   "exampleMeaning": "Tôi rất hối hận, lẽ ra không nên nói chạm đến cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōngzhuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通商",
+   "meaning": "thông thương, buôn bán",
+   "example": "与世界各国通商",
+   "exampleMeaning": "Buôn bán với các nước trên thế giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngshāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "岳母",
+   "meaning": "mẹ vợ",
+   "example": "我们来学“岳母”这个词。",
+   "exampleMeaning": "Cùng học từ “岳母”: mẹ vợ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèmǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "指挥部",
+   "meaning": "sở chỉ huy, bộ chỉ huy",
+   "example": "我们来学“指挥部”这个词。",
+   "exampleMeaning": "Cùng học từ “指挥部”: sở chỉ huy, bộ chỉ huy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐhuībù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "返还",
+   "meaning": "hoàn trả",
+   "example": "返还定金",
+   "exampleMeaning": "Trả lại tiền cọc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎnhuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不懈",
+   "meaning": "không ngừng nghỉ, bền bỉ",
+   "example": "进行不懈的斗争",
+   "exampleMeaning": "Tiến hành cuộc tranh đấu bền bỉ ngoan cường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxiè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逾期",
+   "meaning": "quá hạn",
+   "example": "逾期未归",
+   "exampleMeaning": "Quá hạn vẫn chưa trở về",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yúqī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "信息化",
+   "meaning": "tin học hóa, số hóa",
+   "example": "我们来学“信息化”这个词。",
+   "exampleMeaning": "Cùng học từ “信息化”: tin học hóa, số hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xìnxīhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提请",
+   "meaning": "đề nghị, trình xin",
+   "example": "提请大会讨论通过。",
+   "exampleMeaning": "Đýa ra để cho đại hội thảo luận thông qua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tíqǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  }
+ ],
+ "issues": []
+}

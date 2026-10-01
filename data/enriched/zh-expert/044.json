@@ -1,0 +1,329 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "红眼",
+   "meaning": "ghen tị, tức đỏ mắt",
+   "example": "动不动就红眼",
+   "exampleMeaning": "Hơi một tí phát cáu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngyǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "下半场",
+   "meaning": "hiệp hai",
+   "example": "我们来学“下半场”这个词。",
+   "exampleMeaning": "Cùng học từ “下半场”: hiệp hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàbànchǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "故道",
+   "meaning": "đường cũ, lòng sông cũ",
+   "example": "黄河故道",
+   "exampleMeaning": "Lòng sông cũ sông Hoàng Hà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "政体",
+   "meaning": "chính thể",
+   "example": "我们来学“政体”这个词。",
+   "exampleMeaning": "Cùng học từ “政体”: chính thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngtǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "零花钱",
+   "meaning": "tiền tiêu vặt",
+   "example": "我们来学“零花钱”这个词。",
+   "exampleMeaning": "Cùng học từ “零花钱”: tiền tiêu vặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línghuāqián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "染料",
+   "meaning": "thuốc nhuộm",
+   "example": "我们来学“染料”这个词。",
+   "exampleMeaning": "Cùng học từ “染料”: thuốc nhuộm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rǎnliào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "更名",
+   "meaning": "đổi tên",
+   "example": "他从此更名改姓,隐居于一个小山村中。",
+   "exampleMeaning": "Anh ấy từ nay thay tên đổi họ, ẩn cư ở miền núi trong một cái thôn nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gēngmíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "良久",
+   "meaning": "hồi lâu, rất lâu",
+   "example": "沉思良久。",
+   "exampleMeaning": "Trầm tư rất lâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liángjiǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "门铃",
+   "meaning": "chuông cửa",
+   "example": "我们来学“门铃”这个词。",
+   "exampleMeaning": "Cùng học từ “门铃”: chuông cửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ménlíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "爆满",
+   "meaning": "chật kín, kín chỗ",
+   "example": "高速公路车辆大爆满,连续假日是主要原因",
+   "exampleMeaning": "Trên đường cao tốc xe cộ đông nghẹt, nguyên nhân chủ yếu là do người dân được nghỉ nhiều ngày liên tục",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàomǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "波澜",
+   "meaning": "sóng lớn, sóng gió, biến động",
+   "example": "激起感情的波澜。",
+   "exampleMeaning": "Cơn sóng tình cảm nổi dậy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bōlán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "见长",
+   "meaning": "giỏi về, nổi trội về",
+   "example": "一场春雨后，麦苗立刻见长了。",
+   "exampleMeaning": "Sau một trận mưa xuân, lúa mạch non lớn lên trông thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàncháng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绷带",
+   "meaning": "băng gạc, băng y tế",
+   "example": "我们来学“绷带”这个词。",
+   "exampleMeaning": "Cùng học từ “绷带”: băng gạc, băng y tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bēngdài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "精练",
+   "meaning": "súc tích, tinh luyện",
+   "example": "语言精练",
+   "exampleMeaning": "Câu văn ngắn gọn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngliàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "受过",
+   "meaning": "chịu tội thay",
+   "example": "我们来学“受过”这个词。",
+   "exampleMeaning": "Cùng học từ “受过”: chịu tội thay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòuguò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天体",
+   "meaning": "thiên thể",
+   "example": "我们来学“天体”这个词。",
+   "exampleMeaning": "Cùng học từ “天体”: thiên thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiāntǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卖国",
+   "meaning": "bán nước",
+   "example": "卖国求荣。",
+   "exampleMeaning": "Bán nước cầu vinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "màiguó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "合计",
+   "meaning": "tổng cộng, cộng lại, tính toán",
+   "example": "大家合合计计这事该怎么办。",
+   "exampleMeaning": "Mọi người bàn bạc việc này nên làm như thế nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "列举",
+   "meaning": "liệt kê, kể ra",
+   "example": "指示中列举了各种具体办法。",
+   "exampleMeaning": "Trong chỉ thị nêu ra từng biện pháp cụ thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièjǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抱负",
+   "meaning": "hoài bão, chí hướng",
+   "example": "反对君主制度的抱负",
+   "exampleMeaning": "Phản đối tham vọng của chế độ quân chủ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàofù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  }
+ ],
+ "issues": []
+}

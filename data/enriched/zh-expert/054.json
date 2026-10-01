@@ -1,0 +1,323 @@
+{
+ "lesson": 54,
+ "draft": true,
+ "words": [
+  {
+   "term": "流域",
+   "meaning": "lưu vực",
+   "example": "我们来学“流域”这个词。",
+   "exampleMeaning": "Cùng học từ “流域”: lưu vực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liúyù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "探亲",
+   "meaning": "thăm người thân",
+   "example": "回乡探亲",
+   "exampleMeaning": "Về quê thăm người thân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tànqīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "共性",
+   "meaning": "tính chung, điểm chung",
+   "example": "各种地方戏都有其个性，但作为戏曲又有其共性。",
+   "exampleMeaning": "Kịch ở mỗi nơi đều có tính riêng, nhưng làm thành hí khúc thì có tính chung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "靶子",
+   "meaning": "bia ngắm, mục tiêu",
+   "example": "我们来学“靶子”这个词。",
+   "exampleMeaning": "Cùng học từ “靶子”: bia ngắm, mục tiêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "干戈",
+   "meaning": "binh đao, chiến tranh",
+   "example": "化干戈为玉帛。",
+   "exampleMeaning": "Biến vũ khí thành tơ lụa (dùng phương pháp hoà bình để giải quyết tranh chấp. Can qua là hai vũ khí cổ, chỉ chiến tranh, tơ lụa là các thứ vật quý mà hai nước dùng để dâng tặng nhau.)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāngē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一年到头",
+   "meaning": "quanh năm suốt tháng",
+   "example": "一年到头不得闲。",
+   "exampleMeaning": "Bận rộn quanh năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīniándàotóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "增收",
+   "meaning": "tăng thu nhập, tăng thu",
+   "example": "增收节支",
+   "exampleMeaning": "Tăng thu nhập giảm chi tiêu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zēngshōu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "汪洋",
+   "meaning": "biển nước mênh mông, mênh mông",
+   "example": "一片汪洋。",
+   "exampleMeaning": "Cả một vùng nước mênh mông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wāngyáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "可能性",
+   "meaning": "khả năng, tính khả thi",
+   "example": "我们来学“可能性”这个词。",
+   "exampleMeaning": "Cùng học từ “可能性”: khả năng, tính khả thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěnéngxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喜洋洋",
+   "meaning": "vui phơi phới, rạng rỡ",
+   "example": "今天是大哥娶亲之日，家中一片喜洋洋！",
+   "exampleMeaning": "Hôm nay là ngày anh hai lấy vợ, trong nhà tràn ngập không khí vui mừng hớn hở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐyángyáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "供求",
+   "meaning": "cung cầu",
+   "example": "调剂物资，使供求平衡。",
+   "exampleMeaning": "Điều chỉnh vật tư thị trường, làm cho cung và cầu được cân bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngqiú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "清凉",
+   "meaning": "mát mẻ, mát lạnh",
+   "example": "清凉的薄荷味儿。",
+   "exampleMeaning": "Mùi bạc hà mát lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngliáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "忽高忽低",
+   "meaning": "lúc cao lúc thấp, lên xuống thất thường",
+   "example": "我们来学“忽高忽低”这个词。",
+   "exampleMeaning": "Cùng học từ “忽高忽低”: lúc cao lúc thấp, lên xuống thất thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūgāohūdī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "横七竖八",
+   "meaning": "ngổn ngang, lộn xộn",
+   "example": "我们来学“横七竖八”这个词。",
+   "exampleMeaning": "Cùng học từ “横七竖八”: ngổn ngang, lộn xộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héngqīshùbā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "问道",
+   "meaning": "hỏi, hỏi đường",
+   "example": "我们来学“问道”这个词。",
+   "exampleMeaning": "Cùng học từ “问道”: hỏi, hỏi đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèndào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兵刃",
+   "meaning": "binh khí, vũ khí",
+   "example": "我们来学“兵刃”这个词。",
+   "exampleMeaning": "Cùng học từ “兵刃”: binh khí, vũ khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīngrèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "双赢",
+   "meaning": "đôi bên cùng có lợi, cùng thắng",
+   "example": "我们来学“双赢”这个词。",
+   "exampleMeaning": "Cùng học từ “双赢”: đôi bên cùng có lợi, cùng thắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāngyíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "讥笑",
+   "meaning": "chế giễu, cười nhạo",
+   "example": "同志有错误，应热情帮助，不要讥笑。",
+   "exampleMeaning": "Đồng chí nào có sai sót, nên nhiệt tình giúp đỡ, không được nhạo báng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "落户",
+   "meaning": "định cư, nhập hộ khẩu",
+   "example": "新生婴儿应及时落户。",
+   "exampleMeaning": "Trẻ mới sinh ra phải kịp thời đăng ký hộ khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luòhù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "同舟共济",
+   "meaning": "cùng hội cùng thuyền, đồng tâm hiệp lực",
+   "example": "我们来学“同舟共济”这个词。",
+   "exampleMeaning": "Cùng học từ “同舟共济”: cùng hội cùng thuyền, đồng tâm hiệp lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngzhōugòngjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  },
+  {
+   "tokens": [
+    "每次",
+    "见面",
+    "都",
+    "打招呼"
+   ],
+   "reading": "měicì jiànmiàn dōu dǎzhāohu",
+   "meaning": "Mỗi lần gặp mặt đều chào hỏi."
+  },
+  {
+   "tokens": [
+    "你",
+    "看",
+    "到",
+    "的",
+    "都",
+    "是",
+    "幻觉"
+   ],
+   "reading": "nǐ kàn dào de dōu shì huànjué",
+   "meaning": "Những thứ mà mày thấy đều là ảo giác."
+  },
+  {
+   "tokens": [
+    "听到",
+    "消息",
+    "她",
+    "晕倒",
+    "了"
+   ],
+   "reading": "tīngdào xiāoxi tā yūndǎo le",
+   "meaning": "Nghe được tin, nó liền té xỉu."
+  }
+ ],
+ "issues": []
+}

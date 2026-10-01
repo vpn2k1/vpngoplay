@@ -36,13 +36,13 @@ export const TRACK_PLAN: Record<Track, TrackPlan> = {
   work: {
     home: ['practice', 'topics', 'courses', 'grammar'],
     practice: ['talk', 'sentences', 'idioms'],
-    courses: ['basic', 'intermediate', 'advanced'],
+    courses: ['basic', 'intermediate', 'advanced', 'expert'],
     focus: () => 'Giao tiếp công sở, email, họp và đi công tác',
   },
   exam: {
     home: ['courses', 'grammar', 'topics', 'practice'],
     practice: ['sentences', 'talk', 'idioms'],
-    courses: ['basic', 'intermediate', 'advanced'],
+    courses: ['basic', 'intermediate', 'advanced', 'expert'],
     focus: (lang) => `Ôn thi ${EXAM[lang]}: từ vựng theo cấp độ, ngữ pháp, luyện câu`,
   },
 }

@@ -1,0 +1,334 @@
+{
+ "lesson": 102,
+ "draft": true,
+ "words": [
+  {
+   "term": "modular",
+   "meaning": "dạng mô-đun, lắp ghép",
+   "example": "Let's learn the word \"modular\".",
+   "exampleMeaning": "Cùng học từ “modular”: dạng mô-đun, lắp ghép.",
+   "emoji": "",
+   "ipa": "/ˈmɑdʒəlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unwelcome",
+   "meaning": "không được hoan nghênh",
+   "example": "Let's learn the word \"unwelcome\".",
+   "exampleMeaning": "Cùng học từ “unwelcome”: không được hoan nghênh.",
+   "emoji": "",
+   "ipa": "/ənˈwɛlkəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bible",
+   "meaning": "kinh thánh, cẩm nang",
+   "example": "She is Christian, that's why she reads the Bible and goes to mass every Sunday.",
+   "exampleMeaning": "Cô ấy theo Ki-tô giáo, đó là lí do vì sao cô ấy đọc Kinh Thánh và đi lễ mỗi Chủ Nhật.",
+   "emoji": "",
+   "ipa": "/ˈbaɪbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "unfavorable",
+   "meaning": "bất lợi, không thuận lợi",
+   "example": "Let's learn the word \"unfavorable\".",
+   "exampleMeaning": "Cùng học từ “unfavorable”: bất lợi, không thuận lợi.",
+   "emoji": "",
+   "ipa": "/ˌənˈfeɪvɜrəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "roster",
+   "meaning": "danh sách, bảng phân công",
+   "example": "Let's learn the word \"roster\".",
+   "exampleMeaning": "Cùng học từ “roster”: danh sách, bảng phân công.",
+   "emoji": "",
+   "ipa": "/ˈrɑstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "alumnus",
+   "meaning": "cựu sinh viên",
+   "example": "Let's learn the word \"alumnus\".",
+   "exampleMeaning": "Cùng học từ “alumnus”: cựu sinh viên.",
+   "emoji": "",
+   "ipa": "/əˈləmnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "literate",
+   "meaning": "biết đọc biết viết, có hiểu biết",
+   "example": "Let's learn the word \"literate\".",
+   "exampleMeaning": "Cùng học từ “literate”: biết đọc biết viết, có hiểu biết.",
+   "emoji": "",
+   "ipa": "/ˈlɪtɜrət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exhaustive",
+   "meaning": "thấu đáo, cặn kẽ",
+   "example": "an exhaustive research",
+   "exampleMeaning": "Sự nghiên cứu toàn diện",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɔstɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "maritime",
+   "meaning": "hàng hải, (thuộc) biển",
+   "example": "the maritime provinces of the U.S.S.R.",
+   "exampleMeaning": "Những tỉnh gần biển của Liên-xô",
+   "emoji": "",
+   "ipa": "/ˈmɛrəˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "simmer",
+   "meaning": "đun liu riu, sôi âm ỉ",
+   "example": "at a simmer; on the simmer",
+   "exampleMeaning": "Bị kìm lại, bị nén lại",
+   "emoji": "",
+   "ipa": "/ˈsɪmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lighthouse",
+   "meaning": "hải đăng",
+   "example": "Let's learn the word \"lighthouse\".",
+   "exampleMeaning": "Cùng học từ “lighthouse”: hải đăng.",
+   "emoji": "",
+   "ipa": "/ˈlaɪtˌhaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "stoop",
+   "meaning": "cúi xuống, khom lưng, hạ mình",
+   "example": "to stoop to conquer",
+   "exampleMeaning": "Hạ mình để chinh phục",
+   "emoji": "",
+   "ipa": "/ˈstup/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "peck",
+   "meaning": "mổ, hôn phớt",
+   "example": "a peck of troubles",
+   "exampleMeaning": "Vô khối điều phiền hà",
+   "emoji": "",
+   "ipa": "/ˈpɛk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "coroner",
+   "meaning": "nhân viên điều tra tử vong",
+   "example": "Let's learn the word \"coroner\".",
+   "exampleMeaning": "Cùng học từ “coroner”: nhân viên điều tra tử vong.",
+   "emoji": "",
+   "ipa": "/ˈkɔrənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "biographical",
+   "meaning": "(thuộc) tiểu sử",
+   "example": "Let's learn the word \"biographical\".",
+   "exampleMeaning": "Cùng học từ “biographical”: (thuộc) tiểu sử.",
+   "emoji": "",
+   "ipa": "/ˌbaɪəˈɡræfɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "quaint",
+   "meaning": "cổ kính, kỳ lạ thú vị",
+   "example": "a quaint old village",
+   "exampleMeaning": "Một làng cổ trông là lạ",
+   "emoji": "",
+   "ipa": "/ˈkweɪnt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gull",
+   "meaning": "mòng biển, hải âu",
+   "example": "Let's learn the word \"gull\".",
+   "exampleMeaning": "Cùng học từ “gull”: mòng biển, hải âu.",
+   "emoji": "",
+   "ipa": "/ˈɡʌl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "subtlety",
+   "meaning": "sự tinh tế, sự tế nhị",
+   "example": "Let's learn the word \"subtlety\".",
+   "exampleMeaning": "Cùng học từ “subtlety”: sự tinh tế, sự tế nhị.",
+   "emoji": "",
+   "ipa": "/ˈsətəlti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conclusive",
+   "meaning": "thuyết phục, dứt khoát",
+   "example": "Let's learn the word \"conclusive\".",
+   "exampleMeaning": "Cùng học từ “conclusive”: thuyết phục, dứt khoát.",
+   "emoji": "",
+   "ipa": "/kənˈklusɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "newsroom",
+   "meaning": "phòng tin tức, tòa soạn",
+   "example": "Let's learn the word \"newsroom\".",
+   "exampleMeaning": "Cùng học từ “newsroom”: phòng tin tức, tòa soạn.",
+   "emoji": "",
+   "ipa": "/ˈnuzˌrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You",
+    "should",
+    "not",
+    "adulterate",
+    "wine",
+    "with",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Bạn không được trộn nước với rượu nho."
+  },
+  {
+   "tokens": [
+    "They",
+    "felt",
+    "remorse",
+    "for",
+    "what",
+    "they'd",
+    "done"
+   ],
+   "reading": "",
+   "meaning": "Họ đã cảm thấy ăn năn về những gì mà họ đã làm."
+  },
+  {
+   "tokens": [
+    "The",
+    "very",
+    "thought",
+    "is",
+    "abhorrent",
+    "to",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Chỉ nghĩ đến nó thôi là tôi đã thấy đáng sợ rồi."
+  },
+  {
+   "tokens": [
+    "Moderate",
+    "exercise",
+    "stimulates",
+    "the",
+    "circulation",
+    "of",
+    "blood"
+   ],
+   "reading": "",
+   "meaning": "Việc tập thể dục điều độ sẽ làm kích thích tuần hoàn máu."
+  },
+  {
+   "tokens": [
+    "He",
+    "was",
+    "compelled",
+    "to",
+    "sign",
+    "the",
+    "contract"
+   ],
+   "reading": "",
+   "meaning": "Ông ấy buộc lòng phải ký hợp đồng."
+  }
+ ],
+ "issues": []
+}

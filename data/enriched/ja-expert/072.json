@@ -1,0 +1,339 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "対案",
+   "meaning": "đề xuất đối lập",
+   "example": "「対案」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “対案”: đề xuất đối lập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奪取",
+   "meaning": "chiếm đoạt, giành lấy",
+   "example": "「奪取」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “奪取”: chiếm đoạt, giành lấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "無関係",
+   "meaning": "không liên quan",
+   "example": "「無関係」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無関係”: không liên quan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蛇",
+   "meaning": "rắn",
+   "example": "「蛇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “蛇”: rắn.",
+   "emoji": "🐍",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新薬",
+   "meaning": "thuốc mới",
+   "example": "「新薬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新薬”: thuốc mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "裏目",
+   "meaning": "mặt trái, phản tác dụng",
+   "example": "「裏目」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裏目”: mặt trái, phản tác dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "示し",
+   "meaning": "làm gương, kỷ luật",
+   "example": "例を一つ示してください。",
+   "exampleMeaning": "Hãy cho tôi một ví dụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "部分的",
+   "meaning": "một phần, cục bộ",
+   "example": "「部分的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “部分的”: một phần, cục bộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "開花",
+   "meaning": "nở hoa, khai hoa",
+   "example": "「開花」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “開花”: nở hoa, khai hoa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大義名分",
+   "meaning": "chính nghĩa, lý do chính đáng",
+   "example": "「大義名分」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “大義名分”: chính nghĩa, lý do chính đáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "焼死",
+   "meaning": "chết cháy",
+   "example": "「焼死」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “焼死”: chết cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仕切り",
+   "meaning": "vách ngăn, ranh giới",
+   "example": "「仕切り」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “仕切り”: vách ngăn, ranh giới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "和風",
+   "meaning": "kiểu Nhật",
+   "example": "「和風」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “和風”: kiểu Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中型",
+   "meaning": "cỡ vừa, cỡ trung",
+   "example": "「中型」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中型”: cỡ vừa, cỡ trung.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "理想的",
+   "meaning": "lý tưởng",
+   "example": "君の言ってることは確かに理想的だけど、誰もができるとは限らないだろ。",
+   "exampleMeaning": "Điều mà bạn nói quả thực là hoàn hảo đấy, cơ mà có lẽ không phải ai cũng làm được đâu nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "散布",
+   "meaning": "rải, phun",
+   "example": "「散布」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “散布”: rải, phun.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "転用",
+   "meaning": "chuyển đổi mục đích",
+   "example": "「転用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “転用”: chuyển đổi mục đích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "犠打",
+   "meaning": "cú đánh hy sinh",
+   "example": "「犠打」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “犠打”: cú đánh hy sinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "越境",
+   "meaning": "vượt biên",
+   "example": "「越境」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “越境”: vượt biên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "微生物",
+   "meaning": "vi sinh vật",
+   "example": "タトエバの例文は微生物のようなものである。有益なものもあれば有害なものもある。",
+   "exampleMeaning": "Những câu ví dụ trên Tatoeba.org giống như những loài vi sinh vật vậy. Có những câu thì có ích, nhưng cũng có những câu thì có hại.",
+   "emoji": "🦠",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "例",
+    "を",
+    "一つ",
+    "示して",
+    "ください"
+   ],
+   "reading": "れいをひとつしめしてください",
+   "meaning": "Hãy cho tôi một ví dụ."
+  },
+  {
+   "tokens": [
+    "ガス",
+    "で",
+    "調理",
+    "します",
+    "か",
+    "あるいは",
+    "電気",
+    "ですか"
+   ],
+   "reading": "ガスでちょうりしますかあるいはでんきですか",
+   "meaning": "Bạn nấu ăn bằng ga hay là bằng điện?"
+  },
+  {
+   "tokens": [
+    "飛行機",
+    "は",
+    "墜落",
+    "する",
+    "前",
+    "に",
+    "地面",
+    "すれすれ",
+    "に",
+    "飛んだ"
+   ],
+   "reading": "ひこうきはついらくするまえにじめんすれすれにとんだ",
+   "meaning": "Chiếc máy bay đã bay sát mặt trước khi nó đâm sầm xuống."
+  },
+  {
+   "tokens": [
+    "天然",
+    "自然",
+    "が",
+    "荒らされていく",
+    "の",
+    "は",
+    "残念な",
+    "こと",
+    "だ"
+   ],
+   "reading": "てんねんしぜんがあらされていくのはざんねんなことだ",
+   "meaning": "Lãng phí tài nguyên thiên nhiên lá một việc làm thật xấu hổ."
+  },
+  {
+   "tokens": [
+    "信号",
+    "が",
+    "黄色",
+    "の",
+    "とき",
+    "わたしたち",
+    "は",
+    "止まります"
+   ],
+   "reading": "しんごうがきいろのときわたしたちはとまります",
+   "meaning": "Khi đèn tín hiểu chuyển sang màu vàng, chúng ta dừng lại."
+  }
+ ],
+ "issues": []
+}

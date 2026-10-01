@@ -1,0 +1,321 @@
+{
+ "lesson": 39,
+ "draft": true,
+ "words": [
+  {
+   "term": "军阀",
+   "meaning": "quân phiệt",
+   "example": "军阀主义",
+   "exampleMeaning": "Chủ nghĩa quân phiệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnfá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "见效",
+   "meaning": "có hiệu quả, công hiệu",
+   "example": "这药吃下去就见效。",
+   "exampleMeaning": "Loại thuốc này uống vào là có hiệu lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "历代",
+   "meaning": "các đời, qua các triều đại",
+   "example": "这里的珍珠养殖业历代不衰。",
+   "exampleMeaning": "Nghề nuôi trai ở nơi này qua nhiều thời kỳ cũng không bị suy yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìdài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "水利",
+   "meaning": "thủy lợi",
+   "example": "我们来学“水利”这个词。",
+   "exampleMeaning": "Cùng học từ “水利”: thủy lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宝库",
+   "meaning": "kho báu, kho tàng",
+   "example": "知识宝库",
+   "exampleMeaning": "Kho tàng tri thức",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎokù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "志气",
+   "meaning": "chí khí",
+   "example": "人小志气大",
+   "exampleMeaning": "Người nhỏ nhưng chí lớn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìqì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拜年",
+   "meaning": "chúc Tết",
+   "example": "给大家拜年",
+   "exampleMeaning": "Chúc tết mọi người",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàinián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "下功夫",
+   "meaning": "bỏ công sức, dồn công",
+   "example": "我们来学“下功夫”这个词。",
+   "exampleMeaning": "Cùng học từ “下功夫”: bỏ công sức, dồn công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàgōngfu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全文",
+   "meaning": "toàn văn, toàn bộ văn bản",
+   "example": "我们来学“全文”这个词。",
+   "exampleMeaning": "Cùng học từ “全文”: toàn văn, toàn bộ văn bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quánwén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "酒杯",
+   "meaning": "ly rượu, chén rượu",
+   "example": "我们来学“酒杯”这个词。",
+   "exampleMeaning": "Cùng học từ “酒杯”: ly rượu, chén rượu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔbēi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同人",
+   "meaning": "đồng nghiệp, người cùng nghề",
+   "example": "我们来学“同人”这个词。",
+   "exampleMeaning": "Cùng học từ “同人”: đồng nghiệp, người cùng nghề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "诞辰",
+   "meaning": "ngày sinh (trang trọng)",
+   "example": "我们来学“诞辰”这个词。",
+   "exampleMeaning": "Cùng học từ “诞辰”: ngày sinh (trang trọng).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dànchén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "频频",
+   "meaning": "liên tục, liên tiếp",
+   "example": "我们来学“频频”这个词。",
+   "exampleMeaning": "Cùng học từ “频频”: liên tục, liên tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínpín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "诀别",
+   "meaning": "vĩnh biệt, từ biệt",
+   "example": "我们来学“诀别”这个词。",
+   "exampleMeaning": "Cùng học từ “诀别”: vĩnh biệt, từ biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juébié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "统领",
+   "meaning": "thống lĩnh",
+   "example": "统领各路人马。",
+   "exampleMeaning": "Thống lĩnh binh ngựa các nơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tǒnglǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "酒楼",
+   "meaning": "nhà hàng, tửu lầu",
+   "example": "我们来学“酒楼”这个词。",
+   "exampleMeaning": "Cùng học từ “酒楼”: nhà hàng, tửu lầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔlóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同义词",
+   "meaning": "từ đồng nghĩa",
+   "example": "我们来学“同义词”这个词。",
+   "exampleMeaning": "Cùng học từ “同义词”: từ đồng nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tóngyìcí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "汹涌",
+   "meaning": "cuồn cuộn, dữ dội",
+   "example": "波涛汹涌。",
+   "exampleMeaning": "Sóng nước cuộn trào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiōngyǒng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "通向",
+   "meaning": "dẫn tới, thông tới",
+   "example": "我们来学“通向”这个词。",
+   "exampleMeaning": "Cùng học từ “通向”: dẫn tới, thông tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tōngxiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "官军",
+   "meaning": "quân triều đình",
+   "example": "我们来学“官军”这个词。",
+   "exampleMeaning": "Cùng học từ “官军”: quân triều đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guānjūn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "你",
+    "很",
+    "害羞"
+   ],
+   "reading": "nǐ hěn hàixiū",
+   "meaning": "Bạn rất nhút nhát."
+  },
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  }
+ ],
+ "issues": []
+}

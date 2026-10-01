@@ -1,0 +1,323 @@
+{
+ "lesson": 76,
+ "draft": true,
+ "words": [
+  {
+   "term": "太极拳",
+   "meaning": "thái cực quyền",
+   "example": "我们来学“太极拳”这个词。",
+   "exampleMeaning": "Cùng học từ “太极拳”: thái cực quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàijíquán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "陷于",
+   "meaning": "rơi vào, sa vào",
+   "example": "双方谈判陷于僵局。",
+   "exampleMeaning": "Cuộc đàm phán song phương rơi vào bế tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiànyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "烦闷",
+   "meaning": "buồn bực, phiền muộn",
+   "example": "我们来学“烦闷”这个词。",
+   "exampleMeaning": "Cùng học từ “烦闷”: buồn bực, phiền muộn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fánmèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "饱满",
+   "meaning": "đầy đặn, căng tràn",
+   "example": "颗粒饱满",
+   "exampleMeaning": "Hạt mẩy (hột chắc)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎomǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "含蓄",
+   "meaning": "hàm súc, kín đáo",
+   "example": "那位姑娘的感情很含蓄。",
+   "exampleMeaning": "Tình cảm của cô ấy rất kín đáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hánxù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "航道",
+   "meaning": "luồng tàu, đường thủy",
+   "example": "开辟新的航道",
+   "exampleMeaning": "Mở tuyến đường thuỷ mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hángdào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "历来",
+   "meaning": "từ trước tới nay, xưa nay",
+   "example": "老校长历来重视思想教育。",
+   "exampleMeaning": "Thầy hiệu trưởng xưa nay vẫn coi trọng giáo dục tư tưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìlái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "遇险",
+   "meaning": "gặp nạn, gặp nguy hiểm",
+   "example": "船在海上遇险。",
+   "exampleMeaning": "Tàu gặp nạn trên biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùxiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "浮力",
+   "meaning": "lực nổi, sức nổi",
+   "example": "我们来学“浮力”这个词。",
+   "exampleMeaning": "Cùng học từ “浮力”: lực nổi, sức nổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fúlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奥秘",
+   "meaning": "bí ẩn, điều huyền bí",
+   "example": "探索宇宙的奥秘。",
+   "exampleMeaning": "Tìm tòi những điều thần bí của vũ trụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "àomì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "党员",
+   "meaning": "đảng viên",
+   "example": "我们来学“党员”这个词。",
+   "exampleMeaning": "Cùng học từ “党员”: đảng viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎngyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "晶体",
+   "meaning": "tinh thể",
+   "example": "我们来学“晶体”这个词。",
+   "exampleMeaning": "Cùng học từ “晶体”: tinh thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngtǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未能",
+   "meaning": "không thể, chưa thể",
+   "example": "我们来学“未能”这个词。",
+   "exampleMeaning": "Cùng học từ “未能”: không thể, chưa thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wèinéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瑰宝",
+   "meaning": "báu vật, của quý",
+   "example": "敦煌壁画是中国古代艺术中的瑰宝。",
+   "exampleMeaning": "Bích hoạ Đôn Hoàng là báu vật trong nghệ thuật Trung Hoa cổ đại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guībǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "健美",
+   "meaning": "khỏe đẹp, thể hình",
+   "example": "我们来学“健美”这个词。",
+   "exampleMeaning": "Cùng học từ “健美”: khỏe đẹp, thể hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànměi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "多边",
+   "meaning": "đa phương",
+   "example": "多边会谈",
+   "exampleMeaning": "Hội đàm nhiều bên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "duōbiān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过境",
+   "meaning": "quá cảnh",
+   "example": "台风将要过境",
+   "exampleMeaning": "Bão sắp đến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòjìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "萍水相逢",
+   "meaning": "bèo nước gặp nhau, tình cờ gặp gỡ",
+   "example": "他是我到国外旅行时，萍水相逢结交的朋友。",
+   "exampleMeaning": "Anh ta là người bạn tôi quen biết tình cờ trong chuyến đi du lịch nước ngoài",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngshuǐxiāngféng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "息息相关",
+   "meaning": "gắn bó mật thiết",
+   "example": "他们俩情同手足，息息相关。",
+   "exampleMeaning": "Hai người họ gắn bó mật thiết như anh em, hoà cùng một nhịp thở với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīxīxiāngguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "吵嘴",
+   "meaning": "cãi nhau, cãi cọ",
+   "example": "我们来学“吵嘴”这个词。",
+   "exampleMeaning": "Cùng học từ “吵嘴”: cãi nhau, cãi cọ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎozuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  }
+ ],
+ "issues": []
+}

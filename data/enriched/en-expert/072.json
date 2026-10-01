@@ -1,0 +1,329 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "confound",
+   "meaning": "làm bối rối, gây khó hiểu",
+   "example": "I confound you with your brother",
+   "exampleMeaning": "Tôi lầm anh với anh anh",
+   "emoji": "",
+   "ipa": "/ˈkɑnˌfaʊnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pastry",
+   "meaning": "bánh ngọt, bột bánh",
+   "example": "Let's learn the word \"pastry\".",
+   "exampleMeaning": "Cùng học từ “pastry”: bánh ngọt, bột bánh.",
+   "emoji": "",
+   "ipa": "/ˈpeɪstri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perennial",
+   "meaning": "lâu năm, muôn thuở",
+   "example": "a perennial plant",
+   "exampleMeaning": "Cây lâu năm",
+   "emoji": "",
+   "ipa": "/pɜrˈɛniəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "greed",
+   "meaning": "lòng tham",
+   "example": "Let's learn the word \"greed\".",
+   "exampleMeaning": "Cùng học từ “greed”: lòng tham.",
+   "emoji": "",
+   "ipa": "/ˈɡrid/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dietary",
+   "meaning": "(thuộc) ăn uống, chế độ ăn",
+   "example": "Let's learn the word \"dietary\".",
+   "exampleMeaning": "Cùng học từ “dietary”: (thuộc) ăn uống, chế độ ăn.",
+   "emoji": "",
+   "ipa": "/ˈdaɪəˌtɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "nudge",
+   "meaning": "huých nhẹ, thúc nhẹ",
+   "example": "to give a nudge",
+   "exampleMeaning": "Lấy thúc cho một cái",
+   "emoji": "",
+   "ipa": "/ˈnədʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deception",
+   "meaning": "sự lừa dối, trò lừa",
+   "example": "to practise deception",
+   "exampleMeaning": "Lừa dối, lừa gạt",
+   "emoji": "",
+   "ipa": "/dɪˈsɛpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "proprietor",
+   "meaning": "chủ sở hữu, chủ (quán)",
+   "example": "Let's learn the word \"proprietor\".",
+   "exampleMeaning": "Cùng học từ “proprietor”: chủ sở hữu, chủ (quán).",
+   "emoji": "",
+   "ipa": "/prəˈpraɪətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overhaul",
+   "meaning": "đại tu, cải tổ",
+   "example": "Let's learn the word \"overhaul\".",
+   "exampleMeaning": "Cùng học từ “overhaul”: đại tu, cải tổ.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌhɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pore",
+   "meaning": "lỗ chân lông, nghiền ngẫm",
+   "example": "to pore over a book",
+   "exampleMeaning": "Mải mê nghiên cứu một cuốn sách",
+   "emoji": "",
+   "ipa": "/ˈpɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deduct",
+   "meaning": "khấu trừ, trừ đi",
+   "example": "to deduct 10% from the wahes",
+   "exampleMeaning": "Khấu 10 tho õn[di'dʌkʃn]",
+   "emoji": "",
+   "ipa": "/dɪˈdəkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "empathy",
+   "meaning": "đồng cảm, thấu cảm",
+   "example": "Let's learn the word \"empathy\".",
+   "exampleMeaning": "Cùng học từ “empathy”: đồng cảm, thấu cảm.",
+   "emoji": "",
+   "ipa": "/ˈɛmpəθi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "determinant",
+   "meaning": "yếu tố quyết định, định thức",
+   "example": "Let's learn the word \"determinant\".",
+   "exampleMeaning": "Cùng học từ “determinant”: yếu tố quyết định, định thức.",
+   "emoji": "",
+   "ipa": "/dɪˈtɜrmənənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "perpetual",
+   "meaning": "vĩnh viễn, liên miên",
+   "example": "Let's learn the word \"perpetual\".",
+   "exampleMeaning": "Cùng học từ “perpetual”: vĩnh viễn, liên miên.",
+   "emoji": "",
+   "ipa": "/pɜrˈpɛtʃuəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grit",
+   "meaning": "sạn, lòng kiên trì",
+   "example": "there must be some grit in the machine",
+   "exampleMeaning": "Chắc hẳn có hạt sạn trong máy",
+   "emoji": "",
+   "ipa": "/ˈɡrɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tenor",
+   "meaning": "giọng nam cao, tinh thần chung",
+   "example": "the tenor of his speech",
+   "exampleMeaning": "Tinh thần chung (nội dung chính) bài nói của ông ta",
+   "emoji": "",
+   "ipa": "/ˈtɛnɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "downside",
+   "meaning": "mặt trái, nhược điểm",
+   "example": "Let's learn the word \"downside\".",
+   "exampleMeaning": "Cùng học từ “downside”: mặt trái, nhược điểm.",
+   "emoji": "",
+   "ipa": "/ˈdaʊnˌsaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "defiance",
+   "meaning": "sự bất tuân, sự thách thức",
+   "example": "to set the law at defiance",
+   "exampleMeaning": "Coi thường luật pháp, không tuân theo luật pháp",
+   "emoji": "",
+   "ipa": "/dɪˈfaɪəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "esteem",
+   "meaning": "sự quý trọng, đánh giá cao",
+   "example": "to hold someone in high esteem",
+   "exampleMeaning": "Kính mến ai, quý trọng ai",
+   "emoji": "",
+   "ipa": "/əˈstim/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sociologist",
+   "meaning": "nhà xã hội học",
+   "example": "Let's learn the word \"sociologist\".",
+   "exampleMeaning": "Cùng học từ “sociologist”: nhà xã hội học.",
+   "emoji": "",
+   "ipa": "/ˌsoʊsiˈɑlədʒɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "is",
+    "generally",
+    "an",
+    "impeccable",
+    "student"
+   ],
+   "reading": "",
+   "meaning": "Nhìn chung thì anh ấy là con ngoan trò giỏi."
+  },
+  {
+   "tokens": [
+    "She",
+    "was",
+    "standing",
+    "on",
+    "one",
+    "foot"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang đứng một chân."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "completely",
+    "isolated",
+    "from",
+    "society"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy bị cô lập hoàn toàn khỏi xã hội."
+  },
+  {
+   "tokens": [
+    "The",
+    "pursuit",
+    "of",
+    "success",
+    "requires",
+    "sacrifices"
+   ],
+   "reading": "",
+   "meaning": "Để theo đuổi thành công, cần có sự hi sinh."
+  },
+  {
+   "tokens": [
+    "This",
+    "method",
+    "has",
+    "pros",
+    "and",
+    "cons"
+   ],
+   "reading": "",
+   "meaning": "Phương pháp này có ưu và nhược điểm."
+  }
+ ],
+ "issues": []
+}

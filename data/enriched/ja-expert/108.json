@@ -1,0 +1,327 @@
+{
+ "lesson": 108,
+ "draft": true,
+ "words": [
+  {
+   "term": "裏面",
+   "meaning": "mặt sau, mặt trái",
+   "example": "「裏面」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裏面”: mặt sau, mặt trái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "中途半端",
+   "meaning": "nửa vời, dở dang",
+   "example": "「中途半端」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中途半端”: nửa vời, dở dang.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管財",
+   "meaning": "quản lý tài sản",
+   "example": "「管財」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “管財”: quản lý tài sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部署",
+   "meaning": "bộ phận, vị trí công tác",
+   "example": "問題の原因は部署間のコミュニケーションの欠如にある。",
+   "exampleMeaning": "Gốc rễ của vấn đề nằm ở sự thiếu giao tiếp giữa các phòng ban với nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "農作業",
+   "meaning": "việc đồng áng",
+   "example": "「農作業」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農作業”: việc đồng áng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "頭文字",
+   "meaning": "chữ cái đầu",
+   "example": "「頭文字」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “頭文字”: chữ cái đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "選挙人",
+   "meaning": "cử tri",
+   "example": "「選挙人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選挙人”: cử tri.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "終末",
+   "meaning": "hồi kết, ngày tận thế",
+   "example": "「終末」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “終末”: hồi kết, ngày tận thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人民戦線",
+   "meaning": "mặt trận nhân dân",
+   "example": "「人民戦線」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人民戦線”: mặt trận nhân dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "橘",
+   "meaning": "cây quýt Nhật",
+   "example": "「橘」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “橘”: cây quýt Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自発",
+   "meaning": "tự phát, tự nguyện",
+   "example": "「自発」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自発”: tự phát, tự nguyện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "醸造",
+   "meaning": "ủ rượu, chế biến lên men",
+   "example": "「醸造」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “醸造”: ủ rượu, chế biến lên men.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刑事事件",
+   "meaning": "vụ án hình sự",
+   "example": "「刑事事件」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “刑事事件”: vụ án hình sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "昼前",
+   "meaning": "trước trưa, buổi sáng",
+   "example": "「昼前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “昼前”: trước trưa, buổi sáng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "復党",
+   "meaning": "tái gia nhập đảng",
+   "example": "「復党」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “復党”: tái gia nhập đảng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "休止",
+   "meaning": "tạm dừng, nghỉ",
+   "example": "「休止」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “休止”: tạm dừng, nghỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "変造",
+   "meaning": "làm giả, chỉnh sửa trái phép",
+   "example": "「変造」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “変造”: làm giả, chỉnh sửa trái phép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "くり",
+   "meaning": "hạt dẻ",
+   "example": "その絵は本物そっくりだ。",
+   "exampleMeaning": "Bức tranh đó giống như thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "色紙",
+   "meaning": "giấy ký tặng",
+   "example": "「色紙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “色紙”: giấy ký tặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "軍属",
+   "meaning": "nhân viên dân sự quân đội",
+   "example": "「軍属」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “軍属”: nhân viên dân sự quân đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "この",
+    "真珠",
+    "は",
+    "本物",
+    "そっくり",
+    "だ"
+   ],
+   "reading": "このしんじゅはほんものそっくりだ",
+   "meaning": "Những viên ngọc trai này trông rất giống thật."
+  },
+  {
+   "tokens": [
+    "その",
+    "絵",
+    "は",
+    "本物",
+    "そっくり",
+    "だ"
+   ],
+   "reading": "そのえはほんものそっくりだ",
+   "meaning": "Bức tranh đó giống như thật."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "ゆっくりと",
+    "前進",
+    "した"
+   ],
+   "reading": "かのじょはゆっくりとぜんしんした",
+   "meaning": "Cô ta từ từ tiến về phía trước."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "お兄さん",
+    "に",
+    "そっくり",
+    "だ",
+    "よ"
+   ],
+   "reading": "きみはおにいさんにそっくりだよ",
+   "meaning": "Em trông giống hệt anh trai mình đấy."
+  },
+  {
+   "tokens": [
+    "もっと",
+    "ゆっくり",
+    "走って",
+    "ください"
+   ],
+   "reading": "もっとゆっくりはしってください",
+   "meaning": "Hãy chạy chậm hơn một chút."
+  }
+ ],
+ "issues": []
+}

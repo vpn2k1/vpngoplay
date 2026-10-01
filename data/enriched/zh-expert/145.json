@@ -1,0 +1,331 @@
+{
+ "lesson": 145,
+ "draft": true,
+ "words": [
+  {
+   "term": "改为",
+   "meaning": "đổi thành",
+   "example": "我们来学“改为”这个词。",
+   "exampleMeaning": "Cùng học từ “改为”: đổi thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎiwéi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "声响",
+   "meaning": "tiếng động, âm thanh",
+   "example": "山谷里洪水发出巨大的声响。",
+   "exampleMeaning": "Nước lũ trong khe núi phát ra những âm thanh to lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngxiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "避开",
+   "meaning": "tránh xa, né tránh",
+   "example": "他有意避开她。",
+   "exampleMeaning": "Nó có ý định tránh cô ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìkāi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "转载",
+   "meaning": "đăng lại, trích đăng",
+   "example": "我们来学“转载”这个词。",
+   "exampleMeaning": "Cùng học từ “转载”: đăng lại, trích đăng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎnzǎi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "总而言之",
+   "meaning": "tóm lại",
+   "example": "大的，小的，圆的，方的，总而言之，各种形状都有。",
+   "exampleMeaning": "To có, nhỏ có, tròn có, vuông có, tóm lại là mọi hình dáng đều có cả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngéryánzhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不可",
+   "meaning": "không thể, không được",
+   "example": "今天这个会很重要，我非去不可",
+   "exampleMeaning": "Buổi họp hôm nay rất quan trọng, tôi không thể không đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùkě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "豌豆",
+   "meaning": "đậu Hà Lan",
+   "example": "我们来学“豌豆”这个词。",
+   "exampleMeaning": "Cùng học từ “豌豆”: đậu Hà Lan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wāndòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "降水量",
+   "meaning": "lượng mưa",
+   "example": "我们来学“降水量”这个词。",
+   "exampleMeaning": "Cùng học từ “降水量”: lượng mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàngshuǐliàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "隶属",
+   "meaning": "thuộc quyền, lệ thuộc",
+   "example": "直辖市直接隶属国务院。",
+   "exampleMeaning": "Thành phố trực thuộc trung ương thì trực tiếp lệ thuộc vào quốc vụ viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìshǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "蕴涵",
+   "meaning": "hàm chứa, bao hàm",
+   "example": "这段文字不长，却蕴涵着丰富的内容。",
+   "exampleMeaning": "Đoạn văn này không dài, nhưng có nội dung phong phú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùnhán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "染色体",
+   "meaning": "nhiễm sắc thể",
+   "example": "我们来学“染色体”这个词。",
+   "exampleMeaning": "Cùng học từ “染色体”: nhiễm sắc thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rǎnsètǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省事",
+   "meaning": "hiểu chuyện, biết điều",
+   "example": "在食堂里吃饭省事。",
+   "exampleMeaning": "Ăn cơm ở nhà ăn cho tiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "教条",
+   "meaning": "giáo điều",
+   "example": "我们来学“教条”这个词。",
+   "exampleMeaning": "Cùng học từ “教条”: giáo điều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàotiáo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "床位",
+   "meaning": "chỗ nằm, giường bệnh",
+   "example": "我们来学“床位”这个词。",
+   "exampleMeaning": "Cùng học từ “床位”: chỗ nằm, giường bệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuángwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "因人而异",
+   "meaning": "tùy người, mỗi người mỗi khác",
+   "example": "每个人的体质不同，对药物的适应也往往因人而异。",
+   "exampleMeaning": "Thể chất của mỗi người khác nhau, nên cơ thể mỗi người thích ứng với thuốc cũng khác nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīnrénéryì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "出击",
+   "meaning": "xuất kích, tấn công",
+   "example": "我们来学“出击”这个词。",
+   "exampleMeaning": "Cùng học từ “出击”: xuất kích, tấn công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūjī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "好家伙",
+   "meaning": "trời đất ơi, chà",
+   "example": "好家伙，你们怎么干得这么快呀！",
+   "exampleMeaning": "Giỏi thật, các anh làm thế nào mà nhanh thế！",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hǎojiāhuo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "陡",
+   "meaning": "dốc đứng, đột ngột",
+   "example": "山很陡，爬上去很困难。",
+   "exampleMeaning": "Núi rất dốc, trèo lên rất khó khăn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "发愁",
+   "meaning": "lo lắng, buồn rầu",
+   "example": "你先别发愁，资金问题我来想办法解决。",
+   "exampleMeaning": "Anh đừng buồn phiền nữa, chuyện tiền bạc tôi sẽ tìm cách giải quyết sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāchóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沉吟",
+   "meaning": "trầm ngâm",
+   "example": "我们来学“沉吟”这个词。",
+   "exampleMeaning": "Cùng học từ “沉吟”: trầm ngâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chényín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  }
+ ],
+ "issues": []
+}

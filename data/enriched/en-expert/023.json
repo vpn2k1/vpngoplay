@@ -1,0 +1,339 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "tenant",
+   "meaning": "người thuê nhà",
+   "example": "The landlord pays for the gas, but the tenant pays for all other utilities",
+   "exampleMeaning": "Chủ nhà trả tiền ga, nhưng người thuê trả các phí sử dụng khác.",
+   "emoji": "",
+   "ipa": "/ˈtɛnənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bass",
+   "meaning": "âm trầm, cá vược",
+   "example": "Let's learn the word \"bass\".",
+   "exampleMeaning": "Cùng học từ “bass”: âm trầm, cá vược.",
+   "emoji": "",
+   "ipa": "/ˈbæs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sergeant",
+   "meaning": "trung sĩ",
+   "example": "Let's learn the word \"sergeant\".",
+   "exampleMeaning": "Cùng học từ “sergeant”: trung sĩ.",
+   "emoji": "",
+   "ipa": "/ˈsɑrdʒənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dispatch",
+   "meaning": "gửi đi, điều phái",
+   "example": "to do something with dispatch",
+   "exampleMeaning": "Khẩn trương làm việc gì",
+   "emoji": "",
+   "ipa": "/dɪˈspætʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "witch",
+   "meaning": "phù thủy",
+   "example": "The witch threw a live rat into the boiling potion.",
+   "exampleMeaning": "Phù thuỷ ném con chuột sống vào thuốc phép đang sôi.",
+   "emoji": "",
+   "ipa": "/wɪt͡ʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "subsidiary",
+   "meaning": "công ty con, phụ",
+   "example": "Let's learn the word \"subsidiary\".",
+   "exampleMeaning": "Cùng học từ “subsidiary”: công ty con, phụ.",
+   "emoji": "",
+   "ipa": "/səbˈsɪdiˌɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "toddler",
+   "meaning": "trẻ mới biết đi",
+   "example": "Let's learn the word \"toddler\".",
+   "exampleMeaning": "Cùng học từ “toddler”: trẻ mới biết đi.",
+   "emoji": "",
+   "ipa": "/ˈtɑdlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "plaintiff",
+   "meaning": "nguyên đơn",
+   "example": "Let's learn the word \"plaintiff\".",
+   "exampleMeaning": "Cùng học từ “plaintiff”: nguyên đơn.",
+   "emoji": "",
+   "ipa": "/ˈpleɪnəf/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "chorus",
+   "meaning": "điệp khúc, dàn đồng ca",
+   "example": "Let's learn the word \"chorus\".",
+   "exampleMeaning": "Cùng học từ “chorus”: điệp khúc, dàn đồng ca.",
+   "emoji": "",
+   "ipa": "/ˈkɔrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "feasible",
+   "meaning": "khả thi",
+   "example": "land feasible for cultivation",
+   "exampleMeaning": "Đất đai có thể cày cấy, trồng trọt được",
+   "emoji": "",
+   "ipa": "/ˈfizəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "constitutional",
+   "meaning": "thuộc hiến pháp, hợp hiến",
+   "example": "to go for an hour's constitutional",
+   "exampleMeaning": "Đi dạo trong một tiếng đồng hồ",
+   "emoji": "",
+   "ipa": "/ˌkɑnstəˈtuʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "entail",
+   "meaning": "kéo theo, đòi hỏi",
+   "example": "to entail much work on someone",
+   "exampleMeaning": "Bắt ai phải làm việc nhiều",
+   "emoji": "",
+   "ipa": "/ɛnˈteɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "dividend",
+   "meaning": "cổ tức",
+   "example": "Let's learn the word \"dividend\".",
+   "exampleMeaning": "Cùng học từ “dividend”: cổ tức.",
+   "emoji": "",
+   "ipa": "/ˈdɪvɪˌdɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lesbian",
+   "meaning": "đồng tính nữ",
+   "example": "Let's learn the word \"lesbian\".",
+   "exampleMeaning": "Cùng học từ “lesbian”: đồng tính nữ.",
+   "emoji": "",
+   "ipa": "/ˈlɛzbiən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scrape",
+   "meaning": "cạo, làm trầy",
+   "example": "to scrape a ship's bottom",
+   "exampleMeaning": "Cạo đáy tàu",
+   "emoji": "",
+   "ipa": "/ˈskreɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "scrub",
+   "meaning": "cọ rửa, bụi cây",
+   "example": "Let's learn the word \"scrub\".",
+   "exampleMeaning": "Cùng học từ “scrub”: cọ rửa, bụi cây.",
+   "emoji": "",
+   "ipa": "/ˈskrəb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "notify",
+   "meaning": "thông báo, báo tin",
+   "example": "to notify someone of one's new address",
+   "exampleMeaning": "Cho ai biết đại chỉ mới",
+   "emoji": "",
+   "ipa": "/ˈnoʊtəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "confrontation",
+   "meaning": "đối đầu, chạm trán",
+   "example": "Let's learn the word \"confrontation\".",
+   "exampleMeaning": "Cùng học từ “confrontation”: đối đầu, chạm trán.",
+   "emoji": "",
+   "ipa": "/ˌkɑnfrənˈteɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "managerial",
+   "meaning": "thuộc quản lý",
+   "example": "Let's learn the word \"managerial\".",
+   "exampleMeaning": "Cùng học từ “managerial”: thuộc quản lý.",
+   "emoji": "",
+   "ipa": "/ˌmænɪˈdʒɪriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lace",
+   "meaning": "ren, dây giày",
+   "example": "to lace [up] one's shoes",
+   "exampleMeaning": "Thắt dây giày",
+   "emoji": "",
+   "ipa": "/ˈleɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "have",
+    "the",
+    "stamina",
+    "to",
+    "do",
+    "that"
+   ],
+   "reading": "",
+   "meaning": "Tôi không có sức chịu đựng để làm điều đó."
+  },
+  {
+   "tokens": [
+    "The",
+    "reception",
+    "on",
+    "this",
+    "portable",
+    "TV",
+    "is",
+    "terrible"
+   ],
+   "reading": "",
+   "meaning": "Khả năng thu tín hiệu trên chiếc tivi di động này thật tệ."
+  },
+  {
+   "tokens": [
+    "Who",
+    "left",
+    "all",
+    "this",
+    "clutter",
+    "on",
+    "the",
+    "floor"
+   ],
+   "reading": "",
+   "meaning": "Ai đã để đống đồ lộn xộn này trên sàn vậy?"
+  },
+  {
+   "tokens": [
+    "I've",
+    "been",
+    "trying",
+    "to",
+    "contact",
+    "you",
+    "all",
+    "morning"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã cố liên lạc với anh sáng nay."
+  },
+  {
+   "tokens": [
+    "I",
+    "don't",
+    "have",
+    "the",
+    "strength",
+    "to",
+    "keep",
+    "trying"
+   ],
+   "reading": "",
+   "meaning": "Tôi không có sức mạng để tiếp tục cố gắng"
+  }
+ ],
+ "issues": []
+}

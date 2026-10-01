@@ -1,0 +1,338 @@
+{
+ "lesson": 50,
+ "draft": true,
+ "words": [
+  {
+   "term": "見当たる",
+   "meaning": "tìm thấy, được thấy",
+   "example": "「見当たる」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見当たる”: tìm thấy, được thấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "決選投票",
+   "meaning": "bỏ phiếu vòng hai",
+   "example": "「決選投票」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “決選投票”: bỏ phiếu vòng hai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目当て",
+   "meaning": "mục đích, cái nhắm tới",
+   "example": "「目当て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目当て”: mục đích, cái nhắm tới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "提唱",
+   "meaning": "đề xướng, chủ trương",
+   "example": "「提唱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “提唱”: đề xướng, chủ trương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不公平",
+   "meaning": "bất công, không công bằng",
+   "example": "とにかく、三対一は不公平だ。",
+   "exampleMeaning": "Tiện thể, ba chọi một là không công bằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "公民館",
+   "meaning": "nhà văn hóa",
+   "example": "「公民館」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公民館”: nhà văn hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分かつ",
+   "meaning": "chia, phân chia",
+   "example": "「分かつ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分かつ”: chia, phân chia.",
+   "emoji": "➗",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "代人",
+   "meaning": "người đại diện, người thay thế",
+   "example": "「代人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “代人”: người đại diện, người thay thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "意図的",
+   "meaning": "cố ý, có chủ đích",
+   "example": "「意図的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “意図的”: cố ý, có chủ đích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "加点",
+   "meaning": "cộng điểm",
+   "example": "「加点」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “加点”: cộng điểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "値上がり",
+   "meaning": "tăng giá",
+   "example": "「値上がり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “値上がり”: tăng giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王室",
+   "meaning": "hoàng gia, hoàng tộc",
+   "example": "「王室」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “王室”: hoàng gia, hoàng tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "動議",
+   "meaning": "kiến nghị (hội nghị)",
+   "example": "「動議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “動議”: kiến nghị (hội nghị).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "教え子",
+   "meaning": "học trò",
+   "example": "「教え子」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教え子”: học trò.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "安楽死",
+   "meaning": "an tử, trợ tử",
+   "example": "「安楽死」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “安楽死”: an tử, trợ tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "振替",
+   "meaning": "chuyển khoản, chuyển đổi",
+   "example": "「振替」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “振替”: chuyển khoản, chuyển đổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年賀状",
+   "meaning": "thiệp chúc Tết",
+   "example": "「年賀状」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “年賀状”: thiệp chúc Tết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "押し出し",
+   "meaning": "đẩy ra, ép đùn",
+   "example": "「押し出し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “押し出し”: đẩy ra, ép đùn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地中海",
+   "meaning": "Địa Trung Hải",
+   "example": "「地中海」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地中海”: Địa Trung Hải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低気圧",
+   "meaning": "áp thấp",
+   "example": "「低気圧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “低気圧”: áp thấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "洋子",
+    "は",
+    "切手",
+    "の",
+    "収集",
+    "に",
+    "興味",
+    "が",
+    "ある"
+   ],
+   "reading": "ようこはきってのしゅうしゅうにきょうみがある",
+   "meaning": "Yōko có hứng thú với việc sưu tầm tem."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "パイロット",
+    "になる",
+    "決意",
+    "を",
+    "した"
+   ],
+   "reading": "かれはパイロットになるけついをした",
+   "meaning": "Anh ấy đã hạ quyết tâm trở thành một phi công."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "親",
+    "の",
+    "意",
+    "に",
+    "背いて",
+    "歌手",
+    "になった"
+   ],
+   "reading": "かれはおやのいにそむいてかしゅになった",
+   "meaning": "Anh ấy đã trở thành một ca sĩ bất chấp mong muốn của cha mẹ."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "に",
+    "煙草を吸う",
+    "な",
+    "と",
+    "忠告",
+    "した"
+   ],
+   "reading": "わたしはかれにたばこをすうなとちゅうこくした",
+   "meaning": "Tôi khuyên anh ta không hút thuốc lá."
+  },
+  {
+   "tokens": [
+    "実は",
+    "私たち",
+    "は",
+    "昨年",
+    "結婚しました"
+   ],
+   "reading": "じつはわたしたちはさくねんけっこんしました",
+   "meaning": "Thực ra, chúng tôi đã kết hôn vào năm ngoái."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,333 @@
+{
+ "lesson": 101,
+ "draft": true,
+ "words": [
+  {
+   "term": "herring",
+   "meaning": "cá trích",
+   "example": "Let's learn the word \"herring\".",
+   "exampleMeaning": "Cùng học từ “herring”: cá trích.",
+   "emoji": "",
+   "ipa": "/ˈhɛrɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "waver",
+   "meaning": "dao động, lưỡng lự",
+   "example": "to waver between two opinions",
+   "exampleMeaning": "Lưỡng lự giữa hai ý kiến",
+   "emoji": "",
+   "ipa": "/ˈweɪvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ominous",
+   "meaning": "điềm gở, đáng ngại",
+   "example": "an ominous silence",
+   "exampleMeaning": "Sự yên lặng đáng ngại",
+   "emoji": "",
+   "ipa": "/ˈɑmənəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "blatant",
+   "meaning": "trắng trợn, lộ liễu",
+   "example": "a blatant lie",
+   "exampleMeaning": "Điêu ngoa trắng trợn",
+   "emoji": "",
+   "ipa": "/ˈbleɪtənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unanswered",
+   "meaning": "chưa được trả lời",
+   "example": "Let's learn the word \"unanswered\".",
+   "exampleMeaning": "Cùng học từ “unanswered”: chưa được trả lời.",
+   "emoji": "",
+   "ipa": "/ˌəˈnænsɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "foray",
+   "meaning": "đột kích, thử sức",
+   "example": "to make (go on) a foray",
+   "exampleMeaning": "Cướp phá, đánh phá, đốt phá, đột nhập",
+   "emoji": "",
+   "ipa": "/ˈfɔreɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lofty",
+   "meaning": "cao cả, cao ngất, kiêu kỳ",
+   "example": "a lofty stature",
+   "exampleMeaning": "Dáng người cao lớn",
+   "emoji": "",
+   "ipa": "/ˈlɔfti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stratum",
+   "meaning": "tầng lớp, địa tầng",
+   "example": "Let's learn the word \"stratum\".",
+   "exampleMeaning": "Cùng học từ “stratum”: tầng lớp, địa tầng.",
+   "emoji": "",
+   "ipa": "/ˈstrætəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "junkie",
+   "meaning": "con nghiện, kẻ nghiện",
+   "example": "What makes you think he's not a junkie?",
+   "exampleMeaning": "Điều gì khiến bạn nghĩ là anh ta không phải một tên nghiện hút?",
+   "emoji": "",
+   "ipa": "/ˈdʒəŋki/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "inversion",
+   "meaning": "đảo ngược, nghịch đảo",
+   "example": "Let's learn the word \"inversion\".",
+   "exampleMeaning": "Cùng học từ “inversion”: đảo ngược, nghịch đảo.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈvɜrʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "naught",
+   "meaning": "số không, hư không",
+   "example": "to set at naught",
+   "exampleMeaning": "Chế giễu; coi thường",
+   "emoji": "",
+   "ipa": "/ˈnɔt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pivot",
+   "meaning": "trục, xoay, chuyển hướng",
+   "example": "Let's learn the word \"pivot\".",
+   "exampleMeaning": "Cùng học từ “pivot”: trục, xoay, chuyển hướng.",
+   "emoji": "",
+   "ipa": "/ˈpɪvət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "badger",
+   "meaning": "con lửng, quấy rầy",
+   "example": "Let's learn the word \"badger\".",
+   "exampleMeaning": "Cùng học từ “badger”: con lửng, quấy rầy.",
+   "emoji": "🦡",
+   "ipa": "/ˈbædʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "depreciation",
+   "meaning": "khấu hao, mất giá",
+   "example": "Let's learn the word \"depreciation\".",
+   "exampleMeaning": "Cùng học từ “depreciation”: khấu hao, mất giá.",
+   "emoji": "",
+   "ipa": "/dɪˌpriʃiˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mania",
+   "meaning": "cơn sốt, chứng hưng cảm",
+   "example": "to have a mania for moving picture",
+   "exampleMeaning": "Nghiện phim ảnh",
+   "emoji": "",
+   "ipa": "/ˈmeɪniə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "puncture",
+   "meaning": "lỗ thủng, chọc thủng",
+   "example": "Let's learn the word \"puncture\".",
+   "exampleMeaning": "Cùng học từ “puncture”: lỗ thủng, chọc thủng.",
+   "emoji": "",
+   "ipa": "/ˈpəŋkʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "informational",
+   "meaning": "cung cấp thông tin",
+   "example": "Let's learn the word \"informational\".",
+   "exampleMeaning": "Cùng học từ “informational”: cung cấp thông tin.",
+   "emoji": "",
+   "ipa": "/ˌɪnfɜrˈmeɪʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "marina",
+   "meaning": "bến du thuyền",
+   "example": "Let's learn the word \"marina\".",
+   "exampleMeaning": "Cùng học từ “marina”: bến du thuyền.",
+   "emoji": "",
+   "ipa": "/mɜrˈinə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "horrendous",
+   "meaning": "khủng khiếp",
+   "example": "Let's learn the word \"horrendous\".",
+   "exampleMeaning": "Cùng học từ “horrendous”: khủng khiếp.",
+   "emoji": "",
+   "ipa": "/ˌhɔˈrɛndəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vertically",
+   "meaning": "theo chiều dọc, thẳng đứng",
+   "example": "The queen may either move horizontally, vertically or diagonally.",
+   "exampleMeaning": "Quân hậu có thể đi ngang, dọc hoặc chéo.",
+   "emoji": "",
+   "ipa": "/ˈvɜrtɪkli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "going",
+    "to",
+    "hunt",
+    "for",
+    "pigeons"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ đi săn bồ câu."
+  },
+  {
+   "tokens": [
+    "Death",
+    "is",
+    "an",
+    "integral",
+    "part",
+    "of",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Cái chết là một phần không thể tách rời của cuộc sống."
+  },
+  {
+   "tokens": [
+    "We",
+    "marveled",
+    "at",
+    "the",
+    "little",
+    "boy's",
+    "eloquence"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi sửng sốt trước khả năng ăn nói của thằng bé."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "trying",
+    "hard",
+    "to",
+    "quit",
+    "smoking"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đang rất cố gắng cai thuốc lá."
+  },
+  {
+   "tokens": [
+    "I",
+    "am",
+    "tired",
+    "of",
+    "my",
+    "monotonous",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Tớ chán cuộc sống đơn điệu rồi."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,336 @@
+{
+ "lesson": 120,
+ "draft": true,
+ "words": [
+  {
+   "term": "取经",
+   "meaning": "thỉnh kinh, học hỏi kinh nghiệm",
+   "example": "我们来学“取经”这个词。",
+   "exampleMeaning": "Cùng học từ “取经”: thỉnh kinh, học hỏi kinh nghiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔjīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凑巧",
+   "meaning": "tình cờ, vừa khéo",
+   "example": "我正想去找他，凑巧他来了。",
+   "exampleMeaning": "Tôi đang muốn đi tìm anh ta, thật đúng lúc anh ta đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "còuqiǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "平行",
+   "meaning": "song song, ngang hàng",
+   "example": "平行机关。",
+   "exampleMeaning": "Cơ quan cùng cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大名鼎鼎",
+   "meaning": "tiếng tăm lừng lẫy",
+   "example": "我们来学“大名鼎鼎”这个词。",
+   "exampleMeaning": "Cùng học từ “大名鼎鼎”: tiếng tăm lừng lẫy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàmíngdǐngdǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "群岛",
+   "meaning": "quần đảo",
+   "example": "我们来学“群岛”这个词。",
+   "exampleMeaning": "Cùng học từ “群岛”: quần đảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qúndǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "路况",
+   "meaning": "tình trạng đường sá",
+   "example": "我们来学“路况”这个词。",
+   "exampleMeaning": "Cùng học từ “路况”: tình trạng đường sá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùkuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "劲头",
+   "meaning": "hăng hái, nhiệt huyết",
+   "example": "看他那股兴高采烈的劲头儿。",
+   "exampleMeaning": "Hãy xem niềm vui sướng của anh ấy kìa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìntóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绘声绘色",
+   "meaning": "sinh động như thật",
+   "example": "我们来学“绘声绘色”这个词。",
+   "exampleMeaning": "Cùng học từ “绘声绘色”: sinh động như thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huìshēnghuìsè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王室",
+   "meaning": "hoàng gia, vương thất",
+   "example": "王室成员",
+   "exampleMeaning": "Người họ tôn thất",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wángshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "阅历",
+   "meaning": "từng trải, kinh nghiệm sống",
+   "example": "他应该出去阅历一番。",
+   "exampleMeaning": "Anh ấy cần phải ra ngoài đi đây đi đó một chuyến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuèlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "方丈",
+   "meaning": "phương trượng, sư trụ trì",
+   "example": "我们来学“方丈”这个词。",
+   "exampleMeaning": "Cùng học từ “方丈”: phương trượng, sư trụ trì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngzhang",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夜市",
+   "meaning": "chợ đêm",
+   "example": "我们来学“夜市”这个词。",
+   "exampleMeaning": "Cùng học từ “夜市”: chợ đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奖惩",
+   "meaning": "thưởng phạt",
+   "example": "奖惩制度。",
+   "exampleMeaning": "Chế độ thưởng phạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎngchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一概",
+   "meaning": "tất cả, hết thảy",
+   "example": "过期一概作废。",
+   "exampleMeaning": "Hết hạn đều huỷ đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīgài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交纳",
+   "meaning": "nộp, đóng (thuế)",
+   "example": "交纳农业税。",
+   "exampleMeaning": "Nộp thuế nông nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāonà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "感染力",
+   "meaning": "sức lan tỏa, sức truyền cảm",
+   "example": "这首诗具有强烈的感染力。",
+   "exampleMeaning": "Bài thơ này có sức truyền cảm mạnh",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnrǎnlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "目瞪口呆",
+   "meaning": "trố mắt há mồm",
+   "example": "弟弟看着被打碎的花瓶, 吓得目瞪口呆。",
+   "exampleMeaning": "Cậu en trai cứ nhìn cái lọ hoa đã bị vỡ, làm cho nó sợ đến nổi ngẩn người ra",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùdèngkǒudāi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "满脸",
+   "meaning": "đầy mặt, khắp mặt",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mǎnliǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "理事",
+   "meaning": "ủy viên hội đồng",
+   "example": "常务理事。",
+   "exampleMeaning": "Ban quản lý thường trực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǐshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "顺从",
+   "meaning": "phục tùng, nghe lời",
+   "example": "我们来学“顺从”这个词。",
+   "exampleMeaning": "Cùng học từ “顺从”: phục tùng, nghe lời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùncóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  },
+  {
+   "tokens": [
+    "他",
+    "心脏",
+    "停止",
+    "了",
+    "跳动",
+    "随即",
+    "死亡"
+   ],
+   "reading": "tā xīnzàng tíngzhǐ le tiàodòng suíjí sǐwáng",
+   "meaning": "Tim ông ta ngừng đập và chết ngay sau đó."
+  },
+  {
+   "tokens": [
+    "你",
+    "真",
+    "的",
+    "不",
+    "介意",
+    "我",
+    "一个人",
+    "去",
+    "吗"
+   ],
+   "reading": "nǐ zhēn de bù jièyì wǒ yīgèrén qù ma",
+   "meaning": "Anh đi một mình như vậy không sao chứ?"
+  },
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  }
+ ],
+ "issues": []
+}

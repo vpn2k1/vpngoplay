@@ -1,0 +1,333 @@
+{
+ "lesson": 70,
+ "draft": true,
+ "words": [
+  {
+   "term": "便道",
+   "meaning": "vỉa hè, đường tắt",
+   "example": "行人要走便道",
+   "exampleMeaning": "Người đi bộ nên đi trên vỉa hè",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biàndào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "年份",
+   "meaning": "năm (cụ thể), niên đại",
+   "example": "这两笔开支不在一个年份。",
+   "exampleMeaning": "Hai khoản chi này không cùng trong một năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánfèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "犹豫不决",
+   "meaning": "do dự không quyết",
+   "example": "在决定这件事如何处理时，他变得犹豫不决起来。",
+   "exampleMeaning": "Lúc phải quyết định xem sự việc này nên giải quyết thế nào thì anh ấy lại chần chừ do dự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yóuyùbùjué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "分流",
+   "meaning": "phân luồng, chia dòng",
+   "example": "人车分流。",
+   "exampleMeaning": "Phân luồng xe cộ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnliú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交响乐",
+   "meaning": "nhạc giao hưởng",
+   "example": "我们来学“交响乐”这个词。",
+   "exampleMeaning": "Cùng học từ “交响乐”: nhạc giao hưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāoxiǎngyuè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "哑巴",
+   "meaning": "người câm, câm",
+   "example": "我们来学“哑巴”这个词。",
+   "exampleMeaning": "Cùng học từ “哑巴”: người câm, câm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎba",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "各奔前程",
+   "meaning": "mỗi người một ngả",
+   "example": "我们来学“各奔前程”这个词。",
+   "exampleMeaning": "Cùng học từ “各奔前程”: mỗi người một ngả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gèbènqiánchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衬托",
+   "meaning": "làm nổi bật, tôn lên",
+   "example": "我们来学“衬托”这个词。",
+   "exampleMeaning": "Cùng học từ “衬托”: làm nổi bật, tôn lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chèntuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "周旋",
+   "meaning": "giao thiệp, xoay xở",
+   "example": "成天跟人周旋，真累人。",
+   "exampleMeaning": "Suốt ngày chào hỏi mọi người, mệt chết đi được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhōuxuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "百分比",
+   "meaning": "tỷ lệ phần trăm",
+   "example": "按照百分比计算。",
+   "exampleMeaning": "Tính theo tỉ lệ phần trăm",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎifēnbǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "改版",
+   "meaning": "cải bản, sửa phiên bản",
+   "example": "临时改版",
+   "exampleMeaning": "Sửa chữa tạm thời",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎibǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "混浊",
+   "meaning": "đục, vẩn đục",
+   "example": "混浊的水",
+   "exampleMeaning": "Nước dơ; nước bẩn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hùnzhuó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "原创",
+   "meaning": "nguyên bản, sáng tác gốc",
+   "example": "我们来学“原创”这个词。",
+   "exampleMeaning": "Cùng học từ “原创”: nguyên bản, sáng tác gốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yuánchuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "碰钉子",
+   "meaning": "bị từ chối, bị cự tuyệt",
+   "example": "这个人只顾自己，不顾别人，你要他帮忙，准得碰钉子。",
+   "exampleMeaning": "Cái người này chỉ quan tâm đến bản thân, không để ý đến người khác, cậu muốn anh ta giúp á, chắc chắn bị cự tuyệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pèngdīngzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "翻来覆去",
+   "meaning": "trằn trọc, lặp đi lặp lại",
+   "example": "这话已经翻来覆去说过不知多少遍。",
+   "exampleMeaning": "Câu nói này lặp đi lặp lại không biết bao nhiêu lần",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fānláifùqù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "手帕",
+   "meaning": "khăn tay",
+   "example": "我们来学“手帕”这个词。",
+   "exampleMeaning": "Cùng học từ “手帕”: khăn tay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒupà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "氏族",
+   "meaning": "thị tộc",
+   "example": "我们来学“氏族”这个词。",
+   "exampleMeaning": "Cùng học từ “氏族”: thị tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìzú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不利于",
+   "meaning": "bất lợi cho, có hại cho",
+   "example": "我们来学“不利于”这个词。",
+   "exampleMeaning": "Cùng học từ “不利于”: bất lợi cho, có hại cho.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùlìyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "益处",
+   "meaning": "lợi ích, điều có ích",
+   "example": "我们来学“益处”这个词。",
+   "exampleMeaning": "Cùng học từ “益处”: lợi ích, điều có ích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yìchu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "殖民地",
+   "meaning": "thuộc địa",
+   "example": "我们来学“殖民地”这个词。",
+   "exampleMeaning": "Cùng học từ “殖民地”: thuộc địa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhímíndì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "能",
+    "帮",
+    "我",
+    "一下",
+    "吗",
+    "我",
+    "很",
+    "乐意"
+   ],
+   "reading": "néng bāng wǒ yīxià ma wǒ hěn lèyì",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "宇宙",
+    "毫无疑问",
+    "是",
+    "无限",
+    "的"
+   ],
+   "reading": "yǔzhòu háowúyíwèn shì wúxiàn de",
+   "meaning": "Không còn nghi ngờ gì nữa: vũ trụ là vô tận."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  }
+ ],
+ "issues": []
+}

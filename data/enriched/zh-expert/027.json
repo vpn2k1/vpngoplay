@@ -1,0 +1,326 @@
+{
+ "lesson": 27,
+ "draft": true,
+ "words": [
+  {
+   "term": "弹道导弹",
+   "meaning": "tên lửa đạn đạo",
+   "example": "我们来学“弹道导弹”这个词。",
+   "exampleMeaning": "Cùng học từ “弹道导弹”: tên lửa đạn đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàndàodǎodàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "久仰",
+   "meaning": "nghe danh đã lâu, hân hạnh được biết",
+   "example": "我们来学“久仰”这个词。",
+   "exampleMeaning": "Cùng học từ “久仰”: nghe danh đã lâu, hân hạnh được biết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǔyǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "抽出",
+   "meaning": "rút ra, trích ra",
+   "example": "我们来学“抽出”这个词。",
+   "exampleMeaning": "Cùng học từ “抽出”: rút ra, trích ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chōuchū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "张灯结彩",
+   "meaning": "giăng đèn kết hoa",
+   "example": "国庆节期间，广场上张灯结彩，好不热闹。",
+   "exampleMeaning": "Trong dịp lễ Quốc Khánh, trên quảng trường treo đèn kết hoa khắp lối, thật là náo nhiệt",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhāngdēngjiécǎi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "辽阔",
+   "meaning": "bao la, rộng lớn",
+   "example": "辽阔的土地。",
+   "exampleMeaning": "Đất rộng bao la.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liáokuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "涵义",
+   "meaning": "hàm ý, ý nghĩa",
+   "example": "我们来学“涵义”这个词。",
+   "exampleMeaning": "Cùng học từ “涵义”: hàm ý, ý nghĩa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hányì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "四合院",
+   "meaning": "tứ hợp viện",
+   "example": "我们来学“四合院”这个词。",
+   "exampleMeaning": "Cùng học từ “四合院”: tứ hợp viện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sìhéyuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "军民",
+   "meaning": "quân và dân, quân dân",
+   "example": "军民鱼水情。",
+   "exampleMeaning": "Tình quân dân như cá với nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūnmín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "刁难",
+   "meaning": "làm khó dễ, hạch sách",
+   "example": "百般刁难",
+   "exampleMeaning": "Làm khó dễ trăm điều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diāonàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "态势",
+   "meaning": "tình thế, cục diện",
+   "example": "分析敌我态势",
+   "exampleMeaning": "Phân tích tình hình địch và ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tàishì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "座谈",
+   "meaning": "tọa đàm",
+   "example": "我们来学“座谈”这个词。",
+   "exampleMeaning": "Cùng học từ “座谈”: tọa đàm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuòtán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兴建",
+   "meaning": "xây dựng, khởi công xây dựng",
+   "example": "兴建钢铁基地。",
+   "exampleMeaning": "Khởi công xây dựng cơ sở gang thép",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīngjiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "征收",
+   "meaning": "thu (thuế), trưng thu",
+   "example": "征收商业税",
+   "exampleMeaning": "Thu thuế thương nghiệp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhēngshōu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "在外",
+   "meaning": "ở bên ngoài, ngoài ra",
+   "example": "据说他爸爸在外国去世了。",
+   "exampleMeaning": "Người ta nói cha ông ấy mất ở nước ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàiwài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "坛",
+   "meaning": "đàn tế, bục, vò",
+   "example": "登坛拜将",
+   "exampleMeaning": "Đăng đàn bái tướng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "亡羊补牢",
+   "meaning": "mất bò mới lo làm chuồng",
+   "example": "这回损失不算大，但仍须亡羊补牢。",
+   "exampleMeaning": "Lần này tổn thất không nhiều, nhưng cũng cần tìm biện pháp khắc phục, tránh xảy ra lần nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wángyángbǔláo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "夜校",
+   "meaning": "trường học ban đêm, lớp học buổi tối",
+   "example": "我们来学“夜校”这个词。",
+   "exampleMeaning": "Cùng học từ “夜校”: trường học ban đêm, lớp học buổi tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yèxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拘束",
+   "meaning": "gò bó, câu nệ, rụt rè",
+   "example": "不要拘束孩子的正当活动。",
+   "exampleMeaning": "Đừng nên gò bó những hoạt động chính đáng của trẻ thơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jūshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "战线",
+   "meaning": "mặt trận, chiến tuyến",
+   "example": "缩短战线",
+   "exampleMeaning": "Thu ngắn chiến tuyến",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànxiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "伯父",
+   "meaning": "bác trai, anh của cha",
+   "example": "我们来学“伯父”这个词。",
+   "exampleMeaning": "Cùng học từ “伯父”: bác trai, anh của cha.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bófù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我们",
+    "今晚",
+    "在",
+    "外面",
+    "吃饭",
+    "吧"
+   ],
+   "reading": "wǒmen jīnwǎn zài wàimiàn chīfàn ba",
+   "meaning": "Chúng ta tối nay đi ăn nhé."
+  },
+  {
+   "tokens": [
+    "据说",
+    "他",
+    "爸爸",
+    "在",
+    "外国",
+    "去世",
+    "了"
+   ],
+   "reading": "jùshuō tā bàba zài wàiguó qùshì le",
+   "meaning": "Người ta nói cha ông ấy mất ở nước ngoài."
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  },
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  }
+ ],
+ "issues": []
+}

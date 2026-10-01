@@ -1,0 +1,325 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "助威",
+   "meaning": "cổ vũ, trợ uy",
+   "example": "呐喊助威",
+   "exampleMeaning": "Gào thét trợ uy",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhùwēi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "火速",
+   "meaning": "hỏa tốc, cấp tốc",
+   "example": "任务紧急，必须火速完成。",
+   "exampleMeaning": "Nhiệm vụ khẩn cấp phải nhanh chóng hoàn thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huǒsù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "又称",
+   "meaning": "còn gọi là",
+   "example": "我们来学“又称”这个词。",
+   "exampleMeaning": "Cùng học từ “又称”: còn gọi là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòuchēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "桑拿",
+   "meaning": "tắm hơi, xông hơi",
+   "example": "我们来学“桑拿”这个词。",
+   "exampleMeaning": "Cùng học từ “桑拿”: tắm hơi, xông hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sāngná",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "稍候",
+   "meaning": "đợi một lát",
+   "example": "我们来学“稍候”这个词。",
+   "exampleMeaning": "Cùng học từ “稍候”: đợi một lát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāohòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "晚年",
+   "meaning": "tuổi già, những năm cuối đời",
+   "example": "我们来学“晚年”这个词。",
+   "exampleMeaning": "Cùng học từ “晚年”: tuổi già, những năm cuối đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǎnnián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "评论员",
+   "meaning": "bình luận viên",
+   "example": "我们来学“评论员”这个词。",
+   "exampleMeaning": "Cùng học từ “评论员”: bình luận viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pínglùnyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "保修",
+   "meaning": "bảo hành",
+   "example": "超额完成车辆保修任务",
+   "exampleMeaning": "Hoàn thành vượt mức nhiệm vụ bảo dưỡng xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǎoxiū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "节气",
+   "meaning": "tiết khí",
+   "example": "我们来学“节气”这个词。",
+   "exampleMeaning": "Cùng học từ “节气”: tiết khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéqi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "进驻",
+   "meaning": "tiến vào đóng quân, có mặt",
+   "example": "我军进驻南京。",
+   "exampleMeaning": "Quân ta tiến vào chiếm đóng ở Nam Kinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnzhù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "栖息",
+   "meaning": "đậu (chim), sinh sống, cư trú",
+   "example": "我们来学“栖息”这个词。",
+   "exampleMeaning": "Cùng học từ “栖息”: đậu (chim), sinh sống, cư trú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "王位",
+   "meaning": "ngôi vua, vương vị",
+   "example": "我们来学“王位”这个词。",
+   "exampleMeaning": "Cùng học từ “王位”: ngôi vua, vương vị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wángwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衙门",
+   "meaning": "nha môn, công đường",
+   "example": "我们来学“衙门”这个词。",
+   "exampleMeaning": "Cùng học từ “衙门”: nha môn, công đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yámen",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "武士",
+   "meaning": "võ sĩ, samurai",
+   "example": "我们来学“武士”这个词。",
+   "exampleMeaning": "Cùng học từ “武士”: võ sĩ, samurai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wǔshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大将",
+   "meaning": "đại tướng",
+   "example": "他是篮球队里的一员大将。",
+   "exampleMeaning": "Anh ấy là một thủ lĩnh nòng cốt trong đội bóng rổ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàjiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "造纸术",
+   "meaning": "kỹ thuật làm giấy",
+   "example": "我们来学“造纸术”这个词。",
+   "exampleMeaning": "Cùng học từ “造纸术”: kỹ thuật làm giấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zàozhǐshù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不平",
+   "meaning": "gồ ghề, bất công, bất bình",
+   "example": "看见了不平的事，他都想管。",
+   "exampleMeaning": "Hễ thấy chuyện bất bình là anh ấy đều muốn can thiệp vào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùpíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "动工",
+   "meaning": "khởi công",
+   "example": "这里正在动工，车辆不能通过。",
+   "exampleMeaning": "Ở đây đang thi công, xe cộ không thể qua lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dònggōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "饿死",
+   "meaning": "chết đói, đói lả",
+   "example": "咱们吃吧！我饿死了。",
+   "exampleMeaning": "Chúng ta ăn thôi. Tôi sắp chết vì đói rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "èsǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "评为",
+   "meaning": "bình chọn là, xếp là",
+   "example": "我们来学“评为”这个词。",
+   "exampleMeaning": "Cùng học từ “评为”: bình chọn là, xếp là.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "píngwéi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "咱们",
+    "吃",
+    "吧",
+    "我",
+    "饿",
+    "死",
+    "了"
+   ],
+   "reading": "zánmen chī ba wǒ è sǐ le",
+   "meaning": "Chúng ta ăn thôi. Tôi sắp chết vì đói rồi."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  },
+  {
+   "tokens": [
+    "除此之外",
+    "别无",
+    "办法"
+   ],
+   "reading": "chúcǐzhīwài biéwú bànfǎ",
+   "meaning": "Ngoài cách này ra, chả có cách nào."
+  }
+ ],
+ "issues": []
+}

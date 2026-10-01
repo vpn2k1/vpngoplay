@@ -1,0 +1,335 @@
+{
+ "lesson": 99,
+ "draft": true,
+ "words": [
+  {
+   "term": "産量",
+   "meaning": "sản lượng",
+   "example": "「産量」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “産量”: sản lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "車検",
+   "meaning": "đăng kiểm xe",
+   "example": "「車検」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “車検”: đăng kiểm xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "筋力",
+   "meaning": "sức cơ bắp",
+   "example": "「筋力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “筋力”: sức cơ bắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "識別",
+   "meaning": "nhận dạng, phân biệt",
+   "example": "「識別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “識別”: nhận dạng, phân biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "直轄",
+   "meaning": "trực tiếp quản lý",
+   "example": "「直轄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “直轄”: trực tiếp quản lý.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お手伝い",
+   "meaning": "người giúp việc, giúp đỡ",
+   "example": "出来る限りお手伝いしましょう。",
+   "exampleMeaning": "Tôi sẽ giúp bạn hết sức có thể.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "白馬",
+   "meaning": "ngựa trắng, bạch mã",
+   "example": "「白馬」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “白馬”: ngựa trắng, bạch mã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本屋",
+   "meaning": "hiệu sách",
+   "example": "そのデパートの前に本屋があります。",
+   "exampleMeaning": "Đằng trước trung tâm thương mại đó có một hiệu sách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "農作物",
+   "meaning": "nông sản",
+   "example": "「農作物」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “農作物”: nông sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地殻変動",
+   "meaning": "biến động vỏ trái đất",
+   "example": "「地殻変動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地殻変動”: biến động vỏ trái đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交易",
+   "meaning": "giao thương, mậu dịch",
+   "example": "「交易」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交易”: giao thương, mậu dịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "副題",
+   "meaning": "tiêu đề phụ",
+   "example": "「副題」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “副題”: tiêu đề phụ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "底流",
+   "meaning": "dòng chảy ngầm",
+   "example": "「底流」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “底流”: dòng chảy ngầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "行き詰まり",
+   "meaning": "bế tắc",
+   "example": "「行き詰まり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “行き詰まり”: bế tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "家庭教師",
+   "meaning": "gia sư",
+   "example": "「家庭教師」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “家庭教師”: gia sư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "船出",
+   "meaning": "ra khơi, khởi hành",
+   "example": "「船出」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “船出”: ra khơi, khởi hành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "お返し",
+   "meaning": "quà đáp lễ, trả đũa",
+   "example": "「お返し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “お返し”: quà đáp lễ, trả đũa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "安らぎ",
+   "meaning": "bình yên, thanh thản",
+   "example": "「安らぎ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “安らぎ”: bình yên, thanh thản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "機関銃",
+   "meaning": "súng máy",
+   "example": "「機関銃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “機関銃”: súng máy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "例外的",
+   "meaning": "ngoại lệ, đặc biệt",
+   "example": "「例外的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “例外的”: ngoại lệ, đặc biệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "書類",
+    "を",
+    "弁護士",
+    "に",
+    "預けた"
+   ],
+   "reading": "かれはしょるいをべんごしにあづけた",
+   "meaning": "Anh ta đã giao hồ sơ cho luật sư."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "牛",
+    "と",
+    "馬",
+    "を",
+    "飼育",
+    "している"
+   ],
+   "reading": "かれはうしとうまをしいくしている",
+   "meaning": "Anh ta nuôi bò và ngựa."
+  },
+  {
+   "tokens": [
+    "その",
+    "歌手",
+    "は",
+    "注目",
+    "の",
+    "的",
+    "だった"
+   ],
+   "reading": "そのかしゅはちゅうもくのてきだった",
+   "meaning": "Mọi sự chú ý đều tập trung về phía ca sĩ."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "弁護士",
+    "としては",
+    "無能",
+    "だ"
+   ],
+   "reading": "かれはべんごしとしてはむのうだ",
+   "meaning": "Anh ta không phải là một luật sư giỏi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "それ",
+    "を",
+    "真実",
+    "だ",
+    "と",
+    "認めた"
+   ],
+   "reading": "かれはそれをしんじつだとみとめた",
+   "meaning": "Anh ta thừa nhận rằng đó là sự thật."
+  }
+ ],
+ "issues": []
+}

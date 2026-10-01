@@ -1,0 +1,342 @@
+{
+ "lesson": 72,
+ "draft": true,
+ "words": [
+  {
+   "term": "稳步",
+   "meaning": "vững bước, đều đặn",
+   "example": "稳步前进(比喻按一定步骤推进工作)",
+   "exampleMeaning": "Vững bước tiến lên",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěnbù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "连声",
+   "meaning": "luôn miệng, liên thanh",
+   "example": "连声称赞。",
+   "exampleMeaning": "Không ngớt lời khen ngợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "弊端",
+   "meaning": "tệ nạn, lỗ hổng",
+   "example": "消除弊端。",
+   "exampleMeaning": "Tiêu trừ tệ nạn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìduān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "臣民",
+   "meaning": "thần dân",
+   "example": "我们来学“臣民”这个词。",
+   "exampleMeaning": "Cùng học từ “臣民”: thần dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chénmín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "谁知",
+   "meaning": "ai ngờ, không ngờ",
+   "example": "这个满脸稚气的小女孩刚刚五岁，谁知道她竟是这幅获奖作品的作者。",
+   "exampleMeaning": "Cô bé mặt đầy vẻ ngây ngô này mới được 5 tuổi, ai mà biết cô bé lại là tác giả của tác phẩm đoạt giải này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shéizhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "供暖",
+   "meaning": "sưởi ấm, cấp nhiệt",
+   "example": "我们来学“供暖”这个词。",
+   "exampleMeaning": "Cùng học từ “供暖”: sưởi ấm, cấp nhiệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngnuǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "制药",
+   "meaning": "bào chế thuốc, sản xuất dược phẩm",
+   "example": "我们来学“制药”这个词。",
+   "exampleMeaning": "Cùng học từ “制药”: bào chế thuốc, sản xuất dược phẩm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìyào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "偏方",
+   "meaning": "bài thuốc dân gian",
+   "example": "我们来学“偏方”这个词。",
+   "exampleMeaning": "Cùng học từ “偏方”: bài thuốc dân gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "piānfāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "实业",
+   "meaning": "doanh nghiệp, công nghiệp",
+   "example": "我们来学“实业”这个词。",
+   "exampleMeaning": "Cùng học từ “实业”: doanh nghiệp, công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "喘息",
+   "meaning": "thở dốc, nghỉ lấy hơi",
+   "example": "不让敌人有喘息的机会。",
+   "exampleMeaning": "Không để bọn giặc có dịp nghỉ xả hơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chuǎnxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "核电站",
+   "meaning": "nhà máy điện hạt nhân",
+   "example": "我们来学“核电站”这个词。",
+   "exampleMeaning": "Cùng học từ “核电站”: nhà máy điện hạt nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hédiànzhàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "督察",
+   "meaning": "thanh tra, giám sát",
+   "example": "派人前往督察",
+   "exampleMeaning": "Phái người đi đôn đốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dūchá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "取决",
+   "meaning": "phụ thuộc vào, quyết định bởi",
+   "example": "集体所有制向全民所有制过渡的迟早，取决于生产发展的水平和人民觉悟的水平。",
+   "exampleMeaning": "Sự quá độ từ chế độ sở hữu tập thể sang chế độ sở hữu toàn dân sớm hay muộn được quyết định bởi trình độ phát triển sản xuất và mức độ giác ngộ của người dân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qǔjué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "仅次于",
+   "meaning": "chỉ đứng sau",
+   "example": "我们来学“仅次于”这个词。",
+   "exampleMeaning": "Cùng học từ “仅次于”: chỉ đứng sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jǐncìyú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "足智多谋",
+   "meaning": "mưu trí hơn người, đa mưu",
+   "example": "我们来学“足智多谋”这个词。",
+   "exampleMeaning": "Cùng học từ “足智多谋”: mưu trí hơn người, đa mưu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zúzhìduōmóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "耐人寻味",
+   "meaning": "đáng suy ngẫm",
+   "example": "他的诗词，句句字字耐人寻味。",
+   "exampleMeaning": "Lời thơ của ông ấy, từng câu từng chữ đều có ý vị sâu xa",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nàirénxúnwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "适量",
+   "meaning": "lượng vừa phải",
+   "example": "我们来学“适量”这个词。",
+   "exampleMeaning": "Cùng học từ “适量”: lượng vừa phải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìliàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水深",
+   "meaning": "độ sâu nước",
+   "example": "我们来学“水深”这个词。",
+   "exampleMeaning": "Cùng học từ “水深”: độ sâu nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐshēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奴婢",
+   "meaning": "nô tì, đầy tớ",
+   "example": "我们来学“奴婢”这个词。",
+   "exampleMeaning": "Cùng học từ “奴婢”: nô tì, đầy tớ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "núbì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "缔结",
+   "meaning": "ký kết",
+   "example": "缔结贸易协定",
+   "exampleMeaning": "Ký kết hiệp định mậu dịch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìjié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  }
+ ],
+ "issues": []
+}

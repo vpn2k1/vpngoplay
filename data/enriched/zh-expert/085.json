@@ -1,0 +1,339 @@
+{
+ "lesson": 85,
+ "draft": true,
+ "words": [
+  {
+   "term": "检察院",
+   "meaning": "viện kiểm sát",
+   "example": "我们来学“检察院”这个词。",
+   "exampleMeaning": "Cùng học từ “检察院”: viện kiểm sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiǎncháyuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "口罩",
+   "meaning": "khẩu trang",
+   "example": "汤姆脱了口罩。",
+   "exampleMeaning": "Tom đã tháo mặt nạ ra rồi đấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kǒuzhào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "知识产权",
+   "meaning": "quyền sở hữu trí tuệ",
+   "example": "我们来学“知识产权”这个词。",
+   "exampleMeaning": "Cùng học từ “知识产权”: quyền sở hữu trí tuệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhīshichǎnquán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "怜惜",
+   "meaning": "thương xót, thương tiếc",
+   "example": "决不怜惜恶人。",
+   "exampleMeaning": "Nhất định không thương tiếc kẻ ác độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "私事",
+   "meaning": "chuyện riêng",
+   "example": "我们来学“私事”这个词。",
+   "exampleMeaning": "Cùng học từ “私事”: chuyện riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "邻近",
+   "meaning": "lân cận, gần kề",
+   "example": "邻近的一家姓赵的搬走了。",
+   "exampleMeaning": "Gia đình họ Triệu gần bên đã chuyển đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "línjìn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "拜会",
+   "meaning": "hội kiến, đến thăm",
+   "example": "我们来学“拜会”这个词。",
+   "exampleMeaning": "Cùng học từ “拜会”: hội kiến, đến thăm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bàihuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有序",
+   "meaning": "có trật tự, ngăn nắp",
+   "example": "我们来学“有序”这个词。",
+   "exampleMeaning": "Cùng học từ “有序”: có trật tự, ngăn nắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuxù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "语文",
+   "meaning": "ngữ văn, môn văn",
+   "example": "语文程度(指阅读、写作等能力)。",
+   "exampleMeaning": "Trình độ ngữ văn (chỉ năng lực đọc, viết văn)",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǔwén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "升起",
+   "meaning": "dâng lên, kéo lên (cờ)",
+   "example": "我们来学“升起”这个词。",
+   "exampleMeaning": "Cùng học từ “升起”: dâng lên, kéo lên (cờ).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngqǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市政府",
+   "meaning": "chính quyền thành phố",
+   "example": "我们来学“市政府”这个词。",
+   "exampleMeaning": "Cùng học từ “市政府”: chính quyền thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìzhèngfǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "搀",
+   "meaning": "dìu, pha trộn",
+   "example": "把老大娘搀进屋。",
+   "exampleMeaning": "Dìu bà lão vào nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "抚养费",
+   "meaning": "tiền cấp dưỡng",
+   "example": "我们来学“抚养费”这个词。",
+   "exampleMeaning": "Cùng học từ “抚养费”: tiền cấp dưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǔyǎngfèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "可乘之机",
+   "meaning": "kẽ hở để lợi dụng, sơ hở",
+   "example": "我们来学“可乘之机”这个词。",
+   "exampleMeaning": "Cùng học từ “可乘之机”: kẽ hở để lợi dụng, sơ hở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kěchéngzhījī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "禁地",
+   "meaning": "vùng cấm, nơi cấm đến",
+   "example": "我们来学“禁地”这个词。",
+   "exampleMeaning": "Cùng học từ “禁地”: vùng cấm, nơi cấm đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìndì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "近似",
+   "meaning": "gần đúng, xấp xỉ",
+   "example": "这两个地区的方音有些近似。",
+   "exampleMeaning": "Phương ngôn của hai vùng này hơi na ná.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìnsì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "解析",
+   "meaning": "phân tích, giải tích",
+   "example": "我们来学“解析”这个词。",
+   "exampleMeaning": "Cùng học từ “解析”: phân tích, giải tích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiěxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管教",
+   "meaning": "dạy dỗ, quản giáo",
+   "example": "这件事由我来安排,管教你们满意。",
+   "exampleMeaning": "Chuyện này do tôi sắp xếp đảm bảo các bạn sẽ hài lòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guǎnjiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "钳子",
+   "meaning": "kìm, cái kẹp",
+   "example": "我们来学“钳子”这个词。",
+   "exampleMeaning": "Cùng học từ “钳子”: kìm, cái kẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiánzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "藤椅",
+   "meaning": "ghế mây",
+   "example": "我们来学“藤椅”这个词。",
+   "exampleMeaning": "Cùng học từ “藤椅”: ghế mây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "téngyǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "汤姆",
+    "脱",
+    "了",
+    "口罩"
+   ],
+   "reading": "tāngmǔ tuō le kǒuzhào",
+   "meaning": "Tom đã tháo mặt nạ ra rồi đấy."
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  }
+ ],
+ "issues": []
+}

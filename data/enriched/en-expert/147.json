@@ -1,0 +1,324 @@
+{
+ "lesson": 147,
+ "draft": true,
+ "words": [
+  {
+   "term": "infuse",
+   "meaning": "truyền vào, ngâm, pha",
+   "example": "let it infuse for another five minutes",
+   "exampleMeaning": "Để cho ngấm độ năm phút nữa",
+   "emoji": "",
+   "ipa": "/ˌɪnˈfjuz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "transformer",
+   "meaning": "máy biến áp",
+   "example": "Let's learn the word \"transformer\".",
+   "exampleMeaning": "Cùng học từ “transformer”: máy biến áp.",
+   "emoji": "",
+   "ipa": "/trænsˈfɔrmɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "din",
+   "meaning": "tiếng ồn ào",
+   "example": "to din something into somebody's ears",
+   "exampleMeaning": "Nói nhai nhải mãi cái gì làm rác tai ai",
+   "emoji": "",
+   "ipa": "/ˈdɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "superpower",
+   "meaning": "siêu cường",
+   "example": "Let's learn the word \"superpower\".",
+   "exampleMeaning": "Cùng học từ “superpower”: siêu cường.",
+   "emoji": "",
+   "ipa": "/ˌsupɜrˈpaʊɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "treason",
+   "meaning": "tội phản quốc",
+   "example": "Let's learn the word \"treason\".",
+   "exampleMeaning": "Cùng học từ “treason”: tội phản quốc.",
+   "emoji": "",
+   "ipa": "/ˈtrizən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jab",
+   "meaning": "thọc, cú đấm nhanh, mũi tiêm",
+   "example": "Let's learn the word \"jab\".",
+   "exampleMeaning": "Cùng học từ “jab”: thọc, cú đấm nhanh, mũi tiêm.",
+   "emoji": "",
+   "ipa": "/ˈdʒæb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "appraise",
+   "meaning": "thẩm định, đánh giá",
+   "example": "Let's learn the word \"appraise\".",
+   "exampleMeaning": "Cùng học từ “appraise”: thẩm định, đánh giá.",
+   "emoji": "",
+   "ipa": "/əˈpreɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lifeboat",
+   "meaning": "xuồng cứu sinh",
+   "example": "Let's learn the word \"lifeboat\".",
+   "exampleMeaning": "Cùng học từ “lifeboat”: xuồng cứu sinh.",
+   "emoji": "",
+   "ipa": "/ˈlaɪfˌboʊt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inflame",
+   "meaning": "kích động, làm viêm",
+   "example": "Let's learn the word \"inflame\".",
+   "exampleMeaning": "Cùng học từ “inflame”: kích động, làm viêm.",
+   "emoji": "",
+   "ipa": "/ɪnˈfleɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "usefully",
+   "meaning": "hữu ích, có ích",
+   "example": "I would rather have it said, He lived usefully, than, He died rich",
+   "exampleMeaning": "Tôi thà được nhắc đến rằng ông ta sống có ích còn hơn rằng ông ta chết trong giàu có.",
+   "emoji": "",
+   "ipa": "/ˈjusfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "adjunct",
+   "meaning": "phụ, phần phụ trợ",
+   "example": "Let's learn the word \"adjunct\".",
+   "exampleMeaning": "Cùng học từ “adjunct”: phụ, phần phụ trợ.",
+   "emoji": "",
+   "ipa": "/ˈæˌdʒəŋkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "strenuous",
+   "meaning": "vất vả, cật lực",
+   "example": "Let's learn the word \"strenuous\".",
+   "exampleMeaning": "Cùng học từ “strenuous”: vất vả, cật lực.",
+   "emoji": "",
+   "ipa": "/ˈstrɛnjuəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "connectivity",
+   "meaning": "khả năng kết nối",
+   "example": "Let's learn the word \"connectivity\".",
+   "exampleMeaning": "Cùng học từ “connectivity”: khả năng kết nối.",
+   "emoji": "",
+   "ipa": "/kənɛkˈtɪvɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "flimsy",
+   "meaning": "mỏng manh, ọp ẹp, yếu ớt",
+   "example": "a flimsy excuse",
+   "exampleMeaning": "Lời cáo lỗi hời hợt; lý do hời hợt",
+   "emoji": "",
+   "ipa": "/ˈflɪmzi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "aforementioned",
+   "meaning": "đã nói ở trên, nói trên",
+   "example": "Let's learn the word \"aforementioned\".",
+   "exampleMeaning": "Cùng học từ “aforementioned”: đã nói ở trên, nói trên.",
+   "emoji": "",
+   "ipa": "/əˈfɔrˌmɛnʃənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disproportionately",
+   "meaning": "không tương xứng, quá chênh lệch",
+   "example": "Let's learn the word \"disproportionately\".",
+   "exampleMeaning": "Cùng học từ “disproportionately”: không tương xứng, quá chênh lệch.",
+   "emoji": "",
+   "ipa": "/ˌdɪsprəˈpɔrʃənətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overhang",
+   "meaning": "phần nhô ra, nhô ra",
+   "example": "Let's learn the word \"overhang\".",
+   "exampleMeaning": "Cùng học từ “overhang”: phần nhô ra, nhô ra.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌhæŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "creak",
+   "meaning": "kêu cọt kẹt",
+   "example": "Let's learn the word \"creak\".",
+   "exampleMeaning": "Cùng học từ “creak”: kêu cọt kẹt.",
+   "emoji": "",
+   "ipa": "/kriːk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "indistinguishable",
+   "meaning": "không phân biệt được",
+   "example": "Let's learn the word \"indistinguishable\".",
+   "exampleMeaning": "Cùng học từ “indistinguishable”: không phân biệt được.",
+   "emoji": "",
+   "ipa": "/ˌɪndɪˈstɪŋɡwɪʃəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "orthodoxy",
+   "meaning": "chính thống",
+   "example": "Let's learn the word \"orthodoxy\".",
+   "exampleMeaning": "Cùng học từ “orthodoxy”: chính thống.",
+   "emoji": "",
+   "ipa": "/ˈɔrθəˌdɑksi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "We",
+    "need",
+    "to",
+    "conserve",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta phải tiết kiệm nước."
+  },
+  {
+   "tokens": [
+    "The",
+    "room",
+    "was",
+    "fairly",
+    "spacious"
+   ],
+   "reading": "",
+   "meaning": "Căn phòng khá là rộng rãi."
+  },
+  {
+   "tokens": [
+    "We",
+    "hacked",
+    "the",
+    "government",
+    "database"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta đã hack vào cơ sở dữ liệu của chính phủ."
+  },
+  {
+   "tokens": [
+    "Even",
+    "Linux",
+    "can",
+    "be",
+    "hacked"
+   ],
+   "reading": "",
+   "meaning": "Kể cả Linux cũng có thể bị hack."
+  },
+  {
+   "tokens": [
+    "The",
+    "hunter",
+    "lost",
+    "his",
+    "quiver"
+   ],
+   "reading": "",
+   "meaning": "Thợ săn bị mất ống đựng tên."
+  }
+ ],
+ "issues": []
+}

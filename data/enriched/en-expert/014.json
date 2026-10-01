@@ -1,0 +1,329 @@
+{
+ "lesson": 14,
+ "draft": true,
+ "words": [
+  {
+   "term": "kidnap",
+   "meaning": "bắt cóc",
+   "example": "Why would anybody kidnap them?",
+   "exampleMeaning": "Sao lại có người bắt cóc họ?",
+   "emoji": "",
+   "ipa": "/ˈkɪdnæp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "veto",
+   "meaning": "phủ quyết",
+   "example": "to put (set) a veto on a bill",
+   "exampleMeaning": "Bác bỏ một đạo luật dự thảo",
+   "emoji": "",
+   "ipa": "/ˈviˌtoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "respondent",
+   "meaning": "người trả lời, bị đơn",
+   "example": "Let's learn the word \"respondent\".",
+   "exampleMeaning": "Cùng học từ “respondent”: người trả lời, bị đơn.",
+   "emoji": "",
+   "ipa": "/rɪˈspɑndənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intake",
+   "meaning": "lượng nạp vào, đợt tuyển sinh",
+   "example": "a small pipe has little intake",
+   "exampleMeaning": "Một cái tẩu nhỏ lấy thuốc chẳng được bao nhiêu",
+   "emoji": "",
+   "ipa": "/ˈɪnˌteɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "soften",
+   "meaning": "làm mềm, dịu đi",
+   "example": "to soften at the sight of something",
+   "exampleMeaning": "Mủi lòng khi nhìn thấy cái gì",
+   "emoji": "",
+   "ipa": "/ˈsɑfən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tuck",
+   "meaning": "nhét, gấp vào",
+   "example": "to tuck something away in the drawer",
+   "exampleMeaning": "Cất kín cái gì trong ngăn kéo -(đùa cợt) ăn, chén",
+   "emoji": "",
+   "ipa": "/ˈtək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "flush",
+   "meaning": "xả nước, đỏ mặt",
+   "example": "the door is flush with the walls",
+   "exampleMeaning": "Cửa ngang bằng với tường",
+   "emoji": "",
+   "ipa": "/ˈfləʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enquire",
+   "meaning": "hỏi thăm, tìm hiểu",
+   "example": "Let's learn the word \"enquire\".",
+   "exampleMeaning": "Cùng học từ “enquire”: hỏi thăm, tìm hiểu.",
+   "emoji": "",
+   "ipa": "/ɪnˈkwaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "flank",
+   "meaning": "sườn, bên hông",
+   "example": "to attack the left flank",
+   "exampleMeaning": "Tấn công phía sườn trái",
+   "emoji": "",
+   "ipa": "/ˈflæŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "directory",
+   "meaning": "danh bạ, thư mục",
+   "example": "a telephone directory",
+   "exampleMeaning": "Sổ ghi số dây nói",
+   "emoji": "",
+   "ipa": "/daɪˈrɛktɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "continuation",
+   "meaning": "tiếp tục, phần tiếp",
+   "example": "a continuation to a room",
+   "exampleMeaning": "Sự mở rộng một căn buồng; phần mở rộng thêm cho một căn buồng",
+   "emoji": "",
+   "ipa": "/kənˌtɪnjuˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "frown",
+   "meaning": "cau mày",
+   "example": "to frown at (on, upon) something",
+   "exampleMeaning": "Không bằng lòng việc gì",
+   "emoji": "",
+   "ipa": "/ˈfraʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "diversify",
+   "meaning": "đa dạng hóa",
+   "example": "Let's learn the word \"diversify\".",
+   "exampleMeaning": "Cùng học từ “diversify”: đa dạng hóa.",
+   "emoji": "",
+   "ipa": "/daɪˈvɜrsəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sip",
+   "meaning": "nhấp, nhâm nhi",
+   "example": "Take a sip of this.",
+   "exampleMeaning": "Hãy nhấp thử một ngụm.",
+   "emoji": "",
+   "ipa": "/ˈsɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "intrigue",
+   "meaning": "mưu đồ, gây tò mò",
+   "example": "to intrigue a bill through Congress",
+   "exampleMeaning": "Vận động ngầm thông qua một đạo luật dự thảo ở quốc hội",
+   "emoji": "",
+   "ipa": "/ˈɪntriɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sole",
+   "meaning": "duy nhất, đế giày",
+   "example": "his sole reason is this",
+   "exampleMeaning": "Cái lý do độc nhất của anh ta là thế này",
+   "emoji": "",
+   "ipa": "/ˈsoʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shaft",
+   "meaning": "trục, hầm, cán",
+   "example": "the shaft of satire",
+   "exampleMeaning": "Những mũi tên nhọn của sự châm biếm",
+   "emoji": "",
+   "ipa": "/ʃɑːft/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vendor",
+   "meaning": "người bán hàng, nhà cung cấp",
+   "example": "Let's learn the word \"vendor\".",
+   "exampleMeaning": "Cùng học từ “vendor”: người bán hàng, nhà cung cấp.",
+   "emoji": "",
+   "ipa": "/ˈvɛndɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "solicitor",
+   "meaning": "luật sư tư vấn",
+   "example": "Let's learn the word \"solicitor\".",
+   "exampleMeaning": "Cùng học từ “solicitor”: luật sư tư vấn.",
+   "emoji": "",
+   "ipa": "/səˈlɪsətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "substantive",
+   "meaning": "thực chất, quan trọng",
+   "example": "the substantive verb",
+   "exampleMeaning": "Động từ to be",
+   "emoji": "",
+   "ipa": "/ˈsəbstəntɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "trying",
+    "to",
+    "leave",
+    "me"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang cố rời bỏ tôi có đúng không?"
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "adept",
+    "at",
+    "telling",
+    "lies"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy là một người giỏi nói dối."
+  },
+  {
+   "tokens": [
+    "Are",
+    "those",
+    "synthetic",
+    "or",
+    "cultured",
+    "pearls"
+   ],
+   "reading": "",
+   "meaning": "Những cái kia là ngọc trai tổng hợp hay là ngọc trai nuôi cấy?"
+  },
+  {
+   "tokens": [
+    "They",
+    "aligned",
+    "themselves",
+    "with",
+    "the",
+    "Liberals"
+   ],
+   "reading": "",
+   "meaning": "Họ đã bắt tay với đảng Tự do."
+  },
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "trying",
+    "to",
+    "lose",
+    "weight"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang cố giảm cân có đúng không?"
+  }
+ ],
+ "issues": []
+}

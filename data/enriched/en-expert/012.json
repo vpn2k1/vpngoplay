@@ -1,0 +1,324 @@
+{
+ "lesson": 12,
+ "draft": true,
+ "words": [
+  {
+   "term": "hurricane",
+   "meaning": "bão lớn, cuồng phong",
+   "example": "The hurricane wiped out the whole village.",
+   "exampleMeaning": "Trận bão đã quét sạch cả ngôi làng.",
+   "emoji": "",
+   "ipa": "/ˈhərəˌkeɪnz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "turnover",
+   "meaning": "doanh thu, biến động nhân sự",
+   "example": "a quick turnover",
+   "exampleMeaning": "Một sự luân chuyển vốn nhanh",
+   "emoji": "",
+   "ipa": "/ˈtɜrˌnoʊvɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fragile",
+   "meaning": "mỏng manh, dễ vỡ",
+   "example": "Let's learn the word \"fragile\".",
+   "exampleMeaning": "Cùng học từ “fragile”: mỏng manh, dễ vỡ.",
+   "emoji": "",
+   "ipa": "/ˈfrædʒəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spit",
+   "meaning": "khạc nhổ, nước bọt",
+   "example": "he is the very spit of his father",
+   "exampleMeaning": "Anh ta giống bố như hệt",
+   "emoji": "",
+   "ipa": "/ˈspɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "disruption",
+   "meaning": "gián đoạn, xáo trộn",
+   "example": "Let's learn the word \"disruption\".",
+   "exampleMeaning": "Cùng học từ “disruption”: gián đoạn, xáo trộn.",
+   "emoji": "",
+   "ipa": "/dɪsˈrəpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "timber",
+   "meaning": "gỗ xây dựng",
+   "example": "to cut down timber",
+   "exampleMeaning": "Đẵn gỗ",
+   "emoji": "",
+   "ipa": "/ˈtɪmbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "enlist",
+   "meaning": "nhập ngũ, tranh thủ",
+   "example": "to enlist someone's suppor",
+   "exampleMeaning": "Tranh thủ được sự ủng hộ của ai",
+   "emoji": "",
+   "ipa": "/ˌɛnˈlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bilateral",
+   "meaning": "song phương",
+   "example": "The delegation of the United States would like to propose a bilateral solution.",
+   "exampleMeaning": "Đoàn đại biểu Hoa Kỳ muốn đề xuất một giải pháp song phương.",
+   "emoji": "",
+   "ipa": "/baɪˈlætɜrəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "enquiry",
+   "meaning": "câu hỏi, cuộc điều tra",
+   "example": "Let's learn the word \"enquiry\".",
+   "exampleMeaning": "Cùng học từ “enquiry”: câu hỏi, cuộc điều tra.",
+   "emoji": "",
+   "ipa": "/ɪnˈkwaɪˌri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "prosecutor",
+   "meaning": "công tố viên",
+   "example": "Let's learn the word \"prosecutor\".",
+   "exampleMeaning": "Cùng học từ “prosecutor”: công tố viên.",
+   "emoji": "",
+   "ipa": "/ˈprɑsɪkˌjutɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "premium",
+   "meaning": "phí bảo hiểm, cao cấp, tiền thưởng",
+   "example": "Let's learn the word \"premium\".",
+   "exampleMeaning": "Cùng học từ “premium”: phí bảo hiểm, cao cấp, tiền thưởng.",
+   "emoji": "",
+   "ipa": "/ˈprimiəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "parliamentary",
+   "meaning": "thuộc nghị viện",
+   "example": "old parliamentary hand",
+   "exampleMeaning": "Tay nghị sĩ già đời, nghị sĩ có nhiều kinh nghiệm nghị trường",
+   "emoji": "",
+   "ipa": "/ˌpɑrləˈmɛnɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "multimedia",
+   "meaning": "đa phương tiện",
+   "example": "Let's learn the word \"multimedia\".",
+   "exampleMeaning": "Cùng học từ “multimedia”: đa phương tiện.",
+   "emoji": "",
+   "ipa": "/məltiˈmiːdi.ə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "recruitment",
+   "meaning": "tuyển dụng",
+   "example": "Let's learn the word \"recruitment\".",
+   "exampleMeaning": "Cùng học từ “recruitment”: tuyển dụng.",
+   "emoji": "",
+   "ipa": "/rəˈkrutmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "aide",
+   "meaning": "phụ tá, trợ lý",
+   "example": "Let's learn the word \"aide\".",
+   "exampleMeaning": "Cùng học từ “aide”: phụ tá, trợ lý.",
+   "emoji": "",
+   "ipa": "/ˈeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "taxpayer",
+   "meaning": "người nộp thuế",
+   "example": "Let's learn the word \"taxpayer\".",
+   "exampleMeaning": "Cùng học từ “taxpayer”: người nộp thuế.",
+   "emoji": "",
+   "ipa": "/ˈtækˌspeɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "default",
+   "meaning": "mặc định, vỡ nợ",
+   "example": "in default of...",
+   "exampleMeaning": "Ví thiếu... (cái gì)",
+   "emoji": "",
+   "ipa": "/dɪˈfɔlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "ideological",
+   "meaning": "thuộc hệ tư tưởng",
+   "example": "Let's learn the word \"ideological\".",
+   "exampleMeaning": "Cùng học từ “ideological”: thuộc hệ tư tưởng.",
+   "emoji": "",
+   "ipa": "/ˌaɪdiəˈlɑdʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dwell",
+   "meaning": "cư ngụ, nghĩ mãi về",
+   "example": "to dwell in the country",
+   "exampleMeaning": "Ở nông thôn",
+   "emoji": "",
+   "ipa": "/ˈdwɛl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "saddle",
+   "meaning": "yên ngựa, yên xe",
+   "example": "Let's learn the word \"saddle\".",
+   "exampleMeaning": "Cùng học từ “saddle”: yên ngựa, yên xe.",
+   "emoji": "",
+   "ipa": "/ˈsædəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "The",
+    "hunter",
+    "lost",
+    "his",
+    "quiver"
+   ],
+   "reading": "",
+   "meaning": "Thợ săn bị mất ống đựng tên."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "learn",
+    "Turkish"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố học tiếng Thổ Nhĩ Kì."
+  },
+  {
+   "tokens": [
+    "Today's",
+    "Europeans",
+    "are",
+    "too",
+    "naive"
+   ],
+   "reading": "",
+   "meaning": "Người châu Âu ngày nay quá ngây thơ."
+  },
+  {
+   "tokens": [
+    "I",
+    "enjoyed",
+    "feeding",
+    "the",
+    "pigeons"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích thú khi cho chim bồ câu ăn."
+  },
+  {
+   "tokens": [
+    "Our",
+    "teacher",
+    "is",
+    "always",
+    "chill"
+   ],
+   "reading": "",
+   "meaning": "Giáo viên của chúng tôi lúc nào cũng thoải mái."
+  }
+ ],
+ "issues": []
+}

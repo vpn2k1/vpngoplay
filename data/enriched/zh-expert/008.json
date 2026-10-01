@@ -1,0 +1,331 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "工整",
+   "meaning": "ngay ngắn, chỉn chu",
+   "example": "字写得工整极了。",
+   "exampleMeaning": "Chữ viết rất ngay ngắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngzhěng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "如果说",
+   "meaning": "nếu nói rằng",
+   "example": "我们来学“如果说”这个词。",
+   "exampleMeaning": "Cùng học từ “如果说”: nếu nói rằng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rúguǒshuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "按说",
+   "meaning": "lẽ ra, theo lý mà nói",
+   "example": "五一节都过了，按说该穿单衣了，可是一早一晚还离不了毛衣",
+   "exampleMeaning": "Mồng một tháng năm đã qua, lẽ ra phải mặc áo mỏng được rồi, thế mà từ sáng đến tối vẫn không thoát được cái áo len",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ànshuō",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "经济学家",
+   "meaning": "nhà kinh tế học",
+   "example": "我们来学“经济学家”这个词。",
+   "exampleMeaning": "Cùng học từ “经济学家”: nhà kinh tế học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngjìxuéjiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市中心",
+   "meaning": "trung tâm thành phố",
+   "example": "我们来学“市中心”这个词。",
+   "exampleMeaning": "Cùng học từ “市中心”: trung tâm thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìzhōngxīn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "股价",
+   "meaning": "giá cổ phiếu",
+   "example": "我们来学“股价”这个词。",
+   "exampleMeaning": "Cùng học từ “股价”: giá cổ phiếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔjià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "手足",
+   "meaning": "tay chân, anh em ruột",
+   "example": "情同手足。",
+   "exampleMeaning": "Tình như anh em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǒuzú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大体",
+   "meaning": "đại thể, đại khái, đại cục",
+   "example": "我们的看法大体相同。",
+   "exampleMeaning": "Cách nhìn của chúng ta trên cơ bản giống nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàtǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "高产",
+   "meaning": "năng suất cao",
+   "example": "高产作物",
+   "exampleMeaning": "Cây trồng sản lượng cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāochǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生产资料",
+   "meaning": "tư liệu sản xuất",
+   "example": "我们来学“生产资料”这个词。",
+   "exampleMeaning": "Cùng học từ “生产资料”: tư liệu sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngchǎnzīliào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刊物",
+   "meaning": "ấn phẩm, tạp chí",
+   "example": "定期刊物。",
+   "exampleMeaning": "Tập san định kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kānwù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "京师",
+   "meaning": "kinh đô, kinh sư",
+   "example": "我们来学“京师”这个词。",
+   "exampleMeaning": "Cùng học từ “京师”: kinh đô, kinh sư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngshī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "波涛",
+   "meaning": "sóng lớn, sóng cả",
+   "example": "万顷波涛。",
+   "exampleMeaning": "Muôn trùng sóng cả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bōtāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不在",
+   "meaning": "không có mặt, đi vắng",
+   "example": "他故意做出不在乎的样子。",
+   "exampleMeaning": "Anh ta làm ra vẻ không quan tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùzài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "普查",
+   "meaning": "tổng điều tra, điều tra toàn diện",
+   "example": "人口普查。",
+   "exampleMeaning": "Tổng điều tra nhân khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "pǔchá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "常设",
+   "meaning": "thường trực, cố định",
+   "example": "常设机关",
+   "exampleMeaning": "Cơ quan thường trực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángshè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "开天辟地",
+   "meaning": "khai thiên lập địa",
+   "example": "我们来学“开天辟地”这个词。",
+   "exampleMeaning": "Cùng học từ “开天辟地”: khai thiên lập địa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kāitiānpìdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "建制",
+   "meaning": "biên chế, cơ cấu tổ chức",
+   "example": "我们来学“建制”这个词。",
+   "exampleMeaning": "Cùng học từ “建制”: biên chế, cơ cấu tổ chức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "奠定",
+   "meaning": "đặt nền móng, xác lập",
+   "example": "奠定基础",
+   "exampleMeaning": "Đặt cơ sở",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàndìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "无不",
+   "meaning": "không ai không, đều",
+   "example": "我们来学“无不”这个词。",
+   "exampleMeaning": "Cùng học từ “无不”: không ai không, đều.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wúbù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼得",
+    "现在",
+    "不",
+    "在"
+   ],
+   "reading": "bǐdé xiànzài bù zài",
+   "meaning": "Peter đang không có ở đây."
+  },
+  {
+   "tokens": [
+    "他",
+    "故意",
+    "做出",
+    "不",
+    "在乎",
+    "的",
+    "样子"
+   ],
+   "reading": "tā gùyì zuòchū bù zàihu de yàngzi",
+   "meaning": "Anh ta làm ra vẻ không quan tâm."
+  },
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  }
+ ],
+ "issues": []
+}

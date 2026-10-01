@@ -1,0 +1,326 @@
+{
+ "lesson": 13,
+ "draft": true,
+ "words": [
+  {
+   "term": "核弾頭",
+   "meaning": "đầu đạn hạt nhân",
+   "example": "「核弾頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “核弾頭”: đầu đạn hạt nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "管轄",
+   "meaning": "quyền quản lý, thẩm quyền",
+   "example": "「管轄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “管轄”: quyền quản lý, thẩm quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "増益",
+   "meaning": "tăng lợi nhuận",
+   "example": "「増益」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “増益”: tăng lợi nhuận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "料理屋",
+   "meaning": "quán ăn, nhà hàng",
+   "example": "「料理屋」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “料理屋”: quán ăn, nhà hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発信",
+   "meaning": "phát đi, gửi tin",
+   "example": "「発信」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発信”: phát đi, gửi tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "半額",
+   "meaning": "nửa giá",
+   "example": "「半額」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “半額”: nửa giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "日数",
+   "meaning": "số ngày",
+   "example": "「日数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “日数”: số ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地域社会",
+   "meaning": "cộng đồng địa phương",
+   "example": "「地域社会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地域社会”: cộng đồng địa phương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "関脇",
+   "meaning": "đô vật hạng ba (sumo)",
+   "example": "「関脇」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “関脇”: đô vật hạng ba (sumo).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "善意",
+   "meaning": "thiện ý, lòng tốt",
+   "example": "「善意」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “善意”: thiện ý, lòng tốt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "素顔",
+   "meaning": "mặt mộc, bộ mặt thật",
+   "example": "「素顔」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “素顔”: mặt mộc, bộ mặt thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "替え玉",
+   "meaning": "người thế chỗ, vật thay thế",
+   "example": "「替え玉」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “替え玉”: người thế chỗ, vật thay thế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高温",
+   "meaning": "nhiệt độ cao",
+   "example": "「高温」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “高温”: nhiệt độ cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肩書き",
+   "meaning": "chức danh, danh hiệu",
+   "example": "「肩書き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肩書き”: chức danh, danh hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "消極",
+   "meaning": "tiêu cực, thụ động",
+   "example": "「消極」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “消極”: tiêu cực, thụ động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "雀",
+   "meaning": "chim sẻ",
+   "example": "麻雀のやり方を知ってる？",
+   "exampleMeaning": "Bạn biết chơi mạt chược không?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "接待",
+   "meaning": "tiếp đãi, chiêu đãi",
+   "example": "「接待」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “接待”: tiếp đãi, chiêu đãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "官民",
+   "meaning": "nhà nước và tư nhân",
+   "example": "「官民」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “官民”: nhà nước và tư nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定着",
+   "meaning": "bám rễ, ổn định",
+   "example": "「定着」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定着”: bám rễ, ổn định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "予想外",
+   "meaning": "ngoài dự kiến, bất ngờ",
+   "example": "「予想外」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “予想外”: ngoài dự kiến, bất ngờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼の",
+    "話",
+    "の",
+    "一部",
+    "は",
+    "本当",
+    "だ"
+   ],
+   "reading": "かれのはなしのいちぶはほんとうだ",
+   "meaning": "Một phần trong câu chuyện của ông là sự thật."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "ジャズ",
+    "が",
+    "好き",
+    "です"
+   ],
+   "reading": "わたしはジャズがすきです",
+   "meaning": "Tôi thích nhạc jazz."
+  },
+  {
+   "tokens": [
+    "ほんの",
+    "一度",
+    "会った",
+    "だけ"
+   ],
+   "reading": "ほんのいちどあっただけ",
+   "meaning": "Tôi chỉ gặp anh ta có một lần."
+  },
+  {
+   "tokens": [
+    "君",
+    "には",
+    "うんざり",
+    "した",
+    "よ"
+   ],
+   "reading": "きみにはうんざりしたよ",
+   "meaning": "Tôi chán ngấy anh rồi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "東京",
+    "に",
+    "引っ越した"
+   ],
+   "reading": "かれはとうきょうにひっこした",
+   "meaning": "Anh ta đã chuyển nhà tới Tokyo."
+  }
+ ],
+ "issues": []
+}

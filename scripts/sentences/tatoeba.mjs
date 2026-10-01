@@ -76,6 +76,8 @@ const kanaWords = new Map()
 const KANA = /^[\p{Script=Hiragana}\p{Script=Katakana}ー]+$/u
 for (const f of readdirSync(COURSES).filter((f) => f.endsWith('.json'))) {
   const { course, words: list } = JSON.parse(readFileSync(join(COURSES, f), 'utf8'))
+  // Sentence levels follow the standard lists; the expert course (past them) doesn't regrade them.
+  if (course.level === 'expert') continue
   const rank = (level) => LEVELS[course.lang].findIndex(([, levels]) => levels.includes(level))
   for (const w of list) {
     const r = rank(w.level)

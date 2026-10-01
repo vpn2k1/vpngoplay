@@ -1,0 +1,343 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "衣衫",
+   "meaning": "quần áo, áo",
+   "example": "衣衫不整",
+   "exampleMeaning": "Áo quần sốc sếch",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīshān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "集团军",
+   "meaning": "tập đoàn quân",
+   "example": "我们来学“集团军”这个词。",
+   "exampleMeaning": "Cùng học từ “集团军”: tập đoàn quân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jítuánjūn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "问世",
+   "meaning": "ra đời, xuất bản",
+   "example": "一部新词典即将问世。",
+   "exampleMeaning": "Một bộ từ điển mới sắp xuất bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wènshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "勇往直前",
+   "meaning": "dũng cảm tiến lên, không lùi bước",
+   "example": "我们来学“勇往直前”这个词。",
+   "exampleMeaning": "Cùng học từ “勇往直前”: dũng cảm tiến lên, không lùi bước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒngwǎngzhíqián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "例行",
+   "meaning": "thường lệ, định kỳ",
+   "example": "我们来学“例行”这个词。",
+   "exampleMeaning": "Cùng học từ “例行”: thường lệ, định kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "津津有味",
+   "meaning": "say sưa thích thú",
+   "example": "我们来学“津津有味”这个词。",
+   "exampleMeaning": "Cùng học từ “津津有味”: say sưa thích thú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīnjīnyǒuwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "编成",
+   "meaning": "biên soạn, tổ chức thành",
+   "example": "我们来学“编成”这个词。",
+   "exampleMeaning": "Cùng học từ “编成”: biên soạn, tổ chức thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "biānchéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "使馆",
+   "meaning": "sứ quán",
+   "example": "我们来学“使馆”这个词。",
+   "exampleMeaning": "Cùng học từ “使馆”: sứ quán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shǐguǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "都督",
+   "meaning": "đô đốc",
+   "example": "我们来学“都督”这个词。",
+   "exampleMeaning": "Cùng học từ “都督”: đô đốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dūdū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "担子",
+   "meaning": "gánh, gánh nặng, trách nhiệm",
+   "example": "我们来学“担子”这个词。",
+   "exampleMeaning": "Cùng học từ “担子”: gánh, gánh nặng, trách nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dànzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重合",
+   "meaning": "trùng khớp, trùng nhau",
+   "example": "这三角形的底边与这四边形的一边相重合。",
+   "exampleMeaning": "Cạnh đáy của tam giác này và một cạnh của tứ giác này trùng nhau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chónghé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "心病",
+   "meaning": "tâm bệnh, nỗi lo thầm kín",
+   "example": "那事儿没彻底解决，总是他的一块心病。",
+   "exampleMeaning": "Việc đó chưa giải quyết triệt để luôn là nỗi buồn phiền của anh ấy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnbìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "号令",
+   "meaning": "hiệu lệnh",
+   "example": "军队的号令。",
+   "exampleMeaning": "Hiệu lệnh của quân đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàolìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "函授",
+   "meaning": "học hàm thụ, học từ xa",
+   "example": "函授教材",
+   "exampleMeaning": "Tài liệu giảng dạy hàm thụ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hánshòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "泥潭",
+   "meaning": "vũng bùn, vũng lầy, đầm lầy",
+   "example": "我们来学“泥潭”这个词。",
+   "exampleMeaning": "Cùng học từ “泥潭”: vũng bùn, vũng lầy, đầm lầy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nítán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杀伤",
+   "meaning": "sát thương",
+   "example": "我们来学“杀伤”这个词。",
+   "exampleMeaning": "Cùng học từ “杀伤”: sát thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shāshāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "心眼儿",
+   "meaning": "tâm địa, bụng dạ, tâm tư",
+   "example": "他这个人就是心眼儿太多。",
+   "exampleMeaning": "Con người này cẩn thận quá mức.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xīnyǎnr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "一目了然",
+   "meaning": "nhìn là biết ngay, rõ như ban ngày",
+   "example": "从楼上往下看，一目了然。",
+   "exampleMeaning": "Từ trên lầu nhìn xuống là thấy hết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīmùliǎorán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公墓",
+   "meaning": "nghĩa trang, nghĩa địa công cộng",
+   "example": "清明那天,前往烈士公墓凭吊的人群,络绎不绝",
+   "exampleMeaning": "Đoàn người đến viếng mộ liệt sĩ vào ngày thanh minh hôm đó đông nườm nượp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngmù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "索性",
+   "meaning": "dứt khoát, thôi thì cứ",
+   "example": "既然已经做了，索性就把它做完。",
+   "exampleMeaning": "Đã làm rồi thì dứt khoát làm cho xong.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suǒxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  },
+  {
+   "tokens": [
+    "他们",
+    "俩",
+    "工作",
+    "上",
+    "联系",
+    "多",
+    "经常",
+    "打交道"
+   ],
+   "reading": "tāmen liǎ gōngzuò shàng liánxì duō jīngcháng dǎjiāodào",
+   "meaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  }
+ ],
+ "issues": []
+}

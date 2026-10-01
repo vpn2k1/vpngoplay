@@ -1,0 +1,342 @@
+{
+ "lesson": 61,
+ "draft": true,
+ "words": [
+  {
+   "term": "布石",
+   "meaning": "nước khai cuộc, bước chuẩn bị",
+   "example": "「布石」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “布石”: nước khai cuộc, bước chuẩn bị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "労務",
+   "meaning": "lao động, nhân sự",
+   "example": "「労務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “労務”: lao động, nhân sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "地表",
+   "meaning": "mặt đất, bề mặt trái đất",
+   "example": "「地表」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “地表”: mặt đất, bề mặt trái đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "決する",
+   "meaning": "quyết định, phân định",
+   "example": "その紛争を解決するのは不可能だ。",
+   "exampleMeaning": "Việc giải quyết tranh chấp đó là bất khả thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "御所",
+   "meaning": "hoàng cung, cung điện",
+   "example": "「御所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “御所”: hoàng cung, cung điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "開局",
+   "meaning": "khai trương, mở đài",
+   "example": "「開局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “開局”: khai trương, mở đài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "硬直",
+   "meaning": "cứng đờ, cứng nhắc",
+   "example": "「硬直」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “硬直”: cứng đờ, cứng nhắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "未成年",
+   "meaning": "vị thành niên",
+   "example": "この映画は大人向けで未成年禁止です。",
+   "exampleMeaning": "Bộ phim này chỉ dành cho người lớn, cấm trẻ vị thành niên xem.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "反米",
+   "meaning": "bài Mỹ, chống Mỹ",
+   "example": "「反米」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “反米”: bài Mỹ, chống Mỹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "十八番",
+   "meaning": "sở trường, tiết mục ruột",
+   "example": "「十八番」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “十八番”: sở trường, tiết mục ruột.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "暗号",
+   "meaning": "mật mã",
+   "example": "「暗号」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “暗号”: mật mã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "消費財",
+   "meaning": "hàng tiêu dùng",
+   "example": "「消費財」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “消費財”: hàng tiêu dùng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刑事責任",
+   "meaning": "trách nhiệm hình sự",
+   "example": "「刑事責任」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “刑事責任”: trách nhiệm hình sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "民需",
+   "meaning": "nhu cầu dân sự",
+   "example": "「民需」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “民需”: nhu cầu dân sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "回す",
+   "meaning": "xoay, quay, chuyển",
+   "example": "「回す」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “回す”: xoay, quay, chuyển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本命",
+   "meaning": "ứng viên sáng giá",
+   "example": "「本命」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “本命”: ứng viên sáng giá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勝ち星",
+   "meaning": "trận thắng",
+   "example": "「勝ち星」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勝ち星”: trận thắng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "空路",
+   "meaning": "đường hàng không",
+   "example": "「空路」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “空路”: đường hàng không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "穴埋め",
+   "meaning": "lấp chỗ trống, bù đắp",
+   "example": "「穴埋め」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “穴埋め”: lấp chỗ trống, bù đắp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "計画的",
+   "meaning": "có kế hoạch",
+   "example": "「計画的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “計画的”: có kế hoạch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "紛争",
+    "を",
+    "解決",
+    "する",
+    "の",
+    "は",
+    "不可能",
+    "だ"
+   ],
+   "reading": "そのふんそうをかいけつするのはふかのうだ",
+   "meaning": "Việc giải quyết tranh chấp đó là bất khả thi."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "その",
+    "クラブ",
+    "へ",
+    "の",
+    "入会",
+    "を",
+    "申し込んだ"
+   ],
+   "reading": "かれはそのクラブへのにゅうかいをもうしこんだ",
+   "meaning": "Anh ấy đã đăng ký gia nhập câu lạc bộ đó."
+  },
+  {
+   "tokens": [
+    "この",
+    "部屋",
+    "で",
+    "昼食",
+    "を",
+    "とって",
+    "も",
+    "いい",
+    "です",
+    "よ"
+   ],
+   "reading": "このへやでちゅうしょくをとってもいいですよ",
+   "meaning": "Bạn có thể ăn trưa trong căn phòng này."
+  },
+  {
+   "tokens": [
+    "月曜",
+    "まで",
+    "に",
+    "この",
+    "仕事",
+    "を",
+    "終えて",
+    "ください"
+   ],
+   "reading": "げつようまでにこのしごとをおえてください",
+   "meaning": "Hãy hoàn thành công việc này trước thứ Hai."
+  },
+  {
+   "tokens": [
+    "その",
+    "球場",
+    "は",
+    "野球",
+    "ファン",
+    "で",
+    "あふれていた"
+   ],
+   "reading": "そのきゅうじょうはやきゅうファンであふれていた",
+   "meaning": "Sân bóng chày đó đầy ắp những người hâm mộ bóng chày."
+  }
+ ],
+ "issues": []
+}

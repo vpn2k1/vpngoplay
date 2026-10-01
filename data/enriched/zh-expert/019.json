@@ -1,0 +1,331 @@
+{
+ "lesson": 19,
+ "draft": true,
+ "words": [
+  {
+   "term": "恰如其分",
+   "meaning": "vừa phải, đúng mực",
+   "example": "我们来学“恰如其分”这个词。",
+   "exampleMeaning": "Cùng học từ “恰如其分”: vừa phải, đúng mực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiàrúqífèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "着力",
+   "meaning": "dồn sức, nỗ lực",
+   "example": "这部小说着力地描绘了农村的新面貌。",
+   "exampleMeaning": "Bộ tiểu thuyết này cố gắng miêu tả bộ mặt mới của nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuólì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "冷门",
+   "meaning": "lĩnh vực ít người theo, kết quả bất ngờ",
+   "example": "今天比赛又爆冷门，一向默默无闻的火车头队一举夺得团体赛冠军。",
+   "exampleMeaning": "Trận thi đấu hôm nay lại có kết quả bất ngờ, đội đầu máy xe lửa chẳng ai biết đến từ trước nay lại một đòn mà đoạt quán quân trong trận thi đấu đồng đội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lěngmén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "旱灾",
+   "meaning": "hạn hán, nạn hạn",
+   "example": "旱灾持续了好几个月。",
+   "exampleMeaning": "Hạn hán kéo dài hàng mấy tháng trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hànzāi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "殿堂",
+   "meaning": "cung điện, điện thờ, thánh đường",
+   "example": "我们来学“殿堂”这个词。",
+   "exampleMeaning": "Cùng học từ “殿堂”: cung điện, điện thờ, thánh đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diàntáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "尚无",
+   "meaning": "chưa có, vẫn chưa",
+   "example": "我们来学“尚无”这个词。",
+   "exampleMeaning": "Cùng học từ “尚无”: chưa có, vẫn chưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shàngwú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "矿藏",
+   "meaning": "tài nguyên khoáng sản",
+   "example": "我国的矿藏很丰富。",
+   "exampleMeaning": "Tài nguyên khoáng sản ở nước ta rất phong phú.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuàngcáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "地下水",
+   "meaning": "nước ngầm",
+   "example": "我们来学“地下水”这个词。",
+   "exampleMeaning": "Cùng học từ “地下水”: nước ngầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìxiàshuǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "伯母",
+   "meaning": "bác gái",
+   "example": "我们来学“伯母”这个词。",
+   "exampleMeaning": "Cùng học từ “伯母”: bác gái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bómǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "私信",
+   "meaning": "tin nhắn riêng, thư riêng",
+   "example": "我们来学“私信”这个词。",
+   "exampleMeaning": "Cùng học từ “私信”: tin nhắn riêng, thư riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sīxìn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敬重",
+   "meaning": "kính trọng, tôn kính",
+   "example": "敬重老师",
+   "exampleMeaning": "Kính trọng thầy giáo",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jìngzhòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "露出",
+   "meaning": "lộ ra, để lộ",
+   "example": "我们来学“露出”这个词。",
+   "exampleMeaning": "Cùng học từ “露出”: lộ ra, để lộ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lùchū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "贪玩儿",
+   "meaning": "ham chơi",
+   "example": "我们来学“贪玩儿”这个词。",
+   "exampleMeaning": "Cùng học từ “贪玩儿”: ham chơi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tānwánr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "电子",
+   "meaning": "điện tử",
+   "example": "我们来学“电子”这个词。",
+   "exampleMeaning": "Cùng học từ “电子”: điện tử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànzǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "道士",
+   "meaning": "đạo sĩ",
+   "example": "我们来学“道士”这个词。",
+   "exampleMeaning": "Cùng học từ “道士”: đạo sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàoshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纵身",
+   "meaning": "nhảy vọt, lao mình",
+   "example": "纵身跳过壕沟。",
+   "exampleMeaning": "Nhảy qua chiến hào",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zòngshēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "主题歌",
+   "meaning": "bài hát chủ đề",
+   "example": "我们来学“主题歌”这个词。",
+   "exampleMeaning": "Cùng học từ “主题歌”: bài hát chủ đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǔtígē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "哄堂大笑",
+   "meaning": "cả phòng cười ồ, cười phá lên",
+   "example": "我们来学“哄堂大笑”这个词。",
+   "exampleMeaning": "Cùng học từ “哄堂大笑”: cả phòng cười ồ, cười phá lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hōngtángdàxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "捕捞",
+   "meaning": "đánh bắt",
+   "example": "捕捞鱼虾",
+   "exampleMeaning": "Đánh bắt tôm cá",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǔlāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "没说的",
+   "meaning": "khỏi phải bàn, không chê vào đâu được",
+   "example": "这小伙子既能干又积极，真是没说的。",
+   "exampleMeaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méishuōde",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "小伙子",
+    "既",
+    "能干",
+    "又",
+    "积极",
+    "真是",
+    "没说的"
+   ],
+   "reading": "zhè xiǎohuǒzi jì nénggàn yòu jījí zhēnshi méishuōde",
+   "meaning": "Thằng nhóc đó vừa năng động vừa tích cực, thật sự là không chê được."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  },
+  {
+   "tokens": [
+    "可能",
+    "你",
+    "工作",
+    "得",
+    "太",
+    "拼命"
+   ],
+   "reading": "kěnéng nǐ gōngzuò de tài pīnmìng",
+   "meaning": "Có lẽ anh đang làm việc quá liều mạng?"
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  }
+ ],
+ "issues": []
+}

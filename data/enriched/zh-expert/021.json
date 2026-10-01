@@ -1,0 +1,333 @@
+{
+ "lesson": 21,
+ "draft": true,
+ "words": [
+  {
+   "term": "忍饥挨饿",
+   "meaning": "chịu đói chịu khát",
+   "example": "我们来学“忍饥挨饿”这个词。",
+   "exampleMeaning": "Cùng học từ “忍饥挨饿”: chịu đói chịu khát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rěnjīáiè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "方方面面",
+   "meaning": "mọi mặt, mọi phương diện",
+   "example": "要办好一件事，须要考虑到方方面面的问题。",
+   "exampleMeaning": "Muốn làm tốt một việc phải suy nghĩ đến mọi vấn đề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngfāngmiànmiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "兵团",
+   "meaning": "binh đoàn, quân đoàn",
+   "example": "主力兵团",
+   "exampleMeaning": "Binh đoàn chủ lực",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīngtuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "彻夜",
+   "meaning": "suốt đêm, thâu đêm",
+   "example": "彻夜不眠。",
+   "exampleMeaning": "Suốt đêm không ngủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chèyè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "自强不息",
+   "meaning": "không ngừng vươn lên, tự cường",
+   "example": "我们来学“自强不息”这个词。",
+   "exampleMeaning": "Cùng học từ “自强不息”: không ngừng vươn lên, tự cường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìqiángbùxī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拦截",
+   "meaning": "chặn lại, đánh chặn",
+   "example": "拦截增援的敌人。",
+   "exampleMeaning": "Chặn quân tiếp viện của địch.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lánjié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "法定",
+   "meaning": "theo luật định, pháp định",
+   "example": "按照法定的手续办理",
+   "exampleMeaning": "Thủ tục làm theo luật định",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎdìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "过半",
+   "meaning": "quá nửa, hơn một nửa",
+   "example": "时间过半，任务过半。",
+   "exampleMeaning": "Hơn nửa thời gian, nhiệm vụ đã làm hơn nửa rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòbàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "健壮",
+   "meaning": "khỏe mạnh, cường tráng",
+   "example": "身体健壮",
+   "exampleMeaning": "Thân thể cường tráng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiànzhuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "市辖区",
+   "meaning": "quận nội thành, quận thuộc thành phố",
+   "example": "我们来学“市辖区”这个词。",
+   "exampleMeaning": "Cùng học từ “市辖区”: quận nội thành, quận thuộc thành phố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìxiáqū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "从容不迫",
+   "meaning": "ung dung, điềm tĩnh",
+   "example": "我们来学“从容不迫”这个词。",
+   "exampleMeaning": "Cùng học từ “从容不迫”: ung dung, điềm tĩnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "cóngróngbùpò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "筹办",
+   "meaning": "trù bị, chuẩn bị tổ chức",
+   "example": "筹办夜校。",
+   "exampleMeaning": "Chuẩn bị mở lớp tối.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóubàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "战机",
+   "meaning": "thời cơ chiến đấu, chiến đấu cơ",
+   "example": "抓住战机",
+   "exampleMeaning": "Nắm chắc thời cơ chiến đấu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànjī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "温带",
+   "meaning": "ôn đới",
+   "example": "我们来学“温带”这个词。",
+   "exampleMeaning": "Cùng học từ “温带”: ôn đới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēndài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "将士",
+   "meaning": "tướng sĩ",
+   "example": "将士用命(军官和土兵都服从命令)。",
+   "exampleMeaning": "Tướng sĩ đều theo lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiàngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "灼热",
+   "meaning": "nóng bỏng, nóng rát",
+   "example": "灼热的炼钢炉",
+   "exampleMeaning": "Lò luyện thép nóng bỏng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuórè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "惯性",
+   "meaning": "quán tính, thói quen",
+   "example": "惯性把列车带到车站。",
+   "exampleMeaning": "Quán tính đưa đoàn tàu về nhà ga.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guànxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "雄厚",
+   "meaning": "hùng hậu, dồi dào",
+   "example": "我们来学“雄厚”这个词。",
+   "exampleMeaning": "Cùng học từ “雄厚”: hùng hậu, dồi dào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiónghòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自力更生",
+   "meaning": "tự lực cánh sinh",
+   "example": "自成年后，他便自力更生，不再依靠父母。",
+   "exampleMeaning": "Sau khi lớn lên, anh ấy luôn tự lực cánh sinh, không dựa dẫm vào cha mẹ nữa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìlìgēngshēng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绝招",
+   "meaning": "tuyệt chiêu, ngón độc",
+   "example": "我们来学“绝招”这个词。",
+   "exampleMeaning": "Cùng học từ “绝招”: tuyệt chiêu, ngón độc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juézhāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  }
+ ],
+ "issues": []
+}

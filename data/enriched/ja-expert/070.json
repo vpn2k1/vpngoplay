@@ -1,0 +1,334 @@
+{
+ "lesson": 70,
+ "draft": true,
+ "words": [
+  {
+   "term": "国宝",
+   "meaning": "quốc bảo, bảo vật quốc gia",
+   "example": "「国宝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国宝”: quốc bảo, bảo vật quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "片隅",
+   "meaning": "góc, xó",
+   "example": "「片隅」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “片隅”: góc, xó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "急務",
+   "meaning": "việc cấp bách",
+   "example": "「急務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “急務”: việc cấp bách.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "通し",
+   "meaning": "liên tục, suốt",
+   "example": "彼女は一晩中泣き通した。",
+   "exampleMeaning": "Cô ấy đã khóc suốt đêm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "無期限",
+   "meaning": "vô thời hạn",
+   "example": "「無期限」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “無期限”: vô thời hạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "死刑囚",
+   "meaning": "tử tù",
+   "example": "「死刑囚」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “死刑囚”: tử tù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "例会",
+   "meaning": "họp định kỳ",
+   "example": "「例会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “例会”: họp định kỳ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天文",
+   "meaning": "thiên văn",
+   "example": "「天文」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “天文”: thiên văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "湖畔",
+   "meaning": "bờ hồ",
+   "example": "湖畔の古い教会はとても美しい。",
+   "exampleMeaning": "Nhà thờ cổ bên hồ rất đẹp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "不起訴",
+   "meaning": "không khởi tố",
+   "example": "「不起訴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不起訴”: không khởi tố.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "専属",
+   "meaning": "chuyên thuộc, độc quyền",
+   "example": "「専属」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “専属”: chuyên thuộc, độc quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大震災",
+   "meaning": "đại động đất, thảm họa động đất",
+   "example": "3月11日に未曾有の大震災が発生した。",
+   "exampleMeaning": "Vào ngày 11 tháng 3, một trận động đất lớn chưa từng có đã xảy ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "二軍",
+   "meaning": "đội dự bị",
+   "example": "「二軍」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “二軍”: đội dự bị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不能",
+   "meaning": "không thể, bất lực",
+   "example": "女ってどうして連れションしたがるの？物凄く理解不能。",
+   "exampleMeaning": "Tại sao con gái lại muốn đi toa lét cùng nhau? Tôi thật không hiểu nổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "堪能",
+   "meaning": "thành thạo, thỏa mãn",
+   "example": "彼女はフランス語が堪能だ。",
+   "exampleMeaning": "Cô ấy thông thạo tiếng Pháp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "幕開け",
+   "meaning": "mở màn, khởi đầu",
+   "example": "「幕開け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “幕開け”: mở màn, khởi đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "進撃",
+   "meaning": "tiến công, tiến quân",
+   "example": "「進撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “進撃”: tiến công, tiến quân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "誘い",
+   "meaning": "lời mời, rủ rê",
+   "example": "「誘い」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “誘い”: lời mời, rủ rê.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不作",
+   "meaning": "mất mùa",
+   "example": "「不作」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不作”: mất mùa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全権",
+   "meaning": "toàn quyền",
+   "example": "「全権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “全権”: toàn quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "一晩中",
+    "泣き",
+    "通した"
+   ],
+   "reading": "かのじょはひとばんじゅうなきとおした",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "本",
+    "に",
+    "ざっと",
+    "目を通した"
+   ],
+   "reading": "かれのほんにざっとめをとおした",
+   "meaning": "Tôi đã nhìn lướt qua cuốn sách của anh ấy."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "寝る",
+    "前",
+    "に",
+    "ちょっと",
+    "新聞",
+    "に",
+    "目を通した"
+   ],
+   "reading": "かれはねるまえにちょっとしんぶんにめをとおした",
+   "meaning": "Anh ấy nhìn lướt qua tờ báo trước khi đi ngủ."
+  },
+  {
+   "tokens": [
+    "湖畔",
+    "の",
+    "古い",
+    "教会",
+    "は",
+    "とても",
+    "美しい"
+   ],
+   "reading": "こはんのふるいきょうかいはとてもうつくしい",
+   "meaning": "Nhà thờ cổ bên hồ rất đẹp."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "重い",
+    "荷物",
+    "を",
+    "空港",
+    "まで",
+    "引きずって",
+    "行った"
+   ],
+   "reading": "わたしはおもいにもつをくうこうまでひきずっていった",
+   "meaning": "Tôi kéo lê túi hành lý nặng đến sân bay."
+  }
+ ],
+ "issues": []
+}

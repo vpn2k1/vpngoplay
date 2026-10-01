@@ -1,6 +1,6 @@
 import { useSuspenseQueries, useSuspenseQuery } from '@tanstack/react-query'
 import { Link, createFileRoute, notFound } from '@tanstack/react-router'
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useMemo, useState, type ReactNode } from 'react'
 import { z } from 'zod'
 import { ArcadeShell } from '../../arcade/ArcadeShell'
 import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
@@ -8,7 +8,7 @@ import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '
 import { vocabQuery } from '../../arcade/vocab'
 import { Bookmark, Dices, GraduationCap } from 'lucide-react'
 import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, Scroll, TRACK_ICON } from '../../components/icons'
-import { OffPath, cx } from '../../components/ui'
+import { cx } from '../../components/ui'
 import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery, type TopicDeckSummary } from '../../lib/api'
 import {
   MIN_REVIEW_WORDS,
@@ -23,7 +23,7 @@ import {
 } from '../../lib/review'
 import { currentLang, useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
-import { TRACK_PLAN, deckOnPath, partition, useTrack } from '../../lib/track'
+import { useTrack } from '../../lib/track'
 import { COURSE_LABEL, TRACKS, type CourseSummary, type Deck } from '../../lib/types'
 
 export const Route = createFileRoute('/games/$gameId')({
@@ -51,6 +51,15 @@ const REVIEW_SOURCES = [
   { id: REVIEW_LEARNED, label: 'Tất cả từ đã học', Icon: GraduationCap, empty: 'học thêm vài bài' },
 ] as const
 
+function DeckGroup({ title, children }: { title: string; children: ReactNode }) {
+  return (
+    <div>
+      <p className="mb-1.5 text-xs font-bold text-slate-500">{title}</p>
+      <div className="grid gap-2 sm:grid-cols-2">{children}</div>
+    </div>
+  )
+}
+
 const chip = (active: boolean) =>
   cx(
     'flex items-center gap-2 rounded-2xl border-2 border-b-4 px-3 py-2 text-left text-sm font-bold transition',
@@ -72,9 +81,9 @@ function GamePage() {
   const langDecks = catalog.filter((d) => d.lang === lang)
   // Only courses with enough generated lessons to play with.
   const langCourses = courses.filter((c) => c.lang === lang && c.wordCount >= MIN_REVIEW_WORDS)
-  // The learner's group picks what is offered first; the rest is folded under "Bộ từ của nhóm khác".
-  const [pathDecks, otherDecks] = partition(langDecks, (d) => deckOnPath(track, d))
-  const [pathCourses, otherCourses] = partition(langCourses, (c) => TRACK_PLAN[track].courses.includes(c.level))
+  // Every word set is offered alike: the learner's group doesn't pick or hide any of them here.
+  const topicDecks = langDecks.filter((d) => !d.category)
+  const idiomDecks = langDecks.filter((d) => d.category === 'idioms')
   const allSaved = useProgress((s) => s.saved)
   const savedWords = useMemo(() => {
     if (search.deck !== REVIEW_SAVED) return []
@@ -100,27 +109,30 @@ function GamePage() {
   const learnedKeys = learned.keys
   const reviewCount: Record<ReviewSource, number> = { saved: savedCount, learned: learned.count }
 
-  const fallback = pathDecks.find((d) => !d.category) ?? langDecks[0]
+  const usesDeck = game.usesDeck !== false
   const valid =
     search.deck === ALL_WORDS ||
     (isReviewSource(search.deck) && reviewCount[search.deck] >= MIN_REVIEW_WORDS) ||
     [...langDecks, ...langCourses].some((d) => d.id === search.deck)
-  const choice = valid ? (search.deck as string) : fallback.id
+  // No word set is picked for the player: games that use one wait on the menu until a set is chosen.
+  // The others (Mưa chữ plays the writing systems) only need a deck for the shell.
+  const choice = valid ? (search.deck as string) : usesDeck ? null : langDecks[0].id
   const isCourse = langCourses.some((c) => c.id === choice)
   // TanStack Query memoises the combined deck while `combine` and the results are unchanged.
   const combine = useCallback(
-    (results: { data: Deck }[]) => {
+    (results: { data: Deck }[]): Deck | null => {
       const loaded = results.map((r) => r.data)
-      return choice === ALL_WORDS ? combineDecks(lang, loaded, track) : loaded[0]
+      return choice === ALL_WORDS ? combineDecks(lang, loaded, track) : (loaded[0] ?? null)
     },
     [choice, lang, track],
   )
   // A course is a Deck with an extra lesson list; games only need the Deck part.
-  const queries = isReviewSource(choice)
-    ? []
-    : isCourse
-      ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
-      : (choice === ALL_WORDS ? pathDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
+  const queries =
+    choice === null || isReviewSource(choice)
+      ? []
+      : isCourse
+        ? [courseQuery(choice) as unknown as ReturnType<typeof deckQuery>]
+        : (choice === ALL_WORDS ? topicDecks.map((d) => d.id) : [choice]).map((id) => deckQuery(id))
   const loaded = useSuspenseQueries({ queries, combine })
   const { data: learnedDecks } = useSuspenseQuery(
     decksQuery(choice === REVIEW_LEARNED ? learnedDeckIds(learnedKeys) : []),
@@ -134,8 +146,7 @@ function GamePage() {
           : loaded,
     [choice, lang, savedWords, learnedDecks, learnedKeys, loaded],
   )
-  const totalWords = pathDecks.reduce((n, d) => n + d.wordCount, 0)
-  const usesDeck = game.usesDeck !== false
+  const totalWords = topicDecks.reduce((n, d) => n + d.wordCount, 0)
   const nextGame = useMemo(() => randomGameId(gameId), [gameId])
 
   const courseChip = (c: CourseSummary) => {
@@ -184,7 +195,7 @@ function GamePage() {
 
   const setup = (
     <div className="space-y-4">
-      {isReviewSource(choice) && (
+      {choice !== null && isReviewSource(choice) && (
         <Link
           to="/games/$gameId"
           params={{ gameId: nextGame }}
@@ -199,9 +210,11 @@ function GamePage() {
         <span className="font-medium text-slate-400">· đổi ngôn ngữ ở lá cờ trên cùng</span>
       </p>
       {usesDeck && (
-        <fieldset>
-          <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">Bộ từ</legend>
-          <div className="grid gap-2 sm:grid-cols-2">
+        <fieldset className="space-y-3">
+          <legend className="mb-2 text-sm font-bold text-slate-400 uppercase">
+            Bộ từ {choice === null && <span className="text-rose-500 normal-case">· chọn một bộ để chơi</span>}
+          </legend>
+          <DeckGroup title="Ôn tập">
             {REVIEW_SOURCES.map(({ id, label, Icon, empty }) => {
               const count = reviewCount[id]
               const ready = count >= MIN_REVIEW_WORDS
@@ -233,7 +246,9 @@ function GamePage() {
                 </div>
               )
             })}
-            {pathCourses.map(courseChip)}
+          </DeckGroup>
+          {langCourses.length > 0 && <DeckGroup title="Lộ trình">{langCourses.map(courseChip)}</DeckGroup>}
+          <DeckGroup title="Chủ đề">
             <Link
               to="/games/$gameId"
               params={{ gameId }}
@@ -243,28 +258,18 @@ function GamePage() {
             >
               <GlowingStar className="size-6 shrink-0" />
               <span>
-                Tất cả chủ đề của bạn <span className="font-medium text-slate-500">· {totalWords} từ</span>
+                Tất cả chủ đề <span className="font-medium text-slate-500">· {totalWords} từ</span>
               </span>
             </Link>
-            {pathDecks.map(deckChip)}
-            <OffPath
-              title="Bộ từ của nhóm khác"
-              count={otherCourses.length + otherDecks.length}
-              open={[...otherCourses, ...otherDecks].some((d) => d.id === choice)}
-              className="sm:col-span-2"
-            >
-              <div className="grid gap-2 sm:grid-cols-2">
-                {otherCourses.map(courseChip)}
-                {otherDecks.map(deckChip)}
-              </div>
-            </OffPath>
-          </div>
+            {topicDecks.map(deckChip)}
+          </DeckGroup>
+          {idiomDecks.length > 0 && <DeckGroup title="Thành ngữ">{idiomDecks.map(deckChip)}</DeckGroup>}
         </fieldset>
       )}
     </div>
   )
 
-  if (deck.words.length < MIN_REVIEW_WORDS)
+  if (deck && deck.words.length < MIN_REVIEW_WORDS)
     return (
       <div className="py-16 text-center">
         <p className="text-lg font-bold">
@@ -278,8 +283,9 @@ function GamePage() {
 
   return (
     <ArcadeShell
-      key={`${game.id}:${deck.id}`}
+      key={`${game.id}:${deck?.id ?? ''}`}
       deck={deck}
+      lang={lang}
       gameId={game.id}
       title={game.title}
       Icon={GAME_ICON[game.id]}

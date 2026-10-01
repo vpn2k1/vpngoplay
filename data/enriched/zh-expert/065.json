@@ -1,0 +1,324 @@
+{
+ "lesson": 65,
+ "draft": true,
+ "words": [
+  {
+   "term": "蛋白",
+   "meaning": "lòng trắng trứng, chất đạm",
+   "example": "动物蛋白",
+   "exampleMeaning": "Chất prô-tê-in động vật",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dànbái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "正门",
+   "meaning": "cổng chính, cửa chính",
+   "example": "我们来学“正门”这个词。",
+   "exampleMeaning": "Cùng học từ “正门”: cổng chính, cửa chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngmén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "丰硕",
+   "meaning": "dồi dào, to lớn",
+   "example": "丰硕的成果。",
+   "exampleMeaning": "Thành quả to lớn",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēngshuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "鼓动",
+   "meaning": "kích động, cổ vũ",
+   "example": "这些坏事是谁鼓动你干的?",
+   "exampleMeaning": "Những chuyện xấu này là do ai xúi anh làm?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔdòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不约而同",
+   "meaning": "không hẹn mà cùng, không hẹn mà gặp",
+   "example": "我们来学“不约而同”这个词。",
+   "exampleMeaning": "Cùng học từ “不约而同”: không hẹn mà cùng, không hẹn mà gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùyuēértóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乡镇",
+   "meaning": "thị trấn và xã, thị trấn",
+   "example": "我们来学“乡镇”这个词。",
+   "exampleMeaning": "Cùng học từ “乡镇”: thị trấn và xã, thị trấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngzhèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "共产主义",
+   "meaning": "chủ nghĩa cộng sản",
+   "example": "我们来学“共产主义”这个词。",
+   "exampleMeaning": "Cùng học từ “共产主义”: chủ nghĩa cộng sản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngchǎnzhǔyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "荆棘",
+   "meaning": "gai góc, bụi gai",
+   "example": "我们来学“荆棘”这个词。",
+   "exampleMeaning": "Cùng học từ “荆棘”: gai góc, bụi gai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngjí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "落差",
+   "meaning": "chênh lệch, độ chênh cao",
+   "example": "两种工资之间的落差较大。",
+   "exampleMeaning": "Chênh lệch tương đối lớn giữa hai mức lương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "luòchā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "气魄",
+   "meaning": "khí phách, khí thế",
+   "example": "天安门城楼的气魄十分雄伟。",
+   "exampleMeaning": "Quang cảnh thành lầu Thiên An Môn vô cùng hùng vĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qìpò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "能耗",
+   "meaning": "tiêu hao năng lượng",
+   "example": "我们来学“能耗”这个词。",
+   "exampleMeaning": "Cùng học từ “能耗”: tiêu hao năng lượng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "nénghào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "转头",
+   "meaning": "quay đầu",
+   "example": "我们来学“转头”这个词。",
+   "exampleMeaning": "Cùng học từ “转头”: quay đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuǎntóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "执掌",
+   "meaning": "nắm giữ (quyền lực), chưởng quản",
+   "example": "执掌大权。",
+   "exampleMeaning": "Nắm quyền chính",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhízhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "股民",
+   "meaning": "nhà đầu tư chứng khoán",
+   "example": "我们来学“股民”这个词。",
+   "exampleMeaning": "Cùng học từ “股民”: nhà đầu tư chứng khoán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔmín",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "固定资产",
+   "meaning": "tài sản cố định",
+   "example": "我们来学“固定资产”这个词。",
+   "exampleMeaning": "Cùng học từ “固定资产”: tài sản cố định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùdìngzīchǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不耻下问",
+   "meaning": "không ngại học hỏi người dưới",
+   "example": "在学习上，我们要有不耻下问的精神。",
+   "exampleMeaning": "Trong học tập, chúng ta cần phải có tinh thần khiêm tốn, không ngại học hỏi người kém hơn mình",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùchǐxiàwèn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "特例",
+   "meaning": "trường hợp đặc biệt, ngoại lệ",
+   "example": "我们来学“特例”这个词。",
+   "exampleMeaning": "Cùng học từ “特例”: trường hợp đặc biệt, ngoại lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tèlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "笔者",
+   "meaning": "người viết, tác giả",
+   "example": "我们来学“笔者”这个词。",
+   "exampleMeaning": "Cùng học từ “笔者”: người viết, tác giả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bǐzhě",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "天平",
+   "meaning": "cân đĩa, cân tiểu ly",
+   "example": "我们来学“天平”这个词。",
+   "exampleMeaning": "Cùng học từ “天平”: cân đĩa, cân tiểu ly.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiānpíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鹧鸪",
+   "meaning": "chim đa đa",
+   "example": "我们来学“鹧鸪”这个词。",
+   "exampleMeaning": "Cùng học từ “鹧鸪”: chim đa đa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhègū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "我",
+    "昨天",
+    "被",
+    "解雇",
+    "了"
+   ],
+   "reading": "wǒ zuótiān bèi jiěgù le",
+   "meaning": "Tôi đã bị sa thải hồi hôm qua."
+  },
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "个",
+    "好意",
+    "见"
+   ],
+   "reading": "nàshi yī gè hǎoyì jiàn",
+   "meaning": "Đấy là một ý kiến hay."
+  },
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  }
+ ],
+ "issues": []
+}

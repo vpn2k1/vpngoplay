@@ -1,0 +1,334 @@
+{
+ "lesson": 103,
+ "draft": true,
+ "words": [
+  {
+   "term": "mink",
+   "meaning": "chồn vizon, lông chồn",
+   "example": "Let's learn the word \"mink\".",
+   "exampleMeaning": "Cùng học từ “mink”: chồn vizon, lông chồn.",
+   "emoji": "",
+   "ipa": "/ˈmɪŋk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "amplitude",
+   "meaning": "biên độ",
+   "example": "amplitude of oscillation",
+   "exampleMeaning": "Biên độ dao động",
+   "emoji": "",
+   "ipa": "/ˈæmpləˌtud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unconstitutional",
+   "meaning": "vi hiến",
+   "example": "Is it unconstitutional?",
+   "exampleMeaning": "Nó có vi hiến?",
+   "emoji": "",
+   "ipa": "/ˌənˌkɑnstəˈtuʃənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "adultery",
+   "meaning": "ngoại tình",
+   "example": "Let's learn the word \"adultery\".",
+   "exampleMeaning": "Cùng học từ “adultery”: ngoại tình.",
+   "emoji": "",
+   "ipa": "/əˈdəltɜri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "conditioner",
+   "meaning": "dầu xả, chất làm mềm",
+   "example": "Tom said that he's been trying to fix the air conditioner all day.",
+   "exampleMeaning": "Tom nói là anh ta đã cố sửa cái điều hòa cả ngày.",
+   "emoji": "",
+   "ipa": "/kənˈdɪʃənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "backer",
+   "meaning": "người ủng hộ, nhà tài trợ",
+   "example": "Let's learn the word \"backer\".",
+   "exampleMeaning": "Cùng học từ “backer”: người ủng hộ, nhà tài trợ.",
+   "emoji": "",
+   "ipa": "/ˈbækɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bamboo",
+   "meaning": "cây tre, tre",
+   "example": "Let's learn the word \"bamboo\".",
+   "exampleMeaning": "Cùng học từ “bamboo”: cây tre, tre.",
+   "emoji": "",
+   "ipa": "/bæmˈbu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "spade",
+   "meaning": "xẻng, quân bích",
+   "example": "Let's learn the word \"spade\".",
+   "exampleMeaning": "Cùng học từ “spade”: xẻng, quân bích.",
+   "emoji": "",
+   "ipa": "/ˈspeɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "repercussion",
+   "meaning": "hậu quả, tác động dây chuyền",
+   "example": "the repercussion of the waves from the rocks",
+   "exampleMeaning": "Tiếng vọng của sóng đập vào đá",
+   "emoji": "",
+   "ipa": "/ˌripɜrˈkəʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gastric",
+   "meaning": "(thuộc) dạ dày",
+   "example": "a gastric ulcer",
+   "exampleMeaning": "Loét dạ dày",
+   "emoji": "",
+   "ipa": "/ˈɡæstrɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "stockholder",
+   "meaning": "cổ đông",
+   "example": "Let's learn the word \"stockholder\".",
+   "exampleMeaning": "Cùng học từ “stockholder”: cổ đông.",
+   "emoji": "",
+   "ipa": "/ˈstɑkˌhoʊldɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mountainous",
+   "meaning": "nhiều núi, đồi núi",
+   "example": "Let's learn the word \"mountainous\".",
+   "exampleMeaning": "Cùng học từ “mountainous”: nhiều núi, đồi núi.",
+   "emoji": "",
+   "ipa": "/ˈmaʊntənəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bonfire",
+   "meaning": "lửa trại, đống lửa",
+   "example": "We stayed around the bonfire telling jokes and horror stories.",
+   "exampleMeaning": "Chúng tôi ngồi thành vòng quanh đống lửa kể cho nhau nghe truyện tếu và truyện ma.",
+   "emoji": "",
+   "ipa": "/ˈbɑnˌfaɪɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sequential",
+   "meaning": "tuần tự, liên tiếp",
+   "example": "Let's learn the word \"sequential\".",
+   "exampleMeaning": "Cùng học từ “sequential”: tuần tự, liên tiếp.",
+   "emoji": "",
+   "ipa": "/səˈkwɛnʃəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "expatriate",
+   "meaning": "kiều bào, người xa xứ",
+   "example": "to expatriate oneself",
+   "exampleMeaning": "Tự bỏ xứ mà đi; từ bỏ quốc tịch của mình",
+   "emoji": "",
+   "ipa": "/ɛkˈspeɪtriˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "auditorium",
+   "meaning": "khán phòng, hội trường",
+   "example": "Let's learn the word \"auditorium\".",
+   "exampleMeaning": "Cùng học từ “auditorium”: khán phòng, hội trường.",
+   "emoji": "",
+   "ipa": "/ˌɔdəˈtɔriəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wherein",
+   "meaning": "ở đó, trong đó",
+   "example": "wherein am I mistaken?",
+   "exampleMeaning": "Tôi sai lầm chỗ nào?",
+   "emoji": "",
+   "ipa": "/hwɛˈrɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "feeder",
+   "meaning": "máng ăn, đường nhánh",
+   "example": "a large feeder",
+   "exampleMeaning": "Người ăn khoẻ, súc vật ăn khoẻ; cây phải bón nhiều phân",
+   "emoji": "",
+   "ipa": "/ˈfidɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "unsuccessfully",
+   "meaning": "không thành công, thất bại",
+   "example": "Let's learn the word \"unsuccessfully\".",
+   "exampleMeaning": "Cùng học từ “unsuccessfully”: không thành công, thất bại.",
+   "emoji": "",
+   "ipa": "/ˌənsəkˈsɛsfəli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fraught",
+   "meaning": "đầy rẫy, căng thẳng",
+   "example": "fraught with danger",
+   "exampleMeaning": "Đầy nguy hiểm",
+   "emoji": "",
+   "ipa": "/ˈfrɔt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I've",
+    "been",
+    "trying",
+    "to",
+    "get",
+    "your",
+    "attention"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã cố gắng thu hút sự chú ý của bạn."
+  },
+  {
+   "tokens": [
+    "Algebra",
+    "is",
+    "a",
+    "foundation",
+    "of",
+    "machine",
+    "learning"
+   ],
+   "reading": "",
+   "meaning": "Đại số là nền tảng của học máy."
+  },
+  {
+   "tokens": [
+    "Machine",
+    "learning",
+    "demands",
+    "a",
+    "lot",
+    "of",
+    "computation"
+   ],
+   "reading": "",
+   "meaning": "Học máy yêu cầu rất nhiều sức mạnh tính toán."
+  },
+  {
+   "tokens": [
+    "Do",
+    "wisdom",
+    "teeth",
+    "need",
+    "to",
+    "be",
+    "removed"
+   ],
+   "reading": "",
+   "meaning": "Có cần nhổ răng khôn không?"
+  },
+  {
+   "tokens": [
+    "The",
+    "programming",
+    "language",
+    "Java",
+    "is",
+    "highly",
+    "versatile"
+   ],
+   "reading": "",
+   "meaning": "Ngôn ngữ lập trình Java rất đa năng."
+  }
+ ],
+ "issues": []
+}

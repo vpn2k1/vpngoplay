@@ -1,0 +1,341 @@
+{
+ "lesson": 24,
+ "draft": true,
+ "words": [
+  {
+   "term": "cocaine",
+   "meaning": "cô-ca-in",
+   "example": "Let's learn the word \"cocaine\".",
+   "exampleMeaning": "Cùng học từ “cocaine”: cô-ca-in.",
+   "emoji": "",
+   "ipa": "/koʊˈkeɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "skull",
+   "meaning": "hộp sọ",
+   "example": "skull and crossbones",
+   "exampleMeaning": "Đầu lâu và hai xương chéo (tượng trưng cho sự chết)",
+   "emoji": "💀",
+   "ipa": "/ˈskəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tilt",
+   "meaning": "nghiêng",
+   "example": "to run (come) full tilt against",
+   "exampleMeaning": "Lao tới, xông tới",
+   "emoji": "",
+   "ipa": "/ˈtɪlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "developer",
+   "meaning": "nhà phát triển, lập trình viên",
+   "example": "A developer often has a sore throat and back pain.",
+   "exampleMeaning": "Lập trình viên thường bị đau cổ và đau lưng.",
+   "emoji": "",
+   "ipa": "/dɪˈvɛləpɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "constructive",
+   "meaning": "mang tính xây dựng",
+   "example": "a constructive denial",
+   "exampleMeaning": "Một sự từ chối phải hiểu ngầm, một sự từ chối khéo",
+   "emoji": "",
+   "ipa": "/kənˈstrəktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "receiver",
+   "meaning": "người nhận, ống nghe, máy thu",
+   "example": "to lift the receiver",
+   "exampleMeaning": "Nhấc ống nghe lên",
+   "emoji": "",
+   "ipa": "/rəˈsivɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "summon",
+   "meaning": "triệu tập, gọi đến",
+   "example": "to summon up one's courage",
+   "exampleMeaning": "Tập trung hết can đảm",
+   "emoji": "",
+   "ipa": "/ˈsəmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "harsh",
+   "meaning": "khắc nghiệt, gay gắt",
+   "example": "Let's learn the word \"harsh\".",
+   "exampleMeaning": "Cùng học từ “harsh”: khắc nghiệt, gay gắt.",
+   "emoji": "",
+   "ipa": "/ˈhɑrʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "infrastructure",
+   "meaning": "cơ sở hạ tầng",
+   "example": "Let's learn the word \"infrastructure\".",
+   "exampleMeaning": "Cùng học từ “infrastructure”: cơ sở hạ tầng.",
+   "emoji": "",
+   "ipa": "/ˌɪnfrəˈstrəktʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "archive",
+   "meaning": "lưu trữ, kho lưu trữ",
+   "example": "Let's learn the word \"archive\".",
+   "exampleMeaning": "Cùng học từ “archive”: lưu trữ, kho lưu trữ.",
+   "emoji": "",
+   "ipa": "/ˈɑːkaɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "propaganda",
+   "meaning": "tuyên truyền",
+   "example": "to set up a propaganda for...",
+   "exampleMeaning": "Lập nên cơ quan tuyên truyền cho...",
+   "emoji": "",
+   "ipa": "/ˌprɑpəˈɡændə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "congregation",
+   "meaning": "giáo đoàn, đám đông tụ họp",
+   "example": "the Congregation de Propaganda",
+   "exampleMeaning": "Giáo đoàn truyền giáo",
+   "emoji": "",
+   "ipa": "/ˌkɑŋɡrəˈɡeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "tonne",
+   "meaning": "tấn",
+   "example": "Let's learn the word \"tonne\".",
+   "exampleMeaning": "Cùng học từ “tonne”: tấn.",
+   "emoji": "",
+   "ipa": "/ˈtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "interim",
+   "meaning": "tạm thời, lâm thời",
+   "example": "an interim government",
+   "exampleMeaning": "Chính phủ tạm quyền",
+   "emoji": "",
+   "ipa": "/ˈɪnɜrəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "electorate",
+   "meaning": "khối cử tri",
+   "example": "Let's learn the word \"electorate\".",
+   "exampleMeaning": "Cùng học từ “electorate”: khối cử tri.",
+   "emoji": "",
+   "ipa": "/ɪˈlɛktɜrət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "congress",
+   "meaning": "quốc hội, đại hội",
+   "example": "Let's learn the word \"congress\".",
+   "exampleMeaning": "Cùng học từ “congress”: quốc hội, đại hội.",
+   "emoji": "",
+   "ipa": "/ˈkɑŋɡrəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "opt",
+   "meaning": "chọn, lựa chọn",
+   "example": "Let's learn the word \"opt\".",
+   "exampleMeaning": "Cùng học từ “opt”: chọn, lựa chọn.",
+   "emoji": "",
+   "ipa": "/ˈɑpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bail",
+   "meaning": "tiền bảo lãnh, tát nước",
+   "example": "Let's learn the word \"bail\".",
+   "exampleMeaning": "Cùng học từ “bail”: tiền bảo lãnh, tát nước.",
+   "emoji": "",
+   "ipa": "/ˈbeɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "confer",
+   "meaning": "bàn bạc, trao tặng",
+   "example": "to confer a title on somebody",
+   "exampleMeaning": "Phong tước cho ai",
+   "emoji": "",
+   "ipa": "/kənˈfɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "analytical",
+   "meaning": "thuộc phân tích, giỏi phân tích",
+   "example": "Let's learn the word \"analytical\".",
+   "exampleMeaning": "Cùng học từ “analytical”: thuộc phân tích, giỏi phân tích.",
+   "emoji": "",
+   "ipa": "/ˌænəˈlɪtɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "A",
+    "developer",
+    "often",
+    "has",
+    "a",
+    "sore",
+    "throat",
+    "and",
+    "back",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Lập trình viên thường bị đau cổ và đau lưng."
+  },
+  {
+   "tokens": [
+    "His",
+    "smile",
+    "reassured",
+    "me",
+    "everything",
+    "would",
+    "be",
+    "alright"
+   ],
+   "reading": "",
+   "meaning": "Nụ cười của anh trấn an tôi rằng mọi chuyển rồi sẽ ổn."
+  },
+  {
+   "tokens": [
+    "A",
+    "bird",
+    "was",
+    "perched",
+    "on",
+    "the",
+    "road",
+    "sign"
+   ],
+   "reading": "",
+   "meaning": "Một con chim đậu lên biển báo giao thông."
+  },
+  {
+   "tokens": [
+    "It",
+    "was",
+    "the",
+    "result",
+    "of",
+    "years",
+    "of",
+    "sacrifices"
+   ],
+   "reading": "",
+   "meaning": "Đó là kết quả của sự hi sinh trong nhiều năm."
+  },
+  {
+   "tokens": [
+    "The",
+    "government",
+    "is",
+    "trying",
+    "to",
+    "find",
+    "a",
+    "solution"
+   ],
+   "reading": "",
+   "meaning": "Chính phủ đang cố gắng tìm ra giải pháp."
+  }
+ ],
+ "issues": []
+}

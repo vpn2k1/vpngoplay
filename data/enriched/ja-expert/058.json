@@ -1,0 +1,337 @@
+{
+ "lesson": 58,
+ "draft": true,
+ "words": [
+  {
+   "term": "制圧",
+   "meaning": "trấn áp, khống chế",
+   "example": "トムはその状況を制圧した。",
+   "exampleMeaning": "Tom đã kiểm soát được tình hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "情報処理",
+   "meaning": "xử lý thông tin",
+   "example": "「情報処理」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “情報処理”: xử lý thông tin.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "試行錯誤",
+   "meaning": "thử và sai",
+   "example": "「試行錯誤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “試行錯誤”: thử và sai.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "旗印",
+   "meaning": "biểu tượng trên cờ, khẩu hiệu",
+   "example": "「旗印」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “旗印”: biểu tượng trên cờ, khẩu hiệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "製鉄所",
+   "meaning": "nhà máy thép",
+   "example": "「製鉄所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “製鉄所”: nhà máy thép.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "鳥類",
+   "meaning": "các loài chim",
+   "example": "「鳥類」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “鳥類”: các loài chim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "殺虫剤",
+   "meaning": "thuốc trừ sâu",
+   "example": "「殺虫剤」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “殺虫剤”: thuốc trừ sâu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "常識的",
+   "meaning": "hợp lẽ thường, thông thường",
+   "example": "「常識的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “常識的”: hợp lẽ thường, thông thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水域",
+   "meaning": "vùng nước, hải phận",
+   "example": "「水域」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “水域”: vùng nước, hải phận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "判例",
+   "meaning": "án lệ",
+   "example": "「判例」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “判例”: án lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "蓄財",
+   "meaning": "tích của, làm giàu",
+   "example": "「蓄財」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “蓄財”: tích của, làm giàu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "巨匠",
+   "meaning": "bậc thầy",
+   "example": "「巨匠」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “巨匠”: bậc thầy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "所見",
+   "meaning": "ý kiến, nhận xét",
+   "example": "「所見」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “所見”: ý kiến, nhận xét.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "道のり",
+   "meaning": "quãng đường, chặng đường",
+   "example": "長い道のりだ。",
+   "exampleMeaning": "Con đường dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "馬券",
+   "meaning": "vé cá cược đua ngựa",
+   "example": "「馬券」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “馬券”: vé cá cược đua ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "主因",
+   "meaning": "nguyên nhân chính",
+   "example": "「主因」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “主因”: nguyên nhân chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "和歌",
+   "meaning": "thơ waka, thơ Nhật",
+   "example": "「和歌」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “和歌”: thơ waka, thơ Nhật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "見どころ",
+   "meaning": "điểm đáng xem, điểm nhấn",
+   "example": "「見どころ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “見どころ”: điểm đáng xem, điểm nhấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世相",
+   "meaning": "thời thế, tình hình xã hội",
+   "example": "「世相」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “世相”: thời thế, tình hình xã hội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "分別",
+   "meaning": "phân loại, tách riêng",
+   "example": "「分別」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “分別”: phân loại, tách riêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "あなた",
+    "が",
+    "日本人",
+    "だ",
+    "と",
+    "私",
+    "は",
+    "思っていた"
+   ],
+   "reading": "あなたがにっぽんじんだとわたしはおもっていた",
+   "meaning": "Tôi cứ tưởng bạn là người Nhật."
+  },
+  {
+   "tokens": [
+    "この",
+    "条件",
+    "に",
+    "該当",
+    "する",
+    "人",
+    "は",
+    "誰も",
+    "いない"
+   ],
+   "reading": "このじょうけんにがいとうするひとはだれもいない",
+   "meaning": "Không một ai đáp ứng được những điều kiện này."
+  },
+  {
+   "tokens": [
+    "たぶん",
+    "工場",
+    "は",
+    "来週",
+    "閉鎖",
+    "される",
+    "だろう"
+   ],
+   "reading": "たぶんこうじょうはらいしゅうへいさされるだろう",
+   "meaning": "Có lẽ tuần sau công ty sẽ đóng cửa."
+  },
+  {
+   "tokens": [
+    "彼",
+    "ほど",
+    "平々凡々たる",
+    "主人公",
+    "は",
+    "珍しい"
+   ],
+   "reading": "かれほどへいへいぼんぼんたるしゅじんこうはめずらしい",
+   "meaning": "Hiếm có nhân vật chính nào giản đơn như cậu ta."
+  },
+  {
+   "tokens": [
+    "哲学",
+    "は",
+    "難しい",
+    "と",
+    "見なされる",
+    "こと",
+    "が",
+    "多い"
+   ],
+   "reading": "てつがくはむずかしいとみなされることがおおい",
+   "meaning": "Triết học thường được xem là khó."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,324 @@
+{
+ "lesson": 10,
+ "draft": true,
+ "words": [
+  {
+   "term": "millennium",
+   "meaning": "thiên niên kỷ",
+   "example": "Let's learn the word \"millennium\".",
+   "exampleMeaning": "Cùng học từ “millennium”: thiên niên kỷ.",
+   "emoji": "",
+   "ipa": "/məˈlɛniəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "foremost",
+   "meaning": "hàng đầu, quan trọng nhất",
+   "example": "the foremost painter",
+   "exampleMeaning": "Hoạ sĩ lỗi lạc nhất",
+   "emoji": "",
+   "ipa": "/ˈfɔrˌmoʊst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sow",
+   "meaning": "gieo hạt, lợn nái",
+   "example": "Farmers sow grain seeds in spring.",
+   "exampleMeaning": "Người nông dân gieo hạt ngũ cốc vào mùa xuân.",
+   "emoji": "",
+   "ipa": "/ˈsaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "sovereignty",
+   "meaning": "chủ quyền",
+   "example": "Sovereignty unconditionally belongs to the nation.",
+   "exampleMeaning": "Chủ quyền thuộc về một quốc gia một cách vô điều kiện.",
+   "emoji": "",
+   "ipa": "/ˈsɒvrənti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "quarterback",
+   "meaning": "tiền vệ (bóng bầu dục)",
+   "example": "Let's learn the word \"quarterback\".",
+   "exampleMeaning": "Cùng học từ “quarterback”: tiền vệ (bóng bầu dục).",
+   "emoji": "",
+   "ipa": "/ˈkwɔrtɜrˌbæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "counterpart",
+   "meaning": "người đồng cấp, đối tác tương ứng",
+   "example": "Let's learn the word \"counterpart\".",
+   "exampleMeaning": "Cùng học từ “counterpart”: người đồng cấp, đối tác tương ứng.",
+   "emoji": "",
+   "ipa": "/ˈkaʊntɜrˌpɑrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "distinctive",
+   "meaning": "đặc trưng, riêng biệt",
+   "example": "Let's learn the word \"distinctive\".",
+   "exampleMeaning": "Cùng học từ “distinctive”: đặc trưng, riêng biệt.",
+   "emoji": "",
+   "ipa": "/dɪˈstɪŋktɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "poorly",
+   "meaning": "kém, tồi",
+   "example": "to feel rather poorly",
+   "exampleMeaning": "Thấy người không được khoẻ",
+   "emoji": "",
+   "ipa": "/ˈpurli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consistency",
+   "meaning": "nhất quán, độ đặc",
+   "example": "there is no consistency in this man",
+   "exampleMeaning": "Anh chàng này thiếu kiên định",
+   "emoji": "",
+   "ipa": "/kənˈsɪstənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spouse",
+   "meaning": "vợ hoặc chồng, người phối ngẫu",
+   "example": "Let's learn the word \"spouse\".",
+   "exampleMeaning": "Cùng học từ “spouse”: vợ hoặc chồng, người phối ngẫu.",
+   "emoji": "",
+   "ipa": "/ˈspaʊs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rigid",
+   "meaning": "cứng nhắc",
+   "example": "Let's learn the word \"rigid\".",
+   "exampleMeaning": "Cùng học từ “rigid”: cứng nhắc.",
+   "emoji": "",
+   "ipa": "/ˈrɪdʒəd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reportedly",
+   "meaning": "theo báo cáo, nghe nói",
+   "example": "Let's learn the word \"reportedly\".",
+   "exampleMeaning": "Cùng học từ “reportedly”: theo báo cáo, nghe nói.",
+   "emoji": "",
+   "ipa": "/riˈpɔrtədli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "congratulation",
+   "meaning": "lời chúc mừng",
+   "example": "Let's learn the word \"congratulation\".",
+   "exampleMeaning": "Cùng học từ “congratulation”: lời chúc mừng.",
+   "emoji": "",
+   "ipa": "/kənˌɡrætʃəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "communism",
+   "meaning": "chủ nghĩa cộng sản",
+   "example": "Communism will never be reached in my lifetime.",
+   "exampleMeaning": "Cộng sản sẽ chẳng bao giờ tồn tại đến đời của tôi.",
+   "emoji": "",
+   "ipa": "/ˈkɑmjəˌnɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "wedge",
+   "meaning": "cái nêm, chêm vào",
+   "example": "to drive a wedge into",
+   "exampleMeaning": "Thọc một mũi vào; (nghĩa bóng) chia rẽ",
+   "emoji": "",
+   "ipa": "/ˈwɛdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "amend",
+   "meaning": "sửa đổi",
+   "example": "to amend one's way of living",
+   "exampleMeaning": "Sửa đổi lối sống",
+   "emoji": "",
+   "ipa": "/əˈmɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "combat",
+   "meaning": "chiến đấu",
+   "example": "to combat with (against) somebody",
+   "exampleMeaning": "Đánh nhau với ai, đọ sức với ai",
+   "emoji": "",
+   "ipa": "/ˈkɑmbæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "neatly",
+   "meaning": "gọn gàng, ngăn nắp",
+   "example": "She is always neatly dressed.",
+   "exampleMeaning": "Cô ấy lúc nào cũng ăn mặc gọn gàng.",
+   "emoji": "",
+   "ipa": "/ˈnitli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "pat",
+   "meaning": "vỗ nhẹ, vỗ về",
+   "example": "to pat someone on the back",
+   "exampleMeaning": "Vỗ nhẹ vào lưng ai",
+   "emoji": "",
+   "ipa": "/ˈpæt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "consecutive",
+   "meaning": "liên tiếp, liên tục",
+   "example": "three consecutive days",
+   "exampleMeaning": "Ba ngày liên tiếp",
+   "emoji": "",
+   "ipa": "/kənˈsɛkjətɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "is",
+    "always",
+    "neatly",
+    "dressed"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy lúc nào cũng ăn mặc gọn gàng."
+  },
+  {
+   "tokens": [
+    "She",
+    "reconciled",
+    "with",
+    "her",
+    "friend"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã hòa giải với người bạn của mình."
+  },
+  {
+   "tokens": [
+    "Grace",
+    "wore",
+    "an",
+    "indignant",
+    "look"
+   ],
+   "reading": "",
+   "meaning": "Grace tỏ ra bất bình."
+  },
+  {
+   "tokens": [
+    "This",
+    "book",
+    "deals",
+    "with",
+    "anthropology"
+   ],
+   "reading": "",
+   "meaning": "Cuốn sách này nói về chủ đề nhân loại học."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "speak",
+    "German"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố nói tiếng Đức."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,329 @@
+{
+ "lesson": 104,
+ "draft": true,
+ "words": [
+  {
+   "term": "数学",
+   "meaning": "toán học",
+   "example": "他既精于数学又精于文学。",
+   "exampleMeaning": "Nó đã giỏi toán, còn giỏi cả văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shùxué",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "改制",
+   "meaning": "cải cách thể chế, tái cơ cấu",
+   "example": "我们来学“改制”这个词。",
+   "exampleMeaning": "Cùng học từ “改制”: cải cách thể chế, tái cơ cấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎizhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "序幕",
+   "meaning": "màn mở đầu, khúc dạo đầu",
+   "example": "我们来学“序幕”这个词。",
+   "exampleMeaning": "Cùng học từ “序幕”: màn mở đầu, khúc dạo đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xùmù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "节俭",
+   "meaning": "tiết kiệm, cần kiệm",
+   "example": "我们来学“节俭”这个词。",
+   "exampleMeaning": "Cùng học từ “节俭”: tiết kiệm, cần kiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiéjiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "本钱",
+   "meaning": "vốn, tiền vốn",
+   "example": "我们来学“本钱”这个词。",
+   "exampleMeaning": "Cùng học từ “本钱”: vốn, tiền vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "běnqián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自由自在",
+   "meaning": "tự do thoải mái, thong dong",
+   "example": "一群白鸽在空中自由自在地飞翔。",
+   "exampleMeaning": "Đàn chim bồ câu trắng đang tự do bay lượn trên trời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìyóuzìzài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "罪魁祸首",
+   "meaning": "kẻ đầu sỏ, thủ phạm chính",
+   "example": "这场空难事故的罪魁祸首竟然是一只在机场上空飞翔的鸽子。",
+   "exampleMeaning": "Thủ phạm chính của sự cố tai nạn máy bay này lại là một con bồ câu bay trên bầu trời sân bay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zuìkuíhuòshǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "固体",
+   "meaning": "chất rắn, thể rắn",
+   "example": "我们来学“固体”这个词。",
+   "exampleMeaning": "Cùng học từ “固体”: chất rắn, thể rắn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gùtǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一技之长",
+   "meaning": "sở trường, một nghề tinh",
+   "example": "只要具有一技之长，就不怕讨不到饭吃！",
+   "exampleMeaning": "Chỉ cần giỏi được một nghề thì không sợ không kiếm được cơm ăn!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yījìzhīcháng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "峰回路转",
+   "meaning": "đường núi quanh co, chuyển biến bất ngờ",
+   "example": "本以为这件事没希望了，突然间，峰回路转，又有办法可解决了。",
+   "exampleMeaning": "Lẽ ra sự việc này không còn hy vọng gì cả, bỗng nhiên có cơ hội xoay chuyển, nên đã có cách để giải quyết",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnghuílùzhuǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "宰相",
+   "meaning": "tể tướng",
+   "example": "我们来学“宰相”这个词。",
+   "exampleMeaning": "Cùng học từ “宰相”: tể tướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǎixiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没准儿",
+   "meaning": "không chừng, có lẽ",
+   "example": "我们来学“没准儿”这个词。",
+   "exampleMeaning": "Cùng học từ “没准儿”: không chừng, có lẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méizhǔnr",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "攻势",
+   "meaning": "thế tấn công",
+   "example": "这次足球比赛，客队的攻势非常猛烈。",
+   "exampleMeaning": "Trận đấu bóng đá này, thế tiến công của đội khách vô cùng mãnh liệt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "有权",
+   "meaning": "có quyền",
+   "example": "我们来学“有权”这个词。",
+   "exampleMeaning": "Cùng học từ “有权”: có quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuquán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "全长",
+   "meaning": "tổng chiều dài",
+   "example": "我们来学“全长”这个词。",
+   "exampleMeaning": "Cùng học từ “全长”: tổng chiều dài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "quáncháng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水系",
+   "meaning": "hệ thống sông ngòi",
+   "example": "我们来学“水系”这个词。",
+   "exampleMeaning": "Cùng học từ “水系”: hệ thống sông ngòi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐxì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "改建",
+   "meaning": "cải tạo, xây lại",
+   "example": "改建工程。",
+   "exampleMeaning": "Công trình xây lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎijiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喇嘛",
+   "meaning": "lạt ma",
+   "example": "我们来学“喇嘛”这个词。",
+   "exampleMeaning": "Cùng học từ “喇嘛”: lạt ma.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎma",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "赶赴",
+   "meaning": "vội đến, gấp rút đến",
+   "example": "赶赴现场",
+   "exampleMeaning": "Đến hiện trường",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎnfù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "青铜",
+   "meaning": "đồng thau",
+   "example": "青铜器。",
+   "exampleMeaning": "Đồ đồng thau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngtóng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "数学",
+    "是",
+    "所有",
+    "科学",
+    "的",
+    "基础"
+   ],
+   "reading": "shùxué shì suǒyǒu kēxué de jīchǔ",
+   "meaning": "Toán học là nền tảng của tất cả các môn khoa học"
+  },
+  {
+   "tokens": [
+    "他",
+    "被",
+    "工厂",
+    "的",
+    "老板",
+    "解雇"
+   ],
+   "reading": "tā bèi gōngchǎng de lǎobǎn jiěgù",
+   "meaning": "Anh ấy đã bị ông chủ công xưởng sa thải."
+  },
+  {
+   "tokens": [
+    "这",
+    "几",
+    "条",
+    "狗",
+    "它们",
+    "灵",
+    "着呢"
+   ],
+   "reading": "zhè jǐ tiáo gǒu tāmen líng zhene",
+   "meaning": "Mấy con chó này chúng nó khôn lắm."
+  },
+  {
+   "tokens": [
+    "罪犯",
+    "们",
+    "密谋",
+    "抢劫",
+    "银行"
+   ],
+   "reading": "zuìfàn men mìmóu qiǎngjié yínháng",
+   "meaning": "Bọn tội phạm đang âm mưu cướp ngân hàng."
+  },
+  {
+   "tokens": [
+    "我",
+    "想",
+    "把",
+    "日元",
+    "换成",
+    "美元"
+   ],
+   "reading": "wǒ xiǎng bǎ rìyuán huànchéng měiyuán",
+   "meaning": "Tôi muốn đổi yên Nhật thành đô la Mỹ."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,350 @@
+{
+ "lesson": 30,
+ "draft": true,
+ "words": [
+  {
+   "term": "smuggle",
+   "meaning": "buôn lậu",
+   "example": "to smuggle something into the room",
+   "exampleMeaning": "Mang lén vật gì vào trong phòng",
+   "emoji": "",
+   "ipa": "/ˈsməɡəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "contamination",
+   "meaning": "ô nhiễm, nhiễm bẩn",
+   "example": "Let's learn the word \"contamination\".",
+   "exampleMeaning": "Cùng học từ “contamination”: ô nhiễm, nhiễm bẩn.",
+   "emoji": "",
+   "ipa": "/kənˌtæməˈneɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "revisit",
+   "meaning": "thăm lại, xem xét lại",
+   "example": "Let's learn the word \"revisit\".",
+   "exampleMeaning": "Cùng học từ “revisit”: thăm lại, xem xét lại.",
+   "emoji": "",
+   "ipa": "/riˈvɪzɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "groove",
+   "meaning": "rãnh, nhịp điệu",
+   "example": "to move (run) in a groove",
+   "exampleMeaning": "Chạy đều đều, cứ tiến hành đều đều theo con đường mòn không thay đổi",
+   "emoji": "",
+   "ipa": "/ˈɡruv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "vintage",
+   "meaning": "cổ điển, lâu năm",
+   "example": "a vintage plane",
+   "exampleMeaning": "Máy bay loại cũ",
+   "emoji": "",
+   "ipa": "/ˈvɪntɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "volcanic",
+   "meaning": "núi lửa",
+   "example": "Let's learn the word \"volcanic\".",
+   "exampleMeaning": "Cùng học từ “volcanic”: núi lửa.",
+   "emoji": "",
+   "ipa": "/vɒlˈkænɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "convoy",
+   "meaning": "đoàn xe, đoàn hộ tống",
+   "example": "Let's learn the word \"convoy\".",
+   "exampleMeaning": "Cùng học từ “convoy”: đoàn xe, đoàn hộ tống.",
+   "emoji": "",
+   "ipa": "/ˈkɒn.vɔɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lavish",
+   "meaning": "xa hoa, hào phóng",
+   "example": "to be lavish in spending one's money",
+   "exampleMeaning": "Ăn tiêu lãng phí hoang tàn",
+   "emoji": "",
+   "ipa": "/ˈlævɪʃ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "sufferer",
+   "meaning": "người mắc bệnh, người chịu đựng",
+   "example": "Let's learn the word \"sufferer\".",
+   "exampleMeaning": "Cùng học từ “sufferer”: người mắc bệnh, người chịu đựng.",
+   "emoji": "",
+   "ipa": "/ˈsəfɜrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cancellation",
+   "meaning": "hủy bỏ",
+   "example": "Let's learn the word \"cancellation\".",
+   "exampleMeaning": "Cùng học từ “cancellation”: hủy bỏ.",
+   "emoji": "",
+   "ipa": "/ˌkænsəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inconvenience",
+   "meaning": "bất tiện, phiền hà",
+   "example": "to cause inconvenience to someone",
+   "exampleMeaning": "Làm phiền ai",
+   "emoji": "",
+   "ipa": "/ˌɪnkənˈvinjəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hurdle",
+   "meaning": "rào cản, chướng ngại",
+   "example": "Let's learn the word \"hurdle\".",
+   "exampleMeaning": "Cùng học từ “hurdle”: rào cản, chướng ngại.",
+   "emoji": "",
+   "ipa": "/ˈhɜrdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fertilize",
+   "meaning": "bón phân, thụ tinh",
+   "example": "Let's learn the word \"fertilize\".",
+   "exampleMeaning": "Cùng học từ “fertilize”: bón phân, thụ tinh.",
+   "emoji": "",
+   "ipa": "/ˈfɜrtəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "collectively",
+   "meaning": "tập thể, chung",
+   "example": "Let's learn the word \"collectively\".",
+   "exampleMeaning": "Cùng học từ “collectively”: tập thể, chung.",
+   "emoji": "",
+   "ipa": "/kəˈlɛktɪvli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "crest",
+   "meaning": "đỉnh, mào",
+   "example": "the crest of a ware",
+   "exampleMeaning": "Đầu ngọn sóng",
+   "emoji": "",
+   "ipa": "/ˈkrɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "crust",
+   "meaning": "vỏ bánh, lớp vỏ",
+   "example": "I only want to eat the crust of the melon bread.",
+   "exampleMeaning": "Tôi chỉ muốn ăn vỏ bánh mì dưa lưới.",
+   "emoji": "",
+   "ipa": "/ˈkrəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "responsive",
+   "meaning": "phản hồi nhanh, nhạy bén",
+   "example": "a responsive gesture",
+   "exampleMeaning": "Cử chỉ đáp lại",
+   "emoji": "",
+   "ipa": "/rɪˈspɑnsɪv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "digit",
+   "meaning": "chữ số, ngón",
+   "example": "Let's learn the word \"digit\".",
+   "exampleMeaning": "Cùng học từ “digit”: chữ số, ngón.",
+   "emoji": "",
+   "ipa": "/ˈdɪdʒət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exacerbate",
+   "meaning": "làm trầm trọng thêm",
+   "example": "Let's learn the word \"exacerbate\".",
+   "exampleMeaning": "Cùng học từ “exacerbate”: làm trầm trọng thêm.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzæsɜrˌbeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "glaze",
+   "meaning": "men, tráng men",
+   "example": "a vase with a fine crackle glaze",
+   "exampleMeaning": "Cái lọ có nước men rạn đẹp",
+   "emoji": "",
+   "ipa": "/ˈɡleɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "When",
+    "you're",
+    "trying",
+    "to",
+    "prove",
+    "something",
+    "it",
+    "helps",
+    "to",
+    "know",
+    "it's",
+    "true"
+   ],
+   "reading": "",
+   "meaning": "Nếu muốn chứng minh điều gì thì trước hết phải biết là nó đúng đã."
+  },
+  {
+   "tokens": [
+    "I",
+    "suddenly",
+    "got",
+    "a",
+    "craving",
+    "to",
+    "eat",
+    "some",
+    "crisp",
+    "roast",
+    "chicken",
+    "skin"
+   ],
+   "reading": "",
+   "meaning": "Tôi bỗng dưng thèm ăn da gà nướng giòn."
+  },
+  {
+   "tokens": [
+    "We",
+    "were",
+    "compelled",
+    "to",
+    "stay",
+    "at",
+    "home",
+    "on",
+    "account",
+    "of",
+    "the",
+    "storm"
+   ],
+   "reading": "",
+   "meaning": "Vì cơn bão nên chúng tôi đành phải ở nhà."
+  },
+  {
+   "tokens": [
+    "I",
+    "admit",
+    "I",
+    "trained",
+    "my",
+    "sons",
+    "more",
+    "strictly",
+    "than",
+    "the",
+    "other",
+    "apprentices"
+   ],
+   "reading": "",
+   "meaning": "Tôi thừa nhận tôi đã đào tạo các con trai của mình nghiêm khắc hơn những học trò khác."
+  },
+  {
+   "tokens": [
+    "You're",
+    "my",
+    "heroine"
+   ],
+   "reading": "",
+   "meaning": "Bạn là người hùng của tôi."
+  }
+ ],
+ "issues": []
+}

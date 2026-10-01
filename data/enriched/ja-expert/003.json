@@ -1,0 +1,317 @@
+{
+ "lesson": 3,
+ "draft": true,
+ "words": [
+  {
+   "term": "望月",
+   "meaning": "trăng rằm, trăng tròn",
+   "example": "「望月」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “望月”: trăng rằm, trăng tròn.",
+   "emoji": "🌕",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "剣道",
+   "meaning": "kiếm đạo",
+   "example": "剣道は竹刀と防具を使って行う日本の武道です。",
+   "exampleMeaning": "Kiếm Đạo là một bộ môn võ thuật của Nhật Bản, trong đó sử dụng kiếm tre và áo giáp bảo vệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "集積",
+   "meaning": "tích tụ, tập hợp lại",
+   "example": "「集積」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “集積”: tích tụ, tập hợp lại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "声援",
+   "meaning": "cổ vũ, reo hò cổ vũ",
+   "example": "「声援」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “声援”: cổ vũ, reo hò cổ vũ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "楽観的",
+   "meaning": "lạc quan",
+   "example": "トムはとても楽観的だね。",
+   "exampleMeaning": "Tom rất lạc quan nhỉ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "社名",
+   "meaning": "tên công ty",
+   "example": "「社名」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “社名”: tên công ty.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "住職",
+   "meaning": "sư trụ trì",
+   "example": "「住職」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “住職”: sư trụ trì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "償却",
+   "meaning": "hoàn trả, khấu hao",
+   "example": "「償却」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “償却”: hoàn trả, khấu hao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "検察官",
+   "meaning": "kiểm sát viên, công tố viên",
+   "example": "「検察官」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “検察官”: kiểm sát viên, công tố viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "初場所",
+   "meaning": "giải sumo tháng Giêng",
+   "example": "「初場所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “初場所”: giải sumo tháng Giêng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下期",
+   "meaning": "nửa cuối năm",
+   "example": "「下期」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “下期”: nửa cuối năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "親族",
+   "meaning": "họ hàng, thân tộc",
+   "example": "「親族」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “親族”: họ hàng, thân tộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "医局",
+   "meaning": "phòng bác sĩ",
+   "example": "「医局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “医局”: phòng bác sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年率",
+   "meaning": "tỷ lệ hằng năm, lãi suất năm",
+   "example": "四半期１．２％の成長は年率４．９％の成長率を意味する。",
+   "exampleMeaning": "Chỉ số tăng trưởng theo quý là 1,2% đồng nghĩa với việc chỉ số tăng trưởng theo năm là 4.9%.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "後部",
+   "meaning": "phần sau, đuôi",
+   "example": "「後部」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “後部”: phần sau, đuôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水中",
+   "meaning": "dưới nước",
+   "example": "私は水中で生きられない。魚じゃない。",
+   "exampleMeaning": "Tôi không thể sống dưới nước. Tôi không phải là cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "人事院",
+   "meaning": "Viện Nhân sự (Nhật)",
+   "example": "「人事院」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “人事院”: Viện Nhân sự (Nhật).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "潜水艦",
+   "meaning": "tàu ngầm",
+   "example": "「潜水艦」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “潜水艦”: tàu ngầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "交響曲",
+   "meaning": "bản giao hưởng",
+   "example": "「交響曲」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “交響曲”: bản giao hưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持ち主",
+   "meaning": "chủ sở hữu, người sở hữu",
+   "example": "トムは過激な思想の持ち主だ。",
+   "exampleMeaning": "Tom là một người mang tư tưởng cực đoan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "拾った",
+    "者",
+    "が",
+    "持ち主"
+   ],
+   "reading": "ひろったものがもちぬし",
+   "meaning": "Ai tìm thấy thì được hưởng, ai làm mất thì ráng chịu."
+  },
+  {
+   "tokens": [
+    "夢",
+    "は",
+    "叶った"
+   ],
+   "reading": "ゆめはかなった",
+   "meaning": "Giấc mơ đã trở thành sự thật."
+  },
+  {
+   "tokens": [
+    "論",
+    "より",
+    "証拠"
+   ],
+   "reading": "ろんよりしょうこ",
+   "meaning": "Lửa thử vàng, gian nan thử sức."
+  },
+  {
+   "tokens": [
+    "類",
+    "は",
+    "友",
+    "を",
+    "呼ぶ"
+   ],
+   "reading": "るいはともをよぶ",
+   "meaning": "Ngưu tầm ngưu, mã tầm mã."
+  },
+  {
+   "tokens": [
+    "転ばぬ",
+    "先の",
+    "杖"
+   ],
+   "reading": "ころばぬさきのつえ",
+   "meaning": "Phòng bệnh hơn chữa bệnh."
+  }
+ ],
+ "issues": []
+}

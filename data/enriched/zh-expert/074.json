@@ -1,0 +1,343 @@
+{
+ "lesson": 74,
+ "draft": true,
+ "words": [
+  {
+   "term": "雄壮",
+   "meaning": "hùng tráng",
+   "example": "歌声雄壮, 响彻云霄。",
+   "exampleMeaning": "Tiếng ca hùng tráng vang tận trời xanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xióngzhuàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "洪亮",
+   "meaning": "vang dội, sang sảng",
+   "example": "洪亮的回声。",
+   "exampleMeaning": "Tiếng vọng rất to.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngliàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "国师",
+   "meaning": "quốc sư",
+   "example": "我们来学“国师”这个词。",
+   "exampleMeaning": "Cùng học từ “国师”: quốc sư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guóshī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "纵深",
+   "meaning": "chiều sâu",
+   "example": "纵深战。",
+   "exampleMeaning": "Đánh thọc sâu",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zòngshēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "以身作则",
+   "meaning": "làm gương, lấy mình làm gương",
+   "example": "父母应当以身作则，示儿童良好的模范。",
+   "exampleMeaning": "Cha mẹ nên lấy mình làm gương, làm một tấm gương tốt cho con trẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǐshēnzuòzé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "俗话",
+   "meaning": "tục ngữ, câu nói dân gian",
+   "example": "我们来学“俗话”这个词。",
+   "exampleMeaning": "Cùng học từ “俗话”: tục ngữ, câu nói dân gian.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "súhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "红烧",
+   "meaning": "kho tàu, om xì dầu",
+   "example": "红烧鲤鱼",
+   "exampleMeaning": "Cá chép kho",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hóngshāo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "推算",
+   "meaning": "tính ra, ước tính",
+   "example": "根据太阳、地球、月球运行的规律，可以推算日食和月食发生的时间。",
+   "exampleMeaning": "Căn cứ vào quy luật chuyển động của mặt trời, trái đất và mặt trăng có thể tính ra thời gian xảy ra nhật thực và nguyệt thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuīsuàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "缤纷",
+   "meaning": "rực rỡ, sặc sỡ",
+   "example": "落英（花）缤纷",
+   "exampleMeaning": "Hoa rơi lả tả",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bīnfēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大笑",
+   "meaning": "cười lớn, cười to",
+   "example": "主人听到那句话，不由得哈哈大笑起来。",
+   "exampleMeaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "和蔼",
+   "meaning": "hòa nhã, hiền hậu",
+   "example": "慈祥和蔼的笑容。",
+   "exampleMeaning": "Nụ cười hiền từ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "héǎi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "殿试",
+   "meaning": "thi đình",
+   "example": "我们来学“殿试”这个词。",
+   "exampleMeaning": "Cùng học từ “殿试”: thi đình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "diànshì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "眼见",
+   "meaning": "chính mắt thấy, sắp sửa",
+   "example": "我们来学“眼见”这个词。",
+   "exampleMeaning": "Cùng học từ “眼见”: chính mắt thấy, sắp sửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnjiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "资费",
+   "meaning": "cước phí",
+   "example": "我们来学“资费”这个词。",
+   "exampleMeaning": "Cùng học từ “资费”: cước phí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zīfèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "预售",
+   "meaning": "bán trước, đặt trước",
+   "example": "我们来学“预售”这个词。",
+   "exampleMeaning": "Cùng học từ “预售”: bán trước, đặt trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùshòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吃苦",
+   "meaning": "chịu khổ",
+   "example": "吃苦耐劳。",
+   "exampleMeaning": "Chịu khổ chịu khó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chīkǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "不下",
+   "meaning": "không dưới",
+   "example": "屡攻不下",
+   "exampleMeaning": "Tấn công nhiều lần mà chưa xong",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "荡漾",
+   "meaning": "gợn sóng, lăn tăn",
+   "example": "湖水荡漾",
+   "exampleMeaning": "Nước hồ bập bềnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàngyàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "眼界",
+   "meaning": "tầm nhìn, tầm mắt",
+   "example": "我们来学“眼界”这个词。",
+   "exampleMeaning": "Cùng học từ “眼界”: tầm nhìn, tầm mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǎnjiè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "凿",
+   "meaning": "cái đục, đục",
+   "example": "方枘圆凿。",
+   "exampleMeaning": "Mộng vuông lỗ tròn; không ăn khớp nhau; xung khắc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "záo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "主人",
+    "听到",
+    "那",
+    "句",
+    "话",
+    "不由得",
+    "哈哈大笑",
+    "起来"
+   ],
+   "reading": "zhǔrén tīngdào nà jù huà bùyóude hāhādàxiào qǐlai",
+   "meaning": "Chủ nhân nghe thấy câu nói đó, không thể kìm được mà bật cười lớn."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  },
+  {
+   "tokens": [
+    "他",
+    "帮助",
+    "一",
+    "位",
+    "老太太",
+    "从",
+    "位子",
+    "上",
+    "站起来"
+   ],
+   "reading": "tā bāngzhù yī wèi lǎotàitai cóng wèizi shàng zhànqǐlai",
+   "meaning": "Anh ấy giúp đỡ một bà lão từ chỗ ngồi đứng dậy."
+  },
+  {
+   "tokens": [
+    "我们",
+    "再",
+    "进一步",
+    "说明",
+    "一下",
+    "便于",
+    "同志",
+    "们",
+    "了解"
+   ],
+   "reading": "wǒmen zài jìnyībù shuōmíng yīxià biànyú tóngzhì men liǎojiě",
+   "meaning": "Chúng tôi xin trình bày thêm để các đồng chí rõ."
+  }
+ ],
+ "issues": []
+}

@@ -80,11 +80,12 @@ export const TRACKS: Record<Track, { label: string; hint: string }> = {
   exam: { label: 'Luyện thi', hint: 'IELTS · JLPT · HSK' },
 }
 
-export type CourseLevel = 'basic' | 'intermediate' | 'advanced'
+export type CourseLevel = 'basic' | 'intermediate' | 'advanced' | 'expert'
 export const COURSE_LABEL: Record<CourseLevel, string> = {
   basic: 'Cơ bản',
   intermediate: 'Trung cấp',
   advanced: 'Nâng cao',
+  expert: 'Chuyên sâu',
 }
 
 /** A ~3,000-word course (public/courses/index.json), split into 20-word lessons. */

@@ -1,0 +1,333 @@
+{
+ "lesson": 94,
+ "draft": true,
+ "words": [
+  {
+   "term": "致力",
+   "meaning": "cống hiến, dốc sức",
+   "example": "他一生致力于法律的研究。",
+   "exampleMeaning": "Ông ấy bỏ cả đời nghiên cứu pháp luật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhìlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "止步",
+   "meaning": "dừng bước",
+   "example": "游人止步(公共游览场所用来标明非游览部分)。",
+   "exampleMeaning": "Xin du khách dừng chân; xin du khách miễn vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhǐbù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逞能",
+   "meaning": "khoe tài, ra vẻ giỏi",
+   "example": "不是我逞能，一天走这么百把里路不算什么。",
+   "exampleMeaning": "Không phải là tôi khoe, chứ một ngày mà đi được 100 dặm như vậy thì chả tính làm gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chěngnéng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "涌入",
+   "meaning": "tràn vào, đổ vào",
+   "example": "我们来学“涌入”这个词。",
+   "exampleMeaning": "Cùng học từ “涌入”: tràn vào, đổ vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒngrù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "叩头",
+   "meaning": "dập đầu, khấu đầu",
+   "example": "我们来学“叩头”这个词。",
+   "exampleMeaning": "Cùng học từ “叩头”: dập đầu, khấu đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòutóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "科普",
+   "meaning": "phổ biến khoa học",
+   "example": "科普读物。",
+   "exampleMeaning": "Loại sách phổ cập khoa học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kēpǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "告示",
+   "meaning": "thông báo, cáo thị",
+   "example": "安民告示",
+   "exampleMeaning": "Cáo thị an dân",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gàoshi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喜庆",
+   "meaning": "hỷ sự, hân hoan",
+   "example": "在这喜庆的日子里。",
+   "exampleMeaning": "Trong những ngày tưng bừng hớn hở này.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐqìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "情怀",
+   "meaning": "tâm tư, tình cảm",
+   "example": "我们来学“情怀”这个词。",
+   "exampleMeaning": "Cùng học từ “情怀”: tâm tư, tình cảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qínghuái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "朗诵",
+   "meaning": "ngâm, đọc diễn cảm",
+   "example": "诗歌朗诵会。",
+   "exampleMeaning": "Hội ngâm thơ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǎngsòng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "揭开",
+   "meaning": "mở ra, vén màn",
+   "example": "我们来学“揭开”这个词。",
+   "exampleMeaning": "Cùng học từ “揭开”: mở ra, vén màn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiēkāi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "列席",
+   "meaning": "dự thính, ngồi dự",
+   "example": "我们来学“列席”这个词。",
+   "exampleMeaning": "Cùng học từ “列席”: dự thính, ngồi dự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lièxí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "射线",
+   "meaning": "tia, tia xạ",
+   "example": "我们来学“射线”这个词。",
+   "exampleMeaning": "Cùng học từ “射线”: tia, tia xạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shèxiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "微生物",
+   "meaning": "vi sinh vật",
+   "example": "我们来学“微生物”这个词。",
+   "exampleMeaning": "Cùng học từ “微生物”: vi sinh vật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wēishēngwù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "宽厚",
+   "meaning": "khoan dung, rộng lượng",
+   "example": "宽厚的男低音。",
+   "exampleMeaning": "Giọng nam thấp trầm mạnh mẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuānhòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "闲暇",
+   "meaning": "rảnh rỗi, lúc nhàn rỗi",
+   "example": "我们来学“闲暇”这个词。",
+   "exampleMeaning": "Cùng học từ “闲暇”: rảnh rỗi, lúc nhàn rỗi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiánxiá",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "艺术家",
+   "meaning": "nghệ sĩ",
+   "example": "我们来学“艺术家”这个词。",
+   "exampleMeaning": "Cùng học từ “艺术家”: nghệ sĩ.",
+   "emoji": "🧑‍🎨",
+   "ipa": "",
+   "pinyin": "yìshùjiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "成员国",
+   "meaning": "nước thành viên",
+   "example": "我们来学“成员国”这个词。",
+   "exampleMeaning": "Cùng học từ “成员国”: nước thành viên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngyuánguó",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "相提并论",
+   "meaning": "đánh đồng, so sánh ngang hàng",
+   "example": "他们两人差别太大，怎么可以相提并论。",
+   "exampleMeaning": "Hai người họ khác nhau rất xa, sao có thể đánh đồng như nhau được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngtíbìnglùn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "名胜古迹",
+   "meaning": "danh lam thắng cảnh",
+   "example": "这次到北京来，一方面想游览北京的名胜古迹，另一方面也想看看多年不见的老朋友。",
+   "exampleMeaning": "Lần này đến Bắc Kinh, một mặt là muốn du ngoạn các danh lam thắng cảnh của Bắc Kinh, mặt khác thì là cũng muốn gặp những người bạn cũ đã lâu không gặp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngshènggǔjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "这",
+    "是",
+    "我",
+    "听",
+    "过",
+    "最",
+    "好笑",
+    "的",
+    "笑话"
+   ],
+   "reading": "zhè shì wǒ tīng guo zuì hǎoxiào de xiàohuà",
+   "meaning": "Đó là truyện cười vui nhất mà tôi đã từng nghe."
+  },
+  {
+   "tokens": [
+    "他",
+    "只是",
+    "责怪",
+    "别人",
+    "从不",
+    "自责"
+   ],
+   "reading": "tā zhǐshì zéguài biéren cóngbù zìzé",
+   "meaning": "Anh chỉ trách người chứ không trách mình."
+  },
+  {
+   "tokens": [
+    "吃大锅饭",
+    "讲",
+    "不",
+    "得",
+    "什么",
+    "滋味"
+   ],
+   "reading": "chīdàguōfàn jiǎng bù de shénme zīwèi",
+   "meaning": "Ăn cơm tập thể chả có cái mùi vị gì."
+  },
+  {
+   "tokens": [
+    "我们",
+    "算计",
+    "着",
+    "改革",
+    "生产",
+    "流程"
+   ],
+   "reading": "wǒmen suànji zhe gǎigé shēngchǎn liúchéng",
+   "meaning": "Chúng tôi đang cân nhắc thay đổi quá trình sản xuất."
+  },
+  {
+   "tokens": [
+    "我",
+    "取得",
+    "了",
+    "众多",
+    "可观",
+    "的",
+    "成就"
+   ],
+   "reading": "wǒ qǔdé le zhòngduō kěguān de chéngjiù",
+   "meaning": "Tôi đã đạt được rất nhiều thành tựu đáng kể."
+  }
+ ],
+ "issues": []
+}

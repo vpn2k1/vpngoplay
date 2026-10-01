@@ -1,0 +1,331 @@
+{
+ "lesson": 30,
+ "draft": true,
+ "words": [
+  {
+   "term": "丹念",
+   "meaning": "tỉ mỉ, cẩn thận",
+   "example": "「丹念」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “丹念”: tỉ mỉ, cẩn thận.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "前文",
+   "meaning": "đoạn trên, lời nói đầu",
+   "example": "「前文」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “前文”: đoạn trên, lời nói đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "屈指",
+   "meaning": "hàng đầu, xuất chúng",
+   "example": "「屈指」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “屈指”: hàng đầu, xuất chúng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "都政",
+   "meaning": "chính quyền đô thị (Tokyo)",
+   "example": "「都政」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “都政”: chính quyền đô thị (Tokyo).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "視力",
+   "meaning": "thị lực",
+   "example": "副作用としては、視力障害があります。",
+   "exampleMeaning": "Tác dụng phụ của nó là gây suy giảm thị lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "泥沼",
+   "meaning": "vũng lầy, bế tắc",
+   "example": "「泥沼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “泥沼”: vũng lầy, bế tắc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "警察署",
+   "meaning": "đồn cảnh sát",
+   "example": "「警察署」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “警察署”: đồn cảnh sát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "重圧",
+   "meaning": "áp lực nặng nề",
+   "example": "「重圧」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “重圧”: áp lực nặng nề.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "気力",
+   "meaning": "ý chí, nghị lực",
+   "example": "「気力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “気力”: ý chí, nghị lực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "激変",
+   "meaning": "thay đổi đột ngột, biến động mạnh",
+   "example": "「激変」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “激変”: thay đổi đột ngột, biến động mạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "指紋",
+   "meaning": "dấu vân tay",
+   "example": "トムは念入りにナイフから指紋を拭き取った。",
+   "exampleMeaning": "Tom đã cẩn thận lau sạch dấu vân tay của mình trên con dao.",
+   "emoji": "🫆",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "勝訴",
+   "meaning": "thắng kiện",
+   "example": "「勝訴」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勝訴”: thắng kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自由形",
+   "meaning": "bơi tự do, kiểu tự do",
+   "example": "「自由形」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自由形”: bơi tự do, kiểu tự do.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "徴兵",
+   "meaning": "bắt lính, nghĩa vụ quân sự",
+   "example": "「徴兵」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “徴兵”: bắt lính, nghĩa vụ quân sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "略称",
+   "meaning": "tên viết tắt",
+   "example": "「略称」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “略称”: tên viết tắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最小",
+   "meaning": "nhỏ nhất, tối thiểu",
+   "example": "「最小」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “最小”: nhỏ nhất, tối thiểu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "請託",
+   "meaning": "nhờ vả, chạy chọt",
+   "example": "「請託」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “請託”: nhờ vả, chạy chọt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "決起",
+   "meaning": "đứng lên, vùng lên",
+   "example": "「決起」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “決起”: đứng lên, vùng lên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "正常化",
+   "meaning": "bình thường hóa",
+   "example": "「正常化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “正常化”: bình thường hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "夏場所",
+   "meaning": "giải sumo mùa hè",
+   "example": "「夏場所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “夏場所”: giải sumo mùa hè.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "自分",
+    "の",
+    "不注意",
+    "を",
+    "恥じた"
+   ],
+   "reading": "かのじょはじぶんのふちゅういをはじた",
+   "meaning": "Cô ấy xấu hổ vì sự sơ xuất của mình."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "カーテン",
+    "を",
+    "引き上げた"
+   ],
+   "reading": "かのじょはカーテンをひきあげた",
+   "meaning": "Cô ấy kéo màn lên."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "古い",
+    "車",
+    "を",
+    "新車",
+    "と",
+    "交換",
+    "した"
+   ],
+   "reading": "かれはふるいくるまをしんしゃとこうかんした",
+   "meaning": "Anh ta đổi chiếc xe cũ của mình với một chiếc mới."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "過労",
+    "の",
+    "ために",
+    "疲れている"
+   ],
+   "reading": "かれはかろうのためにつかれている",
+   "meaning": "Anh ta mệt mỏi vì làm việc quá sức."
+  },
+  {
+   "tokens": [
+    "私たち",
+    "は",
+    "その",
+    "とき",
+    "急いでいた"
+   ],
+   "reading": "わたしたちはそのときいそいでいた",
+   "meaning": "Lúc đó chúng tôi đang rất vội."
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,323 @@
+{
+ "lesson": 8,
+ "draft": true,
+ "words": [
+  {
+   "term": "escort",
+   "meaning": "hộ tống, người hộ tống",
+   "example": "Let's learn the word \"escort\".",
+   "exampleMeaning": "Cùng học từ “escort”: hộ tống, người hộ tống.",
+   "emoji": "",
+   "ipa": "/ˈɛskɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "loser",
+   "meaning": "kẻ thua cuộc",
+   "example": "You're a loser, too.",
+   "exampleMeaning": "Bạn cũng thua rồi.",
+   "emoji": "",
+   "ipa": "/ˈluzɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "collision",
+   "meaning": "va chạm",
+   "example": "the two cars had a slight collision",
+   "exampleMeaning": "Hai chiếc ô tô va nhẹ vào nhau",
+   "emoji": "💥",
+   "ipa": "/kəˈlɪʒən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "insider",
+   "meaning": "người trong cuộc, người nội bộ",
+   "example": "Let's learn the word \"insider\".",
+   "exampleMeaning": "Cùng học từ “insider”: người trong cuộc, người nội bộ.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈsaɪdɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "makeup",
+   "meaning": "trang điểm, cấu tạo",
+   "example": "She likes to wear makeup to school.",
+   "exampleMeaning": "Cô ấy thích trang điểm đến trường.",
+   "emoji": "",
+   "ipa": "/ˈmeɪˌkəp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "fertilization",
+   "meaning": "thụ tinh, bón phân",
+   "example": "Let's learn the word \"fertilization\".",
+   "exampleMeaning": "Cùng học từ “fertilization”: thụ tinh, bón phân.",
+   "emoji": "",
+   "ipa": "/ˌfɜrtəlɪˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "wireless",
+   "meaning": "không dây",
+   "example": "to give a talk on the wireless",
+   "exampleMeaning": "Nói chuyện trên đài rađiô",
+   "emoji": "🛜",
+   "ipa": "/ˈwaɪrlɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "haul",
+   "meaning": "kéo, vận chuyển, mẻ thu được",
+   "example": "a good haul of fish",
+   "exampleMeaning": "Một mẻ lưới đầy cá",
+   "emoji": "",
+   "ipa": "/ˈhɔl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "administer",
+   "meaning": "quản lý, điều hành, cho uống (thuốc)",
+   "example": "to administer the affairs of the state",
+   "exampleMeaning": "Quản lý công việc nhà nước",
+   "emoji": "",
+   "ipa": "/ədˈmɪnəstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "provider",
+   "meaning": "nhà cung cấp",
+   "example": "Let's learn the word \"provider\".",
+   "exampleMeaning": "Cùng học từ “provider”: nhà cung cấp.",
+   "emoji": "",
+   "ipa": "/prəˈvaɪdɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fairness",
+   "meaning": "công bằng",
+   "example": "Let's learn the word \"fairness\".",
+   "exampleMeaning": "Cùng học từ “fairness”: công bằng.",
+   "emoji": "",
+   "ipa": "/ˈfɛrnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "slump",
+   "meaning": "sụt giảm mạnh, ngồi phịch xuống",
+   "example": "to slump into a chair",
+   "exampleMeaning": "Ngồi sụp xuống ghế",
+   "emoji": "",
+   "ipa": "/ˈsləmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "lord",
+   "meaning": "lãnh chúa, chúa",
+   "example": "lord of the manor",
+   "exampleMeaning": "Chủ trang viên",
+   "emoji": "",
+   "ipa": "/ˈlɔrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pledge",
+   "meaning": "cam kết, lời hứa, thề",
+   "example": "to pledge to remain all one's life faithful to...",
+   "exampleMeaning": "Nguyện suốt đời trung thành với...",
+   "emoji": "",
+   "ipa": "/plɛd͡ʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "closet",
+   "meaning": "tủ quần áo",
+   "example": "Let's learn the word \"closet\".",
+   "exampleMeaning": "Cùng học từ “closet”: tủ quần áo.",
+   "emoji": "",
+   "ipa": "/ˈklɑzət/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rebellion",
+   "meaning": "nổi loạn, khởi nghĩa",
+   "example": "a rebellion against the King",
+   "exampleMeaning": "Một cuộc nổi loạn chống lại nhà vua",
+   "emoji": "",
+   "ipa": "/rɪˈbɛljən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inmate",
+   "meaning": "tù nhân, phạm nhân",
+   "example": "Let's learn the word \"inmate\".",
+   "exampleMeaning": "Cùng học từ “inmate”: tù nhân, phạm nhân.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌmeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "violation",
+   "meaning": "vi phạm",
+   "example": "in violation of",
+   "exampleMeaning": "Vi phạm",
+   "emoji": "",
+   "ipa": "/vaɪəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inflict",
+   "meaning": "gây ra, giáng (đòn)",
+   "example": "Let's learn the word \"inflict\".",
+   "exampleMeaning": "Cùng học từ “inflict”: gây ra, giáng (đòn).",
+   "emoji": "",
+   "ipa": "/ˌɪnˈflɪkt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sober",
+   "meaning": "tỉnh táo, không say",
+   "example": "I promised I’d stay sober tonight",
+   "exampleMeaning": "Tớ hứa tối nay tớ sẽ không say",
+   "emoji": "",
+   "ipa": "/ˈsoʊbɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "You're",
+    "a",
+    "loser",
+    "too"
+   ],
+   "reading": "",
+   "meaning": "Bạn cũng thua rồi."
+  },
+  {
+   "tokens": [
+    "It's",
+    "very",
+    "stuffy",
+    "in",
+    "here"
+   ],
+   "reading": "",
+   "meaning": "Ở đây ngột ngạt quá."
+  },
+  {
+   "tokens": [
+    "He's",
+    "young",
+    "naive",
+    "and",
+    "inexperienced"
+   ],
+   "reading": "",
+   "meaning": "Cậu ấy còn trẻ, ngây thơ và chưa có kinh nghiệm."
+  },
+  {
+   "tokens": [
+    "I've",
+    "been",
+    "tormented",
+    "by",
+    "regret"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã bị dằn vặt bởi sự hối hận."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "learn",
+    "English"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố gắng học tiếng Anh."
+  }
+ ],
+ "issues": []
+}

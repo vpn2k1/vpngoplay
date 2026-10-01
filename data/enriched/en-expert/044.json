@@ -1,0 +1,329 @@
+{
+ "lesson": 44,
+ "draft": true,
+ "words": [
+  {
+   "term": "skepticism",
+   "meaning": "hoài nghi",
+   "example": "Let's learn the word \"skepticism\".",
+   "exampleMeaning": "Cùng học từ “skepticism”: hoài nghi.",
+   "emoji": "",
+   "ipa": "/ˈskɛptɪˌsɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lethal",
+   "meaning": "gây chết người",
+   "example": "a lethal dose of poison",
+   "exampleMeaning": "Một liều thuốc độc chết người",
+   "emoji": "",
+   "ipa": "/ˈliθəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reliance",
+   "meaning": "dựa dẫm, phụ thuộc",
+   "example": "to place reliance in (on, uopn) someoen",
+   "exampleMeaning": "Tín nhiệm ai",
+   "emoji": "",
+   "ipa": "/riˈlaɪəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "underpin",
+   "meaning": "làm nền tảng, chống đỡ",
+   "example": "Let's learn the word \"underpin\".",
+   "exampleMeaning": "Cùng học từ “underpin”: làm nền tảng, chống đỡ.",
+   "emoji": "",
+   "ipa": "/ˈəndɜrˌpɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "knight",
+   "meaning": "hiệp sĩ, quân mã",
+   "example": "Let's learn the word \"knight\".",
+   "exampleMeaning": "Cùng học từ “knight”: hiệp sĩ, quân mã.",
+   "emoji": "",
+   "ipa": "/ˈnaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sportsman",
+   "meaning": "vận động viên, người chơi thể thao",
+   "example": "Let's learn the word \"sportsman\".",
+   "exampleMeaning": "Cùng học từ “sportsman”: vận động viên, người chơi thể thao.",
+   "emoji": "",
+   "ipa": "/ˈspɔrtsmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "questionable",
+   "meaning": "đáng ngờ",
+   "example": "Let's learn the word \"questionable\".",
+   "exampleMeaning": "Cùng học từ “questionable”: đáng ngờ.",
+   "emoji": "",
+   "ipa": "/ˈkwɛstʃənəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "comeback",
+   "meaning": "màn tái xuất, lật ngược",
+   "example": "Let's learn the word \"comeback\".",
+   "exampleMeaning": "Cùng học từ “comeback”: màn tái xuất, lật ngược.",
+   "emoji": "",
+   "ipa": "/ˈkəmˌbæk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "courtroom",
+   "meaning": "phòng xử án",
+   "example": "Let's learn the word \"courtroom\".",
+   "exampleMeaning": "Cùng học từ “courtroom”: phòng xử án.",
+   "emoji": "",
+   "ipa": "/ˈkɔrˌtrum/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "regiment",
+   "meaning": "trung đoàn",
+   "example": "a regiment of birds",
+   "exampleMeaning": "Một bầy chim",
+   "emoji": "",
+   "ipa": "/ˈrɛdʒəmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "spotlight",
+   "meaning": "đèn sân khấu, tâm điểm chú ý",
+   "example": "Let's learn the word \"spotlight\".",
+   "exampleMeaning": "Cùng học từ “spotlight”: đèn sân khấu, tâm điểm chú ý.",
+   "emoji": "",
+   "ipa": "/ˈspɑtˌlaɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "eldest",
+   "meaning": "lớn nhất, con cả",
+   "example": "Let's learn the word \"eldest\".",
+   "exampleMeaning": "Cùng học từ “eldest”: lớn nhất, con cả.",
+   "emoji": "",
+   "ipa": "/ˈɛldəst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cradle",
+   "meaning": "cái nôi, ôm ấp",
+   "example": "the cradle of the Anglo-Saxon",
+   "exampleMeaning": "Nguồn gốc người Ang-lô Xắc-xông",
+   "emoji": "",
+   "ipa": "/ˈkreɪdəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hub",
+   "meaning": "trung tâm, đầu mối",
+   "example": "hub of the universe",
+   "exampleMeaning": "Trung tâm của vũ trụ, rốn của vũ trụ",
+   "emoji": "",
+   "ipa": "/ˈhəb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "coil",
+   "meaning": "cuộn, cuộn dây",
+   "example": "to coil oneself in bed",
+   "exampleMeaning": "Nằm cuộn tròn trong giường, nằm co con tôm trong giường",
+   "emoji": "",
+   "ipa": "/ˈkɔɪl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "loot",
+   "meaning": "cướp bóc, của cướp",
+   "example": "to loot a city",
+   "exampleMeaning": "Cướp phá một thành phố",
+   "emoji": "",
+   "ipa": "/ˈlut/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pasture",
+   "meaning": "đồng cỏ chăn thả",
+   "example": "Let's learn the word \"pasture\".",
+   "exampleMeaning": "Cùng học từ “pasture”: đồng cỏ chăn thả.",
+   "emoji": "",
+   "ipa": "/ˈpæstʃɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "exemplify",
+   "meaning": "là ví dụ cho, minh họa",
+   "example": "Let's learn the word \"exemplify\".",
+   "exampleMeaning": "Cùng học từ “exemplify”: là ví dụ cho, minh họa.",
+   "emoji": "",
+   "ipa": "/ɪɡˈzɛmpləˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "rein",
+   "meaning": "dây cương, kiềm chế",
+   "example": "to keep a tight rein on",
+   "exampleMeaning": "Kiềm chế chặt chẽ",
+   "emoji": "",
+   "ipa": "/ˈreɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "procession",
+   "meaning": "đám rước, đoàn diễu hành",
+   "example": "to go (walk) in procession",
+   "exampleMeaning": "Đi diễu",
+   "emoji": "",
+   "ipa": "/prəˈsɛʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "save",
+    "more",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố gắng tiết kiệm thêm tiền."
+  },
+  {
+   "tokens": [
+    "Many",
+    "pupils",
+    "are",
+    "poor",
+    "at",
+    "algebra"
+   ],
+   "reading": "",
+   "meaning": "Nhiều học sinh học kém môn đại số."
+  },
+  {
+   "tokens": [
+    "This",
+    "should",
+    "help",
+    "alleviate",
+    "the",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Nó sẽ giúp làm dịu cơn đau."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "generally",
+    "an",
+    "impeccable",
+    "student"
+   ],
+   "reading": "",
+   "meaning": "Nhìn chung thì anh ấy là con ngoan trò giỏi."
+  },
+  {
+   "tokens": [
+    "She",
+    "was",
+    "standing",
+    "on",
+    "one",
+    "foot"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang đứng một chân."
+  }
+ ],
+ "issues": []
+}

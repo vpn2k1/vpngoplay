@@ -1,0 +1,338 @@
+{
+ "lesson": 138,
+ "draft": true,
+ "words": [
+  {
+   "term": "握らす",
+   "meaning": "dúi vào tay, cho cầm",
+   "example": "「握らす」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “握らす”: dúi vào tay, cho cầm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水揚げ",
+   "meaning": "dỡ hàng lên bờ, sản lượng cá",
+   "example": "「水揚げ」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “水揚げ”: dỡ hàng lên bờ, sản lượng cá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "逆しま",
+   "meaning": "ngược, lộn ngược",
+   "example": "「逆しま」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “逆しま”: ngược, lộn ngược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "命日",
+   "meaning": "ngày giỗ",
+   "example": "「命日」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “命日”: ngày giỗ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "山菜",
+   "meaning": "rau rừng",
+   "example": "「山菜」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “山菜”: rau rừng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "断片",
+   "meaning": "mảnh vỡ, đoạn rời",
+   "example": "「断片」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “断片”: mảnh vỡ, đoạn rời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "慢性的",
+   "meaning": "mãn tính, kinh niên",
+   "example": "「慢性的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “慢性的”: mãn tính, kinh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岐路",
+   "meaning": "ngã ba đường, ngã rẽ",
+   "example": "「岐路」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “岐路”: ngã ba đường, ngã rẽ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "注意報",
+   "meaning": "bản tin cảnh báo",
+   "example": "「注意報」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “注意報”: bản tin cảnh báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "高熱",
+   "meaning": "sốt cao",
+   "example": "「高熱」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “高熱”: sốt cao.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一品",
+   "meaning": "một món, món hàng",
+   "example": "「一品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “一品”: một món, món hàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衝動",
+   "meaning": "xung động, cơn bốc đồng",
+   "example": "「衝動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “衝動”: xung động, cơn bốc đồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有毒",
+   "meaning": "có độc, độc hại",
+   "example": "「有毒」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “有毒”: có độc, độc hại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "臨場感",
+   "meaning": "cảm giác chân thực, như đang ở đó",
+   "example": "「臨場感」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “臨場感”: cảm giác chân thực, như đang ở đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "総務局",
+   "meaning": "cục hành chính tổng hợp",
+   "example": "「総務局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “総務局”: cục hành chính tổng hợp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "球技",
+   "meaning": "môn bóng",
+   "example": "「球技」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “球技”: môn bóng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "海水浴場",
+   "meaning": "bãi tắm biển",
+   "example": "「海水浴場」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “海水浴場”: bãi tắm biển.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "冷水",
+   "meaning": "nước lạnh",
+   "example": "「冷水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “冷水”: nước lạnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "荒波",
+   "meaning": "sóng dữ, sóng gió",
+   "example": "「荒波」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “荒波”: sóng dữ, sóng gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "兼務",
+   "meaning": "kiêm nhiệm",
+   "example": "「兼務」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “兼務”: kiêm nhiệm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "手伝って",
+    "くださいません",
+    "か",
+    "喜んで"
+   ],
+   "reading": "てつだってくださいませんかよろこんで",
+   "meaning": "\"Bạn sẽ giúp tôi chứ?\" \"Tôi rất sẵn lòng.\""
+  },
+  {
+   "tokens": [
+    "彼ら",
+    "は",
+    "家",
+    "を",
+    "購入",
+    "する",
+    "ため",
+    "貯金",
+    "を",
+    "している"
+   ],
+   "reading": "かれらはいえをこうにゅうするためちょきんをしている",
+   "meaning": "Họ đang tiết kiệm tiền để mua một căn nhà."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "昨日",
+    "東京",
+    "へ",
+    "向けて",
+    "出発した",
+    "よう",
+    "です"
+   ],
+   "reading": "かのじょはきのうとうきょうへむけてしゅっぱつしたようです",
+   "meaning": "Có vẻ như cô ấy đã khởi hành đi tới Tokyo hôm qua."
+  },
+  {
+   "tokens": [
+    "我々",
+    "は",
+    "お互いに",
+    "身振り",
+    "で",
+    "意見",
+    "を",
+    "伝え",
+    "あった"
+   ],
+   "reading": "われわれはおたがいにみぶりでいけんをつたえあった",
+   "meaning": "Chúng tôi truyền đạt ý tưởng cho nhau bằng cử chỉ."
+  },
+  {
+   "tokens": [
+    "その他",
+    "購入",
+    "する",
+    "もの",
+    "は",
+    "あります",
+    "でしょうか"
+   ],
+   "reading": "そのたこうにゅうするものはありますでしょうか",
+   "meaning": "Quý khách có mua gì thêm nữa không ạ?"
+  }
+ ],
+ "issues": []
+}

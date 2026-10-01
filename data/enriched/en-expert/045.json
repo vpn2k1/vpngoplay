@@ -1,0 +1,330 @@
+{
+ "lesson": 45,
+ "draft": true,
+ "words": [
+  {
+   "term": "loosen",
+   "meaning": "nới lỏng",
+   "example": "To loosen a screw, turn it to the left.",
+   "exampleMeaning": "Vặn sang trái để xoay cái ốc vít ra.",
+   "emoji": "",
+   "ipa": "/ˈlusən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "tab",
+   "meaning": "thẻ, nhãn, hóa đơn",
+   "example": "to keep tab(s) on",
+   "exampleMeaning": "Kiểm tra, kiểm soát (sổ sách chi tiêu...); theo dõi",
+   "emoji": "",
+   "ipa": "/ˈtæb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "familiarity",
+   "meaning": "quen thuộc, thông thạo",
+   "example": "Let's learn the word \"familiarity\".",
+   "exampleMeaning": "Cùng học từ “familiarity”: quen thuộc, thông thạo.",
+   "emoji": "",
+   "ipa": "/fəˌmɪlˈjɛrəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hose",
+   "meaning": "vòi, ống mềm",
+   "example": "Let's learn the word \"hose\".",
+   "exampleMeaning": "Cùng học từ “hose”: vòi, ống mềm.",
+   "emoji": "",
+   "ipa": "/ˈhoʊz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sermon",
+   "meaning": "bài giảng đạo",
+   "example": "Let's learn the word \"sermon\".",
+   "exampleMeaning": "Cùng học từ “sermon”: bài giảng đạo.",
+   "emoji": "",
+   "ipa": "/ˈsɜrmən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "drape",
+   "meaning": "rèm cửa, phủ lên",
+   "example": "Let's learn the word \"drape\".",
+   "exampleMeaning": "Cùng học từ “drape”: rèm cửa, phủ lên.",
+   "emoji": "",
+   "ipa": "/ˈdreɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "crane",
+   "meaning": "cần cẩu, con sếu",
+   "example": "to crane at a hedge",
+   "exampleMeaning": "Chùn bước lại không dám nhảy qua hàng rào (ngựa)",
+   "emoji": "",
+   "ipa": "/ˈkreɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "overcrowd",
+   "meaning": "làm quá đông, chen chúc",
+   "example": "Let's learn the word \"overcrowd\".",
+   "exampleMeaning": "Cùng học từ “overcrowd”: làm quá đông, chen chúc.",
+   "emoji": "",
+   "ipa": "/ˌoʊvɜrˈkraʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bladder",
+   "meaning": "bàng quang",
+   "example": "Let's learn the word \"bladder\".",
+   "exampleMeaning": "Cùng học từ “bladder”: bàng quang.",
+   "emoji": "",
+   "ipa": "/ˈblædɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "supplementary",
+   "meaning": "bổ sung, phụ thêm",
+   "example": "Let's learn the word \"supplementary\".",
+   "exampleMeaning": "Cùng học từ “supplementary”: bổ sung, phụ thêm.",
+   "emoji": "",
+   "ipa": "/ˌsə.plə.ˈmɛn.tə.ri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "resemblance",
+   "meaning": "giống nhau, tương đồng",
+   "example": "to bear a resemblance to",
+   "exampleMeaning": "Giống với",
+   "emoji": "",
+   "ipa": "/riˈzɛmbləns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "incorporation",
+   "meaning": "kết hợp, thành lập công ty",
+   "example": "Let's learn the word \"incorporation\".",
+   "exampleMeaning": "Cùng học từ “incorporation”: kết hợp, thành lập công ty.",
+   "emoji": "",
+   "ipa": "/ˌɪnˌkɔrpɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "erode",
+   "meaning": "xói mòn, ăn mòn",
+   "example": "Let's learn the word \"erode\".",
+   "exampleMeaning": "Cùng học từ “erode”: xói mòn, ăn mòn.",
+   "emoji": "",
+   "ipa": "/ˈiroʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bleak",
+   "meaning": "ảm đạm, lạnh lẽo",
+   "example": "a bleak hillside",
+   "exampleMeaning": "Sườn đồi dãi gió",
+   "emoji": "",
+   "ipa": "/ˈblik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "trademark",
+   "meaning": "nhãn hiệu, thương hiệu",
+   "example": "Let's learn the word \"trademark\".",
+   "exampleMeaning": "Cùng học từ “trademark”: nhãn hiệu, thương hiệu.",
+   "emoji": "",
+   "ipa": "/ˈtreɪdˌmɑrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "projector",
+   "meaning": "máy chiếu",
+   "example": "Let's learn the word \"projector\".",
+   "exampleMeaning": "Cùng học từ “projector”: máy chiếu.",
+   "emoji": "",
+   "ipa": "/prəˈdʒɛktɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "protester",
+   "meaning": "người biểu tình",
+   "example": "Let's learn the word \"protester\".",
+   "exampleMeaning": "Cùng học từ “protester”: người biểu tình.",
+   "emoji": "",
+   "ipa": "/ˈproʊˌtɛstɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "seriousness",
+   "meaning": "tính nghiêm túc, mức nghiêm trọng",
+   "example": "Let's learn the word \"seriousness\".",
+   "exampleMeaning": "Cùng học từ “seriousness”: tính nghiêm túc, mức nghiêm trọng.",
+   "emoji": "",
+   "ipa": "/ˈsɪriəsnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "outgoing",
+   "meaning": "hướng ngoại, sắp mãn nhiệm",
+   "example": "an outgoing train",
+   "exampleMeaning": "Chuyến xe lửa sắp đi",
+   "emoji": "",
+   "ipa": "/ˈaʊtˌɡoʊɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "uranium",
+   "meaning": "u-ra-ni",
+   "example": "Nuclear bombs are made from uranium or plutonium.",
+   "exampleMeaning": "Bom hạt nhân được tạo ra từ urani hoặc plutoni.",
+   "emoji": "",
+   "ipa": "/jɜrˈeɪniəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "He",
+    "is",
+    "completely",
+    "isolated",
+    "from",
+    "society"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy bị cô lập hoàn toàn khỏi xã hội."
+  },
+  {
+   "tokens": [
+    "The",
+    "pursuit",
+    "of",
+    "success",
+    "requires",
+    "sacrifices"
+   ],
+   "reading": "",
+   "meaning": "Để theo đuổi thành công, cần có sự hi sinh."
+  },
+  {
+   "tokens": [
+    "This",
+    "method",
+    "has",
+    "pros",
+    "and",
+    "cons"
+   ],
+   "reading": "",
+   "meaning": "Phương pháp này có ưu và nhược điểm."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "going",
+    "to",
+    "hunt",
+    "for",
+    "pigeons"
+   ],
+   "reading": "",
+   "meaning": "Tôi sẽ đi săn bồ câu."
+  },
+  {
+   "tokens": [
+    "Death",
+    "is",
+    "an",
+    "integral",
+    "part",
+    "of",
+    "life"
+   ],
+   "reading": "",
+   "meaning": "Cái chết là một phần không thể tách rời của cuộc sống."
+  }
+ ],
+ "issues": []
+}

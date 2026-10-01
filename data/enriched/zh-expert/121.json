@@ -1,0 +1,340 @@
+{
+ "lesson": 121,
+ "draft": true,
+ "words": [
+  {
+   "term": "可知",
+   "meaning": "đủ thấy, thảo nào",
+   "example": "我们来学“可知”这个词。",
+   "exampleMeaning": "Cùng học từ “可知”: đủ thấy, thảo nào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kězhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "过奖",
+   "meaning": "quá khen",
+   "example": "您过奖了，我不过做了该做的事。",
+   "exampleMeaning": "Ông quá khen, tôi chẳng qua là làm những việc nên làm mà thôi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guòjiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "怠工",
+   "meaning": "lãn công, làm việc chểnh mảng",
+   "example": "消极怠工",
+   "exampleMeaning": "Làm việc tiêu cực biếng nhác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàigōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "随大溜",
+   "meaning": "theo số đông, a dua",
+   "example": "我们来学“随大溜”这个词。",
+   "exampleMeaning": "Cùng học từ “随大溜”: theo số đông, a dua.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "suídàliù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "木工",
+   "meaning": "thợ mộc, nghề mộc",
+   "example": "我们来学“木工”这个词。",
+   "exampleMeaning": "Cùng học từ “木工”: thợ mộc, nghề mộc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùgōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政务",
+   "meaning": "chính vụ, công việc nhà nước",
+   "example": "终日忙于政务",
+   "exampleMeaning": "Suốt ngày bận rộn việc chính trị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngwù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "凸显",
+   "meaning": "làm nổi bật, nổi rõ",
+   "example": "我们来学“凸显”这个词。",
+   "exampleMeaning": "Cùng học từ “凸显”: làm nổi bật, nổi rõ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tūxiǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "避难",
+   "meaning": "lánh nạn, tị nạn",
+   "example": "我们来学“避难”这个词。",
+   "exampleMeaning": "Cùng học từ “避难”: lánh nạn, tị nạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìnàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "衰弱",
+   "meaning": "suy nhược, yếu ớt",
+   "example": "在我军有力反击下，敌军攻势已经衰弱。",
+   "exampleMeaning": "Trước sự đánh trả của quân ta, thế tiến công của địch đã suy yếu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuāiruò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "杀人",
+   "meaning": "giết người",
+   "example": "你不可杀人",
+   "exampleMeaning": "Anh không thể giết người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shārén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "公证",
+   "meaning": "công chứng",
+   "example": "遗嘱公证。",
+   "exampleMeaning": "Xác nhận di chúc",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gōngzhèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "售价",
+   "meaning": "giá bán",
+   "example": "我们来学“售价”这个词。",
+   "exampleMeaning": "Cùng học từ “售价”: giá bán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shòujià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不像话",
+   "meaning": "quá quắt, chẳng ra gì, vô lý",
+   "example": "这人最不像话，随地吐痰。",
+   "exampleMeaning": "Cái người này là kinh tởm nhất, khạc nhổ bừa bãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxiànghuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "战区",
+   "meaning": "chiến khu, vùng chiến sự",
+   "example": "我们来学“战区”这个词。",
+   "exampleMeaning": "Cùng học từ “战区”: chiến khu, vùng chiến sự.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhànqū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "死心塌地",
+   "meaning": "một lòng một dạ, quyết tâm",
+   "example": "我们来学“死心塌地”这个词。",
+   "exampleMeaning": "Cùng học từ “死心塌地”: một lòng một dạ, quyết tâm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "sǐxīntādì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "外援",
+   "meaning": "viện trợ nước ngoài, ngoại binh",
+   "example": "我们来学“外援”这个词。",
+   "exampleMeaning": "Cùng học từ “外援”: viện trợ nước ngoài, ngoại binh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàiyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "年轻人",
+   "meaning": "người trẻ, thanh niên",
+   "example": "我们来学“年轻人”这个词。",
+   "exampleMeaning": "Cùng học từ “年轻人”: người trẻ, thanh niên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "niánqīngrén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "融资",
+   "meaning": "huy động vốn, tài trợ vốn",
+   "example": "我们来学“融资”这个词。",
+   "exampleMeaning": "Cùng học từ “融资”: huy động vốn, tài trợ vốn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "róngzī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "污秽",
+   "meaning": "dơ bẩn, ô uế",
+   "example": "我们来学“污秽”这个词。",
+   "exampleMeaning": "Cùng học từ “污秽”: dơ bẩn, ô uế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wūhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "要强",
+   "meaning": "hiếu thắng, muốn hơn người",
+   "example": "我们来学“要强”这个词。",
+   "exampleMeaning": "Cùng học từ “要强”: hiếu thắng, muốn hơn người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yàoqiáng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  },
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  }
+ ],
+ "issues": []
+}

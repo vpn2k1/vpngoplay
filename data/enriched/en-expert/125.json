@@ -1,0 +1,329 @@
+{
+ "lesson": 125,
+ "draft": true,
+ "words": [
+  {
+   "term": "iceberg",
+   "meaning": "tảng băng trôi",
+   "example": "Let's learn the word \"iceberg\".",
+   "exampleMeaning": "Cùng học từ “iceberg”: tảng băng trôi.",
+   "emoji": "",
+   "ipa": "/ˈaɪsbɜrɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "bearer",
+   "meaning": "người mang, người cầm",
+   "example": "a good bearer",
+   "exampleMeaning": "Cây sai quả, cây nhiều hoa",
+   "emoji": "",
+   "ipa": "/ˈbɛrɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "willow",
+   "meaning": "liễu",
+   "example": "Let's learn the word \"willow\".",
+   "exampleMeaning": "Cùng học từ “willow”: liễu.",
+   "emoji": "",
+   "ipa": "/ˈwɪˌloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unthinkable",
+   "meaning": "không thể tưởng tượng nổi",
+   "example": "Let's learn the word \"unthinkable\".",
+   "exampleMeaning": "Cùng học từ “unthinkable”: không thể tưởng tượng nổi.",
+   "emoji": "",
+   "ipa": "/ənˈθɪŋkəbəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "pastime",
+   "meaning": "thú tiêu khiển, trò giải trí",
+   "example": "Let's learn the word \"pastime\".",
+   "exampleMeaning": "Cùng học từ “pastime”: thú tiêu khiển, trò giải trí.",
+   "emoji": "",
+   "ipa": "/ˈpæsˌtaɪm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "hopelessly",
+   "meaning": "vô vọng, hết thuốc chữa",
+   "example": "Let's learn the word \"hopelessly\".",
+   "exampleMeaning": "Cùng học từ “hopelessly”: vô vọng, hết thuốc chữa.",
+   "emoji": "",
+   "ipa": "/ˈhoʊpləsli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "concurrent",
+   "meaning": "đồng thời, cùng lúc",
+   "example": "Let's learn the word \"concurrent\".",
+   "exampleMeaning": "Cùng học từ “concurrent”: đồng thời, cùng lúc.",
+   "emoji": "",
+   "ipa": "/kənˈkɜrənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "breeder",
+   "meaning": "người chăn nuôi, nhà lai tạo",
+   "example": "Let's learn the word \"breeder\".",
+   "exampleMeaning": "Cùng học từ “breeder”: người chăn nuôi, nhà lai tạo.",
+   "emoji": "",
+   "ipa": "/ˈbridɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "disintegrate",
+   "meaning": "tan rã, phân hủy",
+   "example": "Let's learn the word \"disintegrate\".",
+   "exampleMeaning": "Cùng học từ “disintegrate”: tan rã, phân hủy.",
+   "emoji": "",
+   "ipa": "/dɪˈsɪntəˌɡreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "clergyman",
+   "meaning": "giáo sĩ, mục sư",
+   "example": "Let's learn the word \"clergyman\".",
+   "exampleMeaning": "Cùng học từ “clergyman”: giáo sĩ, mục sư.",
+   "emoji": "",
+   "ipa": "/ˈklɜrdʒiˌmæn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "readership",
+   "meaning": "lượng độc giả",
+   "example": "Let's learn the word \"readership\".",
+   "exampleMeaning": "Cùng học từ “readership”: lượng độc giả.",
+   "emoji": "",
+   "ipa": "/ˈridɜrˌʃɪp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "procure",
+   "meaning": "mua sắm, kiếm được",
+   "example": "to procure employment",
+   "exampleMeaning": "Kiếm việc làm",
+   "emoji": "",
+   "ipa": "/proʊkˈjʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thug",
+   "meaning": "côn đồ",
+   "example": "Let's learn the word \"thug\".",
+   "exampleMeaning": "Cùng học từ “thug”: côn đồ.",
+   "emoji": "",
+   "ipa": "/ˈθəɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scant",
+   "meaning": "ít ỏi, không đủ",
+   "example": "to be scant of speech",
+   "exampleMeaning": "Ít nói",
+   "emoji": "",
+   "ipa": "/ˈskænt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pediatric",
+   "meaning": "nhi khoa, khoa nhi",
+   "example": "Let's learn the word \"pediatric\".",
+   "exampleMeaning": "Cùng học từ “pediatric”: nhi khoa, khoa nhi.",
+   "emoji": "",
+   "ipa": "/ˌpidiˈætrɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "renounce",
+   "meaning": "từ bỏ, khước từ",
+   "example": "to renounce the right of succession",
+   "exampleMeaning": "Từ bỏ quyền kế thừa",
+   "emoji": "",
+   "ipa": "/rɪˈnaʊns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "industrialist",
+   "meaning": "nhà công nghiệp",
+   "example": "Let's learn the word \"industrialist\".",
+   "exampleMeaning": "Cùng học từ “industrialist”: nhà công nghiệp.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈdəstriəlɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "snort",
+   "meaning": "khịt mũi, hừ",
+   "example": "to snort defiance at somebody",
+   "exampleMeaning": "Khịt khịt mũi tỏ vẻ bất chấp người nào",
+   "emoji": "",
+   "ipa": "/ˈsnɔrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "inception",
+   "meaning": "khởi đầu, lúc thành lập",
+   "example": "Let's learn the word \"inception\".",
+   "exampleMeaning": "Cùng học từ “inception”: khởi đầu, lúc thành lập.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈsɛpʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "moderator",
+   "meaning": "người điều phối, người dẫn dắt",
+   "example": "Let's learn the word \"moderator\".",
+   "exampleMeaning": "Cùng học từ “moderator”: người điều phối, người dẫn dắt.",
+   "emoji": "",
+   "ipa": "/ˈmɑdɜrˌeɪtɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "save",
+    "more",
+    "money"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố gắng tiết kiệm thêm tiền."
+  },
+  {
+   "tokens": [
+    "Many",
+    "pupils",
+    "are",
+    "poor",
+    "at",
+    "algebra"
+   ],
+   "reading": "",
+   "meaning": "Nhiều học sinh học kém môn đại số."
+  },
+  {
+   "tokens": [
+    "This",
+    "should",
+    "help",
+    "alleviate",
+    "the",
+    "pain"
+   ],
+   "reading": "",
+   "meaning": "Nó sẽ giúp làm dịu cơn đau."
+  },
+  {
+   "tokens": [
+    "He",
+    "is",
+    "generally",
+    "an",
+    "impeccable",
+    "student"
+   ],
+   "reading": "",
+   "meaning": "Nhìn chung thì anh ấy là con ngoan trò giỏi."
+  },
+  {
+   "tokens": [
+    "She",
+    "was",
+    "standing",
+    "on",
+    "one",
+    "foot"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang đứng một chân."
+  }
+ ],
+ "issues": []
+}

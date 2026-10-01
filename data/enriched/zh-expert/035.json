@@ -1,0 +1,339 @@
+{
+ "lesson": 35,
+ "draft": true,
+ "words": [
+  {
+   "term": "孤陋寡闻",
+   "meaning": "hiểu biết nông cạn",
+   "example": "我们来学“孤陋寡闻”这个词。",
+   "exampleMeaning": "Cùng học từ “孤陋寡闻”: hiểu biết nông cạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gūlòuguǎwén",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "仿制",
+   "meaning": "làm nhái, phỏng chế",
+   "example": "我们来学“仿制”这个词。",
+   "exampleMeaning": "Cùng học từ “仿制”: làm nhái, phỏng chế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fǎngzhì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "大宗",
+   "meaning": "số lượng lớn, mặt hàng chủ yếu",
+   "example": "本地出产以棉花为大宗。",
+   "exampleMeaning": "Vùng này sản xuất bông là chính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàzōng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "后备箱",
+   "meaning": "cốp xe",
+   "example": "我们来学“后备箱”这个词。",
+   "exampleMeaning": "Cùng học từ “后备箱”: cốp xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòubèixiāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "常温",
+   "meaning": "nhiệt độ thường",
+   "example": "我们来学“常温”这个词。",
+   "exampleMeaning": "Cùng học từ “常温”: nhiệt độ thường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángwēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "互补",
+   "meaning": "bổ sung cho nhau, bổ trợ",
+   "example": "沿海和内地互通有无，互补互利。",
+   "exampleMeaning": "Ven biển và đất liền bù đắp cho nhau, cùng có lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hùbǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "古朴",
+   "meaning": "cổ kính, mộc mạc",
+   "example": "建筑风格古朴典雅。",
+   "exampleMeaning": "Phong cách kiến trúc thuần phác cổ xưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǔpǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "状元",
+   "meaning": "trạng nguyên, thủ khoa",
+   "example": "行行出状元",
+   "exampleMeaning": "Ngành nào cũng có người giỏi nhất; nhất nghệ tinh, nhất thân vinh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàngyuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "皇位",
+   "meaning": "ngôi vua, hoàng vị",
+   "example": "继承皇位",
+   "exampleMeaning": "Lên ngôi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huángwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "预警",
+   "meaning": "cảnh báo sớm",
+   "example": "预警卫星。",
+   "exampleMeaning": "Vệ tinh báo động",
+   "emoji": "⚠",
+   "ipa": "",
+   "pinyin": "yùjǐng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "名著",
+   "meaning": "tác phẩm nổi tiếng, danh tác",
+   "example": "文学名著。",
+   "exampleMeaning": "Kiệt tác văn học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngzhù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "橙汁",
+   "meaning": "nước cam",
+   "example": "我们来学“橙汁”这个词。",
+   "exampleMeaning": "Cùng học từ “橙汁”: nước cam.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chéngzhī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "谜团",
+   "meaning": "bí ẩn, nghi vấn",
+   "example": "我们来学“谜团”这个词。",
+   "exampleMeaning": "Cùng học từ “谜团”: bí ẩn, nghi vấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mítuán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "杂乱无章",
+   "meaning": "lộn xộn, bừa bãi",
+   "example": "屋里的书堆得杂乱无章。",
+   "exampleMeaning": "Sách chất đống lộn xộn trong phòng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "záluànwúzhāng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文武百官",
+   "meaning": "bá quan văn võ",
+   "example": "我们来学“文武百官”这个词。",
+   "exampleMeaning": "Cùng học từ “文武百官”: bá quan văn võ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wénwǔbǎiguān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "任人宰割",
+   "meaning": "mặc cho người khác chà đạp",
+   "example": "我们来学“任人宰割”这个词。",
+   "exampleMeaning": "Cùng học từ “任人宰割”: mặc cho người khác chà đạp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "rènrénzǎigē",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政委",
+   "meaning": "chính ủy",
+   "example": "我们来学“政委”这个词。",
+   "exampleMeaning": "Cùng học từ “政委”: chính ủy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhèngwěi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市委",
+   "meaning": "thành ủy",
+   "example": "我们来学“市委”这个词。",
+   "exampleMeaning": "Cùng học từ “市委”: thành ủy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìwěi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "非金属",
+   "meaning": "phi kim",
+   "example": "我们来学“非金属”这个词。",
+   "exampleMeaning": "Cùng học từ “非金属”: phi kim.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēijīnshǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "总司令",
+   "meaning": "tổng tư lệnh",
+   "example": "我们来学“总司令”这个词。",
+   "exampleMeaning": "Cùng học từ “总司令”: tổng tư lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǒngsīlìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "人体",
+    "的",
+    "组织",
+    "是",
+    "由",
+    "细胞",
+    "构成",
+    "的"
+   ],
+   "reading": "réntǐ de zǔzhī shì yóu xìbāo gòuchéng de",
+   "meaning": "Cấu tạo cơ thể người là do các tế bào tạo thành."
+  },
+  {
+   "tokens": [
+    "玩",
+    "这些",
+    "电脑",
+    "游戏",
+    "要",
+    "反应",
+    "灵敏"
+   ],
+   "reading": "wán zhèxiē diànnǎo yóuxì yào fǎnyìng língmǐn",
+   "meaning": "Chơi trò chơi điện tử này cần phải phản ứng nhanh nhạy."
+  },
+  {
+   "tokens": [
+    "非常",
+    "感谢",
+    "您",
+    "昨晚",
+    "美妙",
+    "的",
+    "晚餐"
+   ],
+   "reading": "fēicháng gǎnxiè nín zuówǎn měimiào de wǎncān",
+   "meaning": "Vô cùng cảm ơn ngài về bữa tối tuyệt vời tối qua."
+  },
+  {
+   "tokens": [
+    "我",
+    "只",
+    "是",
+    "不",
+    "知道",
+    "应该",
+    "说",
+    "什么",
+    "而已"
+   ],
+   "reading": "wǒ zhǐ shì bù zhīdào yīnggāi shuō shénme éryǐ",
+   "meaning": "Tôi không biết nên nói gì cả..."
+  },
+  {
+   "tokens": [
+    "有成",
+    "千",
+    "的",
+    "人",
+    "来",
+    "参加",
+    "今天",
+    "的",
+    "集会"
+   ],
+   "reading": "yǒuchéng qiān de rén lái cānjiā jīntiān de jíhuì",
+   "meaning": "Hàng nghìn người đến dự cuộc mít tinh hôm nay."
+  }
+ ],
+ "issues": []
+}

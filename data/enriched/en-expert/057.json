@@ -1,0 +1,354 @@
+{
+ "lesson": 57,
+ "draft": true,
+ "words": [
+  {
+   "term": "ridicule",
+   "meaning": "chế giễu, nhạo báng",
+   "example": "to turn into ridicule",
+   "exampleMeaning": "Chế nhạo, bông đùa",
+   "emoji": "",
+   "ipa": "/ˈrɪdəkˌjul/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "touchdown",
+   "meaning": "hạ cánh, ghi điểm (bóng bầu dục)",
+   "example": "Let's learn the word \"touchdown\".",
+   "exampleMeaning": "Cùng học từ “touchdown”: hạ cánh, ghi điểm (bóng bầu dục).",
+   "emoji": "",
+   "ipa": "/ˈtətʃˌdaʊn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dwindle",
+   "meaning": "giảm dần, teo dần",
+   "example": "Let's learn the word \"dwindle\".",
+   "exampleMeaning": "Cùng học từ “dwindle”: giảm dần, teo dần.",
+   "emoji": "",
+   "ipa": "/ˈdwɪndəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "speedy",
+   "meaning": "nhanh chóng, mau lẹ",
+   "example": "Let's learn the word \"speedy\".",
+   "exampleMeaning": "Cùng học từ “speedy”: nhanh chóng, mau lẹ.",
+   "emoji": "",
+   "ipa": "/ˈspiˌdi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "foliage",
+   "meaning": "tán lá",
+   "example": "Let's learn the word \"foliage\".",
+   "exampleMeaning": "Cùng học từ “foliage”: tán lá.",
+   "emoji": "",
+   "ipa": "/ˈfoʊliɪdʒ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "barrack",
+   "meaning": "doanh trại, la ó",
+   "example": "Let's learn the word \"barrack\".",
+   "exampleMeaning": "Cùng học từ “barrack”: doanh trại, la ó.",
+   "emoji": "",
+   "ipa": "/ˈbærək/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "probation",
+   "meaning": "thử việc, án treo",
+   "example": "to be on probation",
+   "exampleMeaning": "Đang trong thời gian thử thách, đang trong thời gian tập sự; đang trong thời gian được tạm tha có theo dõi",
+   "emoji": "",
+   "ipa": "/proʊˈbeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "prep",
+   "meaning": "chuẩn bị (thân mật)",
+   "example": "Let's learn the word \"prep\".",
+   "exampleMeaning": "Cùng học từ “prep”: chuẩn bị (thân mật).",
+   "emoji": "",
+   "ipa": "/ˈprɛp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "envoy",
+   "meaning": "đặc phái viên, sứ giả",
+   "example": "Let's learn the word \"envoy\".",
+   "exampleMeaning": "Cùng học từ “envoy”: đặc phái viên, sứ giả.",
+   "emoji": "",
+   "ipa": "/ˈɑnvɔɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "skinny",
+   "meaning": "gầy nhom",
+   "example": "Let's learn the word \"skinny\".",
+   "exampleMeaning": "Cùng học từ “skinny”: gầy nhom.",
+   "emoji": "",
+   "ipa": "/ˈskɪni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overload",
+   "meaning": "quá tải",
+   "example": "Let's learn the word \"overload\".",
+   "exampleMeaning": "Cùng học từ “overload”: quá tải.",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌloʊd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "compilation",
+   "meaning": "tuyển tập, biên soạn",
+   "example": "Let's learn the word \"compilation\".",
+   "exampleMeaning": "Cùng học từ “compilation”: tuyển tập, biên soạn.",
+   "emoji": "",
+   "ipa": "/ˌkɑmpəˈleɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "atrocity",
+   "meaning": "tội ác tàn bạo",
+   "example": "Let's learn the word \"atrocity\".",
+   "exampleMeaning": "Cùng học từ “atrocity”: tội ác tàn bạo.",
+   "emoji": "",
+   "ipa": "/əˈtrɑsəti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "contentious",
+   "meaning": "gây tranh cãi",
+   "example": "Let's learn the word \"contentious\".",
+   "exampleMeaning": "Cùng học từ “contentious”: gây tranh cãi.",
+   "emoji": "",
+   "ipa": "/kənˈtɛnʃəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "doorstep",
+   "meaning": "bậc cửa, ngưỡng cửa",
+   "example": "Let's learn the word \"doorstep\".",
+   "exampleMeaning": "Cùng học từ “doorstep”: bậc cửa, ngưỡng cửa.",
+   "emoji": "",
+   "ipa": "/ˈdɔrˌstɛp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "influx",
+   "meaning": "sự đổ vào, dòng chảy vào",
+   "example": "Let's learn the word \"influx\".",
+   "exampleMeaning": "Cùng học từ “influx”: sự đổ vào, dòng chảy vào.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌfləks/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "specialization",
+   "meaning": "chuyên môn hóa, chuyên ngành",
+   "example": "Let's learn the word \"specialization\".",
+   "exampleMeaning": "Cùng học từ “specialization”: chuyên môn hóa, chuyên ngành.",
+   "emoji": "",
+   "ipa": "/ˌspɛʃələˈzeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "inset",
+   "meaning": "hình chèn, miếng lồng",
+   "example": "Let's learn the word \"inset\".",
+   "exampleMeaning": "Cùng học từ “inset”: hình chèn, miếng lồng.",
+   "emoji": "",
+   "ipa": "/ˈɪnˌsɛt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "loathe",
+   "meaning": "ghét cay đắng, ghê tởm",
+   "example": "Let's learn the word \"loathe\".",
+   "exampleMeaning": "Cùng học từ “loathe”: ghét cay đắng, ghê tởm.",
+   "emoji": "",
+   "ipa": "/ˈloʊð/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dean",
+   "meaning": "trưởng khoa",
+   "example": "Let's learn the word \"dean\".",
+   "exampleMeaning": "Cùng học từ “dean”: trưởng khoa.",
+   "emoji": "",
+   "ipa": "/ˈdin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "had",
+    "been",
+    "up",
+    "all",
+    "night",
+    "trying",
+    "to",
+    "finish",
+    "the",
+    "presentation"
+   ],
+   "reading": "",
+   "meaning": "Tôi đã thức trắng đêm cố gắng hoàn thành bài thuyết trình."
+  },
+  {
+   "tokens": [
+    "The",
+    "man",
+    "standing",
+    "over",
+    "there",
+    "is",
+    "the",
+    "owner",
+    "of",
+    "the",
+    "store"
+   ],
+   "reading": "",
+   "meaning": "Người đứng ở kia là chủ quán."
+  },
+  {
+   "tokens": [
+    "This",
+    "list",
+    "is",
+    "inclusive",
+    "of",
+    "the",
+    "past",
+    "members",
+    "of",
+    "the",
+    "group"
+   ],
+   "reading": "",
+   "meaning": "Danh sách này bao gồm các cựu thành viên của nhóm."
+  },
+  {
+   "tokens": [
+    "Will",
+    "you",
+    "open",
+    "the",
+    "window",
+    "and",
+    "air",
+    "out",
+    "this",
+    "stuffy",
+    "room"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể giúp tôi mở cửa sổ để phòng này bớt bí hơn được không?"
+  },
+  {
+   "tokens": [
+    "She",
+    "is",
+    "trying",
+    "to",
+    "save",
+    "as",
+    "much",
+    "money",
+    "as",
+    "she",
+    "can"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đang tiết kiệm tiền hết mức có thể."
+  }
+ ],
+ "issues": []
+}

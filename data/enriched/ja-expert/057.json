@@ -1,0 +1,336 @@
+{
+ "lesson": 57,
+ "draft": true,
+ "words": [
+  {
+   "term": "野手",
+   "meaning": "cầu thủ phòng ngự (bóng chày)",
+   "example": "「野手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “野手”: cầu thủ phòng ngự (bóng chày).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "何事",
+   "meaning": "việc gì, chuyện gì",
+   "example": "彼は何事もなかったかのように話し続けた。",
+   "exampleMeaning": "Anh ấy tiếp tục nói như không có chuyện gì.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "節減",
+   "meaning": "tiết giảm, cắt giảm",
+   "example": "「節減」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “節減”: tiết giảm, cắt giảm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "原人",
+   "meaning": "người nguyên thủy",
+   "example": "「原人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “原人”: người nguyên thủy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "救国",
+   "meaning": "cứu quốc",
+   "example": "「救国」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “救国”: cứu quốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惨敗",
+   "meaning": "thảm bại",
+   "example": "「惨敗」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “惨敗”: thảm bại.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "目先",
+   "meaning": "trước mắt",
+   "example": "「目先」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “目先”: trước mắt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "納豆",
+   "meaning": "natto, đậu nành lên men",
+   "example": "納豆はねばねばしている。",
+   "exampleMeaning": "Natto ăn có cảm giác dinh dính.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "内閣法制局",
+   "meaning": "cục pháp chế nội các",
+   "example": "「内閣法制局」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内閣法制局”: cục pháp chế nội các.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "栄養士",
+   "meaning": "chuyên gia dinh dưỡng",
+   "example": "「栄養士」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “栄養士”: chuyên gia dinh dưỡng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省力",
+   "meaning": "tiết kiệm sức lao động",
+   "example": "「省力」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “省力”: tiết kiệm sức lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "四重奏",
+   "meaning": "tứ tấu",
+   "example": "「四重奏」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “四重奏”: tứ tấu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "迷い",
+   "meaning": "phân vân, do dự",
+   "example": "部屋が静かになった時インディアナ・ジョーンズは罠ではあるまいかと迷いました。",
+   "exampleMeaning": "Khi căn phòng trở nên im lặng, Indiana Jones đã lăn tăn không biết đó là một cái bẫy hay không.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "美女",
+   "meaning": "người đẹp, mỹ nữ",
+   "example": "「美女」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “美女”: người đẹp, mỹ nữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "処刑",
+   "meaning": "hành quyết, xử tử",
+   "example": "トムは処刑された。",
+   "exampleMeaning": "Tom đã bị tử hình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "越年",
+   "meaning": "qua năm, đón năm mới",
+   "example": "「越年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “越年”: qua năm, đón năm mới.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "新書",
+   "meaning": "sách mới, sách bỏ túi",
+   "example": "「新書」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “新書”: sách mới, sách bỏ túi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "園児",
+   "meaning": "trẻ mẫu giáo",
+   "example": "「園児」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “園児”: trẻ mẫu giáo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ぐるり",
+   "meaning": "xung quanh, vòng quanh",
+   "example": "「ぐるり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “ぐるり”: xung quanh, vòng quanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "幕末",
+   "meaning": "cuối thời Mạc phủ",
+   "example": "「幕末」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “幕末”: cuối thời Mạc phủ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "何事もなかったかのように",
+    "話し",
+    "続けた"
+   ],
+   "reading": "かれはなにごともなかったかのようにはなしつづけた",
+   "meaning": "Anh ấy tiếp tục nói như không có chuyện gì."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "彼",
+    "を",
+    "間抜けな",
+    "人間",
+    "と",
+    "みなした"
+   ],
+   "reading": "かのじょはかれをまぬけなにんげんとみなした",
+   "meaning": "Cô ấy coi anh ta là một người ngu xuẩn."
+  },
+  {
+   "tokens": [
+    "自分自身",
+    "を",
+    "知る",
+    "こと",
+    "は",
+    "非常に",
+    "難しい"
+   ],
+   "reading": "じぶんじしんをしることはひじょうにむずかしい",
+   "meaning": "Hiểu bản thân mình là một việc vô cùng khó."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "に",
+    "運転",
+    "しない",
+    "ように",
+    "助言",
+    "した"
+   ],
+   "reading": "わたしはかれにうんてんしないようにじょげんした",
+   "meaning": "Tôi đã khuyên anh ấy không lái xe."
+  },
+  {
+   "tokens": [
+    "君",
+    "は",
+    "辞書",
+    "の",
+    "使い方",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "きみはじしょのつかいかたをしっていますか",
+   "meaning": "Bạn có biết cách dùng từ điển không?"
+  }
+ ],
+ "issues": []
+}

@@ -1,0 +1,330 @@
+{
+ "lesson": 23,
+ "draft": true,
+ "words": [
+  {
+   "term": "相続税",
+   "meaning": "thuế thừa kế",
+   "example": "「相続税」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “相続税”: thuế thừa kế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "勤労者",
+   "meaning": "người lao động",
+   "example": "「勤労者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “勤労者”: người lao động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "最古",
+   "meaning": "cổ nhất, lâu đời nhất",
+   "example": "「最古」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “最古”: cổ nhất, lâu đời nhất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "集落",
+   "meaning": "làng, thôn xóm",
+   "example": "「集落」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “集落”: làng, thôn xóm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "選者",
+   "meaning": "giám khảo, người tuyển chọn",
+   "example": "「選者」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “選者”: giám khảo, người tuyển chọn.",
+   "emoji": "🧑‍⚖",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "専門店",
+   "meaning": "cửa hàng chuyên doanh",
+   "example": "「専門店」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “専門店”: cửa hàng chuyên doanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小銃",
+   "meaning": "súng trường",
+   "example": "「小銃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小銃”: súng trường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "躍進",
+   "meaning": "tiến vượt bậc, phát triển nhanh",
+   "example": "「躍進」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “躍進”: tiến vượt bậc, phát triển nhanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "千里",
+   "meaning": "nghìn dặm",
+   "example": "千里の道も一歩から。",
+   "exampleMeaning": "Vạn sự khởi đầu nan.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "恐喝",
+   "meaning": "tống tiền, đe dọa",
+   "example": "「恐喝」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “恐喝”: tống tiền, đe dọa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "二十世紀",
+   "meaning": "thế kỷ hai mươi",
+   "example": "彼は二十世紀最高のピアニストだと言って差し支えないでしょう。",
+   "exampleMeaning": "Không thể phủ nhận rằng anh ta là nghệ sỹ dương cầm giỏi nhất thế kỷ 20.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "教育委員会",
+   "meaning": "hội đồng giáo dục",
+   "example": "「教育委員会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “教育委員会”: hội đồng giáo dục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "駆動",
+   "meaning": "truyền động, dẫn động",
+   "example": "「駆動」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “駆動”: truyền động, dẫn động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "景品",
+   "meaning": "quà tặng kèm, phần thưởng",
+   "example": "「景品」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “景品”: quà tặng kèm, phần thưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同性愛",
+   "meaning": "đồng tính, tình yêu đồng giới",
+   "example": "同性愛者ですが何か？それが犯罪だとでも？",
+   "exampleMeaning": "Bị gay thì sao? Cái đó cũng là tội à?",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "疑念",
+   "meaning": "nghi ngờ, ngờ vực",
+   "example": "「疑念」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “疑念”: nghi ngờ, ngờ vực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "盗塁",
+   "meaning": "cướp gôn (bóng chày)",
+   "example": "「盗塁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盗塁”: cướp gôn (bóng chày).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出火",
+   "meaning": "phát hỏa, bốc cháy",
+   "example": "「出火」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出火”: phát hỏa, bốc cháy.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "政治犯",
+   "meaning": "tội phạm chính trị, tù chính trị",
+   "example": "「政治犯」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “政治犯”: tội phạm chính trị, tù chính trị.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "千代",
+   "meaning": "nghìn năm, muôn đời",
+   "example": "「千代」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “千代”: nghìn năm, muôn đời.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "千里",
+    "の",
+    "道",
+    "も",
+    "一歩",
+    "から"
+   ],
+   "reading": "せんりのみちもいっぽから",
+   "meaning": "Vạn sự khởi đầu nan."
+  },
+  {
+   "tokens": [
+    "彼の",
+    "意見",
+    "には",
+    "重み",
+    "が",
+    "ある"
+   ],
+   "reading": "かれのいけんにはおもみがある",
+   "meaning": "Ý kiến của nó thật nặng đô."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "朝食",
+    "前",
+    "に",
+    "散歩",
+    "した"
+   ],
+   "reading": "かのじょはちょうしょくまえにさんぽした",
+   "meaning": "Cô ấy đã đi dạo trước bữa sáng."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "右手",
+    "を",
+    "やけど",
+    "した"
+   ],
+   "reading": "かのじょはみぎてをやけどした",
+   "meaning": "Cô ấy bị bỏng ở tay phải."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "野球",
+    "に",
+    "熱中",
+    "している"
+   ],
+   "reading": "かれはやきゅうにねっちゅうしている",
+   "meaning": "Anh ấy cực kỳ mê bóng chày."
+  }
+ ],
+ "issues": []
+}

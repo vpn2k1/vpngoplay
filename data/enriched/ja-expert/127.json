@@ -1,0 +1,328 @@
+{
+ "lesson": 127,
+ "draft": true,
+ "words": [
+  {
+   "term": "争議",
+   "meaning": "tranh chấp, đình công",
+   "example": "「争議」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “争議”: tranh chấp, đình công.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "砂防",
+   "meaning": "chống xói mòn",
+   "example": "「砂防」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “砂防”: chống xói mòn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "険悪",
+   "meaning": "căng thẳng, nguy hiểm",
+   "example": "「険悪」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “険悪”: căng thẳng, nguy hiểm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "泣き",
+   "meaning": "tiếng khóc, than khóc",
+   "example": "今泣きたい気分です。",
+   "exampleMeaning": "Bây giờ tôi thấy muốn khóc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "致命的",
+   "meaning": "chí mạng, chết người",
+   "example": "わずかな誤りでも致命的な惨事につながるかもしれない。",
+   "exampleMeaning": "Sai lầm nhỏ nhất có thể dẫn đến một thảm họa chí mạng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "払い戻し",
+   "meaning": "hoàn tiền, hoàn trả",
+   "example": "「払い戻し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “払い戻し”: hoàn tiền, hoàn trả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "両岸",
+   "meaning": "hai bờ",
+   "example": "「両岸」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “両岸”: hai bờ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "事象",
+   "meaning": "hiện tượng, sự kiện",
+   "example": "「事象」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “事象”: hiện tượng, sự kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "秒読み",
+   "meaning": "đếm ngược",
+   "example": "「秒読み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “秒読み”: đếm ngược.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "肩代わり",
+   "meaning": "gánh thay, trả nợ thay",
+   "example": "「肩代わり」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “肩代わり”: gánh thay, trả nợ thay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拙速",
+   "meaning": "hấp tấp, làm vội",
+   "example": "「拙速」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “拙速”: hấp tấp, làm vội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "後始末",
+   "meaning": "thu dọn, giải quyết hậu quả",
+   "example": "「後始末」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “後始末”: thu dọn, giải quyết hậu quả.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "説明書",
+   "meaning": "sách hướng dẫn",
+   "example": "あなたは熱交換器の取扱説明書をこちらでダウンロードできます。",
+   "exampleMeaning": "Bạn có thể tải hướng dẫn sử dụng của bộ trao đổi nhiệt tại đây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "盲人",
+   "meaning": "người mù",
+   "example": "「盲人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “盲人”: người mù.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自筆",
+   "meaning": "tự tay viết, bút tích",
+   "example": "「自筆」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “自筆”: tự tay viết, bút tích.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "吸い込む",
+   "meaning": "hít vào, hút vào",
+   "example": "「吸い込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “吸い込む”: hít vào, hút vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "国権",
+   "meaning": "quyền lực nhà nước, chủ quyền",
+   "example": "「国権」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国権”: quyền lực nhà nước, chủ quyền.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "馬車",
+   "meaning": "xe ngựa",
+   "example": "「馬車」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “馬車”: xe ngựa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "敷設",
+   "meaning": "lắp đặt, trải (đường ray)",
+   "example": "「敷設」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “敷設”: lắp đặt, trải (đường ray).",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "発案",
+   "meaning": "đề xuất, sáng kiến",
+   "example": "「発案」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “発案”: đề xuất, sáng kiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "今",
+    "泣き",
+    "たい",
+    "気分",
+    "です"
+   ],
+   "reading": "いまなきたいきぶんです",
+   "meaning": "Bây giờ tôi thấy muốn khóc."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "一晩中",
+    "泣き",
+    "続けた"
+   ],
+   "reading": "かのじょはひとばんじゅうなきつづけた",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "うずくまって",
+    "泣き",
+    "続けた"
+   ],
+   "reading": "かれはうずくまってなきつづけた",
+   "meaning": "Anh ta cúi xuống và tiếp tục khóc."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "一晩中",
+    "泣き",
+    "通した"
+   ],
+   "reading": "かのじょはひとばんじゅうなきとおした",
+   "meaning": "Cô ấy đã khóc suốt đêm."
+  },
+  {
+   "tokens": [
+    "私",
+    "は",
+    "彼",
+    "に",
+    "運転",
+    "しない",
+    "ように",
+    "助言",
+    "した"
+   ],
+   "reading": "わたしはかれにうんてんしないようにじょげんした",
+   "meaning": "Tôi đã khuyên anh ấy không lái xe."
+  }
+ ],
+ "issues": []
+}

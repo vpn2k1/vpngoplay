@@ -1,0 +1,324 @@
+{
+ "lesson": 93,
+ "draft": true,
+ "words": [
+  {
+   "term": "suitability",
+   "meaning": "tính phù hợp",
+   "example": "Let's learn the word \"suitability\".",
+   "exampleMeaning": "Cùng học từ “suitability”: tính phù hợp.",
+   "emoji": "",
+   "ipa": "/ˌsutəˈbɪlɪti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "imperialism",
+   "meaning": "chủ nghĩa đế quốc",
+   "example": "Let's learn the word \"imperialism\".",
+   "exampleMeaning": "Cùng học từ “imperialism”: chủ nghĩa đế quốc.",
+   "emoji": "",
+   "ipa": "/ˌɪmˈpɪriəˌlɪzəm/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "displacement",
+   "meaning": "di tản, dịch chuyển",
+   "example": "a ship with a displacement of ten thousand tons",
+   "exampleMeaning": "Con tàu có trọng lượng nước rẽ mười nghìn tấn",
+   "emoji": "",
+   "ipa": "/dɪsˈpleɪsmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slug",
+   "meaning": "sên trần, đấm mạnh",
+   "example": "Let's learn the word \"slug\".",
+   "exampleMeaning": "Cùng học từ “slug”: sên trần, đấm mạnh.",
+   "emoji": "",
+   "ipa": "/ˈsləɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "grenade",
+   "meaning": "lựu đạn",
+   "example": "Let's learn the word \"grenade\".",
+   "exampleMeaning": "Cùng học từ “grenade”: lựu đạn.",
+   "emoji": "",
+   "ipa": "/ɡrəˈneɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "saga",
+   "meaning": "truyện dài, chuyện dài",
+   "example": "Let's learn the word \"saga\".",
+   "exampleMeaning": "Cùng học từ “saga”: truyện dài, chuyện dài.",
+   "emoji": "",
+   "ipa": "/ˈsɑɡə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tonic",
+   "meaning": "thuốc bổ, chủ âm (nhạc)",
+   "example": "Let's learn the word \"tonic\".",
+   "exampleMeaning": "Cùng học từ “tonic”: thuốc bổ, chủ âm (nhạc).",
+   "emoji": "",
+   "ipa": "/ˈtɑnɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "funnel",
+   "meaning": "cái phễu, dồn vào",
+   "example": "Let's learn the word \"funnel\".",
+   "exampleMeaning": "Cùng học từ “funnel”: cái phễu, dồn vào.",
+   "emoji": "",
+   "ipa": "/ˈfənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "alpha",
+   "meaning": "chữ an-pha, đầu đàn",
+   "example": "Alpha and Omega.",
+   "exampleMeaning": "Anfa và omega đầu và cuối cái chính, cái cơ bản.",
+   "emoji": "",
+   "ipa": "/ˈælfə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "infuriate",
+   "meaning": "làm điên tiết",
+   "example": "Let's learn the word \"infuriate\".",
+   "exampleMeaning": "Cùng học từ “infuriate”: làm điên tiết.",
+   "emoji": "",
+   "ipa": "/ˌɪnˈfjʊriˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "almond",
+   "meaning": "hạnh nhân",
+   "example": "Let's learn the word \"almond\".",
+   "exampleMeaning": "Cùng học từ “almond”: hạnh nhân.",
+   "emoji": "",
+   "ipa": "/ˈɑmənd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "opener",
+   "meaning": "đồ mở (hộp), màn mở đầu",
+   "example": "Let's learn the word \"opener\".",
+   "exampleMeaning": "Cùng học từ “opener”: đồ mở (hộp), màn mở đầu.",
+   "emoji": "",
+   "ipa": "/ˈoʊpənɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "amp",
+   "meaning": "am-pe, bộ khuếch đại (âm)",
+   "example": "Let's learn the word \"amp\".",
+   "exampleMeaning": "Cùng học từ “amp”: am-pe, bộ khuếch đại (âm).",
+   "emoji": "",
+   "ipa": "/ˈæmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "poker",
+   "meaning": "bài xì, que cời than",
+   "example": "Let's learn the word \"poker\".",
+   "exampleMeaning": "Cùng học từ “poker”: bài xì, que cời than.",
+   "emoji": "",
+   "ipa": "/ˈpoʊkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "asteroid",
+   "meaning": "tiểu hành tinh",
+   "example": "Let's learn the word \"asteroid\".",
+   "exampleMeaning": "Cùng học từ “asteroid”: tiểu hành tinh.",
+   "emoji": "",
+   "ipa": "/ˈæstɜrˌɔɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "boo",
+   "meaning": "la ó, huýt sáo chê",
+   "example": "to boo a dog out",
+   "exampleMeaning": "Đuổi con chó ra",
+   "emoji": "",
+   "ipa": "/ˈbu/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "intimately",
+   "meaning": "mật thiết, thân mật",
+   "example": "to know intimately something",
+   "exampleMeaning": "Biết tường tận về cái gì",
+   "emoji": "",
+   "ipa": "/ˈɪntəmətli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "gutter",
+   "meaning": "máng xối, rãnh nước",
+   "example": "the language of the gutter",
+   "exampleMeaning": "Giọng du côn đểu cáng",
+   "emoji": "",
+   "ipa": "/ˈɡətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "hefty",
+   "meaning": "nặng nề, khá lớn",
+   "example": "Let's learn the word \"hefty\".",
+   "exampleMeaning": "Cùng học từ “hefty”: nặng nề, khá lớn.",
+   "emoji": "",
+   "ipa": "/ˈhɛfti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cardinal",
+   "meaning": "hồng y, chủ yếu",
+   "example": "Let's learn the word \"cardinal\".",
+   "exampleMeaning": "Cùng học từ “cardinal”: hồng y, chủ yếu.",
+   "emoji": "",
+   "ipa": "/ˈkɑrdənəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Grace",
+    "wore",
+    "an",
+    "indignant",
+    "look"
+   ],
+   "reading": "",
+   "meaning": "Grace tỏ ra bất bình."
+  },
+  {
+   "tokens": [
+    "This",
+    "book",
+    "deals",
+    "with",
+    "anthropology"
+   ],
+   "reading": "",
+   "meaning": "Cuốn sách này nói về chủ đề nhân loại học."
+  },
+  {
+   "tokens": [
+    "I'm",
+    "trying",
+    "to",
+    "speak",
+    "German"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang cố nói tiếng Đức."
+  },
+  {
+   "tokens": [
+    "Would",
+    "you",
+    "mind",
+    "standing",
+    "aside"
+   ],
+   "reading": "",
+   "meaning": "Bạn đứng sang một bên có được không?"
+  },
+  {
+   "tokens": [
+    "We",
+    "need",
+    "to",
+    "conserve",
+    "water"
+   ],
+   "reading": "",
+   "meaning": "Chúng ta phải tiết kiệm nước."
+  }
+ ],
+ "issues": []
+}

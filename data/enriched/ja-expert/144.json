@@ -1,0 +1,338 @@
+{
+ "lesson": 144,
+ "draft": true,
+ "words": [
+  {
+   "term": "中級",
+   "meaning": "trung cấp",
+   "example": "「中級」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “中級”: trung cấp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "背泳ぎ",
+   "meaning": "bơi ngửa",
+   "example": "彼は背泳ぎができる。",
+   "exampleMeaning": "Anh ấy biết bơi ngửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "凝った",
+   "meaning": "cầu kỳ, tinh xảo",
+   "example": "「凝った」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “凝った”: cầu kỳ, tinh xảo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "切り捨て",
+   "meaning": "cắt bỏ, gạt bỏ",
+   "example": "「切り捨て」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “切り捨て”: cắt bỏ, gạt bỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "先導",
+   "meaning": "dẫn đường, dẫn đầu",
+   "example": "「先導」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “先導”: dẫn đường, dẫn đầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "同率",
+   "meaning": "cùng tỷ lệ",
+   "example": "「同率」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “同率”: cùng tỷ lệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出前",
+   "meaning": "giao đồ ăn tận nhà",
+   "example": "「出前」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “出前”: giao đồ ăn tận nhà.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小道具",
+   "meaning": "đạo cụ nhỏ, dụng cụ nhỏ",
+   "example": "「小道具」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “小道具”: đạo cụ nhỏ, dụng cụ nhỏ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "生態学",
+   "meaning": "sinh thái học",
+   "example": "「生態学」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “生態学”: sinh thái học.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "八方",
+   "meaning": "tám hướng, mọi phía",
+   "example": "「八方」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “八方”: tám hướng, mọi phía.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "人前",
+   "meaning": "trước mặt người khác, nơi công cộng",
+   "example": "彼女は人前で話すことが嫌いだ。",
+   "exampleMeaning": "Cô ấy không thích nói ở chỗ đông người.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "入り込む",
+   "meaning": "đi vào, len vào",
+   "example": "「入り込む」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “入り込む”: đi vào, len vào.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "官報",
+   "meaning": "công báo",
+   "example": "「官報」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “官報”: công báo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "駆けつける",
+   "meaning": "chạy đến, vội đến",
+   "example": "「駆けつける」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “駆けつける”: chạy đến, vội đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "常任委員会",
+   "meaning": "ủy ban thường trực",
+   "example": "「常任委員会」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “常任委員会”: ủy ban thường trực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "後ろ向き",
+   "meaning": "quay lưng lại, tiêu cực",
+   "example": "「後ろ向き」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “後ろ向き”: quay lưng lại, tiêu cực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "追撃",
+   "meaning": "truy kích, truy đuổi",
+   "example": "「追撃」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “追撃”: truy kích, truy đuổi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "挙式",
+   "meaning": "tổ chức lễ cưới, cử hành lễ",
+   "example": "「挙式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “挙式”: tổ chức lễ cưới, cử hành lễ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "実数",
+   "meaning": "số thực, con số thực tế",
+   "example": "「実数」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “実数”: số thực, con số thực tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "象牙",
+   "meaning": "ngà voi",
+   "example": "「象牙」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “象牙”: ngà voi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "背泳ぎ",
+    "が",
+    "できる"
+   ],
+   "reading": "かれはせおよぎができる",
+   "meaning": "Anh ấy biết bơi ngửa."
+  },
+  {
+   "tokens": [
+    "彼女",
+    "は",
+    "人前",
+    "で",
+    "話す",
+    "こと",
+    "が",
+    "嫌い",
+    "だ"
+   ],
+   "reading": "かのじょはひとまえではなすことがきらいだ",
+   "meaning": "Cô ấy không thích nói ở chỗ đông người."
+  },
+  {
+   "tokens": [
+    "ワードプロセッサー",
+    "の",
+    "使い方",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "ワードプロセッサーのつかいかたをしっていますか",
+   "meaning": "Bạn có biết cách sử dụng phần mềm soạn thảo văn bản không?"
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "今日",
+    "授業",
+    "を",
+    "さぼった",
+    "理由",
+    "を",
+    "知っています",
+    "か"
+   ],
+   "reading": "かれがきょうじゅぎょうをさぼったりゆうをしっていますか",
+   "meaning": "Bạn có biết lý do vì sao hôm nay anh ấy trốn học không?"
+  },
+  {
+   "tokens": [
+    "電話",
+    "が",
+    "鳴った",
+    "とき",
+    "私",
+    "は",
+    "テレビ",
+    "を",
+    "見ていました"
+   ],
+   "reading": "でんわがなったときわたしはテレビをみていました",
+   "meaning": "Tôi đang ngồi xem ti vi thì chuông điện thoại reo."
+  }
+ ],
+ "issues": []
+}

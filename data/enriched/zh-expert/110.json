@@ -1,0 +1,343 @@
+{
+ "lesson": 110,
+ "draft": true,
+ "words": [
+  {
+   "term": "肥沃",
+   "meaning": "màu mỡ, phì nhiêu",
+   "example": "土壤肥沃",
+   "exampleMeaning": "Đất đai màu mỡ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "féiwò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "衣食住行",
+   "meaning": "ăn mặc ở đi lại",
+   "example": "衣食住行是我们每个人都离不开的，从我们的衣食住行的变化可以清晰地看到我们社会的飞速发展。",
+   "exampleMeaning": "Các nhu cần ăn, mặc, ở, đi lại không thể nào tách rời mỗi con người chúng ta, và từ những thay đổi trong các nhu cầu ăn, mặc, ở, đi lại đó mà có thể nhìn thấy được rõ sự phát triển nhanh chóng trong của xã hội chúng ta.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīshízhùxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生产力",
+   "meaning": "sức sản xuất, năng suất",
+   "example": "我们来学“生产力”这个词。",
+   "exampleMeaning": "Cùng học từ “生产力”: sức sản xuất, năng suất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngchǎnlì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "欢声笑语",
+   "meaning": "tiếng cười nói vui vẻ",
+   "example": "我们来学“欢声笑语”这个词。",
+   "exampleMeaning": "Cùng học từ “欢声笑语”: tiếng cười nói vui vẻ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huānshēngxiàoyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "江面",
+   "meaning": "mặt sông",
+   "example": "我们来学“江面”这个词。",
+   "exampleMeaning": "Cùng học từ “江面”: mặt sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāngmiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "观感",
+   "meaning": "cảm nhận, ấn tượng",
+   "example": "代表们畅谈访问农村的观感。",
+   "exampleMeaning": "Đoàn đại biểu đang say sưa nói đến cảm giác về nông thôn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngǎn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "户口",
+   "meaning": "hộ khẩu",
+   "example": "我们来学“户口”这个词。",
+   "exampleMeaning": "Cùng học từ “户口”: hộ khẩu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hùkǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忧愁",
+   "meaning": "lo âu, buồn rầu",
+   "example": "面容忧愁",
+   "exampleMeaning": "Vẻ mặt buồn rầu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yōuchóu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "后顾之忧",
+   "meaning": "nỗi lo hậu phương, mối lo về sau",
+   "example": "我们来学“后顾之忧”这个词。",
+   "exampleMeaning": "Cùng học từ “后顾之忧”: nỗi lo hậu phương, mối lo về sau.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòugùzhīyōu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "方位",
+   "meaning": "phương hướng, phương vị",
+   "example": "下着大雨，辨不清方位。",
+   "exampleMeaning": "Mưa lớn quá, không phân biệt được phương hướng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绕行",
+   "meaning": "đi vòng, quay quanh",
+   "example": "我们来学“绕行”这个词。",
+   "exampleMeaning": "Cùng học từ “绕行”: đi vòng, quay quanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "ràoxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "光碟",
+   "meaning": "đĩa quang, đĩa CD",
+   "example": "我们来学“光碟”这个词。",
+   "exampleMeaning": "Cùng học từ “光碟”: đĩa quang, đĩa CD.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "guāngdié",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "导火索",
+   "meaning": "ngòi nổ, dây cháy chậm",
+   "example": "我们来学“导火索”这个词。",
+   "exampleMeaning": "Cùng học từ “导火索”: ngòi nổ, dây cháy chậm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dǎohuǒsuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "皇权",
+   "meaning": "hoàng quyền, quyền lực hoàng đế",
+   "example": "我们来学“皇权”这个词。",
+   "exampleMeaning": "Cùng học từ “皇权”: hoàng quyền, quyền lực hoàng đế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huángquán",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "追加",
+   "meaning": "bổ sung, cấp thêm",
+   "example": "追加基本建设投资。",
+   "exampleMeaning": "Tăng thêm vốn xây dựng cơ bản.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuījiā",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "喝酒",
+   "meaning": "uống rượu",
+   "example": "我们来学“喝酒”这个词。",
+   "exampleMeaning": "Cùng học từ “喝酒”: uống rượu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hējiǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "拉锁",
+   "meaning": "khóa kéo",
+   "example": "我们来学“拉锁”这个词。",
+   "exampleMeaning": "Cùng học từ “拉锁”: khóa kéo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lāsuǒ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "刚毅",
+   "meaning": "cương nghị, kiên cường",
+   "example": "刚毅的神色",
+   "exampleMeaning": "Vẻ cương nghị; thần sắc cương nghị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gāngyì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "照例",
+   "meaning": "theo lệ, như thường lệ",
+   "example": "春节照例放假四天。",
+   "exampleMeaning": "Tết âm lịch theo thường lệ được nghỉ bốn ngày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàolì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "筹措",
+   "meaning": "huy động (vốn), xoay xở tiền",
+   "example": "筹措旅费。",
+   "exampleMeaning": "Kiếm tiền đi đường.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chóucuò",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  },
+  {
+   "tokens": [
+    "他们",
+    "俩",
+    "工作",
+    "上",
+    "联系",
+    "多",
+    "经常",
+    "打交道"
+   ],
+   "reading": "tāmen liǎ gōngzuò shàng liánxì duō jīngcháng dǎjiāodào",
+   "meaning": "Hai người họ có liên hệ nhiều trong công việc, thường xuyên giao thiệp với nhau."
+  },
+  {
+   "tokens": [
+    "对工",
+    "作",
+    "的",
+    "热爱",
+    "是",
+    "通往",
+    "幸福",
+    "的",
+    "钥匙"
+   ],
+   "reading": "duìgōng zuò de rèài shì tōngwǎng xìngfú de yàoshi",
+   "meaning": "Yêu thích công việc là chìa khóa dẫn đến hạnh phúc."
+  },
+  {
+   "tokens": [
+    "那么",
+    "多",
+    "的",
+    "工作",
+    "已经",
+    "把",
+    "时间",
+    "全",
+    "占用",
+    "了"
+   ],
+   "reading": "nàme duō de gōngzuò yǐjīng bǎ shíjiān quán zhànyòng le",
+   "meaning": "Bấy nhiêu việc đã chiếm hết cả thì giờ rồi."
+  },
+  {
+   "tokens": [
+    "我",
+    "在",
+    "检查",
+    "这里",
+    "有没有",
+    "激光",
+    "警报",
+    "装置"
+   ],
+   "reading": "wǒ zài jiǎnchá zhèlǐ yǒuméiyǒu jīguāng jǐngbào zhuāngzhì",
+   "meaning": "Tôi đang kiểm tra xem ở đây có thiết bị báo động laser hay không."
+  }
+ ],
+ "issues": []
+}

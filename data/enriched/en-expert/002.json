@@ -1,0 +1,314 @@
+{
+ "lesson": 2,
+ "draft": true,
+ "words": [
+  {
+   "term": "tribunal",
+   "meaning": "tòa án đặc biệt, hội đồng xét xử",
+   "example": "the tribunal of public opinion",
+   "exampleMeaning": "Toà án công luận",
+   "emoji": "",
+   "ipa": "/trəbˈjunəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cosmetic",
+   "meaning": "mỹ phẩm, bề ngoài",
+   "example": "Let's learn the word \"cosmetic\".",
+   "exampleMeaning": "Cùng học từ “cosmetic”: mỹ phẩm, bề ngoài.",
+   "emoji": "",
+   "ipa": "/kɑzˈmɛtɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "precaution",
+   "meaning": "biện pháp phòng ngừa, đề phòng",
+   "example": "Let's learn the word \"precaution\".",
+   "exampleMeaning": "Cùng học từ “precaution”: biện pháp phòng ngừa, đề phòng.",
+   "emoji": "",
+   "ipa": "/priˈkɔʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "override",
+   "meaning": "bác bỏ, ghi đè",
+   "example": "to override someone's pleas",
+   "exampleMeaning": "Không chịu nghe những lời biện hộ của ai",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌraɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "handful",
+   "meaning": "một nắm, số ít",
+   "example": "a handful of paper",
+   "exampleMeaning": "Một nắm giấy",
+   "emoji": "",
+   "ipa": "/ˈhændˌfʊl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shove",
+   "meaning": "xô, đẩy mạnh",
+   "example": "to shove something in a drawer",
+   "exampleMeaning": "Nhét một vật gì vào ngăn kéo",
+   "emoji": "",
+   "ipa": "/ˈʃəv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "memoir",
+   "meaning": "hồi ký",
+   "example": "Let's learn the word \"memoir\".",
+   "exampleMeaning": "Cùng học từ “memoir”: hồi ký.",
+   "emoji": "",
+   "ipa": "/ˈmɛmˌwɑr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "fist",
+   "meaning": "nắm đấm",
+   "example": "to clenth one's fist",
+   "exampleMeaning": "Nắm chặt tay lại",
+   "emoji": "",
+   "ipa": "/ˈfɪst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "allegedly",
+   "meaning": "được cho là, theo cáo buộc",
+   "example": "She allegedly murdered him.",
+   "exampleMeaning": "Cô ấy bị cáo buộc giết anh ta.",
+   "emoji": "",
+   "ipa": "/əˈlɛdʒədli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "splendid",
+   "meaning": "lộng lẫy, tuyệt vời",
+   "example": "The example sentence was splendid, wasn't it?",
+   "exampleMeaning": "Câu ví dụ hay thật đấy nhỉ?",
+   "emoji": "",
+   "ipa": "/ˈsplɛndɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "designate",
+   "meaning": "chỉ định, bổ nhiệm",
+   "example": "to designate someone by the name off...",
+   "exampleMeaning": "Đặt (gọi) tên ai là...",
+   "emoji": "",
+   "ipa": "/ˈdɛzəɡˌneɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "census",
+   "meaning": "điều tra dân số",
+   "example": "Let's learn the word \"census\".",
+   "exampleMeaning": "Cùng học từ “census”: điều tra dân số.",
+   "emoji": "",
+   "ipa": "/ˈsɛnsəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "auditor",
+   "meaning": "kiểm toán viên",
+   "example": "Let's learn the word \"auditor\".",
+   "exampleMeaning": "Cùng học từ “auditor”: kiểm toán viên.",
+   "emoji": "",
+   "ipa": "/ˈɔːdɪtər/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "plasma",
+   "meaning": "huyết tương",
+   "example": "Let's learn the word \"plasma\".",
+   "exampleMeaning": "Cùng học từ “plasma”: huyết tương.",
+   "emoji": "",
+   "ipa": "/ˈplæzmə/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vest",
+   "meaning": "áo gi-lê, áo lót",
+   "example": "to vest the altar",
+   "exampleMeaning": "Trang hoàng bàn thờ",
+   "emoji": "",
+   "ipa": "/ˈvɛst/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "morale",
+   "meaning": "tinh thần, nhuệ khí",
+   "example": "Let's learn the word \"morale\".",
+   "exampleMeaning": "Cùng học từ “morale”: tinh thần, nhuệ khí.",
+   "emoji": "",
+   "ipa": "/mɜrˈæl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "plow",
+   "meaning": "cày, cái cày",
+   "example": "Let's learn the word \"plow\".",
+   "exampleMeaning": "Cùng học từ “plow”: cày, cái cày.",
+   "emoji": "",
+   "ipa": "/ˈplaʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "scrap",
+   "meaning": "mẩu vụn, phế liệu, hủy bỏ",
+   "example": "to hose a bit of a scrap with somebody",
+   "exampleMeaning": "Ẩu đả với ai",
+   "emoji": "",
+   "ipa": "/ˈskræp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "conspiracy",
+   "meaning": "âm mưu, thuyết âm mưu",
+   "example": "to be in the conspiracy",
+   "exampleMeaning": "Tham gia cuộc âm mưu",
+   "emoji": "",
+   "ipa": "/kənˈspɪrəsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "contributor",
+   "meaning": "người đóng góp, cộng tác viên",
+   "example": "Let's learn the word \"contributor\".",
+   "exampleMeaning": "Cùng học từ “contributor”: người đóng góp, cộng tác viên.",
+   "emoji": "",
+   "ipa": "/kənˈtrɪbjətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "I",
+    "was",
+    "brainwashed"
+   ],
+   "reading": "",
+   "meaning": "Tôi bị tẩy não."
+  },
+  {
+   "tokens": [
+    "We",
+    "like",
+    "diversity"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi thích sự đa dạng."
+  },
+  {
+   "tokens": [
+    "Fossils",
+    "are",
+    "everywhere"
+   ],
+   "reading": "",
+   "meaning": "Hoá thạch ở khắp nơi."
+  },
+  {
+   "tokens": [
+    "What",
+    "a",
+    "hypocrite"
+   ],
+   "reading": "",
+   "meaning": "Đúng là đồ đạo đức giả!"
+  },
+  {
+   "tokens": [
+    "I",
+    "reluctantly",
+    "agreed"
+   ],
+   "reading": "",
+   "meaning": "Tôi miễn cưỡng đồng ý."
+  }
+ ],
+ "issues": []
+}

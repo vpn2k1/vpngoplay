@@ -1,0 +1,328 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "国技",
+   "meaning": "môn thể thao quốc gia",
+   "example": "「国技」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “国技”: môn thể thao quốc gia.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "町民",
+   "meaning": "dân thị trấn",
+   "example": "「町民」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “町民”: dân thị trấn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "市街地",
+   "meaning": "khu đô thị, nội thành",
+   "example": "「市街地」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “市街地”: khu đô thị, nội thành.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "経済研究所",
+   "meaning": "viện nghiên cứu kinh tế",
+   "example": "「経済研究所」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “経済研究所”: viện nghiên cứu kinh tế.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "連用",
+   "meaning": "dùng liên tục",
+   "example": "「連用」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “連用”: dùng liên tục.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "告知",
+   "meaning": "thông báo, cáo tri",
+   "example": "「告知」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “告知”: thông báo, cáo tri.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "定期的",
+   "meaning": "định kỳ, thường xuyên",
+   "example": "「定期的」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “定期的”: định kỳ, thường xuyên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "持論",
+   "meaning": "quan điểm riêng, chủ kiến",
+   "example": "「持論」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “持論”: quan điểm riêng, chủ kiến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "弾頭",
+   "meaning": "đầu đạn",
+   "example": "「弾頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “弾頭”: đầu đạn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名乗り",
+   "meaning": "xưng tên, tự giới thiệu",
+   "example": "その仕事をしようと名乗り出る者はいなかった。",
+   "exampleMeaning": "Đã không có ai đứng ra tình nguyện làm công việc đó.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "授賞式",
+   "meaning": "lễ trao giải",
+   "example": "「授賞式」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “授賞式”: lễ trao giải.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "三男",
+   "meaning": "con trai thứ ba",
+   "example": "私の夫には、兄が２人います。そう、私は三男の嫁です。",
+   "exampleMeaning": "Chồng tôi có hai người anh trai. Đúng vậy, tôi là vợ của người con trai thứ ba.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "内野手",
+   "meaning": "cầu thủ nội sân",
+   "example": "「内野手」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “内野手”: cầu thủ nội sân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "身柄",
+   "meaning": "thân người, người bị giữ",
+   "example": "「身柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “身柄”: thân người, người bị giữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "周知",
+   "meaning": "ai cũng biết, phổ biến rộng rãi",
+   "example": "「周知」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “周知”: ai cũng biết, phổ biến rộng rãi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "裏付け",
+   "meaning": "căn cứ, chứng thực",
+   "example": "「裏付け」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “裏付け”: căn cứ, chứng thực.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "不自然",
+   "meaning": "không tự nhiên, gượng gạo",
+   "example": "「不自然」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “不自然”: không tự nhiên, gượng gạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "音響",
+   "meaning": "âm thanh, âm hưởng",
+   "example": "「音響」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “音響”: âm thanh, âm hưởng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "具体化",
+   "meaning": "cụ thể hóa",
+   "example": "「具体化」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “具体化”: cụ thể hóa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "訴状",
+   "meaning": "đơn kiện",
+   "example": "「訴状」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “訴状”: đơn kiện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "その",
+    "仕事",
+    "を",
+    "しよう",
+    "と",
+    "名乗り出る",
+    "者",
+    "は",
+    "いなかった"
+   ],
+   "reading": "そのしごとをしようとなのりでるものはいなかった",
+   "meaning": "Đã không có ai đứng ra tình nguyện làm công việc đó."
+  },
+  {
+   "tokens": [
+    "甲",
+    "の",
+    "薬",
+    "は",
+    "乙",
+    "の",
+    "毒"
+   ],
+   "reading": "こうのくすりはおつのどく",
+   "meaning": "Cái sướng cho người này là cái khổ cho người khác."
+  },
+  {
+   "tokens": [
+    "救急車",
+    "を",
+    "呼んで"
+   ],
+   "reading": "きゅうきゅうしゃをよんで",
+   "meaning": "Gọi cấp cứu đi."
+  },
+  {
+   "tokens": [
+    "私",
+    "だけ",
+    "が",
+    "残った"
+   ],
+   "reading": "わたしだけがのこった",
+   "meaning": "Chỉ còn lại một mình tôi."
+  },
+  {
+   "tokens": [
+    "龍",
+    "は",
+    "空想",
+    "の",
+    "動物",
+    "だ"
+   ],
+   "reading": "りゅうはくうそうのどうぶつだ",
+   "meaning": "Rồng là động vật không tưởng."
+  }
+ ],
+ "issues": []
+}

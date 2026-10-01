@@ -1,0 +1,319 @@
+{
+ "lesson": 7,
+ "draft": true,
+ "words": [
+  {
+   "term": "coup",
+   "meaning": "đảo chính",
+   "example": "to make a coup",
+   "exampleMeaning": "Làm một chuyện phi thường",
+   "emoji": "",
+   "ipa": "/ˈku/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "technician",
+   "meaning": "kỹ thuật viên",
+   "example": "Let's learn the word \"technician\".",
+   "exampleMeaning": "Cùng học từ “technician”: kỹ thuật viên.",
+   "emoji": "",
+   "ipa": "/tɛkˈnɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "dairy",
+   "meaning": "bơ sữa, sản phẩm từ sữa",
+   "example": "Let's learn the word \"dairy\".",
+   "exampleMeaning": "Cùng học từ “dairy”: bơ sữa, sản phẩm từ sữa.",
+   "emoji": "",
+   "ipa": "/ˈdɛri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "gasoline",
+   "meaning": "xăng",
+   "example": "Let's learn the word \"gasoline\".",
+   "exampleMeaning": "Cùng học từ “gasoline”: xăng.",
+   "emoji": "",
+   "ipa": "/ˈɡæsəˌlin/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "brace",
+   "meaning": "nẹp, niềng răng, chuẩn bị tinh thần",
+   "example": "to brace oneself up; to brace one's energies",
+   "exampleMeaning": "Gắng hết sức mình, dốc hết sức mình, dốc hết nghị lực",
+   "emoji": "",
+   "ipa": "/breɪs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "geometry",
+   "meaning": "hình học",
+   "example": "He did geometry exercises after school.",
+   "exampleMeaning": "Anh ấy đã làm các bài tập hình học sau giờ học.",
+   "emoji": "",
+   "ipa": "/d͡ʒiːˈɒm.ɪ.tri/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "volatile",
+   "meaning": "dễ bay hơi, biến động",
+   "example": "of a volatile character",
+   "exampleMeaning": "Có tính nhẹ dạ",
+   "emoji": "",
+   "ipa": "/ˈvɑlətəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fig",
+   "meaning": "quả sung, quả vả",
+   "example": "his opinion is not worth a fig",
+   "exampleMeaning": "Ý kiến của hắn chắng có một chút giá trị gì",
+   "emoji": "",
+   "ipa": "/ˈfɪɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "skeptical",
+   "meaning": "hoài nghi",
+   "example": "Let's learn the word \"skeptical\".",
+   "exampleMeaning": "Cùng học từ “skeptical”: hoài nghi.",
+   "emoji": "",
+   "ipa": "/ˈskɛptəkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "courtyard",
+   "meaning": "sân trong",
+   "example": "Let's learn the word \"courtyard\".",
+   "exampleMeaning": "Cùng học từ “courtyard”: sân trong.",
+   "emoji": "",
+   "ipa": "/ˈkɔrtˌjɑrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "generic",
+   "meaning": "chung chung, thuốc gốc",
+   "example": "Let's learn the word \"generic\".",
+   "exampleMeaning": "Cùng học từ “generic”: chung chung, thuốc gốc.",
+   "emoji": "",
+   "ipa": "/dʒəˈnɛrɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "civilize",
+   "meaning": "khai hóa, văn minh hóa",
+   "example": "Let's learn the word \"civilize\".",
+   "exampleMeaning": "Cùng học từ “civilize”: khai hóa, văn minh hóa.",
+   "emoji": "",
+   "ipa": "/ˈsɪvəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "adolescence",
+   "meaning": "tuổi vị thành niên, tuổi dậy thì",
+   "example": "Let's learn the word \"adolescence\".",
+   "exampleMeaning": "Cùng học từ “adolescence”: tuổi vị thành niên, tuổi dậy thì.",
+   "emoji": "",
+   "ipa": "/ˌædəˈlɛsəns/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "refine",
+   "meaning": "tinh chế, trau chuốt",
+   "example": "to refine upon words",
+   "exampleMeaning": "Tế nhị trong lời nói",
+   "emoji": "",
+   "ipa": "/rəˈfaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "cart",
+   "meaning": "xe đẩy, xe bò",
+   "example": "Let's learn the word \"cart\".",
+   "exampleMeaning": "Cùng học từ “cart”: xe đẩy, xe bò.",
+   "emoji": "",
+   "ipa": "/ˈkɑrt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "denial",
+   "meaning": "phủ nhận, từ chối",
+   "example": "denial of a truth",
+   "exampleMeaning": "Sự phủ nhận một sự thật",
+   "emoji": "",
+   "ipa": "/dɪˈnaɪəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "litigation",
+   "meaning": "kiện tụng, tranh tụng",
+   "example": "Let's learn the word \"litigation\".",
+   "exampleMeaning": "Cùng học từ “litigation”: kiện tụng, tranh tụng.",
+   "emoji": "",
+   "ipa": "/ˌlɪtəˈɡeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "lag",
+   "meaning": "tụt hậu, độ trễ",
+   "example": "to lag behind",
+   "exampleMeaning": "Tụt lại đằng sau",
+   "emoji": "",
+   "ipa": "/læɡ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pony",
+   "meaning": "ngựa con, ngựa lùn",
+   "example": "Let's learn the word \"pony\".",
+   "exampleMeaning": "Cùng học từ “pony”: ngựa con, ngựa lùn.",
+   "emoji": "",
+   "ipa": "/ˈpoʊˌni/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sting",
+   "meaning": "đốt, chích, nhói",
+   "example": "some bees do not sting",
+   "exampleMeaning": "Có những thứ ong không đốt",
+   "emoji": "",
+   "ipa": "/stɪŋ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Comment",
+    "has",
+    "been",
+    "removed"
+   ],
+   "reading": "",
+   "meaning": "Bình luận này đã bị xoá."
+  },
+  {
+   "tokens": [
+    "The",
+    "sheep",
+    "was",
+    "sacrificed"
+   ],
+   "reading": "",
+   "meaning": "Con cừu đã bị hiến tế."
+  },
+  {
+   "tokens": [
+    "Is",
+    "this",
+    "information",
+    "credible"
+   ],
+   "reading": "",
+   "meaning": "Thông tin này có đáng tin không?"
+  },
+  {
+   "tokens": [
+    "I'm",
+    "getting",
+    "online",
+    "harassment"
+   ],
+   "reading": "",
+   "meaning": "Tôi đang bị quấy rối trực tuyến."
+  },
+  {
+   "tokens": [
+    "Exploring",
+    "space",
+    "requires",
+    "precision"
+   ],
+   "reading": "",
+   "meaning": "Khám phá không gian cần sự chính xác."
+  }
+ ],
+ "issues": []
+}

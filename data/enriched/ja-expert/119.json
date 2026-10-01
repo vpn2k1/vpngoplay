@@ -1,0 +1,334 @@
+{
+ "lesson": 119,
+ "draft": true,
+ "words": [
+  {
+   "term": "風通し",
+   "meaning": "thông gió, thoáng khí",
+   "example": "「風通し」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “風通し”: thông gió, thoáng khí.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "劣勢",
+   "meaning": "thế yếu, bất lợi",
+   "example": "「劣勢」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “劣勢”: thế yếu, bất lợi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "貯水",
+   "meaning": "trữ nước",
+   "example": "「貯水」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “貯水”: trữ nước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公文",
+   "meaning": "công văn",
+   "example": "「公文」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公文”: công văn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "給油",
+   "meaning": "đổ xăng, tiếp nhiên liệu",
+   "example": "「給油」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “給油”: đổ xăng, tiếp nhiên liệu.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "頂",
+   "meaning": "đỉnh, chóp",
+   "example": "山頂が雲の上にそびえている。",
+   "exampleMeaning": "Đỉnh núi cao trên cả tầng mây.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "表決",
+   "meaning": "biểu quyết",
+   "example": "「表決」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “表決”: biểu quyết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "表裏",
+   "meaning": "mặt trước và sau, hai mặt",
+   "example": "「表裏」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “表裏”: mặt trước và sau, hai mặt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "証",
+   "meaning": "bằng chứng, minh chứng",
+   "example": "これは証明済みの事実だ。",
+   "exampleMeaning": "Đây là sự thật đã được kiểm chứng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "贈与",
+   "meaning": "tặng cho, biếu tặng",
+   "example": "「贈与」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “贈与”: tặng cho, biếu tặng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "岸壁",
+   "meaning": "bến tàu, kè đá",
+   "example": "「岸壁」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “岸壁”: bến tàu, kè đá.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "公社債",
+   "meaning": "trái phiếu công cộng",
+   "example": "「公社債」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “公社債”: trái phiếu công cộng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "没頭",
+   "meaning": "mải mê, chìm đắm",
+   "example": "「没頭」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “没頭”: mải mê, chìm đắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "薬剤師",
+   "meaning": "dược sĩ",
+   "example": "「薬剤師」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “薬剤師”: dược sĩ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "営み",
+   "meaning": "hoạt động, sinh hoạt",
+   "example": "「営み」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “営み”: hoạt động, sinh hoạt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "図柄",
+   "meaning": "hoa văn, họa tiết",
+   "example": "「図柄」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “図柄”: hoa văn, họa tiết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "清涼",
+   "meaning": "mát mẻ, thanh mát",
+   "example": "「清涼」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “清涼”: mát mẻ, thanh mát.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "芸人",
+   "meaning": "nghệ sĩ hài, nghệ nhân",
+   "example": "「芸人」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “芸人”: nghệ sĩ hài, nghệ nhân.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "塾長",
+   "meaning": "hiệu trưởng trường tư",
+   "example": "「塾長」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “塾長”: hiệu trưởng trường tư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "往年",
+   "meaning": "ngày trước, năm xưa",
+   "example": "「往年」という言葉を覚えましょう。",
+   "exampleMeaning": "Cùng nhớ từ “往年”: ngày trước, năm xưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "論",
+    "より",
+    "証拠"
+   ],
+   "reading": "ろんよりしょうこ",
+   "meaning": "Lửa thử vàng, gian nan thử sức."
+  },
+  {
+   "tokens": [
+    "これ",
+    "は",
+    "証明済み",
+    "の",
+    "事実",
+    "だ"
+   ],
+   "reading": "これはしょうめいずみのじじつだ",
+   "meaning": "Đây là sự thật đã được kiểm chứng."
+  },
+  {
+   "tokens": [
+    "彼",
+    "は",
+    "ボート",
+    "作り",
+    "の",
+    "過程",
+    "を",
+    "説明",
+    "した"
+   ],
+   "reading": "かれはボートづくりのかていをせつめいした",
+   "meaning": "Anh ấy giải thích quá trình xây dựng chiếc thuyền."
+  },
+  {
+   "tokens": [
+    "彼",
+    "が",
+    "試験",
+    "に",
+    "受かる",
+    "の",
+    "は",
+    "間違いない"
+   ],
+   "reading": "かれがしけんにうかるのはまちがいない",
+   "meaning": "Tôi chắc chắn anh ta sẽ làm bài kiểm tra."
+  },
+  {
+   "tokens": [
+    "そこ",
+    "は",
+    "新しい",
+    "家",
+    "が",
+    "密集",
+    "する",
+    "地域",
+    "だ"
+   ],
+   "reading": "そこはあたらしいいえがみっしゅうするちいきだ",
+   "meaning": "Khu vực đó đầy rẫy nhà mới."
+  }
+ ],
+ "issues": []
+}

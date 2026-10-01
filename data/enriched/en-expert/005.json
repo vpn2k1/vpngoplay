@@ -1,0 +1,319 @@
+{
+ "lesson": 5,
+ "draft": true,
+ "words": [
+  {
+   "term": "disclosure",
+   "meaning": "tiết lộ, công bố thông tin",
+   "example": "Let's learn the word \"disclosure\".",
+   "exampleMeaning": "Cùng học từ “disclosure”: tiết lộ, công bố thông tin.",
+   "emoji": "",
+   "ipa": "/dɪˈskloʊʒɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "defendant",
+   "meaning": "bị cáo, bị đơn",
+   "example": "The defendant was sentenced to death.",
+   "exampleMeaning": "Bị can đã bị tuyên án tử hình.",
+   "emoji": "",
+   "ipa": "/dɪˈfɛndənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "feminine",
+   "meaning": "nữ tính",
+   "example": "a feminine noun",
+   "exampleMeaning": "Danh từ giống cái",
+   "emoji": "",
+   "ipa": "/ˈfɛmənən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "streak",
+   "meaning": "vệt, chuỗi",
+   "example": "he has a streak of humour in him",
+   "exampleMeaning": "Ở anh ta có cái nét hài hước",
+   "emoji": "",
+   "ipa": "/ˈstrik/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "deepen",
+   "meaning": "làm sâu sắc, đào sâu",
+   "example": "to deepen a canal",
+   "exampleMeaning": "Đào sâu thêm con kênh",
+   "emoji": "",
+   "ipa": "/ˈdipən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "premature",
+   "meaning": "sinh non, quá sớm",
+   "example": "a premature decision",
+   "exampleMeaning": "Một quyết định hấp tấp",
+   "emoji": "",
+   "ipa": "/ˌpriməˈtʃʊr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "slate",
+   "meaning": "đá phiến, danh sách ứng cử",
+   "example": "Let's learn the word \"slate\".",
+   "exampleMeaning": "Cùng học từ “slate”: đá phiến, danh sách ứng cử.",
+   "emoji": "",
+   "ipa": "/ˈsleɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "excerpt",
+   "meaning": "đoạn trích, trích đoạn",
+   "example": "Let's learn the word \"excerpt\".",
+   "exampleMeaning": "Cùng học từ “excerpt”: đoạn trích, trích đoạn.",
+   "emoji": "",
+   "ipa": "/ˈɛksɜrpt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "diplomatic",
+   "meaning": "ngoại giao, khéo léo",
+   "example": "The two nations have had no diplomatic relations for nearly three decades.",
+   "exampleMeaning": "Hai quốc gia không có quan hệ ngoại giao với nhau trong gần ba thập kỷ.",
+   "emoji": "",
+   "ipa": "/ˌdɪpləˈmætɪk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "resentment",
+   "meaning": "oán giận, bực bội",
+   "example": "to bear (habour) resentment agaisnt someone for having done something",
+   "exampleMeaning": "Oán giận người nào vì đã làm việc gì",
+   "emoji": "",
+   "ipa": "/rɪˈzɛnmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "pipeline",
+   "meaning": "đường ống",
+   "example": "Let's learn the word \"pipeline\".",
+   "exampleMeaning": "Cùng học từ “pipeline”: đường ống.",
+   "emoji": "",
+   "ipa": "/ˈpaɪˌplaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "urgency",
+   "meaning": "khẩn cấp, cấp bách",
+   "example": "a matter of great urgency",
+   "exampleMeaning": "Một việc khẩn cấp",
+   "emoji": "",
+   "ipa": "/ˈɜrdʒənsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "patent",
+   "meaning": "bằng sáng chế",
+   "example": "a patent device",
+   "exampleMeaning": "Một phương sách tài tình",
+   "emoji": "",
+   "ipa": "/ˈpætənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "shorten",
+   "meaning": "rút ngắn",
+   "example": "Let's learn the word \"shorten\".",
+   "exampleMeaning": "Cùng học từ “shorten”: rút ngắn.",
+   "emoji": "",
+   "ipa": "/ˈʃɔrtən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "presently",
+   "meaning": "hiện nay, chẳng mấy chốc",
+   "example": "Let's learn the word \"presently\".",
+   "exampleMeaning": "Cùng học từ “presently”: hiện nay, chẳng mấy chốc.",
+   "emoji": "",
+   "ipa": "/ˈprɛzəntli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "intensify",
+   "meaning": "tăng cường, mạnh lên",
+   "example": "Let's learn the word \"intensify\".",
+   "exampleMeaning": "Cùng học từ “intensify”: tăng cường, mạnh lên.",
+   "emoji": "",
+   "ipa": "/ɪnˈtɛnsəˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "uphold",
+   "meaning": "giữ vững, duy trì, ủng hộ",
+   "example": "I cannot uphold such conduct",
+   "exampleMeaning": "Tôi không thể tán thành cách cư xử như thế",
+   "emoji": "",
+   "ipa": "/əpˈhoʊld/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "reside",
+   "meaning": "cư trú, sinh sống",
+   "example": "To reside in HangBong street.",
+   "exampleMeaning": "Ở tại phố Hàng Bông.",
+   "emoji": "",
+   "ipa": "/rɪˈzaɪd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "controller",
+   "meaning": "bộ điều khiển, kiểm soát viên",
+   "example": "Let's learn the word \"controller\".",
+   "exampleMeaning": "Cùng học từ “controller”: bộ điều khiển, kiểm soát viên.",
+   "emoji": "",
+   "ipa": "/kənˈtroʊlɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "mandate",
+   "meaning": "quyền ủy nhiệm, ra lệnh bắt buộc",
+   "example": "Let's learn the word \"mandate\".",
+   "exampleMeaning": "Cùng học từ “mandate”: quyền ủy nhiệm, ra lệnh bắt buộc.",
+   "emoji": "",
+   "ipa": "/ˈmænˌdeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "She",
+    "removed",
+    "her",
+    "glasses"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy tháo kính ra."
+  },
+  {
+   "tokens": [
+    "Could",
+    "you",
+    "please",
+    "elaborate"
+   ],
+   "reading": "",
+   "meaning": "Bạn có thể giải thích rõ hơn được không?"
+  },
+  {
+   "tokens": [
+    "She",
+    "interrogated",
+    "a",
+    "suspect"
+   ],
+   "reading": "",
+   "meaning": "Cô ấy đã tra hỏi một nghi phạm."
+  },
+  {
+   "tokens": [
+    "He's",
+    "supporting",
+    "you",
+    "voluntarily"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đang tự nguyện hỗ trợ bạn."
+  },
+  {
+   "tokens": [
+    "He",
+    "turned",
+    "a",
+    "somersault"
+   ],
+   "reading": "",
+   "meaning": "Anh ấy đã nhảy một cú lộn nhào."
+  }
+ ],
+ "issues": []
+}

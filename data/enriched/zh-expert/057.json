@@ -1,0 +1,330 @@
+{
+ "lesson": 57,
+ "draft": true,
+ "words": [
+  {
+   "term": "又名",
+   "meaning": "còn gọi là, tên khác",
+   "example": "我们来学“又名”这个词。",
+   "exampleMeaning": "Cùng học từ “又名”: còn gọi là, tên khác.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yòumíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "车子",
+   "meaning": "xe",
+   "example": "我们来学“车子”这个词。",
+   "exampleMeaning": "Cùng học từ “车子”: xe.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chēzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "壮实",
+   "meaning": "chắc nịch, vạm vỡ",
+   "example": "这小伙子长得多壮实！",
+   "exampleMeaning": "Thằng bé này chắc nịch hà！",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuàngshi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "逐年",
+   "meaning": "qua từng năm, hằng năm",
+   "example": "产量逐年增长",
+   "exampleMeaning": "Sản lượng tăng mỗi năm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhúnián",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "播种",
+   "meaning": "gieo hạt, gieo giống",
+   "example": "我们来学“播种”这个词。",
+   "exampleMeaning": "Cùng học từ “播种”: gieo hạt, gieo giống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bōzhǒng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "轻型",
+   "meaning": "loại nhẹ, hạng nhẹ",
+   "example": "我们来学“轻型”这个词。",
+   "exampleMeaning": "Cùng học từ “轻型”: loại nhẹ, hạng nhẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qīngxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "波折",
+   "meaning": "trắc trở, sóng gió",
+   "example": "几经波折，养殖场终于办起来了。",
+   "exampleMeaning": "Trải qua bao trắc trở, rốt cuộc cũng xây xong trại chăn nuôi",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bōzhé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "专线",
+   "meaning": "đường dây riêng, tuyến chuyên dụng",
+   "example": "我们来学“专线”这个词。",
+   "exampleMeaning": "Cùng học từ “专线”: đường dây riêng, tuyến chuyên dụng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānxiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "水流",
+   "meaning": "dòng nước, dòng chảy",
+   "example": "河道经过疏浚，水流畅通。",
+   "exampleMeaning": "Dòng sông được nạo vét, nước chảy dễ dàng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shuǐliú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "空隙",
+   "meaning": "khe hở, khoảng trống",
+   "example": "农作物行间要有一定的空隙。",
+   "exampleMeaning": "Giữa các hàng cây nông nghiệp phải có những khoảng trống nhất định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kòngxì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "学派",
+   "meaning": "trường phái",
+   "example": "我们来学“学派”这个词。",
+   "exampleMeaning": "Cùng học từ “学派”: trường phái.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuépài",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "出土",
+   "meaning": "khai quật, đào được",
+   "example": "这一批铜器是在寿县出土的。",
+   "exampleMeaning": "Số đồ đồng này được khai quật ở huyện Thọ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chūtǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "侍候",
+   "meaning": "hầu hạ, phục vụ",
+   "example": "侍候父母。",
+   "exampleMeaning": "Hầu hạ cha mẹ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìhòu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "沐浴露",
+   "meaning": "sữa tắm",
+   "example": "我们来学“沐浴露”这个词。",
+   "exampleMeaning": "Cùng học từ “沐浴露”: sữa tắm.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "mùyùlù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "洗涤剂",
+   "meaning": "chất tẩy rửa",
+   "example": "我们来学“洗涤剂”这个词。",
+   "exampleMeaning": "Cùng học từ “洗涤剂”: chất tẩy rửa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xǐdíjì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "瘫",
+   "meaning": "bại liệt, liệt",
+   "example": "瘫在床上，不能下地。",
+   "exampleMeaning": "Liệt nằm trên giường, không thể xuống đất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tān",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "产区",
+   "meaning": "vùng sản xuất, vùng trồng",
+   "example": "我们来学“产区”这个词。",
+   "exampleMeaning": "Cùng học từ “产区”: vùng sản xuất, vùng trồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chǎnqū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "世袭",
+   "meaning": "cha truyền con nối, thế tập",
+   "example": "我们来学“世袭”这个词。",
+   "exampleMeaning": "Cùng học từ “世袭”: cha truyền con nối, thế tập.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shìxí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "孝敬",
+   "meaning": "hiếu kính, biếu",
+   "example": "他带了些南边的土产来孝敬老奶奶。",
+   "exampleMeaning": "Anh ấy đã mang về một ít đặc sản miền Nam biếu bà nội.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàojìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "独身",
+   "meaning": "độc thân",
+   "example": "十几年独身在外。",
+   "exampleMeaning": "Mười mấy năm sống một mình ở ngoài.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dúshēn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "那是",
+    "一",
+    "只",
+    "有",
+    "恶意",
+    "的",
+    "兔子"
+   ],
+   "reading": "nàshi yī zhī yǒu èyì de tùzi",
+   "meaning": "Đó là một con thỏ hung ác."
+  },
+  {
+   "tokens": [
+    "由于",
+    "噪音",
+    "我们",
+    "无法",
+    "入睡"
+   ],
+   "reading": "yóuyú zàoyīn wǒmen wúfǎ rùshuì",
+   "meaning": "Chúng tôi không ngủ được vì ồn quá."
+  },
+  {
+   "tokens": [
+    "你",
+    "喜欢",
+    "棒球",
+    "到",
+    "什么",
+    "程度"
+   ],
+   "reading": "nǐ xǐhuan bàngqiú dào shénme chéngdù",
+   "meaning": "Bạn mê bóng chày cỡ nào?"
+  },
+  {
+   "tokens": [
+    "近来",
+    "各",
+    "方面",
+    "都",
+    "有所",
+    "改进"
+   ],
+   "reading": "jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn",
+   "meaning": "Gần đây tất cả đều được cải tiến toàn diện."
+  },
+  {
+   "tokens": [
+    "我",
+    "发誓",
+    "我",
+    "看",
+    "到",
+    "了",
+    "外星人"
+   ],
+   "reading": "wǒ fāshì wǒ kàn dào le wàixīngrén",
+   "meaning": "Tôi thề là tôi đã thấy người ngoài hành tinh!"
+  }
+ ],
+ "issues": []
+}

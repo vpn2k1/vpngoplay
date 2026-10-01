@@ -1,0 +1,326 @@
+{
+ "lesson": 68,
+ "draft": true,
+ "words": [
+  {
+   "term": "wield",
+   "meaning": "vung, nắm giữ (quyền lực)",
+   "example": "to wield the pen",
+   "exampleMeaning": "Viết",
+   "emoji": "",
+   "ipa": "/ˈwild/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "expend",
+   "meaning": "tiêu tốn, bỏ ra",
+   "example": "Let's learn the word \"expend\".",
+   "exampleMeaning": "Cùng học từ “expend”: tiêu tốn, bỏ ra.",
+   "emoji": "",
+   "ipa": "/ɪkˈspɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "tanker",
+   "meaning": "tàu chở dầu, xe bồn",
+   "example": "Let's learn the word \"tanker\".",
+   "exampleMeaning": "Cùng học từ “tanker”: tàu chở dầu, xe bồn.",
+   "emoji": "",
+   "ipa": "/ˈtæŋkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reappear",
+   "meaning": "xuất hiện lại",
+   "example": "Let's learn the word \"reappear\".",
+   "exampleMeaning": "Cùng học từ “reappear”: xuất hiện lại.",
+   "emoji": "",
+   "ipa": "/ˌriəˈpɪr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "transcend",
+   "meaning": "vượt qua, vượt lên",
+   "example": "Let's learn the word \"transcend\".",
+   "exampleMeaning": "Cùng học từ “transcend”: vượt qua, vượt lên.",
+   "emoji": "",
+   "ipa": "/trænˈsɛnd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "emigrate",
+   "meaning": "di cư, xuất cảnh",
+   "example": "They are going to emigrate to America.",
+   "exampleMeaning": "Họ định di cư sang Mỹ.",
+   "emoji": "",
+   "ipa": "/ˈɛməˌɡreɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "ulcer",
+   "meaning": "vết loét",
+   "example": "Let's learn the word \"ulcer\".",
+   "exampleMeaning": "Cùng học từ “ulcer”: vết loét.",
+   "emoji": "",
+   "ipa": "/ˈəlsɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "localize",
+   "meaning": "khoanh vùng, bản địa hóa",
+   "example": "Let's learn the word \"localize\".",
+   "exampleMeaning": "Cùng học từ “localize”: khoanh vùng, bản địa hóa.",
+   "emoji": "",
+   "ipa": "/ˈloʊkəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "ordeal",
+   "meaning": "cơn thử thách, nỗi khổ",
+   "example": "to experience a serve ordeal",
+   "exampleMeaning": "Trải qua một sự thử thách gay go",
+   "emoji": "",
+   "ipa": "/ɔːˈdiːl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "underscore",
+   "meaning": "nhấn mạnh, gạch dưới",
+   "example": "Let's learn the word \"underscore\".",
+   "exampleMeaning": "Cùng học từ “underscore”: nhấn mạnh, gạch dưới.",
+   "emoji": "",
+   "ipa": "/ˌəndɜrˈskɔr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "blot",
+   "meaning": "vết bẩn, vết nhơ, thấm",
+   "example": "a blot on the landscape",
+   "exampleMeaning": "Cái làm hại, cái làm đẹp chung",
+   "emoji": "",
+   "ipa": "/ˈblɑt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "ovdp"
+   }
+  },
+  {
+   "term": "procurement",
+   "meaning": "mua sắm, thu mua",
+   "example": "Let's learn the word \"procurement\".",
+   "exampleMeaning": "Cùng học từ “procurement”: mua sắm, thu mua.",
+   "emoji": "",
+   "ipa": "/proʊkˈjʊrmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "amnesty",
+   "meaning": "ân xá",
+   "example": "Let's learn the word \"amnesty\".",
+   "exampleMeaning": "Cùng học từ “amnesty”: ân xá.",
+   "emoji": "",
+   "ipa": "/ˈæmnəsti/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "sociological",
+   "meaning": "(thuộc) xã hội học",
+   "example": "Let's learn the word \"sociological\".",
+   "exampleMeaning": "Cùng học từ “sociological”: (thuộc) xã hội học.",
+   "emoji": "",
+   "ipa": "/ˌsoʊsiəˈlɑdʒɪkəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "unpublished",
+   "meaning": "chưa xuất bản, chưa công bố",
+   "example": "Let's learn the word \"unpublished\".",
+   "exampleMeaning": "Cùng học từ “unpublished”: chưa xuất bản, chưa công bố.",
+   "emoji": "",
+   "ipa": "/ənˈpəblɪʃt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "multitude",
+   "meaning": "vô số, đám đông",
+   "example": "the voice of the multitude",
+   "exampleMeaning": "Tiếng nói của quần chúng",
+   "emoji": "",
+   "ipa": "/ˈməltəˌtud/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "thereof",
+   "meaning": "của điều đó, của nó",
+   "example": "Let's learn the word \"thereof\".",
+   "exampleMeaning": "Cùng học từ “thereof”: của điều đó, của nó.",
+   "emoji": "",
+   "ipa": "/ˌðɛˈrəv/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "overflow",
+   "meaning": "tràn, tràn ngập",
+   "example": "to overflow with love",
+   "exampleMeaning": "Chan chứa tình yêu thương",
+   "emoji": "",
+   "ipa": "/ˈoʊvɜrˌfloʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "fortify",
+   "meaning": "củng cố, gia cố",
+   "example": "to fortify one's courage",
+   "exampleMeaning": "Củng cố lòng dũng cảm",
+   "emoji": "",
+   "ipa": "/ˈfɔrtɪˌfaɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bovine",
+   "meaning": "(thuộc) bò, chậm chạp",
+   "example": "a look of bovine stupidity",
+   "exampleMeaning": "Nhìn ngu như bò",
+   "emoji": "",
+   "ipa": "/ˈboʊˌvaɪn/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Today's",
+    "Europeans",
+    "are",
+    "too",
+    "naive"
+   ],
+   "reading": "",
+   "meaning": "Người châu Âu ngày nay quá ngây thơ."
+  },
+  {
+   "tokens": [
+    "I",
+    "enjoyed",
+    "feeding",
+    "the",
+    "pigeons"
+   ],
+   "reading": "",
+   "meaning": "Tôi thích thú khi cho chim bồ câu ăn."
+  },
+  {
+   "tokens": [
+    "Our",
+    "teacher",
+    "is",
+    "always",
+    "chill"
+   ],
+   "reading": "",
+   "meaning": "Giáo viên của chúng tôi lúc nào cũng thoải mái."
+  },
+  {
+   "tokens": [
+    "We",
+    "went",
+    "astray",
+    "in",
+    "the",
+    "woods"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi đã đi lạc trong rừng."
+  },
+  {
+   "tokens": [
+    "That's",
+    "the",
+    "way",
+    "the",
+    "cookie",
+    "crumbles"
+   ],
+   "reading": "",
+   "meaning": "Bánh quy vỡ ra nhưng thế này nè."
+  }
+ ],
+ "issues": []
+}

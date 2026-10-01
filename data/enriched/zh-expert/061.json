@@ -1,0 +1,344 @@
+{
+ "lesson": 61,
+ "draft": true,
+ "words": [
+  {
+   "term": "孩儿",
+   "meaning": "đứa con, con trẻ",
+   "example": "我们来学“孩儿”这个词。",
+   "exampleMeaning": "Cùng học từ “孩儿”: đứa con, con trẻ.",
+   "emoji": "🧒",
+   "ipa": "",
+   "pinyin": "háir",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "呼风唤雨",
+   "meaning": "hô mưa gọi gió",
+   "example": "我们来学“呼风唤雨”这个词。",
+   "exampleMeaning": "Cùng học từ “呼风唤雨”: hô mưa gọi gió.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūfēnghuànyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "振兴",
+   "meaning": "chấn hưng, phục hưng",
+   "example": "振兴工业",
+   "exampleMeaning": "Chấn hưng ngành công nghiệp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhènxīng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "黄土",
+   "meaning": "hoàng thổ, đất vàng",
+   "example": "黄土高原",
+   "exampleMeaning": "Cao nguyên hoàng thổ",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "huángtǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "害死",
+   "meaning": "hại chết, làm chết",
+   "example": "我们来学“害死”这个词。",
+   "exampleMeaning": "Cùng học từ “害死”: hại chết, làm chết.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàisǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "乡长",
+   "meaning": "xã trưởng, chủ tịch xã",
+   "example": "我们来学“乡长”这个词。",
+   "exampleMeaning": "Cùng học từ “乡长”: xã trưởng, chủ tịch xã.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiāngzhǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "第一手",
+   "meaning": "trực tiếp, tận nguồn",
+   "example": "第一手材料",
+   "exampleMeaning": "Tài liệu trực tiếp.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dìyīshǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "大为",
+   "meaning": "rất, vô cùng",
+   "example": "大为提高",
+   "exampleMeaning": "Hết sức đề cao",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàwéi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "俗语",
+   "meaning": "tục ngữ",
+   "example": "我们来学“俗语”这个词。",
+   "exampleMeaning": "Cùng học từ “俗语”: tục ngữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "súyǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "病变",
+   "meaning": "biến đổi bệnh lý, tổn thương",
+   "example": "我们来学“病变”这个词。",
+   "exampleMeaning": "Cùng học từ “病变”: biến đổi bệnh lý, tổn thương.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìngbiàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "历届",
+   "meaning": "các khóa trước, các kỳ trước",
+   "example": "历届人民代表大会。",
+   "exampleMeaning": "Đại hội đại biểu các nhiệm kỳ trước.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lìjiè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "交界",
+   "meaning": "giáp ranh, biên giới chung",
+   "example": "云南省南部跟越南、老挝和缅甸交界。",
+   "exampleMeaning": "Phía nam tỉnh Vân Nam giáp giới với Việt Nam, Lào và Miến Điện.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jiāojiè",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "差额",
+   "meaning": "số chênh lệch, khoản thiếu",
+   "example": "补足差额。",
+   "exampleMeaning": "Bù đủ chỗ thiếu hụt.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chāé",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "科举",
+   "meaning": "khoa cử",
+   "example": "我们来学“科举”这个词。",
+   "exampleMeaning": "Cùng học từ “科举”: khoa cử.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kējǔ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "门当户对",
+   "meaning": "môn đăng hộ đối",
+   "example": "旧社会, 男女联姻讲究门当户对。",
+   "exampleMeaning": "Xã hội thời xưa, nam nữ kết hôn rất chú ý đến chuyện môn đăng hộ đối",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "méndānghùduì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "绿地",
+   "meaning": "khu cây xanh",
+   "example": "我们来学“绿地”这个词。",
+   "exampleMeaning": "Cùng học từ “绿地”: khu cây xanh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "lǜdì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "诏令",
+   "meaning": "chiếu chỉ, chiếu lệnh",
+   "example": "我们来学“诏令”这个词。",
+   "exampleMeaning": "Cùng học từ “诏令”: chiếu chỉ, chiếu lệnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhàolìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "部下",
+   "meaning": "bộ hạ, thuộc hạ",
+   "example": "我们来学“部下”这个词。",
+   "exampleMeaning": "Cùng học từ “部下”: bộ hạ, thuộc hạ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bùxià",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "有两下子",
+   "meaning": "có tài, có nghề",
+   "example": "小张一会儿就把电视机修理好了，他有两下子，我佩服他！",
+   "exampleMeaning": "Tiểu Trương một lúc đã sửa xong cái tivi, anh ấy có thực lực, tôi khâm phục anh ấy!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yǒuliǎngxiàzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "旱",
+   "meaning": "hạn hán, khô hạn",
+   "example": "今年遇旱。",
+   "exampleMeaning": "Năm nay gặp hạn hán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "如果",
+    "没有",
+    "太阳",
+    "那",
+    "所有",
+    "生物",
+    "都",
+    "会",
+    "死"
+   ],
+   "reading": "rúguǒ méiyǒu tàiyang nà suǒyǒu shēngwù dōu huì sǐ",
+   "meaning": "Nếu không có mặt trời thì tất cả động vật đều sẽ chết"
+  },
+  {
+   "tokens": [
+    "事实",
+    "证明",
+    "了",
+    "我们",
+    "的",
+    "担心",
+    "是",
+    "多余",
+    "的"
+   ],
+   "reading": "shìshí zhèngmíng le wǒmen de dānxīn shì duōyú de",
+   "meaning": "Sự thật chứng minh rằng những gì chúng tôi lo lắng là dư thừa."
+  },
+  {
+   "tokens": [
+    "不",
+    "立即",
+    "解决",
+    "那",
+    "桩",
+    "事",
+    "会",
+    "马上",
+    "告吹",
+    "的"
+   ],
+   "reading": "bù lìjí jiějué nà zhuāng shì huì mǎshàng gàochuī de",
+   "meaning": "Không giải quyết ngay thì việc đó sẽ hỏng bây giờ đây."
+  },
+  {
+   "tokens": [
+    "与此同时",
+    "电台",
+    "也",
+    "播出",
+    "了",
+    "这",
+    "条",
+    "消息"
+   ],
+   "reading": "yǔcǐtóngshí diàntái yě bōchū le zhè tiáo xiāoxi",
+   "meaning": "Cùng lúc đó, đài truyền hình cũng phát sóng tin tức này."
+  },
+  {
+   "tokens": [
+    "刚才",
+    "是",
+    "和",
+    "你",
+    "闹着玩儿",
+    "的",
+    "你",
+    "别",
+    "当真"
+   ],
+   "reading": "gāngcái shì hé nǐ nàozhewánr de nǐ bié dàngzhēn",
+   "meaning": "Vừa nãy là đùa với cậu thôi, cậu đừng tưởng thật."
+  }
+ ],
+ "issues": []
+}

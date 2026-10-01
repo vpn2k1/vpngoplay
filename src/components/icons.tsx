@@ -29,6 +29,7 @@ import FrontFacingBabyChick from '~icons/fluent-emoji/front-facing-baby-chick'
 import GlowingStar from '~icons/fluent-emoji/glowing-star'
 import GraduationCap from '~icons/fluent-emoji/graduation-cap'
 import DeciduousTree from '~icons/fluent-emoji/deciduous-tree'
+import SnowCappedMountain from '~icons/fluent-emoji/snow-capped-mountain'
 import Hammer from '~icons/fluent-emoji/hammer'
 import Hamster from '~icons/fluent-emoji/hamster'
 import KnockedOutFace from '~icons/fluent-emoji/knocked-out-face'
@@ -101,11 +102,12 @@ export type IconType = ComponentType<SVGProps<SVGSVGElement>>
 
 export const FLAG: Record<Lang, IconType> = { en: FlagGb, ja: FlagJp, zh: FlagCn }
 export const TRACK_ICON: Record<Track, IconType> = { kids: Child, work: Briefcase, exam: GraduationCap }
-/** Course levels grow like a plant: seedling → herb → tree */
+/** Course levels grow like a plant: seedling → herb → tree, then the summit past the standard lists */
 export const COURSE_ICON: Record<CourseLevel, IconType> = {
   basic: Seedling,
   intermediate: Herb,
   advanced: DeciduousTree,
+  expert: SnowCappedMountain,
 }
 /** Friendly guide character per language */
 export const MASCOT: Record<Lang, IconType> = { en: Owl, ja: Fox, zh: Panda }

@@ -1,0 +1,329 @@
+{
+ "lesson": 43,
+ "draft": true,
+ "words": [
+  {
+   "term": "robe",
+   "meaning": "áo choàng",
+   "example": "the long robe",
+   "exampleMeaning": "Áo choàng của luật sư",
+   "emoji": "",
+   "ipa": "/ˈroʊb/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "meadow",
+   "meaning": "đồng cỏ",
+   "example": "Let's learn the word \"meadow\".",
+   "exampleMeaning": "Cùng học từ “meadow”: đồng cỏ.",
+   "emoji": "",
+   "ipa": "/ˈmɛˌdoʊ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "jerk",
+   "meaning": "giật mạnh, kẻ đáng ghét",
+   "example": "to jerk the door open",
+   "exampleMeaning": "Giật mở tung cửa ra",
+   "emoji": "",
+   "ipa": "/ˈdʒɜrk/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "backdrop",
+   "meaning": "phông nền, bối cảnh",
+   "example": "Let's learn the word \"backdrop\".",
+   "exampleMeaning": "Cùng học từ “backdrop”: phông nền, bối cảnh.",
+   "emoji": "",
+   "ipa": "/ˈbækˌdrɑp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "entrepreneurial",
+   "meaning": "có óc kinh doanh",
+   "example": "Let's learn the word \"entrepreneurial\".",
+   "exampleMeaning": "Cùng học từ “entrepreneurial”: có óc kinh doanh.",
+   "emoji": "",
+   "ipa": "/ˌɑntrəprəˈnɜriəl/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "deliberation",
+   "meaning": "cân nhắc, thảo luận",
+   "example": "to act with deliberation",
+   "exampleMeaning": "Hành động thận trọng",
+   "emoji": "",
+   "ipa": "/dɪˌlɪbɜrˈeɪʃən/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "acknowledgement",
+   "meaning": "thừa nhận, lời cảm ơn",
+   "example": "Let's learn the word \"acknowledgement\".",
+   "exampleMeaning": "Cùng học từ “acknowledgement”: thừa nhận, lời cảm ơn.",
+   "emoji": "",
+   "ipa": "/ækˈnɑlɪdʒmənt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "shutter",
+   "meaning": "cửa chớp, màn trập",
+   "example": "Let's learn the word \"shutter\".",
+   "exampleMeaning": "Cùng học từ “shutter”: cửa chớp, màn trập.",
+   "emoji": "",
+   "ipa": "/ˈʃətɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "vault",
+   "meaning": "hầm (ngân hàng), két, nhảy qua",
+   "example": "to vault over a gate",
+   "exampleMeaning": "Nhảy qua cổng",
+   "emoji": "",
+   "ipa": "/ˈvɔlt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "anomaly",
+   "meaning": "dị thường, bất thường",
+   "example": "Let's learn the word \"anomaly\".",
+   "exampleMeaning": "Cùng học từ “anomaly”: dị thường, bất thường.",
+   "emoji": "",
+   "ipa": "/əˈnɑməli/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "efficacy",
+   "meaning": "hiệu lực, công hiệu",
+   "example": "Let's learn the word \"efficacy\".",
+   "exampleMeaning": "Cùng học từ “efficacy”: hiệu lực, công hiệu.",
+   "emoji": "",
+   "ipa": "/ˈɛfɪˌkæsi/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "forgiveness",
+   "meaning": "tha thứ",
+   "example": "to be full of forgiveness",
+   "exampleMeaning": "Có lòng khoan dung, dễ tha thứ",
+   "emoji": "",
+   "ipa": "/fɜrˈɡɪvnəs/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "bait",
+   "meaning": "mồi, nhử",
+   "example": "Let's learn the word \"bait\".",
+   "exampleMeaning": "Cùng học từ “bait”: mồi, nhử.",
+   "emoji": "",
+   "ipa": "/ˈbeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "reiterate",
+   "meaning": "nhắc lại, nhấn mạnh lại",
+   "example": "Let's learn the word \"reiterate\".",
+   "exampleMeaning": "Cùng học từ “reiterate”: nhắc lại, nhấn mạnh lại.",
+   "emoji": "",
+   "ipa": "/riˈɪtɜrˌeɪt/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "cramp",
+   "meaning": "chuột rút",
+   "example": "to be taken with a cramp",
+   "exampleMeaning": "Bị chuột rút",
+   "emoji": "",
+   "ipa": "/ˈkræmp/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "wiktionary"
+   }
+  },
+  {
+   "term": "withstand",
+   "meaning": "chịu được, chống chọi",
+   "example": "Robots can withstand dangerous conditions.",
+   "exampleMeaning": "Robot có thể hoạt động trong điều kiện nguy hiểm.",
+   "emoji": "",
+   "ipa": "/wɪθˈstænd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "replay",
+   "meaning": "phát lại, đấu lại",
+   "example": "Let's learn the word \"replay\".",
+   "exampleMeaning": "Cùng học từ “replay”: phát lại, đấu lại.",
+   "emoji": "",
+   "ipa": "/riˈpleɪ/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "liquor",
+   "meaning": "rượu mạnh",
+   "example": "Your liquor license is out of date.",
+   "exampleMeaning": "Giấy phép bán rượu của bạn hết hạn rồi.",
+   "emoji": "",
+   "ipa": "/ˈlɪkɜr/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "keyword",
+   "meaning": "từ khóa",
+   "example": "Let's learn the word \"keyword\".",
+   "exampleMeaning": "Cùng học từ “keyword”: từ khóa.",
+   "emoji": "",
+   "ipa": "/ˈkiˌwɜrd/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "symbolize",
+   "meaning": "tượng trưng",
+   "example": "Let's learn the word \"symbolize\".",
+   "exampleMeaning": "Cùng học từ “symbolize”: tượng trưng.",
+   "emoji": "",
+   "ipa": "/ˈsɪmbəˌlaɪz/",
+   "pinyin": "",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "Are",
+    "you",
+    "trying",
+    "to",
+    "lose",
+    "weight"
+   ],
+   "reading": "",
+   "meaning": "Bạn đang cố giảm cân có đúng không?"
+  },
+  {
+   "tokens": [
+    "Don't",
+    "put",
+    "me",
+    "on",
+    "a",
+    "pedestal"
+   ],
+   "reading": "",
+   "meaning": "Đừng tôn thờ tôi!"
+  },
+  {
+   "tokens": [
+    "We",
+    "were",
+    "trying",
+    "to",
+    "protect",
+    "you"
+   ],
+   "reading": "",
+   "meaning": "Chúng tôi lúc đó đang cố gắng bảo vệ bạn."
+  },
+  {
+   "tokens": [
+    "Someone",
+    "was",
+    "trying",
+    "to",
+    "break",
+    "in"
+   ],
+   "reading": "",
+   "meaning": "Ai đó đã cố gắng đột nhập vào."
+  },
+  {
+   "tokens": [
+    "The",
+    "corpse",
+    "didn't",
+    "show",
+    "any",
+    "wounds"
+   ],
+   "reading": "",
+   "meaning": "Cái xác không có bất kỳ vết thương nào."
+  }
+ ],
+ "issues": []
+}

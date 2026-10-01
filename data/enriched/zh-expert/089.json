@@ -1,0 +1,326 @@
+{
+ "lesson": 89,
+ "draft": true,
+ "words": [
+  {
+   "term": "填报",
+   "meaning": "điền và nộp, kê khai",
+   "example": "每周填报工程进度。",
+   "exampleMeaning": "Mỗi tuần khai báo tiến độ công trình.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tiánbào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "稳定性",
+   "meaning": "tính ổn định",
+   "example": "我们来学“稳定性”这个词。",
+   "exampleMeaning": "Cùng học từ “稳定性”: tính ổn định.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wěndìngxìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "审定",
+   "meaning": "thẩm định, duyệt",
+   "example": "审定生产计划。",
+   "exampleMeaning": "Xem xét kế hoạch sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěndìng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "忘不了",
+   "meaning": "không quên được",
+   "example": "我们来学“忘不了”这个词。",
+   "exampleMeaning": "Cùng học từ “忘不了”: không quên được.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wàngbùliǎo",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "自理",
+   "meaning": "tự lo liệu, tự chăm sóc",
+   "example": "他卧病在床，生活不能自理。",
+   "exampleMeaning": "Anh ấy bị bệnh nằm trên giường, không thể lo liệu cho cuộc sống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zìlǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "椰子",
+   "meaning": "dừa, cây dừa",
+   "example": "我们来学“椰子”这个词。",
+   "exampleMeaning": "Cùng học từ “椰子”: dừa, cây dừa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yēzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "长期以来",
+   "meaning": "từ lâu nay, lâu nay",
+   "example": "我们来学“长期以来”这个词。",
+   "exampleMeaning": "Cùng học từ “长期以来”: từ lâu nay, lâu nay.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "chángqīyǐlái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "小子",
+   "meaning": "chàng trai trẻ, tiểu tử",
+   "example": "这小子真坏！",
+   "exampleMeaning": "Thằng cha này tệ thật.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎozǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "廉正",
+   "meaning": "liêm chính",
+   "example": "廉正无私。",
+   "exampleMeaning": "Liêm chính vô tư.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "liánzhèng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "方才",
+   "meaning": "vừa mới, lúc nãy",
+   "example": "方才的情形，他都知道了。",
+   "exampleMeaning": "Tình hình lúc nãy anh ấy đã biết cả rồi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fāngcái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "风浪",
+   "meaning": "sóng gió",
+   "example": "风浪大，船颠簸得很厉害。",
+   "exampleMeaning": "Sóng to gió lớn, thuyền chòng chành rất dữ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fēnglàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "祖籍",
+   "meaning": "quê gốc, nguyên quán",
+   "example": "我们来学“祖籍”这个词。",
+   "exampleMeaning": "Cùng học từ “祖籍”: quê gốc, nguyên quán.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zǔjí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "穴位",
+   "meaning": "huyệt, huyệt đạo",
+   "example": "我们来学“穴位”这个词。",
+   "exampleMeaning": "Cùng học từ “穴位”: huyệt, huyệt đạo.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xuéwèi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "惊诧",
+   "meaning": "kinh ngạc",
+   "example": "这是意料中的事，我们并不感到惊诧。",
+   "exampleMeaning": "Chuyện này nằm trong dự liệu, nên chúng tôi không cảm thấy ngạc nhiên.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "jīngchà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "文雅",
+   "meaning": "nho nhã, lịch sự",
+   "example": "举止文雅",
+   "exampleMeaning": "Cử chỉ nho nhã",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "wényǎ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "脱口而出",
+   "meaning": "buột miệng nói ra",
+   "example": "我们来学“脱口而出”这个词。",
+   "exampleMeaning": "Cùng học từ “脱口而出”: buột miệng nói ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "tuōkǒuérchū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "名牌",
+   "meaning": "hàng hiệu, thương hiệu lớn, bảng tên",
+   "example": "名牌商品。",
+   "exampleMeaning": "Hàng mang nhãn hiệu nổi tiếng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "míngpái",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "小弟",
+   "meaning": "em trai, đàn em",
+   "example": "我们来学“小弟”这个词。",
+   "exampleMeaning": "Cùng học từ “小弟”: em trai, đàn em.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiǎodì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "放出",
+   "meaning": "thả ra, tỏa ra, phát ra",
+   "example": "我们来学“放出”这个词。",
+   "exampleMeaning": "Cùng học từ “放出”: thả ra, tỏa ra, phát ra.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "fàngchū",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "秀美",
+   "meaning": "thanh tú, xinh đẹp",
+   "example": "书法秀美",
+   "exampleMeaning": "Chữ viết rất đẹp",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiùměi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "呻吟",
+    "未",
+    "止",
+    "忘",
+    "良医"
+   ],
+   "reading": "shēnyín wèi zhǐ wàng liángyī",
+   "meaning": "Chưa khỏi rên đã quên thầy."
+  },
+  {
+   "tokens": [
+    "她",
+    "经受",
+    "得",
+    "够",
+    "多",
+    "了"
+   ],
+   "reading": "tā jīngshòu de gòu duō le",
+   "meaning": "Nó đã trải qua rất nhiều chuyện rồi."
+  },
+  {
+   "tokens": [
+    "上帝",
+    "创造",
+    "了",
+    "天地"
+   ],
+   "reading": "shàngdì chuàngzào le tiāndì",
+   "meaning": "Chúa đã tạo ra \"Trời\" và \"Đất\"."
+  },
+  {
+   "tokens": [
+    "你",
+    "别",
+    "再",
+    "跟",
+    "他",
+    "争吵",
+    "了"
+   ],
+   "reading": "nǐ bié zài gēn tā zhēngchǎo le",
+   "meaning": "Anh đừng cãi nhau với nó nữa."
+  },
+  {
+   "tokens": [
+    "飞机",
+    "消失",
+    "在",
+    "丛林",
+    "中"
+   ],
+   "reading": "fēijī xiāoshī zài cónglín zhōng",
+   "meaning": "Máy bay biến mất vào trong rừng."
+  }
+ ],
+ "issues": []
+}

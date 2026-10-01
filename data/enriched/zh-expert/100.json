@@ -1,0 +1,319 @@
+{
+ "lesson": 100,
+ "draft": true,
+ "words": [
+  {
+   "term": "搞笑",
+   "meaning": "gây cười, hài hước",
+   "example": "这部影片中有许多搞笑的镜头,吸引了不少观众,票房收入跃居第一.",
+   "exampleMeaning": "Phim mới này có rất nhiều cảnh tiếu lâm nên lôi cuốn nhiều người xem, và đạt doanh thu kỷ lục",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gǎoxiào",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "河畔",
+   "meaning": "bờ sông, ven sông",
+   "example": "我们来学“河畔”这个词。",
+   "exampleMeaning": "Cùng học từ “河畔”: bờ sông, ven sông.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hépàn",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "低迷",
+   "meaning": "ảm đạm, trì trệ",
+   "example": "我们来学“低迷”这个词。",
+   "exampleMeaning": "Cùng học từ “低迷”: ảm đạm, trì trệ.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dīmí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "共同体",
+   "meaning": "cộng đồng",
+   "example": "我们来学“共同体”这个词。",
+   "exampleMeaning": "Cùng học từ “共同体”: cộng đồng.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "gòngtóngtǐ",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "一言一行",
+   "meaning": "lời ăn tiếng nói, nhất cử nhất động",
+   "example": "我们来学“一言一行”这个词。",
+   "exampleMeaning": "Cùng học từ “一言一行”: lời ăn tiếng nói, nhất cử nhất động.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yīyányīxíng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "省会",
+   "meaning": "tỉnh lỵ, thủ phủ tỉnh",
+   "example": "我们来学“省会”这个词。",
+   "exampleMeaning": "Cùng học từ “省会”: tỉnh lỵ, thủ phủ tỉnh.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shěnghuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "时辰",
+   "meaning": "canh giờ, thời khắc",
+   "example": "时辰到。",
+   "exampleMeaning": "Thời cơ đến.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shíchen",
+   "source": {
+    "meaning": "reviewed",
+    "example": "tatoeba"
+   }
+  },
+  {
+   "term": "厚度",
+   "meaning": "độ dày",
+   "example": "我们来学“厚度”这个词。",
+   "exampleMeaning": "Cùng học từ “厚度”: độ dày.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hòudù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "休想",
+   "meaning": "đừng hòng",
+   "example": "你要骗人，休想！",
+   "exampleMeaning": "Anh muốn lừa người khác hả, đừng hòng!",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiūxiǎng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "带走",
+   "meaning": "mang đi, đem đi",
+   "example": "我们来学“带走”这个词。",
+   "exampleMeaning": "Cùng học từ “带走”: mang đi, đem đi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "dàizǒu",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "下坠",
+   "meaning": "rơi xuống, trĩu xuống",
+   "example": "我们来学“下坠”这个词。",
+   "exampleMeaning": "Cùng học từ “下坠”: rơi xuống, trĩu xuống.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "xiàzhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "食宿",
+   "meaning": "ăn ở",
+   "example": "我们来学“食宿”这个词。",
+   "exampleMeaning": "Cùng học từ “食宿”: ăn ở.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shísù",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "专项",
+   "meaning": "chuyên đề, chuyên biệt",
+   "example": "专项训练",
+   "exampleMeaning": "Chuyên mục huấn luyện",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "zhuānxiàng",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "与会",
+   "meaning": "dự họp",
+   "example": "与会人员",
+   "exampleMeaning": "Nhân viên tham gia hội nghị",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "yùhuì",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "求医",
+   "meaning": "đi chữa bệnh, tìm thầy thuốc",
+   "example": "我们来学“求医”这个词。",
+   "exampleMeaning": "Cùng học từ “求医”: đi chữa bệnh, tìm thầy thuốc.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "qiúyī",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "括弧",
+   "meaning": "dấu ngoặc đơn",
+   "example": "我们来学“括弧”这个词。",
+   "exampleMeaning": "Cùng học từ “括弧”: dấu ngoặc đơn.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "kuòhú",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "卷子",
+   "meaning": "bánh cuộn hấp, nem cuốn",
+   "example": "发卷子。",
+   "exampleMeaning": "Phát bài thi.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "juǎnzi",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "壁画",
+   "meaning": "bích họa, tranh tường",
+   "example": "敦煌壁画",
+   "exampleMeaning": "Bích hoạ Đôn hoàng",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "bìhuà",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  },
+  {
+   "term": "生产总值",
+   "meaning": "tổng giá trị sản xuất",
+   "example": "我们来学“生产总值”这个词。",
+   "exampleMeaning": "Cùng học từ “生产总值”: tổng giá trị sản xuất.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "shēngchǎnzǒngzhí",
+   "source": {
+    "meaning": "reviewed",
+    "example": "template"
+   }
+  },
+  {
+   "term": "忽地",
+   "meaning": "bỗng, thình lình",
+   "example": "忽地下起雨来。",
+   "exampleMeaning": "Bỗng nhiên trời đổ mưa.",
+   "emoji": "",
+   "ipa": "",
+   "pinyin": "hūde",
+   "source": {
+    "meaning": "reviewed",
+    "example": "trungviet"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "tokens": [
+    "他",
+    "让步",
+    "了"
+   ],
+   "reading": "tā ràngbù le",
+   "meaning": "Anh ta đã nhượng bộ."
+  },
+  {
+   "tokens": [
+    "你",
+    "很",
+    "害羞"
+   ],
+   "reading": "nǐ hěn hàixiū",
+   "meaning": "Bạn rất nhút nhát."
+  },
+  {
+   "tokens": [
+    "哦",
+    "有",
+    "一",
+    "只",
+    "蝴蝶"
+   ],
+   "reading": "ó yǒu yī zhī húdié",
+   "meaning": "Ô kìa, con bươm bướm!"
+  },
+  {
+   "tokens": [
+    "他",
+    "吃",
+    "了",
+    "毒",
+    "蘑菇"
+   ],
+   "reading": "tā chī le dú mógu",
+   "meaning": "Nó ăn phải nấm độc."
+  },
+  {
+   "tokens": [
+    "不",
+    "要",
+    "虐待",
+    "动物"
+   ],
+   "reading": "bù yào nüèdài dòngwù",
+   "meaning": "Đừng ngược đãi động vật."
+  }
+ ],
+ "issues": []
+}
