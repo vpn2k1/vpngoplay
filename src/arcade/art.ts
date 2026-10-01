@@ -101,6 +101,10 @@ export function preloadSprites() {
   for (const name of Object.keys(SVG) as SpriteName[]) sprite(name)
 }
 
+// Only canvas games import this module (its SVGs are ~370 KB): start decoding as soon as one does,
+// while the learner is still in its menu. Games without a canvas never load it.
+preloadSprites()
+
 export interface SpriteOptions {
   rotate?: number
   flipX?: boolean
@@ -122,6 +126,31 @@ export function drawSprite(
   drawImageSprite(ctx, sprite(name), x, y, size, options)
 }
 
+const rasters = new WeakMap<HTMLImageElement, Map<string, HTMLCanvasElement>>()
+const DPR = typeof window === 'undefined' ? 1 : Math.min(2, window.devicePixelRatio || 1)
+
+/**
+ * The picture rasterised once per size step (and filter). Drawing the vector SVG itself every frame
+ * re-renders all its shapes each time — about 6× slower than copying a bitmap, and ~40× with a
+ * filter such as hue-rotate — which made the canvas games stutter on phones.
+ */
+function raster(img: HTMLImageElement, size: number, filter?: string) {
+  const px = Math.min(512, Math.max(32, Math.ceil((size * DPR) / 32) * 32))
+  const key = `${px}|${filter ?? ''}`
+  let bySize = rasters.get(img)
+  if (!bySize) rasters.set(img, (bySize = new Map()))
+  let canvas = bySize.get(key)
+  if (!canvas) {
+    canvas = document.createElement('canvas')
+    canvas.width = canvas.height = px
+    const c = canvas.getContext('2d')!
+    if (filter) c.filter = filter
+    c.drawImage(img, 0, 0, px, px)
+    bySize.set(key, canvas)
+  }
+  return canvas
+}
+
 /** Like drawSprite(), for an image made with svgImage(). */
 export function drawImageSprite(
   ctx: CanvasRenderingContext2D,
@@ -131,14 +160,13 @@ export function drawImageSprite(
   size: number,
   { rotate = 0, flipX = false, scaleY = 1, alpha = 1, filter }: SpriteOptions = {},
 ) {
-  if (!img.complete || !img.naturalWidth) return
+  if (!img.complete || !img.naturalWidth || size <= 0) return
   ctx.save()
   ctx.globalAlpha *= alpha
   ctx.translate(x, y)
   ctx.rotate(rotate)
   ctx.scale(flipX ? -1 : 1, scaleY)
-  if (filter) ctx.filter = filter
-  ctx.drawImage(img, -size / 2, -size / 2, size, size)
+  ctx.drawImage(raster(img, size, filter), -size / 2, -size / 2, size, size)
   ctx.restore()
 }
 

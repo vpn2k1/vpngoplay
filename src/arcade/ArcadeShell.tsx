@@ -110,8 +110,6 @@ export function ArcadeShell({
   const modeInfo = modes.find((m) => m.id === mode) ?? modes[0]
 
   const start = () => {
-    // Keep the shared SVG sprites out of the game setup route until a round starts.
-    void import('./art').then(({ preloadSprites }) => preloadSprites())
     finished.current = false
     setRound((r) => r + 1)
     setPaused(false)

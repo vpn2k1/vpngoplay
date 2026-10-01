@@ -5,6 +5,7 @@ import { z } from 'zod'
 import { ArcadeShell } from '../../arcade/ArcadeShell'
 import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
 import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
+import { vocabQuery } from '../../arcade/vocab'
 import { Bookmark, Dices, GraduationCap } from 'lucide-react'
 import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, Scroll, TRACK_ICON } from '../../components/icons'
 import { OffPath, cx } from '../../components/ui'
@@ -20,7 +21,7 @@ import {
   savedWordsOf,
   type ReviewSource,
 } from '../../lib/review'
-import { useLang } from '../../lib/lang'
+import { currentLang, useLang } from '../../lib/lang'
 import { useProgress } from '../../lib/store'
 import { TRACK_PLAN, deckOnPath, partition, useTrack } from '../../lib/track'
 import { COURSE_LABEL, TRACKS, type CourseSummary, type Deck } from '../../lib/types'
@@ -34,8 +35,14 @@ export const Route = createFileRoute('/games/$gameId')({
   beforeLoad: ({ params }) => {
     if (!(params.gameId in ARCADE_GAMES)) throw notFound()
   },
-  loader: ({ context }) =>
-    Promise.all([context.queryClient.ensureQueryData(catalogQuery), context.queryClient.ensureQueryData(coursesQuery)]),
+  loader: ({ context, params }) =>
+    Promise.all([
+      context.queryClient.ensureQueryData(catalogQuery),
+      context.queryClient.ensureQueryData(coursesQuery),
+      // Word games that check answers against the whole vocabulary get it before they start.
+      (ARCADE_GAMES[params.gameId as ArcadeGameId] as ArcadeGame | undefined)?.vocab &&
+        context.queryClient.ensureQueryData(vocabQuery(currentLang())),
+    ]),
   component: GamePage,
 })
 

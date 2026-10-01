@@ -278,7 +278,8 @@ export function Whack({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
                           : { y: 0 }
                     }
                     exit={{ y: '110%', transition: { duration: 0.2 } }}
-                    transition={{ type: 'spring', stiffness: 400, damping: 22 }}
+                    // springs only take two keyframes: the multi-keyframe "wrong" shake on x needs a tween
+                    transition={{ type: 'spring', stiffness: 400, damping: 22, x: { type: 'tween', duration: 0.4 } }}
                     className="absolute inset-x-0 bottom-3 flex flex-col items-center"
                   >
                     <span

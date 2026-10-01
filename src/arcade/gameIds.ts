@@ -22,6 +22,11 @@ export const ARCADE_GAME_IDS = [
   'catch',
   'tictactoe',
   'snakesladders',
+  'bomb',
+  'crossword',
+  'wordle',
+  'wordchain',
+  'wordwheel',
 ] as const
 
 export type ArcadeGameId = (typeof ARCADE_GAME_IDS)[number]

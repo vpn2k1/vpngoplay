@@ -42,6 +42,36 @@ export function searchSettings(lang: Lang, hard: boolean, kids: boolean): Search
   }
 }
 
+/** Seconds per hidden word before the clock runs out (the puzzle is lost then). */
+export const SECONDS_PER_WORD = { easy: 36, hard: 30, kids: 48 } as const
+
+/** The puzzle's time limit: seconds per word, rounded up to a whole 10 seconds. */
+export function searchTimeLimit(words: number, hard: boolean, kids: boolean) {
+  const perWord = kids ? SECONDS_PER_WORD.kids : hard ? SECONDS_PER_WORD.hard : SECONDS_PER_WORD.easy
+  return Math.ceil((words * perWord) / 10) * 10
+}
+
+/** Hints per puzzle and what each one costs. */
+export const searchHints = (kids: boolean) => ({ count: kids ? 5 : 3, cost: 5 })
+
+/**
+ * Which word a hint goes to: the clue the learner picked if it is still hidden and can take another
+ * hint (a word takes two: its first cell, then its last), else the first such word in clue order.
+ * -1 when no word can take a hint.
+ */
+export function hintTarget(
+  words: number,
+  found: readonly number[],
+  hinted: Readonly<Record<number, number>>,
+  picked: number | null,
+) {
+  const open = (i: number) => !found.includes(i) && (hinted[i] ?? 0) < 2
+  if (picked !== null && picked >= 0 && picked < words && open(picked)) return picked
+  for (let i = 0; i < words; i++) if (open(i) && !hinted[i]) return i
+  for (let i = 0; i < words; i++) if (open(i)) return i
+  return -1
+}
+
 const KANA = /^[\p{Script=Hiragana}\p{Script=Katakana}ー]$/u
 const HAN = /^\p{Script=Han}$/u
 const baseLetter = (ch: string) => ch.replace(/[đĐ]/g, 'd').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()

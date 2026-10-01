@@ -523,7 +523,12 @@ export function Catch({ deck, mode, pace, paused, onGameOver }: ArcadeGameProps)
           onPointerDown={(e) => {
             e.preventDefault()
             if (paused || g.done || g.endIn !== null) return
-            e.currentTarget.setPointerCapture(e.pointerId)
+            // capture keeps the drag going when the finger leaves the element; the drag works without it
+            try {
+              e.currentTarget.setPointerCapture(e.pointerId)
+            } catch {
+              // the pointer is already gone
+            }
             g.drag = e.pointerId
             steer(e)
           }}

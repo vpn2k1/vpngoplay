@@ -89,14 +89,35 @@ type Manifest = Partial<Record<Lang, Record<string, string>>>
 const AUDIO_BASE = ((import.meta.env.VITE_AUDIO_BASE_URL as string | undefined) || '/audio').replace(/\/$/, '')
 let manifest: Manifest = {}
 if (typeof window !== 'undefined') {
-  fetch(`${AUDIO_BASE}/manifest.json`)
-    .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : {}))
-    .then((m: Manifest) => (manifest = m))
-    .catch(() => {})
+  // Not needed to show the first page (and it grows with every clip): fetch it once the browser is
+  // idle. Anything spoken before it arrives uses the browser voice.
+  const load = () =>
+    fetch(`${AUDIO_BASE}/manifest.json`)
+      .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : {}))
+      .then((m: Manifest) => (manifest = m))
+      .catch(() => {})
+  if ('requestIdleCallback' in window) requestIdleCallback(load, { timeout: 2000 })
+  else setTimeout(load, 1000)
 }
 
 export function hasRecording(text: string, lang: Lang) {
   return Boolean(manifest[lang]?.[text])
+}
+
+const warmed = new Set<string>()
+
+/**
+ * Downloads the clips of words about to be spoken (games call it for the next words they will ask),
+ * so speak() plays them from the cache instead of waiting for the network while the word is on screen.
+ */
+export function prefetchSpeech(texts: readonly string[], lang: Lang) {
+  if (typeof window === 'undefined') return
+  for (const text of texts) {
+    const file = manifest[lang]?.[text]
+    if (!file || warmed.has(file)) continue
+    warmed.add(file)
+    fetch(`${AUDIO_BASE}/${file}`).catch(() => warmed.delete(file))
+  }
 }
 
 let currentAudio: HTMLAudioElement | null = null

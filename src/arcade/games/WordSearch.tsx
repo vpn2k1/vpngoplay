@@ -1,5 +1,5 @@
 import confetti from 'canvas-confetti'
-import { Flag, Trophy } from 'lucide-react'
+import { Flag, Lightbulb, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
 import { useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from 'react'
 import MagnifyingGlass from '~icons/fluent-emoji/magnifying-glass-tilted-left'
@@ -12,11 +12,14 @@ import type { ArcadeGameProps } from '../ArcadeShell'
 import { createWordSource, readingOf } from '../challenge'
 import { useDebugState, useGameLoop, useGameState } from '../engine'
 import {
+  hintTarget,
   lineBetween,
   makeSearchPuzzle,
   matchSelection,
   pickSearchWords,
+  searchHints,
   searchSettings,
+  searchTimeLimit,
   searchableWords,
   snapEnd,
   type SearchPuzzle,
@@ -24,8 +27,12 @@ import {
 
 /** One colour per hidden word: its capsule on the grid, its clue's dot and strike */
 const COLORS = ['#0ea5e9', '#f59e0b', '#10b981', '#8b5cf6', '#f97316', '#ec4899', '#84cc16', '#14b8a6']
-/** Words revealed after giving up */
+/** Words revealed after giving up or running out of time */
 const MISSED = '#f43f5e'
+/** Hint marks on the grid */
+const HINT = '#f59e0b'
+/** The clock turns red below this many seconds */
+const HURRY = 30
 /** Seconds after the last word is found / the rest are revealed before the results */
 const END_DELAY = 1.8
 const REVEAL_DELAY = 4
@@ -96,7 +103,14 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
   const [cursor, setCursor] = useState<number | null>(null)
   const [miss, setMiss] = useState<{ cells: number[]; n: number } | null>(null)
   const [confirmQuit, setConfirmQuit] = useState(false)
+  /** seconds left on the clock */
   const [seconds, setSeconds] = useState(0)
+  const [timeUp, setTimeUp] = useState(false)
+  /** hints given per word index: 1 = first cell shown, 2 = first and last */
+  const [hinted, setHinted] = useState<Record<number, number>>({})
+  /** the clue the learner tapped (where the next hint goes) */
+  const [clue, setClue] = useState<number | null>(null)
+  const hintRules = searchHints(kids)
   const boardRef = useRef<HTMLDivElement>(null)
   const drag = useRef<{ pointer: number; anchor: number; line: number[]; moved: boolean } | null>(null)
   const g = useGameState(() => ({
@@ -105,6 +119,11 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     /** indexes of the words found, in order */
     found: [] as number[],
     time: 0,
+    /** seconds allowed for this puzzle */
+    limit: 0,
+    timeUp: false,
+    hints: 0,
+    hinted: {} as Record<number, number>,
     wrong: 0,
     /** all found or given up: the clock stops, results follow after `endIn` */
     over: false,
@@ -123,7 +142,9 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     const picked = pickSearchWords(lang, settings.count, (taken) => source.next(taken))
     const p = makeSearchPuzzle(picked, lang, settings, deck.words)
     g.puzzle = p
+    g.limit = searchTimeLimit(p.words.length, hard, kids)
     setPuzzle(p)
+    setSeconds(g.limit)
     // A deck without a single word that fits a grid ends straight away rather than hanging.
     if (!p.words.length) g.over = true
   }
@@ -135,18 +156,19 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     const words = p?.words ?? []
     const n = words.length
     const all = n > 0 && g.found.length === n
-    const time = Math.round(g.time)
+    const time = Math.round(Math.min(g.time, g.limit || g.time))
     const points = words.filter((_, i) => g.found.includes(i)).reduce((sum, w) => sum + 10 + w.pieces.length * 3, 0)
-    const bonus = all ? Math.max(0, n * (hard ? 30 : 20) - time) : 0
+    // finishing early earns the seconds left on the clock
+    const bonus = all ? Math.max(0, Math.round(g.limit - g.time)) : 0
     onGameOver({
-      score: Math.round(points * (hard ? 1.5 : 1)) + bonus,
+      score: Math.max(0, Math.round(points * (hard ? 1.5 : 1)) + bonus - g.hints * hintRules.cost),
       xp: Math.min(60, 5 + g.found.length * 6 + (all ? 5 : 0)),
-      stars: all ? (time <= n * (hard ? 20 : 15) ? 3 : 2) : g.found.length > 0 ? 1 : 0,
+      stars: all ? (g.hints === 0 && time <= n * (hard ? 20 : 15) ? 3 : 2) : g.found.length * 2 >= n ? 1 : 0,
       stats: [
         ['Tìm thấy', `${g.found.length}/${n}`],
-        ['Thời gian', formatTime(time)],
-        ['Chọn trượt', g.wrong],
-        ['Lưới chữ', `${p?.size ?? size}×${p?.size ?? size}`],
+        ['Thời gian', `${formatTime(time)} / ${formatTime(g.limit)}`],
+        ['Gợi ý', g.hints],
+        ['Kết quả', all ? 'Hoàn thành' : g.timeUp ? 'Hết giờ' : 'Bỏ cuộc'],
       ],
       missed: words.filter((_, i) => !g.found.includes(i)).map((w) => w.word),
     })
@@ -156,12 +178,44 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     if (!g.dealt) deal()
     if (!g.over) {
       g.time += dt
-      if (Math.floor(g.time) !== seconds) setSeconds(Math.floor(g.time))
+      const left = Math.max(0, Math.ceil(g.limit - g.time))
+      if (left !== seconds) {
+        setSeconds(left)
+        if (left > 0 && left <= 5) sfx.tap() // the last seconds tick
+      }
+      if (g.limit > 0 && g.time >= g.limit) outOfTime()
       return
     }
     g.endIn -= dt
     if (g.endIn <= 0) finish()
   }, !paused && !g.done)
+
+  /** The clock ran out: the puzzle is lost and the words still hidden are shown. */
+  const outOfTime = () => {
+    g.over = true
+    g.timeUp = true
+    g.endIn = REVEAL_DELAY
+    cancelDrag()
+    setTapStart(null)
+    setCursor(null)
+    setConfirmQuit(false)
+    setTimeUp(true)
+    setRevealed(true)
+    sfx.hit()
+  }
+
+  /** Shows where a hidden word starts (first hint) and ends (second hint), for a few points. */
+  const hint = () => {
+    const p = g.puzzle
+    if (!p || !canPlay() || g.hints >= hintRules.count) return
+    const target = hintTarget(p.words.length, g.found, g.hinted, clue)
+    if (target < 0) return
+    g.hints++
+    g.hinted = { ...g.hinted, [target]: (g.hinted[target] ?? 0) + 1 }
+    setHinted(g.hinted)
+    setClue(target)
+    sfx.flip()
+  }
 
   /** Checks a selected line of cells against the words still hidden. */
   const submit = (line: number[]) => {
@@ -183,6 +237,7 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     }
     g.found.push(index)
     setFound((f) => [...f, { index, cells: line }])
+    if (clue === index) setClue(null)
     speak(p.words[index].word.term, lang)
     if (g.found.length < p.words.length) {
       sfx.correct()
@@ -232,7 +287,12 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     const { x, y } = pointerCell(e)
     if (x < 0 || y < 0 || x >= size || y >= size) return
     e.preventDefault()
-    e.currentTarget.setPointerCapture(e.pointerId)
+    // capture keeps the drag going when the finger leaves the element; the drag works without it
+    try {
+      e.currentTarget.setPointerCapture(e.pointerId)
+    } catch {
+      // the pointer is already gone
+    }
     const anchor = Math.floor(y) * size + Math.floor(x)
     drag.current = { pointer: e.pointerId, anchor, line: [anchor], moved: false }
     setCursor(null)
@@ -325,14 +385,38 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
 
   return (
     <div className="space-y-3">
-      <div className="flex items-center gap-2 text-sm font-bold">
-        <span className="inline-flex items-center gap-1 rounded-full bg-amber-100 py-1 pr-3 pl-2 text-amber-800 dark:bg-amber-950 dark:text-amber-300">
+      <div className="flex items-center gap-1.5 text-sm font-bold sm:gap-2">
+        <span className="inline-flex shrink-0 items-center gap-1 rounded-full bg-amber-100 py-1 pr-2.5 pl-2 whitespace-nowrap text-amber-800 dark:bg-amber-950 dark:text-amber-300">
           <MagnifyingGlass className="size-4" aria-hidden /> {found.length}/{total}
         </span>
-        <span className="rounded-full bg-slate-200 px-3 py-1 font-mono tabular-nums dark:bg-slate-800">
-          {formatTime(seconds)}
+        <span
+          className={cx(
+            'shrink-0 rounded-full px-2.5 py-1 font-mono whitespace-nowrap tabular-nums transition-colors',
+            puzzle && !over && seconds <= HURRY
+              ? 'animate-pulse bg-rose-500 text-white'
+              : 'bg-slate-200 dark:bg-slate-800',
+          )}
+          title="Thời gian còn lại — hết giờ là thua"
+        >
+          ⏱ {formatTime(seconds)}
         </span>
         <span className="flex-1" />
+        <button
+          type="button"
+          onClick={(e) => {
+            e.currentTarget.blur()
+            hint()
+          }}
+          disabled={!puzzle || over || g.hints >= hintRules.count}
+          title={`Gợi ý: khoanh chữ đầu, rồi chữ cuối của một từ (−${hintRules.cost} điểm)`}
+          className="inline-flex shrink-0 items-center gap-1 rounded-2xl border-2 border-b-4 border-amber-300 bg-white px-2 py-1.5 whitespace-nowrap text-amber-700 transition hover:bg-amber-50 active:translate-y-0.5 disabled:opacity-40 dark:bg-slate-800 dark:text-amber-300"
+        >
+          <Lightbulb className="size-4" />
+          <span className="max-[380px]:sr-only">Gợi ý</span>
+          <span className="rounded-full bg-amber-100 px-1.5 text-xs dark:bg-amber-950">
+            {hintRules.count - g.hints}
+          </span>
+        </button>
         <button
           type="button"
           onClick={(e) => {
@@ -341,7 +425,7 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
           }}
           disabled={!puzzle}
           className={cx(
-            'inline-flex items-center gap-1.5 rounded-2xl border-2 border-b-4 px-3 py-1.5 transition active:translate-y-0.5 disabled:opacity-40',
+            'inline-flex shrink-0 items-center gap-1.5 rounded-2xl border-2 border-b-4 px-2.5 py-1.5 whitespace-nowrap transition active:translate-y-0.5 disabled:opacity-40',
             over
               ? 'border-indigo-700 bg-indigo-500 text-white'
               : confirmQuit
@@ -350,7 +434,7 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
           )}
         >
           {over ? <Trophy className="size-4" /> : <Flag className="size-4" />}
-          {over ? 'Xem kết quả' : confirmQuit ? 'Chắc chưa? Bấm lần nữa' : 'Bỏ cuộc'}
+          {over ? 'Kết quả' : confirmQuit ? 'Bấm lần nữa' : 'Bỏ cuộc'}
         </button>
       </div>
 
@@ -403,6 +487,26 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
                         transition={{ duration: 0.6 }}
                       />
                     )}
+                    {!over &&
+                      Object.entries(hinted).flatMap(([index, level]) => {
+                        const w = puzzle.words[Number(index)]
+                        if (!w || foundSet.has(Number(index))) return []
+                        const ends = level >= 2 ? [w.cells[0], w.cells[w.cells.length - 1]] : [w.cells[0]]
+                        return ends.map((cell, k) => (
+                          <motion.circle
+                            key={`h${index}-${k}`}
+                            cx={(cell % size) + 0.5}
+                            cy={Math.floor(cell / size) + 0.5}
+                            r={0.44}
+                            fill={HINT}
+                            fillOpacity={0.18}
+                            stroke={HINT}
+                            strokeWidth={0.09}
+                            animate={{ opacity: [1, 0.35, 1] }}
+                            transition={{ duration: 1.2, repeat: Infinity, ease: 'easeInOut' }}
+                          />
+                        ))
+                      })}
                     {selection && <Capsule size={size} cells={selection} color="#6366f1" opacity={0.35} />}
                     {tapStart !== null && (
                       <circle
@@ -455,6 +559,17 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
               ) : (
                 <div className="flex size-full items-center justify-center font-bold text-slate-400">Đang xếp chữ…</div>
               )}
+              {timeUp && (
+                <motion.div
+                  initial={{ scale: 0.5, opacity: 0 }}
+                  animate={{ scale: 1, opacity: 1 }}
+                  className="pointer-events-none absolute inset-0 flex items-center justify-center"
+                >
+                  <span className="rounded-3xl border-4 border-white bg-gradient-to-br from-rose-500 to-orange-500 px-6 py-2 text-3xl font-black text-white shadow-2xl">
+                    ⏰ Hết giờ!
+                  </span>
+                </motion.div>
+              )}
             </div>
           </div>
         </div>
@@ -472,10 +587,17 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
                   animate={isFound ? { scale: [1, 1.08, 1] } : { scale: 1 }}
                   transition={{ type: 'tween', duration: 0.35 }}
                   style={isFound ? { borderColor: color } : undefined}
+                  // tapping a clue picks the word the next hint goes to
+                  onClick={() => !isFound && !over && setClue(clue === i ? null : i)}
                   className={cx(
                     'flex max-w-full min-w-0 items-center gap-2 rounded-2xl border-2 border-b-4 bg-white px-3 py-1.5 dark:bg-slate-800',
+                    !isFound && !over && 'cursor-pointer',
                     !isFound && revealed && 'border-rose-200 dark:border-rose-900',
-                    !isFound && !revealed && 'border-amber-200 dark:border-slate-700',
+                    !isFound &&
+                      !revealed &&
+                      clue === i &&
+                      'border-amber-400 ring-2 ring-amber-300 dark:border-amber-500',
+                    !isFound && !revealed && clue !== i && 'border-amber-200 dark:border-slate-700',
                   )}
                 >
                   <span
@@ -503,6 +625,9 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
                     >
                       {kids && w.word.emoji && <span className="mr-1">{w.word.emoji}</span>}
                       {meaningAnswers(w.word)[0] ?? w.word.meaning}
+                      {!isFound && hinted[i] ? (
+                        <Lightbulb className="ml-1 inline size-3.5 text-amber-500" aria-label="đã gợi ý" />
+                      ) : null}
                     </span>
                     {(isFound || revealed) && (
                       <span className="block leading-tight">
@@ -529,8 +654,8 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
       </div>
 
       <p className="text-center text-xs text-slate-500">
-        Kéo qua các chữ, hoặc chạm chữ đầu rồi chữ cuối ·{' '}
-        {hard ? 'từ nằm theo cả 8 hướng, kể cả viết ngược' : 'từ nằm ngang (→) hoặc dọc (↓)'}
+        Kéo qua các chữ, hoặc chạm chữ đầu rồi chữ cuối · hết giờ là thua · chạm một nghĩa rồi bấm Gợi ý để khoanh chữ
+        đầu/cuối của từ đó · {hard ? 'từ nằm theo cả 8 hướng, kể cả viết ngược' : 'từ nằm ngang (→) hoặc dọc (↓)'}
         {lang === 'ja' ? ' · tìm bằng kana' : ''}
       </p>
     </div>

@@ -296,7 +296,7 @@ export function Snowman({ deck, mode, paused, onGameOver }: ArcadeGameProps) {
     if (!r.wrong.length) g.perfect++
     g.played++
     g.results.push(true)
-    g.nextIn = 1.8
+    g.nextIn = 1.3
     setRound({ ...r, status: 'solved', points, shake: undefined })
     sfx.correct()
     confetti({

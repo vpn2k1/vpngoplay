@@ -11,6 +11,7 @@ import { japaneseKey, meaningAnswers, pinyinKey, wordAnswers } from '../lib/answ
 import { cardKey, wordCardKey, type SrsCard } from '../lib/srs'
 import { LANGS, type Deck, type Lang, type Track, type Word } from '../lib/types'
 import { normalizeAnswer, shuffle } from '../lib/utils'
+import { prefetchSpeech } from '../lib/speech'
 import { deckRotation, type Rotation } from './rotation'
 
 export type StandardMode = 'meaning' | 'write' | 'choice' | 'reverse'
@@ -256,6 +257,8 @@ export function createWordSource(deck: Deck, srs: Record<string, SrsCard>, rotat
       const [word] = from.splice(i, 1)
       dealt.push(word)
       rotation.served(word.id)
+      // the next words will be spoken soon: fetch their clips now
+      prefetchSpeech([word.term, ...bag.slice(0, 2).map((w) => w.term)], deck.lang)
       return word
     },
   }

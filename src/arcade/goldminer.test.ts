@@ -75,7 +75,8 @@ describe('mineLabel', () => {
     expect(label.size).toBe(15)
   })
 
-  it('never cuts or overflows a real label (meanings and words from every deck)', () => {
+  // checks thousands of labels: slow when the whole suite runs in parallel
+  it('never cuts or overflows a real label (meanings and words from every deck)', { timeout: 30_000 }, () => {
     const labels = new Set<string>()
     for (const d of decks)
       for (const w of d.words) {

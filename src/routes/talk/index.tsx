@@ -79,7 +79,7 @@ function DialogueGrid({ dialogues }: { dialogues: DialogueSummary[] }) {
             key={d.id}
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * 0.04 }}
+            transition={{ delay: Math.min(i, 6) * 0.03 }}
           >
             <Link
               to="/talk/$dialogueId"

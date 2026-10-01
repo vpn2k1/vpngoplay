@@ -31,7 +31,7 @@ import {
 const TIME = 30
 const KIDS_TIME = 45
 /** The "final answer" pause before the picked answer turns green or red */
-const SUSPENSE = 1.5
+const SUSPENSE = 1
 const LETTERS = ['A', 'B', 'C', 'D']
 const HOTKEYS = [
   ['1', 'a', 'A'],
@@ -157,7 +157,7 @@ export function Millionaire({ deck, mode, paused, onGameOver }: ArcadeGameProps)
       outcome = g.level >= LADDER.length ? 'win' : 'right'
     } else g.missed.push(q.word)
     g.phase = 'reveal'
-    g.wait = outcome === 'right' ? 1.8 : outcome === 'win' ? 4.5 : 3
+    g.wait = outcome === 'right' ? 1.2 : outcome === 'win' ? 4.5 : 3
     show({ ...q, outcome })
     if (outcome === 'win') {
       sfx.win()

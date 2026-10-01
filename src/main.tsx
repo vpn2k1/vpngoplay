@@ -26,6 +26,15 @@ declare module '@tanstack/react-router' {
 
 installAudioUnlock()
 
+// Each tab's code loads on its first visit. Fetch the main tabs' code once the browser is idle, so
+// the first switch is instant on phones too (desktop already preloads on hover).
+const preloadTabs = () => {
+  for (const id of ['/', '/games/', '/review', '/community'] as const)
+    router.loadRouteChunk(router.routesById[id])?.catch(() => {})
+}
+if ('requestIdleCallback' in window) requestIdleCallback(preloadTabs, { timeout: 5000 })
+else setTimeout(preloadTabs, 3000)
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <QueryClientProvider client={queryClient}>

@@ -24,6 +24,16 @@ html {
   color-scheme: light dark;
 }
 
+/* Illustrated icons are <img> elements (see iconAsImage in vite.config.ts). Same default size as the
+   inline SVGs they replace; in the base layer, so size-* utilities always win. */
+@layer base {
+  img.fluent-icon {
+    width: 1.2em;
+    height: 1.2em;
+    max-width: none;
+  }
+}
+
 /* Grid children default to min-width: auto, so a truncated title or a long word would widen its
    column past a small screen. Zero specificity: an explicit min-w-* class still wins. */
 :where(.grid) > * {

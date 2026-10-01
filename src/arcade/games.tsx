@@ -7,6 +7,7 @@ import { SCRIPT_SETS } from './scripts'
 
 export type { ArcadeGameId } from './gameIds'
 
+const Bomb = lazy(() => import('./games/Bomb').then((m) => ({ default: m.Bomb })))
 const Bingo = lazy(() => import('./games/Bingo').then((m) => ({ default: m.Bingo })))
 const Catch = lazy(() => import('./games/Catch').then((m) => ({ default: m.Catch })))
 const Dino = lazy(() => import('./games/Dino').then((m) => ({ default: m.Dino })))
@@ -14,6 +15,7 @@ const Fishing = lazy(() => import('./games/Fishing').then((m) => ({ default: m.F
 const Flappy = lazy(() => import('./games/Flappy').then((m) => ({ default: m.Flappy })))
 const GoldMiner = lazy(() => import('./games/GoldMiner').then((m) => ({ default: m.GoldMiner })))
 const GoldenBell = lazy(() => import('./games/GoldenBell').then((m) => ({ default: m.GoldenBell })))
+const KeywordPuzzle = lazy(() => import('./games/KeywordPuzzle').then((m) => ({ default: m.KeywordPuzzle })))
 const Memory = lazy(() => import('./games/Memory').then((m) => ({ default: m.Memory })))
 const Millionaire = lazy(() => import('./games/Millionaire').then((m) => ({ default: m.Millionaire })))
 const Penalty = lazy(() => import('./games/Penalty').then((m) => ({ default: m.Penalty })))
@@ -27,7 +29,10 @@ const Spell = lazy(() => import('./games/Spell').then((m) => ({ default: m.Spell
 const TicTacToe = lazy(() => import('./games/TicTacToe').then((m) => ({ default: m.TicTacToe })))
 const TrueFalse = lazy(() => import('./games/TrueFalse').then((m) => ({ default: m.TrueFalse })))
 const Tug = lazy(() => import('./games/Tug').then((m) => ({ default: m.Tug })))
+const WordChain = lazy(() => import('./games/WordChain').then((m) => ({ default: m.WordChain })))
+const WordWheel = lazy(() => import('./games/WordWheel').then((m) => ({ default: m.WordWheel })))
 const WordSearch = lazy(() => import('./games/WordSearch').then((m) => ({ default: m.WordSearch })))
+const Wordle = lazy(() => import('./games/Wordle').then((m) => ({ default: m.Wordle })))
 const Whack = lazy(() => import('./games/Whack').then((m) => ({ default: m.Whack })))
 
 export interface ArcadeGame {
@@ -45,6 +50,8 @@ export interface ArcadeGame {
   usesDeck?: boolean
   /** false when nothing moves on its own (the speed setting does not apply) */
   paced?: boolean
+  /** The game uses the language's whole vocabulary (vocab.ts): the game page preloads it */
+  vocab?: boolean
 }
 
 export const ARCADE_GAMES = {
@@ -342,13 +349,14 @@ export const ARCADE_GAMES = {
     title: 'Tìm từ',
     icon: '🔍',
     color: 'from-emerald-400 to-teal-600',
-    blurb: 'Tìm các từ giấu trong bảng chữ',
+    blurb: 'Tìm các từ giấu trong bảng chữ trước khi hết giờ',
     intro:
-      'Các từ đang trốn trong bảng chữ! Đọc nghĩa tiếng Việt, tìm từ đó rồi kéo tay qua các chữ để khoanh lại. Tìm hết thật nhanh để được nhiều điểm.',
+      'Các từ đang trốn trong bảng chữ! Đọc nghĩa tiếng Việt, tìm từ đó rồi kéo tay qua các chữ để khoanh lại. Tìm hết trước khi đồng hồ về 0 — hết giờ là thua.',
     controls: [
       'Kéo qua các chữ theo hàng ngang, dọc hoặc chéo — hoặc chạm chữ đầu rồi chữ cuối',
-      'Tiếng Anh tìm chữ cái, tiếng Nhật tìm kana, tiếng Trung tìm chữ Hán',
-      'Phím mũi tên + Enter cũng chọn được · Bỏ cuộc (bấm 2 lần) để xem đáp án · Esc: tạm dừng',
+      'Đồng hồ đếm ngược (Dễ 36 giây mỗi từ, Khó 30, trẻ em 48) · hết giờ thì thua và lộ các từ còn lại',
+      'Gợi ý (3 lần, trẻ em 5, −5 điểm): khoanh chữ đầu, lần sau khoanh thêm chữ cuối · chạm một nghĩa để chọn từ cần gợi ý',
+      'Tiếng Anh tìm chữ cái, tiếng Nhật tìm kana, tiếng Trung tìm chữ Hán · Bỏ cuộc (bấm 2 lần) · Esc: tạm dừng',
     ],
     modes: () => [
       { id: 'easy', icon: '🌱', label: 'Dễ', hint: '5 từ, nằm ngang → hoặc dọc ↓' },
@@ -422,6 +430,151 @@ export const ARCADE_GAMES = {
     modes: (lang) => [standardMode('choice', lang), standardMode('reverse', lang)],
     Game: SnakesLadders,
   },
+  bomb: {
+    id: 'bomb',
+    title: 'Bom hẹn giờ',
+    icon: '💣',
+    color: 'from-orange-500 to-red-700',
+    blurb: 'Trả lời đúng để chuyền quả bom đang cháy ngòi trước khi nó nổ',
+    intro:
+      'Bạn và 3 robot ngồi thành vòng tròn, chuyền tay một quả bom đang cháy ngòi. Ai cầm bom phải trả lời đúng mới được chuyền đi — và không ai biết khi nào bom nổ! Nổ trong tay robot thì robot bị loại, nổ trong tay bạn thì mất một mạng.',
+    controls: [
+      'Chế độ chọn: phím 1–4 (trẻ em 1–3) hoặc chạm đáp án · chế độ gõ: gõ đúng là bom tự bay đi',
+      'Đúng: bom bay sang người kế bên · sai hoặc bỏ qua: giữ bom thêm 2 giây rồi trả lời câu mới',
+      'Bom kêu tích tắc nhanh dần khi sắp nổ · loại cả 3 robot là thắng, hết 3 mạng là thua · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      standardMode('choice', lang),
+      standardMode('reverse', lang),
+      standardMode('meaning', lang),
+      standardMode('write', lang),
+    ],
+    Game: Bomb,
+  },
+  crossword: {
+    id: 'crossword',
+    paced: false,
+    vocab: true,
+    title: 'Giải ô chữ',
+    icon: '🔑',
+    color: 'from-sky-400 to-indigo-600',
+    blurb: 'Giải các hàng ngang để tìm từ khóa hàng dọc',
+    intro:
+      'Như trong Đường lên đỉnh Olympia! Mỗi hàng ngang là một từ, gợi ý là nghĩa tiếng Việt của nó. Cột màu vàng chạy dọc qua các hàng giấu một từ khóa — đoán ra càng sớm, thưởng càng lớn.',
+    controls: [
+      'Chạm một hàng (hoặc phím số 1–9, ↑ ↓) để xem gợi ý, gõ đáp án rồi Enter hoặc nút ✓',
+      'Gõ tiếng Anh, romaji/kana/kanji hoặc pinyin/chữ Hán · sai 2 lần thì hàng đó tự mở',
+      '“Đoán từ khóa” bất cứ lúc nào: đúng được 20 điểm + 15 điểm mỗi hàng chưa mở, sai bị trừ 10 điểm và chờ 10 giây',
+      'Mỗi ô chữ 3 phút (trẻ em 1 ô chữ, còn lại 2) · Bỏ cuộc (bấm 2 lần) để xem đáp án · Esc: tạm dừng',
+    ],
+    modes: () => [
+      { id: 'easy', icon: '🌱', label: 'Dễ', hint: 'Mỗi hàng lộ sẵn chữ cái / kana / chữ Hán đầu tiên' },
+      { id: 'hard', icon: '🧠', label: 'Khó', hint: 'Không lộ chữ nào — chỉ có nghĩa tiếng Việt' },
+    ],
+    Game: KeywordPuzzle,
+  },
+  wordle: {
+    id: 'wordle',
+    paced: false,
+    vocab: true,
+    title: 'Đoán chữ',
+    icon: '🟩',
+    color: 'from-emerald-400 to-lime-600',
+    blurb: 'Đoán từ bí mật trong 6 lượt, ô màu chỉ đường',
+    intro:
+      'Một từ đang được giấu! Bạn có 6 lượt đoán. Sau mỗi lượt, ô xanh là chữ đúng chỗ, ô vàng là chữ có trong từ nhưng sai chỗ, ô xám là chữ không có. Mỗi ván 3 từ (trẻ em 2).',
+    controls: [
+      'Tiếng Anh: gõ từ 5 chữ cái (chế độ Khó: 6) bằng bàn phím hoặc chạm chữ · Enter: đoán · ⌫: xoá',
+      'Tiếng Nhật: chạm kana, ゛ ゜ 小 đổi chữ vừa gõ (か→が, は→ぱ, つ→っ) · Tiếng Trung: đoán pinyin không dấu của từ 2 chữ Hán',
+      'Từ đoán phải có trong từ điển (tiếng Trung: chữ cái bất kỳ, đủ số ô) · Gợi ý mở một ô (−5 điểm, 1 lần mỗi từ) · Bỏ qua (bấm 2 lần) xem đáp án · Esc: tạm dừng',
+    ],
+    modes: (lang) => [
+      { id: 'easy', icon: '🌱', label: 'Dễ', hint: 'Thấy nghĩa tiếng Việt ngay từ đầu' },
+      { id: 'normal', icon: '🎯', label: 'Thường', hint: 'Nghĩa chỉ hiện sau 3 lần đoán sai' },
+      ...(lang === 'en'
+        ? [{ id: 'hard', icon: '🧠', label: 'Khó', hint: 'Từ 6 chữ cái, nghĩa hiện sau 3 lần đoán sai' }]
+        : []),
+    ],
+    Game: Wordle,
+  },
+  wordchain: {
+    id: 'wordchain',
+    vocab: true,
+    title: 'Nối chữ',
+    icon: '🔗',
+    color: 'from-violet-500 to-fuchsia-600',
+    blurb: 'Nối từ với robot: từ sau bắt đầu bằng chữ cuối của từ trước',
+    intro:
+      'Chơi nối chữ với robot! Mỗi từ phải bắt đầu bằng chữ cuối của từ trước (tiếng Nhật nối kana như しりとり, tiếng Trung nối chữ Hán như 词语接龙). Nối đủ 12 từ để thắng — làm robot bí còn được thưởng điểm.',
+    controls: [
+      'Chế độ chọn: phím 1–4 hoặc chạm vào nghĩa của từ bắt đầu bằng chữ được tô vàng',
+      'Chế độ gõ: gõ bất kỳ từ nào nối được rồi Enter (romaji/kana/kanji, pinyin/chữ Hán đều được) — có gợi ý nghĩa',
+      'Sai, bỏ qua hay hết giờ mất 1 tim (có 3 tim) · robot bí: +30 điểm và bắt đầu chuỗi mới · Esc: tạm dừng',
+    ],
+    modes: (lang) =>
+      lang === 'en'
+        ? [
+            {
+              id: 'one',
+              icon: 'a',
+              label: 'Nối 1 chữ',
+              hint: 'Chọn nghĩa của từ bắt đầu bằng chữ cái cuối của từ trước',
+            },
+            { id: 'two', icon: 'ab', label: 'Nối 2 chữ', hint: 'Khó hơn: từ sau bắt đầu bằng 2 chữ cái cuối' },
+            {
+              id: 'write',
+              icon: '⌨️',
+              label: 'Gõ từ nối',
+              hint: 'Tự gõ một từ bắt đầu bằng chữ cái cuối — từ nào cũng được',
+            },
+          ]
+        : [
+            lang === 'ja'
+              ? { id: 'one', icon: 'あ', label: 'Nối kana', hint: 'しりとり: chọn nghĩa của từ bắt đầu bằng kana cuối' }
+              : {
+                  id: 'one',
+                  icon: '字',
+                  label: 'Nối chữ Hán',
+                  hint: '词语接龙: chọn nghĩa của từ bắt đầu bằng chữ Hán cuối',
+                },
+            {
+              id: 'write',
+              icon: '⌨️',
+              label: 'Gõ từ nối',
+              hint:
+                lang === 'ja'
+                  ? 'Tự gõ một từ bắt đầu bằng kana cuối (romaji, kana hoặc kanji)'
+                  : 'Tự gõ một từ bắt đầu bằng chữ Hán cuối (pinyin hoặc chữ Hán)',
+            },
+          ],
+    Game: WordChain,
+  },
+  wordwheel: {
+    id: 'wordwheel',
+    paced: false,
+    vocab: true,
+    title: 'Vòng chữ',
+    icon: '🎡',
+    color: 'from-amber-400 to-pink-500',
+    blurb: 'Nối các chữ trên vòng tròn thành từ theo nghĩa',
+    intro:
+      'Các chữ xếp thành một vòng tròn. Kéo ngón tay nối các chữ để ghép thành những từ có nghĩa ở trên — ghép được từ đúng khác thì đó là từ thưởng!',
+    controls: [
+      'Kéo qua các chữ rồi thả tay để kiểm tra, hoặc chạm từng chữ rồi bấm ✓ · ⌫ xoá chữ cuối (tiếng Anh gõ phím cũng được)',
+      'Tiếng Anh ghép chữ cái, tiếng Nhật ghép kana, tiếng Trung ghép chữ Hán · nút giữa vòng xáo lại các chữ',
+      'Gợi ý mở một chữ (3 lần mỗi vòng, bớt điểm) · Bỏ qua (bấm 2 lần) để xem đáp án · Esc: tạm dừng',
+    ],
+    modes: () => [
+      { id: 'meaning', icon: '🇻🇳', label: 'Gợi ý bằng nghĩa', hint: 'Mỗi từ cần tìm có nghĩa tiếng Việt bên cạnh' },
+      {
+        id: 'blind',
+        icon: '🙈',
+        label: 'Không gợi ý',
+        hint: 'Nghĩa bị che — chạm hàng để mở nghĩa (bớt điểm); điểm mỗi từ ×1,5',
+      },
+    ],
+    Game: WordWheel,
+  },
 } satisfies Record<string, ArcadeGame>
 
 /** How the games tab groups the games (every game appears in exactly one group). */
@@ -434,24 +587,22 @@ export const GAME_GROUPS: { title: string; hint: string; ids: ArcadeGameId[] }[]
   {
     title: 'Chữ & trí nhớ',
     hint: 'Ghép, xếp và nhớ mặt chữ, không vội',
-    ids: ['memory', 'spell', 'hangman', 'wordsearch', 'truefalse'],
+    ids: ['memory', 'spell', 'wordwheel', 'hangman', 'wordle', 'wordsearch', 'truefalse'],
   },
   {
     title: 'Đố vui',
     hint: 'Như trên truyền hình: trả lời đúng để đi tiếp',
-    ids: ['millionaire', 'goldenbell', 'bingo'],
+    ids: ['millionaire', 'goldenbell', 'crossword', 'bingo'],
   },
   {
     title: 'Đấu với robot',
     hint: 'Mỗi câu đúng là một nước đi của bạn',
-    ids: ['tug', 'penalty', 'tictactoe', 'snakesladders'],
+    ids: ['wordchain', 'tug', 'penalty', 'tictactoe', 'snakesladders', 'bomb'],
   },
 ]
 
 /** A random word game (not an alphabet game), different from `current` when possible. */
 export function randomGameId(current?: string): ArcadeGameId {
-  const ids = ARCADE_GAME_IDS.filter(
-    (id) => (ARCADE_GAMES[id] as ArcadeGame).usesDeck !== false && id !== current,
-  )
+  const ids = ARCADE_GAME_IDS.filter((id) => (ARCADE_GAMES[id] as ArcadeGame).usesDeck !== false && id !== current)
   return ids[Math.floor(Math.random() * ids.length)]
 }

@@ -20,6 +20,8 @@ import {
   searchableWords,
   snapEnd,
   type Dir,
+  hintTarget,
+  searchTimeLimit,
 } from './wordsearch'
 
 const decksDir = join(import.meta.dirname, '../../public/decks')
@@ -167,5 +169,23 @@ describe.each(decks.map((d) => [d.id, d] as const))('Tìm từ — %s', (_, deck
         ).toBe(puzzle.words.indexOf(w))
       }
     }
+  })
+})
+
+describe('time limit and hints', () => {
+  it('gives a whole number of 10 s, more for kids and less per word in hard mode', () => {
+    expect(searchTimeLimit(5, false, false)).toBe(180)
+    expect(searchTimeLimit(7, true, false)).toBe(210)
+    expect(searchTimeLimit(5, false, true)).toBe(240)
+    expect(searchTimeLimit(3, false, false) % 10).toBe(0)
+  })
+
+  it('hints the picked clue first, then words without a hint, two hints per word at most', () => {
+    expect(hintTarget(4, [], {}, null)).toBe(0)
+    expect(hintTarget(4, [], { 0: 1 }, null)).toBe(1)
+    expect(hintTarget(4, [], { 0: 1 }, 0)).toBe(0)
+    expect(hintTarget(4, [1], { 0: 2 }, 0)).toBe(2)
+    expect(hintTarget(2, [0], { 1: 1 }, null)).toBe(1)
+    expect(hintTarget(2, [0], { 1: 2 }, null)).toBe(-1)
   })
 })

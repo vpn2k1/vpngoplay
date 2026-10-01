@@ -90,6 +90,11 @@ import FishingPole from '~icons/fluent-emoji/fishing-pole'
 import Basket from '~icons/fluent-emoji/basket'
 import HollowRedCircle from '~icons/fluent-emoji/hollow-red-circle'
 import GameDie from '~icons/fluent-emoji/game-die'
+import BombIcon from '~icons/fluent-emoji/bomb'
+import Key from '~icons/fluent-emoji/key'
+import GreenSquare from '~icons/fluent-emoji/green-square'
+import LinkIcon from '~icons/fluent-emoji/link'
+import FerrisWheel from '~icons/fluent-emoji/ferris-wheel'
 import type { CourseLevel, GameSpeed, GrammarGroup, Lang, Track } from '../lib/types'
 
 export type IconType = ComponentType<SVGProps<SVGSVGElement>>
@@ -138,6 +143,11 @@ export const GAME_ICON: Record<string, IconType> = {
   catch: Basket,
   tictactoe: HollowRedCircle,
   snakesladders: GameDie,
+  bomb: BombIcon,
+  crossword: Key,
+  wordle: GreenSquare,
+  wordchain: LinkIcon,
+  wordwheel: FerrisWheel,
 }
 
 /** Icons for game modes; modes without one (kana / hanzi sets) show their glyph instead. */

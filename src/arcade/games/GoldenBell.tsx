@@ -122,7 +122,7 @@ export function GoldenBell({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
       g.correct++
       g.score += points
       g.fastest = Math.min(g.fastest, limit - g.time)
-      g.wait = 1.4
+      g.wait = 1
       show({ ...q, written, outcome: 'right', points })
       sfx.correct()
     } else {
