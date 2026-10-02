@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-factory",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "工厂常用语",
+  "description": "Làm việc ở nhà máy: ca kíp, máy móc, an toàn.",
+  "words": [
+    { "id": "gongren", "term": "工人", "reading": "gōngrén", "meaning": "công nhân", "emoji": "👷", "example": "这个工厂有很多工人。", "exampleMeaning": "Nhà máy này có rất nhiều công nhân." },
+    { "id": "chejian", "term": "车间", "reading": "chējiān", "meaning": "phân xưởng", "emoji": "🏭", "example": "我在二号车间工作。", "exampleMeaning": "Tôi làm ở phân xưởng số 2." },
+    { "id": "zaoban", "term": "早班", "reading": "zǎobān", "meaning": "ca sáng", "emoji": "🌅", "example": "这周我上早班。", "exampleMeaning": "Tuần này tôi làm ca sáng." },
+    { "id": "yeban", "term": "夜班", "reading": "yèbān", "meaning": "ca đêm", "emoji": "🌙", "example": "下周轮到我上夜班。", "exampleMeaning": "Tuần sau đến lượt tôi làm ca đêm." },
+    { "id": "huanban", "term": "换班", "reading": "huànbān", "meaning": "đổi ca, giao ca", "emoji": "🔄", "example": "我们六点换班。", "exampleMeaning": "6 giờ chúng ta đổi ca." },
+    { "id": "daka", "term": "打卡", "reading": "dǎkǎ", "meaning": "quẹt thẻ, chấm công", "emoji": "🪪", "example": "我每天早上七点打卡。", "exampleMeaning": "Mỗi sáng tôi quẹt thẻ lúc 7 giờ." },
+    { "id": "jiqi", "term": "机器", "reading": "jīqì", "meaning": "máy móc", "emoji": "⚙️", "example": "这台机器很新。", "exampleMeaning": "Máy này còn rất mới." },
+    { "id": "caozuo", "term": "操作", "reading": "cāozuò", "meaning": "vận hành, thao tác", "emoji": "🕹️", "example": "请按规定操作机器。", "exampleMeaning": "Vui lòng vận hành máy theo quy định." },
+    { "id": "weixiu", "term": "维修", "reading": "wéixiū", "meaning": "sửa chữa, bảo trì", "emoji": "🔧", "example": "机器正在维修。", "exampleMeaning": "Máy đang được sửa chữa." },
+    { "id": "anquan", "term": "安全", "reading": "ānquán", "meaning": "an toàn", "emoji": "🚧", "example": "安全第一。", "exampleMeaning": "An toàn là trên hết." },
+    { "id": "anquanmao", "term": "安全帽", "reading": "ānquánmào", "meaning": "mũ bảo hộ", "emoji": "⛑️", "example": "我的安全帽丢了。", "exampleMeaning": "Tôi bị mất mũ bảo hộ." },
+    { "id": "shoutao", "term": "手套", "reading": "shǒutào", "meaning": "găng tay", "emoji": "🧤", "example": "请戴好手套。", "exampleMeaning": "Vui lòng đeo găng tay cẩn thận." },
+    { "id": "zhijian", "term": "质检", "reading": "zhìjiǎn", "meaning": "kiểm tra chất lượng", "emoji": "🔍", "example": "产品要经过质检。", "exampleMeaning": "Sản phẩm phải qua kiểm tra chất lượng." },
+    { "id": "cipin", "term": "次品", "reading": "cìpǐn", "meaning": "hàng lỗi, thứ phẩm", "emoji": "❌", "example": "次品不能出厂。", "exampleMeaning": "Hàng lỗi không được xuất xưởng." },
+    { "id": "liushuixian", "term": "流水线", "reading": "liúshuǐxiàn", "meaning": "dây chuyền", "emoji": "🏗️", "example": "她在流水线上工作。", "exampleMeaning": "Cô ấy làm việc trên dây chuyền." },
+    { "id": "zuzhang", "term": "组长", "reading": "zǔzhǎng", "meaning": "tổ trưởng", "emoji": "🧑‍🏭", "example": "我们组长人很好。", "exampleMeaning": "Tổ trưởng của chúng tôi rất tốt bụng." },
+    { "id": "shigu", "term": "事故", "reading": "shìgù", "meaning": "tai nạn, sự cố", "emoji": "🚨", "example": "注意安全,避免事故。", "exampleMeaning": "Chú ý an toàn, tránh tai nạn." },
+    { "id": "guiding", "term": "规定", "reading": "guīdìng", "meaning": "quy định", "emoji": "📏", "example": "工厂规定不能抽烟。", "exampleMeaning": "Nhà máy quy định không được hút thuốc." },
+    { "id": "lingjian", "term": "零件", "reading": "língjiàn", "meaning": "linh kiện, phụ tùng", "emoji": "🔩", "example": "这个零件要换新的。", "exampleMeaning": "Linh kiện này cần thay mới." },
+    { "id": "tingdian", "term": "停电", "reading": "tíngdiàn", "meaning": "mất điện, cúp điện", "emoji": "🔌", "example": "车间突然停电了。", "exampleMeaning": "Phân xưởng đột nhiên mất điện." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["这", "周", "我", "上", "夜班"], "reading": "zhè zhōu wǒ shàng yèbān", "meaning": "Tuần này tôi làm ca đêm." },
+    { "id": "s2", "tokens": ["进", "车间", "要", "戴", "安全帽"], "reading": "jìn chējiān yào dài ānquánmào", "meaning": "Vào xưởng phải đội mũ bảo hộ." },
+    { "id": "s3", "tokens": ["这", "台", "机器", "坏", "了"], "reading": "zhè tái jīqì huài le", "meaning": "Máy này hỏng rồi." },
+    { "id": "s4", "tokens": ["上班", "别", "忘", "了", "打卡"], "reading": "shàngbān bié wàng le dǎkǎ", "meaning": "Đi làm đừng quên quẹt thẻ." },
+    { "id": "s5", "tokens": ["有", "问题", "请", "找", "组长"], "reading": "yǒu wèntí qǐng zhǎo zǔzhǎng", "meaning": "Có vấn đề xin hãy tìm tổ trưởng." },
+    { "id": "s6", "tokens": ["工作", "时", "要", "注意", "安全"], "reading": "gōngzuò shí yào zhùyì ānquán", "meaning": "Khi làm việc phải chú ý an toàn." }
+  ]
+}

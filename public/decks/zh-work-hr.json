@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-hr",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "人事和招聘",
+  "description": "Nhân sự, tuyển dụng và chế độ đãi ngộ.",
+  "words": [
+    { "id": "renshi", "term": "人事", "reading": "rénshì", "meaning": "nhân sự", "emoji": "🗂️", "example": "人事部在二楼。", "exampleMeaning": "Phòng nhân sự ở tầng 2." },
+    { "id": "zhaopin", "term": "招聘", "reading": "zhāopìn", "meaning": "tuyển dụng", "emoji": "📢", "example": "公司正在招聘工程师。", "exampleMeaning": "Công ty đang tuyển kỹ sư." },
+    { "id": "jianli", "term": "简历", "reading": "jiǎnlì", "meaning": "sơ yếu lý lịch", "emoji": "📄", "example": "我的简历写好了。", "exampleMeaning": "CV của tôi viết xong rồi." },
+    { "id": "yingpin", "term": "应聘", "reading": "yìngpìn", "meaning": "ứng tuyển", "emoji": "🙋", "example": "他来应聘这个职位。", "exampleMeaning": "Anh ấy đến ứng tuyển vị trí này." },
+    { "id": "zhiwei", "term": "职位", "reading": "zhíwèi", "meaning": "vị trí, chức vụ", "emoji": "🪑", "example": "这个职位要求很高。", "exampleMeaning": "Vị trí này yêu cầu rất cao." },
+    { "id": "luyong", "term": "录用", "reading": "lùyòng", "meaning": "nhận vào làm", "emoji": "✅", "example": "恭喜你被录用了!", "exampleMeaning": "Chúc mừng bạn đã được nhận!" },
+    { "id": "shiyongqi", "term": "试用期", "reading": "shìyòngqī", "meaning": "thời gian thử việc", "emoji": "⏳", "example": "试用期工资低一点。", "exampleMeaning": "Lương thử việc thấp hơn một chút." },
+    { "id": "zhuanzheng", "term": "转正", "reading": "zhuǎnzhèng", "meaning": "lên chính thức", "emoji": "🎉", "example": "下个月我就转正了。", "exampleMeaning": "Tháng sau tôi được lên chính thức." },
+    { "id": "ruzhi", "term": "入职", "reading": "rùzhí", "meaning": "bắt đầu đi làm, nhận việc", "emoji": "🆕", "example": "他下周一入职。", "exampleMeaning": "Thứ Hai tuần sau anh ấy bắt đầu đi làm." },
+    { "id": "cizhi", "term": "辞职", "reading": "cízhí", "meaning": "nghỉ việc, từ chức", "emoji": "🚪", "example": "她上个月辞职了。", "exampleMeaning": "Tháng trước cô ấy đã nghỉ việc." },
+    { "id": "fuli", "term": "福利", "reading": "fúlì", "meaning": "phúc lợi", "emoji": "🎁", "example": "这里福利不错。", "exampleMeaning": "Phúc lợi ở đây khá ổn." },
+    { "id": "baoxian", "term": "保险", "reading": "bǎoxiǎn", "meaning": "bảo hiểm", "emoji": "🛡️", "example": "公司给员工买保险。", "exampleMeaning": "Công ty mua bảo hiểm cho nhân viên." },
+    { "id": "jiangjin", "term": "奖金", "reading": "jiǎngjīn", "meaning": "tiền thưởng", "emoji": "🏆", "example": "年底有奖金。", "exampleMeaning": "Cuối năm có tiền thưởng." },
+    { "id": "qingjia", "term": "请假", "reading": "qǐngjià", "meaning": "xin nghỉ phép", "emoji": "🏖️", "example": "我想请假一天。", "exampleMeaning": "Tôi muốn xin nghỉ một ngày." },
+    { "id": "kaoqin", "term": "考勤", "reading": "kǎoqín", "meaning": "chấm công", "emoji": "⏰", "example": "考勤记录有问题。", "exampleMeaning": "Dữ liệu chấm công có vấn đề." },
+    { "id": "peixun", "term": "培训", "reading": "péixùn", "meaning": "đào tạo, huấn luyện", "emoji": "🎓", "example": "培训从九点开始。", "exampleMeaning": "Buổi đào tạo bắt đầu lúc 9 giờ." },
+    { "id": "jingyan", "term": "经验", "reading": "jīngyàn", "meaning": "kinh nghiệm", "emoji": "🧠", "example": "你有工作经验吗?", "exampleMeaning": "Bạn có kinh nghiệm làm việc không?" },
+    { "id": "xueli", "term": "学历", "reading": "xuélì", "meaning": "trình độ học vấn, bằng cấp", "emoji": "📜", "example": "这个工作要求本科学历。", "exampleMeaning": "Công việc này yêu cầu bằng đại học." },
+    { "id": "yuangong", "term": "员工", "reading": "yuángōng", "meaning": "nhân viên", "emoji": "🧑‍💼", "example": "公司有五百名员工。", "exampleMeaning": "Công ty có 500 nhân viên." },
+    { "id": "daiyu", "term": "待遇", "reading": "dàiyù", "meaning": "đãi ngộ, chế độ", "emoji": "💼", "example": "这里的待遇不错。", "exampleMeaning": "Chế độ ở đây khá tốt." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["公司", "正在", "招聘", "会计"], "reading": "gōngsī zhèngzài zhāopìn kuàijì", "meaning": "Công ty đang tuyển kế toán." },
+    { "id": "s2", "tokens": ["请", "把", "简历", "发", "给", "我"], "reading": "qǐng bǎ jiǎnlì fā gěi wǒ", "meaning": "Vui lòng gửi CV cho tôi." },
+    { "id": "s3", "tokens": ["试用期", "是", "两", "个", "月"], "reading": "shìyòngqī shì liǎng gè yuè", "meaning": "Thời gian thử việc là hai tháng." },
+    { "id": "s4", "tokens": ["我", "明天", "想", "请假"], "reading": "wǒ míngtiān xiǎng qǐngjià", "meaning": "Mai tôi muốn xin nghỉ." },
+    { "id": "s5", "tokens": ["新", "员工", "要", "参加", "培训"], "reading": "xīn yuángōng yào cānjiā péixùn", "meaning": "Nhân viên mới phải tham gia đào tạo." },
+    { "id": "s6", "tokens": ["这", "家", "公司", "的", "福利", "很", "好"], "reading": "zhè jiā gōngsī de fúlì hěn hǎo", "meaning": "Phúc lợi của công ty này rất tốt." }
+  ]
+}

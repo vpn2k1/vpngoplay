@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-meetings",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "会议和演示",
+  "description": "Họp hành, thuyết trình và thảo luận.",
+  "words": [
+    { "id": "kaihui", "term": "开会", "reading": "kāihuì", "meaning": "họp, dự họp", "emoji": "👥", "example": "我们下午两点开会。", "exampleMeaning": "Chúng ta họp lúc 2 giờ chiều." },
+    { "id": "yanshi", "term": "演示", "reading": "yǎnshì", "meaning": "trình bày, demo", "emoji": "🖥️", "example": "他在演示新产品。", "exampleMeaning": "Anh ấy đang demo sản phẩm mới." },
+    { "id": "yicheng", "term": "议程", "reading": "yìchéng", "meaning": "chương trình họp", "emoji": "📋", "example": "议程已经发给大家了。", "exampleMeaning": "Chương trình họp đã gửi cho mọi người." },
+    { "id": "jiyao", "term": "纪要", "reading": "jìyào", "meaning": "biên bản họp", "emoji": "📝", "example": "谁来写会议纪要?", "exampleMeaning": "Ai sẽ viết biên bản họp?" },
+    { "id": "taolun", "term": "讨论", "reading": "tǎolùn", "meaning": "thảo luận", "emoji": "💬", "example": "我们讨论一下这个问题。", "exampleMeaning": "Chúng ta thảo luận vấn đề này chút." },
+    { "id": "jianyi", "term": "建议", "reading": "jiànyì", "meaning": "đề xuất, gợi ý", "emoji": "💡", "example": "你有什么建议?", "exampleMeaning": "Bạn có đề xuất gì không?" },
+    { "id": "yijian", "term": "意见", "reading": "yìjiàn", "meaning": "ý kiến", "emoji": "🗣️", "example": "大家有什么意见吗?", "exampleMeaning": "Mọi người có ý kiến gì không?" },
+    { "id": "zhuchi", "term": "主持", "reading": "zhǔchí", "meaning": "chủ trì, dẫn chương trình", "emoji": "🎙️", "example": "今天由我主持会议。", "exampleMeaning": "Hôm nay tôi chủ trì cuộc họp." },
+    { "id": "touyingyi", "term": "投影仪", "reading": "tóuyǐngyí", "meaning": "máy chiếu", "emoji": "📽️", "example": "投影仪坏了。", "exampleMeaning": "Máy chiếu hỏng rồi." },
+    { "id": "huandengpian", "term": "幻灯片", "reading": "huàndēngpiàn", "meaning": "slide, trang chiếu", "emoji": "🖼️", "example": "请看下一张幻灯片。", "exampleMeaning": "Mời xem slide tiếp theo." },
+    { "id": "canjia", "term": "参加", "reading": "cānjiā", "meaning": "tham gia, tham dự", "emoji": "🙋", "example": "明天你参加会议吗?", "exampleMeaning": "Mai bạn có dự họp không?" },
+    { "id": "zongjie", "term": "总结", "reading": "zǒngjié", "meaning": "tổng kết, tóm tắt", "emoji": "📌", "example": "最后我总结一下。", "exampleMeaning": "Cuối cùng tôi tổng kết lại." },
+    { "id": "jueding", "term": "决定", "reading": "juédìng", "meaning": "quyết định", "emoji": "⚖️", "example": "这个由经理决定。", "exampleMeaning": "Việc này do quản lý quyết định." },
+    { "id": "tiwen", "term": "提问", "reading": "tíwèn", "meaning": "đặt câu hỏi", "emoji": "❓", "example": "有问题可以提问。", "exampleMeaning": "Có thắc mắc có thể đặt câu hỏi." },
+    { "id": "xianshang", "term": "线上", "reading": "xiànshàng", "meaning": "trực tuyến, online", "emoji": "🌐", "example": "明天的会在线上开。", "exampleMeaning": "Cuộc họp mai sẽ họp trực tuyến." },
+    { "id": "tongguo", "term": "通过", "reading": "tōngguò", "meaning": "thông qua, được duyệt", "emoji": "✔️", "example": "方案通过了。", "exampleMeaning": "Phương án đã được thông qua." },
+    { "id": "shuju", "term": "数据", "reading": "shùjù", "meaning": "dữ liệu, số liệu", "emoji": "📊", "example": "这些数据很清楚。", "exampleMeaning": "Những số liệu này rất rõ ràng." },
+    { "id": "tuichi", "term": "推迟", "reading": "tuīchí", "meaning": "hoãn lại, lùi lịch", "emoji": "⏳", "example": "会议推迟到明天。", "exampleMeaning": "Cuộc họp hoãn đến mai." },
+    { "id": "fayan", "term": "发言", "reading": "fāyán", "meaning": "phát biểu", "emoji": "🎤", "example": "下面请王经理发言。", "exampleMeaning": "Tiếp theo mời quản lý Vương phát biểu." },
+    { "id": "mubiao", "term": "目标", "reading": "mùbiāo", "meaning": "mục tiêu", "emoji": "🎯", "example": "今年的目标是什么?", "exampleMeaning": "Mục tiêu năm nay là gì?" }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我们", "明天", "上午", "开会"], "reading": "wǒmen míngtiān shàngwǔ kāihuì", "meaning": "Sáng mai chúng ta họp." },
+    { "id": "s2", "tokens": ["请", "大家", "先", "看", "议程"], "reading": "qǐng dàjiā xiān kàn yìchéng", "meaning": "Mời mọi người xem chương trình họp trước." },
+    { "id": "s3", "tokens": ["你", "对", "这个", "有", "意见", "吗"], "reading": "nǐ duì zhège yǒu yìjiàn ma", "meaning": "Bạn có ý kiến gì về việc này không?" },
+    { "id": "s4", "tokens": ["下面", "我", "来", "演示", "一下"], "reading": "xiàmiàn wǒ lái yǎnshì yíxià", "meaning": "Sau đây tôi xin trình bày một chút." },
+    { "id": "s5", "tokens": ["会议", "推迟", "到", "下午", "三点"], "reading": "huìyì tuīchí dào xiàwǔ sān diǎn", "meaning": "Cuộc họp hoãn đến 3 giờ chiều." },
+    { "id": "s6", "tokens": ["最后", "我", "总结", "一下"], "reading": "zuìhòu wǒ zǒngjié yíxià", "meaning": "Cuối cùng tôi xin tổng kết." }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "en-work-meetings",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Meetings & Presentations",
+  "description": "Họp hành và thuyết trình ở công ty.",
+  "words": [
+    { "id": "presentation", "term": "presentation", "reading": "/ˌpriːzenˈteɪʃn/", "meaning": "bài thuyết trình", "emoji": "🎤", "example": "Her presentation was clear and short.", "exampleMeaning": "Bài thuyết trình của cô ấy rõ ràng và ngắn gọn." },
+    { "id": "slide", "term": "slide", "reading": "/slaɪd/", "meaning": "trang chiếu", "emoji": "🖼️", "example": "Let's look at the next slide.", "exampleMeaning": "Hãy xem trang chiếu tiếp theo." },
+    { "id": "minutes", "term": "minutes", "reading": "/ˈmɪnɪts/", "meaning": "biên bản họp", "emoji": "📝", "example": "Who is taking the minutes today?", "exampleMeaning": "Hôm nay ai ghi biên bản họp?" },
+    { "id": "chair", "term": "chair", "reading": "/tʃer/", "meaning": "chủ trì", "emoji": "🪑", "example": "Mr. Lee will chair the meeting.", "exampleMeaning": "Ông Lee sẽ chủ trì cuộc họp." },
+    { "id": "attendee", "term": "attendee", "reading": "/əˌtenˈdiː/", "meaning": "người tham dự", "emoji": "🙋", "example": "Each attendee got a copy of the plan.", "exampleMeaning": "Mỗi người tham dự nhận một bản kế hoạch." },
+    { "id": "brainstorm", "term": "brainstorm", "reading": "/ˈbreɪnstɔːrm/", "meaning": "động não, góp ý tưởng", "emoji": "💡", "example": "Let's brainstorm some new ideas.", "exampleMeaning": "Hãy cùng động não tìm vài ý tưởng mới." },
+    { "id": "point-out", "term": "point out", "reading": "/pɔɪnt aʊt/", "meaning": "chỉ ra", "emoji": "👉", "example": "I want to point out one problem.", "exampleMeaning": "Tôi muốn chỉ ra một vấn đề." },
+    { "id": "projector", "term": "projector", "reading": "/prəˈdʒektər/", "meaning": "máy chiếu", "emoji": "📽️", "example": "The projector is not working.", "exampleMeaning": "Máy chiếu không hoạt động." },
+    { "id": "handout", "term": "handout", "reading": "/ˈhændaʊt/", "meaning": "tài liệu phát tay", "emoji": "📄", "example": "Please take a handout from the table.", "exampleMeaning": "Vui lòng lấy một tài liệu phát tay trên bàn." },
+    { "id": "discuss", "term": "discuss", "reading": "/dɪˈskʌs/", "meaning": "thảo luận", "emoji": "💬", "example": "We need to discuss the new plan.", "exampleMeaning": "Chúng ta cần thảo luận kế hoạch mới." },
+    { "id": "vote", "term": "vote", "reading": "/voʊt/", "meaning": "biểu quyết", "emoji": "🗳️", "example": "Let's vote on the two options.", "exampleMeaning": "Hãy biểu quyết hai phương án." },
+    { "id": "wrap-up", "term": "wrap up", "reading": "/ræp ʌp/", "meaning": "kết thúc, tổng kết", "emoji": "🎁", "example": "Let's wrap up the session now.", "exampleMeaning": "Chúng ta kết thúc buổi này nhé." },
+    { "id": "audience", "term": "audience", "reading": "/ˈɔːdiəns/", "meaning": "khán giả, người nghe", "emoji": "👀", "example": "The audience asked many questions.", "exampleMeaning": "Khán giả đặt rất nhiều câu hỏi." },
+    { "id": "chart", "term": "chart", "reading": "/tʃɑːrt/", "meaning": "biểu đồ", "emoji": "📈", "example": "This chart shows our sales.", "exampleMeaning": "Biểu đồ này cho thấy doanh số của chúng ta." },
+    { "id": "key-point", "term": "key point", "reading": "/kiː pɔɪnt/", "meaning": "ý chính", "emoji": "🔑", "example": "Here is the key point of my talk.", "exampleMeaning": "Đây là ý chính trong bài nói của tôi." },
+    { "id": "opinion", "term": "opinion", "reading": "/əˈpɪnjən/", "meaning": "ý kiến", "emoji": "🗣️", "example": "What is your opinion on this?", "exampleMeaning": "Bạn có ý kiến gì về việc này?" },
+    { "id": "agree", "term": "agree", "reading": "/əˈɡriː/", "meaning": "đồng ý", "emoji": "👍", "example": "I agree with your idea.", "exampleMeaning": "Tôi đồng ý với ý tưởng của bạn." },
+    { "id": "interrupt", "term": "interrupt", "reading": "/ˌɪntəˈrʌpt/", "meaning": "ngắt lời", "emoji": "✋", "example": "Sorry to interrupt, but I have a question.", "exampleMeaning": "Xin lỗi đã ngắt lời, nhưng tôi có câu hỏi." },
+    { "id": "summarize", "term": "summarize", "reading": "/ˈsʌməraɪz/", "meaning": "tóm tắt", "emoji": "🧾", "example": "Can you summarize the discussion?", "exampleMeaning": "Bạn tóm tắt cuộc thảo luận được không?" },
+    { "id": "video-call", "term": "video call", "reading": "/ˈvɪdioʊ kɔːl/", "meaning": "cuộc gọi video", "emoji": "📹", "example": "We have a video call with Tokyo.", "exampleMeaning": "Chúng ta có cuộc gọi video với Tokyo." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Let's", "start", "with", "the", "first", "slide"], "meaning": "Hãy bắt đầu với trang chiếu đầu tiên." },
+    { "id": "s2", "tokens": ["Who", "will", "take", "the", "minutes"], "meaning": "Ai sẽ ghi biên bản họp?" },
+    { "id": "s3", "tokens": ["I", "agree", "with", "your", "opinion"], "meaning": "Tôi đồng ý với ý kiến của bạn." },
+    { "id": "s4", "tokens": ["Sorry", "to", "interrupt", "for", "a", "moment"], "meaning": "Xin lỗi đã ngắt lời một chút." },
+    { "id": "s5", "tokens": ["Let's", "wrap", "up", "the", "meeting"], "meaning": "Chúng ta kết thúc cuộc họp nhé." },
+    { "id": "s6", "tokens": ["This", "chart", "shows", "our", "main", "goal"], "meaning": "Biểu đồ này cho thấy mục tiêu chính của chúng ta." }
+  ]
+}

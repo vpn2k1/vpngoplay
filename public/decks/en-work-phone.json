@@ -1,0 +1,38 @@
+{
+  "id": "en-work-phone",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Phone Calls at Work",
+  "description": "Gọi điện thoại trong công việc.",
+  "words": [
+    { "id": "hold-on", "term": "hold on", "reading": "/hoʊld ɑːn/", "meaning": "chờ máy, đợi chút", "emoji": "⏳", "example": "Please hold on a moment.", "exampleMeaning": "Vui lòng chờ máy một chút." },
+    { "id": "call-back", "term": "call back", "reading": "/kɔːl bæk/", "meaning": "gọi lại", "emoji": "🔁", "example": "I will call back after lunch.", "exampleMeaning": "Tôi sẽ gọi lại sau bữa trưa." },
+    { "id": "transfer", "term": "transfer", "reading": "/trænsˈfɜːr/", "meaning": "chuyển máy", "emoji": "↪️", "example": "Let me transfer you to the manager.", "exampleMeaning": "Để tôi chuyển máy cho quản lý." },
+    { "id": "extension", "term": "extension", "reading": "/ɪkˈstenʃn/", "meaning": "số máy lẻ", "emoji": "☎️", "example": "My extension is two zero five.", "exampleMeaning": "Số máy lẻ của tôi là hai không năm." },
+    { "id": "voicemail", "term": "voicemail", "reading": "/ˈvɔɪsmeɪl/", "meaning": "hộp thư thoại", "emoji": "📼", "example": "I left you a voicemail this morning.", "exampleMeaning": "Sáng nay tôi đã để lại tin nhắn thoại cho bạn." },
+    { "id": "leave-a-message", "term": "leave a message", "reading": "/liːv ə ˈmesɪdʒ/", "meaning": "để lại lời nhắn", "emoji": "📝", "example": "Would you like to leave a message?", "exampleMeaning": "Bạn có muốn để lại lời nhắn không?" },
+    { "id": "speak-up", "term": "speak up", "reading": "/spiːk ʌp/", "meaning": "nói to hơn", "emoji": "🔊", "example": "Could you speak up a little?", "exampleMeaning": "Bạn nói to hơn một chút được không?" },
+    { "id": "hang-up", "term": "hang up", "reading": "/hæŋ ʌp/", "meaning": "cúp máy", "emoji": "📴", "example": "Please don't hang up yet.", "exampleMeaning": "Xin đừng cúp máy vội." },
+    { "id": "busy", "term": "busy", "reading": "/ˈbɪzi/", "meaning": "máy bận, bận rộn", "emoji": "📵", "example": "The line is busy right now.", "exampleMeaning": "Đường dây hiện đang bận." },
+    { "id": "missed-call", "term": "missed call", "reading": "/mɪst kɔːl/", "meaning": "cuộc gọi nhỡ", "emoji": "📲", "example": "I have a missed call from Tom.", "exampleMeaning": "Tôi có một cuộc gọi nhỡ từ Tom." },
+    { "id": "caller", "term": "caller", "reading": "/ˈkɔːlər/", "meaning": "người gọi", "emoji": "🙋", "example": "The caller did not give his name.", "exampleMeaning": "Người gọi không cho biết tên." },
+    { "id": "dial", "term": "dial", "reading": "/ˈdaɪəl/", "meaning": "quay số", "emoji": "🔢", "example": "Please dial zero for the front desk.", "exampleMeaning": "Vui lòng quay số không để gặp lễ tân." },
+    { "id": "receptionist", "term": "receptionist", "reading": "/rɪˈsepʃənɪst/", "meaning": "lễ tân", "emoji": "💁", "example": "Ask the receptionist for help.", "exampleMeaning": "Hãy nhờ lễ tân giúp đỡ." },
+    { "id": "pick-up", "term": "pick up", "reading": "/pɪk ʌp/", "meaning": "nhấc máy", "emoji": "📞", "example": "Nobody will pick up the phone.", "exampleMeaning": "Không ai chịu nhấc máy cả." },
+    { "id": "cut-off", "term": "cut off", "reading": "/kʌt ɔːf/", "meaning": "bị ngắt máy", "emoji": "✂️", "example": "Sorry, we got cut off earlier.", "exampleMeaning": "Xin lỗi, lúc nãy cuộc gọi bị ngắt." },
+    { "id": "spell", "term": "spell", "reading": "/spel/", "meaning": "đánh vần", "emoji": "🔤", "example": "Could you spell your name, please?", "exampleMeaning": "Bạn đánh vần tên mình giúp tôi được không?" },
+    { "id": "available", "term": "available", "reading": "/əˈveɪləbl/", "meaning": "rảnh, có mặt", "emoji": "🟢", "example": "Is Ms. Lan available now?", "exampleMeaning": "Bây giờ chị Lan có rảnh không?" },
+    { "id": "speaking", "term": "speaking", "reading": "/ˈspiːkɪŋ/", "meaning": "tôi nghe đây", "emoji": "🗣️", "example": "Hello, this is Minh speaking.", "exampleMeaning": "Xin chào, Minh nghe đây." },
+    { "id": "phone-number", "term": "phone number", "reading": "/ˈfoʊn ˌnʌmbər/", "meaning": "số điện thoại", "emoji": "📱", "example": "Can I have your phone number?", "exampleMeaning": "Cho tôi xin số điện thoại của bạn nhé?" },
+    { "id": "wrong-number", "term": "wrong number", "reading": "/rɔːŋ ˈnʌmbər/", "meaning": "nhầm số", "emoji": "❓", "example": "Sorry, you have the wrong number.", "exampleMeaning": "Xin lỗi, bạn gọi nhầm số rồi." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Could", "you", "hold", "on", "a", "moment"], "meaning": "Bạn chờ máy một lát được không?" },
+    { "id": "s2", "tokens": ["I", "will", "call", "you", "back", "later"], "meaning": "Tôi sẽ gọi lại cho bạn sau." },
+    { "id": "s3", "tokens": ["She", "is", "not", "available", "right", "now"], "meaning": "Hiện giờ cô ấy không có mặt." },
+    { "id": "s4", "tokens": ["Would", "you", "like", "to", "leave", "a", "message"], "meaning": "Bạn có muốn để lại lời nhắn không?" },
+    { "id": "s5", "tokens": ["Let", "me", "transfer", "your", "call"], "meaning": "Để tôi chuyển máy cho bạn." },
+    { "id": "s6", "tokens": ["Sorry", "I", "think", "you", "have", "the", "wrong", "number"], "meaning": "Xin lỗi, tôi nghĩ bạn gọi nhầm số rồi." }
+  ]
+}

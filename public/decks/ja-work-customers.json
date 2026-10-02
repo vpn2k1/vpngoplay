@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-customers",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "接客とお客様対応",
+  "description": "Tiếp khách và chăm sóc khách hàng.",
+  "words": [
+    { "id": "okyakusama", "term": "お客様", "reading": "おきゃくさま · okyakusama", "meaning": "quý khách", "emoji": "🙇", "example": "お客様が来た。", "exampleMeaning": "Khách đã đến." },
+    { "id": "sekkyaku", "term": "接客", "reading": "せっきゃく · sekkyaku", "meaning": "tiếp khách", "emoji": "🛎️", "example": "接客が上手だ。", "exampleMeaning": "Giỏi tiếp khách." },
+    { "id": "kujou", "term": "苦情", "reading": "くじょう · kujō", "meaning": "lời phàn nàn, khiếu nại", "emoji": "😠", "example": "苦情を受ける。", "exampleMeaning": "Nhận lời phàn nàn." },
+    { "id": "taiou", "term": "対応", "reading": "たいおう · taiō", "meaning": "xử lý, ứng phó", "emoji": "🧑‍💻", "example": "すぐに対応します。", "exampleMeaning": "Tôi xử lý ngay." },
+    { "id": "toiawase", "term": "問い合わせ", "reading": "といあわせ · toiawase", "meaning": "thắc mắc, liên hệ hỏi", "emoji": "📞", "example": "問い合わせが多い。", "exampleMeaning": "Có nhiều thắc mắc." },
+    { "id": "madoguchi", "term": "窓口", "reading": "まどぐち · madoguchi", "meaning": "quầy tiếp nhận", "emoji": "🪟", "example": "窓口で聞く。", "exampleMeaning": "Hỏi tại quầy." },
+    { "id": "annai", "term": "案内", "reading": "あんない · annai", "meaning": "hướng dẫn, dẫn đường", "emoji": "🧭", "example": "会場を案内する。", "exampleMeaning": "Hướng dẫn đến hội trường." },
+    { "id": "owabi", "term": "お詫び", "reading": "おわび · owabi", "meaning": "lời xin lỗi", "emoji": "🙏", "example": "お詫びの手紙を書く。", "exampleMeaning": "Viết thư xin lỗi." },
+    { "id": "henpin", "term": "返品", "reading": "へんぴん · henpin", "meaning": "trả hàng", "emoji": "↩️", "example": "商品を返品する。", "exampleMeaning": "Trả lại hàng." },
+    { "id": "koukan", "term": "交換", "reading": "こうかん · kōkan", "meaning": "đổi, trao đổi", "emoji": "🔁", "example": "新品と交換する。", "exampleMeaning": "Đổi sang hàng mới." },
+    { "id": "henkin", "term": "返金", "reading": "へんきん · henkin", "meaning": "hoàn tiền", "emoji": "💵", "example": "全額返金します。", "exampleMeaning": "Hoàn tiền toàn bộ." },
+    { "id": "manzoku", "term": "満足", "reading": "まんぞく · manzoku", "meaning": "hài lòng", "emoji": "😊", "example": "お客様が満足した。", "exampleMeaning": "Khách đã hài lòng." },
+    { "id": "hoshou", "term": "保証", "reading": "ほしょう · hoshō", "meaning": "bảo hành, bảo đảm", "emoji": "🛡️", "example": "保証は一年です。", "exampleMeaning": "Bảo hành một năm." },
+    { "id": "shuuri", "term": "修理", "reading": "しゅうり · shūri", "meaning": "sửa chữa", "emoji": "🔧", "example": "時計を修理する。", "exampleMeaning": "Sửa đồng hồ." },
+    { "id": "egao", "term": "笑顔", "reading": "えがお · egao", "meaning": "nụ cười", "emoji": "😄", "example": "笑顔で接客する。", "exampleMeaning": "Tiếp khách với nụ cười." },
+    { "id": "reji", "term": "レジ", "reading": "reji", "meaning": "quầy thu ngân", "emoji": "🧾", "example": "レジで払う。", "exampleMeaning": "Trả tiền ở quầy thu ngân." },
+    { "id": "youbou", "term": "要望", "reading": "ようぼう · yōbō", "meaning": "nguyện vọng, yêu cầu", "emoji": "📝", "example": "要望を聞く。", "exampleMeaning": "Lắng nghe nguyện vọng." },
+    { "id": "meiwaku", "term": "迷惑", "reading": "めいわく · meiwaku", "meaning": "phiền phức, làm phiền", "emoji": "😣", "example": "ご迷惑をおかけしました。", "exampleMeaning": "Đã làm phiền quý khách." },
+    { "id": "saabisu", "term": "サービス", "reading": "sābisu", "meaning": "dịch vụ", "emoji": "🎁", "example": "サービスがいい。", "exampleMeaning": "Dịch vụ tốt." },
+    { "id": "teinei", "term": "丁寧", "reading": "ていねい · teinei", "meaning": "lịch sự, chu đáo", "emoji": "🎀", "example": "丁寧に説明する。", "exampleMeaning": "Giải thích chu đáo." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["お客様", "から", "苦情", "が", "ありました"], "reading": "おきゃくさまからくじょうがありました", "meaning": "Có khiếu nại từ khách hàng." },
+    { "id": "s2", "tokens": ["担当者", "が", "すぐに", "対応", "いたします"], "reading": "たんとうしゃがすぐにたいおういたします", "meaning": "Người phụ trách sẽ xử lý ngay." },
+    { "id": "s3", "tokens": ["この", "商品", "は", "返品", "できます"], "reading": "このしょうひんはへんぴんできます", "meaning": "Sản phẩm này có thể trả lại." },
+    { "id": "s4", "tokens": ["ご迷惑", "を", "おかけして", "申し訳ありません"], "reading": "ごめいわくをおかけしてもうしわけありません", "meaning": "Xin lỗi vì đã làm phiền quý khách." },
+    { "id": "s5", "tokens": ["窓口", "まで", "ご案内", "します"], "reading": "まどぐちまでごあんないします", "meaning": "Tôi sẽ dẫn quý khách đến quầy." },
+    { "id": "s6", "tokens": ["保証", "期間", "なら", "無料", "で", "修理", "します"], "reading": "ほしょうきかんならむりょうでしゅうりします", "meaning": "Trong thời gian bảo hành sẽ sửa miễn phí." }
+  ]
+}

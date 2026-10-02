@@ -1,0 +1,38 @@
+{
+  "id": "en-work-it",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "IT & Tech at Work",
+  "description": "Công nghệ thông tin dùng ở văn phòng.",
+  "words": [
+    { "id": "password", "term": "password", "reading": "/ˈpæswɜːrd/", "meaning": "mật khẩu", "emoji": "🔑", "example": "Change your password every three months.", "exampleMeaning": "Hãy đổi mật khẩu ba tháng một lần." },
+    { "id": "log-in", "term": "log in", "reading": "/lɔːɡ ɪn/", "meaning": "đăng nhập", "emoji": "🔓", "example": "I cannot log in to my account.", "exampleMeaning": "Tôi không đăng nhập được vào tài khoản." },
+    { "id": "account", "term": "account", "reading": "/əˈkaʊnt/", "meaning": "tài khoản", "emoji": "👤", "example": "Your new account is ready.", "exampleMeaning": "Tài khoản mới của bạn đã sẵn sàng." },
+    { "id": "update", "term": "update", "reading": "/ˈʌpdeɪt/", "meaning": "cập nhật", "emoji": "🔄", "example": "Please update the software tonight.", "exampleMeaning": "Vui lòng cập nhật phần mềm tối nay." },
+    { "id": "software", "term": "software", "reading": "/ˈsɔːftwer/", "meaning": "phần mềm", "emoji": "💿", "example": "This software is easy to use.", "exampleMeaning": "Phần mềm này dễ sử dụng." },
+    { "id": "network", "term": "network", "reading": "/ˈnetwɜːrk/", "meaning": "mạng nội bộ", "emoji": "🌐", "example": "The network is down again.", "exampleMeaning": "Mạng nội bộ lại bị sập." },
+    { "id": "laptop", "term": "laptop", "reading": "/ˈlæptɑːp/", "meaning": "máy tính xách tay", "emoji": "💻", "example": "I left my laptop at home.", "exampleMeaning": "Tôi để quên máy tính xách tay ở nhà." },
+    { "id": "printer", "term": "printer", "reading": "/ˈprɪntər/", "meaning": "máy in", "emoji": "🖨️", "example": "The printer is out of paper.", "exampleMeaning": "Máy in hết giấy rồi." },
+    { "id": "back-up", "term": "back up", "reading": "/bæk ʌp/", "meaning": "sao lưu", "emoji": "💾", "example": "Always back up your important files.", "exampleMeaning": "Hãy luôn sao lưu các tệp quan trọng." },
+    { "id": "virus", "term": "virus", "reading": "/ˈvaɪrəs/", "meaning": "vi-rút máy tính", "emoji": "🦠", "example": "This email may contain a virus.", "exampleMeaning": "Email này có thể chứa vi-rút." },
+    { "id": "it-support", "term": "IT support", "reading": "/ˌaɪˈtiː səˈpɔːrt/", "meaning": "bộ phận hỗ trợ kỹ thuật", "emoji": "🧑‍💻", "example": "Call IT support if your screen freezes.", "exampleMeaning": "Hãy gọi bộ phận hỗ trợ kỹ thuật nếu màn hình bị treo." },
+    { "id": "restart", "term": "restart", "reading": "/ˌriːˈstɑːrt/", "meaning": "khởi động lại", "emoji": "🔁", "example": "Please restart your computer and try again.", "exampleMeaning": "Vui lòng khởi động lại máy tính và thử lại." },
+    { "id": "download", "term": "download", "reading": "/ˌdaʊnˈloʊd/", "meaning": "tải xuống", "emoji": "⬇️", "example": "You can download the file here.", "exampleMeaning": "Bạn có thể tải tệp xuống ở đây." },
+    { "id": "upload", "term": "upload", "reading": "/ˌʌpˈloʊd/", "meaning": "tải lên", "emoji": "⬆️", "example": "Please upload your photo to the system.", "exampleMeaning": "Vui lòng tải ảnh của bạn lên hệ thống." },
+    { "id": "username", "term": "username", "reading": "/ˈjuːzərneɪm/", "meaning": "tên đăng nhập", "emoji": "🪪", "example": "Your username is your email address.", "exampleMeaning": "Tên đăng nhập là địa chỉ email của bạn." },
+    { "id": "screen", "term": "screen", "reading": "/skriːn/", "meaning": "màn hình", "emoji": "🖥️", "example": "My screen is too dark.", "exampleMeaning": "Màn hình của tôi quá tối." },
+    { "id": "shared-folder", "term": "shared folder", "reading": "/ʃerd ˈfoʊldər/", "meaning": "thư mục dùng chung", "emoji": "📁", "example": "Put the slides in the shared folder.", "exampleMeaning": "Hãy để các trang chiếu vào thư mục dùng chung." },
+    { "id": "install", "term": "install", "reading": "/ɪnˈstɔːl/", "meaning": "cài đặt", "emoji": "⚙️", "example": "We need to install the new app.", "exampleMeaning": "Chúng ta cần cài đặt ứng dụng mới." },
+    { "id": "data", "term": "data", "reading": "/ˈdeɪtə/", "meaning": "dữ liệu", "emoji": "🗄️", "example": "Keep customer data safe.", "exampleMeaning": "Hãy giữ dữ liệu khách hàng an toàn." },
+    { "id": "cloud-storage", "term": "cloud storage", "reading": "/klaʊd ˈstɔːrɪdʒ/", "meaning": "lưu trữ đám mây", "emoji": "☁️", "example": "We keep our files in cloud storage.", "exampleMeaning": "Chúng tôi lưu các tệp trên dịch vụ lưu trữ đám mây." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["I", "forgot", "my", "password", "again"], "meaning": "Tôi lại quên mật khẩu rồi." },
+    { "id": "s2", "tokens": ["Did", "you", "back", "up", "your", "files"], "meaning": "Bạn đã sao lưu các tệp của mình chưa?" },
+    { "id": "s3", "tokens": ["The", "printer", "is", "not", "working"], "meaning": "Máy in không hoạt động." },
+    { "id": "s4", "tokens": ["Call", "IT", "support", "for", "help"], "meaning": "Hãy gọi bộ phận hỗ trợ kỹ thuật để được giúp." },
+    { "id": "s5", "tokens": ["I", "cannot", "log", "in", "to", "the", "system"], "meaning": "Tôi không đăng nhập được vào hệ thống." },
+    { "id": "s6", "tokens": ["Please", "install", "the", "latest", "update"], "meaning": "Vui lòng cài đặt bản cập nhật mới nhất." }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-sales",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "销售和市场",
+  "description": "Bán hàng, tiếp thị và thị trường.",
+  "words": [
+    { "id": "xiaoshou", "term": "销售", "reading": "xiāoshòu", "meaning": "bán hàng, tiêu thụ", "emoji": "🛒", "example": "他在销售部工作。", "exampleMeaning": "Anh ấy làm ở phòng kinh doanh." },
+    { "id": "shichang", "term": "市场", "reading": "shìchǎng", "meaning": "thị trường, chợ", "emoji": "🏪", "example": "这个市场很大。", "exampleMeaning": "Thị trường này rất lớn." },
+    { "id": "guanggao", "term": "广告", "reading": "guǎnggào", "meaning": "quảng cáo", "emoji": "📺", "example": "我们在网上做广告。", "exampleMeaning": "Chúng tôi quảng cáo trên mạng." },
+    { "id": "cuxiao", "term": "促销", "reading": "cùxiāo", "meaning": "khuyến mãi", "emoji": "🏷️", "example": "周末有促销活动。", "exampleMeaning": "Cuối tuần có khuyến mãi." },
+    { "id": "zhekou", "term": "折扣", "reading": "zhékòu", "meaning": "chiết khấu, giảm giá", "emoji": "💲", "example": "我们可以给你折扣。", "exampleMeaning": "Chúng tôi có thể chiết khấu cho bạn." },
+    { "id": "jiage", "term": "价格", "reading": "jiàgé", "meaning": "giá cả", "emoji": "💰", "example": "价格可以商量。", "exampleMeaning": "Giá cả có thể thương lượng." },
+    { "id": "baojia", "term": "报价", "reading": "bàojià", "meaning": "báo giá", "emoji": "📄", "example": "请发一份报价给我。", "exampleMeaning": "Vui lòng gửi tôi một bản báo giá." },
+    { "id": "yeji", "term": "业绩", "reading": "yèjì", "meaning": "doanh số, thành tích", "emoji": "📈", "example": "他的业绩最好。", "exampleMeaning": "Doanh số của anh ấy tốt nhất." },
+    { "id": "pinpai", "term": "品牌", "reading": "pǐnpái", "meaning": "thương hiệu", "emoji": "™️", "example": "这个品牌很有名。", "exampleMeaning": "Thương hiệu này rất nổi tiếng." },
+    { "id": "chanpin", "term": "产品", "reading": "chǎnpǐn", "meaning": "sản phẩm", "emoji": "📦", "example": "我们的新产品上市了。", "exampleMeaning": "Sản phẩm mới của chúng tôi đã ra mắt." },
+    { "id": "jingzheng", "term": "竞争", "reading": "jìngzhēng", "meaning": "cạnh tranh", "emoji": "🥊", "example": "竞争越来越激烈。", "exampleMeaning": "Cạnh tranh ngày càng gay gắt." },
+    { "id": "duishou", "term": "对手", "reading": "duìshǒu", "meaning": "đối thủ", "emoji": "🆚", "example": "他们是我们的对手。", "exampleMeaning": "Họ là đối thủ của chúng tôi." },
+    { "id": "tuiguang", "term": "推广", "reading": "tuīguǎng", "meaning": "quảng bá, phổ biến", "emoji": "📣", "example": "这个活动推广得很好。", "exampleMeaning": "Sự kiện này được quảng bá rất tốt." },
+    { "id": "dingdan", "term": "订单", "reading": "dìngdān", "meaning": "đơn đặt hàng", "emoji": "🧾", "example": "今天收到三个订单。", "exampleMeaning": "Hôm nay nhận được ba đơn hàng." },
+    { "id": "yangpin", "term": "样品", "reading": "yàngpǐn", "meaning": "hàng mẫu", "emoji": "🎁", "example": "可以先寄样品吗?", "exampleMeaning": "Có thể gửi hàng mẫu trước không?" },
+    { "id": "xuqiu", "term": "需求", "reading": "xūqiú", "meaning": "nhu cầu", "emoji": "🙋", "example": "客户需求很大。", "exampleMeaning": "Nhu cầu của khách rất lớn." },
+    { "id": "qudao", "term": "渠道", "reading": "qúdào", "meaning": "kênh phân phối", "emoji": "🛣️", "example": "我们有很多销售渠道。", "exampleMeaning": "Chúng tôi có nhiều kênh bán hàng." },
+    { "id": "diaocha", "term": "调查", "reading": "diàochá", "meaning": "khảo sát, điều tra", "emoji": "📋", "example": "我们做了市场调查。", "exampleMeaning": "Chúng tôi đã làm khảo sát thị trường." },
+    { "id": "xiaoliang", "term": "销量", "reading": "xiāoliàng", "meaning": "lượng bán ra", "emoji": "📊", "example": "销量提高了两成。", "exampleMeaning": "Lượng bán tăng 20%." },
+    { "id": "ticheng", "term": "提成", "reading": "tíchéng", "meaning": "hoa hồng", "emoji": "💵", "example": "卖得多提成就多。", "exampleMeaning": "Bán càng nhiều hoa hồng càng cao." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["这个", "价格", "可以", "商量"], "reading": "zhège jiàgé kěyǐ shāngliang", "meaning": "Giá này có thể thương lượng." },
+    { "id": "s2", "tokens": ["请", "给", "我", "发", "一", "份", "报价"], "reading": "qǐng gěi wǒ fā yí fèn bàojià", "meaning": "Vui lòng gửi cho tôi một bản báo giá." },
+    { "id": "s3", "tokens": ["这个", "月", "的", "业绩", "很", "好"], "reading": "zhège yuè de yèjì hěn hǎo", "meaning": "Doanh số tháng này rất tốt." },
+    { "id": "s4", "tokens": ["我们", "要", "推广", "新", "产品"], "reading": "wǒmen yào tuīguǎng xīn chǎnpǐn", "meaning": "Chúng ta cần quảng bá sản phẩm mới." },
+    { "id": "s5", "tokens": ["周末", "有", "促销", "活动"], "reading": "zhōumò yǒu cùxiāo huódòng", "meaning": "Cuối tuần có chương trình khuyến mãi." },
+    { "id": "s6", "tokens": ["市场", "竞争", "很", "激烈"], "reading": "shìchǎng jìngzhēng hěn jīliè", "meaning": "Cạnh tranh trên thị trường rất gay gắt." }
+  ]
+}

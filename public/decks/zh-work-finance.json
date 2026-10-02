@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-finance",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "财务和会计",
+  "description": "Tài chính, kế toán, ngân sách và thuế.",
+  "words": [
+    { "id": "caiwu", "term": "财务", "reading": "cáiwù", "meaning": "tài chính (doanh nghiệp)", "emoji": "💼", "example": "财务部在三楼。", "exampleMeaning": "Phòng tài chính ở tầng 3." },
+    { "id": "kuaiji", "term": "会计", "reading": "kuàijì", "meaning": "kế toán", "emoji": "🧮", "example": "她是公司的会计。", "exampleMeaning": "Cô ấy là kế toán của công ty." },
+    { "id": "yusuan", "term": "预算", "reading": "yùsuàn", "meaning": "ngân sách, dự toán", "emoji": "💰", "example": "今年的预算不够。", "exampleMeaning": "Ngân sách năm nay không đủ." },
+    { "id": "chengben", "term": "成本", "reading": "chéngběn", "meaning": "giá thành, chi phí gốc", "emoji": "🏷️", "example": "成本太高了。", "exampleMeaning": "Giá thành quá cao." },
+    { "id": "lirun", "term": "利润", "reading": "lìrùn", "meaning": "lợi nhuận", "emoji": "📈", "example": "今年利润增加了。", "exampleMeaning": "Năm nay lợi nhuận tăng." },
+    { "id": "shouru", "term": "收入", "reading": "shōurù", "meaning": "thu nhập, khoản thu", "emoji": "💵", "example": "这个月收入不错。", "exampleMeaning": "Thu nhập tháng này khá tốt." },
+    { "id": "zhichu", "term": "支出", "reading": "zhīchū", "meaning": "khoản chi, chi tiêu", "emoji": "💸", "example": "要减少支出。", "exampleMeaning": "Cần giảm khoản chi." },
+    { "id": "baoxiao", "term": "报销", "reading": "bàoxiāo", "meaning": "thanh toán lại, hoàn chi phí", "emoji": "🧾", "example": "车费可以报销。", "exampleMeaning": "Tiền xe có thể được hoàn lại." },
+    { "id": "fukuan", "term": "付款", "reading": "fùkuǎn", "meaning": "thanh toán, trả tiền", "emoji": "💳", "example": "请下周一付款。", "exampleMeaning": "Vui lòng thanh toán vào thứ Hai tuần sau." },
+    { "id": "zhuanzhang", "term": "转账", "reading": "zhuǎnzhàng", "meaning": "chuyển khoản", "emoji": "🏦", "example": "我已经转账了。", "exampleMeaning": "Tôi đã chuyển khoản rồi." },
+    { "id": "zhanghu", "term": "账户", "reading": "zhànghù", "meaning": "tài khoản ngân hàng", "emoji": "🔢", "example": "请提供账户信息。", "exampleMeaning": "Vui lòng cung cấp thông tin tài khoản." },
+    { "id": "nashui", "term": "纳税", "reading": "nàshuì", "meaning": "nộp thuế", "emoji": "🏛️", "example": "企业要按时纳税。", "exampleMeaning": "Doanh nghiệp phải nộp thuế đúng hạn." },
+    { "id": "shuilv", "term": "税率", "reading": "shuìlǜ", "meaning": "thuế suất", "emoji": "％", "example": "税率是百分之十。", "exampleMeaning": "Thuế suất là 10%." },
+    { "id": "zhangmu", "term": "账目", "reading": "zhàngmù", "meaning": "sổ sách", "emoji": "📒", "example": "账目要清楚。", "exampleMeaning": "Sổ sách phải rõ ràng." },
+    { "id": "shenji", "term": "审计", "reading": "shěnjì", "meaning": "kiểm toán", "emoji": "🔍", "example": "下个月有审计。", "exampleMeaning": "Tháng sau có kiểm toán." },
+    { "id": "qiankuan", "term": "欠款", "reading": "qiànkuǎn", "meaning": "khoản nợ, tiền nợ", "emoji": "📉", "example": "他还有欠款没还。", "exampleMeaning": "Anh ấy còn khoản nợ chưa trả." },
+    { "id": "jiesuan", "term": "结算", "reading": "jiésuàn", "meaning": "quyết toán, kết toán", "emoji": "🧾", "example": "月底统一结算。", "exampleMeaning": "Cuối tháng quyết toán một lần." },
+    { "id": "baobiao", "term": "报表", "reading": "bàobiǎo", "meaning": "báo biểu, bảng kê số liệu", "emoji": "📊", "example": "财务报表做好了。", "exampleMeaning": "Báo cáo tài chính đã làm xong." },
+    { "id": "huilv", "term": "汇率", "reading": "huìlǜ", "meaning": "tỷ giá", "emoji": "💱", "example": "今天的汇率是多少?", "exampleMeaning": "Tỷ giá hôm nay là bao nhiêu?" },
+    { "id": "xianjin", "term": "现金", "reading": "xiànjīn", "meaning": "tiền mặt", "emoji": "💴", "example": "可以用现金付款吗?", "exampleMeaning": "Có thể trả bằng tiền mặt không?" }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["这个", "月", "预算", "不够"], "reading": "zhège yuè yùsuàn búgòu", "meaning": "Ngân sách tháng này không đủ." },
+    { "id": "s2", "tokens": ["车费", "可以", "报销", "吗"], "reading": "chēfèi kěyǐ bàoxiāo ma", "meaning": "Tiền xe có được thanh toán lại không?" },
+    { "id": "s3", "tokens": ["我们", "已经", "转账", "了"], "reading": "wǒmen yǐjīng zhuǎnzhàng le", "meaning": "Chúng tôi đã chuyển khoản rồi." },
+    { "id": "s4", "tokens": ["今年", "的", "利润", "比", "去年", "高"], "reading": "jīnnián de lìrùn bǐ qùnián gāo", "meaning": "Lợi nhuận năm nay cao hơn năm ngoái." },
+    { "id": "s5", "tokens": ["请", "会计", "核对", "账目"], "reading": "qǐng kuàijì héduì zhàngmù", "meaning": "Nhờ kế toán đối chiếu sổ sách." },
+    { "id": "s6", "tokens": ["我们", "要", "降低", "成本"], "reading": "wǒmen yào jiàngdī chéngběn", "meaning": "Chúng ta phải giảm giá thành." }
+  ]
+}

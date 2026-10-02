@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-customers",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "客户服务",
+  "description": "Chăm sóc khách hàng, khiếu nại và hỗ trợ.",
+  "words": [
+    { "id": "fuwu", "term": "服务", "reading": "fúwù", "meaning": "phục vụ, dịch vụ", "emoji": "🛎️", "example": "我们的服务很周到。", "exampleMeaning": "Dịch vụ của chúng tôi rất chu đáo." },
+    { "id": "tousu", "term": "投诉", "reading": "tóusù", "meaning": "khiếu nại", "emoji": "😠", "example": "有位顾客来投诉。", "exampleMeaning": "Có một khách hàng đến khiếu nại." },
+    { "id": "guke", "term": "顾客", "reading": "gùkè", "meaning": "khách hàng, người mua", "emoji": "🧑", "example": "顾客是上帝。", "exampleMeaning": "Khách hàng là thượng đế." },
+    { "id": "zixun", "term": "咨询", "reading": "zīxún", "meaning": "tư vấn, hỏi thông tin", "emoji": "💁", "example": "欢迎来电咨询。", "exampleMeaning": "Hoan nghênh gọi điện tư vấn." },
+    { "id": "tuihuo", "term": "退货", "reading": "tuìhuò", "meaning": "trả hàng", "emoji": "↩️", "example": "这件衣服能退货吗?", "exampleMeaning": "Bộ quần áo này có trả lại được không?" },
+    { "id": "huanhuo", "term": "换货", "reading": "huànhuò", "meaning": "đổi hàng", "emoji": "🔁", "example": "尺码不对可以换货。", "exampleMeaning": "Sai kích cỡ có thể đổi hàng." },
+    { "id": "tuikuan", "term": "退款", "reading": "tuìkuǎn", "meaning": "hoàn tiền", "emoji": "💵", "example": "退款三天内到账。", "exampleMeaning": "Tiền hoàn sẽ về trong 3 ngày." },
+    { "id": "baoxiu", "term": "保修", "reading": "bǎoxiū", "meaning": "bảo hành", "emoji": "🛡️", "example": "保修期内免费修。", "exampleMeaning": "Trong thời gian bảo hành được sửa miễn phí." },
+    { "id": "manyi", "term": "满意", "reading": "mǎnyì", "meaning": "hài lòng", "emoji": "😊", "example": "顾客很满意。", "exampleMeaning": "Khách rất hài lòng." },
+    { "id": "daoqian", "term": "道歉", "reading": "dàoqiàn", "meaning": "xin lỗi", "emoji": "🙇", "example": "我们向您道歉。", "exampleMeaning": "Chúng tôi xin lỗi quý khách." },
+    { "id": "jiejue", "term": "解决", "reading": "jiějué", "meaning": "giải quyết", "emoji": "✅", "example": "问题已经解决了。", "exampleMeaning": "Vấn đề đã được giải quyết." },
+    { "id": "fankui", "term": "反馈", "reading": "fǎnkuì", "meaning": "phản hồi, góp ý", "emoji": "💬", "example": "谢谢您的反馈。", "exampleMeaning": "Cảm ơn phản hồi của quý khách." },
+    { "id": "kefu", "term": "客服", "reading": "kèfú", "meaning": "bộ phận chăm sóc khách hàng", "emoji": "🎧", "example": "请联系在线客服。", "exampleMeaning": "Vui lòng liên hệ CSKH trực tuyến." },
+    { "id": "rexian", "term": "热线", "reading": "rèxiàn", "meaning": "đường dây nóng", "emoji": "☎️", "example": "请拨打服务热线。", "exampleMeaning": "Vui lòng gọi đường dây nóng." },
+    { "id": "dengdai", "term": "等待", "reading": "děngdài", "meaning": "chờ đợi", "emoji": "⏳", "example": "等待时间太长了。", "exampleMeaning": "Thời gian chờ quá lâu." },
+    { "id": "naixin", "term": "耐心", "reading": "nàixīn", "meaning": "kiên nhẫn", "emoji": "🧘", "example": "客服要有耐心。", "exampleMeaning": "Nhân viên CSKH cần kiên nhẫn." },
+    { "id": "taidu", "term": "态度", "reading": "tàidù", "meaning": "thái độ", "emoji": "🙂", "example": "服务员态度很好。", "exampleMeaning": "Thái độ nhân viên phục vụ rất tốt." },
+    { "id": "zhiliang", "term": "质量", "reading": "zhìliàng", "meaning": "chất lượng", "emoji": "⭐", "example": "这个产品质量有问题。", "exampleMeaning": "Sản phẩm này có vấn đề về chất lượng." },
+    { "id": "huifang", "term": "回访", "reading": "huífǎng", "meaning": "thăm hỏi lại khách", "emoji": "📞", "example": "我们会定期回访。", "exampleMeaning": "Chúng tôi sẽ định kỳ hỏi thăm lại." },
+    { "id": "huiyuan", "term": "会员", "reading": "huìyuán", "meaning": "hội viên, thành viên", "emoji": "💳", "example": "会员可以打九折。", "exampleMeaning": "Hội viên được giảm 10%." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["请", "您", "耐心", "等待"], "reading": "qǐng nín nàixīn děngdài", "meaning": "Xin quý khách kiên nhẫn chờ đợi." },
+    { "id": "s2", "tokens": ["我们", "马上", "帮", "您", "解决"], "reading": "wǒmen mǎshàng bāng nín jiějué", "meaning": "Chúng tôi sẽ giải quyết giúp quý khách ngay." },
+    { "id": "s3", "tokens": ["七", "天", "内", "可以", "退货"], "reading": "qī tiān nèi kěyǐ tuìhuò", "meaning": "Trong vòng 7 ngày có thể trả hàng." },
+    { "id": "s4", "tokens": ["非常", "抱歉", "给", "您", "带来", "不便"], "reading": "fēicháng bàoqiàn gěi nín dàilái búbiàn", "meaning": "Rất xin lỗi vì đã gây bất tiện cho quý khách." },
+    { "id": "s5", "tokens": ["您", "对", "服务", "满意", "吗"], "reading": "nín duì fúwù mǎnyì ma", "meaning": "Quý khách có hài lòng với dịch vụ không?" },
+    { "id": "s6", "tokens": ["这", "台", "机器", "保修", "一", "年"], "reading": "zhè tái jīqì bǎoxiū yì nián", "meaning": "Máy này được bảo hành một năm." }
+  ]
+}

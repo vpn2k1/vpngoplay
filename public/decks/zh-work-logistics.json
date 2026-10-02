@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-logistics",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "生产和物流",
+  "description": "Sản xuất, kho bãi, vận chuyển và giao hàng.",
+  "words": [
+    { "id": "shengchan", "term": "生产", "reading": "shēngchǎn", "meaning": "sản xuất", "emoji": "🏭", "example": "工厂每天生产一千件。", "exampleMeaning": "Nhà máy mỗi ngày sản xuất 1.000 chiếc." },
+    { "id": "wuliu", "term": "物流", "reading": "wùliú", "meaning": "hậu cần, logistics", "emoji": "🚚", "example": "物流公司明天来取货。", "exampleMeaning": "Công ty logistics mai đến lấy hàng." },
+    { "id": "cangku", "term": "仓库", "reading": "cāngkù", "meaning": "kho hàng", "emoji": "🏬", "example": "货都放在仓库里。", "exampleMeaning": "Hàng đều để trong kho." },
+    { "id": "kucun", "term": "库存", "reading": "kùcún", "meaning": "hàng tồn kho", "emoji": "📦", "example": "库存不多了。", "exampleMeaning": "Hàng tồn kho không còn nhiều." },
+    { "id": "fahuo", "term": "发货", "reading": "fāhuò", "meaning": "gửi hàng, xuất hàng", "emoji": "📤", "example": "我们今天发货。", "exampleMeaning": "Hôm nay chúng tôi gửi hàng." },
+    { "id": "shouhuo", "term": "收货", "reading": "shōuhuò", "meaning": "nhận hàng", "emoji": "📥", "example": "收货时请检查。", "exampleMeaning": "Khi nhận hàng vui lòng kiểm tra." },
+    { "id": "jiaohuo", "term": "交货", "reading": "jiāohuò", "meaning": "giao hàng", "emoji": "🚛", "example": "我们能按时交货。", "exampleMeaning": "Chúng tôi có thể giao hàng đúng hạn." },
+    { "id": "yunshu", "term": "运输", "reading": "yùnshū", "meaning": "vận chuyển, vận tải", "emoji": "🚢", "example": "运输费用很高。", "exampleMeaning": "Chi phí vận chuyển rất cao." },
+    { "id": "kuaidi", "term": "快递", "reading": "kuàidì", "meaning": "chuyển phát nhanh", "emoji": "📮", "example": "你的快递到了。", "exampleMeaning": "Bưu phẩm của bạn đến rồi." },
+    { "id": "baozhuang", "term": "包装", "reading": "bāozhuāng", "meaning": "đóng gói, bao bì", "emoji": "🎁", "example": "这个包装很漂亮。", "exampleMeaning": "Bao bì này rất đẹp." },
+    { "id": "huowu", "term": "货物", "reading": "huòwù", "meaning": "hàng hóa", "emoji": "📦", "example": "这批货物很重。", "exampleMeaning": "Lô hàng này rất nặng." },
+    { "id": "gangkou", "term": "港口", "reading": "gǎngkǒu", "meaning": "cảng, bến cảng", "emoji": "⚓", "example": "船明天到港口。", "exampleMeaning": "Tàu ngày mai cập cảng." },
+    { "id": "jizhuangxiang", "term": "集装箱", "reading": "jízhuāngxiāng", "meaning": "container, công-te-nơ", "emoji": "🚛", "example": "这批货装了两个集装箱。", "exampleMeaning": "Lô hàng này đóng hai container." },
+    { "id": "haiguan", "term": "海关", "reading": "hǎiguān", "meaning": "hải quan", "emoji": "🛃", "example": "货物在海关检查。", "exampleMeaning": "Hàng đang được hải quan kiểm tra." },
+    { "id": "yuanliao", "term": "原料", "reading": "yuánliào", "meaning": "nguyên liệu", "emoji": "🧱", "example": "原料价格上涨了。", "exampleMeaning": "Giá nguyên liệu tăng rồi." },
+    { "id": "chanliang", "term": "产量", "reading": "chǎnliàng", "meaning": "sản lượng", "emoji": "📊", "example": "今年产量提高了。", "exampleMeaning": "Năm nay sản lượng tăng." },
+    { "id": "pici", "term": "批次", "reading": "pīcì", "meaning": "lô sản xuất", "emoji": "🔢", "example": "这个批次有问题。", "exampleMeaning": "Lô này có vấn đề." },
+    { "id": "gongyingshang", "term": "供应商", "reading": "gōngyìngshāng", "meaning": "nhà cung cấp", "emoji": "🏢", "example": "我们换了供应商。", "exampleMeaning": "Chúng tôi đã đổi nhà cung cấp." },
+    { "id": "zhuangxie", "term": "装卸", "reading": "zhuāngxiè", "meaning": "bốc dỡ, bốc xếp", "emoji": "🏋️", "example": "工人在装卸货物。", "exampleMeaning": "Công nhân đang bốc dỡ hàng." },
+    { "id": "qingdan", "term": "清单", "reading": "qīngdān", "meaning": "danh sách, bảng kê", "emoji": "📋", "example": "请核对发货清单。", "exampleMeaning": "Vui lòng đối chiếu danh sách hàng gửi." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我们", "今天", "下午", "发货"], "reading": "wǒmen jīntiān xiàwǔ fāhuò", "meaning": "Chiều nay chúng tôi gửi hàng." },
+    { "id": "s2", "tokens": ["仓库", "里", "库存", "不", "多", "了"], "reading": "cāngkù lǐ kùcún bù duō le", "meaning": "Hàng tồn trong kho không còn nhiều." },
+    { "id": "s3", "tokens": ["货物", "已经", "到", "港口", "了"], "reading": "huòwù yǐjīng dào gǎngkǒu le", "meaning": "Hàng đã đến cảng rồi." },
+    { "id": "s4", "tokens": ["包装", "一定", "要", "结实"], "reading": "bāozhuāng yídìng yào jiēshi", "meaning": "Bao bì nhất định phải chắc chắn." },
+    { "id": "s5", "tokens": ["下", "个", "月", "十", "号", "交货"], "reading": "xià gè yuè shí hào jiāohuò", "meaning": "Ngày 10 tháng sau giao hàng." },
+    { "id": "s6", "tokens": ["请", "联系", "供应商", "补货"], "reading": "qǐng liánxì gōngyìngshāng bǔhuò", "meaning": "Vui lòng liên hệ nhà cung cấp để bổ sung hàng." }
+  ]
+}

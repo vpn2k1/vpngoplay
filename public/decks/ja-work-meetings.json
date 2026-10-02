@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-meetings",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "会議とプレゼン",
+  "description": "Họp hành và thuyết trình.",
+  "words": [
+    { "id": "gidai", "term": "議題", "reading": "ぎだい · gidai", "meaning": "chủ đề cuộc họp", "emoji": "🗂️", "example": "今日の議題です。", "exampleMeaning": "Đây là chủ đề hôm nay." },
+    { "id": "gijiroku", "term": "議事録", "reading": "ぎじろく · gijiroku", "meaning": "biên bản họp", "emoji": "📝", "example": "議事録を取る。", "exampleMeaning": "Ghi biên bản họp." },
+    { "id": "shikai", "term": "司会", "reading": "しかい · shikai", "meaning": "dẫn chương trình, chủ trì", "emoji": "🎤", "example": "司会は田中さんです。", "exampleMeaning": "Người chủ trì là anh Tanaka." },
+    { "id": "happyou", "term": "発表", "reading": "はっぴょう · happyō", "meaning": "phát biểu, công bố", "emoji": "📢", "example": "結果を発表します。", "exampleMeaning": "Tôi công bố kết quả." },
+    { "id": "teian", "term": "提案", "reading": "ていあん · teian", "meaning": "đề xuất, đề nghị", "emoji": "💡", "example": "新しい提案があります。", "exampleMeaning": "Tôi có đề xuất mới." },
+    { "id": "iken", "term": "意見", "reading": "いけん · iken", "meaning": "ý kiến", "emoji": "🗣️", "example": "意見を言ってください。", "exampleMeaning": "Hãy nói ý kiến của bạn." },
+    { "id": "shitsumon", "term": "質問", "reading": "しつもん · shitsumon", "meaning": "câu hỏi", "emoji": "❓", "example": "質問はありますか。", "exampleMeaning": "Có câu hỏi nào không?" },
+    { "id": "sansei", "term": "賛成", "reading": "さんせい · sansei", "meaning": "tán thành", "emoji": "👍", "example": "その案に賛成です。", "exampleMeaning": "Tôi tán thành phương án đó." },
+    { "id": "hantai", "term": "反対", "reading": "はんたい · hantai", "meaning": "phản đối", "emoji": "👎", "example": "私は反対です。", "exampleMeaning": "Tôi phản đối." },
+    { "id": "ketsuron", "term": "結論", "reading": "けつろん · ketsuron", "meaning": "kết luận", "emoji": "🎯", "example": "結論から話します。", "exampleMeaning": "Tôi nói kết luận trước." },
+    { "id": "kettei", "term": "決定", "reading": "けってい · kettei", "meaning": "quyết định", "emoji": "🔨", "example": "方針が決定した。", "exampleMeaning": "Phương hướng đã được quyết định." },
+    { "id": "shusseki", "term": "出席", "reading": "しゅっせき · shusseki", "meaning": "có mặt, tham dự", "emoji": "🙋", "example": "会議に出席する。", "exampleMeaning": "Tham dự cuộc họp." },
+    { "id": "kesseki", "term": "欠席", "reading": "けっせき · kesseki", "meaning": "vắng mặt", "emoji": "🚫", "example": "明日は欠席します。", "exampleMeaning": "Mai tôi vắng mặt." },
+    { "id": "sukuriin", "term": "スクリーン", "reading": "sukurīn", "meaning": "màn hình chiếu", "emoji": "📽️", "example": "スクリーンを見てください。", "exampleMeaning": "Mời nhìn lên màn hình chiếu." },
+    { "id": "gurafu", "term": "グラフ", "reading": "gurafu", "meaning": "biểu đồ", "emoji": "📈", "example": "グラフで説明する。", "exampleMeaning": "Giải thích bằng biểu đồ." },
+    { "id": "setsumei", "term": "説明", "reading": "せつめい · setsumei", "meaning": "giải thích", "emoji": "🧑‍🏫", "example": "詳しく説明します。", "exampleMeaning": "Tôi sẽ giải thích chi tiết." },
+    { "id": "kyougi", "term": "協議", "reading": "きょうぎ · kyōgi", "meaning": "thảo luận, bàn thảo", "emoji": "🤝", "example": "条件を協議する。", "exampleMeaning": "Thảo luận các điều kiện." },
+    { "id": "nittei", "term": "日程", "reading": "にってい · nittei", "meaning": "lịch trình", "emoji": "📅", "example": "日程を調整する。", "exampleMeaning": "Điều chỉnh lịch trình." },
+    { "id": "haifu", "term": "配布", "reading": "はいふ · haifu", "meaning": "phát (tài liệu)", "emoji": "📑", "example": "資料を配布する。", "exampleMeaning": "Phát tài liệu." },
+    { "id": "youten", "term": "要点", "reading": "ようてん · yōten", "meaning": "điểm chính", "emoji": "📌", "example": "要点をまとめる。", "exampleMeaning": "Tóm tắt các điểm chính." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["今日", "の", "議題", "は", "新しい", "提案", "です"], "reading": "きょうのぎだいはあたらしいていあんです", "meaning": "Chủ đề hôm nay là đề xuất mới." },
+    { "id": "s2", "tokens": ["何か", "質問", "は", "ありますか"], "reading": "なにかしつもんはありますか", "meaning": "Có câu hỏi gì không?" },
+    { "id": "s3", "tokens": ["グラフ", "を", "見ながら", "説明", "します"], "reading": "グラフをみながらせつめいします", "meaning": "Tôi vừa xem biểu đồ vừa giải thích." },
+    { "id": "s4", "tokens": ["議事録", "を", "みんな", "に", "送ります"], "reading": "ぎじろくをみんなにおくります", "meaning": "Tôi gửi biên bản họp cho mọi người." },
+    { "id": "s5", "tokens": ["私", "は", "その", "意見", "に", "賛成", "です"], "reading": "わたしはそのいけんにさんせいです", "meaning": "Tôi tán thành ý kiến đó." },
+    { "id": "s6", "tokens": ["明日", "の", "会議", "は", "欠席", "します"], "reading": "あしたのかいぎはけっせきします", "meaning": "Tôi vắng mặt buổi họp ngày mai." }
+  ]
+}

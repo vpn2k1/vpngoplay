@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-contracts",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "合同和谈判",
+  "description": "Hợp đồng, đàm phán và điều khoản.",
+  "words": [
+    { "id": "tanpan", "term": "谈判", "reading": "tánpàn", "meaning": "đàm phán", "emoji": "🤝", "example": "谈判进行得很顺利。", "exampleMeaning": "Cuộc đàm phán diễn ra suôn sẻ." },
+    { "id": "tiaokuan", "term": "条款", "reading": "tiáokuǎn", "meaning": "điều khoản", "emoji": "📜", "example": "请仔细看每个条款。", "exampleMeaning": "Vui lòng đọc kỹ từng điều khoản." },
+    { "id": "qianyue", "term": "签约", "reading": "qiānyuē", "meaning": "ký kết, ký hợp đồng", "emoji": "✍️", "example": "签约仪式在下午。", "exampleMeaning": "Lễ ký kết vào buổi chiều." },
+    { "id": "hezuo", "term": "合作", "reading": "hézuò", "meaning": "hợp tác", "emoji": "🙌", "example": "合作很愉快!", "exampleMeaning": "Hợp tác rất vui vẻ!" },
+    { "id": "huoban", "term": "伙伴", "reading": "huǒbàn", "meaning": "đối tác, bạn đồng hành", "emoji": "👫", "example": "他们是我们的合作伙伴。", "exampleMeaning": "Họ là đối tác hợp tác của chúng tôi." },
+    { "id": "shuangfang", "term": "双方", "reading": "shuāngfāng", "meaning": "hai bên", "emoji": "↔️", "example": "双方都很满意。", "exampleMeaning": "Cả hai bên đều rất hài lòng." },
+    { "id": "tiaojian", "term": "条件", "reading": "tiáojiàn", "meaning": "điều kiện", "emoji": "📋", "example": "你们的条件是什么?", "exampleMeaning": "Điều kiện của các bạn là gì?" },
+    { "id": "rangbu", "term": "让步", "reading": "ràngbù", "meaning": "nhượng bộ", "emoji": "🏳️", "example": "对方不肯让步。", "exampleMeaning": "Bên kia không chịu nhượng bộ." },
+    { "id": "weiyue", "term": "违约", "reading": "wéiyuē", "meaning": "vi phạm hợp đồng", "emoji": "⚠️", "example": "违约要赔钱。", "exampleMeaning": "Vi phạm hợp đồng phải đền tiền." },
+    { "id": "peichang", "term": "赔偿", "reading": "péicháng", "meaning": "bồi thường", "emoji": "💸", "example": "对方要求赔偿。", "exampleMeaning": "Bên kia yêu cầu bồi thường." },
+    { "id": "youxiaoqi", "term": "有效期", "reading": "yǒuxiàoqī", "meaning": "thời hạn hiệu lực", "emoji": "📅", "example": "合同有效期是一年。", "exampleMeaning": "Hợp đồng có hiệu lực một năm." },
+    { "id": "xuyue", "term": "续约", "reading": "xùyuē", "meaning": "gia hạn hợp đồng", "emoji": "🔄", "example": "明年我们会续约。", "exampleMeaning": "Năm sau chúng tôi sẽ gia hạn hợp đồng." },
+    { "id": "zhongzhi", "term": "终止", "reading": "zhōngzhǐ", "meaning": "chấm dứt", "emoji": "⛔", "example": "他们想终止合作。", "exampleMeaning": "Họ muốn chấm dứt hợp tác." },
+    { "id": "dingjin", "term": "定金", "reading": "dìngjīn", "meaning": "tiền đặt cọc", "emoji": "💰", "example": "请先付百分之三十定金。", "exampleMeaning": "Vui lòng đặt cọc trước 30%." },
+    { "id": "yanqi", "term": "延期", "reading": "yánqī", "meaning": "trì hoãn, lùi thời hạn", "emoji": "⏳", "example": "交货可能要延期。", "exampleMeaning": "Giao hàng có thể phải lùi lại." },
+    { "id": "xieyi", "term": "协议", "reading": "xiéyì", "meaning": "thỏa thuận, hiệp định", "emoji": "📃", "example": "双方签了协议。", "exampleMeaning": "Hai bên đã ký thỏa thuận." },
+    { "id": "tongyi", "term": "同意", "reading": "tóngyì", "meaning": "đồng ý", "emoji": "👍", "example": "老板同意了这个价格。", "exampleMeaning": "Sếp đã đồng ý mức giá này." },
+    { "id": "jujue", "term": "拒绝", "reading": "jùjué", "meaning": "từ chối", "emoji": "👎", "example": "他们拒绝了我们的要求。", "exampleMeaning": "Họ đã từ chối yêu cầu của chúng tôi." },
+    { "id": "liyi", "term": "利益", "reading": "lìyì", "meaning": "lợi ích", "emoji": "⚖️", "example": "要考虑双方的利益。", "exampleMeaning": "Phải cân nhắc lợi ích của hai bên." },
+    { "id": "zeren", "term": "责任", "reading": "zérèn", "meaning": "trách nhiệm", "emoji": "🧷", "example": "这是谁的责任?", "exampleMeaning": "Đây là trách nhiệm của ai?" }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我们", "下", "周", "签约", "吧"], "reading": "wǒmen xià zhōu qiānyuē ba", "meaning": "Tuần sau chúng ta ký kết nhé." },
+    { "id": "s2", "tokens": ["这个", "条款", "需要", "修改"], "reading": "zhège tiáokuǎn xūyào xiūgǎi", "meaning": "Điều khoản này cần sửa." },
+    { "id": "s3", "tokens": ["希望", "我们", "长期", "合作"], "reading": "xīwàng wǒmen chángqī hézuò", "meaning": "Mong chúng ta hợp tác lâu dài." },
+    { "id": "s4", "tokens": ["双方", "都", "同意", "了"], "reading": "shuāngfāng dōu tóngyì le", "meaning": "Cả hai bên đều đồng ý rồi." },
+    { "id": "s5", "tokens": ["违约", "方", "要", "赔偿", "损失"], "reading": "wéiyuē fāng yào péicháng sǔnshī", "meaning": "Bên vi phạm phải bồi thường thiệt hại." },
+    { "id": "s6", "tokens": ["我们", "可以", "再", "让步", "一点"], "reading": "wǒmen kěyǐ zài ràngbù yìdiǎn", "meaning": "Chúng tôi có thể nhượng bộ thêm chút nữa." }
+  ]
+}

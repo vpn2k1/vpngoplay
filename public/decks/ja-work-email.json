@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-email",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "メールと書類",
+  "description": "Viết email và soạn giấy tờ nơi công sở.",
+  "words": [
+    { "id": "kenmei", "term": "件名", "reading": "けんめい · kenmei", "meaning": "tiêu đề email", "emoji": "📧", "example": "件名を書きます。", "exampleMeaning": "Tôi viết tiêu đề email." },
+    { "id": "tenpu", "term": "添付", "reading": "てんぷ · tenpu", "meaning": "đính kèm", "emoji": "📎", "example": "ファイルを添付します。", "exampleMeaning": "Tôi đính kèm tệp." },
+    { "id": "henshin", "term": "返信", "reading": "へんしん · henshin", "meaning": "trả lời, hồi âm", "emoji": "↩️", "example": "すぐ返信します。", "exampleMeaning": "Tôi sẽ trả lời ngay." },
+    { "id": "soushin", "term": "送信", "reading": "そうしん · sōshin", "meaning": "gửi đi", "emoji": "📤", "example": "メールを送信する。", "exampleMeaning": "Gửi email đi." },
+    { "id": "jushin", "term": "受信", "reading": "じゅしん · jushin", "meaning": "nhận (thư)", "emoji": "📥", "example": "メールを受信しました。", "exampleMeaning": "Tôi đã nhận được email." },
+    { "id": "atesaki", "term": "宛先", "reading": "あてさき · atesaki", "meaning": "người nhận, địa chỉ gửi", "emoji": "📮", "example": "宛先を確認する。", "exampleMeaning": "Kiểm tra người nhận." },
+    { "id": "shomei", "term": "署名", "reading": "しょめい · shomei", "meaning": "chữ ký", "emoji": "✍️", "example": "署名をお願いします。", "exampleMeaning": "Xin vui lòng ký tên." },
+    { "id": "shorui", "term": "書類", "reading": "しょるい · shorui", "meaning": "giấy tờ, hồ sơ", "emoji": "📁", "example": "書類を整理する。", "exampleMeaning": "Sắp xếp giấy tờ." },
+    { "id": "teishutsu", "term": "提出", "reading": "ていしゅつ · teishutsu", "meaning": "nộp, đệ trình", "emoji": "📨", "example": "明日までに提出します。", "exampleMeaning": "Tôi sẽ nộp trước ngày mai." },
+    { "id": "inkan", "term": "印鑑", "reading": "いんかん · inkan", "meaning": "con dấu", "emoji": "🔖", "example": "ここに印鑑を押す。", "exampleMeaning": "Đóng dấu vào đây." },
+    { "id": "kakunin", "term": "確認", "reading": "かくにん · kakunin", "meaning": "xác nhận, kiểm tra", "emoji": "✅", "example": "内容を確認します。", "exampleMeaning": "Tôi sẽ kiểm tra nội dung." },
+    { "id": "shitagaki", "term": "下書き", "reading": "したがき · shitagaki", "meaning": "bản nháp", "emoji": "📝", "example": "下書きを保存する。", "exampleMeaning": "Lưu bản nháp." },
+    { "id": "tensou", "term": "転送", "reading": "てんそう · tensō", "meaning": "chuyển tiếp", "emoji": "⏩", "example": "メールを転送します。", "exampleMeaning": "Tôi chuyển tiếp email." },
+    { "id": "shinseisho", "term": "申請書", "reading": "しんせいしょ · shinseisho", "meaning": "đơn xin, đơn đăng ký", "emoji": "📋", "example": "申請書を書く。", "exampleMeaning": "Viết đơn xin." },
+    { "id": "keigu", "term": "敬具", "reading": "けいぐ · keigu", "meaning": "trân trọng (cuối thư)", "emoji": "🖋️", "example": "手紙の最後に敬具と書く。", "exampleMeaning": "Viết \"kính thư\" ở cuối thư." },
+    { "id": "insatsu", "term": "印刷", "reading": "いんさつ · insatsu", "meaning": "in ấn", "emoji": "🖨️", "example": "資料を印刷する。", "exampleMeaning": "In tài liệu." },
+    { "id": "kopii", "term": "コピー", "reading": "kopī", "meaning": "bản sao, photo", "emoji": "📠", "example": "コピーを取る。", "exampleMeaning": "Photo một bản." },
+    { "id": "bunsho", "term": "文書", "reading": "ぶんしょ · bunsho", "meaning": "văn bản", "emoji": "📃", "example": "文書を読む。", "exampleMeaning": "Đọc văn bản." },
+    { "id": "sakusei", "term": "作成", "reading": "さくせい · sakusei", "meaning": "soạn thảo, lập", "emoji": "🛠️", "example": "報告書を作成します。", "exampleMeaning": "Tôi soạn bản báo cáo." },
+    { "id": "fuutou", "term": "封筒", "reading": "ふうとう · fūtō", "meaning": "phong bì", "emoji": "✉️", "example": "封筒に入れる。", "exampleMeaning": "Cho vào phong bì." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["資料", "を", "添付", "して", "送信", "します"], "reading": "しりょうをてんぷしてそうしんします", "meaning": "Tôi đính kèm tài liệu rồi gửi đi." },
+    { "id": "s2", "tokens": ["件名", "を", "確認", "して", "ください"], "reading": "けんめいをかくにんしてください", "meaning": "Vui lòng kiểm tra tiêu đề email." },
+    { "id": "s3", "tokens": ["書類", "は", "金曜日", "までに", "提出", "します"], "reading": "しょるいはきんようびまでにていしゅつします", "meaning": "Tôi sẽ nộp giấy tờ trước thứ Sáu." },
+    { "id": "s4", "tokens": ["メール", "に", "すぐ", "返信", "しました"], "reading": "メールにすぐへんしんしました", "meaning": "Tôi đã trả lời email ngay." },
+    { "id": "s5", "tokens": ["申請書", "に", "印鑑", "を", "押して", "ください"], "reading": "しんせいしょにいんかんをおしてください", "meaning": "Vui lòng đóng dấu vào đơn." },
+    { "id": "s6", "tokens": ["下書き", "を", "上司", "に", "転送", "します"], "reading": "したがきをじょうしにてんそうします", "meaning": "Tôi chuyển bản nháp cho cấp trên." }
+  ]
+}

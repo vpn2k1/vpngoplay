@@ -1,0 +1,38 @@
+{
+  "id": "en-work-hr",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "HR & Recruitment",
+  "description": "Nhân sự, tuyển dụng và phỏng vấn.",
+  "words": [
+    { "id": "interview", "term": "interview", "reading": "/ˈɪntərvjuː/", "meaning": "phỏng vấn", "emoji": "🎙️", "example": "The interview is at ten tomorrow.", "exampleMeaning": "Buổi phỏng vấn diễn ra lúc mười giờ ngày mai." },
+    { "id": "candidate", "term": "candidate", "reading": "/ˈkændɪdət/", "meaning": "ứng viên", "emoji": "🧑‍💼", "example": "This candidate has good experience.", "exampleMeaning": "Ứng viên này có kinh nghiệm tốt." },
+    { "id": "resume", "term": "resume", "reading": "/ˈrezəmeɪ/", "meaning": "sơ yếu lý lịch", "emoji": "📄", "example": "Please send your resume by email.", "exampleMeaning": "Vui lòng gửi sơ yếu lý lịch qua email." },
+    { "id": "job-offer", "term": "job offer", "reading": "/dʒɑːb ˈɔːfər/", "meaning": "lời mời làm việc", "emoji": "📩", "example": "She accepted the job offer.", "exampleMeaning": "Cô ấy đã nhận lời mời làm việc." },
+    { "id": "salary", "term": "salary", "reading": "/ˈsæləri/", "meaning": "lương", "emoji": "💰", "example": "The salary is paid monthly.", "exampleMeaning": "Lương được trả hàng tháng." },
+    { "id": "hire", "term": "hire", "reading": "/ˈhaɪər/", "meaning": "tuyển dụng, thuê", "emoji": "🤝", "example": "We plan to hire two engineers.", "exampleMeaning": "Chúng tôi dự định tuyển hai kỹ sư." },
+    { "id": "fire", "term": "fire", "reading": "/ˈfaɪər/", "meaning": "sa thải", "emoji": "🚪", "example": "They did not fire anyone this year.", "exampleMeaning": "Năm nay họ không sa thải ai." },
+    { "id": "resign", "term": "resign", "reading": "/rɪˈzaɪn/", "meaning": "nghỉ việc, từ chức", "emoji": "👋", "example": "He decided to resign last week.", "exampleMeaning": "Tuần trước anh ấy quyết định nghỉ việc." },
+    { "id": "promotion", "term": "promotion", "reading": "/prəˈmoʊʃn/", "meaning": "thăng chức", "emoji": "🏅", "example": "She got a promotion last month.", "exampleMeaning": "Tháng trước cô ấy được thăng chức." },
+    { "id": "benefits", "term": "benefits", "reading": "/ˈbenɪfɪts/", "meaning": "phúc lợi", "emoji": "🎁", "example": "The benefits include health insurance.", "exampleMeaning": "Phúc lợi bao gồm bảo hiểm y tế." },
+    { "id": "probation", "term": "probation", "reading": "/proʊˈbeɪʃn/", "meaning": "thử việc", "emoji": "⏳", "example": "New staff have two months of probation.", "exampleMeaning": "Nhân viên mới có hai tháng thử việc." },
+    { "id": "experience", "term": "experience", "reading": "/ɪkˈspɪriəns/", "meaning": "kinh nghiệm", "emoji": "🧭", "example": "Do you have any sales experience?", "exampleMeaning": "Bạn có kinh nghiệm bán hàng không?" },
+    { "id": "skill", "term": "skill", "reading": "/skɪl/", "meaning": "kỹ năng", "emoji": "🛠️", "example": "Communication is an important skill.", "exampleMeaning": "Giao tiếp là một kỹ năng quan trọng." },
+    { "id": "job-description", "term": "job description", "reading": "/dʒɑːb dɪˈskrɪpʃn/", "meaning": "mô tả công việc", "emoji": "📃", "example": "Read the job description carefully.", "exampleMeaning": "Hãy đọc kỹ mô tả công việc." },
+    { "id": "apply", "term": "apply", "reading": "/əˈplaɪ/", "meaning": "ứng tuyển", "emoji": "📝", "example": "I want to apply for this position.", "exampleMeaning": "Tôi muốn ứng tuyển vào vị trí này." },
+    { "id": "position", "term": "position", "reading": "/pəˈzɪʃn/", "meaning": "vị trí, chức vụ", "emoji": "💼", "example": "The position is still open.", "exampleMeaning": "Vị trí này vẫn còn trống." },
+    { "id": "training", "term": "training", "reading": "/ˈtreɪnɪŋ/", "meaning": "đào tạo", "emoji": "🎓", "example": "All new staff get training.", "exampleMeaning": "Mọi nhân viên mới đều được đào tạo." },
+    { "id": "annual-leave", "term": "annual leave", "reading": "/ˈænjuəl liːv/", "meaning": "nghỉ phép năm", "emoji": "🏖️", "example": "I have five days of annual leave left.", "exampleMeaning": "Tôi còn năm ngày nghỉ phép năm." },
+    { "id": "performance-review", "term": "performance review", "reading": "/pərˈfɔːrməns rɪˈvjuː/", "meaning": "đánh giá hiệu suất", "emoji": "📊", "example": "My performance review is in December.", "exampleMeaning": "Buổi đánh giá hiệu suất của tôi vào tháng Mười Hai." },
+    { "id": "employee", "term": "employee", "reading": "/ɪmˈplɔɪiː/", "meaning": "nhân viên", "emoji": "👩‍💼", "example": "Every employee has a badge.", "exampleMeaning": "Mỗi nhân viên đều có thẻ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Please", "send", "us", "your", "resume"], "meaning": "Vui lòng gửi cho chúng tôi sơ yếu lý lịch của bạn." },
+    { "id": "s2", "tokens": ["We", "are", "hiring", "for", "this", "position"], "meaning": "Chúng tôi đang tuyển người cho vị trí này." },
+    { "id": "s3", "tokens": ["The", "interview", "went", "very", "well"], "meaning": "Buổi phỏng vấn diễn ra rất tốt." },
+    { "id": "s4", "tokens": ["She", "got", "a", "promotion", "this", "year"], "meaning": "Năm nay cô ấy được thăng chức." },
+    { "id": "s5", "tokens": ["I", "want", "to", "take", "annual", "leave"], "meaning": "Tôi muốn nghỉ phép năm." },
+    { "id": "s6", "tokens": ["He", "accepted", "the", "job", "offer", "yesterday"], "meaning": "Hôm qua anh ấy đã nhận lời mời làm việc." }
+  ]
+}

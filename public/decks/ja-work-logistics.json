@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-logistics",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "製造と物流",
+  "description": "Sản xuất, kho vận và giao hàng.",
+  "words": [
+    { "id": "seizou", "term": "製造", "reading": "せいぞう · seizō", "meaning": "chế tạo", "emoji": "🏭", "example": "部品を製造する。", "exampleMeaning": "Chế tạo linh kiện." },
+    { "id": "koujou", "term": "工場", "reading": "こうじょう · kōjō", "meaning": "nhà máy", "emoji": "🏗️", "example": "工場で働く。", "exampleMeaning": "Làm việc ở nhà máy." },
+    { "id": "buhin", "term": "部品", "reading": "ぶひん · buhin", "meaning": "linh kiện, phụ tùng", "emoji": "⚙️", "example": "部品が足りない。", "exampleMeaning": "Thiếu linh kiện." },
+    { "id": "zaiko", "term": "在庫", "reading": "ざいこ · zaiko", "meaning": "hàng tồn kho", "emoji": "📦", "example": "在庫を確認する。", "exampleMeaning": "Kiểm tra hàng tồn." },
+    { "id": "souko", "term": "倉庫", "reading": "そうこ · sōko", "meaning": "nhà kho", "emoji": "🏚️", "example": "倉庫に運ぶ。", "exampleMeaning": "Chuyển vào kho." },
+    { "id": "shukka", "term": "出荷", "reading": "しゅっか · shukka", "meaning": "xuất hàng", "emoji": "🚚", "example": "今日出荷します。", "exampleMeaning": "Hôm nay xuất hàng." },
+    { "id": "nouhin", "term": "納品", "reading": "のうひん · nōhin", "meaning": "giao hàng (cho khách)", "emoji": "📬", "example": "月曜日に納品する。", "exampleMeaning": "Giao hàng vào thứ Hai." },
+    { "id": "hacchuu", "term": "発注", "reading": "はっちゅう · hacchū", "meaning": "đặt hàng", "emoji": "🛒", "example": "部品を発注する。", "exampleMeaning": "Đặt mua linh kiện." },
+    { "id": "haisou", "term": "配送", "reading": "はいそう · haisō", "meaning": "vận chuyển, phân phối", "emoji": "🚛", "example": "配送料は無料です。", "exampleMeaning": "Phí vận chuyển miễn phí." },
+    { "id": "butsuryuu", "term": "物流", "reading": "ぶつりゅう · butsuryū", "meaning": "hậu cần, logistics", "emoji": "🌐", "example": "物流の会社です。", "exampleMeaning": "Đây là công ty logistics." },
+    { "id": "hinshitsu", "term": "品質", "reading": "ひんしつ · hinshitsu", "meaning": "chất lượng", "emoji": "🏅", "example": "品質を守る。", "exampleMeaning": "Giữ vững chất lượng." },
+    { "id": "kensa", "term": "検査", "reading": "けんさ · kensa", "meaning": "kiểm tra, kiểm định", "emoji": "🔬", "example": "製品を検査する。", "exampleMeaning": "Kiểm định sản phẩm." },
+    { "id": "seihin", "term": "製品", "reading": "せいひん · seihin", "meaning": "thành phẩm", "emoji": "🎁", "example": "製品が完成した。", "exampleMeaning": "Thành phẩm đã hoàn thành." },
+    { "id": "furyouhin", "term": "不良品", "reading": "ふりょうひん · furyōhin", "meaning": "hàng lỗi", "emoji": "❗", "example": "不良品が出た。", "exampleMeaning": "Đã có hàng lỗi." },
+    { "id": "rain", "term": "ライン", "reading": "rain", "meaning": "dây chuyền", "emoji": "🔗", "example": "ラインが止まった。", "exampleMeaning": "Dây chuyền đã dừng." },
+    { "id": "nouki", "term": "納期", "reading": "のうき · nōki", "meaning": "hạn giao hàng", "emoji": "📆", "example": "納期に間に合う。", "exampleMeaning": "Kịp hạn giao hàng." },
+    { "id": "genryou", "term": "原料", "reading": "げんりょう · genryō", "meaning": "nguyên liệu", "emoji": "🪵", "example": "原料が高い。", "exampleMeaning": "Nguyên liệu đắt." },
+    { "id": "seisan", "term": "生産", "reading": "せいさん · seisan", "meaning": "sản xuất", "emoji": "📈", "example": "生産を増やす。", "exampleMeaning": "Tăng sản xuất." },
+    { "id": "konpou", "term": "梱包", "reading": "こんぽう · konpō", "meaning": "đóng gói", "emoji": "🧰", "example": "商品を梱包する。", "exampleMeaning": "Đóng gói hàng." },
+    { "id": "anzen", "term": "安全", "reading": "あんぜん · anzen", "meaning": "an toàn", "emoji": "🦺", "example": "安全が第一だ。", "exampleMeaning": "An toàn là trên hết." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["工場", "で", "部品", "を", "製造", "しています"], "reading": "こうじょうでぶひんをせいぞうしています", "meaning": "Nhà máy đang chế tạo linh kiện." },
+    { "id": "s2", "tokens": ["在庫", "が", "少なく", "なりました"], "reading": "ざいこがすくなくなりました", "meaning": "Hàng tồn kho đã ít đi." },
+    { "id": "s3", "tokens": ["商品", "は", "明日", "出荷", "します"], "reading": "しょうひんはあしたしゅっかします", "meaning": "Hàng sẽ được xuất vào ngày mai." },
+    { "id": "s4", "tokens": ["このままでは", "納期", "に", "間に合いません"], "reading": "このままではのうきにまにあいません", "meaning": "Cứ thế này sẽ không kịp hạn giao." },
+    { "id": "s5", "tokens": ["出荷", "前", "に", "品質", "を", "検査", "します"], "reading": "しゅっかまえにひんしつをけんさします", "meaning": "Kiểm tra chất lượng trước khi xuất hàng." },
+    { "id": "s6", "tokens": ["倉庫", "から", "お客様", "に", "配送", "します"], "reading": "そうこからおきゃくさまにはいそうします", "meaning": "Giao hàng từ kho đến khách." }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-sales",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "営業とマーケティング",
+  "description": "Bán hàng và tiếp thị.",
+  "words": [
+    { "id": "eigyou", "term": "営業", "reading": "えいぎょう · eigyō", "meaning": "kinh doanh, bán hàng", "emoji": "💼", "example": "営業の仕事です。", "exampleMeaning": "Đó là công việc kinh doanh." },
+    { "id": "kokyaku", "term": "顧客", "reading": "こきゃく · kokyaku", "meaning": "khách hàng", "emoji": "👥", "example": "顧客を増やす。", "exampleMeaning": "Tăng số khách hàng." },
+    { "id": "shouhin", "term": "商品", "reading": "しょうひん · shōhin", "meaning": "sản phẩm, hàng hóa", "emoji": "📦", "example": "新しい商品です。", "exampleMeaning": "Đây là sản phẩm mới." },
+    { "id": "kakaku", "term": "価格", "reading": "かかく · kakaku", "meaning": "giá cả", "emoji": "🏷️", "example": "価格を下げる。", "exampleMeaning": "Hạ giá." },
+    { "id": "senden", "term": "宣伝", "reading": "せんでん · senden", "meaning": "quảng bá", "emoji": "📣", "example": "商品を宣伝する。", "exampleMeaning": "Quảng bá sản phẩm." },
+    { "id": "koukoku", "term": "広告", "reading": "こうこく · kōkoku", "meaning": "quảng cáo", "emoji": "📺", "example": "広告を出す。", "exampleMeaning": "Đăng quảng cáo." },
+    { "id": "shijou", "term": "市場", "reading": "しじょう · shijō", "meaning": "thị trường", "emoji": "🌏", "example": "海外の市場を狙う。", "exampleMeaning": "Nhắm tới thị trường nước ngoài." },
+    { "id": "kyougou", "term": "競合", "reading": "きょうごう · kyōgō", "meaning": "đối thủ cạnh tranh", "emoji": "🥊", "example": "競合が多い。", "exampleMeaning": "Có nhiều đối thủ." },
+    { "id": "mokuhyou", "term": "目標", "reading": "もくひょう · mokuhyō", "meaning": "mục tiêu", "emoji": "🎯", "example": "目標を決める。", "exampleMeaning": "Đặt ra mục tiêu." },
+    { "id": "waribiki", "term": "割引", "reading": "わりびき · waribiki", "meaning": "giảm giá", "emoji": "💲", "example": "割引があります。", "exampleMeaning": "Có giảm giá." },
+    { "id": "shinkikaitaku", "term": "新規開拓", "reading": "しんきかいたく · shinkikaitaku", "meaning": "tìm khách mới", "emoji": "🔍", "example": "新規開拓をする。", "exampleMeaning": "Đi tìm khách hàng mới." },
+    { "id": "hanbai", "term": "販売", "reading": "はんばい · hanbai", "meaning": "bán, phân phối", "emoji": "🛒", "example": "ネットで販売する。", "exampleMeaning": "Bán hàng qua mạng." },
+    { "id": "chousa", "term": "調査", "reading": "ちょうさ · chōsa", "meaning": "khảo sát, điều tra", "emoji": "📋", "example": "調査の結果です。", "exampleMeaning": "Đây là kết quả khảo sát." },
+    { "id": "kyanpeen", "term": "キャンペーン", "reading": "kyanpēn", "meaning": "chiến dịch", "emoji": "🎉", "example": "キャンペーン中です。", "exampleMeaning": "Đang có chiến dịch khuyến mãi." },
+    { "id": "uriba", "term": "売り場", "reading": "うりば · uriba", "meaning": "quầy bán hàng", "emoji": "🏬", "example": "売り場はどこですか。", "exampleMeaning": "Quầy bán ở đâu?" },
+    { "id": "niizu", "term": "ニーズ", "reading": "nīzu", "meaning": "nhu cầu", "emoji": "🙋", "example": "ニーズに応える。", "exampleMeaning": "Đáp ứng nhu cầu." },
+    { "id": "tantousha", "term": "担当者", "reading": "たんとうしゃ · tantōsha", "meaning": "người phụ trách", "emoji": "🧑‍💼", "example": "担当者に聞く。", "exampleMeaning": "Hỏi người phụ trách." },
+    { "id": "juchuu", "term": "受注", "reading": "じゅちゅう · juchū", "meaning": "nhận đơn hàng", "emoji": "📥", "example": "大きな受注があった。", "exampleMeaning": "Đã nhận một đơn hàng lớn." },
+    { "id": "burando", "term": "ブランド", "reading": "burando", "meaning": "thương hiệu", "emoji": "™️", "example": "ブランドを作る。", "exampleMeaning": "Xây dựng thương hiệu." },
+    { "id": "tassei", "term": "達成", "reading": "たっせい · tassei", "meaning": "đạt được, hoàn thành", "emoji": "🏆", "example": "ノルマを達成した。", "exampleMeaning": "Đã đạt chỉ tiêu." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["今月", "の", "目標", "を", "達成", "しました"], "reading": "こんげつのもくひょうをたっせいしました", "meaning": "Đã đạt mục tiêu tháng này." },
+    { "id": "s2", "tokens": ["新しい", "商品", "を", "宣伝", "します"], "reading": "あたらしいしょうひんをせんでんします", "meaning": "Chúng tôi quảng bá sản phẩm mới." },
+    { "id": "s3", "tokens": ["お客様", "の", "ニーズ", "を", "調査", "します"], "reading": "おきゃくさまのニーズをちょうさします", "meaning": "Chúng tôi khảo sát nhu cầu khách hàng." },
+    { "id": "s4", "tokens": ["価格", "は", "競合", "より", "安い", "です"], "reading": "かかくはきょうごうよりやすいです", "meaning": "Giá rẻ hơn đối thủ." },
+    { "id": "s5", "tokens": ["来月", "から", "割引", "キャンペーン", "を", "始めます"], "reading": "らいげつからわりびきキャンペーンをはじめます", "meaning": "Từ tháng sau bắt đầu chiến dịch giảm giá." },
+    { "id": "s6", "tokens": ["営業", "の", "担当者", "に", "連絡", "します"], "reading": "えいぎょうのたんとうしゃにれんらくします", "meaning": "Tôi liên lạc với người phụ trách kinh doanh." }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-finance",
+  "lang": "ja",
+  "track": "work",
+  "level": "N2",
+  "title": "経理と財務",
+  "description": "Kế toán và tài chính doanh nghiệp.",
+  "words": [
+    { "id": "uriage", "term": "売上", "reading": "うりあげ · uriage", "meaning": "doanh thu", "emoji": "💹", "example": "売上が増えた。", "exampleMeaning": "Doanh thu đã tăng." },
+    { "id": "rieki", "term": "利益", "reading": "りえき · rieki", "meaning": "lợi nhuận", "emoji": "💰", "example": "利益が出ました。", "exampleMeaning": "Đã có lợi nhuận." },
+    { "id": "hiyou", "term": "費用", "reading": "ひよう · hiyō", "meaning": "chi phí", "emoji": "💸", "example": "費用を計算する。", "exampleMeaning": "Tính chi phí." },
+    { "id": "yosan", "term": "予算", "reading": "よさん · yosan", "meaning": "ngân sách", "emoji": "🏦", "example": "予算が足りない。", "exampleMeaning": "Ngân sách không đủ." },
+    { "id": "keihi", "term": "経費", "reading": "けいひ · keihi", "meaning": "kinh phí", "emoji": "🧾", "example": "経費で落とす。", "exampleMeaning": "Tính vào kinh phí công ty." },
+    { "id": "seikyuusho", "term": "請求書", "reading": "せいきゅうしょ · seikyūsho", "meaning": "hóa đơn đòi tiền", "emoji": "📨", "example": "請求書を送る。", "exampleMeaning": "Gửi hóa đơn." },
+    { "id": "shiharai", "term": "支払い", "reading": "しはらい · shiharai", "meaning": "thanh toán, chi trả", "emoji": "💳", "example": "支払いは月末です。", "exampleMeaning": "Thanh toán vào cuối tháng." },
+    { "id": "zeikin", "term": "税金", "reading": "ぜいきん · zeikin", "meaning": "tiền thuế", "emoji": "🏛️", "example": "税金を払う。", "exampleMeaning": "Nộp thuế." },
+    { "id": "kessan", "term": "決算", "reading": "けっさん · kessan", "meaning": "quyết toán", "emoji": "📊", "example": "三月は決算です。", "exampleMeaning": "Tháng Ba là kỳ quyết toán." },
+    { "id": "shikin", "term": "資金", "reading": "しきん · shikin", "meaning": "vốn, tiền vốn", "emoji": "💵", "example": "資金を集める。", "exampleMeaning": "Huy động vốn." },
+    { "id": "akaji", "term": "赤字", "reading": "あかじ · akaji", "meaning": "thua lỗ, thâm hụt", "emoji": "📉", "example": "今月は赤字だ。", "exampleMeaning": "Tháng này bị lỗ." },
+    { "id": "kuroji", "term": "黒字", "reading": "くろじ · kuroji", "meaning": "có lãi, thặng dư", "emoji": "📈", "example": "黒字になった。", "exampleMeaning": "Đã chuyển sang có lãi." },
+    { "id": "zandaka", "term": "残高", "reading": "ざんだか · zandaka", "meaning": "số dư", "emoji": "🔢", "example": "残高を確認する。", "exampleMeaning": "Kiểm tra số dư." },
+    { "id": "furikomi", "term": "振込", "reading": "ふりこみ · furikomi", "meaning": "chuyển khoản", "emoji": "🏧", "example": "振込をお願いします。", "exampleMeaning": "Xin hãy chuyển khoản." },
+    { "id": "kyuuyo", "term": "給与", "reading": "きゅうよ · kyūyo", "meaning": "tiền lương", "emoji": "💴", "example": "給与は25日です。", "exampleMeaning": "Lương trả vào ngày 25." },
+    { "id": "genka", "term": "原価", "reading": "げんか · genka", "meaning": "giá vốn", "emoji": "🏷️", "example": "原価が上がった。", "exampleMeaning": "Giá vốn đã tăng." },
+    { "id": "kaikei", "term": "会計", "reading": "かいけい · kaikei", "meaning": "kế toán", "emoji": "🧮", "example": "会計の仕事をする。", "exampleMeaning": "Làm công việc kế toán." },
+    { "id": "toushi", "term": "投資", "reading": "とうし · tōshi", "meaning": "đầu tư", "emoji": "🌱", "example": "新事業に投資する。", "exampleMeaning": "Đầu tư vào mảng kinh doanh mới." },
+    { "id": "kabushiki", "term": "株式", "reading": "かぶしき · kabushiki", "meaning": "cổ phần, cổ phiếu", "emoji": "📜", "example": "株式を発行する。", "exampleMeaning": "Phát hành cổ phiếu." },
+    { "id": "shuushi", "term": "収支", "reading": "しゅうし · shūshi", "meaning": "thu chi", "emoji": "⚖️", "example": "収支が合わない。", "exampleMeaning": "Thu chi không khớp." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["今月", "の", "売上", "は", "予算", "を", "超えました"], "reading": "こんげつのうりあげはよさんをこえました", "meaning": "Doanh thu tháng này đã vượt ngân sách." },
+    { "id": "s2", "tokens": ["請求書", "を", "経理", "に", "出して", "ください"], "reading": "せいきゅうしょをけいりにだしてください", "meaning": "Vui lòng nộp hóa đơn cho phòng kế toán." },
+    { "id": "s3", "tokens": ["支払い", "は", "振込", "で", "お願いします"], "reading": "しはらいはふりこみでおねがいします", "meaning": "Xin thanh toán bằng chuyển khoản." },
+    { "id": "s4", "tokens": ["去年", "は", "大きな", "赤字", "でした"], "reading": "きょねんはおおきなあかじでした", "meaning": "Năm ngoái bị lỗ nặng." },
+    { "id": "s5", "tokens": ["経費", "を", "減らす", "必要", "が", "あります"], "reading": "けいひをへらすひつようがあります", "meaning": "Cần cắt giảm kinh phí." },
+    { "id": "s6", "tokens": ["利益", "が", "去年", "より", "増えました"], "reading": "りえきがきょねんよりふえました", "meaning": "Lợi nhuận đã tăng so với năm ngoái." }
+  ]
+}

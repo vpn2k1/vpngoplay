@@ -1,0 +1,38 @@
+{
+  "id": "en-work-contracts",
+  "lang": "en",
+  "track": "work",
+  "level": "B2",
+  "title": "Contracts & Negotiation",
+  "description": "Hợp đồng và đàm phán trong kinh doanh.",
+  "words": [
+    { "id": "contract", "term": "contract", "reading": "/ˈkɑːntrækt/", "meaning": "hợp đồng", "emoji": "📜", "example": "Please read the contract carefully.", "exampleMeaning": "Vui lòng đọc hợp đồng thật kỹ." },
+    { "id": "sign", "term": "sign", "reading": "/saɪn/", "meaning": "ký tên", "emoji": "✍️", "example": "Both sides will sign tomorrow.", "exampleMeaning": "Hai bên sẽ ký vào ngày mai." },
+    { "id": "terms", "term": "terms", "reading": "/tɜːrmz/", "meaning": "điều khoản", "emoji": "📑", "example": "We accept the terms of the deal.", "exampleMeaning": "Chúng tôi chấp nhận các điều khoản của giao dịch." },
+    { "id": "deal", "term": "deal", "reading": "/diːl/", "meaning": "thỏa thuận, giao dịch", "emoji": "🤝", "example": "We finally closed the deal.", "exampleMeaning": "Cuối cùng chúng ta đã chốt được thỏa thuận." },
+    { "id": "offer", "term": "offer", "reading": "/ˈɔːfər/", "meaning": "đề nghị", "emoji": "💼", "example": "That is our final offer.", "exampleMeaning": "Đó là đề nghị cuối cùng của chúng tôi." },
+    { "id": "counteroffer", "term": "counteroffer", "reading": "/ˈkaʊntərˌɔːfər/", "meaning": "đề xuất đáp trả", "emoji": "🔄", "example": "They made a counteroffer this morning.", "exampleMeaning": "Sáng nay họ đưa ra đề xuất đáp trả." },
+    { "id": "compromise", "term": "compromise", "reading": "/ˈkɑːmprəmaɪz/", "meaning": "thỏa hiệp", "emoji": "⚖️", "example": "Both sides need to compromise a little.", "exampleMeaning": "Hai bên cần thỏa hiệp một chút." },
+    { "id": "party", "term": "party", "reading": "/ˈpɑːrti/", "meaning": "bên ký kết", "emoji": "👥", "example": "Each party keeps one copy.", "exampleMeaning": "Mỗi bên ký kết giữ một bản." },
+    { "id": "renew", "term": "renew", "reading": "/rɪˈnuː/", "meaning": "gia hạn", "emoji": "🔁", "example": "We want to renew the contract.", "exampleMeaning": "Chúng tôi muốn gia hạn hợp đồng." },
+    { "id": "expire", "term": "expire", "reading": "/ɪkˈspaɪər/", "meaning": "hết hạn", "emoji": "⌛", "example": "The contract will expire in June.", "exampleMeaning": "Hợp đồng sẽ hết hạn vào tháng Sáu." },
+    { "id": "penalty", "term": "penalty", "reading": "/ˈpenəlti/", "meaning": "tiền phạt", "emoji": "💸", "example": "Late delivery means a penalty.", "exampleMeaning": "Giao hàng trễ sẽ bị phạt tiền." },
+    { "id": "legal", "term": "legal", "reading": "/ˈliːɡl/", "meaning": "pháp lý, hợp pháp", "emoji": "🏛️", "example": "Our legal team will check it.", "exampleMeaning": "Đội pháp lý của chúng ta sẽ kiểm tra." },
+    { "id": "lawyer", "term": "lawyer", "reading": "/ˈlɔːjər/", "meaning": "luật sư", "emoji": "👨‍⚖️", "example": "Let our lawyer read it first.", "exampleMeaning": "Hãy để luật sư của chúng ta đọc trước." },
+    { "id": "condition", "term": "condition", "reading": "/kənˈdɪʃn/", "meaning": "điều kiện", "emoji": "❗", "example": "We agree on one condition.", "exampleMeaning": "Chúng tôi đồng ý với một điều kiện." },
+    { "id": "cancel", "term": "cancel", "reading": "/ˈkænsl/", "meaning": "hủy bỏ", "emoji": "❌", "example": "They want to cancel the order.", "exampleMeaning": "Họ muốn hủy đơn hàng." },
+    { "id": "bargain", "term": "bargain", "reading": "/ˈbɑːrɡən/", "meaning": "mặc cả", "emoji": "🏷️", "example": "We tried to bargain with the supplier.", "exampleMeaning": "Chúng tôi đã cố mặc cả với nhà cung cấp." },
+    { "id": "proposal", "term": "proposal", "reading": "/prəˈpoʊzl/", "meaning": "bản đề xuất", "emoji": "📄", "example": "We sent them a proposal yesterday.", "exampleMeaning": "Hôm qua chúng tôi đã gửi họ bản đề xuất." },
+    { "id": "deposit", "term": "deposit", "reading": "/dɪˈpɑːzɪt/", "meaning": "tiền đặt cọc", "emoji": "💰", "example": "You pay a deposit of thirty percent.", "exampleMeaning": "Bạn trả tiền đặt cọc ba mươi phần trăm." },
+    { "id": "binding", "term": "binding", "reading": "/ˈbaɪndɪŋ/", "meaning": "có tính ràng buộc", "emoji": "🔗", "example": "This agreement is legally binding.", "exampleMeaning": "Thỏa thuận này có tính ràng buộc pháp lý." },
+    { "id": "breach", "term": "breach", "reading": "/briːtʃ/", "meaning": "vi phạm", "emoji": "🚫", "example": "That is a breach of contract.", "exampleMeaning": "Đó là hành vi vi phạm hợp đồng." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Please", "sign", "the", "contract", "by", "Friday"], "meaning": "Vui lòng ký hợp đồng trước thứ Sáu." },
+    { "id": "s2", "tokens": ["We", "cannot", "accept", "these", "terms"], "meaning": "Chúng tôi không thể chấp nhận các điều khoản này." },
+    { "id": "s3", "tokens": ["Let's", "find", "a", "compromise"], "meaning": "Hãy tìm một sự thỏa hiệp." },
+    { "id": "s4", "tokens": ["The", "contract", "will", "expire", "next", "year"], "meaning": "Hợp đồng sẽ hết hạn vào năm sau." },
+    { "id": "s5", "tokens": ["This", "is", "our", "final", "offer"], "meaning": "Đây là đề nghị cuối cùng của chúng tôi." },
+    { "id": "s6", "tokens": ["Our", "lawyer", "will", "check", "the", "deal"], "meaning": "Luật sư của chúng tôi sẽ kiểm tra thỏa thuận." }
+  ]
+}

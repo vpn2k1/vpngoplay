@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-keigo",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "ビジネス敬語",
+  "description": "Kính ngữ dùng nơi công sở.",
+  "words": [
+    { "id": "itashimasu", "term": "いたします", "reading": "itashimasu", "meaning": "xin làm (khiêm nhường)", "emoji": "🙇", "example": "確認いたします。", "exampleMeaning": "Tôi xin kiểm tra." },
+    { "id": "shouchishimashita", "term": "承知しました", "reading": "しょうちしました · shōchishimashita", "meaning": "tôi đã rõ", "emoji": "✅", "example": "はい、承知しました。", "exampleMeaning": "Vâng, tôi đã rõ." },
+    { "id": "osewaninatteorimasu", "term": "お世話になっております", "reading": "おせわになっております · osewaninatteorimasu", "meaning": "cảm ơn đã giúp đỡ", "emoji": "🤝", "example": "いつもお世話になっております。", "exampleMeaning": "Cảm ơn anh/chị luôn giúp đỡ." },
+    { "id": "kashikomarimashita", "term": "かしこまりました", "reading": "kashikomarimashita", "meaning": "vâng, tôi hiểu ạ", "emoji": "🫡", "example": "はい、かしこまりました。", "exampleMeaning": "Vâng, tôi hiểu rồi ạ." },
+    { "id": "osoreirimasu", "term": "恐れ入ります", "reading": "おそれいります · osoreirimasu", "meaning": "xin thất lễ, cảm phiền", "emoji": "🙏", "example": "恐れ入りますが、もう一度。", "exampleMeaning": "Phiền anh/chị nói lại lần nữa." },
+    { "id": "moushiwakegozaimasen", "term": "申し訳ございません", "reading": "もうしわけございません · mōshiwakegozaimasen", "meaning": "thành thật xin lỗi", "emoji": "😔", "example": "大変申し訳ございません。", "exampleMeaning": "Tôi vô cùng xin lỗi." },
+    { "id": "itadaku", "term": "いただく", "reading": "itadaku", "meaning": "nhận (khiêm nhường)", "emoji": "🎁", "example": "ご意見をいただく。", "exampleMeaning": "Nhận ý kiến đóng góp." },
+    { "id": "ukagaimasu", "term": "伺います", "reading": "うかがいます · ukagaimasu", "meaning": "hỏi, thăm (khiêm nhường)", "emoji": "🚪", "example": "明日伺います。", "exampleMeaning": "Ngày mai tôi xin đến thăm." },
+    { "id": "mairimasu", "term": "参ります", "reading": "まいります · mairimasu", "meaning": "xin đi, xin đến", "emoji": "🚶", "example": "すぐに参ります。", "exampleMeaning": "Tôi đến ngay." },
+    { "id": "gozaimasu", "term": "ございます", "reading": "gozaimasu", "meaning": "có, là (lịch sự)", "emoji": "🏢", "example": "受付は一階にございます。", "exampleMeaning": "Lễ tân ở tầng một ạ." },
+    { "id": "osakinishitsureishimasu", "term": "お先に失礼します", "reading": "おさきにしつれいします · osakinishitsureishimasu", "meaning": "xin phép về trước", "emoji": "👋", "example": "では、お先に失礼します。", "exampleMeaning": "Vậy tôi xin phép về trước ạ." },
+    { "id": "otsukaresamadesu", "term": "お疲れ様です", "reading": "おつかれさまです · otsukaresamadesu", "meaning": "anh chị vất vả rồi", "emoji": "😌", "example": "今日もお疲れ様です。", "exampleMeaning": "Hôm nay anh chị cũng vất vả rồi." },
+    { "id": "yoroshikuonegaiitashimasu", "term": "よろしくお願いいたします", "reading": "よろしくおねがいいたします · yoroshikuonegaiitashimasu", "meaning": "rất mong được giúp đỡ", "emoji": "🙌", "example": "今後ともよろしくお願いいたします。", "exampleMeaning": "Rất mong tiếp tục được hợp tác." },
+    { "id": "haikensuru", "term": "拝見する", "reading": "はいけんする · haikensuru", "meaning": "xem (khiêm nhường)", "emoji": "👀", "example": "資料を拝見する。", "exampleMeaning": "Xin phép xem tài liệu." },
+    { "id": "zonjiteorimasu", "term": "存じております", "reading": "ぞんじております · zonjiteorimasu", "meaning": "biết (khiêm nhường)", "emoji": "🧠", "example": "その件は存じております。", "exampleMeaning": "Tôi có biết việc đó ạ." },
+    { "id": "irassharu", "term": "いらっしゃる", "reading": "irassharu", "meaning": "đến, có mặt (tôn kính)", "emoji": "🚶‍♂️", "example": "部長がいらっしゃる。", "exampleMeaning": "Trưởng phòng sẽ đến." },
+    { "id": "ossharu", "term": "おっしゃる", "reading": "ossharu", "meaning": "nói (tôn kính)", "emoji": "🗣️", "example": "社長がおっしゃる通りです。", "exampleMeaning": "Đúng như giám đốc nói." },
+    { "id": "moushimasu", "term": "申します", "reading": "もうします · mōshimasu", "meaning": "tên tôi là (khiêm nhường)", "emoji": "📛", "example": "田中と申します。", "exampleMeaning": "Tôi tên là Tanaka." },
+    { "id": "gorankudasai", "term": "ご覧ください", "reading": "ごらんください · gorankudasai", "meaning": "xin mời xem", "emoji": "📄", "example": "こちらをご覧ください。", "exampleMeaning": "Xin mời xem phần này." },
+    { "id": "shoushou", "term": "少々", "reading": "しょうしょう · shōshō", "meaning": "một chút, một lát", "emoji": "⏳", "example": "少々お待ちください。", "exampleMeaning": "Xin chờ một lát." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["営業部", "の", "田中", "と", "申します"], "reading": "えいぎょうぶのたなかともうします", "meaning": "Tôi là Tanaka ở phòng kinh doanh." },
+    { "id": "s2", "tokens": ["昨日", "資料", "を", "拝見", "しました"], "reading": "きのうしりょうをはいけんしました", "meaning": "Hôm qua tôi đã xem tài liệu." },
+    { "id": "s3", "tokens": ["その", "件", "は", "承知しました"], "reading": "そのけんはしょうちしました", "meaning": "Tôi đã nắm việc đó." },
+    { "id": "s4", "tokens": ["明日", "の", "午後", "に", "伺います"], "reading": "あしたのごごにうかがいます", "meaning": "Chiều mai tôi xin đến thăm." },
+    { "id": "s5", "tokens": ["少々", "お待ち", "いただけ", "ますか"], "reading": "しょうしょうおまちいただけますか", "meaning": "Xin vui lòng chờ một chút được không?" },
+    { "id": "s6", "tokens": ["部長", "は", "会議室", "に", "いらっしゃいます"], "reading": "ぶちょうはかいぎしつにいらっしゃいます", "meaning": "Trưởng phòng đang ở phòng họp." }
+  ]
+}

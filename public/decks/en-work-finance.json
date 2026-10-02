@@ -1,0 +1,38 @@
+{
+  "id": "en-work-finance",
+  "lang": "en",
+  "track": "work",
+  "level": "B2",
+  "title": "Finance & Accounting",
+  "description": "Tài chính, kế toán và ngân sách.",
+  "words": [
+    { "id": "budget", "term": "budget", "reading": "/ˈbʌdʒɪt/", "meaning": "ngân sách", "emoji": "💰", "example": "We are over budget this month.", "exampleMeaning": "Tháng này chúng ta vượt ngân sách." },
+    { "id": "revenue", "term": "revenue", "reading": "/ˈrevənuː/", "meaning": "doanh thu", "emoji": "📈", "example": "Our revenue grew by ten percent.", "exampleMeaning": "Doanh thu của chúng ta tăng mười phần trăm." },
+    { "id": "profit", "term": "profit", "reading": "/ˈprɑːfɪt/", "meaning": "lợi nhuận", "emoji": "💹", "example": "The company made a small profit.", "exampleMeaning": "Công ty có một khoản lãi nhỏ." },
+    { "id": "loss", "term": "loss", "reading": "/lɔːs/", "meaning": "thua lỗ", "emoji": "📉", "example": "The shop had a loss last year.", "exampleMeaning": "Cửa hàng bị thua lỗ năm ngoái." },
+    { "id": "expense", "term": "expense", "reading": "/ɪkˈspens/", "meaning": "khoản chi, chi phí", "emoji": "💸", "example": "Travel is our biggest expense.", "exampleMeaning": "Đi lại là khoản chi lớn nhất của chúng ta." },
+    { "id": "cash-flow", "term": "cash flow", "reading": "/ˈkæʃ floʊ/", "meaning": "dòng tiền", "emoji": "🌊", "example": "Small firms often have cash flow problems.", "exampleMeaning": "Các công ty nhỏ thường gặp vấn đề về dòng tiền." },
+    { "id": "tax", "term": "tax", "reading": "/tæks/", "meaning": "thuế", "emoji": "🏛️", "example": "We pay tax every quarter.", "exampleMeaning": "Chúng tôi nộp thuế mỗi quý." },
+    { "id": "audit", "term": "audit", "reading": "/ˈɔːdɪt/", "meaning": "kiểm toán", "emoji": "🔎", "example": "The audit starts next week.", "exampleMeaning": "Đợt kiểm toán bắt đầu tuần sau." },
+    { "id": "accountant", "term": "accountant", "reading": "/əˈkaʊntənt/", "meaning": "kế toán viên", "emoji": "🧮", "example": "Ask the accountant about the numbers.", "exampleMeaning": "Hãy hỏi kế toán viên về các con số." },
+    { "id": "balance-sheet", "term": "balance sheet", "reading": "/ˈbæləns ʃiːt/", "meaning": "bảng cân đối kế toán", "emoji": "📒", "example": "The balance sheet looks healthy.", "exampleMeaning": "Bảng cân đối kế toán trông khá tốt." },
+    { "id": "asset", "term": "asset", "reading": "/ˈæset/", "meaning": "tài sản", "emoji": "🏢", "example": "The building is our biggest asset.", "exampleMeaning": "Tòa nhà là tài sản lớn nhất của chúng ta." },
+    { "id": "debt", "term": "debt", "reading": "/det/", "meaning": "khoản nợ", "emoji": "⛓️", "example": "The company paid off its debt.", "exampleMeaning": "Công ty đã trả hết khoản nợ." },
+    { "id": "payment", "term": "payment", "reading": "/ˈpeɪmənt/", "meaning": "khoản thanh toán", "emoji": "💳", "example": "The payment arrived this morning.", "exampleMeaning": "Khoản thanh toán đã đến sáng nay." },
+    { "id": "forecast", "term": "forecast", "reading": "/ˈfɔːrkæst/", "meaning": "dự báo", "emoji": "🔮", "example": "The forecast for next year is good.", "exampleMeaning": "Dự báo cho năm tới khá tốt." },
+    { "id": "quarter", "term": "quarter", "reading": "/ˈkwɔːrtər/", "meaning": "quý", "emoji": "📆", "example": "Sales rose in the third quarter.", "exampleMeaning": "Doanh số tăng trong quý ba." },
+    { "id": "investment", "term": "investment", "reading": "/ɪnˈvestmənt/", "meaning": "khoản đầu tư", "emoji": "🌱", "example": "This machine is a good investment.", "exampleMeaning": "Chiếc máy này là một khoản đầu tư tốt." },
+    { "id": "reimburse", "term": "reimburse", "reading": "/ˌriːɪmˈbɜːrs/", "meaning": "bồi hoàn", "emoji": "💵", "example": "We will reimburse your taxi fare.", "exampleMeaning": "Chúng tôi sẽ bồi hoàn tiền taxi cho bạn." },
+    { "id": "interest-rate", "term": "interest rate", "reading": "/ˈɪntrəst reɪt/", "meaning": "lãi suất", "emoji": "🏦", "example": "The interest rate went up again.", "exampleMeaning": "Lãi suất lại tăng lên." },
+    { "id": "cut-costs", "term": "cut costs", "reading": "/kʌt kɔːsts/", "meaning": "cắt giảm chi phí", "emoji": "✂️", "example": "We must cut costs this year.", "exampleMeaning": "Năm nay chúng ta phải cắt giảm chi phí." },
+    { "id": "financial-report", "term": "financial report", "reading": "/faɪˈnænʃl rɪˈpɔːrt/", "meaning": "báo cáo tài chính", "emoji": "📑", "example": "The financial report is due on Friday.", "exampleMeaning": "Báo cáo tài chính phải nộp vào thứ Sáu." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Our", "revenue", "is", "higher", "than", "last", "year"], "meaning": "Doanh thu của chúng ta cao hơn năm ngoái." },
+    { "id": "s2", "tokens": ["We", "need", "to", "cut", "costs", "now"], "meaning": "Chúng ta cần cắt giảm chi phí ngay." },
+    { "id": "s3", "tokens": ["The", "accountant", "is", "checking", "the", "balance", "sheet"], "meaning": "Kế toán viên đang kiểm tra bảng cân đối kế toán." },
+    { "id": "s4", "tokens": ["Is", "this", "expense", "in", "the", "budget"], "meaning": "Khoản chi này có trong ngân sách không?" },
+    { "id": "s5", "tokens": ["The", "audit", "starts", "next", "month"], "meaning": "Đợt kiểm toán bắt đầu vào tháng sau." },
+    { "id": "s6", "tokens": ["Profit", "fell", "in", "the", "last", "quarter"], "meaning": "Lợi nhuận giảm trong quý vừa rồi." }
+  ]
+}

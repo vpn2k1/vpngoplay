@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-it",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "ITとパソコン",
+  "description": "Máy tính và công nghệ thông tin văn phòng.",
+  "words": [
+    { "id": "pasokon", "term": "パソコン", "reading": "pasokon", "meaning": "máy tính cá nhân", "emoji": "💻", "example": "パソコンを使う。", "exampleMeaning": "Dùng máy tính." },
+    { "id": "pasuwaado", "term": "パスワード", "reading": "pasuwādo", "meaning": "mật khẩu", "emoji": "🔑", "example": "パスワードを変える。", "exampleMeaning": "Đổi mật khẩu." },
+    { "id": "roguin", "term": "ログイン", "reading": "roguin", "meaning": "đăng nhập", "emoji": "🔓", "example": "システムにログインする。", "exampleMeaning": "Đăng nhập vào hệ thống." },
+    { "id": "fairu", "term": "ファイル", "reading": "fairu", "meaning": "tệp, file", "emoji": "🗂️", "example": "ファイルを開く。", "exampleMeaning": "Mở tệp." },
+    { "id": "hozon", "term": "保存", "reading": "ほぞん · hozon", "meaning": "lưu", "emoji": "💾", "example": "データを保存する。", "exampleMeaning": "Lưu dữ liệu." },
+    { "id": "sakujo", "term": "削除", "reading": "さくじょ · sakujo", "meaning": "xóa", "emoji": "🗑️", "example": "メールを削除する。", "exampleMeaning": "Xóa email." },
+    { "id": "deeta", "term": "データ", "reading": "dēta", "meaning": "dữ liệu", "emoji": "📊", "example": "データを集める。", "exampleMeaning": "Thu thập dữ liệu." },
+    { "id": "setsuzoku", "term": "接続", "reading": "せつぞく · setsuzoku", "meaning": "kết nối", "emoji": "🔌", "example": "ネットに接続する。", "exampleMeaning": "Kết nối mạng." },
+    { "id": "insutooru", "term": "インストール", "reading": "insutōru", "meaning": "cài đặt", "emoji": "📲", "example": "アプリをインストールする。", "exampleMeaning": "Cài ứng dụng." },
+    { "id": "koshou", "term": "故障", "reading": "こしょう · koshō", "meaning": "hỏng hóc, trục trặc", "emoji": "🛠️", "example": "プリンターが故障した。", "exampleMeaning": "Máy in bị hỏng." },
+    { "id": "gamen", "term": "画面", "reading": "がめん · gamen", "meaning": "màn hình", "emoji": "🖥️", "example": "画面が暗い。", "exampleMeaning": "Màn hình tối." },
+    { "id": "kensaku", "term": "検索", "reading": "けんさく · kensaku", "meaning": "tìm kiếm", "emoji": "🔍", "example": "ネットで検索する。", "exampleMeaning": "Tìm kiếm trên mạng." },
+    { "id": "bakkuappu", "term": "バックアップ", "reading": "bakkuappu", "meaning": "sao lưu", "emoji": "🗄️", "example": "バックアップを取る。", "exampleMeaning": "Tạo bản sao lưu." },
+    { "id": "koushin", "term": "更新", "reading": "こうしん · kōshin", "meaning": "cập nhật, gia hạn", "emoji": "🔄", "example": "ソフトを更新する。", "exampleMeaning": "Cập nhật phần mềm." },
+    { "id": "kidou", "term": "起動", "reading": "きどう · kidō", "meaning": "khởi động", "emoji": "⚡", "example": "パソコンを起動する。", "exampleMeaning": "Khởi động máy tính." },
+    { "id": "nyuuryoku", "term": "入力", "reading": "にゅうりょく · nyūryoku", "meaning": "nhập liệu", "emoji": "⌨️", "example": "名前を入力する。", "exampleMeaning": "Nhập tên." },
+    { "id": "shisutemu", "term": "システム", "reading": "shisutemu", "meaning": "hệ thống", "emoji": "🧩", "example": "システムが止まった。", "exampleMeaning": "Hệ thống đã ngừng." },
+    { "id": "sekyuriti", "term": "セキュリティ", "reading": "sekyuriti", "meaning": "bảo mật, an ninh mạng", "emoji": "🛡️", "example": "セキュリティを強化する。", "exampleMeaning": "Tăng cường bảo mật." },
+    { "id": "daunroodo", "term": "ダウンロード", "reading": "daunrōdo", "meaning": "tải xuống", "emoji": "⬇️", "example": "資料をダウンロードする。", "exampleMeaning": "Tải tài liệu xuống." },
+    { "id": "uirusu", "term": "ウイルス", "reading": "uirusu", "meaning": "virus máy tính", "emoji": "🦠", "example": "ウイルスに感染した。", "exampleMeaning": "Bị nhiễm virus." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["パスワード", "を", "入力", "して", "ください"], "reading": "パスワードをにゅうりょくしてください", "meaning": "Vui lòng nhập mật khẩu." },
+    { "id": "s2", "tokens": ["ファイル", "を", "保存", "する", "のを", "忘れました"], "reading": "ファイルをほぞんするのをわすれました", "meaning": "Tôi quên lưu tệp." },
+    { "id": "s3", "tokens": ["朝", "から", "パソコン", "が", "故障", "しています"], "reading": "あさからパソコンがこしょうしています", "meaning": "Máy tính bị hỏng từ sáng." },
+    { "id": "s4", "tokens": ["毎週", "データ", "の", "バックアップ", "を", "取ります"], "reading": "まいしゅうデータのバックアップをとります", "meaning": "Mỗi tuần tôi sao lưu dữ liệu." },
+    { "id": "s5", "tokens": ["システム", "に", "ログイン", "できません"], "reading": "システムにログインできません", "meaning": "Không đăng nhập được vào hệ thống." },
+    { "id": "s6", "tokens": ["ソフト", "を", "更新", "して", "から", "起動", "します"], "reading": "ソフトをこうしんしてからきどうします", "meaning": "Cập nhật phần mềm rồi mới khởi động." }
+  ]
+}

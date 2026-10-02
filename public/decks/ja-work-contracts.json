@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-contracts",
+  "lang": "ja",
+  "track": "work",
+  "level": "N2",
+  "title": "契約と交渉",
+  "description": "Hợp đồng và đàm phán.",
+  "words": [
+    { "id": "keiyaku", "term": "契約", "reading": "けいやく · keiyaku", "meaning": "hợp đồng", "emoji": "📜", "example": "契約を結ぶ。", "exampleMeaning": "Ký kết hợp đồng." },
+    { "id": "koushou", "term": "交渉", "reading": "こうしょう · kōshō", "meaning": "đàm phán", "emoji": "🤝", "example": "価格を交渉する。", "exampleMeaning": "Đàm phán giá." },
+    { "id": "jouken", "term": "条件", "reading": "じょうけん · jōken", "meaning": "điều kiện", "emoji": "📋", "example": "条件を決める。", "exampleMeaning": "Quyết định các điều kiện." },
+    { "id": "keiyakusho", "term": "契約書", "reading": "けいやくしょ · keiyakusho", "meaning": "văn bản hợp đồng", "emoji": "🖋️", "example": "契約書を読む。", "exampleMeaning": "Đọc bản hợp đồng." },
+    { "id": "kigen", "term": "期限", "reading": "きげん · kigen", "meaning": "thời hạn", "emoji": "⌛", "example": "期限が切れた。", "exampleMeaning": "Đã hết hạn." },
+    { "id": "joukou", "term": "条項", "reading": "じょうこう · jōkō", "meaning": "điều khoản", "emoji": "📑", "example": "条項を確認する。", "exampleMeaning": "Xem lại điều khoản." },
+    { "id": "kaiyaku", "term": "解約", "reading": "かいやく · kaiyaku", "meaning": "hủy hợp đồng", "emoji": "❌", "example": "サービスを解約する。", "exampleMeaning": "Hủy dịch vụ." },
+    { "id": "jouho", "term": "譲歩", "reading": "じょうほ · jōho", "meaning": "nhượng bộ", "emoji": "🙇", "example": "少し譲歩する。", "exampleMeaning": "Nhượng bộ một chút." },
+    { "id": "goui", "term": "合意", "reading": "ごうい · gōi", "meaning": "thỏa thuận, đồng ý", "emoji": "✅", "example": "双方が合意した。", "exampleMeaning": "Hai bên đã đồng ý." },
+    { "id": "teiketsu", "term": "締結", "reading": "ていけつ · teiketsu", "meaning": "ký kết", "emoji": "✍️", "example": "契約を締結する。", "exampleMeaning": "Ký hợp đồng chính thức." },
+    { "id": "ihan", "term": "違反", "reading": "いはん · ihan", "meaning": "vi phạm", "emoji": "⚠️", "example": "それは契約違反だ。", "exampleMeaning": "Đó là vi phạm hợp đồng." },
+    { "id": "baishou", "term": "賠償", "reading": "ばいしょう · baishō", "meaning": "bồi thường", "emoji": "💰", "example": "損害を賠償する。", "exampleMeaning": "Bồi thường thiệt hại." },
+    { "id": "songai", "term": "損害", "reading": "そんがい · songai", "meaning": "thiệt hại, tổn thất", "emoji": "💥", "example": "損害が出た。", "exampleMeaning": "Đã có thiệt hại." },
+    { "id": "bengoshi", "term": "弁護士", "reading": "べんごし · bengoshi", "meaning": "luật sư", "emoji": "⚖️", "example": "弁護士に聞く。", "exampleMeaning": "Hỏi luật sư." },
+    { "id": "natsuin", "term": "捺印", "reading": "なついん · natsuin", "meaning": "đóng dấu", "emoji": "🔴", "example": "書類に捺印する。", "exampleMeaning": "Đóng dấu lên giấy tờ." },
+    { "id": "teiji", "term": "提示", "reading": "ていじ · teiji", "meaning": "đưa ra, trình bày", "emoji": "🫴", "example": "条件を提示する。", "exampleMeaning": "Đưa ra điều kiện." },
+    { "id": "yuukou", "term": "有効", "reading": "ゆうこう · yūkō", "meaning": "có hiệu lực", "emoji": "✔️", "example": "契約は一年有効だ。", "exampleMeaning": "Hợp đồng có hiệu lực một năm." },
+    { "id": "enchou", "term": "延長", "reading": "えんちょう · enchō", "meaning": "gia hạn, kéo dài", "emoji": "➕", "example": "契約を延長する。", "exampleMeaning": "Gia hạn hợp đồng." },
+    { "id": "dakyou", "term": "妥協", "reading": "だきょう · dakyō", "meaning": "thỏa hiệp", "emoji": "🤲", "example": "妥協はしない。", "exampleMeaning": "Không thỏa hiệp." },
+    { "id": "himitsuhoji", "term": "秘密保持", "reading": "ひみつほじ · himitsuhoji", "meaning": "bảo mật thông tin", "emoji": "🔒", "example": "秘密保持契約を結ぶ。", "exampleMeaning": "Ký thỏa thuận bảo mật." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["来週", "契約書", "に", "サイン", "します"], "reading": "らいしゅうけいやくしょにサインします", "meaning": "Tuần sau tôi ký hợp đồng." },
+    { "id": "s2", "tokens": ["価格", "に", "ついて", "交渉", "しています"], "reading": "かかくについてこうしょうしています", "meaning": "Chúng tôi đang đàm phán về giá." },
+    { "id": "s3", "tokens": ["その", "条件", "で", "合意", "しました"], "reading": "そのじょうけんでごういしました", "meaning": "Đã thỏa thuận với điều kiện đó." },
+    { "id": "s4", "tokens": ["契約", "の", "期限", "は", "三月", "まで", "です"], "reading": "けいやくのきげんはさんがつまでです", "meaning": "Hợp đồng hết hạn vào tháng Ba." },
+    { "id": "s5", "tokens": ["少し", "譲歩", "して", "いただけますか"], "reading": "すこしじょうほしていただけますか", "meaning": "Anh/chị có thể nhượng bộ một chút không?" },
+    { "id": "s6", "tokens": ["違反", "の", "場合", "は", "損害", "を", "賠償", "します"], "reading": "いはんのばあいはそんがいをばいしょうします", "meaning": "Nếu vi phạm sẽ bồi thường thiệt hại." }
+  ]
+}

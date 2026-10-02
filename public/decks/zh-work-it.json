@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-it",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "办公电脑和网络",
+  "description": "Máy tính, mạng và phần mềm văn phòng.",
+  "words": [
+    { "id": "diannao", "term": "电脑", "reading": "diànnǎo", "meaning": "máy tính", "emoji": "💻", "example": "我的电脑死机了。", "exampleMeaning": "Máy tính của tôi bị treo." },
+    { "id": "wangluo", "term": "网络", "reading": "wǎngluò", "meaning": "mạng, mạng internet", "emoji": "🌐", "example": "网络连不上。", "exampleMeaning": "Không kết nối được mạng." },
+    { "id": "mima", "term": "密码", "reading": "mìmǎ", "meaning": "mật khẩu", "emoji": "🔑", "example": "密码要定期换。", "exampleMeaning": "Mật khẩu cần đổi định kỳ." },
+    { "id": "denglu", "term": "登录", "reading": "dēnglù", "meaning": "đăng nhập", "emoji": "🔓", "example": "请先登录系统。", "exampleMeaning": "Vui lòng đăng nhập hệ thống trước." },
+    { "id": "zhanghao", "term": "账号", "reading": "zhànghào", "meaning": "tài khoản (đăng nhập)", "emoji": "👤", "example": "我的账号被锁了。", "exampleMeaning": "Tài khoản của tôi bị khóa." },
+    { "id": "ruanjian", "term": "软件", "reading": "ruǎnjiàn", "meaning": "phần mềm", "emoji": "💿", "example": "这个软件很好用。", "exampleMeaning": "Phần mềm này rất dễ dùng." },
+    { "id": "xitong", "term": "系统", "reading": "xìtǒng", "meaning": "hệ thống", "emoji": "🖥️", "example": "系统出问题了。", "exampleMeaning": "Hệ thống gặp sự cố." },
+    { "id": "xiazai", "term": "下载", "reading": "xiàzài", "meaning": "tải xuống", "emoji": "⬇️", "example": "请下载这个文件。", "exampleMeaning": "Vui lòng tải tệp này xuống." },
+    { "id": "shangchuan", "term": "上传", "reading": "shàngchuán", "meaning": "tải lên", "emoji": "⬆️", "example": "照片已经上传了。", "exampleMeaning": "Ảnh đã được tải lên." },
+    { "id": "anzhuang", "term": "安装", "reading": "ānzhuāng", "meaning": "cài đặt, lắp đặt", "emoji": "🛠️", "example": "我帮你安装打印机。", "exampleMeaning": "Tôi giúp bạn lắp máy in." },
+    { "id": "gengxin", "term": "更新", "reading": "gēngxīn", "meaning": "cập nhật", "emoji": "🔄", "example": "手机要更新了。", "exampleMeaning": "Điện thoại cần cập nhật rồi." },
+    { "id": "baocun", "term": "保存", "reading": "bǎocún", "meaning": "lưu, lưu lại", "emoji": "💾", "example": "记得随时保存。", "exampleMeaning": "Nhớ lưu thường xuyên." },
+    { "id": "beifen", "term": "备份", "reading": "bèifèn", "meaning": "sao lưu", "emoji": "🗃️", "example": "每周备份一次数据。", "exampleMeaning": "Mỗi tuần sao lưu dữ liệu một lần." },
+    { "id": "bingdu", "term": "病毒", "reading": "bìngdú", "meaning": "virus", "emoji": "🦠", "example": "电脑中病毒了。", "exampleMeaning": "Máy tính bị nhiễm virus." },
+    { "id": "dayinji", "term": "打印机", "reading": "dǎyìnjī", "meaning": "máy in", "emoji": "🖨️", "example": "打印机卡纸了。", "exampleMeaning": "Máy in bị kẹt giấy." },
+    { "id": "wuxianwang", "term": "无线网", "reading": "wúxiànwǎng", "meaning": "wifi, mạng không dây", "emoji": "📶", "example": "这里有无线网吗?", "exampleMeaning": "Ở đây có wifi không?" },
+    { "id": "shubiao", "term": "鼠标", "reading": "shǔbiāo", "meaning": "chuột máy tính", "emoji": "🖱️", "example": "鼠标不动了。", "exampleMeaning": "Chuột không di chuyển được." },
+    { "id": "jianpan", "term": "键盘", "reading": "jiànpán", "meaning": "bàn phím", "emoji": "⌨️", "example": "键盘有点脏。", "exampleMeaning": "Bàn phím hơi bẩn." },
+    { "id": "xianshiqi", "term": "显示器", "reading": "xiǎnshìqì", "meaning": "màn hình", "emoji": "🖥️", "example": "我想换个大显示器。", "exampleMeaning": "Tôi muốn đổi màn hình to hơn." },
+    { "id": "chongqi", "term": "重启", "reading": "chóngqǐ", "meaning": "khởi động lại", "emoji": "🔁", "example": "重启以后就好了。", "exampleMeaning": "Khởi động lại xong là ổn." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "忘", "了", "密码"], "reading": "wǒ wàng le mìmǎ", "meaning": "Tôi quên mật khẩu rồi." },
+    { "id": "s2", "tokens": ["今天", "的", "网络", "很", "慢"], "reading": "jīntiān de wǎngluò hěn màn", "meaning": "Hôm nay mạng rất chậm." },
+    { "id": "s3", "tokens": ["请", "重启", "一下", "电脑"], "reading": "qǐng chóngqǐ yíxià diànnǎo", "meaning": "Vui lòng khởi động lại máy tính." },
+    { "id": "s4", "tokens": ["这个", "软件", "需要", "更新"], "reading": "zhège ruǎnjiàn xūyào gēngxīn", "meaning": "Phần mềm này cần cập nhật." },
+    { "id": "s5", "tokens": ["别", "忘", "了", "保存", "文件"], "reading": "bié wàng le bǎocún wénjiàn", "meaning": "Đừng quên lưu tệp." },
+    { "id": "s6", "tokens": ["打印机", "又", "没", "纸", "了"], "reading": "dǎyìnjī yòu méi zhǐ le", "meaning": "Máy in lại hết giấy rồi." }
+  ]
+}

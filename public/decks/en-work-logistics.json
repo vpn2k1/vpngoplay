@@ -1,0 +1,38 @@
+{
+  "id": "en-work-logistics",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Production & Logistics",
+  "description": "Sản xuất, kho vận và giao hàng.",
+  "words": [
+    { "id": "warehouse", "term": "warehouse", "reading": "/ˈwerhaʊs/", "meaning": "nhà kho", "emoji": "🏭", "example": "The goods are in the warehouse.", "exampleMeaning": "Hàng hóa đang ở trong nhà kho." },
+    { "id": "shipment", "term": "shipment", "reading": "/ˈʃɪpmənt/", "meaning": "lô hàng", "emoji": "🚢", "example": "The shipment arrives on Monday.", "exampleMeaning": "Lô hàng đến vào thứ Hai." },
+    { "id": "delivery", "term": "delivery", "reading": "/dɪˈlɪvəri/", "meaning": "giao hàng", "emoji": "🚚", "example": "The delivery is free this week.", "exampleMeaning": "Tuần này giao hàng miễn phí." },
+    { "id": "supplier", "term": "supplier", "reading": "/səˈplaɪər/", "meaning": "nhà cung cấp", "emoji": "🏢", "example": "We found a cheaper supplier.", "exampleMeaning": "Chúng tôi đã tìm được nhà cung cấp rẻ hơn." },
+    { "id": "inventory", "term": "inventory", "reading": "/ˈɪnvəntɔːri/", "meaning": "hàng tồn kho", "emoji": "📦", "example": "We check the inventory every Friday.", "exampleMeaning": "Chúng tôi kiểm tra hàng tồn kho mỗi thứ Sáu." },
+    { "id": "in-stock", "term": "in stock", "reading": "/ɪn stɑːk/", "meaning": "còn hàng", "emoji": "✅", "example": "This item is in stock now.", "exampleMeaning": "Mặt hàng này hiện còn hàng." },
+    { "id": "out-of-stock", "term": "out of stock", "reading": "/aʊt əv stɑːk/", "meaning": "hết hàng", "emoji": "❌", "example": "Sorry, the blue model is out of stock.", "exampleMeaning": "Xin lỗi, mẫu màu xanh đã hết hàng." },
+    { "id": "order", "term": "order", "reading": "/ˈɔːrdər/", "meaning": "đơn hàng", "emoji": "🛒", "example": "Your order will ship tomorrow.", "exampleMeaning": "Đơn hàng của bạn sẽ được gửi đi ngày mai." },
+    { "id": "factory", "term": "factory", "reading": "/ˈfæktəri/", "meaning": "nhà máy", "emoji": "🏗️", "example": "The factory runs day and night.", "exampleMeaning": "Nhà máy chạy cả ngày lẫn đêm." },
+    { "id": "assembly-line", "term": "assembly line", "reading": "/əˈsembli laɪn/", "meaning": "dây chuyền lắp ráp", "emoji": "⚙️", "example": "He works on the assembly line.", "exampleMeaning": "Anh ấy làm việc trên dây chuyền lắp ráp." },
+    { "id": "quality-control", "term": "quality control", "reading": "/ˈkwɑːləti kənˈtroʊl/", "meaning": "kiểm tra chất lượng", "emoji": "🔍", "example": "Every product goes through quality control.", "exampleMeaning": "Mọi sản phẩm đều qua khâu kiểm tra chất lượng." },
+    { "id": "raw-materials", "term": "raw materials", "reading": "/rɔː məˈtɪriəlz/", "meaning": "nguyên liệu thô", "emoji": "🪵", "example": "The price of raw materials went up.", "exampleMeaning": "Giá nguyên liệu thô đã tăng." },
+    { "id": "output", "term": "output", "reading": "/ˈaʊtpʊt/", "meaning": "sản lượng", "emoji": "📈", "example": "Our output doubled this year.", "exampleMeaning": "Năm nay sản lượng của chúng tôi tăng gấp đôi." },
+    { "id": "track", "term": "track", "reading": "/træk/", "meaning": "theo dõi, lần theo", "emoji": "📍", "example": "You can track your parcel online.", "exampleMeaning": "Bạn có thể theo dõi bưu kiện trên mạng." },
+    { "id": "parcel", "term": "parcel", "reading": "/ˈpɑːrsl/", "meaning": "bưu kiện", "emoji": "📮", "example": "A parcel came for you today.", "exampleMeaning": "Hôm nay có một bưu kiện gửi cho bạn." },
+    { "id": "courier", "term": "courier", "reading": "/ˈkʊriər/", "meaning": "công ty chuyển phát", "emoji": "🛵", "example": "The courier will pick it up at noon.", "exampleMeaning": "Bên chuyển phát sẽ đến lấy lúc trưa." },
+    { "id": "container", "term": "container", "reading": "/kənˈteɪnər/", "meaning": "công-te-nơ", "emoji": "🚛", "example": "The container is at the port.", "exampleMeaning": "Công-te-nơ đang ở cảng." },
+    { "id": "forklift", "term": "forklift", "reading": "/ˈfɔːrklɪft/", "meaning": "xe nâng", "emoji": "🚜", "example": "Only trained staff can drive the forklift.", "exampleMeaning": "Chỉ nhân viên được đào tạo mới được lái xe nâng." },
+    { "id": "packaging", "term": "packaging", "reading": "/ˈpækɪdʒɪŋ/", "meaning": "bao bì", "emoji": "🎁", "example": "We use recycled packaging.", "exampleMeaning": "Chúng tôi dùng bao bì tái chế." },
+    { "id": "lead-time", "term": "lead time", "reading": "/ˈliːd taɪm/", "meaning": "thời gian chờ hàng", "emoji": "⏳", "example": "The lead time is two weeks.", "exampleMeaning": "Thời gian chờ hàng là hai tuần." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["The", "shipment", "left", "the", "warehouse", "today"], "meaning": "Hôm nay lô hàng đã rời nhà kho." },
+    { "id": "s2", "tokens": ["This", "item", "is", "out", "of", "stock"], "meaning": "Mặt hàng này đã hết hàng." },
+    { "id": "s3", "tokens": ["Can", "I", "track", "my", "order", "online"], "meaning": "Tôi có thể theo dõi đơn hàng trên mạng không?" },
+    { "id": "s4", "tokens": ["The", "factory", "needs", "more", "raw", "materials"], "meaning": "Nhà máy cần thêm nguyên liệu thô." },
+    { "id": "s5", "tokens": ["Our", "supplier", "sent", "the", "wrong", "parts"], "meaning": "Nhà cung cấp đã gửi nhầm linh kiện." },
+    { "id": "s6", "tokens": ["The", "delivery", "will", "arrive", "tomorrow", "morning"], "meaning": "Hàng sẽ được giao vào sáng mai." }
+  ]
+}

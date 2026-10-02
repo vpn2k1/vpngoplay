@@ -1,0 +1,38 @@
+{
+  "id": "en-work-customers",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Customer Service",
+  "description": "Chăm sóc và hỗ trợ khách hàng.",
+  "words": [
+    { "id": "customer", "term": "customer", "reading": "/ˈkʌstəmər/", "meaning": "khách hàng", "emoji": "🧑", "example": "The customer wants to speak to you.", "exampleMeaning": "Khách hàng muốn nói chuyện với bạn." },
+    { "id": "complaint", "term": "complaint", "reading": "/kəmˈpleɪnt/", "meaning": "lời phàn nàn", "emoji": "😠", "example": "We received a complaint this morning.", "exampleMeaning": "Sáng nay chúng tôi nhận được một lời phàn nàn." },
+    { "id": "apologize", "term": "apologize", "reading": "/əˈpɑːlədʒaɪz/", "meaning": "xin lỗi", "emoji": "🙇", "example": "I apologize for the trouble.", "exampleMeaning": "Tôi xin lỗi vì sự phiền toái." },
+    { "id": "inconvenience", "term": "inconvenience", "reading": "/ˌɪnkənˈviːniəns/", "meaning": "sự bất tiện", "emoji": "😕", "example": "Sorry for the inconvenience.", "exampleMeaning": "Xin lỗi vì sự bất tiện." },
+    { "id": "satisfied", "term": "satisfied", "reading": "/ˈsætɪsfaɪd/", "meaning": "hài lòng", "emoji": "😊", "example": "Most customers are satisfied with us.", "exampleMeaning": "Hầu hết khách hàng hài lòng với chúng tôi." },
+    { "id": "issue", "term": "issue", "reading": "/ˈɪʃuː/", "meaning": "vấn đề", "emoji": "🐞", "example": "We fixed the issue yesterday.", "exampleMeaning": "Hôm qua chúng tôi đã khắc phục sự cố." },
+    { "id": "solve", "term": "solve", "reading": "/sɑːlv/", "meaning": "giải quyết", "emoji": "🧩", "example": "We will solve this problem quickly.", "exampleMeaning": "Chúng tôi sẽ nhanh chóng giải quyết vấn đề này." },
+    { "id": "warranty", "term": "warranty", "reading": "/ˈwɔːrənti/", "meaning": "bảo hành", "emoji": "🛡️", "example": "The warranty lasts for two years.", "exampleMeaning": "Thời hạn bảo hành là hai năm." },
+    { "id": "replace", "term": "replace", "reading": "/rɪˈpleɪs/", "meaning": "thay thế", "emoji": "🔄", "example": "We can replace the broken part.", "exampleMeaning": "Chúng tôi có thể thay thế bộ phận bị hỏng." },
+    { "id": "exchange", "term": "exchange", "reading": "/ɪksˈtʃeɪndʒ/", "meaning": "đổi hàng", "emoji": "🔁", "example": "You can exchange it within a week.", "exampleMeaning": "Bạn có thể đổi hàng trong vòng một tuần." },
+    { "id": "loyal", "term": "loyal", "reading": "/ˈlɔɪəl/", "meaning": "trung thành", "emoji": "💖", "example": "She is a loyal customer.", "exampleMeaning": "Cô ấy là một khách hàng trung thành." },
+    { "id": "helpline", "term": "helpline", "reading": "/ˈhelplaɪn/", "meaning": "đường dây hỗ trợ", "emoji": "☎️", "example": "Call our helpline for more help.", "exampleMeaning": "Hãy gọi đường dây hỗ trợ để được giúp thêm." },
+    { "id": "ticket", "term": "ticket", "reading": "/ˈtɪkɪt/", "meaning": "phiếu yêu cầu", "emoji": "🎫", "example": "I opened a ticket for your problem.", "exampleMeaning": "Tôi đã mở phiếu yêu cầu cho vấn đề của bạn." },
+    { "id": "polite", "term": "polite", "reading": "/pəˈlaɪt/", "meaning": "lịch sự", "emoji": "🙂", "example": "Always be polite to customers.", "exampleMeaning": "Hãy luôn lịch sự với khách hàng." },
+    { "id": "patient", "term": "patient", "reading": "/ˈpeɪʃnt/", "meaning": "kiên nhẫn", "emoji": "⏳", "example": "Thank you for being patient.", "exampleMeaning": "Cảm ơn bạn đã kiên nhẫn." },
+    { "id": "compensation", "term": "compensation", "reading": "/ˌkɑːmpenˈseɪʃn/", "meaning": "tiền bồi thường", "emoji": "💵", "example": "The customer asked for compensation.", "exampleMeaning": "Khách hàng yêu cầu được bồi thường." },
+    { "id": "handle", "term": "handle", "reading": "/ˈhændl/", "meaning": "xử lý", "emoji": "👐", "example": "Who will handle this case?", "exampleMeaning": "Ai sẽ xử lý trường hợp này?" },
+    { "id": "rating", "term": "rating", "reading": "/ˈreɪtɪŋ/", "meaning": "điểm đánh giá", "emoji": "⭐", "example": "Our app has a high rating.", "exampleMeaning": "Ứng dụng của chúng tôi có điểm đánh giá cao." },
+    { "id": "guarantee", "term": "guarantee", "reading": "/ˌɡærənˈtiː/", "meaning": "cam kết, bảo đảm", "emoji": "✅", "example": "We guarantee fast delivery.", "exampleMeaning": "Chúng tôi cam kết giao hàng nhanh." },
+    { "id": "response-time", "term": "response time", "reading": "/rɪˈspɑːns taɪm/", "meaning": "thời gian phản hồi", "emoji": "⏱️", "example": "Our response time is under one hour.", "exampleMeaning": "Thời gian phản hồi của chúng tôi dưới một giờ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["We", "are", "sorry", "for", "the", "inconvenience"], "meaning": "Chúng tôi xin lỗi vì sự bất tiện." },
+    { "id": "s2", "tokens": ["How", "can", "I", "help", "you", "today"], "meaning": "Hôm nay tôi có thể giúp gì cho bạn?" },
+    { "id": "s3", "tokens": ["The", "customer", "made", "a", "complaint"], "meaning": "Khách hàng đã phàn nàn." },
+    { "id": "s4", "tokens": ["We", "will", "replace", "it", "for", "free"], "meaning": "Chúng tôi sẽ thay thế miễn phí." },
+    { "id": "s5", "tokens": ["Please", "call", "our", "helpline"], "meaning": "Vui lòng gọi đường dây hỗ trợ của chúng tôi." },
+    { "id": "s6", "tokens": ["Your", "warranty", "is", "still", "valid"], "meaning": "Bảo hành của bạn vẫn còn hiệu lực." }
+  ]
+}

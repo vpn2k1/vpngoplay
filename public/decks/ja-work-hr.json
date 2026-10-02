@@ -1,0 +1,38 @@
+{
+  "id": "ja-work-hr",
+  "lang": "ja",
+  "track": "work",
+  "level": "N3–N2",
+  "title": "人事と採用",
+  "description": "Nhân sự và tuyển dụng.",
+  "words": [
+    { "id": "jinji", "term": "人事", "reading": "じんじ · jinji", "meaning": "nhân sự", "emoji": "👥", "example": "人事部で働く。", "exampleMeaning": "Làm ở phòng nhân sự." },
+    { "id": "saiyou", "term": "採用", "reading": "さいよう · saiyō", "meaning": "tuyển dụng", "emoji": "📢", "example": "新人を採用する。", "exampleMeaning": "Tuyển nhân viên mới." },
+    { "id": "mensetsu", "term": "面接", "reading": "めんせつ · mensetsu", "meaning": "phỏng vấn", "emoji": "🎙️", "example": "明日は面接です。", "exampleMeaning": "Mai có buổi phỏng vấn." },
+    { "id": "rirekisho", "term": "履歴書", "reading": "りれきしょ · rirekisho", "meaning": "sơ yếu lý lịch", "emoji": "📄", "example": "履歴書を書く。", "exampleMeaning": "Viết sơ yếu lý lịch." },
+    { "id": "oubo", "term": "応募", "reading": "おうぼ · ōbo", "meaning": "ứng tuyển", "emoji": "✋", "example": "求人に応募する。", "exampleMeaning": "Ứng tuyển theo tin đăng." },
+    { "id": "kyuujin", "term": "求人", "reading": "きゅうじん · kyūjin", "meaning": "tin tuyển dụng", "emoji": "📰", "example": "求人を探す。", "exampleMeaning": "Tìm tin tuyển dụng." },
+    { "id": "shinjin", "term": "新人", "reading": "しんじん · shinjin", "meaning": "người mới, lính mới", "emoji": "🐣", "example": "新人を教える。", "exampleMeaning": "Dạy người mới." },
+    { "id": "kenshuu", "term": "研修", "reading": "けんしゅう · kenshū", "meaning": "đào tạo, tập huấn", "emoji": "🎓", "example": "研修に参加する。", "exampleMeaning": "Tham gia khóa đào tạo." },
+    { "id": "shoushin", "term": "昇進", "reading": "しょうしん · shōshin", "meaning": "thăng chức", "emoji": "🆙", "example": "課長に昇進した。", "exampleMeaning": "Đã được lên trưởng phòng." },
+    { "id": "taishoku", "term": "退職", "reading": "たいしょく · taishoku", "meaning": "nghỉ việc", "emoji": "🚪", "example": "来月退職します。", "exampleMeaning": "Tháng sau tôi nghỉ việc." },
+    { "id": "tenshoku", "term": "転職", "reading": "てんしょく · tenshoku", "meaning": "chuyển việc", "emoji": "🔄", "example": "転職を考える。", "exampleMeaning": "Suy nghĩ chuyện chuyển việc." },
+    { "id": "kyuuka", "term": "休暇", "reading": "きゅうか · kyūka", "meaning": "kỳ nghỉ, ngày phép", "emoji": "🏖️", "example": "休暇を取る。", "exampleMeaning": "Xin nghỉ phép." },
+    { "id": "yuukyuu", "term": "有給", "reading": "ゆうきゅう · yūkyū", "meaning": "nghỉ có lương", "emoji": "🌴", "example": "有給を使う。", "exampleMeaning": "Dùng ngày nghỉ có lương." },
+    { "id": "fukurikousei", "term": "福利厚生", "reading": "ふくりこうせい · fukurikōsei", "meaning": "phúc lợi", "emoji": "🎁", "example": "福利厚生がいい。", "exampleMeaning": "Phúc lợi tốt." },
+    { "id": "jinzai", "term": "人材", "reading": "じんざい · jinzai", "meaning": "nhân tài, nguồn nhân lực", "emoji": "🌟", "example": "人材を育てる。", "exampleMeaning": "Bồi dưỡng nhân tài." },
+    { "id": "hyouka", "term": "評価", "reading": "ひょうか · hyōka", "meaning": "đánh giá", "emoji": "⭐", "example": "仕事を評価する。", "exampleMeaning": "Đánh giá công việc." },
+    { "id": "seishain", "term": "正社員", "reading": "せいしゃいん · seishain", "meaning": "nhân viên chính thức", "emoji": "🪪", "example": "正社員になった。", "exampleMeaning": "Đã thành nhân viên chính thức." },
+    { "id": "haken", "term": "派遣", "reading": "はけん · haken", "meaning": "điều động, phái cử", "emoji": "🚌", "example": "派遣で働く。", "exampleMeaning": "Làm việc theo dạng phái cử." },
+    { "id": "kinmu", "term": "勤務", "reading": "きんむ · kinmu", "meaning": "làm việc, công tác", "emoji": "🕘", "example": "九時から勤務する。", "exampleMeaning": "Làm việc từ 9 giờ." },
+    { "id": "naitei", "term": "内定", "reading": "ないてい · naitei", "meaning": "trúng tuyển (sơ bộ)", "emoji": "🎉", "example": "内定をもらった。", "exampleMeaning": "Đã nhận thông báo trúng tuyển." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["来週", "面接", "を", "受けます"], "reading": "らいしゅうめんせつをうけます", "meaning": "Tuần sau tôi đi phỏng vấn." },
+    { "id": "s2", "tokens": ["履歴書", "を", "メール", "で", "送って", "ください"], "reading": "りれきしょをメールでおくってください", "meaning": "Hãy gửi sơ yếu lý lịch qua email." },
+    { "id": "s3", "tokens": ["新人", "は", "一週間", "研修", "を", "受けます"], "reading": "しんじんはいっしゅうかんけんしゅうをうけます", "meaning": "Nhân viên mới được đào tạo một tuần." },
+    { "id": "s4", "tokens": ["彼", "は", "部長", "に", "昇進", "しました"], "reading": "かれはぶちょうにしょうしんしました", "meaning": "Anh ấy được thăng chức trưởng bộ phận." },
+    { "id": "s5", "tokens": ["来月", "有給", "を", "取ります"], "reading": "らいげつゆうきゅうをとります", "meaning": "Tháng sau tôi nghỉ phép có lương." },
+    { "id": "s6", "tokens": ["この", "会社", "は", "福利厚生", "が", "いい", "です"], "reading": "このかいしゃはふくりこうせいがいいです", "meaning": "Công ty này có phúc lợi tốt." }
+  ]
+}

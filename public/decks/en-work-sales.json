@@ -1,0 +1,38 @@
+{
+  "id": "en-work-sales",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Sales & Marketing",
+  "description": "Bán hàng và tiếp thị sản phẩm.",
+  "words": [
+    { "id": "target-market", "term": "target market", "reading": "/ˈtɑːrɡɪt ˈmɑːrkɪt/", "meaning": "thị trường mục tiêu", "emoji": "🎯", "example": "Young parents are our target market.", "exampleMeaning": "Các bậc cha mẹ trẻ là thị trường mục tiêu của chúng ta." },
+    { "id": "brand", "term": "brand", "reading": "/brænd/", "meaning": "thương hiệu", "emoji": "🏷️", "example": "Our brand is famous in Asia.", "exampleMeaning": "Thương hiệu của chúng ta nổi tiếng ở châu Á." },
+    { "id": "campaign", "term": "campaign", "reading": "/kæmˈpeɪn/", "meaning": "chiến dịch", "emoji": "📣", "example": "The new campaign starts in May.", "exampleMeaning": "Chiến dịch mới bắt đầu vào tháng Năm." },
+    { "id": "advertisement", "term": "advertisement", "reading": "/ˌædvərˈtaɪzmənt/", "meaning": "quảng cáo", "emoji": "📺", "example": "I saw your advertisement on TV.", "exampleMeaning": "Tôi đã thấy quảng cáo của bạn trên TV." },
+    { "id": "discount", "term": "discount", "reading": "/ˈdɪskaʊnt/", "meaning": "giảm giá", "emoji": "💲", "example": "We offer a discount for students.", "exampleMeaning": "Chúng tôi giảm giá cho sinh viên." },
+    { "id": "lead", "term": "lead", "reading": "/liːd/", "meaning": "khách tiềm năng", "emoji": "🧲", "example": "This lead came from our website.", "exampleMeaning": "Khách tiềm năng này đến từ trang web của chúng ta." },
+    { "id": "sales-target", "term": "sales target", "reading": "/seɪlz ˈtɑːrɡɪt/", "meaning": "chỉ tiêu doanh số", "emoji": "📊", "example": "We reached our sales target in June.", "exampleMeaning": "Chúng tôi đạt chỉ tiêu doanh số vào tháng Sáu." },
+    { "id": "commission", "term": "commission", "reading": "/kəˈmɪʃn/", "meaning": "hoa hồng", "emoji": "💵", "example": "She earns a commission on every sale.", "exampleMeaning": "Cô ấy nhận hoa hồng trên mỗi lần bán." },
+    { "id": "competitor", "term": "competitor", "reading": "/kəmˈpetɪtər/", "meaning": "đối thủ cạnh tranh", "emoji": "🥊", "example": "Our main competitor lowered its prices.", "exampleMeaning": "Đối thủ chính của chúng ta đã hạ giá." },
+    { "id": "market-share", "term": "market share", "reading": "/ˈmɑːrkɪt ʃer/", "meaning": "thị phần", "emoji": "🥧", "example": "We want a bigger market share.", "exampleMeaning": "Chúng ta muốn có thị phần lớn hơn." },
+    { "id": "launch", "term": "launch", "reading": "/lɔːntʃ/", "meaning": "ra mắt", "emoji": "🚀", "example": "We will launch the product next month.", "exampleMeaning": "Chúng tôi sẽ ra mắt sản phẩm vào tháng sau." },
+    { "id": "promote", "term": "promote", "reading": "/prəˈmoʊt/", "meaning": "quảng bá", "emoji": "📢", "example": "We promote our products online.", "exampleMeaning": "Chúng tôi quảng bá sản phẩm trên mạng." },
+    { "id": "survey", "term": "survey", "reading": "/ˈsɜːrveɪ/", "meaning": "khảo sát", "emoji": "📋", "example": "Please fill out our short survey.", "exampleMeaning": "Vui lòng điền bản khảo sát ngắn của chúng tôi." },
+    { "id": "social-media", "term": "social media", "reading": "/ˌsoʊʃl ˈmiːdiə/", "meaning": "mạng xã hội", "emoji": "📱", "example": "We post on social media every day.", "exampleMeaning": "Chúng tôi đăng bài trên mạng xã hội mỗi ngày." },
+    { "id": "pitch", "term": "pitch", "reading": "/pɪtʃ/", "meaning": "lời chào hàng", "emoji": "🗣️", "example": "His sales pitch was very convincing.", "exampleMeaning": "Lời chào hàng của anh ấy rất thuyết phục." },
+    { "id": "quote", "term": "quote", "reading": "/kwoʊt/", "meaning": "báo giá", "emoji": "💬", "example": "Can you send me a quote?", "exampleMeaning": "Bạn có thể gửi báo giá cho tôi không?" },
+    { "id": "bestseller", "term": "bestseller", "reading": "/ˌbestˈselər/", "meaning": "hàng bán chạy", "emoji": "🏆", "example": "This phone is our bestseller.", "exampleMeaning": "Chiếc điện thoại này là hàng bán chạy của chúng tôi." },
+    { "id": "sample", "term": "sample", "reading": "/ˈsæmpl/", "meaning": "hàng mẫu", "emoji": "🎁", "example": "Here is a free sample for you.", "exampleMeaning": "Đây là hàng mẫu miễn phí cho bạn." },
+    { "id": "slogan", "term": "slogan", "reading": "/ˈsloʊɡən/", "meaning": "khẩu hiệu", "emoji": "✨", "example": "Everyone remembers our new slogan.", "exampleMeaning": "Ai cũng nhớ khẩu hiệu mới của chúng ta." },
+    { "id": "trend", "term": "trend", "reading": "/trend/", "meaning": "xu hướng", "emoji": "📈", "example": "Online shopping is a growing trend.", "exampleMeaning": "Mua sắm trực tuyến là xu hướng đang tăng." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Our", "new", "campaign", "starts", "next", "week"], "meaning": "Chiến dịch mới của chúng ta bắt đầu tuần sau." },
+    { "id": "s2", "tokens": ["Can", "you", "send", "us", "a", "quote"], "meaning": "Bạn có thể gửi báo giá cho chúng tôi không?" },
+    { "id": "s3", "tokens": ["We", "offer", "a", "ten", "percent", "discount"], "meaning": "Chúng tôi giảm giá mười phần trăm." },
+    { "id": "s4", "tokens": ["Our", "competitor", "has", "a", "bigger", "market", "share"], "meaning": "Đối thủ của chúng ta có thị phần lớn hơn." },
+    { "id": "s5", "tokens": ["She", "reached", "her", "sales", "target"], "meaning": "Cô ấy đã đạt chỉ tiêu doanh số." },
+    { "id": "s6", "tokens": ["We", "will", "launch", "the", "product", "online"], "meaning": "Chúng tôi sẽ ra mắt sản phẩm trên mạng." }
+  ]
+}

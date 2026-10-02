@@ -1,0 +1,38 @@
+{
+  "id": "en-work-email",
+  "lang": "en",
+  "track": "work",
+  "level": "B1–B2",
+  "title": "Emails & Documents",
+  "description": "Viết email, giấy tờ và văn bản công việc.",
+  "words": [
+    { "id": "subject-line", "term": "subject line", "reading": "/ˈsʌbdʒɪkt laɪn/", "meaning": "dòng tiêu đề", "emoji": "✉️", "example": "Keep the subject line short and clear.", "exampleMeaning": "Hãy viết dòng tiêu đề ngắn gọn, rõ ràng." },
+    { "id": "recipient", "term": "recipient", "reading": "/rɪˈsɪpiənt/", "meaning": "người nhận", "emoji": "📥", "example": "Check the recipient before you send it.", "exampleMeaning": "Hãy kiểm tra người nhận trước khi gửi." },
+    { "id": "cc", "term": "cc", "reading": "/ˌsiːˈsiː/", "meaning": "gửi kèm bản sao", "emoji": "📨", "example": "Please cc my manager on this email.", "exampleMeaning": "Vui lòng gửi kèm bản sao email này cho quản lý của tôi." },
+    { "id": "forward", "term": "forward", "reading": "/ˈfɔːrwərd/", "meaning": "chuyển tiếp", "emoji": "➡️", "example": "Can you forward me that message?", "exampleMeaning": "Bạn chuyển tiếp tin nhắn đó cho tôi được không?" },
+    { "id": "reply-all", "term": "reply all", "reading": "/rɪˈplaɪ ɔːl/", "meaning": "trả lời tất cả", "emoji": "↩️", "example": "Please don't reply all to this email.", "exampleMeaning": "Vui lòng đừng trả lời tất cả email này." },
+    { "id": "draft", "term": "draft", "reading": "/dræft/", "meaning": "bản nháp", "emoji": "📝", "example": "I wrote a draft of the letter.", "exampleMeaning": "Tôi đã viết bản nháp của bức thư." },
+    { "id": "signature", "term": "signature", "reading": "/ˈsɪɡnətʃər/", "meaning": "chữ ký", "emoji": "✍️", "example": "Add your phone number to your signature.", "exampleMeaning": "Hãy thêm số điện thoại vào chữ ký của bạn." },
+    { "id": "template", "term": "template", "reading": "/ˈtemplət/", "meaning": "mẫu có sẵn", "emoji": "📄", "example": "Use this template for the weekly report.", "exampleMeaning": "Hãy dùng mẫu có sẵn này cho báo cáo tuần." },
+    { "id": "memo", "term": "memo", "reading": "/ˈmemoʊ/", "meaning": "thông báo nội bộ", "emoji": "🗒️", "example": "The memo went to all staff.", "exampleMeaning": "Thông báo nội bộ đã được gửi đến toàn bộ nhân viên." },
+    { "id": "proofread", "term": "proofread", "reading": "/ˈpruːfriːd/", "meaning": "đọc soát lỗi", "emoji": "🔍", "example": "Please proofread the letter before sending.", "exampleMeaning": "Vui lòng đọc soát lỗi bức thư trước khi gửi." },
+    { "id": "spreadsheet", "term": "spreadsheet", "reading": "/ˈspredʃiːt/", "meaning": "bảng tính", "emoji": "📊", "example": "The numbers are in the spreadsheet.", "exampleMeaning": "Các con số nằm trong bảng tính." },
+    { "id": "file", "term": "file", "reading": "/faɪl/", "meaning": "hồ sơ, tệp", "emoji": "🗂️", "example": "Please send me the file again.", "exampleMeaning": "Vui lòng gửi lại tệp cho tôi." },
+    { "id": "inbox", "term": "inbox", "reading": "/ˈɪnbɑːks/", "meaning": "hộp thư đến", "emoji": "📬", "example": "My inbox is full of messages.", "exampleMeaning": "Hộp thư đến của tôi đầy tin nhắn." },
+    { "id": "regards", "term": "regards", "reading": "/rɪˈɡɑːrdz/", "meaning": "lời chào cuối thư", "emoji": "🙏", "example": "I end every email with Best regards.", "exampleMeaning": "Tôi kết thúc mọi email bằng lời chào trân trọng." },
+    { "id": "urgent", "term": "urgent", "reading": "/ˈɜːrdʒənt/", "meaning": "khẩn cấp", "emoji": "🚨", "example": "This is an urgent request from the director.", "exampleMeaning": "Đây là yêu cầu khẩn cấp từ giám đốc." },
+    { "id": "confirm", "term": "confirm", "reading": "/kənˈfɜːrm/", "meaning": "xác nhận", "emoji": "✔️", "example": "Please confirm the date by email.", "exampleMeaning": "Vui lòng xác nhận ngày qua email." },
+    { "id": "print", "term": "print", "reading": "/prɪnt/", "meaning": "in ra", "emoji": "🖨️", "example": "Could you print two copies for me?", "exampleMeaning": "Bạn in ra giúp tôi hai bản được không?" },
+    { "id": "scan", "term": "scan", "reading": "/skæn/", "meaning": "quét tài liệu", "emoji": "📠", "example": "Please scan the signed form.", "exampleMeaning": "Vui lòng quét mẫu đơn đã ký." },
+    { "id": "form", "term": "form", "reading": "/fɔːrm/", "meaning": "mẫu đơn, biểu mẫu", "emoji": "📋", "example": "Fill in this form, please.", "exampleMeaning": "Vui lòng điền vào mẫu đơn này." },
+    { "id": "summary", "term": "summary", "reading": "/ˈsʌməri/", "meaning": "bản tóm tắt", "emoji": "📑", "example": "Send me a short summary of the report.", "exampleMeaning": "Gửi tôi bản tóm tắt ngắn của báo cáo." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Please", "check", "the", "subject", "line", "again"], "meaning": "Vui lòng kiểm tra lại dòng tiêu đề." },
+    { "id": "s2", "tokens": ["I", "will", "forward", "the", "email", "to", "you"], "meaning": "Tôi sẽ chuyển tiếp email cho bạn." },
+    { "id": "s3", "tokens": ["Can", "you", "proofread", "my", "draft"], "meaning": "Bạn có thể đọc soát lỗi bản nháp của tôi không?" },
+    { "id": "s4", "tokens": ["The", "spreadsheet", "is", "in", "my", "inbox"], "meaning": "Bảng tính nằm trong hộp thư đến của tôi." },
+    { "id": "s5", "tokens": ["Please", "fill", "in", "this", "form"], "meaning": "Vui lòng điền vào mẫu đơn này." },
+    { "id": "s6", "tokens": ["This", "email", "is", "very", "urgent"], "meaning": "Email này rất khẩn cấp." }
+  ]
+}

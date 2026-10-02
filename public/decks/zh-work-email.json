@@ -1,0 +1,38 @@
+{
+  "id": "zh-work-email",
+  "lang": "zh",
+  "track": "work",
+  "level": "HSK 4–5",
+  "title": "邮件和文件",
+  "description": "Viết email, xử lý văn bản và giấy tờ.",
+  "words": [
+    { "id": "youjian", "term": "邮件", "reading": "yóujiàn", "meaning": "thư điện tử, email", "emoji": "📧", "example": "我刚给你发了邮件。", "exampleMeaning": "Tôi vừa gửi email cho bạn." },
+    { "id": "fujian", "term": "附件", "reading": "fùjiàn", "meaning": "tệp đính kèm", "emoji": "📎", "example": "附件里有详细资料。", "exampleMeaning": "Trong tệp đính kèm có tài liệu chi tiết." },
+    { "id": "huifu", "term": "回复", "reading": "huífù", "meaning": "trả lời, hồi âm", "emoji": "↩️", "example": "请尽快回复我。", "exampleMeaning": "Vui lòng trả lời tôi sớm nhất có thể." },
+    { "id": "zhuanfa", "term": "转发", "reading": "zhuǎnfā", "meaning": "chuyển tiếp", "emoji": "📨", "example": "我把邮件转发给经理了。", "exampleMeaning": "Tôi đã chuyển tiếp email cho quản lý." },
+    { "id": "chaosong", "term": "抄送", "reading": "chāosòng", "meaning": "gửi bản sao (cc)", "emoji": "👀", "example": "这封邮件抄送给他。", "exampleMeaning": "Email này cc cho anh ấy." },
+    { "id": "wenjian", "term": "文件", "reading": "wénjiàn", "meaning": "tài liệu, văn bản", "emoji": "📄", "example": "这个文件很重要。", "exampleMeaning": "Tài liệu này rất quan trọng." },
+    { "id": "zhuti", "term": "主题", "reading": "zhǔtí", "meaning": "chủ đề, tiêu đề thư", "emoji": "🏷️", "example": "主题写清楚一点。", "exampleMeaning": "Hãy ghi tiêu đề rõ ràng hơn một chút." },
+    { "id": "qianming", "term": "签名", "reading": "qiānmíng", "meaning": "chữ ký, ký tên", "emoji": "✍️", "example": "请在这里签名。", "exampleMeaning": "Vui lòng ký tên ở đây." },
+    { "id": "dayin", "term": "打印", "reading": "dǎyìn", "meaning": "in ấn, in ra", "emoji": "🖨️", "example": "帮我打印两份。", "exampleMeaning": "Giúp tôi in hai bản." },
+    { "id": "fuyin", "term": "复印", "reading": "fùyìn", "meaning": "photo, sao chụp", "emoji": "📠", "example": "请复印三份。", "exampleMeaning": "Vui lòng photo ba bản." },
+    { "id": "saomiao", "term": "扫描", "reading": "sǎomiáo", "meaning": "quét, scan", "emoji": "🔎", "example": "我把护照扫描了。", "exampleMeaning": "Tôi đã scan hộ chiếu rồi." },
+    { "id": "biaoge", "term": "表格", "reading": "biǎogé", "meaning": "bảng biểu, mẫu đơn", "emoji": "📋", "example": "请填一下这个表格。", "exampleMeaning": "Vui lòng điền vào mẫu đơn này." },
+    { "id": "tongzhi", "term": "通知", "reading": "tōngzhī", "meaning": "thông báo", "emoji": "📢", "example": "公司发了新通知。", "exampleMeaning": "Công ty ra thông báo mới." },
+    { "id": "shoujianren", "term": "收件人", "reading": "shōujiànrén", "meaning": "người nhận", "emoji": "📬", "example": "收件人写错了。", "exampleMeaning": "Ghi nhầm người nhận rồi." },
+    { "id": "guidang", "term": "归档", "reading": "guīdàng", "meaning": "lưu trữ hồ sơ", "emoji": "🗄️", "example": "这些文件要归档。", "exampleMeaning": "Những tài liệu này cần lưu trữ." },
+    { "id": "gaizhang", "term": "盖章", "reading": "gàizhāng", "meaning": "đóng dấu", "emoji": "🔖", "example": "这里需要盖章。", "exampleMeaning": "Chỗ này cần đóng dấu." },
+    { "id": "caogao", "term": "草稿", "reading": "cǎogǎo", "meaning": "bản nháp", "emoji": "📝", "example": "草稿已经保存了。", "exampleMeaning": "Bản nháp đã được lưu." },
+    { "id": "xiugai", "term": "修改", "reading": "xiūgǎi", "meaning": "sửa đổi, chỉnh sửa", "emoji": "✏️", "example": "请帮我修改一下。", "exampleMeaning": "Nhờ bạn sửa giúp tôi một chút." },
+    { "id": "queren", "term": "确认", "reading": "quèrèn", "meaning": "xác nhận", "emoji": "✅", "example": "请确认收到。", "exampleMeaning": "Vui lòng xác nhận đã nhận được." },
+    { "id": "geshi", "term": "格式", "reading": "géshì", "meaning": "định dạng", "emoji": "🗂️", "example": "文件格式不对。", "exampleMeaning": "Định dạng tệp không đúng." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["请", "尽快", "回复", "邮件"], "reading": "qǐng jǐnkuài huífù yóujiàn", "meaning": "Vui lòng trả lời email sớm." },
+    { "id": "s2", "tokens": ["我", "把", "文件", "发", "给", "你", "了"], "reading": "wǒ bǎ wénjiàn fā gěi nǐ le", "meaning": "Tôi đã gửi tài liệu cho bạn rồi." },
+    { "id": "s3", "tokens": ["请", "在", "这里", "签名", "盖章"], "reading": "qǐng zài zhèlǐ qiānmíng gàizhāng", "meaning": "Vui lòng ký tên và đóng dấu ở đây." },
+    { "id": "s4", "tokens": ["附件", "里", "有", "三", "个", "表格"], "reading": "fùjiàn lǐ yǒu sān gè biǎogé", "meaning": "Trong tệp đính kèm có ba bảng biểu." },
+    { "id": "s5", "tokens": ["这", "封", "邮件", "要", "抄送", "经理"], "reading": "zhè fēng yóujiàn yào chāosòng jīnglǐ", "meaning": "Email này cần cc cho quản lý." },
+    { "id": "s6", "tokens": ["帮", "我", "打印", "这", "份", "文件"], "reading": "bāng wǒ dǎyìn zhè fèn wénjiàn", "meaning": "Giúp tôi in tài liệu này." }
+  ]
+}
