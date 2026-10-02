@@ -354,13 +354,13 @@ export const ARCADE_GAMES = {
       'Các từ đang trốn trong bảng chữ! Đọc nghĩa tiếng Việt, tìm từ đó rồi kéo tay qua các chữ để khoanh lại. Tìm hết trước khi đồng hồ về 0 — hết giờ là thua.',
     controls: [
       'Kéo qua các chữ theo hàng ngang, dọc hoặc chéo — hoặc chạm chữ đầu rồi chữ cuối',
-      'Đồng hồ đếm ngược (Dễ 36 giây mỗi từ, Khó 30, trẻ em 48) · hết giờ thì thua và lộ các từ còn lại',
+      'Đồng hồ đếm ngược (Dễ 5 phút, Khó và trẻ em 10 phút) · hết giờ thì thua và lộ các từ còn lại · tìm hết nhanh được thưởng điểm',
       'Gợi ý (3 lần, trẻ em 5, −5 điểm): khoanh chữ đầu, lần sau khoanh thêm chữ cuối · chạm một nghĩa để chọn từ cần gợi ý',
       'Tiếng Anh tìm chữ cái, tiếng Nhật tìm kana, tiếng Trung tìm chữ Hán · Bỏ cuộc (bấm 2 lần) · Esc: tạm dừng',
     ],
     modes: () => [
       { id: 'easy', icon: '🌱', label: 'Dễ', hint: '5 từ, nằm ngang → hoặc dọc ↓' },
-      { id: 'hard', icon: '🧠', label: 'Khó', hint: '7 từ theo cả 8 hướng, kể cả chéo và viết ngược' },
+      { id: 'hard', icon: '🧠', label: 'Khó', hint: '12 từ theo cả 8 hướng, kể cả chéo và viết ngược' },
     ],
     Game: WordSearch,
   },

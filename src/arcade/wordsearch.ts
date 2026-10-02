@@ -35,18 +35,23 @@ export interface SearchSettings {
 
 export function searchSettings(lang: Lang, hard: boolean, kids: boolean): SearchSettings {
   return {
-    count: hard && !kids ? 7 : 5,
+    count: hard && !kids ? 12 : 5,
     directions: hard ? ALL_DIRS : EASY_DIRS,
     minSize: lang === 'en' ? 7 : hard ? 7 : 6,
-    maxSize: lang === 'en' ? 10 : 8,
+    // hard mode's 12 words need a bigger board
+    maxSize: (lang === 'en' ? 10 : 8) + (hard && !kids ? 2 : 0),
   }
 }
 
-/** Seconds per hidden word before the clock runs out (the puzzle is lost then). */
+/** Seconds a puzzle gets before the clock runs out (the puzzle is lost then): 5 minutes in easy mode,
+ *  10 in hard mode and for children. */
+export const searchTimeLimit = (hard: boolean, kids: boolean) => (hard || kids ? 10 : 5) * 60
+
+/** Seconds per hidden word for a quick finish: the time bonus is whatever is left of this pace. */
 export const SECONDS_PER_WORD = { easy: 36, hard: 30, kids: 48 } as const
 
-/** The puzzle's time limit: seconds per word, rounded up to a whole 10 seconds. */
-export function searchTimeLimit(words: number, hard: boolean, kids: boolean) {
+/** The pace that earns a time bonus: seconds per word, rounded up to a whole 10 seconds. */
+export function searchParTime(words: number, hard: boolean, kids: boolean) {
   const perWord = kids ? SECONDS_PER_WORD.kids : hard ? SECONDS_PER_WORD.hard : SECONDS_PER_WORD.easy
   return Math.ceil((words * perWord) / 10) * 10
 }

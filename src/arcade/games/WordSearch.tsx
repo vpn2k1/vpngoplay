@@ -20,6 +20,7 @@ import {
   searchHints,
   searchSettings,
   searchTimeLimit,
+  searchParTime,
   searchableWords,
   snapEnd,
   type SearchPuzzle,
@@ -121,6 +122,8 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     time: 0,
     /** seconds allowed for this puzzle */
     limit: 0,
+    /** finishing within this many seconds earns the rest as a bonus */
+    par: 0,
     timeUp: false,
     hints: 0,
     hinted: {} as Record<number, number>,
@@ -142,7 +145,8 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     const picked = pickSearchWords(lang, settings.count, (taken) => source.next(taken))
     const p = makeSearchPuzzle(picked, lang, settings, deck.words)
     g.puzzle = p
-    g.limit = searchTimeLimit(p.words.length, hard, kids)
+    g.limit = searchTimeLimit(hard, kids)
+    g.par = searchParTime(p.words.length, hard, kids)
     setPuzzle(p)
     setSeconds(g.limit)
     // A deck without a single word that fits a grid ends straight away rather than hanging.
@@ -158,8 +162,8 @@ export function WordSearch({ deck, mode, paused, onGameOver }: ArcadeGameProps) 
     const all = n > 0 && g.found.length === n
     const time = Math.round(Math.min(g.time, g.limit || g.time))
     const points = words.filter((_, i) => g.found.includes(i)).reduce((sum, w) => sum + 10 + w.pieces.length * 3, 0)
-    // finishing early earns the seconds left on the clock
-    const bonus = all ? Math.max(0, Math.round(g.limit - g.time)) : 0
+    // finishing quickly earns the seconds left of the par time
+    const bonus = all ? Math.max(0, Math.round(g.par - g.time)) : 0
     onGameOver({
       score: Math.max(0, Math.round(points * (hard ? 1.5 : 1)) + bonus - g.hints * hintRules.cost),
       xp: Math.min(60, 5 + g.found.length * 6 + (all ? 5 : 0)),

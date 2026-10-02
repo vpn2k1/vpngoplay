@@ -22,6 +22,7 @@ import {
   type Dir,
   hintTarget,
   searchTimeLimit,
+  searchParTime,
 } from './wordsearch'
 
 const decksDir = join(import.meta.dirname, '../../public/decks')
@@ -173,11 +174,23 @@ describe.each(decks.map((d) => [d.id, d] as const))('Tìm từ — %s', (_, deck
 })
 
 describe('time limit and hints', () => {
-  it('gives a whole number of 10 s, more for kids and less per word in hard mode', () => {
-    expect(searchTimeLimit(5, false, false)).toBe(180)
-    expect(searchTimeLimit(7, true, false)).toBe(210)
-    expect(searchTimeLimit(5, false, true)).toBe(240)
-    expect(searchTimeLimit(3, false, false) % 10).toBe(0)
+  it('gives 5 minutes in easy mode, 10 in hard mode and for children', () => {
+    expect(searchTimeLimit(false, false)).toBe(300)
+    expect(searchTimeLimit(true, false)).toBe(600)
+    expect(searchTimeLimit(false, true)).toBe(600)
+  })
+
+  it('hides 12 words in hard mode, 5 in easy mode and for children', () => {
+    expect(searchSettings('en', true, false).count).toBe(12)
+    expect(searchSettings('en', false, false).count).toBe(5)
+    expect(searchSettings('ja', true, true).count).toBe(5)
+  })
+
+  it('sets the bonus pace in whole 10 s, more for kids and less per word in hard mode', () => {
+    expect(searchParTime(5, false, false)).toBe(180)
+    expect(searchParTime(7, true, false)).toBe(210)
+    expect(searchParTime(5, false, true)).toBe(240)
+    expect(searchParTime(3, false, false) % 10).toBe(0)
   })
 
   it('hints the picked clue first, then words without a hint, two hints per word at most', () => {
