@@ -415,6 +415,32 @@ Cài đặt (làm một lần):
    - Bật provider Google trong Supabase.
    - Thêm `https://<domain>/**` vào Authentication → URL Configuration → Redirect URLs.
 
+### 🤝 Chơi cùng (`/play`)
+
+Tab cho người đã đăng nhập: tạo phòng, gửi mã 6 số cho bạn bè, rồi cùng chơi với từ vựng đang học.
+
+| Game | Số người | Luật khi chơi cùng |
+|---|---|---|
+| 💣 Bom hẹn giờ | 2–4 | Người cầm bom trả lời đúng thì chuyền đi, sai bị khoá 2 giây. Bom nổ trong tay ai thì người đó mất 1 tim (2 tim); người cuối cùng còn trụ thắng |
+| 🎲 Cờ rắn | 2–4 | Lần lượt trả lời (20 giây), đúng mới được tung xúc xắc. Về ô 30 trước thắng; sau 15 lượt mỗi người thì ai đi xa nhất thắng |
+| 🎟️ Lô tô | 2–8 | Mỗi người một vé nghĩa tiếng Việt; cứ 7 giây đọc một từ. Chạm nhầm bị khoá 3 giây; đủ một hàng trước là "Kinh!" |
+| 🔔 Rung chuông vàng | 2–10 | Cùng câu hỏi, 15 giây. Sai là bị loại, trừ khi cả sàn cùng sai; còn trên sàn sau 20 câu là thắng |
+
+- **Phòng:**
+  - **Tạo phòng** sinh mã 6 số; người khác vào bằng **Vào phòng** và nhập mã.
+  - Mỗi game có số người tối đa: phòng đủ thì người tiếp theo thấy "Phòng đã đủ người". Ván đang chơi thì người mới không vào được, nhưng người trong ván tải lại trang vẫn vào lại được.
+  - Chủ phòng chọn bộ từ (lộ trình, chủ đề, thành ngữ của ngôn ngữ đang chọn) và bấm **Bắt đầu** khi đủ số người tối thiểu.
+  - Thắng được +30 XP, chơi hết ván được +10 XP.
+- **Kết nối:** dùng Supabase Realtime, không cần bảng hay migration mới.
+  - Mỗi phòng là một kênh `room:<mã>`. Presence cho biết ai đang trong phòng; Broadcast chuyển nước đi và trạng thái.
+  - Kênh dùng chế độ public: trong Project Settings → Realtime, giữ bật "Allow public access" (mặc định).
+- **Trọng tài:** máy chủ phòng chạy luật (`src/multiplayer/games.ts`, có test), đồng hồ, và gửi trạng thái cho mọi người.
+  - Chủ phòng thoát thì một người chơi khác được chọn **ngẫu nhiên** làm chủ phòng mới, tiếp quản từ trạng thái cuối cùng. Lựa chọn "rút thăm" từ mã phòng và người chủ cũ (`pickHost`), nên mọi máy chọn ra cùng một người mà không cần hỏi nhau; ưu tiên người đang có ghế.
+  - Ai vào hoặc rời phòng, và ai thành chủ phòng mới, đều hiện thông báo cho mọi người trong phòng.
+  - Người mất kết nối hơn 20 giây (chuyển app, rớt mạng) bị tính là rời ván.
+- **Người chơi:** mỗi tab là một người chơi (id tài khoản + mã của tab), nên một tài khoản mở ở 2 tab hay 2 máy vẫn là 2 người; tải lại trang thì vẫn là người cũ.
+- **Thử trên máy:** khi chạy `npm run dev`, thêm `?guest=1` vào địa chỉ (ví dụ `/play?guest=1`) để tab đó chơi với tư cách khách không cần đăng nhập; các tab khách cùng trình duyệt chơi với nhau qua BroadcastChannel. Thêm cả `realtime=1` để khách đi qua Supabase Realtime thật. Tab nhớ chế độ này tới khi đóng. Bản deploy luôn bắt buộc đăng nhập; chưa đăng nhập thì tab Chơi cùng hiện thông báo cần đăng nhập.
+
 ### 👥 Cộng đồng (`/community`)
 
 Tab dành cho người đã đăng nhập: đặt câu hỏi trắc nghiệm cho mọi người cùng trả lời, và học từ câu hỏi của người khác.

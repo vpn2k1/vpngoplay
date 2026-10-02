@@ -44,6 +44,9 @@ import Rabbit from '~icons/fluent-emoji/rabbit-face'
 import Turtle from '~icons/fluent-emoji/turtle'
 import Joystick from '~icons/fluent-emoji/joystick'
 import VideoGame from '~icons/fluent-emoji/video-game'
+import Crown from '~icons/fluent-emoji/crown'
+import PeopleHugging from '~icons/fluent-emoji/people-hugging'
+import Ladder from '~icons/fluent-emoji/ladder'
 import Keyboard from '~icons/fluent-emoji/keyboard'
 import Memo from '~icons/fluent-emoji/memo'
 import LightBulb from '~icons/fluent-emoji/light-bulb'
@@ -214,6 +217,9 @@ export {
   HighVoltage,
   Joystick,
   VideoGame,
+  Crown,
+  PeopleHugging,
+  Ladder,
   KnockedOutFace,
   LightBulb,
   PartyPopper,

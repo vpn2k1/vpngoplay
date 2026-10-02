@@ -2,7 +2,7 @@ import type { QueryClient } from '@tanstack/react-query'
 import { Link, Outlet, createRootRouteWithContext, useRouterState } from '@tanstack/react-router'
 import { Settings, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
-import { BookmarkTabs, Books, BustsInSilhouette, Compass, Fire, GlowingStar, Joystick, VideoGame } from '../components/icons'
+import { BookmarkTabs, Books, BustsInSilhouette, Compass, Fire, GlowingStar, Joystick, PeopleHugging, VideoGame } from '../components/icons'
 import { CloudSync } from '../components/CloudSync'
 import { LanguageSwitcher } from '../components/LanguageSwitcher'
 import { cx } from '../components/ui'
@@ -27,7 +27,9 @@ function SectionTabs() {
   const saved = useProgress((s) => Object.keys(s.saved).length)
   const section = pathname.startsWith('/games')
     ? 'games'
-    : pathname.startsWith('/review')
+    : pathname.startsWith('/play')
+      ? 'play'
+      : pathname.startsWith('/review')
       ? 'review'
       : pathname.startsWith('/community')
         ? 'community'
@@ -37,6 +39,7 @@ function SectionTabs() {
   const tabs = [
     { id: 'learn', to: '/', Icon: Books, label: 'Học tập' },
     { id: 'games', to: '/games', Icon: VideoGame, label: 'Trò chơi' },
+    { id: 'play', to: '/play', Icon: PeopleHugging, label: 'Chơi cùng' },
     { id: 'review', to: '/review', Icon: BookmarkTabs, label: 'Ôn tập' },
     { id: 'community', to: '/community', Icon: BustsInSilhouette, label: 'Cộng đồng' },
   ] as const

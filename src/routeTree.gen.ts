@@ -21,6 +21,8 @@ import { Route as GamesIndexRouteImport } from './routes/games/index'
 import { Route as GamesGameIdRouteImport } from './routes/games/$gameId'
 import { Route as GrammarIndexRouteImport } from './routes/grammar/index'
 import { Route as GrammarTopicIdRouteImport } from './routes/grammar/$topicId'
+import { Route as PlayIndexRouteImport } from './routes/play/index'
+import { Route as PlayCodeRouteImport } from './routes/play/$code'
 import { Route as SentencesIndexRouteImport } from './routes/sentences/index'
 import { Route as SentencesPackIdRouteImport } from './routes/sentences/$packId'
 import { Route as TalkIndexRouteImport } from './routes/talk/index'
@@ -92,6 +94,16 @@ const GrammarIndexRoute = GrammarIndexRouteImport.update({
 const GrammarTopicIdRoute = GrammarTopicIdRouteImport.update({
   id: '/grammar/$topicId',
   path: '/grammar/$topicId',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PlayIndexRoute = PlayIndexRouteImport.update({
+  id: '/play/',
+  path: '/play/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PlayCodeRoute = PlayCodeRouteImport.update({
+  id: '/play/$code',
+  path: '/play/$code',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SentencesIndexRoute = SentencesIndexRouteImport.update({
@@ -166,10 +178,12 @@ export interface FileRoutesByFullPath {
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/play/$code': typeof PlayCodeRoute
   '/sentences/$packId': typeof SentencesPackIdRoute
   '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games/': typeof GamesIndexRoute
   '/grammar/': typeof GrammarIndexRoute
+  '/play/': typeof PlayIndexRoute
   '/sentences/': typeof SentencesIndexRoute
   '/talk/': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -191,10 +205,12 @@ export interface FileRoutesByTo {
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/play/$code': typeof PlayCodeRoute
   '/sentences/$packId': typeof SentencesPackIdRoute
   '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games': typeof GamesIndexRoute
   '/grammar': typeof GrammarIndexRoute
+  '/play': typeof PlayIndexRoute
   '/sentences': typeof SentencesIndexRoute
   '/talk': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -218,10 +234,12 @@ export interface FileRoutesById {
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
+  '/play/$code': typeof PlayCodeRoute
   '/sentences/$packId': typeof SentencesPackIdRoute
   '/talk/$dialogueId': typeof TalkDialogueIdRoute
   '/games/': typeof GamesIndexRoute
   '/grammar/': typeof GrammarIndexRoute
+  '/play/': typeof PlayIndexRoute
   '/sentences/': typeof SentencesIndexRoute
   '/talk/': typeof TalkIndexRoute
   '/decks/$deckId/cloze': typeof DecksDeckIdClozeRoute
@@ -246,10 +264,12 @@ export interface FileRouteTypes {
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/play/$code'
     | '/sentences/$packId'
     | '/talk/$dialogueId'
     | '/games/'
     | '/grammar/'
+    | '/play/'
     | '/sentences/'
     | '/talk/'
     | '/decks/$deckId/cloze'
@@ -271,10 +291,12 @@ export interface FileRouteTypes {
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/play/$code'
     | '/sentences/$packId'
     | '/talk/$dialogueId'
     | '/games'
     | '/grammar'
+    | '/play'
     | '/sentences'
     | '/talk'
     | '/decks/$deckId/cloze'
@@ -297,10 +319,12 @@ export interface FileRouteTypes {
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
+    | '/play/$code'
     | '/sentences/$packId'
     | '/talk/$dialogueId'
     | '/games/'
     | '/grammar/'
+    | '/play/'
     | '/sentences/'
     | '/talk/'
     | '/decks/$deckId/cloze'
@@ -324,10 +348,12 @@ export interface RootRouteChildren {
   CoursesCourseIdRoute: typeof CoursesCourseIdRoute
   GamesGameIdRoute: typeof GamesGameIdRoute
   GrammarTopicIdRoute: typeof GrammarTopicIdRoute
+  PlayCodeRoute: typeof PlayCodeRoute
   SentencesPackIdRoute: typeof SentencesPackIdRoute
   TalkDialogueIdRoute: typeof TalkDialogueIdRoute
   GamesIndexRoute: typeof GamesIndexRoute
   GrammarIndexRoute: typeof GrammarIndexRoute
+  PlayIndexRoute: typeof PlayIndexRoute
   SentencesIndexRoute: typeof SentencesIndexRoute
   TalkIndexRoute: typeof TalkIndexRoute
 }
@@ -416,6 +442,20 @@ declare module '@tanstack/react-router' {
       path: '/grammar/$topicId'
       fullPath: '/grammar/$topicId'
       preLoaderRoute: typeof GrammarTopicIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/play/': {
+      id: '/play/'
+      path: '/play'
+      fullPath: '/play/'
+      preLoaderRoute: typeof PlayIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/play/$code': {
+      id: '/play/$code'
+      path: '/play/$code'
+      fullPath: '/play/$code'
+      preLoaderRoute: typeof PlayCodeRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/sentences/': {
@@ -541,10 +581,12 @@ const rootRouteChildren: RootRouteChildren = {
   CoursesCourseIdRoute: CoursesCourseIdRoute,
   GamesGameIdRoute: GamesGameIdRoute,
   GrammarTopicIdRoute: GrammarTopicIdRoute,
+  PlayCodeRoute: PlayCodeRoute,
   SentencesPackIdRoute: SentencesPackIdRoute,
   TalkDialogueIdRoute: TalkDialogueIdRoute,
   GamesIndexRoute: GamesIndexRoute,
   GrammarIndexRoute: GrammarIndexRoute,
+  PlayIndexRoute: PlayIndexRoute,
   SentencesIndexRoute: SentencesIndexRoute,
   TalkIndexRoute: TalkIndexRoute,
 }
