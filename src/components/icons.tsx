@@ -43,6 +43,7 @@ import HighVoltage from '~icons/fluent-emoji/high-voltage'
 import Rabbit from '~icons/fluent-emoji/rabbit-face'
 import Turtle from '~icons/fluent-emoji/turtle'
 import Joystick from '~icons/fluent-emoji/joystick'
+import VideoGame from '~icons/fluent-emoji/video-game'
 import Keyboard from '~icons/fluent-emoji/keyboard'
 import Memo from '~icons/fluent-emoji/memo'
 import LightBulb from '~icons/fluent-emoji/light-bulb'
@@ -212,6 +213,7 @@ export {
   Hamster,
   HighVoltage,
   Joystick,
+  VideoGame,
   KnockedOutFace,
   LightBulb,
   PartyPopper,

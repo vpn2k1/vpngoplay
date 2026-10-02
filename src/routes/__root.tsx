@@ -2,7 +2,7 @@ import type { QueryClient } from '@tanstack/react-query'
 import { Link, Outlet, createRootRouteWithContext, useRouterState } from '@tanstack/react-router'
 import { Settings, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
-import { BookmarkTabs, Books, BustsInSilhouette, Compass, Fire, GlowingStar, Joystick } from '../components/icons'
+import { BookmarkTabs, Books, BustsInSilhouette, Compass, Fire, GlowingStar, Joystick, VideoGame } from '../components/icons'
 import { CloudSync } from '../components/CloudSync'
 import { LanguageSwitcher } from '../components/LanguageSwitcher'
 import { cx } from '../components/ui'
@@ -36,7 +36,7 @@ function SectionTabs() {
         : 'learn'
   const tabs = [
     { id: 'learn', to: '/', Icon: Books, label: 'Học tập' },
-    { id: 'games', to: '/games', Icon: Joystick, label: 'Trò chơi' },
+    { id: 'games', to: '/games', Icon: VideoGame, label: 'Trò chơi' },
     { id: 'review', to: '/review', Icon: BookmarkTabs, label: 'Ôn tập' },
     { id: 'community', to: '/community', Icon: BustsInSilhouette, label: 'Cộng đồng' },
   ] as const
