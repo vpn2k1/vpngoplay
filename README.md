@@ -162,6 +162,14 @@ Mỗi câu có nghĩa tương đương trong tiếng Việt, và âm Hán Việt
 - **Cách học:** đây là bộ từ bình thường (`public/decks/*-idioms-*.json`, `"category": "idioms"`), nên dùng được cả 7 dạng ôn luyện và 27 trò chơi.
 - **Nơi hiển thị:** các bộ này có trang riêng, không nằm trong mục "Chủ đề" ở trang học.
 
+## 🎬 Tài liệu (tab riêng, `/docs`)
+
+Video học tiếng Anh của kênh TikTok **NEnglish** ([@nenglish2101](https://www.tiktok.com/@nenglish2101)), xem ngay trong app.
+
+- **Trình phát:** dùng trình phát nhúng chính thức của TikTok (`tiktok.com/player/v1/<id>`). Mỗi lúc chỉ tải 1 video: mở tab là video mới nhất (chưa tự phát), bấm tên video trong danh sách thì trình phát chuyển sang video đó. Có nút Trước/Sau, link "Mở trên TikTok" và "Theo dõi trên TikTok".
+- **Danh sách:** 86 video chia 4 nhóm (Luyện nghe, Từ vựng, Giao tiếp, Đố vui), lọc theo nhóm và tìm theo tên. Video đang xem nằm trên địa chỉ (`/docs?v=<id>`) nên gửi link được.
+- **Thêm video mới:** TikTok không cho nhúng cả trang kênh vào trang khác, nên danh sách nằm ở `public/docs/tiktok.json`. Thêm `{ "id", "title", "group" }` lên đầu danh sách (id là dãy số cuối link video, `group` là `listening`, `vocab`, `talk` hoặc `quiz`). `src/lib/videos.test.ts` kiểm tra file này.
+
 ## Ôn tập (tab riêng, `/review`)
 
 - **Sổ từ:** bấm 🔖 cạnh một từ để lưu. Nút này có ở danh sách từ của bộ bài, mặt sau Flashcard và màn kết quả game (có thêm nút **Lưu tất cả** cho các từ bị lọt).

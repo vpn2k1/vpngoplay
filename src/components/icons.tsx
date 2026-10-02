@@ -45,6 +45,7 @@ import Turtle from '~icons/fluent-emoji/turtle'
 import Joystick from '~icons/fluent-emoji/joystick'
 import VideoGame from '~icons/fluent-emoji/video-game'
 import Crown from '~icons/fluent-emoji/crown'
+import ClapperBoard from '~icons/fluent-emoji/clapper-board'
 import PeopleHugging from '~icons/fluent-emoji/people-hugging'
 import Ladder from '~icons/fluent-emoji/ladder'
 import Keyboard from '~icons/fluent-emoji/keyboard'
@@ -218,6 +219,9 @@ export {
   Joystick,
   VideoGame,
   Crown,
+  ClapperBoard,
+  Headphone,
+  RedQuestionMark,
   PeopleHugging,
   Ladder,
   KnockedOutFace,

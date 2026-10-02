@@ -2,7 +2,18 @@ import type { QueryClient } from '@tanstack/react-query'
 import { Link, Outlet, createRootRouteWithContext, useRouterState } from '@tanstack/react-router'
 import { Settings, Trophy } from 'lucide-react'
 import { motion } from 'motion/react'
-import { BookmarkTabs, Books, BustsInSilhouette, Compass, Fire, GlowingStar, Joystick, PeopleHugging, VideoGame } from '../components/icons'
+import {
+  BookmarkTabs,
+  Books,
+  BustsInSilhouette,
+  Compass,
+  Fire,
+  ClapperBoard,
+  GlowingStar,
+  Joystick,
+  PeopleHugging,
+  VideoGame,
+} from '../components/icons'
 import { CloudSync } from '../components/CloudSync'
 import { LanguageSwitcher } from '../components/LanguageSwitcher'
 import { cx } from '../components/ui'
@@ -29,19 +40,22 @@ function SectionTabs() {
     ? 'games'
     : pathname.startsWith('/play')
       ? 'play'
-      : pathname.startsWith('/review')
-      ? 'review'
-      : pathname.startsWith('/community')
-        ? 'community'
-        : pathname.startsWith('/settings')
-        ? null
-        : 'learn'
+      : pathname.startsWith('/docs')
+        ? 'docs'
+        : pathname.startsWith('/review')
+          ? 'review'
+          : pathname.startsWith('/community')
+            ? 'community'
+            : pathname.startsWith('/settings')
+              ? null
+              : 'learn'
   const tabs = [
     { id: 'learn', to: '/', Icon: Books, label: 'Học tập' },
     { id: 'games', to: '/games', Icon: VideoGame, label: 'Trò chơi' },
     { id: 'play', to: '/play', Icon: PeopleHugging, label: 'Chơi cùng' },
     { id: 'review', to: '/review', Icon: BookmarkTabs, label: 'Ôn tập' },
     { id: 'community', to: '/community', Icon: BustsInSilhouette, label: 'Cộng đồng' },
+    { id: 'docs', to: '/docs', Icon: ClapperBoard, label: 'Tài liệu' },
   ] as const
 
   return (
@@ -90,10 +104,10 @@ function RootLayout() {
     <div className="min-h-dvh overflow-x-clip bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
       <header className="sticky top-0 z-10 border-b border-slate-200 bg-white/80 backdrop-blur dark:border-slate-800 dark:bg-slate-950/80">
         <div className="mx-auto flex max-w-3xl items-center justify-between gap-1.5 px-3 py-2.5 sm:gap-2 sm:px-4">
-          {/* Below 360px the logo gives way to the tabs ("Học tập" also leads home). */}
+          {/* Below 420px the logo gives way to the tabs ("Học tập" also leads home). */}
           <Link
             to="/"
-            className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight max-[359px]:hidden"
+            className="flex shrink-0 items-center gap-2 text-xl font-extrabold tracking-tight max-[419px]:hidden"
             aria-label="VpngoPlay"
           >
             <span className="flex size-9 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-500 to-fuchsia-500 shadow-md shadow-indigo-500/30">

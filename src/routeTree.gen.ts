@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CommunityRouteImport } from './routes/community'
+import { Route as DocsRouteImport } from './routes/docs'
 import { Route as IdiomsRouteImport } from './routes/idioms'
 import { Route as LeaderboardRouteImport } from './routes/leaderboard'
 import { Route as ReviewRouteImport } from './routes/review'
@@ -44,6 +45,11 @@ const IndexRoute = IndexRouteImport.update({
 const CommunityRoute = CommunityRouteImport.update({
   id: '/community',
   path: '/community',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DocsRoute = DocsRouteImport.update({
+  id: '/docs',
+  path: '/docs',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IdiomsRoute = IdiomsRouteImport.update({
@@ -170,6 +176,7 @@ const DecksDeckIdSentenceRoute = DecksDeckIdSentenceRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/community': typeof CommunityRoute
+  '/docs': typeof DocsRoute
   '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
@@ -198,6 +205,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/community': typeof CommunityRoute
+  '/docs': typeof DocsRoute
   '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
@@ -226,6 +234,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/community': typeof CommunityRoute
+  '/docs': typeof DocsRoute
   '/idioms': typeof IdiomsRoute
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
@@ -256,6 +265,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/community'
+    | '/docs'
     | '/idioms'
     | '/leaderboard'
     | '/review'
@@ -284,6 +294,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/community'
+    | '/docs'
     | '/idioms'
     | '/leaderboard'
     | '/review'
@@ -311,6 +322,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/community'
+    | '/docs'
     | '/idioms'
     | '/leaderboard'
     | '/review'
@@ -340,6 +352,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   CommunityRoute: typeof CommunityRoute
+  DocsRoute: typeof DocsRoute
   IdiomsRoute: typeof IdiomsRoute
   LeaderboardRoute: typeof LeaderboardRoute
   ReviewRoute: typeof ReviewRoute
@@ -372,6 +385,13 @@ declare module '@tanstack/react-router' {
       path: '/community'
       fullPath: '/community'
       preLoaderRoute: typeof CommunityRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/docs': {
+      id: '/docs'
+      path: '/docs'
+      fullPath: '/docs'
+      preLoaderRoute: typeof DocsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/idioms': {
@@ -573,6 +593,7 @@ const DecksDeckIdRouteRouteWithChildren =
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   CommunityRoute: CommunityRoute,
+  DocsRoute: DocsRoute,
   IdiomsRoute: IdiomsRoute,
   LeaderboardRoute: LeaderboardRoute,
   ReviewRoute: ReviewRoute,
