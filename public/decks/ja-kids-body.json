@@ -1,0 +1,30 @@
+{
+  "id": "ja-kids-body",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "からだ",
+  "description": "Các bộ phận cơ thể bằng Hiragana cho bé.",
+  "words": [
+    { "id": "atama", "term": "あたま", "reading": "atama", "meaning": "cái đầu", "emoji": "🧑", "example": "あたま が いたい です。", "exampleMeaning": "Tớ bị đau đầu." },
+    { "id": "me", "term": "め", "reading": "me", "meaning": "mắt", "emoji": "👁️", "example": "め を とじて ください。", "exampleMeaning": "Cậu nhắm mắt lại nhé." },
+    { "id": "mimi", "term": "みみ", "reading": "mimi", "meaning": "tai", "emoji": "👂", "example": "うさぎ の みみ は ながい です。", "exampleMeaning": "Tai thỏ dài." },
+    { "id": "hana", "term": "はな", "reading": "hana", "meaning": "mũi", "emoji": "👃", "example": "いぬ の はな は くろい です。", "exampleMeaning": "Mũi con chó màu đen." },
+    { "id": "kuchi", "term": "くち", "reading": "kuchi", "meaning": "miệng", "emoji": "👄", "example": "くち を あけて ください。", "exampleMeaning": "Cậu há miệng ra nhé." },
+    { "id": "te", "term": "て", "reading": "te", "meaning": "tay, bàn tay", "emoji": "✋", "example": "て を あらいます。", "exampleMeaning": "Tớ rửa tay." },
+    { "id": "ashi", "term": "あし", "reading": "ashi", "meaning": "chân", "emoji": "🦵", "example": "きりん の あし は ながい です。", "exampleMeaning": "Chân hươu cao cổ dài." },
+    { "id": "kami", "term": "かみ", "reading": "kami", "meaning": "tóc", "emoji": "💇", "example": "わたし の かみ は ながい です。", "exampleMeaning": "Tóc tớ dài." },
+    { "id": "ha", "term": "は", "reading": "ha", "meaning": "răng", "emoji": "🦷", "example": "は を みがきます。", "exampleMeaning": "Tớ đánh răng." },
+    { "id": "onaka", "term": "おなか", "reading": "onaka", "meaning": "bụng", "emoji": "😋", "example": "おなか が すきました。", "exampleMeaning": "Tớ đói bụng rồi." },
+    { "id": "kao", "term": "かお", "reading": "kao", "meaning": "khuôn mặt", "emoji": "😊", "example": "かお を あらいます。", "exampleMeaning": "Tớ rửa mặt." },
+    { "id": "yubi", "term": "ゆび", "reading": "yubi", "meaning": "ngón tay", "emoji": "☝️", "example": "ゆび で かぞえます。", "exampleMeaning": "Tớ đếm bằng ngón tay." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["て", "を", "あらいましょう"], "reading": "てをあらいましょう", "meaning": "Mình cùng rửa tay nào." },
+    { "id": "s2", "tokens": ["め", "が", "ふたつ", "あります"], "reading": "めがふたつあります", "meaning": "Tớ có hai mắt." },
+    { "id": "s3", "tokens": ["ねる", "まえ", "に", "は", "を", "みがきます"], "reading": "ねるまえにはをみがきます", "meaning": "Trước khi ngủ, tớ đánh răng." },
+    { "id": "s4", "tokens": ["ゆび", "が", "ごほん", "あります"], "reading": "ゆびがごほんあります", "meaning": "Có năm ngón tay." },
+    { "id": "s5", "tokens": ["おなか", "が", "いたい", "です"], "reading": "おなかがいたいです", "meaning": "Tớ bị đau bụng." },
+    { "id": "s6", "tokens": ["ぞう", "の", "みみ", "は", "おおきい", "です"], "reading": "ぞうのみみはおおきいです", "meaning": "Tai con voi to." }
+  ]
+}

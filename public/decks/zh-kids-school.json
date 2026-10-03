@@ -1,0 +1,30 @@
+{
+  "id": "zh-kids-school",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "学校",
+  "description": "Đồ dùng học tập và lớp học kèm pinyin cho bé.",
+  "words": [
+    { "id": "shu", "term": "书", "reading": "shū", "meaning": "quyển sách", "emoji": "📖", "example": "这本书很好看。", "exampleMeaning": "Quyển sách này rất hay." },
+    { "id": "bi", "term": "笔", "reading": "bǐ", "meaning": "cây bút", "emoji": "🖊️", "example": "我有一支新笔。", "exampleMeaning": "Tớ có một cây bút mới." },
+    { "id": "qianbi", "term": "铅笔", "reading": "qiānbǐ", "meaning": "bút chì", "emoji": "✏️", "example": "我用铅笔画画。", "exampleMeaning": "Tớ vẽ tranh bằng bút chì." },
+    { "id": "benzi", "term": "本子", "reading": "běnzi", "meaning": "quyển vở", "emoji": "📒", "example": "请把名字写在本子上。", "exampleMeaning": "Hãy viết tên vào vở nhé." },
+    { "id": "chizi", "term": "尺子", "reading": "chǐzi", "meaning": "cái thước", "emoji": "📏", "example": "这把尺子很长。", "exampleMeaning": "Cái thước này rất dài." },
+    { "id": "xiangpi", "term": "橡皮", "reading": "xiàngpí", "meaning": "cục tẩy", "emoji": "🧽", "example": "我可以用一下你的橡皮吗？", "exampleMeaning": "Tớ mượn cục tẩy của cậu một chút được không?" },
+    { "id": "shubao", "term": "书包", "reading": "shūbāo", "meaning": "cặp sách", "emoji": "🎒", "example": "我的书包是蓝色的。", "exampleMeaning": "Cặp sách của tớ màu xanh dương." },
+    { "id": "zhuozi", "term": "桌子", "reading": "zhuōzi", "meaning": "cái bàn", "emoji": "🟫", "example": "书在桌子上。", "exampleMeaning": "Quyển sách ở trên bàn." },
+    { "id": "yizi", "term": "椅子", "reading": "yǐzi", "meaning": "cái ghế", "emoji": "🪑", "example": "请坐在椅子上。", "exampleMeaning": "Mời cậu ngồi lên ghế." },
+    { "id": "heiban", "term": "黑板", "reading": "hēibǎn", "meaning": "bảng đen", "emoji": "⬛", "example": "老师在黑板上写字。", "exampleMeaning": "Cô giáo viết chữ lên bảng." },
+    { "id": "jiaoshi", "term": "教室", "reading": "jiàoshì", "meaning": "lớp học, phòng học", "emoji": "🏫", "example": "我们的教室很干净。", "exampleMeaning": "Lớp học của chúng tớ rất sạch." },
+    { "id": "tongxue", "term": "同学", "reading": "tóngxué", "meaning": "bạn cùng lớp", "emoji": "🧒", "example": "他是我的同学。", "exampleMeaning": "Bạn ấy là bạn cùng lớp của tớ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "的", "书包", "很", "大"], "reading": "wǒ de shūbāo hěn dà", "meaning": "Cặp sách của tớ rất to." },
+    { "id": "s2", "tokens": ["桌子", "上", "有", "一", "本", "书"], "reading": "zhuōzi shang yǒu yì běn shū", "meaning": "Trên bàn có một quyển sách." },
+    { "id": "s3", "tokens": ["我", "用", "铅笔", "写", "字"], "reading": "wǒ yòng qiānbǐ xiě zì", "meaning": "Tớ viết chữ bằng bút chì." },
+    { "id": "s4", "tokens": ["你", "有", "橡皮", "吗"], "reading": "nǐ yǒu xiàngpí ma", "meaning": "Cậu có cục tẩy không?" },
+    { "id": "s5", "tokens": ["老师", "在", "黑板", "上", "写", "字"], "reading": "lǎoshī zài hēibǎn shang xiě zì", "meaning": "Cô giáo viết chữ trên bảng." },
+    { "id": "s6", "tokens": ["我们", "是", "同学"], "reading": "wǒmen shì tóngxué", "meaning": "Chúng mình là bạn cùng lớp." }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "en-kids-weather",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "Weather & Clothes",
+  "description": "Thời tiết và quần áo cho bé.",
+  "words": [
+    { "id": "sun", "term": "sun", "reading": "/sʌn/", "meaning": "mặt trời", "emoji": "☀️", "example": "The sun is very bright.", "exampleMeaning": "Mặt trời rất sáng." },
+    { "id": "rain", "term": "rain", "reading": "/reɪn/", "meaning": "mưa", "emoji": "🌧️", "example": "I like to play in the rain.", "exampleMeaning": "Tớ thích chơi dưới mưa." },
+    { "id": "cloud", "term": "cloud", "reading": "/klaʊd/", "meaning": "đám mây", "emoji": "☁️", "example": "Look at that white cloud!", "exampleMeaning": "Nhìn đám mây trắng kia kìa!" },
+    { "id": "wind", "term": "wind", "reading": "/wɪnd/", "meaning": "gió", "emoji": "🌬️", "example": "The wind is strong today.", "exampleMeaning": "Hôm nay gió thổi mạnh." },
+    { "id": "snow", "term": "snow", "reading": "/snoʊ/", "meaning": "tuyết", "emoji": "❄️", "example": "The snow is white and soft.", "exampleMeaning": "Tuyết trắng và mềm." },
+    { "id": "hot", "term": "hot", "reading": "/hɑːt/", "meaning": "nóng", "emoji": "🥵", "example": "It is hot in summer.", "exampleMeaning": "Mùa hè trời nóng." },
+    { "id": "cold", "term": "cold", "reading": "/koʊld/", "meaning": "lạnh", "emoji": "🥶", "example": "It is cold today.", "exampleMeaning": "Hôm nay trời lạnh." },
+    { "id": "hat", "term": "hat", "reading": "/hæt/", "meaning": "cái mũ", "emoji": "👒", "example": "Put on your hat.", "exampleMeaning": "Cậu đội mũ vào nhé." },
+    { "id": "coat", "term": "coat", "reading": "/koʊt/", "meaning": "áo khoác", "emoji": "🧥", "example": "Wear your coat in winter.", "exampleMeaning": "Cậu mặc áo khoác vào mùa đông nhé." },
+    { "id": "shirt", "term": "shirt", "reading": "/ʃɜːrt/", "meaning": "áo sơ mi", "emoji": "👔", "example": "My shirt is blue.", "exampleMeaning": "Áo sơ mi của tớ màu xanh." },
+    { "id": "umbrella", "term": "umbrella", "reading": "/ʌmˈbrelə/", "meaning": "cái ô, cái dù", "emoji": "☂️", "example": "Take your umbrella. It is raining.", "exampleMeaning": "Cậu mang ô theo nhé. Trời đang mưa." },
+    { "id": "shoe", "term": "shoe", "reading": "/ʃuː/", "meaning": "chiếc giày", "emoji": "👟", "example": "Where is my other shoe?", "exampleMeaning": "Chiếc giày còn lại của tớ đâu rồi?" }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["It", "is", "sunny", "today"], "meaning": "Hôm nay trời nắng." },
+    { "id": "s2", "tokens": ["It", "is", "raining", "now"], "meaning": "Bây giờ trời đang mưa." },
+    { "id": "s3", "tokens": ["I", "wear", "a", "hat", "in", "the", "sun"], "meaning": "Tớ đội mũ khi trời nắng." },
+    { "id": "s4", "tokens": ["Put", "on", "your", "shoes"], "meaning": "Cậu đi giày vào nhé." },
+    { "id": "s5", "tokens": ["It", "is", "cold", "in", "winter"], "meaning": "Mùa đông trời lạnh." },
+    { "id": "s6", "tokens": ["I", "can", "see", "a", "big", "cloud"], "meaning": "Tớ nhìn thấy một đám mây to." }
+  ]
+}

@@ -20,6 +20,7 @@
     "vocab:build": "node scripts/vocab/build.mjs && npm run catalog",
     "sources:download": "node scripts/sources/download.mjs",
     "sources:lookup": "node scripts/sources/lookup.mjs",
+    "decks:check": "node scripts/sources/check-decks.mjs",
     "sources:crawl": "node scripts/sources/crawl-wiktionary.mjs",
     "sentences:build": "node scripts/sentences/build.mjs",
     "crawl": "node scripts/sources/sync.mjs"

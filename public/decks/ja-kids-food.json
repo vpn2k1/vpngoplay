@@ -1,0 +1,30 @@
+{
+  "id": "ja-kids-food",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "たべもの と くだもの",
+  "description": "Đồ ăn và trái cây bằng Hiragana cho bé.",
+  "words": [
+    { "id": "gohan", "term": "ごはん", "reading": "gohan", "meaning": "cơm", "emoji": "🍚", "example": "ごはん を たべます。", "exampleMeaning": "Tớ ăn cơm." },
+    { "id": "pan", "term": "パン", "reading": "pan", "meaning": "bánh mì", "emoji": "🍞", "example": "あさ パン を たべます。", "exampleMeaning": "Buổi sáng tớ ăn bánh mì." },
+    { "id": "tamago", "term": "たまご", "reading": "tamago", "meaning": "quả trứng", "emoji": "🥚", "example": "たまご が すき です。", "exampleMeaning": "Tớ thích trứng." },
+    { "id": "gyuunyuu", "term": "ぎゅうにゅう", "reading": "gyūnyū", "meaning": "sữa bò", "emoji": "🥛", "example": "ぎゅうにゅう を のみます。", "exampleMeaning": "Tớ uống sữa." },
+    { "id": "mikan", "term": "みかん", "reading": "mikan", "meaning": "quả quýt", "emoji": "🍊", "example": "みかん は あまい です。", "exampleMeaning": "Quả quýt ngọt." },
+    { "id": "ichigo", "term": "いちご", "reading": "ichigo", "meaning": "quả dâu tây", "emoji": "🍓", "example": "いちご は あかい です。", "exampleMeaning": "Dâu tây màu đỏ." },
+    { "id": "budou", "term": "ぶどう", "reading": "budō", "meaning": "quả nho", "emoji": "🍇", "example": "ぶどう を ひとつ たべます。", "exampleMeaning": "Tớ ăn một quả nho." },
+    { "id": "suika", "term": "すいか", "reading": "suika", "meaning": "quả dưa hấu", "emoji": "🍉", "example": "なつ に すいか を たべます。", "exampleMeaning": "Mùa hè tớ ăn dưa hấu." },
+    { "id": "momo", "term": "もも", "reading": "momo", "meaning": "quả đào", "emoji": "🍑", "example": "もも が だいすき です。", "exampleMeaning": "Tớ rất thích quả đào." },
+    { "id": "niku", "term": "にく", "reading": "niku", "meaning": "thịt", "emoji": "🍖", "example": "おとうさん が にく を やきます。", "exampleMeaning": "Bố nướng thịt." },
+    { "id": "yasai", "term": "やさい", "reading": "yasai", "meaning": "rau", "emoji": "🥦", "example": "やさい を たべましょう。", "exampleMeaning": "Mình cùng ăn rau nào." },
+    { "id": "okashi", "term": "おかし", "reading": "okashi", "meaning": "bánh kẹo", "emoji": "🍬", "example": "おかし は おいしい です。", "exampleMeaning": "Bánh kẹo ngon quá." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["ごはん", "を", "たべましょう"], "reading": "ごはんをたべましょう", "meaning": "Mình cùng ăn cơm nào." },
+    { "id": "s2", "tokens": ["ぎゅうにゅう", "は", "しろい", "です"], "reading": "ぎゅうにゅうはしろいです", "meaning": "Sữa màu trắng." },
+    { "id": "s3", "tokens": ["いちご", "が", "すき", "です"], "reading": "いちごがすきです", "meaning": "Tớ thích dâu tây." },
+    { "id": "s4", "tokens": ["たまご", "を", "みっつ", "かいます"], "reading": "たまごをみっつかいます", "meaning": "Tớ mua ba quả trứng." },
+    { "id": "s5", "tokens": ["この", "すいか", "は", "おおきい", "です"], "reading": "このすいかはおおきいです", "meaning": "Quả dưa hấu này to." },
+    { "id": "s6", "tokens": ["やさい", "も", "たべて", "ね"], "reading": "やさいもたべてね", "meaning": "Cậu ăn cả rau nữa nhé." }
+  ]
+}

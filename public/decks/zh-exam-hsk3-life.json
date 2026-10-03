@@ -1,0 +1,38 @@
+{
+  "id": "zh-exam-hsk3-life",
+  "lang": "zh",
+  "track": "exam",
+  "level": "HSK 3",
+  "title": "HSK 3 — 生活",
+  "description": "Từ vựng HSK 3 về nhà ở, mua sắm, sức khỏe và du lịch.",
+  "words": [
+    { "id": "banjia", "term": "搬家", "reading": "bānjiā", "meaning": "chuyển nhà", "emoji": "🚚", "example": "我们下个月搬家。", "exampleMeaning": "Tháng sau chúng tôi chuyển nhà." },
+    { "id": "fangzu", "term": "房租", "reading": "fángzū", "meaning": "tiền thuê nhà", "emoji": "🏠", "example": "这里的房租很贵。", "exampleMeaning": "Tiền thuê nhà ở đây rất đắt." },
+    { "id": "fangdong", "term": "房东", "reading": "fángdōng", "meaning": "chủ nhà", "emoji": "🔑", "example": "我们的房东人很好。", "exampleMeaning": "Chủ nhà của chúng tôi rất tốt bụng." },
+    { "id": "jiaju", "term": "家具", "reading": "jiājù", "meaning": "đồ nội thất", "emoji": "🏡", "example": "新家还没有家具。", "exampleMeaning": "Nhà mới vẫn chưa có đồ nội thất." },
+    { "id": "shafa", "term": "沙发", "reading": "shāfā", "meaning": "ghế sofa", "emoji": "🛋️", "example": "他躺在沙发上看电视。", "exampleMeaning": "Anh ấy nằm trên ghế sofa xem ti vi." },
+    { "id": "kongtiao", "term": "空调", "reading": "kōngtiáo", "meaning": "điều hòa", "emoji": "❄️", "example": "太热了，开空调吧。", "exampleMeaning": "Nóng quá, bật điều hòa đi." },
+    { "id": "weishengjian", "term": "卫生间", "reading": "wèishēngjiān", "meaning": "nhà vệ sinh", "emoji": "🚻", "example": "卫生间在二楼。", "exampleMeaning": "Nhà vệ sinh ở tầng hai." },
+    { "id": "beizi", "term": "被子", "reading": "bèizi", "meaning": "cái chăn", "emoji": "🛏️", "example": "冬天要盖厚被子。", "exampleMeaning": "Mùa đông phải đắp chăn dày." },
+    { "id": "chenshan", "term": "衬衫", "reading": "chènshān", "meaning": "áo sơ mi", "emoji": "👔", "example": "这件白衬衫多少钱？", "exampleMeaning": "Chiếc áo sơ mi trắng này bao nhiêu tiền?" },
+    { "id": "qunzi", "term": "裙子", "reading": "qúnzi", "meaning": "cái váy", "emoji": "👗", "example": "她穿了一条红裙子。", "exampleMeaning": "Cô ấy mặc một chiếc váy đỏ." },
+    { "id": "jiaqian", "term": "价钱", "reading": "jiàqian", "meaning": "giá tiền", "emoji": "🏷️", "example": "这个价钱太贵了。", "exampleMeaning": "Giá này đắt quá." },
+    { "id": "piaojia", "term": "票价", "reading": "piàojià", "meaning": "giá vé", "emoji": "🎫", "example": "火车票价是多少？", "exampleMeaning": "Giá vé tàu hỏa là bao nhiêu?" },
+    { "id": "ganmao", "term": "感冒", "reading": "gǎnmào", "meaning": "bị cảm", "emoji": "🤧", "example": "我感冒了，有点儿发烧。", "exampleMeaning": "Tôi bị cảm rồi, hơi sốt một chút." },
+    { "id": "shoushang", "term": "受伤", "reading": "shòushāng", "meaning": "bị thương", "emoji": "🩹", "example": "他踢球的时候受伤了。", "exampleMeaning": "Anh ấy bị thương khi đá bóng." },
+    { "id": "yingyang", "term": "营养", "reading": "yíngyǎng", "meaning": "dinh dưỡng", "emoji": "🥗", "example": "早饭要有营养。", "exampleMeaning": "Bữa sáng phải đủ dinh dưỡng." },
+    { "id": "sanbu", "term": "散步", "reading": "sànbù", "meaning": "đi dạo", "emoji": "🚶", "example": "饭后我们去散步吧。", "exampleMeaning": "Ăn xong chúng ta đi dạo nhé." },
+    { "id": "lvguan", "term": "旅馆", "reading": "lǚguǎn", "meaning": "nhà nghỉ, khách sạn", "emoji": "🏨", "example": "这家旅馆又干净又便宜。", "exampleMeaning": "Nhà nghỉ này vừa sạch vừa rẻ." },
+    { "id": "lifa", "term": "理发", "reading": "lǐfà", "meaning": "cắt tóc", "emoji": "💇", "example": "我明天去理发。", "exampleMeaning": "Ngày mai tôi đi cắt tóc." },
+    { "id": "shenfenzheng", "term": "身份证", "reading": "shēnfènzhèng", "meaning": "chứng minh thư, căn cước", "emoji": "🪪", "example": "买火车票要带身份证。", "exampleMeaning": "Mua vé tàu phải mang theo căn cước." },
+    { "id": "meishi", "term": "美食", "reading": "měishí", "meaning": "món ngon", "emoji": "😋", "example": "我喜欢吃各地的美食。", "exampleMeaning": "Tôi thích ăn món ngon của các vùng miền." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["这", "个", "房子", "的", "房租", "不", "贵"], "reading": "zhè ge fángzi de fángzū bú guì", "meaning": "Tiền thuê căn nhà này không đắt." },
+    { "id": "s2", "tokens": ["请问", "卫生间", "在", "哪儿"], "reading": "qǐngwèn wèishēngjiān zài nǎr", "meaning": "Xin hỏi nhà vệ sinh ở đâu?" },
+    { "id": "s3", "tokens": ["我", "感冒", "了", "不", "想", "吃饭"], "reading": "wǒ gǎnmào le bù xiǎng chīfàn", "meaning": "Tôi bị cảm, không muốn ăn cơm." },
+    { "id": "s4", "tokens": ["这", "条", "裙子", "多少", "钱"], "reading": "zhè tiáo qúnzi duōshao qián", "meaning": "Chiếc váy này bao nhiêu tiền?" },
+    { "id": "s5", "tokens": ["吃", "完", "饭", "我们", "去", "散步", "吧"], "reading": "chī wán fàn wǒmen qù sànbù ba", "meaning": "Ăn xong chúng ta đi dạo nhé." },
+    { "id": "s6", "tokens": ["我们", "住", "在", "一", "家", "小", "旅馆"], "reading": "wǒmen zhù zài yì jiā xiǎo lǚguǎn", "meaning": "Chúng tôi ở một nhà nghỉ nhỏ." }
+  ]
+}

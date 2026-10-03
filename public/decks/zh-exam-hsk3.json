@@ -1,0 +1,38 @@
+{
+  "id": "zh-exam-hsk3",
+  "lang": "zh",
+  "track": "exam",
+  "level": "HSK 3",
+  "title": "HSK 3 — 常用词",
+  "description": "Từ vựng HSK 3 thông dụng.",
+  "words": [
+    { "id": "anpai", "term": "安排", "reading": "ānpái", "meaning": "sắp xếp", "emoji": "📋", "example": "我来安排时间。", "exampleMeaning": "Để tôi sắp xếp thời gian." },
+    { "id": "baohu", "term": "保护", "reading": "bǎohù", "meaning": "bảo vệ", "emoji": "🛡️", "example": "我们要保护动物。", "exampleMeaning": "Chúng ta phải bảo vệ động vật." },
+    { "id": "bianhua", "term": "变化", "reading": "biànhuà", "meaning": "thay đổi, biến đổi", "emoji": "🔄", "example": "这几年家乡的变化很大。", "exampleMeaning": "Mấy năm nay quê hương thay đổi rất nhiều." },
+    { "id": "fasheng", "term": "发生", "reading": "fāshēng", "meaning": "xảy ra", "emoji": "⚡", "example": "这里发生了什么事？", "exampleMeaning": "Ở đây đã xảy ra chuyện gì?" },
+    { "id": "fazhan", "term": "发展", "reading": "fāzhǎn", "meaning": "phát triển", "emoji": "📈", "example": "这个城市发展得很快。", "exampleMeaning": "Thành phố này phát triển rất nhanh." },
+    { "id": "haipa", "term": "害怕", "reading": "hàipà", "meaning": "sợ, sợ hãi", "emoji": "😨", "example": "我害怕一个人走夜路。", "exampleMeaning": "Tôi sợ đi đường đêm một mình." },
+    { "id": "jianchi", "term": "坚持", "reading": "jiānchí", "meaning": "kiên trì", "emoji": "💪", "example": "他每天坚持跑步。", "exampleMeaning": "Anh ấy kiên trì chạy bộ mỗi ngày." },
+    { "id": "jiandan", "term": "简单", "reading": "jiǎndān", "meaning": "đơn giản", "emoji": "✅", "example": "这道题很简单。", "exampleMeaning": "Câu hỏi này rất đơn giản." },
+    { "id": "jinzhang", "term": "紧张", "reading": "jǐnzhāng", "meaning": "căng thẳng, hồi hộp", "emoji": "😰", "example": "考试前我很紧张。", "exampleMeaning": "Trước kỳ thi tôi rất hồi hộp." },
+    { "id": "jixu", "term": "继续", "reading": "jìxù", "meaning": "tiếp tục", "emoji": "▶️", "example": "请继续说。", "exampleMeaning": "Mời bạn nói tiếp." },
+    { "id": "jinbu", "term": "进步", "reading": "jìnbù", "meaning": "tiến bộ", "emoji": "🚀", "example": "你的汉语进步很大。", "exampleMeaning": "Tiếng Trung của bạn tiến bộ nhiều." },
+    { "id": "lijie", "term": "理解", "reading": "lǐjiě", "meaning": "hiểu, thông cảm", "emoji": "🤝", "example": "我理解你的意思。", "exampleMeaning": "Tôi hiểu ý bạn." },
+    { "id": "langfei", "term": "浪费", "reading": "làngfèi", "meaning": "lãng phí", "emoji": "🗑️", "example": "不要浪费时间。", "exampleMeaning": "Đừng lãng phí thời gian." },
+    { "id": "turan", "term": "突然", "reading": "tūrán", "meaning": "đột nhiên", "emoji": "❗", "example": "天突然下雨了。", "exampleMeaning": "Trời đột nhiên đổ mưa." },
+    { "id": "qiguai", "term": "奇怪", "reading": "qíguài", "meaning": "kỳ lạ", "emoji": "🤨", "example": "这件事很奇怪。", "exampleMeaning": "Chuyện này rất kỳ lạ." },
+    { "id": "qishi", "term": "其实", "reading": "qíshí", "meaning": "thật ra", "emoji": "💬", "example": "其实我不喜欢喝咖啡。", "exampleMeaning": "Thật ra tôi không thích uống cà phê." },
+    { "id": "zhongyu", "term": "终于", "reading": "zhōngyú", "meaning": "cuối cùng (thì)", "emoji": "🏁", "example": "我终于找到工作了。", "exampleMeaning": "Cuối cùng tôi cũng tìm được việc làm." },
+    { "id": "shihe", "term": "适合", "reading": "shìhé", "meaning": "phù hợp, hợp với", "emoji": "👌", "example": "这件衣服很适合你。", "exampleMeaning": "Bộ quần áo này rất hợp với bạn." },
+    { "id": "xiwang", "term": "希望", "reading": "xīwàng", "meaning": "hy vọng", "emoji": "🌟", "example": "我希望明天是晴天。", "exampleMeaning": "Tôi hy vọng ngày mai trời nắng." },
+    { "id": "huanjing", "term": "环境", "reading": "huánjìng", "meaning": "môi trường", "emoji": "🌳", "example": "这里的环境很好。", "exampleMeaning": "Môi trường ở đây rất tốt." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我们", "要", "保护", "环境"], "reading": "wǒmen yào bǎohù huánjìng", "meaning": "Chúng ta phải bảo vệ môi trường." },
+    { "id": "s2", "tokens": ["不要", "浪费", "时间"], "reading": "búyào làngfèi shíjiān", "meaning": "Đừng lãng phí thời gian." },
+    { "id": "s3", "tokens": ["他", "的", "汉语", "进步", "很", "快"], "reading": "tā de Hànyǔ jìnbù hěn kuài", "meaning": "Tiếng Trung của anh ấy tiến bộ rất nhanh." },
+    { "id": "s4", "tokens": ["考试", "前", "我", "很", "紧张"], "reading": "kǎoshì qián wǒ hěn jǐnzhāng", "meaning": "Trước kỳ thi tôi rất hồi hộp." },
+    { "id": "s5", "tokens": ["我", "终于", "明白", "了"], "reading": "wǒ zhōngyú míngbai le", "meaning": "Cuối cùng tôi cũng hiểu rồi." },
+    { "id": "s6", "tokens": ["这", "个", "工作", "很", "适合", "你"], "reading": "zhè ge gōngzuò hěn shìhé nǐ", "meaning": "Công việc này rất hợp với bạn." }
+  ]
+}

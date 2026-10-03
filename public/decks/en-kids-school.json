@@ -1,0 +1,30 @@
+{
+  "id": "en-kids-school",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "At School",
+  "description": "Đồ dùng học tập và lớp học cho bé.",
+  "words": [
+    { "id": "school", "term": "school", "reading": "/skuːl/", "meaning": "trường học", "emoji": "🏫", "example": "I go to school by bike.", "exampleMeaning": "Tớ đi học bằng xe đạp." },
+    { "id": "teacher", "term": "teacher", "reading": "/ˈtiːtʃər/", "meaning": "giáo viên", "emoji": "👩‍🏫", "example": "My teacher is very kind.", "exampleMeaning": "Cô giáo của tớ rất hiền." },
+    { "id": "classroom", "term": "classroom", "reading": "/ˈklæsruːm/", "meaning": "lớp học", "emoji": "🧑‍🎓", "example": "Our classroom is big and bright.", "exampleMeaning": "Lớp học của chúng tớ rộng và sáng." },
+    { "id": "book", "term": "book", "reading": "/bʊk/", "meaning": "quyển sách", "emoji": "📖", "example": "Open your book, please.", "exampleMeaning": "Các cậu mở sách ra nào." },
+    { "id": "pen", "term": "pen", "reading": "/pen/", "meaning": "cái bút, bút mực", "emoji": "🖊️", "example": "Can I use your pen?", "exampleMeaning": "Tớ dùng bút của cậu được không?" },
+    { "id": "pencil", "term": "pencil", "reading": "/ˈpensl/", "meaning": "bút chì", "emoji": "✏️", "example": "I draw with a pencil.", "exampleMeaning": "Tớ vẽ bằng bút chì." },
+    { "id": "bag", "term": "bag", "reading": "/bæɡ/", "meaning": "cặp sách, túi", "emoji": "🎒", "example": "My bag is heavy.", "exampleMeaning": "Cặp sách của tớ nặng." },
+    { "id": "ruler", "term": "ruler", "reading": "/ˈruːlər/", "meaning": "thước kẻ", "emoji": "📏", "example": "I need a ruler to draw a line.", "exampleMeaning": "Tớ cần thước kẻ để kẻ một đường thẳng." },
+    { "id": "desk", "term": "desk", "reading": "/desk/", "meaning": "bàn học", "emoji": "📚", "example": "My books are on the desk.", "exampleMeaning": "Sách của tớ ở trên bàn học." },
+    { "id": "lesson", "term": "lesson", "reading": "/ˈlesn/", "meaning": "bài học", "emoji": "📝", "example": "Our English lesson is fun.", "exampleMeaning": "Bài học tiếng Anh của chúng tớ rất vui." },
+    { "id": "board", "term": "board", "reading": "/bɔːrd/", "meaning": "cái bảng", "emoji": "⬛", "example": "Look at the board.", "exampleMeaning": "Các cậu nhìn lên bảng nào." },
+    { "id": "notebook", "term": "notebook", "reading": "/ˈnoʊtbʊk/", "meaning": "quyển vở, sổ tay", "emoji": "📓", "example": "Write your name in your notebook.", "exampleMeaning": "Cậu viết tên vào vở nhé." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["This", "is", "my", "school"], "meaning": "Đây là trường của tớ." },
+    { "id": "s2", "tokens": ["I", "have", "a", "red", "pencil"], "meaning": "Tớ có một cái bút chì màu đỏ." },
+    { "id": "s3", "tokens": ["Put", "your", "book", "in", "your", "bag"], "meaning": "Cậu cất sách vào cặp nhé." },
+    { "id": "s4", "tokens": ["The", "teacher", "is", "in", "the", "classroom"], "meaning": "Cô giáo đang ở trong lớp học." },
+    { "id": "s5", "tokens": ["Sit", "down", "at", "your", "desk"], "meaning": "Cậu ngồi vào bàn học nào." },
+    { "id": "s6", "tokens": ["Can", "I", "borrow", "your", "ruler"], "meaning": "Tớ mượn thước kẻ của cậu được không?" }
+  ]
+}

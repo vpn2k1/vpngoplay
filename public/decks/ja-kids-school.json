@@ -1,0 +1,30 @@
+{
+  "id": "ja-kids-school",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "がっこう",
+  "description": "Đồ dùng học tập và lớp học bằng Hiragana cho bé.",
+  "words": [
+    { "id": "hon", "term": "ほん", "reading": "hon", "meaning": "quyển sách", "emoji": "📖", "example": "ほん を よみます。", "exampleMeaning": "Tớ đọc sách." },
+    { "id": "enpitsu", "term": "えんぴつ", "reading": "enpitsu", "meaning": "bút chì", "emoji": "✏️", "example": "えんぴつ で じ を かきます。", "exampleMeaning": "Tớ viết chữ bằng bút chì." },
+    { "id": "kaban", "term": "かばん", "reading": "kaban", "meaning": "cặp sách, túi", "emoji": "🎒", "example": "かばん に ほん を いれます。", "exampleMeaning": "Tớ cho sách vào cặp." },
+    { "id": "tsukue", "term": "つくえ", "reading": "tsukue", "meaning": "cái bàn", "emoji": "🪑", "example": "つくえ の うえ に ノート が あります。", "exampleMeaning": "Trên bàn có quyển vở." },
+    { "id": "isu", "term": "いす", "reading": "isu", "meaning": "cái ghế", "emoji": "💺", "example": "いす に すわります。", "exampleMeaning": "Tớ ngồi xuống ghế." },
+    { "id": "nooto", "term": "ノート", "reading": "nōto", "meaning": "quyển vở", "emoji": "📓", "example": "ノート に なまえ を かきます。", "exampleMeaning": "Tớ viết tên vào vở." },
+    { "id": "keshigomu", "term": "けしごむ", "reading": "keshigomu", "meaning": "cục tẩy", "emoji": "🧽", "example": "けしごむ で けします。", "exampleMeaning": "Tớ xóa bằng cục tẩy." },
+    { "id": "hasami", "term": "はさみ", "reading": "hasami", "meaning": "cái kéo", "emoji": "✂️", "example": "はさみ で かみ を きります。", "exampleMeaning": "Tớ cắt giấy bằng kéo." },
+    { "id": "kokuban", "term": "こくばん", "reading": "kokuban", "meaning": "bảng đen", "emoji": "🧑‍🏫", "example": "せんせい が こくばん に かきます。", "exampleMeaning": "Cô giáo viết lên bảng." },
+    { "id": "kyoushitsu", "term": "きょうしつ", "reading": "kyōshitsu", "meaning": "lớp học, phòng học", "emoji": "🏫", "example": "きょうしつ は ひろい です。", "exampleMeaning": "Lớp học rộng." },
+    { "id": "jougi", "term": "じょうぎ", "reading": "jōgi", "meaning": "thước kẻ", "emoji": "📏", "example": "じょうぎ で せん を ひきます。", "exampleMeaning": "Tớ kẻ đường thẳng bằng thước." },
+    { "id": "kureyon", "term": "クレヨン", "reading": "kureyon", "meaning": "bút sáp màu", "emoji": "🖍️", "example": "クレヨン で え を かきます。", "exampleMeaning": "Tớ vẽ tranh bằng bút sáp màu." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["ほん", "を", "よみましょう"], "reading": "ほんをよみましょう", "meaning": "Mình cùng đọc sách nào." },
+    { "id": "s2", "tokens": ["これ", "は", "わたし", "の", "えんぴつ", "です"], "reading": "これはわたしのえんぴつです", "meaning": "Đây là bút chì của tớ." },
+    { "id": "s3", "tokens": ["かばん", "の", "なか", "に", "ノート", "が", "あります"], "reading": "かばんのなかにノートがあります", "meaning": "Trong cặp có quyển vở." },
+    { "id": "s4", "tokens": ["いす", "に", "すわって", "ください"], "reading": "いすにすわってください", "meaning": "Cậu ngồi xuống ghế nhé." },
+    { "id": "s5", "tokens": ["きょうしつ", "に", "つくえ", "が", "たくさん", "あります"], "reading": "きょうしつにつくえがたくさんあります", "meaning": "Trong lớp có nhiều bàn." },
+    { "id": "s6", "tokens": ["けしごむ", "を", "かして", "ください"], "reading": "けしごむをかしてください", "meaning": "Cho tớ mượn cục tẩy nhé." }
+  ]
+}

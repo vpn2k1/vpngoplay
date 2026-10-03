@@ -1,0 +1,30 @@
+{
+  "id": "zh-kids-weather",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "天气和衣服",
+  "description": "Thời tiết và quần áo kèm pinyin cho bé.",
+  "words": [
+    { "id": "taiyang", "term": "太阳", "reading": "tàiyang", "meaning": "mặt trời", "emoji": "☀️", "example": "太阳出来了。", "exampleMeaning": "Mặt trời lên rồi." },
+    { "id": "yun", "term": "云", "reading": "yún", "meaning": "đám mây", "emoji": "☁️", "example": "天上有很多白云。", "exampleMeaning": "Trên trời có nhiều mây trắng." },
+    { "id": "feng", "term": "风", "reading": "fēng", "meaning": "gió", "emoji": "🌬️", "example": "今天风很大。", "exampleMeaning": "Hôm nay gió to quá." },
+    { "id": "xiayu", "term": "下雨", "reading": "xiàyǔ", "meaning": "mưa, trời mưa", "emoji": "🌧️", "example": "外面下雨了。", "exampleMeaning": "Bên ngoài trời mưa rồi." },
+    { "id": "xiaxue", "term": "下雪", "reading": "xiàxuě", "meaning": "tuyết rơi", "emoji": "🌨️", "example": "下雪了，我们去玩雪吧！", "exampleMeaning": "Tuyết rơi rồi, chúng mình đi chơi tuyết nhé!" },
+    { "id": "re", "term": "热", "reading": "rè", "meaning": "nóng", "emoji": "🥵", "example": "夏天很热。", "exampleMeaning": "Mùa hè rất nóng." },
+    { "id": "leng", "term": "冷", "reading": "lěng", "meaning": "lạnh", "emoji": "🥶", "example": "冬天很冷。", "exampleMeaning": "Mùa đông rất lạnh." },
+    { "id": "yusan", "term": "雨伞", "reading": "yǔsǎn", "meaning": "cái ô, cái dù", "emoji": "☂️", "example": "下雨要带雨伞。", "exampleMeaning": "Trời mưa phải mang ô nhé." },
+    { "id": "maozi", "term": "帽子", "reading": "màozi", "meaning": "cái mũ", "emoji": "🧢", "example": "我戴上红帽子。", "exampleMeaning": "Tớ đội chiếc mũ đỏ." },
+    { "id": "xie", "term": "鞋", "reading": "xié", "meaning": "giày", "emoji": "👟", "example": "这双鞋很漂亮。", "exampleMeaning": "Đôi giày này rất đẹp." },
+    { "id": "yifu", "term": "衣服", "reading": "yīfu", "meaning": "quần áo", "emoji": "👕", "example": "天冷了，多穿衣服。", "exampleMeaning": "Trời lạnh rồi, mặc thêm áo nhé." },
+    { "id": "kuzi", "term": "裤子", "reading": "kùzi", "meaning": "cái quần", "emoji": "👖", "example": "我的裤子是蓝色的。", "exampleMeaning": "Quần của tớ màu xanh dương." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["今天", "天气", "很", "好"], "reading": "jīntiān tiānqì hěn hǎo", "meaning": "Hôm nay thời tiết rất đẹp." },
+    { "id": "s2", "tokens": ["外面", "下雨", "了"], "reading": "wàimiàn xiàyǔ le", "meaning": "Bên ngoài trời mưa rồi." },
+    { "id": "s3", "tokens": ["冬天", "会", "下雪"], "reading": "dōngtiān huì xiàxuě", "meaning": "Mùa đông có tuyết rơi." },
+    { "id": "s4", "tokens": ["我", "戴", "一", "顶", "帽子"], "reading": "wǒ dài yì dǐng màozi", "meaning": "Tớ đội một chiếc mũ." },
+    { "id": "s5", "tokens": ["太阳", "出来", "了"], "reading": "tàiyang chūlai le", "meaning": "Mặt trời lên rồi." },
+    { "id": "s6", "tokens": ["天", "冷", "了", "多", "穿", "衣服"], "reading": "tiān lěng le duō chuān yīfu", "meaning": "Trời lạnh rồi, mặc thêm áo nhé." }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "zh-kids-body",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "身体",
+  "description": "Các bộ phận cơ thể kèm pinyin cho bé.",
+  "words": [
+    { "id": "tou", "term": "头", "reading": "tóu", "meaning": "cái đầu", "emoji": "🙆", "example": "小猫的头圆圆的。", "exampleMeaning": "Đầu mèo con tròn tròn." },
+    { "id": "toufa", "term": "头发", "reading": "tóufa", "meaning": "tóc", "emoji": "💇", "example": "妹妹的头发很长。", "exampleMeaning": "Tóc em gái rất dài." },
+    { "id": "lian", "term": "脸", "reading": "liǎn", "meaning": "khuôn mặt", "emoji": "😊", "example": "我每天早上洗脸。", "exampleMeaning": "Sáng nào tớ cũng rửa mặt." },
+    { "id": "erduo", "term": "耳朵", "reading": "ěrduo", "meaning": "cái tai", "emoji": "👂", "example": "兔子的耳朵很长。", "exampleMeaning": "Tai thỏ rất dài." },
+    { "id": "bizi", "term": "鼻子", "reading": "bízi", "meaning": "cái mũi", "emoji": "👃", "example": "小狗的鼻子很灵。", "exampleMeaning": "Mũi cún con rất thính." },
+    { "id": "zui", "term": "嘴", "reading": "zuǐ", "meaning": "cái miệng", "emoji": "👄", "example": "请张开嘴。", "exampleMeaning": "Há miệng ra nào." },
+    { "id": "ya", "term": "牙", "reading": "yá", "meaning": "răng", "emoji": "🦷", "example": "我每天刷牙。", "exampleMeaning": "Ngày nào tớ cũng đánh răng." },
+    { "id": "shou", "term": "手", "reading": "shǒu", "meaning": "tay, bàn tay", "emoji": "✋", "example": "吃饭前要洗手。", "exampleMeaning": "Trước khi ăn phải rửa tay." },
+    { "id": "shouzhi", "term": "手指", "reading": "shǒuzhǐ", "meaning": "ngón tay", "emoji": "☝️", "example": "我有十个手指。", "exampleMeaning": "Tớ có mười ngón tay." },
+    { "id": "duzi", "term": "肚子", "reading": "dùzi", "meaning": "cái bụng", "emoji": "😋", "example": "我的肚子饿了。", "exampleMeaning": "Tớ đói bụng rồi." },
+    { "id": "tui", "term": "腿", "reading": "tuǐ", "meaning": "cái chân", "emoji": "🦵", "example": "小鸭子的腿很短。", "exampleMeaning": "Chân vịt con rất ngắn." },
+    { "id": "jiao", "term": "脚", "reading": "jiǎo", "meaning": "bàn chân", "emoji": "🦶", "example": "我用脚踢球。", "exampleMeaning": "Tớ đá bóng bằng chân." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "的", "头发", "很", "长"], "reading": "wǒ de tóufa hěn cháng", "meaning": "Tóc tớ rất dài." },
+    { "id": "s2", "tokens": ["我", "有", "两", "只", "耳朵"], "reading": "wǒ yǒu liǎng zhī ěrduo", "meaning": "Tớ có hai cái tai." },
+    { "id": "s3", "tokens": ["吃饭", "前", "要", "洗手"], "reading": "chīfàn qián yào xǐshǒu", "meaning": "Trước khi ăn phải rửa tay." },
+    { "id": "s4", "tokens": ["我", "每天", "刷牙"], "reading": "wǒ měitiān shuāyá", "meaning": "Ngày nào tớ cũng đánh răng." },
+    { "id": "s5", "tokens": ["你", "的", "鼻子", "真", "可爱"], "reading": "nǐ de bízi zhēn kě'ài", "meaning": "Mũi của cậu dễ thương quá." },
+    { "id": "s6", "tokens": ["我", "的", "肚子", "饿", "了"], "reading": "wǒ de dùzi è le", "meaning": "Tớ đói bụng rồi." }
+  ]
+}

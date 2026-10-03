@@ -1,0 +1,38 @@
+{
+  "id": "en-exam-technology",
+  "lang": "en",
+  "track": "exam",
+  "level": "IELTS 6.5+",
+  "title": "IELTS — Technology",
+  "description": "Từ vựng chủ đề công nghệ cho Writing & Speaking.",
+  "words": [
+    { "id": "innovation", "term": "innovation", "reading": "/ˌɪnəˈveɪʃn/", "meaning": "sự đổi mới, sáng kiến", "emoji": "💡", "example": "Innovation drives economic growth.", "exampleMeaning": "Sự đổi mới thúc đẩy tăng trưởng kinh tế." },
+    { "id": "automation", "term": "automation", "reading": "/ˌɔːtəˈmeɪʃn/", "meaning": "sự tự động hóa", "emoji": "🤖", "example": "Automation may replace many factory jobs.", "exampleMeaning": "Tự động hóa có thể thay thế nhiều công việc trong nhà máy." },
+    { "id": "device", "term": "device", "reading": "/dɪˈvaɪs/", "meaning": "thiết bị", "emoji": "📱", "example": "A smartphone is a very useful device.", "exampleMeaning": "Điện thoại thông minh là một thiết bị rất hữu ích." },
+    { "id": "surveillance", "term": "surveillance", "reading": "/sərˈveɪləns/", "meaning": "sự giám sát", "emoji": "📹", "example": "Surveillance cameras are everywhere in big cities.", "exampleMeaning": "Camera giám sát có mặt khắp nơi ở các thành phố lớn." },
+    { "id": "gadget", "term": "gadget", "reading": "/ˈɡædʒɪt/", "meaning": "đồ dùng công nghệ, thiết bị nhỏ", "emoji": "🎧", "example": "He always buys the latest gadget.", "exampleMeaning": "Anh ấy luôn mua món đồ công nghệ mới nhất." },
+    { "id": "database", "term": "database", "reading": "/ˈdeɪtəbeɪs/", "meaning": "cơ sở dữ liệu", "emoji": "🗄️", "example": "The hospital keeps patient records in a database.", "exampleMeaning": "Bệnh viện lưu hồ sơ bệnh nhân trong cơ sở dữ liệu." },
+    { "id": "interactive", "term": "interactive", "reading": "/ˌɪntərˈæktɪv/", "meaning": "(có tính) tương tác", "emoji": "🖐️", "example": "Interactive lessons keep students interested.", "exampleMeaning": "Các bài học có tính tương tác giúp học sinh hứng thú." },
+    { "id": "portable", "term": "portable", "reading": "/ˈpɔːrtəbl/", "meaning": "xách tay, mang theo được", "emoji": "💼", "example": "Laptops are portable, so you can work anywhere.", "exampleMeaning": "Máy tính xách tay mang theo được nên bạn có thể làm việc ở bất cứ đâu." },
+    { "id": "compatible", "term": "compatible", "reading": "/kəmˈpætəbl/", "meaning": "tương thích", "emoji": "🔌", "example": "This app is not compatible with older phones.", "exampleMeaning": "Ứng dụng này không tương thích với điện thoại đời cũ." },
+    { "id": "upgrade", "term": "upgrade", "reading": "/ʌpˈɡreɪd/", "meaning": "nâng cấp", "emoji": "⬆️", "example": "I need to upgrade my computer.", "exampleMeaning": "Tôi cần nâng cấp máy tính của mình." },
+    { "id": "sophisticated", "term": "sophisticated", "reading": "/səˈfɪstɪkeɪtɪd/", "meaning": "tinh vi, phức tạp", "emoji": "⚙️", "example": "Modern cars use sophisticated software.", "exampleMeaning": "Ô tô hiện đại sử dụng phần mềm tinh vi." },
+    { "id": "transmit", "term": "transmit", "reading": "/trænzˈmɪt/", "meaning": "truyền, truyền tải", "emoji": "📡", "example": "Satellites transmit signals around the world.", "exampleMeaning": "Vệ tinh truyền tín hiệu đi khắp thế giới." },
+    { "id": "revolutionize", "term": "revolutionize", "reading": "/ˌrevəˈluːʃənaɪz/", "meaning": "cách mạng hóa", "emoji": "🚀", "example": "The internet has revolutionized the way we communicate.", "exampleMeaning": "Internet đã cách mạng hóa cách chúng ta giao tiếp." },
+    { "id": "browse", "term": "browse", "reading": "/braʊz/", "meaning": "lướt xem, duyệt (web)", "emoji": "🌐", "example": "I often browse the internet before bed.", "exampleMeaning": "Tôi thường lướt mạng trước khi đi ngủ." },
+    { "id": "electronics", "term": "electronics", "reading": "/ɪˌlekˈtrɑːnɪks/", "meaning": "đồ điện tử, ngành điện tử", "emoji": "🔋", "example": "Old electronics should be recycled properly.", "exampleMeaning": "Đồ điện tử cũ nên được tái chế đúng cách." },
+    { "id": "pioneer", "term": "pioneer", "reading": "/ˌpaɪəˈnɪr/", "meaning": "người tiên phong", "emoji": "🧭", "example": "She was a pioneer in computer science.", "exampleMeaning": "Bà ấy là người tiên phong trong ngành khoa học máy tính." },
+    { "id": "precision", "term": "precision", "reading": "/prɪˈsɪʒn/", "meaning": "độ chính xác", "emoji": "🎯", "example": "Robots can work with great precision.", "exampleMeaning": "Rô-bốt có thể làm việc với độ chính xác cao." },
+    { "id": "mechanism", "term": "mechanism", "reading": "/ˈmekənɪzəm/", "meaning": "cơ chế, cơ cấu", "emoji": "🔧", "example": "The app has a mechanism to block harmful content.", "exampleMeaning": "Ứng dụng có cơ chế chặn nội dung độc hại." },
+    { "id": "malfunction", "term": "malfunction", "reading": "/mælˈfʌŋkʃn/", "meaning": "sự trục trặc, hỏng hóc", "emoji": "🛠️", "example": "A software malfunction caused the delay.", "exampleMeaning": "Một sự trục trặc phần mềm đã gây ra sự chậm trễ." },
+    { "id": "addiction", "term": "addiction", "reading": "/əˈdɪkʃn/", "meaning": "sự nghiện, chứng nghiện", "emoji": "📵", "example": "Internet addiction is a growing problem among teenagers.", "exampleMeaning": "Nghiện Internet là vấn đề ngày càng phổ biến ở thanh thiếu niên." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Automation", "will", "replace", "some", "jobs"], "meaning": "Tự động hóa sẽ thay thế một số công việc." },
+    { "id": "s2", "tokens": ["Technology", "has", "changed", "the", "way", "we", "learn"], "meaning": "Công nghệ đã thay đổi cách chúng ta học tập." },
+    { "id": "s3", "tokens": ["Many", "teenagers", "are", "addicted", "to", "their", "phones"], "meaning": "Nhiều thanh thiếu niên nghiện điện thoại." },
+    { "id": "s4", "tokens": ["Innovation", "is", "the", "key", "to", "success"], "meaning": "Đổi mới là chìa khóa dẫn đến thành công." },
+    { "id": "s5", "tokens": ["This", "device", "is", "easy", "to", "use"], "meaning": "Thiết bị này dễ sử dụng." },
+    { "id": "s6", "tokens": ["Surveillance", "cameras", "can", "help", "reduce", "crime"], "meaning": "Camera giám sát có thể giúp giảm tội phạm." }
+  ]
+}

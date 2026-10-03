@@ -1,0 +1,38 @@
+{
+  "id": "ja-exam-n4",
+  "lang": "ja",
+  "track": "exam",
+  "level": "JLPT N4",
+  "title": "JLPT N4 — 基本語彙",
+  "description": "Từ vựng N4 cốt lõi kèm Kanji.",
+  "words": [
+    { "id": "junbi", "term": "準備", "reading": "じゅんび · junbi", "meaning": "chuẩn bị", "emoji": "🧳", "example": "旅行の準備をする。", "exampleMeaning": "Chuẩn bị cho chuyến du lịch." },
+    { "id": "kisoku", "term": "規則", "reading": "きそく · kisoku", "meaning": "quy tắc, nội quy", "emoji": "📜", "example": "学校の規則を守る。", "exampleMeaning": "Tuân thủ nội quy của trường." },
+    { "id": "keiken", "term": "経験", "reading": "けいけん · keiken", "meaning": "kinh nghiệm, trải nghiệm", "emoji": "🌏", "example": "海外で働いた経験がある。", "exampleMeaning": "Tôi có kinh nghiệm làm việc ở nước ngoài." },
+    { "id": "shumi", "term": "趣味", "reading": "しゅみ · shumi", "meaning": "sở thích", "emoji": "📷", "example": "私の趣味は写真です。", "exampleMeaning": "Sở thích của tôi là chụp ảnh." },
+    { "id": "yakusoku", "term": "約束", "reading": "やくそく · yakusoku", "meaning": "lời hứa, cuộc hẹn", "emoji": "🤝", "example": "友達と約束をした。", "exampleMeaning": "Tôi đã hẹn với bạn." },
+    { "id": "shinpai", "term": "心配", "reading": "しんぱい · shinpai", "meaning": "lo lắng", "emoji": "😟", "example": "母が私のことを心配している。", "exampleMeaning": "Mẹ đang lo lắng cho tôi." },
+    { "id": "atsumeru", "term": "集める", "reading": "あつめる · atsumeru", "meaning": "thu thập, sưu tầm", "emoji": "📮", "example": "古い切手を集める。", "exampleMeaning": "Sưu tầm tem cũ." },
+    { "id": "shiraberu", "term": "調べる", "reading": "しらべる · shiraberu", "meaning": "tra cứu, tìm hiểu", "emoji": "🔍", "example": "辞書で意味を調べる。", "exampleMeaning": "Tra nghĩa bằng từ điển." },
+    { "id": "kimeru", "term": "決める", "reading": "きめる · kimeru", "meaning": "quyết định", "emoji": "✅", "example": "旅行の日を決める。", "exampleMeaning": "Quyết định ngày đi du lịch." },
+    { "id": "tsuzukeru", "term": "続ける", "reading": "つづける · tsuzukeru", "meaning": "tiếp tục", "emoji": "🔁", "example": "毎日運動を続ける。", "exampleMeaning": "Tiếp tục tập thể dục mỗi ngày." },
+    { "id": "maniau", "term": "間に合う", "reading": "まにあう · maniau", "meaning": "kịp, kịp giờ", "emoji": "⏰", "example": "急げば電車に間に合う。", "exampleMeaning": "Nếu nhanh lên thì sẽ kịp tàu." },
+    { "id": "kowareru", "term": "壊れる", "reading": "こわれる · kowareru", "meaning": "bị hỏng, bị vỡ", "emoji": "💥", "example": "このいすはすぐ壊れる。", "exampleMeaning": "Cái ghế này rất dễ hỏng." },
+    { "id": "yasashii", "term": "優しい", "reading": "やさしい · yasashii", "meaning": "hiền, tốt bụng", "emoji": "😊", "example": "姉はとても優しい。", "exampleMeaning": "Chị tôi rất hiền." },
+    { "id": "kibishii", "term": "厳しい", "reading": "きびしい · kibishii", "meaning": "nghiêm khắc", "emoji": "😠", "example": "父は厳しい人です。", "exampleMeaning": "Bố tôi là người nghiêm khắc." },
+    { "id": "mezurashii", "term": "珍しい", "reading": "めずらしい · mezurashii", "meaning": "hiếm, hiếm có", "emoji": "🌺", "example": "これは珍しい花です。", "exampleMeaning": "Đây là một loài hoa hiếm." },
+    { "id": "tadashii", "term": "正しい", "reading": "ただしい · tadashii", "meaning": "đúng, chính xác", "emoji": "⭕", "example": "正しい答えを選ぶ。", "exampleMeaning": "Chọn câu trả lời đúng." },
+    { "id": "kantan", "term": "簡単", "reading": "かんたん · kantan", "meaning": "đơn giản, dễ", "emoji": "👌", "example": "この問題は簡単です。", "exampleMeaning": "Bài này dễ." },
+    { "id": "bunka", "term": "文化", "reading": "ぶんか · bunka", "meaning": "văn hóa", "emoji": "🎎", "example": "日本の文化を学ぶ。", "exampleMeaning": "Học về văn hóa Nhật Bản." },
+    { "id": "shippai", "term": "失敗", "reading": "しっぱい · shippai", "meaning": "thất bại", "emoji": "❌", "example": "失敗しても大丈夫です。", "exampleMeaning": "Thất bại cũng không sao." },
+    { "id": "yorokobu", "term": "喜ぶ", "reading": "よろこぶ · yorokobu", "meaning": "vui mừng", "emoji": "🎉", "example": "プレゼントを見たら母はきっと喜ぶ。", "exampleMeaning": "Nhìn thấy món quà, mẹ chắc chắn sẽ vui mừng." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["明日", "の", "準備", "は", "できました", "か"], "reading": "あしたのじゅんびはできましたか", "meaning": "Bạn đã chuẩn bị xong cho ngày mai chưa?" },
+    { "id": "s2", "tokens": ["私", "の", "趣味", "は", "切手", "を", "集める", "こと", "です"], "reading": "わたしのしゅみはきってをあつめることです", "meaning": "Sở thích của tôi là sưu tầm tem." },
+    { "id": "s3", "tokens": ["わからない", "言葉", "を", "辞書", "で", "調べました"], "reading": "わからないことばをじしょでしらべました", "meaning": "Tôi đã tra từ mình không hiểu bằng từ điển." },
+    { "id": "s4", "tokens": ["約束", "の", "時間", "に", "間に合いませんでした"], "reading": "やくそくのじかんにまにあいませんでした", "meaning": "Tôi đã không kịp giờ hẹn." },
+    { "id": "s5", "tokens": ["この", "仕事", "は", "簡単", "では", "ありません"], "reading": "このしごとはかんたんではありません", "meaning": "Công việc này không đơn giản." },
+    { "id": "s6", "tokens": ["失敗", "して", "も", "あきらめないで", "ください"], "reading": "しっぱいしてもあきらめないでください", "meaning": "Dù thất bại cũng đừng bỏ cuộc." }
+  ]
+}

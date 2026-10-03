@@ -1,0 +1,38 @@
+{
+  "id": "en-exam-health",
+  "lang": "en",
+  "track": "exam",
+  "level": "IELTS 6.5+",
+  "title": "IELTS — Health",
+  "description": "Từ vựng chủ đề sức khỏe cho Writing & Speaking.",
+  "words": [
+    { "id": "obesity", "term": "obesity", "reading": "/oʊˈbiːsəti/", "meaning": "chứng béo phì", "emoji": "🍔", "example": "Childhood obesity is rising in many countries.", "exampleMeaning": "Tình trạng béo phì ở trẻ em đang gia tăng ở nhiều nước." },
+    { "id": "diet", "term": "diet", "reading": "/ˈdaɪət/", "meaning": "chế độ ăn uống", "emoji": "🥗", "example": "A healthy diet includes plenty of vegetables.", "exampleMeaning": "Một chế độ ăn uống lành mạnh bao gồm nhiều rau xanh." },
+    { "id": "sedentary", "term": "sedentary", "reading": "/ˈsedənteri/", "meaning": "ít vận động", "emoji": "🛋️", "example": "A sedentary lifestyle increases the risk of heart disease.", "exampleMeaning": "Lối sống ít vận động làm tăng nguy cơ mắc bệnh tim." },
+    { "id": "vaccine", "term": "vaccine", "reading": "/vækˈsiːn/", "meaning": "vắc-xin", "emoji": "💉", "example": "The new vaccine is safe and effective.", "exampleMeaning": "Loại vắc-xin mới an toàn và hiệu quả." },
+    { "id": "hygiene", "term": "hygiene", "reading": "/ˈhaɪdʒiːn/", "meaning": "vệ sinh", "emoji": "🧼", "example": "Good hygiene prevents the spread of disease.", "exampleMeaning": "Giữ vệ sinh tốt giúp ngăn bệnh tật lây lan." },
+    { "id": "therapy", "term": "therapy", "reading": "/ˈθerəpi/", "meaning": "liệu pháp, trị liệu", "emoji": "🩺", "example": "Physical therapy helped him walk again.", "exampleMeaning": "Vật lý trị liệu đã giúp anh ấy đi lại được." },
+    { "id": "fatigue", "term": "fatigue", "reading": "/fəˈtiːɡ/", "meaning": "sự mệt mỏi", "emoji": "😩", "example": "Lack of sleep often leads to fatigue.", "exampleMeaning": "Thiếu ngủ thường dẫn đến mệt mỏi." },
+    { "id": "preventive", "term": "preventive", "reading": "/prɪˈventɪv/", "meaning": "phòng ngừa", "emoji": "🛡️", "example": "Preventive measures are cheaper than treatment.", "exampleMeaning": "Các biện pháp phòng ngừa rẻ hơn việc chữa trị." },
+    { "id": "pandemic", "term": "pandemic", "reading": "/pænˈdemɪk/", "meaning": "đại dịch", "emoji": "🦠", "example": "The pandemic changed the way people work.", "exampleMeaning": "Đại dịch đã thay đổi cách mọi người làm việc." },
+    { "id": "outbreak", "term": "outbreak", "reading": "/ˈaʊtbreɪk/", "meaning": "sự bùng phát (dịch)", "emoji": "🚨", "example": "There was an outbreak of flu at the school.", "exampleMeaning": "Đã có một đợt bùng phát cúm ở trường." },
+    { "id": "dose", "term": "dose", "reading": "/doʊs/", "meaning": "liều, liều lượng", "emoji": "🥄", "example": "Do not take more than the recommended dose.", "exampleMeaning": "Đừng dùng quá liều lượng được khuyến nghị." },
+    { "id": "medication", "term": "medication", "reading": "/ˌmedɪˈkeɪʃn/", "meaning": "thuốc, thuốc men", "emoji": "💊", "example": "She takes medication for high blood pressure.", "exampleMeaning": "Bà ấy uống thuốc điều trị huyết áp cao." },
+    { "id": "disorder", "term": "disorder", "reading": "/dɪsˈɔːrdər/", "meaning": "chứng rối loạn", "emoji": "🧩", "example": "Insomnia is a common sleep disorder.", "exampleMeaning": "Mất ngủ là một chứng rối loạn giấc ngủ phổ biến." },
+    { "id": "calorie", "term": "calorie", "reading": "/ˈkæləri/", "meaning": "calo", "emoji": "🔥", "example": "Every calorie you eat gives your body energy.", "exampleMeaning": "Mỗi calo bạn ăn vào đều cung cấp năng lượng cho cơ thể." },
+    { "id": "balanced", "term": "balanced", "reading": "/ˈbælənst/", "meaning": "cân bằng", "emoji": "⚖️", "example": "A balanced diet keeps you healthy.", "exampleMeaning": "Chế độ ăn uống cân bằng giúp bạn khỏe mạnh." },
+    { "id": "immunity", "term": "immunity", "reading": "/ɪˈmjuːnəti/", "meaning": "khả năng miễn dịch", "emoji": "🛡️", "example": "Vitamin C can help boost your immunity.", "exampleMeaning": "Vitamin C có thể giúp tăng cường khả năng miễn dịch." },
+    { "id": "infectious", "term": "infectious", "reading": "/ɪnˈfekʃəs/", "meaning": "truyền nhiễm, dễ lây", "emoji": "🤧", "example": "Measles is a highly infectious disease.", "exampleMeaning": "Sởi là một bệnh truyền nhiễm rất dễ lây." },
+    { "id": "stamina", "term": "stamina", "reading": "/ˈstæmɪnə/", "meaning": "sức bền", "emoji": "🏃", "example": "Swimming is a good way to build stamina.", "exampleMeaning": "Bơi lội là một cách tốt để tăng sức bền." },
+    { "id": "posture", "term": "posture", "reading": "/ˈpɑːstʃər/", "meaning": "tư thế", "emoji": "🧍", "example": "Bad posture can cause back pain.", "exampleMeaning": "Tư thế sai có thể gây đau lưng." },
+    { "id": "deprivation", "term": "deprivation", "reading": "/ˌdeprɪˈveɪʃn/", "meaning": "sự thiếu hụt, thiếu thốn", "emoji": "😴", "example": "Sleep deprivation affects memory.", "exampleMeaning": "Thiếu ngủ ảnh hưởng đến trí nhớ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Obesity", "is", "a", "serious", "health", "problem"], "meaning": "Béo phì là một vấn đề sức khỏe nghiêm trọng." },
+    { "id": "s2", "tokens": ["You", "should", "eat", "a", "balanced", "diet"], "meaning": "Bạn nên có chế độ ăn uống cân bằng." },
+    { "id": "s3", "tokens": ["Regular", "exercise", "reduces", "stress"], "meaning": "Tập thể dục đều đặn giúp giảm căng thẳng." },
+    { "id": "s4", "tokens": ["Many", "office", "workers", "lead", "a", "sedentary", "lifestyle"], "meaning": "Nhiều nhân viên văn phòng có lối sống ít vận động." },
+    { "id": "s5", "tokens": ["Wash", "your", "hands", "to", "stay", "healthy"], "meaning": "Hãy rửa tay để giữ gìn sức khỏe." },
+    { "id": "s6", "tokens": ["The", "vaccine", "prevents", "serious", "illness"], "meaning": "Vắc-xin giúp ngăn ngừa bệnh nặng." }
+  ]
+}

@@ -11,7 +11,7 @@
     { "id": "account", "term": "account", "reading": "/əˈkaʊnt/", "meaning": "tài khoản", "emoji": "👤", "example": "Your new account is ready.", "exampleMeaning": "Tài khoản mới của bạn đã sẵn sàng." },
     { "id": "update", "term": "update", "reading": "/ˈʌpdeɪt/", "meaning": "cập nhật", "emoji": "🔄", "example": "Please update the software tonight.", "exampleMeaning": "Vui lòng cập nhật phần mềm tối nay." },
     { "id": "software", "term": "software", "reading": "/ˈsɔːftwer/", "meaning": "phần mềm", "emoji": "💿", "example": "This software is easy to use.", "exampleMeaning": "Phần mềm này dễ sử dụng." },
-    { "id": "network", "term": "network", "reading": "/ˈnetwɜːrk/", "meaning": "mạng nội bộ", "emoji": "🌐", "example": "The network is down again.", "exampleMeaning": "Mạng nội bộ lại bị sập." },
+    { "id": "network", "term": "network", "reading": "/ˈnetwɜːrk/", "meaning": "mạng (máy tính)", "emoji": "🌐", "example": "The network is down again.", "exampleMeaning": "Mạng lại bị sập." },
     { "id": "laptop", "term": "laptop", "reading": "/ˈlæptɑːp/", "meaning": "máy tính xách tay", "emoji": "💻", "example": "I left my laptop at home.", "exampleMeaning": "Tôi để quên máy tính xách tay ở nhà." },
     { "id": "printer", "term": "printer", "reading": "/ˈprɪntər/", "meaning": "máy in", "emoji": "🖨️", "example": "The printer is out of paper.", "exampleMeaning": "Máy in hết giấy rồi." },
     { "id": "back-up", "term": "back up", "reading": "/bæk ʌp/", "meaning": "sao lưu", "emoji": "💾", "example": "Always back up your important files.", "exampleMeaning": "Hãy luôn sao lưu các tệp quan trọng." },

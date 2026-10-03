@@ -1,0 +1,30 @@
+{
+  "id": "ja-kids-weather",
+  "lang": "ja",
+  "track": "kids",
+  "level": "Hiragana",
+  "title": "てんき と ふく",
+  "description": "Thời tiết và quần áo bằng Hiragana cho bé.",
+  "words": [
+    { "id": "ame", "term": "あめ", "reading": "ame", "meaning": "mưa", "emoji": "🌧️", "example": "あめ が ふって います。", "exampleMeaning": "Trời đang mưa." },
+    { "id": "yuki", "term": "ゆき", "reading": "yuki", "meaning": "tuyết", "emoji": "❄️", "example": "ゆき は しろい です。", "exampleMeaning": "Tuyết màu trắng." },
+    { "id": "kaze", "term": "かぜ", "reading": "kaze", "meaning": "gió", "emoji": "🌬️", "example": "かぜ が つよい です。", "exampleMeaning": "Gió mạnh quá." },
+    { "id": "kumo", "term": "くも", "reading": "kumo", "meaning": "mây", "emoji": "☁️", "example": "そら に くも が あります。", "exampleMeaning": "Trên trời có mây." },
+    { "id": "taiyou", "term": "たいよう", "reading": "taiyō", "meaning": "mặt trời", "emoji": "☀️", "example": "たいよう が でて います。", "exampleMeaning": "Mặt trời ló ra rồi." },
+    { "id": "atsui", "term": "あつい", "reading": "atsui", "meaning": "nóng", "emoji": "🥵", "example": "きょう は あつい です。", "exampleMeaning": "Hôm nay trời nóng." },
+    { "id": "samui", "term": "さむい", "reading": "samui", "meaning": "lạnh", "emoji": "🥶", "example": "ふゆ は さむい です。", "exampleMeaning": "Mùa đông lạnh." },
+    { "id": "fuku", "term": "ふく", "reading": "fuku", "meaning": "quần áo", "emoji": "👕", "example": "あたらしい ふく を きます。", "exampleMeaning": "Tớ mặc quần áo mới." },
+    { "id": "boushi", "term": "ぼうし", "reading": "bōshi", "meaning": "cái mũ", "emoji": "🧢", "example": "ぼうし を かぶります。", "exampleMeaning": "Tớ đội mũ." },
+    { "id": "kutsu", "term": "くつ", "reading": "kutsu", "meaning": "đôi giày", "emoji": "👟", "example": "くつ を はきます。", "exampleMeaning": "Tớ đi giày." },
+    { "id": "kasa", "term": "かさ", "reading": "kasa", "meaning": "cái ô", "emoji": "☂️", "example": "かさ を さします。", "exampleMeaning": "Tớ mở ô ra che." },
+    { "id": "tebukuro", "term": "てぶくろ", "reading": "tebukuro", "meaning": "găng tay", "emoji": "🧤", "example": "てぶくろ を します。", "exampleMeaning": "Tớ đeo găng tay." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["あした", "は", "あめ", "です"], "reading": "あしたはあめです", "meaning": "Ngày mai trời mưa." },
+    { "id": "s2", "tokens": ["ゆき", "で", "あそびましょう"], "reading": "ゆきであそびましょう", "meaning": "Mình cùng chơi tuyết nào." },
+    { "id": "s3", "tokens": ["さむい", "から", "てぶくろ", "を", "します"], "reading": "さむいからてぶくろをします", "meaning": "Trời lạnh nên tớ đeo găng tay." },
+    { "id": "s4", "tokens": ["あつい", "から", "ぼうし", "を", "かぶります"], "reading": "あついからぼうしをかぶります", "meaning": "Trời nóng nên tớ đội mũ." },
+    { "id": "s5", "tokens": ["かさ", "を", "もって", "いきます"], "reading": "かさをもっていきます", "meaning": "Tớ mang ô theo." },
+    { "id": "s6", "tokens": ["かぜ", "が", "ふいて", "います"], "reading": "かぜがふいています", "meaning": "Gió đang thổi." }
+  ]
+}

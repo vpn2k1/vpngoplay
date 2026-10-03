@@ -1,0 +1,38 @@
+{
+  "id": "ja-exam-n3",
+  "lang": "ja",
+  "track": "exam",
+  "level": "JLPT N3",
+  "title": "JLPT N3 — 重要語彙",
+  "description": "Từ vựng N3 quan trọng kèm Kanji.",
+  "words": [
+    { "id": "kaiketsu", "term": "解決", "reading": "かいけつ · kaiketsu", "meaning": "giải quyết", "emoji": "🧩", "example": "問題を解決する。", "exampleMeaning": "Giải quyết vấn đề." },
+    { "id": "eikyou", "term": "影響", "reading": "えいきょう · eikyō", "meaning": "ảnh hưởng", "emoji": "🌦️", "example": "天気は気分に影響する。", "exampleMeaning": "Thời tiết ảnh hưởng đến tâm trạng." },
+    { "id": "kankyou", "term": "環境", "reading": "かんきょう · kankyō", "meaning": "môi trường", "emoji": "🌿", "example": "みんなで環境を守る。", "exampleMeaning": "Mọi người cùng bảo vệ môi trường." },
+    { "id": "handan", "term": "判断", "reading": "はんだん · handan", "meaning": "phán đoán, đánh giá", "emoji": "⚖️", "example": "正しい判断をする。", "exampleMeaning": "Đưa ra phán đoán đúng đắn." },
+    { "id": "doryoku", "term": "努力", "reading": "どりょく · doryoku", "meaning": "nỗ lực", "emoji": "💪", "example": "夢のために努力する。", "exampleMeaning": "Nỗ lực vì ước mơ." },
+    { "id": "seichou", "term": "成長", "reading": "せいちょう · seichō", "meaning": "trưởng thành, tăng trưởng", "emoji": "🌱", "example": "子どもの成長は早い。", "exampleMeaning": "Trẻ con lớn nhanh lắm." },
+    { "id": "kitai", "term": "期待", "reading": "きたい · kitai", "meaning": "kỳ vọng, mong đợi", "emoji": "🤞", "example": "みんなが彼に期待している。", "exampleMeaning": "Mọi người đều kỳ vọng vào anh ấy." },
+    { "id": "rikai", "term": "理解", "reading": "りかい · rikai", "meaning": "hiểu, thấu hiểu", "emoji": "💡", "example": "彼の気持ちを理解する。", "exampleMeaning": "Hiểu được cảm xúc của anh ấy." },
+    { "id": "gaman", "term": "我慢", "reading": "がまん · gaman", "meaning": "chịu đựng, nhẫn nại", "emoji": "😣", "example": "痛みを我慢する。", "exampleMeaning": "Chịu đựng cơn đau." },
+    { "id": "guuzen", "term": "偶然", "reading": "ぐうぜん · gūzen", "meaning": "tình cờ, ngẫu nhiên", "emoji": "🍀", "example": "駅で偶然友達に会った。", "exampleMeaning": "Tôi tình cờ gặp bạn ở nhà ga." },
+    { "id": "shoujiki", "term": "正直", "reading": "しょうじき · shōjiki", "meaning": "thật thà, trung thực", "emoji": "😇", "example": "彼は正直な人です。", "exampleMeaning": "Anh ấy là người thật thà." },
+    { "id": "fudan", "term": "普段", "reading": "ふだん · fudan", "meaning": "thường ngày, thường", "emoji": "🚲", "example": "普段は自転車で通っている。", "exampleMeaning": "Thường ngày tôi đi bằng xe đạp." },
+    { "id": "kekka", "term": "結果", "reading": "けっか · kekka", "meaning": "kết quả", "emoji": "📊", "example": "試験の結果が出た。", "exampleMeaning": "Đã có kết quả thi." },
+    { "id": "sekinin", "term": "責任", "reading": "せきにん · sekinin", "meaning": "trách nhiệm", "emoji": "🎯", "example": "自分の仕事に責任を持つ。", "exampleMeaning": "Có trách nhiệm với công việc của mình." },
+    { "id": "kinchou", "term": "緊張", "reading": "きんちょう · kinchō", "meaning": "căng thẳng, hồi hộp", "emoji": "😰", "example": "面接の前は緊張する。", "exampleMeaning": "Trước buổi phỏng vấn thì hồi hộp." },
+    { "id": "heru", "term": "減る", "reading": "へる · heru", "meaning": "giảm", "emoji": "📉", "example": "運動すると体重が減る。", "exampleMeaning": "Tập thể dục thì cân nặng giảm." },
+    { "id": "kotowaru", "term": "断る", "reading": "ことわる · kotowaru", "meaning": "từ chối", "emoji": "🙅", "example": "忙しいので誘いを断る。", "exampleMeaning": "Vì bận nên tôi từ chối lời mời." },
+    { "id": "mayou", "term": "迷う", "reading": "まよう · mayou", "meaning": "lạc đường, phân vân", "emoji": "🧭", "example": "初めての町では道に迷う。", "exampleMeaning": "Ở thành phố lần đầu đến thì dễ lạc đường." },
+    { "id": "shinjiru", "term": "信じる", "reading": "しんじる · shinjiru", "meaning": "tin, tin tưởng", "emoji": "🙏", "example": "自分の力を信じる。", "exampleMeaning": "Tin vào sức mình." },
+    { "id": "setsuyaku", "term": "節約", "reading": "せつやく · setsuyaku", "meaning": "tiết kiệm", "emoji": "🔌", "example": "電気を節約する。", "exampleMeaning": "Tiết kiệm điện." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["この", "問題", "は", "まだ", "解決", "して", "いません"], "reading": "このもんだいはまだかいけつしていません", "meaning": "Vấn đề này vẫn chưa được giải quyết." },
+    { "id": "s2", "tokens": ["努力", "した", "結果", "試験", "に", "合格", "しました"], "reading": "どりょくしたけっかしけんにごうかくしました", "meaning": "Nhờ nỗ lực, tôi đã thi đỗ." },
+    { "id": "s3", "tokens": ["環境", "を", "守る", "ため", "に", "電気", "を", "節約", "します"], "reading": "かんきょうをまもるためにでんきをせつやくします", "meaning": "Tôi tiết kiệm điện để bảo vệ môi trường." },
+    { "id": "s4", "tokens": ["初めて", "の", "町", "で", "道", "に", "迷いました"], "reading": "はじめてのまちでみちにまよいました", "meaning": "Tôi đã lạc đường ở thành phố lần đầu đến." },
+    { "id": "s5", "tokens": ["彼", "は", "正直", "だ", "から", "信じて", "います"], "reading": "かれはしょうじきだからしんじています", "meaning": "Anh ấy thật thà nên tôi tin anh ấy." },
+    { "id": "s6", "tokens": ["発表", "の", "前", "は", "いつも", "緊張", "します"], "reading": "はっぴょうのまえはいつもきんちょうします", "meaning": "Trước khi thuyết trình tôi luôn hồi hộp." }
+  ]
+}

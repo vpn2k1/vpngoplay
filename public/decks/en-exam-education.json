@@ -1,0 +1,38 @@
+{
+  "id": "en-exam-education",
+  "lang": "en",
+  "track": "exam",
+  "level": "IELTS 6.5+",
+  "title": "IELTS — Education",
+  "description": "Từ vựng chủ đề giáo dục cho Writing & Speaking.",
+  "words": [
+    { "id": "curriculum", "term": "curriculum", "reading": "/kəˈrɪkjələm/", "meaning": "chương trình giảng dạy", "emoji": "📚", "example": "Coding has been added to the school curriculum.", "exampleMeaning": "Lập trình đã được đưa vào chương trình giảng dạy của nhà trường." },
+    { "id": "tuition", "term": "tuition", "reading": "/tuˈɪʃn/", "meaning": "học phí", "emoji": "💵", "example": "University tuition has risen sharply in recent years.", "exampleMeaning": "Học phí đại học đã tăng mạnh trong những năm gần đây." },
+    { "id": "literacy", "term": "literacy", "reading": "/ˈlɪtərəsi/", "meaning": "khả năng đọc viết", "emoji": "📖", "example": "Adult literacy has improved in many developing countries.", "exampleMeaning": "Khả năng đọc viết của người lớn đã được cải thiện ở nhiều nước đang phát triển." },
+    { "id": "compulsory", "term": "compulsory", "reading": "/kəmˈpʌlsəri/", "meaning": "bắt buộc", "emoji": "⚖️", "example": "Education is compulsory until the age of sixteen.", "exampleMeaning": "Giáo dục là bắt buộc cho đến năm mười sáu tuổi." },
+    { "id": "vocational", "term": "vocational", "reading": "/voʊˈkeɪʃənl/", "meaning": "dạy nghề, hướng nghiệp", "emoji": "🛠️", "example": "Vocational training helps young people find jobs.", "exampleMeaning": "Đào tạo nghề giúp người trẻ tìm được việc làm." },
+    { "id": "assessment", "term": "assessment", "reading": "/əˈsesmənt/", "meaning": "sự đánh giá", "emoji": "📝", "example": "Continuous assessment is fairer than a single final exam.", "exampleMeaning": "Đánh giá liên tục công bằng hơn một kỳ thi cuối kỳ duy nhất." },
+    { "id": "discipline", "term": "discipline", "reading": "/ˈdɪsəplɪn/", "meaning": "kỷ luật", "emoji": "📏", "example": "Teachers need to maintain discipline in the classroom.", "exampleMeaning": "Giáo viên cần giữ kỷ luật trong lớp học." },
+    { "id": "undergraduate", "term": "undergraduate", "reading": "/ˌʌndərˈɡrædʒuət/", "meaning": "sinh viên đại học", "emoji": "🎓", "example": "She is an undergraduate at a public university.", "exampleMeaning": "Cô ấy là sinh viên của một trường đại học công lập." },
+    { "id": "mentor", "term": "mentor", "reading": "/ˈmentɔːr/", "meaning": "người cố vấn", "emoji": "🤝", "example": "Every new student is assigned a mentor.", "exampleMeaning": "Mỗi sinh viên mới được phân công một người cố vấn." },
+    { "id": "qualification", "term": "qualification", "reading": "/ˌkwɑːlɪfɪˈkeɪʃn/", "meaning": "bằng cấp, trình độ chuyên môn", "emoji": "📜", "example": "A degree is now the minimum qualification for many jobs.", "exampleMeaning": "Bằng đại học giờ là bằng cấp tối thiểu cho nhiều công việc." },
+    { "id": "lecturer", "term": "lecturer", "reading": "/ˈlektʃərər/", "meaning": "giảng viên", "emoji": "👨‍🏫", "example": "The lecturer explained the theory clearly.", "exampleMeaning": "Giảng viên đã giải thích lý thuyết rất rõ ràng." },
+    { "id": "thesis", "term": "thesis", "reading": "/ˈθiːsɪs/", "meaning": "luận văn, luận án", "emoji": "📑", "example": "He spent a year writing his master's thesis.", "exampleMeaning": "Anh ấy mất một năm để viết luận văn thạc sĩ." },
+    { "id": "tutor", "term": "tutor", "reading": "/ˈtuːtər/", "meaning": "gia sư", "emoji": "🧑‍🏫", "example": "Many parents hire a private tutor for their children.", "exampleMeaning": "Nhiều phụ huynh thuê gia sư riêng cho con." },
+    { "id": "extracurricular", "term": "extracurricular", "reading": "/ˌekstrəkəˈrɪkjələr/", "meaning": "ngoại khóa", "emoji": "⚽", "example": "Extracurricular activities help students build teamwork skills.", "exampleMeaning": "Các hoạt động ngoại khóa giúp học sinh rèn kỹ năng làm việc nhóm." },
+    { "id": "enroll", "term": "enroll", "reading": "/ɪnˈroʊl/", "meaning": "đăng ký (học), ghi danh", "emoji": "🖊️", "example": "More adults enroll in online courses every year.", "exampleMeaning": "Mỗi năm có thêm nhiều người lớn đăng ký các khóa học trực tuyến." },
+    { "id": "seminar", "term": "seminar", "reading": "/ˈsemɪnɑːr/", "meaning": "hội thảo chuyên đề", "emoji": "🗣️", "example": "Students must attend a weekly seminar.", "exampleMeaning": "Sinh viên phải tham dự một buổi hội thảo chuyên đề mỗi tuần." },
+    { "id": "certificate", "term": "certificate", "reading": "/sərˈtɪfɪkət/", "meaning": "chứng chỉ, giấy chứng nhận", "emoji": "🏅", "example": "You will receive a certificate after the course.", "exampleMeaning": "Bạn sẽ nhận được chứng chỉ sau khóa học." },
+    { "id": "aptitude", "term": "aptitude", "reading": "/ˈæptɪtuːd/", "meaning": "năng khiếu", "emoji": "🎨", "example": "She shows a natural aptitude for languages.", "exampleMeaning": "Cô ấy có năng khiếu bẩm sinh về ngoại ngữ." },
+    { "id": "cognitive", "term": "cognitive", "reading": "/ˈkɑːɡnətɪv/", "meaning": "(thuộc) nhận thức", "emoji": "🧠", "example": "Reading supports children's cognitive development.", "exampleMeaning": "Đọc sách hỗ trợ sự phát triển nhận thức của trẻ." },
+    { "id": "comprehension", "term": "comprehension", "reading": "/ˌkɑːmprɪˈhenʃn/", "meaning": "sự hiểu, khả năng hiểu", "emoji": "🔍", "example": "The test measures reading comprehension.", "exampleMeaning": "Bài kiểm tra đánh giá khả năng đọc hiểu." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["Primary", "education", "is", "compulsory", "in", "most", "countries"], "meaning": "Giáo dục tiểu học là bắt buộc ở hầu hết các quốc gia." },
+    { "id": "s2", "tokens": ["Tuition", "fees", "are", "too", "high", "for", "many", "families"], "meaning": "Học phí quá cao đối với nhiều gia đình." },
+    { "id": "s3", "tokens": ["Schools", "should", "offer", "more", "vocational", "courses"], "meaning": "Các trường nên mở thêm nhiều khóa học nghề." },
+    { "id": "s4", "tokens": ["The", "curriculum", "needs", "to", "be", "updated"], "meaning": "Chương trình giảng dạy cần được cập nhật." },
+    { "id": "s5", "tokens": ["Extracurricular", "activities", "develop", "soft", "skills"], "meaning": "Hoạt động ngoại khóa giúp phát triển kỹ năng mềm." },
+    { "id": "s6", "tokens": ["She", "hired", "a", "tutor", "to", "improve", "her", "writing"], "meaning": "Cô ấy thuê gia sư để cải thiện kỹ năng viết." }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "en-kids-body",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "My Body",
+  "description": "Các bộ phận cơ thể cho bé mới bắt đầu.",
+  "words": [
+    { "id": "head", "term": "head", "reading": "/hed/", "meaning": "cái đầu", "emoji": "👦", "example": "I wear a hat on my head.", "exampleMeaning": "Tớ đội mũ trên đầu." },
+    { "id": "face", "term": "face", "reading": "/feɪs/", "meaning": "khuôn mặt", "emoji": "😊", "example": "Wash your face, please.", "exampleMeaning": "Cậu rửa mặt đi nhé." },
+    { "id": "eye", "term": "eye", "reading": "/aɪ/", "meaning": "mắt", "emoji": "👁️", "example": "I can close one eye.", "exampleMeaning": "Tớ có thể nhắm một mắt." },
+    { "id": "ear", "term": "ear", "reading": "/ɪr/", "meaning": "tai", "emoji": "👂", "example": "Touch your ear!", "exampleMeaning": "Cậu chạm vào tai đi!" },
+    { "id": "nose", "term": "nose", "reading": "/noʊz/", "meaning": "mũi", "emoji": "👃", "example": "The clown has a red nose.", "exampleMeaning": "Chú hề có cái mũi màu đỏ." },
+    { "id": "mouth", "term": "mouth", "reading": "/maʊθ/", "meaning": "miệng", "emoji": "👄", "example": "Open your mouth, please.", "exampleMeaning": "Cậu há miệng ra nào." },
+    { "id": "tooth", "term": "tooth", "reading": "/tuːθ/", "meaning": "răng", "emoji": "🦷", "example": "My tooth is loose.", "exampleMeaning": "Răng của tớ bị lung lay." },
+    { "id": "hair", "term": "hair", "reading": "/her/", "meaning": "tóc", "emoji": "💇", "example": "She has long hair.", "exampleMeaning": "Bạn ấy có mái tóc dài." },
+    { "id": "hand", "term": "hand", "reading": "/hænd/", "meaning": "bàn tay", "emoji": "✋", "example": "Raise your hand, please.", "exampleMeaning": "Cậu giơ tay lên nào." },
+    { "id": "arm", "term": "arm", "reading": "/ɑːrm/", "meaning": "cánh tay", "emoji": "💪", "example": "My arm is strong.", "exampleMeaning": "Cánh tay của tớ rất khỏe." },
+    { "id": "leg", "term": "leg", "reading": "/leɡ/", "meaning": "chân", "emoji": "🦵", "example": "My leg hurts.", "exampleMeaning": "Chân của tớ bị đau." },
+    { "id": "knee", "term": "knee", "reading": "/niː/", "meaning": "đầu gối", "emoji": "🧎", "example": "I fell and hurt my knee.", "exampleMeaning": "Tớ bị ngã và đau đầu gối." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["I", "have", "two", "eyes"], "meaning": "Tớ có hai mắt." },
+    { "id": "s2", "tokens": ["Touch", "your", "nose"], "meaning": "Cậu chạm vào mũi nào." },
+    { "id": "s3", "tokens": ["My", "hair", "is", "short"], "meaning": "Tóc của tớ ngắn." },
+    { "id": "s4", "tokens": ["Clap", "your", "hands"], "meaning": "Cậu vỗ tay nào." },
+    { "id": "s5", "tokens": ["I", "brush", "my", "teeth"], "meaning": "Tớ đánh răng." },
+    { "id": "s6", "tokens": ["The", "elephant", "has", "big", "ears"], "meaning": "Con voi có đôi tai to." }
+  ]
+}

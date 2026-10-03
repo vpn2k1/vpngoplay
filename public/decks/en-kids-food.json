@@ -1,0 +1,30 @@
+{
+  "id": "en-kids-food",
+  "lang": "en",
+  "track": "kids",
+  "level": "Starters",
+  "title": "Food & Fruit",
+  "description": "Đồ ăn, đồ uống và hoa quả quen thuộc cho bé.",
+  "words": [
+    { "id": "milk", "term": "milk", "reading": "/mɪlk/", "meaning": "sữa", "emoji": "🥛", "example": "I drink milk every morning.", "exampleMeaning": "Sáng nào tớ cũng uống sữa." },
+    { "id": "bread", "term": "bread", "reading": "/bred/", "meaning": "bánh mì", "emoji": "🍞", "example": "I eat bread for breakfast.", "exampleMeaning": "Tớ ăn bánh mì vào bữa sáng." },
+    { "id": "rice", "term": "rice", "reading": "/raɪs/", "meaning": "cơm, gạo", "emoji": "🍚", "example": "We eat rice every day.", "exampleMeaning": "Ngày nào chúng tớ cũng ăn cơm." },
+    { "id": "egg", "term": "egg", "reading": "/eɡ/", "meaning": "quả trứng", "emoji": "🥚", "example": "I have an egg for breakfast.", "exampleMeaning": "Tớ ăn một quả trứng vào bữa sáng." },
+    { "id": "chicken", "term": "chicken", "reading": "/ˈtʃɪkɪn/", "meaning": "thịt gà, con gà", "emoji": "🍗", "example": "Mom cooks chicken for dinner.", "exampleMeaning": "Mẹ nấu thịt gà cho bữa tối." },
+    { "id": "cake", "term": "cake", "reading": "/keɪk/", "meaning": "bánh ngọt", "emoji": "🍰", "example": "This cake is very sweet.", "exampleMeaning": "Cái bánh này ngọt lắm." },
+    { "id": "candy", "term": "candy", "reading": "/ˈkændi/", "meaning": "kẹo", "emoji": "🍬", "example": "Don't eat too much candy.", "exampleMeaning": "Cậu đừng ăn nhiều kẹo quá nhé." },
+    { "id": "water", "term": "water", "reading": "/ˈwɔːtər/", "meaning": "nước", "emoji": "💧", "example": "I am thirsty. I want some water.", "exampleMeaning": "Tớ khát quá. Tớ muốn uống nước." },
+    { "id": "juice", "term": "juice", "reading": "/dʒuːs/", "meaning": "nước ép", "emoji": "🧃", "example": "Apple juice is my favorite drink.", "exampleMeaning": "Nước ép táo là đồ uống tớ thích nhất." },
+    { "id": "orange", "term": "orange", "reading": "/ˈɔːrɪndʒ/", "meaning": "quả cam", "emoji": "🍊", "example": "This orange is sweet.", "exampleMeaning": "Quả cam này ngọt." },
+    { "id": "grape", "term": "grape", "reading": "/ɡreɪp/", "meaning": "quả nho", "emoji": "🍇", "example": "I eat a green grape.", "exampleMeaning": "Tớ ăn một quả nho xanh." },
+    { "id": "tomato", "term": "tomato", "reading": "/təˈmeɪtoʊ/", "meaning": "quả cà chua", "emoji": "🍅", "example": "A tomato is red and round.", "exampleMeaning": "Quả cà chua màu đỏ và tròn." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["I", "like", "milk"], "meaning": "Tớ thích sữa." },
+    { "id": "s2", "tokens": ["Can", "I", "have", "some", "bread"], "meaning": "Cho tớ xin một ít bánh mì được không?" },
+    { "id": "s3", "tokens": ["The", "cake", "is", "on", "the", "table"], "meaning": "Cái bánh ở trên bàn." },
+    { "id": "s4", "tokens": ["I", "eat", "rice", "with", "chicken"], "meaning": "Tớ ăn cơm với thịt gà." },
+    { "id": "s5", "tokens": ["Grapes", "are", "my", "favorite", "fruit"], "meaning": "Nho là loại quả tớ thích nhất." },
+    { "id": "s6", "tokens": ["Let's", "drink", "some", "water"], "meaning": "Mình cùng uống nước nhé." }
+  ]
+}

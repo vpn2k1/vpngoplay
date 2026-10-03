@@ -22,7 +22,7 @@
     { "id": "haiguan", "term": "海关", "reading": "hǎiguān", "meaning": "hải quan", "emoji": "🛃", "example": "货物在海关检查。", "exampleMeaning": "Hàng đang được hải quan kiểm tra." },
     { "id": "yuanliao", "term": "原料", "reading": "yuánliào", "meaning": "nguyên liệu", "emoji": "🧱", "example": "原料价格上涨了。", "exampleMeaning": "Giá nguyên liệu tăng rồi." },
     { "id": "chanliang", "term": "产量", "reading": "chǎnliàng", "meaning": "sản lượng", "emoji": "📊", "example": "今年产量提高了。", "exampleMeaning": "Năm nay sản lượng tăng." },
-    { "id": "pici", "term": "批次", "reading": "pīcì", "meaning": "lô sản xuất", "emoji": "🔢", "example": "这个批次有问题。", "exampleMeaning": "Lô này có vấn đề." },
+    { "id": "pici", "term": "批次", "reading": "pīcì", "meaning": "lô, đợt (hàng)", "emoji": "🔢", "example": "这个批次有问题。", "exampleMeaning": "Lô này có vấn đề." },
     { "id": "gongyingshang", "term": "供应商", "reading": "gōngyìngshāng", "meaning": "nhà cung cấp", "emoji": "🏢", "example": "我们换了供应商。", "exampleMeaning": "Chúng tôi đã đổi nhà cung cấp." },
     { "id": "zhuangxie", "term": "装卸", "reading": "zhuāngxiè", "meaning": "bốc dỡ, bốc xếp", "emoji": "🏋️", "example": "工人在装卸货物。", "exampleMeaning": "Công nhân đang bốc dỡ hàng." },
     { "id": "qingdan", "term": "清单", "reading": "qīngdān", "meaning": "danh sách, bảng kê", "emoji": "📋", "example": "请核对发货清单。", "exampleMeaning": "Vui lòng đối chiếu danh sách hàng gửi." }

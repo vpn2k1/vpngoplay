@@ -296,6 +296,7 @@ Từ điển song ngữ và kho câu mở, dùng để đối chiếu hoặc gi�
 ```bash
 npm run sources:download   # tải khoảng 190 MB, giải nén ra khoảng 300 MB, vào data/sources/open/ (đã có trong .gitignore)
 npm run sources:lookup     # tra 27.000 từ của lộ trình → data/sources/open/lookup/<course>.json + bảng độ phủ
+npm run decks:check        # đối chiếu nghĩa tiếng Việt và cách đọc (JMdict, CC-CEDICT, IPA) của các bộ chủ đề; thêm tên bộ để kiểm tra riêng, --all để in cả từ đạt
 ```
 
 | Nguồn | Nội dung | Giấy phép |

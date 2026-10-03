@@ -1,0 +1,30 @@
+{
+  "id": "zh-kids-food",
+  "lang": "zh",
+  "track": "kids",
+  "level": "Nhập môn",
+  "title": "食物和水果",
+  "description": "Đồ ăn và trái cây kèm pinyin cho bé.",
+  "words": [
+    { "id": "niunai", "term": "牛奶", "reading": "niúnǎi", "meaning": "sữa bò", "emoji": "🥛", "example": "我每天喝牛奶。", "exampleMeaning": "Ngày nào tớ cũng uống sữa." },
+    { "id": "mianbao", "term": "面包", "reading": "miànbāo", "meaning": "bánh mì", "emoji": "🍞", "example": "早上我吃面包。", "exampleMeaning": "Buổi sáng tớ ăn bánh mì." },
+    { "id": "jidan", "term": "鸡蛋", "reading": "jīdàn", "meaning": "trứng gà", "emoji": "🥚", "example": "我喜欢吃鸡蛋。", "exampleMeaning": "Tớ thích ăn trứng gà." },
+    { "id": "miantiao", "term": "面条", "reading": "miàntiáo", "meaning": "mì sợi", "emoji": "🍜", "example": "奶奶做的面条很好吃。", "exampleMeaning": "Mì bà nấu rất ngon." },
+    { "id": "jiaozi", "term": "饺子", "reading": "jiǎozi", "meaning": "sủi cảo", "emoji": "🥟", "example": "我们一起包饺子吧！", "exampleMeaning": "Chúng mình cùng gói sủi cảo nhé!" },
+    { "id": "dangao", "term": "蛋糕", "reading": "dàngāo", "meaning": "bánh ngọt, bánh kem", "emoji": "🎂", "example": "生日蛋糕真漂亮。", "exampleMeaning": "Bánh sinh nhật đẹp quá." },
+    { "id": "binggan", "term": "饼干", "reading": "bǐnggān", "meaning": "bánh quy", "emoji": "🍪", "example": "小熊喜欢吃饼干。", "exampleMeaning": "Gấu con thích ăn bánh quy." },
+    { "id": "guozhi", "term": "果汁", "reading": "guǒzhī", "meaning": "nước ép trái cây", "emoji": "🧃", "example": "我想喝果汁。", "exampleMeaning": "Tớ muốn uống nước ép." },
+    { "id": "xigua", "term": "西瓜", "reading": "xīguā", "meaning": "quả dưa hấu", "emoji": "🍉", "example": "夏天的西瓜很甜。", "exampleMeaning": "Dưa hấu mùa hè rất ngọt." },
+    { "id": "putao", "term": "葡萄", "reading": "pútao", "meaning": "quả nho", "emoji": "🍇", "example": "这串葡萄是紫色的。", "exampleMeaning": "Chùm nho này màu tím." },
+    { "id": "chengzi", "term": "橙子", "reading": "chéngzi", "meaning": "quả cam", "emoji": "🍊", "example": "橙子圆圆的。", "exampleMeaning": "Quả cam tròn tròn." },
+    { "id": "caomei", "term": "草莓", "reading": "cǎoméi", "meaning": "quả dâu tây", "emoji": "🍓", "example": "草莓红红的，很好吃。", "exampleMeaning": "Dâu tây đỏ đỏ, ăn rất ngon." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["我", "想", "喝", "牛奶"], "reading": "wǒ xiǎng hē niúnǎi", "meaning": "Tớ muốn uống sữa." },
+    { "id": "s2", "tokens": ["西瓜", "很", "甜"], "reading": "xīguā hěn tián", "meaning": "Dưa hấu rất ngọt." },
+    { "id": "s3", "tokens": ["你", "喜欢", "吃", "葡萄", "吗"], "reading": "nǐ xǐhuan chī pútao ma", "meaning": "Cậu có thích ăn nho không?" },
+    { "id": "s4", "tokens": ["我", "早上", "吃", "面包", "和", "鸡蛋"], "reading": "wǒ zǎoshang chī miànbāo hé jīdàn", "meaning": "Buổi sáng tớ ăn bánh mì và trứng." },
+    { "id": "s5", "tokens": ["这", "是", "我", "的", "生日", "蛋糕"], "reading": "zhè shì wǒ de shēngrì dàngāo", "meaning": "Đây là bánh sinh nhật của tớ." },
+    { "id": "s6", "tokens": ["我们", "一起", "吃", "饺子", "吧"], "reading": "wǒmen yìqǐ chī jiǎozi ba", "meaning": "Chúng mình cùng ăn sủi cảo nhé." }
+  ]
+}

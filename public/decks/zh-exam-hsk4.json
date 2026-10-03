@@ -1,0 +1,38 @@
+{
+  "id": "zh-exam-hsk4",
+  "lang": "zh",
+  "track": "exam",
+  "level": "HSK 4",
+  "title": "HSK 4 — 重要词汇",
+  "description": "Từ vựng HSK 4 quan trọng.",
+  "words": [
+    { "id": "bimian", "term": "避免", "reading": "bìmiǎn", "meaning": "tránh", "emoji": "🚫", "example": "我们要避免犯同样的错误。", "exampleMeaning": "Chúng ta cần tránh mắc lại lỗi cũ." },
+    { "id": "biye", "term": "毕业", "reading": "bìyè", "meaning": "tốt nghiệp", "emoji": "🎓", "example": "她去年大学毕业了。", "exampleMeaning": "Cô ấy tốt nghiệp đại học năm ngoái." },
+    { "id": "biaoyang", "term": "表扬", "reading": "biǎoyáng", "meaning": "khen ngợi, biểu dương", "emoji": "👏", "example": "老师表扬了他。", "exampleMeaning": "Thầy giáo đã khen cậu ấy." },
+    { "id": "danxin", "term": "担心", "reading": "dānxīn", "meaning": "lo lắng", "emoji": "😟", "example": "别担心，我没事。", "exampleMeaning": "Đừng lo, tôi không sao." },
+    { "id": "chidao", "term": "迟到", "reading": "chídào", "meaning": "đến muộn", "emoji": "⏰", "example": "对不起，我迟到了。", "exampleMeaning": "Xin lỗi, tôi đến muộn." },
+    { "id": "duche", "term": "堵车", "reading": "dǔchē", "meaning": "tắc đường", "emoji": "🚗", "example": "下班时经常堵车。", "exampleMeaning": "Giờ tan làm thường xuyên tắc đường." },
+    { "id": "fangsong", "term": "放松", "reading": "fàngsōng", "meaning": "thư giãn", "emoji": "🧘", "example": "周末我想好好放松一下。", "exampleMeaning": "Cuối tuần tôi muốn thư giãn cho thoải mái." },
+    { "id": "huode", "term": "获得", "reading": "huòdé", "meaning": "đạt được, giành được", "emoji": "🏆", "example": "他获得了第一名。", "exampleMeaning": "Anh ấy giành được giải nhất." },
+    { "id": "jianfei", "term": "减肥", "reading": "jiǎnféi", "meaning": "giảm cân", "emoji": "⚖️", "example": "她正在减肥。", "exampleMeaning": "Cô ấy đang giảm cân." },
+    { "id": "jieshi", "term": "解释", "reading": "jiěshì", "meaning": "giải thích", "emoji": "💬", "example": "请你解释一下。", "exampleMeaning": "Bạn giải thích một chút đi." },
+    { "id": "kaolv", "term": "考虑", "reading": "kǎolǜ", "meaning": "suy nghĩ, cân nhắc", "emoji": "🤔", "example": "让我考虑一下。", "exampleMeaning": "Để tôi cân nhắc đã." },
+    { "id": "mianfei", "term": "免费", "reading": "miǎnfèi", "meaning": "miễn phí", "emoji": "🆓", "example": "这里可以免费上网。", "exampleMeaning": "Ở đây có thể lên mạng miễn phí." },
+    { "id": "shiwang", "term": "失望", "reading": "shīwàng", "meaning": "thất vọng", "emoji": "😞", "example": "这个结果让我很失望。", "exampleMeaning": "Kết quả này làm tôi rất thất vọng." },
+    { "id": "shenqing", "term": "申请", "reading": "shēnqǐng", "meaning": "xin, nộp đơn", "emoji": "📝", "example": "我申请了奖学金。", "exampleMeaning": "Tôi đã nộp đơn xin học bổng." },
+    { "id": "tixing", "term": "提醒", "reading": "tíxǐng", "meaning": "nhắc nhở", "emoji": "🔔", "example": "谢谢你提醒我。", "exampleMeaning": "Cảm ơn bạn đã nhắc tôi." },
+    { "id": "wuhui", "term": "误会", "reading": "wùhuì", "meaning": "hiểu lầm", "emoji": "😕", "example": "你误会我了。", "exampleMeaning": "Bạn hiểu lầm tôi rồi." },
+    { "id": "yange", "term": "严格", "reading": "yángé", "meaning": "nghiêm khắc, nghiêm ngặt", "emoji": "📏", "example": "我们的老师很严格。", "exampleMeaning": "Thầy giáo của chúng tôi rất nghiêm khắc." },
+    { "id": "yonggan", "term": "勇敢", "reading": "yǒnggǎn", "meaning": "dũng cảm", "emoji": "🦁", "example": "他是一个勇敢的人。", "exampleMeaning": "Anh ấy là một người dũng cảm." },
+    { "id": "youxiu", "term": "优秀", "reading": "yōuxiù", "meaning": "xuất sắc, ưu tú", "emoji": "🌟", "example": "她是一名优秀的学生。", "exampleMeaning": "Cô ấy là một học sinh xuất sắc." },
+    { "id": "zhunshi", "term": "准时", "reading": "zhǔnshí", "meaning": "đúng giờ", "emoji": "🕘", "example": "飞机准时起飞了。", "exampleMeaning": "Máy bay đã cất cánh đúng giờ." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["对不起", "我", "迟到", "了"], "reading": "duìbuqǐ wǒ chídào le", "meaning": "Xin lỗi, tôi đến muộn." },
+    { "id": "s2", "tokens": ["路", "上", "堵车", "很", "严重"], "reading": "lù shang dǔchē hěn yánzhòng", "meaning": "Trên đường tắc rất nghiêm trọng." },
+    { "id": "s3", "tokens": ["别", "担心", "我", "没", "事"], "reading": "bié dānxīn wǒ méi shì", "meaning": "Đừng lo, tôi không sao." },
+    { "id": "s4", "tokens": ["让", "我", "考虑", "一下"], "reading": "ràng wǒ kǎolǜ yíxià", "meaning": "Để tôi cân nhắc một chút." },
+    { "id": "s5", "tokens": ["她", "明年", "大学", "毕业"], "reading": "tā míngnián dàxué bìyè", "meaning": "Năm sau cô ấy tốt nghiệp đại học." },
+    { "id": "s6", "tokens": ["请", "准时", "参加", "会议"], "reading": "qǐng zhǔnshí cānjiā huìyì", "meaning": "Vui lòng tham dự cuộc họp đúng giờ." }
+  ]
+}

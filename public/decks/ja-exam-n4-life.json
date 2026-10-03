@@ -1,0 +1,38 @@
+{
+  "id": "ja-exam-n4-life",
+  "lang": "ja",
+  "track": "exam",
+  "level": "JLPT N4",
+  "title": "JLPT N4 — 生活と買い物",
+  "description": "Từ vựng N4 về sinh hoạt, nhà cửa, mua sắm và đi lại.",
+  "words": [
+    { "id": "hikkosu", "term": "引っ越す", "reading": "ひっこす · hikkosu", "meaning": "chuyển nhà", "emoji": "📦", "example": "来月、大阪に引っ越す。", "exampleMeaning": "Tháng sau tôi chuyển nhà đến Osaka." },
+    { "id": "katazukeru", "term": "片付ける", "reading": "かたづける · katazukeru", "meaning": "dọn dẹp, cất gọn", "emoji": "🧹", "example": "部屋を片付ける。", "exampleMeaning": "Dọn dẹp phòng." },
+    { "id": "shinamono", "term": "品物", "reading": "しなもの · shinamono", "meaning": "hàng hóa, món hàng", "emoji": "🛍️", "example": "この店は品物が多い。", "exampleMeaning": "Cửa hàng này có nhiều hàng hóa." },
+    { "id": "nedan", "term": "値段", "reading": "ねだん · nedan", "meaning": "giá, giá cả", "emoji": "🏷️", "example": "この服は値段が安い。", "exampleMeaning": "Bộ quần áo này giá rẻ." },
+    { "id": "kyuukou", "term": "急行", "reading": "きゅうこう · kyūkō", "meaning": "tàu tốc hành", "emoji": "🚆", "example": "急行に乗れば早く着く。", "exampleMeaning": "Nếu đi tàu tốc hành thì sẽ đến sớm." },
+    { "id": "tokkyuu", "term": "特急", "reading": "とっきゅう · tokkyū", "meaning": "tàu tốc hành đặc biệt", "emoji": "🚄", "example": "特急で京都へ行く。", "exampleMeaning": "Đi Kyoto bằng tàu tốc hành đặc biệt." },
+    { "id": "koutsuu", "term": "交通", "reading": "こうつう · kōtsū", "meaning": "giao thông", "emoji": "🚦", "example": "東京は交通が便利です。", "exampleMeaning": "Giao thông ở Tokyo rất thuận tiện." },
+    { "id": "chuushajou", "term": "駐車場", "reading": "ちゅうしゃじょう · chūshajō", "meaning": "bãi đỗ xe", "emoji": "🅿️", "example": "駐車場に車をとめる。", "exampleMeaning": "Đỗ xe ở bãi đỗ xe." },
+    { "id": "oshiire", "term": "押し入れ", "reading": "おしいれ · oshiire", "meaning": "tủ âm tường", "emoji": "🚪", "example": "布団を押し入れにしまう。", "exampleMeaning": "Cất chăn đệm vào tủ âm tường." },
+    { "id": "futon", "term": "布団", "reading": "ふとん · futon", "meaning": "chăn đệm", "emoji": "🛏️", "example": "夜、布団を敷いて寝る。", "exampleMeaning": "Buổi tối trải chăn đệm ra ngủ." },
+    { "id": "rusu", "term": "留守", "reading": "るす · rusu", "meaning": "vắng nhà", "emoji": "🏠", "example": "母は今、留守です。", "exampleMeaning": "Mẹ tôi hiện không có nhà." },
+    { "id": "kinjo", "term": "近所", "reading": "きんじょ · kinjo", "meaning": "hàng xóm, lân cận", "emoji": "🏘️", "example": "近所にスーパーがある。", "exampleMeaning": "Gần nhà có siêu thị." },
+    { "id": "komu", "term": "込む", "reading": "こむ · komu", "meaning": "đông đúc", "emoji": "🚉", "example": "朝の電車はいつも込む。", "exampleMeaning": "Tàu buổi sáng lúc nào cũng đông." },
+    { "id": "harau", "term": "払う", "reading": "はらう · harau", "meaning": "trả (tiền)", "emoji": "💳", "example": "カードで払う。", "exampleMeaning": "Trả bằng thẻ." },
+    { "id": "unten", "term": "運転", "reading": "うんてん · unten", "meaning": "lái xe", "emoji": "🚗", "example": "父は毎日車を運転する。", "exampleMeaning": "Bố tôi lái xe mỗi ngày." },
+    { "id": "tenin", "term": "店員", "reading": "てんいん · ten'in", "meaning": "nhân viên cửa hàng", "emoji": "🧑‍💼", "example": "わからないことは店員に聞く。", "exampleMeaning": "Điều gì không biết thì hỏi nhân viên cửa hàng." },
+    { "id": "yogoreru", "term": "汚れる", "reading": "よごれる · yogoreru", "meaning": "bị bẩn", "emoji": "👕", "example": "雨の日は靴が汚れる。", "exampleMeaning": "Ngày mưa giày bị bẩn." },
+    { "id": "danbou", "term": "暖房", "reading": "だんぼう · danbō", "meaning": "máy sưởi, sưởi ấm", "emoji": "🔥", "example": "寒いので暖房をつける。", "exampleMeaning": "Vì lạnh nên bật máy sưởi." },
+    { "id": "reibou", "term": "冷房", "reading": "れいぼう · reibō", "meaning": "máy lạnh, điều hòa", "emoji": "❄️", "example": "暑いので冷房をつける。", "exampleMeaning": "Vì nóng nên bật máy lạnh." },
+    { "id": "juusho", "term": "住所", "reading": "じゅうしょ · jūsho", "meaning": "địa chỉ", "emoji": "📍", "example": "ここに住所を書いてください。", "exampleMeaning": "Hãy viết địa chỉ vào đây." }
+  ],
+  "sentences": [
+    { "id": "s1", "tokens": ["この", "品物", "の", "値段", "は", "いくら", "です", "か"], "reading": "このしなもののねだんはいくらですか", "meaning": "Món hàng này giá bao nhiêu?" },
+    { "id": "s2", "tokens": ["週末", "に", "部屋", "を", "片付けました"], "reading": "しゅうまつにへやをかたづけました", "meaning": "Cuối tuần tôi đã dọn dẹp phòng." },
+    { "id": "s3", "tokens": ["朝", "の", "電車", "は", "とても", "込んで", "います"], "reading": "あさのでんしゃはとてもこんでいます", "meaning": "Tàu buổi sáng rất đông." },
+    { "id": "s4", "tokens": ["駅", "の", "近く", "に", "駐車場", "が", "あります"], "reading": "えきのちかくにちゅうしゃじょうがあります", "meaning": "Gần nhà ga có bãi đỗ xe." },
+    { "id": "s5", "tokens": ["来月", "新しい", "アパート", "に", "引っ越します"], "reading": "らいげつあたらしいアパートにひっこします", "meaning": "Tháng sau tôi chuyển đến căn hộ mới." },
+    { "id": "s6", "tokens": ["お金", "は", "レジ", "で", "払って", "ください"], "reading": "おかねはレジではらってください", "meaning": "Vui lòng trả tiền ở quầy thu ngân." }
+  ]
+}
