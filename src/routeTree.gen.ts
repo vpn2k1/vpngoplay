@@ -16,6 +16,7 @@ import { Route as IdiomsRouteImport } from './routes/idioms'
 import { Route as LeaderboardRouteImport } from './routes/leaderboard'
 import { Route as ReviewRouteImport } from './routes/review'
 import { Route as SettingsRouteImport } from './routes/settings'
+import { Route as ThemesRouteImport } from './routes/themes'
 import { Route as CoursesCourseIdRouteImport } from './routes/courses/$courseId'
 import { Route as DecksDeckIdRouteRouteImport } from './routes/decks/$deckId/route'
 import { Route as GamesIndexRouteImport } from './routes/games/index'
@@ -70,6 +71,11 @@ const ReviewRoute = ReviewRouteImport.update({
 const SettingsRoute = SettingsRouteImport.update({
   id: '/settings',
   path: '/settings',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ThemesRoute = ThemesRouteImport.update({
+  id: '/themes',
+  path: '/themes',
   getParentRoute: () => rootRouteImport,
 } as any)
 const CoursesCourseIdRoute = CoursesCourseIdRouteImport.update({
@@ -181,6 +187,7 @@ export interface FileRoutesByFullPath {
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
+  '/themes': typeof ThemesRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
@@ -210,6 +217,7 @@ export interface FileRoutesByTo {
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
+  '/themes': typeof ThemesRoute
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
   '/grammar/$topicId': typeof GrammarTopicIdRoute
@@ -239,6 +247,7 @@ export interface FileRoutesById {
   '/leaderboard': typeof LeaderboardRoute
   '/review': typeof ReviewRoute
   '/settings': typeof SettingsRoute
+  '/themes': typeof ThemesRoute
   '/decks/$deckId': typeof DecksDeckIdRouteRouteWithChildren
   '/courses/$courseId': typeof CoursesCourseIdRoute
   '/games/$gameId': typeof GamesGameIdRoute
@@ -270,6 +279,7 @@ export interface FileRouteTypes {
     | '/leaderboard'
     | '/review'
     | '/settings'
+    | '/themes'
     | '/decks/$deckId'
     | '/courses/$courseId'
     | '/games/$gameId'
@@ -299,6 +309,7 @@ export interface FileRouteTypes {
     | '/leaderboard'
     | '/review'
     | '/settings'
+    | '/themes'
     | '/courses/$courseId'
     | '/games/$gameId'
     | '/grammar/$topicId'
@@ -327,6 +338,7 @@ export interface FileRouteTypes {
     | '/leaderboard'
     | '/review'
     | '/settings'
+    | '/themes'
     | '/decks/$deckId'
     | '/courses/$courseId'
     | '/games/$gameId'
@@ -357,6 +369,7 @@ export interface RootRouteChildren {
   LeaderboardRoute: typeof LeaderboardRoute
   ReviewRoute: typeof ReviewRoute
   SettingsRoute: typeof SettingsRoute
+  ThemesRoute: typeof ThemesRoute
   DecksDeckIdRouteRoute: typeof DecksDeckIdRouteRouteWithChildren
   CoursesCourseIdRoute: typeof CoursesCourseIdRoute
   GamesGameIdRoute: typeof GamesGameIdRoute
@@ -420,6 +433,13 @@ declare module '@tanstack/react-router' {
       path: '/settings'
       fullPath: '/settings'
       preLoaderRoute: typeof SettingsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/themes': {
+      id: '/themes'
+      path: '/themes'
+      fullPath: '/themes'
+      preLoaderRoute: typeof ThemesRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/courses/$courseId': {
@@ -598,6 +618,7 @@ const rootRouteChildren: RootRouteChildren = {
   LeaderboardRoute: LeaderboardRoute,
   ReviewRoute: ReviewRoute,
   SettingsRoute: SettingsRoute,
+  ThemesRoute: ThemesRoute,
   DecksDeckIdRouteRoute: DecksDeckIdRouteRouteWithChildren,
   CoursesCourseIdRoute: CoursesCourseIdRoute,
   GamesGameIdRoute: GamesGameIdRoute,

@@ -74,6 +74,7 @@ import WorldMap from '~icons/fluent-emoji/world-map'
 import WritingHand from '~icons/fluent-emoji/writing-hand'
 import SpeechBalloon from '~icons/fluent-emoji/speech-balloon'
 import Scroll from '~icons/fluent-emoji/scroll'
+import RedApple from '~icons/fluent-emoji/red-apple'
 import StudioMicrophone from '~icons/fluent-emoji/studio-microphone'
 import ForkAndKnifeWithPlate from '~icons/fluent-emoji/fork-and-knife-with-plate'
 import ShoppingBags from '~icons/fluent-emoji/shopping-bags'
@@ -240,5 +241,6 @@ export {
   WritingHand,
   SpeechBalloon,
   Scroll,
+  RedApple,
   StudioMicrophone,
 }

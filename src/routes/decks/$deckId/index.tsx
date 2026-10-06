@@ -1,17 +1,65 @@
 import { SaveWordButton } from '../../../components/SaveWordButton'
+import { PosTags, WordForms } from '../../../components/WordInfo'
 import { Link, createFileRoute } from '@tanstack/react-router'
-import { BookOpen, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
+import { BookOpen, ChevronDown, ChevronRight, Clock, MessageSquareText } from 'lucide-react'
+import { useState } from 'react'
 import { motion } from 'motion/react'
-import { COURSE_ICON, EXERCISE_ICON, FLAG, MASCOT, Scroll, TRACK_ICON } from '../../../components/icons'
+import { COURSE_ICON, EXERCISE_ICON, FLAG, MASCOT, RedApple, Scroll, TRACK_ICON } from '../../../components/icons'
 import { BackLabel, ProgressBar, SpeakButton, cx } from '../../../components/ui'
 import { cardKey } from '../../../lib/srs'
 import { useProgress } from '../../../lib/store'
-import { COURSE_LABEL, LANGS, TRACKS, type CourseLevel } from '../../../lib/types'
+import { COURSE_LABEL, LANGS, TRACKS, type CourseLevel, type Deck, type Word } from '../../../lib/types'
 import { useDeck } from '../../../lib/useDeck'
+import { useHasWordForms } from '../../../lib/wordInfo'
 
 export const Route = createFileRoute('/decks/$deckId/')({
   component: DeckOverview,
 })
+
+/** A word of the list: part of speech beside it, other forms and related words one tap away. */
+function WordRow({ deck, word: w, status }: { deck: Deck; word: Word; status: 'due' | 'learned' | null }) {
+  const [open, setOpen] = useState(false)
+  const hasForms = useHasWordForms(deck.lang, w.term)
+
+  return (
+    <li className="px-4 py-3 transition hover:bg-slate-50 dark:hover:bg-slate-800/50">
+      <div className="flex items-center gap-3">
+        <span className="flex size-11 shrink-0 items-center justify-center rounded-2xl bg-slate-100 text-2xl dark:bg-slate-800">
+          {w.emoji ?? w.term.slice(0, 1)}
+        </span>
+        <div className="min-w-0 flex-1">
+          <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+            <span className="text-lg font-bold">{w.term}</span>
+            {w.reading && <span className="text-sm text-slate-500">{w.reading}</span>}
+            <PosTags lang={deck.lang} term={w.term} className="self-center" />
+          </div>
+          <div className="text-sm font-semibold text-indigo-600 dark:text-indigo-400">{w.meaning}</div>
+        </div>
+        {status && (
+          <span
+            className={cx('size-2.5 shrink-0 rounded-full', status === 'due' ? 'bg-rose-500' : 'bg-emerald-500')}
+            title={status === 'due' ? 'Cần ôn' : 'Đã học'}
+          />
+        )}
+        {hasForms && (
+          <button
+            type="button"
+            onClick={() => setOpen((o) => !o)}
+            aria-expanded={open}
+            aria-label={open ? 'Ẩn các dạng khác' : 'Xem các dạng khác của từ'}
+            title="Các dạng khác của từ"
+            className="rounded-xl p-2 text-slate-400 transition hover:bg-slate-100 hover:text-slate-600 dark:hover:bg-slate-800"
+          >
+            <ChevronDown className={cx('size-5 transition-transform', open && 'rotate-180')} />
+          </button>
+        )}
+        <SpeakButton text={w.term} lang={deck.lang} />
+        <SaveWordButton deck={deck} word={w} />
+      </div>
+      {open && <WordForms lang={deck.lang} term={w.term} className="mt-3 ml-14" />}
+    </li>
+  )
+}
 
 const EXERCISES = [
   {
@@ -76,8 +124,21 @@ function DeckOverview() {
   // Course lessons show their course level; topic decks their track.
   const courseLevel = deck.course?.split('-')[1] as CourseLevel | undefined
   const idioms = deck.category === 'idioms'
-  const GroupIcon = courseLevel ? COURSE_ICON[courseLevel] : idioms ? Scroll : TRACK_ICON[deck.track ?? 'work']
-  const groupLabel = courseLevel ? COURSE_LABEL[courseLevel] : idioms ? 'Thành ngữ' : TRACKS[deck.track ?? 'work'].label
+  const themes = deck.category === 'themes'
+  const GroupIcon = courseLevel
+    ? COURSE_ICON[courseLevel]
+    : idioms
+      ? Scroll
+      : themes
+        ? RedApple
+        : TRACK_ICON[deck.track ?? 'work']
+  const groupLabel = courseLevel
+    ? COURSE_LABEL[courseLevel]
+    : idioms
+      ? 'Thành ngữ'
+      : themes
+        ? 'Chủ đề từ vựng'
+        : TRACKS[deck.track ?? 'work'].label
 
   return (
     <div className="space-y-6">
@@ -88,6 +149,10 @@ function DeckOverview() {
       ) : idioms ? (
         <Link to="/idioms">
           <BackLabel>Thành ngữ</BackLabel>
+        </Link>
+      ) : themes ? (
+        <Link to="/themes">
+          <BackLabel>Chủ đề từ vựng</BackLabel>
         </Link>
       ) : (
         <Link to="/">
@@ -191,29 +256,7 @@ function DeckOverview() {
           {deck.words.map((w) => {
             const card = srs[cardKey(deck.id, w.id)]
             return (
-              <li
-                key={w.id}
-                className="flex items-center gap-3 px-4 py-3 transition hover:bg-slate-50 dark:hover:bg-slate-800/50"
-              >
-                <span className="flex size-11 shrink-0 items-center justify-center rounded-2xl bg-slate-100 text-2xl dark:bg-slate-800">
-                  {w.emoji ?? w.term.slice(0, 1)}
-                </span>
-                <div className="min-w-0 flex-1">
-                  <div className="flex flex-wrap items-baseline gap-x-2">
-                    <span className="text-lg font-bold">{w.term}</span>
-                    {w.reading && <span className="text-sm text-slate-500">{w.reading}</span>}
-                  </div>
-                  <div className="text-sm font-semibold text-indigo-600 dark:text-indigo-400">{w.meaning}</div>
-                </div>
-                {card && (
-                  <span
-                    className={cx('size-2.5 shrink-0 rounded-full', card.due <= now ? 'bg-rose-500' : 'bg-emerald-500')}
-                    title={card.due <= now ? 'Cần ôn' : 'Đã học'}
-                  />
-                )}
-                <SpeakButton text={w.term} lang={deck.lang} />
-                <SaveWordButton deck={deck} word={w} />
-              </li>
+              <WordRow key={w.id} deck={deck} word={w} status={card ? (card.due <= now ? 'due' : 'learned') : null} />
             )
           })}
         </ul>

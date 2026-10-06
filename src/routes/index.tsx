@@ -10,6 +10,7 @@ import {
   WorldMap,
   MASCOT,
   OpenBook,
+  RedApple,
   Scroll,
   SpeechBalloon,
   TRACK_ICON,
@@ -112,20 +113,10 @@ function Dashboard({ profile }: { profile: Profile }) {
   const offPathCount = otherDecks.length + otherCourses.length + otherPractice.length + Number(otherGrammar)
 
   const courseCard = (course: CourseSummary) => (
-    <CourseCard
-      key={course.id}
-      course={course}
-      learned={countFor(course.id).learned}
-      due={countFor(course.id).due}
-    />
+    <CourseCard key={course.id} course={course} learned={countFor(course.id).learned} due={countFor(course.id).due} />
   )
   const deckCard = (deck: TopicDeckSummary) => (
-    <DeckCard
-      key={deck.id}
-      deck={deck}
-      learned={countFor(deck.id).learned}
-      due={countFor(deck.id).due}
-    />
+    <DeckCard key={deck.id} deck={deck} learned={countFor(deck.id).learned} due={countFor(deck.id).due} />
   )
   const practiceGrid = (links: PracticeLink[]) => (
     <div className={cx('grid gap-2 sm:gap-3', links.length === 3 ? 'grid-cols-3' : 'grid-cols-2')}>
@@ -140,39 +131,36 @@ function Dashboard({ profile }: { profile: Profile }) {
     practice: practiceGrid(plan.practice),
     courses: coursesPending ? (
       <ContentSkeleton count={3} />
-    ) : langCourses.length > 0 && (
-      <>
-        <h3 className="flex items-center gap-2 pt-2 font-black">
-          <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
-        </h3>
-        <div className={cx('grid gap-3', langCourses.length === 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
-          {langCourses.map(courseCard)}
-        </div>
-      </>
+    ) : (
+      langCourses.length > 0 && (
+        <>
+          <h3 className="flex items-center gap-2 pt-2 font-black">
+            <WorldMap className="size-6" /> Lộ trình 3.000 từ mỗi cấp
+          </h3>
+          <div className={cx('grid gap-3', langCourses.length === 3 ? 'sm:grid-cols-3' : 'sm:grid-cols-2')}>
+            {langCourses.map(courseCard)}
+          </div>
+        </>
+      )
     ),
     topics: catalogPending ? (
       <ContentSkeleton count={4} />
-    ) : decks.length > 0 && (
-      <>
-        <h3 className="flex items-center gap-2 pt-2 font-black">
-          <TrackIcon className="size-6" /> Chủ đề cho nhóm {TRACKS[track].label}
-        </h3>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {decks.map((deck) => deckCard(deck))}
-        </div>
-      </>
+    ) : (
+      decks.length > 0 && (
+        <>
+          <h3 className="flex items-center gap-2 pt-2 font-black">
+            <TrackIcon className="size-6" /> Chủ đề cho nhóm {TRACKS[track].label}
+          </h3>
+          <div className="grid gap-3 sm:grid-cols-2">{decks.map((deck) => deckCard(deck))}</div>
+        </>
+      )
     ),
   }
 
   return (
     <div className="space-y-6">
       <DashboardHero name={name} todayXp={todayXp} dailyGoal={profile.dailyGoal} />
-      <DashboardStats
-        streak={streak}
-        xp={xp}
-        learned={stats?.totalLearned ?? '…'}
-        due={stats?.totalDue ?? '…'}
-      />
+      <DashboardStats streak={streak} xp={xp} learned={stats?.totalLearned ?? '…'} due={stats?.totalDue ?? '…'} />
 
       <section className="space-y-3">
         <div className="flex items-center justify-between gap-3">
@@ -220,12 +208,12 @@ function Dashboard({ profile }: { profile: Profile }) {
   )
 }
 
-const PRACTICE_LINKS: PracticeLink[] = ['talk', 'sentences', 'idioms']
+const PRACTICE_LINKS: PracticeLink[] = ['themes', 'talk', 'sentences', 'idioms']
 
 const PRACTICE: Record<
   PracticeLink,
   {
-    to: '/sentences' | '/talk' | '/idioms'
+    to: '/sentences' | '/talk' | '/idioms' | '/themes'
     Icon: IconType
     title: string
     hint: (lang: Lang) => string
@@ -245,6 +233,13 @@ const PRACTICE: Record<
     title: 'Giao tiếp',
     hint: () => 'Hội thoại, nhập vai',
     className: 'from-amber-400 to-orange-600',
+  },
+  themes: {
+    to: '/themes',
+    Icon: RedApple,
+    title: 'Chủ đề từ vựng',
+    hint: () => 'Trái cây, động vật, nghề nghiệp…',
+    className: 'from-lime-400 to-green-600',
   },
   idioms: {
     to: '/idioms',
@@ -281,7 +276,7 @@ function FeatureCard({
   hint,
   className,
 }: {
-  to: '/sentences' | '/talk' | '/idioms'
+  to: '/sentences' | '/talk' | '/idioms' | '/themes'
   Icon: IconType
   title: string
   hint: string

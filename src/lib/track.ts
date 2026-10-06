@@ -5,7 +5,7 @@ import type { CourseLevel, DialogueSummary, Lang, SentencePackSummary, Track } f
 /** Dashboard blocks, in the order a group sees them. */
 export type HomeSection = 'topics' | 'practice' | 'courses' | 'grammar'
 /** Entries of the "practice" block (the pages shared by every language). */
-export type PracticeLink = 'talk' | 'sentences' | 'idioms'
+export type PracticeLink = 'themes' | 'talk' | 'sentences' | 'idioms'
 
 export interface TrackPlan {
   home: HomeSection[]
@@ -28,20 +28,20 @@ export const EXAM: Record<Lang, string> = { en: 'IELTS', ja: 'JLPT', zh: 'HSK' }
 export const TRACK_PLAN: Record<Track, TrackPlan> = {
   kids: {
     home: ['topics', 'practice', 'courses'],
-    practice: ['talk', 'sentences'],
+    practice: ['themes', 'talk', 'sentences'],
     courses: ['basic'],
     sentenceLevels: { en: ['A1', 'A2'], ja: ['N5', 'N4'], zh: ['HSK1', 'HSK2'] },
     focus: () => 'Từ vựng qua hình, câu ngắn và hội thoại đơn giản',
   },
   work: {
     home: ['practice', 'topics', 'courses', 'grammar'],
-    practice: ['talk', 'sentences', 'idioms'],
+    practice: ['talk', 'sentences', 'themes', 'idioms'],
     courses: ['basic', 'intermediate', 'advanced', 'expert'],
     focus: () => 'Giao tiếp công sở, email, họp và đi công tác',
   },
   exam: {
     home: ['courses', 'grammar', 'topics', 'practice'],
-    practice: ['sentences', 'talk', 'idioms'],
+    practice: ['sentences', 'talk', 'themes', 'idioms'],
     courses: ['basic', 'intermediate', 'advanced', 'expert'],
     focus: (lang) => `Ôn thi ${EXAM[lang]}: từ vựng theo cấp độ, ngữ pháp, luyện câu`,
   },
@@ -58,9 +58,9 @@ export function partition<T>(items: T[], onPath: (item: T) => boolean): [T[], T[
   return [mine, others]
 }
 
-/** Decks the group plays with: its topic decks, plus idioms when idioms are on its path. */
+/** Decks the group plays with: its topic decks, plus idioms / theme decks when those are on its path. */
 export const deckOnPath = (track: Track, deck: TopicDeckSummary) =>
-  deck.category === 'idioms' ? TRACK_PLAN[track].practice.includes('idioms') : deck.track === track
+  deck.category ? TRACK_PLAN[track].practice.includes(deck.category) : deck.track === track
 
 export const packOnPath = (track: Track, pack: SentencePackSummary) =>
   TRACK_PLAN[track].sentenceLevels?.[pack.lang].includes(pack.level) ?? true

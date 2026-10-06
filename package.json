@@ -18,6 +18,7 @@
     "vocab:enrich": "node scripts/vocab/enrich.mjs",
     "vocab:draft": "node scripts/vocab/draft.mjs",
     "vocab:build": "node scripts/vocab/build.mjs && npm run catalog",
+    "vocab:words": "node scripts/vocab/word-info.mjs",
     "sources:download": "node scripts/sources/download.mjs",
     "sources:lookup": "node scripts/sources/lookup.mjs",
     "decks:check": "node scripts/sources/check-decks.mjs",

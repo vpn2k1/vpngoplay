@@ -326,6 +326,43 @@ Lưu ý:
 - Chưa có nguồn mở nào giải thích ngữ pháp tiếng Trung bằng tiếng Việt, và tiếng Nhật chỉ có phần N5–N4. Phần còn lại phải tự dịch; bản dịch từ nguồn CC BY-SA phải giữ CC BY-SA 4.0. Chinese Grammar Wiki (CC BY-NC-SA, cấm dùng trong app có quảng cáo) và Tae Kim (CC BY-NC-SA) không được đưa vào vì giấy phép phi thương mại.
 - Dữ liệu GPL và CC BY-SA chỉ nên dùng để đối chiếu. Nếu chép thẳng vào `public/`, phần đó phải giữ cùng giấy phép và ghi nguồn.
 
+## Chủ đề từ vựng (`/themes`)
+
+16 chủ đề cho cả 3 ngôn ngữ, mỗi chủ đề 32–36 từ thông dụng, tổng cộng 48 bộ, khoảng 1.660 từ:
+
+> trái cây · rau củ · động vật · sinh vật biển & côn trùng · món ăn · đồ uống & gia vị · cơ thể người · nghề nghiệp · quần áo & phụ kiện · đồ dùng trong nhà · phương tiện & giao thông · thể thao & sở thích · thiên nhiên & thời tiết · cảm xúc & tính cách · địa điểm trong thành phố · màu sắc & hình dạng
+
+- **Mỗi từ có:** phiên âm (IPA / kana / pinyin), nghĩa tiếng Việt, câu ví dụ có dịch, cùng loại từ và các dạng khác. Mỗi bộ có 6 câu luyện.
+- **Từ vựng gần gũi với người Việt:** có các loại quả quen thuộc như chôm chôm, nhãn, vải, thanh long, măng cụt, và các món như phở, nước mắm, rau muống.
+- **Kiểm tra:** nghĩa và cách đọc đã được đối chiếu bằng `npm run decks:check`. Các từ còn bị đánh dấu là từ hiện đại hoặc tên riêng mà từ điển cũ không có (trà sữa, thanh long…), đã được xem lại từng từ.
+- **Cách học:** đây là bộ từ bình thường (`public/decks/<lang>-theme-<chủ đề>.json`, `"category": "themes"`), nên dùng được cả 7 dạng ôn luyện và 27 trò chơi (nhóm "Chủ đề từ vựng" khi chọn bộ từ).
+- **Nơi hiển thị:** có trang riêng, vào từ thẻ **Chủ đề từ vựng** ở trang học. Mọi nhóm người học đều thấy; nhóm Trẻ em thấy thẻ này đầu tiên.
+
+## Loại từ & các dạng của từ
+
+Khi học, mỗi từ có nhãn loại từ (danh từ, động từ, tính từ…) và các dạng khác của từ đó:
+
+- **Nơi hiển thị:**
+  - mặt sau thẻ Flashcard;
+  - danh sách từ của bộ bài: nhãn nằm cạnh từ, bấm ⌄ để xem các dạng.
+  - Bấm vào một dạng để nghe đọc.
+- **Tiếng Anh:**
+  - Loại từ: CEFR-J / Octanove, các từ còn lại lấy theo từ điển Anh–Việt.
+  - Biến đổi: số nhiều, ngôi 3 số ít, quá khứ, quá khứ phân từ, V-ing, so sánh hơn / nhất. Dạng bất quy tắc (went, gone · children · better, best) lấy từ bảng động từ bất quy tắc và từ điển. Danh từ không đếm được (information, advice…) không có số nhiều.
+  - **Cùng họ từ:** decide → decision (n), decisive (adj), decisively (adv), kèm nghĩa tiếng Việt.
+    - Tìm bằng quy tắc hậu tố / tiền tố, và chỉ giữ khi từ mới cũng là từ thông dụng, đúng loại từ.
+    - Nghĩa tiếng Việt của hai từ phải có phần chung (decide và decision cùng có "quyết định"). Nhờ vậy các cặp chỉ giống chữ (man → manner, let → letter) bị loại.
+- **Tiếng Nhật** (JMdict):
+  - Loại từ: động từ nhóm I / II / III, tính từ đuôi い / な, danh từ, phó từ…
+  - Động từ có thể ます, て, た, ない và thể khả năng (書く → 書きます, 書いて, 書いた, 書かない, 書ける).
+  - Tính từ có dạng phủ định, quá khứ, thể て, dạng phó từ.
+  - Danh từ đi với する có dạng 勉強 → 勉強する.
+- **Tiếng Trung** (danh sách HSK 3.0):
+  - Loại từ, trong đó lượng từ / danh từ được xếp theo nghĩa trong bài: 笔 "cây bút" là danh từ, 个 là lượng từ.
+  - Chữ phồn thể (学校 → 學校).
+  - Từ ghép thường gặp kèm pinyin và nghĩa (电 → 电话, 电脑, 电视…).
+- **Dữ liệu:** `public/words/<lang>.json`, tạo bằng `npm run vocab:words` (cần các nguồn mở trong `data/sources/`, xem bên dưới). App chỉ tải file của một ngôn ngữ, lần đầu xem chi tiết từ (khoảng 130–250 KB sau khi nén). `src/lib/wordInfo.test.ts` kiểm tra các trường hợp tiêu biểu.
+
 ## Chấm đáp án (mọi ngôn ngữ như nhau)
 
 Mọi game đều chấm qua `src/lib/answer.ts`:

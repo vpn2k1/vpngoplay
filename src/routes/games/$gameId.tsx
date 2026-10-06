@@ -7,7 +7,7 @@ import { ALL_WORDS, combineDecks } from '../../arcade/challenge'
 import { ARCADE_GAMES, randomGameId, type ArcadeGame, type ArcadeGameId } from '../../arcade/games'
 import { vocabQuery } from '../../arcade/vocab'
 import { Bookmark, Dices, GraduationCap } from 'lucide-react'
-import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, Scroll, TRACK_ICON } from '../../components/icons'
+import { COURSE_ICON, FLAG, GAME_ICON, GlowingStar, RedApple, Scroll, TRACK_ICON } from '../../components/icons'
 import { cx } from '../../components/ui'
 import { catalogQuery, courseQuery, coursesQuery, deckQuery, decksQuery, type TopicDeckSummary } from '../../lib/api'
 import {
@@ -84,6 +84,7 @@ function GamePage() {
   // Every word set is offered alike: the learner's group doesn't pick or hide any of them here.
   const topicDecks = langDecks.filter((d) => !d.category)
   const idiomDecks = langDecks.filter((d) => d.category === 'idioms')
+  const themeDecks = langDecks.filter((d) => d.category === 'themes')
   const allSaved = useProgress((s) => s.saved)
   const savedWords = useMemo(() => {
     if (search.deck !== REVIEW_SAVED) return []
@@ -172,7 +173,7 @@ function GamePage() {
   }
 
   const deckChip = (d: TopicDeckSummary) => {
-    const Track = d.category === 'idioms' ? Scroll : TRACK_ICON[d.track]
+    const Track = d.category === 'idioms' ? Scroll : d.category === 'themes' ? RedApple : TRACK_ICON[d.track]
     return (
       <Link
         key={d.id}
@@ -186,7 +187,8 @@ function GamePage() {
         <span className="min-w-0">
           <span className="block truncate">{d.title}</span>
           <span className="block text-xs font-medium text-slate-500">
-            {d.category === 'idioms' ? 'Thành ngữ' : TRACKS[d.track].label} · {d.level} · {d.wordCount} từ
+            {d.category === 'idioms' ? 'Thành ngữ' : d.category === 'themes' ? 'Chủ đề từ vựng' : TRACKS[d.track].label}{' '}
+            · {d.level} · {d.wordCount} từ
           </span>
         </span>
       </Link>
@@ -263,6 +265,7 @@ function GamePage() {
             </Link>
             {topicDecks.map(deckChip)}
           </DeckGroup>
+          {themeDecks.length > 0 && <DeckGroup title="Chủ đề từ vựng">{themeDecks.map(deckChip)}</DeckGroup>}
           {idiomDecks.length > 0 && <DeckGroup title="Thành ngữ">{idiomDecks.map(deckChip)}</DeckGroup>}
         </fieldset>
       )}

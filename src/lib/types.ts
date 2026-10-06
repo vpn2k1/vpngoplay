@@ -32,8 +32,11 @@ export interface DeckSummary {
   /** Course lessons: the course id and lesson number */
   course?: string
   lesson?: number
-  /** Idiom decks are listed on their own page (/idioms) instead of with the topic decks */
-  category?: 'idioms'
+  /**
+   * Idiom decks (/idioms) and theme vocabulary decks (/themes: fruits, animals…) are listed on their
+   * own pages instead of with the topic decks
+   */
+  category?: 'idioms' | 'themes'
   /** Course lesson drafted from open dictionaries (scripts/vocab/draft.mjs), not yet reviewed */
   draft?: boolean
   level: string

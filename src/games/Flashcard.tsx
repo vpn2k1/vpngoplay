@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from 'motion/react'
 import { useEffect, useState } from 'react'
 import { SaveWordButton } from '../components/SaveWordButton'
+import { PosTags, WordForms } from '../components/WordInfo'
 import { Button, GameShell, ResultCard, SpeakButton, cx, starsFor } from '../components/ui'
 import { sfx } from '../lib/sfx'
 import { speak } from '../lib/speech'
@@ -158,13 +159,14 @@ export function Flashcard({ deck, onRestart }: { deck: Deck; onRestart: () => vo
               </button>
 
               {/* Back */}
-              <div className="absolute inset-0 flex rotate-y-180 flex-col items-center justify-center gap-2 overflow-y-auto rounded-[2rem] border-2 border-slate-200 bg-white p-6 text-center shadow-xl backface-hidden dark:border-slate-700 dark:bg-slate-900">
+              <div className="absolute inset-0 flex rotate-y-180 flex-col items-center justify-center-safe gap-2 overflow-y-auto rounded-[2rem] border-2 border-slate-200 bg-white p-6 text-center shadow-xl backface-hidden dark:border-slate-700 dark:bg-slate-900">
                 <div className="flex items-center gap-2">
                   <span className="text-4xl font-black">{word.term}</span>
                   <SpeakButton text={word.term} lang={deck.lang} />
                   <SaveWordButton deck={deck} word={word} />
                 </div>
                 {word.reading && <div className="text-lg text-slate-500">{word.reading}</div>}
+                <PosTags lang={deck.lang} term={word.term} className="justify-center" />
                 <div className="my-2 text-3xl font-extrabold text-indigo-600 dark:text-indigo-400">
                   {word.emoji} {word.meaning}
                 </div>
@@ -177,6 +179,7 @@ export function Flashcard({ deck, onRestart }: { deck: Deck; onRestart: () => vo
                     <div className="mt-0.5 text-sm text-slate-500">{word.exampleMeaning}</div>
                   </div>
                 )}
+                <WordForms lang={deck.lang} term={word.term} compact className="w-full px-1 pt-1" />
               </div>
             </motion.div>
           </motion.div>
